@@ -6,10 +6,9 @@ $ErrorActionPreference = "Stop"
 
 $action = New-ScheduledTaskAction -Execute "powershell.exe" `
     -Argument "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$env:USERPROFILE\Desktop\ai-tech-times\run_edition.ps1`""
-$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date -Hour 0 -Minute 0 -Second 0) `
-    -RepetitionInterval (New-TimeSpan -Hours 1) -RepetitionDuration ([TimeSpan]::MaxValue)
+$triggers = @(0..23 | ForEach-Object { New-ScheduledTaskTrigger -Daily -At (Get-Date -Hour $_ -Minute 0 -Second 0) })
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -DontStopOnIdleEnd -ExecutionTimeLimit (New-TimeSpan -Minutes 30)
-Register-ScheduledTask -TaskName "AI-Tech-Times-Edition" -Action $action -Trigger $trigger -Settings $settings `
+Register-ScheduledTask -TaskName "AI-Tech-Times-Edition" -Action $action -Trigger $triggers -Settings $settings `
     -Description "AI TECH TIMES news site: hourly edition (full at 7/12/17/21)" -Force | Out-Null
 
 $info = Get-ScheduledTaskInfo -TaskName "AI-Tech-Times-Edition"
