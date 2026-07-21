@@ -7,12 +7,13 @@ X_ENV_KEYS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
 
 
 def compose(articles: list[dict]) -> str:
-    lines = ["【今朝のAIニュース】"]
+    """おっちゃん文体(@ganmenmahi1020)。URLを入れると$0.20/回(テキストのみは$0.015)なのでURL禁止"""
+    lines = ["おはようさん。おっちゃんが今朝のニュース拾ってきたで。"]
     for a in articles[:3]:
-        lines.append(f"▶ {a['title']}")
-    lines.append(f"{BASE_URL}/")
-    lines.append("#AIニュース #生成AI")
-    return "\n".join(lines)[:270]
+        t = a["title"]
+        lines.append(f"▶ {t[:24]}{'…' if len(t) > 24 else ''}")
+    lines.append("続きはプロフのリンクからな。")
+    return "\n".join(lines)
 
 
 def post(articles: list[dict]) -> None:
