@@ -13,11 +13,12 @@ DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
 BASE_URL = "https://ai-tech-times.pages.dev"
-TAGLINE = "AI・インフルエンサー・世界の今を朝昼夕夜の1日4回お届け。AI編集部が自動更新。"
+TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の今を1日4回お届け。AI編集部が自動更新。"
 JST = timezone(timedelta(hours=9))
 
-NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/influencer.html", "インフルエンサー"),
-       ("/world.html", "時事・世界"), ("/buzz.html", "バズ動画TOP10")]
+NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/silicon.html", "シリコンバレー"),
+       ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
+       ("/buzz.html", "バズ動画TOP10")]
 
 CSS = """
 :root{--bg:#0d1117;--card:#161b22;--border:#30363d;--text:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--accent2:#f78166;--gold:#e3b341}
@@ -48,6 +49,10 @@ article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
 footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
 .back{display:inline-block;margin:20px 0;font-size:.9rem}
+.breaking{background:var(--card);border:1px solid var(--accent2);border-radius:10px;padding:12px 16px;margin-bottom:20px;font-size:.9rem}
+.breaking .bk-label{color:var(--accent2);font-weight:800;margin-right:8px}
+.breaking a{color:var(--text);display:block;padding:3px 0}
+.breaking a:hover{color:var(--accent)}
 .rank-card{display:flex;gap:16px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;margin-bottom:14px;align-items:center}
 .rank-card:hover{border-color:var(--accent)}
 .rank-no{font-size:1.6rem;font-weight:800;color:var(--gold);min-width:2.2rem;text-align:center}
@@ -261,8 +266,14 @@ def build() -> None:
     DOCS.mkdir(exist_ok=True)
     (DOCS / "articles").mkdir(exist_ok=True)
     (DOCS / "style.css").write_text(CSS, encoding="utf-8")
+    e = html.escape
+    breaking = ""
+    if arts:
+        latest = "".join(
+            f'<a href="{BASE_URL}{a["path"]}">▶ {e(a["title"])}</a>' for a in arts[:3])
+        breaking = f'<div class="breaking"><span class="bk-label">速報</span>最新便 {arts[0].get("time", "")} 更新{latest}</div>'
     (DOCS / "index.html").write_text(
-        _page(f"{SITE_NAME} — {TAGLINE}", TAGLINE, "/", _cards(arts[:60])), encoding="utf-8")
+        _page(f"{SITE_NAME} — {TAGLINE}", TAGLINE, "/", breaking + _cards(arts[:60])), encoding="utf-8")
     for cat, label in CATEGORIES.items():
         cat_arts = [a for a in arts if a.get("category", "ai") == cat]
         (DOCS / f"{cat}.html").write_text(

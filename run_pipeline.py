@@ -29,6 +29,7 @@ def main() -> int:
             try:
                 articles.append(editor.write_article(p))
                 orig_titles.append(p["title"])
+                recent_titles.append(p["title"])  # 同じ便の後続カテゴリでの重複選定を防ぐ
             except Exception as e:
                 print(f"  執筆失敗({p['title']}): {e}")
 

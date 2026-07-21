@@ -27,6 +27,10 @@ article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
 footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
 .back{display:inline-block;margin:20px 0;font-size:.9rem}
+.breaking{background:var(--card);border:1px solid var(--accent2);border-radius:10px;padding:12px 16px;margin-bottom:20px;font-size:.9rem}
+.breaking .bk-label{color:var(--accent2);font-weight:800;margin-right:8px}
+.breaking a{color:var(--text);display:block;padding:3px 0}
+.breaking a:hover{color:var(--accent)}
 .rank-card{display:flex;gap:16px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;margin-bottom:14px;align-items:center}
 .rank-card:hover{border-color:var(--accent)}
 .rank-no{font-size:1.6rem;font-weight:800;color:var(--gold);min-width:2.2rem;text-align:center}

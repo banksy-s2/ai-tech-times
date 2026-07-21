@@ -14,6 +14,7 @@ POSTED_FILE = DATA_DIR / "posted_urls.json"
 # カテゴリ定義(key → 表示名)。追加はここと SOURCES / PICKS_PER_CATEGORY へ
 CATEGORIES = {
     "ai": "AI",
+    "silicon": "シリコンバレー最速",
     "influencer": "インフルエンサー",
     "world": "時事・世界",
 }
@@ -29,6 +30,13 @@ SOURCES = {
         ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
         ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
         ("HN: AI/LLM", "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&points=80"),
+    ],
+    "silicon": [
+        ("Techmeme", "https://www.techmeme.com/feed.xml"),
+        ("TechCrunch", "https://techcrunch.com/feed/"),
+        ("The Verge", "https://www.theverge.com/rss/index.xml"),
+        ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
+        ("CNBC Tech", "https://www.cnbc.com/id/19854910/device/rss/rss.html"),
     ],
     "influencer": [
         ("Googleニュース: インフルエンサー",
