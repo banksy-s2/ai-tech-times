@@ -87,9 +87,10 @@ try {
     # --- deploy (must succeed, otherwise articles are invisible) ---
     # NOTE: under Task Scheduler, env-var based paths resolved wrong (APPDATA mystery).
     # Use hardcoded literal paths, try multiple strategies, log environment for diagnosis.
-    Log ("env check: APPDATA=" + $env:APPDATA + " USER=" + $env:USERNAME + " js exists=" + (Test-Path "C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js"))
+    Log ("env check: local-js=" + (Test-Path "C:\Users\User\Desktop\ai-tech-times\tools\firebase-tools\lib\bin\firebase.js") + " npm-js=" + (Test-Path "C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js") + " cfg=" + (Test-Path "C:\Users\User\.config\configstore\firebase-tools.json"))
     $fbArgs = @("deploy", "--only", "hosting", "--project", "ai-tech-times", "--non-interactive")
     $strategies = @(
+        @{n="node-local"; exe="C:\Program Files\nodejs\node.exe"; pre=@("C:\Users\User\Desktop\ai-tech-times\tools\firebase-tools\lib\bin\firebase.js")},
         @{n="node-direct"; exe="C:\Program Files\nodejs\node.exe"; pre=@("C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js")},
         @{n="firebase-cmd"; exe="C:\Users\User\AppData\Roaming\npm\firebase.cmd"; pre=@()},
         @{n="cmd-shell"; exe="C:\Windows\System32\cmd.exe"; pre=@("/c", "C:\Users\User\AppData\Roaming\npm\firebase.cmd")}
