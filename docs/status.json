@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-22 04:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-22 05:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "YouTuberが案件詐欺でほぼ全財産喪失、怪しいDMの罠",
-   "path": "/articles/20260722-youtuber-scam-loss.html",
-   "cat": "インフルエンサー"
+   "title": "円相場が一時1ドル＝163円台に値下がり、39年半ぶりの円安水準へ",
+   "path": "/articles/20260722-yen-drops-to-163-per-dollar.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "韓国海洋警察、7月22日に竹島で音楽会を開催",
+   "path": "/articles/20260722-korea-coast-guard-takeshima-concert.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
