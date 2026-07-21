@@ -1179,5 +1179,161 @@
   "date": "2026-07-22",
   "time": "06:00",
   "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html"
+ },
+ {
+  "title": "ITmedia AI+：AIトークン消費24倍の衝撃とコスト対策の3条件",
+  "lead": "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面しています。将来的なトークン消費の急増を見据え、組織が見直すべき視点とは何でしょうか。",
+  "body": [
+   "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面しています。将来的なトークン消費の急増を見据え、組織が今見直すべき視点とは何かが問われています。",
+   "本番運用に向けて絶対に“やってはいけない”コストの捉え方があり、多くの企業が直面する課題となっています。将来的なトークン消費の急増を見据えた対策が必要不可欠です。",
+   "この記事では、実運用を持続させるための「3つの条件」を解説しています。コストと統制の壁を乗り越え、持続可能なAI活用を実現するためのポイントを確認していきましょう。"
+  ],
+  "tags": [
+   "AI",
+   "ITmedia",
+   "コスト管理",
+   "本番運用"
+  ],
+  "slug": "ai-token-consumption-cost-strategy",
+  "people": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-ai-token-consumption-cost-strategy.html"
+ },
+ {
+  "title": "CursorのAI開発、コスト8分の1に抑える秘策",
+  "lead": "AI向けコードエディター「Cursor」を開発するAnysphereが、大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。",
+  "body": [
+   "AI向けコードエディター「Cursor」を開発するAnysphereは、2026年7月20日に大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。今回の実験では、計画役に最も高性能なAIモデルを割り当て、実際の作業には高速で安価なモデルを使用するという検証を行いました。",
+   "その結果、すべての役割に高性能モデルを使った場合とほぼ同じ品質を保ちながら、費用を約8分の1にまで大幅に削減することに成功したとのことです。",
+   "複雑な大規模AIプロジェクトにおいて、モデルの特性に応じた適切な役割分担を行うことが、品質を維持したままコストを劇的に下げる有効な手段であることが示されました。"
+  ],
+  "tags": [
+   "Cursor",
+   "AIエージェント",
+   "コスト削減"
+  ],
+  "slug": "cursor-agent-swarm-cost-reduction",
+  "people": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-cursor-agent-swarm-cost-reduction.html"
+ },
+ {
+  "title": "Super Micro、Q4受注が600億ドル突破で株価13%超急騰",
+  "lead": "Super Micro Computerが第4四半期の受注が600億ドルを突破し、粗利益率の予想も上方修正したと発表しました。この発表を受け、時間外取引で同社の株価が13%超急騰しています。",
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。海外メディアの報道によると、Super Micro Computerは火曜日、第4四半期の受注額が600億ドルを突破したことを明らかにしました。",
+   "さらに同社は、粗利益率について従来の予想である8.2%から8.4%から、15%から17%へと大幅に引き上げる見通しを示しています。",
+   "この好決算と予想の上方修正を受け、市場では買いが殺到し、同社の株価（SMCI）は時間外取引で13%を超える急騰を見せました。今後の動向に引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "Super Micro",
+   "決算速報",
+   "株価急騰"
+  ],
+  "slug": "super-micro-q4-orders-60b-smci-jumps",
+  "people": [],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260721/p45#a260721p45",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html"
+ },
+ {
+  "title": "AMDが新型AIラック「Helios」投入、マイクロソフトも参入でエヌビディアに挑む",
+  "lead": "AMDは、エヌビディアに対抗する同社初のAIラックシステム「Helios」を投入しました。新たにマイクロソフトが購入企業に加わっています。",
+  "body": [
+   "米CNBC Techによると、AMDはエヌビディアを標的とした同社初となるAIラックシステム「Helios」を発表しました。AI分野での競争が激化する中、強力な製品展開でシェア拡大を目指す狙いがあります。",
+   "今回の発表に伴い、新たにマイクロソフトが顧客として加わりました。マイクロソフトは、世界最大級のソフトウェア企業であり、クラウドサービスやAI開発を積極的に推進していることで知られています。",
+   "なお、Heliosの購入企業としてはすでにメタ、オープンAI、オラクルが名を連ねており、今回のマイクロソフトの参入によって、主要なテック企業におけるAMD製AIシステムの採用がさらに広がる形となります。"
+  ],
+  "tags": [
+   "AMD",
+   "マイクロソフト",
+   "エヌビディア",
+   "AI"
+  ],
+  "slug": "amd-helios-microsoft-ai-nvidia",
+  "people": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-amd-helios-microsoft-ai-nvidia.html"
+ },
+ {
+  "title": "ホロライブ運営、カスハラ対策方針を公開",
+  "lead": "VTuberグループ「ホロライブ」の運営会社が、カスタマーハラスメントに対する対策方針を公開しました。",
+  "body": [
+   "VTuberグループ「ホロライブ」の運営会社が、カスタマーハラスメントに関する対策方針を新たに公開しました。",
+   "今回の発表では、タレントの活動内容に対する根拠の無い変更要求などに対して、法的対応を含めた厳正な措置をとる姿勢が示されています。",
+   "ファンや視聴者との健全な関係性を維持するため、悪質な要求や迷惑行為に対して毅然とした対応を行う方針です。"
+  ],
+  "tags": [
+   "ホロライブ",
+   "VTuber",
+   "カスハラ対策"
+  ],
+  "slug": "hololive-customer-harassment-policy",
+  "people": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlNlZWp2U0R4d2JzZlRYS3UzRmdmZmdlTHRkUVktWS1FWmRBLVZ6TFAyT19fak1XamN6WVdXa3hlbHlpTC0zYjdKZ0ZRdTdVZWlDWTBuNlh0b0JhUXJXTzJtdExINThJQnhZV3M5UXNiSk40UEdYRnYyU3dTRjQ?oc=5",
+  "category": "influencer",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-hololive-customer-harassment-policy.html"
+ },
+ {
+  "title": "ニチレイにハッカー集団犯行声明、どうなる出荷業務",
+  "lead": "システム障害が発生している冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が犯行声明を出したことが分かりました。",
+  "body": [
+   "システム障害が発生し、出荷などの業務に影響が出ている冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が21日夜、犯行声明を出したことがセキュリティー会社への取材で判明しました。",
+   "今回の攻撃は「ランサムウエア」によるものとみられており、ニチレイの業務への深刻な影響が懸念されています。",
+   "セキュリティー会社によると、ハッカー集団による犯行声明が出されたことで、今後の対応やシステム復旧に向けた動きが注目されています。"
+  ],
+  "tags": [
+   "ニチレイ",
+   "サイバー攻撃",
+   "ランサムウエア"
+  ],
+  "slug": "nichirei-cyber-attack-ransomware",
+  "people": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182261000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-nichirei-cyber-attack-ransomware.html"
+ },
+ {
+  "title": "国民会議実務者会議、食料品消費税減税の議論再開も難航予想",
+  "lead": "「骨太の方針」が決定される中、超党派の「国民会議」の実務者会議が22日に食料品の消費税減税の扱いについて議論を再開します。",
+  "body": [
+   "「骨太の方針」が決定される中、超党派の「国民会議」の実務者会議は22日、食料品の消費税減税の扱いについて議論を再開します。",
+   "しかし、各党の間では意見の隔たりが埋まっていない状況が続いています。",
+   "このため、中間とりまとめに向けた調整は難航が予想されています。"
+  ],
+  "tags": [
+   "消費税減税",
+   "国民会議",
+   "政治"
+  ],
+  "slug": "food-consumption-tax-cut-meeting",
+  "people": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182071000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "07:02",
+  "path": "/articles/20260722-food-consumption-tax-cut-meeting.html"
  }
 ]
