@@ -13,7 +13,7 @@ DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
 BASE_URL = "https://banksy-s2.github.io/ai-tech-times"
-TAGLINE = "AI・インフルエンサー・世界の今を毎朝7時にお届け。AI編集部が自動更新。"
+TAGLINE = "AI・インフルエンサー・世界の今を朝昼夕夜の1日4回お届け。AI編集部が自動更新。"
 JST = timezone(timedelta(hours=9))
 
 NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/influencer.html", "インフルエンサー"),
@@ -147,7 +147,7 @@ def _article_html(a: dict) -> str:
     body = f"""<a class="back" href="{BASE_URL}/">← トップに戻る</a>
 <article>
 <h1>{e(a['title'])}</h1>
-<div class="meta"><span class="cat">{cat}</span>{a['date']} / {tags}</div>
+<div class="meta"><span class="cat">{cat}</span>{a['date']} {a.get('time', '')} / {tags}</div>
 <div class="lead">{e(a['lead'])}</div>
 {paragraphs}
 <div class="source">出典: <a href="{e(a['source_url'])}" rel="noopener" target="_blank">{e(a['source'])} — 元記事を読む</a></div>
@@ -196,7 +196,7 @@ def _about_html() -> str:
 <h1>このサイトについて</h1>
 <p>{SITE_NAME}は、AI編集部(生成AI)が国内外のメディアのRSSとYouTube急上昇を毎朝巡回し、AI・インフルエンサー・時事の重要ニュースと世界のバズ動画を選定・執筆している自動運営ニュースサイトです。</p>
 <p>記事は元記事の要約に基づいて生成されており、各記事の末尾に必ず出典リンクを明記しています。正確な情報は出典元をご確認ください。</p>
-<p>更新: 毎朝7時(JST) / 運営: AI TECH TIMES 編集部</p>
+<p>更新: 毎日4回(朝7時・昼12時半・夕方5時半・夜9時半 JST) / 運営: AI TECH TIMES 編集部</p>
 </article>"""
     return _page(f"このサイトについて | {SITE_NAME}", f"{SITE_NAME}の運営方針", "/about.html", body)
 
@@ -207,7 +207,7 @@ def _feed_xml(arts: list[dict]) -> str:
 <title>{e(a['title'])}</title>
 <link>{BASE_URL}{a['path']}</link>
 <guid>{BASE_URL}{a['path']}</guid>
-<pubDate>{datetime.strptime(a['date'], '%Y-%m-%d').replace(tzinfo=JST).strftime('%a, %d %b %Y 07:00:00 +0900')}</pubDate>
+<pubDate>{datetime.strptime(a['date'], '%Y-%m-%d').replace(tzinfo=JST).strftime('%a, %d %b %Y') + f" {a.get('time', '07:00')}:00 +0900"}</pubDate>
 <category>{e(CATEGORIES.get(a.get('category', 'ai'), 'AI'))}</category>
 <description>{e(a['lead'])}</description>
 </item>""" for a in arts[:30])
@@ -256,7 +256,7 @@ def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
 
 
 def build() -> None:
-    arts = sorted(_load(), key=lambda a: a["date"], reverse=True)
+    arts = sorted(_load(), key=lambda a: (a["date"], a.get("time", "")), reverse=True)
     buzz_data = buzz.load()
     DOCS.mkdir(exist_ok=True)
     (DOCS / "articles").mkdir(exist_ok=True)
@@ -284,11 +284,16 @@ def build() -> None:
 def save_articles(new_arts: list[dict]) -> None:
     arts = _load()
     known = {a["path"] for a in arts}
-    today = datetime.now(JST).strftime("%Y-%m-%d")
+    now = datetime.now(JST)
+    today = now.strftime("%Y-%m-%d")
     for a in new_arts:
         a["date"] = today
+        a["time"] = now.strftime("%H:%M")
         a["path"] = f"/articles/{today.replace('-', '')}-{a['slug']}.html"
+        if a["path"] in known:  # 同日別便で同スラッグが出たら時刻を付けて別記事として残す
+            a["path"] = f"/articles/{today.replace('-', '')}-{a['slug']}-{now.strftime('%H%M')}.html"
         if a["path"] not in known:
             arts.append(a)
+            known.add(a["path"])
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(arts, ensure_ascii=False, indent=1), encoding="utf-8")

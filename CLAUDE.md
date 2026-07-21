@@ -10,7 +10,7 @@
 - `src/buzz.py` — YouTube Data API(急上昇×6地域)で世界バズ動画TOP10集計 → `data/buzz.json`。`YOUTUBE_API_KEY` 未設定ならスキップ
 - `src/build.py` — `data/` → `docs/` に静的サイト全再生成(カテゴリ別ページ+buzz.html+JSON-LD/OGP/sitemap/llms.txt/RSS/robots)
 - `src/announce.py` — X告知。4つのXトークンsecretsが全部あるときだけ投稿、なければスキップ
-- `.github/workflows/daily.yml` — 毎朝7:00 JST(22:00 UTC)cron。data/とdocs/をcommit&push
+- `.github/workflows/daily.yml` — 1日4回cron(朝7:00/昼12:30/夕方17:30/夜21:30 JST)。data/とdocs/をcommit&push
 
 ## 運用ルール
 

@@ -2,7 +2,10 @@ name: daily-news
 
 on:
   schedule:
-    - cron: "0 22 * * *"  # 毎朝7:00 JST
+    - cron: "0 22 * * *"   # 朝  7:00 JST
+    - cron: "30 3 * * *"   # 昼 12:30 JST
+    - cron: "30 8 * * *"   # 夕方 17:30 JST
+    - cron: "30 12 * * *"  # 夜 21:30 JST
   workflow_dispatch:
 
 permissions:

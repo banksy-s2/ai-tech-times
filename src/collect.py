@@ -109,9 +109,26 @@ def _parse_feed(source: str, raw: bytes) -> list[dict]:
     return items
 
 
+def _load_posted() -> dict:
+    """既報台帳。旧形式(URLのみのlist)からも読めるようにする"""
+    if not POSTED_FILE.exists():
+        return {"urls": [], "titles": []}
+    data = json.loads(POSTED_FILE.read_text(encoding="utf-8"))
+    if isinstance(data, list):
+        return {"urls": data, "titles": []}
+    return data
+
+
+def _norm_title(t: str) -> str:
+    """媒体名サフィックス(「- Yahoo!ニュース」等)を落として比較用に正規化"""
+    return re.split(r"\s+[-–|｜]\s+", t.strip())[0].lower()
+
+
 def collect(category: str) -> list[dict]:
-    """指定カテゴリのソースを巡回し、新鮮で未報の候補を返す"""
-    posted = set(json.loads(POSTED_FILE.read_text(encoding="utf-8"))) if POSTED_FILE.exists() else set()
+    """指定カテゴリのソースを巡回し、新鮮で未報の候補を返す(URLとタイトル両方で既報判定)"""
+    posted = _load_posted()
+    posted_urls = set(posted["urls"])
+    posted_titles = {_norm_title(t) for t in posted["titles"]}
     cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
     candidates, seen = [], set()
     for source, url in SOURCES[category]:
@@ -128,7 +145,9 @@ def collect(category: str) -> list[dict]:
                     dt = dt.replace(tzinfo=timezone.utc)
                 if dt < cutoff:
                     continue
-            if it["url"] in posted or it["url"] in seen:
+            if it["url"] in posted_urls or it["url"] in seen:
+                continue
+            if _norm_title(it["title"]) in posted_titles:  # 別URLで同じ記事が再登場するケース
                 continue
             if category == "ai":
                 text = f"{it['title']} {it['summary']}"
@@ -142,8 +161,9 @@ def collect(category: str) -> list[dict]:
     return candidates
 
 
-def mark_posted(urls: list[str]) -> None:
-    posted = json.loads(POSTED_FILE.read_text(encoding="utf-8")) if POSTED_FILE.exists() else []
-    posted = (posted + urls)[-2000:]
+def mark_posted(urls: list[str], titles: list[str]) -> None:
+    posted = _load_posted()
+    posted["urls"] = (posted["urls"] + urls)[-2000:]
+    posted["titles"] = (posted["titles"] + titles)[-2000:]
     POSTED_FILE.parent.mkdir(parents=True, exist_ok=True)
     POSTED_FILE.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")

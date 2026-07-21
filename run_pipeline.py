@@ -9,7 +9,9 @@ from src import announce, build, buzz, collect, editor
 
 
 def main() -> int:
-    articles = []
+    published = build._load()
+    recent_titles = [a["title"] for a in published[-40:]]
+    articles, orig_titles = [], []
     for cat, label in collect.CATEGORIES.items():
         print(f"[収集: {label}] (久遠)")
         candidates = collect.collect(cat)
@@ -18,7 +20,7 @@ def main() -> int:
             continue
         print(f"[選定・執筆: {label}] (真行寺)")
         try:
-            picks = editor.select(candidates, cat)
+            picks = editor.select(candidates, cat, recent_titles)
         except Exception as e:
             print(f"  選定失敗(スキップ): {e}")
             continue
@@ -26,6 +28,7 @@ def main() -> int:
             print(f"  OK [{p['source']}] {p['title']}")
             try:
                 articles.append(editor.write_article(p))
+                orig_titles.append(p["title"])
             except Exception as e:
                 print(f"  執筆失敗({p['title']}): {e}")
 
@@ -42,7 +45,8 @@ def main() -> int:
     print("[サイト生成] (八重樫)")
     if articles:
         build.save_articles(articles)
-        collect.mark_posted([a["source_url"] for a in articles])
+        collect.mark_posted([a["source_url"] for a in articles],
+                            orig_titles + [a["title"] for a in articles])
     build.build()
 
     if not articles and not videos:

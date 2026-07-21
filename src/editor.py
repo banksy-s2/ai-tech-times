@@ -8,8 +8,8 @@ import urllib.request
 MODEL = "gemini-flash-latest"  # 無料枠で動く唯一のモデル(2.0-flashは枠0で429)
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
-# カテゴリごとの1日の掲載本数と選定基準
-PICKS_PER_CATEGORY = {"ai": 3, "influencer": 2, "world": 3}
+# カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
+PICKS_PER_CATEGORY = {"ai": 2, "influencer": 1, "world": 2}
 
 SELECT_CRITERIA = {
     "ai": """- 大手AI企業の新モデル/新製品発表、業界に影響する出来事を優先
@@ -58,17 +58,21 @@ def _parse_json(text: str):
     return json.loads(text)
 
 
-def select(candidates: list[dict], category: str) -> list[dict]:
-    """カテゴリごとの基準でトップN本を選定。話題の重複を避け、ニュース価値の高い順"""
+def select(candidates: list[dict], category: str, recent_titles: list[str] | None = None) -> list[dict]:
+    """カテゴリごとの基準でトップN本を選定。既報の話題と候補内の重複を避ける"""
     n = PICKS_PER_CATEGORY[category]
     listing = "\n".join(
         f"{i}: [{c['source']}] {c['title']} — {c['summary'][:150]}"
         for i, c in enumerate(candidates))
+    recent = ""
+    if recent_titles:
+        joined = "\n".join(f"- {t}" for t in recent_titles[-30:])
+        recent = f"\n\n既に掲載済みの記事(同じ話題・同じ出来事は絶対に選ばない):\n{joined}"
     prompt = f"""あなたはニュースサイトの編集長です。以下の候補記事から、日本の読者にとってニュース価値が最も高い{n}本を選んでください。
 
 ルール:
 - 同じ話題(同じ発表を扱った記事)は1本だけ選ぶ
-{SELECT_CRITERIA[category]}
+{SELECT_CRITERIA[category]}{recent}
 
 候補:
 {listing}
