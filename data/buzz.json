@@ -2,27 +2,10 @@
  "date": "2026-07-21",
  "videos": [
   {
-   "id": "Hb06Iem3FWg",
-   "title": "BTS (방탄소년단) 'NORMAL' Live Clip",
-   "channel": "BANGTANTV",
-   "views": 1598544,
-   "url": "https://www.youtube.com/watch?v=Hb06Iem3FWg",
-   "thumb": "https://i.ytimg.com/vi/Hb06Iem3FWg/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "KR",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "BTSの新曲「NORMAL」のライブクリップが公開されました。"
-  },
-  {
    "id": "GEk4jHwfFTA",
    "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
    "channel": "HYBE LABELS",
-   "views": 6912004,
+   "views": 7076806,
    "url": "https://www.youtube.com/watch?v=GEk4jHwfFTA",
    "thumb": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
    "regions": [
@@ -31,14 +14,14 @@
     "KR",
     "IN"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "BTSの新曲「NORMAL」の公式ミュージックビデオです。"
   },
   {
    "id": "irVNGjRFZGk",
    "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 35288853,
+   "views": 36508785,
    "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
    "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
    "regions": [
@@ -46,14 +29,29 @@
     "GB",
     "IN"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
+  },
+  {
+   "id": "Hb06Iem3FWg",
+   "title": "BTS (방탄소년단) 'NORMAL' Live Clip",
+   "channel": "BANGTANTV",
+   "views": 1717830,
+   "url": "https://www.youtube.com/watch?v=Hb06Iem3FWg",
+   "thumb": "https://i.ytimg.com/vi/Hb06Iem3FWg/hqdefault.jpg",
+   "regions": [
+    "US",
+    "KR",
+    "BR"
+   ],
+   "rank": 3,
+   "comment": "BTSの新曲「NORMAL」のライブクリップが公開されました。"
   },
   {
    "id": "CxN85kBZiI8",
    "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
    "channel": "Zee Music Company",
-   "views": 1895738,
+   "views": 3122680,
    "url": "https://www.youtube.com/watch?v=CxN85kBZiI8",
    "thumb": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
    "regions": [
@@ -64,52 +62,52 @@
    "comment": "映画『Toxic』より、新曲「Madhosh」の映像です。"
   },
   {
-   "id": "9iGjes4n1iA",
-   "title": "Asalayavale - Lyric Video | Khalifa | Prithviraj Sukumaran|Malvika Sharma | Jakes Bejoy x Sid Sriram",
-   "channel": "Sony Music Malayalam",
-   "views": 1285484,
-   "url": "https://www.youtube.com/watch?v=9iGjes4n1iA",
-   "thumb": "https://i.ytimg.com/vi/9iGjes4n1iA/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "rank": 5,
-   "comment": "映画『Khalifa』より、新曲「Asalayavale」の歌詞動画。"
-  },
-  {
    "id": "Kc3MeC5xoxE",
    "title": "PLAYING GTA V UNTIL I BEAT IT DAY 2",
    "channel": "Jynxzi",
-   "views": 1262515,
+   "views": 1280233,
    "url": "https://www.youtube.com/watch?v=Kc3MeC5xoxE",
    "thumb": "https://i.ytimg.com/vi/Kc3MeC5xoxE/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 5,
    "comment": "人気配信者JynxziによるGTA Vの挑戦企画2日目です。"
   },
   {
    "id": "JjT7hGTRr1E",
    "title": "Avengers: Doomsday Trailer BREAKDOWN - Marvel Easter Eggs You Missed!",
    "channel": "ScreenCrush",
-   "views": 1177668,
+   "views": 1260683,
    "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
    "thumb": "https://i.ytimg.com/vi/JjT7hGTRr1E/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "『アベンジャーズ：ドゥームズデイ』予告編の徹底解説。"
+  },
+  {
+   "id": "I9tX-lFUTrw",
+   "title": "Yeh Awarapan | Emraan Hashmi, Disha Patani | Vishesh Bhatt | Amaal, Arijit, Rashmi Virag| Awarapan 2",
+   "channel": "Sony Music India",
+   "views": 1235467,
+   "url": "https://www.youtube.com/watch?v=I9tX-lFUTrw",
+   "thumb": "https://i.ytimg.com/vi/I9tX-lFUTrw/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 7,
+   "comment": "映画『Awarapan 2』より、新曲「Yeh Awarapan」の映像。"
   },
   {
    "id": "Nx-e-AaCNPE",
    "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
    "channel": "New Rockstars",
-   "views": 960327,
+   "views": 1116447,
    "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
    "thumb": "https://i.ytimg.com/vi/Nx-e-AaCNPE/hqdefault.jpg",
    "regions": [
@@ -120,32 +118,32 @@
    "comment": "『アベンジャーズ：ドゥームズデイ』予告編の考察動画です。"
   },
   {
-   "id": "I9tX-lFUTrw",
-   "title": "Yeh Awarapan | Emraan Hashmi, Disha Patani | Vishesh Bhatt | Amaal, Arijit, Rashmi Virag| Awarapan 2",
-   "channel": "Sony Music India",
-   "views": 893855,
-   "url": "https://www.youtube.com/watch?v=I9tX-lFUTrw",
-   "thumb": "https://i.ytimg.com/vi/I9tX-lFUTrw/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "rank": 9,
-   "comment": "映画『Awarapan 2』より、新曲「Yeh Awarapan」の映像。"
-  },
-  {
    "id": "IiaY7oU3Pnw",
    "title": "FLEE THE FACILITY with ADMIN COMMANDS",
    "channel": "Flamingo",
-   "views": 457772,
+   "views": 508361,
    "url": "https://www.youtube.com/watch?v=IiaY7oU3Pnw",
    "thumb": "https://i.ytimg.com/vi/IiaY7oU3Pnw/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 10,
+   "rank": 9,
    "comment": "ゲーム「Flee the Facility」で管理者権限を使う実況。"
+  },
+  {
+   "id": "NySBAMooqOc",
+   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
+   "channel": "BANGTANTV",
+   "views": 455422,
+   "url": "https://www.youtube.com/watch?v=NySBAMooqOc",
+   "thumb": "https://i.ytimg.com/vi/NySBAMooqOc/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP"
+   ],
+   "rank": 10,
+   "comment": "BTSの楽曲「NORMAL」のMV撮影の裏側を収めた映像のようです。"
   }
  ]
 }
