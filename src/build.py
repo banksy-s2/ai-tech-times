@@ -61,6 +61,8 @@ main{margin-top:28px}
 .meta{font-size:.78rem;color:var(--muted);margin-top:10px}
 .tag{display:inline-block;background:#1f2937;border-radius:20px;padding:1px 10px;margin-right:6px;font-size:.75rem;color:var(--accent)}
 .cat{display:inline-block;background:var(--accent2);color:#0d1117;border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.72rem;font-weight:700}
+.newb{display:inline-block;background:#d93636;color:#fff;border-radius:4px;padding:1px 7px;margin-right:8px;font-size:.7rem;font-weight:800;vertical-align:middle;animation:newpulse 1.6s infinite}
+@keyframes newpulse{50%{opacity:.55}}
 article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
@@ -138,6 +140,15 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 </html>"""
 
 
+def _is_new(a: dict) -> bool:
+    """直近3時間以内の記事にNEWバッジ(毎時再生成で自動的に付いて外れる)"""
+    try:
+        ts = datetime.strptime(f"{a['date']} {a.get('time', '07:00')}", "%Y-%m-%d %H:%M").replace(tzinfo=JST)
+        return (datetime.now(JST) - ts) <= timedelta(hours=3)
+    except ValueError:
+        return False
+
+
 def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
     e = html.escape
     out, last_date = [], None
@@ -147,8 +158,9 @@ def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
             last_date = a["date"]
         tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
         cat = CATEGORIES.get(a.get("category", "ai"), "AI")
+        newb = '<span class="newb">NEW</span>' if _is_new(a) else ""
         out.append(f"""<div class="card">
-<h2><a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
+<h2>{newb}<a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
 <div class="lead">{e(a['lead'])}</div>
 <div class="meta"><span class="cat">{cat}</span>{tags} 出典: {e(a['source'])}</div>
 </div>""")

@@ -21,6 +21,8 @@ main{margin-top:28px}
 .meta{font-size:.78rem;color:var(--muted);margin-top:10px}
 .tag{display:inline-block;background:#1f2937;border-radius:20px;padding:1px 10px;margin-right:6px;font-size:.75rem;color:var(--accent)}
 .cat{display:inline-block;background:var(--accent2);color:#0d1117;border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.72rem;font-weight:700}
+.newb{display:inline-block;background:#d93636;color:#fff;border-radius:4px;padding:1px 7px;margin-right:8px;font-size:.7rem;font-weight:800;vertical-align:middle;animation:newpulse 1.6s infinite}
+@keyframes newpulse{50%{opacity:.55}}
 article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
