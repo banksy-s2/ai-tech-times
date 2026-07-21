@@ -1,21 +1,21 @@
 {
- "updated": "2026-07-22 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-22 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "SpaceXのNasdaq-100採用、インデックス投資はどうなる？",
-   "path": "/articles/20260722-spacex-in-your-index-fund-explained.html",
-   "cat": "AI(海外)"
+   "title": "IPA調査：AI利用経験3年未満が多数、情報漏えい不安の現状とは",
+   "path": "/articles/20260722-ipa-ai-survey-security-concerns.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Adobeのカメラアプリ「Project Indigo」が生成AIでどう進化？",
-   "path": "/articles/20260722-adobe-indigo-camera-app-generative-ai-update.html",
-   "cat": "AI(海外)"
+   "title": "primeNumber調査：AIに期待65％も成果は16％、なぜ停滞するのか",
+   "path": "/articles/20260722-primenumber-ai-survey-2026.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-  "url": "https://www.youtube.com/watch?v=GEk4jHwfFTA"
+  "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+  "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
  "notes": []
 }

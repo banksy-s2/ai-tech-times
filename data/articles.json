@@ -874,5 +874,47 @@
   "date": "2026-07-22",
   "time": "01:00",
   "path": "/articles/20260722-primenumber-ai-survey-2026.html"
+ },
+ {
+  "title": "Google、Gemini 3.6 Flashを150ドルに引き下げた理由",
+  "lead": "Googleは、最新のAIモデル「Gemini 3.6 Flash」および「Gemini 3.5 Flash-Lite」の価格を発表しました。前モデルよりも安価な料金設定が注目を集めています。",
+  "body": [
+   "AI TECH TIMESの報道によると、Googleは「Gemini 3.6 Flash」の価格を前モデルである3.5 Flashよりも低く設定しました。具体的な料金は、入力トークン100万あたり1.50ドル、出力トークン100万あたり7.50ドルとなります。",
+   "さらに、同時に発表された「Gemini 3.5 Flash-Lite」の価格は、入力トークン100万あたり0.30ドル、出力トークン100万あたり2.50ドルに設定されています。",
+   "検索大手として知られるGoogleは、Gemini 3.5 Proの登場を控える中で今回の新モデルを発表しており、今後の展開についてのアップデートもあわせて提供されています。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "google-gemini-36-flash-pricing",
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260721/p25#a260721p25",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "02:00",
+  "path": "/articles/20260722-google-gemini-36-flash-pricing.html"
+ },
+ {
+  "title": "Alphabet株が上昇、新AIチップ開発報道",
+  "lead": "米CNBC Techの報道によると、グーグルの親会社であるAlphabetがより効率的な新しいAIチップを開発していることが明らかになり、同社株が上昇しました。",
+  "body": [
+   "「AI TECH TIMES」編集部が報じたCNBC Techの情報によると、Alphabetが開発を進めているとされる新しいAIチップの名称は「Frozen v2」です。",
+   "この新しいチップには、同社のAIモデルである「Gemini」のアーキテクチャの一部がシリコン上に直接組み込まれる設計になっていると伝えられています。",
+   "効率的な次世代AIチップの開発と実用化に向けた動きが、今後の同社の事業展開や市場にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Alphabet",
+   "AIチップ",
+   "Gemini"
+  ],
+  "slug": "alphabet-developing-efficient-ai-chip",
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "02:00",
+  "path": "/articles/20260722-alphabet-developing-efficient-ai-chip.html"
  }
 ]

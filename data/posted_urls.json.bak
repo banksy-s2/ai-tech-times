@@ -42,7 +42,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015181511000",
   "https://news.web.nhk/newsweb/na/na-k10015182041000",
   "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-  "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+  "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
+  "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -112,6 +114,10 @@
   "SpaceX in your index fund, explained",
   "Adobe’s ‘natural look’ camera app embraces generative AI",
   "SpaceXのNasdaq-100採用、インデックス投資はどうなる？",
-  "Adobeのカメラアプリ「Project Indigo」が生成AIでどう進化？"
+  "Adobeのカメラアプリ「Project Indigo」が生成AIでどう進化？",
+  "「取りあえずAI導入」の末路　現場で深まる情報漏えい不安　IPAの意識調査で明らかに",
+  "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
+  "IPA調査：AI利用経験3年未満が多数、情報漏えい不安の現状とは",
+  "primeNumber調査：AIに期待65％も成果は16％、なぜ停滞するのか"
  ]
 }
