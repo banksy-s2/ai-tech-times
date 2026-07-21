@@ -53,17 +53,22 @@ def main() -> int:
                 print(f"  執筆失敗({p['title']}): {e}")
                 notes.append(f"執筆失敗: {p['title'][:40]}")
 
-    videos = None
-    if full:
-        print("[バズ動画TOP10] (久遠)")
-        videos = buzz.fetch_top10()
+    print("[バズ動画TOP10] (久遠) — 毎時更新")
+    videos = buzz.fetch_top10()
     if videos:
-        try:
-            comments = editor.buzz_comments(videos)
-        except Exception as e:
-            print(f"  コメント生成失敗(コメントなしで続行): {e}")
-            comments = []
-        buzz.save(videos, comments)
+        # 既存動画のコメントは引き継ぎ、新規ランクインだけ生成(Gemini節約)
+        prev = {v["id"]: v.get("comment", "") for v in buzz.load().get("videos", [])}
+        for v in videos:
+            v["comment"] = prev.get(v["id"], "")
+        missing = [v for v in videos if not v["comment"]]
+        if missing:
+            try:
+                for v, c in zip(missing, editor.buzz_comments(missing)):
+                    v["comment"] = c
+                print(f"  新規{len(missing)}本にコメント付与")
+            except Exception as e:
+                print(f"  コメント生成失敗(なしで続行): {e}")
+        buzz.save(videos, [v.get("comment", "") for v in videos])
 
     print("[サイト生成] (八重樫)")
     if articles:
