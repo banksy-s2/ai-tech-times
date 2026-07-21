@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="xU_1Ryr_326_pB2PYRmrYcU0-qprXI9QjAl2LgAlA5w">
+<title>人気の記事ランキング | AI TECH TIMES</title>
+<meta name="description" content="読者のいいねが多い人気ニュースランキング">
+<link rel="canonical" href="https://ai-tech-times.web.app/popular.html">
+<meta property="og:title" content="人気の記事ランキング | AI TECH TIMES">
+<meta property="og:description" content="読者のいいねが多い人気ニュースランキング">
+<meta property="og:url" content="https://ai-tech-times.web.app/popular.html">
+<meta property="og:site_name" content="AI TECH TIMES">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="AI TECH TIMES" href="https://ai-tech-times.web.app/feed.xml">
+<link rel="stylesheet" href="https://ai-tech-times.web.app/style.css">
+
+</head>
+<body>
+<header><div class="wrap">
+<a href="https://ai-tech-times.web.app/" class="logo">AI TECH <span>TIMES</span></a>
+<div class="tagline">AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</div>
+<nav><a href="https://ai-tech-times.web.app/" class="">トップ</a><a href="https://ai-tech-times.web.app/popular.html" class="on">人気</a><a href="https://ai-tech-times.web.app/ai.html" class="">海外AI</a><a href="https://ai-tech-times.web.app/ai_jp.html" class="">日本のAI</a><a href="https://ai-tech-times.web.app/silicon.html" class="">シリコンバレー</a><a href="https://ai-tech-times.web.app/voices.html" class="">海外AIの声</a><a href="https://ai-tech-times.web.app/influencer.html" class="">インフルエンサー</a><a href="https://ai-tech-times.web.app/world.html" class="">時事・世界</a><a href="https://ai-tech-times.web.app/buzz.html" class="">バズ動画TOP10</a><a href="https://ai-tech-times.web.app/office.html" class="">編集部ライブ</a></nav>
+</div></header>
+<main class="wrap">
+<article>
+<h1>人気の記事</h1>
+<div class="meta">読者の「いいね」が多い順(リアルタイム集計)</div>
+</article>
+<div id="plist" style="margin-top:16px;color:var(--muted)">読み込み中…</div>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
+<script>
+firebase.initializeApp({"apiKey":"AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s","authDomain":"ai-tech-times.firebaseapp.com","projectId":"ai-tech-times"});
+firebase.firestore().collection("likes").orderBy("count", "desc").limit(20).get().then(function(q){
+  var out = [], i = 1;
+  q.forEach(function(d){
+    var v = d.data();
+    if (!v.path || !v.title) return;
+    out.push('<div class="rankp"><div class="no">' + (i++) + '</div><div style="flex:1"><a href="https://ai-tech-times.web.app' + v.path + '">' + v.title.replace(/</g, "&lt;") + '</a> <span class="tag">' + (v.cat || "") + '</span></div><div class="lk">♥ ' + (v.count || 0) + '</div></div>');
+  });
+  document.getElementById("plist").innerHTML = out.length ? out.join("") : "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。";
+}).catch(function(){ document.getElementById("plist").textContent = "読み込みに失敗しました"; });
+</script>
+</main>
+<footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
+<a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>
+</body>
+</html>

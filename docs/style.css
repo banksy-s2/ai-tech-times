@@ -33,6 +33,14 @@ article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+.likebar{margin:16px 0 4px}
+.likebtn{background:var(--card);border:1.5px solid var(--accent2);color:var(--accent2);border-radius:24px;padding:7px 20px;font-size:.95rem;cursor:pointer;transition:all .15s}
+.likebtn:hover{transform:scale(1.05)}
+.likebtn.liked{background:var(--accent2);color:#0d1117;font-weight:700}
+.rankp{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 18px;margin-bottom:12px}
+.rankp:hover{border-color:var(--accent)}
+.rankp .no{font-size:1.3rem;font-weight:800;color:var(--gold);min-width:1.8rem;text-align:center}
+.rankp .lk{color:var(--accent2);font-weight:700;white-space:nowrap}
 .person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
 .person:hover{color:var(--accent2);border-color:var(--accent2)}
 #pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}

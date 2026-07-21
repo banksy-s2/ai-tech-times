@@ -16,7 +16,11 @@ BASE_URL = "https://ai-tech-times.web.app"
 TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。"
 JST = timezone(timedelta(hours=9))
 
-NAV = [("/", "トップ"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
+FIREBASE_CONFIG = '{"apiKey":"AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s","authDomain":"ai-tech-times.firebaseapp.com","projectId":"ai-tech-times"}'
+FIREBASE_SDK = """<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>"""
+
+NAV = [("/", "トップ"), ("/popular.html", "人気"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
        ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
        ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
        ("/buzz.html", "バズ動画TOP10"), ("/office.html", "編集部ライブ")]
@@ -75,6 +79,14 @@ article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+.likebar{margin:16px 0 4px}
+.likebtn{background:var(--card);border:1.5px solid var(--accent2);color:var(--accent2);border-radius:24px;padding:7px 20px;font-size:.95rem;cursor:pointer;transition:all .15s}
+.likebtn:hover{transform:scale(1.05)}
+.likebtn.liked{background:var(--accent2);color:#0d1117;font-weight:700}
+.rankp{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 18px;margin-bottom:12px}
+.rankp:hover{border-color:var(--accent)}
+.rankp .no{font-size:1.3rem;font-weight:800;color:var(--gold);min-width:1.8rem;text-align:center}
+.rankp .lk{color:var(--accent2);font-weight:700;white-space:nowrap}
 .person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
 .person:hover{color:var(--accent2);border-color:var(--accent2)}
 #pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}
@@ -220,14 +232,19 @@ def _article_html(a: dict) -> str:
         source = f'<a href="{e(src_url)}" rel="noopener" target="_blank">{e(a["source"])} — 元記事を読む</a>'
     else:
         source = e(a["source"])
+    art_id = a["path"].rsplit("/", 1)[-1].replace(".html", "")
     body = f"""<a class="back" href="{BASE_URL}/">← トップに戻る</a>
 <article>
 <h1>{e(a['title'])}</h1>
 <div class="meta"><span class="cat">{cat}</span>{a['date']} {a.get('time', '')} / {tags}</div>
+<div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="lead">{e(a['lead'])}</div>
 {paragraphs}
 <div class="source">出典: {source}</div>
-</article>"""
+</article>
+{FIREBASE_SDK}
+<script>window.__ART = {json.dumps({"id": art_id, "title": a["title"], "path": a["path"], "cat": cat}, ensure_ascii=False).replace("</", "<\\/")};</script>
+<script src="{BASE_URL}/likes.js"></script>"""
     if people:
         body += """
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
@@ -323,6 +340,46 @@ def _buzz_html(data: dict) -> str:
                  "世界6地域(米・英・日・韓・伯・印)のYouTube急上昇を毎日集計。今世界でバズっている動画がランキングでわかる。",
                  "/buzz.html", body,
                  f'<script type="application/ld+json">{jsonld}</script>')
+
+
+LIKES_JS = """(function(){
+ if (!window.firebase || !window.__ART) return;
+ firebase.initializeApp(__FBCONF__);
+ var db = firebase.firestore();
+ var A = window.__ART, ref = db.collection("likes").doc(A.id);
+ var btn = document.getElementById("likebtn"), cnt = document.getElementById("likecount");
+ ref.get().then(function(d){ cnt.textContent = d.exists ? (d.data().count || 0) : 0; }).catch(function(){});
+ if (localStorage.getItem("liked:" + A.id)) btn.classList.add("liked");
+ window.doLike = function(){
+   if (localStorage.getItem("liked:" + A.id)) return;
+   localStorage.setItem("liked:" + A.id, "1");
+   btn.classList.add("liked");
+   cnt.textContent = (parseInt(cnt.textContent || "0", 10) + 1);
+   ref.set({count: firebase.firestore.FieldValue.increment(1), title: A.title, path: A.path, cat: A.cat}, {merge: true}).catch(function(){});
+ };
+})();"""
+
+
+def _popular_html() -> str:
+    body = f"""<article>
+<h1>人気の記事</h1>
+<div class="meta">読者の「いいね」が多い順(リアルタイム集計)</div>
+</article>
+<div id="plist" style="margin-top:16px;color:var(--muted)">読み込み中…</div>
+{FIREBASE_SDK}
+<script>
+firebase.initializeApp({FIREBASE_CONFIG});
+firebase.firestore().collection("likes").orderBy("count", "desc").limit(20).get().then(function(q){{
+  var out = [], i = 1;
+  q.forEach(function(d){{
+    var v = d.data();
+    if (!v.path || !v.title) return;
+    out.push('<div class="rankp"><div class="no">' + (i++) + '</div><div style="flex:1"><a href="{BASE_URL}' + v.path + '">' + v.title.replace(/</g, "&lt;") + '</a> <span class="tag">' + (v.cat || "") + '</span></div><div class="lk">♥ ' + (v.count || 0) + '</div></div>');
+  }});
+  document.getElementById("plist").innerHTML = out.length ? out.join("") : "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。";
+}}).catch(function(){{ document.getElementById("plist").textContent = "読み込みに失敗しました"; }});
+</script>"""
+    return _page(f"人気の記事ランキング | {SITE_NAME}", "読者のいいねが多い人気ニュースランキング", "/popular.html", body)
 
 
 def _about_html() -> str:
@@ -422,6 +479,8 @@ def build() -> None:
         (DOCS / f"{cat}.html").write_text(
             _page(seo_title, seo_desc, f"/{cat}.html", _cards(cat_arts[:60])), encoding="utf-8")
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
+    (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
+    (DOCS / "likes.js").write_text(LIKES_JS.replace("__FBCONF__", FIREBASE_CONFIG), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(_sitemap(arts), encoding="utf-8")
