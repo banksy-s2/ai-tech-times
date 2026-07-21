@@ -13,7 +13,7 @@ DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
 BASE_URL = "https://ai-tech-times.web.app"
-TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の今を1日4回お届け。AI編集部が自動更新。"
+TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。"
 JST = timezone(timedelta(hours=9))
 
 NAV = [("/", "トップ"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
@@ -248,7 +248,7 @@ def _about_html() -> str:
 <h1>このサイトについて</h1>
 <p>{SITE_NAME}は、AI編集部(生成AI)が国内外のメディアのRSSとYouTube急上昇を巡回し、AI・シリコンバレー・海外AI識者・インフルエンサー・時事の重要ニュースと世界のバズ動画を選定・執筆している自動運営ニュースサイトです。</p>
 <p>記事は元記事の要約に基づいて生成されており、各記事の末尾に必ず出典リンクを明記しています。正確な情報は出典元をご確認ください。</p>
-<p>更新: 毎日4回(朝7時・昼12時半・夕方5時半・夜9時半 JST) / 運営: AI TECH TIMES 編集部(株)</p>
+<p>更新: 毎時(フル更新は朝7時・昼12時・夕方5時・夜9時 JST) / 運営: AI TECH TIMES 編集部(株)</p>
 <h1 style="margin-top:36px">編集部メンバー</h1>
 <div class="card"><h2>灰崎 律 <span class="tag">CEO</span></h2><div class="lead">経営統括。編集方針の最終決定を担う。</div></div>
 <div class="card"><h2>真行寺 環 <span class="tag">編集長</span></h2><div class="lead">その日のニュース価値を見極め、全記事を選定・執筆する。</div></div>

@@ -156,3 +156,82 @@
 
 [2026-07-22 00:00:51] git push OK
 [2026-07-22 00:00:52] deploy FAILED (exit 1) - see logs/deploy-last.log
+[2026-07-22 01:00:03] === edition start ===
+== 軽量便(1時): 日本のAI ==
+[収集: 日本のAI] (久遠)
+  [collect:ai_jp] ITmedia AI+: 5件
+  [collect:ai_jp] Publickey: 3件
+  [collect:ai_jp] Gigazine: 8件
+  [collect:ai_jp] AINOW: 3件
+  候補: 19件
+[選定・執筆: 日本のAI] (真行寺)
+  OK [ITmedia AI+] 「取りあえずAI導入」の末路　現場で深まる情報漏えい不安　IPAの意識調査で明らかに
+  OK [ITmedia AI+] 「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 127本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 41記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 01:00:38] git push OK
+[2026-07-22 01:00:38] env check: APPDATA=C:\Users\User\AppData\Roaming USER=User js exists=False
+[2026-07-22 01:00:38] deploy try node-direct -> exit 1
+[2026-07-22 01:00:38] deploy skip firebase-cmd: exe missing
+[2026-07-22 01:00:38] deploy try cmd-shell -> exit 1
+[2026-07-22 01:00:38] deploy FAILED (exit 1) - see logs/deploy-last.log
+[2026-07-22 02:00:02] === edition start ===
+== 軽量便(2時): シリコンバレー最速 ==
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 4件
+  [collect:silicon] TechCrunch: 5件
+  [collect:silicon] The Verge: 3件
+  [collect:silicon] Ars Technica: 4件
+  [collect:silicon] CNBC Tech: 8件
+  候補: 24件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  OK [Techmeme] Google prices Gemini 3.6 Flash lower than 3.5 Flash, at $1.50/1M input tokens and $7.50/1M output tokens; Gemini 3.5 Flash-Lite is priced at $0.30 and $2.50 (Abner Li/9to5Google)
+  OK [CNBC Tech] Alphabet stock pops on report it's developing a more efficient AI chip
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 127本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 43記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 02:00:39] git push OK
+[2026-07-22 02:00:39] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 02:00:56] deploy try node-local -> exit 0
+[2026-07-22 02:00:56] deploy OK
+[2026-07-22 02:00:56] === edition end ===
+[2026-07-22 03:00:02] === edition start ===
+== 軽量便(3時): 海外AIの声 ==
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 1件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 1件
+[選定・執筆: 海外AIの声] (真行寺)
+  OK [Simon Willison氏] Nativ: Run AI models locally on your Mac
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 126本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 44記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 03:00:26] git push OK
+[2026-07-22 03:00:26] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 03:00:36] deploy try node-local -> exit 0
+[2026-07-22 03:00:36] deploy OK
+[2026-07-22 03:00:36] === edition end ===
