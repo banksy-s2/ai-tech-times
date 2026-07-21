@@ -143,11 +143,29 @@ def _norm_title(t: str) -> str:
     return re.split(r"\s+[-–|｜]\s+", t.strip())[0].lower()
 
 
+def _bigrams(t: str) -> set:
+    t = re.sub(r"[\s\W]", "", t)
+    return {t[i:i + 2] for i in range(len(t) - 1)}
+
+
+def _is_dup_topic(title: str, posted_titles: list[str]) -> bool:
+    """既報タイトルとの文字バイグラム重なりで同一話題を機械判定(別媒体・別表現対策)"""
+    a = _bigrams(_norm_title(title))
+    if not a:
+        return False
+    for t in posted_titles:
+        b = _bigrams(t)
+        if b and len(a & b) / min(len(a), len(b)) >= 0.5:
+            return True
+    return False
+
+
 def collect(category: str) -> list[dict]:
     """指定カテゴリのソースを巡回し、新鮮で未報の候補を返す(URLとタイトル両方で既報判定)"""
     posted = _load_posted()
     posted_urls = set(posted["urls"])
-    posted_titles = {_norm_title(t) for t in posted["titles"]}
+    posted_titles = [_norm_title(t) for t in posted["titles"][-300:]]
+    posted_title_set = set(posted_titles)
     cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
     candidates, seen = [], set()
     for source, url in SOURCES[category]:
@@ -166,7 +184,9 @@ def collect(category: str) -> list[dict]:
                     continue
             if it["url"] in posted_urls or it["url"] in seen:
                 continue
-            if _norm_title(it["title"]) in posted_titles:  # 別URLで同じ記事が再登場するケース
+            if _norm_title(it["title"]) in posted_title_set:  # 別URLで同じ記事が再登場するケース
+                continue
+            if _is_dup_topic(it["title"], posted_titles):  # 別媒体・別表現の同一話題
                 continue
             if category == "ai":
                 text = f"{it['title']} {it['summary']}"

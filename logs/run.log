@@ -1,0 +1,78 @@
+﻿[2026-07-21 19:00:45] === edition start ===
+[収集: AI] (久遠)
+  [collect:ai] ITmedia AI+: 7件
+  [collect:ai] Publickey: 2件
+  [collect:ai] Gigazine: 10件
+  [collect:ai] TechCrunch AI: 8件
+  [collect:ai] The Verge AI: 6件
+  [collect:ai] VentureBeat AI: 0件
+  [collect:ai] MIT Tech Review AI: 2件
+  [collect:ai] Hugging Face Blog: 0件
+  [collect:ai] HN: AI/LLM: 6件
+  候補: 41件
+[選定・執筆: AI] (真行寺)
+  OK [Gigazine] AMDがNVIDIA対抗のラックスケールAIシステム「AMD Helios」をMicrosoft Azureに大規模導入
+  OK [Gigazine] トランプ政権が外国製オープンソースAIモデルの事実上の禁止措置を再検討、中国の台頭に懸念
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 14件
+  [collect:silicon] TechCrunch: 17件
+  [collect:silicon] The Verge: 10件
+  [collect:silicon] Ars Technica: 12件
+  [collect:silicon] CNBC Tech: 13件
+  候補: 66件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  OK [Techmeme] Sources: TSMC plans to hike advanced and mature node prices by up to 10% in 2027, plus a 10%-15% premium for advanced chip orders exceeding original forecasts (Cheng Ting-Fang/Nikkei Asia)
+  OK [Techmeme] Sony Music files a second copyright suit against Udio, alleging the AI music company copied 30,117 recordings without permission to train its AI models (Murray Stassen/Music Business Worldwide)
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 3件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 1件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 1件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 5件
+[選定・執筆: 海外AIの声] (真行寺)
+  OK [Simon Willison氏] Reverse-engineering is cheap now
+[収集: インフルエンサー] (久遠)
+  [collect:influencer] Googleニュース: インフルエンサー: 75件
+  候補: 75件
+[選定・執筆: インフルエンサー] (真行寺)
+  OK [Googleニュース: インフルエンサー] VTuber星街すいせいがロッテVSソフトバンクで始球式 予告通り105キロ剛速球！（スポニチアネックス） - Yahoo!ニュース
+[収集: 時事・世界] (久遠)
+  [collect:world] NHK 主要ニュース: 4件
+  [collect:world] NHK 国際: 17件
+  [collect:world] BBC World: 26件
+  候補: 47件
+[選定・執筆: 時事・世界] (真行寺)
+  OK [NHK 主要ニュース] イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者
+  OK [NHK 主要ニュース] iPS脊髄損傷治療の研究 長期でも悪化せず安全性確認
+[バズ動画TOP10] (久遠)
+  [buzz] 123本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 25記事 + バズ動画10本でサイト再生成完了
+[X告知] (桐生)
+  [announce] Xトークン未設定のためスキップ
+完了
+
+[2026-07-21 19:01:40] git push done (or skipped)
+
+[1m[37m===[39m Deploying to 'ai-tech-times'...[22m
+
+[36m[1mi [22m[39m deploying [1mhosting[22m
+[36m[1mi  hosting[ai-tech-times]:[22m[39m beginning deploy...
+[36m[1mi  hosting[ai-tech-times]:[22m[39m found 38 files in [1mdocs[22m
+[36m[1mi  hosting:[22m[39m uploading new files [0/18] ([1m[32m0%[39m[22m)
+[36m[1mi  hosting:[22m[39m upload complete
+[32m[1m+  hosting[ai-tech-times]:[22m[39m file upload complete
+[36m[1mi  hosting[ai-tech-times]:[22m[39m finalizing version...
+[32m[1m+  hosting[ai-tech-times]:[22m[39m version finalized
+[36m[1mi  hosting[ai-tech-times]:[22m[39m releasing new version...
+[32m[1m+  hosting[ai-tech-times]:[22m[39m release complete
+
+[32m[1m+ [22m[39m [1m[4mDeploy complete![24m[22m
+
+[1mProject Console:[22m https://console.firebase.google.com/project/ai-tech-times/overview
+[1mHosting URL:[22m https://ai-tech-times.web.app
+
+[2026-07-21 19:01:52] === edition end ===

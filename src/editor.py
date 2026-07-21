@@ -31,10 +31,12 @@ SELECT_CRITERIA = {
 }
 
 
-def _gemini(prompt: str, json_mode: bool = True) -> str:
+def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None) -> str:
     """モデルを順に試す。日次クォータ切れ(PerDay)は即次のモデルへ、瞬間的な429は待って再試行"""
     import urllib.error
     key = os.environ["GEMINI_API_KEY"]
+    if models is None:
+        models = MODELS
     gen_config = {"temperature": 0.4}
     if json_mode:
         gen_config["responseMimeType"] = "application/json"
@@ -43,7 +45,7 @@ def _gemini(prompt: str, json_mode: bool = True) -> str:
         "generationConfig": gen_config,
     }).encode("utf-8")
     last_error = None
-    for model in MODELS:
+    for model in models:
         for attempt in range(3):
             req = urllib.request.Request(
                 f"{API_BASE}/{model}:generateContent?key={key}", data=body,
@@ -102,7 +104,8 @@ def select(candidates: list[dict], category: str, recent_titles: list[str] | Non
 {listing}
 
 JSON配列のみ出力: [{{"index": 数値, "reason": "選定理由1文"}}]"""
-    data = _parse_json(_gemini(prompt))
+    # 選定は既報重複の見極めが命なので、指示追従が強い2.5-flashを優先
+    data = _parse_json(_gemini(prompt, models=["gemini-2.5-flash"] + MODELS))
     if isinstance(data, dict):  # {"picks": [...]} 形式で返るケース
         data = next((v for v in data.values() if isinstance(v, list)), [data])
     picks = data[:n]

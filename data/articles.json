@@ -350,29 +350,6 @@
   "path": "/articles/20260721-kimi-k3-open-weights-escalation.html"
  },
  {
-  "title": "AMD、AI向け新システム「Helios」をAzureに大規模導入",
-  "lead": "AMDはMicrosoftとの戦略的パートナーシップを拡大し、AIデータセンター向けラックスケールシステム「AMD Helios」をMicrosoft Azureへ導入すると発表しました。",
-  "body": [
-   "現地時間の2026年7月20日、半導体大手のAMDは、Microsoftが提供するクラウドコンピューティングサービス「Microsoft Azure」との戦略的パートナーシップを大幅に拡大することを発表しました。今回の提携強化は、AI開発の加速を見据えたもので、AMDの技術基盤をAzureのインフラに深く統合する狙いがあります。",
-   "このパートナーシップの核となるのが、AMDが新たに展開するラックスケールAIシステム「AMD Helios」の導入です。Heliosは、AMD製のCPU、GPU、ネットワーク機器、そして最適化されたソフトウェアを網羅した包括的なシステムであり、AIデータセンターの処理能力を飛躍的に高めることを目的としています。AMDは、このシステムをMicrosoft Azure上で大規模に展開することで、急増するAIワークロードの需要に応える計画です。",
-   "AMDは、高性能な半導体製品を設計・開発する世界的なメーカーであり、特にGPU分野ではNVIDIAの強力な競合として知られています。今回の「AMD Helios」の大規模導入により、クラウド環境におけるAIインフラの選択肢が広がり、業界内での競争がさらに激化することが予想されます。"
-  ],
-  "tags": [
-   "AMD",
-   "Microsoft",
-   "AI",
-   "Azure",
-   "Helios"
-  ],
-  "slug": "amd-helios-microsoft-azure-deployment",
-  "source": "Gigazine",
-  "source_url": "https://gigazine.net/news/20260721-amd-helios-microsoft-azure/",
-  "category": "ai",
-  "date": "2026-07-21",
-  "time": "19:01",
-  "path": "/articles/20260721-amd-helios-microsoft-azure-deployment.html"
- },
- {
   "title": "米政府、外国製オープンソースAIの規制強化を検討",
   "lead": "アメリカ政府が外国製のオープンソースAIモデルに対する事実上の禁止措置を再検討していることが明らかになりました。中国の技術的台頭に対する強い警戒感が背景にあります。",
   "body": [
@@ -459,27 +436,6 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-ai-agents-reverse-engineering-home-devices.html"
- },
- {
-  "title": "VTuber星街すいせい、始球式で105キロの剛速球を披露",
-  "lead": "人気VTuberの星街すいせいが、ロッテ対ソフトバンク戦の始球式に登場しました。予告通りとなる105キロの速球を投げ込み、会場を沸かせました。",
-  "body": [
-   "VTuber（バーチャルYouTuber）として絶大な人気を誇る星街すいせいが、千葉ロッテマリーンズ対福岡ソフトバンクホークス戦の始球式に登板しました。星街すいせいは、YouTubeを中心に音楽活動やライブ配信を行うバーチャルタレントです。",
-   "今回の始球式では、事前に予告していた通り、105キロという驚異的な剛速球を披露しました。バーチャルな存在でありながら、現実のプロ野球の舞台で見せた力強い投球は、多くのファンや観客を驚かせ、大きな注目を集めています。",
-   "SNS上でもこの投球は大きな話題となっており、バーチャルとリアルの垣根を超えたエンターテインメントとして、今回の始球式は非常に記憶に残るイベントとなりました。"
-  ],
-  "tags": [
-   "星街すいせい",
-   "VTuber",
-   "始球式"
-  ],
-  "slug": "hoshimachi-suisei-first-pitch",
-  "source": "Googleニュース: インフルエンサー",
-  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tdFhSTFE4OVF5amxEdjRBdXltUVNkQ2NJNjJlRHlaQXNQVnRoZDJfZGthcHRSeVlSaVY2ZTRaaEtDYW9kSTJGWlFiY01hTVc1Ynk3cVhXQUhsdkQzY005Z2RjUXhKbmZEcFlfN0pvb2VBRnpvLTNsaHNYcWNodjQ?oc=5",
-  "category": "influencer",
-  "date": "2026-07-21",
-  "time": "19:01",
-  "path": "/articles/20260721-hoshimachi-suisei-first-pitch.html"
  },
  {
   "title": "米政府、イランへの攻撃継続を明言「大統領の判断まで」",
