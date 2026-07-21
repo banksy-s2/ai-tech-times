@@ -147,8 +147,14 @@ def write_article(item: dict) -> dict:
 - 「なぜ」「どうなる」と続きが気になる形、または読者の損得が分かる形にする
 - ただし本文にない誇張・釣りは禁止。「衝撃」「ヤバい」等の乱用も禁止
 
+people(人物注釈)のルール:
+- 記事本文に登場する「実在の著名人」(経営者・政治家・研究者・タレント等)だけを最大3人
+- nameは**本文で使った表記そのまま**(例: 本文が「アルトマン氏」なら name も「アルトマン氏」)
+- bioは30〜60字で、広く知られた確実な事実のみ(肩書・所属・代表的な実績)。少しでも不確かな人物は含めない
+- 該当者がいなければ空配列
+
 JSONのみ出力:
-{{"title": "日本語見出し", "lead": "1〜2文のリード文", "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens"}}"""
+{{"title": "日本語見出し", "lead": "1〜2文のリード文", "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens", "people": [{{"name": "本文中の表記", "bio": "人物紹介30〜60字"}}]}}"""
     art = _parse_json(_gemini(prompt))
     if isinstance(art, list):  # [{...}] 形式で返るケース
         art = next((x for x in art if isinstance(x, dict)), {})
@@ -166,9 +172,16 @@ JSONのみ出力:
     if not (title and lead and body):
         raise ValueError(f"記事スキーマ不正(title={bool(title)}, lead={bool(lead)}, body={len(body)}段落)")
     tags = art.get("tags")
+    people = art.get("people")
+    clean_people = []
+    if isinstance(people, list):
+        for p in people[:4]:
+            if isinstance(p, dict) and str(p.get("name", "")).strip() and str(p.get("bio", "")).strip():
+                clean_people.append({"name": str(p["name"]).strip()[:30], "bio": str(p["bio"]).strip()[:120]})
     art.update({
         "title": title[:60], "lead": lead, "body": body,
         "tags": [str(t)[:20] for t in tags][:5] if isinstance(tags, list) else [],
+        "people": clean_people,
     })
     art["slug"] = re.sub(r"[^a-z0-9-]", "", str(art.get("slug", "news")).lower())[:60] or "news"
     art["source"] = item["source"]

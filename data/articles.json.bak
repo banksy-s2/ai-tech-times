@@ -916,5 +916,27 @@
   "date": "2026-07-22",
   "time": "02:00",
   "path": "/articles/20260722-alphabet-developing-efficient-ai-chip.html"
+ },
+ {
+  "title": "MacでAIを1台のアプリで動かすNativ登場",
+  "lead": "AI識者のSimon Willison氏が、Mac上でローカルAIモデルを手軽に実行できるデスクトップアプリ「Nativ」について紹介しています。",
+  "body": [
+   "AI識者のSimon Willison氏によると、Prince Canuma氏が開発したMac向けの新プロジェクト「Nativ」が注目を集めています。Canuma氏は、Mac向けのMLXを使用して視覚言語モデルを実行するための優れたPythonライブラリ「MLX-VLM」を手がけた開発者です。",
+   "Nativは、MLXを完全なmacOSデスクトップアプリとしてラップしたもので、LM Studioに似た形状をしています。チャットインターフェースと、モデルにアクセスするためのローカライズされたAPIサーバーの両方を提供しているのが特徴です。",
+   "Willison氏が実際に試したところ、このアプリはHugging Faceのキャッシュディレクトリにすでに保存されていたMLXモデルを自動で検知したとのことで、その利便性を高く評価し、非常に興奮していると見解を述べています。"
+  ],
+  "tags": [
+   "AI",
+   "Mac",
+   "MLX",
+   "ローカルAI"
+  ],
+  "slug": "nativ-run-ai-models-locally-on-mac",
+  "source": "Simon Willison氏",
+  "source_url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+  "category": "voices",
+  "date": "2026-07-22",
+  "time": "03:00",
+  "path": "/articles/20260722-nativ-run-ai-models-locally-on-mac.html"
  }
 ]

@@ -29,11 +29,27 @@
 <h1>AIエージェントで家電の解析が容易に？コスト低下がもたらす変化</h1>
 <div class="meta"><span class="cat">海外AIの声</span>2026-07-21 19:01 / <span class="tag">AI</span><span class="tag">リバースエンジニアリング</span><span class="tag">自動化</span></div>
 <div class="lead">AI技術の進化により、家庭用デバイスのリバースエンジニアリングがかつてないほど低コストで可能になっています。著名なソフトウェアエンジニアであるサイモン・ウィリソン氏が、この技術的潮流について自身の見解を明かしました。</div>
-<p>サイモン・ウィリソン氏は、オープンソースコミュニティなどで幅広く活動し、AI技術の活用や開発手法について積極的に発信している著名なエンジニアです。同氏は自身のブログにおいて、コーディングエージェントを活用して家庭内のデバイスをリバースエンジニアリングし、自動化を実現したという事例を耳にする機会が増えていると指摘しています。</p>
+<p><span class="person" data-bio="オープンソースコミュニティ等で活動する著名なソフトウェアエンジニア。">サイモン・ウィリソン</span>氏は、オープンソースコミュニティなどで幅広く活動し、AI技術の活用や開発手法について積極的に発信している著名なエンジニアです。同氏は自身のブログにおいて、コーディングエージェントを活用して家庭内のデバイスをリバースエンジニアリングし、自動化を実現したという事例を耳にする機会が増えていると指摘しています。</p>
 <p>ウィリソン氏は、こうした現象が「コードを書くコストの低下」がもたらす影響を象徴していると分析しています。以前から家庭用デバイスの解析自体は技術的に可能でしたが、膨大な労力に見合うだけの投資対効果（ROI）が得られるかどうかが大きな障壁となっていました。多くのエンジニアにとって、仕様が公開されていない不安定なAPIを解析し、将来的な仕様変更のリスクを負うことは、コストパフォーマンスの面で合理的ではなかったのです。</p>
 <p>しかし、AIエージェントの普及により状況は一変しました。同氏は、かつては困難だった解析作業が安価かつ迅速に行えるようになったことで、個人の生活環境における自動化のハードルが劇的に下がったと指摘しています。技術の民主化が、これまで専門家に限られていたデバイス制御の可能性を一般ユーザーへと広げているようです。</p>
 <div class="source">出典: <a href="https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything" rel="noopener" target="_blank">Simon Willison氏 — 元記事を読む</a></div>
 </article>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<b id="pname"></b><p id="pbio"></p>
+<div class="pnote">※AIによる人物メモです。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    box.style.display = "block";
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

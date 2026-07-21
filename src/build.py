@@ -75,6 +75,13 @@ article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+.person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
+.person:hover{color:var(--accent2);border-color:var(--accent2)}
+#pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}
+#pbox b{color:var(--accent);font-size:1.05rem}
+#pbox p{margin:8px 0 0;font-size:.9rem;color:var(--text)}
+#pbox .pclose{position:absolute;top:8px;right:12px;color:var(--muted);cursor:pointer;font-size:1.1rem}
+#pbox .pnote{margin-top:8px;font-size:.72rem;color:var(--muted)}
 footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
 .back{display:inline-block;margin:20px 0;font-size:.9rem}
 .breaking{background:var(--card);border:1px solid var(--accent2);border-radius:10px;padding:12px 16px;margin-bottom:20px;font-size:.9rem}
@@ -176,9 +183,23 @@ def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
     return "\n".join(out)
 
 
+def _mark_people(text: str, people: list[dict]) -> str:
+    """本文中の人物名をタップ可能なspanに(プレースホルダー方式で入れ子・属性破壊を防ぐ)"""
+    e = html.escape
+    marked = text
+    for i, p in sorted(enumerate(people), key=lambda x: -len(x[1]["name"])):
+        marked = marked.replace(p["name"], f"\x00{i}\x01")
+    out = e(marked)
+    for i, p in enumerate(people):
+        span = f'<span class="person" data-bio="{e(p["bio"])}">{e(p["name"])}</span>'
+        out = out.replace(f"\x00{i}\x01", span)
+    return out
+
+
 def _article_html(a: dict) -> str:
     e = html.escape
-    paragraphs = "\n".join(f"<p>{e(p)}</p>" for p in a["body"])
+    people = [p for p in a.get("people", []) if isinstance(p, dict)]
+    paragraphs = "\n".join(f"<p>{_mark_people(p, people)}</p>" for p in a["body"])
     tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
     cat = CATEGORIES.get(a.get("category", "ai"), "AI")
     jsonld = _jsonld({
@@ -204,6 +225,24 @@ def _article_html(a: dict) -> str:
 {paragraphs}
 <div class="source">出典: {source}</div>
 </article>"""
+    if people:
+        body += """
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<b id="pname"></b><p id="pbio"></p>
+<div class="pnote">※AIによる人物メモです。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    box.style.display = "block";
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>"""
     return _page(f"{a['title']} | {SITE_NAME}", a["lead"], a["path"], body,
                  f'<script type="application/ld+json">{jsonld}</script>')
 
