@@ -197,10 +197,11 @@ setInterval(()=>{
 function fit(){
   const wrap = document.getElementById("wrap");
   const w = wrap.clientWidth;
-  const sc = Math.max(0.55, Math.min(1, w/960));  // 縮みすぎ防止、狭い画面は横スクロール
+  // 画面幅いっぱいに拡大縮小(横の空白を作らない)。縮みすぎだけ0.55で止めて横スクロール
+  const sc = Math.max(0.55, Math.min(1.9, w/960));
   scene.style.transform = `scale(${sc})`;
   wrap.style.height = (470*sc) + "px";
-  wrap.style.overflowX = (960*sc > w) ? "auto" : "hidden";
+  wrap.style.overflowX = (960*sc > w + 2) ? "auto" : "hidden";
 }
 window.addEventListener("resize", fit);
 
