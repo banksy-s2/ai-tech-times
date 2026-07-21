@@ -78,8 +78,11 @@ article p{margin:16px 0}
 .person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
 .person:hover{color:var(--accent2);border-color:var(--accent2)}
 #pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}
+#pbox .prow{display:flex;gap:14px;align-items:flex-start}
+#pimg{display:none;width:72px;height:72px;object-fit:cover;border-radius:50%;border:2px solid var(--accent);flex-shrink:0}
 #pbox b{color:var(--accent);font-size:1.05rem}
-#pbox p{margin:8px 0 0;font-size:.9rem;color:var(--text)}
+#pbox p{margin:6px 0 0;font-size:.9rem;color:var(--text)}
+#plink{display:none;font-size:.78rem;margin-top:6px;display:none}
 #pbox .pclose{position:absolute;top:8px;right:12px;color:var(--muted);cursor:pointer;font-size:1.1rem}
 #pbox .pnote{margin-top:8px;font-size:.72rem;color:var(--muted)}
 footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
@@ -228,16 +231,45 @@ def _article_html(a: dict) -> str:
     if people:
         body += """
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<b id="pname"></b><p id="pbio"></p>
-<div class="pnote">※AIによる人物メモです。正確な情報はご自身でもご確認ください。</div></div>
+<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function pwiki(name){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=1&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hit = d.query && d.query.search && d.query.search[0];
+      if (!hit) { pcache[key] = {}; papply(name, {}); return; }
+      return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(hit.title))
+        .then(function(r){ return r.json(); })
+        .then(function(s){
+          var info = {img: s.thumbnail && s.thumbnail.source,
+                      url: s.content_urls && s.content_urls.desktop && s.content_urls.desktop.page};
+          pcache[key] = info; papply(name, info);
+        });
+    }).catch(function(){});
+}
 document.addEventListener("click", function(ev){
   var t = ev.target;
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
     box.style.display = "block";
+    pwiki(t.textContent);
   } else if (!t.closest("#pbox")) {
     box.style.display = "none";
   }

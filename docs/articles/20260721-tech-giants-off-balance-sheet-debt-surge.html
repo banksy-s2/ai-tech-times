@@ -35,16 +35,45 @@
 <div class="source">出典: <a href="https://www.techmeme.com/260720/p44#a260720p44" rel="noopener" target="_blank">Techmeme — 元記事を読む</a></div>
 </article>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<b id="pname"></b><p id="pbio"></p>
-<div class="pnote">※AIによる人物メモです。正確な情報はご自身でもご確認ください。</div></div>
+<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function pwiki(name){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=1&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hit = d.query && d.query.search && d.query.search[0];
+      if (!hit) { pcache[key] = {}; papply(name, {}); return; }
+      return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(hit.title))
+        .then(function(r){ return r.json(); })
+        .then(function(s){
+          var info = {img: s.thumbnail && s.thumbnail.source,
+                      url: s.content_urls && s.content_urls.desktop && s.content_urls.desktop.page};
+          pcache[key] = info; papply(name, info);
+        });
+    }).catch(function(){});
+}
 document.addEventListener("click", function(ev){
   var t = ev.target;
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
     box.style.display = "block";
+    pwiki(t.textContent);
   } else if (!t.closest("#pbox")) {
     box.style.display = "none";
   }
