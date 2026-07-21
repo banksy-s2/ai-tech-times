@@ -1,13 +1,21 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    // いいね: 誰でも読める。書き込みは「+1ずつ」だけ許可(改ざん・一括操作の防止)
+    // いいね: 誰でも読める。書き込みは「+1ずつ」だけ。IDと各フィールドの形式・長さを制限。
+    // 表示側はarticles_index.json(サイト側の台帳)と突き合わせるため、偽タイトルは表示に届かない
     match /likes/{article} {
       allow read: if true;
-      allow create: if request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
-        && request.resource.data.count == 1;
+      allow create: if article.matches('^[0-9]{8}-[a-z0-9-]{1,80}$')
+        && request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
+        && request.resource.data.count == 1
+        && request.resource.data.title is string && request.resource.data.title.size() <= 80
+        && request.resource.data.path is string
+        && request.resource.data.path.matches('^/articles/[0-9]{8}-[a-z0-9-]{1,80}\\.html$')
+        && request.resource.data.cat is string && request.resource.data.cat.size() <= 20;
       allow update: if request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
-        && request.resource.data.count == resource.data.count + 1;
+        && request.resource.data.count == resource.data.count + 1
+        && request.resource.data.title is string && request.resource.data.title.size() <= 80
+        && request.resource.data.cat is string && request.resource.data.cat.size() <= 20;
     }
   }
 }

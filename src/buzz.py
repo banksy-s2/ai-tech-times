@@ -53,6 +53,7 @@ def fetch_top10() -> list[dict] | None:
         print("  [buzz] YOUTUBE_API_KEY未設定のためスキップ")
         return None
     merged: dict[str, dict] = {}
+    ok_regions = 0
     for region in REGIONS:
         try:
             for v in _fetch_region(region, key):
@@ -60,9 +61,11 @@ def fetch_top10() -> list[dict] | None:
                     merged[v["id"]]["regions"].append(region)
                 else:
                     merged[v["id"]] = v
+            ok_regions += 1
         except Exception as e:
             print(f"  [buzz] {region} 取得失敗: {e}")
-    if not merged:
+    if ok_regions < 3:  # 半分以上失敗した部分集計で正常な前回データを上書きしない
+        print(f"  [buzz] 取得成功{ok_regions}地域のみ → 前回データを維持")
         return None
     # 複数地域でバズっている動画を優先しつつ再生回数順
     top = sorted(merged.values(), key=lambda v: (len(v["regions"]), v["views"]), reverse=True)[:10]
@@ -72,12 +75,13 @@ def fetch_top10() -> list[dict] | None:
     return top
 
 
-def save(videos: list[dict], comments: list[str]) -> None:
+def save(videos: list[dict], comments: list[str], comment_cache: dict | None = None) -> None:
     for v, c in zip(videos, comments + [""] * 10):
         v["comment"] = c
     storage.save_json(DATA_FILE, {
         "date": datetime.now(JST).strftime("%Y-%m-%d"),
         "videos": videos,
+        "comment_cache": comment_cache or {},
     })
 
 

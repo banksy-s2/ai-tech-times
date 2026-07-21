@@ -33,14 +33,30 @@
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>
 firebase.initializeApp({"apiKey":"AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s","authDomain":"ai-tech-times.firebaseapp.com","projectId":"ai-tech-times"});
-firebase.firestore().collection("likes").orderBy("count", "desc").limit(20).get().then(function(q){
-  var out = [], i = 1;
-  q.forEach(function(d){
-    var v = d.data();
-    if (!v.path || !v.title) return;
-    out.push('<div class="rankp"><div class="no">' + (i++) + '</div><div style="flex:1"><a href="https://ai-tech-times.web.app' + v.path + '">' + v.title.replace(/</g, "&lt;") + '</a> <span class="tag">' + (v.cat || "") + '</span></div><div class="lk">♥ ' + (v.count || 0) + '</div></div>');
+Promise.all([
+  fetch("https://ai-tech-times.web.app/articles_index.json").then(function(r){ return r.json(); }),
+  firebase.firestore().collection("likes").orderBy("count", "desc").limit(40).get()
+]).then(function(res){
+  var index = res[0], out = [], i = 1;
+  res[1].forEach(function(d){
+    if (i > 20) return;
+    var meta = index[d.id];          // 台帳にないIDは表示しない(偽データ排除)
+    if (!meta) return;
+    var count = d.data().count;
+    if (typeof count !== "number" || count < 1) return;
+    var el = document.createElement("div"); el.className = "rankp";
+    var no = document.createElement("div"); no.className = "no"; no.textContent = i++;
+    var mid = document.createElement("div"); mid.style.flex = "1";
+    var a = document.createElement("a"); a.href = "https://ai-tech-times.web.app" + meta.path; a.textContent = meta.title;
+    var tg = document.createElement("span"); tg.className = "tag"; tg.textContent = meta.cat;
+    mid.appendChild(a); mid.appendChild(document.createTextNode(" ")); mid.appendChild(tg);
+    var lk = document.createElement("div"); lk.className = "lk"; lk.textContent = "♥ " + count;
+    el.appendChild(no); el.appendChild(mid); el.appendChild(lk); out.push(el);
   });
-  document.getElementById("plist").innerHTML = out.length ? out.join("") : "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。";
+  var box = document.getElementById("plist");
+  box.textContent = "";
+  if (out.length) { out.forEach(function(el){ box.appendChild(el); }); }
+  else { box.textContent = "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。"; }
 }).catch(function(){ document.getElementById("plist").textContent = "読み込みに失敗しました"; });
 </script>
 </main>

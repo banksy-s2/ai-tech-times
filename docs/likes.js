@@ -8,9 +8,13 @@
  if (localStorage.getItem("liked:" + A.id)) btn.classList.add("liked");
  window.doLike = function(){
    if (localStorage.getItem("liked:" + A.id)) return;
-   localStorage.setItem("liked:" + A.id, "1");
    btn.classList.add("liked");
    cnt.textContent = (parseInt(cnt.textContent || "0", 10) + 1);
-   ref.set({count: firebase.firestore.FieldValue.increment(1), title: A.title, path: A.path, cat: A.cat}, {merge: true}).catch(function(){});
+   ref.set({count: firebase.firestore.FieldValue.increment(1), title: A.title, path: A.path, cat: A.cat}, {merge: true})
+     .then(function(){ localStorage.setItem("liked:" + A.id, "1"); })
+     .catch(function(){  // 失敗時は表示を戻して再試行可能にする
+       btn.classList.remove("liked");
+       cnt.textContent = Math.max(0, parseInt(cnt.textContent || "1", 10) - 1);
+     });
  };
 })();

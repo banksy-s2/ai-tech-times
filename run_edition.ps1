@@ -28,12 +28,19 @@ if ((Test-Path $log) -and ((Get-Item $log).Length -gt 2MB)) {
 $lock = "$proj\logs\edition.lock"
 if (Test-Path $lock) {
     $age = (Get-Date) - (Get-Item $lock).LastWriteTime
-    if ($age.TotalMinutes -lt 25) {
+    if ($age.TotalMinutes -lt 35) {  # stale threshold > task exec limit(30min)
         Log "SKIP: another edition is running (lock age $([int]$age.TotalMinutes)min)"
         exit 0
     }
+    Remove-Item -Path $lock -ErrorAction SilentlyContinue
 }
-Set-Content -Path $lock -Value $PID -Encoding utf8
+try {
+    # atomic create: fails if another process created it in the meantime
+    New-Item -Path $lock -ItemType File -ErrorAction Stop | Out-Null
+} catch {
+    Log "SKIP: lock race lost"
+    exit 0
+}
 
 try {
     try { [Console]::OutputEncoding = [Text.Encoding]::UTF8 } catch {}  # avoid mojibake when capturing python output
@@ -88,7 +95,7 @@ try {
     # NOTE: under Task Scheduler, env-var based paths resolved wrong (APPDATA mystery).
     # Use hardcoded literal paths, try multiple strategies, log environment for diagnosis.
     Log ("env check: local-js=" + (Test-Path "C:\Users\User\Desktop\ai-tech-times\tools\firebase-tools\lib\bin\firebase.js") + " npm-js=" + (Test-Path "C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js") + " cfg=" + (Test-Path "C:\Users\User\.config\configstore\firebase-tools.json"))
-    $fbArgs = @("deploy", "--only", "hosting", "--project", "ai-tech-times", "--non-interactive")
+    $fbArgs = @("deploy", "--only", "hosting,firestore", "--project", "ai-tech-times", "--non-interactive")
     $strategies = @(
         @{n="node-local"; exe="C:\Program Files\nodejs\node.exe"; pre=@("C:\Users\User\Desktop\ai-tech-times\tools\firebase-tools\lib\bin\firebase.js")},
         @{n="node-direct"; exe="C:\Program Files\nodejs\node.exe"; pre=@("C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js")},

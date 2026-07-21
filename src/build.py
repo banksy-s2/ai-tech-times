@@ -175,7 +175,8 @@ def _is_new(a: dict) -> bool:
     """直近3時間以内の記事にNEWバッジ(毎時再生成で自動的に付いて外れる)"""
     try:
         ts = datetime.strptime(f"{a['date']} {a.get('time', '07:00')}", "%Y-%m-%d %H:%M").replace(tzinfo=JST)
-        return (datetime.now(JST) - ts) <= timedelta(hours=3)
+        diff = datetime.now(JST) - ts
+        return timedelta(0) <= diff <= timedelta(hours=3)  # 未来日時はNEW扱いしない
     except ValueError:
         return False
 
@@ -203,6 +204,8 @@ def _mark_people(text: str, people: list[dict]) -> str:
     e = html.escape
     marked = text
     for i, p in sorted(enumerate(people), key=lambda x: -len(x[1]["name"])):
+        if len(p["name"]) < 3:  # 「林」等の短名は無関係語(森林など)を巻き込むためリンク化しない
+            continue
         marked = marked.replace(p["name"], f"\x00{i}\x01")
     out = e(marked)
     for i, p in enumerate(people):
@@ -352,15 +355,21 @@ LIKES_JS = """(function(){
  if (localStorage.getItem("liked:" + A.id)) btn.classList.add("liked");
  window.doLike = function(){
    if (localStorage.getItem("liked:" + A.id)) return;
-   localStorage.setItem("liked:" + A.id, "1");
    btn.classList.add("liked");
    cnt.textContent = (parseInt(cnt.textContent || "0", 10) + 1);
-   ref.set({count: firebase.firestore.FieldValue.increment(1), title: A.title, path: A.path, cat: A.cat}, {merge: true}).catch(function(){});
+   ref.set({count: firebase.firestore.FieldValue.increment(1), title: A.title, path: A.path, cat: A.cat}, {merge: true})
+     .then(function(){ localStorage.setItem("liked:" + A.id, "1"); })
+     .catch(function(){  // 失敗時は表示を戻して再試行可能にする
+       btn.classList.remove("liked");
+       cnt.textContent = Math.max(0, parseInt(cnt.textContent || "1", 10) - 1);
+     });
  };
 })();"""
 
 
 def _popular_html() -> str:
+    # XSS/改ざん対策: Firestoreの値は「記事ID」と「count」しか信用しない。
+    # 表示するタイトル・カテゴリ・リンクはサイト側の信頼できる台帳(articles_index.json)から引く
     body = f"""<article>
 <h1>人気の記事</h1>
 <div class="meta">読者の「いいね」が多い順(リアルタイム集計)</div>
@@ -369,14 +378,30 @@ def _popular_html() -> str:
 {FIREBASE_SDK}
 <script>
 firebase.initializeApp({FIREBASE_CONFIG});
-firebase.firestore().collection("likes").orderBy("count", "desc").limit(20).get().then(function(q){{
-  var out = [], i = 1;
-  q.forEach(function(d){{
-    var v = d.data();
-    if (!v.path || !v.title) return;
-    out.push('<div class="rankp"><div class="no">' + (i++) + '</div><div style="flex:1"><a href="{BASE_URL}' + v.path + '">' + v.title.replace(/</g, "&lt;") + '</a> <span class="tag">' + (v.cat || "") + '</span></div><div class="lk">♥ ' + (v.count || 0) + '</div></div>');
+Promise.all([
+  fetch("{BASE_URL}/articles_index.json").then(function(r){{ return r.json(); }}),
+  firebase.firestore().collection("likes").orderBy("count", "desc").limit(40).get()
+]).then(function(res){{
+  var index = res[0], out = [], i = 1;
+  res[1].forEach(function(d){{
+    if (i > 20) return;
+    var meta = index[d.id];          // 台帳にないIDは表示しない(偽データ排除)
+    if (!meta) return;
+    var count = d.data().count;
+    if (typeof count !== "number" || count < 1) return;
+    var el = document.createElement("div"); el.className = "rankp";
+    var no = document.createElement("div"); no.className = "no"; no.textContent = i++;
+    var mid = document.createElement("div"); mid.style.flex = "1";
+    var a = document.createElement("a"); a.href = "{BASE_URL}" + meta.path; a.textContent = meta.title;
+    var tg = document.createElement("span"); tg.className = "tag"; tg.textContent = meta.cat;
+    mid.appendChild(a); mid.appendChild(document.createTextNode(" ")); mid.appendChild(tg);
+    var lk = document.createElement("div"); lk.className = "lk"; lk.textContent = "♥ " + count;
+    el.appendChild(no); el.appendChild(mid); el.appendChild(lk); out.push(el);
   }});
-  document.getElementById("plist").innerHTML = out.length ? out.join("") : "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。";
+  var box = document.getElementById("plist");
+  box.textContent = "";
+  if (out.length) {{ out.forEach(function(el){{ box.appendChild(el); }}); }}
+  else {{ box.textContent = "まだ「いいね」された記事がありません。気に入った記事の♥を押してみてください。"; }}
 }}).catch(function(){{ document.getElementById("plist").textContent = "読み込みに失敗しました"; }});
 </script>"""
     return _page(f"人気の記事ランキング | {SITE_NAME}", "読者のいいねが多い人気ニュースランキング", "/popular.html", body)
@@ -481,6 +506,10 @@ def build() -> None:
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
     (DOCS / "likes.js").write_text(LIKES_JS.replace("__FBCONF__", FIREBASE_CONFIG), encoding="utf-8")
+    index = {a["path"].rsplit("/", 1)[-1].replace(".html", ""):
+             {"path": a["path"], "title": a["title"], "cat": CATEGORIES.get(a.get("category", "ai"), "AI")}
+             for a in arts}
+    (DOCS / "articles_index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(_sitemap(arts), encoding="utf-8")

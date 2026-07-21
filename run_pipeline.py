@@ -56,10 +56,14 @@ def main() -> int:
     print("[バズ動画TOP10] (久遠) — 毎時更新")
     videos = buzz.fetch_top10()
     if videos:
-        # 既存動画のコメントは引き継ぎ、新規ランクインだけ生成(Gemini節約)
-        prev = {v["id"]: v.get("comment", "") for v in buzz.load().get("videos", [])}
+        # コメントは恒久キャッシュから引き継ぎ(ランク外→再ランクインでも再生成しない)、新規だけ生成
+        prev_data = buzz.load()
+        cache = dict(prev_data.get("comment_cache", {}))
+        for v in prev_data.get("videos", []):
+            if v.get("comment"):
+                cache.setdefault(v["id"], v["comment"])
         for v in videos:
-            v["comment"] = prev.get(v["id"], "")
+            v["comment"] = cache.get(v["id"], "")
         missing = [v for v in videos if not v["comment"]]
         if missing:
             try:
@@ -68,7 +72,11 @@ def main() -> int:
                 print(f"  新規{len(missing)}本にコメント付与")
             except Exception as e:
                 print(f"  コメント生成失敗(なしで続行): {e}")
-        buzz.save(videos, [v.get("comment", "") for v in videos])
+        for v in videos:
+            if v.get("comment"):
+                cache[v["id"]] = v["comment"]
+        cache = dict(list(cache.items())[-300:])  # 際限なく肥大させない
+        buzz.save(videos, [v.get("comment", "") for v in videos], cache)
 
     print("[サイト生成] (八重樫)")
     if articles:
