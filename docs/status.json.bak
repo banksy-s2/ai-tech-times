@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-22 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-22 03:00",
+ "mode": "軽量便(海外AIの声)",
  "articles": [
   {
-   "title": "Google、Gemini 3.6 Flashを150ドルに引き下げた理由",
-   "path": "/articles/20260722-google-gemini-36-flash-pricing.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Alphabet株が上昇、新AIチップ開発報道",
-   "path": "/articles/20260722-alphabet-developing-efficient-ai-chip.html",
-   "cat": "シリコンバレー最速"
+   "title": "MacでAIを1台のアプリで動かすNativ登場",
+   "path": "/articles/20260722-nativ-run-ai-models-locally-on-mac.html",
+   "cat": "海外AIの声"
   }
  ],
  "buzz_top": {

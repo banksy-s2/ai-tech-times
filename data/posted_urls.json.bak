@@ -46,7 +46,8 @@
   "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
   "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
   "https://www.techmeme.com/260721/p25#a260721p25",
-  "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html"
+  "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
+  "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -124,6 +125,8 @@
   "Google prices Gemini 3.6 Flash lower than 3.5 Flash, at $1.50/1M input tokens and $7.50/1M output tokens; Gemini 3.5 Flash-Lite is priced at $0.30 and $2.50 (Abner Li/9to5Google)",
   "Alphabet stock pops on report it's developing a more efficient AI chip",
   "Google、Gemini 3.6 Flashを150ドルに引き下げた理由",
-  "Alphabet株が上昇、新AIチップ開発報道"
+  "Alphabet株が上昇、新AIチップ開発報道",
+  "Nativ: Run AI models locally on your Mac",
+  "MacでAIを1台のアプリで動かすNativ登場"
  ]
 }
