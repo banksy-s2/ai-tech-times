@@ -1,4 +1,4 @@
-"""リサーチャー 久遠汐里: RSS巡回と候補収集(標準ライブラリのみ)"""
+"""リサーチャー 久遠汐里: カテゴリ別RSS巡回と候補収集(標準ライブラリのみ)"""
 import json
 import re
 import ssl
@@ -11,21 +11,36 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 POSTED_FILE = DATA_DIR / "posted_urls.json"
 
-RSS_SOURCES = [
-    # 日本語
-    ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
-    ("Publickey", "https://www.publickey1.jp/atom.xml"),
-    ("Gigazine", "https://gigazine.net/news/rss_2.0/"),
-    # 英語
-    ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
-    ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
-    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
-    ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
-    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    # コミュニティ
-    ("HN: AI/LLM", "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&points=80"),
-]
+# カテゴリ定義(key → 表示名)。追加はここと SOURCES / PICKS_PER_CATEGORY へ
+CATEGORIES = {
+    "ai": "AI",
+    "influencer": "インフルエンサー",
+    "world": "時事・世界",
+}
 
+SOURCES = {
+    "ai": [
+        ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
+        ("Publickey", "https://www.publickey1.jp/atom.xml"),
+        ("Gigazine", "https://gigazine.net/news/rss_2.0/"),
+        ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
+        ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
+        ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+        ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
+        ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
+        ("HN: AI/LLM", "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&points=80"),
+    ],
+    "influencer": [
+        ("Googleニュース: インフルエンサー",
+         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B5%E3%83%BC%20OR%20YouTuber%20OR%20TikToker%20OR%20VTuber&hl=ja&gl=JP&ceid=JP:ja"),    ],
+    "world": [
+        ("NHK 主要ニュース", "https://www.nhk.or.jp/rss/news/cat0.xml"),
+        ("NHK 国際", "https://www.nhk.or.jp/rss/news/cat6.xml"),
+        ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ],
+}
+
+# AIカテゴリだけはフィード内に雑多な記事が混ざるためキーワードで絞る
 AI_KEYWORDS = [
     "AI", "人工知能", "生成AI", "LLM", "GPT", "Claude", "Gemini", "Llama",
     "OpenAI", "Anthropic", "DeepMind", "Mistral", "xAI", "Grok",
@@ -94,16 +109,16 @@ def _parse_feed(source: str, raw: bytes) -> list[dict]:
     return items
 
 
-def collect() -> list[dict]:
-    """全ソースを巡回し、新鮮でAI関連かつ未報の候補を返す"""
+def collect(category: str) -> list[dict]:
+    """指定カテゴリのソースを巡回し、新鮮で未報の候補を返す"""
     posted = set(json.loads(POSTED_FILE.read_text(encoding="utf-8"))) if POSTED_FILE.exists() else set()
     cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
     candidates, seen = [], set()
-    for source, url in RSS_SOURCES:
+    for source, url in SOURCES[category]:
         try:
             items = _parse_feed(source, _fetch(url))
         except Exception as e:
-            print(f"  [collect] {source} 取得失敗: {e}")
+            print(f"  [collect:{category}] {source} 取得失敗: {e}")
             continue
         fresh = 0
         for it in items:
@@ -115,13 +130,15 @@ def collect() -> list[dict]:
                     continue
             if it["url"] in posted or it["url"] in seen:
                 continue
-            text = f"{it['title']} {it['summary']}"
-            if not any(k.lower() in text.lower() for k in AI_KEYWORDS):
-                continue
+            if category == "ai":
+                text = f"{it['title']} {it['summary']}"
+                if not any(k.lower() in text.lower() for k in AI_KEYWORDS):
+                    continue
+            it["category"] = category
             seen.add(it["url"])
             candidates.append(it)
             fresh += 1
-        print(f"  [collect] {source}: {fresh}件")
+        print(f"  [collect:{category}] {source}: {fresh}件")
     return candidates
 
 

@@ -8,10 +8,22 @@ import urllib.request
 MODEL = "gemini-flash-latest"  # 無料枠で動く唯一のモデル(2.0-flashは枠0で429)
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
-DAILY_PICKS = 3
+# カテゴリごとの1日の掲載本数と選定基準
+PICKS_PER_CATEGORY = {"ai": 3, "influencer": 2, "world": 3}
+
+SELECT_CRITERIA = {
+    "ai": """- 大手AI企業の新モデル/新製品発表、業界に影響する出来事を優先
+- 単なるハウツー記事や宣伝は避ける""",
+    "influencer": """- 国内外のインフルエンサー/YouTuber/TikToker/VTuberの話題性ある出来事を優先
+- 記録達成、大型コラボ、プラットフォームの重要変更、社会的影響のある出来事など
+- 根拠のないゴシップや個人攻撃的な話題は避ける""",
+    "world": """- 世界と日本の重要ニュース(政治・経済・国際情勢・災害・社会)を優先
+- 影響範囲が大きく、明日も語られるニュースを選ぶ
+- 事件の凄惨な詳細が主題のものは避ける""",
+}
 
 
-def _gemini(prompt: str, retries: int = 3) -> str:
+def _gemini(prompt: str, retries: int = 5) -> str:
     key = os.environ["GEMINI_API_KEY"]
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
@@ -28,7 +40,7 @@ def _gemini(prompt: str, retries: int = 3) -> str:
         except Exception as e:
             if attempt == retries - 1:
                 raise
-            wait = 20 * (attempt + 1)
+            wait = 30 * (attempt + 1)  # 無料枠のRPM制限は1分待てば回復する
             print(f"  [editor] Gemini失敗({e})、{wait}秒後にリトライ")
             time.sleep(wait)
 
@@ -46,17 +58,17 @@ def _parse_json(text: str):
     return json.loads(text)
 
 
-def select(candidates: list[dict]) -> list[dict]:
-    """候補からトップ3を選定。話題の重複を避け、ニュース価値の高い順"""
+def select(candidates: list[dict], category: str) -> list[dict]:
+    """カテゴリごとの基準でトップN本を選定。話題の重複を避け、ニュース価値の高い順"""
+    n = PICKS_PER_CATEGORY[category]
     listing = "\n".join(
         f"{i}: [{c['source']}] {c['title']} — {c['summary'][:150]}"
         for i, c in enumerate(candidates))
-    prompt = f"""あなたはAIニュースサイトの編集長です。以下の候補記事から、日本の読者にとってニュース価値が最も高い{DAILY_PICKS}本を選んでください。
+    prompt = f"""あなたはニュースサイトの編集長です。以下の候補記事から、日本の読者にとってニュース価値が最も高い{n}本を選んでください。
 
 ルール:
 - 同じ話題(同じ発表を扱った記事)は1本だけ選ぶ
-- 大手AI企業の新モデル/新製品発表、業界に影響する出来事を優先
-- 単なるハウツー記事や宣伝は避ける
+{SELECT_CRITERIA[category]}
 
 候補:
 {listing}
@@ -65,13 +77,13 @@ JSON配列のみ出力: [{{"index": 数値, "reason": "選定理由1文"}}]"""
     data = _parse_json(_gemini(prompt))
     if isinstance(data, dict):  # {"picks": [...]} 形式で返るケース
         data = next((v for v in data.values() if isinstance(v, list)), [data])
-    picks = data[:DAILY_PICKS]
+    picks = data[:n]
     return [candidates[p["index"]] for p in picks if 0 <= p.get("index", -1) < len(candidates)]
 
 
 def write_article(item: dict) -> dict:
     """1本の候補を日本語記事に。元記事の要約にある事実のみ使用"""
-    prompt = f"""あなたはAIニュースサイト「AI TECH TIMES」の記者です。以下の元記事情報だけを使って、日本語のニュース記事を書いてください。
+    prompt = f"""あなたはニュースサイト「AI TECH TIMES」の記者です。以下の元記事情報だけを使って、日本語のニュース記事を書いてください。
 
 元記事:
 - 出典: {item['source']}
@@ -88,7 +100,25 @@ def write_article(item: dict) -> dict:
 JSONのみ出力:
 {{"title": "日本語見出し", "lead": "1〜2文のリード文", "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens"}}"""
     art = _parse_json(_gemini(prompt))
-    art["slug"] = re.sub(r"[^a-z0-9-]", "", art.get("slug", "news").lower())[:60] or "news"
+    if isinstance(art, list):  # [{...}] 形式で返るケース
+        art = next((x for x in art if isinstance(x, dict)), {})
+    art["slug"] =re.sub(r"[^a-z0-9-]", "", art.get("slug", "news").lower())[:60] or "news"
     art["source"] = item["source"]
     art["source_url"] = item["url"]
+    art["category"] = item.get("category", "ai")
     return art
+
+
+def buzz_comments(videos: list[dict]) -> list[str]:
+    """バズ動画ランキングへの一言コメント(10本まとめて1回で生成)"""
+    listing = "\n".join(f"{i + 1}位: {v['title']} ({v['channel']}, {v['views']:,}回再生)"
+                        for i, v in enumerate(videos))
+    prompt = f"""以下は今日の世界のYouTube急上昇動画ランキングです。各動画に日本語の一言紹介コメント(30字以内、タイトルから分かる範囲のことだけ、断定しすぎない)を付けてください。
+
+{listing}
+
+JSON配列のみ出力(順位順に{len(videos)}要素): ["コメント1", "コメント2", ...]"""
+    data = _parse_json(_gemini(prompt))
+    if isinstance(data, dict):
+        data = next((v for v in data.values() if isinstance(v, list)), [])
+    return [str(c) for c in data]

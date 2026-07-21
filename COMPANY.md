@@ -1,6 +1,7 @@
 # AI TECH TIMES 編集部(株)
 
-AI・テックニュースサイト「AI TECH TIMES」を運営するAI会社。
+総合ニュースサイト「AI TECH TIMES」を運営するAI会社。
+カテゴリは **AI / インフルエンサー / 時事・世界** の3つ + **世界のバズ動画TOP10ランキング**。
 記事の収集・選定・執筆・公開・X告知まで、毎朝7時(JST)に全自動で回る。
 
 - サイト: https://banksy-s2.github.io/ai-tech-times/
@@ -19,12 +20,13 @@ AI・テックニュースサイト「AI TECH TIMES」を運営するAI会社。
 
 ## 業務フロー(毎朝7:00 JST = 22:00 UTC cron)
 
-1. **久遠**: RSS 12ソースを巡回、AI関連キーワードで絞り込み、既報を除外
-2. **真行寺**: Gemini(gemini-flash-latest)で本日のトップ3を選定
+1. **久遠**: カテゴリ別にRSSを巡回(AI 9ソース / インフルエンサー: Googleニュース / 時事・世界: NHK+BBC)、既報を除外
+2. **真行寺**: Gemini(gemini-flash-latest)でカテゴリごとに選定(AI 3本・インフルエンサー2本・時事3本)
 3. **真行寺**: 各ネタを500〜800字の日本語記事に執筆(出典明記、捏造禁止)
-4. **八重樫**: 静的サイトをdocs/に再生成(JSON-LD/OGP/sitemap/llms.txt/RSS込み)
-5. **桐生**: 新着記事をXに告知投稿(トークン未設定時はスキップ)
-6. GitHub Actionsがdata/とdocs/をcommit → GitHub Pagesが即時公開
+4. **久遠**: YouTube急上昇(米・英・日・韓・伯・印)を統合し世界バズ動画TOP10を集計、真行寺が一言コメント
+5. **八重樫**: 静的サイトをdocs/に再生成(カテゴリ別ページ/buzz.html/JSON-LD/OGP/sitemap/llms.txt/RSS込み)
+6. **桐生**: 新着記事をXに告知投稿(トークン未設定時はスキップ)
+7. GitHub Actionsがdata/とdocs/をcommit → GitHub Pagesが即時公開
 
 ## 編集方針
 

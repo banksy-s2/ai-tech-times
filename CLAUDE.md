@@ -4,10 +4,11 @@
 
 ## 構成
 
-- `run_pipeline.py` — フルパイプライン(収集→選定→執筆→サイト生成→X告知)
-- `src/collect.py` — RSS巡回(標準ライブラリのみ)。ソース追加はここの `RSS_SOURCES`
-- `src/editor.py` — Gemini `gemini-flash-latest`(無料枠)で選定+執筆。RESTを直叩き、SDK依存なし
-- `src/build.py` — `data/articles.json` → `docs/` に静的サイト全再生成(JSON-LD/OGP/sitemap/llms.txt/RSS/robots)
+- `run_pipeline.py` — フルパイプライン(カテゴリ別収集→選定→執筆→バズ集計→サイト生成→X告知)
+- `src/collect.py` — カテゴリ別RSS巡回(標準ライブラリのみ)。カテゴリ/ソース追加は `CATEGORIES` と `SOURCES`
+- `src/editor.py` — Gemini `gemini-flash-latest`(無料枠)で選定+執筆+バズコメント。RESTを直叩き、SDK依存なし。本数は `PICKS_PER_CATEGORY`
+- `src/buzz.py` — YouTube Data API(急上昇×6地域)で世界バズ動画TOP10集計 → `data/buzz.json`。`YOUTUBE_API_KEY` 未設定ならスキップ
+- `src/build.py` — `data/` → `docs/` に静的サイト全再生成(カテゴリ別ページ+buzz.html+JSON-LD/OGP/sitemap/llms.txt/RSS/robots)
 - `src/announce.py` — X告知。4つのXトークンsecretsが全部あるときだけ投稿、なければスキップ
 - `.github/workflows/daily.yml` — 毎朝7:00 JST(22:00 UTC)cron。data/とdocs/をcommit&push
 

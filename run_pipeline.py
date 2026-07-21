@@ -1,44 +1,55 @@
-"""毎朝のフルパイプライン: 収集→選定→執筆→サイト生成→X告知"""
+"""毎朝のフルパイプライン: カテゴリ別収集→選定→執筆→バズ動画集計→サイト生成→X告知"""
 import sys
 
 sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-from src import announce, build, collect, editor
+from src import announce, build, buzz, collect, editor
 
 
 def main() -> int:
-    print("[1/5] RSS収集(久遠)")
-    candidates = collect.collect()
-    print(f"  候補: {len(candidates)}件")
-    if not candidates:
-        print("候補ゼロ。サイトだけ再生成して終了")
-        build.build()
-        return 0
-
-    print("[2/5] トップ3選定(真行寺)")
-    picks = editor.select(candidates)
-    for p in picks:
-        print(f"  OK [{p['source']}] {p['title']}")
-
-    print("[3/5] 記事執筆(真行寺)")
     articles = []
-    for p in picks:
+    for cat, label in collect.CATEGORIES.items():
+        print(f"[収集: {label}] (久遠)")
+        candidates = collect.collect(cat)
+        print(f"  候補: {len(candidates)}件")
+        if not candidates:
+            continue
+        print(f"[選定・執筆: {label}] (真行寺)")
         try:
-            articles.append(editor.write_article(p))
+            picks = editor.select(candidates, cat)
         except Exception as e:
-            print(f"  執筆失敗({p['title']}): {e}")
-    if not articles:
-        print("執筆ゼロ。異常終了")
+            print(f"  選定失敗(スキップ): {e}")
+            continue
+        for p in picks:
+            print(f"  OK [{p['source']}] {p['title']}")
+            try:
+                articles.append(editor.write_article(p))
+            except Exception as e:
+                print(f"  執筆失敗({p['title']}): {e}")
+
+    print("[バズ動画TOP10] (久遠)")
+    videos = buzz.fetch_top10()
+    if videos:
+        try:
+            comments = editor.buzz_comments(videos)
+        except Exception as e:
+            print(f"  コメント生成失敗(コメントなしで続行): {e}")
+            comments = []
+        buzz.save(videos, comments)
+
+    print("[サイト生成] (八重樫)")
+    if articles:
+        build.save_articles(articles)
+        collect.mark_posted([a["source_url"] for a in articles])
+    build.build()
+
+    if not articles and not videos:
+        print("記事もバズ動画もゼロ。異常終了")
         return 1
 
-    print("[4/5] サイト生成(八重樫)")
-    build.save_articles(articles)
-    build.build()
-    collect.mark_posted([a["source_url"] for a in articles])
-
-    print("[5/5] X告知(桐生)")
+    print("[X告知] (桐生)")
     try:
         announce.post(articles)
     except Exception as e:

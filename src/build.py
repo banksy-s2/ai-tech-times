@@ -1,8 +1,11 @@
-"""開発部長 八重樫慧: data/articles.json から静的サイトをdocs/に全再生成"""
+"""開発部長 八重樫慧: data/ から静的サイトをdocs/に全再生成"""
 import html
 import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+
+from . import buzz
+from .collect import CATEGORIES
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "articles.json"
@@ -10,19 +13,26 @@ DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
 BASE_URL = "https://banksy-s2.github.io/ai-tech-times"
-TAGLINE = "AIが編集するAI・テックニュース。毎朝7時更新。"
+TAGLINE = "AI・インフルエンサー・世界の今を毎朝7時にお届け。AI編集部が自動更新。"
 JST = timezone(timedelta(hours=9))
 
+NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/influencer.html", "インフルエンサー"),
+       ("/world.html", "時事・世界"), ("/buzz.html", "バズ動画TOP10")]
+
 CSS = """
-:root{--bg:#0d1117;--card:#161b22;--border:#30363d;--text:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--accent2:#f78166}
+:root{--bg:#0d1117;--card:#161b22;--border:#30363d;--text:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--accent2:#f78166;--gold:#e3b341}
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:var(--bg);color:var(--text);font-family:"Hiragino Sans","Yu Gothic UI","Noto Sans JP",sans-serif;line-height:1.8}
 a{color:var(--accent);text-decoration:none}
 .wrap{max-width:860px;margin:0 auto;padding:0 20px}
-header{border-bottom:1px solid var(--border);padding:28px 0;margin-bottom:32px}
+header{border-bottom:1px solid var(--border);padding:24px 0 0}
 .logo{font-size:1.7rem;font-weight:800;letter-spacing:.05em;color:var(--text)}
 .logo span{color:var(--accent2)}
 .tagline{color:var(--muted);font-size:.85rem;margin-top:4px}
+nav{display:flex;gap:4px;margin-top:14px;overflow-x:auto}
+nav a{color:var(--muted);font-size:.88rem;padding:8px 14px;border-bottom:2px solid transparent;white-space:nowrap}
+nav a.on{color:var(--text);border-bottom-color:var(--accent2)}
+main{margin-top:28px}
 .date-head{font-size:.9rem;color:var(--muted);margin:24px 0 12px;border-left:3px solid var(--accent2);padding-left:10px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:22px 24px;margin-bottom:16px;transition:border-color .2s}
 .card:hover{border-color:var(--accent)}
@@ -31,12 +41,22 @@ header{border-bottom:1px solid var(--border);padding:28px 0;margin-bottom:32px}
 .card .lead{color:var(--muted);font-size:.92rem}
 .meta{font-size:.78rem;color:var(--muted);margin-top:10px}
 .tag{display:inline-block;background:#1f2937;border-radius:20px;padding:1px 10px;margin-right:6px;font-size:.75rem;color:var(--accent)}
+.cat{display:inline-block;background:var(--accent2);color:#0d1117;border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.72rem;font-weight:700}
 article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
 footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
 .back{display:inline-block;margin:20px 0;font-size:.9rem}
+.rank-card{display:flex;gap:16px;background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;margin-bottom:14px;align-items:center}
+.rank-card:hover{border-color:var(--accent)}
+.rank-no{font-size:1.6rem;font-weight:800;color:var(--gold);min-width:2.2rem;text-align:center}
+.rank-thumb{width:160px;min-width:160px;border-radius:6px;display:block}
+.rank-body h2{font-size:1rem;line-height:1.5;margin-bottom:4px}
+.rank-body h2 a{color:var(--text)}
+.rank-meta{font-size:.8rem;color:var(--muted)}
+.rank-comment{font-size:.85rem;color:var(--accent);margin-top:4px}
+@media(max-width:600px){.rank-thumb{width:110px;min-width:110px}.rank-no{font-size:1.2rem;min-width:1.6rem}}
 """
 
 
@@ -46,8 +66,19 @@ def _load() -> list[dict]:
     return []
 
 
+def _fmt_views(n: int) -> str:
+    if n >= 100_000_000:
+        return f"{n / 100_000_000:.1f}億回再生"
+    if n >= 10_000:
+        return f"{n / 10_000:.0f}万回再生"
+    return f"{n:,}回再生"
+
+
 def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
     e = html.escape
+    nav = "".join(
+        f'<a href="{BASE_URL}{href}" class="{"on" if href == path or (href != "/" and path.startswith(href)) else ""}">{label}</a>'
+        for href, label in NAV)
     return f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -70,6 +101,7 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 <header><div class="wrap">
 <a href="{BASE_URL}/" class="logo">AI TECH <span>TIMES</span></a>
 <div class="tagline">{TAGLINE}</div>
+<nav>{nav}</nav>
 </div></header>
 <main class="wrap">
 {body}
@@ -80,14 +112,33 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 </html>"""
 
 
+def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
+    e = html.escape
+    out, last_date = [], None
+    for a in arts:
+        if with_date_heads and a["date"] != last_date:
+            out.append(f'<div class="date-head">{a["date"]}</div>')
+            last_date = a["date"]
+        tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
+        cat = CATEGORIES.get(a.get("category", "ai"), "AI")
+        out.append(f"""<div class="card">
+<h2><a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
+<div class="lead">{e(a['lead'])}</div>
+<div class="meta"><span class="cat">{cat}</span>{tags} 出典: {e(a['source'])}</div>
+</div>""")
+    return "\n".join(out)
+
+
 def _article_html(a: dict) -> str:
     e = html.escape
     paragraphs = "\n".join(f"<p>{e(p)}</p>" for p in a["body"])
     tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
+    cat = CATEGORIES.get(a.get("category", "ai"), "AI")
     jsonld = json.dumps({
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a["title"], "description": a["lead"],
         "datePublished": a["date"], "inLanguage": "ja",
+        "articleSection": cat,
         "author": {"@type": "Organization", "name": f"{SITE_NAME} 編集部"},
         "publisher": {"@type": "Organization", "name": SITE_NAME},
         "mainEntityOfPage": f"{BASE_URL}{a['path']}",
@@ -96,7 +147,7 @@ def _article_html(a: dict) -> str:
     body = f"""<a class="back" href="{BASE_URL}/">← トップに戻る</a>
 <article>
 <h1>{e(a['title'])}</h1>
-<div class="meta">{a['date']} / {tags}</div>
+<div class="meta"><span class="cat">{cat}</span>{a['date']} / {tags}</div>
 <div class="lead">{e(a['lead'])}</div>
 {paragraphs}
 <div class="source">出典: <a href="{e(a['source_url'])}" rel="noopener" target="_blank">{e(a['source'])} — 元記事を読む</a></div>
@@ -105,30 +156,49 @@ def _article_html(a: dict) -> str:
                  f'<script type="application/ld+json">{jsonld}</script>')
 
 
-def _index_html(arts: list[dict]) -> str:
+def _buzz_html(data: dict) -> str:
     e = html.escape
-    cards, last_date = [], None
-    for a in arts[:60]:
-        if a["date"] != last_date:
-            cards.append(f'<div class="date-head">{a["date"]}</div>')
-            last_date = a["date"]
-        tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
-        cards.append(f"""<div class="card">
-<h2><a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
-<div class="lead">{e(a['lead'])}</div>
-<div class="meta">{tags} 出典: {e(a['source'])}</div>
+    rows = []
+    for v in data.get("videos", []):
+        regions = "・".join(v.get("regions", [])[:4])
+        comment = f'<div class="rank-comment">{e(v["comment"])}</div>' if v.get("comment") else ""
+        rows.append(f"""<div class="rank-card">
+<div class="rank-no">{v['rank']}</div>
+<a href="{e(v['url'])}" rel="noopener" target="_blank"><img class="rank-thumb" src="{e(v['thumb'])}" alt="{e(v['title'])}" loading="lazy"></a>
+<div class="rank-body">
+<h2><a href="{e(v['url'])}" rel="noopener" target="_blank">{e(v['title'])}</a></h2>
+<div class="rank-meta">{e(v['channel'])} / {_fmt_views(v['views'])} / 急上昇: {regions}</div>
+{comment}
+</div>
 </div>""")
-    return _page(f"{SITE_NAME} — {TAGLINE}", TAGLINE, "/", "\n".join(cards))
+    date = data.get("date") or "未集計"
+    jsonld = json.dumps({
+        "@context": "https://schema.org", "@type": "ItemList",
+        "name": f"世界のバズ動画TOP10 ({date})",
+        "itemListElement": [
+            {"@type": "ListItem", "position": v["rank"], "url": v["url"], "name": v["title"]}
+            for v in data.get("videos", [])
+        ],
+    }, ensure_ascii=False)
+    body = f"""<article>
+<h1>世界のバズ動画TOP10</h1>
+<div class="meta">{date} 集計 / YouTube急上昇(米・英・日・韓・伯・印)を再生回数で統合</div>
+</article>
+{''.join(rows) if rows else '<p>本日の集計はまだありません。</p>'}"""
+    return _page(f"世界のバズ動画TOP10 | {SITE_NAME}",
+                 "世界6地域のYouTube急上昇を毎朝集計したバズ動画ランキング",
+                 "/buzz.html", body,
+                 f'<script type="application/ld+json">{jsonld}</script>')
 
 
 def _about_html() -> str:
     body = f"""<article>
 <h1>このサイトについて</h1>
-<p>{SITE_NAME}は、AI編集部(生成AI)が国内外のテックメディアのRSSを毎朝巡回し、その日のAI・テック関連の重要ニュースを選定・執筆している自動運営ニュースサイトです。</p>
+<p>{SITE_NAME}は、AI編集部(生成AI)が国内外のメディアのRSSとYouTube急上昇を毎朝巡回し、AI・インフルエンサー・時事の重要ニュースと世界のバズ動画を選定・執筆している自動運営ニュースサイトです。</p>
 <p>記事は元記事の要約に基づいて生成されており、各記事の末尾に必ず出典リンクを明記しています。正確な情報は出典元をご確認ください。</p>
 <p>更新: 毎朝7時(JST) / 運営: AI TECH TIMES 編集部</p>
 </article>"""
-    return _page(f"このサイトについて | {SITE_NAME}", "AI TECH TIMESの運営方針", "/about.html", body)
+    return _page(f"このサイトについて | {SITE_NAME}", f"{SITE_NAME}の運営方針", "/about.html", body)
 
 
 def _feed_xml(arts: list[dict]) -> str:
@@ -138,8 +208,9 @@ def _feed_xml(arts: list[dict]) -> str:
 <link>{BASE_URL}{a['path']}</link>
 <guid>{BASE_URL}{a['path']}</guid>
 <pubDate>{datetime.strptime(a['date'], '%Y-%m-%d').replace(tzinfo=JST).strftime('%a, %d %b %Y 07:00:00 +0900')}</pubDate>
+<category>{e(CATEGORIES.get(a.get('category', 'ai'), 'AI'))}</category>
 <description>{e(a['lead'])}</description>
-</item>""" for a in arts[:20])
+</item>""" for a in arts[:30])
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>{SITE_NAME}</title>
@@ -151,7 +222,9 @@ def _feed_xml(arts: list[dict]) -> str:
 
 
 def _sitemap(arts: list[dict]) -> str:
-    urls = [f"{BASE_URL}/", f"{BASE_URL}/about.html"] + [f"{BASE_URL}{a['path']}" for a in arts]
+    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html"]
+            + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+            + [f"{BASE_URL}{a['path']}" for a in arts])
     entries = "\n".join(f"<url><loc>{u}</loc></url>" for u in urls)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -159,16 +232,24 @@ def _sitemap(arts: list[dict]) -> str:
 </urlset>"""
 
 
-def _llms_txt(arts: list[dict]) -> str:
+def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
     recent = "\n".join(f"- [{a['title']}]({BASE_URL}{a['path']}): {a['lead']}" for a in arts[:15])
+    top3 = "\n".join(f"- {v['rank']}位: [{v['title']}]({v['url']})" for v in buzz_data.get("videos", [])[:3])
     return f"""# {SITE_NAME}
 
-> {TAGLINE} 生成AIが国内外テックメディアのRSSから毎朝ニュースを選定・執筆する自動運営サイト。全記事に出典リンクあり。
+> {TAGLINE} 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
 {recent}
 
-## その他
+## 世界のバズ動画TOP3 ({buzz_data.get('date', '未集計')})
+{top3}
+
+## セクション
+- [AIニュース]({BASE_URL}/ai.html)
+- [インフルエンサー]({BASE_URL}/influencer.html)
+- [時事・世界]({BASE_URL}/world.html)
+- [バズ動画TOP10]({BASE_URL}/buzz.html)
 - [このサイトについて]({BASE_URL}/about.html)
 - [RSSフィード]({BASE_URL}/feed.xml)
 """
@@ -176,20 +257,28 @@ def _llms_txt(arts: list[dict]) -> str:
 
 def build() -> None:
     arts = sorted(_load(), key=lambda a: a["date"], reverse=True)
+    buzz_data = buzz.load()
     DOCS.mkdir(exist_ok=True)
     (DOCS / "articles").mkdir(exist_ok=True)
     (DOCS / "style.css").write_text(CSS, encoding="utf-8")
-    (DOCS / "index.html").write_text(_index_html(arts), encoding="utf-8")
+    (DOCS / "index.html").write_text(
+        _page(f"{SITE_NAME} — {TAGLINE}", TAGLINE, "/", _cards(arts[:60])), encoding="utf-8")
+    for cat, label in CATEGORIES.items():
+        cat_arts = [a for a in arts if a.get("category", "ai") == cat]
+        (DOCS / f"{cat}.html").write_text(
+            _page(f"{label}のニュース | {SITE_NAME}", f"{label}の最新ニュース一覧",
+                  f"/{cat}.html", _cards(cat_arts[:60])), encoding="utf-8")
+    (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(_sitemap(arts), encoding="utf-8")
-    (DOCS / "llms.txt").write_text(_llms_txt(arts), encoding="utf-8")
+    (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data), encoding="utf-8")
     (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}/sitemap.xml\n", encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     for a in arts:
         out = DOCS / a["path"].lstrip("/")
         out.write_text(_article_html(a), encoding="utf-8")
-    print(f"  [build] {len(arts)}記事でサイト再生成完了")
+    print(f"  [build] {len(arts)}記事 + バズ動画{len(buzz_data.get('videos', []))}本でサイト再生成完了")
 
 
 def save_articles(new_arts: list[dict]) -> None:
