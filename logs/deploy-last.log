@@ -1,19 +1,24 @@
-﻿
-[1m[37m===[39m Deploying to 'ai-tech-times'...[22m
+﻿node.exe : node:internal/modules/cjs/loader:1459
+発生場所 C:\Users\User\Desktop\ai-tech-times\run_edition.ps1:92 文字:16
++ ...      $dep = & "C:\Program Files\nodejs\node.exe" "$env:APPDATA\npm\no ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (node:internal/modules/cjs/loader:1459:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  throw err;
+  ^
 
-[36m[1mi [22m[39m deploying [1mhosting[22m
-[36m[1mi  hosting[ai-tech-times]:[22m[39m beginning deploy...
-[36m[1mi  hosting[ai-tech-times]:[22m[39m found 54 files in [1mdocs[22m
-[36m[1mi  hosting:[22m[39m uploading new files [0/9] ([1m[32m0%[39m[22m)
-[36m[1mi  hosting:[22m[39m upload complete
-[32m[1m+  hosting[ai-tech-times]:[22m[39m file upload complete
-[36m[1mi  hosting[ai-tech-times]:[22m[39m finalizing version...
-[32m[1m+  hosting[ai-tech-times]:[22m[39m version finalized
-[36m[1mi  hosting[ai-tech-times]:[22m[39m releasing new version...
-[32m[1m+  hosting[ai-tech-times]:[22m[39m release complete
+Error: Cannot find module 'C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+    at Module._load (node:internal/modules/cjs/loader:1242:25)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
 
-[32m[1m+ [22m[39m [1m[4mDeploy complete![24m[22m
-
-[1mProject Console:[22m https://console.firebase.google.com/project/ai-tech-times/overview
-[1mHosting URL:[22m https://ai-tech-times.web.app
+Node.js v24.14.1
 

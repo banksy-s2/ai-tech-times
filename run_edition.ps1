@@ -85,15 +85,28 @@ try {
     if ($LASTEXITCODE -eq 0) { Log "git push OK" } else { Log "git push FAILED (exit $LASTEXITCODE) - continuing" }
 
     # --- deploy (must succeed, otherwise articles are invisible) ---
-    # call node.exe directly: firebase.cmd fails to launch under Task Scheduler context
+    # NOTE: under Task Scheduler, env-var based paths resolved wrong (APPDATA mystery).
+    # Use hardcoded literal paths, try multiple strategies, log environment for diagnosis.
+    Log ("env check: APPDATA=" + $env:APPDATA + " USER=" + $env:USERNAME + " js exists=" + (Test-Path "C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js"))
+    $fbArgs = @("deploy", "--only", "hosting", "--project", "ai-tech-times", "--non-interactive")
+    $strategies = @(
+        @{n="node-direct"; exe="C:\Program Files\nodejs\node.exe"; pre=@("C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js")},
+        @{n="firebase-cmd"; exe="C:\Users\User\AppData\Roaming\npm\firebase.cmd"; pre=@()},
+        @{n="cmd-shell"; exe="C:\Windows\System32\cmd.exe"; pre=@("/c", "C:\Users\User\AppData\Roaming\npm\firebase.cmd")}
+    )
     $dep = ""
     $depExit = 1
-    try {
-        $dep = & "C:\Program Files\nodejs\node.exe" "$env:APPDATA\npm\node_modules\firebase-tools\lib\bin\firebase.js" deploy --only hosting --project ai-tech-times --non-interactive 2>&1 | Out-String
-        $depExit = $LASTEXITCODE
-    } catch {
-        $dep = "deploy invocation threw: " + $_.Exception.Message
-        $depExit = 1
+    foreach ($s in $strategies) {
+        if (($s.pre.Count -eq 0 -or $s.n -eq "cmd-shell") -and -not (Test-Path $s.exe)) { Log ("deploy skip " + $s.n + ": exe missing"); continue }
+        try {
+            $dep = & $s.exe ($s.pre + $fbArgs) 2>&1 | Out-String
+            $depExit = $LASTEXITCODE
+        } catch {
+            $dep = $s.n + " threw: " + $_.Exception.Message
+            $depExit = 1
+        }
+        Log ("deploy try " + $s.n + " -> exit " + $depExit)
+        if ($depExit -eq 0) { break }
     }
     try { $dep | Out-File "$proj\logs\deploy-last.log" -Encoding utf8 } catch {}  # always keep for diagnosis
     if ($depExit -ne 0) {

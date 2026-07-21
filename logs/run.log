@@ -133,3 +133,26 @@
 [2026-07-21 23:30:16] git push OK
 [2026-07-21 23:30:28] deploy OK
 [2026-07-21 23:30:28] === edition end ===
+[2026-07-22 00:00:02] === edition start ===
+== 軽量便(0時): AI(海外) ==
+[収集: AI(海外)] (久遠)
+  [collect:ai] TechCrunch AI: 0件
+  [collect:ai] The Verge AI: 2件
+  [collect:ai] VentureBeat AI: 0件
+  [collect:ai] MIT Tech Review AI: 0件
+  [collect:ai] Hugging Face Blog: 0件
+  [collect:ai] HN: AI/LLM 取得失敗: <urlopen error _ssl.c:993: The handshake operation timed out>
+  候補: 2件
+[選定・執筆: AI(海外)] (真行寺)
+  OK [The Verge AI] SpaceX in your index fund, explained
+  OK [The Verge AI] Adobe’s ‘natural look’ camera app embraces generative AI
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 125本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 39記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 00:00:51] git push OK
+[2026-07-22 00:00:52] deploy FAILED (exit 1) - see logs/deploy-last.log
