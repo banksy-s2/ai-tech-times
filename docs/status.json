@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-22 05:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-22 06:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "円相場が一時1ドル＝163円台に値下がり、39年半ぶりの円安水準へ",
-   "path": "/articles/20260722-yen-drops-to-163-per-dollar.html",
-   "cat": "時事・世界"
+   "title": "Anthropic、書籍の著作権訴訟で15億ドル支払いに合意",
+   "path": "/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "韓国海洋警察、7月22日に竹島で音楽会を開催",
-   "path": "/articles/20260722-korea-coast-guard-takeshima-concert.html",
-   "cat": "時事・世界"
+   "title": "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表",
+   "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {

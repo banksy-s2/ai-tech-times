@@ -1125,5 +1125,59 @@
   "date": "2026-07-22",
   "time": "05:00",
   "path": "/articles/20260722-korea-coast-guard-takeshima-concert.html"
+ },
+ {
+  "title": "Anthropic、書籍の著作権訴訟で15億ドル支払いに合意",
+  "lead": "米AI企業Anthropicによる著作権侵害を巡る集団訴訟で、連邦裁判所が15億ドルの和解案を承認しました。著者側に対し、1冊あたり約3000ドルの救済が提供されます。",
+  "body": [
+   "米The Verge AIなどの報道によると、AIモデルの訓練に著作物である書籍が無断で使用されたとして、著者らがAnthropicを訴えていた集団訴訟について、連邦裁判所の判事が和解案に署名し、正式に承認されました。",
+   "担当したアラセリ・マルティネス＝オルギン判事の月曜付の命令書では、この和解が著者たちにとって「有意義な救済」をもたらすものであると記されています。",
+   "今回の和解により、訴訟に参加した著者らは所有する書籍1冊につき約3000ドルの支払いを受けることになります。AI企業による著作権を巡る動きとして、今後の業界に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI",
+   "著作権"
+  ],
+  "slug": "anthropic-1-5-billion-book-piracy-settlement-approved",
+  "people": [
+   {
+    "name": "アラセリ・マルティネス＝オルギン",
+    "bio": "本件の裁判を担当した連邦裁判所の判事。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+  "category": "ai",
+  "date": "2026-07-22",
+  "time": "06:00",
+  "path": "/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html"
+ },
+ {
+  "title": "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表",
+  "lead": "テッククランチAIの報道によると、ジャック・ドーシー氏がSlackに対抗する新しいグループチャットプラットフォーム「Buzz」を発表しました。人間とAIエージェントが同じ会話に参加できるのが特徴です。",
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。海外メディア「TechCrunch AI」の報道によると、ジャック・ドーシー氏が新たに職場向けのグループチャットプラットフォーム「Buzz」を発表し、Slackなどの既存サービスに対抗する姿勢を見せています。",
+   "Buzzの最大の特徴は、人間とAIエージェントが同じ会話の中に同時に参加できる点にあります。チームのメンバーとAIが一体となってコミュニケーションを行うことで、これまでにない新しいワークプレイスのコラボレーションを実現することを目指しています。",
+   "現在のところ、機能の詳細や提供時期などは限られた情報のみ公開されています。人間とAIが混ざり合う新しいグループチャットの形が、今後のビジネスコミュニケーションにどのような影響を与えるのか、引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "ジャック・ドーシー",
+   "Slack",
+   "Buzz"
+  ],
+  "slug": "jack-dorsey-announces-buzz-group-chat-for-humans-and-ai",
+  "people": [
+   {
+    "name": "ジャック・ドーシー",
+    "bio": "米ツイッターの共同創業者であり、現在は決済企業ブロック（旧スクエア）の最高経営責任者を務める実業家。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+  "category": "ai",
+  "date": "2026-07-22",
+  "time": "06:00",
+  "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html"
  }
 ]
