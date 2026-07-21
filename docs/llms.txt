@@ -3,6 +3,14 @@
 > AI・シリコンバレー速報・インフルエンサー・世界の今を1日4回お届け。AI編集部が自動更新。 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
+- [AppleのAIツール「Live Notes」がGenius Barで試験運用される理由](https://ai-tech-times.web.app/articles/20260721-apple-live-notes-genius-bar-trial.html): Appleは、直営店であるApple StoreのGenius Barにおいて、顧客との会話をAIで文字起こし・要約する新システム「Live Notes」の試験運用を開始しました。
+- [イスラエル、米世論誘導に多額の資金投入　AIとインフルエンサーで何が起きているのか](https://ai-tech-times.web.app/articles/20260721-israel-influence-campaign-ai-american-opinion.html): イスラエルがアメリカ国内の世論を自国有利に誘導するため、多額の資金を投じて影響力工作を行っていることが明らかになりました。AIやインフルエンサーを駆使したその手法が注目を集めています。
+- [米テック大手5社の隠れ負債が8倍の1.65兆ドルに急増](https://ai-tech-times.web.app/articles/20260721-tech-giants-off-balance-sheet-debt-surge.html): Alphabet、Microsoft、Amazon、Meta、Oracleの米テック大手5社において、貸借対照表に記載されない「オフバランス負債」が急増していることが明らかになりました。
+- [NvidiaがNebius株9.3%保有を公表、株価急騰の背景とは](https://ai-tech-times.web.app/articles/20260721-nebius-stock-surges-as-nvidia-discloses-9-3-percent-stake.html): 米半導体大手Nvidiaが、クラウドコンピューティング企業Nebiusの株式を9.3%保有していることが明らかになりました。この発表を受け、Nebiusの株価は急騰しています。
+- [UK政府分析：AIモデルの公開・非公開間の格差が縮小](https://ai-tech-times.web.app/articles/20260721-import-ai-465-uk-government-analysis.html): AI研究に関するニュースレター「Import AI」を発行するJack Clark氏が、最新号で英国政府によるAIモデルの分析結果を紹介しました。
+- [黒木啓司氏に借金1500万円の衝撃、転落人生の現状とは](https://ai-tech-times.web.app/articles/20260721-keiji-kuroki-financial-trouble.html): 元一流タレントとして知られる黒木啓司氏の近況が報じられ、ファンに衝撃を与えています。かつての華やかな姿からは一変した現状に注目が集まっています。
+- [羽田空港の1.9億円強盗未遂、容疑者は1時間前から尾行か](https://ai-tech-times.web.app/articles/20260721-haneda-airport-robbery-attempt-investigation.html): 今年1月、羽田空港の駐車場で発生した現金強盗未遂事件で、新たな捜査状況が明らかになりました。
+- [EU、アリババ傘下アリエクスプレスに1000億円超の制裁金](https://ai-tech-times.web.app/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html): EU（ヨーロッパ連合）は、中国のネット通販大手アリババグループ傘下のアリエクスプレスに対し、違法な商品の流通対策を怠ったとして巨額の制裁金を科しました。
 - [Apple、OpenAI社員数十人に警告。企業秘密漏洩で法的文書を送付](https://ai-tech-times.web.app/articles/20260721-apple-sends-legal-notice-to-openai-employees.html): Appleが、同社からOpenAIへ転職した社員らによる企業秘密の持ち出しを巡り、さらなる法的措置に踏み切りました。OpenAIの社員数十人に対し、弁護士との面会を求める文書を送付したことが明らかになりました。
 - [GMO熊谷会長が在宅勤務廃止を釈明、AI時代にオフィスへ戻る理由は？](https://ai-tech-times.web.app/articles/20260721-gmo-kumagai-remote-work-ai-office.html): GMOインターネットグループの熊谷正寿会長が、グループで推奨していた在宅勤務の廃止方針について自身の見解を明らかにしました。AI時代における新たな働き方とオフィスの価値について説明しています。
 - [米政府、外国製オープンソースAIの規制強化を検討](https://ai-tech-times.web.app/articles/20260721-us-government-considers-ban-on-foreign-open-source-ai.html): アメリカ政府が外国製のオープンソースAIモデルに対する事実上の禁止措置を再検討していることが明らかになりました。中国の技術的台頭に対する強い警戒感が背景にあります。
@@ -10,18 +18,10 @@
 - [ソニーミュージック、AI企業Udioを再び提訴　楽曲3万曲超の無断利用を主張](https://ai-tech-times.web.app/articles/20260721-sony-music-files-second-lawsuit-against-udio.html): ソニーミュージックエンタテインメントが、AI音楽生成サービスを展開するUdioに対し、著作権侵害で2度目となる訴訟を提起しました。AIの学習に膨大な楽曲が無断で使用されたと主張しています。
 - [AIエージェントで家電の解析が容易に？コスト低下がもたらす変化](https://ai-tech-times.web.app/articles/20260721-ai-agents-reverse-engineering-home-devices.html): AI技術の進化により、家庭用デバイスのリバースエンジニアリングがかつてないほど低コストで可能になっています。著名なソフトウェアエンジニアであるサイモン・ウィリソン氏が、この技術的潮流について自身の見解を明かしました。
 - [米政府、イランへの攻撃継続を明言「大統領の判断まで」](https://ai-tech-times.web.app/articles/20260721-us-continues-military-strikes-on-iran.html): アメリカ軍によるイランへの攻撃が10日連続で実施されました。米政府当局者は、事態の収束が見通せない中、攻撃を継続する方針を明らかにしています。
-- [iPS細胞による脊髄損傷治療、長期の安全性と改善維持を確認](https://ai-tech-times.web.app/articles/20260721-ips-spinal-cord-injury-long-term-safety.html): 慶応大学などの研究グループが、iPS細胞を用いた脊髄損傷治療の経過報告を発表しました。世界で初めて症状の改善が見られた患者において、長期的な安全性と機能維持が確認されました。
-- [Kimi K3登場：オープンウェイトAIの激化する競争](https://ai-tech-times.web.app/articles/20260721-kimi-k3-open-weights-escalation.html): AI業界の識者であるネイサン・ランバート氏が、最新モデル「Kimi K3」の登場が世界的なAIエコシステムに与える影響について分析しました。
-- [GoogleのAI検索がウェブを脅かす？サイト流入が約40%減少](https://ai-tech-times.web.app/articles/20260721-google-ai-search-endangers-open-web.html): Googleが提供するAI検索の影響により、オープンなウェブのあり方が危機に瀕しています。調査によると、多くの業界で企業サイトへのアクセス数が大幅に減少していることが明らかになりました。
-- [パラマウントとワーナーの合併一時停止、1100億ドル規模](https://ai-tech-times.web.app/articles/20260721-paramount-warner-merger-paused.html): 米国の裁判官が、1,100億ドル規模にのぼるパラマウントとワーナー・ブラザースの合併手続きを一時停止する判断を下しました。この決定は、複数の州が提起した訴訟を受けたものです。
-- [Netflix、アフレック氏のAI映画企業を950億円で買収](https://ai-tech-times.web.app/articles/20260721-netflix-buys-ben-affleck-ai-startup-interpositive.html): 映像ストリーミングサービスのNetflixが、俳優のベン・アフレック氏が共同設立したAI映画制作スタートアップ「InterPositive」を、総額5億8700万ドル（約950億円）で買収していたことが明らかになりました。
-- [日経平均が2000円以上値上がり！半導体関連銘柄に買い注文広がる](https://ai-tech-times.web.app/articles/20260721-nikkei-average-surges-over-2000-yen-semiconductor-stocks.html): 連休明けの東京株式市場で、日経平均株価が急騰しました。半導体関連の銘柄を中心に買い注文が広がり、値上がり幅は2000円を超えています。
-- [Anthropic、著作権訴訟で2400億円支払いへ 史上最大額](https://ai-tech-times.web.app/articles/20260721-anthropic-copyright-lawsuit-settlement.html): AIスタートアップの米Anthropicが開発するAI「Claude」の学習データを巡る集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認しました。米国の著作権訴訟において史上最大の和解額となります。
-- [AI「Claude」が87年来の難問「ヤコビアン予想」を覆す](https://ai-tech-times.web.app/articles/20260721-claude-fable-5-jacobian-conjecture.html): Anthropicに所属する数学者のレベント・アルポゲ氏が、AIモデル「Claude Fable 5」を用いて87年間未解決だった「ヤコビアン予想」の反例を発見したと報告しました。
 
 ## 世界のバズ動画TOP3 (2026-07-21)
-- 1位: [BTS (방탄소년단) ‘NORMAL’ Official MV](https://www.youtube.com/watch?v=GEk4jHwfFTA)
-- 2位: [BTS (방탄소년단) 'NORMAL' Live Clip](https://www.youtube.com/watch?v=Hb06Iem3FWg)
+- 1位: [BTS (방탄소년단) 'NORMAL' Live Clip](https://www.youtube.com/watch?v=Hb06Iem3FWg)
+- 2位: [BTS (방탄소년단) ‘NORMAL’ Official MV](https://www.youtube.com/watch?v=GEk4jHwfFTA)
 - 3位: [Avengers: Doomsday | Official Trailer | In Theaters December 18](https://www.youtube.com/watch?v=irVNGjRFZGk)
 
 ## セクション

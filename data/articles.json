@@ -529,5 +529,180 @@
   "date": "2026-07-21",
   "time": "20:33",
   "path": "/articles/20260721-gmo-kumagai-remote-work-ai-office.html"
+ },
+ {
+  "title": "AppleのAIツール「Live Notes」がGenius Barで試験運用される理由",
+  "lead": "Appleは、直営店であるApple StoreのGenius Barにおいて、顧客との会話をAIで文字起こし・要約する新システム「Live Notes」の試験運用を開始しました。",
+  "body": [
+   "Apple StoreのGenius Barは、製品の修理や技術的なサポートを提供する公式の店頭受付窓口です。今回導入が報じられた「Live Notes」は、このGenius Barでの顧客対応を録音し、AIを活用して自動的に文字起こしと要約を行うシステムです。",
+   "この取り組みの主な目的は、接客中のメモを取る作業を削減することにあります。従業員が記録作業に追われることなく、顧客との対話やサポート業務に集中できる環境を整えることが狙いです。現在、一部のApple Storeにて試験的に運用が進められています。",
+   "AI技術の活用により、店舗スタッフの業務効率化と顧客満足度の向上が期待されます。Appleが今後、このシステムを全店舗へ拡大するかどうかなど、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "AI",
+   "Genius Bar",
+   "Apple Store"
+  ],
+  "slug": "apple-live-notes-genius-bar-trial",
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260721-apple-genius-bar-live-note/",
+  "category": "ai",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-apple-live-notes-genius-bar-trial.html"
+ },
+ {
+  "title": "イスラエル、米世論誘導に多額の資金投入　AIとインフルエンサーで何が起きているのか",
+  "lead": "イスラエルがアメリカ国内の世論を自国有利に誘導するため、多額の資金を投じて影響力工作を行っていることが明らかになりました。AIやインフルエンサーを駆使したその手法が注目を集めています。",
+  "body": [
+   "イスラエルによるパレスチナ・ガザ地区への攻撃が長期化する中、アメリカ国内では反イスラエル感情が高まっています。こうした状況を受け、イスラエル政府がアメリカの世論を操作しようと大規模な工作活動を展開していることが、経済紙ウォール・ストリート・ジャーナルの報道により判明しました。ウォール・ストリート・ジャーナルは、アメリカを代表する有力な経済紙です。",
+   "報道によると、イスラエルは多額の資金を投入し、AIを活用したメッセージの発信や、インフルエンサーを動員した世論工作を行っています。この動きは、アメリカとイランの間で進められている戦闘終結に向けた交渉にも影響を及ぼしており、国際的な関心事となっています。",
+   "イスラエルによるこうした影響力工作は、自国に有利な世論を形成することを目的としています。AI技術を駆使した情報発信や、影響力のある人物を通じた世論誘導が、今後の外交交渉やアメリカ国民の意識にどのような変化をもたらすのか、その動向が注視されています。"
+  ],
+  "tags": [
+   "イスラエル",
+   "アメリカ",
+   "AI",
+   "世論工作",
+   "ウォール・ストリート・ジャーナル"
+  ],
+  "slug": "israel-influence-campaign-ai-american-opinion",
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260721-israel-influence-campaign-ai-american-opinion/",
+  "category": "ai",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-israel-influence-campaign-ai-american-opinion.html"
+ },
+ {
+  "title": "米テック大手5社の隠れ負債が8倍の1.65兆ドルに急増",
+  "lead": "Alphabet、Microsoft、Amazon、Meta、Oracleの米テック大手5社において、貸借対照表に記載されない「オフバランス負債」が急増していることが明らかになりました。",
+  "body": [
+   "日本経済新聞（Nikkei Asia）の山田耕平氏による調査で、米国の主要テック企業5社が抱えるオフバランス負債が、2022年以降で約8倍に膨れ上がり、推定1.65兆ドルに達したことが判明しました。これは、貸借対照表上に計上されている約1.35兆ドルの負債額を上回る規模です。",
+   "調査対象となったのは、Googleの親会社であるAlphabet、WindowsやAzureを手掛けるMicrosoft、EC最大手のAmazon、FacebookやInstagramを展開するMeta、そして企業向けソフトウェア大手のOracleです。これらの企業は世界経済を牽引する巨大IT企業ですが、今回の調査では、財務諸表の表面には現れにくい負債が過去4年ほどで急激に積み上がっている実態が浮き彫りとなりました。",
+   "今回の調査結果は、テック大手の財務構造が急速に変化していることを示唆しています。貸借対照表に載らない負債がバランスシート上の負債を追い越したことで、市場関係者や投資家の間では、これらの企業の財務透明性や将来的なリスク管理に対する注目が今後さらに高まる可能性があります。"
+  ],
+  "tags": [
+   "テック",
+   "財務",
+   "経済"
+  ],
+  "slug": "tech-giants-off-balance-sheet-debt-surge",
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260720/p44#a260720p44",
+  "category": "silicon",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-tech-giants-off-balance-sheet-debt-surge.html"
+ },
+ {
+  "title": "NvidiaがNebius株9.3%保有を公表、株価急騰の背景とは",
+  "lead": "米半導体大手Nvidiaが、クラウドコンピューティング企業Nebiusの株式を9.3%保有していることが明らかになりました。この発表を受け、Nebiusの株価は急騰しています。",
+  "body": [
+   "米CNBC Techの報道によると、NvidiaがNebiusの株式を9.3%保有していることが判明しました。Nebiusは、AI開発などに不可欠なクラウドインフラサービスを提供する企業です。今回の保有公表を受けて市場の注目が集まり、Nebiusの株価は大きく上昇する展開となりました。",
+   "今回の保有は、両社の協力関係を裏付ける動きとして注目されています。Nvidiaは今年3月、Nebiusに対して20億ドルを投資する計画を表明していました。NvidiaはAI向けGPU市場で圧倒的なシェアを誇る半導体メーカーであり、その投資先や保有銘柄はテック業界のトレンドを左右する重要な指標として見なされています。",
+   "今回の株式保有の公表は、AIインフラの拡充を急ぐNvidiaの戦略と、クラウドサービスを強化するNebiusの思惑が一致した結果と言えます。投資家や業界関係者は、この提携が今後のAIコンピューティング市場にどのような影響を与えるのか、引き続き注視しています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "Nebius",
+   "AI",
+   "株式市場",
+   "クラウド"
+  ],
+  "slug": "nebius-stock-surges-as-nvidia-discloses-9-3-percent-stake",
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+  "category": "silicon",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-nebius-stock-surges-as-nvidia-discloses-9-3-percent-stake.html"
+ },
+ {
+  "title": "UK政府分析：AIモデルの公開・非公開間の格差が縮小",
+  "lead": "AI研究に関するニュースレター「Import AI」を発行するJack Clark氏が、最新号で英国政府によるAIモデルの分析結果を紹介しました。",
+  "body": [
+   "AI研究者のJack Clark氏が自身のニュースレター「Import AI」第465号にて、英国政府のAI安全研究所（AISI）による最新の分析結果を報告しました。AISIは、AIモデルの重み（パラメータ）を公開しているものと、非公開にしているものの間にあるサイバーセキュリティ能力の差について調査を行いました。",
+   "Clark氏によると、AISIの分析では、公開モデルと非公開モデルの間でサイバーセキュリティに関する能力の格差が縮小していることが示唆されています。同氏は、この状況を「サイバー・エシャトン（サイバー世界の終末）が到来しつつある」と表現し、AIモデルの性能差が埋まりつつある現状に警鐘を鳴らしています。",
+   "Jack Clark氏は、OpenAIの元政策責任者であり、現在はAI研究の動向を追うニュースレター「Import AI」を通じて、AI分野の技術や政策に関する洞察を発信している人物です。今回の報告は、AIの安全性や公開のあり方について、政府機関がどのような視点で監視を強めているかを示す重要な事例と言えます。"
+  ],
+  "tags": [
+   "AI",
+   "サイバーセキュリティ",
+   "英国政府"
+  ],
+  "slug": "import-ai-465-uk-government-analysis",
+  "source": "Jack Clark氏 (Import AI)",
+  "source_url": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+  "category": "voices",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-import-ai-465-uk-government-analysis.html"
+ },
+ {
+  "title": "黒木啓司氏に借金1500万円の衝撃、転落人生の現状とは",
+  "lead": "元一流タレントとして知られる黒木啓司氏の近況が報じられ、ファンに衝撃を与えています。かつての華やかな姿からは一変した現状に注目が集まっています。",
+  "body": [
+   "女性自身の報道によると、元一流タレントである黒木啓司氏が、現在厳しい状況に置かれていることが明らかになりました。報道では、同氏が抱える借金が1500万円にのぼることが伝えられています。",
+   "また、TikTokでの活動の様子も報じられており、視聴者から「おっさん」と呼ばれながらも投げ銭を懇願する姿が見られるなど、かつての姿とは異なる現状にファンからは「痛々しい」といった声が上がっています。私生活においても子供に会えない状況が続いているとされており、その転落人生が波紋を呼んでいます。",
+   "華やかな芸能界で活躍した過去を持つ同氏の現在の姿は、多くのファンにとって驚きをもって受け止められています。今後の動向や、この状況がどのように変化していくのか、世間の関心が高まっています。"
+  ],
+  "tags": [
+   "黒木啓司",
+   "芸能ニュース",
+   "転落人生"
+  ],
+  "slug": "keiji-kuroki-financial-trouble",
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTkNVZGtfcFQtcWREcjNTbXJ2U2k2Uk9KWE1Oa3pWRURKbDMwM0Uxazl1MldQa0NIZXk0Wm1rTEV0UmxQT25QaE1UdmhYdVJSMkUwWkhFQUF2cHZabm95MHgxUmhMVHlTYXBsQ2x6ODYzWDlMYTJicFAyV29kQzA?oc=5",
+  "category": "influencer",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-keiji-kuroki-financial-trouble.html"
+ },
+ {
+  "title": "羽田空港の1.9億円強盗未遂、容疑者は1時間前から尾行か",
+  "lead": "今年1月、羽田空港の駐車場で発生した現金強盗未遂事件で、新たな捜査状況が明らかになりました。",
+  "body": [
+   "今年1月、羽田空港に隣接する駐車場で、現金1億9000万円余りを運んでいた男性たちから現金を奪おうとしたとして、高校生を含む4人が逮捕された事件について、新たな事実が判明しました。捜査関係者への取材で、逮捕された容疑者のうちの1人が、事件発生の1時間近く前から被害車両を尾行していた疑いがあることが分かりました。",
+   "事件当時、被害に遭った男性たちは多額の現金を運搬中でした。犯行グループは計画的に標的を追いかけていた可能性が高く、警察は事件に至るまでの詳細な経緯や、グループ内での役割分担について慎重に捜査を進めています。",
+   "今回の事件は、空港という公共性の高い場所で発生した多額の現金を狙った犯行として注目を集めていました。高校生が含まれていたことや、事前の周到な準備が疑われることから、警察は引き続き事件の全容解明を目指しています。"
+  ],
+  "tags": [
+   "羽田空港",
+   "強盗未遂",
+   "事件"
+  ],
+  "slug": "haneda-airport-robbery-attempt-investigation",
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015181951000",
+  "category": "world",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-haneda-airport-robbery-attempt-investigation.html"
+ },
+ {
+  "title": "EU、アリババ傘下アリエクスプレスに1000億円超の制裁金",
+  "lead": "EU（ヨーロッパ連合）は、中国のネット通販大手アリババグループ傘下のアリエクスプレスに対し、違法な商品の流通対策を怠ったとして巨額の制裁金を科しました。",
+  "body": [
+   "EUは、中国のネット通販大手「アリババグループ」傘下で、ヨーロッパなどで事業を展開する「アリエクスプレス」に対し、日本円で1000億円余りの制裁金を科したと発表しました。アリエクスプレスは、世界的に利用者が多い中国発のオンラインショッピングプラットフォームです。",
+   "今回の制裁は、同プラットフォーム上で違法な商品が流通することへの対策が不十分であったことが主な理由です。EUはデジタル市場における規制を強化しており、プラットフォーム運営者に対して、消費者の安全を守るための適切な監視体制を求めています。",
+   "今回の決定は、巨大IT企業に対するEUの厳しい姿勢を改めて示すものとなりました。今後、アリエクスプレス側がどのような対応をとるのか、また今回の制裁が今後のネット通販市場の安全性にどのような影響を与えるのかが注目されます。"
+  ],
+  "tags": [
+   "EU",
+   "アリババ",
+   "アリエクスプレス",
+   "国際ニュース",
+   "IT規制"
+  ],
+  "slug": "eu-imposes-100-billion-yen-fine-on-aliexpress",
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015181351000",
+  "category": "world",
+  "date": "2026-07-21",
+  "time": "21:03",
+  "path": "/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html"
  }
 ]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>編集部ライブ | AI TECH TIMES</title>
+<meta name="description" content="AI編集部の稼働状況をリアルタイムで可視化。誰が今なにをしているかが見えます。">
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="https://ai-tech-times.web.app/style.css">
+<style>
+.office{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:20px}
+.desk{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px}
+.desk.working{border-color:var(--accent2);box-shadow:0 0 12px rgba(247,129,102,.25);animation:pulse 1.6s infinite}
+@keyframes pulse{50%{box-shadow:0 0 22px rgba(247,129,102,.45)}}
+.avatar{font-size:2rem}
+.desk h3{margin:6px 0 2px;font-size:1.05rem}
+.desk .role{color:var(--muted);font-size:.78rem}
+.desk .status{margin-top:10px;font-size:.88rem;color:var(--text)}
+.desk.working .status{color:var(--accent2);font-weight:700}
+.desk.working .status::after{content:"";animation:dots 1.2s steps(4) infinite}
+@keyframes dots{0%{content:""}25%{content:"."}50%{content:".."}75%{content:"..."}}
+.clockbar{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 20px;margin-top:8px}
+.clock{font-size:1.8rem;font-weight:800;color:var(--gold)}
+.next{font-size:.95rem;color:var(--muted)}
+.next b{color:var(--accent)}
+.feed{margin-top:26px}
+.feed h2{font-size:1.1rem;border-left:3px solid var(--accent2);padding-left:10px;margin-bottom:10px}
+.feed ul{list-style:none}
+.feed li{padding:6px 0;border-bottom:1px solid var(--border);font-size:.9rem}
+.note{color:var(--muted);font-size:.78rem;margin-top:26px}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<a href="https://ai-tech-times.web.app/" class="logo">AI TECH <span>TIMES</span></a>
+<div class="tagline">編集部ライブ — いま誰が何をしているか</div>
+</div></header>
+<main class="wrap">
+<div class="clockbar">
+  <div class="clock" id="clock">--:--:--</div>
+  <div class="next" id="next"></div>
+</div>
+<div class="office" id="office"></div>
+<div class="feed">
+  <h2>最新便の実績</h2>
+  <div id="lastinfo" style="color:var(--muted);font-size:.85rem;margin-bottom:8px"></div>
+  <ul id="feed"></ul>
+</div>
+<p class="note">※この画面は演出ではなく、実際の自動実行スケジュールと直近の実行結果(status.json)に基づく可視化です。社員はAIであり、実映像は存在しません。</p>
+</main>
+<script>
+const STAFF = [
+ {id:"nagi", emoji:"🧭", name:"白瀬 凪", role:"統括秘書", idle:["全体を監視しています","日報と数字を確認中","社長への報告を準備中"]},
+ {id:"haizaki", emoji:"📈", name:"灰崎 律", role:"CEO", idle:["編集方針を検討中","コストと数字を眺めています","次の一手を考え中"]},
+ {id:"kuon", emoji:"🔎", name:"久遠 汐里", role:"リサーチャー", idle:["次の便のソースを見張っています","海外フィードを流し読み中","バズの気配を探しています"]},
+ {id:"shingyoji", emoji:"✍️", name:"真行寺 環", role:"編集長", idle:["見出しの型を磨いています","没ネタを整理中","次の選定基準を調整中"]},
+ {id:"yaegashi", emoji:"🛠️", name:"八重樫 慧", role:"開発部長", idle:["インフラを点検中","ログを確認しています","次のデプロイに備えています"]},
+ {id:"kiryu", emoji:"📣", name:"桐生 まひろ", role:"広報", idle:["次の告知文を下書き中","Xの反応を確認中","日報を清書しています"]},
+];
+const CATS = ["AI","シリコンバレー最速","海外AIの声","インフルエンサー","時事・世界"];
+const FULL_HOURS = [7,12,17,21];
+
+function jstNow(){ return new Date(Date.now() + (9*60 + new Date().getTimezoneOffset())*60000); }
+
+function phase(now){
+  const m = now.getMinutes(), s = now.getSeconds(), t = m*60+s;
+  if (t < 40)  return "kuon";
+  if (t < 150) return "shingyoji";
+  if (t < 200) return "yaegashi";
+  if (t < 240) return "kiryu";
+  return null;
+}
+function working(id, now){
+  const p = phase(now);
+  if (!p) return null;
+  const full = FULL_HOURS.includes(now.getHours());
+  if (id === p) {
+    if (id==="kuon") return full ? "全カテゴリのRSSとYouTube急上昇を巡回中" : "RSSを巡回中";
+    if (id==="shingyoji") return "ニュースを選定して記事を執筆中";
+    if (id==="yaegashi") return "サイトを生成してデプロイ中";
+    if (id==="kiryu") return full ? "Xに告知を投稿・日報を記録中" : "日報を記録中";
+  }
+  if (id==="nagi") return "便の進行を監視中";
+  return null;
+}
+function render(){
+  const now = jstNow();
+  document.getElementById("clock").textContent = now.toTimeString().slice(0,8) + " JST";
+  const nh = (now.getMinutes()===0 && now.getSeconds()<240) ? now.getHours() : (now.getHours()+1)%24;
+  const isFull = FULL_HOURS.includes(nh);
+  const label = isFull ? "フル便(全カテゴリ+バズ+X告知)" : `軽量便(${CATS[nh % CATS.length]})`;
+  const target = new Date(now); target.setMinutes(0,0,0); if(!(now.getMinutes()===0&&now.getSeconds()<240)) target.setHours(now.getHours()+1);
+  const diff = Math.max(0, (target - now)/1000|0);
+  const inRun = phase(now) !== null;
+  document.getElementById("next").innerHTML = inRun
+    ? `<b>${FULL_HOURS.includes(now.getHours())?"フル便":"軽量便"} 実行中</b>`
+    : `次の便まで <b>${String(diff/60|0).padStart(2,"0")}分${String(diff%60).padStart(2,"0")}秒</b> — ${nh}時は${label}`;
+  const office = document.getElementById("office");
+  office.innerHTML = STAFF.map((p,i)=>{
+    const w = working(p.id, now);
+    const st = w || p.idle[(now.getHours()+i) % p.idle.length] + "(待機)";
+    return `<div class="desk ${w?"working":""}"><span class="avatar">${p.emoji}</span>
+      <h3>${p.name}</h3><div class="role">${p.role}</div>
+      <div class="status">${st}</div></div>`;
+  }).join("");
+}
+async function loadStatus(){
+  try{
+    const r = await fetch("status.json?t=" + (Date.now()/60000|0));
+    if(!r.ok) return;
+    const s = await r.json();
+    document.getElementById("lastinfo").textContent = `${s.updated} / ${s.mode}`;
+    document.getElementById("feed").innerHTML =
+      (s.articles||[]).map(a=>`<li>📰 <a href="https://ai-tech-times.web.app${a.path}">${a.title}</a> <span style="color:var(--muted)">(${a.cat})</span></li>`).join("")
+      + (s.buzz_top ? `<li>🎬 バズ1位: <a href="${s.buzz_top.url}" rel="noopener">${s.buzz_top.title}</a></li>` : "")
+      + (s.notes||[]).map(n=>`<li>⚠ ${n}</li>`).join("");
+  }catch(e){}
+}
+render(); setInterval(render, 1000);
+loadStatus(); setInterval(loadStatus, 60000);
+</script>
+</body>
+</html>
