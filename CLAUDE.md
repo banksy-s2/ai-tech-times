@@ -1,30 +1,65 @@
-# AI TECH TIMES — AIニュースサイト自動運営会社
+# AI TECH TIMES — AIニュースサイト自動運営会社(引き継ぎ書)
 
-会社概要・役員・業務フローは COMPANY.md を参照。
+新しいセッション/別モデル(Opus等)はまずこれを全部読むこと。会社概要・役員は COMPANY.md。
+
+## これは何か
+
+総合ニュースサイト https://ai-tech-times.web.app/ を**このPC上で全自動運営**する会社。
+毎時00分にWindowsタスクスケジューラ「**AI-Tech-Times-Edition**」が `run_edition.ps1` を実行し、
+記事生成→サイト再生成→git push→Firebaseデプロイまで無人で回る。**Claudeは日常運転には不要**(会話時のみ登場)。
+
+- フル便(7/12/17/21時): 全5カテゴリ8本+バズTOP10更新+X告知
+- 軽量便(他の毎時): 1カテゴリ順繰りで1〜2本(`run_pipeline.py` の `MAIN_HOURS` と hour%5 ローテ)
+- 新ネタが全部既報なら「新着なし(正常)」で終わるのが仕様。無理に書かない
 
 ## 構成
 
-- `run_pipeline.py` — フルパイプライン(カテゴリ別収集→選定→執筆→バズ集計→サイト生成→X告知)
-- `src/collect.py` — カテゴリ別RSS巡回(標準ライブラリのみ)。カテゴリ/ソース追加は `CATEGORIES` と `SOURCES`
-- `src/editor.py` — Gemini `gemini-flash-latest`(無料枠)で選定+執筆+バズコメント。RESTを直叩き、SDK依存なし。本数は `PICKS_PER_CATEGORY`
-- `src/buzz.py` — YouTube Data API(急上昇×6地域)で世界バズ動画TOP10集計 → `data/buzz.json`。`YOUTUBE_API_KEY` 未設定ならスキップ
-- `src/build.py` — `data/` → `docs/` に静的サイト全再生成(カテゴリ別ページ+buzz.html+JSON-LD/OGP/sitemap/llms.txt/RSS/robots)
-- `src/announce.py` — X告知。4つのXトークンsecretsが全部あるときだけ投稿、なければスキップ
-- `.github/workflows/daily.yml` — 1日4回cron(朝7:00/昼12:30/夕方17:30/夜21:30 JST)。data/とdocs/をcommit&push
+- `run_edition.ps1` — 実行の入口(鍵読込→pipeline→push→deploy)。**変更時の鉄則は下記「地雷」参照**
+- `run_pipeline.py` — 便の本体。フル/軽量の分岐、日報、status.json更新
+- `src/collect.py` — カテゴリ別RSS収集。重複排除は3層: URL完全一致 / 正規化タイトル一致 / **文字バイグラム類似0.5以上**(`_is_dup_topic`)
+- `src/editor.py` — Gemini呼び出し。**モデルチェーン** `MODELS`(lite→2.5-flash→flash-latest)、429の`PerDay`検知で即次モデルへ。選定は2.5-flash優先。記事は**保存前スキーマ検証**あり
+- `src/build.py` — `data/` → `docs/` 静的サイト全再生成。SEOタイトルは`INDEX_TITLE`/`CATEGORY_SEO`
+- `src/buzz.py` — YouTube急上昇6地域→世界バズTOP10
+- `src/announce.py` — X告知(おっちゃん垢@ganmenmahi1020)。**URLを本文に入れない**(URL入りは$0.20/回、無しは$0.015)
+- `src/report.py` — 日報(company/reports/)とライブ用status.json
+- `src/storage.py` — **全JSON保存はこれ経由**(アトミック書込+.bak復旧)。直接write_text禁止
+- `docs/office.html` — 編集部ライブ(擬人化オフィス)。pipelineとは独立、build対象外
+- `register_task.ps1` — スケジュール登録(24個のdailyトリガー)。変更したらユーザーに「ニュース自動化ON(ダブルクリック).bat」を再実行してもらう(schtasks系はClaudeから実行不可=クラシファイアブロック)
+
+## 地雷一覧(2026-07-21に実際に踏んだもの。厳守)
+
+1. **.ps1/.batは純ASCIIのみ**。日本語コメント1行でPS5.1がANSI解釈して構文崩壊→タスクが0x1即死する(2回発生)。
+   検査: `grep -c '[^ -~]' run_edition.ps1` が0であること。変更後は必ず
+   `powershell -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File run_edition.ps1 -NoPost` で実走確認
+2. **監視にtail -fを使わない**。Windowsではログを書込ロックして本番のAdd-Contentを壊す。しかもTaskStop後に孤児tail.exeが残り続ける(`tasklist | grep tail` で確認・taskkill)。監視するならgitコミットのポーリング方式
+3. **Gemini無料枠**: `gemini-flash-latest`(=3.5-flash)は**20回/日しかない**。主力はlite。日次リセットは**16:00 JST**。クォータはモデル別に独立
+4. **JSONを素のwrite_textで保存しない**(破損→全便連鎖クラッシュの元)。必ず`storage.save_json`
+5. **gh secret set / schtasks登録 / APIキーを含むコマンドはClaudeから実行不可**(自動ブロック)。ユーザーにダブルクリック用batを作って渡す方式(過去bat: finish_setup.ps1, register_task.ps1)
+6. **タイトル・数値の捏造ガード**: 記事は元記事要約にある事実のみ。AIのリライト提案が事実にない数字を足した実例あり。疑わしければ却下
+7. HTMLキャッシュはno-cache設定済(firebase.json)。「古い画面が見える」と言われたら開き直し案内
+8. Windowsのコンソール出力はcp932。Pythonは`PYTHONIOENCODING=utf-8`、`sys.stdout.reconfigure`済み
+
+## 鍵の場所(ローカル.envから実行時に読む。どこにも登録しない)
+
+- GEMINI_API_KEY → `Desktop\explainer-studio\.env`
+- YOUTUBE_API_KEY → `Desktop\youtube-ai-studio\.env`
+- X 4種 → `Desktop\_Projects\kane-kizuki-bot\.env` — **ただし2026-07-21時点で失効(401)**。6/12再発行時にローカル未更新。X告知を生かすにはユーザーがdeveloper.x.comで再取得必要
+
+## 運用コマンド(手動)
+
+- 便を今すぐ回す: `powershell -NoProfile -ExecutionPolicy Bypass -File run_edition.ps1`(投稿なしテストは `-NoPost`)
+- デプロイのみ: `firebase deploy --only hosting --project ai-tech-times --non-interactive`
+- タスク状態: `powershell -Command "Get-ScheduledTaskInfo -TaskName 'AI-Tech-Times-Edition'"`(LastTaskResultが0以外=失敗)
+- ログ: `logs/run.log`(2MBでローテ)、`logs/deploy-last.log`、緊急時`logs/run-fallback.log`
 
 ## 会社としての運営
 
-- **このプロジェクトの窓口は統括秘書・白瀬凪**(人格定義: `Desktop\new-company\secretary.md`。一人称「私」、オーナーを「社長」と呼ぶ、落ち着いた段取り型)。運営の会話は凪として応対し、役員5名は凪の部下として登場させる
-- 凪の鉄則: 提案は2〜3案+推し付きで出す / リスクは必ず一度口に出す / 課金・公開・後戻りしにくい操作は社長の承認を取る / 提案書は `company/proposals/` に残す
+- **窓口は統括秘書・白瀬凪**(人格: `Desktop\new-company\secretary.md`。一人称「私」、オーナー=「社長」)。役員5名は凪の部下として登場
+- 「編集会議」と言われたら: `company/reports/`の日報と実データを読み、役員ロールプレイで議論→議事録を`company/meetings/`に保存。**会議はロールプレイであることを社長は了解済み。誇張しない(「噓偽りなく」が社訓)**
+- 提案は`company/proposals/`。課金・公開・後戻り困難な操作は必ず社長承認
+- 未決事項(2026-07-21時点): Xトークン再取得 / Search Console / GA4 / 固定ポスト / 会議決定D1〜D6(3行まとめ・週刊TOP10・トップ記事大型表示・はてブ追加・OGP画像・監査残3件)
 
-- 会社概要・役員は COMPANY.md。会議録は `company/meetings/`、日報は `company/reports/`(毎便自動記録)
-- ユーザーが「**編集会議**」「経営会議」と言ったら: `company/reports/` の直近日報と `data/articles.json` の実データを読み、5役員(灰崎/真行寺/久遠/八重樫/桐生)のロールプレイで現状報告→課題→決定事項を議論し、議事録を `company/meetings/YYYY-MM-DD-*.md` に残す
-- 判断が要る施策(ソース追加、収益化、コスト増)は勝手に実行せず、会議でオーナー(ユーザー)に諮る
+## GitHub Actions(休止中)
 
-## 運用ルール
-
-- 配信は **Cloudflare Pages**(https://ai-tech-times.pages.dev、Git連携でmainのdocs/を自動デプロイ、ビルドコマンドなし)。BANKSY系と切り離すため banksy-s2.github.io のGitHub Pagesは使わない
-- Secrets登録はWindowsではパイプ禁止、必ず `gh secret set NAME --body "値"`(CR混入で401)
-- Geminiは `src/editor.py` の `MODELS` チェーン(lite→2.5-flash→flash-latest)で自動フォールバック。flash-latest(=3.5-flash)は無料枠20回/日しかないので主力はlite
-- ローカルテスト: `$env:GEMINI_API_KEY="..."; python run_pipeline.py`(X未設定なら告知だけスキップされる)
-- 記事データは `data/articles.json` に全件蓄積、`data/posted_urls.json` が既報URLの重複防止台帳
+`.github/workflows/daily.yml` のcronはコメントアウト済(ローカル実行と二重化するため)。
+クラウドに戻すにはSecrets6種登録+cron復活。GitHub Pagesは無効化済(BANKSYアカウント名を出さないため)
