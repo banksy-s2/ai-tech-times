@@ -50,7 +50,7 @@ AI_KEYWORDS = [
 ]
 
 MAX_AGE_HOURS = 36
-UA = "Mozilla/5.0 (compatible; AITechTimesBot/1.0; +https://banksy-s2.github.io/ai-tech-times/)"
+UA = "Mozilla/5.0 (compatible; AITechTimesBot/1.0; +https://ai-tech-times.pages.dev/)"
 
 
 def _local(tag: str) -> str:

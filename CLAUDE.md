@@ -14,7 +14,7 @@
 
 ## 運用ルール
 
-- GitHub Pagesは main ブランチの /docs から配信
+- 配信は **Cloudflare Pages**(https://ai-tech-times.pages.dev、Git連携でmainのdocs/を自動デプロイ、ビルドコマンドなし)。BANKSY系と切り離すため banksy-s2.github.io のGitHub Pagesは使わない
 - Secrets登録はWindowsではパイプ禁止、必ず `gh secret set NAME --body "値"`(CR混入で401)
 - Geminiモデルは `gemini-flash-latest` 固定(他は無料枠で429)
 - ローカルテスト: `$env:GEMINI_API_KEY="..."; python run_pipeline.py`(X未設定なら告知だけスキップされる)

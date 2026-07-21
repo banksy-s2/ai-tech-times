@@ -2,7 +2,7 @@
 import os
 from datetime import datetime, timedelta, timezone
 
-BASE_URL = "https://banksy-s2.github.io/ai-tech-times"
+BASE_URL = "https://ai-tech-times.pages.dev"
 JST = timezone(timedelta(hours=9))
 
 X_ENV_KEYS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
