@@ -11,7 +11,12 @@ Set-Location $proj
 
 function Log($msg) {
     $line = "[{0}] {1}" -f (Get-Date -Format "yyyy-MM-dd HH:mm:ss"), $msg
-    Add-Content -Path $log -Value $line -Encoding utf8
+    # ロック競合(孤児tail等)でも記録を失わない: リトライ+フォールバック先
+    for ($i = 0; $i -lt 3; $i++) {
+        try { Add-Content -Path $log -Value $line -Encoding utf8 -ErrorAction Stop; return }
+        catch { Start-Sleep -Milliseconds 300 }
+    }
+    try { Add-Content -Path "$proj\logs\run-fallback.log" -Value $line -Encoding utf8 -ErrorAction Stop } catch {}
 }
 
 # --- log rotation (keep it small) ---
@@ -64,8 +69,9 @@ try {
 
     # --- pipeline ---
     $out = & "C:\Users\User\AppData\Local\Programs\Python\Python312\python.exe" "$proj\run_pipeline.py" 2>&1 | Out-String
-    Add-Content -Path $log -Value $out -Encoding utf8
     $pipeExit = $LASTEXITCODE
+    try { Add-Content -Path $log -Value $out -Encoding utf8 -ErrorAction Stop }
+    catch { try { Add-Content -Path "$proj\logs\run-fallback.log" -Value $out -Encoding utf8 } catch {} }
     if ($pipeExit -ne 0) {
         Log "pipeline FAILED (exit $pipeExit) - skip deploy"
         exit 1
@@ -79,9 +85,10 @@ try {
 
     # --- deploy (must succeed, otherwise articles are invisible) ---
     $dep = & "$env:APPDATA\npm\firebase.cmd" deploy --only hosting --project ai-tech-times --non-interactive 2>&1 | Out-String
-    if ($LASTEXITCODE -ne 0) {
-        Add-Content -Path $log -Value $dep -Encoding utf8
-        Log "deploy FAILED (exit $LASTEXITCODE)"
+    $depExit = $LASTEXITCODE
+    try { $dep | Out-File "$proj\logs\deploy-last.log" -Encoding utf8 } catch {}  # 常に単独ファイルへ(診断用)
+    if ($depExit -ne 0) {
+        Log "deploy FAILED (exit $depExit) - see logs/deploy-last.log"
         exit 1
     }
     Log "deploy OK"

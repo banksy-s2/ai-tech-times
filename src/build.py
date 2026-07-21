@@ -18,7 +18,8 @@ JST = timezone(timedelta(hours=9))
 
 NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/silicon.html", "シリコンバレー"),
        ("/voices.html", "海外AIの声"), ("/influencer.html", "インフルエンサー"),
-       ("/world.html", "時事・世界"), ("/buzz.html", "バズ動画TOP10")]
+       ("/world.html", "時事・世界"), ("/buzz.html", "バズ動画TOP10"),
+       ("/office.html", "編集部ライブ")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
 INDEX_TITLE = f"AIニュース速報・生成AIの最新情報まとめ | {SITE_NAME}"

@@ -3,10 +3,24 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from . import storage
 from .collect import CATEGORIES
 
 REPORTS = Path(__file__).resolve().parent.parent / "company" / "reports"
+STATUS_FILE = Path(__file__).resolve().parent.parent / "docs" / "status.json"
 JST = timezone(timedelta(hours=9))
+
+
+def write_status(mode: str, articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None:
+    """編集部ライブ(office.html)が読む最新便ステータス"""
+    storage.save_json(STATUS_FILE, {
+        "updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
+        "mode": mode,
+        "articles": [{"title": a["title"], "path": a["path"],
+                      "cat": CATEGORIES.get(a.get("category", "?"), "?")} for a in articles],
+        "buzz_top": {"title": buzz_top["title"], "url": buzz_top["url"]} if buzz_top else None,
+        "notes": notes,
+    })
 
 
 def write(articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None:

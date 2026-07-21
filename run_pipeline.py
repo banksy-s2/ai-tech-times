@@ -96,6 +96,8 @@ def main() -> int:
         today = datetime.now(JST).strftime("%Y-%m-%d")
         buzz_top = (data.get("videos") or [None])[0] if data.get("date") == today else None
         report.write(articles, buzz_top, notes)
+        mode_label = "フル便" if full else f"軽量便({next(iter(targets.values()))})"
+        report.write_status(mode_label, articles, buzz_top, notes)
     except Exception as e:
         print(f"  日報記録失敗(続行): {e}")
 
