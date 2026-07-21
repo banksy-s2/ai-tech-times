@@ -52,7 +52,14 @@
   "https://news.web.nhk/newsweb/na/na-k10015182211000",
   "https://news.web.nhk/newsweb/na/na-k10015181331000",
   "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-  "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+  "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+  "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+  "https://www.techmeme.com/260721/p45#a260721p45",
+  "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlNlZWp2U0R4d2JzZlRYS3UzRmdmZmdlTHRkUVktWS1FWmRBLVZ6TFAyT19fak1XamN6WVdXa3hlbHlpTC0zYjdKZ0ZRdTdVZWlDWTBuNlh0b0JhUXJXTzJtdExINThJQnhZV3M5UXNiSk40UEdYRnYyU3dTRjQ?oc=5",
+  "https://news.web.nhk/newsweb/na/na-k10015182261000",
+  "https://news.web.nhk/newsweb/na/na-k10015182071000"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -142,6 +149,20 @@
   "Anthropic’s $1.5 billion book piracy settlement approved by judge",
   "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
   "Anthropic、書籍の著作権訴訟で15億ドル支払いに合意",
-  "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表"
+  "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表",
+  "AIトークン消費「24倍」の衝撃　本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+  "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
+  "Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)",
+  "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
+  "VTuber「ホロライブ」運営会社、カスハラ対策方針を公開 タレントの活動内容に対する根拠の無い変更要求などに法的対応へ - Yahoo!ニュース",
+  "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+  "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想",
+  "ITmedia AI+：AIトークン消費24倍の衝撃とコスト対策の3条件",
+  "CursorのAI開発、コスト8分の1に抑える秘策",
+  "Super Micro、Q4受注が600億ドル突破で株価13%超急騰",
+  "AMDが新型AIラック「Helios」投入、マイクロソフトも参入でエヌビディアに挑む",
+  "ホロライブ運営、カスハラ対策方針を公開",
+  "ニチレイにハッカー集団犯行声明、どうなる出荷業務",
+  "国民会議実務者会議、食料品消費税減税の議論再開も難航予想"
  ]
 }

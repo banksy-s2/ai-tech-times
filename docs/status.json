@@ -1,21 +1,48 @@
 {
- "updated": "2026-07-22 06:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-22 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Anthropic、書籍の著作権訴訟で15億ドル支払いに合意",
-   "path": "/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+：AIトークン消費24倍の衝撃とコスト対策の3条件",
+   "path": "/articles/20260722-ai-token-consumption-cost-strategy.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表",
-   "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html",
-   "cat": "AI(海外)"
+   "title": "CursorのAI開発、コスト8分の1に抑える秘策",
+   "path": "/articles/20260722-cursor-agent-swarm-cost-reduction.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Super Micro、Q4受注が600億ドル突破で株価13%超急騰",
+   "path": "/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "AMDが新型AIラック「Helios」投入、マイクロソフトも参入でエヌビディアに挑む",
+   "path": "/articles/20260722-amd-helios-microsoft-ai-nvidia.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ホロライブ運営、カスハラ対策方針を公開",
+   "path": "/articles/20260722-hololive-customer-harassment-policy.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "ニチレイにハッカー集団犯行声明、どうなる出荷業務",
+   "path": "/articles/20260722-nichirei-cyber-attack-ransomware.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "国民会議実務者会議、食料品消費税減税の議論再開も難航予想",
+   "path": "/articles/20260722-food-consumption-tax-cut-meeting.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-  "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
+  "title": "BTS ‘NORMAL’ MV Behind the Scenes",
+  "url": "https://www.youtube.com/watch?v=NySBAMooqOc"
  },
- "notes": []
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ]
 }

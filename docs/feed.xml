@@ -5,6 +5,62 @@
 <description>AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>ITmedia AI+：AIトークン消費24倍の衝撃とコスト対策の3条件</title>
+<link>https://ai-tech-times.web.app/articles/20260722-ai-token-consumption-cost-strategy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-ai-token-consumption-cost-strategy.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面しています。将来的なトークン消費の急増を見据え、組織が見直すべき視点とは何でしょうか。</description>
+</item>
+<item>
+<title>CursorのAI開発、コスト8分の1に抑える秘策</title>
+<link>https://ai-tech-times.web.app/articles/20260722-cursor-agent-swarm-cost-reduction.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-cursor-agent-swarm-cost-reduction.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI向けコードエディター「Cursor」を開発するAnysphereが、大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。</description>
+</item>
+<item>
+<title>Super Micro、Q4受注が600億ドル突破で株価13%超急騰</title>
+<link>https://ai-tech-times.web.app/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Super Micro Computerが第4四半期の受注が600億ドルを突破し、粗利益率の予想も上方修正したと発表しました。この発表を受け、時間外取引で同社の株価が13%超急騰しています。</description>
+</item>
+<item>
+<title>AMDが新型AIラック「Helios」投入、マイクロソフトも参入でエヌビディアに挑む</title>
+<link>https://ai-tech-times.web.app/articles/20260722-amd-helios-microsoft-ai-nvidia.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-amd-helios-microsoft-ai-nvidia.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AMDは、エヌビディアに対抗する同社初のAIラックシステム「Helios」を投入しました。新たにマイクロソフトが購入企業に加わっています。</description>
+</item>
+<item>
+<title>ホロライブ運営、カスハラ対策方針を公開</title>
+<link>https://ai-tech-times.web.app/articles/20260722-hololive-customer-harassment-policy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-hololive-customer-harassment-policy.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>VTuberグループ「ホロライブ」の運営会社が、カスタマーハラスメントに対する対策方針を公開しました。</description>
+</item>
+<item>
+<title>ニチレイにハッカー集団犯行声明、どうなる出荷業務</title>
+<link>https://ai-tech-times.web.app/articles/20260722-nichirei-cyber-attack-ransomware.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-nichirei-cyber-attack-ransomware.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>システム障害が発生している冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が犯行声明を出したことが分かりました。</description>
+</item>
+<item>
+<title>国民会議実務者会議、食料品消費税減税の議論再開も難航予想</title>
+<link>https://ai-tech-times.web.app/articles/20260722-food-consumption-tax-cut-meeting.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-food-consumption-tax-cut-meeting.html</guid>
+<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>「骨太の方針」が決定される中、超党派の「国民会議」の実務者会議が22日に食料品の消費税減税の扱いについて議論を再開します。</description>
+</item>
+<item>
 <title>Anthropic、書籍の著作権訴訟で15億ドル支払いに合意</title>
 <link>https://ai-tech-times.web.app/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Tue, 21 Jul 2026 21:03:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>今年1月、羽田空港の駐車場で発生した現金強盗未遂事件で、新たな捜査状況が明らかになりました。</description>
-</item>
-<item>
-<title>EU、アリババ傘下アリエクスプレスに1000億円超の制裁金</title>
-<link>https://ai-tech-times.web.app/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html</guid>
-<pubDate>Tue, 21 Jul 2026 21:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>EU（ヨーロッパ連合）は、中国のネット通販大手アリババグループ傘下のアリエクスプレスに対し、違法な商品の流通対策を怠ったとして巨額の制裁金を科しました。</description>
-</item>
-<item>
-<title>Apple、OpenAI社員数十人に警告。企業秘密漏洩で法的文書を送付</title>
-<link>https://ai-tech-times.web.app/articles/20260721-apple-sends-legal-notice-to-openai-employees.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-apple-sends-legal-notice-to-openai-employees.html</guid>
-<pubDate>Tue, 21 Jul 2026 20:33:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Appleが、同社からOpenAIへ転職した社員らによる企業秘密の持ち出しを巡り、さらなる法的措置に踏み切りました。OpenAIの社員数十人に対し、弁護士との面会を求める文書を送付したことが明らかになりました。</description>
-</item>
-<item>
-<title>GMO熊谷会長が在宅勤務廃止を釈明、AI時代にオフィスへ戻る理由は？</title>
-<link>https://ai-tech-times.web.app/articles/20260721-gmo-kumagai-remote-work-ai-office.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-gmo-kumagai-remote-work-ai-office.html</guid>
-<pubDate>Tue, 21 Jul 2026 20:33:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>GMOインターネットグループの熊谷正寿会長が、グループで推奨していた在宅勤務の廃止方針について自身の見解を明らかにしました。AI時代における新たな働き方とオフィスの価値について説明しています。</description>
-</item>
-<item>
-<title>米政府、外国製オープンソースAIの規制強化を検討</title>
-<link>https://ai-tech-times.web.app/articles/20260721-us-government-considers-ban-on-foreign-open-source-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-us-government-considers-ban-on-foreign-open-source-ai.html</guid>
-<pubDate>Tue, 21 Jul 2026 19:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>アメリカ政府が外国製のオープンソースAIモデルに対する事実上の禁止措置を再検討していることが明らかになりました。中国の技術的台頭に対する強い警戒感が背景にあります。</description>
-</item>
-<item>
-<title>TSMC、2027年に製造価格を最大10％引き上げへ</title>
-<link>https://ai-tech-times.web.app/articles/20260721-tsmc-price-hike-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-tsmc-price-hike-2027.html</guid>
-<pubDate>Tue, 21 Jul 2026 19:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>世界最大の半導体受託製造企業であるTSMCが、2027年に製造価格を最大10％引き上げる計画であることが明らかになりました。</description>
-</item>
-<item>
-<title>ソニーミュージック、AI企業Udioを再び提訴　楽曲3万曲超の無断利用を主張</title>
-<link>https://ai-tech-times.web.app/articles/20260721-sony-music-files-second-lawsuit-against-udio.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-sony-music-files-second-lawsuit-against-udio.html</guid>
-<pubDate>Tue, 21 Jul 2026 19:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ソニーミュージックエンタテインメントが、AI音楽生成サービスを展開するUdioに対し、著作権侵害で2度目となる訴訟を提起しました。AIの学習に膨大な楽曲が無断で使用されたと主張しています。</description>
-</item>
-<item>
-<title>AIエージェントで家電の解析が容易に？コスト低下がもたらす変化</title>
-<link>https://ai-tech-times.web.app/articles/20260721-ai-agents-reverse-engineering-home-devices.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-ai-agents-reverse-engineering-home-devices.html</guid>
-<pubDate>Tue, 21 Jul 2026 19:01:00 +0900</pubDate>
-<category>海外AIの声</category>
-<description>AI技術の進化により、家庭用デバイスのリバースエンジニアリングがかつてないほど低コストで可能になっています。著名なソフトウェアエンジニアであるサイモン・ウィリソン氏が、この技術的潮流について自身の見解を明かしました。</description>
 </item>
 </channel></rss>
