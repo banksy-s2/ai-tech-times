@@ -36,6 +36,7 @@ if (Test-Path $lock) {
 Set-Content -Path $lock -Value $PID -Encoding utf8
 
 try {
+    try { [Console]::OutputEncoding = [Text.Encoding]::UTF8 } catch {}  # avoid mojibake when capturing python output
     Log "=== edition start ==="
 
     # --- env keys (read fresh from local files, verify non-empty) ---
@@ -84,8 +85,16 @@ try {
     if ($LASTEXITCODE -eq 0) { Log "git push OK" } else { Log "git push FAILED (exit $LASTEXITCODE) - continuing" }
 
     # --- deploy (must succeed, otherwise articles are invisible) ---
-    $dep = & "$env:APPDATA\npm\firebase.cmd" deploy --only hosting --project ai-tech-times --non-interactive 2>&1 | Out-String
-    $depExit = $LASTEXITCODE
+    # call node.exe directly: firebase.cmd fails to launch under Task Scheduler context
+    $dep = ""
+    $depExit = 1
+    try {
+        $dep = & "C:\Program Files\nodejs\node.exe" "$env:APPDATA\npm\node_modules\firebase-tools\lib\bin\firebase.js" deploy --only hosting --project ai-tech-times --non-interactive 2>&1 | Out-String
+        $depExit = $LASTEXITCODE
+    } catch {
+        $dep = "deploy invocation threw: " + $_.Exception.Message
+        $depExit = 1
+    }
     try { $dep | Out-File "$proj\logs\deploy-last.log" -Encoding utf8 } catch {}  # always keep for diagnosis
     if ($depExit -ne 0) {
         Log "deploy FAILED (exit $depExit) - see logs/deploy-last.log"
