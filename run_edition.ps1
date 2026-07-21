@@ -11,7 +11,7 @@ Set-Location $proj
 
 function Log($msg) {
     $line = "[{0}] {1}" -f (Get-Date -Format "yyyy-MM-dd HH:mm:ss"), $msg
-    # ロック競合(孤児tail等)でも記録を失わない: リトライ+フォールバック先
+    # survive file locks (orphan tail.exe etc): retry, then fallback file
     for ($i = 0; $i -lt 3; $i++) {
         try { Add-Content -Path $log -Value $line -Encoding utf8 -ErrorAction Stop; return }
         catch { Start-Sleep -Milliseconds 300 }
@@ -86,7 +86,7 @@ try {
     # --- deploy (must succeed, otherwise articles are invisible) ---
     $dep = & "$env:APPDATA\npm\firebase.cmd" deploy --only hosting --project ai-tech-times --non-interactive 2>&1 | Out-String
     $depExit = $LASTEXITCODE
-    try { $dep | Out-File "$proj\logs\deploy-last.log" -Encoding utf8 } catch {}  # 常に単独ファイルへ(診断用)
+    try { $dep | Out-File "$proj\logs\deploy-last.log" -Encoding utf8 } catch {}  # always keep for diagnosis
     if ($depExit -ne 0) {
         Log "deploy FAILED (exit $depExit) - see logs/deploy-last.log"
         exit 1

@@ -76,3 +76,21 @@
 [1mHosting URL:[22m https://ai-tech-times.web.app
 
 [2026-07-21 19:01:52] === edition end ===
+[2026-07-21 22:20:16] === edition start ===
+== 軽量便(22時): 海外AIの声 ==
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 0件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 0件
+[サイト生成] (八重樫)
+  [build] 33記事 + バズ動画10本でサイト再生成完了
+軽量便: 新着なし(正常)
+
+[2026-07-21 22:20:27] git push OK
+[2026-07-21 22:20:42] deploy OK
+[2026-07-21 22:20:42] === edition end ===
