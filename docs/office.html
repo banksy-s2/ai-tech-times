@@ -4,106 +4,206 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>編集部ライブ | AI TECH TIMES</title>
-<meta name="description" content="AI編集部の稼働状況をリアルタイムで可視化。誰が今なにをしているかが見えます。">
+<meta name="description" content="AI編集部の事務所をライブ可視化。社員が実際の実行スケジュールに合わせて働きます。">
 <meta name="robots" content="noindex">
 <link rel="stylesheet" href="https://ai-tech-times.web.app/style.css">
 <style>
-.office{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-top:20px}
-.desk{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px}
-.desk.working{border-color:var(--accent2);box-shadow:0 0 12px rgba(247,129,102,.25);animation:pulse 1.6s infinite}
-@keyframes pulse{50%{box-shadow:0 0 22px rgba(247,129,102,.45)}}
-.avatar{font-size:2rem}
-.desk h3{margin:6px 0 2px;font-size:1.05rem}
-.desk .role{color:var(--muted);font-size:.78rem}
-.desk .status{margin-top:10px;font-size:.88rem;color:var(--text)}
-.desk.working .status{color:var(--accent2);font-weight:700}
-.desk.working .status::after{content:"";animation:dots 1.2s steps(4) infinite}
-@keyframes dots{0%{content:""}25%{content:"."}50%{content:".."}75%{content:"..."}}
-.clockbar{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 20px;margin-top:8px}
-.clock{font-size:1.8rem;font-weight:800;color:var(--gold)}
-.next{font-size:.95rem;color:var(--muted)}
+.clockbar{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 20px;margin-top:8px}
+.clock{font-size:1.6rem;font-weight:800;color:var(--gold)}
+.next{font-size:.92rem;color:var(--muted)}
 .next b{color:var(--accent)}
+/* ==== office scene ==== */
+.scene-wrap{width:100%;position:relative;overflow:hidden;border:1px solid var(--border);border-radius:14px;margin-top:16px;background:#0a0e14}
+.scene{width:960px;height:470px;position:relative;transform-origin:0 0}
+.wall{position:absolute;inset:0 0 130px 0;background:linear-gradient(#141b26,#182130)}
+.floor{position:absolute;left:0;right:0;bottom:0;height:130px;background:repeating-linear-gradient(90deg,#1d2531 0 70px,#212a38 70px 140px)}
+.window{position:absolute;top:28px;left:40px;width:170px;height:100px;background:linear-gradient(#0b1030,#1a2350);border:6px solid #2c3a50;border-radius:6px;box-shadow:inset 0 0 30px #000}
+.window .moon{position:absolute;top:12px;right:16px;width:22px;height:22px;border-radius:50%;background:#ffe9a8;box-shadow:0 0 14px #ffe9a8}
+.window .star{position:absolute;width:2px;height:2px;background:#cfe0ff;border-radius:50%;animation:tw 3s infinite}
+@keyframes tw{50%{opacity:.2}}
+.sign{position:absolute;top:38px;left:50%;transform:translateX(-50%);color:#e6edf3;background:#101722;border:2px solid #2c3a50;border-radius:8px;padding:8px 22px;font-weight:800;letter-spacing:.12em;font-size:15px}
+.sign span{color:var(--accent2)}
+.wclock{position:absolute;top:34px;right:60px;background:#101722;border:2px solid #2c3a50;border-radius:8px;padding:6px 12px;color:var(--gold);font-weight:700;font-size:14px}
+.plant{position:absolute;bottom:118px;font-size:34px}
+/* desk */
+.desku{position:absolute;width:150px;height:120px}
+.table{position:absolute;bottom:0;left:0;right:0;height:46px;background:#3a2f26;border-radius:6px 6px 0 0;border-top:4px solid #4d4034}
+.monitor{position:absolute;bottom:44px;left:50%;transform:translateX(-50%);width:52px;height:34px;background:#0c1118;border:3px solid #333d4c;border-radius:4px}
+.monitor::after{content:"";position:absolute;inset:2px;background:#101b28;border-radius:2px}
+.desku.on .monitor{border-color:#58a6ff}
+.desku.on .monitor::after{background:#1c3350;box-shadow:0 0 14px rgba(88,166,255,.7);animation:flick .6s infinite}
+@keyframes flick{50%{box-shadow:0 0 22px rgba(88,166,255,.95)}}
+.namep{position:absolute;bottom:-20px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--muted);white-space:nowrap}
+.desku.on .namep{color:var(--accent2);font-weight:700}
+/* character */
+.char{position:absolute;width:44px;height:80px;left:50%;transform:translateX(-50%);bottom:34px}
+.hair{position:absolute;top:-5px;left:6px;width:32px;height:18px;border-radius:16px 16px 8px 8px;background:var(--hairc);z-index:2}
+.hairL{position:absolute;top:6px;left:4px;width:8px;height:26px;border-radius:4px;background:var(--hairc);z-index:1}
+.hairR{position:absolute;top:6px;right:4px;width:8px;height:26px;border-radius:4px;background:var(--hairc);z-index:1}
+.head{position:absolute;top:0;left:8px;width:28px;height:26px;border-radius:50%;background:#f0d2bc}
+.eye{position:absolute;top:12px;width:4px;height:5px;border-radius:50%;background:#2a2320;animation:blink 4.2s infinite}
+.eye.l{left:15px}.eye.r{left:26px}
+@keyframes blink{0%,94%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+.torso{position:absolute;top:25px;left:5px;width:34px;height:32px;border-radius:9px 9px 5px 5px;background:var(--clothc)}
+.armL,.armR{position:absolute;top:30px;width:8px;height:20px;border-radius:4px;background:var(--clothc)}
+.armL{left:1px}.armR{right:1px}
+.char.typing .torso{animation:typ .3s infinite}
+.char.typing .armL{animation:typa .16s infinite}
+.char.typing .armR{animation:typa .16s .08s infinite}
+@keyframes typ{50%{transform:translateY(1.5px)}}
+@keyframes typa{50%{transform:translateY(3px) rotate(8deg)}}
+.char.idle .torso{animation:brth 3.4s infinite}
+@keyframes brth{50%{transform:translateY(1px)}}
+.bub{position:absolute;bottom:96px;left:50%;transform:translateX(-50%);background:#232d3d;border:1px solid #3b4a61;border-radius:9px;padding:4px 9px;font-size:10.5px;color:#dbe6f5;white-space:nowrap;z-index:5}
+.bub::after{content:"";position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:#3b4a61}
+.desku.on .bub{background:#3a2620;border-color:var(--accent2);color:#ffd9cd;font-weight:700}
+.kata{position:absolute;bottom:118px;left:50%;transform:translateX(-50%);font-size:10px;color:#58a6ff;opacity:0;z-index:6}
+.desku.on .kata{animation:kata 1s infinite}
+@keyframes kata{0%{opacity:0;transform:translate(-50%,0)}30%{opacity:1}100%{opacity:0;transform:translate(-50%,-14px)}}
+.cup{position:absolute;bottom:48px;right:16px;font-size:12px}
+/* nagi walker */
+#nagi{position:absolute;bottom:8px;width:44px;height:80px;transition:left 5s linear;z-index:8}
+#nagi .bub{bottom:88px}
+.szz{color:var(--muted);font-size:.78rem;margin-top:8px}
 .feed{margin-top:26px}
-.feed h2{font-size:1.1rem;border-left:3px solid var(--accent2);padding-left:10px;margin-bottom:10px}
+.feed h2{font-size:1.05rem;border-left:3px solid var(--accent2);padding-left:10px;margin-bottom:10px}
 .feed ul{list-style:none}
 .feed li{padding:6px 0;border-bottom:1px solid var(--border);font-size:.9rem}
-.note{color:var(--muted);font-size:.78rem;margin-top:26px}
+.note{color:var(--muted);font-size:.78rem;margin-top:24px}
 </style>
 </head>
 <body>
 <header><div class="wrap">
 <a href="https://ai-tech-times.web.app/" class="logo">AI TECH <span>TIMES</span></a>
-<div class="tagline">編集部ライブ — いま誰が何をしているか</div>
+<div class="tagline">編集部ライブ — 事務所のいまを中継</div>
 </div></header>
 <main class="wrap">
 <div class="clockbar">
   <div class="clock" id="clock">--:--:--</div>
   <div class="next" id="next"></div>
 </div>
-<div class="office" id="office"></div>
+<div class="scene-wrap" id="wrap"><div class="scene" id="scene">
+  <div class="wall"></div><div class="floor"></div>
+  <div class="window"><div class="moon"></div>
+    <div class="star" style="top:20px;left:24px"></div><div class="star" style="top:48px;left:60px;animation-delay:1s"></div>
+    <div class="star" style="top:30px;left:110px;animation-delay:2s"></div><div class="star" style="top:64px;left:130px;animation-delay:.5s"></div>
+  </div>
+  <div class="sign">AI TECH <span>TIMES</span> 編集部</div>
+  <div class="wclock" id="wclock">--:--</div>
+  <div class="plant" style="left:8px">🪴</div><div class="plant" style="right:8px">🪴</div>
+</div></div>
+<div class="szz">※タップ/クリックで社員の今の気分を聞けます。毎時00分に便が始まると、担当者の画面が光ってタイピングが始まります。</div>
 <div class="feed">
   <h2>最新便の実績</h2>
   <div id="lastinfo" style="color:var(--muted);font-size:.85rem;margin-bottom:8px"></div>
   <ul id="feed"></ul>
 </div>
-<p class="note">※この画面は演出ではなく、実際の自動実行スケジュールと直近の実行結果(status.json)に基づく可視化です。社員はAIであり、実映像は存在しません。</p>
+<p class="note">※この画面は演出込みの可視化ですが、時計・担当の点灯・実績はすべて実際の自動実行スケジュールと実行結果(status.json)に基づいています。社員はAIで、実映像は存在しません。</p>
 </main>
 <script>
 const STAFF = [
- {id:"nagi", emoji:"🧭", name:"白瀬 凪", role:"統括秘書", idle:["全体を監視しています","日報と数字を確認中","社長への報告を準備中"]},
- {id:"haizaki", emoji:"📈", name:"灰崎 律", role:"CEO", idle:["編集方針を検討中","コストと数字を眺めています","次の一手を考え中"]},
- {id:"kuon", emoji:"🔎", name:"久遠 汐里", role:"リサーチャー", idle:["次の便のソースを見張っています","海外フィードを流し読み中","バズの気配を探しています"]},
- {id:"shingyoji", emoji:"✍️", name:"真行寺 環", role:"編集長", idle:["見出しの型を磨いています","没ネタを整理中","次の選定基準を調整中"]},
- {id:"yaegashi", emoji:"🛠️", name:"八重樫 慧", role:"開発部長", idle:["インフラを点検中","ログを確認しています","次のデプロイに備えています"]},
- {id:"kiryu", emoji:"📣", name:"桐生 まひろ", role:"広報", idle:["次の告知文を下書き中","Xの反応を確認中","日報を清書しています"]},
+ {id:"kuon", name:"久遠 汐里", role:"リサーチャー", hair:"#7fb2e5", cloth:"#3f5f85", x:120, y:196,
+  idle:["次の便のソースを見張り中","海外フィードを流し読み中","バズの気配を探しています"], work:"RSSとYouTubeを巡回中"},
+ {id:"shingyoji", name:"真行寺 環", role:"編集長", hair:"#4a3b35", cloth:"#6d4a52", x:405, y:196,
+  idle:["見出しの型を磨いています","没ネタを整理中","赤ペンを研いでいます"], work:"選定と執筆の真っ最中"},
+ {id:"yaegashi", name:"八重樫 慧", role:"開発部長", hair:"#2e3a2f", cloth:"#3a5a45", x:690, y:196,
+  idle:["インフラ点検中","ログを眺めています","次のデプロイに備え中"], work:"サイト生成→デプロイ中"},
+ {id:"haizaki", name:"灰崎 律", role:"CEO", hair:"#6e6e78", cloth:"#4a4a58", x:250, y:330,
+  idle:["数字とコストを睨んでいます","編集方針を考え中","腕組みしています"], work:"進行を見守っています"},
+ {id:"kiryu", name:"桐生 まひろ", role:"広報", hair:"#c98a4b", cloth:"#a3623a", x:560, y:330,
+  idle:["告知文を下書き中","Xの反応を確認中","日報を清書しています"], work:"告知と日報を作成中"},
 ];
+const NAGI = {name:"白瀬 凪", hair:"#e8e4da", cloth:"#5a6b8c",
+ idle:["フロアを巡回しています","全体を監視中","社長への報告を準備中"], work:"便の進行を統括中"};
 const CATS = ["AI","シリコンバレー最速","海外AIの声","インフルエンサー","時事・世界"];
 const FULL_HOURS = [7,12,17,21];
 
 function jstNow(){ return new Date(Date.now() + (9*60 + new Date().getTimezoneOffset())*60000); }
-
 function phase(now){
-  const m = now.getMinutes(), s = now.getSeconds(), t = m*60+s;
+  const t = now.getMinutes()*60 + now.getSeconds();
   if (t < 40)  return "kuon";
   if (t < 150) return "shingyoji";
   if (t < 200) return "yaegashi";
   if (t < 240) return "kiryu";
   return null;
 }
-function working(id, now){
-  const p = phase(now);
-  if (!p) return null;
-  const full = FULL_HOURS.includes(now.getHours());
-  if (id === p) {
-    if (id==="kuon") return full ? "全カテゴリのRSSとYouTube急上昇を巡回中" : "RSSを巡回中";
-    if (id==="shingyoji") return "ニュースを選定して記事を執筆中";
-    if (id==="yaegashi") return "サイトを生成してデプロイ中";
-    if (id==="kiryu") return full ? "Xに告知を投稿・日報を記録中" : "日報を記録中";
-  }
-  if (id==="nagi") return "便の進行を監視中";
-  return null;
+const scene = document.getElementById("scene");
+function charHtml(p, cid){
+  return `<div class="char idle" id="c-${cid}" style="--hairc:${p.hair};--clothc:${p.cloth}">
+    <div class="hairL"></div><div class="hairR"></div><div class="head"></div><div class="hair"></div>
+    <div class="eye l"></div><div class="eye r"></div>
+    <div class="torso"></div><div class="armL"></div><div class="armR"></div></div>`;
 }
+STAFF.forEach(p=>{
+  const d = document.createElement("div");
+  d.className = "desku"; d.id = "desk-" + p.id;
+  d.style.left = p.x + "px"; d.style.top = p.y + "px";
+  d.innerHTML = `<div class="bub" id="bub-${p.id}"></div><div class="kata">ｶﾀｶﾀｶﾀ</div>
+    ${charHtml(p,p.id)}<div class="monitor"></div><div class="table"></div><div class="cup">☕</div>
+    <div class="namep">${p.name}(${p.role})</div>`;
+  d.onclick = ()=>say(p.id);
+  scene.appendChild(d);
+});
+const nagiEl = document.createElement("div");
+nagiEl.id = "nagi"; nagiEl.style.left = "60px";
+nagiEl.innerHTML = `<div class="bub" id="bub-nagi"></div>` + charHtml(NAGI,"nagi").replace('class="char idle"','class="char idle" style="position:static"');
+nagiEl.style.setProperty("--hairc", NAGI.hair); nagiEl.style.setProperty("--clothc", NAGI.cloth);
+nagiEl.onclick = ()=>say("nagi");
+scene.appendChild(nagiEl);
+
+let said = {};
+function say(id){ said[id] = Date.now(); render(); }
+
 function render(){
   const now = jstNow();
-  document.getElementById("clock").textContent = now.toTimeString().slice(0,8) + " JST";
-  const nh = (now.getMinutes()===0 && now.getSeconds()<240) ? now.getHours() : (now.getHours()+1)%24;
+  const hh = now.toTimeString().slice(0,8);
+  document.getElementById("clock").textContent = hh + " JST";
+  document.getElementById("wclock").textContent = hh.slice(0,5);
+  const p = phase(now);
+  const running = p !== null;
+  const nh = running ? now.getHours() : (now.getHours()+1)%24;
   const isFull = FULL_HOURS.includes(nh);
   const label = isFull ? "フル便(全カテゴリ+バズ+X告知)" : `軽量便(${CATS[nh % CATS.length]})`;
-  const target = new Date(now); target.setMinutes(0,0,0); if(!(now.getMinutes()===0&&now.getSeconds()<240)) target.setHours(now.getHours()+1);
-  const diff = Math.max(0, (target - now)/1000|0);
-  const inRun = phase(now) !== null;
-  document.getElementById("next").innerHTML = inRun
-    ? `<b>${FULL_HOURS.includes(now.getHours())?"フル便":"軽量便"} 実行中</b>`
-    : `次の便まで <b>${String(diff/60|0).padStart(2,"0")}分${String(diff%60).padStart(2,"0")}秒</b> — ${nh}時は${label}`;
-  const office = document.getElementById("office");
-  office.innerHTML = STAFF.map((p,i)=>{
-    const w = working(p.id, now);
-    const st = w || p.idle[(now.getHours()+i) % p.idle.length] + "(待機)";
-    return `<div class="desk ${w?"working":""}"><span class="avatar">${p.emoji}</span>
-      <h3>${p.name}</h3><div class="role">${p.role}</div>
-      <div class="status">${st}</div></div>`;
-  }).join("");
+  const target = new Date(now); target.setMinutes(0,0,0); if(!running) target.setHours(now.getHours()+1);
+  const diff = Math.max(0,(target-now)/1000|0);
+  document.getElementById("next").innerHTML = running
+    ? `<b>${FULL_HOURS.includes(now.getHours())?"フル便":"軽量便"} 実行中</b> — 担当者が働いています`
+    : `次の便まで <b>${String(diff/60|0).padStart(2,"0")}分${String(diff%60).padStart(2,"0")}秒</b>(${nh}時は${label})`;
+
+  STAFF.forEach((s,i)=>{
+    const desk = document.getElementById("desk-"+s.id);
+    const ch = document.getElementById("c-"+s.id);
+    const bub = document.getElementById("bub-"+s.id);
+    const on = running && (s.id===p || (s.id==="haizaki" && p!==null && false));
+    desk.classList.toggle("on", !!on);
+    ch.className = "char " + (on ? "typing" : "idle");
+    const recentlySaid = said[s.id] && Date.now()-said[s.id] < 4000;
+    const showBub = on || recentlySaid || ((now.getSeconds()+i*7)%35 < 6);
+    bub.style.display = showBub ? "block" : "none";
+    bub.textContent = on ? s.work : s.idle[(now.getHours()+((now.getMinutes()/12)|0)+i) % s.idle.length];
+  });
+  const nb = document.getElementById("bub-nagi");
+  const nrs = said["nagi"] && Date.now()-said["nagi"] < 4000;
+  nb.style.display = (running || nrs || now.getSeconds()%40 < 6) ? "block" : "none";
+  nb.textContent = running ? NAGI.work : NAGI.idle[(now.getMinutes())%NAGI.idle.length];
 }
+/* nagi patrol: walk to active desk during run, otherwise wander */
+setInterval(()=>{
+  const now = jstNow(); const p = phase(now);
+  const tx = p ? ((STAFF.find(s=>s.id===p)||{x:400}).x + 160) : (80 + Math.random()*760);
+  nagiEl.style.left = Math.min(880, tx) + "px";
+}, 6000);
+
+function fit(){
+  const wrap = document.getElementById("wrap");
+  const w = wrap.clientWidth;
+  const sc = Math.max(0.55, Math.min(1, w/960));  // 縮みすぎ防止、狭い画面は横スクロール
+  scene.style.transform = `scale(${sc})`;
+  wrap.style.height = (470*sc) + "px";
+  wrap.style.overflowX = (960*sc > w) ? "auto" : "hidden";
+}
+window.addEventListener("resize", fit);
+
 async function loadStatus(){
   try{
     const r = await fetch("status.json?t=" + (Date.now()/60000|0));
@@ -116,7 +216,7 @@ async function loadStatus(){
       + (s.notes||[]).map(n=>`<li>⚠ ${n}</li>`).join("");
   }catch(e){}
 }
-render(); setInterval(render, 1000);
+fit(); render(); setInterval(render, 1000);
 loadStatus(); setInterval(loadStatus, 60000);
 </script>
 </body>
