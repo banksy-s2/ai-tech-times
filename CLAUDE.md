@@ -12,6 +12,12 @@
 - `src/announce.py` — X告知。4つのXトークンsecretsが全部あるときだけ投稿、なければスキップ
 - `.github/workflows/daily.yml` — 1日4回cron(朝7:00/昼12:30/夕方17:30/夜21:30 JST)。data/とdocs/をcommit&push
 
+## 会社としての運営
+
+- 会社概要・役員は COMPANY.md。会議録は `company/meetings/`、日報は `company/reports/`(毎便自動記録)
+- ユーザーが「**編集会議**」「経営会議」と言ったら: `company/reports/` の直近日報と `data/articles.json` の実データを読み、5役員(灰崎/真行寺/久遠/八重樫/桐生)のロールプレイで現状報告→課題→決定事項を議論し、議事録を `company/meetings/YYYY-MM-DD-*.md` に残す
+- 判断が要る施策(ソース追加、収益化、コスト増)は勝手に実行せず、会議でオーナー(ユーザー)に諮る
+
 ## 運用ルール
 
 - 配信は **Cloudflare Pages**(https://ai-tech-times.pages.dev、Git連携でmainのdocs/を自動デプロイ、ビルドコマンドなし)。BANKSY系と切り離すため banksy-s2.github.io のGitHub Pagesは使わない

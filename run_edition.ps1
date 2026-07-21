@@ -37,7 +37,7 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 # --- push (best effort) ---
-git add data docs 2>&1 | Out-Null
+git add data docs company 2>&1 | Out-Null
 git commit -m ("edition: " + (Get-Date -Format "yyyy-MM-dd HH:mm")) 2>&1 | Out-Null
 git push 2>&1 | Out-Null
 Log "git push done (or skipped)"

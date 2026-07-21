@@ -5,13 +5,13 @@ sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-from src import announce, build, buzz, collect, editor
+from src import announce, build, buzz, collect, editor, report
 
 
 def main() -> int:
     published = build._load()
     recent_titles = [a["title"] for a in published[-40:]]
-    articles, orig_titles = [], []
+    articles, orig_titles, notes = [], [], []
     for cat, label in collect.CATEGORIES.items():
         print(f"[収集: {label}] (久遠)")
         candidates = collect.collect(cat)
@@ -23,6 +23,7 @@ def main() -> int:
             picks = editor.select(candidates, cat, recent_titles)
         except Exception as e:
             print(f"  選定失敗(スキップ): {e}")
+            notes.append(f"{label}の選定失敗: {e}")
             continue
         for p in picks:
             print(f"  OK [{p['source']}] {p['title']}")
@@ -32,6 +33,7 @@ def main() -> int:
                 recent_titles.append(p["title"])  # 同じ便の後続カテゴリでの重複選定を防ぐ
             except Exception as e:
                 print(f"  執筆失敗({p['title']}): {e}")
+                notes.append(f"執筆失敗: {p['title'][:40]}")
 
     print("[バズ動画TOP10] (久遠)")
     videos = buzz.fetch_top10()
@@ -59,6 +61,13 @@ def main() -> int:
         announce.post(articles)
     except Exception as e:
         print(f"  X告知失敗(続行): {e}")
+        notes.append(f"X告知失敗: {e}")
+
+    try:
+        buzz_top = (buzz.load().get("videos") or [None])[0]
+        report.write(articles, buzz_top, notes)
+    except Exception as e:
+        print(f"  日報記録失敗(続行): {e}")
 
     print("完了")
     return 0
