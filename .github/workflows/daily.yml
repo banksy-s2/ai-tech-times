@@ -43,6 +43,14 @@ jobs:
           git config user.name "ai-tech-times-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data docs
-          git diff --cached --quiet && echo "変更なし" && exit 0
-          git commit -m "daily: $(date -u +%Y-%m-%d) の記事を公開"
-          git push
+          git diff --cached --quiet && echo "変更なし" || { git commit -m "daily: $(date -u +%Y-%m-%d) の記事を公開"; git push; }
+
+      - name: Deploy to Firebase Hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          if [ -z "$FIREBASE_TOKEN" ]; then
+            echo "FIREBASE_TOKEN未設定のためデプロイをスキップ"
+            exit 0
+          fi
+          npx firebase-tools deploy --only hosting --project ai-tech-times --token "$FIREBASE_TOKEN" --non-interactive

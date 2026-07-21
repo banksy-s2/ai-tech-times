@@ -12,7 +12,7 @@ DATA_FILE = ROOT / "data" / "articles.json"
 DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
-BASE_URL = "https://ai-tech-times.pages.dev"
+BASE_URL = "https://ai-tech-times.web.app"
 TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の今を1日4回お届け。AI編集部が自動更新。"
 JST = timezone(timedelta(hours=9))
 

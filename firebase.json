@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "public": "docs",
+    "ignore": ["firebase.json", "**/.*"],
+    "cleanUrls": false
+  }
+}
