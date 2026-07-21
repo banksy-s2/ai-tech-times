@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://banksy-s2.github.io/ai-tech-times/sitemap.xml

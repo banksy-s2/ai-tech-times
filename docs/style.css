@@ -1,0 +1,24 @@
+
+:root{--bg:#0d1117;--card:#161b22;--border:#30363d;--text:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--accent2:#f78166}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:"Hiragino Sans","Yu Gothic UI","Noto Sans JP",sans-serif;line-height:1.8}
+a{color:var(--accent);text-decoration:none}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--border);padding:28px 0;margin-bottom:32px}
+.logo{font-size:1.7rem;font-weight:800;letter-spacing:.05em;color:var(--text)}
+.logo span{color:var(--accent2)}
+.tagline{color:var(--muted);font-size:.85rem;margin-top:4px}
+.date-head{font-size:.9rem;color:var(--muted);margin:24px 0 12px;border-left:3px solid var(--accent2);padding-left:10px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:22px 24px;margin-bottom:16px;transition:border-color .2s}
+.card:hover{border-color:var(--accent)}
+.card h2{font-size:1.15rem;margin-bottom:8px}
+.card h2 a{color:var(--text)}
+.card .lead{color:var(--muted);font-size:.92rem}
+.meta{font-size:.78rem;color:var(--muted);margin-top:10px}
+.tag{display:inline-block;background:#1f2937;border-radius:20px;padding:1px 10px;margin-right:6px;font-size:.75rem;color:var(--accent)}
+article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
+article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
+article p{margin:16px 0}
+.source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:var(--muted);font-size:.8rem;text-align:center}
+.back{display:inline-block;margin:20px 0;font-size:.9rem}

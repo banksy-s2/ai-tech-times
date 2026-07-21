@@ -1,0 +1,44 @@
+name: daily-news
+
+on:
+  schedule:
+    - cron: "0 22 * * *"  # 毎朝7:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install tweepy
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python run_pipeline.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "ai-tech-times-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet && echo "変更なし" && exit 0
+          git commit -m "daily: $(date -u +%Y-%m-%d) の記事を公開"
+          git push
