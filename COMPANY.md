@@ -15,7 +15,9 @@
 | 統括秘書(オーナー代理) | 白瀬 凪(しらせ なぎ) | 運営統括。new-companyから出向。人格は Desktop\new-company\secretary.md。オーナーへの窓口・改善提案・裁可の取次 |
 | CEO | 灰崎 律(はいざき りつ) | 経営統括・編集方針の最終決定 |
 | 編集長 | 真行寺 環(しんぎょうじ たまき) | 記事品質・ネタ選定基準の管理(`src/editor.py`) |
-| リサーチャー | 久遠 汐里(くおん しおり) | RSS巡回・候補収集(`src/collect.py`) |
+| リサーチ部長 | 久遠 汐里(くおん しおり) | リサーチ部統括・RSS巡回・候補収集(`src/collect.py`) |
+| リサーチャー(海外AI担当) | 巴 りんか(ともえ りんか) | 海外AIソース(TechCrunch/Verge/VB/MIT TR/HF/HN)の巡回・翻訳候補選び |
+| リサーチャー(日本AI・品質担当) | 揚羽 京(あげは きょう) | 国内AIソース(ITmedia/Publickey/Gigazine/Ledge.ai)の巡回+ノイズ検査(PR・セール・告知の排除) |
 | 開発部長 | 八重樫 慧(やえがし けい) | サイト生成・インフラ(`src/build.py`, Actions) |
 | 広報 | 桐生 まひろ(きりゅう まひろ) | X告知投稿(`src/announce.py`) |
 

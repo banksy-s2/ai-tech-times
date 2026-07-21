@@ -16,17 +16,19 @@ BASE_URL = "https://ai-tech-times.web.app"
 TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の今を1日4回お届け。AI編集部が自動更新。"
 JST = timezone(timedelta(hours=9))
 
-NAV = [("/", "トップ"), ("/ai.html", "AI"), ("/silicon.html", "シリコンバレー"),
-       ("/voices.html", "海外AIの声"), ("/influencer.html", "インフルエンサー"),
-       ("/world.html", "時事・世界"), ("/buzz.html", "バズ動画TOP10"),
-       ("/office.html", "編集部ライブ")]
+NAV = [("/", "トップ"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
+       ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
+       ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
+       ("/buzz.html", "バズ動画TOP10"), ("/office.html", "編集部ライブ")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
 INDEX_TITLE = f"AIニュース速報・生成AIの最新情報まとめ | {SITE_NAME}"
 INDEX_DESC = "生成AI・ChatGPT・Claude・シリコンバレーの最新ニュースを毎時更新。海外AI識者の発信やバズ動画ランキングも日本語でまとめてお届け。"
 CATEGORY_SEO = {
-    "ai": (f"生成AI・ChatGPT・Claudeの最新ニュース | {SITE_NAME}",
-           "生成AI・人工知能の最新ニュースを毎日更新。OpenAI、Anthropic、Google、NVIDIAなどAI業界の動向を日本語で速報。"),
+    "ai": (f"海外AIニュース速報(日本語訳) | {SITE_NAME}",
+           "OpenAI、Anthropic、Google、NVIDIAなど海外AI業界の最新動向を日本語で毎日速報。海外一次ソースから翻訳してお届け。"),
+    "ai_jp": (f"日本のAIニュース・国内企業のAI活用最前線 | {SITE_NAME}",
+              "日本企業のAI活用、国産AIモデル、国内のAI規制・政策の最新ニュースを毎日更新。"),
     "silicon": (f"シリコンバレー最新ニュース速報(日本語訳) | {SITE_NAME}",
                 "TechmemeやTechCrunchなど米テック速報を日本語で毎日翻訳。買収・資金調達・新製品などシリコンバレーの今がわかる。"),
     "voices": (f"海外AI研究者・識者の最新発信まとめ | {SITE_NAME}",

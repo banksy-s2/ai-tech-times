@@ -102,15 +102,19 @@
 </main>
 <script>
 const STAFF = [
- {id:"kuon", name:"久遠 汐里", role:"リサーチャー", hair:"#7fb2e5", cloth:"#3f5f85", x:120, y:196,
-  idle:["次の便のソースを見張り中","海外フィードを流し読み中","バズの気配を探しています"], work:"RSSとYouTubeを巡回中"},
- {id:"shingyoji", name:"真行寺 環", role:"編集長", hair:"#4a3b35", cloth:"#6d4a52", x:405, y:196,
+ {id:"kuon", name:"久遠 汐里", role:"リサーチ部長", team:"research", hair:"#7fb2e5", cloth:"#3f5f85", x:60, y:186,
+  idle:["部の巡回計画を確認中","ソースを見張り中","バズの気配を探しています"], work:"巡回の指揮を執っています"},
+ {id:"rinka", name:"巴 りんか", role:"海外AI担当", team:"research", hair:"#d98cb3", cloth:"#7a4f68", x:265, y:186,
+  idle:["海外フィードを流し読み中","英語記事を斜め読み中","翻訳メモを整理中"], work:"海外AIソースを巡回中"},
+ {id:"ageha", name:"揚羽 京", role:"日本AI・品質", team:"research", hair:"#3d4b3a", cloth:"#556b4f", x:470, y:186,
+  idle:["国内フィードを確認中","ノイズ基準を磨いています","PR記事を弾いています"], work:"国内巡回+ノイズ検査中"},
+ {id:"shingyoji", name:"真行寺 環", role:"編集長", hair:"#4a3b35", cloth:"#6d4a52", x:690, y:186,
   idle:["見出しの型を磨いています","没ネタを整理中","赤ペンを研いでいます"], work:"選定と執筆の真っ最中"},
- {id:"yaegashi", name:"八重樫 慧", role:"開発部長", hair:"#2e3a2f", cloth:"#3a5a45", x:690, y:196,
+ {id:"yaegashi", name:"八重樫 慧", role:"開発部長", hair:"#2e3a2f", cloth:"#3a5a45", x:160, y:330,
   idle:["インフラ点検中","ログを眺めています","次のデプロイに備え中"], work:"サイト生成→デプロイ中"},
- {id:"haizaki", name:"灰崎 律", role:"CEO", hair:"#6e6e78", cloth:"#4a4a58", x:250, y:330,
+ {id:"haizaki", name:"灰崎 律", role:"CEO", hair:"#6e6e78", cloth:"#4a4a58", x:410, y:330,
   idle:["数字とコストを睨んでいます","編集方針を考え中","腕組みしています"], work:"進行を見守っています"},
- {id:"kiryu", name:"桐生 まひろ", role:"広報", hair:"#c98a4b", cloth:"#a3623a", x:560, y:330,
+ {id:"kiryu", name:"桐生 まひろ", role:"広報", hair:"#c98a4b", cloth:"#a3623a", x:650, y:330,
   idle:["告知文を下書き中","Xの反応を確認中","日報を清書しています"], work:"告知と日報を作成中"},
 ];
 const NAGI = {name:"白瀬 凪", hair:"#e8e4da", cloth:"#5a6b8c",
@@ -174,7 +178,7 @@ function render(){
     const desk = document.getElementById("desk-"+s.id);
     const ch = document.getElementById("c-"+s.id);
     const bub = document.getElementById("bub-"+s.id);
-    const on = running && (s.id===p || (s.id==="haizaki" && p!==null && false));
+    const on = running && (s.id===p || (p==="kuon" && s.team==="research"));
     desk.classList.toggle("on", !!on);
     ch.className = "char " + (on ? "typing" : "idle");
     const recentlySaid = said[s.id] && Date.now()-said[s.id] < 4000;

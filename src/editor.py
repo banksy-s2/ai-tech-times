@@ -11,11 +11,15 @@ MODELS = ["gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
 API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
-PICKS_PER_CATEGORY = {"ai": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2}
+PICKS_PER_CATEGORY = {"ai": 2, "ai_jp": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2}
 
 SELECT_CRITERIA = {
-    "ai": """- 大手AI企業の新モデル/新製品発表、業界に影響する出来事を優先
-- 単なるハウツー記事や宣伝は避ける""",
+    "ai": """- 海外の大手AI企業(OpenAI/Anthropic/Google/Meta/NVIDIA等)の新モデル・新製品・研究・業界に影響する出来事を優先
+- 日本でまだ報じられていない海外の一次情報ほど価値が高い
+- 単なるハウツー記事・宣伝・製品PRはノイズとして除外""",
+    "ai_jp": """- 日本企業のAI活用、国産AIモデル、国内のAI規制・政策、日本のAIスタートアップの動きを優先
+- 日本の読者の仕事や生活に直結する話題ほど価値が高い
+- 展示会告知・製品PR・薄い活用事例はノイズとして除外""",
     "silicon": """- 米テック業界(シリコンバレー)の最新・速報性の高い動きを最優先(買収、資金調達、新製品、人事、規制、株価に響く発表など)
 - 日本ではまだあまり報じられていない話題ほど価値が高い
 - AIモデルの発表そのものはAIカテゴリと被るので、ビジネス・業界動向の切り口を優先""",

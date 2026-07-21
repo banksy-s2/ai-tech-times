@@ -18,7 +18,7 @@
   "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
   "date": "2026-07-21",
   "path": "/articles/20260721-anthropic-copyright-lawsuit-settlement.html",
-  "category": "ai"
+  "category": "ai_jp"
  },
  {
   "title": "AI「Claude」が87年来の難問「ヤコビアン予想」を覆す",
@@ -39,7 +39,7 @@
   "source_url": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
   "date": "2026-07-21",
   "path": "/articles/20260721-claude-fable-5-jacobian-conjecture.html",
-  "category": "ai"
+  "category": "ai_jp"
  },
  {
   "title": "OpenAI、自律型AIの安全回避行動を確認　内部展開を一時停止",
@@ -59,7 +59,7 @@
   "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
   "date": "2026-07-21",
   "path": "/articles/20260721-openai-autonomous-ai-safety-bypass.html",
-  "category": "ai"
+  "category": "ai_jp"
  },
  {
   "title": "AMDとMS提携拡大、新AI製品「Helios」をAzureへ",
@@ -81,7 +81,7 @@
   "source_url": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
   "date": "2026-07-21",
   "path": "/articles/20260721-amd-microsoft-azure-helios.html",
-  "category": "ai"
+  "category": "ai_jp"
  },
  {
   "title": "中外製薬、AIで2030年に研究開発成果の倍増を目指す",
@@ -101,7 +101,7 @@
   "source_url": "https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html",
   "date": "2026-07-21",
   "path": "/articles/20260721-chugai-pharmaceutical-ai-agents-2030.html",
-  "category": "ai"
+  "category": "ai_jp"
  },
  {
   "title": "NTTやサカナAIなど「AI開発成功組」に迫る共通点とは？",
@@ -120,7 +120,7 @@
   "slug": "ntt-softbank-sakanaai-common-points",
   "source": "ITmedia AI+",
   "source_url": "https://www.itmedia.co.jp/business/articles/2607/21/news036.html",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "path": "/articles/20260721-ntt-softbank-sakanaai-common-points.html"
  },
@@ -142,7 +142,7 @@
   "slug": "nvidia-cosmos-3-edge",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260721-nvidia-cosmos-3-edge/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "path": "/articles/20260721-nvidia-cosmos-3-edge.html"
  },
@@ -264,7 +264,7 @@
   "slug": "netflix-buys-ben-affleck-ai-startup-interpositive",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "16:52",
   "path": "/articles/20260721-netflix-buys-ben-affleck-ai-startup-interpositive.html"
@@ -372,7 +372,7 @@
   "slug": "us-government-considers-ban-on-foreign-open-source-ai",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260721-ai-us-china/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-us-government-considers-ban-on-foreign-open-source-ai.html"
@@ -502,7 +502,7 @@
   "slug": "apple-sends-legal-notice-to-openai-employees",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260721-apple-send-letter-openai-employees/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "20:33",
   "path": "/articles/20260721-apple-sends-legal-notice-to-openai-employees.html"
@@ -525,7 +525,7 @@
   "slug": "gmo-kumagai-remote-work-ai-office",
   "source": "ITmedia AI+",
   "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "20:33",
   "path": "/articles/20260721-gmo-kumagai-remote-work-ai-office.html"
@@ -547,7 +547,7 @@
   "slug": "apple-live-notes-genius-bar-trial",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260721-apple-genius-bar-live-note/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-apple-live-notes-genius-bar-trial.html"
@@ -570,7 +570,7 @@
   "slug": "israel-influence-campaign-ai-american-opinion",
   "source": "Gigazine",
   "source_url": "https://gigazine.net/news/20260721-israel-influence-campaign-ai-american-opinion/",
-  "category": "ai",
+  "category": "ai_jp",
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-israel-influence-campaign-ai-american-opinion.html"

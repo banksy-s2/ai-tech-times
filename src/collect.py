@@ -15,7 +15,8 @@ POSTED_FILE = DATA_DIR / "posted_urls.json"
 
 # カテゴリ定義(key → 表示名)。追加はここと SOURCES / PICKS_PER_CATEGORY へ
 CATEGORIES = {
-    "ai": "AI",
+    "ai": "AI(海外)",
+    "ai_jp": "日本のAI",
     "silicon": "シリコンバレー最速",
     "voices": "海外AIの声",
     "influencer": "インフルエンサー",
@@ -23,16 +24,21 @@ CATEGORIES = {
 }
 
 SOURCES = {
+    # AI(海外): 英語ソース主体(担当: 巴りんか)
     "ai": [
-        ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
-        ("Publickey", "https://www.publickey1.jp/atom.xml"),
-        ("Gigazine", "https://gigazine.net/news/rss_2.0/"),
         ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
         ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
         ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
         ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
         ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
         ("HN: AI/LLM", "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&points=80"),
+    ],
+    # 日本のAI: 国内ソース(担当: 揚羽京)
+    "ai_jp": [
+        ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
+        ("Publickey", "https://www.publickey1.jp/atom.xml"),
+        ("Gigazine", "https://gigazine.net/news/rss_2.0/"),
+        ("AINOW", "https://ainow.ai/feed/"),
     ],
     "silicon": [
         ("Techmeme", "https://www.techmeme.com/feed.xml"),
@@ -68,6 +74,14 @@ AI_KEYWORDS = [
     "machine learning", "deep learning", "neural", "transformer",
     "diffusion", "agent", "エージェント", "RAG", "fine-tun",
     "マルチモーダル", "multimodal", "推論モデル", "reasoning", "半導体", "GPU",
+]
+
+# ノイズ排除: 宣伝・告知・セール系はタイトルに含まれた時点で候補から外す
+NOISE_KEYWORDS = [
+    "【PR】", "PR TIMES", "プレスリリース", "セール", "クーポン", "キャンペーン",
+    "ウェビナー", "セミナー", "求人", "スポンサー", "プレゼント企画", "割引", "福袋",
+    "deal:", "deals", "% off", "coupon", "sponsored", "webinar", "giveaway", "sale",
+    "best gifts", "promo code", "discount",
 ]
 
 MAX_AGE_HOURS = 36
@@ -188,7 +202,10 @@ def collect(category: str) -> list[dict]:
                 continue
             if _is_dup_topic(it["title"], posted_titles):  # 別媒体・別表現の同一話題
                 continue
-            if category == "ai":
+            lower_title = it["title"].lower()
+            if any(k.lower() in lower_title for k in NOISE_KEYWORDS):  # 宣伝・告知ノイズ
+                continue
+            if category in ("ai", "ai_jp"):
                 text = f"{it['title']} {it['summary']}"
                 if not any(k.lower() in text.lower() for k in AI_KEYWORDS):
                     continue
