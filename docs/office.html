@@ -197,11 +197,12 @@ setInterval(()=>{
 function fit(){
   const wrap = document.getElementById("wrap");
   const w = wrap.clientWidth;
-  // 画面幅いっぱいに拡大縮小(横の空白を作らない)。縮みすぎだけ0.55で止めて横スクロール
-  const sc = Math.max(0.55, Math.min(1.9, w/960));
+  if (!w) { requestAnimationFrame(fit); return; }  // レイアウト前は再試行
+  // 常に器ぴったり: 余白もスクロールバーも出さない
+  const sc = Math.min(1.9, w/960);
   scene.style.transform = `scale(${sc})`;
   wrap.style.height = (470*sc) + "px";
-  wrap.style.overflowX = (960*sc > w + 2) ? "auto" : "hidden";
+  wrap.style.overflowX = "hidden";
 }
 window.addEventListener("resize", fit);
 
