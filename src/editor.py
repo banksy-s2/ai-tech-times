@@ -117,8 +117,22 @@ def buzz_comments(videos: list[dict]) -> list[str]:
 
 {listing}
 
-JSON配列のみ出力(順位順に{len(videos)}要素): ["コメント1", "コメント2", ...]"""
-    data = _parse_json(_gemini(prompt))
-    if isinstance(data, dict):
-        data = next((v for v in data.values() if isinstance(v, list)), [])
-    return [str(c) for c in data]
+出力形式(JSON不要、この{len(videos)}行だけ):
+1: コメント
+2: コメント
+..."""
+    key = os.environ["GEMINI_API_KEY"]  # JSONモードを使わないよう素のテキストで呼ぶ
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.4},
+    }).encode("utf-8")
+    req = urllib.request.Request(f"{API_URL}?key={key}", data=body,
+                                 headers={"Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=120) as r:
+        text = json.loads(r.read())["candidates"][0]["content"]["parts"][0]["text"]
+    comments = {}
+    for line in text.splitlines():
+        m = re.match(r"\s*(\d+)\s*[:：.]\s*(.+)", line)
+        if m:
+            comments[int(m.group(1))] = m.group(2).strip()
+    return [comments.get(i + 1, "") for i in range(len(videos))]
