@@ -5,14 +5,32 @@ sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
+from datetime import datetime, timedelta, timezone
+
 from src import announce, build, buzz, collect, editor, report
+
+JST = timezone(timedelta(hours=9))
+
+# フル便(全カテゴリ+バズ+X告知)の時間帯。それ以外の毎時便は1カテゴリ順繰りの軽量版
+MAIN_HOURS = {7, 12, 17, 21}
 
 
 def main() -> int:
+    hour = datetime.now(JST).hour
+    full = hour in MAIN_HOURS
+    if full:
+        targets = collect.CATEGORIES
+        print(f"== フル便({hour}時) ==")
+    else:
+        keys = list(collect.CATEGORIES)
+        k = keys[hour % len(keys)]
+        targets = {k: collect.CATEGORIES[k]}
+        print(f"== 軽量便({hour}時): {collect.CATEGORIES[k]} ==")
+
     published = build._load()
     recent_titles = [a["title"] for a in published[-40:]]
     articles, orig_titles, notes = [], [], []
-    for cat, label in collect.CATEGORIES.items():
+    for cat, label in targets.items():
         print(f"[収集: {label}] (久遠)")
         candidates = collect.collect(cat)
         print(f"  候補: {len(candidates)}件")
@@ -35,8 +53,10 @@ def main() -> int:
                 print(f"  執筆失敗({p['title']}): {e}")
                 notes.append(f"執筆失敗: {p['title'][:40]}")
 
-    print("[バズ動画TOP10] (久遠)")
-    videos = buzz.fetch_top10()
+    videos = None
+    if full:
+        print("[バズ動画TOP10] (久遠)")
+        videos = buzz.fetch_top10()
     if videos:
         try:
             comments = editor.buzz_comments(videos)
@@ -56,12 +76,15 @@ def main() -> int:
         print("記事もバズ動画もゼロ。異常終了")
         return 1
 
-    print("[X告知] (桐生)")
-    try:
-        announce.post(articles)
-    except Exception as e:
-        print(f"  X告知失敗(続行): {e}")
-        notes.append(f"X告知失敗: {e}")
+    if full:
+        print("[X告知] (桐生)")
+        try:
+            announce.post(articles)
+        except Exception as e:
+            print(f"  X告知失敗(続行): {e}")
+            notes.append(f"X告知失敗: {e}")
+    else:
+        print("[X告知] 軽量便のためスキップ(コスト対策)")
 
     try:
         buzz_top = (buzz.load().get("videos") or [None])[0]

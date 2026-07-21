@@ -1,20 +1,20 @@
-# Register the 4x daily schedule for AI TECH TIMES (runs on this PC)
+# Register the HOURLY schedule for AI TECH TIMES (runs on this PC)
+# Full edition at 7/12/17/21 JST (all categories + buzz + X post),
+# light edition (1 rotating category) every other hour. Logic lives in run_pipeline.py.
 # ASCII only (PS5.1 reads ps1 as ANSI without BOM).
 $ErrorActionPreference = "Stop"
 
 $action = New-ScheduledTaskAction -Execute "powershell.exe" `
     -Argument "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$env:USERPROFILE\Desktop\ai-tech-times\run_edition.ps1`""
-$triggers = @(
-    (New-ScheduledTaskTrigger -Daily -At 07:00),
-    (New-ScheduledTaskTrigger -Daily -At 12:30),
-    (New-ScheduledTaskTrigger -Daily -At 17:30),
-    (New-ScheduledTaskTrigger -Daily -At 21:30)
-)
+$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date -Hour 0 -Minute 0 -Second 0) `
+    -RepetitionInterval (New-TimeSpan -Hours 1) -RepetitionDuration ([TimeSpan]::MaxValue)
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -DontStopOnIdleEnd -ExecutionTimeLimit (New-TimeSpan -Minutes 30)
-Register-ScheduledTask -TaskName "AI-Tech-Times-Edition" -Action $action -Trigger $triggers -Settings $settings `
-    -Description "AI TECH TIMES news site: generate articles and deploy 4x daily" -Force | Out-Null
+Register-ScheduledTask -TaskName "AI-Tech-Times-Edition" -Action $action -Trigger $trigger -Settings $settings `
+    -Description "AI TECH TIMES news site: hourly edition (full at 7/12/17/21)" -Force | Out-Null
 
+$info = Get-ScheduledTaskInfo -TaskName "AI-Tech-Times-Edition"
 $state = (Get-ScheduledTask -TaskName "AI-Tech-Times-Edition").State
 Write-Host ""
-Write-Host "=== SUCCESS! Schedule registered (state: $state) ==="
-Write-Host "The news site now updates automatically at 7:00 / 12:30 / 17:30 / 21:30."
+Write-Host "=== SUCCESS! Hourly schedule registered (state: $state) ==="
+Write-Host ("Next run: " + $info.NextRunTime)
+Write-Host "Full edition at 7:00 / 12:00 / 17:00 / 21:00, light edition every other hour."
