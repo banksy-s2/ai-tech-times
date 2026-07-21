@@ -4,7 +4,7 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import buzz
+from . import buzz, storage
 from .collect import CATEGORIES
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -83,9 +83,12 @@ footer{border-top:1px solid var(--border);margin-top:48px;padding:24px 0;color:v
 
 
 def _load() -> list[dict]:
-    if DATA_FILE.exists():
-        return json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    return []
+    return storage.load_json(DATA_FILE, [])
+
+
+def _jsonld(obj: dict) -> str:
+    """script要素内に安全に埋め込めるJSON-LD(</script>分割を防ぐ)"""
+    return json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
 
 
 def _fmt_views(n: int) -> str:
@@ -156,7 +159,7 @@ def _article_html(a: dict) -> str:
     paragraphs = "\n".join(f"<p>{e(p)}</p>" for p in a["body"])
     tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
     cat = CATEGORIES.get(a.get("category", "ai"), "AI")
-    jsonld = json.dumps({
+    jsonld = _jsonld({
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a["title"], "description": a["lead"],
         "datePublished": a["date"], "inLanguage": "ja",
@@ -165,14 +168,19 @@ def _article_html(a: dict) -> str:
         "publisher": {"@type": "Organization", "name": SITE_NAME},
         "mainEntityOfPage": f"{BASE_URL}{a['path']}",
         "isBasedOn": a["source_url"],
-    }, ensure_ascii=False)
+    })
+    src_url = a["source_url"]
+    if src_url.startswith(("http://", "https://")):  # javascript:等の不正スキームはリンク化しない
+        source = f'<a href="{e(src_url)}" rel="noopener" target="_blank">{e(a["source"])} — 元記事を読む</a>'
+    else:
+        source = e(a["source"])
     body = f"""<a class="back" href="{BASE_URL}/">← トップに戻る</a>
 <article>
 <h1>{e(a['title'])}</h1>
 <div class="meta"><span class="cat">{cat}</span>{a['date']} {a.get('time', '')} / {tags}</div>
 <div class="lead">{e(a['lead'])}</div>
 {paragraphs}
-<div class="source">出典: <a href="{e(a['source_url'])}" rel="noopener" target="_blank">{e(a['source'])} — 元記事を読む</a></div>
+<div class="source">出典: {source}</div>
 </article>"""
     return _page(f"{a['title']} | {SITE_NAME}", a["lead"], a["path"], body,
                  f'<script type="application/ld+json">{jsonld}</script>')
@@ -194,14 +202,14 @@ def _buzz_html(data: dict) -> str:
 </div>
 </div>""")
     date = data.get("date") or "未集計"
-    jsonld = json.dumps({
+    jsonld = _jsonld({
         "@context": "https://schema.org", "@type": "ItemList",
         "name": f"世界のバズ動画TOP10 ({date})",
         "itemListElement": [
             {"@type": "ListItem", "position": v["rank"], "url": v["url"], "name": v["title"]}
             for v in data.get("videos", [])
         ],
-    }, ensure_ascii=False)
+    })
     body = f"""<article>
 <h1>世界のバズ動画TOP10</h1>
 <div class="meta">{date} 集計 / YouTube急上昇(米・英・日・韓・伯・印)を再生回数で統合</div>
@@ -295,12 +303,12 @@ def build() -> None:
         latest = "".join(
             f'<a href="{BASE_URL}{a["path"]}">▶ {e(a["title"])}</a>' for a in arts[:3])
         breaking = f'<div class="breaking"><span class="bk-label">速報</span>最新便 {arts[0].get("time", "")} 更新{latest}</div>'
-    site_jsonld = json.dumps({
+    site_jsonld = _jsonld({
         "@context": "https://schema.org", "@type": "WebSite",
         "name": SITE_NAME, "url": f"{BASE_URL}/",
         "alternateName": ["AIニュース速報", "AIテックタイムズ"],
         "description": INDEX_DESC, "inLanguage": "ja",
-    }, ensure_ascii=False)
+    })
     (DOCS / "index.html").write_text(
         _page(INDEX_TITLE, INDEX_DESC, "/", breaking + _cards(arts[:60]),
               f'<script type="application/ld+json">{site_jsonld}</script>'), encoding="utf-8")
@@ -330,11 +338,12 @@ def save_articles(new_arts: list[dict]) -> None:
     for a in new_arts:
         a["date"] = today
         a["time"] = now.strftime("%H:%M")
-        a["path"] = f"/articles/{today.replace('-', '')}-{a['slug']}.html"
-        if a["path"] in known:  # 同日別便で同スラッグが出たら時刻を付けて別記事として残す
-            a["path"] = f"/articles/{today.replace('-', '')}-{a['slug']}-{now.strftime('%H%M')}.html"
-        if a["path"] not in known:
-            arts.append(a)
-            known.add(a["path"])
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_FILE.write_text(json.dumps(arts, ensure_ascii=False, indent=1), encoding="utf-8")
+        base = f"/articles/{today.replace('-', '')}-{a['slug']}"
+        a["path"] = f"{base}.html"
+        n = 2
+        while a["path"] in known:  # 同スラッグ衝突は連番で必ず一意にする(黙って捨てない)
+            a["path"] = f"{base}-{n}.html"
+            n += 1
+        arts.append(a)
+        known.add(a["path"])
+    storage.save_json(DATA_FILE, arts)

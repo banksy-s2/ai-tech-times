@@ -8,6 +8,8 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+from . import storage
+
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 POSTED_FILE = DATA_DIR / "posted_urls.json"
 
@@ -130,9 +132,7 @@ def _parse_feed(source: str, raw: bytes) -> list[dict]:
 
 def _load_posted() -> dict:
     """既報台帳。旧形式(URLのみのlist)からも読めるようにする"""
-    if not POSTED_FILE.exists():
-        return {"urls": [], "titles": []}
-    data = json.loads(POSTED_FILE.read_text(encoding="utf-8"))
+    data = storage.load_json(POSTED_FILE, {"urls": [], "titles": []})
     if isinstance(data, list):
         return {"urls": data, "titles": []}
     return data
@@ -204,5 +204,4 @@ def mark_posted(urls: list[str], titles: list[str]) -> None:
     posted = _load_posted()
     posted["urls"] = (posted["urls"] + urls)[-2000:]
     posted["titles"] = (posted["titles"] + titles)[-2000:]
-    POSTED_FILE.parent.mkdir(parents=True, exist_ok=True)
-    POSTED_FILE.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")
+    storage.save_json(POSTED_FILE, posted)

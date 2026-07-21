@@ -45,13 +45,13 @@ def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None
         "generationConfig": gen_config,
     }).encode("utf-8")
     last_error = None
-    for model in models:
-        for attempt in range(3):
+    for model in dict.fromkeys(models):  # 重複モデルは1回だけ試す
+        for attempt in range(2):  # タスクの30分制限内に収める(指摘4)
             req = urllib.request.Request(
                 f"{API_BASE}/{model}:generateContent?key={key}", data=body,
                 headers={"Content-Type": "application/json"}, method="POST")
             try:
-                with urllib.request.urlopen(req, timeout=120) as r:
+                with urllib.request.urlopen(req, timeout=75) as r:
                     data = json.loads(r.read())
                 return data["candidates"][0]["content"]["parts"][0]["text"]
             except urllib.error.HTTPError as e:
@@ -60,13 +60,12 @@ def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None
                 if e.code == 429 and "PerDay" in detail:
                     print(f"  [editor] {model} の日次枠切れ → 次のモデルへ")
                     break
-                if attempt < 2:
-                    wait = 30 * (attempt + 1)
-                    print(f"  [editor] {model} 失敗(HTTP {e.code})、{wait}秒後にリトライ")
-                    time.sleep(wait)
+                if attempt < 1:
+                    print(f"  [editor] {model} 失敗(HTTP {e.code})、30秒後にリトライ")
+                    time.sleep(30)
             except Exception as e:
                 last_error = f"{model}: {e}"
-                if attempt < 2:
+                if attempt < 1:
                     time.sleep(15)
     raise RuntimeError(f"全モデル失敗: {last_error}")
 
@@ -149,7 +148,25 @@ JSONのみ出力:
     art = _parse_json(_gemini(prompt))
     if isinstance(art, list):  # [{...}] 形式で返るケース
         art = next((x for x in art if isinstance(x, dict)), {})
-    art["slug"] =re.sub(r"[^a-z0-9-]", "", art.get("slug", "news").lower())[:60] or "news"
+    # 保存前スキーマ検証: 欠損レコードを永続化するとサイト生成が連鎖失敗する(指摘2)
+    if not isinstance(art, dict):
+        raise ValueError("記事がdictでない")
+    title = str(art.get("title", "")).strip()
+    lead = str(art.get("lead", "")).strip()
+    body = art.get("body")
+    if isinstance(body, str):
+        body = [body]
+    if not isinstance(body, list):
+        body = []
+    body = [str(p).strip() for p in body if str(p).strip()]
+    if not (title and lead and body):
+        raise ValueError(f"記事スキーマ不正(title={bool(title)}, lead={bool(lead)}, body={len(body)}段落)")
+    tags = art.get("tags")
+    art.update({
+        "title": title[:60], "lead": lead, "body": body,
+        "tags": [str(t)[:20] for t in tags][:5] if isinstance(tags, list) else [],
+    })
+    art["slug"] = re.sub(r"[^a-z0-9-]", "", str(art.get("slug", "news")).lower())[:60] or "news"
     art["source"] = item["source"]
     art["source_url"] = item["url"]
     art["category"] = item.get("category", "ai")

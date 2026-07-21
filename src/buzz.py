@@ -11,6 +11,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from . import storage
+
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "buzz.json"
 API_URL = "https://www.googleapis.com/youtube/v3/videos"
 REGIONS = ["US", "GB", "JP", "KR", "BR", "IN"]
@@ -73,14 +75,11 @@ def fetch_top10() -> list[dict] | None:
 def save(videos: list[dict], comments: list[str]) -> None:
     for v, c in zip(videos, comments + [""] * 10):
         v["comment"] = c
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_FILE.write_text(json.dumps({
+    storage.save_json(DATA_FILE, {
         "date": datetime.now(JST).strftime("%Y-%m-%d"),
         "videos": videos,
-    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    })
 
 
 def load() -> dict:
-    if DATA_FILE.exists():
-        return json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    return {"date": "", "videos": []}
+    return storage.load_json(DATA_FILE, {"date": "", "videos": []})

@@ -73,21 +73,28 @@ def main() -> int:
     build.build()
 
     if not articles and not videos:
-        print("記事もバズ動画もゼロ。異常終了")
-        return 1
+        if full:
+            print("フル便で記事もバズ動画もゼロ。異常終了")
+            return 1
+        print("軽量便: 新着なし(正常)")  # 既報除外後の候補ゼロは軽量便では普通(指摘8)
+        return 0
 
-    if full:
+    if full and articles:
         print("[X告知] (桐生)")
         try:
             announce.post(articles)
         except Exception as e:
             print(f"  X告知失敗(続行): {e}")
             notes.append(f"X告知失敗: {e}")
+    elif full:
+        print("[X告知] 記事ゼロのためスキップ(指摘15)")
     else:
         print("[X告知] 軽量便のためスキップ(コスト対策)")
 
     try:
-        buzz_top = (buzz.load().get("videos") or [None])[0]
+        data = buzz.load()
+        today = datetime.now(JST).strftime("%Y-%m-%d")
+        buzz_top = (data.get("videos") or [None])[0] if data.get("date") == today else None
         report.write(articles, buzz_top, notes)
     except Exception as e:
         print(f"  日報記録失敗(続行): {e}")
