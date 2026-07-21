@@ -46,10 +46,12 @@ function papply(name, info){
   if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
   if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
 }
-function pwiki(name){
+function pwiki(name, bio){
   var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
   if (pcache[key]) { papply(name, pcache[key]); return; }
-  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=1&srsearch=" + encodeURIComponent(key))
+  // 同名の別項目(例:「トランプ」→カードゲーム)を避けるため紹介文も検索語に添える
+  var q = key + " " + (bio || "").slice(0, 24);
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=1&srsearch=" + encodeURIComponent(q))
     .then(function(r){ return r.json(); })
     .then(function(d){
       var hit = d.query && d.query.search && d.query.search[0];
@@ -73,7 +75,7 @@ document.addEventListener("click", function(ev){
     document.getElementById("pimg").style.display = "none";
     document.getElementById("plink").style.display = "none";
     box.style.display = "block";
-    pwiki(t.textContent);
+    pwiki(t.textContent, t.getAttribute("data-bio"));
   } else if (!t.closest("#pbox")) {
     box.style.display = "none";
   }
