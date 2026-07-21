@@ -4,12 +4,10 @@ service cloud.firestore {
     // いいね: 誰でも読める。書き込みは「+1ずつ」だけ許可(改ざん・一括操作の防止)
     match /likes/{article} {
       allow read: if true;
-      allow write: if request.resource.data.count is int
-        && request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
-        && (
-          (resource == null && request.resource.data.count == 1) ||
-          (resource != null && request.resource.data.count == resource.data.count + 1)
-        );
+      allow create: if request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
+        && request.resource.data.count == 1;
+      allow update: if request.resource.data.keys().hasOnly(['count', 'title', 'path', 'cat'])
+        && request.resource.data.count == resource.data.count + 1;
     }
   }
 }
