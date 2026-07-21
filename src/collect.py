@@ -15,6 +15,7 @@ POSTED_FILE = DATA_DIR / "posted_urls.json"
 CATEGORIES = {
     "ai": "AI",
     "silicon": "シリコンバレー最速",
+    "voices": "海外AIの声",
     "influencer": "インフルエンサー",
     "world": "時事・世界",
 }
@@ -37,6 +38,16 @@ SOURCES = {
         ("The Verge", "https://www.theverge.com/rss/index.xml"),
         ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
         ("CNBC Tech", "https://www.cnbc.com/id/19854910/device/rss/rss.html"),
+    ],
+    # 海外AI識者の個人ブログ/ニュースレター(X読み取りは課金のためRSSで代替)
+    "voices": [
+        ("Simon Willison氏", "https://simonwillison.net/atom/everything/"),
+        ("Ethan Mollick氏 (One Useful Thing)", "https://www.oneusefulthing.org/feed"),
+        ("Jack Clark氏 (Import AI)", "https://jack-clark.net/feed/"),
+        ("Nathan Lambert氏 (Interconnects)", "https://www.interconnects.ai/feed"),
+        ("Zvi Mowshowitz氏", "https://thezvi.substack.com/feed"),
+        ("Andrej Karpathy氏", "https://karpathy.bearblog.dev/feed/"),
+        ("Sebastian Raschka氏", "https://magazine.sebastianraschka.com/feed"),
     ],
     "influencer": [
         ("Googleニュース: インフルエンサー",

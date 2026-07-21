@@ -327,5 +327,26 @@
   "date": "2026-07-21",
   "time": "17:29",
   "path": "/articles/20260721-paramount-warner-merger-paused.html"
+ },
+ {
+  "title": "Kimi K3登場：オープンウェイトAIの激化する競争",
+  "lead": "AI業界の識者であるネイサン・ランバート氏が、最新モデル「Kimi K3」の登場が世界的なAIエコシステムに与える影響について分析しました。",
+  "body": [
+   "AI研究者であり、技術ブログ「Interconnects」を運営するネイサン・ランバート氏は、最新のAIモデル「Kimi K3」の公開が、オープンウェイト（モデルの重みデータが公開されている状態）を巡る競争を激化させていると指摘しています。Kimiは、中国のAIスタートアップであるMoonshot AIが開発した高性能なAIモデルシリーズとして知られています。",
+   "ランバート氏は、今回のモデル公開が単なる技術的な進歩にとどまらず、世界的なAIエコシステム全体に広範な影響を及ぼす可能性があると分析しています。同氏は、オープンウェイトモデルの台頭が、AI開発の勢力図をどのように塗り替え、今後の技術競争をどのように加速させるかについて、その重要性を強調しました。",
+   "今回の発信を通じて、ランバート氏は急速に進化するAI業界において、モデルの公開形態がもたらす構造的な変化を注視すべきだと述べています。世界規模で展開されるAI開発競争の中で、Kimi K3のようなモデルがどのような役割を果たしていくのか、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "Kimi",
+   "オープンウェイト"
+  ],
+  "slug": "kimi-k3-open-weights-escalation",
+  "source": "Nathan Lambert氏 (Interconnects)",
+  "source_url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+  "category": "voices",
+  "date": "2026-07-21",
+  "time": "17:43",
+  "path": "/articles/20260721-kimi-k3-open-weights-escalation.html"
  }
 ]

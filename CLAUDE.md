@@ -16,6 +16,6 @@
 
 - 配信は **Cloudflare Pages**(https://ai-tech-times.pages.dev、Git連携でmainのdocs/を自動デプロイ、ビルドコマンドなし)。BANKSY系と切り離すため banksy-s2.github.io のGitHub Pagesは使わない
 - Secrets登録はWindowsではパイプ禁止、必ず `gh secret set NAME --body "値"`(CR混入で401)
-- Geminiモデルは `gemini-flash-latest` 固定(他は無料枠で429)
+- Geminiは `src/editor.py` の `MODELS` チェーン(lite→2.5-flash→flash-latest)で自動フォールバック。flash-latest(=3.5-flash)は無料枠20回/日しかないので主力はlite
 - ローカルテスト: `$env:GEMINI_API_KEY="..."; python run_pipeline.py`(X未設定なら告知だけスキップされる)
 - 記事データは `data/articles.json` に全件蓄積、`data/posted_urls.json` が既報URLの重複防止台帳

@@ -5,11 +5,13 @@ import re
 import time
 import urllib.request
 
-MODEL = "gemini-flash-latest"  # 無料枠で動く唯一のモデル(2.0-flashは枠0で429)
-API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+# 無料枠の日次クォータはモデル別。lite(枠大)を主力に、切れたら次へフォールバック
+# ※gemini-flash-latestは2026-07時点でgemini-3.5-flashを指し、無料枠わずか20回/日
+MODELS = ["gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
+API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
-PICKS_PER_CATEGORY = {"ai": 2, "silicon": 2, "influencer": 1, "world": 2}
+PICKS_PER_CATEGORY = {"ai": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2}
 
 SELECT_CRITERIA = {
     "ai": """- 大手AI企業の新モデル/新製品発表、業界に影響する出来事を優先
@@ -17,6 +19,9 @@ SELECT_CRITERIA = {
     "silicon": """- 米テック業界(シリコンバレー)の最新・速報性の高い動きを最優先(買収、資金調達、新製品、人事、規制、株価に響く発表など)
 - 日本ではまだあまり報じられていない話題ほど価値が高い
 - AIモデルの発表そのものはAIカテゴリと被るので、ビジネス・業界動向の切り口を優先""",
+    "voices": """- 海外の著名なAI研究者・実務家「個人」の考察・意見・発見を紹介する枠
+- 日本ではまだ知られていない視点や、業界の内側からの一次情報を優先
+- 「誰が」言っているかが価値なので、発信者が明確なものだけ選ぶ""",
     "influencer": """- 国内外のインフルエンサー/YouTuber/TikToker/VTuberの話題性ある出来事を優先
 - 記録達成、大型コラボ、プラットフォームの重要変更、社会的影響のある出来事など
 - 根拠のないゴシップや個人攻撃的な話題は避ける""",
@@ -26,26 +31,42 @@ SELECT_CRITERIA = {
 }
 
 
-def _gemini(prompt: str, retries: int = 5) -> str:
+def _gemini(prompt: str, json_mode: bool = True) -> str:
+    """モデルを順に試す。日次クォータ切れ(PerDay)は即次のモデルへ、瞬間的な429は待って再試行"""
+    import urllib.error
     key = os.environ["GEMINI_API_KEY"]
+    gen_config = {"temperature": 0.4}
+    if json_mode:
+        gen_config["responseMimeType"] = "application/json"
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4},
+        "generationConfig": gen_config,
     }).encode("utf-8")
-    req = urllib.request.Request(
-        f"{API_URL}?key={key}", data=body,
-        headers={"Content-Type": "application/json"}, method="POST")
-    for attempt in range(retries):
-        try:
-            with urllib.request.urlopen(req, timeout=120) as r:
-                data = json.loads(r.read())
-            return data["candidates"][0]["content"]["parts"][0]["text"]
-        except Exception as e:
-            if attempt == retries - 1:
-                raise
-            wait = 30 * (attempt + 1)  # 無料枠のRPM制限は1分待てば回復する
-            print(f"  [editor] Gemini失敗({e})、{wait}秒後にリトライ")
-            time.sleep(wait)
+    last_error = None
+    for model in MODELS:
+        for attempt in range(3):
+            req = urllib.request.Request(
+                f"{API_BASE}/{model}:generateContent?key={key}", data=body,
+                headers={"Content-Type": "application/json"}, method="POST")
+            try:
+                with urllib.request.urlopen(req, timeout=120) as r:
+                    data = json.loads(r.read())
+                return data["candidates"][0]["content"]["parts"][0]["text"]
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode("utf-8", errors="replace")
+                last_error = f"{model}: HTTP {e.code}"
+                if e.code == 429 and "PerDay" in detail:
+                    print(f"  [editor] {model} の日次枠切れ → 次のモデルへ")
+                    break
+                if attempt < 2:
+                    wait = 30 * (attempt + 1)
+                    print(f"  [editor] {model} 失敗(HTTP {e.code})、{wait}秒後にリトライ")
+                    time.sleep(wait)
+            except Exception as e:
+                last_error = f"{model}: {e}"
+                if attempt < 2:
+                    time.sleep(15)
+    raise RuntimeError(f"全モデル失敗: {last_error}")
 
 
 def _parse_json(text: str):
@@ -90,6 +111,9 @@ JSON配列のみ出力: [{{"index": 数値, "reason": "選定理由1文"}}]"""
 
 def write_article(item: dict) -> dict:
     """1本の候補を日本語記事に。元記事の要約にある事実のみ使用"""
+    extra = ""
+    if item.get("category") == "voices":
+        extra = "\n- これは海外AI識者の発信の紹介記事。見出しと本文で「誰の発信か」を明示し、「〜氏は…と指摘しています」の形で本人の見解として書く"
     prompt = f"""あなたはニュースサイト「AI TECH TIMES」の記者です。以下の元記事情報だけを使って、日本語のニュース記事を書いてください。
 
 元記事:
@@ -100,7 +124,7 @@ def write_article(item: dict) -> dict:
 
 厳守ルール:
 - 上記の要約に書かれている事実だけを使う。数値・固有名詞・日付を推測で追加しない
-- 元記事が英語の場合は自然な日本語に翻訳し、日本の読者に馴染みのない企業・人物には1文だけ補足を入れる
+- 元記事が英語の場合は自然な日本語に翻訳し、日本の読者に馴染みのない企業・人物には1文だけ補足を入れる{extra}
 - 要約が薄い場合は、一般に知られている背景(企業の説明など)を1〜2文だけ補ってよいが、新事実は作らない
 - 本文は500〜800字、です・ます調
 - 見出しは30字以内でキャッチーに
@@ -129,15 +153,7 @@ def buzz_comments(videos: list[dict]) -> list[str]:
 1: コメント
 2: コメント
 ..."""
-    key = os.environ["GEMINI_API_KEY"]  # JSONモードを使わないよう素のテキストで呼ぶ
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.4},
-    }).encode("utf-8")
-    req = urllib.request.Request(f"{API_URL}?key={key}", data=body,
-                                 headers={"Content-Type": "application/json"}, method="POST")
-    with urllib.request.urlopen(req, timeout=120) as r:
-        text = json.loads(r.read())["candidates"][0]["content"]["parts"][0]["text"]
+    text = _gemini(prompt, json_mode=False)  # タイトル内の引用符でJSONが壊れるため行形式
     comments = {}
     for line in text.splitlines():
         m = re.match(r"\s*(\d+)\s*[:：.]\s*(.+)", line)
