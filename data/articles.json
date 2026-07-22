@@ -3075,6 +3075,11 @@
     "name": "Fireworks AI",
     "type": "company",
     "desc": "生成AIモデルの実行基盤やAPIサービスなどを開発・提供するアメリカのテクノロジー企業。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。"
    }
   ]
  },

@@ -19,7 +19,19 @@
   "date": "2026-07-21",
   "path": "/articles/20260721-anthropic-copyright-lawsuit-settlement.html",
   "category": "ai_jp",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国のAIスタートアップ企業で、対話型AI「Claude」の開発・提供を行っている。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発・提供する、高度な論理的思考や文章生成を行うAIモデル。"
+   }
+  ]
  },
  {
   "title": "AI「Claude」が87年来の難問「ヤコビアン予想」を覆す",
@@ -46,6 +58,18 @@
     "name": "レベント・アルポゲ",
     "bio": "Anthropicに所属する数学者で、AIモデルを用いてヤコビアン予想の反例生成を報告した。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "AIモデルの開発や数学などの先端研究を行う米国のAI開発企業である。"
+   },
+   {
+    "name": "Claude Fable 5",
+    "type": "ai",
+    "desc": "Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。"
+   }
   ]
  },
  {
@@ -67,7 +91,19 @@
   "date": "2026-07-21",
   "path": "/articles/20260721-openai-autonomous-ai-safety-bypass.html",
   "category": "ai_jp",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "ChatGPTなどの生成AIの開発で知られる、世界的なAI研究開発企業である。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話や文章生成を行う広く知られた生成AIサービス。"
+   }
+  ]
  },
  {
   "title": "AMDとMS提携拡大、新AI製品「Helios」をAzureへ",
@@ -90,7 +126,24 @@
   "date": "2026-07-21",
   "path": "/articles/20260721-amd-microsoft-azure-helios.html",
   "category": "ai_jp",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "GPUやCPUなどの半導体を開発・製造するアメリカの大手半導体企業である。"
+   },
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "「Azure」などのクラウドサービスやソフトウェアを提供する世界的なIT企業。"
+   },
+   {
+    "name": "AMD Helios",
+    "type": "ai",
+    "desc": "AMDが開発した、GPUとCPUを一体化したAI製品・ラックスケール製品。"
+   }
+  ]
  },
  {
   "title": "中外製薬、AIで2030年に研究開発成果の倍増を目指す",
@@ -111,7 +164,14 @@
   "date": "2026-07-21",
   "path": "/articles/20260721-chugai-pharmaceutical-ai-agents-2030.html",
   "category": "ai_jp",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "中外製薬",
+    "type": "company",
+    "desc": "革新的な医薬品の開発に注力する日本の大手製薬企業である。"
+   }
+  ]
  },
  {
   "title": "NTTやサカナAIなど「AI開発成功組」に迫る共通点とは？",
@@ -133,7 +193,19 @@
   "category": "ai_jp",
   "date": "2026-07-21",
   "path": "/articles/20260721-ntt-softbank-sakanaai-common-points.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "NTT",
+    "type": "company",
+    "desc": "通信事業を基盤とし、独自AIの開発にも取り組む日本の大手電気通信事業者。"
+   },
+   {
+    "name": "サカナAI",
+    "type": "company",
+    "desc": "独自の人工知能開発に取り組み、高い注目を集めている日本のAIスタートアップ。"
+   }
+  ]
  },
  {
   "title": "NVIDIA、ロボット用AI「Cosmos 3 Edge」公開",
@@ -156,7 +228,19 @@
   "category": "ai_jp",
   "date": "2026-07-21",
   "path": "/articles/20260721-nvidia-cosmos-3-edge.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "GPUやAI向けハードウェア・ソフトウェアを開発する世界的な半導体大手。"
+   },
+   {
+    "name": "Cosmos 3 Edge",
+    "type": "ai",
+    "desc": "NVIDIAが開発した、ロボットや自動運転向けの小型エッジAIモデル。"
+   }
+  ]
  },
  {
   "title": "にじさんじ剣持刀也、初のオリコン週間音楽ランキング1位！",
@@ -182,7 +266,8 @@
     "name": "剣持刀也",
     "bio": "人気バーチャルライバーグループ「にじさんじ」に所属する人気VTuber。"
    }
-  ]
+  ],
+  "terms": []
  },
  {
   "title": "星街すいせいが始球式に登場！初音ミクの応援で105キロを記録",
@@ -212,6 +297,13 @@
     "name": "初音ミク",
     "bio": "クリプトン・フューチャー・メディアが開発した世界的な人気を誇るバーチャルシンガー。"
    }
+  ],
+  "terms": [
+   {
+    "name": "カバー株式会社",
+    "type": "company",
+    "desc": "女性VTuberグループ「ホロライブ」などを運営する日本のエンタメ企業。"
+   }
   ]
  },
  {
@@ -233,7 +325,8 @@
   "category": "world",
   "date": "2026-07-21",
   "path": "/articles/20260721-takaichi-government-first-honeboto-policy.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "中国艦艇が日本のEEZ内で射撃訓練 防衛省が確認、露艦艇も",
@@ -254,7 +347,8 @@
   "category": "world",
   "date": "2026-07-21",
   "path": "/articles/20260721-china-vessel-eez-shooting-drill.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "岐阜で40度を観測！気象庁が今年導入の「酷暑日」に熱中症警戒",
@@ -275,7 +369,8 @@
   "category": "world",
   "date": "2026-07-21",
   "path": "/articles/20260721-gifu-aichi-extreme-heat-40c.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "Netflix、アフレック氏のAI映画企業を950億円で買収",
@@ -304,6 +399,18 @@
     "name": "ベン・アフレック",
     "bio": "ハリウッドで俳優や映画監督として広く知られ、アカデミー賞を受賞した著名な映画人。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Netflix",
+    "type": "company",
+    "desc": "映画やドラマなどの映像ストリーミングサービスを提供する世界的な企業。"
+   },
+   {
+    "name": "InterPositive",
+    "type": "company",
+    "desc": "AI技術を駆使した映画制作を行う、ベン・アフレック氏らが設立した企業。"
+   }
   ]
  },
  {
@@ -326,7 +433,8 @@
   "date": "2026-07-21",
   "time": "16:52",
   "path": "/articles/20260721-nikkei-average-surges-over-2000-yen-semiconductor-stocks.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "GoogleのAI検索がウェブを脅かす？サイト流入が約40%減少",
@@ -354,6 +462,18 @@
     "name": "ケイト・コンガー",
     "bio": "ニューヨーク・タイムズ紙に所属し、テクノロジー分野などを取材するジャーナリスト。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンやAI検索などのサービスを提供する世界的なIT企業である。"
+   },
+   {
+    "name": "Cloudflare",
+    "type": "company",
+    "desc": "ウェブのセキュリティ向上やパフォーマンス支援を行う米国のIT企業。"
+   }
   ]
  },
  {
@@ -376,7 +496,19 @@
   "date": "2026-07-21",
   "time": "17:29",
   "path": "/articles/20260721-paramount-warner-merger-paused.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "パラマウント",
+    "type": "company",
+    "desc": "映画製作やメディア事業を手がける米国のエンターテインメント大企業。"
+   },
+   {
+    "name": "ワーナー・ブラザース",
+    "type": "company",
+    "desc": "世界的に知られる米国の映画製作・エンターテインメント大手企業。"
+   }
+  ]
  },
  {
   "title": "Kimi K3登場：オープンウェイトAIの激化する競争",
@@ -403,6 +535,18 @@
     "name": "ネイサン・ランバート",
     "bio": "AI研究者であり、技術に関するブログ「Interconnects」を運営している。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "高性能なAIモデル「Kimi」シリーズなどを開発する中国のAIスタートアップ。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "Moonshot AIが開発した、オープンウェイトの高性能な大規模AIモデル。"
+   }
   ]
  },
  {
@@ -427,7 +571,19 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-us-government-considers-ban-on-foreign-open-source-ai.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "高度な自然言語処理モデルの開発で注目を集める中国のAIスタートアップ。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "Moonshot AIが開発した、超大型のオープンAIモデル・言語モデル。"
+   }
+  ]
  },
  {
   "title": "TSMC、2027年に製造価格を最大10％引き上げへ",
@@ -449,7 +605,14 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-tsmc-price-hike-2027.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "最先端の半導体製造を担う世界最大の台湾の半導体ファウンドリ企業。"
+   }
+  ]
  },
  {
   "title": "ソニーミュージック、AI企業Udioを再び提訴　楽曲3万曲超の無断利用を主張",
@@ -473,7 +636,19 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-sony-music-files-second-lawsuit-against-udio.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "ソニーミュージックエンタテインメント",
+    "type": "company",
+    "desc": "音楽・エンタテインメント事業を展開する日本を代表する企業グループ。"
+   },
+   {
+    "name": "Udio",
+    "type": "ai",
+    "desc": "テキスト入力から楽曲を生成する機能を持つAI音楽生成プラットフォーム。"
+   }
+  ]
  },
  {
   "title": "AIエージェントで家電の解析が容易に？コスト低下がもたらす変化",
@@ -500,7 +675,8 @@
     "name": "サイモン・ウィリソン",
     "bio": "オープンソースコミュニティ等で活動する著名なソフトウェアエンジニア。"
    }
-  ]
+  ],
+  "terms": []
  },
  {
   "title": "米政府、イランへの攻撃継続を明言「大統領の判断まで」",
@@ -522,7 +698,8 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-us-continues-military-strikes-on-iran.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "iPS細胞による脊髄損傷治療、長期の安全性と改善維持を確認",
@@ -544,7 +721,8 @@
   "date": "2026-07-21",
   "time": "19:01",
   "path": "/articles/20260721-ips-spinal-cord-injury-long-term-safety.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "Apple、OpenAI社員数十人に警告。企業秘密漏洩で法的文書を送付",
@@ -568,7 +746,19 @@
   "date": "2026-07-21",
   "time": "20:33",
   "path": "/articles/20260721-apple-sends-legal-notice-to-openai-employees.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどの製品開発を手掛け、独自の技術や戦略を保護するため厳格な姿勢をとる米国の企業。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "ChatGPTなどの生成AIサービスで世界をリードし、元社員を巡る訴訟などでAppleと緊張関係にある企業。"
+   }
+  ]
  },
  {
   "title": "GMO熊谷会長が在宅勤務廃止を釈明、AI時代にオフィスへ戻る理由は？",
@@ -597,6 +787,13 @@
     "name": "熊谷正寿",
     "bio": "GMOインターネットグループを率いる創業者であり、代表取締役会長兼グループ代表を務める実業家。"
    }
+  ],
+  "terms": [
+   {
+    "name": "GMOインターネットグループ",
+    "type": "company",
+    "desc": "インターネットインフラ事業などを展開し、在宅勤務の推奨廃止とオフィス回帰を進める企業グループ。"
+   }
   ]
  },
  {
@@ -620,7 +817,19 @@
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-apple-live-notes-genius-bar-trial.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェア・ソフトウェアを開発・販売し、店舗でAIツールを試験運用する米国の企業。"
+   },
+   {
+    "name": "Live Notes",
+    "type": "ai",
+    "desc": "Appleが開発した、Genius Barでの顧客対応を録音し自動で文字起こしと要約を行うAIシステム。"
+   }
+  ]
  },
  {
   "title": "イスラエル、米世論誘導に多額の資金投入　AIとインフルエンサーで何が起きているのか",
@@ -644,7 +853,8 @@
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-israel-influence-campaign-ai-american-opinion.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "米テック大手5社の隠れ負債が8倍の1.65兆ドルに急増",
@@ -671,6 +881,23 @@
     "name": "山田耕平",
     "bio": "日本経済新聞（Nikkei Asia）の記者であり、国内外の企業財務やテック業界に関する調査報道を手がける。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Alphabet",
+    "type": "company",
+    "desc": "Googleの親会社であり、世界経済を牽引する米国の巨大テック企業の一つ。"
+   },
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "WindowsやクラウドサービスのAzureを手掛け、世界経済を牽引する米国の巨大テック企業。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "EC最大手であり、世界経済を牽引する米国の主要テック企業の一つ。"
+   }
   ]
  },
  {
@@ -695,7 +922,19 @@
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-nebius-stock-surges-as-nvidia-discloses-9-3-percent-stake.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "AI向けGPU市場で圧倒的なシェアを誇る、米国の大手半導体メーカー。"
+   },
+   {
+    "name": "Nebius",
+    "type": "company",
+    "desc": "AI開発などに不可欠なクラウドインフラサービスを提供する企業。"
+   }
+  ]
  },
  {
   "title": "UK政府分析：AIモデルの公開・非公開間の格差が縮小",
@@ -722,7 +961,8 @@
     "name": "Jack Clark",
     "bio": "OpenAIの元政策責任者で、AI分野の動向を発信するニュースレター「Import AI」の著者である研究者。"
    }
-  ]
+  ],
+  "terms": []
  },
  {
   "title": "黒木啓司氏に借金1500万円の衝撃、転落人生の現状とは",
@@ -749,7 +989,8 @@
     "name": "黒木啓司",
     "bio": "EXILEおよびEXILE THE SECONDの元メンバーとして活動し、ダンスや俳優業で広く知られた元タレント。"
    }
-  ]
+  ],
+  "terms": []
  },
  {
   "title": "羽田空港の1.9億円強盗未遂、容疑者は1時間前から尾行か",
@@ -771,7 +1012,8 @@
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-haneda-airport-robbery-attempt-investigation.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "EU、アリババ傘下アリエクスプレスに1000億円超の制裁金",
@@ -795,7 +1037,19 @@
   "date": "2026-07-21",
   "time": "21:03",
   "path": "/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "アリババグループ",
+    "type": "company",
+    "desc": "中国のネット通販大手であり、アリエクスプレスなどのサービスを展開する企業。"
+   },
+   {
+    "name": "アリエクスプレス",
+    "type": "company",
+    "desc": "アリババグループ傘下の、世界的に利用者が多い中国発のオンラインショッピングプラットフォーム。"
+   }
+  ]
  },
  {
   "title": "気象庁の3か月予報、8月は高温傾向で猛暑日増加の可能性",
@@ -817,7 +1071,8 @@
   "date": "2026-07-21",
   "time": "23:00",
   "path": "/articles/20260721-jma-3-month-forecast-august-heat.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "トランプ政権、カナダ乳製品に50％追加関税へ。貿易不公正は是正されるか",
@@ -845,7 +1100,8 @@
     "name": "トランプ",
     "bio": "アメリカ合衆国の実業家、政治家。同国第45代および第47代大統領を務める。"
    }
-  ]
+  ],
+  "terms": []
  },
  {
   "title": "フーシ派、サウジへ「海上封鎖」を宣言。物流への影響は？",
@@ -868,7 +1124,8 @@
   "date": "2026-07-21",
   "time": "23:30",
   "path": "/articles/20260721-houthi-declares-maritime-blockade-saudi-arabia.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "尖閣諸島沖で中国調査船が活動、21日にEEZ内で確認",
@@ -890,7 +1147,8 @@
   "date": "2026-07-21",
   "time": "23:30",
   "path": "/articles/20260721-senkaku-islands-china-survey-vessel.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "SpaceXがNasdaq-100採用へ、インデックス投資への影響は？",
@@ -917,6 +1175,13 @@
     "name": "イーロン・マスク",
     "bio": "テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。"
    }
+  ],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。"
+   }
   ]
  },
  {
@@ -939,7 +1204,24 @@
   "date": "2026-07-22",
   "time": "00:00",
   "path": "/articles/20260722-adobe-indigo-camera-app-generative-ai-update.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Adobe",
+    "type": "company",
+    "desc": "Photoshopなどの画像編集ソフトで世界的に知られ、カメラアプリや生成AIを展開する米国の企業。"
+   },
+   {
+    "name": "Project Indigo",
+    "type": "ai",
+    "desc": "Adobeが開発する、iPhoneでの撮影において一眼レフのような自然な仕上がりを目指すカメラアプリ。"
+   },
+   {
+    "name": "Firefly",
+    "type": "ai",
+    "desc": "Adobeが独自に展開している、画像生成などの機能を持つ生成AIモデル。"
+   }
+  ]
  },
  {
   "title": "IPA調査：AI利用経験3年未満なのに情報漏えい不安？",
@@ -961,7 +1243,8 @@
   "date": "2026-07-22",
   "time": "01:00",
   "path": "/articles/20260722-ipa-ai-survey-security-concerns.html",
-  "people": []
+  "people": [],
+  "terms": []
  },
  {
   "title": "AIに期待65％なのに成果16％、その理由は？",
@@ -983,7 +1266,14 @@
   "date": "2026-07-22",
   "time": "01:00",
   "path": "/articles/20260722-primenumber-ai-survey-2026.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "primeNumber",
+    "type": "company",
+    "desc": "データ活用支援やAI関連の調査などを手掛ける日本の企業。"
+   }
+  ]
  },
  {
   "title": "Gemini 3.6 Flashが150ドルに、その理由は？",
@@ -1005,7 +1295,19 @@
   "date": "2026-07-22",
   "time": "02:00",
   "path": "/articles/20260722-google-gemini-36-flash-pricing.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、多様なソフトウェアやAI技術を開発・提供する米国の巨大テック企業。"
+   },
+   {
+    "name": "Gemini 3.6 Flash",
+    "type": "ai",
+    "desc": "Googleが開発した高速処理向けのAIモデル。"
+   }
+  ]
  },
  {
   "title": "新AIチップ開発でAlphabet株上昇、その背景は？",
@@ -1027,7 +1329,19 @@
   "date": "2026-07-22",
   "time": "02:00",
   "path": "/articles/20260722-alphabet-developing-efficient-ai-chip.html",
-  "people": []
+  "people": [],
+  "terms": [
+   {
+    "name": "Alphabet",
+    "type": "company",
+    "desc": "Googleの親会社であり、AIチップや先端技術の開発も手掛ける米国の巨大IT企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した高度なマルチモーダル対応のAIモデルシリーズ。"
+   }
+  ]
  },
  {
   "title": "MacでローカルAIを動かすアプリ「Nativ」の実力は？",
@@ -1059,6 +1373,13 @@
     "name": "Prince Canuma氏",
     "bio": "AI・機械学習分野の開発者。Mac向けのMLXを使用したPythonライブラリ「MLX-VLM」などを手がける。"
    }
+  ],
+  "terms": [
+   {
+    "name": "Nativ",
+    "type": "ai",
+    "desc": "Prince Canuma氏が開発した、Mac向けに視覚言語モデルを実行できるデスクトップアプリおよびAPIサーバー。"
+   }
   ]
  },
  {
@@ -1081,7 +1402,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "04:00",
-  "path": "/articles/20260722-youtuber-scam-loss.html"
+  "path": "/articles/20260722-youtuber-scam-loss.html",
+  "terms": []
  },
  {
   "title": "円相場が一時1ドル＝163円台に値下がり、39年半ぶりの円安水準へ",
@@ -1102,7 +1424,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "05:00",
-  "path": "/articles/20260722-yen-drops-to-163-per-dollar.html"
+  "path": "/articles/20260722-yen-drops-to-163-per-dollar.html",
+  "terms": []
  },
  {
   "title": "韓国海洋警察、7月22日に竹島で音楽会を開催する狙いは？",
@@ -1124,7 +1447,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "05:00",
-  "path": "/articles/20260722-korea-coast-guard-takeshima-concert.html"
+  "path": "/articles/20260722-korea-coast-guard-takeshima-concert.html",
+  "terms": []
  },
  {
   "title": "Anthropic、著作権訴訟で15億ドル支払い合意、著者側への救済の行方は",
@@ -1151,7 +1475,14 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "06:00",
-  "path": "/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html"
+  "path": "/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html",
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "対話型AI「Claude」などを開発・提供する米国の人工知能スタートアップ企業。"
+   }
+  ]
  },
  {
   "title": "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表",
@@ -1178,7 +1509,14 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "06:00",
-  "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html"
+  "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html",
+  "terms": [
+   {
+    "name": "Buzz",
+    "type": "ai",
+    "desc": "ジャック・ドーシー氏が発表した、人間とAIエージェントが同時に参加できる職場向けグループチャットプラットフォーム。"
+   }
+  ]
  },
  {
   "title": "AIトークン消費24倍の衝撃、コスト対策の3条件を実践してもなお残る壁",
@@ -1201,7 +1539,8 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-ai-token-consumption-cost-strategy.html"
+  "path": "/articles/20260722-ai-token-consumption-cost-strategy.html",
+  "terms": []
  },
  {
   "title": "CursorのAI開発、コスト8分の1に抑える秘策",
@@ -1223,7 +1562,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-cursor-agent-swarm-cost-reduction.html"
+  "path": "/articles/20260722-cursor-agent-swarm-cost-reduction.html",
+  "terms": [
+   {
+    "name": "Cursor",
+    "type": "ai",
+    "desc": "Anysphereが開発する、AI機能を統合したプログラミング向けのコードエディター。"
+   },
+   {
+    "name": "Anysphere",
+    "type": "company",
+    "desc": "AIを活用したコードエディター「Cursor」などを開発・提供する企業。"
+   }
+  ]
  },
  {
   "title": "Super Micro、受注600億ドル突破で株価13%超急騰、その持続性は",
@@ -1245,7 +1596,14 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html"
+  "path": "/articles/20260722-super-micro-q4-orders-60b-smci-jumps.html",
+  "terms": [
+   {
+    "name": "Super Micro Computer",
+    "type": "company",
+    "desc": "高性能サーバーやAI向けサーバーラックなどを製造・販売する米国のハードウェア企業。"
+   }
+  ]
  },
  {
   "title": "AMDが新型AIラック「Helios」投入、MS参入でエヌビディアに挑む勝算は",
@@ -1268,7 +1626,24 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-amd-helios-microsoft-ai-nvidia.html"
+  "path": "/articles/20260722-amd-helios-microsoft-ai-nvidia.html",
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。"
+   },
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "Windowsやクラウドサービス「Azure」、AI関連技術などを提供する米国の巨大ソフトウェア企業。"
+   },
+   {
+    "name": "Helios",
+    "type": "ai",
+    "desc": "AMDが開発した、エヌビディアに対抗する同社初のAIラックシステム。"
+   }
+  ]
  },
  {
   "title": "ホロライブ運営がカスハラ対策公開、過激化するファンへの具体的な処置は",
@@ -1290,7 +1665,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-hololive-customer-harassment-policy.html"
+  "path": "/articles/20260722-hololive-customer-harassment-policy.html",
+  "terms": []
  },
  {
   "title": "ニチレイにハッカー集団犯行声明、停止した出荷業務の再開いつに",
@@ -1312,7 +1688,14 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-nichirei-cyber-attack-ransomware.html"
+  "path": "/articles/20260722-nichirei-cyber-attack-ransomware.html",
+  "terms": [
+   {
+    "name": "ニチレイ",
+    "type": "company",
+    "desc": "冷凍食品の製造・販売や物流事業などを手掛ける日本の大手食品企業。"
+   }
+  ]
  },
  {
   "title": "食料品消費税減税の議論再開、難航予想される中で実務者会議の着地点は",
@@ -1334,7 +1717,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "07:02",
-  "path": "/articles/20260722-food-consumption-tax-cut-meeting.html"
+  "path": "/articles/20260722-food-consumption-tax-cut-meeting.html",
+  "terms": []
  },
  {
   "title": "AppleがKlarnaと提携し新リース開始、対象ハードの販売どう変わる",
@@ -1357,7 +1741,19 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "08:00",
-  "path": "/articles/20260722-apple-klarna-lease-program.html"
+  "path": "/articles/20260722-apple-klarna-lease-program.html",
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアやOS、関連サービスを開発・販売する米国の巨大テック企業。"
+   },
+   {
+    "name": "Klarna",
+    "type": "company",
+    "desc": "後払い決済サービスなどを提供するスウェーデンの大手フィンテック企業。"
+   }
+  ]
  },
  {
   "title": "米宇宙軍が最大300億ドル規模のロケット調達を目指すワケ",
@@ -1384,7 +1780,8 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "08:00",
-  "path": "/articles/20260722-space-force-30-billion-rocket-launches.html"
+  "path": "/articles/20260722-space-force-30-billion-rocket-launches.html",
+  "terms": []
  },
  {
   "title": "YouTuber空き巣被害、500万円奪われ「日本は安全じゃない」",
@@ -1405,7 +1802,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "10:00",
-  "path": "/articles/20260722-youtuber-burglary-5million-.html"
+  "path": "/articles/20260722-youtuber-burglary-5million-.html",
+  "terms": []
  },
  {
   "title": "円相場1ドル163円台、ドル買いが進む理由とは",
@@ -1427,7 +1825,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "11:00",
-  "path": "/articles/20260722-yen-rate-163-yen-per-dollar.html"
+  "path": "/articles/20260722-yen-rate-163-yen-per-dollar.html",
+  "terms": []
  },
  {
   "title": "関東・東海で40度超えの酷暑日、あなたの地域は大丈夫？",
@@ -1449,7 +1848,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "11:00",
-  "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html"
+  "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html",
+  "terms": []
  },
  {
   "title": "SubstackがAI検出ツールを導入、その見破る精度とは",
@@ -1471,7 +1871,14 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-substack-adds-ai-detector.html"
+  "path": "/articles/20260722-substack-adds-ai-detector.html",
+  "terms": [
+   {
+    "name": "Substack",
+    "type": "company",
+    "desc": "ニュースレターの発配信や購読を可能にするプラットフォームを提供するアメリカの企業。"
+   }
+  ]
  },
  {
   "title": "矢野経済、Claudeで30分100アイデア",
@@ -1493,7 +1900,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-yano-keizai-claude-aidel.html"
+  "path": "/articles/20260722-yano-keizai-claude-aidel.html",
+  "terms": [
+   {
+    "name": "矢野経済研究所",
+    "type": "company",
+    "desc": "市場調査や企業情報提供、コンサルティングなどを行う日本の老舗調査会社。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した、高度な文章生成や推論能力を持つ対話型AIモデル。"
+   }
+  ]
  },
  {
   "title": "富士通とNVIDIA、ロボット大手3社が協業へ",
@@ -1516,7 +1935,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-fujitsu-nvidia-robot-collaboration.html"
+  "path": "/articles/20260722-fujitsu-nvidia-robot-collaboration.html",
+  "terms": [
+   {
+    "name": "富士通",
+    "type": "company",
+    "desc": "通信機器やコンピュータ、ITサービスなどを幅広く手がける日本の大手総合エレクトロニクス企業。"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "GPUなどの半導体やAI・グラフィックス技術の開発を手がけるアメリカの主要テクノロジー企業。"
+   }
+  ]
  },
  {
   "title": "Archer株が20%急騰、Andurilと軍用機を発表",
@@ -1538,7 +1969,19 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-archer-stock-rips-20-percent-higher.html"
+  "path": "/articles/20260722-archer-stock-rips-20-percent-higher.html",
+  "terms": [
+   {
+    "name": "Archer",
+    "type": "company",
+    "desc": "電動垂直離着陸機（eVTOL）の開発を進めるアメリカの航空宇宙企業。"
+   },
+   {
+    "name": "Anduril",
+    "type": "company",
+    "desc": "防衛向けのAI技術やドローン、自律システムなどを開発するアメリカの軍事テック企業。"
+   }
+  ]
  },
  {
   "title": "OpenAIとAnthropic、Q2ロビー活動費23%増の317万ドル",
@@ -1562,7 +2005,19 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html"
+  "path": "/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html",
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "生成AIの研究開発を行うアメリカの企業で、ChatGPTなどを提供している。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "安全性に配慮した大規模言語モデルやAIアシスタントの開発を行うアメリカの企業。"
+   }
+  ]
  },
  {
   "title": "電通とメタが提携、大規模インフルエンサー動員の基盤構築へ",
@@ -1584,7 +2039,19 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-dentsu-meta-influencer-partnership.html"
+  "path": "/articles/20260722-dentsu-meta-influencer-partnership.html",
+  "terms": [
+   {
+    "name": "電通",
+    "type": "company",
+    "desc": "広告やマーケティング、PRなどの事業を展開する日本最大の総合広告代理店企業。"
+   },
+   {
+    "name": "メタ",
+    "type": "company",
+    "desc": "FacebookやInstagramなどのSNSを運営するアメリカの大手IT企業。"
+   }
+  ]
  },
  {
   "title": "中東産原油の輸入が40.6%減、その意外なワケ",
@@ -1606,7 +2073,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-middle-east-oil-imports-decrease-june.html"
+  "path": "/articles/20260722-middle-east-oil-imports-decrease-june.html",
+  "terms": []
  },
  {
   "title": "イギリスが電気料金の付加価値税を0%にする理由",
@@ -1633,7 +2101,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "12:01",
-  "path": "/articles/20260722-uk-electricity-vat-zero.html"
+  "path": "/articles/20260722-uk-electricity-vat-zero.html",
+  "terms": []
  },
  {
   "title": "OpenAIのGPT-5.6 Solが暴走、Hugging Face侵害の理由",
@@ -1656,7 +2125,14 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "13:00",
-  "path": "/articles/20260722-openai-gpt56-sol-huggingface-incident.html"
+  "path": "/articles/20260722-openai-gpt56-sol-huggingface-incident.html",
+  "terms": [
+   {
+    "name": "GPT-5.6 Sol",
+    "type": "ai",
+    "desc": "OpenAIが開発した、高度なサイバー能力を持つとされるAIモデル。"
+   }
+  ]
  },
  {
   "title": "Kimi K3新規加入停止、GPUが不足するワケ",
@@ -1678,7 +2154,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "13:00",
-  "path": "/articles/20260722-kimi-k3-subscription-paused.html"
+  "path": "/articles/20260722-kimi-k3-subscription-paused.html",
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "高性能な大規模言語モデルなどの開発を手がける中国のAIスタートアップ企業。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "Moonshot AIが開発した、高い性能を持つとされる中国製のAIモデル。"
+   }
+  ]
  },
  {
   "title": "SpaceX株が7日ぶり反発、初の決算で何が",
@@ -1700,7 +2188,14 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "14:00",
-  "path": "/articles/20260722-spacex-snaps-7-day-losing-streak.html"
+  "path": "/articles/20260722-spacex-snaps-7-day-losing-streak.html",
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "ロケットや宇宙船の開発・打ち上げ、衛星通信サービスなどを手がけるアメリカの宇宙企業。"
+   }
+  ]
  },
  {
   "title": "EV減速なのにSilaが3億ドル調達できた理由",
@@ -1722,7 +2217,14 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "14:00",
-  "path": "/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html"
+  "path": "/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html",
+  "terms": [
+   {
+    "name": "Sila",
+    "type": "company",
+    "desc": "電気自動車向けなどの次世代リチウムイオン電池用材料を開発するアメリカの企業。"
+   }
+  ]
  },
  {
   "title": "DRAMとNANDの価格が10倍に、生成AIが引き起こした半導体市場の急拡大の真因とは",
@@ -1749,7 +2251,8 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-semiconductor-market-memory-price-surge.html"
+  "path": "/articles/20260722-semiconductor-market-memory-price-surge.html",
+  "terms": []
  },
  {
   "title": "ClaudeがPC画面を録画して定型作業をスキル化",
@@ -1776,7 +2279,14 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-claude-record-a-skill-feature.html"
+  "path": "/articles/20260722-claude-record-a-skill-feature.html",
+  "terms": [
+   {
+    "name": "Claude Cowork",
+    "type": "ai",
+    "desc": "Anthropicが提供する、PC作業などを支援する汎用的なAIエージェント機能。"
+   }
+  ]
  },
  {
   "title": "テスラ、オーランドとタンパでロボタクシー実証実験を開始",
@@ -1808,7 +2318,14 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-tesla-robotaxi-orlando-tampa.html"
+  "path": "/articles/20260722-tesla-robotaxi-orlando-tampa.html",
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "電気自動車や自動運転技術、エネルギー貯蔵システムなどを開発・販売するアメリカの企業。"
+   }
+  ]
  },
  {
   "title": "SnapがSNS依存訴訟で和解、残る被告はMetaのみに",
@@ -1836,7 +2353,14 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-snap-settles-social-media-addiction-case.html"
+  "path": "/articles/20260722-snap-settles-social-media-addiction-case.html",
+  "terms": [
+   {
+    "name": "Snap",
+    "type": "company",
+    "desc": "写真共有アプリ「Snapchat」などを開発・運営するアメリカのソーシャルメディア企業。"
+   }
+  ]
  },
  {
   "title": "宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落",
@@ -1872,7 +2396,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html"
+  "path": "/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html",
+  "terms": []
  },
  {
   "title": "トランプ大統領、ジェネリック医薬品に2028年から100%関税",
@@ -1904,7 +2429,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-trump-generic-100-percent-tariff-2028.html"
+  "path": "/articles/20260722-trump-generic-100-percent-tariff-2028.html",
+  "terms": []
  },
  {
   "title": "フランス、15歳未満のSNS利用禁止へ",
@@ -1931,7 +2457,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "17:04",
-  "path": "/articles/20260722-france-sns-ban-under-15.html"
+  "path": "/articles/20260722-france-sns-ban-under-15.html",
+  "terms": []
  },
  {
   "title": "米IT大手5社、不透明なAI資金調達で隠れ債務が1.65兆ドルに急増",
@@ -1958,7 +2485,8 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "18:00",
-  "path": "/articles/20260722-us-tech-giants-hidden-debts-ai-funding.html"
+  "path": "/articles/20260722-us-tech-giants-hidden-debts-ai-funding.html",
+  "terms": []
  },
  {
   "title": "ニール・ブロムカンプ監督の新作AI短編が公開",
@@ -1990,7 +2518,8 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "18:00",
-  "path": "/articles/20260722-neill-blomkamp-nightborne-ai-film.html"
+  "path": "/articles/20260722-neill-blomkamp-nightborne-ai-film.html",
+  "terms": []
  },
  {
   "title": "デジタル庁、次期マイナンバーカードを2029年度中に提供へ",
@@ -2017,7 +2546,8 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "19:01",
-  "path": "/articles/20260722-next-mynumber-card-2029.html"
+  "path": "/articles/20260722-next-mynumber-card-2029.html",
+  "terms": []
  },
  {
   "title": "AnthropicのAIと海賊版書籍の和解、一部著者が拒否",
@@ -2044,7 +2574,14 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "19:01",
-  "path": "/articles/20260722-anthropic-book-piracy-settlement.html"
+  "path": "/articles/20260722-anthropic-book-piracy-settlement.html",
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "対話型AI「Claude」などを開発・提供するアメリカの人工知能スタートアップ企業。"
+   }
+  ]
  },
  {
   "title": "任天堂、関税返還請求の却下を裁判所に要求",
@@ -2071,7 +2608,8 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "20:00",
-  "path": "/articles/20260722-nintendo-tariff-lawsuit-dismissal.html"
+  "path": "/articles/20260722-nintendo-tariff-lawsuit-dismissal.html",
+  "terms": []
  },
  {
   "title": "Google、Geminiの安価な新モデル投入でコスト競争へ",
@@ -2098,7 +2636,19 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "20:00",
-  "path": "/articles/20260722-google-expands-gemini-lineup.html"
+  "path": "/articles/20260722-google-expands-gemini-lineup.html",
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドサービスやAIモデル「Gemini」などを開発・提供する米大手IT企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。"
+   }
+  ]
  },
  {
   "title": "Metaが独自AI検出を導入した理由",
@@ -2125,7 +2675,19 @@
   "category": "ai",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-meta-ai-detection-content-seal.html"
+  "path": "/articles/20260722-meta-ai-detection-content-seal.html",
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。"
+   },
+   {
+    "name": "Content Seal",
+    "type": "ai",
+    "desc": "Metaが導入した、同社の新しいAIモデルが生成した画像を識別するための目に見えないウォーターマーク技術。"
+   }
+  ]
  },
  {
   "title": "NVIDIAの新CPU「Vera」公開、他社製比2.2倍の性能",
@@ -2152,7 +2714,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-nvidia-vera-cpu-details.html"
+  "path": "/articles/20260722-nvidia-vera-cpu-details.html",
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "GPUやAIデータセンター向けプロセッサの開発・製造で世界をリードするアメリカの半導体企業。"
+   },
+   {
+    "name": "NVIDIA Vera CPU",
+    "type": "ai",
+    "desc": "NVIDIAがAIエージェントやAIデータセンター向けに独自設計したデータセンター向けCPU。"
+   }
+  ]
  },
  {
   "title": "オープンAI高性能モデルが意図せず他社に攻撃",
@@ -2179,7 +2753,19 @@
   "category": "ai_jp",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-openai-model-unintentional-cyberattack.html"
+  "path": "/articles/20260722-openai-model-unintentional-cyberattack.html",
+  "terms": [
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発し、最先端の人工知能研究を進めるアメリカの企業。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "オープンAIが開発・提供する、高度な自然言語処理能力を持つ対話型の生成AIサービス。"
+   }
+  ]
  },
  {
   "title": "香港市場を選ぶ理由：グローバルバイオ企業が中国に接近",
@@ -2206,7 +2792,8 @@
   "category": "silicon",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-global-biotech-firms-hong-kong-ipo.html"
+  "path": "/articles/20260722-global-biotech-firms-hong-kong-ipo.html",
+  "terms": []
  },
  {
   "title": "OpenAIがHugging Faceをハック、その意外な顛末とは",
@@ -2238,7 +2825,8 @@
   "category": "voices",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-openai-hacks-hugging-face.html"
+  "path": "/articles/20260722-openai-hacks-hugging-face.html",
+  "terms": []
  },
  {
   "title": "山田五郎さん死去67歳、西洋美術をユーモア解説",
@@ -2270,7 +2858,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-yamada-goro-passes-away-at-67.html"
+  "path": "/articles/20260722-yamada-goro-passes-away-at-67.html",
+  "terms": []
  },
  {
   "title": "総務省消防庁：熱中症搬送が1週間で1万人超え、前週の2倍以上に急増した理由",
@@ -2297,7 +2886,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-heatstroke-hospitalizations-surpass-10000.html"
+  "path": "/articles/20260722-heatstroke-hospitalizations-surpass-10000.html",
+  "terms": []
  },
  {
   "title": "うなぎ価格1割安く 販売のなぜ",
@@ -2324,7 +2914,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "21:02",
-  "path": "/articles/20260722-unagi-price-tango-no-sekku.html"
+  "path": "/articles/20260722-unagi-price-tango-no-sekku.html",
+  "terms": []
  },
  {
   "title": "ミスタービーストが超豪華リゾート島で極秘挙式",
@@ -2356,7 +2947,8 @@
   "category": "influencer",
   "date": "2026-07-22",
   "time": "22:00",
-  "path": "/articles/20260722-mrbeast-secret-wedding-resort-island.html"
+  "path": "/articles/20260722-mrbeast-secret-wedding-resort-island.html",
+  "terms": []
  },
  {
   "title": "トランプ大統領 イラン攻撃に言及の理由",
@@ -2388,7 +2980,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "23:00",
-  "path": "/articles/20260722-trump-iran-strait-of-hormuz-threat.html"
+  "path": "/articles/20260722-trump-iran-strait-of-hormuz-threat.html",
+  "terms": []
  },
  {
   "title": "旧統一教会、解散時の資産834億円余 清算人が初公表",
@@ -2415,7 +3008,8 @@
   "category": "world",
   "date": "2026-07-22",
   "time": "23:00",
-  "path": "/articles/20260722-unification-church-assets-83-billion-yen.html"
+  "path": "/articles/20260722-unification-church-assets-83-billion-yen.html",
+  "terms": []
  },
  {
   "title": "米財務長官、中国AIの米知財侵害調査へ",
@@ -2447,7 +3041,8 @@
   "category": "ai_jp",
   "date": "2026-07-23",
   "time": "01:01",
-  "path": "/articles/20260723-us-treasury-secretary-china-ai-investigation.html"
+  "path": "/articles/20260723-us-treasury-secretary-china-ai-investigation.html",
+  "terms": []
  },
  {
   "title": "Fireworks AI：Kimi K3とFable 5の使い分けで最大50倍のコスト効率",
@@ -2474,7 +3069,14 @@
   "category": "ai_jp",
   "date": "2026-07-23",
   "time": "01:01",
-  "path": "/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html"
+  "path": "/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html",
+  "terms": [
+   {
+    "name": "Fireworks AI",
+    "type": "company",
+    "desc": "生成AIモデルの実行基盤やAPIサービスなどを開発・提供するアメリカのテクノロジー企業。"
+   }
+  ]
  },
  {
   "title": "Appleの低価格「MacBook Neo」、新型プロセッサとRAM強化を開発中",
@@ -2506,6 +3108,13 @@
   "category": "silicon",
   "date": "2026-07-23",
   "time": "02:00",
-  "path": "/articles/20260723-apple-macbook-neo-ram-upgrade.html"
+  "path": "/articles/20260723-apple-macbook-neo-ram-upgrade.html",
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアやソフトウェアを開発・販売するアメリカの世界的大手IT企業。"
+   }
+  ]
  }
 ]

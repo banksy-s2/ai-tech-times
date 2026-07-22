@@ -280,10 +280,36 @@ def _article_html(a: dict) -> str:
         body += """
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
 <div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
-<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a>
+<div id="prel" style="margin-top:8px;font-size:.82rem"></div></div></div>
 <div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
-var pcache = {}, pcur = "";
+var pcache = {}, pcur = "", pidx = null;
+function prelated(name){
+  var box = document.getElementById("prel");
+  box.textContent = "";
+  function show(idx){
+    var here = location.pathname.split("/").pop().replace(".html", "");
+    var hits = Object.keys(idx).filter(function(k){
+      return k !== here && idx[k].title.indexOf(name) >= 0;
+    }).slice(0, 3);
+    if (!hits.length) return;
+    var h = document.createElement("div");
+    h.textContent = "この話題の記事:";
+    h.style.color = "var(--muted)";
+    box.appendChild(h);
+    hits.forEach(function(k){
+      var a = document.createElement("a");
+      a.href = "__BASE__" + idx[k].path;
+      a.textContent = "・" + idx[k].title;
+      a.style.display = "block";
+      box.appendChild(a);
+    });
+  }
+  if (pidx) { show(pidx); return; }
+  fetch("__BASE__/articles_index.json").then(function(r){ return r.json(); })
+    .then(function(idx){ pidx = idx; show(idx); }).catch(function(){});
+}
 function papply(name, info){
   if (name !== pcur) return;
   var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
@@ -331,11 +357,12 @@ document.addEventListener("click", function(ev){
     document.getElementById("plink").style.display = "none";
     box.style.display = "block";
     pwiki(t.textContent, t.getAttribute("data-bio"));
+    prelated(t.textContent);
   } else if (!t.closest("#pbox")) {
     box.style.display = "none";
   }
 });
-</script>"""
+</script>""".replace("__BASE__", BASE_URL)
     return _page(f"{a['title']} | {SITE_NAME}", a["lead"], a["path"], body,
                  f'<script type="application/ld+json">{jsonld}</script>')
 

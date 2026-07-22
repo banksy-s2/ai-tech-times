@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>Kimi K3とFable 5を比較</li><li>タスクごとの選択で正答率93%</li><li>コスト効率が最大で約50倍に</li></ul></div>
 <div class="lead">生成AI基盤を提供するFireworks AIが、オープンモデルとクローズドモデルの使い分けに関する実験結果を発表しました。課題ごとに適切なモデルを選択することで、コスト効率の大幅な向上が確認されています。</div>
-<p>生成AI基盤を提供する<span class="person" data-kind="company" data-bio="生成AIモデルの実行基盤やAPIサービスなどを開発・提供するアメリカのテクノロジー企業。">Fireworks AI</span>は、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較する実験を行いました。</p>
+<p>生成AI基盤を提供する<span class="person" data-kind="company" data-bio="生成AIモデルの実行基盤やAPIサービスなどを開発・提供するアメリカのテクノロジー企業。">Fireworks AI</span>は、オープンモデルの「<span class="person" data-kind="ai" data-bio="中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。">Kimi K3</span>」とクローズドモデルの「Fable 5」を約1000件のタスクで比較する実験を行いました。</p>
 <p>その結果、課題ごとに適したモデルを選ぶ方法では正答率が93％に達することが明らかになりました。</p>
 <p>さらに、長時間にわたるエージェント型タスクにおいては、Fable 5単独で運用した場合と比較して、最大で約50倍もコスト効率がよくなったとのことです。</p>
 <div class="source">出典: <a href="https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/" rel="noopener" target="_blank">Gigazine — 元記事を読む</a></div>
@@ -50,10 +50,36 @@ gtag('config', 'G-V2T0G11PSH');
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
 <div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
-<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a>
+<div id="prel" style="margin-top:8px;font-size:.82rem"></div></div></div>
 <div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
-var pcache = {}, pcur = "";
+var pcache = {}, pcur = "", pidx = null;
+function prelated(name){
+  var box = document.getElementById("prel");
+  box.textContent = "";
+  function show(idx){
+    var here = location.pathname.split("/").pop().replace(".html", "");
+    var hits = Object.keys(idx).filter(function(k){
+      return k !== here && idx[k].title.indexOf(name) >= 0;
+    }).slice(0, 3);
+    if (!hits.length) return;
+    var h = document.createElement("div");
+    h.textContent = "この話題の記事:";
+    h.style.color = "var(--muted)";
+    box.appendChild(h);
+    hits.forEach(function(k){
+      var a = document.createElement("a");
+      a.href = "https://ai-tech-times.web.app" + idx[k].path;
+      a.textContent = "・" + idx[k].title;
+      a.style.display = "block";
+      box.appendChild(a);
+    });
+  }
+  if (pidx) { show(pidx); return; }
+  fetch("https://ai-tech-times.web.app/articles_index.json").then(function(r){ return r.json(); })
+    .then(function(idx){ pidx = idx; show(idx); }).catch(function(){});
+}
 function papply(name, info){
   if (name !== pcur) return;
   var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
@@ -101,6 +127,7 @@ document.addEventListener("click", function(ev){
     document.getElementById("plink").style.display = "none";
     box.style.display = "block";
     pwiki(t.textContent, t.getAttribute("data-bio"));
+    prelated(t.textContent);
   } else if (!t.closest("#pbox")) {
     box.style.display = "none";
   }
