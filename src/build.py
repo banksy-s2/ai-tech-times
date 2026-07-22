@@ -182,7 +182,7 @@ gtag('config', 'G-V2T0G11PSH');
 {body}
 </main>
 <footer><div class="wrap">© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
-<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
+<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
 </body>
 </html>"""
 
@@ -202,7 +202,7 @@ def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
     out, last_date = [], None
     for a in arts:
         if with_date_heads and a["date"] != last_date:
-            out.append(f'<div class="date-head">{a["date"]}</div>')
+            out.append(f'<div class="date-head"><a href="{BASE_URL}/archive/{a["date"]}.html" style="color:inherit">{a["date"]}</a> <a href="{BASE_URL}/archive/{a["date"]}.html" style="font-size:.78rem">(この日の全記事)</a></div>')
             last_date = a["date"]
         tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
         cat = CATEGORIES.get(a.get("category", "ai"), "AI")
@@ -443,6 +443,38 @@ Promise.all([
     return _page(f"人気の記事ランキング | {SITE_NAME}", "読者のいいねが多い人気ニュースランキング", "/popular.html", body)
 
 
+def _archive_day_html(date: str, day_arts: list[dict]) -> str:
+    y, m, d = date.split("-")
+    title = f"{y}年{int(m)}月{int(d)}日のニュース一覧({len(day_arts)}本) | {SITE_NAME}"
+    body = f"""<article>
+<h1>{y}年{int(m)}月{int(d)}日のニュース</h1>
+<div class="meta">この日に掲載した全{len(day_arts)}本 / <a href="{BASE_URL}/archive/">アーカイブ一覧へ</a></div>
+</article>
+{_cards(sorted(day_arts, key=lambda a: a.get("time", ""), reverse=True), with_date_heads=False)}"""
+    return _page(title, f"{y}年{int(m)}月{int(d)}日にAI TECH TIMESが掲載したニュース{len(day_arts)}本の一覧。",
+                 f"/archive/{date}.html", body)
+
+
+def _archive_index_html(by_date: dict) -> str:
+    months: dict = {}
+    for date in sorted(by_date, reverse=True):
+        months.setdefault(date[:7], []).append(date)
+    sections = []
+    for month, dates in months.items():
+        y, m = month.split("-")
+        days = "".join(
+            f'<a href="{BASE_URL}/archive/{d}.html" class="tag" style="margin:3px;font-size:.85rem">{int(d[8:10])}日({len(by_date[d])}本)</a>'
+            for d in dates)
+        sections.append(f'<div class="card"><h2>{y}年{int(m)}月</h2><div style="margin-top:8px">{days}</div></div>')
+    body = f"""<article>
+<h1>ニュースアーカイブ</h1>
+<div class="meta">日付ごとの全記事一覧。毎時の自動更新で増えていきます</div>
+</article>
+<div style="margin-top:16px">{''.join(sections)}</div>"""
+    return _page(f"日別ニュースアーカイブ | {SITE_NAME}", "AI TECH TIMESの過去記事を日付ごとに一覧できるアーカイブ。",
+                 "/archive/index.html", body)
+
+
 def _weekly_html() -> str:
     from . import weekly as weekly_mod
     e = html.escape
@@ -501,8 +533,9 @@ def _feed_xml(arts: list[dict]) -> str:
 
 
 def _sitemap(arts: list[dict]) -> str:
-    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html"]
+    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/"]
             + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+            + [f"{BASE_URL}/archive/{d}.html" for d in sorted({a['date'] for a in arts})]
             + [f"{BASE_URL}{a['path']}" for a in arts])
     entries = "\n".join(f"<url><loc>{u}</loc></url>" for u in urls)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -564,6 +597,13 @@ def build() -> None:
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
     (DOCS / "weekly.html").write_text(_weekly_html(), encoding="utf-8")
+    (DOCS / "archive").mkdir(exist_ok=True)
+    by_date: dict = {}
+    for a in arts:
+        by_date.setdefault(a["date"], []).append(a)
+    for date, day_arts in by_date.items():
+        (DOCS / "archive" / f"{date}.html").write_text(_archive_day_html(date, day_arts), encoding="utf-8")
+    (DOCS / "archive" / "index.html").write_text(_archive_index_html(by_date), encoding="utf-8")
     (DOCS / "likes.js").write_text(LIKES_JS.replace("__FBCONF__", FIREBASE_CONFIG), encoding="utf-8")
     (DOCS / "views.js").write_text(VIEWS_JS.replace("__KEY__", "AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s"), encoding="utf-8")
     index = {a["path"].rsplit("/", 1)[-1].replace(".html", ""):
