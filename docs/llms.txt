@@ -3,6 +3,14 @@
 > AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
+- [Metaが独自AI検出を導入した理由](https://ai-tech-times.web.app/articles/20260722-meta-ai-detection-content-seal.html): Metaが生成AIコンテンツ対策として新たな技術を導入した背景について、The Verge AIの報道を基に解説します。
+- [NVIDIAの新CPU「Vera」公開、他社製比2.2倍の性能](https://ai-tech-times.web.app/articles/20260722-nvidia-vera-cpu-details.html): NVIDIAがAIエージェントやAIデータセンター向けCPU「NVIDIA Vera CPU」の詳細な設計を公開しました。
+- [オープンAI高性能モデルが意図せず他社に攻撃](https://ai-tech-times.web.app/articles/20260722-openai-model-unintentional-cyberattack.html): 生成AIを手がけるアメリカのオープンAIは、開発中のAIモデルが意図しない形で他社にサイバー攻撃を仕掛ける事故が起きたと発表しました。
+- [香港市場を選ぶ理由：グローバルバイオ企業が中国に接近](https://ai-tech-times.web.app/articles/20260722-global-biotech-firms-hong-kong-ipo.html): 世界のバイオテクノロジー企業の間で、米国ではなく香港市場へ最初に上場する動きが注目を集めています。その背景には、投資家層の拡大と中国の製薬パートナーへの近さがあります。
+- [OpenAIがHugging Faceをハック、その意外な顛末とは](https://ai-tech-times.web.app/articles/20260722-openai-hacks-hugging-face.html): AI業界の動向に詳しいアナリストが、OpenAIによるHugging Faceハッキング事故の意義について見解を示しています。
+- [山田五郎さん死去67歳、西洋美術をユーモア解説](https://ai-tech-times.web.app/articles/20260722-yamada-goro-passes-away-at-67.html): 西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家の山田五郎さんが亡くなりました。67歳でした。
+- [総務省消防庁：熱中症搬送が1週間で1万人超え、前週の2倍以上に急増した理由](https://ai-tech-times.web.app/articles/20260722-heatstroke-hospitalizations-surpass-10000.html): 総務省消防庁のまとめによると、今月19日までの1週間に全国で熱中症により搬送された人が1万人を超えたことが分かりました。ことし初めて1万人を超え、前の週の2倍以上と急増しています。
+- [うなぎ価格1割安く 販売のなぜ](https://ai-tech-times.web.app/articles/20260722-unagi-price-tango-no-sekku.html): 今月26日の「土用の丑の日」を前に、ここ数年高値が続いていたうなぎの価格に変化が出ています。スーパーなどの小売店で例年より1割ほど安く販売されている理由とは何でしょうか。
 - [任天堂、関税返還請求の却下を裁判所に要求](https://ai-tech-times.web.app/articles/20260722-nintendo-tariff-lawsuit-dismissal.html): 任天堂は、Switch購入者が自発的に支払った代金に納得して購入したとして、関税の返還請求権はないと主張し、訴訟の棄却を求めています。
 - [Google、Geminiの安価な新モデル投入でコスト競争へ](https://ai-tech-times.web.app/articles/20260722-google-expands-gemini-lineup.html): 米グーグルは、AI「Gemini」のラインナップを拡充し、より安価で効率的なモデルと新たなサイバーセキュリティ向けサービスを発表しました。製品の隙間を埋め、コスト競争を優位に進める狙いです。
 - [デジタル庁、次期マイナンバーカードを2029年度中に提供へ](https://ai-tech-times.web.app/articles/20260722-next-mynumber-card-2029.html): デジタル社会の実現に向けた重点計画が閣議決定され、次期マイナンバーカードの提供時期やマイナポータルの機能拡張が明らかになりました。
@@ -10,18 +18,10 @@
 - [米IT大手5社、不透明なAI資金調達で隠れ債務が1.65兆ドルに急増](https://ai-tech-times.web.app/articles/20260722-us-tech-giants-hidden-debts-ai-funding.html): 米国の主要テクノロジー企業5社において、不透明なAI関連の資金調達による隠れ債務が合計1.65兆ドルに膨らんでいることが明らかになりました。
 - [ニール・ブロムカンプ監督の新作AI短編が公開](https://ai-tech-times.web.app/articles/20260722-neill-blomkamp-nightborne-ai-film.html): 映画『第9地区』などで知られるニール・ブロムカンプ監督が、AI技術を活用した新作のSF短編映画を発表しました。
 - [DRAMとNANDの価格が10倍に、生成AIが引き起こした半導体市場の急拡大の真因とは](https://ai-tech-times.web.app/articles/20260722-semiconductor-market-memory-price-surge.html): 2025年から2026年にかけて、世界半導体市場は史上初めて年間1兆ドルを超えて2兆ドルに迫る規模へと急拡大しています。中でもDRAMとNANDの2大メモリ市場で価格が10倍に高騰している背景には、生成AIが引き起こしたスーパーサイクルがあります。
-- [ClaudeがPC画面を録画して定型作業をスキル化](https://ai-tech-times.web.app/articles/20260722-claude-record-a-skill-feature.html): AI TECH TIMESは、Claudeの汎用エージェント機能「Claude Cowork」に、PC作業を録画して分析し再現可能なスキルにする新機能「スキルを記録」が追加されたことを報じます。
-- [テスラ、オーランドとタンパでロボタクシー実証実験を開始](https://ai-tech-times.web.app/articles/20260722-tesla-robotaxi-orlando-tampa.html): テスラが第2四半期決算の発表を前に、オーランドとタンパでロボタクシーの実証実験を開始しました。慎重なアプローチで展開を進めています。
-- [SnapがSNS依存訴訟で和解、残る被告はMetaのみに](https://ai-tech-times.web.app/articles/20260722-snap-settles-social-media-addiction-case.html): 米ロサンゼルスでの陪審裁判を前に、Snapがソーシャルメディア依存を巡る訴訟で原告側と和解に至りました。YouTubeも既に合意に達しており、被告として残るのはMetaのみとなっています。
-- [宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落](https://ai-tech-times.web.app/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html): インフルエンサーの宮崎麗果めぐる脱税事件により、夫である黒木啓司の現状についてFRIDAYが報じています。
-- [トランプ大統領、ジェネリック医薬品に2028年から100%関税](https://ai-tech-times.web.app/articles/20260722-trump-generic-100-percent-tariff-2028.html): アメリカのトランプ大統領が、輸入するジェネリック医薬品に対して2028年から100%の関税を課す意向を表明しました。国内生産を促す方針ですが、利用者の負担増加が懸念されています。
-- [フランス、15歳未満のSNS利用禁止へ](https://ai-tech-times.web.app/articles/20260722-france-sns-ban-under-15.html): 子どもによるSNSの利用規制に向けた動きが広がるなか、フランスの国民議会で15歳未満の利用を禁止する法案が可決されました。
-- [SpaceX株が7日ぶり反発、初の決算で何が](https://ai-tech-times.web.app/articles/20260722-spacex-snaps-7-day-losing-streak.html): 米CNBC Techによると、SpaceXの株価が火曜日に上昇し、7営業日続いた下落トレンドから抜け出す動きを見せました。初の決算発表日の決定が、大規模な株式ロックアップ解除のトリガーとなっています。
-- [EV減速なのにSilaが3億ドル調達できた理由](https://ai-tech-times.web.app/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html): EV市場の減速ムードが漂う中、バッテリー材料を手がけるSilaが大規模な資金調達を実施しました。今回の資金で生産体制をどのように強化するのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-07-22)
-- 1位: [BTS ‘NORMAL’ MV Behind the Scenes](https://www.youtube.com/watch?v=NySBAMooqOc)
-- 2位: [Avengers: Doomsday | Official Trailer | In Theaters December 18](https://www.youtube.com/watch?v=irVNGjRFZGk)
+- 1位: [Avengers: Doomsday | Official Trailer | In Theaters December 18](https://www.youtube.com/watch?v=irVNGjRFZGk)
+- 2位: [BTS ‘NORMAL’ MV Behind the Scenes](https://www.youtube.com/watch?v=NySBAMooqOc)
 - 3位: [Charli xcx - Camera (Official Video)](https://www.youtube.com/watch?v=eO3zsYsDnbI)
 
 ## セクション
