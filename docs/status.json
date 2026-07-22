@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-22 22:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-22 23:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ミスタービーストが超豪華リゾート島で極秘挙式",
-   "path": "/articles/20260722-mrbeast-secret-wedding-resort-island.html",
-   "cat": "インフルエンサー"
+   "title": "トランプ大統領 イラン攻撃に言及の理由",
+   "path": "/articles/20260722-trump-iran-strait-of-hormuz-threat.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "旧統一教会、解散時の資産834億円余 清算人が初公表",
+   "path": "/articles/20260722-unification-church-assets-83-billion-yen.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
