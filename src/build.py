@@ -97,6 +97,9 @@ article p{margin:16px 0}
 .rankp .lk{color:var(--accent2);font-weight:700;white-space:nowrap}
 .person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
 .person:hover{color:var(--accent2);border-color:var(--accent2)}
+.person[data-kind="company"]{color:#7ee787;border-color:#7ee787}
+.person[data-kind="ai"]{color:var(--gold);border-color:var(--gold)}
+#pkind{display:inline-block;background:#1f2937;border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.72rem;color:var(--muted);vertical-align:middle}
 #pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}
 #pbox .prow{display:flex;gap:14px;align-items:flex-start}
 #pimg{display:none;width:72px;height:72px;object-fit:cover;border-radius:50%;border:2px solid var(--accent);flex-shrink:0}
@@ -215,25 +218,33 @@ def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
     return "\n".join(out)
 
 
-def _mark_people(text: str, people: list[dict]) -> str:
-    """本文中の人物名をタップ可能なspanに(プレースホルダー方式で入れ子・属性破壊を防ぐ)"""
+def _mark_entities(text: str, ents: list[dict]) -> str:
+    """本文中の人物・企業・AI名をタップ可能なspanに(プレースホルダー方式で入れ子・属性破壊を防ぐ)"""
     e = html.escape
     marked = text
-    for i, p in sorted(enumerate(people), key=lambda x: -len(x[1]["name"])):
+    for i, p in sorted(enumerate(ents), key=lambda x: -len(x[1]["name"])):
         if len(p["name"]) < 3:  # 「林」等の短名は無関係語(森林など)を巻き込むためリンク化しない
             continue
         marked = marked.replace(p["name"], f"\x00{i}\x01")
     out = e(marked)
-    for i, p in enumerate(people):
-        span = f'<span class="person" data-bio="{e(p["bio"])}">{e(p["name"])}</span>'
+    for i, p in enumerate(ents):
+        span = (f'<span class="person" data-kind="{e(p["kind"])}" data-bio="{e(p["bio"])}">'
+                f'{e(p["name"])}</span>')
         out = out.replace(f"\x00{i}\x01", span)
     return out
 
 
+KIND_LABEL = {"person": "人物", "company": "企業", "ai": "AI"}
+
+
 def _article_html(a: dict) -> str:
     e = html.escape
-    people = [p for p in a.get("people", []) if isinstance(p, dict)]
-    paragraphs = "\n".join(f"<p>{_mark_people(p, people)}</p>" for p in a["body"])
+    ents = ([{"name": p["name"], "bio": p["bio"], "kind": "person"}
+             for p in a.get("people", []) if isinstance(p, dict)]
+            + [{"name": t["name"], "bio": t["desc"], "kind": t["type"]}
+               for t in a.get("terms", []) if isinstance(t, dict) and t.get("type") in ("company", "ai")])
+    people = ents  # 以降の存在判定に使用
+    paragraphs = "\n".join(f"<p>{_mark_entities(p, ents)}</p>" for p in a["body"])
     tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
     cat = CATEGORIES.get(a.get("category", "ai"), "AI")
     jsonld = _jsonld({
@@ -268,9 +279,9 @@ def _article_html(a: dict) -> str:
     if people:
         body += """
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -312,6 +323,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

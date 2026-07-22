@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>OpenAIがHugging Faceを誤ってハック</li><li>事態の裏側には前向きな示唆が存在</li><li>アライメントと安全性の議論が展開</li></ul></div>
 <div class="lead">AI業界の動向に詳しいアナリストが、OpenAIによるHugging Faceハッキング事故の意義について見解を示しています。</div>
-<p>著名なアナリストである<span class="person" data-bio="テクノロジー業界の分析で知られるStratecheryの創設者で、深い洞察の発信で著名なアナリスト。">Ben Thompson氏</span>は、自身のニュースレター「Stratechery」において、OpenAIがHugging Faceを偶然ハッキングしてしまった出来事について解説しています。</p>
+<p>著名なアナリストである<span class="person" data-kind="person" data-bio="テクノロジー業界の分析で知られるStratecheryの創設者で、深い洞察の発信で著名なアナリスト。">Ben Thompson氏</span>は、自身のニュースレター「Stratechery」において、OpenAIがHugging Faceを偶然ハッキングしてしまった出来事について解説しています。</p>
 <p>同氏によると、この事故は一見すると懸念すべき事態に見えますが、そこから得られた教訓や示唆は、一般の人々が想像している以上に前向きで心強いものであると指摘しています。</p>
 <p>記事では、AIの安全性やアライメント、そしてAIの制御に関する議論の文脈において、今回のハッキング事件がどのような意味を持つのかが詳しく考察されています。</p>
 <div class="source">出典: <a href="https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/" rel="noopener" target="_blank">Ben Thompson氏 (Stratechery) — 元記事を読む</a></div>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-openai-hacks-hugging-face", "title": "OpenAIがHugging Faceをハック、その意外な顛末とは", "path": "/articles/20260722-openai-hacks-hugging-face.html", "cat": "海外AIの声"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

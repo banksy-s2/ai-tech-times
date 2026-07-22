@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>評論家の山田五郎さんが67歳で死去しました</li><li>西洋美術やファッションなどを幅広く解説しました</li><li>ユーモアを交えた語り口で多くの人に親しまれました</li></ul></div>
 <div class="lead">西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家の山田五郎さんが亡くなりました。67歳でした。</div>
-<p>AI TECH TIMES編集部がお伝えします。西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家の<span class="person" data-bio="西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家。東京都生まれ。">山田五郎</span>さんが亡くなりました。享年67歳でした。</p>
+<p>AI TECH TIMES編集部がお伝えします。西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家の<span class="person" data-kind="person" data-bio="西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた評論家。東京都生まれ。">山田五郎</span>さんが亡くなりました。享年67歳でした。</p>
 <p>山田さんは東京都の生まれで、上智大学に在学中、オーストリアのザルツブルクに留学するなどの経歴を持ちます。多岐にわたる分野に精通し、独自の視点から分かりやすい解説を行うことで長年広く親しまれてきました。</p>
 <p>テレビや執筆活動など多方面で活躍し、多くの人々に影響を与えてきた同氏の訃報に際し、各方面から惜しむ声が寄せられています。心よりご冥福をお祈り申し上げます。</p>
 <div class="source">出典: <a href="https://news.web.nhk/newsweb/na/na-k10015182541000" rel="noopener" target="_blank">はてなブックマークエンタメ — 元記事を読む</a></div>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-yamada-goro-passes-away-at-67", "title": "山田五郎さん死去67歳、西洋美術をユーモア解説", "path": "/articles/20260722-yamada-goro-passes-away-at-67.html", "cat": "インフルエンサー"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

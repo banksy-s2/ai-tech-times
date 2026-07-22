@@ -40,7 +40,7 @@ gtag('config', 'G-V2T0G11PSH');
 
 <div class="lead">イギリス政府は、今年10月から電気料金にかかる付加価値税をゼロに引き下げると発表しました。</div>
 <p>AI TECH TIMESの報道によると、イギリス政府は電気料金の付加価値税をことし10月からゼロに引き下げると明らかにしました。</p>
-<p>これは新たに就任した<span class="person" data-bio="新たに就任したイギリスの首相で、生活費の負担軽減策を掲げている。">バーナム首相</span>が掲げる生活費の負担軽減にさっそく取り組んだ形となります。</p>
+<p>これは新たに就任した<span class="person" data-kind="person" data-bio="新たに就任したイギリスの首相で、生活費の負担軽減策を掲げている。">バーナム首相</span>が掲げる生活費の負担軽減にさっそく取り組んだ形となります。</p>
 <p>しかし、この政策の財源をめぐっては、与野党双方から懸念の声が上がっており、今後の動向が注目されています。</p>
 <div class="source">出典: <a href="https://news.web.nhk/newsweb/na/na-k10015182301000" rel="noopener" target="_blank">NHK 国際 — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-uk-electricity-vat-zero", "title": "イギリスが電気料金の付加価値税を0%にする理由", "path": "/articles/20260722-uk-electricity-vat-zero.html", "cat": "時事・世界"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

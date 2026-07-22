@@ -39,9 +39,9 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">Anthropicに所属する数学者のレベント・アルポゲ氏が、AIモデル「Claude Fable 5」を用いて87年間未解決だった「ヤコビアン予想」の反例を発見したと報告しました。</div>
-<p>AI開発企業であるAnthropicに所属する数学者の<span class="person" data-bio="Anthropicに所属する数学者で、AIモデルを用いてヤコビアン予想の反例生成を報告した。">レベント・アルポゲ</span>氏が、同社のAIモデル「Claude Fable 5」を用いた驚くべき研究成果を報告しました。報告によると、同モデルは数学界で87年もの間、未解決の難問とされてきた「ヤコビアン予想」を覆す反例を生成することに成功したとのことです。</p>
-<p>ヤコビアン予想は長年にわたり多くの数学者たちを悩ませてきた未解決問題ですが、AIがその反例を提示したことで、数学の歴史に新たな一ページが刻まれることとなりました。今回活躍した「Claude」シリーズは、Anthropicが開発する高度な論理的思考や問題解決能力を備えたAIモデルとして知られており、今回の成果はその高い実力を示すものとなりました。</p>
-<p>これまでは人間の専門家でも到達できなかった領域に対し、AIが具体的な反例を示すことでアプローチできることが証明されました。今回の「Claude Fable 5」による発見は、学術的な研究におけるAIの可能性を大きく広げる画期的な事例として、今後のさらなる議論や研究の進展に強い影響を与えることが期待されています。</p>
+<p>AI開発企業である<span class="person" data-kind="company" data-bio="AIモデルの開発や数学などの先端研究を行う米国のAI開発企業である。">Anthropic</span>に所属する数学者の<span class="person" data-kind="person" data-bio="Anthropicに所属する数学者で、AIモデルを用いてヤコビアン予想の反例生成を報告した。">レベント・アルポゲ</span>氏が、同社のAIモデル「<span class="person" data-kind="ai" data-bio="Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。">Claude Fable 5</span>」を用いた驚くべき研究成果を報告しました。報告によると、同モデルは数学界で87年もの間、未解決の難問とされてきた「ヤコビアン予想」を覆す反例を生成することに成功したとのことです。</p>
+<p>ヤコビアン予想は長年にわたり多くの数学者たちを悩ませてきた未解決問題ですが、AIがその反例を提示したことで、数学の歴史に新たな一ページが刻まれることとなりました。今回活躍した「Claude」シリーズは、<span class="person" data-kind="company" data-bio="AIモデルの開発や数学などの先端研究を行う米国のAI開発企業である。">Anthropic</span>が開発する高度な論理的思考や問題解決能力を備えたAIモデルとして知られており、今回の成果はその高い実力を示すものとなりました。</p>
+<p>これまでは人間の専門家でも到達できなかった領域に対し、AIが具体的な反例を示すことでアプローチできることが証明されました。今回の「<span class="person" data-kind="ai" data-bio="Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。">Claude Fable 5</span>」による発見は、学術的な研究におけるAIの可能性を大きく広げる画期的な事例として、今後のさらなる議論や研究の進展に強い影響を与えることが期待されています。</p>
 <div class="source">出典: <a href="https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/" rel="noopener" target="_blank">Gigazine — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260721-claude-fable-5-jacobian-conjecture", "title": "AI「Claude」が87年来の難問「ヤコビアン予想」を覆す", "path": "/articles/20260721-claude-fable-5-jacobian-conjecture.html", "cat": "日本のAI"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

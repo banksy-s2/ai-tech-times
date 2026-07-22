@@ -191,8 +191,15 @@ people(人物注釈)のルール:
 
 summary3(3行まとめ): 記事の要点を3行(各25字以内)で。忙しい読者が本文を読まなくても核心が分かるように
 
+terms(企業・AI注釈)のルール:
+- 本文に登場する「実在の企業」と「AIモデル/AI製品」を合計最大4つ
+- typeは "company"(企業) か "ai"(AIモデル・AI製品)
+- nameは本文で使った表記そのまま
+- descは30〜60字。企業なら「何の会社か(本拠・主要事業)」、AIなら「開発元と何をするAIか・特徴」
+- 広く知られた確実な事実のみ。少しでも不確かなら含めない。記事の主題そのものより「読者が知らなそうなもの」を優先
+
 JSONのみ出力:
-{{"title": "日本語見出し", "lead": "1〜2文のリード文", "summary3": ["要点1", "要点2", "要点3"], "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens", "people": [{{"name": "本文中の表記", "bio": "人物紹介30〜60字"}}]}}"""
+{{"title": "日本語見出し", "lead": "1〜2文のリード文", "summary3": ["要点1", "要点2", "要点3"], "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens", "people": [{{"name": "本文中の表記", "bio": "人物紹介30〜60字"}}], "terms": [{{"name": "本文中の表記", "type": "company", "desc": "説明30〜60字"}}]}}"""
     art = _parse_json(_gemini(prompt))
     if isinstance(art, list):  # [{...}] 形式で返るケース
         art = next((x for x in art if isinstance(x, dict)), {})
@@ -227,8 +234,19 @@ JSONのみ出力:
                 if name not in " ".join(body) + lead:  # 本文に登場しない人物は注釈しない
                     continue
                 clean_people.append({"name": name, "bio": str(p["bio"]).strip()[:80]})
+    terms = art.get("terms")
+    clean_terms = []
+    if isinstance(terms, list):
+        body_text = " ".join(body) + lead
+        for t in terms[:4]:
+            if (isinstance(t, dict) and str(t.get("name", "")).strip() and str(t.get("desc", "")).strip()
+                    and t.get("type") in ("company", "ai")):
+                name = str(t["name"]).strip()[:30]
+                if len(name) >= 2 and name in body_text:
+                    clean_terms.append({"name": name, "type": t["type"], "desc": str(t["desc"]).strip()[:80]})
     s3 = art.get("summary3")
     art.update({
+        "terms": clean_terms,
         "title": title[:60], "lead": lead, "body": body,
         "tags": [str(t)[:20] for t in tags][:5] if isinstance(tags, list) else [],
         "people": clean_people,

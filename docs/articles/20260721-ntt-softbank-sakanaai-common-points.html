@@ -39,15 +39,73 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">国内のAI開発を牽引するNTT、ソフトバンク、サカナAIといった企業には、ある興味深い共通点が存在します。彼らがAI開発を成し遂げた背景にある技術の活用方法に注目が集まっています。</div>
-<p>近年、日本国内において独自の人工知能（AI）開発に取り組む企業が増加しています。その中でも、大手電気通信事業者であるNTTやソフトバンク、そして先進的なAIスタートアップとして注目を集めるサカナAIなどは、AI開発における「成功組」として大きな存在感を示しています。これらの企業は、それぞれ異なる背景や規模を持ちながらも、AI開発を成功に導くための重要な要素を共有しているとされています。</p>
+<p>近年、日本国内において独自の人工知能（AI）開発に取り組む企業が増加しています。その中でも、大手電気通信事業者である<span class="person" data-kind="company" data-bio="通信事業を基盤とし、独自AIの開発にも取り組む日本の大手電気通信事業者。">NTT</span>やソフトバンク、そして先進的なAIスタートアップとして注目を集める<span class="person" data-kind="company" data-bio="独自の人工知能開発に取り組み、高い注目を集めている日本のAIスタートアップ。">サカナAI</span>などは、AI開発における「成功組」として大きな存在感を示しています。これらの企業は、それぞれ異なる背景や規模を持ちながらも、AI開発を成功に導くための重要な要素を共有しているとされています。</p>
 <p>ITmedia AI+の報道によると、これらAI開発に成功した企業には、ある共通点が存在することが明らかになりました。彼らは、AI開発を成し遂げるにあたって、特定の技術を効果的に活用しているという特徴があります。最先端のAIモデルを構築し、実用化に至るまでのプロセスにおいて、どのような技術が選択され、どのように活用されたのかが、開発成功の鍵を握っている模様です。</p>
-<p>日本を代表する大企業から新進気鋭のスタートアップまで、多様なプレイヤーが競い合う現在のAI市場において、成功を収めるためのアプローチには共通するヒントが隠されています。NTT、ソフトバンク、サカナAIが実践した技術の活用法やその共通点を探ることは、今後の国内AI開発の方向性を占う上でも極めて重要な指標となるでしょう。</p>
+<p>日本を代表する大企業から新進気鋭のスタートアップまで、多様なプレイヤーが競い合う現在のAI市場において、成功を収めるためのアプローチには共通するヒントが隠されています。<span class="person" data-kind="company" data-bio="通信事業を基盤とし、独自AIの開発にも取り組む日本の大手電気通信事業者。">NTT</span>、ソフトバンク、<span class="person" data-kind="company" data-bio="独自の人工知能開発に取り組み、高い注目を集めている日本のAIスタートアップ。">サカナAI</span>が実践した技術の活用法やその共通点を探ることは、今後の国内AI開発の方向性を占う上でも極めて重要な指標となるでしょう。</p>
 <div class="source">出典: <a href="https://www.itmedia.co.jp/business/articles/2607/21/news036.html" rel="noopener" target="_blank">ITmedia AI+ — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>window.__ART = {"id": "20260721-ntt-softbank-sakanaai-common-points", "title": "NTTやサカナAIなど「AI開発成功組」に迫る共通点とは？", "path": "/articles/20260721-ntt-softbank-sakanaai-common-points.html", "cat": "日本のAI"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function ngr(s){var t=(s||"").replace(/[\s、。・]/g,"");var o={};for(var i=0;i<t.length-1;i++)o[t.substr(i,2)]=1;return o;}
+function novl(a,b){var A=ngr(a),B=ngr(b),n=0;for(var k in A)if(B[k])n++;return n;}
+function pwiki(name, bio){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  // 候補5件のWikipedia説明文とAI紹介文を突き合わせ、内容が一致する項目だけ採用(同名別物対策)
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=5&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hits = (d.query && d.query.search) || [];
+      if (!hits.length) { pcache[key] = {}; papply(name, {}); return; }
+      return Promise.all(hits.slice(0, 4).map(function(h){
+        return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(h.title))
+          .then(function(r){ return r.json(); }).catch(function(){ return null; });
+      })).then(function(sums){
+        var best = null, bestScore = 2;  // 最低3点未満は不採用=写真なし
+        sums.forEach(function(s){
+          if (!s) return;
+          var desc = (s.description || "") + " " + (s.extract || "").slice(0, 200) + " " + s.title;
+          var score = novl(bio + " " + key, desc);
+          if (score > bestScore) { bestScore = score; best = s; }
+        });
+        var info = best ? {img: best.thumbnail && best.thumbnail.source,
+                           url: best.content_urls && best.content_urls.desktop && best.content_urls.desktop.page} : {};
+        pcache[key] = info; papply(name, info);
+      });
+    }).catch(function(){});
+}
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
+    box.style.display = "block";
+    pwiki(t.textContent, t.getAttribute("data-bio"));
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

@@ -40,7 +40,7 @@ gtag('config', 'G-V2T0G11PSH');
 
 <div class="lead">米宇宙軍が、最大で300億ドル規模となるロケット打ち上げの調達を目指していることが明らかになりました。トランプ政権による宇宙分野への大型要請に伴うものです。</div>
 <p>海外メディア「Ars Technica」の報道によると、米宇宙軍は最大300億ドル規模に及ぶロケット打ち上げの調達を進めています。</p>
-<p>今回の大規模な調達計画の背景には、<span class="person" data-bio="アメリカ合衆国の政治家であり、過去および現在の政権で大統領を務める人物。">トランプ</span>政権が米宇宙軍に対して非常に多くの任務や要求を課している現状があります。</p>
+<p>今回の大規模な調達計画の背景には、<span class="person" data-kind="person" data-bio="アメリカ合衆国の政治家であり、過去および現在の政権で大統領を務める人物。">トランプ</span>政権が米宇宙軍に対して非常に多くの任務や要求を課している現状があります。</p>
 <p>政権の求める多様なミッションを遂行するためには、これまで以上に多数のロケット打ち上げが必要不可欠になるとみられています。</p>
 <div class="source">出典: <a href="https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/" rel="noopener" target="_blank">Ars Technica — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-space-force-30-billion-rocket-launches", "title": "米宇宙軍が最大300億ドル規模のロケット調達を目指すワケ", "path": "/articles/20260722-space-force-30-billion-rocket-launches.html", "cat": "シリコンバレー最速"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">米CNBC Techによると、SpaceXの株価が火曜日に上昇し、7営業日続いた下落トレンドから抜け出す動きを見せました。初の決算発表日の決定が、大規模な株式ロックアップ解除のトリガーとなっています。</div>
-<p>「AI TECH TIMES」編集部がCNBC Techの報道をもとに報じるところによると、宇宙開発企業のSpaceXは、8月4日に初の決算報告を行うことを発表しました。この発表を受けて、火曜日の同社株価は上昇に転じ、これまでの7日間にわたる下落トレンドに歯止めがかかる形となりました。</p>
-<p>SpaceXは、イーロン・マスク氏が率いる世界的な宇宙輸送・通信企業として知られています。今回の初めての決算発表日の設定は、同時に同社にとって初めてとなる大規模な株式のロックアップ解除（売買制限の解除）を引き起こす要因としても注目を集めています。</p>
+<p>「AI TECH TIMES」編集部がCNBC Techの報道をもとに報じるところによると、宇宙開発企業の<span class="person" data-kind="company" data-bio="ロケットや宇宙船の開発・打ち上げ、衛星通信サービスなどを手がけるアメリカの宇宙企業。">SpaceX</span>は、8月4日に初の決算報告を行うことを発表しました。この発表を受けて、火曜日の同社株価は上昇に転じ、これまでの7日間にわたる下落トレンドに歯止めがかかる形となりました。</p>
+<p><span class="person" data-kind="company" data-bio="ロケットや宇宙船の開発・打ち上げ、衛星通信サービスなどを手がけるアメリカの宇宙企業。">SpaceX</span>は、イーロン・マスク氏が率いる世界的な宇宙輸送・通信企業として知られています。今回の初めての決算発表日の設定は、同時に同社にとって初めてとなる大規模な株式のロックアップ解除（売買制限の解除）を引き起こす要因としても注目を集めています。</p>
 <p>市場関係者の間では、今後の業績発表やそれに伴う株式市場への影響について関心が高まっています。8月4日の発表が、同社の株価や今後の動向にどのような影響を与えるのか、引き続き注目が集まるところです。</p>
 <div class="source">出典: <a href="https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html" rel="noopener" target="_blank">CNBC Tech — 元記事を読む</a></div>
 </article>
@@ -48,6 +48,64 @@ gtag('config', 'G-V2T0G11PSH');
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>window.__ART = {"id": "20260722-spacex-snaps-7-day-losing-streak", "title": "SpaceX株が7日ぶり反発、初の決算で何が", "path": "/articles/20260722-spacex-snaps-7-day-losing-streak.html", "cat": "シリコンバレー最速"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function ngr(s){var t=(s||"").replace(/[\s、。・]/g,"");var o={};for(var i=0;i<t.length-1;i++)o[t.substr(i,2)]=1;return o;}
+function novl(a,b){var A=ngr(a),B=ngr(b),n=0;for(var k in A)if(B[k])n++;return n;}
+function pwiki(name, bio){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  // 候補5件のWikipedia説明文とAI紹介文を突き合わせ、内容が一致する項目だけ採用(同名別物対策)
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=5&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hits = (d.query && d.query.search) || [];
+      if (!hits.length) { pcache[key] = {}; papply(name, {}); return; }
+      return Promise.all(hits.slice(0, 4).map(function(h){
+        return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(h.title))
+          .then(function(r){ return r.json(); }).catch(function(){ return null; });
+      })).then(function(sums){
+        var best = null, bestScore = 2;  // 最低3点未満は不採用=写真なし
+        sums.forEach(function(s){
+          if (!s) return;
+          var desc = (s.description || "") + " " + (s.extract || "").slice(0, 200) + " " + s.title;
+          var score = novl(bio + " " + key, desc);
+          if (score > bestScore) { bestScore = score; best = s; }
+        });
+        var info = best ? {img: best.thumbnail && best.thumbnail.source,
+                           url: best.content_urls && best.content_urls.desktop && best.content_urls.desktop.page} : {};
+        pcache[key] = info; papply(name, info);
+      });
+    }).catch(function(){});
+}
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
+    box.style.display = "block";
+    pwiki(t.textContent, t.getAttribute("data-bio"));
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">安全な投資先として知られるインデックスファンドに、巨大な賭けとも言えるSpaceXが組み込まれる可能性が浮上しています。この動きが投資家にどのような影響を与えるのかを解説します。</div>
-<p>インデックスファンドは、個別の銘柄を選定するのではなく、市場全体に投資することでリスクを分散させる、最も安全な投資手法の一つとして推奨されています。しかし、この仕組みの中に、<span class="person" data-bio="テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。">イーロン・マスク</span>氏が率いる宇宙開発企業SpaceXのような、極めて評価が分かれる企業が組み込まれることになれば、状況は一変する可能性があります。</p>
-<p>SpaceXは、宇宙輸送や衛星通信サービスなどを手掛ける民間企業ですが、その事業には大きな不確実性が伴います。一部の専門家からは、同社は巨大な賭けであり、現在の評価額は非常に割高であるという懸念の声も上がっています。もし、このような企業がNasdaq-100のような主要な株価指数に迅速に組み込まれることになれば、インデックスファンドを通じて市場全体に投資している一般の投資家は、意図せずして高いリスクを負うことになりかねません。</p>
+<p>インデックスファンドは、個別の銘柄を選定するのではなく、市場全体に投資することでリスクを分散させる、最も安全な投資手法の一つとして推奨されています。しかし、この仕組みの中に、<span class="person" data-kind="person" data-bio="テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。">イーロン・マスク</span>氏が率いる宇宙開発企業<span class="person" data-kind="company" data-bio="イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。">SpaceX</span>のような、極めて評価が分かれる企業が組み込まれることになれば、状況は一変する可能性があります。</p>
+<p><span class="person" data-kind="company" data-bio="イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。">SpaceX</span>は、宇宙輸送や衛星通信サービスなどを手掛ける民間企業ですが、その事業には大きな不確実性が伴います。一部の専門家からは、同社は巨大な賭けであり、現在の評価額は非常に割高であるという懸念の声も上がっています。もし、このような企業がNasdaq-100のような主要な株価指数に迅速に組み込まれることになれば、インデックスファンドを通じて市場全体に投資している一般の投資家は、意図せずして高いリスクを負うことになりかねません。</p>
 <p>インデックスファンドの本来の目的である「市場全体の成長を享受する」という原則に対し、特定の高リスク企業が加わることは、投資戦略にどのような影響を及ぼすのでしょうか。市場の安定性を重視する投資家にとって、この動きは今後のポートフォリオ管理を考える上で重要な検討材料となるでしょう。</p>
 <div class="source">出典: <a href="https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained" rel="noopener" target="_blank">The Verge AI — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-spacex-in-your-index-fund-explained", "title": "SpaceXがNasdaq-100採用へ、インデックス投資への影響は？", "path": "/articles/20260722-spacex-in-your-index-fund-explained.html", "cat": "AI(海外)"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

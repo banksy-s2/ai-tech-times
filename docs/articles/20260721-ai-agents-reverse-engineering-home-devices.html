@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">AI技術の進化により、家庭用デバイスのリバースエンジニアリングがかつてないほど低コストで可能になっています。著名なソフトウェアエンジニアであるサイモン・ウィリソン氏が、この技術的潮流について自身の見解を明かしました。</div>
-<p><span class="person" data-bio="オープンソースコミュニティ等で活動する著名なソフトウェアエンジニア。">サイモン・ウィリソン</span>氏は、オープンソースコミュニティなどで幅広く活動し、AI技術の活用や開発手法について積極的に発信している著名なエンジニアです。同氏は自身のブログにおいて、コーディングエージェントを活用して家庭内のデバイスをリバースエンジニアリングし、自動化を実現したという事例を耳にする機会が増えていると指摘しています。</p>
+<p><span class="person" data-kind="person" data-bio="オープンソースコミュニティ等で活動する著名なソフトウェアエンジニア。">サイモン・ウィリソン</span>氏は、オープンソースコミュニティなどで幅広く活動し、AI技術の活用や開発手法について積極的に発信している著名なエンジニアです。同氏は自身のブログにおいて、コーディングエージェントを活用して家庭内のデバイスをリバースエンジニアリングし、自動化を実現したという事例を耳にする機会が増えていると指摘しています。</p>
 <p>ウィリソン氏は、こうした現象が「コードを書くコストの低下」がもたらす影響を象徴していると分析しています。以前から家庭用デバイスの解析自体は技術的に可能でしたが、膨大な労力に見合うだけの投資対効果（ROI）が得られるかどうかが大きな障壁となっていました。多くのエンジニアにとって、仕様が公開されていない不安定なAPIを解析し、将来的な仕様変更のリスクを負うことは、コストパフォーマンスの面で合理的ではなかったのです。</p>
 <p>しかし、AIエージェントの普及により状況は一変しました。同氏は、かつては困難だった解析作業が安価かつ迅速に行えるようになったことで、個人の生活環境における自動化のハードルが劇的に下がったと指摘しています。技術の民主化が、これまで専門家に限られていたデバイス制御の可能性を一般ユーザーへと広げているようです。</p>
 <div class="source">出典: <a href="https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything" rel="noopener" target="_blank">Simon Willison氏 — 元記事を読む</a></div>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260721-ai-agents-reverse-engineering-home-devices", "title": "AIエージェントで家電の解析が容易に？コスト低下がもたらす変化", "path": "/articles/20260721-ai-agents-reverse-engineering-home-devices.html", "cat": "海外AIの声"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

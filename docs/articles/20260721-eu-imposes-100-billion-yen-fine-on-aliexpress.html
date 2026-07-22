@@ -39,15 +39,73 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">EU（ヨーロッパ連合）は、中国のネット通販大手アリババグループ傘下のアリエクスプレスに対し、違法な商品の流通対策を怠ったとして巨額の制裁金を科しました。</div>
-<p>EUは、中国のネット通販大手「アリババグループ」傘下で、ヨーロッパなどで事業を展開する「アリエクスプレス」に対し、日本円で1000億円余りの制裁金を科したと発表しました。アリエクスプレスは、世界的に利用者が多い中国発のオンラインショッピングプラットフォームです。</p>
+<p>EUは、中国のネット通販大手「<span class="person" data-kind="company" data-bio="中国のネット通販大手であり、アリエクスプレスなどのサービスを展開する企業。">アリババグループ</span>」傘下で、ヨーロッパなどで事業を展開する「<span class="person" data-kind="company" data-bio="アリババグループ傘下の、世界的に利用者が多い中国発のオンラインショッピングプラットフォーム。">アリエクスプレス</span>」に対し、日本円で1000億円余りの制裁金を科したと発表しました。<span class="person" data-kind="company" data-bio="アリババグループ傘下の、世界的に利用者が多い中国発のオンラインショッピングプラットフォーム。">アリエクスプレス</span>は、世界的に利用者が多い中国発のオンラインショッピングプラットフォームです。</p>
 <p>今回の制裁は、同プラットフォーム上で違法な商品が流通することへの対策が不十分であったことが主な理由です。EUはデジタル市場における規制を強化しており、プラットフォーム運営者に対して、消費者の安全を守るための適切な監視体制を求めています。</p>
-<p>今回の決定は、巨大IT企業に対するEUの厳しい姿勢を改めて示すものとなりました。今後、アリエクスプレス側がどのような対応をとるのか、また今回の制裁が今後のネット通販市場の安全性にどのような影響を与えるのかが注目されます。</p>
+<p>今回の決定は、巨大IT企業に対するEUの厳しい姿勢を改めて示すものとなりました。今後、<span class="person" data-kind="company" data-bio="アリババグループ傘下の、世界的に利用者が多い中国発のオンラインショッピングプラットフォーム。">アリエクスプレス</span>側がどのような対応をとるのか、また今回の制裁が今後のネット通販市場の安全性にどのような影響を与えるのかが注目されます。</p>
 <div class="source">出典: <a href="https://news.web.nhk/newsweb/na/na-k10015181351000" rel="noopener" target="_blank">NHK 国際 — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>window.__ART = {"id": "20260721-eu-imposes-100-billion-yen-fine-on-aliexpress", "title": "EU、アリババ傘下アリエクスプレスに1000億円超の制裁金", "path": "/articles/20260721-eu-imposes-100-billion-yen-fine-on-aliexpress.html", "cat": "時事・世界"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function ngr(s){var t=(s||"").replace(/[\s、。・]/g,"");var o={};for(var i=0;i<t.length-1;i++)o[t.substr(i,2)]=1;return o;}
+function novl(a,b){var A=ngr(a),B=ngr(b),n=0;for(var k in A)if(B[k])n++;return n;}
+function pwiki(name, bio){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  // 候補5件のWikipedia説明文とAI紹介文を突き合わせ、内容が一致する項目だけ採用(同名別物対策)
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=5&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hits = (d.query && d.query.search) || [];
+      if (!hits.length) { pcache[key] = {}; papply(name, {}); return; }
+      return Promise.all(hits.slice(0, 4).map(function(h){
+        return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(h.title))
+          .then(function(r){ return r.json(); }).catch(function(){ return null; });
+      })).then(function(sums){
+        var best = null, bestScore = 2;  // 最低3点未満は不採用=写真なし
+        sums.forEach(function(s){
+          if (!s) return;
+          var desc = (s.description || "") + " " + (s.extract || "").slice(0, 200) + " " + s.title;
+          var score = novl(bio + " " + key, desc);
+          if (score > bestScore) { bestScore = score; best = s; }
+        });
+        var info = best ? {img: best.thumbnail && best.thumbnail.source,
+                           url: best.content_urls && best.content_urls.desktop && best.content_urls.desktop.page} : {};
+        pcache[key] = info; papply(name, info);
+      });
+    }).catch(function(){});
+}
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
+    box.style.display = "block";
+    pwiki(t.textContent, t.getAttribute("data-bio"));
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

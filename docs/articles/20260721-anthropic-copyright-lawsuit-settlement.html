@@ -39,15 +39,73 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">AIスタートアップの米Anthropicが開発するAI「Claude」の学習データを巡る集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認しました。米国の著作権訴訟において史上最大の和解額となります。</div>
-<p>米連邦判事は、AIスタートアップ企業である米Anthropicが開発・提供するAI「Claude」の学習データを巡り、作家グループが同社を訴えていた集団訴訟において、15億ドル（約2400億円）の和解を最終承認しました。この和解金額は、米国の著作権を巡る訴訟において史上最大規模の和解額となります。今回の決定は、AI業界と著作権者の関係における歴史的な節目として注目を集めています。</p>
-<p>本訴訟は、Anthropicが提供するAIモデル「Claude」の学習プロセスにおいて、著作権で保護された著作物が使用されたことを巡り、作家グループが起こした集団訴訟です。今回の和解承認に伴い、AIによる著作物の学習利用については「フェアユース」として認定されることとなりました。これにより、AI開発における著作物の利用に関する法的な解釈が一つ示された形です。</p>
-<p>Anthropicは、高度な人工知能（AI）技術や大規模言語モデル「Claude」の開発を手がける米国の主要なAIスタートアップ企業です。今回の史上最大規模となる巨額の和解金の支払いと、学習利用におけるフェアユース認定という司法判断は、今後のAI開発や著作権を巡る議論において極めて大きな影響を与える事例となりそうです。今後のAI業界の動向がさらに注目されます。</p>
+<p>米連邦判事は、AIスタートアップ企業である米<span class="person" data-kind="company" data-bio="米国のAIスタートアップ企業で、対話型AI「Claude」の開発・提供を行っている。">Anthropic</span>が開発・提供するAI「<span class="person" data-kind="ai" data-bio="Anthropicが開発・提供する、高度な論理的思考や文章生成を行うAIモデル。">Claude</span>」の学習データを巡り、作家グループが同社を訴えていた集団訴訟において、15億ドル（約2400億円）の和解を最終承認しました。この和解金額は、米国の著作権を巡る訴訟において史上最大規模の和解額となります。今回の決定は、AI業界と著作権者の関係における歴史的な節目として注目を集めています。</p>
+<p>本訴訟は、<span class="person" data-kind="company" data-bio="米国のAIスタートアップ企業で、対話型AI「Claude」の開発・提供を行っている。">Anthropic</span>が提供するAIモデル「<span class="person" data-kind="ai" data-bio="Anthropicが開発・提供する、高度な論理的思考や文章生成を行うAIモデル。">Claude</span>」の学習プロセスにおいて、著作権で保護された著作物が使用されたことを巡り、作家グループが起こした集団訴訟です。今回の和解承認に伴い、AIによる著作物の学習利用については「フェアユース」として認定されることとなりました。これにより、AI開発における著作物の利用に関する法的な解釈が一つ示された形です。</p>
+<p><span class="person" data-kind="company" data-bio="米国のAIスタートアップ企業で、対話型AI「Claude」の開発・提供を行っている。">Anthropic</span>は、高度な人工知能（AI）技術や大規模言語モデル「<span class="person" data-kind="ai" data-bio="Anthropicが開発・提供する、高度な論理的思考や文章生成を行うAIモデル。">Claude</span>」の開発を手がける米国の主要なAIスタートアップ企業です。今回の史上最大規模となる巨額の和解金の支払いと、学習利用におけるフェアユース認定という司法判断は、今後のAI開発や著作権を巡る議論において極めて大きな影響を与える事例となりそうです。今後のAI業界の動向がさらに注目されます。</p>
 <div class="source">出典: <a href="https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/" rel="noopener" target="_blank">ITmedia AI+ — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>window.__ART = {"id": "20260721-anthropic-copyright-lawsuit-settlement", "title": "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額", "path": "/articles/20260721-anthropic-copyright-lawsuit-settlement.html", "cat": "日本のAI"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function ngr(s){var t=(s||"").replace(/[\s、。・]/g,"");var o={};for(var i=0;i<t.length-1;i++)o[t.substr(i,2)]=1;return o;}
+function novl(a,b){var A=ngr(a),B=ngr(b),n=0;for(var k in A)if(B[k])n++;return n;}
+function pwiki(name, bio){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  // 候補5件のWikipedia説明文とAI紹介文を突き合わせ、内容が一致する項目だけ採用(同名別物対策)
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=5&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hits = (d.query && d.query.search) || [];
+      if (!hits.length) { pcache[key] = {}; papply(name, {}); return; }
+      return Promise.all(hits.slice(0, 4).map(function(h){
+        return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(h.title))
+          .then(function(r){ return r.json(); }).catch(function(){ return null; });
+      })).then(function(sums){
+        var best = null, bestScore = 2;  // 最低3点未満は不採用=写真なし
+        sums.forEach(function(s){
+          if (!s) return;
+          var desc = (s.description || "") + " " + (s.extract || "").slice(0, 200) + " " + s.title;
+          var score = novl(bio + " " + key, desc);
+          if (score > bestScore) { bestScore = score; best = s; }
+        });
+        var info = best ? {img: best.thumbnail && best.thumbnail.source,
+                           url: best.content_urls && best.content_urls.desktop && best.content_urls.desktop.page} : {};
+        pcache[key] = info; papply(name, info);
+      });
+    }).catch(function(){});
+}
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
+    box.style.display = "block";
+    pwiki(t.textContent, t.getAttribute("data-bio"));
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

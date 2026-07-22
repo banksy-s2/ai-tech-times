@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>トランプ大統領がイランへ言及</li><li>ホルムズ海峡での攻撃に警告</li><li>首都近郊の重要インフラを標的</li></ul></div>
 <div class="lead">アメリカのトランプ大統領が22日、SNSを通じてイランへの圧力を強める発言を行いました。ホルムズ海峡での攻撃に対する報復措置について言及しています。</div>
-<p>アメリカの<span class="person" data-bio="アメリカ合衆国の元大統領であり、国際情勢や安全保障政策において強い発言力を持つ政治家。">トランプ大統領</span>は22日、自身のSNSに投稿を行い、イランに対する圧力を一層強める姿勢を示しました。今回の投稿では、今後の情勢に関わる具体的な報復措置について言及されています。</p>
-<p>投稿の中で<span class="person" data-bio="アメリカ合衆国の元大統領であり、国際情勢や安全保障政策において強い発言力を持つ政治家。">トランプ大統領</span>は、今後イランがホルムズ海峡において船舶に対し、ミサイルや無人機などの兵器で攻撃を行った場合に対応すると表明しました。</p>
+<p>アメリカの<span class="person" data-kind="person" data-bio="アメリカ合衆国の元大統領であり、国際情勢や安全保障政策において強い発言力を持つ政治家。">トランプ大統領</span>は22日、自身のSNSに投稿を行い、イランに対する圧力を一層強める姿勢を示しました。今回の投稿では、今後の情勢に関わる具体的な報復措置について言及されています。</p>
+<p>投稿の中で<span class="person" data-kind="person" data-bio="アメリカ合衆国の元大統領であり、国際情勢や安全保障政策において強い発言力を持つ政治家。">トランプ大統領</span>は、今後イランがホルムズ海峡において船舶に対し、ミサイルや無人機などの兵器で攻撃を行った場合に対応すると表明しました。</p>
 <p>その際の具体的な措置として、アメリカは首都テヘランの近郊や市内のものも含め、橋または発電所を1か所爆撃することに言及しています。</p>
 <div class="source">出典: <a href="https://news.web.nhk/newsweb/na/na-k10015183171000" rel="noopener" target="_blank">NHK 主要ニュース — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-trump-iran-strait-of-hormuz-threat", "title": "トランプ大統領 イラン攻撃に言及の理由", "path": "/articles/20260722-trump-iran-strait-of-hormuz-threat.html", "cat": "時事・世界"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

@@ -39,9 +39,9 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">AI研究に関するニュースレター「Import AI」を発行するJack Clark氏が、最新号で英国政府によるAIモデルの分析結果を紹介しました。</div>
-<p>AI研究者の<span class="person" data-bio="OpenAIの元政策責任者で、AI分野の動向を発信するニュースレター「Import AI」の著者である研究者。">Jack Clark</span>氏が自身のニュースレター「Import AI」第465号にて、英国政府のAI安全研究所（AISI）による最新の分析結果を報告しました。AISIは、AIモデルの重み（パラメータ）を公開しているものと、非公開にしているものの間にあるサイバーセキュリティ能力の差について調査を行いました。</p>
+<p>AI研究者の<span class="person" data-kind="person" data-bio="OpenAIの元政策責任者で、AI分野の動向を発信するニュースレター「Import AI」の著者である研究者。">Jack Clark</span>氏が自身のニュースレター「Import AI」第465号にて、英国政府のAI安全研究所（AISI）による最新の分析結果を報告しました。AISIは、AIモデルの重み（パラメータ）を公開しているものと、非公開にしているものの間にあるサイバーセキュリティ能力の差について調査を行いました。</p>
 <p>Clark氏によると、AISIの分析では、公開モデルと非公開モデルの間でサイバーセキュリティに関する能力の格差が縮小していることが示唆されています。同氏は、この状況を「サイバー・エシャトン（サイバー世界の終末）が到来しつつある」と表現し、AIモデルの性能差が埋まりつつある現状に警鐘を鳴らしています。</p>
-<p><span class="person" data-bio="OpenAIの元政策責任者で、AI分野の動向を発信するニュースレター「Import AI」の著者である研究者。">Jack Clark</span>氏は、OpenAIの元政策責任者であり、現在はAI研究の動向を追うニュースレター「Import AI」を通じて、AI分野の技術や政策に関する洞察を発信している人物です。今回の報告は、AIの安全性や公開のあり方について、政府機関がどのような視点で監視を強めているかを示す重要な事例と言えます。</p>
+<p><span class="person" data-kind="person" data-bio="OpenAIの元政策責任者で、AI分野の動向を発信するニュースレター「Import AI」の著者である研究者。">Jack Clark</span>氏は、OpenAIの元政策責任者であり、現在はAI研究の動向を追うニュースレター「Import AI」を通じて、AI分野の技術や政策に関する洞察を発信している人物です。今回の報告は、AIの安全性や公開のあり方について、政府機関がどのような視点で監視を強めているかを示す重要な事例と言えます。</p>
 <div class="source">出典: <a href="https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/" rel="noopener" target="_blank">Jack Clark氏 (Import AI) — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260721-import-ai-465-uk-government-analysis", "title": "UK政府分析：AIモデルの公開・非公開間の格差が縮小", "path": "/articles/20260721-import-ai-465-uk-government-analysis.html", "cat": "海外AIの声"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

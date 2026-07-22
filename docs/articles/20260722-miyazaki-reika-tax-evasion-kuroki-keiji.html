@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>宮崎麗果の脱税事件が発生</li><li>夫・黒木啓司がセレブから転落</li><li>FRIDAYが報じた詳細</li></ul></div>
 <div class="lead">インフルエンサーの宮崎麗果めぐる脱税事件により、夫である黒木啓司の現状についてFRIDAYが報じています。</div>
-<p>インフルエンサーとして知られる<span class="person" data-bio="インフルエンサーとして活動し、今回の脱税事件が報じられた人物。">宮崎麗果</span>の脱税事件をめぐり、夫である<span class="person" data-bio="元EXILEのメンバーであり、宮崎麗果の夫として知られる人物。">黒木啓司</span>がセレブ生活から大転落したとFRIDAYが報じました。</p>
+<p>インフルエンサーとして知られる<span class="person" data-kind="person" data-bio="インフルエンサーとして活動し、今回の脱税事件が報じられた人物。">宮崎麗果</span>の脱税事件をめぐり、夫である<span class="person" data-kind="person" data-bio="元EXILEのメンバーであり、宮崎麗果の夫として知られる人物。">黒木啓司</span>がセレブ生活から大転落したとFRIDAYが報じました。</p>
 <p>元EXILEの肩書が使えない状況の中、今回の事件が夫婦の生活や立場に大きな影響を与えていることが伝えられています。</p>
 <p>詳細な経緯や今後の動向については、引き続き各メディアの報道が注目されるところです。</p>
 <div class="source">出典: <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE80T01LQ2hPQ3JtN2NFMGJNek1ucFZSaFV2eXd3dEp3MW93NVpvcXkwREdOVmprSkx2NFpVZ1ljc0M2dENRT3ppTEpvZlhQWkhTU2ZFVWUzTkdCTDZFSFk5Z0Z6QWpVNkZWc3A0UW9RQTRvSXBIbW5yd1ZIVDAweG8?oc=5" rel="noopener" target="_blank">Googleニュース: インフルエンサー — 元記事を読む</a></div>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-miyazaki-reika-tax-evasion-kuroki-keiji", "title": "宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落", "path": "/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html", "cat": "インフルエンサー"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

@@ -39,9 +39,9 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">GMOインターネットグループの熊谷正寿会長が、グループで推奨していた在宅勤務の廃止方針について自身の見解を明らかにしました。AI時代における新たな働き方とオフィスの価値について説明しています。</div>
-<p>GMOインターネットグループを率いる<span class="person" data-bio="GMOインターネットグループを率いる創業者であり、代表取締役会長兼グループ代表を務める実業家。">熊谷正寿</span>会長が、同グループにおける在宅勤務の「グループ推奨」廃止を巡る自身の発言について釈明を行いました。今回の決定は在宅勤務そのものを否定する意図ではなく、AI時代におけるオフィスの価値を再定義することが真の狙いであると説明しています。</p>
+<p><span class="person" data-kind="company" data-bio="インターネットインフラ事業などを展開し、在宅勤務の推奨廃止とオフィス回帰を進める企業グループ。">GMOインターネットグループ</span>を率いる<span class="person" data-kind="person" data-bio="GMOインターネットグループを率いる創業者であり、代表取締役会長兼グループ代表を務める実業家。">熊谷正寿</span>会長が、同グループにおける在宅勤務の「グループ推奨」廃止を巡る自身の発言について釈明を行いました。今回の決定は在宅勤務そのものを否定する意図ではなく、AI時代におけるオフィスの価値を再定義することが真の狙いであると説明しています。</p>
 <p>熊谷会長は、定型的な作業についてはAIに任せるという方針を示した上で、人間はオフィスに集まるべきだという考えを強調しました。AIが業務を効率化する時代だからこそ、人が直接顔を合わせる環境の重要性が高まっているという主張です。</p>
-<p>インターネットインフラ事業などを展開するGMOインターネットグループは、これまで柔軟な働き方を推進してきましたが、今回の発言は今後の組織運営の方向性を示すものとして注目を集めています。AIの活用とオフィス回帰を両立させることで、どのような生産性向上を目指すのか、今後の取り組みが注目されます。</p>
+<p>インターネットインフラ事業などを展開する<span class="person" data-kind="company" data-bio="インターネットインフラ事業などを展開し、在宅勤務の推奨廃止とオフィス回帰を進める企業グループ。">GMOインターネットグループ</span>は、これまで柔軟な働き方を推進してきましたが、今回の発言は今後の組織運営の方向性を示すものとして注目を集めています。AIの活用とオフィス回帰を両立させることで、どのような生産性向上を目指すのか、今後の取り組みが注目されます。</p>
 <div class="source">出典: <a href="https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/" rel="noopener" target="_blank">ITmedia AI+ — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260721-gmo-kumagai-remote-work-ai-office", "title": "GMO熊谷会長が在宅勤務廃止を釈明、AI時代にオフィスへ戻る理由は？", "path": "/articles/20260721-gmo-kumagai-remote-work-ai-office.html", "cat": "日本のAI"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

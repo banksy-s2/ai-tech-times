@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">AI識者のSimon Willison氏が、Mac上でローカルAIモデルを手軽に実行できるデスクトップアプリ「Nativ」について紹介しています。</div>
-<p>AI識者の<span class="person" data-bio="イギリスのソフトウェアエンジニア。オープンソースのデータ探索ツール「Datasette」の作者として知られる。">Simon Willison氏</span>によると、<span class="person" data-bio="AI・機械学習分野の開発者。Mac向けのMLXを使用したPythonライブラリ「MLX-VLM」などを手がける。">Prince Canuma氏</span>が開発したMac向けの新プロジェクト「Nativ」が注目を集めています。Canuma氏は、Mac向けのMLXを使用して視覚言語モデルを実行するための優れたPythonライブラリ「MLX-VLM」を手がけた開発者です。</p>
-<p>Nativは、MLXを完全なmacOSデスクトップアプリとしてラップしたもので、LM Studioに似た形状をしています。チャットインターフェースと、モデルにアクセスするためのローカライズされたAPIサーバーの両方を提供しているのが特徴です。</p>
+<p>AI識者の<span class="person" data-kind="person" data-bio="イギリスのソフトウェアエンジニア。オープンソースのデータ探索ツール「Datasette」の作者として知られる。">Simon Willison氏</span>によると、<span class="person" data-kind="person" data-bio="AI・機械学習分野の開発者。Mac向けのMLXを使用したPythonライブラリ「MLX-VLM」などを手がける。">Prince Canuma氏</span>が開発したMac向けの新プロジェクト「<span class="person" data-kind="ai" data-bio="Prince Canuma氏が開発した、Mac向けに視覚言語モデルを実行できるデスクトップアプリおよびAPIサーバー。">Nativ</span>」が注目を集めています。Canuma氏は、Mac向けのMLXを使用して視覚言語モデルを実行するための優れたPythonライブラリ「MLX-VLM」を手がけた開発者です。</p>
+<p><span class="person" data-kind="ai" data-bio="Prince Canuma氏が開発した、Mac向けに視覚言語モデルを実行できるデスクトップアプリおよびAPIサーバー。">Nativ</span>は、MLXを完全なmacOSデスクトップアプリとしてラップしたもので、LM Studioに似た形状をしています。チャットインターフェースと、モデルにアクセスするためのローカライズされたAPIサーバーの両方を提供しているのが特徴です。</p>
 <p>Willison氏が実際に試したところ、このアプリはHugging Faceのキャッシュディレクトリにすでに保存されていたMLXモデルを自動で検知したとのことで、その利便性を高く評価し、非常に興奮していると見解を述べています。</p>
 <div class="source">出典: <a href="https://simonwillison.net/2026/Jul/21/nativ/#atom-everything" rel="noopener" target="_blank">Simon Willison氏 — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-nativ-run-ai-models-locally-on-mac", "title": "MacでローカルAIを動かすアプリ「Nativ」の実力は？", "path": "/articles/20260722-nativ-run-ai-models-locally-on-mac.html", "cat": "海外AIの声"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

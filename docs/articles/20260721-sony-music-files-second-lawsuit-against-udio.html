@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">ソニーミュージックエンタテインメントが、AI音楽生成サービスを展開するUdioに対し、著作権侵害で2度目となる訴訟を提起しました。AIの学習に膨大な楽曲が無断で使用されたと主張しています。</div>
-<p>「AI TECH TIMES」が報じたところによると、ソニーミュージックエンタテインメントは、AI音楽生成プラットフォームであるUdioを相手取り、著作権侵害の訴訟を新たに提起しました。Udioは、ユーザーがテキストプロンプトを入力することで音楽を生成できるサービスを提供する企業です。今回の訴訟は同社に対する2度目の法的措置となります。</p>
-<p>訴状においてソニーミュージックは、Udio側が同社の保有する3万117件もの録音物を、AIモデルのトレーニングのために無断でコピーしたと主張しています。著作権者の許諾を得ることなく、大量の楽曲データがAIの学習に流用されたことが、今回の提訴の主な理由です。</p>
+<p>「AI TECH TIMES」が報じたところによると、<span class="person" data-kind="company" data-bio="音楽・エンタテインメント事業を展開する日本を代表する企業グループ。">ソニーミュージックエンタテインメント</span>は、AI音楽生成プラットフォームである<span class="person" data-kind="ai" data-bio="テキスト入力から楽曲を生成する機能を持つAI音楽生成プラットフォーム。">Udio</span>を相手取り、著作権侵害の訴訟を新たに提起しました。<span class="person" data-kind="ai" data-bio="テキスト入力から楽曲を生成する機能を持つAI音楽生成プラットフォーム。">Udio</span>は、ユーザーがテキストプロンプトを入力することで音楽を生成できるサービスを提供する企業です。今回の訴訟は同社に対する2度目の法的措置となります。</p>
+<p>訴状においてソニーミュージックは、<span class="person" data-kind="ai" data-bio="テキスト入力から楽曲を生成する機能を持つAI音楽生成プラットフォーム。">Udio</span>側が同社の保有する3万117件もの録音物を、AIモデルのトレーニングのために無断でコピーしたと主張しています。著作権者の許諾を得ることなく、大量の楽曲データがAIの学習に流用されたことが、今回の提訴の主な理由です。</p>
 <p>音楽業界では、生成AIの急速な普及に伴い、学習データの著作権を巡る議論が活発化しています。大手レコード会社であるソニーミュージックが、AI企業に対して繰り返し法的措置を講じることで、AI開発における権利保護の重要性を改めて強調する形となりました。今後の裁判の行方が、音楽業界とAI技術の共存にどのような影響を与えるのか、注目が集まっています。</p>
 <div class="source">出典: <a href="https://www.techmeme.com/260721/p2#a260721p2" rel="noopener" target="_blank">Techmeme — 元記事を読む</a></div>
 </article>
@@ -48,6 +48,64 @@ gtag('config', 'G-V2T0G11PSH');
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <script>window.__ART = {"id": "20260721-sony-music-files-second-lawsuit-against-udio", "title": "ソニーミュージック、AI企業Udioを再び提訴　楽曲3万曲超の無断利用を主張", "path": "/articles/20260721-sony-music-files-second-lawsuit-against-udio.html", "cat": "シリコンバレー最速"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
+<div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
+<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<script>
+var pcache = {}, pcur = "";
+function papply(name, info){
+  if (name !== pcur) return;
+  var img = document.getElementById("pimg"), lnk = document.getElementById("plink");
+  if (info.img) { img.src = info.img; img.style.display = "block"; } else { img.style.display = "none"; }
+  if (info.url) { lnk.href = info.url; lnk.style.display = "inline-block"; } else { lnk.style.display = "none"; }
+}
+function ngr(s){var t=(s||"").replace(/[\s、。・]/g,"");var o={};for(var i=0;i<t.length-1;i++)o[t.substr(i,2)]=1;return o;}
+function novl(a,b){var A=ngr(a),B=ngr(b),n=0;for(var k in A)if(B[k])n++;return n;}
+function pwiki(name, bio){
+  var key = name.replace(/(氏|さん|様|CEO|会長|社長|大統領|首相|大臣|監督|選手|議員)$/, "");
+  if (pcache[key]) { papply(name, pcache[key]); return; }
+  // 候補5件のWikipedia説明文とAI紹介文を突き合わせ、内容が一致する項目だけ採用(同名別物対策)
+  fetch("https://ja.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=5&srsearch=" + encodeURIComponent(key))
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var hits = (d.query && d.query.search) || [];
+      if (!hits.length) { pcache[key] = {}; papply(name, {}); return; }
+      return Promise.all(hits.slice(0, 4).map(function(h){
+        return fetch("https://ja.wikipedia.org/api/rest_v1/page/summary/" + encodeURIComponent(h.title))
+          .then(function(r){ return r.json(); }).catch(function(){ return null; });
+      })).then(function(sums){
+        var best = null, bestScore = 2;  // 最低3点未満は不採用=写真なし
+        sums.forEach(function(s){
+          if (!s) return;
+          var desc = (s.description || "") + " " + (s.extract || "").slice(0, 200) + " " + s.title;
+          var score = novl(bio + " " + key, desc);
+          if (score > bestScore) { bestScore = score; best = s; }
+        });
+        var info = best ? {img: best.thumbnail && best.thumbnail.source,
+                           url: best.content_urls && best.content_urls.desktop && best.content_urls.desktop.page} : {};
+        pcache[key] = info; papply(name, info);
+      });
+    }).catch(function(){});
+}
+document.addEventListener("click", function(ev){
+  var t = ev.target;
+  var box = document.getElementById("pbox");
+  if (t.classList && t.classList.contains("person")) {
+    pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
+    document.getElementById("pname").textContent = t.textContent;
+    document.getElementById("pbio").textContent = t.getAttribute("data-bio");
+    document.getElementById("pimg").style.display = "none";
+    document.getElementById("plink").style.display = "none";
+    box.style.display = "block";
+    pwiki(t.textContent, t.getAttribute("data-bio"));
+  } else if (!t.closest("#pbox")) {
+    box.style.display = "none";
+  }
+});
+</script>
 </main>
 <footer><div class="wrap">© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>

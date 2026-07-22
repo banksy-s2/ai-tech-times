@@ -39,8 +39,8 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">テッククランチAIの報道によると、ジャック・ドーシー氏がSlackに対抗する新しいグループチャットプラットフォーム「Buzz」を発表しました。人間とAIエージェントが同じ会話に参加できるのが特徴です。</div>
-<p>「AI TECH TIMES」編集部がお伝えします。海外メディア「TechCrunch AI」の報道によると、<span class="person" data-bio="米ツイッターの共同創業者であり、現在は決済企業ブロック（旧スクエア）の最高経営責任者を務める実業家。">ジャック・ドーシー</span>氏が新たに職場向けのグループチャットプラットフォーム「Buzz」を発表し、Slackなどの既存サービスに対抗する姿勢を見せています。</p>
-<p>Buzzの最大の特徴は、人間とAIエージェントが同じ会話の中に同時に参加できる点にあります。チームのメンバーとAIが一体となってコミュニケーションを行うことで、これまでにない新しいワークプレイスのコラボレーションを実現することを目指しています。</p>
+<p>「AI TECH TIMES」編集部がお伝えします。海外メディア「TechCrunch AI」の報道によると、<span class="person" data-kind="person" data-bio="米ツイッターの共同創業者であり、現在は決済企業ブロック（旧スクエア）の最高経営責任者を務める実業家。">ジャック・ドーシー</span>氏が新たに職場向けのグループチャットプラットフォーム「<span class="person" data-kind="ai" data-bio="ジャック・ドーシー氏が発表した、人間とAIエージェントが同時に参加できる職場向けグループチャットプラットフォーム。">Buzz</span>」を発表し、Slackなどの既存サービスに対抗する姿勢を見せています。</p>
+<p><span class="person" data-kind="ai" data-bio="ジャック・ドーシー氏が発表した、人間とAIエージェントが同時に参加できる職場向けグループチャットプラットフォーム。">Buzz</span>の最大の特徴は、人間とAIエージェントが同じ会話の中に同時に参加できる点にあります。チームのメンバーとAIが一体となってコミュニケーションを行うことで、これまでにない新しいワークプレイスのコラボレーションを実現することを目指しています。</p>
 <p>現在のところ、機能の詳細や提供時期などは限られた情報のみ公開されています。人間とAIが混ざり合う新しいグループチャットの形が、今後のビジネスコミュニケーションにどのような影響を与えるのか、引き続き注目が集まりそうです。</p>
 <div class="source">出典: <a href="https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/" rel="noopener" target="_blank">TechCrunch AI — 元記事を読む</a></div>
 </article>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai", "title": "ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表", "path": "/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html", "cat": "AI(海外)"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

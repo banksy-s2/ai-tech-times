@@ -39,9 +39,9 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 
 <div class="lead">Googleが提供するAI検索の影響により、オープンなウェブのあり方が危機に瀕しています。調査によると、多くの業界で企業サイトへのアクセス数が大幅に減少していることが明らかになりました。</div>
-<p>ニューヨーク・タイムズの<span class="person" data-bio="ニューヨーク・タイムズ紙に所属し、テクノロジー分野などを取材するジャーナリスト。">ケイト・コンガー</span>記者による報道によると、GoogleのAI検索の台頭が、オープンウェブを危険にさらしていると指摘されています。ウェブのセキュリティやパフォーマンス向上を支援するアメリカのIT企業であるCloudflare（クラウドフレア）のデータによれば、2025年6月から2026年4月までの期間において、多くの業界における企業サイトへの人間によるトラフィック（アクセス数）が、約40%も減少したことが判明しました。</p>
+<p>ニューヨーク・タイムズの<span class="person" data-kind="person" data-bio="ニューヨーク・タイムズ紙に所属し、テクノロジー分野などを取材するジャーナリスト。">ケイト・コンガー</span>記者による報道によると、<span class="person" data-kind="company" data-bio="検索エンジンやAI検索などのサービスを提供する世界的なIT企業である。">Google</span>のAI検索の台頭が、オープンウェブを危険にさらしていると指摘されています。ウェブのセキュリティやパフォーマンス向上を支援するアメリカのIT企業である<span class="person" data-kind="company" data-bio="ウェブのセキュリティ向上やパフォーマンス支援を行う米国のIT企業。">Cloudflare</span>（クラウドフレア）のデータによれば、2025年6月から2026年4月までの期間において、多くの業界における企業サイトへの人間によるトラフィック（アクセス数）が、約40%も減少したことが判明しました。</p>
 <p>この急激なアクセス減少は、ユーザーが検索エンジンの結果画面でAIによって生成された回答を閲覧し、元のウェブサイトに遷移しなくなったことが要因とみられています。これにより、情報を発信する多くの企業やメディアのウェブサイトが、これまでのビジネスモデルを維持することが困難になる懸念が生じています。</p>
-<p>かつて、Googleが2004年に株式公開の準備を進めていた際、共同創業者であるラリー・ペイジ氏は株主への手紙を執筆していました。当時はインターネットの発展と情報の共有を重視する姿勢が示されていましたが、現在のAI検索の進展は、当時の理念とは異なる影響をウェブ全体に与えつつあります。AI技術の進化がもたらす利便性の裏で、オープンウェブの存続に向けた新たな課題が浮き彫りになっています。</p>
+<p>かつて、<span class="person" data-kind="company" data-bio="検索エンジンやAI検索などのサービスを提供する世界的なIT企業である。">Google</span>が2004年に株式公開の準備を進めていた際、共同創業者であるラリー・ペイジ氏は株主への手紙を執筆していました。当時はインターネットの発展と情報の共有を重視する姿勢が示されていましたが、現在のAI検索の進展は、当時の理念とは異なる影響をウェブ全体に与えつつあります。AI技術の進化がもたらす利便性の裏で、オープンウェブの存続に向けた新たな課題が浮き彫りになっています。</p>
 <div class="source">出典: <a href="https://www.techmeme.com/260720/p42#a260720p42" rel="noopener" target="_blank">Techmeme — 元記事を読む</a></div>
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260721-google-ai-search-endangers-open-web", "title": "GoogleのAI検索がウェブを脅かす？サイト流入が約40%減少", "path": "/articles/20260721-google-ai-search-endangers-open-web.html", "cat": "シリコンバレー最速"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

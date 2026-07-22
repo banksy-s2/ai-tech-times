@@ -2475,5 +2475,37 @@
   "date": "2026-07-23",
   "time": "01:01",
   "path": "/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html"
+ },
+ {
+  "title": "Appleの低価格「MacBook Neo」、新型プロセッサとRAM強化を開発中",
+  "lead": "Appleの人気を集める低価格ノートPC「MacBook Neo」に、新プロセッサと大容量メモリを搭載した次期モデルの開発情報が浮上しました。",
+  "summary3": [
+   "MacBook Neoの新型モデルが開発中",
+   "新プロセッサと大容量メモリを搭載予定",
+   "新たなカラーバリエーションも計画"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米メディアThe Vergeの報道によると、これまでの大ヒットを受けて、Appleは低価格ノートPC「MacBook Neo」のアップデート版を開発しているとのことです。",
+   "Bloombergのマーク・ガーマン記者によると、新型Neoには新しいプロセッサと、より多くのメモリ（RAM）が搭載される見込みです。また、今年初めにアナリストのティム・カルパン氏が伝えていた情報と同様に、モデルチェンジに合わせて新しいカラーバリエーションの展開も計画されています。",
+   "「MacBook Neo」のさらなる性能向上や、今後の詳細なリリース時期については、引き続き最新情報に注目が集まっています。財布や日常の仕事に直結するデバイスの進化として、今後の発表から目が離せません。"
+  ],
+  "tags": [
+   "Apple",
+   "MacBook Neo",
+   "PC"
+  ],
+  "slug": "apple-macbook-neo-ram-upgrade",
+  "people": [
+   {
+    "name": "マーク・ガーマン",
+    "bio": "Bloombergに所属し、Apple製品に関する正確な内部情報やリーク情報で世界的に知られる著名なジャーナリスト。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+  "category": "silicon",
+  "date": "2026-07-23",
+  "time": "02:00",
+  "path": "/articles/20260723-apple-macbook-neo-ram-upgrade.html"
  }
 ]

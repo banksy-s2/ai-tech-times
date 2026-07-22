@@ -39,7 +39,7 @@ gtag('config', 'G-V2T0G11PSH');
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>トランプ大統領が関税方針を表明</li><li>2028年から100%の関税を課す</li><li>利用者への負担増加が懸念材料</li></ul></div>
 <div class="lead">アメリカのトランプ大統領が、輸入するジェネリック医薬品に対して2028年から100%の関税を課す意向を表明しました。国内生産を促す方針ですが、利用者の負担増加が懸念されています。</div>
-<p>「AI TECH TIMES」編集部がお伝えします。NHK国際の報道によると、アメリカの<span class="person" data-bio="アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。">トランプ大統領</span>は、輸入するジェネリック医薬品に対して、2028年から100％の関税を課す意向を表明しました。</p>
+<p>「AI TECH TIMES」編集部がお伝えします。NHK国際の報道によると、アメリカの<span class="person" data-kind="person" data-bio="アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。">トランプ大統領</span>は、輸入するジェネリック医薬品に対して、2028年から100％の関税を課す意向を表明しました。</p>
 <p>今回の政策は、アメリカ国内に生産拠点を設けるよう求める狙いがあるものとみられています。医薬品の国内回帰を強力に推進する姿勢を示した形です。</p>
 <p>一方で、この高い関税の導入により、ジェネリック医薬品を利用する人々の負担が増加するのではないかという懸念も指摘されています。今後の動向に注目が集まります。</p>
 <div class="source">出典: <a href="https://news.web.nhk/newsweb/na/na-k10015182411000" rel="noopener" target="_blank">NHK 国際 — 元記事を読む</a></div>
@@ -49,9 +49,9 @@ gtag('config', 'G-V2T0G11PSH');
 <script>window.__ART = {"id": "20260722-trump-generic-100-percent-tariff-2028", "title": "トランプ大統領、ジェネリック医薬品に2028年から100%関税", "path": "/articles/20260722-trump-generic-100-percent-tariff-2028.html", "cat": "時事・世界"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
-<div class="prow"><img id="pimg" alt=""><div><b id="pname"></b><p id="pbio"></p>
+<div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
 <a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a></div></div>
-<div class="pnote">※AIによる人物メモです。写真はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
+<div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
 var pcache = {}, pcur = "";
 function papply(name, info){
@@ -93,6 +93,8 @@ document.addEventListener("click", function(ev){
   var box = document.getElementById("pbox");
   if (t.classList && t.classList.contains("person")) {
     pcur = t.textContent;
+    var kinds = {person: "人物", company: "企業", ai: "AI"};
+    document.getElementById("pkind").textContent = kinds[t.getAttribute("data-kind")] || "";
     document.getElementById("pname").textContent = t.textContent;
     document.getElementById("pbio").textContent = t.getAttribute("data-bio");
     document.getElementById("pimg").style.display = "none";

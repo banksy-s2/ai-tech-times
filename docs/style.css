@@ -48,6 +48,9 @@ article p{margin:16px 0}
 .rankp .lk{color:var(--accent2);font-weight:700;white-space:nowrap}
 .person{color:var(--accent);border-bottom:1px dashed var(--accent);cursor:pointer}
 .person:hover{color:var(--accent2);border-color:var(--accent2)}
+.person[data-kind="company"]{color:#7ee787;border-color:#7ee787}
+.person[data-kind="ai"]{color:var(--gold);border-color:var(--gold)}
+#pkind{display:inline-block;background:#1f2937;border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.72rem;color:var(--muted);vertical-align:middle}
 #pbox{display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);width:min(92vw,480px);background:#1c2530;border:1px solid var(--accent);border-radius:14px;padding:16px 20px;z-index:99;box-shadow:0 8px 30px rgba(0,0,0,.6)}
 #pbox .prow{display:flex;gap:14px;align-items:flex-start}
 #pimg{display:none;width:72px;height:72px;object-fit:cover;border-radius:50%;border:2px solid var(--accent);flex-shrink:0}
