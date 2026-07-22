@@ -5,6 +5,62 @@
 <description>AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>DRAMとNANDの価格が10倍に、生成AIが引き起こした半導体市場の急拡大の真因とは</title>
+<link>https://ai-tech-times.web.app/articles/20260722-semiconductor-market-memory-price-surge.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-semiconductor-market-memory-price-surge.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2025年から2026年にかけて、世界半導体市場は史上初めて年間1兆ドルを超えて2兆ドルに迫る規模へと急拡大しています。中でもDRAMとNANDの2大メモリ市場で価格が10倍に高騰している背景には、生成AIが引き起こしたスーパーサイクルがあります。</description>
+</item>
+<item>
+<title>ClaudeがPC画面を録画して定型作業をスキル化</title>
+<link>https://ai-tech-times.web.app/articles/20260722-claude-record-a-skill-feature.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-claude-record-a-skill-feature.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI TECH TIMESは、Claudeの汎用エージェント機能「Claude Cowork」に、PC作業を録画して分析し再現可能なスキルにする新機能「スキルを記録」が追加されたことを報じます。</description>
+</item>
+<item>
+<title>テスラ、オーランドとタンパでロボタクシー実証実験を開始</title>
+<link>https://ai-tech-times.web.app/articles/20260722-tesla-robotaxi-orlando-tampa.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-tesla-robotaxi-orlando-tampa.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>テスラが第2四半期決算の発表を前に、オーランドとタンパでロボタクシーの実証実験を開始しました。慎重なアプローチで展開を進めています。</description>
+</item>
+<item>
+<title>SnapがSNS依存訴訟で和解、残る被告はMetaのみに</title>
+<link>https://ai-tech-times.web.app/articles/20260722-snap-settles-social-media-addiction-case.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-snap-settles-social-media-addiction-case.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米ロサンゼルスでの陪審裁判を前に、Snapがソーシャルメディア依存を巡る訴訟で原告側と和解に至りました。YouTubeも既に合意に達しており、被告として残るのはMetaのみとなっています。</description>
+</item>
+<item>
+<title>宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落</title>
+<link>https://ai-tech-times.web.app/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>インフルエンサーの宮崎麗果めぐる脱税事件により、夫である黒木啓司の現状についてFRIDAYが報じています。</description>
+</item>
+<item>
+<title>トランプ大統領、ジェネリック医薬品に2028年から100%関税</title>
+<link>https://ai-tech-times.web.app/articles/20260722-trump-generic-100-percent-tariff-2028.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-trump-generic-100-percent-tariff-2028.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ大統領が、輸入するジェネリック医薬品に対して2028年から100%の関税を課す意向を表明しました。国内生産を促す方針ですが、利用者の負担増加が懸念されています。</description>
+</item>
+<item>
+<title>フランス、15歳未満のSNS利用禁止へ</title>
+<link>https://ai-tech-times.web.app/articles/20260722-france-sns-ban-under-15.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-france-sns-ban-under-15.html</guid>
+<pubDate>Wed, 22 Jul 2026 17:04:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>子どもによるSNSの利用規制に向けた動きが広がるなか、フランスの国民議会で15歳未満の利用を禁止する法案が可決されました。</description>
+</item>
+<item>
 <title>SpaceX株が7日ぶり反発、初の決算で何が</title>
 <link>https://ai-tech-times.web.app/articles/20260722-spacex-snaps-7-day-losing-streak.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260722-spacex-snaps-7-day-losing-streak.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>システム障害が発生している冷凍食品大手「ニチレイ」へのサイバー攻撃について、ハッカー集団が犯行声明を出したことが分かりました。</description>
-</item>
-<item>
-<title>食料品消費税減税の議論再開、難航予想される中で実務者会議の着地点は</title>
-<link>https://ai-tech-times.web.app/articles/20260722-food-consumption-tax-cut-meeting.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-food-consumption-tax-cut-meeting.html</guid>
-<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>「骨太の方針」が決定される中、超党派の「国民会議」の実務者会議が22日に食料品の消費税減税の扱いについて議論を再開します。</description>
-</item>
-<item>
-<title>Anthropic、著作権訴訟で15億ドル支払い合意、著者側への救済の行方は</title>
-<link>https://ai-tech-times.web.app/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-anthropic-1-5-billion-book-piracy-settlement-approved.html</guid>
-<pubDate>Wed, 22 Jul 2026 06:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>米AI企業Anthropicによる著作権侵害を巡る集団訴訟で、連邦裁判所が15億ドルの和解案を承認しました。著者側に対し、1冊あたり約3000ドルの救済が提供されます。</description>
-</item>
-<item>
-<title>ジャック・ドーシーがSlackに対抗、AIと対話する新チャット「Buzz」発表</title>
-<link>https://ai-tech-times.web.app/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-jack-dorsey-announces-buzz-group-chat-for-humans-and-ai.html</guid>
-<pubDate>Wed, 22 Jul 2026 06:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>テッククランチAIの報道によると、ジャック・ドーシー氏がSlackに対抗する新しいグループチャットプラットフォーム「Buzz」を発表しました。人間とAIエージェントが同じ会話に参加できるのが特徴です。</description>
-</item>
-<item>
-<title>円相場が一時1ドル＝163円台に値下がり、39年半ぶりの円安水準へ</title>
-<link>https://ai-tech-times.web.app/articles/20260722-yen-drops-to-163-per-dollar.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-yen-drops-to-163-per-dollar.html</guid>
-<pubDate>Wed, 22 Jul 2026 05:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>21日のニューヨーク外国為替市場で、円相場が一時1ドル＝163円台に値下がりしました。およそ39年半ぶりの円安水準となっています。</description>
-</item>
-<item>
-<title>韓国海洋警察、7月22日に竹島で音楽会を開催する狙いは？</title>
-<link>https://ai-tech-times.web.app/articles/20260722-korea-coast-guard-takeshima-concert.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-korea-coast-guard-takeshima-concert.html</guid>
-<pubDate>Wed, 22 Jul 2026 05:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>韓国の海洋警察は、島根県の竹島で7月22日に音楽会を開催すると発表しました。</description>
-</item>
-<item>
-<title>YouTuberが案件詐欺でほぼ全財産喪失、怪しいDMの罠</title>
-<link>https://ai-tech-times.web.app/articles/20260722-youtuber-scam-loss.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-youtuber-scam-loss.html</guid>
-<pubDate>Wed, 22 Jul 2026 04:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>YouTuberが“案件詐欺”に遭い、ほぼ全財産を失う被害に見舞われました。発端は届いた怪しいダイレクトメッセージでした。</description>
-</item>
-<item>
-<title>MacでローカルAIを動かすアプリ「Nativ」の実力は？</title>
-<link>https://ai-tech-times.web.app/articles/20260722-nativ-run-ai-models-locally-on-mac.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-nativ-run-ai-models-locally-on-mac.html</guid>
-<pubDate>Wed, 22 Jul 2026 03:00:00 +0900</pubDate>
-<category>海外AIの声</category>
-<description>AI識者のSimon Willison氏が、Mac上でローカルAIモデルを手軽に実行できるデスクトップアプリ「Nativ」について紹介しています。</description>
 </item>
 </channel></rss>
