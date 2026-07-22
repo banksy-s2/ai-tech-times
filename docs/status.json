@@ -1,49 +1,21 @@
 {
- "updated": "2026-07-22 17:04",
- "mode": "フル便",
+ "updated": "2026-07-22 18:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "DRAMとNANDの価格が10倍に、生成AIが引き起こした半導体市場の急拡大の真因とは",
-   "path": "/articles/20260722-semiconductor-market-memory-price-surge.html",
-   "cat": "日本のAI"
+   "title": "米IT大手5社、不透明なAI資金調達で隠れ債務が1.65兆ドルに急増",
+   "path": "/articles/20260722-us-tech-giants-hidden-debts-ai-funding.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "ClaudeがPC画面を録画して定型作業をスキル化",
-   "path": "/articles/20260722-claude-record-a-skill-feature.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "テスラ、オーランドとタンパでロボタクシー実証実験を開始",
-   "path": "/articles/20260722-tesla-robotaxi-orlando-tampa.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SnapがSNS依存訴訟で和解、残る被告はMetaのみに",
-   "path": "/articles/20260722-snap-settles-social-media-addiction-case.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落",
-   "path": "/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "トランプ大統領、ジェネリック医薬品に2028年から100%関税",
-   "path": "/articles/20260722-trump-generic-100-percent-tariff-2028.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "フランス、15歳未満のSNS利用禁止へ",
-   "path": "/articles/20260722-france-sns-ban-under-15.html",
-   "cat": "時事・世界"
+   "title": "ニール・ブロムカンプ監督の新作AI短編が公開",
+   "path": "/articles/20260722-neill-blomkamp-nightborne-ai-film.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
   "url": "https://www.youtube.com/watch?v=NySBAMooqOc"
  },
- "notes": [
-  "執筆失敗: Neill Blomkamp’s new zombie AI ‘film’ is",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ]
+ "notes": []
 }

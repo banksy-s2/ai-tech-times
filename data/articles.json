@@ -1932,5 +1932,64 @@
   "date": "2026-07-22",
   "time": "17:04",
   "path": "/articles/20260722-france-sns-ban-under-15.html"
+ },
+ {
+  "title": "米IT大手5社、不透明なAI資金調達で隠れ債務が1.65兆ドルに急増",
+  "lead": "米国の主要テクノロジー企業5社において、不透明なAI関連の資金調達による隠れ債務が合計1.65兆ドルに膨らんでいることが明らかになりました。",
+  "summary3": [
+   "米IT大手5社の隠れ債務が急増",
+   "不透明なAI資金調達が原因",
+   "負債総額は1.65兆ドルに到達"
+  ],
+  "body": [
+   "AI技術の開発競争が激化する中、米国の主要IT大手5社における隠れ債務が合計1.65兆ドルに達したことが分かりました。AI開発やインフラ整備に向けた巨額の資金需要に対し、不透明な手法での調達が行われていることが背景にあります。",
+   "人工知能分野への投資は近年急拡大しており、各社は莫大な資金を投じてデータセンターの建設や高性能半導体の調達を進めています。しかし、その資金調達の裏側では負債の膨張が懸念される状況となっています。",
+   "今回の調査結果は、AIブームを支える財務基盤のリスクを浮き彫りにしています。不透明な資金調達の拡大が、今後企業の財務や市場全体にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "財務",
+   "テクノロジー"
+  ],
+  "slug": "us-tech-giants-hidden-debts-ai-funding",
+  "people": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+  "category": "ai",
+  "date": "2026-07-22",
+  "time": "18:00",
+  "path": "/articles/20260722-us-tech-giants-hidden-debts-ai-funding.html"
+ },
+ {
+  "title": "ニール・ブロムカンプ監督の新作AI短編が公開",
+  "lead": "映画『第9地区』などで知られるニール・ブロムカンプ監督が、AI技術を活用した新作のSF短編映画を発表しました。",
+  "summary3": [
+   "ブロムカンプ監督が新作AI映画を発表",
+   "新興スタジオによる13分の短編",
+   "人間の俳優をモデルにした音声と顔"
+  ],
+  "body": [
+   "『第9地区』や『グランツーリスモ』を手がけた映画監督のニール・ブロムカンプ氏が、最新プロジェクトとして13分のSF短編映画『Nightborne』を月曜日に公開しました。この作品は、ピーター・ワッツ氏の2014年の小説『Echopraxia』を緩やかにベースにしています。",
+   "この短編映画は、ブロムカンプ氏が立ち上げた新しいAIスタートアップ兼プロダクション会社である「Barley Studios」によって制作されました。作品には、人間の俳優をモデルにした音声や顔を持つキャラクターが登場します。",
+   "しかし、AI技術を全面的に取り入れたこの新たな試みや作品のクオリティについては、さまざまな意見や議論が巻き起こるなど、公開後から注目を集めています。"
+  ],
+  "tags": [
+   "AI映画",
+   "ニール・ブロムカンプ",
+   "Barley Studios"
+  ],
+  "slug": "neill-blomkamp-nightborne-ai-film",
+  "people": [
+   {
+    "name": "ニール・ブロムカンプ",
+    "bio": "映画『第9地区』や『グランツーリスモ』などを手がけたことで知られる映画監督。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+  "category": "ai",
+  "date": "2026-07-22",
+  "time": "18:00",
+  "path": "/articles/20260722-neill-blomkamp-nightborne-ai-film.html"
  }
 ]

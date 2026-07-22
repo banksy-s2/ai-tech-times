@@ -1723,5 +1723,214 @@
   "date": "2026-07-22",
   "time": "14:00",
   "path": "/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html"
+ },
+ {
+  "title": "DRAMとNANDの価格が10倍に、生成AIが引き起こした半導体市場の急拡大の真因とは",
+  "lead": "2025年から2026年にかけて、世界半導体市場は史上初めて年間1兆ドルを超えて2兆ドルに迫る規模へと急拡大しています。中でもDRAMとNANDの2大メモリ市場で価格が10倍に高騰している背景には、生成AIが引き起こしたスーパーサイクルがあります。",
+  "summary3": [
+   "半導体市場が1兆ドルを突破",
+   "DRAM・NANDの価格が10倍に",
+   "生成AIがスーパーサイクルを牽引"
+  ],
+  "body": [
+   "2025年から2026年にかけて、半導体業界において誰もが目を疑うような数字が並び始めています。世界半導体市場は史上初めて年間1兆ドルを超え、2兆ドルに迫る規模へと駆け上がっています。",
+   "その中で、DRAMとNANDという2大メモリの市場が「異常」としか言いようのない急拡大を見せています。これらのメモリにおけるスポット価格は、1年半余りの間に10倍へと高騰する事態となりました。",
+   "この空前の価格高騰と市場の急拡大を引き起こした真因には、生成AIが引き起こしたスーパーサイクルの構造と限界が存在しています。今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "半導体",
+   "生成AI",
+   "メモリ"
+  ],
+  "slug": "semiconductor-market-memory-price-surge",
+  "people": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://jbpress.ismedia.jp/articles/-/96024",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-semiconductor-market-memory-price-surge.html"
+ },
+ {
+  "title": "ClaudeがPC画面を録画して定型作業をスキル化",
+  "lead": "AI TECH TIMESは、Claudeの汎用エージェント機能「Claude Cowork」に、PC作業を録画して分析し再現可能なスキルにする新機能「スキルを記録」が追加されたことを報じます。",
+  "summary3": [
+   "Claude Coworkに新機能を追加",
+   "PC作業の録画でスキル化を実現",
+   "言葉やスクショでの説明が不要に"
+  ],
+  "body": [
+   "AI TECH TIMESの調べによると、Claudeの汎用エージェント機能である「Claude Cowork」に、ユーザーのPC作業を録画して分析し、再現可能なスキル化を行う新機能「スキルを記録」（Record a skill）が加わりました。",
+   "これまでは、Claude Coworkに定型作業を実行させたい場合、ユーザーがClaudeに対して言葉やスクリーンショットを用いて目的や作業内容を細かく説明し、スキル化を行う必要がありました。",
+   "しかし、今回の新機能「スキルを記録」が追加されたことにより、実際のPC作業を録画して分析させることが可能になり、これまでの手間をかけずにClaudeが仕事を覚えて再現できるようになります。このアップデートにより、日々の定型業務の効率化がさらに進むことが期待されます。"
+  ],
+  "tags": [
+   "Claude",
+   "AI",
+   "業務効率化"
+  ],
+  "slug": "claude-record-a-skill-feature",
+  "people": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.techno-edge.net/article/2026/07/22/5317.html",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-claude-record-a-skill-feature.html"
+ },
+ {
+  "title": "テスラ、オーランドとタンパでロボタクシー実証実験を開始",
+  "lead": "テスラが第2四半期決算の発表を前に、オーランドとタンパでロボタクシーの実証実験を開始しました。慎重なアプローチで展開を進めています。",
+  "summary3": [
+   "テスラがロボタクシーの実証実験を開始",
+   "オーランドとタンパで新たに導入",
+   "イーロン・マスク氏の約束より慎重"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米国の電気自動車大手テスラが、第2四半期決算の発表を控え、オーランドとタンパの両都市でロボタクシーの実証実験を新たに開始したことが明らかになりました。海外メディアのTechCrunchが報じています。",
+   "今回の展開において、同社はそれぞれの都市に何台の車両を導入しているのかについては言及していません。また、最高経営責任者（CEO）であるイーロン・マスク氏が以前に公約していた計画と比較すると、ネットワークの拡大に向けては遥かに慎重なアプローチをとっている状況です。",
+   "自動運転技術の商用化を目指す同社の動向は、今後のモビリティ市場や投資家の注目を集める要素となっています。決算発表を目前に控える中、実証実験の進捗と今後の展開に引き続き関心が集まることになりそうです。"
+  ],
+  "tags": [
+   "テスラ",
+   "ロボタクシー",
+   "自動運転"
+  ],
+  "slug": "tesla-robotaxi-orlando-tampa",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "テスラの最高経営責任者（CEO）を務める実業家。宇宙開発のスペースXなども率いる。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-tesla-robotaxi-orlando-tampa.html"
+ },
+ {
+  "title": "SnapがSNS依存訴訟で和解、残る被告はMetaのみに",
+  "lead": "米ロサンゼルスでの陪審裁判を前に、Snapがソーシャルメディア依存を巡る訴訟で原告側と和解に至りました。YouTubeも既に合意に達しており、被告として残るのはMetaのみとなっています。",
+  "summary3": [
+   "SnapがSNS依存訴訟で和解",
+   "YouTubeも既に合意に達する",
+   "残る被告企業はMetaのみに"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、ロサンゼルスで来週から始まる陪審裁判を前に、Snapがソーシャルメディア依存を巡る訴訟で原告側との和解を成立させました。若年層のプラットフォーム利用における依存性が争点となる中での大きな動きとなります。",
+   "これに先立ち、TikTokが同様に原告側との和解を完了させており、さらにYouTubeも合意に達しています。相次ぐ主要プラットフォームの和解により、本件における残りの被告企業はMetaのみとなりました。"
+  ],
+  "tags": [
+   "Snap",
+   "TikTok",
+   "YouTube",
+   "Meta",
+   "SNS依存"
+  ],
+  "slug": "snap-settles-social-media-addiction-case",
+  "people": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-snap-settles-social-media-addiction-case.html"
+ },
+ {
+  "title": "宮崎麗果の脱税事件で夫・黒木啓司がセレブから転落",
+  "lead": "インフルエンサーの宮崎麗果めぐる脱税事件により、夫である黒木啓司の現状についてFRIDAYが報じています。",
+  "summary3": [
+   "宮崎麗果の脱税事件が発生",
+   "夫・黒木啓司がセレブから転落",
+   "FRIDAYが報じた詳細"
+  ],
+  "body": [
+   "インフルエンサーとして知られる宮崎麗果の脱税事件をめぐり、夫である黒木啓司がセレブ生活から大転落したとFRIDAYが報じました。",
+   "元EXILEの肩書が使えない状況の中、今回の事件が夫婦の生活や立場に大きな影響を与えていることが伝えられています。",
+   "詳細な経緯や今後の動向については、引き続き各メディアの報道が注目されるところです。"
+  ],
+  "tags": [
+   "宮崎麗果",
+   "黒木啓司",
+   "脱税"
+  ],
+  "slug": "miyazaki-reika-tax-evasion-kuroki-keiji",
+  "people": [
+   {
+    "name": "宮崎麗果",
+    "bio": "インフルエンサーとして活動し、今回の脱税事件が報じられた人物。"
+   },
+   {
+    "name": "黒木啓司",
+    "bio": "元EXILEのメンバーであり、宮崎麗果の夫として知られる人物。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80T01LQ2hPQ3JtN2NFMGJNek1ucFZSaFV2eXd3dEp3MW93NVpvcXkwREdOVmprSkx2NFpVZ1ljc0M2dENRT3ppTEpvZlhQWkhTU2ZFVWUzTkdCTDZFSFk5Z0Z6QWpVNkZWc3A0UW9RQTRvSXBIbW5yd1ZIVDAweG8?oc=5",
+  "category": "influencer",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-miyazaki-reika-tax-evasion-kuroki-keiji.html"
+ },
+ {
+  "title": "トランプ大統領、ジェネリック医薬品に2028年から100%関税",
+  "lead": "アメリカのトランプ大統領が、輸入するジェネリック医薬品に対して2028年から100%の関税を課す意向を表明しました。国内生産を促す方針ですが、利用者の負担増加が懸念されています。",
+  "summary3": [
+   "トランプ大統領が関税方針を表明",
+   "2028年から100%の関税を課す",
+   "利用者への負担増加が懸念材料"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。NHK国際の報道によると、アメリカのトランプ大統領は、輸入するジェネリック医薬品に対して、2028年から100％の関税を課す意向を表明しました。",
+   "今回の政策は、アメリカ国内に生産拠点を設けるよう求める狙いがあるものとみられています。医薬品の国内回帰を強力に推進する姿勢を示した形です。",
+   "一方で、この高い関税の導入により、ジェネリック医薬品を利用する人々の負担が増加するのではないかという懸念も指摘されています。今後の動向に注目が集まります。"
+  ],
+  "tags": [
+   "トランプ大統領",
+   "ジェネリック医薬品",
+   "関税"
+  ],
+  "slug": "trump-generic-100-percent-tariff-2028",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182411000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-trump-generic-100-percent-tariff-2028.html"
+ },
+ {
+  "title": "フランス、15歳未満のSNS利用禁止へ",
+  "lead": "子どもによるSNSの利用規制に向けた動きが広がるなか、フランスの国民議会で15歳未満の利用を禁止する法案が可決されました。",
+  "summary3": [
+   "フランス国民議会が法案可決",
+   "15歳未満のSNS利用を禁止",
+   "予定どおり9月に施行されれば欧州初"
+  ],
+  "body": [
+   "子どもによるSNSの利用規制に向けた動きが世界各国で広がるなか、フランスの国民議会は15歳未満の子どものSNS利用を禁止する法案を可決しました。",
+   "予定どおり今年9月からこの法律が施行された場合、ヨーロッパにおいては初めての規制導入となります。",
+   "今回の法案可決により、今後の子どものインターネット利用やSNSをめぐる環境に大きな影響を与えることが予想されます。"
+  ],
+  "tags": [
+   "フランス",
+   "SNS",
+   "規制"
+  ],
+  "slug": "france-sns-ban-under-15",
+  "people": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182291000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "17:04",
+  "path": "/articles/20260722-france-sns-ban-under-15.html"
  }
 ]
