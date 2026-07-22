@@ -22,6 +22,7 @@ CATEGORIES = {
     "influencer": "インフルエンサー",
     "world": "時事・世界",
     "stock": "株式投資(日本)",
+    "jp_corp": "日本企業",
 }
 
 SOURCES = {
@@ -79,6 +80,13 @@ SOURCES = {
         ("東洋経済オンライン", "https://toyokeizai.net/list/feed/rss"),
         ("はてなブックマーク 経済", "https://b.hatena.ne.jp/hotentry/economics.rss"),
     ],
+    # 日本企業: 上場企業の経営ニュース(決算・提携・買収・新事業・不祥事)
+    "jp_corp": [
+        ("Googleニュース: 上場企業",
+         "https://news.google.com/rss/search?q=%E6%9D%B1%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%20OR%20%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%20OR%20%E6%B1%BA%E7%AE%97%E7%99%BA%E8%A1%A8%20OR%20%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA&hl=ja&gl=JP&ceid=JP:ja"),
+        ("ITmedia ビジネス", "https://rss.itmedia.co.jp/rss/2.0/business.xml"),
+        ("NHK 経済", "https://www.nhk.or.jp/rss/news/cat5.xml"),
+    ],
 }
 
 # AIカテゴリだけはフィード内に雑多な記事が混ざるためキーワードで絞る
@@ -96,6 +104,13 @@ STOCK_KEYWORDS = [
     "投資家", "決算", "配当", "増配", "自社株買い", "IPO", "新規上場", "上場",
     "証券", "為替", "円相場", "円安", "円高", "日銀", "金利", "利上げ", "利下げ",
     "NISA", "ETF", "投資信託", "株主", "時価総額",
+]
+
+# 日本企業カテゴリ: 上場企業の経営ニュースらしさで絞る
+JPCORP_KEYWORDS = [
+    "決算", "業績", "上場", "東証", "提携", "買収", "合併", "M&A", "子会社",
+    "増益", "減益", "赤字", "黒字", "億円", "兆円", "新事業", "新工場", "参入",
+    "撤退", "リコール", "不祥事", "謝罪", "株式会社", "ホールディングス", "社長", "会長",
 ]
 
 # ノイズ排除: 宣伝・告知・セール系はタイトルに含まれた時点で候補から外す
@@ -234,6 +249,10 @@ def collect(category: str) -> list[dict]:
             if category == "stock":
                 text = f"{it['title']} {it['summary']}".lower()
                 if not any(k.lower() in text for k in STOCK_KEYWORDS):
+                    continue
+            if category == "jp_corp":
+                text = f"{it['title']} {it['summary']}".lower()
+                if not any(k.lower() in text for k in JPCORP_KEYWORDS):
                     continue
             it["category"] = category
             seen.add(it["url"])

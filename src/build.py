@@ -23,7 +23,7 @@ FIREBASE_SDK = """<script src="https://www.gstatic.com/firebasejs/10.12.0/fireba
 NAV = [("/", "トップ"), ("/popular.html", "人気"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
        ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
        ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
-       ("/stock.html", "株式投資"),
+       ("/stock.html", "株式投資"), ("/jp_corp.html", "日本企業"),
        ("/buzz.html", "バズ動画TOP10"), ("/office.html", "編集部ライブ")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
@@ -44,6 +44,8 @@ CATEGORY_SEO = {
               "NHK・BBCから今日知っておくべき時事・国際ニュースを厳選して毎日お届け。"),
     "stock": (f"日本株・株式投資の最新ニュース(日経平均・東証) | {SITE_NAME}",
               "日経平均・東証・日本株の最新動向、日銀・金利・為替・決算・NISAなど投資家が知っておきたい国内ニュースを毎日更新。"),
+    "jp_corp": (f"日本の上場企業の最新ニュース(決算・提携・買収) | {SITE_NAME}",
+                "トヨタ・ソニーなど日本の上場企業の決算、業務提携、買収、新事業、不祥事まで、企業の動きを毎日更新。"),
 }
 BUZZ_TITLE = f"世界でバズってるYouTube動画ランキングTOP10(毎日更新) | {SITE_NAME}"
 

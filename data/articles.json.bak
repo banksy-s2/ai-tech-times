@@ -3075,6 +3075,11 @@
     "name": "Fireworks AI",
     "type": "company",
     "desc": "生成AIモデルの実行基盤やAPIサービスなどを開発・提供するアメリカのテクノロジー企業。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。"
    }
   ]
  },
@@ -3116,5 +3121,39 @@
     "desc": "iPhoneやMacなどのハードウェアやソフトウェアを開発・販売するアメリカの世界的大手IT企業。"
    }
   ]
+ },
+ {
+  "title": "ジェリーＢＧ急伸、子会社がＪＴＢと業務提携",
+  "lead": "ジェリーＢＧが急伸し、株式市場で注目を集めています。子会社がＪＴＢとエンターテインメント事業で業務提携を行ったことが明らかになりました。",
+  "summary3": [
+   "ジェリーＢＧの株価が急伸",
+   "子会社がＪＴＢと業務提携",
+   "エンターテインメント事業で協業"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。ジェリーＢＧの株価が急伸を見せています。今回の株価の動きを牽引する要因となったのは、同社の子会社による新たな提携の発表です。",
+   "発表によると、ジェリーＢＧの子会社は、旅行業大手として広く知られるＪＴＢとの間で、エンターテインメント事業における業務提携を締結しました。両社がどのように事業を展開していくのか、今後の具体的な取り組みに市場関係者の関心が集まっています。",
+   "企業間のアライアンスによるシナジー効果や、エンターテインメント分野での新たな展開については、引き続き発表される詳細な情報が注目されます。株式市場における動向とあわせて、今後の推移を見守る必要があります。"
+  ],
+  "tags": [
+   "ジェリーＢＧ",
+   "ＪＴＢ",
+   "業務提携"
+  ],
+  "slug": "jelly-bg-jtb-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ＪＴＢ",
+    "type": "company",
+    "desc": "日本を代表する大手旅行会社であり、国内外の旅行事業や観光関連サービスなどを幅広く展開しています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXVSWWJTckFxVDhsY0l5ZUFfd2hyaXpPV0tIdVdOZ1ZmMnZ5Z2Y5aS1oVHU3ME1lc0ZVMGJQUFBFcWN6bHpETDFBZjJPSkZzUlNCLWxuTkhzMFNmdVhXeFRrd3hQU292cDdMQ1VTYnJYc2kydndyZmZ4U3BkaXhhNFB4RE9yekE?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-23",
+  "time": "03:30",
+  "path": "/articles/20260723-jelly-bg-jtb-business-alliance.html"
  }
 ]
