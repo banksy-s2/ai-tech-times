@@ -1450,5 +1450,189 @@
   "date": "2026-07-22",
   "time": "11:00",
   "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html"
+ },
+ {
+  "title": "Substack、AI検出ツールを導入",
+  "lead": "ニュースレタープラットフォームのSubstackが、AIによって書かれた投稿やコメントを見分けるための新しい検出ツールを導入すると発表しました。",
+  "body": [
+   "ニュースレタープラットフォームのSubstackは、火曜日に公開された公式ブログポストにおいて、プラットフォーム上に投稿されたコンテンツがAIによって生成されたものかどうかを判断するための新しいツールを追加すると発表しました。",
+   "この新機能により、ユーザーは記事の投稿だけでなく、ノート、返信、コメントに至るまで、テキストのどの程度がAIによって書かれたものか、あるいはAIの支援を受けて作成されたものかについての推定値を確認できるようになります。",
+   "AI技術の発展に伴い、コンテンツの真偽を見極めるニーズが高まる中、今回のツール導入によって、読者がより安心してプラットフォーム上の情報にアクセスできるようになることが期待されます。"
+  ],
+  "tags": [
+   "Substack",
+   "AI検出",
+   "ニュースレター"
+  ],
+  "slug": "substack-adds-ai-detector",
+  "people": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "category": "ai",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-substack-adds-ai-detector.html"
+ },
+ {
+  "title": "矢野経済、Claudeで30分100アイデア",
+  "lead": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表しました。ブレインストーミングにおける膨大な時間拘束やコストの課題を解決します。",
+  "body": [
+   "矢野経済研究所は、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表しました。",
+   "企業のブレインストーミングでは、役員の時間拘束や「隠れ人件費」の膨張が課題となっていました。「AIDEL」では、30分で100の具体案と評価スコアを自動生成することが可能です。",
+   "一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速させる新ソリューションとなっています。"
+  ],
+  "tags": [
+   "矢野経済研究所",
+   "Claude",
+   "AI"
+  ],
+  "slug": "yano-keizai-claude-aidel",
+  "people": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-yano-keizai-claude-aidel.html"
+ },
+ {
+  "title": "富士通とNVIDIA、ロボット大手3社が協業へ",
+  "lead": "富士通は、競合するロボット大手3社およびNVIDIAと協業し、フィジカルAIの社会実装に向けた取り組みに挑むと発表しました。",
+  "body": [
+   "AI TECH TIMESの報道によると、富士通は競合するロボット大手3社、そしてNVIDIAと組んでフィジカルAIの社会実装に挑むことが明らかになりました。",
+   "フィジカルAIの社会実装は一企業だけでは手に余るという大きな課題があり、今回の協業はこの難題を解決するための具体的な策として注目されています。",
+   "今後は、各社がどのような具体策を描き、フィジカルAIの社会実装を推進していくのか、その動向に大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "富士通",
+   "NVIDIA",
+   "ロボット",
+   "フィジカルAI"
+  ],
+  "slug": "fujitsu-nvidia-robot-collaboration",
+  "people": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2607/21/news043.html",
+  "category": "ai_jp",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-fujitsu-nvidia-robot-collaboration.html"
+ },
+ {
+  "title": "Archer株が20%急騰、Andurilと軍用機を発表",
+  "lead": "ArcherがAndurilと共に軍用機を発表し、株価が20%急騰しました。同社は商業運航に向けたFAAの認証取得を目指しています。",
+  "body": [
+   "米国のニュースメディア「CNBC Tech」の報道によると、eVTOL（電動垂直離着陸機）を手がけるArcherの株式が20%急騰しました。この株価上昇は、同社がAndurilとともに軍用機を新たに発表したことが背景にあります。",
+   "Archerとその同業他社は現在、商業飛行の開始に向けて連邦航空局（FAA）からの認証取得を急ピッチで進めている段階です。エアタクシー市場の実用化に向けた動きが活発化する中、今回の軍用機の発表が市場から好意的に受け止められました。",
+   "eVTOL分野における技術開発や防衛分野との連携など、今後の各社の動向に引き続き注目が集まりそうです。商業運航の実現に向けたFAAの認証プロセスは、業界全体の重要なマイルストーンとなっています。"
+  ],
+  "tags": [
+   "Archer",
+   "Anduril",
+   "eVTOL"
+  ],
+  "slug": "archer-stock-rips-20-percent-higher",
+  "people": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-archer-stock-rips-20-percent-higher.html"
+ },
+ {
+  "title": "OpenAIとAnthropic、Q2ロビー活動費23%増の317万ドル",
+  "lead": "米CNBC Techによると、主要なAI開発企業であるOpenAIとAnthropicの2社が、2026年第2四半期におけるロビー活動費を大幅に引き上げました。レガシーテックや防衛関連の支出が減少する中、AI業界の政治的な動きが活発化しています。",
+  "body": [
+   "AI開発をリードするOpenAIとAnthropicの2社は、2026年第2四半期（4〜6月期）に合計で317万ドルのロビー活動費を投じました。これは直前の第1四半期（1〜3月期）の支出額と比較して23%の増加となります。",
+   "今回の支出増は、レガシーテクノロジー関連や防衛分野への支出が低下する中で記録されました。AI技術の急速な発展や社会的な影響力の拡大に伴い、政策決定への働きかけが両社において急務となっていることがうかがえます。",
+   "AI技術をめぐる規制や政策議論が各国で活発化する中、大手AI開発企業によるこうしたロビー活動の動向は、今後の業界の方向性を占ううえでも注目を集める要素となっています。「AI TECH TIMES」では引き続き、AI産業を取り巻く政策と経済の動きを報じていきます。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "AI規制",
+   "ロビー活動",
+   "CNBC Tech"
+  ],
+  "slug": "openai-anthropic-ai-lobbying-spending-q2-2026",
+  "people": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html"
+ },
+ {
+  "title": "電通とメタが提携、大規模インフルエンサー動員の基盤構築へ",
+  "lead": "電通がメタとの提携を発表しました。大規模かつ迅速なインフルエンサー動員の基盤構築を目指すとしています。",
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。電通は、メタとの提携を発表しました。この提携により、大規模かつ迅速なインフルエンサー動員の基盤構築を目指す方針です。",
+   "今回の取り組みは、国内外のマーケティング活動において重要な役割を果たすと見られています。特に、多くのインフルエンサーを効率的に活用するための体制整備が期待されます。",
+   "詳細なスケジュールや具体的な施策については今後の発表が注目されますが、両社の連携による今後の展開に大きな関心が寄せられています。"
+  ],
+  "tags": [
+   "電通",
+   "メタ",
+   "インフルエンサー"
+  ],
+  "slug": "dentsu-meta-influencer-partnership",
+  "people": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWx2WmJNZlp3NTB0Z0VaSnJ4bnRqakRQSGtyU3BBeTVYelRDSFRXTV9RQWh3RE4zMl9qVHNHODB0OWV3TDlCUkM1bENZOHN6bDg4S1NJekd6MVFrdFAzUE11Rk5FZkUzeDVUM05NWkdlRGJfOVhhNUhxVWNzcnRBeEpwN0RGbkN1VGZCazRpbWF5Ykl1ZFUtLVFiQUlScEdHYS1LVw?oc=5",
+  "category": "influencer",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-dentsu-meta-influencer-partnership.html"
+ },
+ {
+  "title": "中東からの原油輸入40.6%減、なぜ？",
+  "lead": "6月の貿易統計が発表され、緊迫した中東情勢の影響で中東からの原油輸入量が大幅に減少しました。",
+  "body": [
+   "「AI TECH TIMES」が伝えるところによれば、6月の貿易統計が発表されました。緊迫した状況が続くイラン情勢を受けて、中東からの原油の輸入量は前の年の同じ月より40.6％減少したことが明らかになっています。",
+   "一方で、中東からの輸入減少を補うためか、アメリカからの原油の輸入量は5.5倍に増えていることが分かりました。",
+   "今回の貿易統計では、こうした原油調達をめぐる代替調達の動きが鮮明に表れる結果となりました。今後の国際情勢やエネルギー調達の動向に引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "原油",
+   "中東",
+   "貿易統計"
+  ],
+  "slug": "middle-east-oil-imports-decrease-june",
+  "people": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182321000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-middle-east-oil-imports-decrease-june.html"
+ },
+ {
+  "title": "イギリス、電気料金の付加価値税0%に",
+  "lead": "イギリス政府は、今年10月から電気料金にかかる付加価値税をゼロに引き下げると発表しました。",
+  "body": [
+   "AI TECH TIMESの報道によると、イギリス政府は電気料金の付加価値税をことし10月からゼロに引き下げると明らかにしました。",
+   "これは新たに就任したバーナム首相が掲げる生活費の負担軽減にさっそく取り組んだ形となります。",
+   "しかし、この政策の財源をめぐっては、与野党双方から懸念の声が上がっており、今後の動向が注目されています。"
+  ],
+  "tags": [
+   "イギリス",
+   "電気料金",
+   "付加価値税"
+  ],
+  "slug": "uk-electricity-vat-zero",
+  "people": [
+   {
+    "name": "バーナム首相",
+    "bio": "新たに就任したイギリスの首相で、生活費の負担軽減策を掲げている。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015182301000",
+  "category": "world",
+  "date": "2026-07-22",
+  "time": "12:01",
+  "path": "/articles/20260722-uk-electricity-vat-zero.html"
  }
 ]

@@ -1,15 +1,45 @@
 {
- "updated": "2026-07-22 11:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-22 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "円相場1ドル163円台、ドル買いが進む理由とは",
-   "path": "/articles/20260722-yen-rate-163-yen-per-dollar.html",
+   "title": "Substack、AI検出ツールを導入",
+   "path": "/articles/20260722-substack-adds-ai-detector.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "矢野経済、Claudeで30分100アイデア",
+   "path": "/articles/20260722-yano-keizai-claude-aidel.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "富士通とNVIDIA、ロボット大手3社が協業へ",
+   "path": "/articles/20260722-fujitsu-nvidia-robot-collaboration.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Archer株が20%急騰、Andurilと軍用機を発表",
+   "path": "/articles/20260722-archer-stock-rips-20-percent-higher.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "OpenAIとAnthropic、Q2ロビー活動費23%増の317万ドル",
+   "path": "/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "電通とメタが提携、大規模インフルエンサー動員の基盤構築へ",
+   "path": "/articles/20260722-dentsu-meta-influencer-partnership.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "中東からの原油輸入40.6%減、なぜ？",
+   "path": "/articles/20260722-middle-east-oil-imports-decrease-june.html",
    "cat": "時事・世界"
   },
   {
-   "title": "関東・東海で最高気温40度以上の酷暑日予想、どうなる？",
-   "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html",
+   "title": "イギリス、電気料金の付加価値税0%に",
+   "path": "/articles/20260722-uk-electricity-vat-zero.html",
    "cat": "時事・世界"
   }
  ],
@@ -17,5 +47,7 @@
   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
   "url": "https://www.youtube.com/watch?v=NySBAMooqOc"
  },
- "notes": []
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ]
 }
