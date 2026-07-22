@@ -5,6 +5,70 @@
 <description>AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>Substack、AI検出ツールを導入</title>
+<link>https://ai-tech-times.web.app/articles/20260722-substack-adds-ai-detector.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-substack-adds-ai-detector.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ニュースレタープラットフォームのSubstackが、AIによって書かれた投稿やコメントを見分けるための新しい検出ツールを導入すると発表しました。</description>
+</item>
+<item>
+<title>矢野経済、Claudeで30分100アイデア</title>
+<link>https://ai-tech-times.web.app/articles/20260722-yano-keizai-claude-aidel.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-yano-keizai-claude-aidel.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表しました。ブレインストーミングにおける膨大な時間拘束やコストの課題を解決します。</description>
+</item>
+<item>
+<title>富士通とNVIDIA、ロボット大手3社が協業へ</title>
+<link>https://ai-tech-times.web.app/articles/20260722-fujitsu-nvidia-robot-collaboration.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-fujitsu-nvidia-robot-collaboration.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>富士通は、競合するロボット大手3社およびNVIDIAと協業し、フィジカルAIの社会実装に向けた取り組みに挑むと発表しました。</description>
+</item>
+<item>
+<title>Archer株が20%急騰、Andurilと軍用機を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260722-archer-stock-rips-20-percent-higher.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-archer-stock-rips-20-percent-higher.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>ArcherがAndurilと共に軍用機を発表し、株価が20%急騰しました。同社は商業運航に向けたFAAの認証取得を目指しています。</description>
+</item>
+<item>
+<title>OpenAIとAnthropic、Q2ロビー活動費23%増の317万ドル</title>
+<link>https://ai-tech-times.web.app/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-openai-anthropic-ai-lobbying-spending-q2-2026.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米CNBC Techによると、主要なAI開発企業であるOpenAIとAnthropicの2社が、2026年第2四半期におけるロビー活動費を大幅に引き上げました。レガシーテックや防衛関連の支出が減少する中、AI業界の政治的な動きが活発化しています。</description>
+</item>
+<item>
+<title>電通とメタが提携、大規模インフルエンサー動員の基盤構築へ</title>
+<link>https://ai-tech-times.web.app/articles/20260722-dentsu-meta-influencer-partnership.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-dentsu-meta-influencer-partnership.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>電通がメタとの提携を発表しました。大規模かつ迅速なインフルエンサー動員の基盤構築を目指すとしています。</description>
+</item>
+<item>
+<title>中東からの原油輸入40.6%減、なぜ？</title>
+<link>https://ai-tech-times.web.app/articles/20260722-middle-east-oil-imports-decrease-june.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-middle-east-oil-imports-decrease-june.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>6月の貿易統計が発表され、緊迫した中東情勢の影響で中東からの原油輸入量が大幅に減少しました。</description>
+</item>
+<item>
+<title>イギリス、電気料金の付加価値税0%に</title>
+<link>https://ai-tech-times.web.app/articles/20260722-uk-electricity-vat-zero.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-uk-electricity-vat-zero.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>イギリス政府は、今年10月から電気料金にかかる付加価値税をゼロに引き下げると発表しました。</description>
+</item>
+<item>
 <title>円相場1ドル163円台、ドル買いが進む理由とは</title>
 <link>https://ai-tech-times.web.app/articles/20260722-yen-rate-163-yen-per-dollar.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260722-yen-rate-163-yen-per-dollar.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Wed, 22 Jul 2026 01:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>データ基盤を提供するprimeNumberが「AI・データ活用実態調査 2026」を公開しました。AI活用への期待が高まる一方で、多くの企業が成果創出に苦戦している現状が浮き彫りとなりました。</description>
-</item>
-<item>
-<title>SpaceXのNasdaq-100採用、インデックス投資はどうなる？</title>
-<link>https://ai-tech-times.web.app/articles/20260722-spacex-in-your-index-fund-explained.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-spacex-in-your-index-fund-explained.html</guid>
-<pubDate>Wed, 22 Jul 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>安全な投資先として知られるインデックスファンドに、巨大な賭けとも言えるSpaceXが組み込まれる可能性が浮上しています。この動きが投資家にどのような影響を与えるのかを解説します。</description>
-</item>
-<item>
-<title>Adobeのカメラアプリ「Project Indigo」が生成AIでどう進化？</title>
-<link>https://ai-tech-times.web.app/articles/20260722-adobe-indigo-camera-app-generative-ai-update.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-adobe-indigo-camera-app-generative-ai-update.html</guid>
-<pubDate>Wed, 22 Jul 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Adobeの実験的カメラアプリ「Project Indigo」が、新たに生成AIツールを搭載するアップデートを行いました。一眼レフのような自然な質感を追求してきた同アプリの新たな展開に注目が集まっています。</description>
-</item>
-<item>
-<title>フーシ派、サウジへ「海上封鎖」を宣言。物流への影響は？</title>
-<link>https://ai-tech-times.web.app/articles/20260721-houthi-declares-maritime-blockade-saudi-arabia.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-houthi-declares-maritime-blockade-saudi-arabia.html</guid>
-<pubDate>Tue, 21 Jul 2026 23:30:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>内戦が続くイエメンの反政府勢力フーシ派が、隣国サウジアラビアに対して海上封鎖を宣言しました。国際的な物流ルートへの影響が懸念されています。</description>
-</item>
-<item>
-<title>尖閣諸島沖で中国調査船が活動、21日にEEZ内で確認</title>
-<link>https://ai-tech-times.web.app/articles/20260721-senkaku-islands-china-survey-vessel.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-senkaku-islands-china-survey-vessel.html</guid>
-<pubDate>Tue, 21 Jul 2026 23:30:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>沖縄県の尖閣諸島沖にある日本の排他的経済水域（EEZ）で、中国の調査船が活動していることが確認されました。海上保安本部は直ちに中止を求め、対応を続けています。</description>
-</item>
-<item>
-<title>気象庁の3か月予報、8月は高温傾向で猛暑日増加の可能性</title>
-<link>https://ai-tech-times.web.app/articles/20260721-jma-3-month-forecast-august-heat.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-jma-3-month-forecast-august-heat.html</guid>
-<pubDate>Tue, 21 Jul 2026 23:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>気象庁は、8月からの3か月予報を発表しました。全国的に暖かい空気に覆われやすく、厳しい暑さが続く見通しです。</description>
-</item>
-<item>
-<title>トランプ政権、カナダ乳製品に50％追加関税へ。貿易不公正は是正されるか</title>
-<link>https://ai-tech-times.web.app/articles/20260721-trump-administration-canada-dairy-tariff-50-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-trump-administration-canada-dairy-tariff-50-percent.html</guid>
-<pubDate>Tue, 21 Jul 2026 23:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのトランプ政権は、カナダからの特定の輸入品に対し50％の追加関税を課す方針を明らかにしました。貿易面での不公正を是正することが狙いです。</description>
-</item>
-<item>
-<title>AppleのAIツール「Live Notes」がGenius Barで試験運用される理由</title>
-<link>https://ai-tech-times.web.app/articles/20260721-apple-live-notes-genius-bar-trial.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-apple-live-notes-genius-bar-trial.html</guid>
-<pubDate>Tue, 21 Jul 2026 21:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Appleは、直営店であるApple StoreのGenius Barにおいて、顧客との会話をAIで文字起こし・要約する新システム「Live Notes」の試験運用を開始しました。</description>
-</item>
-<item>
-<title>イスラエル、米世論誘導に多額の資金投入　AIとインフルエンサーで何が起きているのか</title>
-<link>https://ai-tech-times.web.app/articles/20260721-israel-influence-campaign-ai-american-opinion.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260721-israel-influence-campaign-ai-american-opinion.html</guid>
-<pubDate>Tue, 21 Jul 2026 21:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>イスラエルがアメリカ国内の世論を自国有利に誘導するため、多額の資金を投じて影響力工作を行っていることが明らかになりました。AIやインフルエンサーを駆使したその手法が注目を集めています。</description>
 </item>
 </channel></rss>

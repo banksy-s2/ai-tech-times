@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-22 10:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-22 11:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "YouTuber空き巣被害、500万円奪われ「日本は安全じゃない」",
-   "path": "/articles/20260722-youtuber-burglary-5million-.html",
-   "cat": "インフルエンサー"
+   "title": "円相場1ドル163円台、ドル買いが進む理由とは",
+   "path": "/articles/20260722-yen-rate-163-yen-per-dollar.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "関東・東海で最高気温40度以上の酷暑日予想、どうなる？",
+   "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
