@@ -162,6 +162,7 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{BASE_URL}/feed.xml">
 <link rel="stylesheet" href="{BASE_URL}/style.css">
+<script defer src="{BASE_URL}/views.js"></script>
 {jsonld}
 </head>
 <body>
@@ -354,6 +355,25 @@ def _buzz_html(data: dict) -> str:
                  f'<script type="application/ld+json">{jsonld}</script>')
 
 
+VIEWS_JS = """(function(){
+ try{
+  var id = location.pathname.replace(/[^a-zA-Z0-9\\-_.]/g, "_").replace(/^_+|_+$/g, "") || "home";
+  var now = new Date(Date.now() + (9*60 + new Date().getTimezoneOffset())*60000);
+  var d = now.toISOString().slice(0,10).replace(/-/g, "");
+  var k = "v:" + d + ":" + id;
+  if (sessionStorage.getItem(k)) return;  // 同一セッション内の再読込は数えない
+  sessionStorage.setItem(k, "1");
+  var doc = "projects/ai-tech-times/databases/(default)/documents/views/" + d;
+  fetch("https://firestore.googleapis.com/v1/projects/ai-tech-times/databases/(default)/documents:commit?key=__KEY__", {
+    method: "POST", headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({writes: [{transform: {document: doc, fieldTransforms: [
+      {fieldPath: "total", increment: {integerValue: "1"}},
+      {fieldPath: "pages.`" + id + "`", increment: {integerValue: "1"}}
+    ]}}]})
+  }).catch(function(){});
+ }catch(e){}
+})();"""
+
 LIKES_JS = """(function(){
  if (!window.firebase || !window.__ART) return;
  firebase.initializeApp(__FBCONF__);
@@ -537,6 +557,7 @@ def build() -> None:
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
     (DOCS / "weekly.html").write_text(_weekly_html(), encoding="utf-8")
     (DOCS / "likes.js").write_text(LIKES_JS.replace("__FBCONF__", FIREBASE_CONFIG), encoding="utf-8")
+    (DOCS / "views.js").write_text(VIEWS_JS.replace("__KEY__", "AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s"), encoding="utf-8")
     index = {a["path"].rsplit("/", 1)[-1].replace(".html", ""):
              {"path": a["path"], "title": a["title"], "cat": CATEGORIES.get(a.get("category", "ai"), "AI")}
              for a in arts}

@@ -3,6 +3,15 @@ service cloud.firestore {
   match /databases/{database}/documents {
     // いいね: 誰でも読める。書き込みは「+1ずつ」だけ。IDと各フィールドの形式・長さを制限。
     // 表示側はarticles_index.json(サイト側の台帳)と突き合わせるため、偽タイトルは表示に届かない
+    // 閲覧数: 日別1ドキュメント。読み取り自由、書き込みはtotal+1の増分のみ
+    match /views/{day} {
+      allow read: if true;
+      allow create: if day.matches('^[0-9]{8}$')
+        && request.resource.data.keys().hasOnly(['total', 'pages'])
+        && request.resource.data.total == 1;
+      allow update: if request.resource.data.keys().hasOnly(['total', 'pages'])
+        && request.resource.data.total == resource.data.total + 1;
+    }
     match /likes/{article} {
       allow read: if true;
       allow create: if article.matches('^[0-9]{8}-[a-z0-9-]{1,80}$')

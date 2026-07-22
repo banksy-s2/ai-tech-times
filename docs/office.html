@@ -217,7 +217,7 @@ async function loadStatus(){
     const r = await fetch("status.json?t=" + (Date.now()/60000|0));
     if(!r.ok) return;
     const s = await r.json();
-    document.getElementById("lastinfo").textContent = `${s.updated} / ${s.mode}`;
+    document.getElementById("lastinfo").textContent = `${s.updated} / ${s.mode}` + (s.pv_today != null ? ` / 本日のPV: ${s.pv_today}` : "");
     // XSS対策: status.jsonの値(LLM/YouTube由来)はtextContentでのみ扱う
     const feed = document.getElementById("feed");
     feed.textContent = "";
