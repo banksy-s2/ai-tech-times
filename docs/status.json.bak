@@ -1,11 +1,61 @@
 {
- "updated": "2026-07-23 06:21",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-23 07:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "日本経済が通貨・債務危機の瀬戸際に、市場の不安が高まる理由",
-   "path": "/articles/20260723-japan-debt-currency-crisis.html",
+   "title": "Anthropicが売上ランレート470億ドルに到達した理由",
+   "path": "/articles/20260723-menlo-ventures-matt-murphy-ai-startups.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "トラビス・カラニック氏のロボティクス企業Atomsが17億ドルを調達、その資金使途とは",
+   "path": "/articles/20260723-travis-kalanicks-robotics-company-raises-1-7b.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Samsungら3社がDRAM価格を約8倍に高騰させた疑惑で訴訟",
+   "path": "/articles/20260723-dram-price-fixing-lawsuit.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アトラシアン、JiraにAI新機能でClaudeなどへタスク割当",
+   "path": "/articles/20260723-atlassian-jira-ai-features-claude-copilot.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Alphabet、Q2売上高24%増の1198億ドルを達成した理由とは",
+   "path": "/articles/20260723-alphabet-reports-q2-revenue-up-24-percent.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "トランプ氏「船舶攻撃ならインフラ破壊」",
+   "path": "/articles/20260723-trump-iran-infrastructure-threat.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "食料品消費税減税、方向性打ち出し困難の理由",
+   "path": "/articles/20260723-food-consumption-tax-reduction-difficulty.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "グーグル親会社、営業利益6兆6400億円余に増えた背景",
+   "path": "/articles/20260723-alphabet-google-q2-earnings.html",
    "cat": "株式投資(日本)"
+  },
+  {
+   "title": "農林水産省7月調査：輸入牛肉と豚肉が過去最高、円安が影響か",
+   "path": "/articles/20260723-imported-meat-retail-prices-record-high.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "東証プライム食品メーカー65社給料ランキング、年収1000万円台は6社",
+   "path": "/articles/20260723-food-maker-salary-ranking-prime.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "ジーデップ・アドバンス、営業益33%増の11.1億円を達成",
+   "path": "/articles/20260723-gdep-advance-fy2026-financial-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,7 +63,9 @@
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
  "notes": [
-  "執筆失敗: ティアフォー上場 東証グロース、初値は公開価格割れ - 日刊工業新聞"
+  "執筆失敗: Sources: Cathedral, launched by ex-DOGE ",
+  "執筆失敗: VTuberグループ「にじさんじ」より新人ライバー2名がデビュー！“元・魔法少女",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 5
 }
