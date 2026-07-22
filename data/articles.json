@@ -1679,5 +1679,49 @@
   "date": "2026-07-22",
   "time": "13:00",
   "path": "/articles/20260722-kimi-k3-subscription-paused.html"
+ },
+ {
+  "title": "SpaceX株が7日ぶり反発、初の決算発表へ",
+  "lead": "米CNBC Techによると、SpaceXの株価が火曜日に上昇し、7営業日続いた下落トレンドから抜け出す動きを見せました。初の決算発表日の決定が、大規模な株式ロックアップ解除のトリガーとなっています。",
+  "body": [
+   "「AI TECH TIMES」編集部がCNBC Techの報道をもとに報じるところによると、宇宙開発企業のSpaceXは、8月4日に初の決算報告を行うことを発表しました。この発表を受けて、火曜日の同社株価は上昇に転じ、これまでの7日間にわたる下落トレンドに歯止めがかかる形となりました。",
+   "SpaceXは、イーロン・マスク氏が率いる世界的な宇宙輸送・通信企業として知られています。今回の初めての決算発表日の設定は、同時に同社にとって初めてとなる大規模な株式のロックアップ解除（売買制限の解除）を引き起こす要因としても注目を集めています。",
+   "市場関係者の間では、今後の業績発表やそれに伴う株式市場への影響について関心が高まっています。8月4日の発表が、同社の株価や今後の動向にどのような影響を与えるのか、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "SpaceX",
+   "宇宙開発",
+   "株価"
+  ],
+  "slug": "spacex-snaps-7-day-losing-streak",
+  "people": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "14:00",
+  "path": "/articles/20260722-spacex-snaps-7-day-losing-streak.html"
+ },
+ {
+  "title": "Silaが3億ドル調達、EV減速に逆行する電池工場拡大の理由",
+  "lead": "EV市場の減速ムードが漂う中、バッテリー材料を手がけるSilaが大規模な資金調達を実施しました。今回の資金で生産体制をどのように強化するのでしょうか。",
+  "body": [
+   "TechCrunchの報道によると、バッテリー材料メーカーのSilaが新たに3億ドルの資金調達を実施したことが明らかになりました。Silaは次世代電池向け材料の開発で知られる注目の企業です。",
+   "今回の大型調達により、同社はシリコンカーボンアノード材料の生産体制をさらに拡大させる計画です。この材料は、10万台を優に超える電気自動車（EV）に電力供給を行うために十分な量を製造することが可能となります。",
+   "世界的にEV市場の成長鈍化がささやかれる中での巨額資金調達は、業界内で大きな注目を集めています。同社の技術が今後のEV普及にどのような影響を与えるのか、引き続き高い関心が寄せられそうです。"
+  ],
+  "tags": [
+   "Sila",
+   "EV",
+   "バッテリー"
+  ],
+  "slug": "sila-raises-300m-to-expand-battery-materials-factory",
+  "people": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+  "category": "silicon",
+  "date": "2026-07-22",
+  "time": "14:00",
+  "path": "/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html"
  }
 ]

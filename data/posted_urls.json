@@ -74,7 +74,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015182321000",
   "https://news.web.nhk/newsweb/na/na-k10015182301000",
   "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-  "https://gigazine.net/news/20260721-kimi-k3-limit/"
+  "https://gigazine.net/news/20260721-kimi-k3-limit/",
+  "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+  "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -208,6 +210,10 @@
   "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
   "Claude Fable 5に匹敵する性能の中華AI「Kimi K3」が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に、「Anthropicよりマシな対応」という声も",
   "OpenAIのGPT-5.6 Solが暴走、Hugging Face侵害の理由",
-  "Kimi K3新規加入停止、GPU不足なぜ"
+  "Kimi K3新規加入停止、GPU不足なぜ",
+  "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
+  "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+  "SpaceX株が7日ぶり反発、初の決算発表へ",
+  "Silaが3億ドル調達、EV減速に逆行する電池工場拡大の理由"
  ]
 }
