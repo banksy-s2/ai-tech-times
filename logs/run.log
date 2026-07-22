@@ -256,3 +256,348 @@
 [2026-07-22 04:00:52] deploy try node-local -> exit 0
 [2026-07-22 04:00:52] deploy OK
 [2026-07-22 04:00:52] === edition end ===
+[2026-07-22 05:00:03] === edition start ===
+== 軽量便(5時): 時事・世界 ==
+[収集: 時事・世界] (久遠)
+  [collect:world] NHK 主要ニュース: 3件
+  [collect:world] NHK 国際: 13件
+  [collect:world] BBC World: 12件
+  候補: 28件
+[選定・執筆: 時事・世界] (真行寺)
+  OK [NHK 主要ニュース] 円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準
+  OK [NHK 国際] 韓国海洋警察 7月22日に竹島で音楽会開催と発表
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 129本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 47記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 05:00:35] git push OK
+[2026-07-22 05:00:35] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 05:00:56] deploy try node-local -> exit 0
+[2026-07-22 05:00:56] deploy OK
+[2026-07-22 05:00:56] === edition end ===
+[2026-07-22 06:00:02] === edition start ===
+== 軽量便(6時): AI(海外) ==
+[収集: AI(海外)] (久遠)
+  [collect:ai] TechCrunch AI: 1件
+  [collect:ai] The Verge AI: 2件
+  [collect:ai] VentureBeat AI: 0件
+  [collect:ai] MIT Tech Review AI: 0件
+  [collect:ai] Hugging Face Blog: 0件
+  [collect:ai] HN: AI/LLM: 3件
+  候補: 6件
+[選定・執筆: AI(海外)] (真行寺)
+  OK [The Verge AI] Anthropic’s $1.5 billion book piracy settlement approved by judge
+  OK [TechCrunch AI] Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 129本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 49記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 06:00:51] git push OK
+[2026-07-22 06:00:51] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 06:01:08] deploy try node-local -> exit 0
+[2026-07-22 06:01:08] deploy OK
+[2026-07-22 06:01:08] === edition end ===
+[2026-07-22 07:00:02] === edition start ===
+== フル便(7時) ==
+[収集: AI(海外)] (久遠)
+  [collect:ai] TechCrunch AI: 0件
+  [collect:ai] The Verge AI: 1件
+  [collect:ai] VentureBeat AI: 0件
+  [collect:ai] MIT Tech Review AI: 0件
+  [collect:ai] Hugging Face Blog: 0件
+  [collect:ai] HN: AI/LLM 取得失敗: <urlopen error _ssl.c:993: The handshake operation timed out>
+  候補: 1件
+[選定・執筆: AI(海外)] (真行寺)
+  [editor] gemini-2.5-flash 失敗(HTTP 503)、30秒後にリトライ
+[収集: 日本のAI] (久遠)
+  [collect:ai_jp] ITmedia AI+: 4件
+  [collect:ai_jp] Publickey: 3件
+  [collect:ai_jp] Gigazine: 9件
+  [collect:ai_jp] AINOW: 4件
+  候補: 20件
+[選定・執筆: 日本のAI] (真行寺)
+  [editor] gemini-2.5-flash 失敗(HTTP 503)、30秒後にリトライ
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [ITmedia AI+] AIトークン消費「24倍」の衝撃　本番運用に向けて絶対に“やってはいけない”コストの捉え方
+  OK [Gigazine] 大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 2件
+  [collect:silicon] TechCrunch: 6件
+  [collect:silicon] The Verge: 3件
+  [collect:silicon] Ars Technica: 4件
+  [collect:silicon] CNBC Tech: 6件
+  候補: 21件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [Techmeme] Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)
+  OK [CNBC Tech] AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 0件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 0件
+[収集: インフルエンサー] (久遠)
+  [collect:influencer] Googleニュース: インフルエンサー: 54件
+  候補: 54件
+[選定・執筆: インフルエンサー] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [Googleニュース: インフルエンサー] VTuber「ホロライブ」運営会社、カスハラ対策方針を公開 タレントの活動内容に対する根拠の無い変更要求などに法的対応へ - Yahoo!ニュース
+[収集: 時事・世界] (久遠)
+  [collect:world] NHK 主要ニュース: 7件
+  [collect:world] NHK 国際: 15件
+  [collect:world] BBC World: 10件
+  候補: 32件
+[選定・執筆: 時事・世界] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [NHK 主要ニュース] ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か
+  OK [NHK 主要ニュース] 食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 132本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 56記事 + バズ動画10本でサイト再生成完了
+[X告知] (桐生)
+  X告知失敗(続行): 401 Unauthorized
+Unauthorized
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 07:02:17] git push OK
+[2026-07-22 07:02:17] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 07:02:43] deploy try node-local -> exit 0
+[2026-07-22 07:02:43] deploy OK
+[2026-07-22 07:02:43] === edition end ===
+[2026-07-22 08:00:03] === edition start ===
+== 軽量便(8時): シリコンバレー最速 ==
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 1件
+  [collect:silicon] TechCrunch: 6件
+  [collect:silicon] The Verge: 3件
+  [collect:silicon] Ars Technica: 4件
+  [collect:silicon] CNBC Tech: 5件
+  候補: 19件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [TechCrunch] Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs
+  OK [Ars Technica] The Space Force is now seeking to buy up to $30 billion in rocket launches
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 132本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 58記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 08:00:17] git push OK
+[2026-07-22 08:00:17] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 08:00:35] deploy try node-local -> exit 0
+[2026-07-22 08:00:35] deploy OK
+[2026-07-22 08:00:35] === edition end ===
+[2026-07-22 09:00:02] === edition start ===
+== 軽量便(9時): 海外AIの声 ==
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 0件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 0件
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 131本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 58記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 09:00:11] git push OK
+[2026-07-22 09:00:11] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 09:00:28] deploy try node-local -> exit 0
+[2026-07-22 09:00:28] deploy OK
+[2026-07-22 09:00:28] === edition end ===
+[2026-07-22 10:00:02] === edition start ===
+== 軽量便(10時): インフルエンサー ==
+[収集: インフルエンサー] (久遠)
+  [collect:influencer] Googleニュース: インフルエンサー: 50件
+  候補: 50件
+[選定・執筆: インフルエンサー] (真行寺)
+  OK [Googleニュース: インフルエンサー] 空き巣で500万円被害のYouTuber 衝撃の被害現場&犯人の手口公開｢日本はもう安全の国じゃない｣ - Yahoo!ニュース
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 132本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 59記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 10:00:45] git push OK
+[2026-07-22 10:00:45] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 10:01:02] deploy try node-local -> exit 0
+[2026-07-22 10:01:02] deploy OK
+[2026-07-22 10:01:02] === edition end ===
+[2026-07-22 11:00:02] === edition start ===
+== 軽量便(11時): 時事・世界 ==
+[収集: 時事・世界] (久遠)
+  [collect:world] NHK 主要ニュース: 6件
+  [collect:world] NHK 国際: 20件
+  [collect:world] BBC World: 10件
+  候補: 36件
+[選定・執筆: 時事・世界] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [NHK 主要ニュース] 円相場 1ドル＝163円台での取り引き ドル買う動き進む
+  OK [NHK 主要ニュース] 関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 131本から TOP10 を集計
+  新規1本にコメント付与
+[サイト生成] (八重樫)
+  [build] 61記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 11:00:16] git push OK
+[2026-07-22 11:00:16] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 11:00:30] deploy try node-local -> exit 0
+[2026-07-22 11:00:30] deploy OK
+[2026-07-22 11:00:30] === edition end ===
+[2026-07-22 12:00:03] === edition start ===
+== フル便(12時) ==
+[収集: AI(海外)] (久遠)
+  [collect:ai] TechCrunch AI: 0件
+  [collect:ai] The Verge AI: 2件
+  [collect:ai] VentureBeat AI: 0件
+  [collect:ai] MIT Tech Review AI: 0件
+  [collect:ai] Hugging Face Blog: 0件
+  [collect:ai] HN: AI/LLM 取得失敗: <urlopen error _ssl.c:993: The handshake operation timed out>
+  候補: 2件
+[選定・執筆: AI(海外)] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [The Verge AI] Substack adds an AI detector to help spot blogs written by no one
+[収集: 日本のAI] (久遠)
+  [collect:ai_jp] ITmedia AI+: 14件
+  [collect:ai_jp] Publickey: 3件
+  [collect:ai_jp] Gigazine: 7件
+  [collect:ai_jp] AINOW: 4件
+  候補: 28件
+[選定・執筆: 日本のAI] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [ITmedia AI+] ブレストで膨らむ“隠れ人件費”を削れ　矢野経済がClaudeで挑む「30分で100アイデア」創出の威力
+  OK [ITmedia AI+] 富士通・NVIDIAとロボット大手3社が協業へ　フィジカルAI社会実装の具体策は？
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 0件
+  [collect:silicon] TechCrunch: 4件
+  [collect:silicon] The Verge: 3件
+  [collect:silicon] Ars Technica: 5件
+  [collect:silicon] CNBC Tech: 5件
+  候補: 17件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [CNBC Tech] Archer stock rips 20% higher as company unveils military craft with Anduril
+  OK [CNBC Tech] OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 0件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 0件
+[収集: インフルエンサー] (久遠)
+  [collect:influencer] Googleニュース: インフルエンサー: 49件
+  候補: 49件
+[選定・執筆: インフルエンサー] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [Googleニュース: インフルエンサー] 電通 がメタと提携、大規模かつ迅速なインフルエンサー動員の基盤構築を目指す - DIGIDAY［日本版］
+[収集: 時事・世界] (久遠)
+  [collect:world] NHK 主要ニュース: 4件
+  [collect:world] NHK 国際: 20件
+  [collect:world] BBC World: 10件
+  候補: 34件
+[選定・執筆: 時事・世界] (真行寺)
+  [editor] gemini-2.5-flash 失敗(HTTP 503)、30秒後にリトライ
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [NHK 主要ニュース] 6月の中東からの原油輸入量 前年同月比で40.6％減
+  OK [NHK 国際] イギリス 電気料金の付加価値税をゼロに 財源に懸念も
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 131本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 69記事 + バズ動画10本でサイト再生成完了
+[X告知] (桐生)
+  X告知失敗(続行): 401 Unauthorized
+Unauthorized
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 12:01:44] git push OK
+[2026-07-22 12:01:44] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 12:02:03] deploy try node-local -> exit 0
+[2026-07-22 12:02:03] deploy OK
+[2026-07-22 12:02:03] === edition end ===
+[2026-07-22 13:00:02] === edition start ===
+== 軽量便(13時): 日本のAI ==
+[収集: 日本のAI] (久遠)
+  [collect:ai_jp] ITmedia AI+: 12件
+  [collect:ai_jp] Publickey: 1件
+  [collect:ai_jp] Gigazine: 8件
+  [collect:ai_jp] AINOW: 4件
+  候補: 25件
+[選定・執筆: 日本のAI] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [ITmedia AI+] Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入
+  OK [Gigazine] Claude Fable 5に匹敵する性能の中華AI「Kimi K3」が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に、「Anthropicよりマシな対応」という声も
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 130本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 71記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 13:00:15] git push OK
+[2026-07-22 13:00:15] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 13:00:31] deploy try node-local -> exit 0
+[2026-07-22 13:00:31] deploy OK
+[2026-07-22 13:00:31] === edition end ===
+[2026-07-22 14:00:03] === edition start ===
+== 軽量便(14時): シリコンバレー最速 ==
+[収集: シリコンバレー最速] (久遠)
+  [collect:silicon] Techmeme: 0件
+  [collect:silicon] TechCrunch: 4件
+  [collect:silicon] The Verge: 1件
+  [collect:silicon] Ars Technica: 5件
+  [collect:silicon] CNBC Tech: 3件
+  候補: 13件
+[選定・執筆: シリコンバレー最速] (真行寺)
+  [editor] gemini-2.5-flash の日次枠切れ → 次のモデルへ
+  OK [CNBC Tech] SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock
+  OK [TechCrunch] Bucking EV slowdown, Sila raises $300M to expand battery materials factory
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 130本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 73記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 14:00:18] git push OK
+[2026-07-22 14:00:18] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 14:00:35] deploy try node-local -> exit 0
+[2026-07-22 14:00:35] deploy OK
+[2026-07-22 14:00:35] === edition end ===
