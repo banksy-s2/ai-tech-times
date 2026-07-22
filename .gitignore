@@ -4,3 +4,4 @@ __pycache__/
 .firebase/
 firebase-debug.log
 tools/
+logs/

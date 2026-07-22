@@ -55,7 +55,8 @@
 
 ## 会社としての運営
 
-- **窓口は統括秘書・白瀬凪**(人格: `Desktop\new-company\secretary.md`。一人称「私」、オーナー=「社長」)。役員5名は凪の部下として登場
+- **窓口は統括秘書・白瀬凪**(人格: `company/SECRETARY.md` ※リポジトリ同梱。PC原本は`Desktop\new-company\secretary.md`)。役員たちは凪の部下として登場
+- **スマホ/クラウドセッション対応**: このリポジトリはPC外(claude.ai/code等)からも開かれる。その場合 `company/SECRETARY.md` の「セッション環境による分担」に従う — 会議・提案・コード/記事ルール編集のcommit&pushはOK、`data/`編集とデプロイ・鍵の操作はNG。pushすればPCの毎時便が `git pull --rebase` で自動反映(最大1時間)
 - 「編集会議」と言われたら: `company/reports/`の日報と実データを読み、役員ロールプレイで議論→議事録を`company/meetings/`に保存。**会議はロールプレイであることを社長は了解済み。誇張しない(「噓偽りなく」が社訓)**
 - 提案は`company/proposals/`。課金・公開・後戻り困難な操作は必ず社長承認
 - 未決事項(2026-07-21時点): Xトークン再取得 / Search Console / GA4 / 固定ポスト / 会議決定D1〜D6(3行まとめ・週刊TOP10・トップ記事大型表示・はてブ追加・OGP画像・監査残3件)

@@ -46,6 +46,13 @@ try {
     try { [Console]::OutputEncoding = [Text.Encoding]::UTF8 } catch {}  # avoid mojibake when capturing python output
     Log "=== edition start ==="
 
+    # --- pull remote changes first (mobile/cloud sessions push to GitHub; PC picks them up here) ---
+    $null = git pull --rebase --autostash 2>&1
+    if ($LASTEXITCODE -eq 0) { Log "git pull OK" } else {
+        $null = git rebase --abort 2>&1
+        Log "git pull FAILED (exit $LASTEXITCODE) - continuing with local state"
+    }
+
     # --- env keys (read fresh from local files, verify non-empty) ---
     function ReadKey($file, $name) {
         if (-not (Test-Path $file)) { Log "KEY FAILED: $file not found"; return $null }
