@@ -2416,5 +2416,64 @@
   "date": "2026-07-22",
   "time": "23:00",
   "path": "/articles/20260722-unification-church-assets-83-billion-yen.html"
+ },
+ {
+  "title": "米財務長官、中国AIの米知財侵害調査へ",
+  "lead": "トランプ政権のスコット・ベッセント財務長官が、中国のオープンソースAIモデルに対する調査実施と制裁の可能性を発表しました。",
+  "summary3": [
+   "中国のAIモデルを米財務長官が調査へ",
+   "米企業の知財侵害を確認すれば制裁",
+   "オープンソースAIの開発に影響か"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。アメリカのスコット・ベッセント財務長官が、中国が開発したオープンソースのAIモデルを調査すると発表しました。中国のモデルがアメリカのAIモデルを基に作られたかどうかを確認する方針です。",
+   "本調査では、アメリカ企業の知的財産権を侵害した兆候がないかが厳しくチェックされます。仮に侵害が確認された場合には、該当する中国のAI企業に対して制裁を科す可能性があるとのことです。",
+   "米中間の技術競争が激化する中、今回のトランプ政権による発表は、AI開発における知的財産権の保護を巡る大きな転換点となる可能性があります。今後の調査結果や制裁の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "米中関係",
+   "セキュリティ"
+  ],
+  "slug": "us-treasury-secretary-china-ai-investigation",
+  "people": [
+   {
+    "name": "スコット・ベッセント",
+    "bio": "アメリカの財務長官として経済政策や金融政策を統括し、重要事項の発表を行っている政治家。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260722-bessent-warn-china-ai-theft/",
+  "category": "ai_jp",
+  "date": "2026-07-23",
+  "time": "01:01",
+  "path": "/articles/20260723-us-treasury-secretary-china-ai-investigation.html"
+ },
+ {
+  "title": "Fireworks AI：Kimi K3とFable 5の使い分けで最大50倍のコスト効率",
+  "lead": "生成AI基盤を提供するFireworks AIが、オープンモデルとクローズドモデルの使い分けに関する実験結果を発表しました。課題ごとに適切なモデルを選択することで、コスト効率の大幅な向上が確認されています。",
+  "summary3": [
+   "Kimi K3とFable 5を比較",
+   "タスクごとの選択で正答率93%",
+   "コスト効率が最大で約50倍に"
+  ],
+  "body": [
+   "生成AI基盤を提供するFireworks AIは、オープンモデルの「Kimi K3」とクローズドモデルの「Fable 5」を約1000件のタスクで比較する実験を行いました。",
+   "その結果、課題ごとに適したモデルを選ぶ方法では正答率が93％に達することが明らかになりました。",
+   "さらに、長時間にわたるエージェント型タスクにおいては、Fable 5単独で運用した場合と比較して、最大で約50倍もコスト効率がよくなったとのことです。"
+  ],
+  "tags": [
+   "Fireworks AI",
+   "生成AI",
+   "コスト効率"
+  ],
+  "slug": "fireworks-ai-kimi-k3-fable-5-cost-efficiency",
+  "people": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
+  "category": "ai_jp",
+  "date": "2026-07-23",
+  "time": "01:01",
+  "path": "/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html"
  }
 ]
