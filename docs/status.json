@@ -1,7 +1,18 @@
 {
- "updated": "2026-07-23 00:50",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-07-23 01:01",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "米財務長官、中国AIの米知財侵害調査へ",
+   "path": "/articles/20260723-us-treasury-secretary-china-ai-investigation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Fireworks AI：Kimi K3とFable 5の使い分けで最大50倍のコスト効率",
+   "path": "/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"

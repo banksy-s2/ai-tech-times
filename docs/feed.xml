@@ -5,6 +5,22 @@
 <description>AI・シリコンバレー速報・株式投資・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>米財務長官、中国AIの米知財侵害調査へ</title>
+<link>https://ai-tech-times.web.app/articles/20260723-us-treasury-secretary-china-ai-investigation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260723-us-treasury-secretary-china-ai-investigation.html</guid>
+<pubDate>Thu, 23 Jul 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>トランプ政権のスコット・ベッセント財務長官が、中国のオープンソースAIモデルに対する調査実施と制裁の可能性を発表しました。</description>
+</item>
+<item>
+<title>Fireworks AI：Kimi K3とFable 5の使い分けで最大50倍のコスト効率</title>
+<link>https://ai-tech-times.web.app/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260723-fireworks-ai-kimi-k3-fable-5-cost-efficiency.html</guid>
+<pubDate>Thu, 23 Jul 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AI基盤を提供するFireworks AIが、オープンモデルとクローズドモデルの使い分けに関する実験結果を発表しました。課題ごとに適切なモデルを選択することで、コスト効率の大幅な向上が確認されています。</description>
+</item>
+<item>
 <title>トランプ大統領 イラン攻撃に言及の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260722-trump-iran-strait-of-hormuz-threat.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260722-trump-iran-strait-of-hormuz-threat.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 22 Jul 2026 13:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>中国企業のMoonshot AIが2026年7月17日にリリースしたAIモデル「Kimi K3」が、人気沸騰によりGPUが不足する事態となっています。</description>
-</item>
-<item>
-<title>SubstackがAI検出ツールを導入、その見破る精度とは</title>
-<link>https://ai-tech-times.web.app/articles/20260722-substack-adds-ai-detector.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-substack-adds-ai-detector.html</guid>
-<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ニュースレタープラットフォームのSubstackが、AIによって書かれた投稿やコメントを見分けるための新しい検出ツールを導入すると発表しました。</description>
-</item>
-<item>
-<title>矢野経済、Claudeで30分100アイデア</title>
-<link>https://ai-tech-times.web.app/articles/20260722-yano-keizai-claude-aidel.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-yano-keizai-claude-aidel.html</guid>
-<pubDate>Wed, 22 Jul 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表しました。ブレインストーミングにおける膨大な時間拘束やコストの課題を解決します。</description>
 </item>
 </channel></rss>
