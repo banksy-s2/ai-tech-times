@@ -11,7 +11,7 @@ MODELS = ["gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
 API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
-PICKS_PER_CATEGORY = {"ai": 2, "ai_jp": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2}
+PICKS_PER_CATEGORY = {"ai": 2, "ai_jp": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2, "stock": 2}
 
 SELECT_CRITERIA = {
     "ai": """- 海外の大手AI企業(OpenAI/Anthropic/Google/Meta/NVIDIA等)の新モデル・新製品・研究・業界に影響する出来事を優先
@@ -32,6 +32,9 @@ SELECT_CRITERIA = {
     "world": """- 世界と日本の重要ニュース(政治・経済・国際情勢・災害・社会)を優先
 - 影響範囲が大きく、明日も語られるニュースを選ぶ
 - 事件の凄惨な詳細が主題のものは避ける""",
+    "stock": """- 日本の株式市場・投資家に影響する最新ニュースを最優先(日経平均・東証の動き、日銀・金利、為替、大型決算、NISA等の制度変更)
+- 「市場がなぜ動いたか」の材料が明確なもの、投資家の判断材料になる事実があるものほど価値が高い
+- 特定銘柄の推奨・煽り・投資助言まがいの記事はノイズとして除外""",
 }
 
 
@@ -127,6 +130,8 @@ def write_article(item: dict) -> dict:
     extra = ""
     if item.get("category") == "voices":
         extra = "\n- これは海外AI識者の発信の紹介記事。見出しと本文で「誰の発信か」を明示し、「〜氏は…と指摘しています」の形で本人の見解として書く"
+    elif item.get("category") == "stock":
+        extra = "\n- これは株式投資ニュース。数値・発表内容など事実のみを伝え、売買の推奨・将来の株価予想・「今が買い時」等の投資助言にあたる表現は絶対に書かない"
     prompt = f"""あなたはニュースサイト「AI TECH TIMES」の記者です。以下の元記事情報だけを使って、日本語のニュース記事を書いてください。
 
 元記事:

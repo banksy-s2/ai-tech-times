@@ -13,7 +13,7 @@ DOCS = ROOT / "docs"
 
 SITE_NAME = "AI TECH TIMES"
 BASE_URL = "https://ai-tech-times.web.app"
-TAGLINE = "AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。"
+TAGLINE = "AI・シリコンバレー速報・株式投資・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。"
 JST = timezone(timedelta(hours=9))
 
 FIREBASE_CONFIG = '{"apiKey":"AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s","authDomain":"ai-tech-times.firebaseapp.com","projectId":"ai-tech-times"}'
@@ -23,6 +23,7 @@ FIREBASE_SDK = """<script src="https://www.gstatic.com/firebasejs/10.12.0/fireba
 NAV = [("/", "トップ"), ("/popular.html", "人気"), ("/ai.html", "海外AI"), ("/ai_jp.html", "日本のAI"),
        ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
        ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
+       ("/stock.html", "株式投資"),
        ("/buzz.html", "バズ動画TOP10"), ("/office.html", "編集部ライブ")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
@@ -41,6 +42,8 @@ CATEGORY_SEO = {
                    "国内外のインフルエンサー、YouTuber、TikToker、VTuberの話題を毎日更新。"),
     "world": (f"今日の重要ニュース・世界情勢まとめ | {SITE_NAME}",
               "NHK・BBCから今日知っておくべき時事・国際ニュースを厳選して毎日お届け。"),
+    "stock": (f"日本株・株式投資の最新ニュース(日経平均・東証) | {SITE_NAME}",
+              "日経平均・東証・日本株の最新動向、日銀・金利・為替・決算・NISAなど投資家が知っておきたい国内ニュースを毎日更新。"),
 }
 BUZZ_TITLE = f"世界でバズってるYouTube動画ランキングTOP10(毎日更新) | {SITE_NAME}"
 
@@ -485,7 +488,7 @@ def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
     top3 = "\n".join(f"- {v['rank']}位: [{v['title']}]({v['url']})" for v in buzz_data.get("videos", [])[:3])
     return f"""# {SITE_NAME}
 
-> {TAGLINE} 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・インフルエンサー・時事世界。全記事に出典リンクあり。
+> {TAGLINE} 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・株式投資・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
 {recent}
@@ -497,6 +500,7 @@ def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
 - [AIニュース]({BASE_URL}/ai.html)
 - [インフルエンサー]({BASE_URL}/influencer.html)
 - [時事・世界]({BASE_URL}/world.html)
+- [株式投資]({BASE_URL}/stock.html)
 - [バズ動画TOP10]({BASE_URL}/buzz.html)
 - [このサイトについて]({BASE_URL}/about.html)
 - [RSSフィード]({BASE_URL}/feed.xml)

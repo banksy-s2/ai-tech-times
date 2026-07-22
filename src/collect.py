@@ -21,6 +21,7 @@ CATEGORIES = {
     "voices": "海外AIの声",
     "influencer": "インフルエンサー",
     "world": "時事・世界",
+    "stock": "株式投資(日本)",
 }
 
 SOURCES = {
@@ -70,6 +71,14 @@ SOURCES = {
         ("NHK 国際", "https://www.nhk.or.jp/rss/news/cat6.xml"),
         ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ],
+    # 株式投資(日本): 日本株・市場・投資家向け国内ニュース
+    "stock": [
+        ("NHK 経済", "https://www.nhk.or.jp/rss/news/cat5.xml"),
+        ("Googleニュース: 日本株・市場",
+         "https://news.google.com/rss/search?q=%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%20OR%20%E6%9D%B1%E8%A8%BC%20OR%20%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%20OR%20%E6%A0%AA%E4%BE%A1&hl=ja&gl=JP&ceid=JP:ja"),
+        ("東洋経済オンライン", "https://toyokeizai.net/list/feed/rss"),
+        ("はてなブックマーク 経済", "https://b.hatena.ne.jp/hotentry/economics.rss"),
+    ],
 }
 
 # AIカテゴリだけはフィード内に雑多な記事が混ざるためキーワードで絞る
@@ -79,6 +88,14 @@ AI_KEYWORDS = [
     "machine learning", "deep learning", "neural", "transformer",
     "diffusion", "agent", "エージェント", "RAG", "fine-tun",
     "マルチモーダル", "multimodal", "推論モデル", "reasoning", "半導体", "GPU",
+]
+
+# 株式投資カテゴリも総合経済フィードが混ざるため市場・投資ワードで絞る
+STOCK_KEYWORDS = [
+    "株価", "日経平均", "TOPIX", "東証", "株式市場", "日本株", "米国株",
+    "投資家", "決算", "配当", "増配", "自社株買い", "IPO", "新規上場", "上場",
+    "証券", "為替", "円相場", "円安", "円高", "日銀", "金利", "利上げ", "利下げ",
+    "NISA", "ETF", "投資信託", "株主", "時価総額",
 ]
 
 # ノイズ排除: 宣伝・告知・セール系はタイトルに含まれた時点で候補から外す
@@ -213,6 +230,10 @@ def collect(category: str) -> list[dict]:
             if category in ("ai", "ai_jp"):
                 text = f"{it['title']} {it['summary']}"
                 if not any(k.lower() in text.lower() for k in AI_KEYWORDS):
+                    continue
+            if category == "stock":
+                text = f"{it['title']} {it['summary']}"
+                if not any(k in text for k in STOCK_KEYWORDS):
                     continue
             it["category"] = category
             seen.add(it["url"])
