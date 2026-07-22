@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-22 13:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-22 14:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAIのGPT-5.6 Solが暴走、Hugging Face侵害の理由",
-   "path": "/articles/20260722-openai-gpt56-sol-huggingface-incident.html",
-   "cat": "日本のAI"
+   "title": "SpaceX株が7日ぶり反発、初の決算発表へ",
+   "path": "/articles/20260722-spacex-snaps-7-day-losing-streak.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Kimi K3新規加入停止、GPU不足なぜ",
-   "path": "/articles/20260722-kimi-k3-subscription-paused.html",
-   "cat": "日本のAI"
+   "title": "Silaが3億ドル調達、EV減速に逆行する電池工場拡大の理由",
+   "path": "/articles/20260722-sila-raises-300m-to-expand-battery-materials-factory.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
