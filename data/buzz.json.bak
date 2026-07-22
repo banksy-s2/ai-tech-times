@@ -1,11 +1,11 @@
 {
- "date": "2026-07-22",
+ "date": "2026-07-23",
  "videos": [
   {
    "id": "irVNGjRFZGk",
    "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 42527415,
+   "views": 42647987,
    "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
    "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
    "regions": [
@@ -17,25 +17,10 @@
    "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
   },
   {
-   "id": "NySBAMooqOc",
-   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
-   "channel": "BANGTANTV",
-   "views": 1379218,
-   "url": "https://www.youtube.com/watch?v=NySBAMooqOc",
-   "thumb": "https://i.ytimg.com/vi/NySBAMooqOc/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "rank": 2,
-   "comment": "BTSの楽曲「NORMAL」のMV撮影の裏側を収めた映像のようです。"
-  },
-  {
    "id": "eO3zsYsDnbI",
    "title": "Charli xcx - Camera (Official Video)",
    "channel": "Charli xcx",
-   "views": 397386,
+   "views": 407379,
    "url": "https://www.youtube.com/watch?v=eO3zsYsDnbI",
    "thumb": "https://i.ytimg.com/vi/eO3zsYsDnbI/hqdefault.jpg",
    "regions": [
@@ -43,42 +28,56 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "Charli xcxの新曲「Camera」の公式ミュージックビデオです。"
   },
   {
    "id": "bEpTgowZ1dI",
    "title": "Other Mommy | Official Trailer",
    "channel": "Universal Pictures",
-   "views": 5415033,
+   "views": 5525467,
    "url": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
    "thumb": "https://i.ytimg.com/vi/bEpTgowZ1dI/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "ユニバーサル・ピクチャーズによる『Other Mommy』の公式予告編のようです。"
   },
   {
    "id": "Nx-e-AaCNPE",
    "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
    "channel": "New Rockstars",
-   "views": 2122504,
+   "views": 2138792,
    "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
    "thumb": "https://i.ytimg.com/vi/Nx-e-AaCNPE/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 4,
    "comment": "『アベンジャーズ：ドゥームズデイ』予告編の考察動画です。"
+  },
+  {
+   "id": "BCiRLHaeHkI",
+   "title": "Minecraft's Best Players Simulate PVP Tournament",
+   "channel": "FlameFrags",
+   "views": 1722463,
+   "url": "https://www.youtube.com/watch?v=BCiRLHaeHkI",
+   "thumb": "https://i.ytimg.com/vi/BCiRLHaeHkI/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 5,
+   "comment": "マインクラフトのトッププレイヤーによるPVPトーナメントのシミュレーション動画のようです。"
   },
   {
    "id": "JjT7hGTRr1E",
    "title": "Avengers: Doomsday Trailer BREAKDOWN - Marvel Easter Eggs You Missed!",
    "channel": "ScreenCrush",
-   "views": 1706684,
+   "views": 1715348,
    "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
    "thumb": "https://i.ytimg.com/vi/JjT7hGTRr1E/hqdefault.jpg",
    "regions": [
@@ -89,60 +88,60 @@
    "comment": "『アベンジャーズ：ドゥームズデイ』予告編の徹底解説。"
   },
   {
-   "id": "BCiRLHaeHkI",
-   "title": "Minecraft's Best Players Simulate PVP Tournament",
-   "channel": "FlameFrags",
-   "views": 1698168,
-   "url": "https://www.youtube.com/watch?v=BCiRLHaeHkI",
-   "thumb": "https://i.ytimg.com/vi/BCiRLHaeHkI/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 7,
-   "comment": "マインクラフトのトッププレイヤーによるPVPトーナメントのシミュレーション動画のようです。"
-  },
-  {
    "id": "MGtAiqD0FUU",
    "title": "PLAYING GTA V UNTIL I BEAT IT DAY 3",
    "channel": "Jynxzi",
-   "views": 1043785,
+   "views": 1047301,
    "url": "https://www.youtube.com/watch?v=MGtAiqD0FUU",
    "thumb": "https://i.ytimg.com/vi/MGtAiqD0FUU/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 7,
    "comment": "GTA5クリア耐久配信の3日目を行っているようです。(24字)"
   },
   {
    "id": "90HAqMk7qv0",
    "title": "Batman: Knightfall Part 1: Knightfall | Official Trailer | Warner Bros. Entertainment",
    "channel": "Warner Bros. Entertainment",
-   "views": 797934,
+   "views": 805904,
    "url": "https://www.youtube.com/watch?v=90HAqMk7qv0",
    "thumb": "https://i.ytimg.com/vi/90HAqMk7qv0/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 8,
    "comment": "バットマン新作アニメの公式トレーラーが公開されたようです。(26文字)"
   },
   {
    "id": "9oB-romSko0",
    "title": "Katy Perry - The One That Got Away (Lyrics)",
    "channel": "Unique Vibes",
-   "views": 739387,
+   "views": 769109,
    "url": "https://www.youtube.com/watch?v=9oB-romSko0",
    "thumb": "https://i.ytimg.com/vi/9oB-romSko0/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 10,
+   "rank": 9,
    "comment": "ケイティ・ペリーの名曲「The One That Got Away」の歌詞付き動画のようです。"
+  },
+  {
+   "id": "6gr8zhzHhOE",
+   "title": "🔴LIVE | PAYDAY 3 | HUTCH X JOHNSENN | TESTICULAR TUESDAY | #BUNGULATE",
+   "channel": "TheBurntPeanut",
+   "views": 562044,
+   "url": "https://www.youtube.com/watch?v=6gr8zhzHhOE",
+   "thumb": "https://i.ytimg.com/vi/6gr8zhzHhOE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 10,
+   "comment": "HUTCHとJOHNSENNによるPAYDAY 3のライブ配信のようです"
   }
  ],
  "comment_cache": {
@@ -161,6 +160,7 @@
   "GDjRSH7uYVc": "Robloxの現状について語っている動画のようです。",
   "MGtAiqD0FUU": "GTA5クリア耐久配信の3日目を行っているようです。(24字)",
   "90HAqMk7qv0": "バットマン新作アニメの公式トレーラーが公開されたようです。(26文字)",
-  "9oB-romSko0": "ケイティ・ペリーの名曲「The One That Got Away」の歌詞付き動画のようです。"
+  "9oB-romSko0": "ケイティ・ペリーの名曲「The One That Got Away」の歌詞付き動画のようです。",
+  "6gr8zhzHhOE": "HUTCHとJOHNSENNによるPAYDAY 3のライブ配信のようです"
  }
 }
