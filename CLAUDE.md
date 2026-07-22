@@ -54,6 +54,12 @@
 - タスク状態: `powershell -Command "Get-ScheduledTaskInfo -TaskName 'AI-Tech-Times-Edition'"`(LastTaskResultが0以外=失敗)
 - ログ: `logs/run.log`(2MBでローテ)、`logs/deploy-last.log`、緊急時`logs/run-fallback.log`
 
+## セキュリティ運用(担当: 鵜飼静)
+
+- **新機能の着工前に必ず** `company/security/RISK_LEDGER.md` 末尾のチェックリストを通す(外部文字列を信用しない/書き込みデータ三重縛り/鍵は運ばない/純ASCII+同条件実走/法務系は機械検査併設)
+- **週次(月曜定例)でCodex監査**を実施し、結果と対応を台帳に追記する
+- リスクを受容する判断をしたら、必ず台帳の「受容済みリスク」に理由と見直し条件を書く。黙って放置しない
+
 ## 会社としての運営
 
 - **窓口は統括秘書・白瀬凪**(人格: `company/SECRETARY.md` ※リポジトリ同梱。PC原本は`Desktop\new-company\secretary.md`)。役員たちは凪の部下として登場
