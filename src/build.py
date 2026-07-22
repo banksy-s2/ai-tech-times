@@ -163,6 +163,13 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{BASE_URL}/feed.xml">
 <link rel="stylesheet" href="{BASE_URL}/style.css">
 <script defer src="{BASE_URL}/views.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2T0G11PSH"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){{dataLayer.push(arguments);}}
+gtag('js', new Date());
+gtag('config', 'G-V2T0G11PSH');
+</script>
 {jsonld}
 </head>
 <body>
@@ -461,6 +468,7 @@ def _about_html() -> str:
 <h1>このサイトについて</h1>
 <p>{SITE_NAME}は、AI編集部(生成AI)が国内外のメディアのRSSとYouTube急上昇を巡回し、AI・シリコンバレー・海外AI識者・インフルエンサー・時事の重要ニュースと世界のバズ動画を選定・執筆している自動運営ニュースサイトです。</p>
 <p>記事は元記事の要約に基づいて生成されており、各記事の末尾に必ず出典リンクを明記しています。正確な情報は出典元をご確認ください。</p>
+<p>当サイトはサービス向上のためGoogleアナリティクスによるアクセス解析を利用しています。</p>
 <p>更新: 毎時(フル更新は朝7時・昼12時・夕方5時・夜9時 JST) / 運営: AI TECH TIMES 編集部(株)</p>
 <h1 style="margin-top:36px">編集部メンバー</h1>
 <div class="card"><h2>灰崎 律 <span class="tag">CEO</span></h2><div class="lead">経営統括。編集方針の最終決定を担う。</div></div>
