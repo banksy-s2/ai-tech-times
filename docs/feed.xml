@@ -5,6 +5,22 @@
 <description>AI・シリコンバレー速報・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>任天堂、関税返還請求の却下を裁判所に要求</title>
+<link>https://ai-tech-times.web.app/articles/20260722-nintendo-tariff-lawsuit-dismissal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-nintendo-tariff-lawsuit-dismissal.html</guid>
+<pubDate>Wed, 22 Jul 2026 20:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>任天堂は、Switch購入者が自発的に支払った代金に納得して購入したとして、関税の返還請求権はないと主張し、訴訟の棄却を求めています。</description>
+</item>
+<item>
+<title>Google、Geminiの安価な新モデル投入でコスト競争へ</title>
+<link>https://ai-tech-times.web.app/articles/20260722-google-expands-gemini-lineup.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260722-google-expands-gemini-lineup.html</guid>
+<pubDate>Wed, 22 Jul 2026 20:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米グーグルは、AI「Gemini」のラインナップを拡充し、より安価で効率的なモデルと新たなサイバーセキュリティ向けサービスを発表しました。製品の隙間を埋め、コスト競争を優位に進める狙いです。</description>
+</item>
+<item>
 <title>デジタル庁、次期マイナンバーカードを2029年度中に提供へ</title>
 <link>https://ai-tech-times.web.app/articles/20260722-next-mynumber-card-2029.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260722-next-mynumber-card-2029.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 22 Jul 2026 08:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米宇宙軍が、最大で300億ドル規模となるロケット打ち上げの調達を目指していることが明らかになりました。トランプ政権による宇宙分野への大型要請に伴うものです。</description>
-</item>
-<item>
-<title>AIトークン消費24倍の衝撃、コスト対策の3条件を実践してもなお残る壁</title>
-<link>https://ai-tech-times.web.app/articles/20260722-ai-token-consumption-cost-strategy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-ai-token-consumption-cost-strategy.html</guid>
-<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面しています。将来的なトークン消費の急増を見据え、組織が見直すべき視点とは何でしょうか。</description>
-</item>
-<item>
-<title>CursorのAI開発、コスト8分の1に抑える秘策</title>
-<link>https://ai-tech-times.web.app/articles/20260722-cursor-agent-swarm-cost-reduction.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260722-cursor-agent-swarm-cost-reduction.html</guid>
-<pubDate>Wed, 22 Jul 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AI向けコードエディター「Cursor」を開発するAnysphereが、大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。</description>
 </item>
 </channel></rss>

@@ -85,7 +85,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015182411000",
   "https://news.web.nhk/newsweb/na/na-k10015182291000",
   "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-  "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance"
+  "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+  "https://www.itmedia.co.jp/mobile/articles/2607/21/news119.html",
+  "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -241,6 +243,10 @@
   "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
   "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
   "米IT大手5社、不透明なAI資金調達で隠れ債務が1.65兆ドルに急増",
-  "ニール・ブロムカンプ監督の新作AI短編が公開"
+  "ニール・ブロムカンプ監督の新作AI短編が公開",
+  "次期マイナンバーカードは2029年度中に提供へ、マイナポータルの機能拡張も　重点計画を公表",
+  "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+  "デジタル庁、次期マイナンバーカードを2029年度中に提供へ",
+  "AnthropicのAIと海賊版書籍の和解、一部著者が拒否"
  ]
 }
