@@ -10,7 +10,7 @@
 [36m[1mi [22m[39m [1m[36mfirestore: [39m[22mdeploying indexes...
 [36m[1mi  hosting[ai-tech-times]:[22m[39m beginning deploy...
 [36m[1mi  hosting[ai-tech-times]:[22m[39m found 93 files in [1mdocs[22m
-[36m[1mi  hosting:[22m[39m uploading new files [0/11] ([1m[32m0%[39m[22m)
+[36m[1mi  hosting:[22m[39m uploading new files [0/2] ([1m[32m0%[39m[22m)
 [36m[1mi  hosting:[22m[39m upload complete
 [32m[1m+  hosting[ai-tech-times]:[22m[39m file upload complete
 [32m[1m+  firestore:[22m[39m released rules [1mfirestore.rules[22m to [1mcloud.firestore[22m

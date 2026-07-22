@@ -33,6 +33,11 @@ article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+.sum3{background:var(--card);border:1px solid var(--border);border-left:3px solid var(--gold);border-radius:8px;padding:12px 18px;margin:16px 0}
+.sum3 .s3h{color:var(--gold);font-size:.8rem;font-weight:700;margin-bottom:6px}
+.sum3 ul{list-style:none}
+.sum3 li{font-size:.92rem;padding:2px 0}
+.sum3 li::before{content:"✓ ";color:var(--gold)}
 .likebar{margin:16px 0 4px}
 .likebtn{background:var(--card);border:1.5px solid var(--accent2);color:var(--accent2);border-radius:24px;padding:7px 20px;font-size:.95rem;cursor:pointer;transition:all .15s}
 .likebtn:hover{transform:scale(1.05)}

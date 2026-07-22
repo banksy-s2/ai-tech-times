@@ -149,6 +149,7 @@ def write_article(item: dict) -> dict:
 - 【具体数字】金額・%・倍率は必ず入れる(元記事にある場合のみ)
 - 【固有名詞先頭】有名企業・大物の名前は先頭近くに(視認性と権威)
 - 30字以内。禁止ワード:「衝撃」「ヤバい」「驚愕」「驚きの」「知られざる」「本当の理由/狙い」「罠」「全貌」「裏側」— 中身が約束できない釣り文句は信頼を削るため使わない。本文にない誇張・数字の捏造も禁止。信頼が最大の資産
+- 【出力前の自己検証】見出しに入れた数字・固有名詞が自分の書いたリード/本文に存在するか確認し、無ければ見出しから外して書き直す
 
 people(人物注釈)のルール:
 - 記事本文に登場する「実在の著名人」(経営者・政治家・研究者・タレント等)だけを最大3人
@@ -156,8 +157,10 @@ people(人物注釈)のルール:
 - bioは30〜60字で、広く知られた確実な事実のみ(肩書・所属・代表的な実績)。少しでも不確かな人物は含めない
 - 該当者がいなければ空配列
 
+summary3(3行まとめ): 記事の要点を3行(各25字以内)で。忙しい読者が本文を読まなくても核心が分かるように
+
 JSONのみ出力:
-{{"title": "日本語見出し", "lead": "1〜2文のリード文", "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens", "people": [{{"name": "本文中の表記", "bio": "人物紹介30〜60字"}}]}}"""
+{{"title": "日本語見出し", "lead": "1〜2文のリード文", "summary3": ["要点1", "要点2", "要点3"], "body": ["段落1", "段落2", "段落3"], "tags": ["タグ1", "タグ2", "タグ3"], "slug": "english-slug-with-hyphens", "people": [{{"name": "本文中の表記", "bio": "人物紹介30〜60字"}}]}}"""
     art = _parse_json(_gemini(prompt))
     if isinstance(art, list):  # [{...}] 形式で返るケース
         art = next((x for x in art if isinstance(x, dict)), {})
@@ -181,10 +184,12 @@ JSONのみ出力:
         for p in people[:4]:
             if isinstance(p, dict) and str(p.get("name", "")).strip() and str(p.get("bio", "")).strip():
                 clean_people.append({"name": str(p["name"]).strip()[:30], "bio": str(p["bio"]).strip()[:120]})
+    s3 = art.get("summary3")
     art.update({
         "title": title[:60], "lead": lead, "body": body,
         "tags": [str(t)[:20] for t in tags][:5] if isinstance(tags, list) else [],
         "people": clean_people,
+        "summary3": [str(s).strip()[:40] for s in s3 if str(s).strip()][:3] if isinstance(s3, list) else [],
     })
     art["slug"] = re.sub(r"[^a-z0-9-]", "", str(art.get("slug", "news")).lower())[:60] or "news"
     art["source"] = item["source"]

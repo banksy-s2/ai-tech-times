@@ -39,6 +39,7 @@ SOURCES = {
         ("Publickey", "https://www.publickey1.jp/atom.xml"),
         ("Gigazine", "https://gigazine.net/news/rss_2.0/"),
         ("AINOW", "https://ainow.ai/feed/"),
+        ("はてなブックマークIT", "https://b.hatena.ne.jp/hotentry/it.rss"),
     ],
     "silicon": [
         ("Techmeme", "https://www.techmeme.com/feed.xml"),
@@ -56,10 +57,14 @@ SOURCES = {
         ("Zvi Mowshowitz氏", "https://thezvi.substack.com/feed"),
         ("Andrej Karpathy氏", "https://karpathy.bearblog.dev/feed/"),
         ("Sebastian Raschka氏", "https://magazine.sebastianraschka.com/feed"),
+        ("Ben Thompson氏 (Stratechery)", "https://stratechery.com/feed/"),
+        ("Narayanan氏ら (AI Snake Oil)", "https://www.normaltech.ai/feed"),
     ],
     "influencer": [
         ("Googleニュース: インフルエンサー",
-         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B5%E3%83%BC%20OR%20YouTuber%20OR%20TikToker%20OR%20VTuber&hl=ja&gl=JP&ceid=JP:ja"),    ],
+         "https://news.google.com/rss/search?q=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B5%E3%83%BC%20OR%20YouTuber%20OR%20TikToker%20OR%20VTuber&hl=ja&gl=JP&ceid=JP:ja"),
+        ("はてなブックマークエンタメ", "https://b.hatena.ne.jp/hotentry/entertainment.rss"),
+    ],
     "world": [
         ("NHK 主要ニュース", "https://www.nhk.or.jp/rss/news/cat0.xml"),
         ("NHK 国際", "https://www.nhk.or.jp/rss/news/cat6.xml"),

@@ -601,3 +601,27 @@ Unauthorized
 [2026-07-22 14:00:35] deploy try node-local -> exit 0
 [2026-07-22 14:00:35] deploy OK
 [2026-07-22 14:00:35] === edition end ===
+[2026-07-22 15:00:02] === edition start ===
+== 軽量便(15時): 海外AIの声 ==
+[収集: 海外AIの声] (久遠)
+  [collect:voices] Simon Willison氏: 0件
+  [collect:voices] Ethan Mollick氏 (One Useful Thing): 0件
+  [collect:voices] Jack Clark氏 (Import AI): 0件
+  [collect:voices] Nathan Lambert氏 (Interconnects): 0件
+  [collect:voices] Zvi Mowshowitz氏: 0件
+  [collect:voices] Andrej Karpathy氏: 0件
+  [collect:voices] Sebastian Raschka氏: 0件
+  候補: 0件
+[バズ動画TOP10] (久遠) — 毎時更新
+  [buzz] 130本から TOP10 を集計
+[サイト生成] (八重樫)
+  [build] 73記事 + バズ動画10本でサイト再生成完了
+[X告知] 軽量便のためスキップ(コスト対策)
+  [report] 日報記録: 2026-07-22.md
+完了
+
+[2026-07-22 15:00:13] git push OK
+[2026-07-22 15:00:13] env check: local-js=True npm-js=False cfg=True
+[2026-07-22 15:00:29] deploy try node-local -> exit 0
+[2026-07-22 15:00:29] deploy OK
+[2026-07-22 15:00:29] === edition end ===

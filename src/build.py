@@ -79,6 +79,11 @@ article h1{font-size:1.6rem;line-height:1.5;margin-bottom:12px}
 article .lead{color:var(--muted);font-size:1rem;border-left:3px solid var(--accent2);padding-left:12px;margin:16px 0}
 article p{margin:16px 0}
 .source{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 16px;font-size:.85rem;margin-top:28px}
+.sum3{background:var(--card);border:1px solid var(--border);border-left:3px solid var(--gold);border-radius:8px;padding:12px 18px;margin:16px 0}
+.sum3 .s3h{color:var(--gold);font-size:.8rem;font-weight:700;margin-bottom:6px}
+.sum3 ul{list-style:none}
+.sum3 li{font-size:.92rem;padding:2px 0}
+.sum3 li::before{content:"✓ ";color:var(--gold)}
 .likebar{margin:16px 0 4px}
 .likebtn{background:var(--card);border:1.5px solid var(--accent2);color:var(--accent2);border-radius:24px;padding:7px 20px;font-size:.95rem;cursor:pointer;transition:all .15s}
 .likebtn:hover{transform:scale(1.05)}
@@ -166,7 +171,7 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 {body}
 </main>
 <footer><div class="wrap">© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
-<a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
+<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
 </body>
 </html>"""
 
@@ -241,6 +246,7 @@ def _article_html(a: dict) -> str:
 <h1>{e(a['title'])}</h1>
 <div class="meta"><span class="cat">{cat}</span>{a['date']} {a.get('time', '')} / {tags}</div>
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
+{('<div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul>' + ''.join(f'<li>{e(s)}</li>' for s in a.get('summary3', [])) + '</ul></div>') if a.get('summary3') else ''}
 <div class="lead">{e(a['lead'])}</div>
 {paragraphs}
 <div class="source">出典: {source}</div>
@@ -407,6 +413,26 @@ Promise.all([
     return _page(f"人気の記事ランキング | {SITE_NAME}", "読者のいいねが多い人気ニュースランキング", "/popular.html", body)
 
 
+def _weekly_html() -> str:
+    from . import weekly as weekly_mod
+    e = html.escape
+    data = weekly_mod.load()
+    rows = []
+    for i, it in enumerate(data.get("items", []), 1):
+        comment = f'<div class="lead">{e(it["comment"])}</div>' if it.get("comment") else ""
+        rows.append(f"""<div class="rankp"><div class="no">{i}</div>
+<div style="flex:1"><a href="{BASE_URL}{e(it['path'])}">{e(it['title'])}</a> <span class="tag">{e(it.get('cat', ''))}</span>{comment}</div></div>""")
+    period = e(data.get("range", ""))
+    body = f"""<article>
+<h1>週刊まとめ — 今週の重要ニュースTOP10</h1>
+<div class="meta">{period or '毎週月曜の朝に自動発行'}</div>
+</article>
+<div style="margin-top:16px">{''.join(rows) if rows else '<p>第1号は次の月曜朝に発行されます。</p>'}</div>"""
+    return _page(f"今週のAIニュースまとめTOP10 | {SITE_NAME}",
+                 "今週のAI・テック重要ニュースを編集部が10本に厳選。毎週月曜更新。",
+                 "/weekly.html", body)
+
+
 def _about_html() -> str:
     body = f"""<article>
 <h1>このサイトについて</h1>
@@ -444,7 +470,7 @@ def _feed_xml(arts: list[dict]) -> str:
 
 
 def _sitemap(arts: list[dict]) -> str:
-    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html"]
+    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html"]
             + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
             + [f"{BASE_URL}{a['path']}" for a in arts])
     entries = "\n".join(f"<url><loc>{u}</loc></url>" for u in urls)
@@ -505,6 +531,7 @@ def build() -> None:
             _page(seo_title, seo_desc, f"/{cat}.html", _cards(cat_arts[:60])), encoding="utf-8")
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
+    (DOCS / "weekly.html").write_text(_weekly_html(), encoding="utf-8")
     (DOCS / "likes.js").write_text(LIKES_JS.replace("__FBCONF__", FIREBASE_CONFIG), encoding="utf-8")
     index = {a["path"].rsplit("/", 1)[-1].replace(".html", ""):
              {"path": a["path"], "title": a["title"], "cat": CATEGORIES.get(a.get("category", "ai"), "AI")}

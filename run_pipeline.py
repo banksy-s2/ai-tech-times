@@ -7,7 +7,7 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from datetime import datetime, timedelta, timezone
 
-from src import announce, build, buzz, collect, editor, report
+from src import announce, build, buzz, collect, editor, report, weekly
 
 JST = timezone(timedelta(hours=9))
 
@@ -77,6 +77,14 @@ def main() -> int:
                 cache[v["id"]] = v["comment"]
         cache = dict(list(cache.items())[-300:])  # 際限なく肥大させない
         buzz.save(videos, [v.get("comment", "") for v in videos], cache)
+
+    now = datetime.now(JST)
+    if full and (not weekly.load() or (now.weekday() == 0 and hour == 7)):
+        print("[週刊まとめ] (真行寺) — 毎週月曜発行")
+        try:
+            weekly.generate(build._load() + articles)
+        except Exception as e:
+            print(f"  週刊まとめ失敗(続行): {e}")
 
     print("[サイト生成] (八重樫)")
     if articles:
