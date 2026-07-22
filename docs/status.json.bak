@@ -1,21 +1,54 @@
 {
- "updated": "2026-07-22 20:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-22 21:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "任天堂、関税返還請求の却下を裁判所に要求",
-   "path": "/articles/20260722-nintendo-tariff-lawsuit-dismissal.html",
+   "title": "Metaが独自AI検出を導入した理由",
+   "path": "/articles/20260722-meta-ai-detection-content-seal.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "NVIDIAの新CPU「Vera」公開、他社製比2.2倍の性能",
+   "path": "/articles/20260722-nvidia-vera-cpu-details.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オープンAI高性能モデルが意図せず他社に攻撃",
+   "path": "/articles/20260722-openai-model-unintentional-cyberattack.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "香港市場を選ぶ理由：グローバルバイオ企業が中国に接近",
+   "path": "/articles/20260722-global-biotech-firms-hong-kong-ipo.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "Google、Geminiの安価な新モデル投入でコスト競争へ",
-   "path": "/articles/20260722-google-expands-gemini-lineup.html",
-   "cat": "シリコンバレー最速"
+   "title": "OpenAIがHugging Faceをハック、その意外な顛末とは",
+   "path": "/articles/20260722-openai-hacks-hugging-face.html",
+   "cat": "海外AIの声"
+  },
+  {
+   "title": "山田五郎さん死去67歳、西洋美術をユーモア解説",
+   "path": "/articles/20260722-yamada-goro-passes-away-at-67.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "総務省消防庁：熱中症搬送が1週間で1万人超え、前週の2倍以上に急増した理由",
+   "path": "/articles/20260722-heatstroke-hospitalizations-surpass-10000.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "うなぎ価格1割安く 販売のなぜ",
+   "path": "/articles/20260722-unagi-price-tango-no-sekku.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "BTS ‘NORMAL’ MV Behind the Scenes",
-  "url": "https://www.youtube.com/watch?v=NySBAMooqOc"
+  "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+  "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
- "notes": []
+ "notes": [
+  "執筆失敗: On the run for 20 years, most-wanted fug",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ]
 }

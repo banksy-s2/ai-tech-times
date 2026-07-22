@@ -2,26 +2,10 @@
  "date": "2026-07-22",
  "videos": [
   {
-   "id": "NySBAMooqOc",
-   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
-   "channel": "BANGTANTV",
-   "views": 1317801,
-   "url": "https://www.youtube.com/watch?v=NySBAMooqOc",
-   "thumb": "https://i.ytimg.com/vi/NySBAMooqOc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "BTSの楽曲「NORMAL」のMV撮影の裏側を収めた映像のようです。"
-  },
-  {
    "id": "irVNGjRFZGk",
    "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 42080141,
+   "views": 42235089,
    "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
    "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
    "regions": [
@@ -29,14 +13,29 @@
     "GB",
     "IN"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
+  },
+  {
+   "id": "NySBAMooqOc",
+   "title": "BTS ‘NORMAL’ MV Behind the Scenes",
+   "channel": "BANGTANTV",
+   "views": 1338647,
+   "url": "https://www.youtube.com/watch?v=NySBAMooqOc",
+   "thumb": "https://i.ytimg.com/vi/NySBAMooqOc/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 2,
+   "comment": "BTSの楽曲「NORMAL」のMV撮影の裏側を収めた映像のようです。"
   },
   {
    "id": "eO3zsYsDnbI",
    "title": "Charli xcx - Camera (Official Video)",
    "channel": "Charli xcx",
-   "views": 361573,
+   "views": 373141,
    "url": "https://www.youtube.com/watch?v=eO3zsYsDnbI",
    "thumb": "https://i.ytimg.com/vi/eO3zsYsDnbI/hqdefault.jpg",
    "regions": [
@@ -51,7 +50,7 @@
    "id": "bEpTgowZ1dI",
    "title": "Other Mommy | Official Trailer",
    "channel": "Universal Pictures",
-   "views": 5054825,
+   "views": 5188088,
    "url": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
    "thumb": "https://i.ytimg.com/vi/bEpTgowZ1dI/hqdefault.jpg",
    "regions": [
@@ -65,7 +64,7 @@
    "id": "Nx-e-AaCNPE",
    "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
    "channel": "New Rockstars",
-   "views": 2073385,
+   "views": 2089384,
    "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
    "thumb": "https://i.ytimg.com/vi/Nx-e-AaCNPE/hqdefault.jpg",
    "regions": [
@@ -79,7 +78,7 @@
    "id": "JjT7hGTRr1E",
    "title": "Avengers: Doomsday Trailer BREAKDOWN - Marvel Easter Eggs You Missed!",
    "channel": "ScreenCrush",
-   "views": 1678913,
+   "views": 1688616,
    "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
    "thumb": "https://i.ytimg.com/vi/JjT7hGTRr1E/hqdefault.jpg",
    "regions": [
@@ -93,7 +92,7 @@
    "id": "BCiRLHaeHkI",
    "title": "Minecraft's Best Players Simulate PVP Tournament",
    "channel": "FlameFrags",
-   "views": 1581989,
+   "views": 1623899,
    "url": "https://www.youtube.com/watch?v=BCiRLHaeHkI",
    "thumb": "https://i.ytimg.com/vi/BCiRLHaeHkI/hqdefault.jpg",
    "regions": [
@@ -107,7 +106,7 @@
    "id": "MGtAiqD0FUU",
    "title": "PLAYING GTA V UNTIL I BEAT IT DAY 3",
    "channel": "Jynxzi",
-   "views": 1031768,
+   "views": 1036070,
    "url": "https://www.youtube.com/watch?v=MGtAiqD0FUU",
    "thumb": "https://i.ytimg.com/vi/MGtAiqD0FUU/hqdefault.jpg",
    "regions": [
@@ -121,7 +120,7 @@
    "id": "XbsShkWWMV0",
    "title": "Counting Gems (Official Video) | Arjan Dhillon | MXRCI | Latest Punjabi Songs 2026",
    "channel": "Panj-aab Records",
-   "views": 819490,
+   "views": 841057,
    "url": "https://www.youtube.com/watch?v=XbsShkWWMV0",
    "thumb": "https://i.ytimg.com/vi/XbsShkWWMV0/hqdefault.jpg",
    "regions": [
@@ -135,7 +134,7 @@
    "id": "90HAqMk7qv0",
    "title": "Batman: Knightfall Part 1: Knightfall | Official Trailer | Warner Bros. Entertainment",
    "channel": "Warner Bros. Entertainment",
-   "views": 767207,
+   "views": 779358,
    "url": "https://www.youtube.com/watch?v=90HAqMk7qv0",
    "thumb": "https://i.ytimg.com/vi/90HAqMk7qv0/hqdefault.jpg",
    "regions": [
