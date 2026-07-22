@@ -38,9 +38,29 @@ SELECT_CRITERIA = {
 }
 
 
+def _budget_ok() -> bool:
+    """Gemini日次呼び出し予算(論理タスク数)。無料枠の枯渇連鎖と30分制限の衝突を防ぐ"""
+    from datetime import datetime, timedelta, timezone
+    from pathlib import Path
+    from . import storage
+    path = Path(__file__).resolve().parent.parent / "data" / "gemini_budget.json"
+    today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+    data = storage.load_json(path, {})
+    if data.get("date") != today:
+        data = {"date": today, "count": 0}
+    data["count"] += 1
+    storage.save_json(path, data)
+    if data["count"] > 200:
+        print(f"  [editor] 日次予算200回を超過({data['count']}) → 呼び出し停止")
+        return False
+    return True
+
+
 def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None) -> str:
     """モデルを順に試す。日次クォータ切れ(PerDay)は即次のモデルへ、瞬間的な429は待って再試行"""
     import urllib.error
+    if not _budget_ok():
+        raise RuntimeError("Gemini日次予算超過")
     key = os.environ["GEMINI_API_KEY"]
     if models is None:
         models = MODELS
@@ -121,8 +141,15 @@ JSON配列のみ出力: [{{"index": 数値, "reason": "選定理由1文"}}]"""
     data = _parse_json(_gemini(prompt, models=["gemini-2.5-flash"] + MODELS))
     if isinstance(data, dict):  # {"picks": [...]} 形式で返るケース
         data = next((v for v in data.values() if isinstance(v, list)), [data])
-    picks = data[:n]
-    return [candidates[p["index"]] for p in picks if 0 <= p.get("index", -1) < len(candidates)]
+    picks, used = [], set()
+    for p in data:
+        if len(picks) >= n:
+            break
+        i = p.get("index", -1) if isinstance(p, dict) else -1
+        if 0 <= i < len(candidates) and i not in used:  # 同一便内の重複index排除
+            used.add(i)
+            picks.append(candidates[i])
+    return picks
 
 
 def write_article(item: dict) -> dict:
@@ -182,19 +209,30 @@ JSONのみ出力:
     body = [str(p).strip() for p in body if str(p).strip()]
     if not (title and lead and body):
         raise ValueError(f"記事スキーマ不正(title={bool(title)}, lead={bool(lead)}, body={len(body)}段落)")
+    # 投資助言ガード(株式カテゴリ): プロンプト頼みにせず公開前に機械検査、検出したら記事ごと破棄
+    if item.get("category") == "stock":
+        ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い推奨", "売り推奨", "推奨銘柄",
+                     "おすすめ銘柄", "目標株価", "必ず上がる", "上昇が期待でき", "今のうちに買", "仕込み時", "狙い目"]
+        full_text = title + lead + " ".join(body)
+        hit = next((w for w in ADVICE_NG if w in full_text), None)
+        if hit:
+            raise ValueError(f"投資助言表現を検出({hit})のため記事破棄")
     tags = art.get("tags")
     people = art.get("people")
     clean_people = []
     if isinstance(people, list):
-        for p in people[:4]:
+        for p in people[:3]:  # プロンプト仕様(最大3人)と一致させる
             if isinstance(p, dict) and str(p.get("name", "")).strip() and str(p.get("bio", "")).strip():
-                clean_people.append({"name": str(p["name"]).strip()[:30], "bio": str(p["bio"]).strip()[:120]})
+                name = str(p["name"]).strip()[:30]
+                if name not in " ".join(body) + lead:  # 本文に登場しない人物は注釈しない
+                    continue
+                clean_people.append({"name": name, "bio": str(p["bio"]).strip()[:80]})
     s3 = art.get("summary3")
     art.update({
         "title": title[:60], "lead": lead, "body": body,
         "tags": [str(t)[:20] for t in tags][:5] if isinstance(tags, list) else [],
         "people": clean_people,
-        "summary3": [str(s).strip()[:40] for s in s3 if str(s).strip()][:3] if isinstance(s3, list) else [],
+        "summary3": [str(s).strip()[:30] for s in s3 if str(s).strip()][:3] if isinstance(s3, list) else [],
     })
     art["slug"] = re.sub(r"[^a-z0-9-]", "", str(art.get("slug", "news")).lower())[:60] or "news"
     art["source"] = item["source"]

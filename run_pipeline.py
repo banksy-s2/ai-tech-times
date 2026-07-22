@@ -78,19 +78,25 @@ def main() -> int:
         cache = dict(list(cache.items())[-300:])  # 際限なく肥大させない
         buzz.save(videos, [v.get("comment", "") for v in videos], cache)
 
-    now = datetime.now(JST)
-    if full and (not weekly.load() or (now.weekday() == 0 and hour == 7)):
-        print("[週刊まとめ] (真行寺) — 毎週月曜発行")
-        try:
-            weekly.generate(build._load() + articles)
-        except Exception as e:
-            print(f"  週刊まとめ失敗(続行): {e}")
-
     print("[サイト生成] (八重樫)")
     if articles:
         build.save_articles(articles)
         collect.mark_posted([a["source_url"] for a in articles],
                             orig_titles + [a["title"] for a in articles])
+
+    # 週刊まとめ: save_articles後に実行(未保存記事はdate/path未付与のため)。
+    # 月曜7時を逃してもフル便で追いつき発行(week_ofが今週月曜より古ければ再生成)
+    now = datetime.now(JST)
+    if full:
+        monday = (now - timedelta(days=now.weekday())).strftime("%Y-%m-%d")
+        wk = weekly.load()
+        if not wk or wk.get("week_of", "") < monday:
+            print("[週刊まとめ] (真行寺) — 週次発行")
+            try:
+                weekly.generate(build._load())
+            except Exception as e:
+                print(f"  週刊まとめ失敗(続行): {e}")
+
     build.build()
 
     if not articles and not videos:

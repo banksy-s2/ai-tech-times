@@ -48,9 +48,10 @@ try {
 
     # --- pull remote changes first (mobile/cloud sessions push to GitHub; PC picks them up here) ---
     $null = git pull --rebase --autostash 2>&1
-    if ($LASTEXITCODE -eq 0) { Log "git pull OK" } else {
+    $pullExit = $LASTEXITCODE
+    if ($pullExit -eq 0) { Log "git pull OK" } else {
         $null = git rebase --abort 2>&1
-        Log "git pull FAILED (exit $LASTEXITCODE) - continuing with local state"
+        Log "git pull FAILED (exit $pullExit) - continuing with local state"
     }
 
     # --- env keys (read fresh from local files, verify non-empty) ---
@@ -96,6 +97,11 @@ try {
     git add data docs company 2>&1 | Out-Null
     git commit -m ("edition: " + (Get-Date -Format "yyyy-MM-dd HH:mm")) 2>&1 | Out-Null
     $null = git push 2>&1
+    if ($LASTEXITCODE -ne 0) {
+        # remote moved between pull and push (cloud session etc) - rebase once and retry
+        $null = git pull --rebase --autostash 2>&1
+        $null = git push 2>&1
+    }
     if ($LASTEXITCODE -eq 0) { Log "git push OK" } else { Log "git push FAILED (exit $LASTEXITCODE) - continuing" }
 
     # --- deploy (must succeed, otherwise articles are invisible) ---

@@ -33,10 +33,13 @@ JSON配列のみ出力(重要度順に10要素): [{{"index": 数値, "comment": 
     data = editor._parse_json(editor._gemini(prompt))
     if isinstance(data, dict):
         data = next((v for v in data.values() if isinstance(v, list)), [])
-    items = []
-    for p in data[:10]:
+    items, used = [], set()
+    for p in data:
+        if len(items) >= 10:
+            break
         i = p.get("index", -1) if isinstance(p, dict) else -1
-        if 0 <= i < len(pool):
+        if 0 <= i < len(pool) and i not in used:  # 重複index排除
+            used.add(i)
             a = pool[i]
             items.append({"path": a["path"], "title": a["title"],
                           "cat": CATEGORIES.get(a.get("category", ""), ""),

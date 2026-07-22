@@ -232,8 +232,8 @@ def collect(category: str) -> list[dict]:
                 if not any(k.lower() in text.lower() for k in AI_KEYWORDS):
                     continue
             if category == "stock":
-                text = f"{it['title']} {it['summary']}"
-                if not any(k in text for k in STOCK_KEYWORDS):
+                text = f"{it['title']} {it['summary']}".lower()
+                if not any(k.lower() in text for k in STOCK_KEYWORDS):
                     continue
             it["category"] = category
             seen.add(it["url"])
