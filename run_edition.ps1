@@ -24,6 +24,19 @@ if ((Test-Path $log) -and ((Get-Item $log).Length -gt 2MB)) {
     Move-Item -Force $log "$proj\logs\run.old.log"
 }
 
+# --- pause switch: if logs/pause_until.txt holds a future time, skip this edition ---
+$pauseFile = "$proj\logs\pause_until.txt"
+if (Test-Path $pauseFile) {
+    try {
+        $until = [datetime]::ParseExact((Get-Content $pauseFile -First 1).Trim(), "yyyy-MM-dd HH:mm", $null)
+        if ((Get-Date) -lt $until) {
+            Log ("PAUSED until " + $until.ToString("yyyy-MM-dd HH:mm") + " - edition skipped")
+            exit 0
+        }
+        Remove-Item $pauseFile -ErrorAction SilentlyContinue
+    } catch { Remove-Item $pauseFile -ErrorAction SilentlyContinue }
+}
+
 # --- mutex: skip if another edition is running (stale lock >25min is ignored) ---
 $lock = "$proj\logs\edition.lock"
 if (Test-Path $lock) {
