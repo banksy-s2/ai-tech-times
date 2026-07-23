@@ -162,8 +162,20 @@ scene.appendChild(nagiEl);
 let said = {};
 function say(id){ said[id] = Date.now(); render(); }
 
+function isNightOff(now){ return now.getHours() >= 22 || now.getHours() < 7; }  // ホワイト企業タイム
 function render(){
   const now = jstNow();
+  const nightOff = isNightOff(now);
+  document.querySelectorAll(".desku .char").forEach(function(c){ c.style.display = nightOff ? "none" : "block"; });
+  nagiEl.style.display = nightOff ? "none" : "block";
+  let robo = document.getElementById("nightrobo");
+  if (nightOff && !robo) {
+    robo = document.createElement("div");
+    robo.id = "nightrobo";
+    robo.style.cssText = "position:absolute;left:440px;bottom:20px;font-size:40px;z-index:8";
+    robo.innerHTML = '<div class="bub" style="display:block;bottom:56px">全部署退勤中(ホワイト企業タイム)。サイトは私が自動運転中です</div>🤖';
+    scene.appendChild(robo);
+  } else if (!nightOff && robo) { robo.remove(); }
   const hh = now.toTimeString().slice(0,8);
   document.getElementById("clock").textContent = hh + " JST";
   document.getElementById("wclock").textContent = hh.slice(0,5);
@@ -174,9 +186,10 @@ function render(){
   const label = isFull ? "フル便(全カテゴリ+バズ+X告知)" : `軽量便(${CATS[nh % CATS.length]})`;
   const target = new Date(now); target.setMinutes(0,0,0); if(!running) target.setHours(now.getHours()+1);
   const diff = Math.max(0,(target-now)/1000|0);
+  const prefix = nightOff ? "🌙ホワイト企業タイム(全部署退勤・自動運転) — " : "";
   document.getElementById("next").innerHTML = running
-    ? `<b>${FULL_HOURS.includes(now.getHours())?"フル便":"軽量便"} 実行中</b> — 担当者が働いています`
-    : `次の便まで <b>${String(diff/60|0).padStart(2,"0")}分${String(diff%60).padStart(2,"0")}秒</b>(${nh}時は${label})`;
+    ? `${prefix}<b>${FULL_HOURS.includes(now.getHours())?"フル便":"軽量便"} 実行中</b>`
+    : `${prefix}次の便まで <b>${String(diff/60|0).padStart(2,"0")}分${String(diff%60).padStart(2,"0")}秒</b>(${nh}時は${label})`;
 
   STAFF.forEach((s,i)=>{
     const desk = document.getElementById("desk-"+s.id);
@@ -186,7 +199,7 @@ function render(){
     desk.classList.toggle("on", !!on);
     ch.className = "char " + (on ? "typing" : "idle");
     const recentlySaid = said[s.id] && Date.now()-said[s.id] < 4000;
-    const showBub = on || recentlySaid || ((now.getSeconds()+i*7)%35 < 6);
+    const showBub = !nightOff && (on || recentlySaid || ((now.getSeconds()+i*7)%35 < 6));
     bub.style.display = showBub ? "block" : "none";
     bub.textContent = on ? s.work : s.idle[(now.getHours()+((now.getMinutes()/12)|0)+i) % s.idle.length];
   });
