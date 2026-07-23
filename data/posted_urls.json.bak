@@ -117,7 +117,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015183101000",
   "https://news.web.nhk/newsweb/na/na-k10015182891000",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xMzFfYzVacDFrR3NzV094WkxyVHhSdDFBNEp1T2UwZGJJcXJzZGdYdmhNNHpIRFBfZnd2UzhRZkJiVERJN25WblE1cVPSAU9BVV95cUxPMWZkWXJVR2NNTzQ2RHJSZkJpLTFaUU9OMWlZeF9BcklHNVZpbjNBQkRkeDEtRXRuRU5kNWQ2OE5qaW9rbU9YX1dhY1BuaWow?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZlVQQjZBMlM3a1RucS1CQ25INzhrSm1BRm5QX2NfQ0dDRmNHckJNcWUyUnEtYjRZWGRRUGxaUHlaQXVaSnlxU2ZZMUdkUWRVbEZpeHNYUGtLWlU0TnJ3?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZlVQQjZBMlM3a1RucS1CQ25INzhrSm1BRm5QX2NfQ0dDRmNHckJNcWUyUnEtYjRZWGRRUGxaUHlaQXVaSnlxU2ZZMUdkUWRVbEZpeHNYUGtLWlU0TnJ3?oc=5",
+  "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+  "https://www.itmedia.co.jp/news/articles/2607/23/news063.html"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -337,6 +339,10 @@
   "グーグル親会社、営業利益6兆6400億円余に増えた背景",
   "農林水産省7月調査：輸入牛肉と豚肉が過去最高、円安が影響か",
   "東証プライム食品メーカー65社給料ランキング、年収1000万円台は6社",
-  "ジーデップ・アドバンス、営業益33%増の11.1億円を達成"
+  "ジーデップ・アドバンス、営業益33%増の11.1億円を達成",
+  "NVIDIAフアンCEOが語る“日本復活”のシナリオ　10年続く半導体バブルと「原発活用」の勝算",
+  "AMDとAnthropicが戦略的提携　「Helios」を最大2GW導入、最大50億ドルの出資も",
+  "NVIDIAフアンCEOが語る日本復活と数十億ドル投資の勝算",
+  "AMDが最大50億ドル出資、Anthropicと提携"
  ]
 }

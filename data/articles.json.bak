@@ -3629,5 +3629,93 @@
   "date": "2026-07-23",
   "time": "07:01",
   "path": "/articles/20260723-gdep-advance-fy2026-financial-results.html"
+ },
+ {
+  "title": "NVIDIAフアンCEOが語る日本復活と数十億ドル投資の勝算",
+  "lead": "米NVIDIAのジェンスン・フアンCEOが来日し、国内のAIインフラ構築へ数十億ドル規模の投資を発表しました。半導体バブルの未来と日本の強みについて熱く語っています。",
+  "summary3": [
+   "NVIDIAが日本へ数十億ドル規模の投資",
+   "データセンター電力不足に原発活用を提言",
+   "材料科学の強みや任天堂との秘話を語る"
+  ],
+  "body": [
+   "米NVIDIAのジェンスン・フアンCEOが来日し、日本経済の復活を宣言しました。国内のAIインフラ構築に向けて数十億ドル規模の投資を行うことを発表し、大きな注目を集めています。",
+   "フアン氏は、「何兆ものAIがAIを使う時代」の到来によって半導体需要は人口に制約されないと指摘しました。また、データセンターの電力不足に対しては「原発活用」を日本の強みとして提言しています。",
+   "さらに、「材料科学で世界一」とする日本企業への強い信頼を示すとともに、任天堂の岩田聡氏との秘話を明かしました。日本復活への確かなビジョンが語られた形です。"
+  ],
+  "tags": [
+   "NVIDIA",
+   "半導体",
+   "AIインフラ"
+  ],
+  "slug": "nvidia-ceo-japan-revival-strategy",
+  "people": [
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "米NVIDIAの共同創業者兼CEO。GPUを活用したAIブームを牽引する半導体業界の中心的経営者です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカの半導体メーカー。AIの学習や推論に不可欠なGPUで世界的なシェアを誇る企業です。"
+   },
+   {
+    "name": "任天堂",
+    "type": "company",
+    "desc": "日本の京都府に本社を置く、家庭用ゲーム機やゲームソフトの開発・販売を行う世界的企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
+  "category": "ai_jp",
+  "date": "2026-07-23",
+  "time": "09:01",
+  "path": "/articles/20260723-nvidia-ceo-japan-revival-strategy.html"
+ },
+ {
+  "title": "AMDが最大50億ドル出資、Anthropicと提携",
+  "lead": "米AMDは、AI開発を手がけるAnthropicとの戦略的提携を発表しました。最大2GW規模のAI基盤導入や巨額の株式投資を実施し、開発面でも協業を進めます。",
+  "summary3": [
+   "AMDとAnthropicが戦略的提携を発表",
+   "Heliosなど最大2GW規模で導入へ",
+   "AMDが最大50億ドルの株式投資を実施"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、AMDは、Anthropicとの戦略的提携を発表しました。今回の提携により、AnthropicはAMDの「Helios」および「Instinct MI450」シリーズを最大2GW規模で導入し、2027年上半期から順次展開していく予定です。",
+   "さらに、AMDは最大50億ドルの株式投資を行うことも明らかになりました。資金面での支援に留まらず、AI技術の活用においても強固な協力体制を築きます。",
+   "両社はハードウェアとソフトウェアの両面で連携を深め、Claudeを活用したGPU環境の最適化や、ROCm開発での協業も推進していく方針です。AI市場における両社の今後の動きに注目が集まります。"
+  ],
+  "tags": [
+   "AMD",
+   "Anthropic",
+   "AIインフラ"
+  ],
+  "slug": "amd-anthropic-strategic-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、CPUやGPUなどの開発・製造を手がけています。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AIアシスタント「Claude」などを提供しています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能な対話型の生成AIモデルおよびAIアシスタントです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+  "category": "ai_jp",
+  "date": "2026-07-23",
+  "time": "09:01",
+  "path": "/articles/20260723-amd-anthropic-strategic-partnership.html"
  }
 ]
