@@ -35,7 +35,8 @@ SELECT_CRITERIA = {
     "stock": """- 日本の株式市場・投資家に影響する最新ニュースを最優先(日経平均・東証の動き、日銀・金利、為替、大型決算、NISA等の制度変更)
 - 「市場がなぜ動いたか」の材料が明確なもの、投資家の判断材料になる事実があるものほど価値が高い
 - 特定銘柄の推奨・煽り・投資助言まがいの記事はノイズとして除外""",
-    "jp_corp": """- 日本の上場企業の経営に関わる出来事を優先(決算・業績修正、提携・買収、新事業・撤退、不祥事・リコール、大型人事)
+    "jp_corp": """- **日本の企業のみ**。海外企業(Google/Apple/Meta等)が主語の話は選ばない(シリコンバレー欄の担当)
+- 日本の上場企業の経営に関わる出来事を優先(決算・業績修正、提携・買収、新事業・撤退、不祥事・リコール、大型人事)
 - 誰もが知る大企業の動き、または無名でも影響の大きい出来事ほど価値が高い
 - 市場全体の話(日経平均・為替)は株式投資カテゴリの担当なので、ここでは「個別企業」の話だけを選ぶ
 - 特定銘柄の推奨・投資助言まがいはノイズとして除外""",
@@ -63,8 +64,6 @@ def _budget_ok() -> bool:
 def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None) -> str:
     """モデルを順に試す。日次クォータ切れ(PerDay)は即次のモデルへ、瞬間的な429は待って再試行"""
     import urllib.error
-    if not _budget_ok():
-        raise RuntimeError("Gemini日次予算超過")
     key = os.environ["GEMINI_API_KEY"]
     if models is None:
         models = MODELS
@@ -78,6 +77,8 @@ def _gemini(prompt: str, json_mode: bool = True, models: list[str] | None = None
     last_error = None
     for model in dict.fromkeys(models):  # 重複モデルは1回だけ試す
         for attempt in range(2):  # タスクの30分制限内に収める(指摘4)
+            if not _budget_ok():  # 予算は実HTTPリクエスト単位で数える(障害時のリトライも計上)
+                raise RuntimeError("Gemini日次予算超過")
             req = urllib.request.Request(
                 f"{API_BASE}/{model}:generateContent?key={key}", data=body,
                 headers={"Content-Type": "application/json"}, method="POST")
@@ -224,7 +225,9 @@ JSONのみ出力:
     if item.get("category") in ("stock", "jp_corp"):
         ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い推奨", "売り推奨", "推奨銘柄",
                      "おすすめ銘柄", "目標株価", "必ず上がる", "上昇が期待でき", "今のうちに買", "仕込み時", "狙い目"]
-        full_text = title + lead + " ".join(body)
+        s3_raw = art.get("summary3")
+        s3_text = " ".join(str(s) for s in s3_raw) if isinstance(s3_raw, list) else ""
+        full_text = title + lead + " ".join(body) + s3_text  # 3行まとめも検査対象(指摘3)
         hit = next((w for w in ADVICE_NG if w in full_text), None)
         if hit:
             raise ValueError(f"投資助言表現を検出({hit})のため記事破棄")
@@ -246,7 +249,7 @@ JSONのみ出力:
             if (isinstance(t, dict) and str(t.get("name", "")).strip() and str(t.get("desc", "")).strip()
                     and t.get("type") in ("company", "ai")):
                 name = str(t["name"]).strip()[:30]
-                if len(name) >= 2 and name in body_text:
+                if len(name) >= 3 and name in body_text:  # 表示側の下限(3文字)と一致させる
                     clean_terms.append({"name": name, "type": t["type"], "desc": str(t["desc"]).strip()[:80]})
     s3 = art.get("summary3")
     art.update({

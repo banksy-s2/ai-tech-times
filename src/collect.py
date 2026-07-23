@@ -113,6 +113,13 @@ JPCORP_KEYWORDS = [
     "撤退", "リコール", "不祥事", "謝罪", "株式会社", "ホールディングス", "社長", "会長",
 ]
 
+# 日本企業カテゴリ: 海外大手の話はシリコンバレー欄の担当なので機械排除(混入実績: グーグルクラウド)
+JPCORP_EXCLUDE = [
+    "グーグル", "Google", "アップル", "Apple", "マイクロソフト", "Microsoft", "メタ", "Meta",
+    "アマゾン", "Amazon", "エヌビディア", "NVIDIA", "テスラ", "Tesla", "OpenAI", "Anthropic",
+    "サムスン", "TSMC", "インテル", "Intel", "SpaceX",
+]
+
 # ノイズ排除: 宣伝・告知・セール系はタイトルに含まれた時点で候補から外す
 NOISE_KEYWORDS = [
     "【PR】", "PR TIMES", "プレスリリース", "セール", "クーポン", "キャンペーン",
@@ -253,6 +260,8 @@ def collect(category: str) -> list[dict]:
             if category == "jp_corp":
                 text = f"{it['title']} {it['summary']}".lower()
                 if not any(k.lower() in text for k in JPCORP_KEYWORDS):
+                    continue
+                if any(k.lower() in it["title"].lower() for k in JPCORP_EXCLUDE):
                     continue
             it["category"] = category
             seen.add(it["url"])

@@ -11,18 +11,25 @@ STATUS_FILE = Path(__file__).resolve().parent.parent / "docs" / "status.json"
 JST = timezone(timedelta(hours=9))
 
 
+_views_memo: dict = {}
+
+
 def today_views() -> int | None:
-    """自作カウンター(Firestore views/YYYYMMDD)から今日の閲覧数を取得"""
+    """自作カウンター(Firestore views/YYYYMMDD)から今日の閲覧数を取得(便内で1回だけ取得)"""
     import json as _json
     import urllib.request
     d = datetime.now(JST).strftime("%Y%m%d")
+    if _views_memo.get("d") == d:
+        return _views_memo.get("v")
     url = (f"https://firestore.googleapis.com/v1/projects/ai-tech-times/databases/(default)/documents/views/{d}"
            f"?key=AIzaSyC3gYixsTTOb8TGgLwBEt7UplwClE_v00s&mask.fieldPaths=total")
     try:
         with urllib.request.urlopen(url, timeout=10) as r:
-            return int(_json.loads(r.read())["fields"]["total"]["integerValue"])
+            v = int(_json.loads(r.read())["fields"]["total"]["integerValue"])
     except Exception:
-        return None
+        v = None
+    _views_memo.update({"d": d, "v": v})
+    return v
 
 
 def write_status(mode: str, articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None:

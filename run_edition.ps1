@@ -34,7 +34,16 @@ if (Test-Path $pauseFile) {
             exit 0
         }
         Remove-Item $pauseFile -ErrorAction SilentlyContinue
-    } catch { Remove-Item $pauseFile -ErrorAction SilentlyContinue }
+    } catch {
+        # unreadable pause file: fail-closed (stay paused) but self-heal after 24h
+        $age = (Get-Date) - (Get-Item $pauseFile).LastWriteTime
+        if ($age.TotalHours -lt 24) {
+            Log "PAUSED (pause file unreadable, fail-closed) - edition skipped"
+            exit 0
+        }
+        Remove-Item $pauseFile -ErrorAction SilentlyContinue
+        Log "pause file unreadable and stale - removed, resuming"
+    }
 }
 
 # --- mutex: skip if another edition is running (stale lock >25min is ignored) ---

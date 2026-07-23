@@ -59,8 +59,9 @@ function prelated(name){
   box.textContent = "";
   function show(idx){
     var here = location.pathname.split("/").pop().replace(".html", "");
+    var base = name.replace(/(氏|さん|様|社)$/, "");  // 表記ゆれ(氏・社付き)でも一致させる
     var hits = Object.keys(idx).filter(function(k){
-      return k !== here && idx[k].title.indexOf(name) >= 0;
+      return k !== here && idx[k].title.indexOf(base) >= 0;
     }).slice(0, 3);
     if (!hits.length) return;
     var h = document.createElement("div");

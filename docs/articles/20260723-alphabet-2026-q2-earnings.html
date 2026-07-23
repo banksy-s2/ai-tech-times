@@ -23,7 +23,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-V2T0G11PSH');
 </script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに", "description": "アルファベットの2026年第2四半期決算説明会において、グーグルクラウドの売上高が前年同期比82%増の248億ドルに達したことが発表されました。", "datePublished": "2026-07-23", "inLanguage": "ja", "articleSection": "日本企業", "author": {"@type": "Organization", "name": "AI TECH TIMES 編集部"}, "publisher": {"@type": "Organization", "name": "AI TECH TIMES"}, "mainEntityOfPage": "https://ai-tech-times.web.app/articles/20260723-alphabet-2026-q2-earnings.html", "isBasedOn": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVHRJN19seU5RaEFlZlNmb21XMGlpS0JvRVpITGxoTHgyUUtieVllR0tPaF9ZODRfY01sZDNhWktWOGRHM0FvYkZqN3VON2djRENNUU1CT3BOLURQ?oc=5"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに", "description": "アルファベットの2026年第2四半期決算説明会において、グーグルクラウドの売上高が前年同期比82%増の248億ドルに達したことが発表されました。", "datePublished": "2026-07-23", "inLanguage": "ja", "articleSection": "シリコンバレー最速", "author": {"@type": "Organization", "name": "AI TECH TIMES 編集部"}, "publisher": {"@type": "Organization", "name": "AI TECH TIMES"}, "mainEntityOfPage": "https://ai-tech-times.web.app/articles/20260723-alphabet-2026-q2-earnings.html", "isBasedOn": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVHRJN19seU5RaEFlZlNmb21XMGlpS0JvRVpITGxoTHgyUUtieVllR0tPaF9ZODRfY01sZDNhWktWOGRHM0FvYkZqN3VON2djRENNUU1CT3BOLURQ?oc=5"}</script>
 </head>
 <body>
 <header><div class="wrap">
@@ -35,7 +35,7 @@ gtag('config', 'G-V2T0G11PSH');
 <a class="back" href="https://ai-tech-times.web.app/">← トップに戻る</a>
 <article>
 <h1>グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに</h1>
-<div class="meta"><span class="cat">日本企業</span>2026-07-23 12:02 / <span class="tag">アルファベット</span><span class="tag">グーグルクラウド</span><span class="tag">決算説明会</span></div>
+<div class="meta"><span class="cat">シリコンバレー最速</span>2026-07-23 12:02 / <span class="tag">アルファベット</span><span class="tag">グーグルクラウド</span><span class="tag">決算説明会</span></div>
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 <div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul><li>グーグルクラウド売上高82%増</li><li>売上高は248億ドルを記録</li><li>2026年設備投資は2050億ドル</li></ul></div>
 <div class="lead">アルファベットの2026年第2四半期決算説明会において、グーグルクラウドの売上高が前年同期比82%増の248億ドルに達したことが発表されました。</div>
@@ -46,7 +46,7 @@ gtag('config', 'G-V2T0G11PSH');
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
-<script>window.__ART = {"id": "20260723-alphabet-2026-q2-earnings", "title": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに", "path": "/articles/20260723-alphabet-2026-q2-earnings.html", "cat": "日本企業"};</script>
+<script>window.__ART = {"id": "20260723-alphabet-2026-q2-earnings", "title": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに", "path": "/articles/20260723-alphabet-2026-q2-earnings.html", "cat": "シリコンバレー最速"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
 <div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
@@ -60,8 +60,9 @@ function prelated(name){
   box.textContent = "";
   function show(idx){
     var here = location.pathname.split("/").pop().replace(".html", "");
+    var base = name.replace(/(氏|さん|様|社)$/, "");  // 表記ゆれ(氏・社付き)でも一致させる
     var hits = Object.keys(idx).filter(function(k){
-      return k !== here && idx[k].title.indexOf(name) >= 0;
+      return k !== here && idx[k].title.indexOf(base) >= 0;
     }).slice(0, 3);
     if (!hits.length) return;
     var h = document.createElement("div");

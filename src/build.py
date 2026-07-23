@@ -292,8 +292,9 @@ function prelated(name){
   box.textContent = "";
   function show(idx){
     var here = location.pathname.split("/").pop().replace(".html", "");
+    var base = name.replace(/(氏|さん|様|社)$/, "");  // 表記ゆれ(氏・社付き)でも一致させる
     var hits = Object.keys(idx).filter(function(k){
-      return k !== here && idx[k].title.indexOf(name) >= 0;
+      return k !== here && idx[k].title.indexOf(base) >= 0;
     }).slice(0, 3);
     if (!hits.length) return;
     var h = document.createElement("div");
@@ -407,8 +408,8 @@ def _buzz_html(data: dict) -> str:
 VIEWS_JS = """(function(){
  try{
   var id = location.pathname.replace(/[^a-zA-Z0-9\\-_.]/g, "_").replace(/^_+|_+$/g, "") || "home";
-  var now = new Date(Date.now() + (9*60 + new Date().getTimezoneOffset())*60000);
-  var d = now.toISOString().slice(0,10).replace(/-/g, "");
+  // JST日付: UTCに9時間を足してISO文字列のUTC日付部を読む(閲覧者のタイムゾーンに依存しない)
+  var d = new Date(Date.now() + 9*3600*1000).toISOString().slice(0,10).replace(/-/g, "");
   var k = "v:" + d + ":" + id;
   if (sessionStorage.getItem(k)) return;  // 同一セッション内の再読込は数えない
   sessionStorage.setItem(k, "1");
