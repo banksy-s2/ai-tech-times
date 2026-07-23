@@ -5312,5 +5312,66 @@
   "date": "2026-07-24",
   "time": "05:00",
   "path": "/articles/20260724-eu-fines-google-over-antitrust-violations.html"
+ },
+ {
+  "title": "日経平均株価は307円高の6万6422円60銭と反発",
+  "lead": "23日大引けの日経平均株価は、前日比307円00銭高の6万6422円60銭となり、反発しました。",
+  "summary3": [
+   "23日の日経平均株価が反発",
+   "終値は307円00銭高を記録",
+   "株価は6万6422円60銭に"
+  ],
+  "body": [
+   "23日大引けの日経平均株価は、前日比307円00銭高の6万6422円60銭と反発しました。",
+   "市場における本日の取引では買いが優勢となり、株価は上昇して取引を終える結果となりました。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-rebounds-23",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2c4OEdxTzlMUkVaRHllQm1WMkM0V2V3bnFNd1lpbDVINlhtcFFhdHJtUS11bXQ0RXBaNXpjSzNUQ0RJdjBrSWE0Nlk3QVJWU3kwUnByNkxycjF4Q1BkMHBaN2F1SkFla0lEazd2VW45VFdrSjRhSG0xbTlDQVdYSVpkbXpsTms?oc=5",
+  "category": "stock",
+  "date": "2026-07-24",
+  "time": "06:00",
+  "path": "/articles/20260724-nikkei-average-rebounds-23.html"
+ },
+ {
+  "title": "マグニフィセント7、株価下落で時価総額125兆円消失",
+  "lead": "米市場でマグニフィセント7の株価が下落し、巨額の時価総額が消失する事態となりました。背景にはAI投資への懸念が存在しています。",
+  "summary3": [
+   "マグニフィセント7の株価が下落",
+   "時価総額125兆円が消失する",
+   "背景としてAI投資に懸念"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、市場で注目を集めるマグニフィセント7の株価が下落し、時価総額にして125兆円が消失したことが明らかになりました。この大幅な時価総額の減少は投資家の動向に大きな影響を与えています。",
+   "今回の株価下落の背景には、市場におけるAI投資に対する懸念が存在していると伝えられています。巨大IT企業を中心とした旺盛なAI関連への支出や投資計画に対し、その回収や収益化への見通しを慎重に見極める動きが広がっている模様です。",
+   "市場関係者の間では、今後の技術開発やインフラ投資の規模と、それに見合うリターンがどのように実現されるのかが引き続き重要な焦点となっています。今回の株価変動は、最先端技術を牽引する企業群であっても市場の厳しい評価と無縁ではないことを示しています。"
+  ],
+  "tags": [
+   "マグニフィセント7",
+   "株価下落",
+   "AI投資"
+  ],
+  "slug": "magnificent-seven-stock-drop-ai-concerns",
+  "people": [],
+  "terms": [
+   {
+    "name": "マグニフィセント7",
+    "type": "company",
+    "desc": "米国の株式市場を牽引する巨大テクノロジー企業7社を指す総称です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3lXTlRGaDdhaVlEMVh0SmVNY2owb2RFY2JRMkh4U0IxQTd0ZFJCRUxJMU9heVFiemVOWUk2cmJoS2s0NDZxdmdNZUlidi0yc2VlUG1oUmNsS3ppb1ZHY0MxZzkwRHp6RkVXN2k2cHE1Z2oxckJGYm1FVlJnT09FYWxObUE2NzJSVHJBbW9R?oc=5",
+  "category": "stock",
+  "date": "2026-07-24",
+  "time": "06:00",
+  "path": "/articles/20260724-magnificent-seven-stock-drop-ai-concerns.html"
  }
 ]
