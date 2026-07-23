@@ -7,7 +7,7 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from datetime import datetime, timedelta, timezone
 
-from src import announce, build, buzz, collect, editor, report, weekly
+from src import announce, build, buzz, collect, editor, precheck, report, weekly
 
 JST = timezone(timedelta(hours=9))
 
@@ -30,6 +30,11 @@ def main() -> int:
     published = build._load()
     recent_titles = [a["title"] for a in published[-40:]]
     articles, orig_titles, notes = [], [], []
+
+    pre_warns = precheck.run()  # 同型ミスの再発を毎便検知(鵜飼)
+    for w in pre_warns:
+        print(f"  {w}")
+    notes.extend(pre_warns)
     for cat, label in targets.items():
         print(f"[収集: {label}] (久遠)")
         candidates = collect.collect(cat)

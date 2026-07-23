@@ -8,6 +8,10 @@ import urllib.request
 # 無料枠の日次クォータはモデル別。lite(枠大)を主力に、切れたら次へフォールバック
 # ※gemini-flash-latestは2026-07時点でgemini-3.5-flashを指し、無料枠わずか20回/日
 MODELS = ["gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
+
+# 投資助言の禁止表現(株式・日本企業カテゴリの公開前検査+precheckの再発監視で共用)
+ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い推奨", "売り推奨", "推奨銘柄",
+             "おすすめ銘柄", "目標株価", "必ず上がる", "上昇が期待でき", "今のうちに買", "仕込み時", "狙い目"]
 API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
@@ -223,8 +227,6 @@ JSONのみ出力:
         raise ValueError(f"記事スキーマ不正(title={bool(title)}, lead={bool(lead)}, body={len(body)}段落)")
     # 投資助言ガード(株式カテゴリ): プロンプト頼みにせず公開前に機械検査、検出したら記事ごと破棄
     if item.get("category") in ("stock", "jp_corp"):
-        ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い推奨", "売り推奨", "推奨銘柄",
-                     "おすすめ銘柄", "目標株価", "必ず上がる", "上昇が期待でき", "今のうちに買", "仕込み時", "狙い目"]
         s3_raw = art.get("summary3")
         s3_text = " ".join(str(s) for s in s3_raw) if isinstance(s3_raw, list) else ""
         full_text = title + lead + " ".join(body) + s3_text  # 3行まとめも検査対象(指摘3)
