@@ -4631,5 +4631,40 @@
   "date": "2026-07-23",
   "time": "18:00",
   "path": "/articles/20260723-ibm-lowers-forecast-ai-productivity.html"
+ },
+ {
+  "title": "カバー社、VTuber誹謗中傷で1投稿150万円示談",
+  "lead": "ホロライブを運営するカバー社は、所属VTuberへの誹謗中傷や卑猥な投稿に対して1投稿150万円で示談が成立したことを明らかにしました。",
+  "summary3": [
+   "カバー社がVTuberへの誹謗中傷で示談成立",
+   "悪質な1投稿につき150万円の賠償金",
+   "私生活や異性関係を憶測する投稿も対象"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。人気VTuberグループ「ホロライブ」などを運営するカバー社は、所属タレントに対する誹謗中傷行為への法的対応について発表しました。",
+   "今回の発表によると、所属VTuberへの誹謗中傷に関する投稿について、1投稿あたり150万円の賠償金で示談が成立した事例があることが判明しました。",
+   "対象となった投稿の中には、タレントの私生活や異性関係を悪意を持って憶測する卑猥な内容も含まれていたとのことです。ネット上の誹謗中傷に対し、運営会社が厳正な法的措置を進める姿勢が浮き彫りとなっています。"
+  ],
+  "tags": [
+   "カバー",
+   "ホロライブ",
+   "VTuber",
+   "誹謗中傷"
+  ],
+  "slug": "cover-corp-vtuber-defamation-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "カバー社",
+    "type": "company",
+    "desc": "日本のテック・エンターテインメント企業で、女性VTuberグループ「ホロライブ」などを運営している。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vVkM5ZUlCak5McVYtdnN2clE4d3FBX25za3FvaXd2SWVlVHRDUU9GY0xBeVI5X0dwRHNFSXV4aHROMExZaGhYaDQyODJ2ajMtNE9ueEJxT25BVkI2Qy1ZWjIweHlHcWpjSnJRTlN2V3pBQkw2YmRYbC1hUmVGVEU?oc=5",
+  "category": "influencer",
+  "date": "2026-07-23",
+  "time": "20:01",
+  "path": "/articles/20260723-cover-corp-vtuber-defamation-settlement.html"
  }
 ]

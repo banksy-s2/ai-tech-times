@@ -1,11 +1,19 @@
 {
- "updated": "2026-07-23 19:00",
- "mode": "軽量便(海外AIの声)",
- "articles": [],
+ "updated": "2026-07-23 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "カバー社、VTuber誹謗中傷で1投稿150万円示談",
+   "path": "/articles/20260723-cover-corp-vtuber-defamation-settlement.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
- "notes": [],
- "pv_today": 31
+ "notes": [
+  "再発警報: innerHTML使用が基準(3)を超過(4) — XSS再発リスク、要レビュー"
+ ],
+ "pv_today": 49
 }
