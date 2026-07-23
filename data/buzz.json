@@ -1,11 +1,27 @@
 {
- "date": "2026-07-23",
+ "date": "2026-07-24",
  "videos": [
+  {
+   "id": "ylGKgCWazw0",
+   "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
+   "channel": "Brawl Stars",
+   "views": 1234671,
+   "url": "https://www.youtube.com/watch?v=ylGKgCWazw0",
+   "thumb": "https://i.ytimg.com/vi/ylGKgCWazw0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 1,
+   "comment": "ブロスタのアニメーション最新作が公開されたようです。（23字）"
+  },
   {
    "id": "irVNGjRFZGk",
    "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 45396974,
+   "views": 45491020,
    "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
    "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
    "regions": [
@@ -13,14 +29,14 @@
     "GB",
     "IN"
    ],
-   "rank": 1,
+   "rank": 2,
    "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
   },
   {
    "id": "z7eGToy4MWk",
    "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
    "channel": "HYBE LABELS",
-   "views": 2149896,
+   "views": 2214913,
    "url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
    "thumb": "https://i.ytimg.com/vi/z7eGToy4MWk/hqdefault.jpg",
    "regions": [
@@ -28,29 +44,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
-   "comment": "KATSEYEの新曲「Animal」の公式MVティーザー第2弾のようです。"
-  },
-  {
-   "id": "ylGKgCWazw0",
-   "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
-   "channel": "Brawl Stars",
-   "views": 1093514,
-   "url": "https://www.youtube.com/watch?v=ylGKgCWazw0",
-   "thumb": "https://i.ytimg.com/vi/ylGKgCWazw0/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "JP",
-    "BR"
-   ],
    "rank": 3,
-   "comment": "ブロスタのアニメーション最新作が公開されたようです。（23字）"
+   "comment": "KATSEYEの新曲「Animal」の公式MVティーザー第2弾のようです。"
   },
   {
    "id": "OGO4Mqvo3jI",
    "title": "Clayface | Official Trailer",
    "channel": "DC",
-   "views": 5996730,
+   "views": 6154874,
    "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
    "thumb": "https://i.ytimg.com/vi/OGO4Mqvo3jI/hqdefault.jpg",
    "regions": [
@@ -64,7 +65,7 @@
    "id": "LX2zshAgECQ",
    "title": "Aankhon Se Tune 2.0 | Bhai Tera Star Hai | Raghav, Niharika | Lijo, Dev, Palak, Kumar, Alka, Mohsin",
    "channel": "Tips Official",
-   "views": 4479850,
+   "views": 4572269,
    "url": "https://www.youtube.com/watch?v=LX2zshAgECQ",
    "thumb": "https://i.ytimg.com/vi/LX2zshAgECQ/hqdefault.jpg",
    "regions": [
@@ -78,7 +79,7 @@
    "id": "-swgjnYWt4g",
    "title": "MINECRAFT WONDERLAND",
    "channel": "Flamingo",
-   "views": 431203,
+   "views": 456942,
    "url": "https://www.youtube.com/watch?v=-swgjnYWt4g",
    "thumb": "https://i.ytimg.com/vi/-swgjnYWt4g/hqdefault.jpg",
    "regions": [
@@ -92,7 +93,7 @@
    "id": "AGOW1s9rZFc",
    "title": "What Everyone Missed with LOKI in the Avengers Doomsday Trailer!",
    "channel": "New Rockstars",
-   "views": 237739,
+   "views": 245789,
    "url": "https://www.youtube.com/watch?v=AGOW1s9rZFc",
    "thumb": "https://i.ytimg.com/vi/AGOW1s9rZFc/hqdefault.jpg",
    "regions": [
@@ -106,7 +107,7 @@
    "id": "fucyMSWcaFg",
    "title": "AVENGERS: DOOMSDAY Trailer - MORE Easter Eggs and hidden Clues!",
    "channel": "ScreenCrush",
-   "views": 204119,
+   "views": 210207,
    "url": "https://www.youtube.com/watch?v=fucyMSWcaFg",
    "thumb": "https://i.ytimg.com/vi/fucyMSWcaFg/hqdefault.jpg",
    "regions": [
@@ -120,7 +121,7 @@
    "id": "CxN85kBZiI8",
    "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
    "channel": "Zee Music Company",
-   "views": 14926526,
+   "views": 15469357,
    "url": "https://www.youtube.com/watch?v=CxN85kBZiI8",
    "thumb": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
    "regions": [
@@ -133,7 +134,7 @@
    "id": "I9tX-lFUTrw",
    "title": "Yeh Awarapan | Emraan Hashmi, Disha Patani | Vishesh Bhatt | Amaal, Arijit, Rashmi Virag| Awarapan 2",
    "channel": "Sony Music India",
-   "views": 9177751,
+   "views": 9265993,
    "url": "https://www.youtube.com/watch?v=I9tX-lFUTrw",
    "thumb": "https://i.ytimg.com/vi/I9tX-lFUTrw/hqdefault.jpg",
    "regions": [
