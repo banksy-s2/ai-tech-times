@@ -3785,5 +3785,264 @@
   "date": "2026-07-23",
   "time": "10:00",
   "path": "/articles/20260723-tesla-spending-skyrockets-production-timeline-slips.html"
+ },
+ {
+  "title": "Adaptive Security：AIメールのクリック率は人間と同等",
+  "lead": "セキュリティ企業のAdaptive Securityは、生成AIの普及によりメールを悪用したサイバー攻撃の構図が変化しているとの見解を発表しました。",
+  "summary3": [
+   "AI作成メールのクリック率は人間と同等に",
+   "従来型のメールセキュリティ対策では防御が困難",
+   "生成AIの普及によりサイバー攻撃の構図が変化"
+  ],
+  "body": [
+   "セキュリティ企業のAdaptive Securityは2026年7月15日（現地時間）、生成AIの急速な普及によってメールを悪用したサイバー攻撃の構図が大きく変化し、従来型のメールセキュリティ対策だけでは防御が困難になっているとの見解を発表しました。",
+   "同社の発表によると、生成AIが作成したメールのクリック率は人間が作成したものと同等レベルに達していることが明らかになっています。これにより、従来のセキュリティ教育や対策手法では十分な防御効果を得ることが難しい状況が生じています。",
+   "2025年から2026年にかけてのメールセキュリティの主要トレンドとして、AIを活用した手法が急速に浸透しており、企業や組織においては新たな脅威に対するより高度な対策と警戒が求められる事態となっています。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "サイバー攻撃"
+  ],
+  "slug": "adaptive-security-ai-email-threats",
+  "people": [],
+  "terms": [
+   {
+    "name": "Adaptive Security",
+    "type": "company",
+    "desc": "メールセキュリティ対策などのサービスや調査を提供するセキュリティ企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2607/23/news043.html",
+  "category": "ai_jp",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-adaptive-security-ai-email-threats.html"
+ },
+ {
+  "title": "20年間逃亡の指名手配犯、バイオテック企業幹部として隠れ逮捕",
+  "lead": "20年間にわたり逃亡を続けていた指名手配犯が、先週ニューヨーク州で逮捕されました。彼はバイオテック企業の幹部として身を隠していたことが明らかになっています。",
+  "summary3": [
+   "20年間逃亡の指名手配犯が逮捕される",
+   "ニューヨーク州で先週拘束された",
+   "バイオテック企業幹部として潜伏"
+  ],
+  "body": [
+   "海外メディア「Ars Technica」の報道によると、20年間にわたり逃亡を続けていた最重要指名手配犯が、先週ニューヨーク州で逮捕されました。",
+   "逮捕されたのは、ロナルド・フィッシャー（別名：リチャード・グレイドン）容疑者です。",
+   "同容疑者は、バイオテック企業の幹部として身を隠しながら生活していたところを拘束されました。"
+  ],
+  "tags": [
+   "事件",
+   "逮捕",
+   "バイオテック"
+  ],
+  "slug": "fugitive-caught-as-biotech-exec",
+  "people": [],
+  "terms": [],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+  "category": "silicon",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-fugitive-caught-as-biotech-exec.html"
+ },
+ {
+  "title": "元BE:FIRST三山凌輝、報道で呆れ声が続出",
+  "lead": "元『BE:FIRST』の三山凌輝に関する報道をめぐり、世間から呆れ声が続出していることが分かりました。",
+  "summary3": [
+   "元BE:FIRSTの三山凌輝を報道",
+   "元宝塚女優との報道で呆れ声が続出",
+   "過去の婚約トラブルも再燃している"
+  ],
+  "body": [
+   "「AI TECH TIMES」がお伝えする本日のニュースでは、元『BE:FIRST』の三山凌輝に関する新たな報道について取り上げます。元宝塚女優との報道をきっかけに、世間では《こうなると思ってた》といった呆れ声が続出している状況です。",
+   "今回の報道に関連して、過去に話題となった美人YouTuberとの「1億円婚約トラブル」についても再び注目が集まり、ネット上などで再燃する事態となっています。",
+   "ファンや一般の関心が高いこの問題について、今後の動向やさらなる続報に引き続き注目が集まるとみられます。"
+  ],
+  "tags": [
+   "三山凌輝",
+   "BE:FIRST",
+   "芸能"
+  ],
+  "slug": "miyama-ryoki-news-update",
+  "people": [
+   {
+    "name": "三山凌輝",
+    "bio": "元『BE:FIRST』のメンバーとして知られる日本のタレント。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5obEV1TjBGNDZFZmE2MVFIS3J1UzMyRkZHMnZmaG1HX2JvUFpuZjF6N3RQWjZXWkVRVUtaZ09zNklUeGdnd1NLZlhrdXNPSWs?oc=5",
+  "category": "influencer",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-miyama-ryoki-news-update.html"
+ },
+ {
+  "title": "東京23区中古マンション1億2700万円超えの上昇に一服感",
+  "lead": "先月、東京23区で売り出された中古マンションの平均価格が70平方メートル換算で1億2700万円余りとなり、上昇には一服感が見え始めています。",
+  "summary3": [
+   "東京23区の中古平均は1億2700万円余り",
+   "去年よりおよそ23パーセント上昇した",
+   "前月と比べ上昇幅が縮小し一服感が出る"
+  ],
+  "body": [
+   "AI TECH TIMESが伝えるNHK主要ニュースの情報によれば、先月、東京23区で売り出された中古マンションの平均価格は、70平方メートルに換算して1億2700万円余りとなりました。",
+   "これは去年と比べおよそ23％の上昇となっています。しかし、その一方で上昇幅は前の月よりも縮小していることが明らかになりました。",
+   "こうした動向を受け、調査した会社は「上昇には一服感が見られる」との見方を示しています。今後の価格の行方に引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "不動産",
+   "中古マンション",
+   "東京23区"
+  ],
+  "slug": "tokyo-used-condo-prices-slowdown",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015183351000",
+  "category": "world",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-tokyo-used-condo-prices-slowdown.html"
+ },
+ {
+  "title": "テスラ4～6月決算、EV販売増もAI投資で営業利益57%減",
+  "lead": "アメリカのEVメーカー「テスラ」が発表した4月〜6月期決算は、EV販売の増加により増収となりましたが、AI関連の投資が膨らみ減益となりました。",
+  "summary3": [
+   "テスラの4～6月期決算が発表された",
+   "EV販売は増加し増収を達成した",
+   "AI関連投資で営業利益57%減"
+  ],
+  "body": [
+   "アメリカの電気自動車（EV）メーカー「テスラ」が、ことし4月から先月までの決算を発表しました。発表によれば、期間中はEVの販売が増加したことで増収となりました。",
+   "一方で、人工知能（AI）に関連する投資が大きく膨らんだことが響きました。その結果、営業利益は前の年の同じ時期と比べて57％減少する減益となっています。"
+  ],
+  "tags": [
+   "テスラ",
+   "決算",
+   "AI投資",
+   "EV"
+  ],
+  "slug": "tesla-q2-earnings-ai-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、電気自動車（EV）や蓄電池の開発・販売を手がける世界的な自動車メーカー。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015183311000",
+  "category": "world",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-tesla-q2-earnings-ai-investment.html"
+ },
+ {
+  "title": "三井松島HD株価がストップ高気配、27年3月期上方修正で大幅増配の背景",
+  "lead": "三井松島HDの株価がストップ高気配となりました。27年3月期の業績上方修正と大幅増配が発表されたことによるものです。",
+  "summary3": [
+   "三井松島HD株価がストップ高気配",
+   "27年3月期の業績を上方修正",
+   "大幅増配の実施を発表"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の株式市場ニュースです。日本経済新聞の報道によると、三井松島HDの株価がストップ高気配となっています。",
+   "今回の値動きの要因は、27年3月期の業績上方修正と大幅増配の発表によるものです。市場において大きな注目を集める展開となっています。",
+   "詳細な財務数値や今後の動向については、発表された公式情報をご確認ください。"
+  ],
+  "tags": [
+   "三井松島HD",
+   "株価",
+   "市場"
+  ],
+  "slug": "mitsui-matsushima-hd-stock-price",
+  "people": [],
+  "terms": [
+   {
+    "name": "三井松島HD",
+    "type": "company",
+    "desc": "炭鉱業を起源とし、現在は複数の事業を展開する日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ekNxemYxRjdaaHF2elc2SmpaWXdwY3ZCWlNxMi1TTkVvWkE2ZlVMeDhjVXVaQ2k4M21paUhqamwwVGtUX1k1MExtNXhSc0VqV3pIWGRkMzliUS16M1hiTmZIaTJYYXdSbjhYZQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-mitsui-matsushima-hd-stock-price.html"
+ },
+ {
+  "title": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに",
+  "lead": "アルファベットの2026年第2四半期決算説明会において、グーグルクラウドの売上高が前年同期比82%増の248億ドルに達したことが発表されました。",
+  "summary3": [
+   "グーグルクラウド売上高82%増",
+   "売上高は248億ドルを記録",
+   "2026年設備投資は2050億ドル"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。アルファベットは2026年第2四半期決算説明会を実施し、その中で最新の業績と今後の事業計画を明らかにしました。",
+   "発表によると、グーグルクラウドの売上高は82%増となる248億ドルを記録しました。AIブームを背景とした需要の拡大が、この大幅な増収を牽引する形となっています。",
+   "さらに同社は、AIブームに対応するための今後の動きとして、2026年の設備投資を2050億ドルに引き上げる方針も合わせて明らかにしました。"
+  ],
+  "tags": [
+   "アルファベット",
+   "グーグルクラウド",
+   "決算説明会"
+  ],
+  "slug": "alphabet-2026-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "アルファベット",
+    "type": "company",
+    "desc": "米国の持株会社で、検索エンジン大手のグーグルなどを傘下に持ち、クラウドサービスやAI開発も手掛ける。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVHRJN19seU5RaEFlZlNmb21XMGlpS0JvRVpITGxoTHgyUUtieVllR0tPaF9ZODRfY01sZDNhWktWOGRHM0FvYkZqN3VON2djRENNUU1CT3BOLURQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-alphabet-2026-q2-earnings.html"
+ },
+ {
+  "title": "ピー・シー・エー営業益6％減、AI開発に16億円投入",
+  "lead": "ピー・シー・エーはFY2026の決算説明会を実施し、営業利益が6％減少したことやAI開発に16億円を投入する計画を明らかにしました。",
+  "summary3": [
+   "営業益は6％減を記録",
+   "AI開発に16億円を投入",
+   "配当は95円から40円へ減額"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ピー・シー・エーはFY2026の決算説明会において、営業利益が前期比で6％減少したことを発表しました。",
+   "また、今後の事業展開として、AI開発に対して16億円を投入する方針であることも明らかにされています。",
+   "さらに、株主への還元についても言及があり、配当金についてはこれまでの1世帯あたりではなく1株あたり95円から40円へと大幅な減額を行うことが発表されました。"
+  ],
+  "tags": [
+   "ピー・シー・エー",
+   "決算",
+   "AI開発"
+  ],
+  "slug": "pca-fy2026-financial-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "ピー・シー・エー",
+    "type": "company",
+    "desc": "企業の業務ソフトウエア開発や販売などを手掛ける日本の企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EWXZ4Mlg5RkVTcVVvcG5HTTdlMUdQcm84bklveFNMM3hwZnBiWWdsa0FkSUtxMzJxbXRxSXNZd1hiVEZoU2hHUHgwX1BVRjNUMUVIakZGWGJDT3NsckdN?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-23",
+  "time": "12:02",
+  "path": "/articles/20260723-pca-fy2026-financial-results.html"
  }
 ]

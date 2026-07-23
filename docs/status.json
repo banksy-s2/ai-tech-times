@@ -1,57 +1,22 @@
 {
- "updated": "2026-07-23 12:02",
- "mode": "フル便",
+ "updated": "2026-07-23 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Adaptive Security：AIメールのクリック率は人間と同等",
-   "path": "/articles/20260723-adaptive-security-ai-email-threats.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "20年間逃亡の指名手配犯、バイオテック企業幹部として隠れ逮捕",
-   "path": "/articles/20260723-fugitive-caught-as-biotech-exec.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "元BE:FIRST三山凌輝、報道で呆れ声が続出",
-   "path": "/articles/20260723-miyama-ryoki-news-update.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "東京23区中古マンション1億2700万円超えの上昇に一服感",
-   "path": "/articles/20260723-tokyo-used-condo-prices-slowdown.html",
+   "title": "米トランプ政権、サウジアラビアと原子力協定署名",
+   "path": "/articles/20260723-trump-admin-signs-nuclear-pact-with-saudi-arabia.html",
    "cat": "時事・世界"
   },
   {
-   "title": "テスラ4～6月決算、EV販売増もAI投資で営業利益57%減",
-   "path": "/articles/20260723-tesla-q2-earnings-ai-investment.html",
+   "title": "セブン-イレブン、キャラ商品不正買い占めの全貌",
+   "path": "/articles/20260723-seven-eleven-character-goods-issue.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "三井松島HD株価がストップ高気配、27年3月期上方修正で大幅増配の背景",
-   "path": "/articles/20260723-mitsui-matsushima-hd-stock-price.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに",
-   "path": "/articles/20260723-alphabet-2026-q2-earnings.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "ピー・シー・エー営業益6％減、AI開発に16億円投入",
-   "path": "/articles/20260723-pca-fy2026-financial-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
- "notes": [
-  "執筆失敗: 「AI使うなら値引きできる？」の“暴論”に、日立はどう立ち向かう？　レガシー刷新",
-  "執筆失敗: Hyundai claims humanoid robot plan is no",
-  "執筆失敗: アルファベット純利益18兆円、クラウド好調　スペースX上場も恩恵 - 日本経済新",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 6
 }
