@@ -5,6 +5,22 @@
 <description>AI・シリコンバレー速報・株式投資・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、ChatGPT Healthを全米提供</title>
+<link>https://ai-tech-times.web.app/articles/20260724-openai-chatgpt-health-us-users.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260724-openai-chatgpt-health-us-users.html</guid>
+<pubDate>Fri, 24 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESは、AI分野の最新動向をお伝えするニュースメディアです。OpenAIは、提供するヘルスケア関連機能の提供範囲を拡大しました。</description>
+</item>
+<item>
+<title>MoonshotがAnthropicの技術流用か、米財務省が制裁警告</title>
+<link>https://ai-tech-times.web.app/articles/20260724-treasury-threatens-sanctions-moonshot-anthropic.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260724-treasury-threatens-sanctions-moonshot-anthropic.html</guid>
+<pubDate>Fri, 24 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ホワイトハウスが、中国企業による米AI企業のモデル流用疑惑を指摘したことを受け、米財務省が制裁を示唆する事態に発展しました。</description>
+</item>
+<item>
 <title>Anthropic、Claudeの音声モードをOpusとSonnetへ拡大</title>
 <link>https://ai-tech-times.web.app/articles/20260724-anthropic-claude-voice-mode-opus-sonnet.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260724-anthropic-claude-voice-mode-opus-sonnet.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 23 Jul 2026 21:04:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>音楽ストリーミング大手のSoundCloudが、数か月前に閉鎖を発表していた分散型音楽プラットフォームのNina Protocolを買収しました。インディーズアーティスト向けのプラットフォーム拡大を目指す同社の狙いに迫ります。</description>
-</item>
-<item>
-<title>身代金を支払ってもハッカーが再来する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260723-ransomware-hackers-return-techcrunch.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260723-ransomware-hackers-return-techcrunch.html</guid>
-<pubDate>Thu, 23 Jul 2026 21:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>セキュリティ研究者の間で長く支持されてきた知見によると、ハッカーに身代金を支払っても、再び標的にされる可能性が高いことが明らかになりました。</description>
-</item>
-<item>
-<title>サムスン厚さ4ミリ超薄型スマホ発表、競争激化か</title>
-<link>https://ai-tech-times.web.app/articles/20260723-samsung-announces-ultra-thin-foldable-smartphone.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260723-samsung-announces-ultra-thin-foldable-smartphone.html</guid>
-<pubDate>Thu, 23 Jul 2026 21:04:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>韓国のサムスン電子は、厚さ4ミリ余りと薄型で折りたたみ式のスマートフォンの最新モデルを発表しました。</description>
 </item>
 </channel></rss>

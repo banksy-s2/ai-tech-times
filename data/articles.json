@@ -5789,5 +5789,83 @@
   "date": "2026-07-24",
   "time": "07:02",
   "path": "/articles/20260724-earnings-announcement-schedule-july-23.html"
+ },
+ {
+  "title": "OpenAI、ChatGPT Healthを全米提供",
+  "lead": "AI TECH TIMESは、AI分野の最新動向をお伝えするニュースメディアです。OpenAIは、提供するヘルスケア関連機能の提供範囲を拡大しました。",
+  "summary3": [
+   "OpenAIがヘルスケア機能を全米で提供開始",
+   "Apple Healthなどと連携が可能に",
+   "個人の健康データを統合して活用できる"
+  ],
+  "body": [
+   "米AI開発企業のOpenAIは、すべての米国ユーザーを対象に「ChatGPT Health」の提供を開始したと発表しました。この機能により、ユーザーは自身の健康に関するデータをAIと連携させることが可能となります。",
+   "今回の展開では、Apple HealthやFunction、MyFitnessPalといった外部の健康管理サービスから、個人のデータを統合できる仕様となっています。これにより、日々の健康管理データを一元的に扱うことが期待されます。",
+   "ヘルスケア分野でのAI活用が進む中、身近なサービスと外部データの連携がどのように日常の健康管理に影響を与えるのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "ヘルスケア"
+  ],
+  "slug": "openai-chatgpt-health-us-users",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ・サンフランシスコに拠点を置く、対話型AIなどを開発する人工知能の研究・開発企業です。"
+   },
+   {
+    "name": "Apple Health",
+    "type": "company",
+    "desc": "Appleが提供する、iPhoneなどで個人の健康やフィットネスのデータを一元管理するためのアプリケーションです。"
+   },
+   {
+    "name": "MyFitnessPal",
+    "type": "company",
+    "desc": "食事の記録や運動データの管理を通じて健康的なライフスタイルをサポートする人気のフィットネスアプリです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "08:00",
+  "path": "/articles/20260724-openai-chatgpt-health-us-users.html"
+ },
+ {
+  "title": "MoonshotがAnthropicの技術流用か、米財務省が制裁警告",
+  "lead": "ホワイトハウスが、中国企業による米AI企業のモデル流用疑惑を指摘したことを受け、米財務省が制裁を示唆する事態に発展しました。",
+  "summary3": [
+   "Moonshotがモデル流用か",
+   "米財務省が制裁を警告",
+   "中国製モデルで議論加速"
+  ],
+  "body": [
+   "米ホワイトハウスは、中国のAI企業であるMoonshotが、米国のAI企業Anthropicのモデル「Fable」を蒸留（ディスティレーション）して利用したと主張しました。この問題をきっかけに、米財務省は制裁を示唆する姿勢を見せています。",
+   "今回の事態は、ワシントンにおいて中国製のオープンモデルの流入に対する懸念や議論を一段と激化させる要因となっています。米国の先端技術がどのように扱われ、流出を防ぐのかという安全保障上の問題が改めてクローズアップされています。",
+   "AI技術の開発競争が激化する中、米中間の規制や制裁を巡る動向は世界的な注目を集めています。今回のホワイトハウスおよび財務省による動きが、今後のAI業界やオープンモデルの流通にどのような影響を与えるのか、引き続き議論が続けられています。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "米中関係"
+  ],
+  "slug": "treasury-threatens-sanctions-moonshot-anthropic",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業で、安全性に配慮した大規模言語モデルの開発を手がけています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "08:00",
+  "path": "/articles/20260724-treasury-threatens-sanctions-moonshot-anthropic.html"
  }
 ]

@@ -5373,5 +5373,421 @@
   "date": "2026-07-24",
   "time": "06:00",
   "path": "/articles/20260724-magnificent-seven-stock-drop-ai-concerns.html"
+ },
+ {
+  "title": "Anthropic、Claudeの音声モードをOpusとSonnetへ拡大",
+  "lead": "Anthropicは、これまでHaikuのみ対応していたClaudeの音声モードを、高性能なOpusとSonnetのモデルにも提供開始しました。",
+  "summary3": [
+   "音声モードの対応モデルを拡大",
+   "OpusとSonnetで利用可能に",
+   "GmailやSlack等へも連携"
+  ],
+  "body": [
+   "AI開発企業のAnthropicは、これまでより高速だが性能が劣るモデルであるClaude Haikuでのみ提供してきた音声モードについて、より強力なOpusおよびSonnetのモデルでも利用可能にすると発表しました。",
+   "さらに、今回のアップデートにより、同社の音声モードの利用範囲はGmail、Slack、Canvaといった外部アプリにも拡張されることになります。",
+   "昨年Anthropicが音声モードを最初にローンチした際は限られた機能を中心に展開されていましたが、今回のモデル追加と外部アプリへの対応によって、ユーザーの利便性がさらに向上することが期待されます。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AI音声モード"
+  ],
+  "slug": "anthropic-claude-voice-mode-opus-sonnet",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIアシスタント「Claude」シリーズを手がけている。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-anthropic-claude-voice-mode-opus-sonnet.html"
+ },
+ {
+  "title": "Alphabetの巨額キャッシュバーン、AI投資拡大でビッグテックに懸念",
+  "lead": "AI分野への支出が急増する中、Alphabetの資金枯渇（キャッシュバーン）がビッグテック全体に警戒感を抱かせています。この巨額のAI投資は今後の業界にどのような影響を与えるのでしょうか。",
+  "summary3": [
+   "Alphabetの資金枯渇が警戒される",
+   "AI分野への支出急増が主な要因",
+   "ビッグテック全体に懸念広がる"
+  ],
+  "body": [
+   "AI（人工知能）分野への支出が急速に拡大する中、Alphabet（アルファベット）のキャッシュバーン（現金の急速な減少）が、ビッグテックの間で大きな懸念材料となっています。ロイター通信の報道によると、AI開発やインフラ整備にかけるコストが膨らみ続けていることが背景にあります。",
+   "近年、大手テクノロジー企業はAI競争の主導権を握るために多額の資金を投入し続けています。しかし、その投資スピードと規模の大きさが、企業の財務負担をどのように圧迫しているのかについて、市場や関係者の間で議論が活発化しています。",
+   "今回浮上したAlphabetの動向は、単一企業の問題にとどまらず、同様に巨額のAI投資を続ける他のビッグテック企業にとっても無視できないリスクとして捉えられています。今後の投資対効果や財務戦略の見直しが迫られる可能性があります。"
+  ],
+  "tags": [
+   "Alphabet",
+   "AI投資",
+   "ビッグテック"
+  ],
+  "slug": "alphabets-cash-burn-raises-alarm-big-tech",
+  "people": [],
+  "terms": [
+   {
+    "name": "Alphabet",
+    "type": "company",
+    "desc": "Googleを傘下に持ち、検索エンジンやクラウドサービスなどを幅広く展開するアメリカの巨大テクノロジー企業。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-alphabets-cash-burn-raises-alarm-big-tech.html"
+ },
+ {
+  "title": "アンソロピック「Claude Opus 5」発表か、競合への影響は",
+  "lead": "米アンソロピックが次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっています。性能と安定性を高めつつコストを抑えるモデルとして期待されています。",
+  "summary3": [
+   "アンソロピックが新AIを発表か",
+   "性能向上とコスト抑制を両立",
+   "GPT-5.6や中国勢に対抗へ"
+  ],
+  "body": [
+   "米アンソロピックが、次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっています。業界では、今後のAI市場の勢力図を大きく左右する重要な発表として注目を集めています。",
+   "今回の新モデルは、AIとしての性能を高めながらも安定性を高め、運用コストを抑えるモデルになるとの期待が寄せられています。これにより、ビジネスでの実用性や導入のハードルがどのように変化するかが焦点となります。",
+   "AI市場においては、OpenAIの「GPT-5.6」や、低価格な中国勢との激しい競争が続いています。「Claude Opus 5」の登場が、これらのライバルに対してどのような優位性を示すのか、今後の展開に大きな関心が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "Claude Opus 5",
+   "アンソロピック"
+  ],
+  "slug": "anthropic-claude-opus-5-expected",
+  "people": [],
+  "terms": [
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、対話型AIモデルの開発を手がけている。"
+   },
+   {
+    "name": "Claude Opus 5",
+    "type": "ai",
+    "desc": "米アンソロピックが開発する次世代の最上位AIモデル。"
+   },
+   {
+    "name": "GPT-5.6",
+    "type": "ai",
+    "desc": "米OpenAIが展開する最先端の大規模言語モデルシリーズの一つ。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.sbbit.jp/article/cont1/186222",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-anthropic-claude-opus-5-expected.html"
+ },
+ {
+  "title": "フリーランススタート調査：「出社・生成AI必須」が4割超、市場規模1兆2209億円へ",
+  "lead": "「フリーランススタート」を運営するエンが、ITフリーランスを活用する企業515社を実態調査。その結果、「出社中心」や「生成AIほぼ必須」とする企業が4割を超えることが明らかになりました。",
+  "summary3": [
+   "出社中心と生成AI必須が4割超",
+   "2026年市場は1兆2209億円",
+   "単なる人月モデルの終焉を迎える"
+  ],
+  "body": [
+   "「フリーランススタート」は、ITフリーランスを活用する企業515社を対象に実態調査を実施しました。その結果、「出社中心」「生成AIほぼ必須」を求める企業が4割を超えていることが判明しました。これまでの単に人をそろえるだけの「人月モデル」の終焉が指摘されています。",
+   "調査によると、2026年の国内ITフリーランス市場規模は1兆2209億円に達すると予想されています。企業がITフリーランスを求める背景には、単なる人員補填を超えた高度なスキルや即戦力としての活用があります。",
+   "しかし一方で、企業が求める条件の高度化に伴い、ITフリーランス側には「三重苦」の課題が浮き彫りになっています。市場が拡大する一方で、働き方やスキル要件の変化に対してどのように適応していくかが今後の大きな課題となります。"
+  ],
+  "tags": [
+   "ITフリーランス",
+   "生成AI",
+   "働き方改革"
+  ],
+  "slug": "freelance-start-it-market-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "フリーランススタート",
+    "type": "company",
+    "desc": "エンが運営する、ITフリーランスを活用する企業と人材を繋ぐためのサービスおよび情報プラットフォーム。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news057.html",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-freelance-start-it-market-2026.html"
+ },
+ {
+  "title": "オラクル、国防総省と最大70億ドルの10年契約を締結した理由",
+  "lead": "米オラクルは木曜日、米国防総省と最大70億ドルにのぼる10年間のソフトウェア契約を締結したと発表しました。今年投資家から厳しい評価を受けてきた同社にとって、大きな追い風となります。",
+  "summary3": [
+   "オラクルが国防総省と10年契約を締結",
+   "契約規模は最大70億ドルに達する",
+   "発表を受けて時間外取引で株価が上昇"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米国のソフトウェア大手オラクルは木曜日、米国防総省との間で最大約70億ドル、期間10年となる大規模なソフトウェア契約を締結したと発表しました。今年に入り投資家から厳しい処分を受けてきた同社にとって、今回の巨額案件は極めて大きな勝利となります。",
+   "今回の発表を受け、市場の反応は素早く現れました。オラクルの株価は発表後の時間外取引において、約3%上昇する動きを見せています。国防総省という巨大な顧客との長期契約は、同社の業績や今後の事業展開において重要な基盤となることが期待されます。",
+   "国防総省は近年、ITインフラストラクチャやソフトウェアの近代化を急ピッチで進めており、大手テクノロジー企業との大規模な契約が相次いでいます。今回の10年契約がオラクルの財務や市場での立ち位置にどのような影響をもたらすのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "オラクル",
+   "国防総省",
+   "ビジネス"
+  ],
+  "slug": "oracle-pentagon-software-contract",
+  "people": [],
+  "terms": [
+   {
+    "name": "オラクル",
+    "type": "company",
+    "desc": "米国に本拠を置く、データベースやエンタープライズ向けソフトウェアを手がける大手テクノロジー企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260723/p49#a260723p49",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-oracle-pentagon-software-contract.html"
+ },
+ {
+  "title": "ホロライブ、所属VTuberへの権利侵害で示談成立",
+  "lead": "ホロライブは、所属するVTuberへの権利侵害について示談が成立したことを発表しました。執拗な中傷や卑猥な憶測に対する法的措置の経緯が伝えられています。",
+  "summary3": [
+   "ホロライブ所属VTuberへの権利侵害で示談",
+   "イベント欠席理由の嘘や異性関係を中傷",
+   "執拗な罵倒や侮辱行為に対して法的手続き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、ホロライブにおける権利侵害問題の示談成立について報じられたニュースが入ってまいりました。今回の発表によれば、同事務所に所属するVTuberに対して行われていた権利侵害行為につき、無事に示談が成立したとのことです。",
+   "問題となった行為の詳細として、イベントを欠席した理由について「嘘をついている」などと事実無根の的中傷が行われていたほか、異性関係においても卑猥な憶測を交えながら執拗に罵倒や侮辱が繰り返されていたとされています。こうした悪質な行為に対して、運営側が毅然とした対応をとった形となります。",
+   "ネット上の誹謗中傷やプライバシー侵害に対しては、近年ますます厳しい法的措置が講じられる傾向にあります。ファンコミュニティの健全性を守るためにも、所属タレントを守るためのこうした対応の重要性が改めて浮き彫りになる事例と言えそうです。"
+  ],
+  "tags": [
+   "ホロライブ",
+   "VTuber",
+   "権利侵害"
+  ],
+  "slug": "hololive-rights-infringement-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "ホロライブ",
+    "type": "company",
+    "desc": "カバー株式会社が運営する、女性VTuberグループを中心としたライブ配信事務所。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ta0hZNDNlck1CV0dlZzhlUGo1Z05aMm5ObHNabHcwSkJ5ZnBQbmlpeGJyYWNReFpibEhnSnppOEFycUUyWUR4YkcyR0NJN0pFQVhmM3ZicHVSclZpalNMZHlKU3piYU1fanc?oc=5",
+  "category": "influencer",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-hololive-rights-infringement-settlement.html"
+ },
+ {
+  "title": "トランプ政権が新追加関税を発動、日本は12.5％へ",
+  "lead": "アメリカのトランプ政権が日本を含む幅広い国や地域に課している10％の追加関税が失効する見通しとなり、新たに主要な貿易相手国を対象とした関税措置が示されました。",
+  "summary3": [
+   "トランプ政権の10％追加関税が失効へ",
+   "新たに主要な60の国や地域を対象に",
+   "日本は既存税率あわせ12.5％となる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。アメリカのトランプ政権が日本を含む幅広い国や地域に課している10％の追加関税が、日本時間の24日午後1時すぎに失効する見通しとなりました。",
+   "これを前にトランプ政権は23日、日本を含む主要な60の貿易相手の国や地域を対象とした新たな追加関税の動きを示しました。これにより、日本は既存の税率あわせて12.5％の関税が適用されることになります。",
+   "今後の動向や貿易への影響について、引き続き各国の対応が注目されています。"
+  ],
+  "tags": [
+   "トランプ政権",
+   "追加関税",
+   "経済"
+  ],
+  "slug": "trump-administration-new-tariffs",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015184731000",
+  "category": "world",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-trump-administration-new-tariffs.html"
+ },
+ {
+  "title": "NY原油1バレル93ドル台に、約1か月半ぶり高値の背景は",
+  "lead": "23日のニューヨーク原油市場で、WTIの先物価格が一時1バレル＝93ドル台まで値上がりしました。",
+  "summary3": [
+   "NY原油先物が一時93ドル台を記録",
+   "先月中旬以来のおよそ1か月半ぶり高値",
+   "WTIの国際的な指標価格が上昇した"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。23日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝93ドル台まで値上がりしました。",
+   "今回の価格上昇により、先月中旬以来となるおよそ1か月半ぶりの高値水準を記録しています。",
+   "エネルギー価格の動向は私たちの生活や経済活動に直接関わる要素であり、今後の市場の動きが注目されます。"
+  ],
+  "tags": [
+   "原油価格",
+   "NY原油",
+   "経済"
+  ],
+  "slug": "ny-crude-oil-hits-93-dollars",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015184701000",
+  "category": "world",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-ny-crude-oil-hits-93-dollars.html"
+ },
+ {
+  "title": "アルファベット4〜6月最高益、AI過剰投資が株価冷やす",
+  "lead": "アルファベットの4〜6月期決算が最高益を記録した一方で、人工知能（AI）への過剰な投資が懸念され、株価を冷やす要因となっています。",
+  "summary3": [
+   "アルファベットが4〜6月期で最高益を記録",
+   "AIへの過剰投資に対する懸念が浮上",
+   "最高益でありながら株価を下押しする展開に"
+  ],
+  "body": [
+   "アルファベットが発表した4〜6月期の決算において、業績は最高益を更新しました。堅調な事業基盤を示す結果となったものの、市場の反応は複雑なものとなっています。",
+   "好決算の一方で、人工知能（AI）分野に対する過剰な投資姿勢が嫌気されました。積極的な資金投入が将来の負担になるとの見方が広がり、株価を冷やす結果につながっています。",
+   "企業の高い収益性が示された今回の発表ですが、巨額のAI投資を巡る市場の慎重な見方が、株価の足かせとなる状況が浮き彫りになりました。"
+  ],
+  "tags": [
+   "アルファベット",
+   "決算",
+   "AI投資"
+  ],
+  "slug": "alphabet-q2-earnings-ai-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "アルファベット",
+    "type": "company",
+    "desc": "米国の巨大IT企業であり、検索エンジン大手のグーグルなどを傘下に持つ持株会社です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVno4eFZqc0xrUVFNWjMxSUxweHkxRHpUQ1NDY0FlTXFjTk9Pb01PTloxR18zZFVrUmk1YVR6X090V0pyLW9HbEtDanVyZjlqUHBYc1dubkFuUkZaSzVDdFJBNVJzQ3hwMUwwUQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-alphabet-q2-earnings-ai-investment.html"
+ },
+ {
+  "title": "インテル、7─9月見通しが予想超えで時間外株価8％超上昇",
+  "lead": "ロイターの報道によると、インテルの7─9月期の業績見通しが市場予想を超え、時間外取引で株価が8％を超える上昇を記録しました。",
+  "summary3": [
+   "インテルの7─9月見通しが予想超え",
+   "時間外取引で株価が8%超の上昇を記録",
+   "ロイターが関連する市場の動きを報じる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の市場ニュースです。ロイターの報道によれば、半導体大手として知られるインテルの7─9月期の業績見通しが市場の予想を超えたことが明らかになりました。",
+   "この発表を受け、時間外取引においてインテルの株価は8％を超える大幅な上昇を見せています。市場関係者の間で今回の見通し内容がどのように受け止められたのかが注目を集める状況となりました。",
+   "詳細な数字や今後の市場全体の動向については、引き続き最新の関連情報に注意していく必要があります。当サイトでは今後も企業の動向を正確にお伝えしてまいります。"
+  ],
+  "tags": [
+   "インテル",
+   "株価",
+   "市場"
+  ],
+  "slug": "intel-shares-surge-after-hours",
+  "people": [],
+  "terms": [
+   {
+    "name": "インテル",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZnAxR0FFcUd0U3VIMXVzaWk3eEpsSWtpcnVwSGRPSVlmamN3bkJ5Q05kZVZScU5YQVl0em55aUJaTWRGNW5FbUNyZzhkQjBrb3NVdm5ZeUV4cFBQNVJLVXUzSHg1UVJJMDBkaGtYWENPbEZNOVJtbw?oc=5",
+  "category": "stock",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-intel-shares-surge-after-hours.html"
+ },
+ {
+  "title": "信越化、中外薬など17社が明日決算発表へ",
+  "lead": "AI TECH TIMESがお伝えする企業の決算情報です。明日に予定されている決算発表のスケジュールについてお伝えします。",
+  "summary3": [
+   "明日の決算発表予定をお知らせ",
+   "信越化や中外薬など17社が対象",
+   "7月23日のスケジュール情報を確認"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。本日は株探ニュースが報じた上場企業の決算発表予定に関する情報をお届けいたします。",
+   "発表によると、明日に予定されている決算発表の対象企業は信越化学工業や中外製薬などを含む計17社となっております。",
+   "当該企業の決算発表スケジュールに関心のある方は、関連する市場ニュースや各社の発表情報をご確認ください。"
+  ],
+  "tags": [
+   "決算発表",
+   "信越化学工業",
+   "中外製薬"
+  ],
+  "slug": "earnings-announcement-july-23",
+  "people": [],
+  "terms": [
+   {
+    "name": "信越化学工業",
+    "type": "company",
+    "desc": "塩ビやシリコンウェハーで世界トップシェアを誇る日本の大手化学メーカーです。"
+   },
+   {
+    "name": "中外製薬",
+    "type": "company",
+    "desc": "スイスのロシュグループ傘下で、医薬品の研究開発に強みを持つ国内大手製薬企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEdrWjZCRzZ4eDdOSWFKeGhIdnRCaWx2aTNFMnJWcEF4OVlWSU40Y2d0ZjRTSTBaS1poLURqay1jWDFFTi14T1F6Qkg3b3ptcUh5U0ktTkh3LVJaTTJvWk5Tejk1VUx3MDNxSTZ1akhkMV80OHZxX3VxZzkxb1UwR2lRMUNnUEk?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-earnings-announcement-july-23.html"
+ },
+ {
+  "title": "ディスコ、信越ポリなど7社が7月23日に決算発表予定",
+  "lead": "AI TECH TIMESでは、本日予定されている企業決算のスケジュールについてお伝えします。",
+  "summary3": [
+   "ディスコなどの決算発表予定",
+   "本日の発表企業は合計7社",
+   "7月23日のスケジュール情報"
+  ],
+  "body": [
+   "AI TECH TIMESのニュースをお伝えします。株式市場や企業動向に関心を持つ読者に向けて、本日の決算発表予定に関する情報をお届けします。",
+   "株探ニュースの情報によると、本日はディスコ、ＫＯＡ、信越ポリなど合計7社が決算発表を予定しているとのことです。",
+   "具体的な発表企業やスケジュールについての詳細は、関連する配信元や財務情報などをあわせてご確認ください。"
+  ],
+  "tags": [
+   "決算発表",
+   "ディスコ",
+   "株式市場"
+  ],
+  "slug": "earnings-announcement-schedule-july-23",
+  "people": [],
+  "terms": [
+   {
+    "name": "ディスコ",
+    "type": "company",
+    "desc": "半導体製造装置などを手掛ける日本の大手精密加工機器メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXlNNnlmNFpxNTVURWYwT2RDRU9QWHN3MU4yMlUteXE2Um9NejkwNkxCZk1ka3BuN3pJbWVGVHNNdldDQTY5SXRfSGVicnNuWS05QkMxZnZnWXFzeGFEQWhqaGVwZTJlbnkyNDlycXVKemFqNmJzQjBtUERfY09RRlZwOXozNzQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-24",
+  "time": "07:02",
+  "path": "/articles/20260724-earnings-announcement-schedule-july-23.html"
  }
 ]

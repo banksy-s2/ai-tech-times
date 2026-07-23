@@ -1,22 +1,75 @@
 {
- "updated": "2026-07-24 06:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-24 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "日経平均株価は307円高の6万6422円60銭と反発",
-   "path": "/articles/20260724-nikkei-average-rebounds-23.html",
+   "title": "Anthropic、Claudeの音声モードをOpusとSonnetへ拡大",
+   "path": "/articles/20260724-anthropic-claude-voice-mode-opus-sonnet.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Alphabetの巨額キャッシュバーン、AI投資拡大でビッグテックに懸念",
+   "path": "/articles/20260724-alphabets-cash-burn-raises-alarm-big-tech.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "アンソロピック「Claude Opus 5」発表か、競合への影響は",
+   "path": "/articles/20260724-anthropic-claude-opus-5-expected.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "フリーランススタート調査：「出社・生成AI必須」が4割超、市場規模1兆2209億円へ",
+   "path": "/articles/20260724-freelance-start-it-market-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オラクル、国防総省と最大70億ドルの10年契約を締結した理由",
+   "path": "/articles/20260724-oracle-pentagon-software-contract.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ホロライブ、所属VTuberへの権利侵害で示談成立",
+   "path": "/articles/20260724-hololive-rights-infringement-settlement.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "トランプ政権が新追加関税を発動、日本は12.5％へ",
+   "path": "/articles/20260724-trump-administration-new-tariffs.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "NY原油1バレル93ドル台に、約1か月半ぶり高値の背景は",
+   "path": "/articles/20260724-ny-crude-oil-hits-93-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アルファベット4〜6月最高益、AI過剰投資が株価冷やす",
+   "path": "/articles/20260724-alphabet-q2-earnings-ai-investment.html",
    "cat": "株式投資(日本)"
   },
   {
-   "title": "マグニフィセント7、株価下落で時価総額125兆円消失",
-   "path": "/articles/20260724-magnificent-seven-stock-drop-ai-concerns.html",
+   "title": "インテル、7─9月見通しが予想超えで時間外株価8％超上昇",
+   "path": "/articles/20260724-intel-shares-surge-after-hours.html",
    "cat": "株式投資(日本)"
+  },
+  {
+   "title": "信越化、中外薬など17社が明日決算発表へ",
+   "path": "/articles/20260724-earnings-announcement-july-23.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "ディスコ、信越ポリなど7社が7月23日に決算発表予定",
+   "path": "/articles/20260724-earnings-announcement-schedule-july-23.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY"
  },
- "notes": [],
- "pv_today": 2
+ "notes": [
+  "執筆失敗: Patreon lays off 20% of its workforce",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 6
 }
