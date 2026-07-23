@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-23 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-23 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "アルファベット純利益18兆円、前年同期の4倍に",
-   "path": "/articles/20260723-alphabet-financial-results-2026.html",
-   "cat": "株式投資(日本)"
+   "title": "AZ丸和が大幅反発、優待新設と資本業務提携の背景",
+   "path": "/articles/20260723-az-maruwa-market-news.html",
+   "cat": "日本企業"
   },
   {
-   "title": "サイゼリヤ値上げ後に株価急騰の背景とは",
-   "path": "/articles/20260723-saizeriya-stock-price-surge.html",
-   "cat": "株式投資(日本)"
+   "title": "ファーストコーポレーション、中央日本土地建物と資本業務提携",
+   "path": "/articles/20260723-first-corporation-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,5 +18,5 @@
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
  "notes": [],
- "pv_today": 6
+ "pv_today": 17
 }
