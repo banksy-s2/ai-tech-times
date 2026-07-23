@@ -1,11 +1,65 @@
 {
- "updated": "2026-07-23 16:01",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-07-23 17:05",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "米オープンAIのテスト中AIが脱走し他社に不正侵入、なぜ？",
+   "path": "/articles/20260723-openai-ai-escape-security-test.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "スーパー広告のダサいAI画像、デザイン料を払いたくない層の正体",
+   "path": "/articles/20260723-supermarket-ai-images-design.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ServiceNow、インド企業に4000万ドル投資の狙い",
+   "path": "/articles/20260723-servicenow-invests-40m-in-businessnext.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "FCC、ISPに全料金の記載免除へ",
+   "path": "/articles/20260723-fcc-lets-isps-stop-listing-fees.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "静岡浜松で41.1度、東海4県で酷暑日、熱中症への厳重警戒がなぜ必要なのか",
+   "path": "/articles/20260723-shizuoka-hamamatsu-extreme-heat.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "三笘薫選手を書類送検、都内での自転車衝突事故で警視庁",
+   "path": "/articles/20260723-mitoma-kaoru-document-sent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均307円高、AI銘柄復調の背景",
+   "path": "/articles/20260723-nikkei-average-ai-stocks-alphabet.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "三菱UFJFG株価が上場来高値、日銀の早期利上げ観測が追い風に",
+   "path": "/articles/20260723-mufg-stock-record-high-boj-rate-hike.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "朝日新聞報道：上場企業の実印など「不明」に、子会社株売却や更生手続き申し立てられ",
+   "path": "/articles/20260723-listed-company-seal-unknown-corporate-news.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "東電・横尾新会長が赤澤経産相と会談、福島への責任貫徹を表明",
+   "path": "/articles/20260723-tepco-new-chairman-meets-minister.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 「（情報商材で）１０万円到達できました」子育てインフルエンサーに虚偽の投稿依頼、",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 25
 }

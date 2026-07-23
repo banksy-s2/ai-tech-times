@@ -135,7 +135,17 @@
   "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dXlDTmlhTjA2UjNFNHEtMXU4bElPQXRxNEhYUWR2X0ZjQkdPUWUxTVl2MFJ6MGlIZXJPWXhDYjBjTlcwbEZfN0V3djljbzA4bHlLN3NyNFNMcXBEVlp3cHJzcjAyQnhvTGt0ZWJteDdyRE1rZ3hxRHJIRUQxdm8?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IRVViYm94Mk1PX2dncVoyUmpOc2ktdGZEQWZVZEJuaXpoMHdZa3JDeGh0WFV1Nlo2Z2pSLTY0XzFXSHR0anRoQVQwbXE1NDZDLUZKSHh5VQ?oc=5",
-  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUl6cjBUM2JTeGhTYnl6cEJ2N1BQU19Gb3hCNU1aZE43d2lUVDFyQkRjZEVJTnRMRnlOY3drMUpMRDZ1V29iMC1oeWJfekFteDluY0VVSlhaWWVsMjFxLWlzd0FLUGFQeGt3TDRYaV9oVFhacGhGbHZkUk40eDc0SGN0VVNmak5STXctOEtvWEMxU0ZDVTZ4WkxCQ2dBZTVmYzNJUkVFdDE4aGhLUXM2TDBSWnp2OFpDR1VLbUpBMUxRUkxkek90WUc2QVJ1V1o2WVRGRkdCQzIxU3dR0gGMAUFVX3lxTE4xUXZ0bmZEbndvNDNJenpvUEMtRWNpbm05dzhhQllXcW51d2dxb096ZVpXZmx4cTN1ZHRYRnVBRlQtcjViY2JleFFOQXlvRWFEd3o2X3MwN2hFd3NkUkRoWDQxaVFqdWRUNmpCWWFMMkNiNURTVGNmdVlKS3VucGV4TnE0RmlKUkhXS214?oc=5"
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUl6cjBUM2JTeGhTYnl6cEJ2N1BQU19Gb3hCNU1aZE43d2lUVDFyQkRjZEVJTnRMRnlOY3drMUpMRDZ1V29iMC1oeWJfekFteDluY0VVSlhaWWVsMjFxLWlzd0FLUGFQeGt3TDRYaV9oVFhacGhGbHZkUk40eDc0SGN0VVNmak5STXctOEtvWEMxU0ZDVTZ4WkxCQ2dBZTVmYzNJUkVFdDE4aGhLUXM2TDBSWnp2OFpDR1VLbUpBMUxRUkxkek90WUc2QVJ1V1o2WVRGRkdCQzIxU3dR0gGMAUFVX3lxTE4xUXZ0bmZEbndvNDNJenpvUEMtRWNpbm05dzhhQllXcW51d2dxb096ZVpXZmx4cTN1ZHRYRnVBRlQtcjViY2JleFFOQXlvRWFEd3o2X3MwN2hFd3NkUkRoWDQxaVFqdWRUNmpCWWFMMkNiNURTVGNmdVlKS3VucGV4TnE0RmlKUkhXS214?oc=5",
+  "https://www.cnn.co.jp/tech/35250893.html",
+  "https://togetter.com/li/2723530",
+  "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+  "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+  "https://news.web.nhk/newsweb/na/na-k10015183051000",
+  "https://news.web.nhk/newsweb/na/na-k10015184061000",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IajUwZHZ5ODVna19NLWl4bHRKNC0zajk2VlJwaDJKb21WSnlsdndRYTA5cUJLSUxtU0gxZjVxMmxyMjNtb09xeTN4SzkweE5LWk54MTBNUDU5Mk9IT21aN1Q3WTdMM3VCZlhmeA?oc=5",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yWEpHNGxWbzRQSnNOQzdKNkhoaEl2V1FwS2IteGRMUHMwdXhQRWFiQ2VqOWJEOVBsQk1jSldHRzA1aHVCZGc0NHdyRnc4WjdVMFFNQW1fZXp0aUNwQnU1X3gwZVhzYzVybWw3Zw?oc=5",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GWDBwbmszdTRFQnJZeUE2WjE3eDI5RHBZcFcxdHFFSzNtcEhtY05NRXZZOGtvekVxMzJwMTVUVmlmSGJnUHR0RVlFbzlmbmMtam9MTHljSTNVc2N3Rk41QzZVQVp4REk?oc=5",
+  "https://news.web.nhk/newsweb/na/na-k10015183871000"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -391,6 +401,26 @@
   "AZ丸和が大幅反発､優待制度新設と資本業務提携を買い材料視 - 四季報オンライン",
   "ファーストコーポレーション---中央日本土地建物との資本業務提携および第三者割当による自己株式処分 - ｄメニューニュース",
   "AZ丸和が大幅反発、優待新設と資本業務提携の背景",
-  "ファーストコーポレーション、中央日本土地建物と資本業務提携"
+  "ファーストコーポレーション、中央日本土地建物と資本業務提携",
+  "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
+  "「なぜ最近のスーパーでダサいAI画像が使われるのか」\"AIでいいか\"の裏にいる、デザインにお金を払いたくない層の話「他業種だけど同意です」",
+  "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+  "ISPs' long nightmare of having to list all the fees they charge is finally over",
+  "静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒",
+  "サッカー三笘薫選手を過失運転傷害の疑いで書類送検 警視庁",
+  "日経平均終値307円高 AI銘柄復調、米アルファベット投資増で安心感 - 日本経済新聞",
+  "三菱UFJFG株価上場来高値 日銀の早期利上げ観測が追い風 - 日本経済新聞",
+  "実印など「不明」上場企業、子会社株売られ、更生手続き申し立てられ - 朝日新聞",
+  "東電新会長が赤澤経産相と会談 “福島への責任貫徹が使命”",
+  "米オープンAIのテスト中AIが脱走し他社に不正侵入、なぜ？",
+  "スーパー広告のダサいAI画像、デザイン料を払いたくない層の正体",
+  "ServiceNow、インド企業に4000万ドル投資の狙い",
+  "FCC、ISPに全料金の記載免除へ",
+  "静岡浜松で41.1度、東海4県で酷暑日、熱中症への厳重警戒がなぜ必要なのか",
+  "三笘薫選手を書類送検、都内での自転車衝突事故で警視庁",
+  "日経平均307円高、AI銘柄復調の背景",
+  "三菱UFJFG株価が上場来高値、日銀の早期利上げ観測が追い風に",
+  "朝日新聞報道：上場企業の実印など「不明」に、子会社株売却や更生手続き申し立てられ",
+  "東電・横尾新会長が赤澤経産相と会談、福島への責任貫徹を表明"
  ]
 }
