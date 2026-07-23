@@ -5085,5 +5085,73 @@
   "date": "2026-07-24",
   "time": "00:00",
   "path": "/articles/20260724-lawmakers-prepare-ai-kill-switch-bill.html"
+ },
+ {
+  "title": "AlibabaのQwen-Audio-3.0-TTS登場、Gemini超えの理由は",
+  "lead": "AlibabaのAI研究チームであるQwen(Tongyi Lab)が、音声合成AI「Qwen-Audio-3.0-TTS」を2026年7月20日にリリースしました。",
+  "summary3": [
+   "AlibabaがQwen-Audio-3.0-TTSを発表",
+   "参考音声とテキストで任意の声を再現",
+   "日本語に対応しGemini超えの性能を発揮"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。AlibabaのAI研究チームであるQwen(Tongyi Lab)が、音声合成AI「Qwen-Audio-3.0-TTS」を2026年7月20日にリリースしました。",
+   "このAIは、参考音声とテキストを入力することで、任意の声で任意のテキストを読み上げさせることが可能な音声クローン機能を備えています。さらに、日本語にも対応しているのが特徴です。",
+   "性能面ではGeminiを超える水準を達成しており、今後の音声生成技術の活用において注目を集めるモデルとなっています。"
+  ],
+  "tags": [
+   "音声合成",
+   "AI",
+   "Alibaba"
+  ],
+  "slug": "qwen-audio-3-tts-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "Alibaba",
+    "type": "company",
+    "desc": "中国に拠点を置き、電子商取引やクラウドコンピューティングなどを手掛ける世界的な大手企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "01:00",
+  "path": "/articles/20260724-qwen-audio-3-tts-released.html"
+ },
+ {
+  "title": "ロッテが自分の顔をAIでビックリマン風キャラに",
+  "lead": "ロッテは7月22日、顔写真をアップロードするとビックリマンの世界観に沿ったオリジナルキャラクター画像を生成できる新サービスを発表しました。",
+  "summary3": [
+   "ロッテが生成AIサービスを発表",
+   "顔写真からビックリマン風に変換",
+   "Tシャツやグッズを注文可能"
+  ],
+  "body": [
+   "ロッテは7月22日、生成AIサービス「ビックリマンAIグッズメーカー」を29日正午から提供開始すると発表しました。",
+   "本サービスでは、利用者が顔写真をサイトにアップロードすると、AIがビックリマンの世界観に沿ったオリジナルキャラクター画像を生成します。",
+   "生成した画像を使った名刺やTシャツ、アクリルキーホルダーなどのグッズを注文することが可能です。"
+  ],
+  "tags": [
+   "ロッテ",
+   "生成AI",
+   "ビックリマン"
+  ],
+  "slug": "lotte-bikkuriman-ai-goods-maker",
+  "people": [],
+  "terms": [
+   {
+    "name": "ロッテ",
+    "type": "company",
+    "desc": "菓子製造などを中心に展開する日本の大手食品企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "01:00",
+  "path": "/articles/20260724-lotte-bikkuriman-ai-goods-maker.html"
  }
 ]

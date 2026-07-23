@@ -159,7 +159,9 @@
   "https://toyokeizai.net/articles/-/952519?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015184581000",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QWI4dEUyNWREVFJzbmtISXFHeVpCdWlWTWRUY1FFYmtad3NNU04yMEJFZXNmRzVXWHVSV3pDaDliWVNEeU1qRlBQelRoeWxMakE3emE1ak1hNERTZG1B?oc=5",
-  "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+  "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+  "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
+  "https://www.itmedia.co.jp/news/articles/2607/23/news086.html"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -463,6 +465,10 @@
   "いよぎんHDと愛媛銀行が経営統合へ最終調整、その背景とは",
   "6146.T出荷額1,359億円、装置30億円下振れの理由",
   "Lawmakers prepare bill requiring AI ‘kill switch’",
-  "米議員がAI停止法案提出へ、DHS命令でシステム制御可能に"
+  "米議員がAI停止法案提出へ、DHS命令でシステム制御可能に",
+  "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
+  "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに　ロッテが新サービス公開へ",
+  "AlibabaのQwen-Audio-3.0-TTS登場、Gemini超えの理由は",
+  "ロッテが自分の顔をAIでビックリマン風キャラに"
  ]
 }
