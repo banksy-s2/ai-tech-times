@@ -2,10 +2,27 @@
  "date": "2026-07-24",
  "videos": [
   {
+   "id": "MOclJJ7IpSY",
+   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
+   "channel": "EA SPORTS FC",
+   "views": 1243637,
+   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "rank": 1,
+   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
+  },
+  {
    "id": "ylGKgCWazw0",
    "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
    "channel": "Brawl Stars",
-   "views": 1990206,
+   "views": 2098325,
    "url": "https://www.youtube.com/watch?v=ylGKgCWazw0",
    "thumb": "https://i.ytimg.com/vi/ylGKgCWazw0/hqdefault.jpg",
    "regions": [
@@ -14,30 +31,14 @@
     "JP",
     "BR"
    ],
-   "rank": 1,
-   "comment": "ブロスタのアニメーション最新作が公開されたようです。（23字）"
-  },
-  {
-   "id": "MOclJJ7IpSY",
-   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
-   "channel": "EA SPORTS FC",
-   "views": 890753,
-   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
-   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
    "rank": 2,
-   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
+   "comment": "ブロスタのアニメーション最新作が公開されたようです。（23字）"
   },
   {
    "id": "3FJRYHVQVDE",
    "title": "Stray Kids \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
    "channel": "JYP Entertainment",
-   "views": 489810,
+   "views": 564403,
    "url": "https://www.youtube.com/watch?v=3FJRYHVQVDE",
    "thumb": "https://i.ytimg.com/vi/3FJRYHVQVDE/hqdefault.jpg",
    "regions": [
@@ -53,7 +54,7 @@
    "id": "inxzQt78lOk",
    "title": "aespa エスパ 'KISS N TELL' MV",
    "channel": "SMTOWN",
-   "views": 467812,
+   "views": 551656,
    "url": "https://www.youtube.com/watch?v=inxzQt78lOk",
    "thumb": "https://i.ytimg.com/vi/inxzQt78lOk/hqdefault.jpg",
    "regions": [
@@ -66,25 +67,10 @@
    "comment": "aespaの新曲「KISS N TELL」のミュージックビデオのようです。"
   },
   {
-   "id": "irVNGjRFZGk",
-   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-   "channel": "Marvel Entertainment",
-   "views": 46123450,
-   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-   "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "IN"
-   ],
-   "rank": 5,
-   "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
-  },
-  {
    "id": "z7eGToy4MWk",
    "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
    "channel": "HYBE LABELS",
-   "views": 2732323,
+   "views": 2829285,
    "url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
    "thumb": "https://i.ytimg.com/vi/z7eGToy4MWk/hqdefault.jpg",
    "regions": [
@@ -92,14 +78,14 @@
     "GB",
     "BR"
    ],
-   "rank": 6,
+   "rank": 5,
    "comment": "KATSEYEの新曲「Animal」の公式MVティーザー第2弾のようです。"
   },
   {
    "id": "mNd1gb19A-c",
    "title": "RESIDENT EVIL – Official Trailer (4K)",
    "channel": "Sony Pictures Entertainment",
-   "views": 2426550,
+   "views": 2767556,
    "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
    "thumb": "https://i.ytimg.com/vi/mNd1gb19A-c/hqdefault.jpg",
    "regions": [
@@ -107,50 +93,65 @@
     "GB",
     "BR"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "バイオハザードの公式トレーラー4K映像が公開されているようです。"
+  },
+  {
+   "id": "3Z42tBfBLJY",
+   "title": "Marvel’s Wolverine - Story Trailer | PS5 Games",
+   "channel": "PlayStation",
+   "views": 205711,
+   "url": "https://www.youtube.com/watch?v=3Z42tBfBLJY",
+   "thumb": "https://i.ytimg.com/vi/3Z42tBfBLJY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 7,
+   "comment": "PS5『Marvel’s Wolverine』のストーリーが垣間見える予告編のようですね。"
+  },
+  {
+   "id": "irVNGjRFZGk",
+   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+   "channel": "Marvel Entertainment",
+   "views": 46234001,
+   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+   "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 8,
+   "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
   },
   {
    "id": "OGO4Mqvo3jI",
    "title": "Clayface | Official Trailer",
    "channel": "DC",
-   "views": 6993464,
+   "views": 7183119,
    "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
    "thumb": "https://i.ytimg.com/vi/OGO4Mqvo3jI/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "クレイフェイスの公式トレーラーが公開されているようです。"
   },
   {
    "id": "-swgjnYWt4g",
    "title": "MINECRAFT WONDERLAND",
    "channel": "Flamingo",
-   "views": 630880,
+   "views": 666024,
    "url": "https://www.youtube.com/watch?v=-swgjnYWt4g",
    "thumb": "https://i.ytimg.com/vi/-swgjnYWt4g/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "マインクラフトの世界を楽しむ様子が映されているようです。"
-  },
-  {
-   "id": "kMsiD1Nky5I",
-   "title": "Coyote vs. ACME | Final Trailer",
-   "channel": "Coyote vs. Acme",
-   "views": 316940,
-   "url": "https://www.youtube.com/watch?v=kMsiD1Nky5I",
-   "thumb": "https://i.ytimg.com/vi/kMsiD1Nky5I/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "コヨーテとアクメの対決を描く映画の最終予告編かもしれません。"
+   "comment": "マインクラフトの世界を楽しむ様子が映されているようです。"
   }
  ],
  "comment_cache": {
@@ -193,6 +194,7 @@
   "mNd1gb19A-c": "バイオハザードの公式トレーラー4K映像が公開されているようです。",
   "inxzQt78lOk": "aespaの新曲「KISS N TELL」のミュージックビデオのようです。",
   "MOclJJ7IpSY": "FC27の公式発表トレーラーが公開されたようです。(23文字)",
-  "kMsiD1Nky5I": "コヨーテとアクメの対決を描く映画の最終予告編かもしれません。"
+  "kMsiD1Nky5I": "コヨーテとアクメの対決を描く映画の最終予告編かもしれません。",
+  "3Z42tBfBLJY": "PS5『Marvel’s Wolverine』のストーリーが垣間見える予告編のようですね。"
  }
 }
