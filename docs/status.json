@@ -1,7 +1,18 @@
 {
- "updated": "2026-07-23 08:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-07-23 09:01",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "NVIDIAフアンCEOが語る日本復活と数十億ドル投資の勝算",
+   "path": "/articles/20260723-nvidia-ceo-japan-revival-strategy.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AMDが最大50億ドル出資、Anthropicと提携",
+   "path": "/articles/20260723-amd-anthropic-strategic-partnership.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
