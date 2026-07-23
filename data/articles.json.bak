@@ -5153,5 +5153,73 @@
   "date": "2026-07-24",
   "time": "01:00",
   "path": "/articles/20260724-lotte-bikkuriman-ai-goods-maker.html"
+ },
+ {
+  "title": "Etched、GPU不要の新チップで103億ドル評価の理由",
+  "lead": "ハーバード大学を中退した3人組が創業したAIチップスタートアップのEtchedが、GPUを不要にする新しいチップとメモリコンポーネントを発表し、大手投資家から103億ドルの評価を獲得しました。",
+  "summary3": [
+   "Etchedが新チップで103億ドルの評価",
+   "GPU不要でAIモデルの推論を高速化",
+   "ハーバード中退の3人組が創業した企業"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。AIチップ分野のスタートアップであるEtchedが、懐疑的な見方を覆し、大物投資家から103億ドルもの評価額に達したことが明らかになりました。同社はハーバード大学を中退した3人組によって設立された注目の企業です。",
+   "元記事の情報によると、同社はあらゆるAIモデルにおいて推論を高速化する、新しいチップとメモリコンポーネントを独自に開発しました。さらに特筆すべき点として、これらの技術を活用することで、従来のAI開発に必須とされていたGPUが一切不要になるとしています。",
+   "GPUを必要としない独自の半導体アプローチは、現在のAIハードウェア市場の常識に一石を投じるものです。多くの懐疑的な視線が存在する中での大型評価額の獲得は、同社の新技術が持つポテンシャルの高さを裏付けるものと言えそうです。"
+  ],
+  "tags": [
+   "AI半導体",
+   "スタートアップ",
+   "資金調達"
+  ],
+  "slug": "etched-hits-10b-valuation",
+  "people": [],
+  "terms": [
+   {
+    "name": "Etched",
+    "type": "company",
+    "desc": "AIモデルの推論を高速化する新しいチップやメモリコンポーネントを開発するアメリカのスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "02:00",
+  "path": "/articles/20260724-etched-hits-10b-valuation.html"
+ },
+ {
+  "title": "フォードが次世代EVにApple Maps採用、3万ドルのトラックはなぜ選ばれたのか",
+  "lead": "米国の自動車大手フォードが、次世代EVプラットフォームおよび更新されたBlueCruiseに「Apple Maps」を導入すると発表しました。",
+  "summary3": [
+   "フォードが次世代EVにApple Maps採用",
+   "2027年発売の3万ドルミドルサイズEVに搭載",
+   "自然言語での案内やリアルタイム交通情報を提供"
+  ],
+  "body": [
+   "米国の自動車大手フォードは、木曜日の発表において、Apple Mapsを自社の「ユニバーサル・エレクトリック・ビークル・プラットフォーム」に直接組み込む計画を明らかにしました。このシステムは、2027年に発売が予定されている3万ドルのミドルサイズピックアップトラックから導入されることになります。",
+   "今回の統合により、Apple Mapsを活用した様々な機能が提供されます。具体的には、自然言語によるターンバイターン方式の道案内をはじめ、リアルタイムの交通情報やインシデント情報、さらに詳細な機能を備えた直感的な検索機能などが利用可能になるとのことです。",
+   "また、今回の発表ではApple Mapsの導入と合わせて、更新された「BlueCruise」についても言及されています。フォードの次世代EVプラットフォームにおける今後の展開と、ドライバーアシスト機能の進化に引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "フォード",
+   "Apple Maps",
+   "EV"
+  ],
+  "slug": "ford-picks-apple-maps-for-ev-platform",
+  "people": [],
+  "terms": [
+   {
+    "name": "フォード",
+    "type": "company",
+    "desc": "アメリカ合衆国・ミシガン州に本拠を置く、世界的な自動車製造・販売会社。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "02:00",
+  "path": "/articles/20260724-ford-picks-apple-maps-for-ev-platform.html"
  }
 ]

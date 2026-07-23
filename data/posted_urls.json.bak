@@ -161,7 +161,9 @@
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QWI4dEUyNWREVFJzbmtISXFHeVpCdWlWTWRUY1FFYmtad3NNU04yMEJFZXNmRzVXWHVSV3pDaDliWVNEeU1qRlBQelRoeWxMakE3emE1ak1hNERTZG1B?oc=5",
   "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
   "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
-  "https://www.itmedia.co.jp/news/articles/2607/23/news086.html"
+  "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+  "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+  "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -469,6 +471,10 @@
   "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
   "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに　ロッテが新サービス公開へ",
   "AlibabaのQwen-Audio-3.0-TTS登場、Gemini超えの理由は",
-  "ロッテが自分の顔をAIでビックリマン風キャラに"
+  "ロッテが自分の顔をAIでビックリマン風キャラに",
+  "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+  "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
+  "Etched、GPU不要の新チップで103億ドル評価の理由",
+  "フォードが次世代EVにApple Maps採用、3万ドルのトラックはなぜ選ばれたのか"
  ]
 }
