@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-24 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-24 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "米議員がAI停止法案提出へ、DHS命令でシステム制御可能に",
-   "path": "/articles/20260724-lawmakers-prepare-ai-kill-switch-bill.html",
-   "cat": "AI(海外)"
+   "title": "AlibabaのQwen-Audio-3.0-TTS登場、Gemini超えの理由は",
+   "path": "/articles/20260724-qwen-audio-3-tts-released.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ロッテが自分の顔をAIでビックリマン風キャラに",
+   "path": "/articles/20260724-lotte-bikkuriman-ai-goods-maker.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {

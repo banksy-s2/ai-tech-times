@@ -1,22 +1,17 @@
 {
- "updated": "2026-07-23 23:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-24 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "いよぎんHDと愛媛銀行が経営統合へ最終調整、その背景とは",
-   "path": "/articles/20260723-iyogin-ehime-bank-integration.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "6146.T出荷額1,359億円、装置30億円下振れの理由",
-   "path": "/articles/20260723-6146-t-fy2026-q1-earnings.html",
-   "cat": "日本企業"
+   "title": "米議員がAI停止法案提出へ、DHS命令でシステム制御可能に",
+   "path": "/articles/20260724-lawmakers-prepare-ai-kill-switch-bill.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
-  "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-  "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
+  "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
+  "url": "https://www.youtube.com/watch?v=ylGKgCWazw0"
  },
  "notes": [],
- "pv_today": 49
+ "pv_today": 2
 }
