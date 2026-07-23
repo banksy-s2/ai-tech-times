@@ -3717,5 +3717,73 @@
   "date": "2026-07-23",
   "time": "09:01",
   "path": "/articles/20260723-amd-anthropic-strategic-partnership.html"
+ },
+ {
+  "title": "IBM株急落、AIがメインフレームを殺していない理由",
+  "lead": "IBMの株価が先週急落したことを受け、CEOがメインフレーム販売低迷とAIの関係について説明しました。",
+  "summary3": [
+   "IBM株がメインフレーム販売低迷で急落",
+   "CEOがAIの影響について説明を行った",
+   "AIが企業予算を一時的に圧迫したと主張"
+  ],
+  "body": [
+   "米国のテクノロジー企業であるIBMの株価が先週、メインフレームの販売不振に関する警告を受けて急落しました。この事態を受け、同社のCEOはメインフレームがAIによって衰退しているわけではないとの見解を示しています。",
+   "CEOによると、人工知能（AI）関連の需要が企業のハードウェア予算を一時的に狂わせたことが原因であるとのことです。AIの導入や関連投資が優先された結果、従来のハードウェア予算に一時的な影響が出たと説明されています。",
+   "同社は、今回の販売不振はAIによる一時的な予算配分の変化によるものであり、メインフレーム自体の需要が失われたわけではないと強調しています。今後の動向や企業による予算配分の変化に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "IBM",
+   "メインフレーム",
+   "AI"
+  ],
+  "slug": "ibm-mainframe-ai-impact",
+  "people": [],
+  "terms": [
+   {
+    "name": "IBM",
+    "type": "company",
+    "desc": "米国に拠点を置き、コンピュータハードウェアやソフトウェア等を手がける世界的なIT企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+  "category": "silicon",
+  "date": "2026-07-23",
+  "time": "10:00",
+  "path": "/articles/20260723-ibm-mainframe-ai-impact.html"
+ },
+ {
+  "title": "テスラ、売上26%増でも支出が急増した理由",
+  "lead": "米国の電気自動車大手テスラの売上高が26%増加したものの、新世代製品の投入に向けた営業費用の高騰や設備投資によって相殺されました。",
+  "summary3": [
+   "テスラの売上高が26%増加",
+   "営業費用と設備投資が急増",
+   "新製品の生産スケジュールに遅れ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道に基づきお伝えします。米国の電気自動車（EV）大手テスラが発表した最新の財務状況において、売上高が26%増加したことが明らかになりました。",
+   "しかし、この増収は、新たな世代の製品を市場へ投入するための取り組みを進める中で生じた、営業費用と設備投資の大幅な高騰を相殺するには至りませんでした。",
+   "その結果、同社が開発・展開を進めているサイバーキャブ、セミ、メガパックといった次世代製品の生産スケジュールに遅れが生じており、財政面での負担が浮き彫りとなっています。"
+  ],
+  "tags": [
+   "Tesla",
+   "TechCrunch",
+   "EV"
+  ],
+  "slug": "tesla-spending-skyrockets-production-timeline-slips",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、電気自動車や太陽光発電、蓄電池などを手掛ける大手企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+  "category": "silicon",
+  "date": "2026-07-23",
+  "time": "10:00",
+  "path": "/articles/20260723-tesla-spending-skyrockets-production-timeline-slips.html"
  }
 ]

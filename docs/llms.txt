@@ -3,6 +3,14 @@
 > AI・シリコンバレー速報・株式投資・インフルエンサー・世界の、1日の最新ニュースをお届け。AI編集部が毎時自動更新。 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・株式投資・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
+- [Adaptive Security：AIメールのクリック率は人間と同等](https://ai-tech-times.web.app/articles/20260723-adaptive-security-ai-email-threats.html): セキュリティ企業のAdaptive Securityは、生成AIの普及によりメールを悪用したサイバー攻撃の構図が変化しているとの見解を発表しました。
+- [20年間逃亡の指名手配犯、バイオテック企業幹部として隠れ逮捕](https://ai-tech-times.web.app/articles/20260723-fugitive-caught-as-biotech-exec.html): 20年間にわたり逃亡を続けていた指名手配犯が、先週ニューヨーク州で逮捕されました。彼はバイオテック企業の幹部として身を隠していたことが明らかになっています。
+- [元BE:FIRST三山凌輝、報道で呆れ声が続出](https://ai-tech-times.web.app/articles/20260723-miyama-ryoki-news-update.html): 元『BE:FIRST』の三山凌輝に関する報道をめぐり、世間から呆れ声が続出していることが分かりました。
+- [東京23区中古マンション1億2700万円超えの上昇に一服感](https://ai-tech-times.web.app/articles/20260723-tokyo-used-condo-prices-slowdown.html): 先月、東京23区で売り出された中古マンションの平均価格が70平方メートル換算で1億2700万円余りとなり、上昇には一服感が見え始めています。
+- [テスラ4～6月決算、EV販売増もAI投資で営業利益57%減](https://ai-tech-times.web.app/articles/20260723-tesla-q2-earnings-ai-investment.html): アメリカのEVメーカー「テスラ」が発表した4月〜6月期決算は、EV販売の増加により増収となりましたが、AI関連の投資が膨らみ減益となりました。
+- [三井松島HD株価がストップ高気配、27年3月期上方修正で大幅増配の背景](https://ai-tech-times.web.app/articles/20260723-mitsui-matsushima-hd-stock-price.html): 三井松島HDの株価がストップ高気配となりました。27年3月期の業績上方修正と大幅増配が発表されたことによるものです。
+- [グーグルクラウド売上高82%増、2026年設備投資を2050億ドルに](https://ai-tech-times.web.app/articles/20260723-alphabet-2026-q2-earnings.html): アルファベットの2026年第2四半期決算説明会において、グーグルクラウドの売上高が前年同期比82%増の248億ドルに達したことが発表されました。
+- [ピー・シー・エー営業益6％減、AI開発に16億円投入](https://ai-tech-times.web.app/articles/20260723-pca-fy2026-financial-results.html): ピー・シー・エーはFY2026の決算説明会を実施し、営業利益が6％減少したことやAI開発に16億円を投入する計画を明らかにしました。
 - [IBM株急落、AIがメインフレームを殺していない理由](https://ai-tech-times.web.app/articles/20260723-ibm-mainframe-ai-impact.html): IBMの株価が先週急落したことを受け、CEOがメインフレーム販売低迷とAIの関係について説明しました。
 - [テスラ、売上26%増でも支出が急増した理由](https://ai-tech-times.web.app/articles/20260723-tesla-spending-skyrockets-production-timeline-slips.html): 米国の電気自動車大手テスラの売上高が26%増加したものの、新世代製品の投入に向けた営業費用の高騰や設備投資によって相殺されました。
 - [NVIDIAフアンCEOが語る日本復活と数十億ドル投資の勝算](https://ai-tech-times.web.app/articles/20260723-nvidia-ceo-japan-revival-strategy.html): 米NVIDIAのジェンスン・フアンCEOが来日し、国内のAIインフラ構築へ数十億ドル規模の投資を発表しました。半導体バブルの未来と日本の強みについて熱く語っています。
@@ -10,14 +18,6 @@
 - [Anthropicが売上ランレート470億ドルに到達した理由](https://ai-tech-times.web.app/articles/20260723-menlo-ventures-matt-murphy-ai-startups.html): Menlo Venturesのマット・マーフィー氏が、インターネットやモバイルの波をも超える生成AIの成長と、AIスタートアップ創業者が取るべき異なるアプローチについて語りました。
 - [トラビス・カラニック氏のロボティクス企業Atomsが17億ドルを調達、その資金使途とは](https://ai-tech-times.web.app/articles/20260723-travis-kalanicks-robotics-company-raises-1-7b.html): 元Uberの最高経営責任者であるトラビス・カラニック氏が手掛けるロボティクス企業Atomsが、a16z主導のもと17億ドルという巨額の資金調達を実施しました。産業用AIを活用して世界を近代化するという同社の動向に注目が集まっています。
 - [Samsungら3社がDRAM価格を約8倍に高騰させた疑惑で訴訟](https://ai-tech-times.web.app/articles/20260723-dram-price-fixing-lawsuit.html): メモリ価格が約8倍にまで高騰した背景を巡り、大手半導体企業に対する反トラスト訴訟がアメリカで始まりました。
-- [アトラシアン、JiraにAI新機能でClaudeなどへタスク割当](https://ai-tech-times.web.app/articles/20260723-atlassian-jira-ai-features-claude-copilot.html): プロジェクト管理ツールを提供するアトラシアンは、Jiraに生成AI機能を組み込み、要件定義の自動作成やAIエージェントへのタスク割り当て機能を発表しました。
-- [Alphabet、Q2売上高24%増の1198億ドルを達成した理由とは](https://ai-tech-times.web.app/articles/20260723-alphabet-reports-q2-revenue-up-24-percent.html): Alphabet Inc.は2026年7月22日、同年6月30日付けの四半期決算を発表しました。売上高は予想を上回り、クラウド部門などが大きく成長しています。
-- [トランプ氏「船舶攻撃ならインフラ破壊」](https://ai-tech-times.web.app/articles/20260723-trump-iran-infrastructure-threat.html): アメリカとイランの間で攻撃の応酬が続く中、トランプ大統領が今後の対応について新たな主張を行いました。
-- [食料品消費税減税、方向性打ち出し困難の理由](https://ai-tech-times.web.app/articles/20260723-food-consumption-tax-reduction-difficulty.html): 超党派の会議で議論されている食料品の消費税減税をめぐり、各党の意見の隔たりから方向性の提示が難しい見方が強まっています。
-- [グーグル親会社、営業利益6兆6400億円余に増えた背景](https://ai-tech-times.web.app/articles/20260723-alphabet-google-q2-earnings.html): アメリカのIT大手グーグルの親会社「アルファベット」が4月〜6月期の決算を発表し、売り上げと営業利益が大幅に増加しました。
-- [農林水産省7月調査：輸入牛肉と豚肉が過去最高、円安が影響か](https://ai-tech-times.web.app/articles/20260723-imported-meat-retail-prices-record-high.html): 農林水産省が発表した7月の食品価格動向調査によると、輸入された牛肉と豚肉の小売価格が過去最高を更新しました。価格上昇の背景には円安の影響があるとみられています。
-- [東証プライム食品メーカー65社給料ランキング、年収1000万円台は6社](https://ai-tech-times.web.app/articles/20260723-food-maker-salary-ranking-prime.html): ダイヤモンド・オンラインは、東証プライム上場の食品メーカー65社を対象とした給料ランキングを発表しました。年収1000万円台に達した企業数や、意外な菓子メーカーの順位が明らかになっています。
-- [ジーデップ・アドバンス、営業益33%増の11.1億円を達成](https://ai-tech-times.web.app/articles/20260723-gdep-advance-fy2026-financial-results.html): ジーデップ・アドバンスは決算説明会を実施し、営業利益が前年比33%増の11.1億円となったことを発表しました。
 
 ## 世界のバズ動画TOP3 (2026-07-23)
 - 1位: [Avengers: Doomsday | Official Trailer | In Theaters December 18](https://www.youtube.com/watch?v=irVNGjRFZGk)
