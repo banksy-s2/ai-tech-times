@@ -1,11 +1,41 @@
 {
- "updated": "2026-07-23 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-23 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "カバー社、VTuber誹謗中傷で1投稿150万円示談",
-   "path": "/articles/20260723-cover-corp-vtuber-defamation-settlement.html",
-   "cat": "インフルエンサー"
+   "title": "三菱電機とソニーが新会社設立、AIビジョンセンサー開発へ",
+   "path": "/articles/20260723-mitsubishi-sony-ai-vision-sensor.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "SoundCloud、閉鎖されたNina Protocolを買収した理由",
+   "path": "/articles/20260723-soundcloud-acquires-nina-protocol.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "身代金を支払ってもハッカーが再来する理由",
+   "path": "/articles/20260723-ransomware-hackers-return-techcrunch.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "サムスン厚さ4ミリ超薄型スマホ発表、競争激化か",
+   "path": "/articles/20260723-samsung-announces-ultra-thin-foldable-smartphone.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米軍がイランを11日連続攻撃、ホルムズ海峡の管理巡りこう着",
+   "path": "/articles/20260723-us-military-attacks-iran-hormuz-strait.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "BASE、売上高36％増の大幅成長――ポート買収で狙う展開",
+   "path": "/articles/20260723-base-fy2026-q1-results.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "経団連・筒井会長が明かす「投資けん引型経済」の実現策",
+   "path": "/articles/20260723-keidanren-summer-forum-investment.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,7 +43,11 @@
   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk"
  },
  "notes": [
-  "再発警報: innerHTML使用が基準(3)を超過(4) — XSS再発リスク、要レビュー"
+  "執筆失敗: 音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、",
+  "執筆失敗: 「（情報商材で）１０万円到達できました」子育てインフルエンサーに虚偽の投稿依頼、",
+  "執筆失敗: スシローのF&LC株価、一時2.3%高 定番メニュー1割を値上げ - 日本経済新",
+  "執筆失敗: 【年末7万5000円も？日経平均の今後】AI・半導体株\"調整”の背景／グーグルが",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 49
 }
