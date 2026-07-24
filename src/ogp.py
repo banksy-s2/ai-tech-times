@@ -28,6 +28,19 @@ TEXT = (236, 232, 223)     # 温かい新聞紙色
 MUTED = (142, 148, 172)
 
 
+def _is_valid_png(path: Path, w: int = 0, h: int = 0) -> bool:
+    """PNGとして開けて期待サイズかを確認(サイズだけの判定では壊れ画像を見逃す)"""
+    if not _PIL_OK:
+        return path.exists()
+    try:
+        with Image.open(path) as im:
+            im.verify()
+        with Image.open(path) as im:  # verify後は再オープンが必要
+            return (im.format == "PNG") and (not w or im.size == (w, h))
+    except Exception:
+        return False
+
+
 def _save_atomic(img, out: Path) -> None:
     """一時ファイル経由で保存(中断しても壊れた画像を残さない)"""
     import os
@@ -63,15 +76,10 @@ def generate(article: dict) -> str | None:
     art_id = article["path"].rsplit("/", 1)[-1].replace(".html", "")
     out = OGP_DIR / f"{art_id}.png"
     rel = f"/ogp/{art_id}.png"
-    if out.exists():
-        # 壊れた/中断で残った画像(極小サイズ)は作り直す。正常なものは再生成しない
-        try:
-            if out.stat().st_size > 2000:
-                return rel
-        except OSError:
-            return rel
+    if out.exists() and _is_valid_png(out, W, H):
+        return rel  # 正常な画像は再生成しない
     if not _PIL_OK:
-        return None
+        return rel if out.exists() else None
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)
         img = Image.new("RGB", (W, H), BG)
@@ -111,7 +119,7 @@ def generate(article: dict) -> str | None:
 def generate_logo() -> None:
     """schema.org publisher.logo 用の正方形ロゴ(docs/ogp/logo.png)。無ければ作る"""
     out = OGP_DIR / "logo.png"
-    if out.exists() or not _PIL_OK:
+    if (out.exists() and _is_valid_png(out, 512, 512)) or not _PIL_OK:
         return
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)
@@ -131,7 +139,7 @@ def generate_logo() -> None:
 def generate_default() -> None:
     """トップ/カテゴリ用のデフォルトOGP(docs/ogp/default.png)。無ければ作る"""
     out = OGP_DIR / "default.png"
-    if out.exists() or not _PIL_OK:
+    if (out.exists() and _is_valid_png(out, W, H)) or not _PIL_OK:
         return
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)

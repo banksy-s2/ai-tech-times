@@ -51,9 +51,12 @@ def gemini_budget() -> tuple:
     path = Path(__file__).resolve().parent.parent / "data" / "gemini_budget.json"
     d = storage.load_json(path, {})
     today = datetime.now(JST).strftime("%Y-%m-%d")
-    if d.get("date") != today:
+    if not isinstance(d, dict) or d.get("date") != today:
         return (0, 200)
-    return (d.get("count", 0), 200)
+    c = d.get("count", 0)
+    if not isinstance(c, int) or isinstance(c, bool) or c < 0:  # 型不正で日報が止まらないように
+        return (0, 200)
+    return (c, 200)
 
 
 def write(articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None:

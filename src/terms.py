@@ -144,5 +144,6 @@ def collect(articles: list[dict]) -> dict:
             "slug": slug,
             "url": f"/term/{url_slug(slug)}.html",  # HTML/sitemapはこれを使う
             "latest": arts[0]["date"] if arts else "",
+            "latest_time": arts[0].get("time", "07:00") if arts else "07:00",
         }
     return out

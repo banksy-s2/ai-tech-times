@@ -875,9 +875,16 @@ def _sitemap(arts: list[dict], tdict: dict | None = None, digest_cats: list | No
              + [f"{BASE_URL}/digest/{c}.html" for c in (digest_cats or [])])  # 実在するdigestのみ
     rows = [f"<url><loc>{u}</loc>{lm}</url>" for u in fixed]  # 一覧系は毎便更新
     for t in (tdict or {}).values():
-        rows.append(f"<url><loc>{BASE_URL}{t['url']}</loc><lastmod>{_iso(t['latest'])}</lastmod></url>")
-    rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc><lastmod>{_iso(d, '23:59')}</lastmod></url>"
-             for d in sorted({a['date'] for a in arts})]
+        rows.append(f"<url><loc>{BASE_URL}{t['url']}</loc>"
+                    f"<lastmod>{_iso(t['latest'], t.get('latest_time', '07:00'))}</lastmod></url>")
+    # 日別アーカイブ: その日の最終記事の時刻を使う(23:59固定だと当日分が未来時刻になる)
+    day_last: dict = {}
+    for a in arts:
+        t = a.get("time", "07:00")
+        if t > day_last.get(a["date"], ""):
+            day_last[a["date"]] = t
+    rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc><lastmod>{_iso(d, day_last[d])}</lastmod></url>"
+             for d in sorted(day_last)]
     rows += [f"<url><loc>{BASE_URL}{a['path']}</loc><lastmod>{_iso(a['date'], a.get('time', '07:00'))}</lastmod></url>" for a in arts]
     entries = "\n".join(rows)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -940,23 +947,44 @@ def _llms_txt(arts: list[dict], buzz_data: dict, tdict: dict | None = None) -> s
 
 def _sweep_orphans(arts: list[dict], tdict: dict) -> None:
     """データから消えた記事の残骸(記事HTML/OGP/アーカイブ/用語ページ)を掃除。
-    公開状態の孤児ページはサイトマップから消えても残り続けるため(第4回監査指摘)"""
-    keep_articles = {a["path"].rsplit("/", 1)[-1] for a in arts}
-    keep_ogp = {f"{p.replace('.html', '.png')}" for p in keep_articles} | {"default.png", "logo.png"}
-    keep_days = {f"{d}.html" for d in {a["date"] for a in arts}} | {"index.html"}
-    keep_terms = {f"{t['slug']}.html" for t in tdict.values()} | {"index.html"}
-    removed = 0
+    公開状態の孤児ページはサイトマップから消えても残り続けるため(第4回監査指摘)。
+
+    **安全弁**: 台帳が読めないだけで全削除する事故を防ぐ(第6回監査の重大指摘)。
+    記事ゼロ、または既存ファイルの3割超を消そうとする場合は掃除自体を中止する。
+    """
+    if not arts or not tdict:
+        print("  [build] 掃除中止: 記事/用語データが空(台帳の読み込み失敗の可能性)")
+        return
+
+    def norm(s: str) -> str:  # Windowsは大小文字を区別しないため比較も揃える
+        return s.lower()
+
+    keep_articles = {norm(a["path"].rsplit("/", 1)[-1]) for a in arts}
+    keep_ogp = {norm(p.replace(".html", ".png")) for p in keep_articles} | {"default.png", "logo.png"}
+    keep_days = {norm(f"{d}.html") for d in {a["date"] for a in arts}} | {"index.html"}
+    keep_terms = {norm(f"{t['slug']}.html") for t in tdict.values()} | {"index.html"}
+    ALLOWED_EXT = {".html", ".png"}  # 生成物以外(README等)は対象にしない
+    targets = []
     for d, keep in ((DOCS / "articles", keep_articles), (DOCS / "ogp", keep_ogp),
                     (DOCS / "archive", keep_days), (DOCS / "term", keep_terms)):
         if not d.is_dir():
             continue
-        for f in d.iterdir():
-            if f.is_file() and f.name not in keep and not f.name.endswith(".tmp.png"):
-                try:
-                    f.unlink()
-                    removed += 1
-                except OSError:
-                    pass
+        files = [f for f in d.iterdir() if f.is_file()]
+        doomed = [f for f in files
+                  if f.suffix.lower() in ALLOWED_EXT
+                  and norm(f.name) not in keep
+                  and not f.name.endswith(".tmp.png")]
+        if files and len(doomed) > len(files) * 0.3:  # 大量削除は異常とみなす
+            print(f"  [build] 掃除中止: {d.name}で{len(doomed)}/{len(files)}件を削除しようとした(異常)")
+            return
+        targets += doomed
+    removed = 0
+    for f in targets:
+        try:
+            f.unlink()
+            removed += 1
+        except OSError:
+            pass
     if removed:
         print(f"  [build] 孤児ファイル{removed}件を削除")
 
