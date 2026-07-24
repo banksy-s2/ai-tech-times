@@ -226,7 +226,7 @@ gtag('config', 'G-V2T0G11PSH');
 {body}
 </main>
 <footer><div class="wrap">© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
-<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/term/">AI用語事典</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
+<a href="{BASE_URL}/digest/">分野別まとめ</a> / <a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/term/">AI用語事典</a> / <a href="{BASE_URL}/buzz/">バズ動画殿堂</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
 </body>
 </html>"""
 
@@ -441,23 +441,88 @@ def _buzz_html(data: dict) -> str:
 </div>
 </div>""")
     date = data.get("date") or "未集計"
+    vids = data.get("videos", [])
+    top = vids[0] if vids else None
+    multi = [v for v in vids if len(v.get("regions", [])) >= 3]
     jsonld = _jsonld({
         "@context": "https://schema.org", "@type": "ItemList",
         "name": f"世界のバズ動画TOP10 ({date})",
+        "description": "世界6地域のYouTube急上昇を統合した、今世界でバズっている動画のランキング。",
+        "numberOfItems": len(vids),
         "itemListElement": [
             {"@type": "ListItem", "position": v["rank"], "url": v["url"], "name": v["title"]}
-            for v in data.get("videos", [])
+            for v in vids
         ],
     })
+    faq = _jsonld({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "今世界で一番バズっている動画は？",
+             "acceptedAnswer": {"@type": "Answer", "text":
+                (f"{date}時点の1位は「{top['title']}」({top['channel']}、{_fmt_views(top['views'])})です。"
+                 f"世界6地域のYouTube急上昇を統合して集計しました。" if top else "集計中です。")}},
+            {"@type": "Question", "name": "このランキングはどうやって集計していますか？",
+             "acceptedAnswer": {"@type": "Answer", "text":
+                "アメリカ・イギリス・日本・韓国・ブラジル・インドの6地域のYouTube急上昇を毎時取得し、"
+                "複数地域でランクインしている動画を優先しつつ再生回数順に統合しています。"}},
+        ],
+    })
+    summary = ""
+    if top:
+        multi_txt = (f"うち{len(multi)}本は3地域以上で同時に急上昇しており、国境を越えて広がっています。" if multi else "")
+        summary = f'''<div class="sum3"><div class="s3h">⚡ {date}のまとめ</div><p style="margin:6px 0 0">
+今世界で最もバズっている動画は「{e(top['title'])}」({e(top['channel'])}／{_fmt_views(top['views'])})です。{multi_txt}
+このランキングは米・英・日・韓・伯・印の6地域のYouTube急上昇を毎時集計して統合したものです。</p></div>'''
     body = f"""<article>
 <h1>世界のバズ動画TOP10</h1>
-<div class="meta">{date} 集計 / YouTube急上昇(米・英・日・韓・伯・印)を再生回数で統合</div>
+<div class="meta">{date} 集計 / 毎時更新 / <a href="{BASE_URL}/buzz/">過去のランキング・殿堂入りを見る</a></div>
+{summary}
 </article>
-{''.join(rows) if rows else '<p>本日の集計はまだありません。</p>'}"""
+{''.join(rows) if rows else '<p>本日の集計はまだありません。</p>'}
+<p style="margin-top:24px"><a href="{BASE_URL}/buzz/">→ 日別アーカイブと殿堂入りランキング</a></p>"""
     return _page(BUZZ_TITLE,
-                 "世界6地域(米・英・日・韓・伯・印)のYouTube急上昇を毎日集計。今世界でバズっている動画がランキングでわかる。",
+                 f"今世界でバズっている動画TOP10({date}時点の1位は「{top['title'][:24]}」)。米・英・日・韓・伯・印6地域のYouTube急上昇を毎時集計。" if top
+                 else "世界6地域のYouTube急上昇を毎時集計したバズ動画ランキング。",
                  "/buzz.html", body,
-                 f'<script type="application/ld+json">{jsonld}</script>')
+                 f'<script type="application/ld+json">{jsonld}</script>\n<script type="application/ld+json">{faq}</script>')
+
+
+def _buzz_archive_html(hist: dict, hof: list[dict]) -> str:
+    """バズ動画の日別アーカイブ+殿堂入り。独自データを検索資産に変える"""
+    e = html.escape
+    hof_rows = []
+    for i, v in enumerate(hof, 1):
+        span = f"{v['first']}〜{v['last']}" if v["first"] != v["last"] else v["first"]
+        hof_rows.append(f"""<div class="rank-card">
+<div class="rank-no">{i}</div>
+<a href="{e(v['url'])}" rel="noopener" target="_blank"><img class="rank-thumb" src="{e(v['thumb'])}" alt="{e(v['title'])}" loading="lazy"></a>
+<div class="rank-body">
+<h2><a href="{e(v['url'])}" rel="noopener" target="_blank">{e(v['title'])}</a></h2>
+<div class="rank-meta">{e(v['channel'])} / TOP10入り{v['days']}日 / 最高{v['best']}位 / {_fmt_views(v['views'])}</div>
+<div class="rank-comment">{span}</div>
+</div>
+</div>""")
+    day_rows = []
+    for day in sorted(hist, reverse=True)[:60]:
+        rows = sorted(hist[day], key=lambda r: r["rank"])
+        top3 = "／".join(e(r["title"][:26]) for r in rows[:3])
+        day_rows.append(f'<div class="card"><h2>{day}のTOP10</h2><div class="lead">1位〜3位: {top3}</div>'
+                        f'<div class="meta">{len(rows)}本を記録</div></div>')
+    body = f"""<a class="back" href="{BASE_URL}/buzz.html">← 今日のランキングへ</a>
+<article>
+<h1>バズ動画の殿堂入り・日別アーカイブ</h1>
+<div class="meta">{len(hist)}日分の記録 / 米・英・日・韓・伯・印の6地域を毎時集計</div>
+<div class="sum3"><div class="s3h">⚡ 殿堂入りとは</div><p style="margin:6px 0 0">
+世界6地域のYouTube急上昇TOP10に、何日間ランクインし続けたかで並べたランキングです。
+一瞬の瞬間風速ではなく「長く世界で愛された動画」がわかります。</p></div>
+</article>
+<h2 style="margin:28px 0 14px;font-size:1.1rem">殿堂入り(TOP10入り日数順)</h2>
+{''.join(hof_rows) if hof_rows else '<p>集計中です。</p>'}
+<h2 style="margin:32px 0 14px;font-size:1.1rem">日別の記録</h2>
+{''.join(day_rows) if day_rows else '<p>まだ記録がありません。</p>'}"""
+    return _page(f"バズ動画の殿堂入り・過去ランキング一覧 | {SITE_NAME}",
+                 "世界6地域のYouTube急上昇TOP10に長くランクインし続けた動画の殿堂入りランキングと、日別のバズ動画アーカイブ。",
+                 "/buzz/index.html", body)
 
 
 VIEWS_JS = """(function(){
@@ -640,6 +705,78 @@ def _term_index_html(tdict: dict) -> str:
                  "/term/index.html", body)
 
 
+def _digest_html(cat: str, arts: list[dict], tdict: dict) -> str:
+    """カテゴリ横断まとめ: 「この分野で今何が起きているか」を俯瞰する。
+    単発ニュースでは大手に勝てなくても、207本を持つ当社なら作れる資産ページ。"""
+    e = html.escape
+    label = CATEGORIES.get(cat, cat)
+    cat_arts = [a for a in arts if a.get("category") == cat]
+    if len(cat_arts) < 5:
+        return ""
+    # この分野でよく登場する用語(=論点)を抽出
+    from collections import Counter
+    cnt: Counter = Counter()
+    for a in cat_arts:
+        for t in a.get("terms", []) + a.get("people", []):
+            if isinstance(t, dict) and t.get("name"):
+                cnt[terms_mod.canonical(t["name"])] += 1
+    keys = [(n, c) for n, c in cnt.most_common(12) if c >= 2 and n in tdict]
+    key_rows = "".join(
+        f'<div class="card"><h2><a href="{BASE_URL}{tdict[n]["url"]}">{e(n)}</a> '
+        f'<span class="tag">{c}件</span></h2><div class="lead">{e(tdict[n]["desc"])}</div></div>'
+        for n, c in keys)
+    days = sorted({a["date"] for a in cat_arts}, reverse=True)
+    latest = cat_arts[0] if cat_arts else None
+    recent_rows = "".join(
+        f'<div class="card"><h2><a href="{BASE_URL}{a["path"]}">{e(a["title"])}</a></h2>'
+        f'<div class="lead">{e(a["lead"])}</div>'
+        f'<div class="meta"><span class="ctime">{a["date"]} {a.get("time","")}</span>出典: {e(a["source"])}</div></div>'
+        for a in cat_arts[:20])
+    kw = "、".join(n for n, _ in keys[:6])
+    intro = (f"AI TECH TIMESは{label}分野で{len(cat_arts)}本の記事を配信してきました。"
+             f"この分野で繰り返し登場している論点は{kw}です。" if keys else
+             f"AI TECH TIMESは{label}分野で{len(cat_arts)}本の記事を配信してきました。")
+    body = f"""<article>
+<h1>{label}の最新動向まとめ</h1>
+<div class="meta">{len(cat_arts)}本の記事から / {days[-1]}〜{days[0]} / 毎時更新</div>
+<div class="sum3"><div class="s3h">⚡ この分野の現在地</div><p style="margin:6px 0 0">{e(intro)}
+{('直近の動きは「' + e(latest['title']) + '」です。') if latest else ''}</p></div>
+</article>
+<h2 style="margin:28px 0 14px;font-size:1.1rem">この分野のキーワード</h2>
+{key_rows if key_rows else '<p>集計中です。</p>'}
+<h2 style="margin:32px 0 14px;font-size:1.1rem">最近の記事({min(len(cat_arts),20)}件 / 全{len(cat_arts)}件)</h2>
+{recent_rows}
+<p style="margin-top:20px"><a href="{BASE_URL}/{cat}.html">→ {label}の記事一覧をすべて見る</a></p>"""
+    ld = _jsonld({
+        "@context": "https://schema.org", "@type": "CollectionPage",
+        "name": f"{label}の最新動向まとめ", "description": intro,
+        "inLanguage": "ja", "isPartOf": {"@id": f"{BASE_URL}/#org"},
+    })
+    return _page(f"{label}の最新動向まとめ — 記事{len(cat_arts)}本から見る現在地 | {SITE_NAME}",
+                 f"{label}分野で今何が起きているか。AI TECH TIMESが配信した{len(cat_arts)}本の記事から、主要な論点と最新の動きをまとめています。",
+                 f"/digest/{cat}.html", body, f'<script type="application/ld+json">{ld}</script>')
+
+
+def _digest_index_html(arts: list[dict]) -> str:
+    e = html.escape
+    from collections import Counter
+    cnt = Counter(a.get("category", "ai") for a in arts)
+    rows = "".join(
+        f'<div class="card"><h2><a href="{BASE_URL}/digest/{c}.html">{CATEGORIES[c]}の最新動向まとめ</a></h2>'
+        f'<div class="meta">{cnt[c]}本の記事から</div></div>'
+        for c in CATEGORIES if cnt.get(c, 0) >= 5)
+    body = f"""<article>
+<h1>分野別まとめ</h1>
+<div class="meta">全{len(arts)}本の記事を分野ごとに俯瞰</div>
+<div class="sum3"><div class="s3h">⚡ このページについて</div><p style="margin:6px 0 0">
+個別のニュースではなく「その分野で今何が起きているか」を、当サイトが配信した記事の蓄積から俯瞰するページです。毎時の更新で内容が育ちます。</p></div>
+</article>
+<div style="margin-top:16px">{rows}</div>"""
+    return _page(f"分野別まとめ — AI・株式・企業・世界の現在地 | {SITE_NAME}",
+                 "AI、シリコンバレー、株式投資、日本企業など分野ごとに「今何が起きているか」を記事の蓄積から俯瞰するまとめページ。",
+                 "/digest/index.html", body)
+
+
 def _weekly_html() -> str:
     from . import weekly as weekly_mod
     e = html.escape
@@ -718,8 +855,11 @@ def _feed_xml(arts: list[dict]) -> str:
 
 def _sitemap(arts: list[dict], tdict: dict | None = None) -> str:
     latest = _iso(arts[0]["date"], arts[0].get("time", "07:00")) if arts else ""
-    fixed = [f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html",
-             f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/", f"{BASE_URL}/term/"] + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+    fixed = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/buzz/",
+              f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/",
+              f"{BASE_URL}/term/", f"{BASE_URL}/digest/"]
+             + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+             + [f"{BASE_URL}/digest/{c}.html" for c in CATEGORIES])
     rows = [f"<url><loc>{u}</loc><lastmod>{latest}</lastmod></url>" for u in fixed]  # 一覧系は毎便更新
     for t in (tdict or {}).values():
         rows.append(f"<url><loc>{BASE_URL}{t['url']}</loc><lastmod>{_iso(t['latest'])}</lastmod></url>")
@@ -776,6 +916,8 @@ def _llms_txt(arts: list[dict], buzz_data: dict, tdict: dict | None = None) -> s
 - [日本企業]({BASE_URL}/jp_corp.html)
 - [時事・世界]({BASE_URL}/world.html)
 - [バズ動画TOP10]({BASE_URL}/buzz.html)
+- [分野別まとめ(今その分野で何が起きているか)]({BASE_URL}/digest/)
+- [バズ動画の殿堂入り・日別アーカイブ]({BASE_URL}/buzz/)
 - [週刊まとめ]({BASE_URL}/weekly.html)
 - [このサイトについて/FAQ]({BASE_URL}/about.html)
 - [RSSフィード]({BASE_URL}/feed.xml)
@@ -835,6 +977,10 @@ def build() -> None:
         (DOCS / f"{cat}.html").write_text(
             _page(seo_title, seo_desc, f"/{cat}.html", _cards(cat_arts[:60])), encoding="utf-8")
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
+    bhist = buzz.load_history()
+    (DOCS / "buzz").mkdir(exist_ok=True)
+    (DOCS / "buzz" / "index.html").write_text(
+        _buzz_archive_html(bhist, buzz.hall_of_fame(bhist)), encoding="utf-8")
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
     (DOCS / "weekly.html").write_text(_weekly_html(), encoding="utf-8")
     # AI用語事典: 記事の注釈を横断集約した「〇〇とは」ページ群
@@ -843,6 +989,15 @@ def build() -> None:
     for t in tdict.values():
         (DOCS / "term" / f"{t['slug']}.html").write_text(_term_html(t), encoding="utf-8")
     (DOCS / "term" / "index.html").write_text(_term_index_html(tdict), encoding="utf-8")
+    # 分野別まとめ: 記事の蓄積から「今その分野で何が起きているか」を俯瞰
+    (DOCS / "digest").mkdir(exist_ok=True)
+    digest_cats = []
+    for c in CATEGORIES:
+        h = _digest_html(c, arts, tdict)
+        if h:
+            (DOCS / "digest" / f"{c}.html").write_text(h, encoding="utf-8")
+            digest_cats.append(c)
+    (DOCS / "digest" / "index.html").write_text(_digest_index_html(arts), encoding="utf-8")
     (DOCS / "archive").mkdir(exist_ok=True)
     by_date: dict = {}
     for a in arts:

@@ -75,14 +75,52 @@ def fetch_top10() -> list[dict] | None:
     return top
 
 
+HISTORY_FILE = Path(__file__).resolve().parent.parent / "data" / "buzz_history.json"
+
+
 def save(videos: list[dict], comments: list[str], comment_cache: dict | None = None) -> None:
     for v, c in zip(videos, comments + [""] * 10):
         v["comment"] = c
+    today = datetime.now(JST).strftime("%Y-%m-%d")
     storage.save_json(DATA_FILE, {
-        "date": datetime.now(JST).strftime("%Y-%m-%d"),
+        "date": today,
         "videos": videos,
         "comment_cache": comment_cache or {},
     })
+    _append_history(today, videos)
+
+
+def _append_history(day: str, videos: list[dict]) -> None:
+    """日別TOP10を履歴に記録(その日の最終便の値で上書き)。殿堂入り集計と日別アーカイブの元データ"""
+    hist = load_history()
+    hist[day] = [{"rank": v["rank"], "id": v["id"], "title": v["title"], "channel": v["channel"],
+                  "views": v["views"], "url": v["url"], "thumb": v["thumb"],
+                  "regions": v.get("regions", []), "comment": v.get("comment", "")}
+                 for v in videos]
+    for old in sorted(hist)[:-400]:  # 400日分で頭打ち
+        hist.pop(old, None)
+    storage.save_json(HISTORY_FILE, hist)
+
+
+def load_history() -> dict:
+    return storage.load_json(HISTORY_FILE, {})
+
+
+def hall_of_fame(hist: dict, limit: int = 20) -> list[dict]:
+    """殿堂入り: ランクイン日数が多い順(同数なら最高順位→最大再生数)"""
+    agg: dict = {}
+    for day, rows in hist.items():
+        for r in rows:
+            a = agg.setdefault(r["id"], {"id": r["id"], "title": r["title"], "channel": r["channel"],
+                                         "url": r["url"], "thumb": r["thumb"], "days": 0,
+                                         "best": 99, "views": 0, "first": day, "last": day})
+            a["days"] += 1
+            a["best"] = min(a["best"], r["rank"])
+            a["views"] = max(a["views"], r["views"])
+            a["first"] = min(a["first"], day)
+            a["last"] = max(a["last"], day)
+            a["title"] = r["title"]
+    return sorted(agg.values(), key=lambda x: (-x["days"], x["best"], -x["views"]))[:limit]
 
 
 def load() -> dict:
