@@ -5,3 +5,4 @@ __pycache__/
 firebase-debug.log
 tools/
 logs/
+docs/ogp/

@@ -4,7 +4,7 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import buzz, storage
+from . import buzz, ogp, storage
 from .collect import CATEGORIES
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -145,7 +145,7 @@ def _fmt_views(n: int) -> str:
     return f"{n:,}回再生"
 
 
-def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
+def _page(title: str, desc: str, path: str, body: str, jsonld: str = "", og_image: str = "/ogp/default.png") -> str:
     e = html.escape
     nav = "".join(
         f'<a href="{BASE_URL}{href}" class="{"on" if href == path or (href != "/" and path.startswith(href)) else ""}">{label}</a>'
@@ -164,7 +164,9 @@ def _page(title: str, desc: str, path: str, body: str, jsonld: str = "") -> str:
 <meta property="og:url" content="{BASE_URL}{path}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:type" content="article">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{BASE_URL}{og_image}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{BASE_URL}{og_image}">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{BASE_URL}/feed.xml">
 <link rel="stylesheet" href="{BASE_URL}/style.css">
 <script defer src="{BASE_URL}/views.js"></script>
@@ -366,8 +368,9 @@ document.addEventListener("click", function(ev){
   }
 });
 </script>""".replace("__BASE__", BASE_URL)
+    og = ogp.generate(a) or "/ogp/default.png"
     return _page(f"{a['title']} | {SITE_NAME}", a["lead"], a["path"], body,
-                 f'<script type="application/ld+json">{jsonld}</script>')
+                 f'<script type="application/ld+json">{jsonld}</script>', og_image=og)
 
 
 def _buzz_html(data: dict) -> str:
@@ -617,6 +620,7 @@ def build() -> None:
     DOCS.mkdir(exist_ok=True)
     (DOCS / "articles").mkdir(exist_ok=True)
     (DOCS / "style.css").write_text(CSS, encoding="utf-8")
+    ogp.generate_default()
     e = html.escape
     breaking = ""
     if arts:
