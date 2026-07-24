@@ -89,6 +89,26 @@ def generate(article: dict) -> str | None:
         return None
 
 
+def generate_logo() -> None:
+    """schema.org publisher.logo 用の正方形ロゴ(docs/ogp/logo.png)。無ければ作る"""
+    out = OGP_DIR / "logo.png"
+    if out.exists():
+        return
+    try:
+        OGP_DIR.mkdir(parents=True, exist_ok=True)
+        S = 512
+        img = Image.new("RGB", (S, S), BG)
+        d = ImageDraw.Draw(img)
+        d.rectangle([0, 0, S, 10], fill=ACCENT)
+        f1 = ImageFont.truetype(FONT_BOLD, 92)
+        f2 = ImageFont.truetype(FONT_BOLD, 92)
+        d.text(((S - d.textlength("AI TECH", font=f1)) // 2, 180), "AI TECH", font=f1, fill=TEXT)
+        d.text(((S - d.textlength("TIMES", font=f2)) // 2, 270), "TIMES", font=f2, fill=AMBER)
+        img.save(out, "PNG")
+    except Exception as e:
+        print(f"  [ogp] ロゴ生成失敗: {e}")
+
+
 def generate_default() -> None:
     """トップ/カテゴリ用のデフォルトOGP(docs/ogp/default.png)。無ければ作る"""
     out = OGP_DIR / "default.png"

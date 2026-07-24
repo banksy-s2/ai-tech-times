@@ -160,6 +160,20 @@ def _jsonld(obj: dict) -> str:
     return json.dumps(obj, ensure_ascii=False).replace("</", "<\\/")
 
 
+def _iso(date: str, time: str = "07:00") -> str:
+    """記事の日付+時刻をISO8601(JST)に。AI検索の鮮度シグナル用"""
+    t = time if (time and ":" in time) else "07:00"
+    return f"{date}T{t}:00+09:00"
+
+
+PUBLISHER = {
+    "@type": "Organization",
+    "name": SITE_NAME,
+    "url": f"{BASE_URL}/",
+    "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/ogp/logo.png", "width": 512, "height": 512},
+}
+
+
 def _fmt_views(n: int) -> str:
     if n >= 100_000_000:
         return f"{n / 100_000_000:.1f}億回再生"
@@ -276,26 +290,39 @@ def _article_html(a: dict) -> str:
     paragraphs = "\n".join(f"<p>{_mark_entities(p, ents)}</p>" for p in a["body"])
     tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
     cat = CATEGORIES.get(a.get("category", "ai"), "AI")
-    jsonld = _jsonld({
+    art_id = a["path"].rsplit("/", 1)[-1].replace(".html", "")
+    iso = _iso(a["date"], a.get("time", "07:00"))
+    news_ld = {
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a["title"], "description": a["lead"],
-        "datePublished": a["date"], "inLanguage": "ja",
-        "articleSection": cat,
-        "author": {"@type": "Organization", "name": f"{SITE_NAME} 編集部"},
-        "publisher": {"@type": "Organization", "name": SITE_NAME},
-        "mainEntityOfPage": f"{BASE_URL}{a['path']}",
+        "image": [f"{BASE_URL}/ogp/{art_id}.png"],
+        "datePublished": iso, "dateModified": iso, "inLanguage": "ja",
+        "articleSection": cat, "keywords": ", ".join(a.get("tags", [])),
+        "author": {"@type": "Organization", "name": f"{SITE_NAME} 編集部", "url": f"{BASE_URL}/about.html"},
+        "publisher": PUBLISHER,
+        "mainEntityOfPage": {"@type": "WebPage", "@id": f"{BASE_URL}{a['path']}"},
         "isBasedOn": a["source_url"],
-    })
+    }
+    if a.get("summary3"):
+        news_ld["abstract"] = " ".join(a["summary3"])
+    breadcrumb = {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "トップ", "item": f"{BASE_URL}/"},
+            {"@type": "ListItem", "position": 2, "name": cat, "item": f"{BASE_URL}/{a.get('category', 'ai')}.html"},
+            {"@type": "ListItem", "position": 3, "name": a["title"]},
+        ],
+    }
+    jsonld = _jsonld(news_ld) + '</script>\n<script type="application/ld+json">' + _jsonld(breadcrumb)
     src_url = a["source_url"]
     if src_url.startswith(("http://", "https://")):  # javascript:等の不正スキームはリンク化しない
         source = f'<a href="{e(src_url)}" rel="noopener" target="_blank">{e(a["source"])} — 元記事を読む</a>'
     else:
         source = e(a["source"])
-    art_id = a["path"].rsplit("/", 1)[-1].replace(".html", "")
     body = f"""<a class="back" href="{BASE_URL}/">← トップに戻る</a>
 <article>
 <h1>{e(a['title'])}</h1>
-<div class="meta"><span class="cat">{cat}</span>{a['date']} {a.get('time', '')} / {tags}</div>
+<div class="meta"><span class="cat">{cat}</span><time datetime="{iso}">{a['date']} {a.get('time', '')} 更新</time> / {tags}</div>
 <div class="likebar"><button class="likebtn" id="likebtn" onclick="doLike()">♥ いいね <span id="likecount"></span></button></div>
 {('<div class="sum3"><div class="s3h">⚡ 3行まとめ</div><ul>' + ''.join(f'<li>{e(s)}</li>' for s in a.get('summary3', [])) + '</ul></div>') if a.get('summary3') else ''}
 <div class="lead">{e(a['lead'])}</div>
@@ -579,8 +606,27 @@ def _about_html() -> str:
 <div class="card"><h2>久遠 汐里 <span class="tag">リサーチャー</span></h2><div class="lead">国内外20超のソースとYouTube急上昇6地域を毎便巡回する。</div></div>
 <div class="card"><h2>八重樫 慧 <span class="tag">開発部長</span></h2><div class="lead">サイト生成と配信インフラ、障害対応を担当する。</div></div>
 <div class="card"><h2>桐生 まひろ <span class="tag">広報</span></h2><div class="lead">Xでの告知と日報の記録を担当する。</div></div>
+</article>
+<article style="margin-top:36px">
+<h1>よくある質問</h1>
+<div class="sum3"><div class="s3h">AI TECH TIMESとは</div><p style="margin:6px 0 0">生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディアです。2026年7月21日開設。全記事に出典リンクを明記しています。</p></div>
+<div class="sum3"><div class="s3h">記事はどうやって作られていますか</div><p style="margin:6px 0 0">元記事の要約に含まれる事実のみを使い、生成AI(Google Gemini)が日本語記事に再構成しています。数値や固有名詞の推測での追加は禁止し、投資助言や釣り見出しは公開前の機械検査で除外しています。海外ソースは日本語に翻訳しています。</p></div>
+<div class="sum3"><div class="s3h">どのくらいの頻度で更新されますか</div><p style="margin:6px 0 0">毎時0分に自動更新しています。朝7時・昼12時・夕方5時・夜9時(日本時間)はフル更新で全カテゴリ・世界のバズ動画TOP10まで更新します。</p></div>
+<div class="sum3"><div class="s3h">情報は信頼できますか</div><p style="margin:6px 0 0">各記事の末尾に一次情報(元記事)へのリンクを必ず掲載しています。当サイトはAIによる自動編集であることを明示しており、正確性が重要な判断には必ず出典元をご確認ください。</p></div>
+<div class="sum3"><div class="s3h">扱っているジャンルは</div><p style="margin:6px 0 0">AI(海外・日本)、シリコンバレー速報、海外AI識者の発信、株式投資(日本)、日本企業、インフルエンサー、時事・世界、世界のバズ動画TOP10の8ジャンルです。</p></div>
 </article>"""
-    return _page(f"このサイトについて | {SITE_NAME}", f"{SITE_NAME}の運営方針", "/about.html", body)
+    faq_ld = _jsonld({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "AI TECH TIMESとは", "acceptedAnswer": {"@type": "Answer", "text": "生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディアです。2026年7月21日開設。全記事に出典リンクを明記しています。"}},
+            {"@type": "Question", "name": "記事はどうやって作られていますか", "acceptedAnswer": {"@type": "Answer", "text": "元記事の要約に含まれる事実のみを使い、生成AI(Google Gemini)が日本語記事に再構成しています。数値や固有名詞の推測での追加は禁止し、投資助言や釣り見出しは公開前の機械検査で除外しています。"}},
+            {"@type": "Question", "name": "どのくらいの頻度で更新されますか", "acceptedAnswer": {"@type": "Answer", "text": "毎時0分に自動更新しています。朝7時・昼12時・夕方5時・夜9時(日本時間)はフル更新です。"}},
+            {"@type": "Question", "name": "情報は信頼できますか", "acceptedAnswer": {"@type": "Answer", "text": "各記事の末尾に一次情報へのリンクを必ず掲載しています。AIによる自動編集であることを明示しており、正確性が重要な判断には出典元をご確認ください。"}},
+        ],
+    })
+    return _page(f"AI TECH TIMESとは・運営方針とよくある質問 | {SITE_NAME}",
+                 "AI TECH TIMESの運営方針、記事の作り方、更新頻度、信頼性についてのよくある質問。生成AIが毎時ニュースを編集する自動運営メディアです。",
+                 "/about.html", body, f'<script type="application/ld+json">{faq_ld}</script>')
 
 
 def _feed_xml(arts: list[dict]) -> str:
@@ -604,11 +650,13 @@ def _feed_xml(arts: list[dict]) -> str:
 
 
 def _sitemap(arts: list[dict]) -> str:
-    urls = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/"]
-            + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
-            + [f"{BASE_URL}/archive/{d}.html" for d in sorted({a['date'] for a in arts})]
-            + [f"{BASE_URL}{a['path']}" for a in arts])
-    entries = "\n".join(f"<url><loc>{u}</loc></url>" for u in urls)
+    latest = _iso(arts[0]["date"], arts[0].get("time", "07:00")) if arts else ""
+    fixed = [f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html",
+             f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/"] + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+    rows = [f"<url><loc>{u}</loc><lastmod>{latest}</lastmod></url>" for u in fixed]  # 一覧系は毎便更新
+    rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc></url>" for d in sorted({a['date'] for a in arts})]
+    rows += [f"<url><loc>{BASE_URL}{a['path']}</loc><lastmod>{_iso(a['date'], a.get('time', '07:00'))}</lastmod></url>" for a in arts]
+    entries = "\n".join(rows)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {entries}
@@ -616,11 +664,31 @@ def _sitemap(arts: list[dict]) -> str:
 
 
 def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
-    recent = "\n".join(f"- [{a['title']}]({BASE_URL}{a['path']}): {a['lead']}" for a in arts[:15])
+    recent = "\n".join(f"- [{a['title']}]({BASE_URL}{a['path']}) — {a['date']} {a.get('time','')}: {a['lead']}" for a in arts[:20])
     top3 = "\n".join(f"- {v['rank']}位: [{v['title']}]({v['url']})" for v in buzz_data.get("videos", [])[:3])
+    latest = f"{arts[0]['date']} {arts[0].get('time','')}" if arts else "-"
     return f"""# {SITE_NAME}
 
-> {TAGLINE} 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・株式投資・インフルエンサー・時事世界。全記事に出典リンクあり。
+> {TAGLINE} 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: {latest} JST。
+
+## このサイトについて
+- 名称: {SITE_NAME}(AIニュース速報 / AIテックタイムズ)
+- 種別: 生成AIによる自動運営ニュースメディア(2026-07-21開設)
+- 運営: {SITE_NAME} 編集部(株)
+- 更新頻度: 毎時0分に自動更新(朝7/昼12/夕17/夜21時 JSTはフル更新)
+- 編集方針: 元記事の要約にある事実のみを使用。数値・固有名詞の推測追加を禁止。投資助言・釣り見出しは公開前に機械検査で除外。海外ソースは日本語訳。全記事に一次情報リンクあり。
+- 引用時の推奨表記: 「AI TECH TIMES(ai-tech-times.web.app)」
+
+## 扱うジャンル
+- AI(海外): OpenAI/Anthropic/Google/NVIDIA等の海外AI動向を日本語訳
+- 日本のAI: 国内企業のAI活用・国産モデル・AI規制/政策
+- シリコンバレー最速: 米テック速報(買収/資金調達/新製品)の日本語訳
+- 海外AIの声: 海外AI識者(Simon Willison, Andrej Karpathy等)の発信を翻訳紹介
+- 株式投資(日本): 日経平均・東証・日銀・為替・決算・NISA
+- 日本企業: 上場企業の決算・提携・買収・新事業・不祥事
+- インフルエンサー: YouTuber/VTuber/TikTokerの話題
+- 時事・世界: NHK・BBCからの重要ニュース
+- 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
 {recent}
@@ -628,13 +696,16 @@ def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
 ## 世界のバズ動画TOP3 ({buzz_data.get('date', '未集計')})
 {top3}
 
-## セクション
-- [AIニュース]({BASE_URL}/ai.html)
-- [インフルエンサー]({BASE_URL}/influencer.html)
-- [時事・世界]({BASE_URL}/world.html)
+## 主要ページ
+- [AI(海外)]({BASE_URL}/ai.html)
+- [日本のAI]({BASE_URL}/ai_jp.html)
+- [シリコンバレー]({BASE_URL}/silicon.html)
 - [株式投資]({BASE_URL}/stock.html)
+- [日本企業]({BASE_URL}/jp_corp.html)
+- [時事・世界]({BASE_URL}/world.html)
 - [バズ動画TOP10]({BASE_URL}/buzz.html)
-- [このサイトについて]({BASE_URL}/about.html)
+- [週刊まとめ]({BASE_URL}/weekly.html)
+- [このサイトについて/FAQ]({BASE_URL}/about.html)
 - [RSSフィード]({BASE_URL}/feed.xml)
 """
 
@@ -646,6 +717,7 @@ def build() -> None:
     (DOCS / "articles").mkdir(exist_ok=True)
     (DOCS / "style.css").write_text(CSS, encoding="utf-8")
     ogp.generate_default()
+    ogp.generate_logo()
     e = html.escape
     breaking = ""
     if arts:
@@ -665,12 +737,23 @@ def build() -> None:
  tick();setInterval(tick,1000);
 }})();
 </script>'''
-    site_jsonld = _jsonld({
+    website_ld = {
         "@context": "https://schema.org", "@type": "WebSite",
         "name": SITE_NAME, "url": f"{BASE_URL}/",
-        "alternateName": ["AIニュース速報", "AIテックタイムズ"],
-        "description": INDEX_DESC, "inLanguage": "ja",
-    })
+        "alternateName": ["AIニュース速報", "AIテックタイムズ", "AI TECH TIMES"],
+        "description": INDEX_DESC, "inLanguage": "ja", "publisher": {"@id": f"{BASE_URL}/#org"},
+    }
+    org_ld = {
+        "@context": "https://schema.org", "@type": ["Organization", "NewsMediaOrganization"],
+        "@id": f"{BASE_URL}/#org", "name": SITE_NAME, "url": f"{BASE_URL}/",
+        "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/ogp/logo.png", "width": 512, "height": 512},
+        "image": f"{BASE_URL}/ogp/default.png",
+        "description": "生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。",
+        "foundingDate": "2026-07-21", "knowsLanguage": "ja",
+        "sameAs": ["https://x.com/AIDecodelabjp"],
+        "publishingPrinciples": f"{BASE_URL}/about.html",
+    }
+    site_jsonld = (_jsonld(website_ld) + '</script>\n<script type="application/ld+json">' + _jsonld(org_ld))
     (DOCS / "index.html").write_text(
         _page(INDEX_TITLE, INDEX_DESC, "/", breaking + _cards(arts[:60]),
               f'<script type="application/ld+json">{site_jsonld}</script>'), encoding="utf-8")
@@ -699,7 +782,13 @@ def build() -> None:
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(_sitemap(arts), encoding="utf-8")
     (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data), encoding="utf-8")
-    (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}/sitemap.xml\n", encoding="utf-8")
+    # AI検索エンジンのクローラを明示的に許可(ブロック=引用されない)。学習専用CCBotのみ除外
+    ai_bots = ("GPTBot", "ChatGPT-User", "OAI-SearchBot", "PerplexityBot", "Perplexity-User",
+               "ClaudeBot", "anthropic-ai", "Claude-Web", "Google-Extended", "Applebot-Extended",
+               "Bingbot", "Amazonbot", "Bytespider")
+    robots = "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ai_bots)
+    robots += "User-agent: CCBot\nDisallow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: " + f"{BASE_URL}/sitemap.xml\n"
+    (DOCS / "robots.txt").write_text(robots, encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     for a in arts:
         out = DOCS / a["path"].lstrip("/")
