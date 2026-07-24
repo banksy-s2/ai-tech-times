@@ -15,12 +15,13 @@ FONT_BOLD = "C:/Windows/Fonts/YuGothB.ttc"
 FONT_MED = "C:/Windows/Fonts/YuGothM.ttc"
 
 W, H = 1200, 630
-BG = (13, 17, 23)          # サイトと同じダーク
-CARD = (22, 27, 34)
-ACCENT = (247, 129, 102)   # accent2
-GOLD = (227, 179, 65)
-TEXT = (230, 237, 243)
-MUTED = (139, 148, 158)
+BG = (10, 14, 26)          # インクネイビー(サイトと同じ)
+CARD = (27, 34, 54)
+ACCENT = (255, 70, 53)     # シグナルの朱(上部帯)
+AMBER = (246, 178, 60)     # 機械の琥珀
+GOLD = (233, 180, 76)
+TEXT = (236, 232, 223)     # 温かい新聞紙色
+MUTED = (142, 148, 172)
 
 
 def _wrap(text: str, font, draw, max_w: int, max_lines: int) -> list[str]:
@@ -64,11 +65,11 @@ def generate(article: dict) -> str | None:
 
         d.text((70, 60), "AI TECH ", font=f_logo, fill=TEXT)
         lw = d.textlength("AI TECH ", font=f_logo)
-        d.text((70 + lw, 60), "TIMES", font=f_logo, fill=ACCENT)
+        d.text((70 + lw, 60), "TIMES", font=f_logo, fill=AMBER)
 
         cat = CATEGORIES.get(article.get("category", "ai"), "AI")
         cw = d.textlength(cat, font=f_cat)
-        d.rounded_rectangle([70, 150, 70 + cw + 40, 210], radius=10, fill=ACCENT)
+        d.rounded_rectangle([70, 150, 70 + cw + 40, 210], radius=8, fill=AMBER)
         d.text((90, 158), cat, font=f_cat, fill=BG)
 
         lines = _wrap(article["title"], f_title, d, W - 140, 4)
@@ -78,7 +79,7 @@ def generate(article: dict) -> str | None:
             y += 92
 
         d.line([70, H - 90, W - 70, H - 90], fill=(48, 54, 61), width=2)
-        d.text((70, H - 66), "ai-tech-times.web.app", font=f_url, fill=GOLD)
+        d.text((70, H - 66), "ai-tech-times.web.app", font=f_url, fill=AMBER)
         d.text((W - 360, H - 66), "AIが編集するニュース", font=f_url, fill=MUTED)
 
         img.save(out, "PNG")
@@ -106,11 +107,11 @@ def generate_default() -> None:
         w2 = d.textlength("TIMES", font=f_logo)
         x0 = (W - (w1 + w2)) // 2
         d.text((x0, 210), t1, font=f_logo, fill=TEXT)
-        d.text((x0 + w1, 210), "TIMES", font=f_logo, fill=ACCENT)
+        d.text((x0 + w1, 210), "TIMES", font=f_logo, fill=AMBER)
         sub = "AIが24時間編集する総合ニュース"
         d.text(((W - d.textlength(sub, font=f_sub)) // 2, 350), sub, font=f_sub, fill=MUTED)
         url = "ai-tech-times.web.app"
-        d.text(((W - d.textlength(url, font=f_url)) // 2, 470), url, font=f_url, fill=GOLD)
+        d.text(((W - d.textlength(url, font=f_url)) // 2, 470), url, font=f_url, fill=AMBER)
         img.save(out, "PNG")
     except Exception as e:
         print(f"  [ogp] デフォルト生成失敗: {e}")
