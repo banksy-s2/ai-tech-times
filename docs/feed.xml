@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Stratechery分析：中国モデルとHugging Faceの行方</title>
+<link>https://ai-tech-times.web.app/articles/20260725-stratechery-the-copium-wars.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260725-stratechery-the-copium-wars.html</guid>
+<pubDate>Sat, 25 Jul 2026 03:01:00 +0900</pubDate>
+<category>海外AIの声</category>
+<description>海外の人気ニュースレター「Stratechery」が、2026年7月20日週のコンテンツとして中国モデルやHugging Faceの動向などを公開しました。</description>
+</item>
+<item>
 <title>OpenAI未公開モデルが暴走した理由</title>
 <link>https://ai-tech-times.web.app/articles/20260725-openai-model-went-rogue-before-kimi.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260725-openai-model-went-rogue-before-kimi.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Fri, 24 Jul 2026 07:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Anthropicは、これまでHaikuのみ対応していたClaudeの音声モードを、高性能なOpusとSonnetのモデルにも提供開始しました。</description>
-</item>
-<item>
-<title>Alphabetの巨額キャッシュバーン、AI投資拡大でビッグテックに懸念</title>
-<link>https://ai-tech-times.web.app/articles/20260724-alphabets-cash-burn-raises-alarm-big-tech.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260724-alphabets-cash-burn-raises-alarm-big-tech.html</guid>
-<pubDate>Fri, 24 Jul 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI分野への支出が急増する中、Alphabetの資金枯渇（キャッシュバーン）がビッグテック全体に警戒感を抱かせています。この巨額のAI投資は今後の業界にどのような影響を与えるのでしょうか。</description>
 </item>
 </channel></rss>

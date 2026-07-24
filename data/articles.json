@@ -6797,5 +6797,44 @@
   "date": "2026-07-25",
   "time": "02:00",
   "path": "/articles/20260725-industry-urges-against-broad-open-weight-restrictions.html"
+ },
+ {
+  "title": "Stratechery分析：中国モデルとHugging Faceの行方",
+  "lead": "海外の人気ニュースレター「Stratechery」が、2026年7月20日週のコンテンツとして中国モデルやHugging Faceの動向などを公開しました。",
+  "summary3": [
+   "中国モデルと最先端AIの未来を分析",
+   "Hugging Faceの変遷に迫る",
+   "NBAのセカンド・エプロンに注目"
+  ],
+  "body": [
+   "著名アナリストのBen Thompson氏は、自身のニュースレター「Stratechery」において、2026年7月20日週の優れたコンテンツを振り返り、複数の興味深いトピックについて指摘しています。",
+   "同氏は、中国モデルと最先端AIの未来、そしてコミュニティやプラットフォームとして知られるHugging Faceに何が起きたのかについて言及しています。AI業界の急速な変化において、これらの動向がどのような意味を持つのか解説しています。",
+   "さらに、AI関連の話題だけでなく、スポーツビジネスの領域としてNBAとそのセカンド・エプロンに関する賭けについても取り上げており、多角的な視点から現在のテックやビジネスの状況を分析しています。"
+  ],
+  "tags": [
+   "AI",
+   "Hugging Face",
+   "NBA"
+  ],
+  "slug": "stratechery-the-copium-wars",
+  "people": [
+   {
+    "name": "Ben Thompson氏",
+    "bio": "著名なテック系アナリストであり、ニュースレター「Stratechery」を運営する独立系メディアの創設者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。"
+   }
+  ],
+  "source": "Ben Thompson氏 (Stratechery)",
+  "source_url": "https://stratechery.com/2026/the-copium-wars/",
+  "category": "voices",
+  "date": "2026-07-25",
+  "time": "03:01",
+  "path": "/articles/20260725-stratechery-the-copium-wars.html"
  }
 ]
