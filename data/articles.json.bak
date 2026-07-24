@@ -6992,5 +6992,72 @@
   "date": "2026-07-25",
   "time": "06:00",
   "path": "/articles/20260725-yoshinoya-dq-collab-ended.html"
+ },
+ {
+  "title": "日経平均株価、1811円45銭安の6万4611円15銭で大引け",
+  "lead": "日経CNBC onlineの「TOKYO CLOSING BELL 大引け解説」によると、日経平均株価の終値は大きく下落しました。",
+  "summary3": [
+   "日経平均株価は大幅下落を記録",
+   "終値は1811円45銭安となった",
+   "終値の数値は6万4611円15銭"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする株式市場のニュースです。日経CNBC onlineが配信した「TOKYO CLOSING BELL 大引け解説」によると、この日の日経平均株価の終値は、前日からの値動きを経て大きく下落する結果となりました。",
+   "発表された詳細な数値によりますと、日経平均株価の終値は1811円45銭安となり、株価水準は6万4611円15銭をつけて大引けを迎えています。市場における具体的な値下がり幅と最終的な株価が示されました。",
+   "今回の市場データや大引けの詳しい解説については、元記事である日経CNBC onlineの「TOKYO CLOSING BELL 大引け解説」にてご確認いただけます。日々の株式市場の動向を示す重要な数値として記録されます。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "日経CNBC"
+  ],
+  "slug": "nikkei-average-closing-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "日経CNBC",
+    "type": "company",
+    "desc": "日本経済新聞社と米NBCUniversalが合弁で運営する経済・株価専門の衛星・ケーブルテレビチャンネル。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OdEFNRVB6cHdNZVllWlU0WTdOU3J5M0NLa3ZfS2tlcVN1aC12SEZwV0lzck5KbUFvamZTWWdLS2tmOTBPblBtTk1BR1IzTDRuOEg3Ng?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "06:18",
+  "path": "/articles/20260725-nikkei-average-closing-drop.html"
+ },
+ {
+  "title": "円相場が164円に迫る円安加速、日米のインフレ退治格差とは",
+  "lead": "円相場が一時1ドル=164円に迫り、1986年11月以来の安値を記録しました。日米のインフレ退治に対する本気度の違いが透けて見えています。",
+  "summary3": [
+   "円相場が一時1ドル=164円に迫る",
+   "1986年11月以来の安値を記録",
+   "日米のインフレ対応の姿勢に格差"
+  ],
+  "body": [
+   "円安が急速に加速しています。高市早苗政権の政策姿勢への懸念が尾を引くなか、見逃せないのが原油高の再燃もあり、市場が米国のインフレ警戒論に非常に敏感に反応している点です。",
+   "「インフレ退治」に向けた姿勢において、日本は米国に劣るという構図が市場で意識されています。こうした動向が、今回の急激な円安の背景にあると指摘されています。",
+   "23日の海外市場では、円相場は一時1ドル=164円に迫る場面が見られ、1986年11月以来となる歴史的な安値をつけました。今後の市場の動きや政策対応に注目が集まっています。"
+  ],
+  "tags": [
+   "円安",
+   "為替",
+   "日銀"
+  ],
+  "slug": "yen-depreciation-accelerates-us-japan-gap",
+  "people": [
+   {
+    "name": "高市早苗",
+    "bio": "日本の政治家であり、政権の政策姿勢が市場の懸念材料として注目されている。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマーク 経済",
+  "source_url": "https://www.nikkei.com/article/DGXZQODK235S00T20C26A7000000/",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "06:18",
+  "path": "/articles/20260725-yen-depreciation-accelerates-us-japan-gap.html"
  }
 ]

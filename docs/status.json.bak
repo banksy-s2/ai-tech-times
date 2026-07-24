@@ -1,15 +1,15 @@
 {
- "updated": "2026-07-25 06:00",
+ "updated": "2026-07-25 06:18",
  "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "日経平均が1811円安、AI関連株に売り",
-   "path": "/articles/20260725-nikkei-average-falls-1811-yen.html",
+   "title": "日経平均株価、1811円45銭安の6万4611円15銭で大引け",
+   "path": "/articles/20260725-nikkei-average-closing-drop.html",
    "cat": "株式投資(日本)"
   },
   {
-   "title": "吉野家のドラクエコラボが即終了した理由とは",
-   "path": "/articles/20260725-yoshinoya-dq-collab-ended.html",
+   "title": "円相場が164円に迫る円安加速、日米のインフレ退治格差とは",
+   "path": "/articles/20260725-yen-depreciation-accelerates-us-japan-gap.html",
    "cat": "株式投資(日本)"
   }
  ],
@@ -18,5 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 26
+ "pv_today": 29,
+ "gemini": {
+  "used": 30,
+  "limit": 200
+ }
 }

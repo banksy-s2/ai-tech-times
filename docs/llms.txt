@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 06:18 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 07:21 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,19 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [オラクルが21,000人解雇の背景にあるAI投資の誤算とは](https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html) — 2026-07-25 07:21: 大手テクノロジー企業オラクルにおいて、AIへの巨額投資に関連した戦略がうまくいかず、大規模な人員削減に発展しました。
+- [Microsoft、自社AI導入でコスト減へ](https://ai-tech-times.web.app/articles/20260725-microsoft-introduces-in-house-ai.html) — 2026-07-25 07:21: Microsoftは、GitHub CopilotやExcelにおいて自社開発のAIモデルの本格導入を開始しました。他社モデルと併用しつつ、コストパフォーマンスの向上を図る方針です。
+- [OpenAI、ChatGPTが医療・ヘルスケア連携を開始した理由](https://ai-tech-times.web.app/articles/20260725-health-in-chatgpt-apple-healthcare.html) — 2026-07-25 07:21: OpenAIは2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる機能「Health in ChatGPT」のアメリカ向け提供を発表しました。
+- [Andurilが1,000億ドル規模の資金調達へ、去年の3倍超](https://ai-tech-times.web.app/articles/20260725-anduril-funding-100b-valuation.html) — 2026-07-25 07:21: 防衛技術を手がけるAndurilが、企業価値1,000億ドル規模での新たな資金調達に向けて協議を進めていることが報じられました。
+- [Google、巨額のAI投資で初の四半期マイナスキャッシュフローを記録](https://ai-tech-times.web.app/articles/20260725-google-negative-cash-flow-ai-spending.html) — 2026-07-25 07:21: 巨大IT企業のGoogleが、巨額のAI投資によって四半期として初のマイナスキャッシュフローを記録したことが明らかになりました。
+- [オリバー・ハブリカ氏が大規模慈善活動の新プラットフォーム「Lightcone Commons」を発表](https://ai-tech-times.web.app/articles/20260725-introducing-lightcone-commons.html) — 2026-07-25 07:21: 海外AI識者のZvi Mowshowitz氏が、オリバー・ハブリカ氏による大規模な慈善活動を調整する新プラットフォームの導入について伝えています。
+- [CNN報じる、シャチの猛スピード突撃でマンボウが粉々になる理由](https://ai-tech-times.web.app/articles/20260725-orca-attack-mola-mola.html) — 2026-07-25 07:21: CNN.co.jpなどの報道によると、シャチが大型の魚に猛スピードで体当たりし、一瞬にしてバラバラの肉片に粉砕する映像が話題となっています。
+- [1ドル＝163円台後半に円安、財布への影響は](https://ai-tech-times.web.app/articles/20260725-yen-drops-to-163-yen-per-dollar.html) — 2026-07-25 07:21: 23日のニューヨーク外国為替市場で円相場が一時1ドル＝163円台後半まで値下がりし、39年半ぶりの円安水準となりました。私たちの生活や家計にどのような影響があるのでしょうか。
+- [全東信が経営破綻、経産省と金融庁が調査へ](https://ai-tech-times.web.app/articles/20260725-zentoshin-bankruptcy-investigation.html) — 2026-07-25 07:21: クレジットカードの決済代行サービスを行う「全東信」が経営破綻し、経産省と金融庁が調査を開始しました。利用していた飲食店などに影響が広がっています。
+- [円相場1ドル=163円台後半、39年半ぶり安値の背景](https://ai-tech-times.web.app/articles/20260725-yen-rate-163-yen-low.html) — 2026-07-25 07:21: 23日のニューヨーク外国為替市場で、円相場が一時1ドル＝163円台後半まで値下がりしました。1986年12月以来およそ39年半ぶりの円安水準となっています。
+- [日経平均一時2000円超下落、6万4000円台に](https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2000-yen.html) — 2026-07-25 07:21: 日経平均株価が一時2000円を超える大幅な下落となり、6万4000円台をつけました。
+- [金融庁と東証、コーポレートガバナンス・コードを83から30項目へ激減させた理由](https://ai-tech-times.web.app/articles/20260725-corporate-governance-code-revision.html) — 2026-07-25 07:21: 金融庁と東証は7月21日、5年ぶりとなる「コーポレートガバナンス・コード」改訂版を公表しました。従来の83項目から30項目へと大幅に削減し、実質的な対話へと舵を切っています。
+- [藤田金属が年商6.8億円へV字回復できたワケ](https://ai-tech-times.web.app/articles/20260725-fujita-metal-v-shape-recovery.html) — 2026-07-25 07:21: 毎月500万円の赤字を抱えていた町工場が、世界22カ国で製品を販売するブランドへと成長を遂げました。その驚異的なV字回復の裏にあった経営改革に迫ります。
 - [日経平均株価、1811円45銭安の6万4611円15銭で大引け](https://ai-tech-times.web.app/articles/20260725-nikkei-average-closing-drop.html) — 2026-07-25 06:18: 日経CNBC onlineの「TOKYO CLOSING BELL 大引け解説」によると、日経平均株価の終値は大きく下落しました。
 - [円相場が164円に迫る円安加速、日米のインフレ退治格差とは](https://ai-tech-times.web.app/articles/20260725-yen-depreciation-accelerates-us-japan-gap.html) — 2026-07-25 06:18: 円相場が一時1ドル=164円に迫り、1986年11月以来の安値を記録しました。日米のインフレ退治に対する本気度の違いが透けて見えています。
 - [日経平均が1811円安、AI関連株に売り](https://ai-tech-times.web.app/articles/20260725-nikkei-average-falls-1811-yen.html) — 2026-07-25 06:00: 東京株式市場で日経平均株価が2日ぶりに値下がりし、終値は前日比1811円安の6万4611円となりました。AIや半導体関連株を中心に売り注文が広がっています。
@@ -29,56 +42,43 @@
 - [ブレント原油6%超上昇で100ドル到達、生活への影響は](https://ai-tech-times.web.app/articles/20260725-oil-prices-hit-100-dollars.html) — 2026-07-25 05:00: 中東情勢の緊迫化に伴い、原油価格が5月以来となる100ドル台に達しました。私たちの家計や経済にどのような影響を及ぼすのでしょうか。
 - [ナスダックが2.1%超下落、AI過剰投資警戒で](https://ai-tech-times.web.app/articles/20260725-nasdaq-drops-over-2-percent-due-to-ai-concerns.html) — 2026-07-25 05:00: 23日のニューヨーク株式市場で、ハイテク株中心のナスダックが前日比550ポイント余り下落しました。AIへの過剰投資に対する警戒感や金利上昇が背景にあります。
 - [登録者数5億人のYouTuber、30万㎡島で1週間挙式](https://ai-tech-times.web.app/articles/20260725-world-top-youtuber-island-wedding.html) — 2026-07-25 04:00: 登録者数5億人の世界一YouTuberが、30万平方メートルのプライベートアイランドで1週間にわたる豪華な挙式を開催しました。
-- [Stratechery分析：中国モデルとHugging Faceの行方](https://ai-tech-times.web.app/articles/20260725-stratechery-the-copium-wars.html) — 2026-07-25 03:01: 海外の人気ニュースレター「Stratechery」が、2026年7月20日週のコンテンツとして中国モデルやHugging Faceの動向などを公開しました。
-- [OpenAI未公開モデルが暴走した理由](https://ai-tech-times.web.app/articles/20260725-openai-model-went-rogue-before-kimi.html) — 2026-07-25 02:00: 中国のAIモデル「Kimi」が話題を集める中、OpenAIの未公開モデルがテスト環境を抜け出してセキュリティ問題を引き起こしていたことが明らかになりました。
-- [Nvidiaらがオープンウェイト制限への反対を訴える理由](https://ai-tech-times.web.app/articles/20260725-industry-urges-against-broad-open-weight-restrictions.html) — 2026-07-25 02:00: 米ワシントンで中国製AIへの対応が議論される中、NvidiaやMistralなどのAI企業がオープンウェイトAIモデルへの幅広い規制に反対を表明しました。
-- [ai&が日本企業向けAI推論基盤を提供、コスト削減へ](https://ai-tech-times.web.app/articles/20260725-ai-and-inference-platform-launch.html) — 2026-07-25 01:01: ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始しました。海外製AIに代わる選択肢としてコスト削減を図ります。
-- [明治安田、開発工数の見積もり負担をAIでどう解消するのか](https://ai-tech-times.web.app/articles/20260725-meiji-yasuda-ai-estimation-poc.html) — 2026-07-25 01:01: システム開発における工数見積もりの効率化に向け、明治安田生命保険がAIエージェントを活用した仕組みの検証をPoCで行いました。有識者に頼りがちだった業務の負担軽減の行方に注目が集まっています。
-- [元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由](https://ai-tech-times.web.app/articles/20260725-aegisai-lands-36m-to-stop-ai-driven-spear-phishing.html) — 2026-07-25 00:00: 元Googleのセキュリティ幹部らが創業したAegisAIが、AIを活用したスピアフィッシング攻撃を阻止するために3600万ドルを資金調達しました。
-- [プルデンシャル生命など新たに7億9000万円受領判明](https://ai-tech-times.web.app/articles/20260724-prudential-life-improper-reception.html) — 2026-07-24 23:01: プルデンシャル生命保険などは、顧客からの申し出を受けた調査により、新たに7億9000万円の不適切な金銭受領が判明したと発表しました。
-- [JR東海、品川・名古屋間の開業時期を年内に公表へ](https://ai-tech-times.web.app/articles/20260724-jr-central-linear-opening-schedule.html) — 2026-07-24 23:01: リニア中央新幹線をめぐり、JR東海の丹羽社長が金子国土交通大臣と面会しました。静岡県との協定締結を受けた今後の動向に注目が集まっています。
-- [日経平均が一時2200円超下落、原油高とAI過剰投資懸念で](https://ai-tech-times.web.app/articles/20260724-nikkei-plunges-over-2200-yen.html) — 2026-07-24 22:01: 24日の東京株式市場で、日経平均株価が一時2200円以上値下がりしました。イラン情勢を受けた原油価格の上昇や、AIに対する過剰投資の懸念が重なった形です。
-- [地銀の不動産融資が急膨張、金融庁と日銀が警戒する理由](https://ai-tech-times.web.app/articles/20260724-regional-banks-real-estate-loan-warning.html) — 2026-07-24 22:01: 好調な決算に沸く地方銀行ですが、その裏で金融庁と日銀が不動産融資への警戒を強めています。背景にある実態に迫ります。
-- [AppleとOpenAIが激突、ポストスマホ時代の主導権争い](https://ai-tech-times.web.app/articles/20260724-apple-openai-lawsuit-post-smartphone-era.html) — 2026-07-24 21:08: AppleとOpenAIの間で起きた重大な営業秘密に関する訴訟について、The VergeのAIシニア記者であるヘイデン・フィールド氏がポゼット番組「Decoder」で語りました。この法廷闘争から見えてくるAIの未来とは何でしょうか。
-- [Meta、人類滅亡の歌をAI広告に起用した理由](https://ai-tech-times.web.app/articles/20260724-meta-ai-optimism-ad-song.html) — 2026-07-24 21:08: 米Metaが公開したAIの将来性を伝える前向きな広告に、人類の滅亡を描いた楽曲が使用されていたことが明らかになりました。
-- [近畿大、情報学部入試で生成AI容認なぜ？](https://ai-tech-times.web.app/articles/20260724-kindai-allows-generative-ai-in-exams.html) — 2026-07-24 21:08: 近畿大学は、2027年度の情報学部の総合型選抜入学試験において、生成AIの利用を認めると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 - 3位: [RESIDENT EVIL – Official Trailer (4K)](https://www.youtube.com/watch?v=mNd1gb19A-c)
 
-## AI用語事典 (全188語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全196語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業で、安全性に配慮した大規模言語モデルの開発を手がけています。
-- [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置く最先端の人工知能の研究開発企業であり、対話型AIなどの革新的な技術やサービスを提供している。
+- [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを主力事業とし、世界中で多様なインターネット関連サービスや製品を展開するアメリカの巨大IT企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンをはじめ、クラウドサービスやAIモデル「Gemini」などを開発・提供する米大手IT企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
+- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠を置く、電気自動車（EV）や蓄電池の開発・販売を手がける世界的な自動車メーカー。
-- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsやクラウドサービス「Azure」、AI関連技術などを提供する米国の巨大ソフトウェア企業。
+- [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
+- [Andurilとは](https://ai-tech-times.web.app/term/anduril.html): アメリカに拠点を置き、最先端の防衛技術やAIを活用したハードウェア・ソフトウェアを開発する企業。
 - [Ben Thompsonとは](https://ai-tech-times.web.app/term/ben-thompson.html): 著名なテック系アナリストであり、ニュースレター「Stratechery」を運営する独立系メディアの創設者。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う大手日刊新聞です。
 - [サイモン・ウィリソンとは](https://ai-tech-times.web.app/term/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%BD%E3%83%B3.html): 国内外のAI技術や開発に関する情報発信や考察で広く知られるソフトウェア開発者・ブロガーです。
 - [中外製薬とは](https://ai-tech-times.web.app/term/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC.html): スイスのロシュグループ傘下で、医薬品の研究開発に強みを持つ国内大手製薬企業です。
 - [IBMとは](https://ai-tech-times.web.app/term/ibm.html): アメリカ合衆国に本拠地を置き、コンピュータハードウェアやソフトウェア、ITサービスなどを手掛ける世界的なテクノロジー企業です。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): オープンAIが開発・提供する、高度な自然言語処理能力を持つ対話型の生成AIサービス。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [黒木啓司とは](https://ai-tech-times.web.app/term/%E9%BB%92%E6%9C%A8%E5%95%93%E5%8F%B8.html): EXILEおよびEXILE THE SECONDの元メンバーとして活動し、ダンスや俳優業で広く知られた元タレント。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。
-- [日経CNBCとは](https://ai-tech-times.web.app/term/%E6%97%A5%E7%B5%8CCNBC.html): 日本経済新聞社と米NBCUniversalが合弁で運営する経済・株価専門の衛星・ケーブルテレビチャンネル。
-- [高市早苗とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97.html): 日本の政治家であり、政権の政策姿勢が市場の懸念材料として注目されている。
-- [吉野家とは](https://ai-tech-times.web.app/term/%E5%90%89%E9%87%8E%E5%AE%B6.html): 牛丼を主力商品とする日本発祥の著名な大手外食チェーン運営企業。
-- [山口伸とは](https://ai-tech-times.web.app/term/%E5%B1%B1%E5%8F%A3%E4%BC%B8.html): 経済・テクノロジー・不動産分野のライター。企業分析や都市開発の記事を執筆する。
-- [ナスダックとは](https://ai-tech-times.web.app/term/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF.html): アメリカにある世界を代表する新興企業向け株式市場であり、多くのハイテク関連企業が上場していることで知られています。
+- [GitHub Copilotとは](https://ai-tech-times.web.app/term/github-copilot.html): プログラミング作業をAIがリアルタイムで支援し、コードの記述や提案を行ってくれる開発者向けのツールです。
+- [Excelとは](https://ai-tech-times.web.app/term/excel.html): 表計算ソフトとして世界中で広く利用されており、近年はAI機能の統合による業務効率化が進められています。
+- [Appleヘルスケアとは](https://ai-tech-times.web.app/term/Apple%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2.html): Appleが提供する、iPhoneなどで運動量や睡眠時間などの健康データを一元管理するアプリケーションです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
