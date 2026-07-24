@@ -49,11 +49,13 @@ gtag('config', 'G-V2T0G11PSH');
 </article>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
-<script>window.__ART = {"id": "20260725-ai-and-inference-platform-launch", "title": "ai&が日本企業向けAI推論基盤を提供、コスト削減へ", "path": "/articles/20260725-ai-and-inference-platform-launch.html", "cat": "日本のAI"};</script>
+<script>window.__ART = {"id": "20260725-ai-and-inference-platform-launch", "title": "ai&が日本企業向けAI推論基盤を提供、コスト削減へ", "path": "/articles/20260725-ai-and-inference-platform-launch.html", "cat": "日本のAI"};
+window.__TERMS = {"ai&": "https://ai-tech-times.web.app/term/ai.html", "Claude": "https://ai-tech-times.web.app/term/claude.html", "GPT": "https://ai-tech-times.web.app/term/gpt.html"};</script>
 <script src="https://ai-tech-times.web.app/likes.js"></script>
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
 <div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
-<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a>
+<a id="pterm" style="display:none;font-size:.82rem;margin-top:6px">この用語の解説と関連ニュースを見る →</a>
+<a id="plink" target="_blank" rel="noopener" style="margin-left:10px">Wikipedia →</a>
 <div id="prel" style="margin-top:8px;font-size:.82rem"></div></div></div>
 <div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
@@ -130,6 +132,10 @@ document.addEventListener("click", function(ev){
     document.getElementById("pimg").style.display = "none";
     document.getElementById("plink").style.display = "none";
     box.style.display = "block";
+    // 用語事典への導線(サイト内回遊。__TERMSは記事に埋め込んだ用語名→URLの対応表)
+    var tl = document.getElementById("pterm");
+    var turl = (window.__TERMS || {})[t.textContent];
+    if (turl) { tl.href = turl; tl.style.display = "block"; } else { tl.style.display = "none"; }
     pwiki(t.textContent, t.getAttribute("data-bio"));
     prelated(t.textContent);
   } else if (!t.closest("#pbox")) {
