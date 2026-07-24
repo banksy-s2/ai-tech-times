@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-25 03:01",
- "mode": "軽量便(海外AIの声)",
+ "updated": "2026-07-25 04:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Stratechery分析：中国モデルとHugging Faceの行方",
-   "path": "/articles/20260725-stratechery-the-copium-wars.html",
-   "cat": "海外AIの声"
+   "title": "登録者数5億人のYouTuber、30万㎡島で1週間挙式",
+   "path": "/articles/20260725-world-top-youtuber-island-wedding.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -13,5 +13,5 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": null
+ "pv_today": 21
 }
