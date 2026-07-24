@@ -7503,5 +7503,44 @@
   "date": "2026-07-25",
   "time": "07:21",
   "path": "/articles/20260725-fujita-metal-v-shape-recovery.html"
+ },
+ {
+  "title": "AMD、Nvidia対抗の新型AIラックシステム「Helios」投入",
+  "lead": "半導体大手AMDが、ライバルであるNvidiaに対抗する新しいラックルスケールシステム「Helios」を発表しました。今年後半から顧客への出荷が開始される予定です。",
+  "summary3": [
+   "AMDが新型AIラックシステムを発表",
+   "ライバルであるNvidiaに対抗する製品",
+   "今年後半から顧客へ出荷を開始予定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米国の半導体大手AMDは、強力なライバルであるNvidiaに対抗するため、新しいラックルスケールシステム「Helios」を発表しました。AI開発において重要な役割を果たす大規模なシステム市場へ向けた新たな一手となります。",
+   "今回の新システムであるHeliosは、今年後半から順次、顧客への出荷が開始される予定となっています。AI技術の需要が急速に高まる中、競合他社とのシェア争いがどのように変化していくのか、業界関係者からの注目が集まっています。",
+   "AMDはこれまでも高性能なプロセッサなどを提供してきましたが、ラック全体を統合したシステム展開によって、AIインフラ市場での存在感をさらに高めたい考えです。今後の出荷スケジュールや顧客からの評価に注目が集まります。"
+  ],
+  "tags": [
+   "AMD",
+   "Nvidia",
+   "AIインフラ"
+  ],
+  "slug": "amd-helios-ai-rack-system",
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカ合衆国の半導体メーカー。CPUやGPUなどの開発・製造を手がける"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカ合衆国の半導体メーカー。AI向けGPU市場で圧倒的なシェアを持つ"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "08:00",
+  "path": "/articles/20260725-amd-helios-ai-rack-system.html"
  }
 ]

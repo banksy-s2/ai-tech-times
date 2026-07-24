@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 07:21 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AMD、Nvidia対抗の新型AIラックシステム「Helios」投入](https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html) — 2026-07-25 08:00: 半導体大手AMDが、ライバルであるNvidiaに対抗する新しいラックルスケールシステム「Helios」を発表しました。今年後半から顧客への出荷が開始される予定です。
 - [オラクルが21,000人解雇の背景にあるAI投資の誤算とは](https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html) — 2026-07-25 07:21: 大手テクノロジー企業オラクルにおいて、AIへの巨額投資に関連した戦略がうまくいかず、大規模な人員削減に発展しました。
 - [Microsoft、自社AI導入でコスト減へ](https://ai-tech-times.web.app/articles/20260725-microsoft-introduces-in-house-ai.html) — 2026-07-25 07:21: Microsoftは、GitHub CopilotやExcelにおいて自社開発のAIモデルの本格導入を開始しました。他社モデルと併用しつつ、コストパフォーマンスの向上を図る方針です。
 - [OpenAI、ChatGPTが医療・ヘルスケア連携を開始した理由](https://ai-tech-times.web.app/articles/20260725-health-in-chatgpt-apple-healthcare.html) — 2026-07-25 07:21: OpenAIは2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる機能「Health in ChatGPT」のアメリカ向け提供を発表しました。
@@ -41,7 +42,6 @@
 - [吉野家のドラクエコラボが即終了した理由とは](https://ai-tech-times.web.app/articles/20260725-yoshinoya-dq-collab-ended.html) — 2026-07-25 06:00: 吉野家が実施した位置情報ゲーム「ドラゴンクエストウォーク」とのコラボレーションが、転売ヤー対策を行ったにもかかわらず即終了に追い込まれました。経済・テクノロジー分野のライターである山口伸氏がその背景を解説します。
 - [ブレント原油6%超上昇で100ドル到達、生活への影響は](https://ai-tech-times.web.app/articles/20260725-oil-prices-hit-100-dollars.html) — 2026-07-25 05:00: 中東情勢の緊迫化に伴い、原油価格が5月以来となる100ドル台に達しました。私たちの家計や経済にどのような影響を及ぼすのでしょうか。
 - [ナスダックが2.1%超下落、AI過剰投資警戒で](https://ai-tech-times.web.app/articles/20260725-nasdaq-drops-over-2-percent-due-to-ai-concerns.html) — 2026-07-25 05:00: 23日のニューヨーク株式市場で、ハイテク株中心のナスダックが前日比550ポイント余り下落しました。AIへの過剰投資に対する警戒感や金利上昇が背景にあります。
-- [登録者数5億人のYouTuber、30万㎡島で1週間挙式](https://ai-tech-times.web.app/articles/20260725-world-top-youtuber-island-wedding.html) — 2026-07-25 04:00: 登録者数5億人の世界一YouTuberが、30万平方メートルのプライベートアイランドで1週間にわたる豪華な挙式を開催しました。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
@@ -54,13 +54,13 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを主力事業とし、世界中で多様なインターネット関連サービスや製品を展開するアメリカの巨大IT企業。
+- [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
-- [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。

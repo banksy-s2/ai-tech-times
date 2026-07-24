@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AMD、Nvidia対抗の新型AIラックシステム「Helios」投入</title>
+<link>https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html</guid>
+<pubDate>Sat, 25 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>半導体大手AMDが、ライバルであるNvidiaに対抗する新しいラックルスケールシステム「Helios」を発表しました。今年後半から顧客への出荷が開始される予定です。</description>
+</item>
+<item>
 <title>オラクルが21,000人解雇の背景にあるAI投資の誤算とは</title>
 <link>https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Fri, 24 Jul 2026 22:01:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>24日の東京株式市場で、日経平均株価が一時2200円以上値下がりしました。イラン情勢を受けた原油価格の上昇や、AIに対する過剰投資の懸念が重なった形です。</description>
-</item>
-<item>
-<title>地銀の不動産融資が急膨張、金融庁と日銀が警戒する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260724-regional-banks-real-estate-loan-warning.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260724-regional-banks-real-estate-loan-warning.html</guid>
-<pubDate>Fri, 24 Jul 2026 22:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>好調な決算に沸く地方銀行ですが、その裏で金融庁と日銀が不動産融資への警戒を強めています。背景にある実態に迫ります。</description>
 </item>
 </channel></rss>
