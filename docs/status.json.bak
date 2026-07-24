@@ -1,22 +1,19 @@
 {
- "updated": "2026-07-24 23:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-25 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "プルデンシャル生命など新たに7億9000万円受領判明",
-   "path": "/articles/20260724-prudential-life-improper-reception.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "JR東海、品川・名古屋間の開業時期を年内に公表へ",
-   "path": "/articles/20260724-jr-central-linear-opening-schedule.html",
-   "cat": "日本企業"
+   "title": "元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由",
+   "path": "/articles/20260725-aegisai-lands-36m-to-stop-ai-driven-spear-phishing.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
- "pv_today": 58
+ "notes": [
+  "執筆失敗: The tech-broification of American scienc"
+ ],
+ "pv_today": null
 }

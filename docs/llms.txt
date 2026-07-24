@@ -3,6 +3,8 @@
 > 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇から毎朝ニュースとバズ動画を選定・執筆する自動運営サイト。カテゴリはAI・株式投資・インフルエンサー・時事世界。全記事に出典リンクあり。
 
 ## 最新記事
+- [ai&が日本企業向けAI推論基盤を提供、コスト削減へ](https://ai-tech-times.web.app/articles/20260725-ai-and-inference-platform-launch.html): ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始しました。海外製AIに代わる選択肢としてコスト削減を図ります。
+- [明治安田、開発工数の見積もり負担をAIでどう解消するのか](https://ai-tech-times.web.app/articles/20260725-meiji-yasuda-ai-estimation-poc.html): システム開発における工数見積もりの効率化に向け、明治安田生命保険がAIエージェントを活用した仕組みの検証をPoCで行いました。有識者に頼りがちだった業務の負担軽減の行方に注目が集まっています。
 - [元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由](https://ai-tech-times.web.app/articles/20260725-aegisai-lands-36m-to-stop-ai-driven-spear-phishing.html): 元Googleのセキュリティ幹部らが創業したAegisAIが、AIを活用したスピアフィッシング攻撃を阻止するために3600万ドルを資金調達しました。
 - [プルデンシャル生命など新たに7億9000万円受領判明](https://ai-tech-times.web.app/articles/20260724-prudential-life-improper-reception.html): プルデンシャル生命保険などは、顧客からの申し出を受けた調査により、新たに7億9000万円の不適切な金銭受領が判明したと発表しました。
 - [JR東海、品川・名古屋間の開業時期を年内に公表へ](https://ai-tech-times.web.app/articles/20260724-jr-central-linear-opening-schedule.html): リニア中央新幹線をめぐり、JR東海の丹羽社長が金子国土交通大臣と面会しました。静岡県との協定締結を受けた今後の動向に注目が集まっています。
@@ -16,8 +18,6 @@
 - [Ethan Mollick氏が選ぶ、使うべきAIの最適解](https://ai-tech-times.web.app/articles/20260724-opinionated-guide-to-which-ai-to-use.html): AI識者のEthan Mollick氏が、どのAIを活用すべきかについての見解を発表しました。状況に応じた使い分けの指針を指摘しています。
 - [2.5次元VTuberが急逝、SNSで悲しみの声](https://ai-tech-times.web.app/articles/20260724-vtuber-sudden-death.html): 2.5次元VTuberの急逝が伝えられ、ネット上で悲しみや誹謗中傷を懸念する声が広がっています。
 - [尖閣沖で中国海警局の船4隻が領海侵入、どう対応したか](https://ai-tech-times.web.app/articles/20260724-senkaku-china-coast-guard-intrusion.html): 23日午後、沖縄県の尖閣諸島沖合で、中国海警局の船4隻が日本の領海に侵入しました。
-- [日銀利上げ観測が高まる背景、株価動揺の中でも10月を意識](https://ai-tech-times.web.app/articles/20260724-boj-rate-hike-expectations-october.html): 日本経済新聞の報道によると、株価が動揺する中でも日銀の利上げ観測が高まっており、10月が意識されているということです。
-- [PayPayとセブン＆アイ、1億人超のID統合へ](https://ai-tech-times.web.app/articles/20260724-paypay-seven-i-id-integration.html): スマホ決済大手のPayPayとセブン＆アイ・ホールディングスが、利用者のIDを統合する方向で調整を進めていることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
