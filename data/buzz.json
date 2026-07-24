@@ -1,11 +1,11 @@
 {
- "date": "2026-07-24",
+ "date": "2026-07-25",
  "videos": [
   {
    "id": "_IT83Y_HcAw",
    "title": "JENNIE - Less than a Lover (Official Video)",
    "channel": "JennieRubyJaneVEVO",
-   "views": 3406629,
+   "views": 3681314,
    "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
    "thumb": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
    "regions": [
@@ -22,7 +22,7 @@
    "id": "inxzQt78lOk",
    "title": "aespa エスパ 'KISS N TELL' MV",
    "channel": "SMTOWN",
-   "views": 1621438,
+   "views": 1683157,
    "url": "https://www.youtube.com/watch?v=inxzQt78lOk",
    "thumb": "https://i.ytimg.com/vi/inxzQt78lOk/hqdefault.jpg",
    "regions": [
@@ -36,42 +36,10 @@
    "comment": "aespaの新曲「KISS N TELL」のミュージックビデオのようです。"
   },
   {
-   "id": "MOclJJ7IpSY",
-   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
-   "channel": "EA SPORTS FC",
-   "views": 2982401,
-   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
-   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "rank": 3,
-   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
-  },
-  {
-   "id": "3FJRYHVQVDE",
-   "title": "Stray Kids \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
-   "channel": "JYP Entertainment",
-   "views": 1018502,
-   "url": "https://www.youtube.com/watch?v=3FJRYHVQVDE",
-   "thumb": "https://i.ytimg.com/vi/3FJRYHVQVDE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "rank": 4,
-   "comment": "Stray Kidsの「THIS & THAT」から「After You」のトラック映像のようですね。"
-  },
-  {
    "id": "vOfyxPRunFM",
    "title": "Animal",
    "channel": "KATSEYE - Topic",
-   "views": 707687,
+   "views": 791503,
    "url": "https://www.youtube.com/watch?v=vOfyxPRunFM",
    "thumb": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
    "regions": [
@@ -80,14 +48,14 @@
     "KR",
     "BR"
    ],
-   "rank": 5,
+   "rank": 3,
    "comment": "KATSEYEの「Animal」のトピック動画が注目を集めているようです。"
   },
   {
    "id": "mNd1gb19A-c",
    "title": "RESIDENT EVIL – Official Trailer (4K)",
    "channel": "Sony Pictures Entertainment",
-   "views": 5083077,
+   "views": 5162989,
    "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
    "thumb": "https://i.ytimg.com/vi/mNd1gb19A-c/hqdefault.jpg",
    "regions": [
@@ -95,14 +63,29 @@
     "GB",
     "IN"
    ],
-   "rank": 6,
+   "rank": 4,
    "comment": "バイオハザードの公式トレーラー4K映像が公開されているようです。"
+  },
+  {
+   "id": "MOclJJ7IpSY",
+   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
+   "channel": "EA SPORTS FC",
+   "views": 3044247,
+   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 5,
+   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
   },
   {
    "id": "RvksPficuOU",
    "title": "Avatar: Seven Havens | Official Teaser | Paramount+ (SDCC 2026)",
    "channel": "Avatar Legends",
-   "views": 2187934,
+   "views": 2241946,
    "url": "https://www.youtube.com/watch?v=RvksPficuOU",
    "thumb": "https://i.ytimg.com/vi/RvksPficuOU/hqdefault.jpg",
    "regions": [
@@ -110,14 +93,29 @@
     "GB",
     "BR"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "新作の公式ティーザー映像が公開されたようです"
+  },
+  {
+   "id": "3FJRYHVQVDE",
+   "title": "Stray Kids \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
+   "channel": "JYP Entertainment",
+   "views": 1036963,
+   "url": "https://www.youtube.com/watch?v=3FJRYHVQVDE",
+   "thumb": "https://i.ytimg.com/vi/3FJRYHVQVDE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP"
+   ],
+   "rank": 7,
+   "comment": "Stray Kidsの「THIS & THAT」から「After You」のトラック映像のようですね。"
   },
   {
    "id": "3Z42tBfBLJY",
    "title": "Marvel’s Wolverine - Story Trailer | PS5 Games",
    "channel": "PlayStation",
-   "views": 681906,
+   "views": 694204,
    "url": "https://www.youtube.com/watch?v=3Z42tBfBLJY",
    "thumb": "https://i.ytimg.com/vi/3Z42tBfBLJY/hqdefault.jpg",
    "regions": [
@@ -132,7 +130,7 @@
    "id": "OGO4Mqvo3jI",
    "title": "Clayface | Official Trailer",
    "channel": "DC",
-   "views": 9315121,
+   "views": 9380161,
    "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
    "thumb": "https://i.ytimg.com/vi/OGO4Mqvo3jI/hqdefault.jpg",
    "regions": [
@@ -146,7 +144,7 @@
    "id": "z7eGToy4MWk",
    "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
    "channel": "HYBE LABELS",
-   "views": 3812985,
+   "views": 3820761,
    "url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
    "thumb": "https://i.ytimg.com/vi/z7eGToy4MWk/hqdefault.jpg",
    "regions": [

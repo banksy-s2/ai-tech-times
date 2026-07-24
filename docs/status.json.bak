@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-24 22:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-24 23:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均が一時2200円超下落、原油高とAI過剰投資懸念で",
-   "path": "/articles/20260724-nikkei-plunges-over-2200-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "プルデンシャル生命など新たに7億9000万円受領判明",
+   "path": "/articles/20260724-prudential-life-improper-reception.html",
+   "cat": "日本企業"
   },
   {
-   "title": "地銀の不動産融資が急膨張、金融庁と日銀が警戒する理由",
-   "path": "/articles/20260724-regional-banks-real-estate-loan-warning.html",
-   "cat": "株式投資(日本)"
+   "title": "JR東海、品川・名古屋間の開業時期を年内に公表へ",
+   "path": "/articles/20260724-jr-central-linear-opening-schedule.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,5 +18,5 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 57
+ "pv_today": 58
 }

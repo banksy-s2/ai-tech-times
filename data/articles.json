@@ -6602,5 +6602,39 @@
   "date": "2026-07-24",
   "time": "23:01",
   "path": "/articles/20260724-jr-central-linear-opening-schedule.html"
+ },
+ {
+  "title": "元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由",
+  "lead": "元Googleのセキュリティ幹部らが創業したAegisAIが、AIを活用したスピアフィッシング攻撃を阻止するために3600万ドルを資金調達しました。",
+  "summary3": [
+   "元Google幹部らがAegisAIを創業",
+   "3600万ドルの資金調達を実施",
+   "AIエージェントで巧妙な攻撃を阻止"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。元Googleのセキュリティ幹部らによって設立されたセキュリティ企業「AegisAI」は、AIを活用した高度なスピアフィッシング攻撃に対抗するため、新たに3600万ドルの資金調達を実施したことを発表しました。",
+   "同社の共同創業者らは、人間のメッセージ分析手法に着目したAIエージェントを開発しました。このAIエージェントは、人間と同様の視点で各メッセージを素早く分析し、いかに巧妙に作られたチェックリストであっても見落としてしまうような微細な異常を検知することが可能です。",
+   "巧妙化するAI駆動型のスピアフィッシングは、企業のセキュリティにとって深刻な脅威となっています。AegisAIが開発した新しいアプローチは、従来のセキュリティ対策では防ぎきれなかった複雑なサイバー攻撃を防ぐ切り札として期待されています。"
+  ],
+  "tags": [
+   "セキュリティ",
+   "AI",
+   "資金調達"
+  ],
+  "slug": "aegisai-lands-36m-to-stop-ai-driven-spear-phishing",
+  "people": [],
+  "terms": [
+   {
+    "name": "AegisAI",
+    "type": "company",
+    "desc": "元Googleのセキュリティ幹部らが創業した、AI駆動型のスピアフィッシング対策を手がける企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "00:00",
+  "path": "/articles/20260725-aegisai-lands-36m-to-stop-ai-driven-spear-phishing.html"
  }
 ]
