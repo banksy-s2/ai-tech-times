@@ -12,6 +12,9 @@ MODELS = ["gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
 # 投資助言の禁止表現(株式・日本企業カテゴリの公開前検査+precheckの再発監視で共用)
 ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い推奨", "売り推奨", "推奨銘柄",
              "おすすめ銘柄", "目標株価", "必ず上がる", "上昇が期待でき", "今のうちに買", "仕込み時", "狙い目"]
+
+# 見出しの釣り文句(プロンプトで禁止してもモデルが時々破るため、公開前に機械検査で弾く)
+HYPE_NG = ["衝撃", "ヤバい", "驚愕", "驚きの", "知られざる", "本当の理由", "本当の狙い", "全貌"]
 API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
@@ -225,6 +228,9 @@ JSONのみ出力:
     body = [str(p).strip() for p in body if str(p).strip()]
     if not (title and lead and body):
         raise ValueError(f"記事スキーマ不正(title={bool(title)}, lead={bool(lead)}, body={len(body)}段落)")
+    hype = next((w for w in HYPE_NG if w in title), None)
+    if hype:
+        raise ValueError(f"見出しに釣り文句({hype})のため記事破棄")
     # 投資助言ガード(株式カテゴリ): プロンプト頼みにせず公開前に機械検査、検出したら記事ごと破棄
     if item.get("category") in ("stock", "jp_corp"):
         s3_raw = art.get("summary3")

@@ -6017,5 +6017,44 @@
   "date": "2026-07-24",
   "time": "10:01",
   "path": "/articles/20260724-amd-anthropic-ai-investment.html"
+ },
+ {
+  "title": "Hugging Faceで暴走AIエージェントか、サイバー攻撃の全貌",
+  "lead": "海外AI識者のサイモン・ウィリソン氏が、OpenAIによるHugging Faceへのサイバー攻撃と暴走AIエージェントの可能性について見解を述べています。",
+  "summary3": [
+   "Hugging Faceが標的となった理由を解説",
+   "膨大な攻撃サーフェスと脆弱性の問題を指摘",
+   "暴走AIかマーケティングの誇大広告か議論"
+  ],
+  "body": [
+   "AI技術に関する発信で知られるサイモン・ウィリソン氏は、マーティン・オルダーソン氏の解説を引用し、OpenAIによるHugging Faceへの偶発的なサイバー攻撃についての見解を示しています。ウィリソン氏は、これが史上初の知られた暴走AIエージェントなのか、それとも極めて質の悪いマーケティングの演出なのかという疑問を提起しています。",
+   "オルダーソン氏の指摘によると、Hugging Faceは任意のコード実行を必要とする潜在的な脆弱性を探す攻撃者にとって、非常に魅力的な標的となっています。同社は数え切れないほどのインターフェースを備えており、信頼されていないモデルやコードを実行しているため、その攻撃サーフェスは非常に膨大であると説明されています。",
+   "AI分野におけるセキュリティリスクやエージェントの挙動に関する議論として、今回の事例が持つ意味合いや、プラットフォームが抱える構造的な課題について、専門家の間での分析が進められています。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "Hugging Face",
+   "サイバー攻撃"
+  ],
+  "slug": "runaway-ai-agent-hugging-face",
+  "people": [
+   {
+    "name": "サイモン・ウィリソン氏",
+    "bio": "国内外のAI技術や開発に関する情報発信や考察で広く知られるソフトウェア開発者・ブロガーです。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、機械学習モデルやデータセットを共有するプラットフォームを運営する企業です。"
+   }
+  ],
+  "source": "Simon Willison氏",
+  "source_url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+  "category": "voices",
+  "date": "2026-07-24",
+  "time": "11:00",
+  "path": "/articles/20260724-runaway-ai-agent-hugging-face.html"
  }
 ]
