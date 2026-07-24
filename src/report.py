@@ -42,7 +42,18 @@ def write_status(mode: str, articles: list[dict], buzz_top: dict | None, notes: 
         "buzz_top": {"title": buzz_top["title"], "url": buzz_top["url"]} if buzz_top else None,
         "notes": notes,
         "pv_today": today_views(),
+        "gemini": {"used": gemini_budget()[0], "limit": gemini_budget()[1]},
     })
+
+
+def gemini_budget() -> tuple:
+    """当日のGemini呼び出し数と上限(editor._budget_okが記録している値)"""
+    path = Path(__file__).resolve().parent.parent / "data" / "gemini_budget.json"
+    d = storage.load_json(path, {})
+    today = datetime.now(JST).strftime("%Y-%m-%d")
+    if d.get("date") != today:
+        return (0, 200)
+    return (d.get("count", 0), 200)
 
 
 def write(articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None:
@@ -61,6 +72,9 @@ def write(articles: list[dict], buzz_top: dict | None, notes: list[str]) -> None
     pv = today_views()
     if pv is not None:
         lines.append(f"- 本日の閲覧数(累計): {pv}回")
+    used, limit = gemini_budget()
+    if used is not None:
+        lines.append(f"- Gemini予算: {used}/{limit}回 ({used * 100 // limit}%){' ⚠残りわずか' if used > limit * 0.8 else ''}")
     for n in notes:
         lines.append(f"- ⚠ {n}")
     with path.open("a", encoding="utf-8") as f:

@@ -28,6 +28,14 @@ TEXT = (236, 232, 223)     # 温かい新聞紙色
 MUTED = (142, 148, 172)
 
 
+def _save_atomic(img, out: Path) -> None:
+    """一時ファイル経由で保存(中断しても壊れた画像を残さない)"""
+    import os
+    tmp = out.with_suffix(".tmp.png")
+    img.save(tmp, "PNG")
+    os.replace(tmp, out)
+
+
 def _wrap(text: str, font, draw, max_w: int, max_lines: int) -> list[str]:
     """日本語向け: 1文字ずつ幅を測って折り返す"""
     lines, cur = [], ""
@@ -56,7 +64,12 @@ def generate(article: dict) -> str | None:
     out = OGP_DIR / f"{art_id}.png"
     rel = f"/ogp/{art_id}.png"
     if out.exists():
-        return rel
+        # 壊れた/中断で残った画像(極小サイズ)は作り直す。正常なものは再生成しない
+        try:
+            if out.stat().st_size > 2000:
+                return rel
+        except OSError:
+            return rel
     if not _PIL_OK:
         return None
     try:
@@ -88,7 +101,7 @@ def generate(article: dict) -> str | None:
         d.text((70, H - 66), "ai-tech-times.web.app", font=f_url, fill=AMBER)
         d.text((W - 360, H - 66), "AIが編集するニュース", font=f_url, fill=MUTED)
 
-        img.save(out, "PNG")
+        _save_atomic(img, out)
         return rel
     except Exception as e:
         print(f"  [ogp] 生成失敗({art_id}): {e}")
@@ -110,7 +123,7 @@ def generate_logo() -> None:
         f2 = ImageFont.truetype(FONT_BOLD, 92)
         d.text(((S - d.textlength("AI TECH", font=f1)) // 2, 180), "AI TECH", font=f1, fill=TEXT)
         d.text(((S - d.textlength("TIMES", font=f2)) // 2, 270), "TIMES", font=f2, fill=AMBER)
-        img.save(out, "PNG")
+        _save_atomic(img, out)
     except Exception as e:
         print(f"  [ogp] ロゴ生成失敗: {e}")
 
@@ -138,6 +151,6 @@ def generate_default() -> None:
         d.text(((W - d.textlength(sub, font=f_sub)) // 2, 350), sub, font=f_sub, fill=MUTED)
         url = "ai-tech-times.web.app"
         d.text(((W - d.textlength(url, font=f_url)) // 2, 470), url, font=f_url, fill=AMBER)
-        img.save(out, "PNG")
+        _save_atomic(img, out)
     except Exception as e:
         print(f"  [ogp] デフォルト生成失敗: {e}")

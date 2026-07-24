@@ -280,7 +280,7 @@ def _mark_entities(text: str, ents: list[dict]) -> str:
 KIND_LABEL = {"person": "人物", "company": "企業", "ai": "AI"}
 
 
-def _article_html(a: dict) -> str:
+def _article_html(a: dict, tdict: dict | None = None) -> str:
     e = html.escape
     ents = ([{"name": p["name"], "bio": p["bio"], "kind": "person"}
              for p in a.get("people", []) if isinstance(p, dict)]
@@ -331,13 +331,19 @@ def _article_html(a: dict) -> str:
 <div class="source">出典: {source}</div>
 </article>
 {FIREBASE_SDK}
-<script>window.__ART = {json.dumps({"id": art_id, "title": a["title"], "path": a["path"], "cat": cat}, ensure_ascii=False).replace("</", "<\\/")};</script>
+<script>window.__ART = {json.dumps({"id": art_id, "title": a["title"], "path": a["path"], "cat": cat}, ensure_ascii=False).replace("</", "<\\/")};
+window.__TERMS = {json.dumps({
+    ent["name"]: BASE_URL + tdict[terms_mod.canonical(ent["name"])]["url"]
+    for ent in ents
+    if tdict and terms_mod.canonical(ent["name"]) in tdict
+}, ensure_ascii=False).replace("</", "<\\/") if tdict else "{{}}"};</script>
 <script src="{BASE_URL}/likes.js"></script>"""
     if people:
         body += """
 <div id="pbox"><span class="pclose" onclick="this.parentNode.style.display='none'">✕</span>
 <div class="prow"><img id="pimg" alt=""><div><span id="pkind"></span><b id="pname"></b><p id="pbio"></p>
-<a id="plink" target="_blank" rel="noopener">Wikipediaで見る →</a>
+<a id="pterm" style="display:none;font-size:.82rem;margin-top:6px">この用語の解説と関連ニュースを見る →</a>
+<a id="plink" target="_blank" rel="noopener" style="margin-left:10px">Wikipedia →</a>
 <div id="prel" style="margin-top:8px;font-size:.82rem"></div></div></div>
 <div class="pnote">※AI編集部によるメモです。画像はWikipediaより。正確な情報はご自身でもご確認ください。</div></div>
 <script>
@@ -414,6 +420,10 @@ document.addEventListener("click", function(ev){
     document.getElementById("pimg").style.display = "none";
     document.getElementById("plink").style.display = "none";
     box.style.display = "block";
+    // 用語事典への導線(サイト内回遊。__TERMSは記事に埋め込んだ用語名→URLの対応表)
+    var tl = document.getElementById("pterm");
+    var turl = (window.__TERMS || {})[t.textContent];
+    if (turl) { tl.href = turl; tl.style.display = "block"; } else { tl.style.display = "none"; }
     pwiki(t.textContent, t.getAttribute("data-bio"));
     prelated(t.textContent);
   } else if (!t.closest("#pbox")) {
@@ -928,6 +938,29 @@ def _llms_txt(arts: list[dict], buzz_data: dict, tdict: dict | None = None) -> s
 """
 
 
+def _sweep_orphans(arts: list[dict], tdict: dict) -> None:
+    """データから消えた記事の残骸(記事HTML/OGP/アーカイブ/用語ページ)を掃除。
+    公開状態の孤児ページはサイトマップから消えても残り続けるため(第4回監査指摘)"""
+    keep_articles = {a["path"].rsplit("/", 1)[-1] for a in arts}
+    keep_ogp = {f"{p.replace('.html', '.png')}" for p in keep_articles} | {"default.png", "logo.png"}
+    keep_days = {f"{d}.html" for d in {a["date"] for a in arts}} | {"index.html"}
+    keep_terms = {f"{t['slug']}.html" for t in tdict.values()} | {"index.html"}
+    removed = 0
+    for d, keep in ((DOCS / "articles", keep_articles), (DOCS / "ogp", keep_ogp),
+                    (DOCS / "archive", keep_days), (DOCS / "term", keep_terms)):
+        if not d.is_dir():
+            continue
+        for f in d.iterdir():
+            if f.is_file() and f.name not in keep and not f.name.endswith(".tmp.png"):
+                try:
+                    f.unlink()
+                    removed += 1
+                except OSError:
+                    pass
+    if removed:
+        print(f"  [build] 孤児ファイル{removed}件を削除")
+
+
 def build() -> None:
     arts = sorted(_load(), key=lambda a: (a["date"], a.get("time", "")), reverse=True)
     buzz_data = buzz.load()
@@ -1017,6 +1050,7 @@ def build() -> None:
     (DOCS / "articles_index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
+    _sweep_orphans(arts, tdict)
     (DOCS / "sitemap.xml").write_text(_sitemap(arts, tdict, digest_cats), encoding="utf-8")
     (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data, tdict), encoding="utf-8")
     # AI検索エンジンのクローラを明示的に許可(ブロック=引用されない)。学習専用CCBotのみ除外
@@ -1029,7 +1063,7 @@ def build() -> None:
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     for a in arts:
         out = DOCS / a["path"].lstrip("/")
-        out.write_text(_article_html(a), encoding="utf-8")
+        out.write_text(_article_html(a, tdict), encoding="utf-8")
     print(f"  [build] {len(arts)}記事 + バズ動画{len(buzz_data.get('videos', []))}本でサイト再生成完了")
 
 
