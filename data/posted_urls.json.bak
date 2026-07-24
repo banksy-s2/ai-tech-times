@@ -186,7 +186,8 @@
   "https://www.itmedia.co.jp/news/articles/2607/23/news116.html",
   "https://mainichi.jp/articles/20260722/k00/00m/040/155000c",
   "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
-  "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+  "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+  "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -544,6 +545,8 @@
   "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
   "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
   "Moonshot AI、輸出規制を突破しタイでエヌビディア製チップにアクセスか",
-  "AMD、Anthropicに最大50億ドル投資の理由"
+  "AMD、Anthropicに最大50億ドル投資の理由",
+  "The first known runaway AI agent - or a very bad marketing stunt?",
+  "Hugging Faceで暴走AIエージェントか、サイバー攻撃の全貌"
  ]
 }
