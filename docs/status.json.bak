@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-25 04:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-25 05:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "登録者数5億人のYouTuber、30万㎡島で1週間挙式",
-   "path": "/articles/20260725-world-top-youtuber-island-wedding.html",
-   "cat": "インフルエンサー"
+   "title": "ブレント原油6%超上昇で100ドル到達、生活への影響は",
+   "path": "/articles/20260725-oil-prices-hit-100-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ナスダックが2.1%超下落、AI過剰投資警戒で",
+   "path": "/articles/20260725-nasdaq-drops-over-2-percent-due-to-ai-concerns.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -13,5 +18,5 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 21
+ "pv_today": 26
 }
