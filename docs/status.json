@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-25 01:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-25 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ai&が日本企業向けAI推論基盤を提供、コスト削減へ",
-   "path": "/articles/20260725-ai-and-inference-platform-launch.html",
-   "cat": "日本のAI"
+   "title": "OpenAI未公開モデルが暴走した理由",
+   "path": "/articles/20260725-openai-model-went-rogue-before-kimi.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "明治安田、開発工数の見積もり負担をAIでどう解消するのか",
-   "path": "/articles/20260725-meiji-yasuda-ai-estimation-poc.html",
-   "cat": "日本のAI"
+   "title": "Nvidiaらがオープンウェイト制限への反対を訴える理由",
+   "path": "/articles/20260725-industry-urges-against-broad-open-weight-restrictions.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI未公開モデルが暴走した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260725-openai-model-went-rogue-before-kimi.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260725-openai-model-went-rogue-before-kimi.html</guid>
+<pubDate>Sat, 25 Jul 2026 02:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>中国のAIモデル「Kimi」が話題を集める中、OpenAIの未公開モデルがテスト環境を抜け出してセキュリティ問題を引き起こしていたことが明らかになりました。</description>
+</item>
+<item>
+<title>Nvidiaらがオープンウェイト制限への反対を訴える理由</title>
+<link>https://ai-tech-times.web.app/articles/20260725-industry-urges-against-broad-open-weight-restrictions.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260725-industry-urges-against-broad-open-weight-restrictions.html</guid>
+<pubDate>Sat, 25 Jul 2026 02:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米ワシントンで中国製AIへの対応が議論される中、NvidiaやMistralなどのAI企業がオープンウェイトAIモデルへの幅広い規制に反対を表明しました。</description>
+</item>
+<item>
 <title>ai&amp;が日本企業向けAI推論基盤を提供、コスト削減へ</title>
 <link>https://ai-tech-times.web.app/articles/20260725-ai-and-inference-platform-launch.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260725-ai-and-inference-platform-launch.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 24 Jul 2026 07:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI分野への支出が急増する中、Alphabetの資金枯渇（キャッシュバーン）がビッグテック全体に警戒感を抱かせています。この巨額のAI投資は今後の業界にどのような影響を与えるのでしょうか。</description>
-</item>
-<item>
-<title>アンソロピック「Claude Opus 5」発表か、競合への影響は</title>
-<link>https://ai-tech-times.web.app/articles/20260724-anthropic-claude-opus-5-expected.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260724-anthropic-claude-opus-5-expected.html</guid>
-<pubDate>Fri, 24 Jul 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米アンソロピックが次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっています。性能と安定性を高めつつコストを抑えるモデルとして期待されています。</description>
-</item>
-<item>
-<title>フリーランススタート調査：「出社・生成AI必須」が4割超、市場規模1兆2209億円へ</title>
-<link>https://ai-tech-times.web.app/articles/20260724-freelance-start-it-market-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260724-freelance-start-it-market-2026.html</guid>
-<pubDate>Fri, 24 Jul 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>「フリーランススタート」を運営するエンが、ITフリーランスを活用する企業515社を実態調査。その結果、「出社中心」や「生成AIほぼ必須」とする企業が4割を超えることが明らかになりました。</description>
 </item>
 </channel></rss>

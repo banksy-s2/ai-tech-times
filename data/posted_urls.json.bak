@@ -204,7 +204,9 @@
   "https://toyokeizai.net/articles/-/952422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015185381000",
   "https://news.web.nhk/newsweb/na/na-k10015185111000",
-  "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+  "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news050.html"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -598,6 +600,10 @@
   "プルデンシャル生命など新たに7億9000万円受領判明",
   "JR東海、品川・名古屋間の開業時期を年内に公表へ",
   "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-  "元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由"
+  "元Googleセキュリティ幹部創業のAegisAI、3600万ドル調達の理由",
+  "海外の「Claude」や「GPT」ではダメなのか　日本企業向けai&、そのメリットは？",
+  "開発工数見積もりの「負担が重い」をAIで解消へ　明治安田はどう実現？",
+  "ai&が日本企業向けAI推論基盤を提供、コスト削減へ",
+  "明治安田、開発工数の見積もり負担をAIでどう解消するのか"
  ]
 }
