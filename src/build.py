@@ -292,10 +292,11 @@ def _article_html(a: dict) -> str:
     cat = CATEGORIES.get(a.get("category", "ai"), "AI")
     art_id = a["path"].rsplit("/", 1)[-1].replace(".html", "")
     iso = _iso(a["date"], a.get("time", "07:00"))
+    og_img = ogp.generate(a) or "/ogp/default.png"  # 生成失敗時は実在するデフォルトへ
     news_ld = {
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a["title"], "description": a["lead"],
-        "image": [f"{BASE_URL}/ogp/{art_id}.png"],
+        "image": [f"{BASE_URL}{og_img}"],
         "datePublished": iso, "dateModified": iso, "inLanguage": "ja",
         "articleSection": cat, "keywords": ", ".join(a.get("tags", [])),
         "author": {"@type": "Organization", "name": f"{SITE_NAME} 編集部", "url": f"{BASE_URL}/about.html"},
@@ -420,7 +421,7 @@ document.addEventListener("click", function(ev){
   }
 });
 </script>""".replace("__BASE__", BASE_URL)
-    og = ogp.generate(a) or "/ogp/default.png"
+    og = og_img  # 上で生成済み(二重生成しない)
     return _page(f"{a['title']} | {SITE_NAME}", a["lead"], a["path"], body,
                  f'<script type="application/ld+json">{jsonld}</script>', og_image=og)
 
@@ -717,10 +718,11 @@ def _digest_html(cat: str, arts: list[dict], tdict: dict) -> str:
     from collections import Counter
     cnt: Counter = Counter()
     for a in cat_arts:
-        for t in a.get("terms", []) + a.get("people", []):
-            if isinstance(t, dict) and t.get("name"):
-                cnt[terms_mod.canonical(t["name"])] += 1
-    keys = [(n, c) for n, c in cnt.most_common(12) if c >= 2 and n in tdict]
+        seen = {terms_mod.canonical(t["name"])
+                for t in a.get("terms", []) + a.get("people", [])
+                if isinstance(t, dict) and t.get("name")}
+        cnt.update(seen)  # 記事単位で数える(同一記事内の重複を水増ししない)
+    keys = [(n, c) for n, c in cnt.most_common() if c >= 2 and n in tdict][:12]
     key_rows = "".join(
         f'<div class="card"><h2><a href="{BASE_URL}{tdict[n]["url"]}">{e(n)}</a> '
         f'<span class="tag">{c}件</span></h2><div class="lead">{e(tdict[n]["desc"])}</div></div>'
@@ -853,17 +855,19 @@ def _feed_xml(arts: list[dict]) -> str:
 </channel></rss>"""
 
 
-def _sitemap(arts: list[dict], tdict: dict | None = None) -> str:
+def _sitemap(arts: list[dict], tdict: dict | None = None, digest_cats: list | None = None) -> str:
     latest = _iso(arts[0]["date"], arts[0].get("time", "07:00")) if arts else ""
+    lm = f"<lastmod>{latest}</lastmod>" if latest else ""  # 記事ゼロ時は空タグを出さない
     fixed = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/buzz/",
               f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/",
               f"{BASE_URL}/term/", f"{BASE_URL}/digest/"]
              + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
-             + [f"{BASE_URL}/digest/{c}.html" for c in CATEGORIES])
-    rows = [f"<url><loc>{u}</loc><lastmod>{latest}</lastmod></url>" for u in fixed]  # 一覧系は毎便更新
+             + [f"{BASE_URL}/digest/{c}.html" for c in (digest_cats or [])])  # 実在するdigestのみ
+    rows = [f"<url><loc>{u}</loc>{lm}</url>" for u in fixed]  # 一覧系は毎便更新
     for t in (tdict or {}).values():
         rows.append(f"<url><loc>{BASE_URL}{t['url']}</loc><lastmod>{_iso(t['latest'])}</lastmod></url>")
-    rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc></url>" for d in sorted({a['date'] for a in arts})]
+    rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc><lastmod>{_iso(d, '23:59')}</lastmod></url>"
+             for d in sorted({a['date'] for a in arts})]
     rows += [f"<url><loc>{BASE_URL}{a['path']}</loc><lastmod>{_iso(a['date'], a.get('time', '07:00'))}</lastmod></url>" for a in arts]
     entries = "\n".join(rows)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -1013,7 +1017,7 @@ def build() -> None:
     (DOCS / "articles_index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
-    (DOCS / "sitemap.xml").write_text(_sitemap(arts, tdict), encoding="utf-8")
+    (DOCS / "sitemap.xml").write_text(_sitemap(arts, tdict, digest_cats), encoding="utf-8")
     (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data, tdict), encoding="utf-8")
     # AI検索エンジンのクローラを明示的に許可(ブロック=引用されない)。学習専用CCBotのみ除外
     ai_bots = ("GPTBot", "ChatGPT-User", "OAI-SearchBot", "PerplexityBot", "Perplexity-User",

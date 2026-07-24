@@ -110,7 +110,13 @@ def hall_of_fame(hist: dict, limit: int = 20) -> list[dict]:
     """殿堂入り: ランクイン日数が多い順(同数なら最高順位→最大再生数)"""
     agg: dict = {}
     for day, rows in hist.items():
+        if not isinstance(rows, list):
+            continue
+        seen_ids = set()
         for r in rows:
+            if not isinstance(r, dict) or r.get("id") in seen_ids:
+                continue  # 同一日の重複IDを日数として二重計上しない
+            seen_ids.add(r.get("id"))
             a = agg.setdefault(r["id"], {"id": r["id"], "title": r["title"], "channel": r["channel"],
                                          "url": r["url"], "thumb": r["thumb"], "days": 0,
                                          "best": 99, "views": 0, "first": day, "last": day})

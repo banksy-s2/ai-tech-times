@@ -5,7 +5,11 @@
 """
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+try:  # Pillow/日本語フォントが無い環境(Linux CI等)でもパイプライン全体を止めない
+    from PIL import Image, ImageDraw, ImageFont
+    _PIL_OK = True
+except ImportError:  # pragma: no cover
+    _PIL_OK = False
 
 from .collect import CATEGORIES
 
@@ -53,6 +57,8 @@ def generate(article: dict) -> str | None:
     rel = f"/ogp/{art_id}.png"
     if out.exists():
         return rel
+    if not _PIL_OK:
+        return None
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)
         img = Image.new("RGB", (W, H), BG)
@@ -92,7 +98,7 @@ def generate(article: dict) -> str | None:
 def generate_logo() -> None:
     """schema.org publisher.logo 用の正方形ロゴ(docs/ogp/logo.png)。無ければ作る"""
     out = OGP_DIR / "logo.png"
-    if out.exists():
+    if out.exists() or not _PIL_OK:
         return
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)
@@ -112,7 +118,7 @@ def generate_logo() -> None:
 def generate_default() -> None:
     """トップ/カテゴリ用のデフォルトOGP(docs/ogp/default.png)。無ければ作る"""
     out = OGP_DIR / "default.png"
-    if out.exists():
+    if out.exists() or not _PIL_OK:
         return
     try:
         OGP_DIR.mkdir(parents=True, exist_ok=True)
