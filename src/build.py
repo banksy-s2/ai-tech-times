@@ -97,6 +97,7 @@ main{margin-top:24px}
 .card:hover h2 a{color:#fff}
 .card .lead{color:var(--muted);font-size:.92rem;line-height:1.7}
 .meta{font-family:var(--mono);font-size:.72rem;color:var(--dim);margin-top:12px;letter-spacing:.03em}
+.ctime{color:var(--amber);font-weight:700;margin-right:8px}
 .tag{display:inline-block;color:var(--muted);margin-right:8px;font-size:.74rem}
 .tag::before{content:"#";color:var(--dim)}
 .cat{display:inline-block;font-family:var(--mono);color:var(--amber);border:1px solid rgba(246,178,60,.35);border-radius:4px;padding:1px 8px;margin-right:8px;font-size:.68rem;letter-spacing:.08em;font-weight:600;vertical-align:middle}
@@ -236,10 +237,12 @@ def _cards(arts: list[dict], with_date_heads: bool = True) -> str:
         tags = "".join(f'<span class="tag">{e(t)}</span>' for t in a.get("tags", []))
         cat = CATEGORIES.get(a.get("category", "ai"), "AI")
         newb = '<span class="newb">NEW</span>' if _is_new(a) else ""
+        tm = a.get("time", "")
+        tmark = f'<span class="ctime">{e(tm)}</span>' if tm else ""
         out.append(f"""<div class="card">
 <h2>{newb}<a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
 <div class="lead">{e(a['lead'])}</div>
-<div class="meta"><span class="cat">{cat}</span>{tags} 出典: {e(a['source'])}</div>
+<div class="meta">{tmark}<span class="cat">{cat}</span>{tags} 出典: {e(a['source'])}</div>
 </div>""")
     return "\n".join(out)
 
