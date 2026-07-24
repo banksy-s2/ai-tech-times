@@ -125,6 +125,8 @@ const STAFF = [
 ];
 const NAGI = {name:"白瀬 凪", hair:"#e8e4da", cloth:"#5a6b8c",
  idle:["フロアを巡回しています","全体を監視中","社長への報告を準備中"], work:"便の進行を統括中"};
+const ADVISOR = {name:"逆巻 颯", role:"外部顧問", hair:"#8a3b3b", cloth:"#5c2f2f",
+ idle:["遅い、と言いに来ました","前提を疑っています","会議が多すぎる、と苦言中","1週間で出して壊せ"], work:"進め方に異論を投げています"};
 const CATS = ["AI(海外)","日本のAI","シリコンバレー最速","海外AIの声","インフルエンサー","時事・世界","株式投資","日本企業"];
 const FULL_HOURS = [7,12,17,21];
 
@@ -160,6 +162,13 @@ nagiEl.innerHTML = `<div class="bub" id="bub-nagi"></div>` + charHtml(NAGI,"nagi
 nagiEl.style.setProperty("--hairc", NAGI.hair); nagiEl.style.setProperty("--clothc", NAGI.cloth);
 nagiEl.onclick = ()=>say("nagi");
 scene.appendChild(nagiEl);
+const advEl = document.createElement("div");
+advEl.id = "advisor";
+advEl.style.cssText = "position:absolute;bottom:8px;left:880px;width:44px;height:80px;z-index:7;cursor:pointer";
+advEl.innerHTML = `<div class="bub" id="bub-adv" style="display:none">` + `</div>` + charHtml(ADVISOR,"adv").replace('class="char idle"','class="char idle" style="position:static"');
+advEl.style.setProperty("--hairc", ADVISOR.hair); advEl.style.setProperty("--clothc", ADVISOR.cloth);
+advEl.onclick = ()=>say("adv");
+scene.appendChild(advEl);
 
 let said = {};
 function say(id){ said[id] = Date.now(); render(); }
@@ -214,6 +223,11 @@ function render(){
   const nrs = said["nagi"] && Date.now()-said["nagi"] < 4000;
   nb.style.display = (running || nrs || now.getSeconds()%40 < 6) ? "block" : "none";
   nb.textContent = running ? NAGI.work : NAGI.idle[(now.getMinutes())%NAGI.idle.length];
+  const ab = document.getElementById("bub-adv");
+  const ars = said["adv"] && Date.now()-said["adv"] < 4000;
+  ab.style.display = (!nightOff && (ars || now.getSeconds()%47 < 5)) ? "block" : "none";
+  ab.textContent = running ? ADVISOR.work : ADVISOR.idle[(now.getHours())%ADVISOR.idle.length];
+  document.getElementById("advisor").style.display = nightOff ? "none" : "block";
 }
 /* nagi patrol: walk to active desk during run, otherwise wander */
 setInterval(()=>{
