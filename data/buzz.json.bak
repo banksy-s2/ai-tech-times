@@ -2,27 +2,27 @@
  "date": "2026-07-24",
  "videos": [
   {
-   "id": "MOclJJ7IpSY",
-   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
-   "channel": "EA SPORTS FC",
-   "views": 2134803,
-   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
-   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
+   "id": "_IT83Y_HcAw",
+   "title": "JENNIE - Less than a Lover (Official Video)",
+   "channel": "JennieRubyJaneVEVO",
+   "views": 2439570,
+   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+   "thumb": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "JP",
-    "KR",
-    "BR"
+    "BR",
+    "IN"
    ],
    "rank": 1,
-   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
+   "comment": "JENNIEの新曲「Less than a Lover」の公式MVが公開されているようです。"
   },
   {
    "id": "inxzQt78lOk",
    "title": "aespa エスパ 'KISS N TELL' MV",
    "channel": "SMTOWN",
-   "views": 890990,
+   "views": 1452052,
    "url": "https://www.youtube.com/watch?v=inxzQt78lOk",
    "thumb": "https://i.ytimg.com/vi/inxzQt78lOk/hqdefault.jpg",
    "regions": [
@@ -36,10 +36,26 @@
    "comment": "aespaの新曲「KISS N TELL」のミュージックビデオのようです。"
   },
   {
+   "id": "MOclJJ7IpSY",
+   "title": "EA SPORTS FC 27 | Official Reveal Trailer",
+   "channel": "EA SPORTS FC",
+   "views": 2722327,
+   "url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+   "thumb": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 3,
+   "comment": "FC27の公式発表トレーラーが公開されたようです。(23文字)"
+  },
+  {
    "id": "3FJRYHVQVDE",
    "title": "Stray Kids \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
    "channel": "JYP Entertainment",
-   "views": 793346,
+   "views": 964487,
    "url": "https://www.youtube.com/watch?v=3FJRYHVQVDE",
    "thumb": "https://i.ytimg.com/vi/3FJRYHVQVDE/hqdefault.jpg",
    "regions": [
@@ -48,14 +64,45 @@
     "JP",
     "BR"
    ],
-   "rank": 3,
+   "rank": 4,
    "comment": "Stray Kidsの「THIS & THAT」から「After You」のトラック映像のようですね。"
+  },
+  {
+   "id": "vOfyxPRunFM",
+   "title": "Animal",
+   "channel": "KATSEYE - Topic",
+   "views": 459521,
+   "url": "https://www.youtube.com/watch?v=vOfyxPRunFM",
+   "thumb": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "KR",
+    "BR"
+   ],
+   "rank": 5,
+   "comment": "KATSEYEの「Animal」のトピック動画が注目を集めているようです。"
+  },
+  {
+   "id": "mNd1gb19A-c",
+   "title": "RESIDENT EVIL – Official Trailer (4K)",
+   "channel": "Sony Pictures Entertainment",
+   "views": 4854595,
+   "url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+   "thumb": "https://i.ytimg.com/vi/mNd1gb19A-c/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "rank": 6,
+   "comment": "バイオハザードの公式トレーラー4K映像が公開されているようです。"
   },
   {
    "id": "z7eGToy4MWk",
    "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
    "channel": "HYBE LABELS",
-   "views": 3211007,
+   "views": 3789891,
    "url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
    "thumb": "https://i.ytimg.com/vi/z7eGToy4MWk/hqdefault.jpg",
    "regions": [
@@ -63,29 +110,14 @@
     "GB",
     "BR"
    ],
-   "rank": 4,
+   "rank": 7,
    "comment": "KATSEYEの新曲「Animal」の公式MVティーザー第2弾のようです。"
-  },
-  {
-   "id": "ylGKgCWazw0",
-   "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
-   "channel": "Brawl Stars",
-   "views": 2416139,
-   "url": "https://www.youtube.com/watch?v=ylGKgCWazw0",
-   "thumb": "https://i.ytimg.com/vi/ylGKgCWazw0/hqdefault.jpg",
-   "regions": [
-    "US",
-    "JP",
-    "BR"
-   ],
-   "rank": 5,
-   "comment": "ブロスタのアニメーション最新作が公開されたようです。（23字）"
   },
   {
    "id": "RvksPficuOU",
    "title": "Avatar: Seven Havens | Official Teaser | Paramount+ (SDCC 2026)",
    "channel": "Avatar Legends",
-   "views": 989354,
+   "views": 2017735,
    "url": "https://www.youtube.com/watch?v=RvksPficuOU",
    "thumb": "https://i.ytimg.com/vi/RvksPficuOU/hqdefault.jpg",
    "regions": [
@@ -93,14 +125,14 @@
     "GB",
     "BR"
    ],
-   "rank": 6,
+   "rank": 8,
    "comment": "新作の公式ティーザー映像が公開されたようです"
   },
   {
    "id": "3Z42tBfBLJY",
    "title": "Marvel’s Wolverine - Story Trailer | PS5 Games",
    "channel": "PlayStation",
-   "views": 508593,
+   "views": 641804,
    "url": "https://www.youtube.com/watch?v=3Z42tBfBLJY",
    "thumb": "https://i.ytimg.com/vi/3Z42tBfBLJY/hqdefault.jpg",
    "regions": [
@@ -108,14 +140,14 @@
     "GB",
     "BR"
    ],
-   "rank": 7,
+   "rank": 9,
    "comment": "PS5『Marvel’s Wolverine』のストーリーが垣間見える予告編のようですね。"
   },
   {
    "id": "0ijm2Xui5N8",
    "title": "ADÉLA - Ain’t In LA (Official Music Video)",
    "channel": "ADÉLA",
-   "views": 289319,
+   "views": 450492,
    "url": "https://www.youtube.com/watch?v=0ijm2Xui5N8",
    "thumb": "https://i.ytimg.com/vi/0ijm2Xui5N8/hqdefault.jpg",
    "regions": [
@@ -123,36 +155,8 @@
     "GB",
     "BR"
    ],
-   "rank": 8,
-   "comment": "ADÉLAさんによる新曲の公式ミュージックビデオです。(28文字)"
-  },
-  {
-   "id": "irVNGjRFZGk",
-   "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-   "channel": "Marvel Entertainment",
-   "views": 46665378,
-   "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-   "thumb": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "IN"
-   ],
-   "rank": 9,
-   "comment": "映画『アベンジャーズ：ドゥームズデイ』の予告編が登場。"
-  },
-  {
-   "id": "OGO4Mqvo3jI",
-   "title": "Clayface | Official Trailer",
-   "channel": "DC",
-   "views": 8114500,
-   "url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
-   "thumb": "https://i.ytimg.com/vi/OGO4Mqvo3jI/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "クレイフェイスの公式トレーラーが公開されているようです。"
+   "comment": "ADÉLAさんによる新曲の公式ミュージックビデオです。(28文字)"
   }
  ],
  "comment_cache": {
@@ -198,6 +202,8 @@
   "kMsiD1Nky5I": "コヨーテとアクメの対決を描く映画の最終予告編かもしれません。",
   "3Z42tBfBLJY": "PS5『Marvel’s Wolverine』のストーリーが垣間見える予告編のようですね。",
   "0ijm2Xui5N8": "ADÉLAさんによる新曲の公式ミュージックビデオです。(28文字)",
-  "RvksPficuOU": "新作の公式ティーザー映像が公開されたようです"
+  "RvksPficuOU": "新作の公式ティーザー映像が公開されたようです",
+  "_IT83Y_HcAw": "JENNIEの新曲「Less than a Lover」の公式MVが公開されているようです。",
+  "vOfyxPRunFM": "KATSEYEの「Animal」のトピック動画が注目を集めているようです。"
  }
 }
