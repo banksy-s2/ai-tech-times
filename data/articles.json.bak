@@ -6084,5 +6084,391 @@
   "date": "2026-07-24",
   "time": "20:00",
   "path": "/articles/20260724-spain-prize-money-tax-us-government.html"
+ },
+ {
+  "title": "AppleとOpenAIが激突、ポストスマホ時代の主導権争い",
+  "lead": "AppleとOpenAIの間で起きた重大な営業秘密に関する訴訟について、The VergeのAIシニア記者であるヘイデン・フィールド氏がポゼット番組「Decoder」で語りました。この法廷闘争から見えてくるAIの未来とは何でしょうか。",
+  "summary3": [
+   "AppleとOpenAIが営業秘密で訴訟",
+   "元アップル従業員の動向が争点に",
+   "ポストスマホ時代の主導権を握る"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。米メディアThe Vergeのポッドキャスト番組「Decoder」にて、同社のシニアAI記者であるヘイデン・フィールド氏が、AppleとOpenAIの間で浮上している重大な営業秘密に関する訴訟について解説を行いました。",
+   "現在のところ、Decoderのリスナーの多くはAppleが主張している内容についてすでに承知していることでしょう。今回の訴訟は、元Appleの従業員らが OpenAIに移籍したことなどをめぐる問題であり、両社の間で法的な争いに発展しています。",
+   "この訴訟が一体何を意味しているのかというと、それはまさにポストスマートフォン時代において、誰が新たなテクノロジーの定義を握るのかという大きな覇権争いだと言えます。今後のOpenAIの動向やAI業界の未来を占う上で、極めて重要な意味を持つ出来事として注目を集めています。"
+  ],
+  "tags": [
+   "Apple",
+   "OpenAI",
+   "人工知能"
+  ],
+  "slug": "apple-openai-lawsuit-post-smartphone-era",
+  "people": [
+   {
+    "name": "ヘイデン・フィールド氏",
+    "bio": "米メディアThe VergeのシニアAI記者として、最先端の人工知能や関連する業界の動向について取材と報道を行っている。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置く最先端の人工知能の研究開発企業であり、対話型AIなどの革新的な技術やサービスを提供している。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-apple-openai-lawsuit-post-smartphone-era.html"
+ },
+ {
+  "title": "Meta、人類滅亡の歌をAI広告に起用した理由",
+  "lead": "米Metaが公開したAIの将来性を伝える前向きな広告に、人類の滅亡を描いた楽曲が使用されていたことが明らかになりました。",
+  "summary3": [
+   "Metaが新たなAI広告を公開",
+   "前向きな内容に人類滅亡の歌を採用",
+   "楽曲は残り5年の地球を描く内容"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がTechCrunch AIの報道に基づいてお伝えします。米Metaがこのほど、AIに対する楽観的な姿勢をアピールするための新しい広告を公開しました。AIの未来に期待を抱かせる仕上がりとなっているこの広告ですが、選曲を巡って大きな注目を集めています。",
+   "問題となっているのは、広告のBGMとして使用されたデヴィッド・ボウイの楽曲「ファイブ・イヤーズ」です。この楽曲の歌詞は、地球滅亡までの残り時間がわずか5年であることを知った人間たちの様子を描いたものであり、人類の滅亡をテーマにしています。",
+   "前向きなメッセージを伝えるはずのAI広告に、皮肉にも人類の終わりを歌った楽曲が使われていたという事実は、公開直後から波紋を呼んでいます。AI技術の普及を進める同社の広告戦略において、選曲の意図や背景にどのような判断があったのか、引き続き関心が集まりそうです。"
+  ],
+  "tags": [
+   "Meta",
+   "AI",
+   "広告"
+  ],
+  "slug": "meta-ai-optimism-ad-song",
+  "people": [
+   {
+    "name": "デヴィッド・ボウイ",
+    "bio": "英国出身の著名なミュージシャン。数々のヒット曲を生み出し、音楽界やファッション界に多大な影響を与えた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "米国のテクノロジー企業。FacebookやInstagramなどのソーシャルメディアを運営している。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+  "category": "ai",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-meta-ai-optimism-ad-song.html"
+ },
+ {
+  "title": "近畿大、情報学部入試で生成AI容認なぜ？",
+  "lead": "近畿大学は、2027年度の情報学部の総合型選抜入学試験において、生成AIの利用を認めると発表しました。",
+  "summary3": [
+   "近畿大が情報学部入試でAI容認",
+   "2027年度の総合型選抜で導入へ",
+   "自己PR動画などで方針を明示"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、近畿大学は2027年度の情報学部の総合型選抜入学試験において、生成AIの利用を認めると発表しました。",
+   "今回の発表では、提出する自己PR動画やプレゼンテーション資料などでの生成AIの利用方針が明示されています。",
+   "大学入試における生成AIの活用が進む中、今後の選抜方法や受験生の準備にどのような影響を与えるのか注目されます。"
+  ],
+  "tags": [
+   "近畿大学",
+   "生成AI",
+   "大学入試"
+  ],
+  "slug": "kindai-allows-generative-ai-in-exams",
+  "people": [],
+  "terms": [
+   {
+    "name": "近畿大学",
+    "type": "company",
+    "desc": "大阪府東大阪市に本部を置く日本の私立大学であり、西日本を代表する総合大学の一つとして広く知られています。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-kindai-allows-generative-ai-in-exams.html"
+ },
+ {
+  "title": "「オートリザーブ」定休日でも予約？店舗拒否の背景",
+  "lead": "AIによるレストラン予約サイト「オートリザーブ」をめぐり、店舗側から予約を拒否される事例が確認され、問題視する反応が集まっています。",
+  "summary3": [
+   "AI予約サイトのオートリザーブが話題",
+   "定休日にも予約が取れそうと指摘",
+   "店舗側から拒否される事例が続出"
+  ],
+  "body": [
+   "AIによるレストラン予約サイトとして知られる「オートリザーブ」ですが、現在インターネット上で店舗側とのトラブルに関する議論が活発化しています。同サイトはAIが世界中の飲食店の予約を行うサービスとして展開されており、予約可能レストラン数No.1を謳っています。",
+   "しかし、定休日にもかかわらず予約が取れそうになってしまう仕組みなどに対し、店舗側から実際に予約を拒否される事例が表面化しました。この現状について、SNSやはてなブックマークなどのIT関連コミュニティでは、システムと店舗の運用実態の乖離を問題視する反応が多数集まっています。",
+   "AIを活用した便利な予約サービスが普及する一方で、店舗側の意図や営業状況とシステムがどのように連携すべきか、今後の動向や対策に注目が集まっています。"
+  ],
+  "tags": [
+   "オートリザーブ",
+   "AI予約",
+   "レストラン"
+  ],
+  "slug": "autoreserve-booking-issues",
+  "people": [],
+  "terms": [
+   {
+    "name": "オートリザーブ",
+    "type": "ai",
+    "desc": "AIを活用して世界中の飲食店のレストラン予約を行うサービス。予約可能レストラン数No.1を掲げている。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://togetter.com/li/2724146",
+  "category": "ai_jp",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-autoreserve-booking-issues.html"
+ },
+ {
+  "title": "トランプ政権が危険なAIを停止、権限を付与する法案",
+  "lead": "米国のトランプ政権下において、問題のあるAIシステムを強制停止させるための法案「AI Kill Switch Act」が浮上しています。国土安全保障長官がAIの停止を判断できる仕組みについて、海外メディアのArs Technicaが報じました。",
+  "summary3": [
+   "トランプ政権にAI停止権限を与える法案",
+   "国土安全保障長官が判断を下す仕組み",
+   "暴走するAIシステムの遮断が目的"
+  ],
+  "body": [
+   "海外メディアのArs Technicaは2026年7月、問題のあるAIシステムを停止させる権限をトランプ政権に付与する「AI Kill Switch Act」について報じました。この法案が成立した場合、AIシステムの管理や運用において新たな規制が加わることになります。",
+   "報道によると、本法案では国土安全保障長官がAIシステムの停止をいつ実行すべきかを決定する権限を持つとされています。暴走する可能性のあるAIや、安全上の脅威となるシステムに対して政府が直接介入する法的根拠となります。",
+   "AI技術の急速な発展に伴い、その安全性や管理体制についての議論が活発化しています。今回の法案は、行政機関が主導して危険なAIシステムを迅速にシャットダウンするための具体的な枠組みを提示するものとして注目を集めています。"
+  ],
+  "tags": [
+   "AI",
+   "トランプ政権",
+   "セキュリティ"
+  ],
+  "slug": "ai-kill-switch-act-trump-admin",
+  "people": [],
+  "terms": [
+   {
+    "name": "Ars Technica",
+    "type": "company",
+    "desc": "テクノロジーや科学、IT政策に関する専門的なニュースや深い分析を提供するアメリカの有力メディア媒体です。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-ai-kill-switch-act-trump-admin.html"
+ },
+ {
+  "title": "Ethan Mollick氏が選ぶ、使うべきAIの最適解",
+  "lead": "AI識者のEthan Mollick氏が、どのAIを活用すべきかについての見解を発表しました。状況に応じた使い分けの指針を指摘しています。",
+  "summary3": [
+   "Ethan Mollick氏がAIの選び方を解説",
+   "最新版となるSummer 2026 Editionを公開",
+   "どのAIを使うべきかの指針を提示"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の編集部です。AI技術の活用が進む中、どのAIモデルを使って作業すべきか迷うことはありませんか。米国の著名な研究者であるEthan Mollick氏は、自身のブログ「One Useful Thing」において、どのAIをどのように使うべきかについての見解をまとめたガイドを発表しました。",
+   "今回の記事は「An opinionated guide to which AI to use to do stuff」と題されたもので、その「Summer 2026 Edition」として公開されています。Mollick氏は、増え続けるAIツールの中から、目的や用途に応じて最適なAIを選択するための具体的な指針について指摘しています。",
+   "日々進化するAIサービスをどのように選び、日々の業務や作業に組み込んでいけばよいのか。同氏の意見は、AIの活用法を模索する多くのユーザーにとって重要な道標となります。詳細は同氏のブログ記事にて公開されています。"
+  ],
+  "tags": [
+   "AI",
+   "EthanMollick",
+   "OneUsefulThing"
+  ],
+  "slug": "opinionated-guide-to-which-ai-to-use",
+  "people": [
+   {
+    "name": "Ethan Mollick氏",
+    "bio": "ペンシルベニア大学ウォートン校の教授で、AIの教育やビジネス活用に関する発信で広く知られる研究者です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "One Useful Thing",
+    "type": "company",
+    "desc": "AIやテクノロジーの活用法について情報発信を行っている著名なオンラインブログ媒体です。"
+   }
+  ],
+  "source": "Ethan Mollick氏 (One Useful Thing)",
+  "source_url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+  "category": "voices",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-opinionated-guide-to-which-ai-to-use.html"
+ },
+ {
+  "title": "2.5次元VTuberが急逝、SNSで悲しみの声",
+  "lead": "2.5次元VTuberの急逝が伝えられ、ネット上で悲しみや誹謗中傷を懸念する声が広がっています。",
+  "summary3": [
+   "2.5次元VTuberが急逝",
+   "ネット上で悲しみの声が広がる",
+   "言葉のナイフや誹謗中傷を懸念"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。2.5次元VTuberが急逝したというニュースがau Webポータルで報じられ、大きな注目を集めています。",
+   "突然の訃報に対し、ネット上では「嘘だと思いたい…」と悲しむ声や、「だから言葉はナイフなんだって」「誹謗中傷とかなのかなぁ」と、インターネット上の発言や誹謗中傷を危惧するコメントが相次いで投稿されています。",
+   "詳細な状況や原因については報じられておらず、ファンや関係者の間では動揺と悲しみが広がっています。今後の情報発信や公式からの発表が注視されています。"
+  ],
+  "tags": [
+   "VTuber",
+   "訃報",
+   "SNS"
+  ],
+  "slug": "vtuber-sudden-death",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1OGxzUEdzT0QyWEswcTYxOXdFdHRGVEF1QmZ0UEVCcUFPZGt6NGJvcThlSTV1dnlGNjVIR0ktMm9iS0tiYnlRYXV1Ri1tWDNhT2IwVW5nZm1UYkNteVQ3c1B1RkFWaHp4My1CX3dDVzYwSktYeWxqSWJR?oc=5",
+  "category": "influencer",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-vtuber-sudden-death.html"
+ },
+ {
+  "title": "尖閣沖で中国海警局の船4隻が領海侵入、どう対応したか",
+  "lead": "23日午後、沖縄県の尖閣諸島沖合で、中国海警局の船4隻が日本の領海に侵入しました。",
+  "summary3": [
+   "尖閣沖で中国船4隻が領海侵入",
+   "およそ2時間にわたり航行",
+   "海保が警告と監視を継続"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、23日午後、沖縄県の尖閣諸島の沖合において、中国海警局の船4隻が日本の領海に侵入しました。",
+   "侵入した4隻はおよそ2時間にわたって領海内を航行したあと、いずれも領海の外へと出ました。",
+   "海上保安本部は、再び領海に入ることがないよう、引き続き警告と監視を続けています。"
+  ],
+  "tags": [
+   "沖縄",
+   "尖閣諸島",
+   "中国海警局"
+  ],
+  "slug": "senkaku-china-coast-guard-intrusion",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015184291000",
+  "category": "world",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-senkaku-china-coast-guard-intrusion.html"
+ },
+ {
+  "title": "日銀利上げ観測が高まる背景、株価動揺の中でも10月を意識",
+  "lead": "日本経済新聞の報道によると、株価が動揺する中でも日銀の利上げ観測が高まっており、10月が意識されているということです。",
+  "summary3": [
+   "株価が動揺する局面が続く",
+   "それでも日銀利上げ観測高まる",
+   "市場では10月を意識する声"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日本経済新聞が伝えたところでは、株価が動揺を見せている状況下にあっても、日本銀行による利上げ観測が高まっているとされています。",
+   "市場においては、今後の金融政策の動向として10月を意識する見方が広がっており、今後の経済情勢や金融市場への影響に注目が集まっています。"
+  ],
+  "tags": [
+   "日銀",
+   "株価",
+   "金融政策"
+  ],
+  "slug": "boj-rate-hike-expectations-october",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yeWEzR3NfLVA3LUM1RTRRV0dabkczcWZrNmdfc09YbklvLTJVcy10allsT2NHaGdWYjlHOXBDWWdtMUw3dzVSbXdsN2pzaE5lcVppWnNHOWhZY29DQVY3SXBQcW4wNEhrMHpmTg?oc=5",
+  "category": "stock",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-boj-rate-hike-expectations-october.html"
+ },
+ {
+  "title": "PayPayとセブン＆アイ、1億人超のID統合へ",
+  "lead": "スマホ決済大手のPayPayとセブン＆アイ・ホールディングスが、利用者のIDを統合する方向で調整を進めていることが明らかになりました。",
+  "summary3": [
+   "PayPayとセブン＆アイがID統合へ",
+   "会員数は延べ1億人を超える規模に",
+   "利用者の利便性向上へ向け調整中"
+  ],
+  "body": [
+   "スマホ決済大手のPayPayとセブン＆アイ・ホールディングスは、利用者のIDを統合する方向で調整を進めていることが分かりました。",
+   "今回の統合が実現すれば、会員数が延べ1億人を超える巨大なポイント経済圏が誕生することになります。",
+   "両社によるID統合のねらいは、共通のプラットフォームを通じて利用者の利便性を向上させることにあります。今後の具体的な統合スケジュールやサービスの詳細な展開については、引き続き調整が進められる見通しです。"
+  ],
+  "tags": [
+   "PayPay",
+   "セブン＆アイ",
+   "ポイント経済圏"
+  ],
+  "slug": "paypay-seven-i-id-integration",
+  "people": [],
+  "terms": [
+   {
+    "name": "PayPay",
+    "type": "company",
+    "desc": "ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。"
+   },
+   {
+    "name": "セブン＆アイ・ホールディングス",
+    "type": "company",
+    "desc": "コンビニエンスストアのセブン-イレブンなどを傘下に持つ日本の大手流通持株会社。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015185021000",
+  "category": "jp_corp",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-paypay-seven-i-id-integration.html"
+ },
+ {
+  "title": "東京商工リサーチ：上場企業の不適切会計27社、粉飾3倍増の理由",
+  "lead": "東京商工リサーチの調査によると、上場企業における「不適切会計」の開示が上半期で27社・27件に達しました。そのうち「粉飾」は12件と前年同期の3倍増を記録しています。",
+  "summary3": [
+   "上場企業の不適切会計は27社",
+   "上半期の粉飾は12件で3倍増",
+   "東京商工リサーチが調査公表"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。東京商工リサーチの発表によると、上場企業による「不適切会計」の開示件数が、今年度の上半期において27社・27件に達していることが明らかになりました。",
+   "特筆すべき点として、このうち決算の数字を意図的に歪める「粉飾」に該当する事例が12件発生しており、これは前年同期と比較して3倍の大幅な増加となっています。",
+   "企業の財務健全性やガバナンス体制に対する市場の目が厳しくなる中、今回の開示データは、上場企業における会計処理の透明性確保がいかに重要であるかを示すものとなっています。詳細は東京商工リサーチの発表をご確認ください。"
+  ],
+  "tags": [
+   "不適切会計",
+   "上場企業",
+   "東京商工リサーチ"
+  ],
+  "slug": "inappropriate-accounting-survey",
+  "people": [],
+  "terms": [
+   {
+    "name": "東京商工リサーチ",
+    "type": "company",
+    "desc": "国内の企業情報や倒産動向の調査・分析を行う日本の老舗企業調査会社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lUmc2emtqamZ2VjVrT2pOMjZsMFN6WE1URXhlYlNvTGV5Y1B4U292ejlhQ29VOFhPMmFuU2lNY2tvaXd4VTVMNG5XSl8wbzd6MXh1T1VyeHFHbFVhdmVtSTdvbFVPUQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-24",
+  "time": "21:08",
+  "path": "/articles/20260724-inappropriate-accounting-survey.html"
  }
 ]

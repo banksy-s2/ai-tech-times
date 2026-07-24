@@ -1,72 +1,22 @@
 {
- "updated": "2026-07-24 21:08",
- "mode": "フル便",
+ "updated": "2026-07-24 22:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "AppleとOpenAIが激突、ポストスマホ時代の主導権争い",
-   "path": "/articles/20260724-apple-openai-lawsuit-post-smartphone-era.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Meta、人類滅亡の歌をAI広告に起用した理由",
-   "path": "/articles/20260724-meta-ai-optimism-ad-song.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "近畿大、情報学部入試で生成AI容認なぜ？",
-   "path": "/articles/20260724-kindai-allows-generative-ai-in-exams.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "「オートリザーブ」定休日でも予約？店舗拒否の背景",
-   "path": "/articles/20260724-autoreserve-booking-issues.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "トランプ政権が危険なAIを停止、権限を付与する法案",
-   "path": "/articles/20260724-ai-kill-switch-act-trump-admin.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Ethan Mollick氏が選ぶ、使うべきAIの最適解",
-   "path": "/articles/20260724-opinionated-guide-to-which-ai-to-use.html",
-   "cat": "海外AIの声"
-  },
-  {
-   "title": "2.5次元VTuberが急逝、SNSで悲しみの声",
-   "path": "/articles/20260724-vtuber-sudden-death.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "尖閣沖で中国海警局の船4隻が領海侵入、どう対応したか",
-   "path": "/articles/20260724-senkaku-china-coast-guard-intrusion.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日銀利上げ観測が高まる背景、株価動揺の中でも10月を意識",
-   "path": "/articles/20260724-boj-rate-hike-expectations-october.html",
+   "title": "日経平均が一時2200円超下落、原油高とAI過剰投資懸念で",
+   "path": "/articles/20260724-nikkei-plunges-over-2200-yen.html",
    "cat": "株式投資(日本)"
   },
   {
-   "title": "PayPayとセブン＆アイ、1億人超のID統合へ",
-   "path": "/articles/20260724-paypay-seven-i-id-integration.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "東京商工リサーチ：上場企業の不適切会計27社、粉飾3倍増の理由",
-   "path": "/articles/20260724-inappropriate-accounting-survey.html",
-   "cat": "日本企業"
+   "title": "地銀の不動産融資が急膨張、金融庁と日銀が警戒する理由",
+   "path": "/articles/20260724-regional-banks-real-estate-loan-warning.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [
-  "執筆失敗: Facebook considers giving up and becomin",
-  "執筆失敗: 物価高続き「恐怖の夏休み」の声も 6月の消費者物価指数は",
-  "執筆失敗: 株価 一時2200円超値下がり 原油価格上昇やAIへの過剰投資懸念",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 54
+ "notes": [],
+ "pv_today": 57
 }
