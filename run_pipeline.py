@@ -7,7 +7,7 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from datetime import datetime, timedelta, timezone
 
-from src import announce, build, buzz, collect, editor, precheck, report, weekly
+from src import announce, build, buzz, buzzcard, collect, editor, precheck, report, weekly
 
 JST = timezone(timedelta(hours=9))
 
@@ -82,6 +82,10 @@ def main() -> int:
                 cache[v["id"]] = v["comment"]
         cache = dict(list(cache.items())[-300:])  # 際限なく肥大させない
         buzz.save(videos, [v.get("comment", "") for v in videos], cache)
+        if full:  # X投稿用サマリー画像はフル便のみ(当社固有データの露出・逆巻提案)
+            card = buzzcard.generate(buzz.load())
+            if card:
+                print(f"  [buzzcard] {card}")
 
     print("[サイト生成] (八重樫)")
     if articles:

@@ -17,7 +17,10 @@ from .editor import ADVICE_NG
 ROOT = Path(__file__).resolve().parent.parent
 
 HYPE_NG = ["衝撃", "ヤバい", "驚愕", "驚きの", "知られざる", "本当の理由", "本当の狙い", "全貌"]
-INNERHTML_BASELINE = 3  # docs/office.html のシーン構築(信頼できる定数由来)のみ許容
+# docs/office.htmlのシーン構築(社員デスク/凪/顧問/カウントダウン)のみ許容。
+# いずれも埋め込む値はコード内の定数で、外部データは一切通らない(通す場合はtextContentを使うこと)。
+# この数値を上げるときは、新規箇所が本当に定数由来かを必ず確認する。
+INNERHTML_BASELINE = 4
 
 
 def _safety_valves() -> list[str]:
