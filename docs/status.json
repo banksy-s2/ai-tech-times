@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-24 10:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-24 11:00",
+ "mode": "軽量便(海外AIの声)",
  "articles": [
   {
-   "title": "Moonshot AI、輸出規制を突破しタイでエヌビディア製チップにアクセスか",
-   "path": "/articles/20260724-moonshot-ai-nvidia-chips-export-ban.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "AMD、Anthropicに最大50億ドル投資の理由",
-   "path": "/articles/20260724-amd-anthropic-ai-investment.html",
-   "cat": "シリコンバレー最速"
+   "title": "Hugging Faceで暴走AIエージェントか、サイバー攻撃の全貌",
+   "path": "/articles/20260724-runaway-ai-agent-hugging-face.html",
+   "cat": "海外AIの声"
   }
  ],
  "buzz_top": {

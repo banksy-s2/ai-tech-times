@@ -5929,5 +5929,93 @@
   "date": "2026-07-24",
   "time": "09:00",
   "path": "/articles/20260724-fake-ai-sites-children-literacy.html"
+ },
+ {
+  "title": "Moonshot AI、輸出規制を突破しタイでエヌビディア製チップにアクセスか",
+  "lead": "米ホワイトハウスの当局者によると、中国のAI企業であるMoonshot AIが、輸出規制を破ってタイでエヌビディアのチップにアクセスしたことが明らかになりました。",
+  "summary3": [
+   "Moonshot AIがタイでチップにアクセス",
+   "米ホワイトハウスの当局者が明らかに",
+   "強力な新モデル発表直後の動向"
+  ],
+  "body": [
+   "米ホワイトハウスの当局者が明らかにしたところによると、中国のAI企業であるMoonshot AIが、タイにおいて米エヌビディアのチップにアクセスしていたことが判明しました。米国による厳しい対中輸出規制が存在する中での動向として、各方面から注目を集めています。",
+   "Moonshot AIは、先週に強力な「Kimi K3」モデルを発表したばかりであり、AI開発における高い技術力と進展を示していました。今回の問題となったチップは、エヌビディア製の「GB300」であるとされています。",
+   "輸出規制の網をかいくぐる形で海外の拠点において先端半導体へのアクセスが行われた背景や、今後の米政府による対応などについては、さらなる詳細が注目される状況となっています。"
+  ],
+  "tags": [
+   "Moonshot AI",
+   "Nvidia",
+   "AI規制"
+  ],
+  "slug": "moonshot-ai-nvidia-chips-export-ban",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。"
+   },
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "Moonshot AIが先週リリースした、高い処理能力を持つ強力な最新AIモデルです。"
+   },
+   {
+    "name": "GB300",
+    "type": "ai",
+    "desc": "エヌビディアが開発した最先端のチップであり、高度なAI処理において極めて重要な役割を担う製品です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "10:01",
+  "path": "/articles/20260724-moonshot-ai-nvidia-chips-export-ban.html"
+ },
+ {
+  "title": "AMD、Anthropicに最大50億ドル投資の理由",
+  "lead": "米半導体大手AMDがAI開発企業Anthropicに対し、最大50億ドルの投資を行うことが明らかになりました。コンピューティング能力を強化する狙いがあります。",
+  "summary3": [
+   "AMDが最大50億ドル規模の投資へ",
+   "Anthropicの計算能力を強化",
+   "今年相次ぐインフラ投資の一環"
+  ],
+  "body": [
+   "米半導体大手のAMDは、AI開発企業のAnthropicに対して最大50億ドルを投資する計画を発表しました。この巨大な資金投入は、両社間におけるコンピューティングパワーに関する大規模な取引の一環として行われます。",
+   "今回の提携は、Anthropicが今年に入ってから精力的に進めている一連のインフラ投資の最新の事例となります。AIモデルの開発や運用に不可欠な計算能力を飛躍的に高めることが、この協定の主な目的です。",
+   "AIの需要が急増する中、大手企業同士のインフラ確保に向けた動きはさらに加速しています。今回のAMDによる巨額投資が、今後のAI開発競争や市場にどのような影響を与えるのか注目されます。"
+  ],
+  "tags": [
+   "AMD",
+   "Anthropic",
+   "AI"
+  ],
+  "slug": "amd-anthropic-ai-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカ合衆国の半導体メーカーで、CPUやGPUなどの開発・製造を手がける企業。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業で、対話型AIなどを開発している。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+  "category": "silicon",
+  "date": "2026-07-24",
+  "time": "10:01",
+  "path": "/articles/20260724-amd-anthropic-ai-investment.html"
  }
 ]
