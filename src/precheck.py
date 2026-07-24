@@ -20,8 +20,32 @@ HYPE_NG = ["衝撃", "ヤバい", "驚愕", "驚きの", "知られざる", "本
 INNERHTML_BASELINE = 3  # docs/office.html のシーン構築(信頼できる定数由来)のみ許容
 
 
+def _safety_valves() -> list[str]:
+    """安全弁が生きているかを毎便テストする(第6回事故: 削除機能の暴走)。
+    実際に危険な入力を流し、"何もしない"ことを確認する。非破壊。"""
+    out = []
+    try:
+        from . import build
+        before = {d: sorted(p.name for p in (ROOT / "docs" / d).iterdir())
+                  for d in ("articles", "term", "ogp", "archive")
+                  if (ROOT / "docs" / d).is_dir()}
+        if not before:
+            return out
+        for label, arts, td in (("空データ", [], {}), ("1件だけ", build._load()[:1], {"x": {"slug": "x", "latest": "2026-01-01"}})):
+            build._sweep_orphans(arts, td)
+        after = {d: sorted(p.name for p in (ROOT / "docs" / d).iterdir())
+                 for d in before}
+        for d in before:
+            lost = set(before[d]) - set(after.get(d, []))
+            if lost:
+                out.append(f"重大警報: 安全弁が破られた({d}で{len(lost)}件削除) — 削除機能を至急停止すること")
+    except Exception as e:
+        out.append(f"警報: 安全弁テストが実行できない({e})")
+    return out
+
+
 def run() -> list[str]:
-    warns = []
+    warns = list(_safety_valves())
 
     for f in ["run_edition.ps1", "register_task.ps1", "finish_setup.ps1"]:
         p = ROOT / f

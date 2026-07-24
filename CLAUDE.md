@@ -54,6 +54,13 @@
 - タスク状態: `powershell -Command "Get-ScheduledTaskInfo -TaskName 'AI-Tech-Times-Edition'"`(LastTaskResultが0以外=失敗)
 - ログ: `logs/run.log`(2MBでローテ)、`logs/deploy-last.log`、緊急時`logs/run-fallback.log`
 
+## 報連相(2026-07-25制定・`company/HORENSO.md`)
+
+- **着工前の連絡が必須**: 削除/上書きを伴う機能→鵜飼 / 外部データ表示→鵜飼 / 記事ルール変更→真行寺・揚羽 / ソース変更→久遠 / 株式・企業欄→財津 / 課金・公開・鍵→**社長**
+- **報告は失敗も併記**(成功だけ報告しない。社訓「嘘偽りなく」)
+- **迷ったら相談する側に倒す**。独断禁止=リスク受容の判断・期待値に関わる報告・収益化の判断
+- 口約束にせず仕組みで担保: 日報(毎便自動)・precheck警報・週次定例での相互確認
+
 ## セキュリティ運用(担当: 鵜飼静)
 
 - **新機能の着工前に必ず** `company/security/RISK_LEDGER.md` 末尾のチェックリストを通す(外部文字列を信用しない/書き込みデータ三重縛り/鍵は運ばない/純ASCII+同条件実走/法務系は機械検査併設)
