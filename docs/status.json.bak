@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-24 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-24 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、ChatGPT Healthを全米提供",
-   "path": "/articles/20260724-openai-chatgpt-health-us-users.html",
-   "cat": "AI(海外)"
+   "title": "大阪・関西万博の「ミライ人間洗濯機」が高齢者施設に導入された理由",
+   "path": "/articles/20260724-human-washing-machine-elderly-facility.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "MoonshotがAnthropicの技術流用か、米財務省が制裁警告",
-   "path": "/articles/20260724-treasury-threatens-sanctions-moonshot-anthropic.html",
-   "cat": "AI(海外)"
+   "title": "チャットGPTの偽サイトが小学生に広がる理由",
+   "path": "/articles/20260724-fake-ai-sites-children-literacy.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
