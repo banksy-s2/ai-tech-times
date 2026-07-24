@@ -5,7 +5,7 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import buzz, ogp, storage
+from . import buzz, ogp, storage, terms as terms_mod
 from .collect import CATEGORIES
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,7 +25,7 @@ NAV = [("/", "トップ"), ("/popular.html", "人気"), ("/ai.html", "海外AI")
        ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
        ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
        ("/stock.html", "株式投資"), ("/jp_corp.html", "日本企業"),
-       ("/buzz.html", "バズ動画TOP10"), ("/office.html", "編集部ライブ")]
+       ("/buzz.html", "バズ動画TOP10"), ("/term/", "AI用語事典"), ("/office.html", "編集部ライブ")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
 INDEX_TITLE = f"AIニュース速報・生成AIの最新情報まとめ | {SITE_NAME}"
@@ -226,7 +226,7 @@ gtag('config', 'G-V2T0G11PSH');
 {body}
 </main>
 <footer><div class="wrap">© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
-<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
+<a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/term/">AI用語事典</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
 </body>
 </html>"""
 
@@ -573,6 +573,73 @@ def _archive_index_html(by_date: dict) -> str:
                  "/archive/index.html", body)
 
 
+KIND_JA = {"company": "企業", "ai": "AI・製品", "person": "人物"}
+
+
+def _term_html(t: dict) -> str:
+    """用語解説ページ。「〇〇とは」への直答+当社の報道履歴"""
+    e = html.escape
+    name, kind = t["name"], KIND_JA.get(t["kind"], "用語")
+    alias_txt = f'<div class="meta">別名・表記ゆれ: {e("、".join(t["aliases"]))}</div>' if t["aliases"] else ""
+    rows = []
+    for a in t["articles"][:30]:
+        cat = CATEGORIES.get(a.get("category", "ai"), "AI")
+        rows.append(f'''<div class="card">
+<h2><a href="{BASE_URL}{a['path']}">{e(a['title'])}</a></h2>
+<div class="lead">{e(a['lead'])}</div>
+<div class="meta"><span class="ctime">{a['date']} {a.get('time','')}</span><span class="cat">{cat}</span></div>
+</div>''')
+    body = f"""<a class="back" href="{BASE_URL}/term/">← 用語事典の一覧へ</a>
+<article>
+<h1>{e(name)}とは</h1>
+<div class="meta"><span class="cat">{kind}</span>当サイトでの言及 {t['count']}件 / 最終更新 {t['latest']}</div>
+<div class="sum3"><div class="s3h">⚡ ひとことで言うと</div><p style="margin:6px 0 0">{e(t['desc'])}</p></div>
+{alias_txt}
+<p>{e(name)}は、AI TECH TIMESが{t['count']}本の記事で報じてきた{kind}です。以下は当サイトが実際に報道した{e(name)}関連のニュースで、新しい順に並んでいます。用語の解説はAI編集部によるもので、各記事には一次情報へのリンクを掲載しています。</p>
+</article>
+<h2 style="margin:28px 0 14px;font-size:1.1rem">{e(name)}に関するニュース({t['count']}件)</h2>
+{''.join(rows)}"""
+    ld = _jsonld({
+        "@context": "https://schema.org", "@type": "DefinedTerm",
+        "name": name, "description": t["desc"], "inDefinedTermSet": f"{BASE_URL}/term/",
+        "url": f"{BASE_URL}{t['url']}", "alternateName": t["aliases"],
+    })
+    faq = _jsonld({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [{"@type": "Question", "name": f"{name}とは？",
+                        "acceptedAnswer": {"@type": "Answer", "text": t["desc"]}}],
+    })
+    jsonld = ld + '</script>\n<script type="application/ld+json">' + faq
+    return _page(f"{name}とは？意味と最新ニュース{t['count']}件 | {SITE_NAME}",
+                 f"{name}とは。{t['desc']} AI TECH TIMESが報じた{name}関連ニュース{t['count']}件をまとめています。",
+                 t["url"], body, f'<script type="application/ld+json">{jsonld}</script>')
+
+
+def _term_index_html(tdict: dict) -> str:
+    e = html.escape
+    groups: dict = {}
+    for t in tdict.values():
+        groups.setdefault(t["kind"], []).append(t)
+    sections = []
+    for kind in ("ai", "company", "person"):
+        items = sorted(groups.get(kind, []), key=lambda x: -x["count"])
+        if not items:
+            continue
+        links = "".join(
+            f'<a href="{BASE_URL}{t["url"]}" class="tag" style="margin:4px;font-size:.9rem">{e(t["name"])}<span style="color:var(--dim)"> {t["count"]}</span></a>'
+            for t in items)
+        sections.append(f'<div class="card"><h2>{KIND_JA[kind]}({len(items)})</h2><div style="margin-top:10px">{links}</div></div>')
+    body = f"""<article>
+<h1>AI用語事典</h1>
+<div class="meta">全{len(tdict)}語 / 記事に登場したAI・企業・人物を自動で索引化</div>
+<div class="sum3"><div class="s3h">⚡ この事典について</div><p style="margin:6px 0 0">AI TECH TIMESの記事に登場したAIモデル・企業・人物を、解説と報道履歴つきで引ける事典です。毎時の更新で新しい用語が自動的に追加されます。</p></div>
+</article>
+<div style="margin-top:16px">{''.join(sections)}</div>"""
+    return _page(f"AI用語事典 — AIモデル・企業・人物を{len(tdict)}語収録 | {SITE_NAME}",
+                 f"AIモデル、テック企業、キーパーソンを{len(tdict)}語収録した用語事典。各用語の解説と、AI TECH TIMESが報じた関連ニュースをまとめて読めます。",
+                 "/term/index.html", body)
+
+
 def _weekly_html() -> str:
     from . import weekly as weekly_mod
     e = html.escape
@@ -649,11 +716,13 @@ def _feed_xml(arts: list[dict]) -> str:
 </channel></rss>"""
 
 
-def _sitemap(arts: list[dict]) -> str:
+def _sitemap(arts: list[dict], tdict: dict | None = None) -> str:
     latest = _iso(arts[0]["date"], arts[0].get("time", "07:00")) if arts else ""
     fixed = [f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/weekly.html",
-             f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/"] + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
+             f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/", f"{BASE_URL}/term/"] + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
     rows = [f"<url><loc>{u}</loc><lastmod>{latest}</lastmod></url>" for u in fixed]  # 一覧系は毎便更新
+    for t in (tdict or {}).values():
+        rows.append(f"<url><loc>{BASE_URL}{t['url']}</loc><lastmod>{_iso(t['latest'])}</lastmod></url>")
     rows += [f"<url><loc>{BASE_URL}/archive/{d}.html</loc></url>" for d in sorted({a['date'] for a in arts})]
     rows += [f"<url><loc>{BASE_URL}{a['path']}</loc><lastmod>{_iso(a['date'], a.get('time', '07:00'))}</lastmod></url>" for a in arts]
     entries = "\n".join(rows)
@@ -663,7 +732,7 @@ def _sitemap(arts: list[dict]) -> str:
 </urlset>"""
 
 
-def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
+def _llms_txt(arts: list[dict], buzz_data: dict, tdict: dict | None = None) -> str:
     recent = "\n".join(f"- [{a['title']}]({BASE_URL}{a['path']}) — {a['date']} {a.get('time','')}: {a['lead']}" for a in arts[:20])
     top3 = "\n".join(f"- {v['rank']}位: [{v['title']}]({v['url']})" for v in buzz_data.get("videos", [])[:3])
     latest = f"{arts[0]['date']} {arts[0].get('time','')}" if arts else "-"
@@ -695,6 +764,9 @@ def _llms_txt(arts: list[dict], buzz_data: dict) -> str:
 
 ## 世界のバズ動画TOP3 ({buzz_data.get('date', '未集計')})
 {top3}
+
+## AI用語事典 (全{len(tdict or {})}語 / {BASE_URL}/term/)
+{chr(10).join(f"- [{t['name']}とは]({BASE_URL}{t['url']}): {t['desc']}" for t in sorted((tdict or {}).values(), key=lambda x: -x['count'])[:30])}
 
 ## 主要ページ
 - [AI(海外)]({BASE_URL}/ai.html)
@@ -765,6 +837,12 @@ def build() -> None:
     (DOCS / "buzz.html").write_text(_buzz_html(buzz_data), encoding="utf-8")
     (DOCS / "popular.html").write_text(_popular_html(), encoding="utf-8")
     (DOCS / "weekly.html").write_text(_weekly_html(), encoding="utf-8")
+    # AI用語事典: 記事の注釈を横断集約した「〇〇とは」ページ群
+    tdict = terms_mod.collect(arts)
+    (DOCS / "term").mkdir(exist_ok=True)
+    for t in tdict.values():
+        (DOCS / "term" / f"{t['slug']}.html").write_text(_term_html(t), encoding="utf-8")
+    (DOCS / "term" / "index.html").write_text(_term_index_html(tdict), encoding="utf-8")
     (DOCS / "archive").mkdir(exist_ok=True)
     by_date: dict = {}
     for a in arts:
@@ -780,8 +858,8 @@ def build() -> None:
     (DOCS / "articles_index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
     (DOCS / "about.html").write_text(_about_html(), encoding="utf-8")
     (DOCS / "feed.xml").write_text(_feed_xml(arts), encoding="utf-8")
-    (DOCS / "sitemap.xml").write_text(_sitemap(arts), encoding="utf-8")
-    (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data), encoding="utf-8")
+    (DOCS / "sitemap.xml").write_text(_sitemap(arts, tdict), encoding="utf-8")
+    (DOCS / "llms.txt").write_text(_llms_txt(arts, buzz_data, tdict), encoding="utf-8")
     # AI検索エンジンのクローラを明示的に許可(ブロック=引用されない)。学習専用CCBotのみ除外
     ai_bots = ("GPTBot", "ChatGPT-User", "OAI-SearchBot", "PerplexityBot", "Perplexity-User",
                "ClaudeBot", "anthropic-ai", "Claude-Web", "Google-Extended", "Applebot-Extended",
