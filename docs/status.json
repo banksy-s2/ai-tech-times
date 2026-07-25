@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-25 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-25 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "韓国大統領府、米韓で155兆円規模のAI半導体協力へ",
-   "path": "/articles/20260725-rok-us-ai-semiconductor-cooperation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米トランプ政権の追加関税、米企業2社が提訴",
-   "path": "/articles/20260725-trump-administration-tariffs-lawsuit.html",
-   "cat": "時事・世界"
+   "title": "日経平均が2200円超の下落、東京株式市場の動向",
+   "path": "/articles/20260725-nikkei-average-drops-over-2200-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
- "pv_today": 41,
+ "notes": [
+  "執筆失敗: 個人投資家が4074億円買い越し 7月第3週、ハイテク株に押し目買い - 日本経"
+ ],
+ "pv_today": 47,
  "gemini": {
-  "used": 174,
+  "used": 178,
   "limit": 200
  }
 }

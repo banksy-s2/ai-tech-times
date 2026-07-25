@@ -1,83 +1,26 @@
 {
- "updated": "2026-07-25 21:04",
- "mode": "フル便",
+ "updated": "2026-07-25 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "CognitionがPokeを買収した、AIの性格が競争優位になる理由",
-   "path": "/articles/20260725-cognition-acquires-poke-ai-personality.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "HetznerがLLMインファレンス提供へ、開発中の背景とは",
-   "path": "/articles/20260725-hetzner-llm-inference.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ウォール・ストリート・ジャーナル前支局長が語る中国製造業の脅威",
-   "path": "/articles/20260725-wsj-former-bureau-chief-on-japan-manufacturing.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "パロアルト:生成AIでサイバー攻撃が2日かからず25分になる理由",
-   "path": "/articles/20260725-palo-alto-generative-ai-cyber-attack.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "GoogleやAmazonの債券スプレッド拡大、AI投資に債券市場が不安視",
-   "path": "/articles/20260725-bond-market-anxiety-ai-capex.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "NvidiaやMetaらがオープンモデル制限への反対を表明",
-   "path": "/articles/20260725-nvidia-microsoft-meta-open-weight-ai-warning.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "森保一監督、史上初の3期連続続投へ…なぜ異例の半年限定なのか",
-   "path": "/articles/20260725-moriyasu-japan-manager-continuation.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "イエメンのフーシ派、サウジアラビア船標的の恐れ",
-   "path": "/articles/20260725-houthi-attacks-raise-fears.html",
+   "title": "韓国大統領府、米韓で155兆円規模のAI半導体協力へ",
+   "path": "/articles/20260725-rok-us-ai-semiconductor-cooperation.html",
    "cat": "時事・世界"
   },
   {
-   "title": "ICCカーン主任検察官が性加害の疑いで懲戒免職に",
-   "path": "/articles/20260725-icc-chief-prosecutor-dismissed.html",
+   "title": "米トランプ政権の追加関税、米企業2社が提訴",
+   "path": "/articles/20260725-trump-administration-tariffs-lawsuit.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "野村アセット・石黒英之氏が語る、2040年の日経平均が24万円になる根拠",
-   "path": "/articles/20260725-nikkei-average-240000-yen-2040.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日立、純利益8000億円で最高益。時価総額22兆円へ変身できた理由",
-   "path": "/articles/20260725-hitachi-net-profit-record-high.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "SkyDrive、タイで空飛ぶクルマの事業化へ",
-   "path": "/articles/20260725-skydrive-thailand-flying-car.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "カイアDLT財団とfinojectが業務提携、日本で事業推進",
-   "path": "/articles/20260725-kaia-finoject-business-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 41,
  "gemini": {
-  "used": 171,
+  "used": 174,
   "limit": 200
  }
 }
