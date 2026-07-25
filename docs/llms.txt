@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [BlueskyのAI「Attie」が開放される理由](https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html) — 2026-07-26 08:00: 分散型ソーシャルプラットフォームのBlueskyが提供するAIアシスタント「Attie」が、オープンな社会調査ツールへと機能を拡張しました。ATプロトコル上の会話やトレンドをどのように分析できるようになったのでしょうか。
 - [巨大テックに反発、図書館の「AIを避ける」講座に殺到する理由](https://ai-tech-times.web.app/articles/20260726-libraries-host-viral-avoiding-ai-workshops.html) — 2026-07-26 07:01: 全米の図書館で、巨大テック企業への反発から開催されている「AIを避ける」講座が、かつてないほどの需要を集めています。
 - [生成AIに訴状を書かせ大手焼肉チェーンを訴えた理由](https://ai-tech-times.web.app/articles/20260726-generative-ai-lawsuit.html) — 2026-07-26 07:01: 弁護士などの代理人をつけずに裁判を起こす「本人訴訟」において、生成AIの影響が広がっています。大阪市の男性が飲食店でのトラブルをめぐり、企業を相手に訴えを起こしました。
 - [WaymoとUber、2028年5月の契約終了を視野に提携見直しへ](https://ai-tech-times.web.app/articles/20260726-waymo-uber-contract-2028.html) — 2026-07-26 07:01: 自動運転開発を手がけるWaymoと配車サービス大手のUberの提携に変化が生じる可能性があります。両社の契約は2028年5月に終了を迎えることが明らかになりました。
@@ -41,14 +42,13 @@
 - [インテルAI特需で売上高25%増、なぜ株価急落？](https://ai-tech-times.web.app/articles/20260726-intel-revenue-growth-ai-boom-q2.html) — 2026-07-26 02:00: 米半導体大手インテルの直近の四半期決算は、AIブームを追い風に売上高が25%増と約15年ぶりの急成長を記録しました。しかし、好業績の一方で株価は急落する展開となっています。
 - [ワーナーがアマゾンを提訴、人材を引き抜いた理由は](https://ai-tech-times.web.app/articles/20260726-warner-bros-suing-amazon-for-poaching.html) — 2026-07-26 02:00: 米ワーナー・ブラザーズ・ディスカバリーが、アマゾンによる違法な人材引き抜き行為をめぐり、同社を提訴したことが明らかになりました。
 - [Appleが中国製メモリ利用をトランプ政権に要請、なぜMicronが反発しているのか](https://ai-tech-times.web.app/articles/20260726-apple-micron-clash-trump-chinese-memory-chips.html) — 2026-07-26 01:00: メモリ価格の高騰を背景に、Appleがトランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていることが明らかになりました。これに対し、アメリカの半導体大手であるMicronが激しく反発しています。
-- [AIデータセンターの電力網トラブル、問題点と解決策](https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html) — 2026-07-26 00:00: 北部バージニア州での危機が明らかにした、AIデータセンターの電力網障害への脆弱性と、その対策について報じます。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
-- 3位: [Anime Expeditions | Villain Invasion](https://www.youtube.com/watch?v=yW-Hr4IXjYI)
+- 3位: [Ebenezer | Official Trailer (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin](https://www.youtube.com/watch?v=A7lyvgnDuDE)
 
-## AI用語事典 (全264語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全265語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。

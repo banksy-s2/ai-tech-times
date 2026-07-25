@@ -1,65 +1,21 @@
 {
- "updated": "2026-07-26 07:01",
- "mode": "フル便",
+ "updated": "2026-07-26 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "巨大テックに反発、図書館の「AIを避ける」講座に殺到する理由",
-   "path": "/articles/20260726-libraries-host-viral-avoiding-ai-workshops.html",
+   "title": "BlueskyのAI「Attie」が開放される理由",
+   "path": "/articles/20260726-bluesky-ai-assistant-attie-expands.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "生成AIに訴状を書かせ大手焼肉チェーンを訴えた理由",
-   "path": "/articles/20260726-generative-ai-lawsuit.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "WaymoとUber、2028年5月の契約終了を視野に提携見直しへ",
-   "path": "/articles/20260726-waymo-uber-contract-2028.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Roku、ストリーミング端末を最大60%値上げした理由",
-   "path": "/articles/20260726-roku-raises-streaming-stick-prices.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "韓国インフルエンサー、出演者の襟首つかみ批判殺到",
-   "path": "/articles/20260726-korean-influencer-violence-apology.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "フランスとスペイン山火事、20万人避難のなぜ",
-   "path": "/articles/20260726-france-spain-wildfires-evacuation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ氏、EUの米IT罰金撤回を要求へ",
-   "path": "/articles/20260726-trump-vows-to-investigate-eu-over-tech-fines.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "スルガ銀の処分解除が視野、筆頭株主の狙い",
-   "path": "/articles/20260726-suruga-bank-credaison-acquisition.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "県内上場企業の株価情報、24日の動向が明らかに",
-   "path": "/articles/20260726-tochigi-listed-company-stock-prices-24th.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [
-  "執筆失敗: 「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4",
-  "執筆失敗: 良品計画株が上場来高値圏 東アジアで高まる「MUJI」人気 - 日本経済新聞",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 12,
+ "notes": [],
+ "pv_today": 13,
  "gemini": {
-  "used": 53,
+  "used": 56,
   "limit": 200
  }
 }

@@ -9811,5 +9811,312 @@
   "date": "2026-07-26",
   "time": "06:00",
   "path": "/articles/20260726-kurimoto-fy2025-financial-results.html"
+ },
+ {
+  "title": "巨大テックに反発、図書館の「AIを避ける」講座に殺到する理由",
+  "lead": "全米の図書館で、巨大テック企業への反発から開催されている「AIを避ける」講座が、かつてないほどの需要を集めています。",
+  "summary3": [
+   "全米の図書館でAIを避ける講座を開催",
+   "巨大テック企業に対する反発が背景",
+   "参加希望者が前例のない規模で急増"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、全米各地の図書館で実施されている「AIを避ける」と題したワークショップが、これまでにない異例の需要を集めていることが明らかになりました。",
+   "この講座は、急速に普及するAI技術や巨大テック企業の動向に対して不満や疑問を抱く人々を対象にしたものです。現代社会で広範に導入が進む人工知能技術への依存や影響から距離を置きたいという市民のニーズを捉え、全国の図書館がその受け皿となっています。",
+   "日常生活や仕事のあらゆる場面でAIの活用が求められるようになる中、あえて利用を避けるための知識や方法を学ぶこうした動きは、技術の急速な進展に対する社会的な戸惑いや警戒感を浮き彫りにしています。"
+  ],
+  "tags": [
+   "AI",
+   "図書館",
+   "テック企業"
+  ],
+  "slug": "libraries-host-viral-avoiding-ai-workshops",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+  "category": "ai",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-libraries-host-viral-avoiding-ai-workshops.html"
+ },
+ {
+  "title": "生成AIに訴状を書かせ大手焼肉チェーンを訴えた理由",
+  "lead": "弁護士などの代理人をつけずに裁判を起こす「本人訴訟」において、生成AIの影響が広がっています。大阪市の男性が飲食店でのトラブルをめぐり、企業を相手に訴えを起こしました。",
+  "summary3": [
+   "飲食店でのトラブルで裁判へ",
+   "生成AIに訴状を書かせる",
+   "本人訴訟の新たな動きが話題"
+  ],
+  "body": [
+   "弁護士などの代理人をつけずに自ら裁判を起こす「本人訴訟」に、生成AI（人工知能）の影響が押し寄せていることが分かりました。朝日新聞の報道によると、大阪市の43歳の男性が飲食店でのトラブルに遭ったと訴えを起こしています。",
+   "男性は大手焼き肉チェーンの運営会社などを相手取り、裁判を展開しているとのことです。その訴状の作成において、生成AIが活用されたことが大きな注目を集めています。",
+   "生成AIの進化によって、専門的な知識が必要とされる法的な手続きのハードルが下がりつつあります。今後はこうした本人訴訟の事例が増加していく可能性があります。"
+  ],
+  "tags": [
+   "生成AI",
+   "本人訴訟",
+   "IT"
+  ],
+  "slug": "generative-ai-lawsuit",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html",
+  "category": "ai_jp",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-generative-ai-lawsuit.html"
+ },
+ {
+  "title": "WaymoとUber、2028年5月の契約終了を視野に提携見直しへ",
+  "lead": "自動運転開発を手がけるWaymoと配車サービス大手のUberの提携に変化が生じる可能性があります。両社の契約は2028年5月に終了を迎えることが明らかになりました。",
+  "summary3": [
+   "WaymoとUberの提携契約が浮上",
+   "両社の契約期間は2028年5月まで",
+   "今後の提携継続に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、自動運転技術をリードするWaymoと、配車サービスを提供するUberの今後の関係について新たな情報が伝えられました。両社の間で結ばれている現在の契約は、2028年5月に終了を迎える予定であることが、UberからTechCrunchに対して明らかにされています。",
+   "Waymoは自動運転タクシーなどの最先端技術で知られ、近年多くの都市でサービスを拡大しています。一方のUberは世界中で配車プラットフォームを展開する巨大企業であり、両社の提携は業界の大きな注目を集めてきました。契約の期限が近づくなか、今後の動向に高い関心が寄せられています。",
+   "2028年5月の契約終了に向けて、両社がどのような判断を下すのかは現時点で明らかになっていません。自動運転市場の競争が激化する中、今後のパートナーシップの行方は業界全体に影響を与える可能性があります。"
+  ],
+  "tags": [
+   "Waymo",
+   "Uber",
+   "自動運転"
+  ],
+  "slug": "waymo-uber-contract-2028",
+  "people": [],
+  "terms": [
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカのAlphabet傘下にある、自動運転技術の開発および運行を手がける企業。"
+   },
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+  "category": "silicon",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-waymo-uber-contract-2028.html"
+ },
+ {
+  "title": "Roku、ストリーミング端末を最大60%値上げした理由",
+  "lead": "ストリーミング端末を手がけるRokuが、価格を最大60%引き上げました。その背景にはRAMの不足があるとされています。",
+  "summary3": [
+   "Rokuが最大60%の値上げを実施",
+   "値上げの理由はRAM不足と説明",
+   "5月にはビジネスに好影響と発言"
+  ],
+  "body": [
+   "海外メディアのArs Technicaによると、ストリーミング機器を展開するRokuが、ストリーミングスティックの価格を最大で60%引き上げました。",
+   "同社はこの大幅な値上げの理由として、RAM（一時記憶メモリ）の不足を挙げています。",
+   "しかし、最高経営責任者（CEO）は5月の時点では、この状況についてビジネスにとって「素晴らしい」ものだと述べていました。"
+  ],
+  "tags": [
+   "Roku",
+   "ガジェット",
+   "値上げ"
+  ],
+  "slug": "roku-raises-streaming-stick-prices",
+  "people": [],
+  "terms": [
+   {
+    "name": "Roku",
+    "type": "company",
+    "desc": "アメリカの企業で、ストリーミング端末やプラットフォームの開発・提供を主な事業として行っています。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+  "category": "silicon",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-roku-raises-streaming-stick-prices.html"
+ },
+ {
+  "title": "韓国インフルエンサー、出演者の襟首つかみ批判殺到",
+  "lead": "韓国のインフルエンサーが、女性出演者の襟首をつかんで引きずる暴力行為を行い、インターネット上で大きな批判を集めて謝罪に追い込まれました。",
+  "summary3": [
+   "女性出演者への暴力行為が発生",
+   "韓国インフルエンサーに批判殺到",
+   "問題を受け本人が謝罪を表明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、韓国のインフルエンサーによる暴力行為がインターネット上で大きな問題に発展しました。事態の発端となったのは、女性出演者の襟首をつかんで引きずるという過激な行為です。",
+   "この映像や情報が拡散されると、視聴者やネットユーザーの間でその暴力的な振る舞いに対する非難が殺到しました。インフルエンサーとしての社会的責任や影響力を問う声が相次ぎ、批判の勢いは収まる気配を見せませんでした。",
+   "その後、一連の暴力行為について批判が集中したことを受け、当該の韓国インフルエンサーは謝罪を行う事態となりました。ネット上では依然として倫理観や行動に対する議論が続けられています。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "韓国",
+   "トラブル"
+  ],
+  "slug": "korean-influencer-violence-apology",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0NjajNBR3EtTnJoVGxGYUtfN2t0M1oyVldmbkI3Z2NKMzlvZ1JiVEI4YVRacmtXWHFwazZZLXluYUZGZDBlbUJwZWhIcmc4ZFVlWXNGcTVFNVJBRy1ieXkzT3dkVVNUcURWbzhBZjAxYkZ6TmpvX19fRXFTRFktVUtXNHBOQkNkQWt4Ny1lWVM5NnltaUdGaTdncDlwUVFmbXJibVNCY2ZYWUYyOW42MWRYQjBZeWRIaUxfdEl0VWdMY1lwRDYyV3hyX0xQMlhCT0JkODJ2aTVCRmlTYTJtUWN6Y25OOVBuRmfSAZoBQVVfeXFMUExaMGFlb3hGOVRYREJub3o4SVdFVHJfUWNseVN1Y1pnS0wxYmVKQ2JnQUVwVnJsWlJiTW94M2Y2VlN1WXdVMmgxWmZUX3J5ajVmV3B6NUJvUlBwUGh2MVlVVmoyNDFTQ1E5N0NGMktYaEFSdnZxdGpSU09xeFk5Z194VVN4UmZSWnJOSDZNN3JkSkU4cFdQdFIydw?oc=5",
+  "category": "influencer",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-korean-influencer-violence-apology.html"
+ },
+ {
+  "title": "フランスとスペイン山火事、20万人避難のなぜ",
+  "lead": "フランスとスペインでは、高温に伴う山火事が猛威を振るい、両国合わせて20万人以上が避難する深刻な事態となっています。欧州連合（EU）への支援要請や軍の出動が行われる中、現地の状況と被害拡大の背景を伝えます。",
+  "summary3": [
+   "フランスとスペインで山火事が拡大",
+   "両国合わせて20万人以上が避難",
+   "EUへ支援要請しフランス軍が出動"
+  ],
+  "body": [
+   "フランスやスペインでは、高温にともなう山火事が急速に広がっており、両国で合わせて20万人以上が避難する事態となっています。乾燥した気候と厳しい高温が影響し、消火活動は困難を極めています。",
+   "事態の深刻化を受けて、両国はEU＝ヨーロッパ連合に対して支援を要請しました。国際的な連携による消火活動や救助活動が急ピッチで進められています。",
+   "また、フランスでは軍が出動して現場での対応にあたっています。住民の安全確保と被害の最小化に向けた懸命な作業が続けられていますが、今後の動向が懸念されています。"
+  ],
+  "tags": [
+   "フランス",
+   "スペイン",
+   "山火事"
+  ],
+  "slug": "france-spain-wildfires-evacuation",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015185881000",
+  "category": "world",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-france-spain-wildfires-evacuation.html"
+ },
+ {
+  "title": "トランプ氏、EUの米IT罰金撤回を要求へ",
+  "lead": "トランプ米大統領は、欧州連合（EU）による米国IT企業への巨額の罰金処分について、完全に撤回させる方針を表明しました。",
+  "summary3": [
+   "トランプ氏がEUの米IT罰金に言及",
+   "Googleなどの処分撤回を主張",
+   "AppleやMetaも対象に含まれる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、アメリカのトランプ大統領は、欧州連合（EU）が科している米国の大手テクノロジー企業に対する罰金処分について、「完全に撤回されるべきだ」との考えを明らかにしました。",
+   "今回の発言で対象として名指しされたのは、検索エンジン最大手のGoogleのほか、iPhoneなどで知られるApple、SNS大手Meta、そして電子商取引大手のAmazonなどの米国企業です。",
+   "欧州連合は近年、巨大IT企業に対して厳しい規制や巨額の罰金を科す動きを強めており、今回のトランプ大統領の発言によって、今後の米欧間の貿易摩擦や規制を巡る議論に影響が出る可能性があります。"
+  ],
+  "tags": [
+   "トランプ大統領",
+   "EU",
+   "IT規制"
+  ],
+  "slug": "trump-vows-to-investigate-eu-over-tech-fines",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、検索エンジンやインターネット関連サービスを展開する巨大IT企業。"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、iPhoneやMacなどのハードウェアを開発・販売する企業。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、FacebookやInstagramなどのSNSを運営する企業。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大級の電子商取引サイトやクラウドサービスを運営する企業。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-trump-vows-to-investigate-eu-over-tech-fines.html"
+ },
+ {
+  "title": "スルガ銀の処分解除が視野、筆頭株主の狙い",
+  "lead": "スルガ銀行をめぐる長年の業務改善命令の解除へ向けた動きが進んでいます。これに伴い、筆頭株主であるクレディセゾンの動向に注目が集まっています。",
+  "summary3": [
+   "スルガ銀の8年越しの処分解除へ",
+   "筆頭株主クレディセゾンが浮上",
+   "買収観測の全貌と今後の狙い"
+  ],
+  "body": [
+   "過去の不正融資問題によってスルガ銀行に対して出されていた業務改善命令について、いよいよ解除へ向けた動きが本格化してきました。長年にわたる経営立て直しと体制改善の成果が問われる局面を迎えています。",
+   "こうしたなかで大きな注目を集めているのが、同社の筆頭株主であるクレディセゾンの動きです。処分解除の視界が開けてきたことにともない、市場では買収観測に関する様々な憶測が飛び交う状況となっています。",
+   "クレディセゾンがどのような戦略を描き、今後の資本関係や事業展開にどう関与していくのか。その具体的な狙いや買収観測の全貌について、関係者の間での関心が一段と高まっています。"
+  ],
+  "tags": [
+   "スルガ銀行",
+   "クレディセゾン",
+   "買収観測"
+  ],
+  "slug": "suruga-bank-credaison-acquisition",
+  "people": [],
+  "terms": [
+   {
+    "name": "スルガ銀行",
+    "type": "company",
+    "desc": "静岡県沼津市に本店を置く地方銀行。個人向けローンなどを強みとする。"
+   },
+   {
+    "name": "クレディセゾン",
+    "type": "company",
+    "desc": "日本の大手クレジットカード会社。セゾンブランドのカードを発行する。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952459?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-suruga-bank-credaison-acquisition.html"
+ },
+ {
+  "title": "県内上場企業の株価情報、24日の動向が明らかに",
+  "lead": "下野新聞社が配信した情報によると、県内の上場企業株価に関する24日のニュースが報じられました。",
+  "summary3": [
+   "県内上場企業の株価に関する24日の動向",
+   "下野新聞デジタルが朝刊・夕刊で配信",
+   "県内の経済や企業情報を伝える内容"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、下野新聞社が運営する下野新聞デジタルは、県内の上場企業株価に関する24日の朝刊および夕刊ニュースを公開しました。",
+   "今回の配信では、県内の上場企業における株価の動きについて伝えられており、地域の経済状況に関心を持つ読者に向けて情報が提供されています。",
+   "詳細な数値や個別の企業動向については、元記事である下野新聞デジタルの該当ページにて確認することができます。"
+  ],
+  "tags": [
+   "上場企業",
+   "株価",
+   "下野新聞"
+  ],
+  "slug": "tochigi-listed-company-stock-prices-24th",
+  "people": [],
+  "terms": [
+   {
+    "name": "下野新聞社",
+    "type": "company",
+    "desc": "栃木県宇都宮市に本社を置く、県域新聞「下野新聞」を発行する日本の地方新聞社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdWxvckxRRkRXaDZ4MmRHYzl1Q3d2eVU4M2RTMk5Pd3VIRlptdjg0YWF1REl3clVOdHQ2T2lzV1JWMFZYNlcxdjhjTGhSVU1kWlUyaHlkcm1wNm8?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-26",
+  "time": "07:01",
+  "path": "/articles/20260726-tochigi-listed-company-stock-prices-24th.html"
  }
 ]
