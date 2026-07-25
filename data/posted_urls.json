@@ -233,7 +233,8 @@
   "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
   "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
   "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-  "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg"
+  "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+  "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -685,6 +686,8 @@
   "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
   "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
   "アマゾンやメタ等の信用力に異変、前例なきAI投資の代償とは",
-  "クアルコム、二桁値上げへ：私たちの財布に響く理由"
+  "クアルコム、二桁値上げへ：私たちの財布に響く理由",
+  "Quoting Boris Cherny",
+  "AnthropicのOpus 5、プロンプトインジェクションへの耐性が判明"
  ]
 }
