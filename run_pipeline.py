@@ -172,8 +172,7 @@ def main() -> int:
 
     if not articles and not videos:
         if full:
-            print("フル便で記事もバズ動画もゼロ。異常終了")
-            return 1
+            return _abort("取得異常", "フル便で記事もバズ動画もゼロ", notes)
         print("軽量便: 新着なし(正常)")  # 既報除外後の候補ゼロは軽量便では普通(指摘8)
         return 0
 
