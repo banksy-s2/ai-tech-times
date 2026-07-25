@@ -478,6 +478,10 @@ def _buzz_html(data: dict) -> str:
                 "複数地域でランクインしている動画を優先しつつ再生回数順に統合しています。"}},
         ],
     })
+    # 共有画像は「その日のカードが実在する」ときだけ案内する(古い画像を今日と偽らない)
+    card_link = ""
+    if (DOCS / "buzz" / f"card-{date}.png").exists():
+        card_link = f'　/　<a href="{BASE_URL}/buzz/card-{date}.png">→ 今日のTOP10を1枚の画像で見る(共有用)</a>'
     summary = ""
     if top:
         multi_txt = (f"うち{len(multi)}本は3地域以上で同時に急上昇しており、国境を越えて広がっています。" if multi else "")
@@ -490,8 +494,7 @@ def _buzz_html(data: dict) -> str:
 {summary}
 </article>
 {''.join(rows) if rows else '<p>本日の集計はまだありません。</p>'}
-<p style="margin-top:24px"><a href="{BASE_URL}/buzz/">→ 日別アーカイブと殿堂入りランキング</a>
-　/　<a href="{BASE_URL}/buzz/today.png">→ 今日のTOP10を1枚の画像で見る(共有用)</a></p>"""
+<p style="margin-top:24px"><a href="{BASE_URL}/buzz/">→ 日別アーカイブと殿堂入りランキング</a>{card_link}</p>"""
     return _page(BUZZ_TITLE,
                  f"今世界でバズっている動画TOP10({date}時点の1位は「{top['title'][:24]}」)。米・英・日・韓・伯・印6地域のYouTube急上昇を毎時集計。" if top
                  else "世界6地域のYouTube急上昇を毎時集計したバズ動画ランキング。",

@@ -69,8 +69,10 @@ def fetch_top10() -> list[dict] | None:
         return None
     # 複数地域でバズっている動画を優先しつつ再生回数順
     top = sorted(merged.values(), key=lambda v: (len(v["regions"]), v["views"]), reverse=True)[:10]
+    covered = sorted({r for v in merged.values() for r in v["regions"]}, key=REGIONS.index)
     for i, v in enumerate(top):
         v["rank"] = i + 1
+    top[0]["_covered"] = covered  # 集計できた地域(部分取得時の表示に使う)
     print(f"  [buzz] {len(merged)}本から TOP10 を集計")
     return top
 
@@ -81,10 +83,12 @@ HISTORY_FILE = Path(__file__).resolve().parent.parent / "data" / "buzz_history.j
 def save(videos: list[dict], comments: list[str], comment_cache: dict | None = None) -> None:
     for v, c in zip(videos, comments + [""] * 10):
         v["comment"] = c
+    covered = videos[0].pop("_covered", None) if videos else None  # 集計できた地域(部分取得の明示)
     today = datetime.now(JST).strftime("%Y-%m-%d")
     storage.save_json(DATA_FILE, {
         "date": today,
         "videos": videos,
+        "covered": covered or REGIONS,
         "comment_cache": comment_cache or {},
     })
     _append_history(today, videos)

@@ -4,6 +4,7 @@
 逆巻顧問の提案「待つより、誰も持っていないデータを出せ」の実装。
 docs/buzz/card-YYYY-MM-DD.png に保存し、最新は docs/buzz/today.png としても置く。
 """
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -29,6 +30,8 @@ MUTED = (142, 148, 172)
 LINE = (36, 44, 66)
 
 REGION_JA = {"US": "米", "GB": "英", "JP": "日", "KR": "韓", "BR": "伯", "IN": "印"}
+REGION_ORDER = ["US", "GB", "JP", "KR", "BR", "IN"]
+KEEP_DAYS = 60  # 日付別カードの保持枚数(Git履歴と公開容量の肥大を防ぐ)
 
 
 def _fit(text: str, font, draw, max_w: int) -> str:
@@ -48,6 +51,16 @@ def _views(n: int) -> str:
     return f"{n:,}回"
 
 
+def _prune_old_cards() -> None:
+    """古い日付別カードを削除(最新KEEP_DAYS枚だけ残す)。today.pngは常に維持"""
+    try:
+        cards = sorted(OUT_DIR.glob("card-????-??-??.png"))
+        for old in cards[:-KEEP_DAYS]:
+            old.unlink()
+    except OSError:
+        pass
+
+
 def generate(data: dict) -> str | None:
     """バズTOP10のサマリー画像を作りパスを返す。失敗時None"""
     if not _PIL_OK:
@@ -56,6 +69,13 @@ def generate(data: dict) -> str | None:
     if not videos:
         return None
     day = data.get("date") or datetime.now(JST).strftime("%Y-%m-%d")
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(day)):  # ファイル名に使う前に形式を検証
+        day = datetime.now(JST).strftime("%Y-%m-%d")
+    covered = [r for r in data.get("covered", REGION_ORDER) if r in REGION_JA] or REGION_ORDER
+    region_txt = "・".join(REGION_JA[r] for r in covered)
+    subtitle = (f"{day} 集計 ／ {region_txt}の急上昇を統合"
+                if len(covered) == len(REGION_ORDER)
+                else f"{day} 集計 ／ {region_txt}の急上昇を統合（一部地域は取得できず）")
     try:
         OUT_DIR.mkdir(parents=True, exist_ok=True)
         img = Image.new("RGB", (W, H), BG)
@@ -72,7 +92,7 @@ def generate(data: dict) -> str | None:
         d.text((60, 52), "AI TECH ", font=f_logo, fill=TEXT)
         d.text((60 + d.textlength("AI TECH ", font=f_logo), 52), "TIMES", font=f_logo, fill=AMBER)
         d.text((60, 120), "世界のバズ動画 TOP10", font=f_h1, fill=TEXT)
-        d.text((60, 200), f"{day} 集計 ／ 米・英・日・韓・伯・印の急上昇を統合", font=f_sub, fill=MUTED)
+        d.text((60, 200), subtitle, font=f_sub, fill=MUTED)
 
         y = 265
         for v in videos[:10]:
@@ -100,6 +120,7 @@ def generate(data: dict) -> str | None:
         tmp2 = today.with_suffix(".tmp.png")
         img.save(tmp2, "PNG")
         os.replace(tmp2, today)
+        _prune_old_cards()
         return f"/buzz/card-{day}.png"
     except Exception as e:
         print(f"  [buzzcard] 生成失敗: {e}")

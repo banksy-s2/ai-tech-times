@@ -86,6 +86,9 @@ def main() -> int:
             card = buzzcard.generate(buzz.load())
             if card:
                 print(f"  [buzzcard] {card}")
+            else:  # 失敗を黙らせない(古い画像が「今日のTOP10」として残るため)
+                print("  [buzzcard] 生成できず(Pillow不在/保存失敗)")
+                notes.append("バズ画像の生成に失敗(today.pngが古い可能性)")
 
     print("[サイト生成] (八重樫)")
     if articles:
