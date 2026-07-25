@@ -9,9 +9,10 @@
 """
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 
-from .collect import CATEGORIES
+from .collect import CATEGORIES, PAUSED_CATEGORIES, PAUSED_SINCE
 from .editor import ADVICE_NG
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -47,8 +48,52 @@ def _safety_valves() -> list[str]:
     return out
 
 
+def _paused_leak() -> list[str]:
+    """生成停止カテゴリ(著作権上の判断・D1)の記事が新たに公開されていないか。
+    本番台帳への書き込みテストは禁止のため、"漏れた結果"を検出する方式にする。非破壊。"""
+    if not PAUSED_CATEGORIES:
+        return []
+    path = ROOT / "data" / "articles.json"
+    if not path.exists():
+        return []  # 開設初日など。記事が存在しない以上、漏れようがない
+    try:
+        arts = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as e:
+        # 読めない=漏れていないことを確認できない。検査不能は重大扱いにして便を止める
+        return [f"重大警報: 停止カテゴリ検査が実行できない({e})"]
+    if not isinstance(arts, list):
+        return ["重大警報: 停止カテゴリ検査が実行できない(台帳の形式が不正)"]
+    try:
+        since = datetime.strptime(PAUSED_SINCE, "%Y-%m-%d %H:%M")
+    except ValueError:
+        return [f"重大警報: 停止発効日時の書式が不正({PAUSED_SINCE})"]
+    leaked, unparsable = [], 0
+    for a in arts:
+        if not isinstance(a, dict):
+            unparsable += 1  # 台帳に非dictが混ざるのは異常。見逃さない
+            continue
+        if a.get("category") not in PAUSED_CATEGORIES:
+            continue
+        # 停止発効より後に公開されたものだけが「漏れ」。同日午前の既存記事と区別するため時刻まで見る
+        try:
+            when = datetime.strptime(f"{a['date']} {a['time']}", "%Y-%m-%d %H:%M")
+        except (KeyError, TypeError, ValueError):
+            unparsable += 1
+            continue
+        if when >= since:
+            leaked.append(a)
+    out = []
+    if leaked:
+        out.append(f"重大警報: 生成停止カテゴリの記事が{len(leaked)}本公開されている"
+                   f"({leaked[0].get('category')}) — 生成経路を至急確認すること")
+    if unparsable:
+        out.append(f"重大警報: 停止カテゴリ検査で日時を判定できない記事が{unparsable}件 — 検査不能")
+    return out
+
+
 def run() -> list[str]:
     warns = list(_safety_valves())
+    warns += _paused_leak()
 
     for f in ["run_edition.ps1", "register_task.ps1", "finish_setup.ps1"]:
         p = ROOT / f
@@ -74,18 +119,25 @@ def run() -> list[str]:
     if cnt > INNERHTML_BASELINE:
         warns.append(f"再発警報: innerHTML使用が基準({INNERHTML_BASELINE})を超過({cnt}) — XSS再発リスク、要レビュー")
 
+    # 台帳が壊れていても、ここで例外を出して警報そのものを握り潰さないこと
+    # (壊れた台帳は上の _paused_leak が重大警報として既に報告している)
     try:
         arts = json.loads((ROOT / "data" / "articles.json").read_text(encoding="utf-8"))
-        for a in arts[-30:]:
+    except (OSError, json.JSONDecodeError):
+        arts = []
+    for a in (arts[-30:] if isinstance(arts, list) else []):
+        if not isinstance(a, dict) or not isinstance(a.get("title"), str):
+            continue
+        try:
             text = a["title"] + a["lead"] + " ".join(a["body"]) + " ".join(a.get("summary3") or [])
-            if a.get("category") in ("stock", "jp_corp"):
-                hit = next((x for x in ADVICE_NG if x in text), None)
-                if hit:
-                    warns.append(f"再発警報: 公開中記事に助言表現「{hit}」: {a['title'][:28]}")
-            hype = next((x for x in HYPE_NG if x in a["title"]), None)
-            if hype:
-                warns.append(f"再発警報: 見出しに釣り文句「{hype}」: {a['title'][:28]}")
-    except (OSError, json.JSONDecodeError, KeyError):
-        pass
+        except (KeyError, TypeError):
+            continue
+        if a.get("category") in ("stock", "jp_corp"):
+            hit = next((x for x in ADVICE_NG if x in text), None)
+            if hit:
+                warns.append(f"再発警報: 公開中記事に助言表現「{hit}」: {a['title'][:28]}")
+        hype = next((x for x in HYPE_NG if x in a["title"]), None)
+        if hype:
+            warns.append(f"再発警報: 見出しに釣り文句「{hype}」: {a['title'][:28]}")
 
     return warns

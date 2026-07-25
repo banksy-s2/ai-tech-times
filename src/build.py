@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import buzz, ogp, storage, terms as terms_mod
-from .collect import CATEGORIES
+from .collect import CATEGORIES, PAUSED_CATEGORIES
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "articles.json"
@@ -993,8 +993,31 @@ def _sweep_orphans(arts: list[dict], tdict: dict) -> None:
         print(f"  [build] 孤児ファイル{removed}件を削除")
 
 
+class LedgerError(RuntimeError):
+    """記事台帳が読めない/異常。サイトを作り直してはいけない状態"""
+
+
+def _check_ledger(arts) -> list[dict]:
+    """台帳の健全性を確認する。疑わしければ例外にして、以降の生成・保存を止める。
+
+    最悪の事故は「台帳が読めなかっただけなのに、記事ゼロのサイトで全ページを上書きする」こと。
+    公開済みの記事ページが既にあるのに台帳が空なら、それは読込失敗とみなす(第6回事故と同型)。
+    """
+    if not isinstance(arts, list) or any(not isinstance(a, dict) for a in arts):
+        raise LedgerError("記事台帳の形式が不正(読込失敗の可能性)")
+    if not arts:
+        published = len(list((DOCS / "articles").glob("*.html"))) if (DOCS / "articles").is_dir() else 0
+        if published:
+            raise LedgerError(f"台帳が空なのに公開済み記事が{published}件ある(読込失敗の可能性)")
+        if DATA_FILE.exists():
+            raise LedgerError(
+                "台帳ファイルはあるのに記事ゼロ(読込失敗の可能性)。"
+                f"本当にゼロから始めるなら {DATA_FILE.name} を削除してから実行すること")
+    return arts
+
+
 def build() -> None:
-    arts = sorted(_load(), key=lambda a: (a["date"], a.get("time", "")), reverse=True)
+    arts = sorted(_check_ledger(_load()), key=lambda a: (a["date"], a.get("time", "")), reverse=True)
     buzz_data = buzz.load()
     DOCS.mkdir(exist_ok=True)
     (DOCS / "articles").mkdir(exist_ok=True)
@@ -1099,11 +1122,22 @@ def build() -> None:
     print(f"  [build] {len(arts)}記事 + バズ動画{len(buzz_data.get('videos', []))}本でサイト再生成完了")
 
 
-def save_articles(new_arts: list[dict]) -> None:
-    arts = _load()
-    known = {a["path"] for a in arts}
+def save_articles(new_arts: list[dict]) -> list[dict]:
+    """新着記事を台帳に保存し、実際に保存されたものを返す(破棄分は含まない)。
+
+    台帳が異常なら LedgerError を送出して何も書かない(_check_ledger)。
+    戻り値が空でも「異常」ではなく「全件が停止カテゴリだった」を意味する。
+    """
+    arts = _check_ledger(_load())  # 異常なら LedgerError。呼び出し元が便を止める
+    known = {a["path"] for a in arts if "path" in a}
     now = datetime.now(JST)
     today = now.strftime("%Y-%m-%d")
+    # 最後の関門: 生成停止カテゴリの記事は、どこから来ても保存しない(著作権上の判断・D1)
+    blocked = [a for a in new_arts if a.get("category") in PAUSED_CATEGORIES]
+    if blocked:
+        for a in blocked:
+            print(f"  [build] 生成停止カテゴリのため破棄({a.get('category')}): {str(a.get('title'))[:40]}")
+        new_arts = [a for a in new_arts if a.get("category") not in PAUSED_CATEGORIES]
     for a in new_arts:
         a["date"] = today
         a["time"] = now.strftime("%H:%M")
@@ -1116,3 +1150,4 @@ def save_articles(new_arts: list[dict]) -> None:
         arts.append(a)
         known.add(a["path"])
     storage.save_json(DATA_FILE, arts)
+    return new_arts
