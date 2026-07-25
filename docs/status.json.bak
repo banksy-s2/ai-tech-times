@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-26 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-26 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "日本トイザらス、上野に大人向け専門店オープンで初日売上4倍の理由",
-   "path": "/articles/20260726-toysrus-ueno-adult-store.html",
-   "cat": "インフルエンサー"
+   "title": "スペイン首都周辺で山火事拡大、非常事態宣言の背景",
+   "path": "/articles/20260726-spain-wildfires-emergency.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トランプ大統領のイラン資産補償案、なぜ外相は反発するのか",
+   "path": "/articles/20260726-trump-iran-assets-compensation.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 5,
+ "pv_today": 6,
  "gemini": {
-  "used": 12,
+  "used": 17,
   "limit": 200
  }
 }
