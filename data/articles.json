@@ -7542,5 +7542,49 @@
   "date": "2026-07-25",
   "time": "08:00",
   "path": "/articles/20260725-amd-helios-ai-rack-system.html"
+ },
+ {
+  "title": "Anthropic、Claude Opus 5を半額で公開",
+  "lead": "AI TECH TIMESは、Anthropicが公開した最新のLLM「Claude Opus 5」に関する情報をお伝えします。上位モデルに迫る性能を半額で提供する注目のモデルです。",
+  "summary3": [
+   "AnthropicがClaude Opus 5を公開",
+   "上位モデルに迫る性能を半額で提供",
+   "自動フォールバック機能などを備える"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がITmedia AI+の報道に基づきお伝えするニュースです。Anthropicは、最新の大規模言語モデル（LLM）「Claude Opus 5」を公開しました。プログラミングやナレッジワークにおいて高い評価を獲得している注目のモデルです。",
+   "最大の特徴は、上位モデルである「Claude Fable 5」に迫る高い知能を持ちながら、その半額という価格で提供される点です。コストパフォーマンスを重視する開発者や企業にとって、大きな選択肢となるでしょう。",
+   "機能面では、推論の深さを調整するパラメータを搭載しています。また、安全性分類器に連動する自動フォールバック機能なども備えており、サイバー安全策が緩和される一方で安全面への配慮もなされています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude Opus 5",
+   "LLM"
+  ],
+  "slug": "anthropic-claude-opus-5-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能スタートアップ企業で、対話型AIの開発を手がける。"
+   },
+   {
+    "name": "Claude Opus 5",
+    "type": "ai",
+    "desc": "Anthropicが開発した最新の大規模言語モデルで、高い知能を備える。"
+   },
+   {
+    "name": "Claude Fable 5",
+    "type": "ai",
+    "desc": "Anthropicが提供する上位モデルの大規模言語モデル。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "09:00",
+  "path": "/articles/20260725-anthropic-claude-opus-5-released.html"
  }
 ]

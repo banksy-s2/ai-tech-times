@@ -1,71 +1,11 @@
 {
- "updated": "2026-07-25 07:21",
- "mode": "フル便",
+ "updated": "2026-07-25 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "オラクルが21,000人解雇の背景にあるAI投資の誤算とは",
-   "path": "/articles/20260725-oracle-fires-21000-employees-ai-bet.html",
+   "title": "AMD、Nvidia対抗の新型AIラックシステム「Helios」投入",
+   "path": "/articles/20260725-amd-helios-ai-rack-system.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Microsoft、自社AI導入でコスト減へ",
-   "path": "/articles/20260725-microsoft-introduces-in-house-ai.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "OpenAI、ChatGPTが医療・ヘルスケア連携を開始した理由",
-   "path": "/articles/20260725-health-in-chatgpt-apple-healthcare.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Andurilが1,000億ドル規模の資金調達へ、去年の3倍超",
-   "path": "/articles/20260725-anduril-funding-100b-valuation.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Google、巨額のAI投資で初の四半期マイナスキャッシュフローを記録",
-   "path": "/articles/20260725-google-negative-cash-flow-ai-spending.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "オリバー・ハブリカ氏が大規模慈善活動の新プラットフォーム「Lightcone Commons」を発表",
-   "path": "/articles/20260725-introducing-lightcone-commons.html",
-   "cat": "海外AIの声"
-  },
-  {
-   "title": "CNN報じる、シャチの猛スピード突撃でマンボウが粉々になる理由",
-   "path": "/articles/20260725-orca-attack-mola-mola.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "1ドル＝163円台後半に円安、財布への影響は",
-   "path": "/articles/20260725-yen-drops-to-163-yen-per-dollar.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "全東信が経営破綻、経産省と金融庁が調査へ",
-   "path": "/articles/20260725-zentoshin-bankruptcy-investigation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "円相場1ドル=163円台後半、39年半ぶり安値の背景",
-   "path": "/articles/20260725-yen-rate-163-yen-low.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日経平均一時2000円超下落、6万4000円台に",
-   "path": "/articles/20260725-nikkei-average-drops-over-2000-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "金融庁と東証、コーポレートガバナンス・コードを83から30項目へ激減させた理由",
-   "path": "/articles/20260725-corporate-governance-code-revision.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "藤田金属が年商6.8億円へV字回復できたワケ",
-   "path": "/articles/20260725-fujita-metal-v-shape-recovery.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -73,13 +13,11 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [
-  "再発警報: innerHTML使用が基準(3)を超過(4) — XSS再発リスク、要レビュー",
-  "執筆失敗: OpenAI and Anthropic unite against open-",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: Prentis, new AI lab co-founded by Reid H"
  ],
  "pv_today": 30,
  "gemini": {
-  "used": 60,
+  "used": 64,
   "limit": 200
  }
 }

@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-25 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-25 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AMD、Nvidia対抗の新型AIラックシステム「Helios」投入",
-   "path": "/articles/20260725-amd-helios-ai-rack-system.html",
-   "cat": "AI(海外)"
+   "title": "Anthropic、Claude Opus 5を半額で公開",
+   "path": "/articles/20260725-anthropic-claude-opus-5-released.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [
-  "執筆失敗: Prentis, new AI lab co-founded by Reid H"
+  "執筆失敗: 「AIキルスイッチ法案」が米国で提出。AI暴走に政府が介入"
  ],
  "pv_today": 30,
  "gemini": {
-  "used": 64,
+  "used": 69,
   "limit": 200
  }
 }

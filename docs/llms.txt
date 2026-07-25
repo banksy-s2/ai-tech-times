@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic、Claude Opus 5を半額で公開](https://ai-tech-times.web.app/articles/20260725-anthropic-claude-opus-5-released.html) — 2026-07-25 09:00: AI TECH TIMESは、Anthropicが公開した最新のLLM「Claude Opus 5」に関する情報をお伝えします。上位モデルに迫る性能を半額で提供する注目のモデルです。
 - [AMD、Nvidia対抗の新型AIラックシステム「Helios」投入](https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html) — 2026-07-25 08:00: 半導体大手AMDが、ライバルであるNvidiaに対抗する新しいラックルスケールシステム「Helios」を発表しました。今年後半から顧客への出荷が開始される予定です。
 - [オラクルが21,000人解雇の背景にあるAI投資の誤算とは](https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html) — 2026-07-25 07:21: 大手テクノロジー企業オラクルにおいて、AIへの巨額投資に関連した戦略がうまくいかず、大規模な人員削減に発展しました。
 - [Microsoft、自社AI導入でコスト減へ](https://ai-tech-times.web.app/articles/20260725-microsoft-introduces-in-house-ai.html) — 2026-07-25 07:21: Microsoftは、GitHub CopilotやExcelにおいて自社開発のAIモデルの本格導入を開始しました。他社モデルと併用しつつ、コストパフォーマンスの向上を図る方針です。
@@ -41,12 +42,11 @@
 - [日経平均が1811円安、AI関連株に売り](https://ai-tech-times.web.app/articles/20260725-nikkei-average-falls-1811-yen.html) — 2026-07-25 06:00: 東京株式市場で日経平均株価が2日ぶりに値下がりし、終値は前日比1811円安の6万4611円となりました。AIや半導体関連株を中心に売り注文が広がっています。
 - [吉野家のドラクエコラボが即終了した理由とは](https://ai-tech-times.web.app/articles/20260725-yoshinoya-dq-collab-ended.html) — 2026-07-25 06:00: 吉野家が実施した位置情報ゲーム「ドラゴンクエストウォーク」とのコラボレーションが、転売ヤー対策を行ったにもかかわらず即終了に追い込まれました。経済・テクノロジー分野のライターである山口伸氏がその背景を解説します。
 - [ブレント原油6%超上昇で100ドル到達、生活への影響は](https://ai-tech-times.web.app/articles/20260725-oil-prices-hit-100-dollars.html) — 2026-07-25 05:00: 中東情勢の緊迫化に伴い、原油価格が5月以来となる100ドル台に達しました。私たちの家計や経済にどのような影響を及ぼすのでしょうか。
-- [ナスダックが2.1%超下落、AI過剰投資警戒で](https://ai-tech-times.web.app/articles/20260725-nasdaq-drops-over-2-percent-due-to-ai-concerns.html) — 2026-07-25 05:00: 23日のニューヨーク株式市場で、ハイテク株中心のナスダックが前日比550ポイント余り下落しました。AIへの過剰投資に対する警戒感や金利上昇が背景にあります。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
-- 2位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
-- 3位: [RESIDENT EVIL – Official Trailer (4K)](https://www.youtube.com/watch?v=mNd1gb19A-c)
+- 2位: [RESIDENT EVIL – Official Trailer (4K)](https://www.youtube.com/watch?v=mNd1gb19A-c)
+- 3位: [EA SPORTS FC 27 | Official Reveal Trailer](https://www.youtube.com/watch?v=MOclJJ7IpSY)
 
 ## AI用語事典 (全196語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業で、安全性に配慮した大規模言語モデルの開発を手がけています。
@@ -65,6 +65,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠を置く、電気自動車（EV）や蓄電池の開発・販売を手がける世界的な自動車メーカー。
+- [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが開発した最新の大規模言語モデルで、高い知能を備える。
+- [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
 - [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
 - [Andurilとは](https://ai-tech-times.web.app/term/anduril.html): アメリカに拠点を置き、最先端の防衛技術やAIを活用したハードウェア・ソフトウェアを開発する企業。
 - [Ben Thompsonとは](https://ai-tech-times.web.app/term/ben-thompson.html): 著名なテック系アナリストであり、ニュースレター「Stratechery」を運営する独立系メディアの創設者。
@@ -77,8 +79,6 @@
 - [黒木啓司とは](https://ai-tech-times.web.app/term/%E9%BB%92%E6%9C%A8%E5%95%93%E5%8F%B8.html): EXILEおよびEXILE THE SECONDの元メンバーとして活動し、ダンスや俳優業で広く知られた元タレント。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。
 - [GitHub Copilotとは](https://ai-tech-times.web.app/term/github-copilot.html): プログラミング作業をAIがリアルタイムで支援し、コードの記述や提案を行ってくれる開発者向けのツールです。
-- [Excelとは](https://ai-tech-times.web.app/term/excel.html): 表計算ソフトとして世界中で広く利用されており、近年はAI機能の統合による業務効率化が進められています。
-- [Appleヘルスケアとは](https://ai-tech-times.web.app/term/Apple%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2.html): Appleが提供する、iPhoneなどで運動量や睡眠時間などの健康データを一元管理するアプリケーションです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

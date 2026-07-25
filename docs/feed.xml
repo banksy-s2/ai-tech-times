@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic、Claude Opus 5を半額で公開</title>
+<link>https://ai-tech-times.web.app/articles/20260725-anthropic-claude-opus-5-released.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260725-anthropic-claude-opus-5-released.html</guid>
+<pubDate>Sat, 25 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI TECH TIMESは、Anthropicが公開した最新のLLM「Claude Opus 5」に関する情報をお伝えします。上位モデルに迫る性能を半額で提供する注目のモデルです。</description>
+</item>
+<item>
 <title>AMD、Nvidia対抗の新型AIラックシステム「Helios」投入</title>
 <link>https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Fri, 24 Jul 2026 23:01:00 +0900</pubDate>
 <category>日本企業</category>
 <description>リニア中央新幹線をめぐり、JR東海の丹羽社長が金子国土交通大臣と面会しました。静岡県との協定締結を受けた今後の動向に注目が集まっています。</description>
-</item>
-<item>
-<title>日経平均が一時2200円超下落、原油高とAI過剰投資懸念で</title>
-<link>https://ai-tech-times.web.app/articles/20260724-nikkei-plunges-over-2200-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260724-nikkei-plunges-over-2200-yen.html</guid>
-<pubDate>Fri, 24 Jul 2026 22:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>24日の東京株式市場で、日経平均株価が一時2200円以上値下がりしました。イラン情勢を受けた原油価格の上昇や、AIに対する過剰投資の懸念が重なった形です。</description>
 </item>
 </channel></rss>
