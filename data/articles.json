@@ -7706,5 +7706,366 @@
   "date": "2026-07-25",
   "time": "11:00",
   "path": "/articles/20260725-opus-5-prompt-injection-resistance.html"
+ },
+ {
+  "title": "リード・ホフマン氏らの新AIラボPrentis、1億ドル調達へ交渉中",
+  "lead": "テック業界の大物が共同創業した新たなAIラボ「Prentis」が、資金調達に向けて協議を進めていることが明らかになりました。",
+  "summary3": [
+   "Prentisが1億ドルの資金調達を交渉中",
+   "リード・ホフマン氏らが新AIラボを共同創業",
+   "定型業務の自動化が主要な用途になると予測"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が入手した情報によると、新たなAIラボであるPrentisが、1億ドルの資金調達に向けた交渉を行っていることが分かりました。同社は、リード・ホフマン氏やマーク・ピンカス氏らによって共同創業された注目の企業です。",
+   "新ラボであるPrentisが賭けているのは、日常的なコンピューターの定型業務を自動化することが、AIの最大のユースケースとしてコーディングをすぐに追い抜くだろうという点です。AIの活用領域における新たなトレンドとして注目を集めています。",
+   "今回の資金調達交渉が成功すれば、定型業務の自動化技術の開発や事業展開がさらに加速することが予想されます。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "AI",
+   "資金調達",
+   "Prentis"
+  ],
+  "slug": "prentis-ai-lab-funding-100m",
+  "people": [
+   {
+    "name": "リード・ホフマン氏",
+    "bio": "ビジネス特化型SNSのLinkedInを共同創業し、著名な投資家としても知られる起業家。"
+   },
+   {
+    "name": "マーク・ピンカス氏",
+    "bio": "ソーシャルゲーム大手ジンガの創業者であり、数々のIT企業を成功に導いた実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Prentis",
+    "type": "company",
+    "desc": "コンピューターの定型業務の自動化を主眼に置く、新たに設立されたAIラボの企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-prentis-ai-lab-funding-100m.html"
+ },
+ {
+  "title": "トランプ政権、AI科学研究に50億ドル拠出の理由",
+  "lead": "トランプ政権は木曜日、AI駆動型の科学プロジェクトを支援するため、50億ドルの「ジェネシス・ミッション」補助金を発表しました。マンハッタン計画に匹敵する緊要性と野心を持つ取り組みとして進められています。",
+  "summary3": [
+   "AI科学プロジェクトに50億ドルを拠出",
+   "トランプ政権がジェネシス・ミッションを発表",
+   "マンハッタン計画に匹敵する規模と強調"
+  ],
+  "body": [
+   "トランプ政権は木曜日、数百のAI駆動型科学プロジェクトに向けて50億ドルを投じる「ジェネシス・ミッション」の最初の補助金を明らかにしました。ホワイトハウスは、この取り組みが「マンハッタン計画に匹敵する緊要性と野心を持つ」ものだと表現しています。",
+   "これとほぼ同時期に、トランプ政権の科学顧問であるマイケル・クラツィオス氏はキャピトル・ヒル（議会議事堂）に赴き、議員らに対して説明を行っていました。",
+   "今回の巨額な資金拠出により、アメリカの科学研究におけるAI活用がどのように加速していくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "科学研究",
+   "トランプ政権"
+  ],
+  "slug": "genesis-mission-ai-science-funding",
+  "people": [
+   {
+    "name": "マイケル・クラツィオス氏",
+    "bio": "トランプ政権の科学顧問を務める人物。科学技術政策などの分野で政権を支える。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-genesis-mission-ai-science-funding.html"
+ },
+ {
+  "title": "ITmedia AI+調査：中小企業がハマる生成AIトラブル5つの乗り切り方",
+  "lead": "キーマンズネットの読者調査に寄せられた生成AIを巡る中小企業の切実な悩みについて、元経済産業省の専門家が具体的な解決シナリオを解説します。",
+  "summary3": [
+   "読者調査に中小企業の悩み集まる",
+   "代表的な5つの課題を取り上げる",
+   "専門家が明日使える解決法を解説"
+  ],
+  "body": [
+   "キーマンズネットの読者調査には、生成AIの活用を巡る中小企業の切実な悩みが数多く寄せられました。業務効率化への期待が高まる一方で、現場ではさまざまなトラブルや戸惑いが生じているのが現状です。",
+   "今回は、代表的な5つの「あるある課題」に焦点を当てます。それらの課題に対し、経済産業省や中小企業庁でデジタル活用支援に携わってきた小池明氏を迎え、明日からすぐに使える乗り切り方について話を聞きました。",
+   "生成AIの導入や活用につまずいている企業にとって、現場のリアルな悩みに対する専門家の実践的なアドバイスは、今後のトラブルを防ぐための大きなヒントとなりそうです。"
+  ],
+  "tags": [
+   "生成AI",
+   "中小企業",
+   "ITmedia AI+"
+  ],
+  "slug": "generative-ai-trouble-solutions-for-smes",
+  "people": [
+   {
+    "name": "小池明",
+    "bio": "経済産業省や中小企業庁でデジタル活用支援に携わってきた専門家"
+   }
+  ],
+  "terms": [
+   {
+    "name": "キーマンズネット",
+    "type": "company",
+    "desc": "IT製品やサービスの選定を支援する国内最大級のIT専門メディア"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/articles/2607/24/news049.html",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-generative-ai-trouble-solutions-for-smes.html"
+ },
+ {
+  "title": "中国・丁副首相「国産AI採用拒否は裏切り」発言の波紋",
+  "lead": "アメリカ企業に依存しないAI開発を進める中国で、政府高官の発言が波紋を呼んでいます。中国の丁薛祥副首相が過去に「中国産AIチップの採用を拒むものは裏切り者である」と発言していたことが報じられました。",
+  "summary3": [
+   "中国で国産AIチップの開発が進行中",
+   "丁副首相の発言内容が報じられる",
+   "米国依存からの脱却を急ぐ姿勢"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、中国ではアメリカ企業に依存せずにAI開発を進めるべく、国産AIチップの開発プロジェクトが進められています。そんな中で、中国の丁薛祥副首相が過去に「中国産AIチップの採用を拒むものは裏切り者である」と発言していたことが明らかになりました。",
+   "中国政府はこれまでも、半導体やAI分野における自給自足体制の構築を強力に推進してきました。今回の報道で伝えられた発言は、国内の産業界に対して国産技術の採用を強く促し、海外製技術からの脱却を加速させる狙いがあったものとみられています。",
+   "アメリカ企業への依存を断ち切り、独自路線でのAI開発を急ぐ中国において、政権幹部によるこのような強い言葉での統制は、今後の国内市場や関連企業に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "中国",
+   "AIチップ",
+   "半導体"
+  ],
+  "slug": "china-ai-chip-betrayal",
+  "people": [
+   {
+    "name": "丁薛祥",
+    "bio": "中国の副首相を務め、同国の政治体制において重要な役割を担う政治家です。"
+   }
+  ],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260725-china-ai-chip/",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-china-ai-chip-betrayal.html"
+ },
+ {
+  "title": "Googleに10億ドルの巨額罰金、EUがトランプ政権との対立へ備える",
+  "lead": "欧州連合（EU）のデジタル市場法に基づき、巨大IT企業に対して大規模な制裁金が科される動きが強まっています。",
+  "summary3": [
+   "Googleに10億ドルの罰金が科される",
+   "DMA違反で3社目の巨大テック企業に",
+   "EUはトランプ政権との対立に備える"
+  ],
+  "body": [
+   "米国の巨大IT企業であるGoogleに対して、新たに10億ドルの巨額な罰金が科されることが明らかになりました。今回の処分は、欧州連合（EU）が市場の公正性を保つために施行しているデジタル市場法に基づくものです。",
+   "これによりGoogleは、同法に違反して多額の制裁金を科された3番目の巨大テック企業となります。欧州委員会は巨大IT企業の独占的な慣行に対して厳しい姿勢を崩しておらず、規制強化の波がさらに広がる可能性があります。",
+   "現在、EUはトランプ政権との新たな対立や交渉に向けた準備を進めている最中でもあります。今回の巨額罰金が今後の国際的なテクノロジー政策や貿易関係にどのような影響を与えるのか、関係者の間で大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "EU",
+   "デジタル市場法"
+  ],
+  "slug": "google-hit-with-1-billion-in-fines-eu",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力に、多岐にわたるソフトウェアやハードウェア事業を展開するアメリカの巨大IT企業"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-google-hit-with-1-billion-in-fines-eu.html"
+ },
+ {
+  "title": "ホロライブ運営、誹謗中傷に1投稿150万円の賠償金で示談成立",
+  "lead": "人気バーチャルYouTuberグループ「ホロライブ」の運営元が、所属タレントに対する誹謗中傷を行った人物と示談を成立させました。極めて悪質な内容に対し、1投稿につき150万円という高額な賠償金が設定されています。",
+  "summary3": [
+   "ホロライブ運営が誹謗中傷と示談",
+   "賠償金は1投稿につき150万円",
+   "投稿内容は極めて悪質と判断"
+  ],
+  "body": [
+   "人気バーチャルYouTuberグループ「ホロライブ」の運営元企業が、所属タレントに対して行われた誹謗中傷への法的対応について発表しました。問題の投稿を行った人物との間で、示談が成立したことが明らかになっています。",
+   "今回の示談では、誹謗中傷にあたる投稿内容が「極めて悪質」であると判断されました。その結果として、1投稿につき150万円という高額な賠償金が設定される形での決着となりました。",
+   "ネット上での誹謗中傷問題に対しては、近年法的措置を厳格に行う企業が増加しています。今回の高額な賠償金による示談成立は、悪質な投稿に対する強い姿勢を示す事例となりそうです。"
+  ],
+  "tags": [
+   "ホロライブ",
+   "誹謗中傷",
+   "示談"
+  ],
+  "slug": "hololive-defamation-settlement",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9USjktVVpPMmptSFN2M3VBeGZzNlozbjRiVVFFQVJxbzF4RUkwNWZ6dVMydG0zNHM3dmx0ZU9JMDVGV3Y2SmtqcmgxczJQY2dmS3VFc2p3N3RGZmdFM00wRGpEbUZCTnZqNjVnN2ZpN3JFYy16SEk0T1JMVzY2OGc?oc=5",
+  "category": "influencer",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-hololive-defamation-settlement.html"
+ },
+ {
+  "title": "アメリカ財務省、円相場の過度な変動に言及",
+  "lead": "アメリカ財務省は各国の通貨政策を分析する報告書を公表し、円相場について言及しました。私たちの生活や為替にどのように関わるのか、内容をお伝えします。",
+  "summary3": [
+   "アメリカ財務省が報告書を公表",
+   "円相場の過度な変動を指摘",
+   "望ましくないと懸念を示す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたNHK国際のニュースによると、アメリカ財務省は各国の通貨政策を分析する報告書を新たに公表しました。その中で、昨今の円相場の動きについて重要な見解が示されています。",
+   "報告書では、円相場の動きに対して「過度な変動は望ましくない」と明確に指摘されました。為替市場の急激な変化が経済や金融市場に与える影響について、アメリカ政府側が警戒感を示している形となります。",
+   "通貨政策をめぐる動向は、私たちの生活や輸入物価、資産運用などにも間接的な影響を及ぼす可能性があります。今後の為替市場や各国政府の対応を引き続き注視していく必要があります。"
+  ],
+  "tags": [
+   "アメリカ財務省",
+   "円相場",
+   "為替"
+  ],
+  "slug": "us-treasury-yen-exchange-rate-fluctuation",
+  "people": [],
+  "terms": [
+   {
+    "name": "アメリカ財務省",
+    "type": "company",
+    "desc": "アメリカ合衆国において財政や経済政策、通貨政策などを担当する政府機関です。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015184801000",
+  "category": "world",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-us-treasury-yen-exchange-rate-fluctuation.html"
+ },
+ {
+  "title": "日経平均の秋の銘柄入れ替え：国内大手証券が新規採用を予想",
+  "lead": "秋に予定される日経平均株価の銘柄入れ替えについて、国内大手証券が新規採用される銘柄の予想を発表しました。",
+  "summary3": [
+   "日経平均の秋の銘柄入れ替えを予想",
+   "国内大手証券が新規採用銘柄を公表",
+   "コクサイエレなどが採用予想に挙がる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、国内大手証券は、今秋に予定されている日経平均株価の銘柄入れ替えについて、新規採用となる銘柄の予想を明らかにしました。",
+   "今回の予想において、新規に採用される可能性が高い銘柄として、コクサイエレ、ＪＸ金属、Ｆ＆ＬＣの名前が挙げられています。",
+   "今後の日経平均株価の構成銘柄の見直しに向けて、市場関係者の間でも動向に注目が集まる状況となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "証券"
+  ],
+  "slug": "nikkei-average-autumn-rebalance-forecast",
+  "people": [],
+  "terms": [
+   {
+    "name": "コクサイエレ",
+    "type": "company",
+    "desc": "半導体製造装置などを手掛け、市場で広く知られる日本の企業です。"
+   },
+   {
+    "name": "Ｆ＆ＬＣ",
+    "type": "company",
+    "desc": "飲食事業などを展開し、国内外で広く知られている日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBya0hPUEsxLXNrNXlXOWJ0NGYtVXJGeXhEMzRHM3YtaHc3ZW5HMFdUN05wWDBOUS1QQXpMMG9iYlRma1pXSjlKMGxFZGNoUXF5aTh1RGVMQXpzM01BY19hTA?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-nikkei-average-autumn-rebalance-forecast.html"
+ },
+ {
+  "title": "キオクシア、アドテスト、東エレクなど来週の決算発表予定",
+  "lead": "株探より、7月27日から31日までの来週の決算発表予定が公開されました。",
+  "summary3": [
+   "来週の決算発表予定が公開",
+   "対象はキオクシアやアドテストなど",
+   "期間は7月27日から31日まで"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、株探の情報として来週の決算発表予定が明らかにされました。",
+   "発表予定期間は7月27日から31日までとなっており、キオクシア、アドテスト、東エレクなどが含まれています。",
+   "今後のスケジュールとして、該当企業の決算発表に注目が集まる見通しです。"
+  ],
+  "tags": [
+   "決算発表",
+   "キオクシア",
+   "アドテスト"
+  ],
+  "slug": "kioxia-adventest-earnings-schedule",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリを中心とした半導体製品の開発・製造を手がける日本の企業です。"
+   },
+   {
+    "name": "アドテスト",
+    "type": "company",
+    "desc": "半導体試験装置（テスタ）の大手メーカーであり、世界トップクラスのシェアを誇ります。"
+   },
+   {
+    "name": "東エレク",
+    "type": "company",
+    "desc": "半導体製造装置の世界的大手企業であり、様々な製造プロセス向けの装置を提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKM2NDNlJIbmx1dDVrLW5oWjRUYkFiaWozbEhnTy1CTW82M1l0bDB6YkpJVTJDQkx6SmE4dmh0c011bEVhaDdVNXc2STVXalpNMXBGM215cGhUcDNsOTlrXw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-kioxia-adventest-earnings-schedule.html"
+ },
+ {
+  "title": "静岡ガス、2030年目標2年前倒しで3年1,070億円投資",
+  "lead": "静岡ガスはFY2026 Q1の決算説明会において、2030年目標を2年前倒しし、3年間で1,070億円の成長投資を行うと発表しました。",
+  "summary3": [
+   "静岡ガスがFY2026 Q1決算説明会を開催",
+   "2030年目標を2年前倒しすることを発表",
+   "3年間で1,070億円の成長投資を計画"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。静岡ガスは、FY2026 Q1の決算説明会を実施し、今後の経営戦略や投資計画について明らかにしました。",
+   "今回の発表における最大のトピックは、2030年に向けた目標を2年前倒しですすめるという方針です。これに伴い、同社は3年間で総額1,070億円規模の成長投資を行う計画を明らかにしました。",
+   "決算説明会で示されたこれらの具体的な数値や投資計画は、今後の事業展開における重要な指標となります。詳細な財務状況や今後の動向については、企業の公式発表をご確認ください。"
+  ],
+  "tags": [
+   "静岡ガス",
+   "決算説明会",
+   "成長投資"
+  ],
+  "slug": "shizuoka-gas-fy2026-q1-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "静岡ガス",
+    "type": "company",
+    "desc": "静岡県を基盤とする日本のガス事業者で、都市ガス供給やエネルギー事業を展開する企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UXpYWFFQWEFlaUQ1MDAtNnE5a21xbTZYQ3F2SVE2ZFU1SjVTRlJWUEtkamVVVFFRY2dqcU9VYWNfaU9VeEZ4Z0hoMDFVcE9NZ1JnT19HNHh5MWM1NkZB?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "12:02",
+  "path": "/articles/20260725-shizuoka-gas-fy2026-q1-investment.html"
  }
 ]
