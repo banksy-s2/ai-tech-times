@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アマゾンやメタ等の信用力に異変、前例なきAI投資の代償とは](https://ai-tech-times.web.app/articles/20260725-moodys-ai-spending-threatens-credit-quality.html) — 2026-07-25 10:00: 格付け会社ムーディーズは、過熱するAI投資が世界有数の巨大企業の財務を圧迫し、信用力を脅かしていると指摘しました。
+- [クアルコム、二桁値上げへ：私たちの財布に響く理由](https://ai-tech-times.web.app/articles/20260725-qualcomm-raising-prices-september.html) — 2026-07-25 10:00: 米国の半導体大手クアルコムが、顧客企業に対して製品価格を二桁のパーセンテージで引き上げる方針を通知したことが明らかになりました。部品不足が続く中、コスト高の吸収が限界に達したとしています。
 - [Anthropic、Claude Opus 5を半額で公開](https://ai-tech-times.web.app/articles/20260725-anthropic-claude-opus-5-released.html) — 2026-07-25 09:00: AI TECH TIMESは、Anthropicが公開した最新のLLM「Claude Opus 5」に関する情報をお伝えします。上位モデルに迫る性能を半額で提供する注目のモデルです。
 - [AMD、Nvidia対抗の新型AIラックシステム「Helios」投入](https://ai-tech-times.web.app/articles/20260725-amd-helios-ai-rack-system.html) — 2026-07-25 08:00: 半導体大手AMDが、ライバルであるNvidiaに対抗する新しいラックルスケールシステム「Helios」を発表しました。今年後半から顧客への出荷が開始される予定です。
 - [オラクルが21,000人解雇の背景にあるAI投資の誤算とは](https://ai-tech-times.web.app/articles/20260725-oracle-fires-21000-employees-ai-bet.html) — 2026-07-25 07:21: 大手テクノロジー企業オラクルにおいて、AIへの巨額投資に関連した戦略がうまくいかず、大規模な人員削減に発展しました。
@@ -40,18 +42,16 @@
 - [日経平均株価、1811円45銭安の6万4611円15銭で大引け](https://ai-tech-times.web.app/articles/20260725-nikkei-average-closing-drop.html) — 2026-07-25 06:18: 日経CNBC onlineの「TOKYO CLOSING BELL 大引け解説」によると、日経平均株価の終値は大きく下落しました。
 - [円相場が164円に迫る円安加速、日米のインフレ退治格差とは](https://ai-tech-times.web.app/articles/20260725-yen-depreciation-accelerates-us-japan-gap.html) — 2026-07-25 06:18: 円相場が一時1ドル=164円に迫り、1986年11月以来の安値を記録しました。日米のインフレ退治に対する本気度の違いが透けて見えています。
 - [日経平均が1811円安、AI関連株に売り](https://ai-tech-times.web.app/articles/20260725-nikkei-average-falls-1811-yen.html) — 2026-07-25 06:00: 東京株式市場で日経平均株価が2日ぶりに値下がりし、終値は前日比1811円安の6万4611円となりました。AIや半導体関連株を中心に売り注文が広がっています。
-- [吉野家のドラクエコラボが即終了した理由とは](https://ai-tech-times.web.app/articles/20260725-yoshinoya-dq-collab-ended.html) — 2026-07-25 06:00: 吉野家が実施した位置情報ゲーム「ドラゴンクエストウォーク」とのコラボレーションが、転売ヤー対策を行ったにもかかわらず即終了に追い込まれました。経済・テクノロジー分野のライターである山口伸氏がその背景を解説します。
-- [ブレント原油6%超上昇で100ドル到達、生活への影響は](https://ai-tech-times.web.app/articles/20260725-oil-prices-hit-100-dollars.html) — 2026-07-25 05:00: 中東情勢の緊迫化に伴い、原油価格が5月以来となる100ドル台に達しました。私たちの家計や経済にどのような影響を及ぼすのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [RESIDENT EVIL – Official Trailer (4K)](https://www.youtube.com/watch?v=mNd1gb19A-c)
 - 3位: [EA SPORTS FC 27 | Official Reveal Trailer](https://www.youtube.com/watch?v=MOclJJ7IpSY)
 
-## AI用語事典 (全196語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全197語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業で、安全性に配慮した大規模言語モデルの開発を手がけています。
-- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置く最先端の人工知能の研究開発企業であり、対話型AIなどの革新的な技術やサービスを提供している。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
+- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置く最先端の人工知能の研究開発企業であり、対話型AIなどの革新的な技術やサービスを提供している。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを主力事業とし、世界中で多様なインターネット関連サービスや製品を展開するアメリカの巨大IT企業。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
@@ -65,6 +65,7 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠を置く、電気自動車（EV）や蓄電池の開発・販売を手がける世界的な自動車メーカー。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引とクラウドサービスを展開する企業です。
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが開発した最新の大規模言語モデルで、高い知能を備える。
 - [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
 - [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
@@ -78,7 +79,6 @@
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [黒木啓司とは](https://ai-tech-times.web.app/term/%E9%BB%92%E6%9C%A8%E5%95%93%E5%8F%B8.html): EXILEおよびEXILE THE SECONDの元メンバーとして活動し、ダンスや俳優業で広く知られた元タレント。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。
-- [GitHub Copilotとは](https://ai-tech-times.web.app/term/github-copilot.html): プログラミング作業をAIがリアルタイムで支援し、コードの記述や提案を行ってくれる開発者向けのツールです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
