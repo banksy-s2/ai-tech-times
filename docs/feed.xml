@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>スペイン首都周辺で山火事拡大、非常事態宣言の背景</title>
+<link>https://ai-tech-times.web.app/articles/20260726-spain-wildfires-emergency.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-spain-wildfires-emergency.html</guid>
+<pubDate>Sun, 26 Jul 2026 04:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>ヨーロッパ各地で山火事が相次ぎ、被害が拡大しています。このうちスペインでは首都マドリード周辺に非常事態が宣言され、消火活動が続けられています。</description>
+</item>
+<item>
+<title>トランプ大統領のイラン資産補償案、なぜ外相は反発するのか</title>
+<link>https://ai-tech-times.web.app/articles/20260726-trump-iran-assets-compensation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-trump-iran-assets-compensation.html</guid>
+<pubDate>Sun, 26 Jul 2026 04:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ大統領がイランの攻撃による損害をイランの資産で支払うと主張し、イラン側が強く反発しています。</description>
+</item>
+<item>
 <title>日本トイザらス、上野に大人向け専門店オープンで初日売上4倍の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260726-toysrus-ueno-adult-store.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260726-toysrus-ueno-adult-store.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 25 Jul 2026 17:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>米国において、人工知能を活用したという虚偽の説明で顧客や投資家を欺く企業を訴えるケースが急増しています。</description>
-</item>
-<item>
-<title>ITmedia AI+：「AI疲れ」の正体と対策</title>
-<link>https://ai-tech-times.web.app/articles/20260725-ai-fatigue-it-.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-ai-fatigue-it-.html</guid>
-<pubDate>Sat, 25 Jul 2026 17:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの普及で仕事が楽になるはずが、IT現場では「AI疲れ」や「AI鬱」が問題となっています。その疲れの正体と、個人がどう変わるべきかという判断軸を整理します。</description>
-</item>
-<item>
-<title>Nvidia、SKハイニックスからメモリ確保へ</title>
-<link>https://ai-tech-times.web.app/articles/20260725-nvidia-locks-down-memory-supply.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-nvidia-locks-down-memory-supply.html</guid>
-<pubDate>Sat, 25 Jul 2026 17:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>エヌビディアが、AI向けGPUに不可欠な高帯域幅メモリの供給網を確実に抑えるため、SKハイニックスとの協力を進めています。</description>
 </item>
 </channel></rss>
