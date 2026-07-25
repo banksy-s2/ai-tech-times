@@ -44,7 +44,9 @@ def _safety_valves() -> list[str]:
             if lost:
                 out.append(f"重大警報: 安全弁が破られた({d}で{len(lost)}件削除) — 削除機能を至急停止すること")
     except Exception as e:
-        out.append(f"警報: 安全弁テストが実行できない({e})")
+        # 削除機能の安全弁が生きているか確認できないまま _sweep_orphans まで進ませない。
+        # 「検査不能」は「異常なし」ではない(フェイルクローズ)
+        out.append(f"重大警報: 安全弁テストが実行できない({e}) — 削除機能の健全性を確認できない")
     return out
 
 

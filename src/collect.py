@@ -206,6 +206,19 @@ def _load_posted() -> dict:
     return data
 
 
+def _published_source_urls() -> set:
+    """公開済み記事の元記事URL。既報台帳が壊れた/更新に失敗した場合の二重掲載を防ぐ保険。
+    読めなければ空集合を返す(この関数単体では判断せず、posted.json 側と併用する)"""
+    try:
+        arts = storage.load_json(DATA_DIR / "articles.json", [])
+    except Exception:
+        return set()
+    if not isinstance(arts, list):
+        return set()
+    return {a["source_url"] for a in arts
+            if isinstance(a, dict) and isinstance(a.get("source_url"), str)}
+
+
 def _norm_title(t: str) -> str:
     """媒体名サフィックス(「- Yahoo!ニュース」等)を落として比較用に正規化"""
     return re.split(r"\s+[-–|｜]\s+", t.strip())[0].lower()
@@ -231,7 +244,10 @@ def _is_dup_topic(title: str, posted_titles: list[str]) -> bool:
 def collect(category: str) -> list[dict]:
     """指定カテゴリのソースを巡回し、新鮮で未報の候補を返す(URLとタイトル両方で既報判定)"""
     posted = _load_posted()
-    posted_urls = set(posted["urls"])
+    # 既報URLは posted.json と記事台帳の source_url の和集合で見る。
+    # 既報登録(mark_posted)だけが失敗して記事台帳には入った場合、posted.json だけでは
+    # 同じRSS項目を次便で再び拾ってしまう(タイトル/類似度の層は元記事タイトルの一致を保証しない)
+    posted_urls = set(posted["urls"]) | _published_source_urls()
     posted_titles = [_norm_title(t) for t in posted["titles"][-300:]]
     posted_title_set = set(posted_titles)
     cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)

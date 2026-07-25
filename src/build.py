@@ -1005,6 +1005,12 @@ def _check_ledger(arts) -> list[dict]:
     """
     if not isinstance(arts, list) or any(not isinstance(a, dict) for a in arts):
         raise LedgerError("記事台帳の形式が不正(読込失敗の可能性)")
+    # build()とsave_articles()が必ず参照するフィールド。欠けていれば生成の途中でKeyErrorになり、
+    # 「異常なら何も書かない」という契約を満たせなくなるため、書く前に落とす
+    for i, a in enumerate(arts):
+        missing = [f for f in ("date", "path", "title") if not isinstance(a.get(f), str) or not a[f]]
+        if missing:
+            raise LedgerError(f"記事台帳の{i + 1}件目に必須項目がない({'/'.join(missing)})")
     if not arts:
         published = len(list((DOCS / "articles").glob("*.html"))) if (DOCS / "articles").is_dir() else 0
         if published:

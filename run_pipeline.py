@@ -15,6 +15,21 @@ JST = timezone(timedelta(hours=9))
 MAIN_HOURS = {7, 12, 17, 21}
 
 
+def _abort(label: str, reason: str, notes: list) -> int:
+    """便を中止する唯一の出口。ログと状態記録を必ず残してから終わる。
+
+    注意: 終了コードが非ゼロだと run_edition.ps1 はデプロイをスキップするため、
+    この状態は公開中のサイトには反映されない。異常の発見は logs/run.log と
+    タスクの LastTaskResult に頼る(受容リスクR7)。
+    """
+    print(f"中止({label}): {reason}")
+    try:
+        report.write_status(f"中止({label})", [], None, notes + [f"{label}: {reason}"])
+    except Exception as e:
+        print(f"  状態記録失敗: {e}")
+    return 1
+
+
 def main() -> int:
     hour = datetime.now(JST).hour
     full = hour in MAIN_HOURS
@@ -22,12 +37,10 @@ def main() -> int:
     # 綴り違いは二重防御(選定側と保存側)を同時に無効化するため、起動時に必ず突き合わせる
     unknown = collect.PAUSED_CATEGORIES - collect.CATEGORIES.keys()
     if unknown:
-        print(f"停止カテゴリ名が不正(存在しないキー): {sorted(unknown)}。設定を確認すること")
-        return 1
+        return _abort("設定不正", f"停止カテゴリ名が存在しないキー: {sorted(unknown)}", [])
     active = {k: v for k, v in collect.CATEGORIES.items() if k not in collect.PAUSED_CATEGORIES}
     if not active:  # 全カテゴリ停止は設定ミスの可能性。空回しせず異常終了する
-        print("全カテゴリが生成停止中。設定を確認すること")
-        return 1
+        return _abort("設定不正", "全カテゴリが生成停止中", [])
     if full:
         targets = active
         print(f"== フル便({hour}時) ==")
@@ -53,22 +66,12 @@ def main() -> int:
     # 重大警報(安全弁の破れ・停止カテゴリの漏れ・検査不能)は、続行せず止める
     critical = [w for w in pre_warns if w.startswith("重大警報")]
     if critical:
-        print("重大警報のため中止。原因を解消するまで便を回さないこと")
-        try:
-            report.write_status("中止(重大警報)", [], None, notes)
-        except Exception as e:
-            print(f"  状態記録失敗: {e}")
-        return 1
+        return _abort("重大警報", "原因を解消するまで便を回さないこと / " + " / ".join(critical), notes)
 
     try:
         published = build._check_ledger(build._load())
     except build.LedgerError as e:
-        print(f"中止: {e} — サイトを作り直さずに終了する")
-        try:
-            report.write_status("中止(台帳異常)", [], None, notes + [f"台帳異常: {e}"])
-        except Exception as ex:
-            print(f"  状態記録失敗: {ex}")
-        return 1
+        return _abort("台帳異常", f"{e} — サイトを作り直さずに終了する", notes)
     recent_titles = [a["title"] for a in published[-40:] if isinstance(a.get("title"), str)]
     for cat, label in targets.items():
         print(f"[収集: {label}] (久遠)")
@@ -135,12 +138,7 @@ def main() -> int:
         try:
             articles = build.save_articles(articles)
         except build.LedgerError as e:
-            print(f"中止: {e} — 記事を保存せずに終了する")
-            try:
-                report.write_status("中止(台帳異常)", [], None, notes + [f"台帳異常: {e}"])
-            except Exception as ex:
-                print(f"  状態記録失敗: {ex}")
-            return 1
+            return _abort("台帳異常", f"{e} — 記事を保存せずに終了する", notes)
         if len(articles) < fed:
             notes.append(f"新着{fed}本のうち{fed - len(articles)}本が保存時に破棄された")
         if articles:
@@ -170,12 +168,7 @@ def main() -> int:
     try:
         build.build()
     except build.LedgerError as e:
-        print(f"中止: {e} — サイトを作り直さずに終了する")
-        try:
-            report.write_status("中止(台帳異常)", [], None, notes + [f"台帳異常: {e}"])
-        except Exception as ex:
-            print(f"  状態記録失敗: {ex}")
-        return 1
+        return _abort("台帳異常", f"{e} — サイトを作り直さずに終了する", notes)
 
     if not articles and not videos:
         if full:
