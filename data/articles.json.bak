@@ -8853,5 +8853,485 @@
   "date": "2026-07-25",
   "time": "20:20",
   "path": "/articles/20260725-trump-inner-circle-influencer-ukraine.html"
+ },
+ {
+  "title": "CognitionがPokeを買収した、AIの性格が競争優位になる理由",
+  "lead": "AI開発企業CognitionがPokeを買収しました。この買収が、AIアシスタントの競争において何を意味するのかをお伝えします。",
+  "summary3": [
+   "CognitionがPokeを買収しました",
+   "会話スタイルや操作モデルがDevinに統合",
+   "AIの対話における個性が重要に"
+  ],
+  "body": [
+   "AI業界において、AIアシスタントの競争優位性に変化が生じています。米国のAI開発企業であるCognitionは、会話型AIなどを手がけるPokeを買収しました。この動きは、AI業界における新たなトレンドを反映しています。",
+   "今回の買収によって、Pokeが持つ独自の会話スタイルやインタラクションモデルが、CognitionのコーディングエージェントであるDevinに統合されることになります。これは、AIのパフォーマンスだけでなく、ユーザーとのインタラクションのあり方が重要視されているためです。",
+   "背景には、AIアシスタントの基盤となるモデル自体の性能だけでなく、ユーザーとの対話方法や個性が競争上の優位性になりつつあるという強い信念があります。今後のAI開発において、ユーザーエクスペリエンスの差別化が一層進むと見られています。"
+  ],
+  "tags": [
+   "AI TECH TIMES",
+   "Cognition",
+   "AI開発"
+  ],
+  "slug": "cognition-acquires-poke-ai-personality",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cognition",
+    "type": "company",
+    "desc": "コーディングエージェントの開発などを手がける米国のAI企業"
+   },
+   {
+    "name": "Devin",
+    "type": "ai",
+    "desc": "Cognitionが開発したコーディングエージェント製品"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-cognition-acquires-poke-ai-personality.html"
+ },
+ {
+  "title": "HetznerがLLMインファレンス提供へ、開発中の背景とは",
+  "lead": "欧州のクラウド企業であるHetznerが、大規模言語モデル（LLM）のインファレンス機能の開発に取り組んでいることが明らかになりました。",
+  "summary3": [
+   "HetznerがLLMインファレンス開発へ",
+   "Sliplaneのブログ記事で情報が公開",
+   "Hnのコミュニティで多くの関心を集める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によると、Hetznerが大規模言語モデルのインファレンス（推論）機能の開発に取り組んでいることが分かりました。この情報は、Sliplaneのブログ記事で公開されたものであり、技術系コミュニティのHacker Newsでも多くの注目を集めています。",
+   "記事が公開された時点でのHacker News上のポイント数は148、コメント数は81に達しており、開発者やAI技術者の間で関心の高さがうかがえます。低コストなクラウドサービスで知られる同社が、AI分野においてどのようなサービスを展開するのかに注目が集まっています。"
+  ],
+  "tags": [
+   "Hetzner",
+   "LLM",
+   "AIインファレンス"
+  ],
+  "slug": "hetzner-llm-inference",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hetzner",
+    "type": "company",
+    "desc": "ドイツに本拠を置き、コストパフォーマンスの高い専用サーバーやクラウドサービスを提供する企業。"
+   },
+   {
+    "name": "Sliplane",
+    "type": "company",
+    "desc": "アプリケーションのホスティングやデプロイを簡素化するクラウド関連サービスを提供する企業。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://sliplane.io/blog/hetzner-inference",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-hetzner-llm-inference.html"
+ },
+ {
+  "title": "ウォール・ストリート・ジャーナル前支局長が語る中国製造業の脅威",
+  "lead": "高市早苗政権の骨太の方針が公表された中、長年日本経済を取材してきた米紙ウォール・ストリート・ジャーナルの前東京支局長が、中国を軽く見た製造業のツケについて語りました。",
+  "summary3": [
+   "高市早苗政権で骨太の方針が公表される",
+   "中国を軽く見た製造業のツケが明らかに",
+   "外国視点から見た日本の積極財政とは"
+  ],
+  "body": [
+   "「AI AI TECH TIMES」の報道によると、高市早苗政権初となる経済財政運営の指針である「骨太の方針」が公表されました。この「責任ある積極財政」という方針は、外国の視点からどのように映っているのでしょうか。",
+   "長年日本経済を取材してきた米紙ウォール・ストリート・ジャーナルのピーター・ランダース前東京支局長がインタビューに応じました。その中で、AI分野などで日本が中国に追いつくのは無理だと軽く考えてきた製造業のツケについて言及されています。",
+   "東京都千代田区で2026年7月23日に行われたこのインタビューでは、日本経済の現状や外国から見た経済財政運営の指針について深く掘り下げられています。製造業が直面する課題や今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "製造業",
+   "経済政策"
+  ],
+  "slug": "wsj-former-bureau-chief-on-japan-manufacturing",
+  "people": [
+   {
+    "name": "ピーター・ランダース",
+    "bio": "米紙ウォール・ストリート・ジャーナルの前東京支局長。長年にわたり日本の経済や社会情勢を取材してきた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ウォール・ストリート・ジャーナル",
+    "type": "company",
+    "desc": "アメリカ合衆国で発行されている、経済・金融を中心とした世界的な日刊経済新聞。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-wsj-former-bureau-chief-on-japan-manufacturing.html"
+ },
+ {
+  "title": "パロアルト:生成AIでサイバー攻撃が2日かからず25分になる理由",
+  "lead": "パロアルトネットワークスの識者がソフトバンクのイベントで講演し、生成AIの普及によってサイバー攻撃が劇的に高速化している実態と対策を明かしました。",
+  "summary3": [
+   "サイバー攻撃が生成AIで25分に短縮",
+   "パロアルトがSoftBank Worldで警鐘",
+   "企業に新たなセキュリティ対策が不可欠"
+  ],
+  "body": [
+   "AI TECH TIMES編集部＝パロアルトネットワークスの染谷征良氏（チーフサイバーセキュリティストラテジスト）は、ソフトバンクの年次イベント「SoftBank World 2026」の講演に登壇しました。そこで同氏は、生成AIの普及によってサイバー攻撃の動向がどのように変化しているのかを解説し、企業に求められるセキュリティ対策について紹介しました。",
+   "講演の中で染谷氏は、かつては2日かかっていたサイバー攻撃が、生成AIの活用によってわずか25分にまで“爆速化”している現状について警鐘を鳴らしました。生成AI技術の進化は業務効率化をもたらす一方で、サイバー犯罪者側にとっても攻撃の準備や実行を圧倒的に効率化するツールとして悪用されており、脅威のスピードがこれまでにないレベルに達しています。",
+   "こうした脅威の加速に対し、企業側は従来のセキュリティ対策を見直し、高度化する攻撃に対応できる新たな体制を急ぎ整える必要があります。生成AI時代におけるサイバーセキュリティのあり方について、今後の企業経営やIT戦略における重要な課題として注目を集めています。"
+  ],
+  "tags": [
+   "生成AI",
+   "サイバーセキュリティ",
+   "パロアルトネットワークス"
+  ],
+  "slug": "palo-alto-generative-ai-cyber-attack",
+  "people": [
+   {
+    "name": "染谷征良氏",
+    "bio": "パロアルトネットワークスのチーフサイバーセキュリティストラテジストとしてセキュリティ動向を発信。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "パロアルトネットワークス",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、次世代ファイアウォールをはじめとした高度なサイバーセキュリティ製品を提供する企業。"
+   },
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-palo-alto-generative-ai-cyber-attack.html"
+ },
+ {
+  "title": "GoogleやAmazonの債券スプレッド拡大、AI投資に債券市場が不安視",
+  "lead": "巨大テック企業による巨額のAI投資をめぐり、債券市場で警戒感が広がっています。投資家がより高いリターンを要求する動きが出ています。",
+  "summary3": [
+   "Googleなどの債券スプレッドが拡大",
+   "固定収入投資家がリターンを要求",
+   "AI設備投資の予算に市場が不安"
+  ],
+  "body": [
+   "CNBC Techの報道によると、Google、Amazon、Metaの3社において、社債の信用スプレッドが拡大していることが明らかになりました。固定収入を好む投資家の間では、企業が取り組むAI関連の設備投資予算の急拡大に対し、より高いリスク報酬を求める声が強まっています。",
+   "これら巨大テック企業は人工知能分野の主導権を握るため、インフラ整備やデータセンター構築などに多額の資金を投じています。しかし、その巨額の支出が将来の財務健全性に与える影響について、債券市場の参加者たちが慎重な見方に傾きつつある状況です。",
+   "今回のスプレッド拡大は、企業の資金調達コストに直接影響を与える可能性があります。AI分野への記録的な投資ブームが続くなか、債券市場からの視線は一段と厳しさを増しており、今後の財務戦略への影響が注目されています。"
+  ],
+  "tags": [
+   "AI",
+   "金融",
+   "テック企業"
+  ],
+  "slug": "bond-market-anxiety-ai-capex",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力とし、クラウドやAI開発も幅広く手掛けるアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどのSNSプラットフォームを運営するアメリカの企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-bond-market-anxiety-ai-capex.html"
+ },
+ {
+  "title": "NvidiaやMetaらがオープンモデル制限への反対を表明",
+  "lead": "Nvidia、Microsoft、Metaなどの主要企業が、オープンウェイト型AIモデルの「早すぎる制限」に対して警告を発しました。",
+  "summary3": [
+   "NvidiaやMetaらがオープン制限に反対",
+   "中国製モデルが米国製に対抗して台頭",
+   "OpenAIらは共同書簡に未署名"
+  ],
+  "body": [
+   "CNBC Techの報道によると、Nvidia、Microsoft、Metaなどの大手企業が、オープンウェイト型AIモデルに対する「早すぎる制限」に反対する姿勢を示しました。オープンウェイト型AIモデルは、近年急速に発展を遂げています。",
+   "現在、中国製のオープンウェイト型AIモデルが、アメリカの主要企業が提供するサービスに対して猛烈な勢いで追い上げを見せています。こうした状況の中で今回の警告が発せられました。",
+   "なお、業界で大きな影響力を持つOpenAIやAnthropicといった企業は、今回の共同書簡に署名を行わなかったと伝えられています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "Meta",
+   "AI"
+  ],
+  "slug": "nvidia-microsoft-meta-open-weight-ai-warning",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、AI開発に不可欠なGPU（画像処理半導体）で世界をリードする半導体メーカー。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-nvidia-microsoft-meta-open-weight-ai-warning.html"
+ },
+ {
+  "title": "森保一監督、史上初の3期連続続投へ…なぜ異例の半年限定なのか",
+  "lead": "日本サッカー協会（JFA）は23日、定時理事会を開き、日本代表の森保一監督の続投を正式決定しました。しかし、アジア杯までの異例の半年間となる背景には、宮本会長の独断と失敗があったと報じられています。",
+  "summary3": [
+   "森保一監督の史上初となる3期連続続投が決定",
+   "アジア杯サウジアラビア大会までの半年限定采配",
+   "宮本会長の独断と失敗がいびつな人事象る"
+  ],
+  "body": [
+   "日本サッカー協会（JFA）は23日、都内で定時理事会を開催し、日本代表の森保一監督の続投を承認しました。これにより、日本代表史上初となる3期連続での指揮官継続が正式に決定しました。",
+   "一方で、今回の監督人事では異例の「半年」采配が確定しています。次回のターゲットとなるアジア杯サウジアラビア大会は2027年1月7日から2月5日まで開催される予定となっており、期間を限った形での続投となります。",
+   "来年3月の国際親善試合から次回30年のW杯スペイン・ポルトガル・モロッコ大会までを託すにあたり、こうした異例の決定がなされた背景には、宮本会長の独断と失敗がいびつな日本代表監督人事を招いたとされています。"
+  ],
+  "tags": [
+   "森保一",
+   "日本代表",
+   "サッカー"
+  ],
+  "slug": "moriyasu-japan-manager-continuation",
+  "people": [
+   {
+    "name": "森保一",
+    "bio": "日本サッカー界を牽引し、日本代表監督として史上初となる3期連続での続投が正式に決定した指導者。"
+   },
+   {
+    "name": "宮本",
+    "bio": "日本サッカー協会（JFA）の会長を務め、今回の日本代表監督人事における独断と失敗が指摘されている人物。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.nikkansports.com/soccer/japan/news/202607230001426.html",
+  "category": "influencer",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-moriyasu-japan-manager-continuation.html"
+ },
+ {
+  "title": "イエメンのフーシ派、サウジアラビア船標的の恐れ",
+  "lead": "イエメンの親イラン武装組織フーシ派が、重要な海運ルートにおけるサウジアラビア船への攻撃を予告しました。中東情勢のさらなる緊張と世界経済への打撃が懸念されています。",
+  "summary3": [
+   "フーシ派がサウジアラビア船を標的にすると警告",
+   "中東全体の紛争拡大と経済的損害への懸念が高まる",
+   "重要な海運ルートにおける安全保障上の脅威に"
+  ],
+  "body": [
+   "BBC Worldの報道によると、イエメンを拠点とする親イラン武装組織のフーシ派が、極めて重要な海運ルートにおいてサウジアラビア船を攻撃の標的にすると脅しをかけていることが明らかになりました。この動きにより、中東地域におけるさらなる紛争の拡大と、世界経済への深刻な悪影響に対する懸念が急速に高まっています。",
+   "フーシ派による一連の脅威や攻撃行動は、国際的な物流やエネルギー供給の要所である海域の安全を揺るがしています。今後の動向次第では、世界的なサプライチェーンや経済活動全般にさらなる損害をもたらす可能性があり、各国から警戒の目が向けられています。"
+  ],
+  "tags": [
+   "中東情勢",
+   "経済",
+   "海運"
+  ],
+  "slug": "houthi-attacks-raise-fears",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-houthi-attacks-raise-fears.html"
+ },
+ {
+  "title": "ICCカーン主任検察官が性加害の疑いで懲戒免職に",
+  "lead": "ロシア大統領やイスラエル首相らへの逮捕状請求を主導したICC（国際刑事裁判所）のカーン主任検察官が、性加害の疑いで懲戒免職処分となりました。",
+  "summary3": [
+   "ICCのカーン主任検察官が免職",
+   "職場での立場を利用し関係を要求",
+   "逮捕状請求を主導した人物"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする国際ニュースです。ロシアの大統領やイスラエルの首相らに対する逮捕状の請求を主導してきた、ICC＝国際刑事裁判所のカーン主任検察官が懲戒免職処分となりました。",
+   "今回の処分は、職場での立場を利用して女性職員に性的な関係を求めたなどの性加害の疑いによるものです。国際司法機関のトップにおける不祥事として、大きな波紋を呼んでいます。",
+   "同氏をめぐっては、これまで国際的な注目を集める重要事件の逮捕状請求を主導してきた経緯があり、今後の裁判所の運営や信頼性への影響が懸念されます。"
+  ],
+  "tags": [
+   "ICC",
+   "国際刑事裁判所",
+   "国際ニュース"
+  ],
+  "slug": "icc-chief-prosecutor-dismissed",
+  "people": [
+   {
+    "name": "カーン主任検察官",
+    "bio": "国際刑事裁判所（ICC）の主任検察官として、各国首脳の逮捕状請求などを主導してきた人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ICC",
+    "type": "company",
+    "desc": "戦争犯罪や人道に対する罪などを犯した個人を訴追・処罰するための常設の国際裁判所。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015185841000",
+  "category": "world",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-icc-chief-prosecutor-dismissed.html"
+ },
+ {
+  "title": "野村アセット・石黒英之氏が語る、2040年の日経平均が24万円になる根拠",
+  "lead": "野村アセットマネジメントの石黒英之氏が、2040年の日経平均株価が「24万円」に到達する可能性があるとの予想を示しました。",
+  "summary3": [
+   "野村アセットが2040年を予測",
+   "日経平均が24万円に届く可能性",
+   "石黒英之氏がその根拠を解説"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、野村アセットマネジメントの石黒英之氏が、2040年の日経平均株価について「24万円」に到達する可能性があるという予想を発表しました。",
+   "同氏はこの予想に関する根拠を示しており、市場関係者の間で注目を集めています。具体的な算出の背景や要因については、nomura.co.jpの元記事にて詳細が報じられています。",
+   "株式市場の長期的な動向や将来の予測に関する情報は、今後の経済情勢を読み解く上で重要な材料となります。本記事では、提供された事実に基づき、同氏の見解の概要をお伝えしました。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "野村アセットマネジメント",
+   "石黒英之"
+  ],
+  "slug": "nikkei-average-240000-yen-2040",
+  "people": [
+   {
+    "name": "石黒英之氏",
+    "bio": "野村アセットマネジメントに所属し、市場動向や株価に関する分析・予想の発信を行っている専門家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "野村アセットマネジメント",
+    "type": "company",
+    "desc": "投資信託の運用や資産運用サービスなどを幅広く提供する日本の大手運用会社。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-nikkei-average-240000-yen-2040.html"
+ },
+ {
+  "title": "日立、純利益8000億円で最高益。時価総額22兆円へ変身できた理由",
+  "lead": "日立が純利益8000億円を記録して最高益を達成しました。上場来高値圏となり、時価総額が22兆円規模へと変身を遂げた背景をお伝えします。",
+  "summary3": [
+   "日立が純利益8000億円で最高益を達成",
+   "株価は上場来高値圏で推移し話題に",
+   "時価総額は22兆円規模へ変身を遂げた"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回の企業ニュースでは、日立の最新の財務成果についてお伝えします。同社は純利益8000億円を記録し、最高益を達成しました。",
+   "好調な業績を背景に、株式市場における同社の株価は上場来高値圏となっています。さらに時価総額は22兆円規模へと拡大し、市場から大きな注目を集める形となりました。",
+   "今回の業績発表と株価・時価総額の大きな変動は、多くの市場関係者の関心を集めています。長年の事業構造改革などを経て、時価総額22兆円という規模へ変身を遂げた理由について、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "日立",
+   "株式市場",
+   "最高益"
+  ],
+  "slug": "hitachi-net-profit-record-high",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnZGU0NJXzBiX3Z4aV9vb1F4cG55U3NDOHNrNzVxaFNUTHM1clJBSXJ2djZtUzNFVDl6d0VUV0FfVEVCMFBpWjNuNkljdTg3cmpIcjlWUFhrZExFQ0ZJRjNHQXNVWDVGT2c2ZTBHRXFGLWV6alNjNDhKMERaYVZ0UHg4RlRfbVE?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-hitachi-net-profit-record-high.html"
+ },
+ {
+  "title": "SkyDrive、タイで空飛ぶクルマの事業化へ",
+  "lead": "SkyDrive社がタイ国内における「空飛ぶクルマ」の事業化に向けて、航路検証に着手したことが明らかになりました。",
+  "summary3": [
+   "SkyDriveがタイで事業化へ",
+   "バンコク・エアウェイズ等と提携",
+   "航路検証の取り組みに着手"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。空飛ぶクルマの開発を手がけるSkyDrive社は、タイ国内における「空飛ぶクルマ」の事業化を目指し、航路検証に着手したと発表しました。",
+   "今回の事業化に向けた取り組みの一環として、同社はバンコク・エアウェイズらと業務提携を締結しています。タイ国内での新たな移動手段として、空飛ぶクルマの実現に向けた具体的な検証作業が進められている状況です。",
+   "株式市場や関連業界からも注目を集める本件について、今後の航路検証の進捗や事業化に向けた展開がどのように進むのか、引き続き動向が注視されます。"
+  ],
+  "tags": [
+   "SkyDrive",
+   "空飛ぶクルマ",
+   "タイ"
+  ],
+  "slug": "skydrive-thailand-flying-car",
+  "people": [],
+  "terms": [
+   {
+    "name": "SkyDrive社",
+    "type": "company",
+    "desc": "日本発の「空飛ぶクルマ」やカーゴドローンを開発・製造する企業。"
+   },
+   {
+    "name": "バンコク・エアウェイズ",
+    "type": "company",
+    "desc": "タイを拠点とする、リゾート感を重視したサービスが特徴の航空会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-skydrive-thailand-flying-car.html"
+ },
+ {
+  "title": "カイアDLT財団とfinojectが業務提携、日本で事業推進",
+  "lead": "カイアDLT財団とfinojectが業務提携を締結し、日本国内においてステーブルコインやトークン化に関する事業を推進することが明らかになりました。",
+  "summary3": [
+   "カイアDLT財団とfinojectが業務提携",
+   "日本国内で事業推進へ",
+   "ステーブルコインやトークン化を対象"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の企業ニュースです。カイアDLT財団とfinojectの両者はこのほど、業務提携を締結したことを発表しました。",
+   "今回の提携により、両者は日本国内を主な対象として、ステーブルコインやトークン化に関連する事業を共同で推進していく方針です。",
+   "今後の具体的な展開や事業の進捗状況については、引き続き各社の発表に注目が集まる見通しとなっています。"
+  ],
+  "tags": [
+   "ステーブルコイン",
+   "トークン化",
+   "業務提携"
+  ],
+  "slug": "kaia-finoject-business-alliance",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuY2IzYW5JNnVYMHR6V05wd0lWdnJnV1FSaFFTdHVEQkdDU1E4RV9kNnJjeHd2MnB1N3EtTTNYUnFIaUpNVHBBWUQ5WU41LWFjb2JUWV9zdmZZY3JHQUhqcVVzdmJHTENEcGFNMGw3bU5HUzV1dEVvdnFiRFNqOUE?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "21:04",
+  "path": "/articles/20260725-kaia-finoject-business-alliance.html"
  }
 ]
