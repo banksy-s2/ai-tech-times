@@ -1,21 +1,71 @@
 {
- "updated": "2026-07-25 11:00",
- "mode": "軽量便(海外AIの声)",
+ "updated": "2026-07-25 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "AnthropicのOpus 5、プロンプトインジェクションへの耐性が判明",
-   "path": "/articles/20260725-opus-5-prompt-injection-resistance.html",
-   "cat": "海外AIの声"
+   "title": "リード・ホフマン氏らの新AIラボPrentis、1億ドル調達へ交渉中",
+   "path": "/articles/20260725-prentis-ai-lab-funding-100m.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "トランプ政権、AI科学研究に50億ドル拠出の理由",
+   "path": "/articles/20260725-genesis-mission-ai-science-funding.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ITmedia AI+調査：中小企業がハマる生成AIトラブル5つの乗り切り方",
+   "path": "/articles/20260725-generative-ai-trouble-solutions-for-smes.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "中国・丁副首相「国産AI採用拒否は裏切り」発言の波紋",
+   "path": "/articles/20260725-china-ai-chip-betrayal.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Googleに10億ドルの巨額罰金、EUがトランプ政権との対立へ備える",
+   "path": "/articles/20260725-google-hit-with-1-billion-in-fines-eu.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ホロライブ運営、誹謗中傷に1投稿150万円の賠償金で示談成立",
+   "path": "/articles/20260725-hololive-defamation-settlement.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "アメリカ財務省、円相場の過度な変動に言及",
+   "path": "/articles/20260725-us-treasury-yen-exchange-rate-fluctuation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均の秋の銘柄入れ替え：国内大手証券が新規採用を予想",
+   "path": "/articles/20260725-nikkei-average-autumn-rebalance-forecast.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア、アドテスト、東エレクなど来週の決算発表予定",
+   "path": "/articles/20260725-kioxia-adventest-earnings-schedule.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "静岡ガス、2030年目標2年前倒しで3年1,070億円投資",
+   "path": "/articles/20260725-shizuoka-gas-fy2026-q1-investment.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Roku raises streaming hardware prices by",
+  "執筆失敗: 米トランプ政権の10％関税措置 24日に失効 新関税の判断焦点",
+  "執筆失敗: 来週（7/27～7/31）の日経平均株価の予想レンジは､6万2000～6万600",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 30,
  "gemini": {
-  "used": 77,
+  "used": 107,
   "limit": 200
  }
 }
