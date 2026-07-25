@@ -9467,5 +9467,43 @@
   "date": "2026-07-26",
   "time": "00:00",
   "path": "/articles/20260726-ai-data-center-power-grid-problem.html"
+ },
+ {
+  "title": "Appleが中国製メモリ利用をトランプ政権に要請、なぜMicronが反発しているのか",
+  "lead": "メモリ価格の高騰を背景に、Appleがトランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていることが明らかになりました。これに対し、アメリカの半導体大手であるMicronが激しく反発しています。",
+  "summary3": [
+   "Appleが中国製メモリ利用を要請",
+   "背景にはメモリ価格の高騰が存在",
+   "米Micronがこの動きに強く反発"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。Appleはメモリ価格の高騰を受け、トランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていると報じられています。",
+   "しかし、この動きに対して半導体大手のアメリカ企業であるMicronが強く反発しているとのことです。米中間の貿易や半導体供給を巡る規制のあり方に影響を与える可能性があり、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "Apple",
+   "Micron",
+   "半導体"
+  ],
+  "slug": "apple-micron-clash-trump-chinese-memory-chips",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、iPhoneやMacなどのハードウェアやソフトウェアを開発・販売する世界的な大手テクノロジー企業。"
+   },
+   {
+    "name": "Micron",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く世界有数の半導体メモリメーカーであり、DRAMやNANDフラッシュメモリなどを広く製造・販売している。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
+  "category": "ai_jp",
+  "date": "2026-07-26",
+  "time": "01:00",
+  "path": "/articles/20260726-apple-micron-clash-trump-chinese-memory-chips.html"
  }
 ]

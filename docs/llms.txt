@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [インテルAI特需で売上高25%増、なぜ株価急落？](https://ai-tech-times.web.app/articles/20260726-intel-revenue-growth-ai-boom-q2.html) — 2026-07-26 02:00: 米半導体大手インテルの直近の四半期決算は、AIブームを追い風に売上高が25%増と約15年ぶりの急成長を記録しました。しかし、好業績の一方で株価は急落する展開となっています。
+- [ワーナーがアマゾンを提訴、人材を引き抜いた理由は](https://ai-tech-times.web.app/articles/20260726-warner-bros-suing-amazon-for-poaching.html) — 2026-07-26 02:00: 米ワーナー・ブラザーズ・ディスカバリーが、アマゾンによる違法な人材引き抜き行為をめぐり、同社を提訴したことが明らかになりました。
 - [Appleが中国製メモリ利用をトランプ政権に要請、なぜMicronが反発しているのか](https://ai-tech-times.web.app/articles/20260726-apple-micron-clash-trump-chinese-memory-chips.html) — 2026-07-26 01:00: メモリ価格の高騰を背景に、Appleがトランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていることが明らかになりました。これに対し、アメリカの半導体大手であるMicronが激しく反発しています。
 - [AIデータセンターの電力網トラブル、問題点と解決策](https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html) — 2026-07-26 00:00: 北部バージニア州での危機が明らかにした、AIデータセンターの電力網障害への脆弱性と、その対策について報じます。
 - [日経平均が2200円超の下落、東京株式市場の動向](https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2200-yen.html) — 2026-07-25 23:00: 東京株式市場において、日経平均株価が2200円を超える大幅な下落を記録しました。市場関係者の間で動揺が広がっています。
@@ -40,15 +42,13 @@
 - [日立、純利益8000億円で最高益。時価総額22兆円へ変身できた理由](https://ai-tech-times.web.app/articles/20260725-hitachi-net-profit-record-high.html) — 2026-07-25 21:04: 日立が純利益8000億円を記録して最高益を達成しました。上場来高値圏となり、時価総額が22兆円規模へと変身を遂げた背景をお伝えします。
 - [SkyDrive、タイで空飛ぶクルマの事業化へ](https://ai-tech-times.web.app/articles/20260725-skydrive-thailand-flying-car.html) — 2026-07-25 21:04: SkyDrive社がタイ国内における「空飛ぶクルマ」の事業化に向けて、航路検証に着手したことが明らかになりました。
 - [カイアDLT財団とfinojectが業務提携、日本で事業推進](https://ai-tech-times.web.app/articles/20260725-kaia-finoject-business-alliance.html) — 2026-07-25 21:04: カイアDLT財団とfinojectが業務提携を締結し、日本国内においてステーブルコインやトークン化に関する事業を推進することが明らかになりました。
-- [トランプ氏腹心の超保守派インフルエンサー、ウクライナ支持に方針転換](https://ai-tech-times.web.app/articles/20260725-trump-inner-circle-influencer-ukraine.html) — 2026-07-25 20:20: トランプ氏の腹心として知られる超保守派インフルエンサーが、ウクライナ支持へと方針を転換しました。ゼレンスキー氏と会談を行ったことがAFPBB Newsにより報じられています。
-- [きまぐれクック総額500万円の空き巣被害、緊急動画報告に反響](https://ai-tech-times.web.app/articles/20260725-kimagure-cook-burglary-incident.html) — 2026-07-25 20:00: 人気YouTuberのきまぐれクックが、総額500万円の空き巣被害にあった直後に「ガチで緊急で回してる」と動画で報告し、大きな話題となっています。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [EA SPORTS FC 27 | Official Reveal Trailer](https://www.youtube.com/watch?v=MOclJJ7IpSY)
 - 3位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 
-## AI用語事典 (全252語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全254語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。
@@ -56,17 +56,18 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
-- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
+- [インテルとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB.html): アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [ディスコとは](https://ai-tech-times.web.app/term/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3.html): 半導体製造装置などを手掛ける日本の大手精密加工装置メーカーです。
@@ -78,7 +79,6 @@
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う大手日刊新聞です。
 - [サイモン・ウィリソンとは](https://ai-tech-times.web.app/term/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%BD%E3%83%B3.html): 国内外のAI技術や開発に関する情報発信や考察で広く知られるソフトウェア開発者・ブロガーです。
 - [中外製薬とは](https://ai-tech-times.web.app/term/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC.html): スイスのロシュグループ傘下で、医薬品の研究開発に強みを持つ国内大手製薬企業です。
-- [IBMとは](https://ai-tech-times.web.app/term/ibm.html): アメリカ合衆国に本拠地を置き、コンピュータハードウェアやソフトウェア、ITサービスなどを手掛ける世界的なテクノロジー企業です。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
