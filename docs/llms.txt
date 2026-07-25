@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日本トイザらス、上野に大人向け専門店オープンで初日売上4倍の理由](https://ai-tech-times.web.app/articles/20260726-toysrus-ueno-adult-store.html) — 2026-07-26 03:00: 日本トイザらス株式会社が東京にオープンした大人向け玩具専門店が、初日から想定以上の売上を記録しました。その背景にある新しいコンセプトとは何でしょうか。
 - [インテルAI特需で売上高25%増、なぜ株価急落？](https://ai-tech-times.web.app/articles/20260726-intel-revenue-growth-ai-boom-q2.html) — 2026-07-26 02:00: 米半導体大手インテルの直近の四半期決算は、AIブームを追い風に売上高が25%増と約15年ぶりの急成長を記録しました。しかし、好業績の一方で株価は急落する展開となっています。
 - [ワーナーがアマゾンを提訴、人材を引き抜いた理由は](https://ai-tech-times.web.app/articles/20260726-warner-bros-suing-amazon-for-poaching.html) — 2026-07-26 02:00: 米ワーナー・ブラザーズ・ディスカバリーが、アマゾンによる違法な人材引き抜き行為をめぐり、同社を提訴したことが明らかになりました。
 - [Appleが中国製メモリ利用をトランプ政権に要請、なぜMicronが反発しているのか](https://ai-tech-times.web.app/articles/20260726-apple-micron-clash-trump-chinese-memory-chips.html) — 2026-07-26 01:00: メモリ価格の高騰を背景に、Appleがトランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていることが明らかになりました。これに対し、アメリカの半導体大手であるMicronが激しく反発しています。
@@ -41,14 +42,13 @@
 - [野村アセット・石黒英之氏が語る、2040年の日経平均が24万円になる根拠](https://ai-tech-times.web.app/articles/20260725-nikkei-average-240000-yen-2040.html) — 2026-07-25 21:04: 野村アセットマネジメントの石黒英之氏が、2040年の日経平均株価が「24万円」に到達する可能性があるとの予想を示しました。
 - [日立、純利益8000億円で最高益。時価総額22兆円へ変身できた理由](https://ai-tech-times.web.app/articles/20260725-hitachi-net-profit-record-high.html) — 2026-07-25 21:04: 日立が純利益8000億円を記録して最高益を達成しました。上場来高値圏となり、時価総額が22兆円規模へと変身を遂げた背景をお伝えします。
 - [SkyDrive、タイで空飛ぶクルマの事業化へ](https://ai-tech-times.web.app/articles/20260725-skydrive-thailand-flying-car.html) — 2026-07-25 21:04: SkyDrive社がタイ国内における「空飛ぶクルマ」の事業化に向けて、航路検証に着手したことが明らかになりました。
-- [カイアDLT財団とfinojectが業務提携、日本で事業推進](https://ai-tech-times.web.app/articles/20260725-kaia-finoject-business-alliance.html) — 2026-07-25 21:04: カイアDLT財団とfinojectが業務提携を締結し、日本国内においてステーブルコインやトークン化に関する事業を推進することが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [EA SPORTS FC 27 | Official Reveal Trailer](https://www.youtube.com/watch?v=MOclJJ7IpSY)
 - 3位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 
-## AI用語事典 (全254語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全255語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。

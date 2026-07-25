@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-26 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-26 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "インテルAI特需で売上高25%増、なぜ株価急落？",
-   "path": "/articles/20260726-intel-revenue-growth-ai-boom-q2.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ワーナーがアマゾンを提訴、人材を引き抜いた理由は",
-   "path": "/articles/20260726-warner-bros-suing-amazon-for-poaching.html",
-   "cat": "シリコンバレー最速"
+   "title": "日本トイザらス、上野に大人向け専門店オープンで初日売上4倍の理由",
+   "path": "/articles/20260726-toysrus-ueno-adult-store.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": 5,
  "gemini": {
-  "used": 10,
+  "used": 12,
   "limit": 200
  }
 }
