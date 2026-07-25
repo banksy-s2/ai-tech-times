@@ -1,24 +1,13 @@
 {
- "updated": "2026-07-25 18:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "テスラ株が18%下落の理由、イーロン・マスク氏の受難",
-   "path": "/articles/20260725-musks-bad-week-tesla-spacex-slump.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ氏、EUに巨額関税を警告 米IT標的に",
-   "path": "/articles/20260725-trump-threatens-eu-with-tariff-on-tech.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-25 19:00",
+ "mode": "軽量便(海外AIの声)",
+ "articles": [],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 31,
+ "pv_today": 33,
  "gemini": {
   "used": 145,
   "limit": 200
