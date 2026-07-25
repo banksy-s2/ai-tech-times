@@ -1,79 +1,26 @@
 {
- "updated": "2026-07-25 17:04",
- "mode": "フル便",
+ "updated": "2026-07-25 18:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Googleがウェブサイトへ送るトラフィックの構図に変化か",
-   "path": "/articles/20260725-google-zero-web-traffic-deal.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAIとAnthropicの安全機能、攻撃的サイバー研究者の業務を妨害",
-   "path": "/articles/20260725-ai-guardrails-impede-cybersecurity-researchers.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "米当局が摘発強化、見せかけAI投資で訴訟急増なぜ",
-   "path": "/articles/20260725-ai-washing-lawsuits-increase-us.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ITmedia AI+：「AI疲れ」の正体と対策",
-   "path": "/articles/20260725-ai-fatigue-it-.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Nvidia、SKハイニックスからメモリ確保へ",
-   "path": "/articles/20260725-nvidia-locks-down-memory-supply.html",
+   "title": "テスラ株が18%下落の理由、イーロン・マスク氏の受難",
+   "path": "/articles/20260725-musks-bad-week-tesla-spacex-slump.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "YouTuber闇のクマさん、猫組長氏らを提訴なぜ",
-   "path": "/articles/20260725-dark-bear-lawsuit-news.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "5日連続40度超えの酷暑日、熱中症対策はなぜ必要か",
-   "path": "/articles/20260725-severe-heat-wave-5-days-consecutive.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中国の王毅外相「日本の再武装を許さない」",
-   "path": "/articles/20260725-china-wang-yi-japan-rearmament.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アドバンテストなど2銘柄で約784円押し下げ、日経平均は大幅反落",
-   "path": "/articles/20260725-nikkei-average-drop-contribution-ranking.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "FOMCと日銀会合、来週の重要イベント",
-   "path": "/articles/20260725-fomc-boj-events-upcoming.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ディスコやオービックらの決算マイナス・インパクトが明らかに",
-   "path": "/articles/20260725-earnings-negative-impact-stocks.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "アクセルＭが４日続伸、ＴＣＢグループとの業務提携の背景",
-   "path": "/articles/20260725-accel-m-four-days-gains-tcb-group.html",
-   "cat": "日本企業"
+   "title": "トランプ氏、EUに巨額関税を警告 米IT標的に",
+   "path": "/articles/20260725-trump-threatens-eu-with-tariff-on-tech.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [
-  "執筆失敗: Tesla, Alphabet lose hundreds of billion",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 31,
  "gemini": {
-  "used": 142,
+  "used": 145,
   "limit": 200
  }
 }

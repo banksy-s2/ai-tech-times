@@ -8696,5 +8696,98 @@
   "date": "2026-07-25",
   "time": "17:04",
   "path": "/articles/20260725-accel-m-four-days-gains-tcb-group.html"
+ },
+ {
+  "title": "テスラ株が18%下落の理由、イーロン・マスク氏の受難",
+  "lead": "米CNBC Techによると、テスラが利益未達とフリーキャッシュフローのマイナスを記録し、今週の株価が約18%急落しました。",
+  "summary3": [
+   "テスラ株が今週約18%下落",
+   "利益未達とCFの悪化が響く",
+   "スペースXもテスト前に下落"
+  ],
+  "body": [
+   "「AI TECH TIMES」がお伝えする本日のニュースです。米CNBC Techの報道によると、電気自動車大手のテスラは今週、株価が約18%急落するという厳しい展開を迎えました。",
+   "株価急落の背景には、同社の決算における利益未達と、キャッシュフローがマイナスに転じたことがあります。さらに、イーロン・マスク氏が率いる宇宙開発企業のスペースXも、スターシップのテスト飛行を前に下落を記録しました。",
+   "好調な成長を続けてきた企業の相次ぐ失速は、市場に大きな動揺を与えています。今後の業績回復やテスト飛行の結果がどのように株価へ影響するのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "テスラ",
+   "スペースX",
+   "株価下落"
+  ],
+  "slug": "musks-bad-week-tesla-spacex-slump",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "テスラやスペースXのCEOを務め、数々の革新的な事業を展開する世界的な実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。"
+   },
+   {
+    "name": "スペースX",
+    "type": "company",
+    "desc": "アメリカの宇宙航空開発企業であり、ロケットの製造や宇宙輸送サービスを行っている。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "18:00",
+  "path": "/articles/20260725-musks-bad-week-tesla-spacex-slump.html"
+ },
+ {
+  "title": "トランプ氏、EUに巨額関税を警告 米IT標的に",
+  "lead": "トランプ氏はSNSで、欧州連合（EU）による米IT大手への課徴金を強く批判し、関税を科すと警告しました。",
+  "summary3": [
+   "トランプ氏がEUに関税警告",
+   "米IT大手への巨額罰金に反発",
+   "グーグルやアップル等が対象"
+  ],
+  "body": [
+   "トランプ氏は自身のSNS「Truth Social」において、欧州連合（EU）が新たにグーグルに対して科した罰金や、これまでにアップル、メタ、アマゾンといった米国の巨大IT企業に対して行ってきた罰金の科し方について激しく非難しました。",
+   "EUによる相次ぐペナルティや規制の動きに対し、トランプ氏は米国のテクノロジー企業が「奪われている」として、新たに実質的な関税（substantial TARIFF）を課す構えを見せています。",
+   "今後の米欧間の貿易関係や、巨大IT企業への規制をめぐる動向に大きな影響を与える可能性があり、今後の展開が注目されています。"
+  ],
+  "tags": [
+   "トランプ",
+   "EU",
+   "IT規制"
+  ],
+  "slug": "trump-threatens-eu-with-tariff-on-tech",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "アメリカ合衆国の政治家であり、過去に大統領を務めた著名な指導者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "グーグル",
+    "type": "company",
+    "desc": "世界最大の検索エンジンを主力とするアメリカの巨大IT企業。"
+   },
+   {
+    "name": "アップル",
+    "type": "company",
+    "desc": "iPhoneやMacなどを展開するアメリカの代表的なIT企業。"
+   },
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "世界最大級の電子商取引とクラウドサービスを手がける企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "18:00",
+  "path": "/articles/20260725-trump-threatens-eu-with-tariff-on-tech.html"
  }
 ]

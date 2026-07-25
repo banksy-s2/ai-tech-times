@@ -8280,5 +8280,421 @@
   "date": "2026-07-25",
   "time": "16:00",
   "path": "/articles/20260725-midjourney-acquires-co-star.html"
+ },
+ {
+  "title": "Googleがウェブサイトへ送るトラフィックの構図に変化か",
+  "lead": "かつてウェブサイトとGoogleの間で成り立っていたトラフィックを巡る関係性に、大きな変化が訪れていることが明らかになりました。",
+  "summary3": [
+   "Googleとウェブの関係性に変化か",
+   "かつての送客の仕組みが崩れつつある",
+   "ウェブサイトへのトラフィックに影響"
+  ],
+  "body": [
+   "ウェブとGoogleの間にはかつて、ひとつの取引とも言える関係が存在していました。それは、Googleがデータを収集してウェブページをインデックス登録し、その見返りとしてウェブサイトへ膨大なトラフィックを送り出すという仕組みです。",
+   "この取引は完璧なものではなく、間違いなくウェブサイトが得る利益よりもGoogleが稼ぐ金額の方が大きくなっていました。しかし、それでもこの仕組みは長年にわたって機能し続けていました。",
+   "ところが現在、その関係性の構図はもはや機能していないように見え、かつての取引は事実上終焉を迎えたと指摘されています。今後のウェブ環境や検索エンジンを巡る動向に注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "ウェブ",
+   "トラフィック"
+  ],
+  "slug": "google-zero-web-traffic-deal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-google-zero-web-traffic-deal.html"
+ },
+ {
+  "title": "OpenAIとAnthropicの安全機能、攻撃的サイバー研究者の業務を妨害",
+  "lead": "TechCrunch AIの報道によると、未知の脆弱性を探し悪用ツールを開発するサイバーセキュリティ研究者たちの作業に、OpenAIやAnthropicの安全機能が影響を与えていることが明らかになりました。",
+  "summary3": [
+   "AIの安全機能が研究者の業務を妨害",
+   "OpenAI等の影響について調査を実施",
+   "未知の脆弱性探索への影響が浮き彫りに"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、未知の脆弱性を探し出してそれを悪用するためのツールを開発する攻撃的サイバーセキュリティ研究者たちが、OpenAIやAnthropicが導入している安全機能によってどのような影響を受けているのかについて、複数の研究者への取材が行われました。",
+   "セキュリティ研究の現場では、システムの弱点を突く検証作業やツール開発においてAI技術が活用される場面が増加しています。しかし、その一方でAIモデルに備わる過度な安全機能やガードレールが、正規のセキュリティ研究や脆弱性調査の妨げになっているという懸念が示されています。",
+   "今回の取材により、AI開発企業が設ける安全対策と、セキュリティ研究者が行う攻撃的な調査活動との間にある新たな課題が浮き彫りとなりました。今後、安全性の確保とセキュリティ研究の自由度をどのように両立していくのかが注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "サイバーセキュリティ",
+   "脆弱性"
+  ],
+  "slug": "ai-guardrails-impede-cybersecurity-researchers",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+  "category": "ai",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-ai-guardrails-impede-cybersecurity-researchers.html"
+ },
+ {
+  "title": "米当局が摘発強化、見せかけAI投資で訴訟急増なぜ",
+  "lead": "米国において、人工知能を活用したという虚偽の説明で顧客や投資家を欺く企業を訴えるケースが急増しています。",
+  "summary3": [
+   "米当局が見せかけAIの摘発を強化",
+   "虚偽のAI活用で企業を訴える例が増加",
+   "投資家や顧客を欺く行為に厳しい目"
+  ],
+  "body": [
+   "【ニューヨーク=伴百江】米国で人工知能（AI）を活用したという虚偽の説明で、顧客や投資家を欺いたとして企業を訴えるケースが急増しています。",
+   "このような実態のない見せかけのAI活用は「AIウオッシング」と呼ばれており、米国では規制当局が実際に提訴する例も出てきています。",
+   "企業が高度なAI技術を活用していると見せかけたり、AIによって短期的に収益が急拡大しているかのように見せたりする手口に対し、当局による取り締まりや摘発の動きが一段と強まっています。"
+  ],
+  "tags": [
+   "AI",
+   "規制",
+   "投資"
+  ],
+  "slug": "ai-washing-lawsuits-increase-us",
+  "people": [
+   {
+    "name": "伴百江",
+    "bio": "日本経済新聞のニューヨーク支局などで活躍する記者の氏名。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOGN16CTK0W6A710C2000000/",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-ai-washing-lawsuits-increase-us.html"
+ },
+ {
+  "title": "ITmedia AI+：「AI疲れ」の正体と対策",
+  "lead": "生成AIの普及で仕事が楽になるはずが、IT現場では「AI疲れ」や「AI鬱」が問題となっています。その疲れの正体と、個人がどう変わるべきかという判断軸を整理します。",
+  "summary3": [
+   "IT現場で増えるAI疲れとAI鬱",
+   "疲れの正体を整理して判断軸を示す",
+   "個人がどう変わるべきかを解説"
+  ],
+  "body": [
+   "生成AIの普及により「仕事が楽になる」という期待が広がっていましたが、近頃は耳にする機会が増えた「AI疲れ」や「AI鬱（うつ）」という言葉がIT現場を蝕んでいます。技術の進歩に伴い、現場の負担が増えている実態が浮き彫りになってきました。",
+   "本稿では、なぜこのような疲れが生じてしまうのか、その“疲れの正体”を丁寧に整理します。日々の業務におけるプレッシャーや、新しい技術への適応がもたらす精神的な負荷について見つめ直します。",
+   "その上で、個人が何を考え、どのように意識や行動を変えていけばよいのかという判断軸を提示します。これからの時代をしなやかに生き抜くためのヒントを探ります。"
+  ],
+  "tags": [
+   "生成AI",
+   "ITmedia",
+   "メンタルヘルス"
+  ],
+  "slug": "ai-fatigue-it-",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/24/news017.html",
+  "category": "ai_jp",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-ai-fatigue-it-.html"
+ },
+ {
+  "title": "Nvidia、SKハイニックスからメモリ確保へ",
+  "lead": "エヌビディアが、AI向けGPUに不可欠な高帯域幅メモリの供給網を確実に抑えるため、SKハイニックスとの協力を進めています。",
+  "summary3": [
+   "エヌビディアがメモリ供給を確保",
+   "SKハイニックスと協力を強化",
+   "GPUに不可欠な部品を調達"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。半導体大手のエヌビディアが、AIシステムやGPUに必須となる高帯域幅メモリ（HBM）の供給を確保するため、SKハイニックスからの調達を積極的に進めていることが明らかになりました。",
+   "高帯域幅メモリは、AIの処理能力を支えるGPUの性能を最大限に引き出すために欠かせない重要部品です。AI需要の急増に伴い、こうした高性能メモリの安定確保は業界全体の大きな課題となっています。",
+   "今回の動きにより、エヌビディアはAI向けハードウェアの生産体制をさらに強固なものにしようとしています。今後のメモリ供給動向やAI市場への影響に、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "SK Hynix",
+   "AI"
+  ],
+  "slug": "nvidia-locks-down-memory-supply",
+  "people": [],
+  "terms": [
+   {
+    "name": "SKハイニックス",
+    "type": "company",
+    "desc": "韓国に本拠を置く世界的な半導体メーカーで、特にDRAMなどのメモリ製品で高いシェアを誇ります。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+  "category": "silicon",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-nvidia-locks-down-memory-supply.html"
+ },
+ {
+  "title": "YouTuber闇のクマさん、猫組長氏らを提訴なぜ",
+  "lead": "YouTuberの「闇のクマさん」が、猫組長氏と百田尚樹氏を相手取り提訴しました。開示請求で得た実名をSNSで公表されたことが理由として報じられています。",
+  "summary3": [
+   "YouTuber闇のクマさんが提訴",
+   "猫組長氏と百田尚樹氏を訴えた",
+   "開示請求の実名公表が理由"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする注目のニュースです。弁護士ドットコムニュースの報道によると、YouTuberとして活動する「闇のクマさん」が、猫組長氏と百田尚樹氏を提訴したことが明らかになりました。",
+   "今回の訴訟の背景にあるのは、発信者情報開示請求によって得られた実名が、SNS上で公表されたという問題です。この情報公表をめぐり、法的措置に踏み切る形となりました。",
+   "インターネット上の情報発信や開示請求をめぐるトラブルとして、今後の動向が注目されるニュースです。さらなる詳細や今後の裁判の行方については、引き続き報じられる見通しです。"
+  ],
+  "tags": [
+   "YouTuber",
+   "裁判",
+   "SNS"
+  ],
+  "slug": "dark-bear-lawsuit-news",
+  "people": [
+   {
+    "name": "百田尚樹氏",
+    "bio": "作家および政治活動家として知られ、数々のベストセラー小説の執筆や政治的な発信で広く知られています。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "弁護士ドットコムニュース",
+    "type": "company",
+    "desc": "弁護士ドットコム株式会社が運営する、法律や裁判に関する専門的なニュースや情報を取り扱うメディアです。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3RYRjlrODNoc1RIa25UbUVTUzlZMFg0bXdRTVUxVWZ6bXpZTk1HcklvVWJfbV96eXVWbGNhR2l5cmhic3JHdW45a21VemhlSG1TbmJOekhCeXlEQklqdnFzV2F1N2JvWldQbVlBZDlXTl83YnZGdVN1ekUxWlNnWGkzTEpoNkJ0b2cwMUhn?oc=5",
+  "category": "influencer",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-dark-bear-lawsuit-news.html"
+ },
+ {
+  "title": "5日連続40度超えの酷暑日、熱中症対策はなぜ必要か",
+  "lead": "25日も東日本と西日本を中心に気温が上がり、東海では40度以上の酷暑日を記録しました。国内で40度以上の気温が観測されたのは5日連続と最も長くなっており、一層の熱中症対策が求められています。",
+  "summary3": [
+   "東日本と西日本中心に気温上昇",
+   "40度超えが国内で5日連続観測",
+   "2010年以降で最も長い記録に"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によれば、25日も東日本と西日本を中心に気温が上がり、東海では40度以上の「酷暑日」となっているところがあります。",
+   "国内で40度以上の気温が観測されたのは、25日で5日連続となり、2010年以降で最長の記録を更新しました。",
+   "連日の厳しい暑さが続いており、今後も体調管理にはより一層の熱中症対策が必要となります。"
+  ],
+  "tags": [
+   "酷暑日",
+   "熱中症",
+   "気温上昇"
+  ],
+  "slug": "severe-heat-wave-5-days-consecutive",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015185701000",
+  "category": "world",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-severe-heat-wave-5-days-consecutive.html"
+ },
+ {
+  "title": "中国の王毅外相「日本の再武装を許さない」",
+  "lead": "中国の王毅外相がロシアのラブロフ外相と会談し、日本に対する強い警戒感を示しました。両外相は日本の動きに対してどのように連携していくのでしょうか。",
+  "summary3": [
+   "中国の王毅外相が会談を実施",
+   "日本の再武装を許さないと主張",
+   "ロシア側も再軍事化に反対表明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。中国の王毅外相は、ロシアのラブロフ外相と会談を行いました。この会談の中で、王毅外相は「日本が再び武装することを決して許してはならない」と強く主張しました。",
+   "中国側の発表によると、ロシアのラブロフ外相もこの見解に同調しました。ラブロフ外相は、日本における『再軍事化』の加速に対して「断固として反対する」と述べたことが明らかにされています。",
+   "今回の会談を通じて、中国とロシアが日本周辺の動向に関して連携を強める姿勢が改めて示される形となりました。今後の両国の動向や外交方針には引き続き注目が集まるとみられます。"
+  ],
+  "tags": [
+   "中国",
+   "ロシア",
+   "外交"
+  ],
+  "slug": "china-wang-yi-japan-rearmament",
+  "people": [
+   {
+    "name": "王毅外相",
+    "bio": "中国の外交トップである外相を務め、国際舞台で精力的な外交活動を展開している政治家。"
+   },
+   {
+    "name": "ラブロフ外相",
+    "bio": "ロシアの長年の外相を務め、同国の強硬な外交路線を主導し続けている高官。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015185831000",
+  "category": "world",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-china-wang-yi-japan-rearmament.html"
+ },
+ {
+  "title": "アドバンテストなど2銘柄で約784円押し下げ、日経平均は大幅反落",
+  "lead": "Yahoo!ファイナンスが報じた大引けの日経平均寄与度ランキングによると、日経平均株価は大幅反落となりました。",
+  "summary3": [
+   "日経平均株価は大幅反落となりました",
+   "アドバンテストなどが押し下げ要因に",
+   "2銘柄で約784円分押し下げました"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、大引けの日経平均寄与度ランキングにおいて、日経平均株価は大幅反落を記録しました。",
+   "中でも、アドバンテストやソフトバンクグループの2銘柄だけで、日経平均を約784円分押し下げる結果となりました。",
+   "市場における個別銘柄の値動きや寄与度の詳細については、Yahoo!ファイナンスのデータなどで確認することができます。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "アドバンテスト"
+  ],
+  "slug": "nikkei-average-drop-contribution-ranking",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドバンテスト",
+    "type": "company",
+    "desc": "半導体試験装置（テスタ）の製造・販売を主力とする日本の大手電気機器メーカーです。"
+   },
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "投資事業を主軸とし、国内外のテクノロジー企業へ大規模な出資を行っている日本の持株会社です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWxPVWZra3g0SFVXbUoydVZGVXkzdVhmS3NWaTdncll2Yk1zUW9ZY2sxd0IwNEZIeVVxdlFFQ01qRlQzYmhGSlVyT0E5T2JYZmE3ZGQxblRyZFo0eDF2blVZdVdRWk41UkV5cFY4bDFrQ3MwMl9YS2JrOTI5LVdKc0lhUC1ha1U?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-nikkei-average-drop-contribution-ranking.html"
+ },
+ {
+  "title": "FOMCと日銀会合、来週の重要イベント",
+  "lead": "AI TECH TIMESでは、7月27日から8月2日までの週に予定されている重要な経済イベントについてお伝えします。",
+  "summary3": [
+   "来週の重要イベント情報を公開",
+   "FOMCや日銀会合が開催予定",
+   "米4-6月期GDPの発表も控える"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。株式市場や経済動向に大きな影響を与える来週（7月27日から8月2日まで）の重要イベントスケジュールについてお知らせいたします。",
+   "来週の注目すべき経済トピックとしては、米国の金融政策を決定するFOMC（連邦公開市場委員会）の開催や、日本の金融政策を協議する日銀金融政策決定会合が予定されています。これらの会議では、今後の金利動向や金融政策の方向性が議論される見通しです。",
+   "さらに、アメリカの4-6月期GDP（国内総生産）の発表も予定されており、世界経済の成長ペースや景気状況を見極めるための重要な指標として市場関係者の注目を集めています。発表される内容や結果に引き続きご注目ください。"
+  ],
+  "tags": [
+   "FOMC",
+   "日銀",
+   "経済指標"
+  ],
+  "slug": "fomc-boj-events-upcoming",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0N4UnY5eXA3YzROVWxRVFUyb1RHTDBYRHBsMTlybHFmUFhPRFh1Uk1kV3NMakJHbURvUDlBTFhkTDFJZDAzQVZjNVBsMDYtQ0JZbnlaclYxejNzNGY0MXVmY0pEOWFHWF9iYnQ4LWllWG5yY2VVaFkwRDdHVU5hcWdKMkduOTQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-fomc-boj-events-upcoming.html"
+ },
+ {
+  "title": "ディスコやオービックらの決算マイナス・インパクトが明らかに",
+  "lead": "株探が発表した東証プライム上場企業の決算マイナス・インパクト銘柄に関する情報をお伝えします。",
+  "summary3": [
+   "東証プライムの決算影響を公表",
+   "ディスコやオービックが対象",
+   "7月17日〜23日発表分が集計"
+  ],
+  "body": [
+   "ニュースサイト「株探」は、7月17日から23日までに発表された決算に基づく、東証プライム市場の決算マイナス・インパクト銘柄の情報を公開しました。",
+   "今回の発表において対象となった主な企業には、ディスコ、オービック、東京製鉄が含まれています。",
+   "決算発表を受けた各銘柄の状況や詳細については、株探の元記事および関連情報をご確認ください。"
+  ],
+  "tags": [
+   "決算",
+   "東証プライム",
+   "株探"
+  ],
+  "slug": "earnings-negative-impact-stocks",
+  "people": [],
+  "terms": [
+   {
+    "name": "ディスコ",
+    "type": "company",
+    "desc": "半導体製造装置などを手掛ける日本の大手精密加工装置メーカーです。"
+   },
+   {
+    "name": "オービック",
+    "type": "company",
+    "desc": "企業向けソフトウェアの開発やシステム集成を手掛ける日本のIT企業です。"
+   },
+   {
+    "name": "東京製鉄",
+    "type": "company",
+    "desc": "電炉による鋼材の製造および販売を主要事業とする日本の大手鉄鋼メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSXdsUG9oMlVTeC1xbGdTTWcxVGtDcTFjQTZodWx3RFlrZHM5WnlVM2RHT29mSHhNaUJZQ1Q4NWtwX1M3dktTTFEyYXV5VEtPT2c?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-earnings-negative-impact-stocks.html"
+ },
+ {
+  "title": "アクセルＭが４日続伸、ＴＣＢグループとの業務提携の背景",
+  "lead": "アクセルマークが4日続伸となっています。TCBグループとの業務提携が材料視されている模様です。",
+  "summary3": [
+   "アクセルＭが4日続伸を記録",
+   "TCBグループと業務提携",
+   "提携を好感し買いが先行"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、アクセルＭが4日続伸となっています。今回の値動きの背景には、TCBグループとの業務提携があることが材料視されていると伝えられています。",
+   "株式市場においては、今回の業務提携の発表を受けて投資家の関心が集まり、買いが優勢となる展開が見られました。具体的な提携内容や今後の展開については、引き続き市場の動向が注目されるところです。"
+  ],
+  "tags": [
+   "アクセルＭ",
+   "TCBグループ",
+   "株式市場"
+  ],
+  "slug": "accel-m-four-days-gains-tcb-group",
+  "people": [],
+  "terms": [
+   {
+    "name": "アクセルＭ",
+    "type": "company",
+    "desc": "東京都に拠点を置き、ゲーム事業や広告事業などを展開する企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WZ1V5QldSLW44TVR2NXZuVy1MWk5FUzQ3cEhqQWdVUGtDSzR3MVZwSURNUmxBZ1RpXzdrVXZTaThUM1ZSbEtr?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "17:04",
+  "path": "/articles/20260725-accel-m-four-days-gains-tcb-group.html"
  }
 ]

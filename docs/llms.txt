@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 17:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-25 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [テスラ株が18%下落の理由、イーロン・マスク氏の受難](https://ai-tech-times.web.app/articles/20260725-musks-bad-week-tesla-spacex-slump.html) — 2026-07-25 18:00: 米CNBC Techによると、テスラが利益未達とフリーキャッシュフローのマイナスを記録し、今週の株価が約18%急落しました。
+- [トランプ氏、EUに巨額関税を警告 米IT標的に](https://ai-tech-times.web.app/articles/20260725-trump-threatens-eu-with-tariff-on-tech.html) — 2026-07-25 18:00: トランプ氏はSNSで、欧州連合（EU）による米IT大手への課徴金を強く批判し、関税を科すと警告しました。
 - [Googleがウェブサイトへ送るトラフィックの構図に変化か](https://ai-tech-times.web.app/articles/20260725-google-zero-web-traffic-deal.html) — 2026-07-25 17:04: かつてウェブサイトとGoogleの間で成り立っていたトラフィックを巡る関係性に、大きな変化が訪れていることが明らかになりました。
 - [OpenAIとAnthropicの安全機能、攻撃的サイバー研究者の業務を妨害](https://ai-tech-times.web.app/articles/20260725-ai-guardrails-impede-cybersecurity-researchers.html) — 2026-07-25 17:04: TechCrunch AIの報道によると、未知の脆弱性を探し悪用ツールを開発するサイバーセキュリティ研究者たちの作業に、OpenAIやAnthropicの安全機能が影響を与えていることが明らかになりました。
 - [米当局が摘発強化、見せかけAI投資で訴訟急増なぜ](https://ai-tech-times.web.app/articles/20260725-ai-washing-lawsuits-increase-us.html) — 2026-07-25 17:04: 米国において、人工知能を活用したという虚偽の説明で顧客や投資家を欺く企業を訴えるケースが急増しています。
@@ -40,8 +42,6 @@
 - [JPYC、AZ-COM丸和HDと資本業務提携を発表](https://ai-tech-times.web.app/articles/20260725-jpyc-az-com-maruwa-hd-capital-alliance.html) — 2026-07-25 15:00: 日本円ステーブルコインを手がけるJPYCは、AZ-COM丸和ホールディングスとの間で資本業務提携を締結したことを発表しました。
 - [トランプ政権の10％追加関税が24日失効、新関税の判断焦点](https://ai-tech-times.web.app/articles/20260725-trump-administration-10-percent-tariff-expiration.html) — 2026-07-25 13:00: アメリカのトランプ政権が日本を含む幅広い国や地域に課している10％の追加関税が、日本時間の24日午後1時すぎに失効する見通しとなりました。新たな関税措置の判断が焦点となっています。
 - [フォルクスワーゲン上半期35%余り減益、中国販売減少が響く](https://ai-tech-times.web.app/articles/20260725-volkswagen-2024-h1-earnings.html) — 2026-07-25 13:00: ドイツの大手自動車メーカー、フォルクスワーゲンがことし上半期の決算を発表し、中国市場での販売減少などにより最終的な利益が大幅な減益となりました。
-- [リード・ホフマン氏らの新AIラボPrentis、1億ドル調達へ交渉中](https://ai-tech-times.web.app/articles/20260725-prentis-ai-lab-funding-100m.html) — 2026-07-25 12:02: テック業界の大物が共同創業した新たなAIラボ「Prentis」が、資金調達に向けて協議を進めていることが明らかになりました。
-- [トランプ政権、AI科学研究に50億ドル拠出の理由](https://ai-tech-times.web.app/articles/20260725-genesis-mission-ai-science-funding.html) — 2026-07-25 12:02: トランプ政権は木曜日、AI駆動型の科学プロジェクトを支援するため、50億ドルの「ジェネシス・ミッション」補助金を発表しました。マンハッタン計画に匹敵する緊要性と野心を持つ取り組みとして進められています。
 
 ## 世界のバズ動画TOP3 (2026-07-25)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
@@ -54,19 +54,21 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカの半導体メーカーであり、AI開発に不可欠な高性能GPU市場で世界をリードしている巨大企業です。
+- [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
+- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
-- [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
-- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
+- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引とクラウドサービスを展開する企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営し、独自の生成AIや検出技術の開発も手がける米大手IT企業。
-- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠を置く、電気自動車（EV）や蓄電池の開発・販売を手がける世界的な自動車メーカー。
+- [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [ディスコとは](https://ai-tech-times.web.app/term/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3.html): 半導体製造装置などを手掛ける日本の大手精密加工装置メーカーです。
-- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引とクラウドサービスを展開する企業です。
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが開発した最新の大規模言語モデルで、高い知能を備える。
 - [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
 - [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
@@ -77,8 +79,6 @@
 - [中外製薬とは](https://ai-tech-times.web.app/term/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC.html): スイスのロシュグループ傘下で、医薬品の研究開発に強みを持つ国内大手製薬企業です。
 - [IBMとは](https://ai-tech-times.web.app/term/ibm.html): アメリカ合衆国に本拠地を置き、コンピュータハードウェアやソフトウェア、ITサービスなどを手掛ける世界的なテクノロジー企業です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
-- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
-- [黒木啓司とは](https://ai-tech-times.web.app/term/%E9%BB%92%E6%9C%A8%E5%95%93%E5%8F%B8.html): EXILEおよびEXILE THE SECONDの元メンバーとして活動し、ダンスや俳優業で広く知られた元タレント。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
