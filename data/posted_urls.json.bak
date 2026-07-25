@@ -244,7 +244,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015184801000",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBya0hPUEsxLXNrNXlXOWJ0NGYtVXJGeXhEMzRHM3YtaHc3ZW5HMFdUN05wWDBOUS1QQXpMMG9iYlRma1pXSjlKMGxFZGNoUXF5aTh1RGVMQXpzM01BY19hTA?oc=5",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKM2NDNlJIbmx1dDVrLW5oWjRUYkFiaWozbEhnTy1CTW82M1l0bDB6YkpJVTJDQkx6SmE4dmh0c011bEVhaDdVNXc2STVXalpNMXBGM215cGhUcDNsOTlrXw?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UXpYWFFQWEFlaUQ1MDAtNnE5a21xbTZYQ3F2SVE2ZFU1SjVTRlJWUEtkamVVVFFRY2dqcU9VYWNfaU9VeEZ4Z0hoMDFVcE9NZ1JnT19HNHh5MWM1NkZB?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UXpYWFFQWEFlaUQ1MDAtNnE5a21xbTZYQ3F2SVE2ZFU1SjVTRlJWUEtkamVVVFFRY2dqcU9VYWNfaU9VeEZ4Z0hoMDFVcE9NZ1JnT19HNHh5MWM1NkZB?oc=5",
+  "https://news.web.nhk/newsweb/na/na-k10015184451000",
+  "https://news.web.nhk/newsweb/na/na-k10015185551000"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -718,6 +720,10 @@
   "アメリカ財務省、円相場の過度な変動に言及",
   "日経平均の秋の銘柄入れ替え：国内大手証券が新規採用を予想",
   "キオクシア、アドテスト、東エレクなど来週の決算発表予定",
-  "静岡ガス、2030年目標2年前倒しで3年1,070億円投資"
+  "静岡ガス、2030年目標2年前倒しで3年1,070億円投資",
+  "米トランプ政権の10％関税措置 24日に失効 新関税の判断焦点",
+  "独フォルクスワーゲン 上半期決算は減益 中国販売減少などで",
+  "トランプ政権の10％追加関税が24日失効、新関税の判断焦点",
+  "フォルクスワーゲン上半期35%余り減益、中国販売減少が響く"
  ]
 }

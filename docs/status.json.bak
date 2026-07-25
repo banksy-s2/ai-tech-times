@@ -1,26 +1,18 @@
 {
- "updated": "2026-07-25 13:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "トランプ政権の10％追加関税が24日失効、新関税の判断焦点",
-   "path": "/articles/20260725-trump-administration-10-percent-tariff-expiration.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "フォルクスワーゲン上半期35%余り減益、中国販売減少が響く",
-   "path": "/articles/20260725-volkswagen-2024-h1-earnings.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-07-25 14:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 日経平均、1800円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+  "執筆失敗: 決算:米インテル株価が一時13%急騰 7〜9月売上高見通し、市場予想上回る - "
+ ],
  "pv_today": 31,
  "gemini": {
-  "used": 111,
+  "used": 116,
   "limit": 200
  }
 }
