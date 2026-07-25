@@ -1,21 +1,17 @@
 {
- "updated": "2026-07-25 20:20",
+ "updated": "2026-07-25 20:55",
  "mode": "軽量便(インフルエンサー)",
- "articles": [
-  {
-   "title": "トランプ氏腹心の超保守派インフルエンサー、ウクライナ支持に方針転換",
-   "path": "/articles/20260725-trump-inner-circle-influencer-ukraine.html",
-   "cat": "インフルエンサー"
-  }
- ],
+ "articles": [],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
- "pv_today": 40,
+ "notes": [
+  "執筆失敗: 女性YouTuber、100万円超の案件詐欺で悔し涙 「私ってこんな簡単に人の話"
+ ],
+ "pv_today": 41,
  "gemini": {
-  "used": 149,
+  "used": 151,
   "limit": 200
  }
 }
