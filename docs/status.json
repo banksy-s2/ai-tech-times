@@ -1,15 +1,21 @@
 {
- "updated": "2026-07-25 19:00",
- "mode": "軽量便(海外AIの声)",
- "articles": [],
+ "updated": "2026-07-25 20:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "きまぐれクック総額500万円の空き巣被害、緊急動画報告に反響",
+   "path": "/articles/20260725-kimagure-cook-burglary-incident.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 33,
+ "pv_today": 40,
  "gemini": {
-  "used": 145,
+  "used": 147,
   "limit": 200
  }
 }
