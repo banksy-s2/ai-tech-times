@@ -8129,5 +8129,83 @@
   "date": "2026-07-25",
   "time": "13:00",
   "path": "/articles/20260725-volkswagen-2024-h1-earnings.html"
+ },
+ {
+  "title": "日本コムシンク、空飛ぶクルマのデジタル基盤へ",
+  "lead": "日本コムシンクが「そらとぶタクシー」と資本業務提携を締結し、空飛ぶクルマのデジタル基盤を共同構築すると発表しました。",
+  "summary3": [
+   "日本コムシンクとそらとぶタクシーが提携",
+   "空飛ぶクルマのデジタル基盤を共同構築へ",
+   "今後の事業展開と基盤開発に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。日本コムシンクと「そらとぶタクシー」が資本業務提携を結んだことが明らかになりました。両社は今後、空飛ぶクルマ向けのデジタル基盤を共同で構築していく方針です。",
+   "今回の提携により、次世代の移動手段として期待される空飛ぶクルマの運行や管理を支えるデジタルインフラの開発が推進されます。具体的な取り組みや今後の展開については、両社の発表が注目されています。",
+   "株式市場および関連業界においても、次世代交通インフラに関する今回の資本業務提携は重要なトピックとなっています。引き続き、両社の動向やデジタル基盤構築に向けた進捗情報を伝えてまいります。"
+  ],
+  "tags": [
+   "日本コムシンク",
+   "そらとぶタクシー",
+   "資本業務提携"
+  ],
+  "slug": "nihon-comsinc-soratobu-taxi-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本コムシンク",
+    "type": "company",
+    "desc": "システム開発やITサービスを手掛ける日本の企業です。"
+   },
+   {
+    "name": "そらとぶタクシー",
+    "type": "company",
+    "desc": "空飛ぶクルマ関連の事業やサービスを展開する企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QmZTNi1HYzlVa3BaZ3ZLVFRfSHZ5TmpLWTE3Z2lGMmtjZzZTMUNjS0FqN19YTEM5OTZON1pEYjE5V0hYT1dZMWYyaHo5TkJtb29VdnY2NA?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "15:00",
+  "path": "/articles/20260725-nihon-comsinc-soratobu-taxi-partnership.html"
+ },
+ {
+  "title": "JPYC、AZ-COM丸和HDと資本業務提携を発表",
+  "lead": "日本円ステーブルコインを手がけるJPYCは、AZ-COM丸和ホールディングスとの間で資本業務提携を締結したことを発表しました。",
+  "summary3": [
+   "JPYCが資本業務提携を発表",
+   "提携先はAZ-COM丸和HD",
+   "日本円ステーブルコインを展開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。日本円ステーブルコインを取り扱うJPYCは、このほどAZ-COM丸和ホールディングスとの間で資本業務提携を締結いたしました。",
+   "今回の提携により、両社間でどのような取り組みが進められるのか、今後の動向に関心が集まっています。ステーブルコインをめぐる動向は、ビジネスや金融の分野において重要なトピックの一つとなっています。",
+   "詳細な提携内容や今後のスケジュールなどについては、発表されている情報に基づき引き続き注目してまいります。企業の最新動向を引き続きお伝えしていきます。"
+  ],
+  "tags": [
+   "JPYC",
+   "AZ-COM丸和HD",
+   "ステーブルコイン"
+  ],
+  "slug": "jpyc-az-com-maruwa-hd-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "JPYC",
+    "type": "company",
+    "desc": "日本円ステーブルコインの発行・開発などを手がける日本の企業です。"
+   },
+   {
+    "name": "AZ-COM丸和ホールディングス",
+    "type": "company",
+    "desc": "物流事業を主力とする日本の持株会社で、グループ企業を通じた配送サービスなどを展開しています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYTNlSEQtVllDbjN2WWVZNXZ0Y29yU3RyXzFOTDVXYUNfY0YxWnJWTVVDOW53OTlEeHR0NlltNFNsRno1djNLQ000S1J1VXBPMVlTZjZDS0JnOVJSSEhPZjg1VG8yRUFPVDlZZ080T2NkbHlWM2p4V2s0RDIxd2M1RDNySUc3UQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-25",
+  "time": "15:00",
+  "path": "/articles/20260725-jpyc-az-com-maruwa-hd-capital-alliance.html"
  }
 ]

@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-25 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-25 16:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日本コムシンク、空飛ぶクルマのデジタル基盤へ",
-   "path": "/articles/20260725-nihon-comsinc-soratobu-taxi-partnership.html",
-   "cat": "日本企業"
+   "title": "MoonshotのKimiが米ウォール街を動揺させた理由",
+   "path": "/articles/20260725-moonshot-kimi-rogue-models-wall-street.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "JPYC、AZ-COM丸和HDと資本業務提携を発表",
-   "path": "/articles/20260725-jpyc-az-com-maruwa-hd-capital-alliance.html",
-   "cat": "日本企業"
+   "title": "Midjourneyがホロスコープアプリ「Co-Star」を買収した理由",
+   "path": "/articles/20260725-midjourney-acquires-co-star.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 31,
  "gemini": {
-  "used": 119,
+  "used": 122,
   "limit": 200
  }
 }
