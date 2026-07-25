@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AIデータセンターの電力網トラブル、問題点と解決策</title>
+<link>https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html</guid>
+<pubDate>Sun, 26 Jul 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>北部バージニア州での危機が明らかにした、AIデータセンターの電力網障害への脆弱性と、その対策について報じます。</description>
+</item>
+<item>
 <title>日経平均が2200円超の下落、東京株式市場の動向</title>
 <link>https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2200-yen.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2200-yen.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sat, 25 Jul 2026 17:04:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>Yahoo!ファイナンスが報じた大引けの日経平均寄与度ランキングによると、日経平均株価は大幅反落となりました。</description>
-</item>
-<item>
-<title>FOMCと日銀会合、来週の重要イベント</title>
-<link>https://ai-tech-times.web.app/articles/20260725-fomc-boj-events-upcoming.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-fomc-boj-events-upcoming.html</guid>
-<pubDate>Sat, 25 Jul 2026 17:04:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>AI TECH TIMESでは、7月27日から8月2日までの週に予定されている重要な経済イベントについてお伝えします。</description>
 </item>
 </channel></rss>
