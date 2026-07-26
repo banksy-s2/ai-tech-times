@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-27 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "伊藤園、抹茶ブームでも値上げ進まず株価渋く",
-   "path": "/articles/20260727-itoen-matcha-boom-stock.html",
-   "cat": "株式投資(日本)"
+   "title": "PayPay、上場後初の決算国内好調も海外戦略が問われる理由",
+   "path": "/articles/20260727-paypay-first-earnings-report.html",
+   "cat": "日本企業"
   },
   {
-   "title": "伊藤忠商事、時価総額15兆円の理由とは",
-   "path": "/articles/20260727-itochu-market-cap-valuation.html",
-   "cat": "株式投資(日本)"
+   "title": "BluePortとTDAが業務提携、AX・DX支援へ",
+   "path": "/articles/20260727-blueport-tda-business-partnership.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 22,
+  "used": 25,
   "limit": 200
  }
 }

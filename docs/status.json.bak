@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-27 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-27 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "名所フラットアイアンビル、5850万ドルの改修を経て迎える次の段階",
-   "path": "/articles/20260727-flatiron-building-renovation.html",
-   "cat": "時事・世界"
+   "title": "伊藤園、抹茶ブームでも値上げ進まず株価渋く",
+   "path": "/articles/20260727-itoen-matcha-boom-stock.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "伊藤忠商事、時価総額15兆円の理由とは",
+   "path": "/articles/20260727-itochu-market-cap-valuation.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
- "notes": [
-  "執筆失敗: Israeli settlers set fire to mosques, ca"
- ],
+ "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 18,
+  "used": 22,
   "limit": 200
  }
 }
