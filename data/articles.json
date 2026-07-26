@@ -10581,5 +10581,67 @@
   "date": "2026-07-26",
   "time": "13:00",
   "path": "/articles/20260726-asuka-fujiwara-world-heritage.html"
+ },
+ {
+  "title": "日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も",
+  "lead": "週次で反発を見せた日経平均株価について、相次ぐ企業の決算発表やFOMCを控え、二重の急落リスクが指摘されています。",
+  "summary3": [
+   "日経平均株価に二重の急落リスクが浮上",
+   "週次で反発するも相次ぐ決算発表に注目",
+   "FOMCの開催などが今後の波乱要因に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする株式市場の最新ニュースです。ig.comの報道によると、日本株市場において日経平均株価に二重の急落リスクが指摘されています。",
+   "直近の市場では週次での反発が確認されているものの、今後は相次ぐ企業の決算発表や、米国の金融政策を決めるFOMC（連邦公開市場委員会）などを控えており、市場に大きな波乱が生じる可能性が懸念されています。",
+   "投資家の間では、これらの重要なイベントや経済指標の発表に向けた動向に警戒感が高まっており、今後の相場展開を慎重に見極める動きが続いています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "FOMC"
+  ],
+  "slug": "nikkei-average-double-drop-risk",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWNnTVlieFZkRHhXUUhEcmQ2TnB2QjllakZYWW1rRXBFblBJeFVINmdmM0lIeWZJRWZtcnRCWGxETm55S0laeEJHc2EzSlZya293djRlWVdKMnA3RHM5Z1NMV1RLd2tTeUs2dWVLMkVxMkdyeEcwRl9DVUdGUWh6Xy1FTGEyVjFzUFVYcnp5cUNaQy04aXdoUGhrbEs3amV4WE5JTGpjdWFnV040Z3dMMF9wbzk0OFpydnRR?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "14:00",
+  "path": "/articles/20260726-nikkei-average-double-drop-risk.html"
+ },
+ {
+  "title": "キオクシアショックや日経平均株価急落で投資を中断した人が知らない事実",
+  "lead": "キオクシアショックや日経平均株価の急落を受けて投資を中断した人が知らない事実について、トウシルが報じています。",
+  "summary3": [
+   "キオクシアショックが発生した",
+   "日経平均株価が急落した",
+   "投資を中断した人の事実とは"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、キオクシアショックや日経平均株価の急落をきっかけに投資を中断した人々が存在することが明らかになりました。市場の大きな変動に伴い、投資判断を見直す動きが広がっています。",
+   "このような相場の急変動時には、投資家心理に大きな影響を与えますが、中断した人々が見落としがちな重要な事実についてトウシルが解説を行っています。市場の動きと投資行動の関係性についての情報が提供されています。",
+   "株式市場や関連企業の動向については、引き続き正確な情報の把握が求められます。投資判断に関する様々な視点を知ることで、今後の市場環境への理解を深めることができます。"
+  ],
+  "tags": [
+   "キオクシア",
+   "日経平均株価",
+   "投資"
+  ],
+  "slug": "kioxia-shock-nikkei-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を手がける日本の半導体企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRnlubXpROTcxUTlDLXR2alhWVkZSOS1FUENPemFRb3VOVXgyd1pXYm83TWFrTk1WUV9zLU1OWHVZN011M0ctaWwyODRweVplUzJ3OW5SM203UQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "14:00",
+  "path": "/articles/20260726-kioxia-shock-nikkei-drop.html"
  }
 ]

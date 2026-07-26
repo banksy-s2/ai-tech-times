@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も](https://ai-tech-times.web.app/articles/20260726-nikkei-average-double-drop-risk.html) — 2026-07-26 14:00: 週次で反発を見せた日経平均株価について、相次ぐ企業の決算発表やFOMCを控え、二重の急落リスクが指摘されています。
+- [キオクシアショックや日経平均株価急落で投資を中断した人が知らない事実](https://ai-tech-times.web.app/articles/20260726-kioxia-shock-nikkei-drop.html) — 2026-07-26 14:00: キオクシアショックや日経平均株価の急落を受けて投資を中断した人が知らない事実について、トウシルが報じています。
 - [グーグルに1600億円制裁のEU、トランプ大統領が関税課す方針](https://ai-tech-times.web.app/articles/20260726-trump-google-eu-tariffs.html) — 2026-07-26 13:00: EUがアメリカのIT大手グーグルに多額の制裁金を科したことを受け、トランプ大統領が対抗措置として関税を課す方針を示しました。
 - [「飛鳥・藤原の宮都」世界文化遺産に国内27件目](https://ai-tech-times.web.app/articles/20260726-asuka-fujiwara-world-heritage.html) — 2026-07-26 13:00: 奈良県内の飛鳥時代の遺跡群である「飛鳥・藤原の宮都」が、世界文化遺産に登録されることが決定しました。今回の決定により、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。
 - [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
@@ -40,8 +42,6 @@
 - [WaymoとUber、2028年5月の契約終了を視野に提携見直しへ](https://ai-tech-times.web.app/articles/20260726-waymo-uber-contract-2028.html) — 2026-07-26 07:01: 自動運転開発を手がけるWaymoと配車サービス大手のUberの提携に変化が生じる可能性があります。両社の契約は2028年5月に終了を迎えることが明らかになりました。
 - [Roku、ストリーミング端末を最大60%値上げした理由](https://ai-tech-times.web.app/articles/20260726-roku-raises-streaming-stick-prices.html) — 2026-07-26 07:01: ストリーミング端末を手がけるRokuが、価格を最大60%引き上げました。その背景にはRAMの不足があるとされています。
 - [韓国インフルエンサー、出演者の襟首つかみ批判殺到](https://ai-tech-times.web.app/articles/20260726-korean-influencer-violence-apology.html) — 2026-07-26 07:01: 韓国のインフルエンサーが、女性出演者の襟首をつかんで引きずる暴力行為を行い、インターネット上で大きな批判を集めて謝罪に追い込まれました。
-- [フランスとスペイン山火事、20万人避難のなぜ](https://ai-tech-times.web.app/articles/20260726-france-spain-wildfires-evacuation.html) — 2026-07-26 07:01: フランスとスペインでは、高温に伴う山火事が猛威を振るい、両国合わせて20万人以上が避難する深刻な事態となっています。欧州連合（EU）への支援要請や軍の出動が行われる中、現地の状況と被害拡大の背景を伝えます。
-- [トランプ氏、EUの米IT罰金撤回を要求へ](https://ai-tech-times.web.app/articles/20260726-trump-vows-to-investigate-eu-over-tech-fines.html) — 2026-07-26 07:01: トランプ米大統領は、欧州連合（EU）による米国IT企業への巨額の罰金処分について、完全に撤回させる方針を表明しました。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
@@ -68,6 +68,7 @@
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリを中心とした半導体製品の開発・製造を手がける日本の企業です。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。
 - [インテルとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB.html): アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
@@ -78,7 +79,6 @@
 - [Andurilとは](https://ai-tech-times.web.app/term/anduril.html): アメリカに拠点を置き、最先端の防衛技術やAIを活用したハードウェア・ソフトウェアを開発する企業。
 - [Ben Thompsonとは](https://ai-tech-times.web.app/term/ben-thompson.html): 著名なテック系アナリストであり、ニュースレター「Stratechery」を運営する独立系メディアの創設者。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う大手日刊新聞です。
-- [サイモン・ウィリソンとは](https://ai-tech-times.web.app/term/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%BD%E3%83%B3.html): 国内外のAI技術や開発に関する情報発信や考察で広く知られるソフトウェア開発者・ブロガーです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
