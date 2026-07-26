@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-27 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-27 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "AIコーディングで人間の理解を手放すとどうなるか",
-   "path": "/articles/20260727-dont-let-go-of-understanding-ai-coding.html",
-   "cat": "日本のAI"
+   "title": "Hugging Face CEO、OpenAIハッカーステートメント",
+   "path": "/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由",
-   "path": "/articles/20260727-miichan-and-yamada-san-controversy.html",
-   "cat": "日本のAI"
+   "title": "メタやTikTokはなぜ欧州の研究者に法的データを出さないのか",
+   "path": "/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
-  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
+  "title": "Neuromancer — Official Teaser | Apple TV",
+  "url": "https://www.youtube.com/watch?v=g79GPZSQHBk"
  },
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 8,
+  "used": 12,
   "limit": 200
  }
 }

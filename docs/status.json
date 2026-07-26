@@ -1,26 +1,21 @@
 {
- "updated": "2026-07-27 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-27 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Hugging Face CEO、OpenAIハッカーステートメント",
-   "path": "/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "メタやTikTokはなぜ欧州の研究者に法的データを出さないのか",
-   "path": "/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html",
-   "cat": "シリコンバレー最速"
+   "title": "大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判",
+   "path": "/articles/20260727-ohtani-shohei-criticism-by-politician.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "Neuromancer — Official Teaser | Apple TV",
-  "url": "https://www.youtube.com/watch?v=g79GPZSQHBk"
+  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
+  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": 2,
  "gemini": {
-  "used": 12,
+  "used": 14,
   "limit": 200
  }
 }

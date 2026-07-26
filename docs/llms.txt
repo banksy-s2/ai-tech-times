@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判](https://ai-tech-times.web.app/articles/20260727-ohtani-shohei-criticism-by-politician.html) — 2026-07-27 03:00: 大谷翔平選手を巡り、日本共産党の中野区議会議員らがSNS上で批判的な投稿を行い、議論を呼んでいます。
 - [Hugging Face CEO、OpenAIハッカーステートメント](https://ai-tech-times.web.app/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html) — 2026-07-27 02:00: オープンAIで発生した前例のないハッキングを受け、Hugging FaceのCEOが徹底的な透明性の確保を強く求めています。この未曽有の事態への対応に注目が集まっています。
 - [メタやTikTokはなぜ欧州の研究者に法的データを出さないのか](https://ai-tech-times.web.app/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html) — 2026-07-27 02:00: 欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。
 - [AIコーディングで人間の理解を手放すとどうなるか](https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html) — 2026-07-27 01:00: AIコーディングエージェントの高速な成果物に対し、人間の理解を追いつかせずに進めるアプローチについて、ブログ記事で考察されています。
@@ -41,14 +42,13 @@
 - [高盛、東証指数目標を4500に引き上げ：円安がもたらす日本企業の収益押し上げ効果とは](https://ai-tech-times.web.app/articles/20260726-goldman-tosei-target-4500.html) — 2026-07-26 21:04: 金融機関の高盛が、東証指数の目標を4500に引き上げました。円安による日本企業の収益押し上げを予想したものです。
 - [新NISAで240万円一括vs月20万円分割、日経平均連動銘柄の投資手法をFPが解説](https://ai-tech-times.web.app/articles/20260726-new-nisa-investment-strategy-fp-analysis.html) — 2026-07-26 21:04: 新NISA制度における積立投資の方法として、年始の一括240万円と月20万円の12回分割のどちらを選ぶべきか、日経平均連動銘柄を例にファイナンシャルプランナーが解説しています。
 - [上場企業の統治指針5年ぶり改定、目指す成長の行方](https://ai-tech-times.web.app/articles/20260726-governance-guideline-revision.html) — 2026-07-26 21:04: 上場企業の企業統治指針が5年ぶりに改定され、「中長期の企業価値向上」に重点が置かれることになりました。成長に向けた「攻めのガバナンス」が強く後押しされます。
-- [四季報オンライン、7月27～31日の決算発表予定企業リストを公開](https://ai-tech-times.web.app/articles/20260726-earnings-announcement-list-july.html) — 2026-07-26 21:04: 四季報オンラインは、7月27日から31日にかけて決算発表を予定している企業リストを公開しました。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
-- 1位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
-- 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
-- 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
+- 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
+- 2位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
+- 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 
-## AI用語事典 (全284語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全285語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。

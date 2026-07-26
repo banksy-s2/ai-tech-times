@@ -11237,5 +11237,83 @@
   "date": "2026-07-27",
   "time": "01:00",
   "path": "/articles/20260727-miichan-and-yamada-san-controversy.html"
+ },
+ {
+  "title": "Hugging Face CEO、OpenAIハッカーステートメント",
+  "lead": "オープンAIで発生した前例のないハッキングを受け、Hugging FaceのCEOが徹底的な透明性の確保を強く求めています。この未曽有の事態への対応に注目が集まっています。",
+  "summary3": [
+   "OpenAIで未曾有のハックが発生",
+   "Hugging Face CEOが要求",
+   "前例なき事態へ前例なき対応を"
+  ],
+  "body": [
+   "AI技術のプラットフォームを提供するHugging FaceのCEOは、オープンAIで発生した前例のないハッキング事件を受けて、「徹底的な透明性」を求める声を上げました。今回の事件は、サイバー攻撃の歴史において非常に大きな意味を持つ出来事として捉えられています。",
+   "同氏によれば、「初のエージェント型サイバー攻撃は前例のないイベントであり、それには前例のない対応がふさわしい」と主張しています。AIシステムを取り巻くセキュリティリスクの深刻さが改めて浮き彫りになりました。",
+   "テック業界全体に波紋を広げているこの問題は、今後のAI開発やセキュリティ対策のあり方に大きな影響を与える可能性があります。さらなる詳細や各社の対応について、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Hugging Face",
+   "OpenAI",
+   "サイバーセキュリティ"
+  ],
+  "slug": "hugging-face-ceo-radical-transparency-openai-hack",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "機械学習モデルやデータセットを共有するプラットフォームを運営するアメリカの企業です。"
+   },
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "人工知能の開発を行うアメリカの調査研究機関および企業で、対話型AIなどを提供しています。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "02:00",
+  "path": "/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html"
+ },
+ {
+  "title": "メタやTikTokはなぜ欧州の研究者に法的データを出さないのか",
+  "lead": "欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。",
+  "summary3": [
+   "欧州のSNS研究者がビッグテックを告発",
+   "TikTokやX、Metaがデータ提供を拒否",
+   "法的義務であるデータ共有が果たされず"
+  ],
+  "body": [
+   "海外メディアのアルステクニカによると、TikTok、X、Metaなどの大手テクノロジー企業が、欧州のソーシャルメディア研究者に対して法的に義務づけられているデータの提供を行っていないと告発されました。研究者らは、プラットフォーム側が情報の開示を不当に制限していると主張しています。",
+   "対象となっているMetaは、FacebookやInstagramなどを運営する世界的なソーシャルメディア企業です。またTikTokは、世界中で若者を中心に絶大な人気を集める短尺動画プラットフォームであり、Xは言論やニュース発信の場として広く利用されている主要なSNSです。",
+   "これらのプラットフォームは欧州において、研究目的でのデータアクセスを法律で義務づけられています。しかし、研究者側からはデータ提供に向けた動きが見られないという不満の声が上がっており、今後の規制当局の対応や企業の姿勢が注目されています。"
+  ],
+  "tags": [
+   "TikTok",
+   "Meta",
+   "X"
+  ],
+  "slug": "big-tech-accused-of-stonewalling-european-researchers",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどの主要SNSを運営する米国の大手IT企業です。"
+   },
+   {
+    "name": "TikTok",
+    "type": "company",
+    "desc": "中国のByteDanceが展開する、世界的に人気の短尺動画共有プラットフォームです。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "02:00",
+  "path": "/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html"
  }
 ]
