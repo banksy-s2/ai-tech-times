@@ -1,26 +1,15 @@
 {
- "updated": "2026-07-26 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も",
-   "path": "/articles/20260726-nikkei-average-double-drop-risk.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "キオクシアショックや日経平均株価急落で投資を中断した人が知らない事実",
-   "path": "/articles/20260726-kioxia-shock-nikkei-drop.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-07-26 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 21,
+ "pv_today": 22,
  "gemini": {
-  "used": 99,
+  "used": 101,
   "limit": 200
  }
 }

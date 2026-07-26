@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-26 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-26 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "グーグルに1600億円制裁のEU、トランプ大統領が関税課す方針",
-   "path": "/articles/20260726-trump-google-eu-tariffs.html",
-   "cat": "時事・世界"
+   "title": "日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も",
+   "path": "/articles/20260726-nikkei-average-double-drop-risk.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "「飛鳥・藤原の宮都」世界文化遺産に国内27件目",
-   "path": "/articles/20260726-asuka-fujiwara-world-heritage.html",
-   "cat": "時事・世界"
+   "title": "キオクシアショックや日経平均株価急落で投資を中断した人が知らない事実",
+   "path": "/articles/20260726-kioxia-shock-nikkei-drop.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
  "notes": [],
- "pv_today": 20,
+ "pv_today": 21,
  "gemini": {
-  "used": 95,
+  "used": 99,
   "limit": 200
  }
 }
