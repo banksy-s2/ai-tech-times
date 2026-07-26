@@ -10118,5 +10118,39 @@
   "date": "2026-07-26",
   "time": "07:01",
   "path": "/articles/20260726-tochigi-listed-company-stock-prices-24th.html"
+ },
+ {
+  "title": "BlueskyのAI「Attie」が開放される理由",
+  "lead": "分散型ソーシャルプラットフォームのBlueskyが提供するAIアシスタント「Attie」が、オープンな社会調査ツールへと機能を拡張しました。ATプロトコル上の会話やトレンドをどのように分析できるようになったのでしょうか。",
+  "summary3": [
+   "BlueskyのAIアシスタントが拡張",
+   "オープンな社会調査ツールに進化",
+   "ATプロトコル全体の会話を調査可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、TechCrunch AIの報道によると、分散型SNS「Bluesky」のAIアシスタントである「Attie」が、新たにオープンな社会調査ツールへと機能を拡張したことが明らかになりました。",
+   "今回の機能拡張により、ユーザーはBluesky上だけでなく、同じATプロトコルを採用する他のアプリケーションにおけるニュースやトレンド、会話について「Attie」に質問できるようになります。これにより、分散型エコシステム全体を横断した情報収集や議論の動向把握が可能となります。",
+   "「Attie」がオープンな社会調査ツールとしての側面を強めたことで、ユーザーや研究者はATプロトコル上で交わされる多様な会話やトレンドをより効率的にリサーチできるようになります。今後のさらなる活用方法の広がりにも注目が集まります。"
+  ],
+  "tags": [
+   "Bluesky",
+   "AI",
+   "AT Protocol"
+  ],
+  "slug": "bluesky-ai-assistant-attie-expands",
+  "people": [],
+  "terms": [
+   {
+    "name": "Bluesky",
+    "type": "company",
+    "desc": "オープンで分散型のソーシャルメディアプラットフォームを開発・運営するアメリカの企業およびサービス。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+  "category": "ai",
+  "date": "2026-07-26",
+  "time": "08:00",
+  "path": "/articles/20260726-bluesky-ai-assistant-attie-expands.html"
  }
 ]

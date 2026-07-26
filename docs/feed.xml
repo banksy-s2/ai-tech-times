@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Clickout Media解雇後、AI生成記事にライターの名前が悪用</title>
+<link>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</guid>
+<pubDate>Sun, 26 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>フリーランスライターとして活動していたベン・トゥアティ氏が、解雇された後にもかかわらず、自身の名前がAI生成されたオンラインカジノの記事に使用されていたことを明らかにしました。</description>
+</item>
+<item>
+<title>マイクロソフトやエヌビディアがAI規制反対の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html</guid>
+<pubDate>Sun, 26 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米マイクロソフトや米エヌビディアなどは24日、技術を外部に公開する「オープン型」の人工知能（AI）開発を規制しないよう米政府に求める声明を公開しました。</description>
+</item>
+<item>
 <title>BlueskyのAI「Attie」が開放される理由</title>
 <link>https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>パロアルトネットワークスの識者がソフトバンクのイベントで講演し、生成AIの普及によってサイバー攻撃が劇的に高速化している実態と対策を明かしました。</description>
-</item>
-<item>
-<title>GoogleやAmazonの債券スプレッド拡大、AI投資に債券市場が不安視</title>
-<link>https://ai-tech-times.web.app/articles/20260725-bond-market-anxiety-ai-capex.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-bond-market-anxiety-ai-capex.html</guid>
-<pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>巨大テック企業による巨額のAI投資をめぐり、債券市場で警戒感が広がっています。投資家がより高いリターンを要求する動きが出ています。</description>
-</item>
-<item>
-<title>NvidiaやMetaらがオープンモデル制限への反対を表明</title>
-<link>https://ai-tech-times.web.app/articles/20260725-nvidia-microsoft-meta-open-weight-ai-warning.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-nvidia-microsoft-meta-open-weight-ai-warning.html</guid>
-<pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Nvidia、Microsoft、Metaなどの主要企業が、オープンウェイト型AIモデルの「早すぎる制限」に対して警告を発しました。</description>
 </item>
 </channel></rss>
