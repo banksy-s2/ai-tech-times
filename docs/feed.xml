@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic新AIが価格と性能で競合を圧倒する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html</guid>
+<pubDate>Sun, 26 Jul 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AI企業のアントロピックが、最高性能かつ最もコストパフォーマンスに優れた新型モデル「Claude Opus 5」を発表しました。</description>
+</item>
+<item>
 <title>Clickout Media解雇後、AI生成記事にライターの名前が悪用</title>
 <link>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>高市早苗政権の骨太の方針が公表された中、長年日本経済を取材してきた米紙ウォール・ストリート・ジャーナルの前東京支局長が、中国を軽く見た製造業のツケについて語りました。</description>
-</item>
-<item>
-<title>パロアルト:生成AIでサイバー攻撃が2日かからず25分になる理由</title>
-<link>https://ai-tech-times.web.app/articles/20260725-palo-alto-generative-ai-cyber-attack.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-palo-alto-generative-ai-cyber-attack.html</guid>
-<pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>パロアルトネットワークスの識者がソフトバンクのイベントで講演し、生成AIの普及によってサイバー攻撃が劇的に高速化している実態と対策を明かしました。</description>
 </item>
 </channel></rss>

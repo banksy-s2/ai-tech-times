@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-26 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-26 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "BlueskyのAI「Attie」が開放される理由",
-   "path": "/articles/20260726-bluesky-ai-assistant-attie-expands.html",
-   "cat": "AI(海外)"
+   "title": "Clickout Media解雇後、AI生成記事にライターの名前が悪用",
+   "path": "/articles/20260726-clickout-media-ai-article-abuse.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "マイクロソフトやエヌビディアがAI規制反対の理由",
+   "path": "/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 13,
  "gemini": {
-  "used": 56,
+  "used": 59,
   "limit": 200
  }
 }

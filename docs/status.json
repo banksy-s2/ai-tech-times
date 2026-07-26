@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-26 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-26 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Clickout Media解雇後、AI生成記事にライターの名前が悪用",
-   "path": "/articles/20260726-clickout-media-ai-article-abuse.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "マイクロソフトやエヌビディアがAI規制反対の理由",
-   "path": "/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html",
-   "cat": "日本のAI"
+   "title": "Anthropic新AIが価格と性能で競合を圧倒する理由",
+   "path": "/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
- "pv_today": 13,
+ "notes": [
+  "執筆失敗: Google basically confirms the Pixel 11 i"
+ ],
+ "pv_today": 15,
  "gemini": {
-  "used": 59,
+  "used": 63,
   "limit": 200
  }
 }

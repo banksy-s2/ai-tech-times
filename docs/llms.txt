@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic新AIが価格と性能で競合を圧倒する理由](https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html) — 2026-07-26 10:00: AI企業のアントロピックが、最高性能かつ最もコストパフォーマンスに優れた新型モデル「Claude Opus 5」を発表しました。
 - [Clickout Media解雇後、AI生成記事にライターの名前が悪用](https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html) — 2026-07-26 09:00: フリーランスライターとして活動していたベン・トゥアティ氏が、解雇された後にもかかわらず、自身の名前がAI生成されたオンラインカジノの記事に使用されていたことを明らかにしました。
 - [マイクロソフトやエヌビディアがAI規制反対の理由](https://ai-tech-times.web.app/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html) — 2026-07-26 09:00: 米マイクロソフトや米エヌビディアなどは24日、技術を外部に公開する「オープン型」の人工知能（AI）開発を規制しないよう米政府に求める声明を公開しました。
 - [BlueskyのAI「Attie」が開放される理由](https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html) — 2026-07-26 08:00: 分散型ソーシャルプラットフォームのBlueskyが提供するAIアシスタント「Attie」が、オープンな社会調査ツールへと機能を拡張しました。ATプロトコル上の会話やトレンドをどのように分析できるようになったのでしょうか。
@@ -41,14 +42,13 @@
 - [スペイン首都周辺で山火事拡大、非常事態宣言の背景](https://ai-tech-times.web.app/articles/20260726-spain-wildfires-emergency.html) — 2026-07-26 04:00: ヨーロッパ各地で山火事が相次ぎ、被害が拡大しています。このうちスペインでは首都マドリード周辺に非常事態が宣言され、消火活動が続けられています。
 - [トランプ大統領のイラン資産補償案、なぜ外相は反発するのか](https://ai-tech-times.web.app/articles/20260726-trump-iran-assets-compensation.html) — 2026-07-26 04:00: アメリカのトランプ大統領がイランの攻撃による損害をイランの資産で支払うと主張し、イラン側が強く反発しています。
 - [日本トイザらス、上野に大人向け専門店オープンで初日売上4倍の理由](https://ai-tech-times.web.app/articles/20260726-toysrus-ueno-adult-store.html) — 2026-07-26 03:00: 日本トイザらス株式会社が東京にオープンした大人向け玩具専門店が、初日から想定以上の売上を記録しました。その背景にある新しいコンセプトとは何でしょうか。
-- [インテルAI特需で売上高25%増、なぜ株価急落？](https://ai-tech-times.web.app/articles/20260726-intel-revenue-growth-ai-boom-q2.html) — 2026-07-26 02:00: 米半導体大手インテルの直近の四半期決算は、AIブームを追い風に売上高が25%増と約15年ぶりの急成長を記録しました。しかし、好業績の一方で株価は急落する展開となっています。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
-- 3位: [Ebenezer | Official Trailer (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin](https://www.youtube.com/watch?v=A7lyvgnDuDE)
+- 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 
-## AI用語事典 (全267語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全268語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -65,6 +65,7 @@
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。
@@ -72,7 +73,6 @@
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [ディスコとは](https://ai-tech-times.web.app/term/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3.html): 半導体製造装置などを手掛ける日本の大手精密加工装置メーカーです。
-- [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが開発した最新の大規模言語モデルで、高い知能を備える。
 - [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
 - [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
 - [Andurilとは](https://ai-tech-times.web.app/term/anduril.html): アメリカに拠点を置き、最先端の防衛技術やAIを活用したハードウェア・ソフトウェアを開発する企業。
