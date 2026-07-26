@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AIコーディングで人間の理解を手放すとどうなるか</title>
+<link>https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html</guid>
+<pubDate>Mon, 27 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIコーディングエージェントの高速な成果物に対し、人間の理解を追いつかせずに進めるアプローチについて、ブログ記事で考察されています。</description>
+</item>
+<item>
+<title>郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由</title>
+<link>https://ai-tech-times.web.app/articles/20260727-miichan-and-yamada-san-controversy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-miichan-and-yamada-san-controversy.html</guid>
+<pubDate>Mon, 27 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>『みいちゃんと山田さん』のアニメ化をめぐり、反対運動を行う郡司真子氏の主張と批判のあり方について考察されています。</description>
+</item>
+<item>
 <title>スタンフォード大学政策研究所が明かすAIと雇用の真実</title>
 <link>https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 26 Jul 2026 11:00:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>登録者数が5億を超える人気のYouTuberが投稿した結婚式ショットが、ネット上で大きな話題となっています。「美しいカップル」などと称賛の声が寄せられている美人妻の正体についても注目が集まっています。</description>
-</item>
-<item>
-<title>Anthropic新AIが価格と性能で競合を圧倒する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html</guid>
-<pubDate>Sun, 26 Jul 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AI企業のアントロピックが、最高性能かつ最もコストパフォーマンスに優れた新型モデル「Claude Opus 5」を発表しました。</description>
-</item>
-<item>
-<title>Clickout Media解雇後、AI生成記事にライターの名前が悪用</title>
-<link>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html</guid>
-<pubDate>Sun, 26 Jul 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>フリーランスライターとして活動していたベン・トゥアティ氏が、解雇された後にもかかわらず、自身の名前がAI生成されたオンラインカジノの記事に使用されていたことを明らかにしました。</description>
 </item>
 </channel></rss>
