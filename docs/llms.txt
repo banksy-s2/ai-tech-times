@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 21:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘](https://ai-tech-times.web.app/articles/20260726-zelensky-north-korea-troops.html) — 2026-07-26 22:00: ウクライナのゼレンスキー大統領が、ロシアによる新たな北朝鮮兵士の受け入れ準備について言及しました。
+- [ベルリンで車突入、1人死亡16人負傷。容疑者とイスラム主義のつながりは](https://ai-tech-times.web.app/articles/20260726-berlin-car-crash-investigation.html) — 2026-07-26 22:00: ドイツの首都ベルリンで25日、性的マイノリティーの権利向上イベントの人混みに車が突っ込み、死傷者が出ました。警察は容疑者の背景を調べています。
 - [Monday.comなどがAI理由に人員削減、進む背景](https://ai-tech-times.web.app/articles/20260726-monday-com-ai-layoffs-techcrunch.html) — 2026-07-26 21:04: TechCrunch AIによると、Monday.comなどのテック企業がAIの導入を理由に大規模な人員削減を発表しました。今年に入りAIを要因に挙げた主要企業の動向が伝えられています。
 - [知床沖観光船沈没事故、2年後に発見されたカメラのデータはなぜ完全復元できたのか](https://ai-tech-times.web.app/articles/20260726-shiretoko-camera-recovery.html) — 2026-07-26 21:04: 知床沖観光船沈没事故で、海水に浸かったデジカメからデータを完全復元した技術に大きな注目が集まっています。
 - [AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを防ぐ方法](https://ai-tech-times.web.app/articles/20260726-ai-agent-failure-cases.html) — 2026-07-26 21:04: AIエージェントの導入を進める中で失敗事例が多いという情報を見かけ、自社は大丈夫かと不安になっていませんか。本記事ではセキュリティ事故と運用トラブルに関する事例を解説します。
@@ -40,15 +42,13 @@
 - [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
 - [Claude CodeでInput Tokenが大量消費される原因](https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html) — 2026-07-26 12:02: FLINTERSのエンジニアが、Claude Code利用時に短い入力なのにInput Tokenが大量に消費される原因を利用ログから調査しました。
 - [Google、Pixel 11の値上げを示唆。財布への影響は](https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html) — 2026-07-26 12:02: Googleの幹部が次世代のPixelスマートフォンについて価格が上がると示唆しました。AIデータセンターの急増に伴うRAM供給の逼迫が背景にあります。
-- [愛媛の禅寺からYouTube総再生1億回、僧侶が選んだヒットの法則とは](https://ai-tech-times.web.app/articles/20260726-yakushiji-kanho-youtube-100m-views.html) — 2026-07-26 12:02: 愛媛県今治市の禅寺で副住職を務める薬師寺寛邦さんが、関連動画の世界累計再生数1億回を突破したヒットの裏側を語りました。
-- [新潟・北陸・東北で大雨警戒、西日本は猛暑](https://ai-tech-times.web.app/articles/20260726-heavy-rain-and-dangerous-heat-japan.html) — 2026-07-26 12:02: 前線の影響により、新潟県や北陸、東北地方で大雨となっており、土砂災害や低い土地の浸水への厳重な警戒が呼びかけられています。一方、西日本などでは危険な暑さが続いています。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 - 2位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - 3位: [Lanterns | Official Trailer | HBO Max](https://www.youtube.com/watch?v=7UIBOsuUwc4)
 
-## AI用語事典 (全278語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全279語 / https://ai-tech-times.web.app/term/)
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
