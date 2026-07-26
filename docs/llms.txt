@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 12:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,12 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
+- [Claude CodeでInput Tokenが大量消費される原因](https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html) — 2026-07-26 12:02: FLINTERSのエンジニアが、Claude Code利用時に短い入力なのにInput Tokenが大量に消費される原因を利用ログから調査しました。
+- [Google、Pixel 11の値上げを示唆。財布への影響は](https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html) — 2026-07-26 12:02: Googleの幹部が次世代のPixelスマートフォンについて価格が上がると示唆しました。AIデータセンターの急増に伴うRAM供給の逼迫が背景にあります。
+- [愛媛の禅寺からYouTube総再生1億回、僧侶が選んだヒットの法則とは](https://ai-tech-times.web.app/articles/20260726-yakushiji-kanho-youtube-100m-views.html) — 2026-07-26 12:02: 愛媛県今治市の禅寺で副住職を務める薬師寺寛邦さんが、関連動画の世界累計再生数1億回を突破したヒットの裏側を語りました。
+- [新潟・北陸・東北で大雨警戒、西日本は猛暑](https://ai-tech-times.web.app/articles/20260726-heavy-rain-and-dangerous-heat-japan.html) — 2026-07-26 12:02: 前線の影響により、新潟県や北陸、東北地方で大雨となっており、土砂災害や低い土地の浸水への厳重な警戒が呼びかけられています。一方、西日本などでは危険な暑さが続いています。
+- [サウジアラムコ施設をフーシ派が攻撃、影響は](https://ai-tech-times.web.app/articles/20260726-houthis-attack-saudi-aramco-facility.html) — 2026-07-26 12:02: イランの支援を受けるイエメンの反政府勢力フーシ派が、サウジアラビアの国営石油会社「サウジアラムコ」の関連施設を攻撃したと発表しました。エネルギー市場への影響に懸念が広がっています。
 - [登録者5億超人気YouTuberの結婚式ショットに大反響](https://ai-tech-times.web.app/articles/20260726-youtuber-wedding-shot-big-response.html) — 2026-07-26 11:00: 登録者数が5億を超える人気のYouTuberが投稿した結婚式ショットが、ネット上で大きな話題となっています。「美しいカップル」などと称賛の声が寄せられている美人妻の正体についても注目が集まっています。
 - [Anthropic新AIが価格と性能で競合を圧倒する理由](https://ai-tech-times.web.app/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html) — 2026-07-26 10:00: AI企業のアントロピックが、最高性能かつ最もコストパフォーマンスに優れた新型モデル「Claude Opus 5」を発表しました。
 - [Clickout Media解雇後、AI生成記事にライターの名前が悪用](https://ai-tech-times.web.app/articles/20260726-clickout-media-ai-article-abuse.html) — 2026-07-26 09:00: フリーランスライターとして活動していたベン・トゥアティ氏が、解雇された後にもかかわらず、自身の名前がAI生成されたオンラインカジノの記事に使用されていたことを明らかにしました。
@@ -36,23 +42,17 @@
 - [トランプ氏、EUの米IT罰金撤回を要求へ](https://ai-tech-times.web.app/articles/20260726-trump-vows-to-investigate-eu-over-tech-fines.html) — 2026-07-26 07:01: トランプ米大統領は、欧州連合（EU）による米国IT企業への巨額の罰金処分について、完全に撤回させる方針を表明しました。
 - [スルガ銀の処分解除が視野、筆頭株主の狙い](https://ai-tech-times.web.app/articles/20260726-suruga-bank-credaison-acquisition.html) — 2026-07-26 07:01: スルガ銀行をめぐる長年の業務改善命令の解除へ向けた動きが進んでいます。これに伴い、筆頭株主であるクレディセゾンの動向に注目が集まっています。
 - [県内上場企業の株価情報、24日の動向が明らかに](https://ai-tech-times.web.app/articles/20260726-tochigi-listed-company-stock-prices-24th.html) — 2026-07-26 07:01: 下野新聞社が配信した情報によると、県内の上場企業株価に関する24日のニュースが報じられました。
-- [北日本銀行、IBCソフトアルファと提携し地元企業のDX支援本格化へ](https://ai-tech-times.web.app/articles/20260726-kitanihon-bank-ibc-soft-alpha-dx-partnership.html) — 2026-07-26 06:00: 北日本銀行がIBCソフトアルファと資本業務提携を締結しました。地元企業のデジタルトランスフォーメーション（DX）支援を本格化させる方針です。
-- [栗本鐵工所FY2025決算：ライフライン利益17.5%増の一方で機械システムは27.9%減、中期目標堅持へ](https://ai-tech-times.web.app/articles/20260726-kurimoto-fy2025-financial-results.html) — 2026-07-26 06:00: AI TECH TIMESのニュースをお届けします。栗本鐵工所がFY2025 Full Yearの決算説明会を実施し、ライフライン分野の利益増加と機械システム分野の減益が発表されました。
-- [個人投資家4074億円買い越し、7月第3週に何が？](https://ai-tech-times.web.app/articles/20260726-retail-investors-net-buying-july-week3.html) — 2026-07-26 05:00: 日本経済新聞の報道によると、7月第3週に個人投資家が4074億円を買い越していたことが分かりました。ハイテク株への押し目買いが観測されています。
-- [日経平均反落し6万4611円、東京市場で原油先物上昇のトリプル安](https://ai-tech-times.web.app/articles/20260726-oil-futures-rise-nikkei-falls.html) — 2026-07-26 05:00: 東京市場において原油先物価格が上昇し、「トリプル安」の展開となる中、日経平均株価は反落し終値は6万4611円となりました。
-- [スペイン首都周辺で山火事拡大、非常事態宣言の背景](https://ai-tech-times.web.app/articles/20260726-spain-wildfires-emergency.html) — 2026-07-26 04:00: ヨーロッパ各地で山火事が相次ぎ、被害が拡大しています。このうちスペインでは首都マドリード周辺に非常事態が宣言され、消火活動が続けられています。
-- [トランプ大統領のイラン資産補償案、なぜ外相は反発するのか](https://ai-tech-times.web.app/articles/20260726-trump-iran-assets-compensation.html) — 2026-07-26 04:00: アメリカのトランプ大統領がイランの攻撃による損害をイランの資産で支払うと主張し、イラン側が強く反発しています。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
 - 2位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 - 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 
-## AI用語事典 (全268語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全275語 / https://ai-tech-times.web.app/term/)
+- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
-- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。

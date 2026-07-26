@@ -5,6 +5,54 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身</title>
+<link>https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。</description>
+</item>
+<item>
+<title>Claude CodeでInput Tokenが大量消費される原因</title>
+<link>https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>FLINTERSのエンジニアが、Claude Code利用時に短い入力なのにInput Tokenが大量に消費される原因を利用ログから調査しました。</description>
+</item>
+<item>
+<title>Google、Pixel 11の値上げを示唆。財布への影響は</title>
+<link>https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Googleの幹部が次世代のPixelスマートフォンについて価格が上がると示唆しました。AIデータセンターの急増に伴うRAM供給の逼迫が背景にあります。</description>
+</item>
+<item>
+<title>愛媛の禅寺からYouTube総再生1億回、僧侶が選んだヒットの法則とは</title>
+<link>https://ai-tech-times.web.app/articles/20260726-yakushiji-kanho-youtube-100m-views.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-yakushiji-kanho-youtube-100m-views.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>愛媛県今治市の禅寺で副住職を務める薬師寺寛邦さんが、関連動画の世界累計再生数1億回を突破したヒットの裏側を語りました。</description>
+</item>
+<item>
+<title>新潟・北陸・東北で大雨警戒、西日本は猛暑</title>
+<link>https://ai-tech-times.web.app/articles/20260726-heavy-rain-and-dangerous-heat-japan.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-heavy-rain-and-dangerous-heat-japan.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>前線の影響により、新潟県や北陸、東北地方で大雨となっており、土砂災害や低い土地の浸水への厳重な警戒が呼びかけられています。一方、西日本などでは危険な暑さが続いています。</description>
+</item>
+<item>
+<title>サウジアラムコ施設をフーシ派が攻撃、影響は</title>
+<link>https://ai-tech-times.web.app/articles/20260726-houthis-attack-saudi-aramco-facility.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260726-houthis-attack-saudi-aramco-facility.html</guid>
+<pubDate>Sun, 26 Jul 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>イランの支援を受けるイエメンの反政府勢力フーシ派が、サウジアラビアの国営石油会社「サウジアラムコ」の関連施設を攻撃したと発表しました。エネルギー市場への影響に懸念が広がっています。</description>
+</item>
+<item>
 <title>登録者5億超人気YouTuberの結婚式ショットに大反響</title>
 <link>https://ai-tech-times.web.app/articles/20260726-youtuber-wedding-shot-big-response.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260726-youtuber-wedding-shot-big-response.html</guid>
@@ -195,53 +243,5 @@
 <pubDate>Sun, 26 Jul 2026 01:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>メモリ価格の高騰を背景に、Appleがトランプ政権に対してブラックリストに登録されている中国企業との取引許可を求めていることが明らかになりました。これに対し、アメリカの半導体大手であるMicronが激しく反発しています。</description>
-</item>
-<item>
-<title>AIデータセンターの電力網トラブル、問題点と解決策</title>
-<link>https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-ai-data-center-power-grid-problem.html</guid>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>北部バージニア州での危機が明らかにした、AIデータセンターの電力網障害への脆弱性と、その対策について報じます。</description>
-</item>
-<item>
-<title>日経平均が2200円超の下落、東京株式市場の動向</title>
-<link>https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2200-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-nikkei-average-drops-over-2200-yen.html</guid>
-<pubDate>Sat, 25 Jul 2026 23:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>東京株式市場において、日経平均株価が2200円を超える大幅な下落を記録しました。市場関係者の間で動揺が広がっています。</description>
-</item>
-<item>
-<title>韓国大統領府、米韓で155兆円規模のAI半導体協力へ</title>
-<link>https://ai-tech-times.web.app/articles/20260725-rok-us-ai-semiconductor-cooperation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-rok-us-ai-semiconductor-cooperation.html</guid>
-<pubDate>Sat, 25 Jul 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>韓国のイ・ジェミョン大統領がアメリカを訪問し、エヌビディアやオープンAIなどのAI関連企業に向けて大規模な投資を呼びかけました。</description>
-</item>
-<item>
-<title>米トランプ政権の追加関税、米企業2社が提訴</title>
-<link>https://ai-tech-times.web.app/articles/20260725-trump-administration-tariffs-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-trump-administration-tariffs-lawsuit.html</guid>
-<pubDate>Sat, 25 Jul 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのトランプ政権が発動した新たな追加関税をめぐり、アメリカの企業2社が措置の取り消しなどを求めて裁判所に提訴しました。</description>
-</item>
-<item>
-<title>CognitionがPokeを買収した、AIの性格が競争優位になる理由</title>
-<link>https://ai-tech-times.web.app/articles/20260725-cognition-acquires-poke-ai-personality.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-cognition-acquires-poke-ai-personality.html</guid>
-<pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発企業CognitionがPokeを買収しました。この買収が、AIアシスタントの競争において何を意味するのかをお伝えします。</description>
-</item>
-<item>
-<title>HetznerがLLMインファレンス提供へ、開発中の背景とは</title>
-<link>https://ai-tech-times.web.app/articles/20260725-hetzner-llm-inference.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260725-hetzner-llm-inference.html</guid>
-<pubDate>Sat, 25 Jul 2026 21:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>欧州のクラウド企業であるHetznerが、大規模言語モデル（LLM）のインファレンス機能の開発に取り組んでいることが明らかになりました。</description>
 </item>
 </channel></rss>
