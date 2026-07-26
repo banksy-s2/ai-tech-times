@@ -10671,5 +10671,313 @@
   "date": "2026-07-26",
   "time": "20:45",
   "path": "/articles/20260726-influencer-arrested-on-x.html"
+ },
+ {
+  "title": "Monday.comなどがAI理由に人員削減、進む背景",
+  "lead": "TechCrunch AIによると、Monday.comなどのテック企業がAIの導入を理由に大規模な人員削減を発表しました。今年に入りAIを要因に挙げた主要企業の動向が伝えられています。",
+  "summary3": [
+   "Monday.comが人員削減を発表",
+   "AIを理由とするテック企業が続出",
+   "今年の人員削減の動向を時系列で公開"
+  ],
+  "body": [
+   "「AI TECH TIMES」の編集部によると、テック業界においてAIを理由とした人員削減の動きが広がっています。TechCrunch AIの報道によると、Monday.comが今年AIを理由に大規模な人員削減を実施した最新のテック企業となりました。",
+   "同メディアでは、今年に入ってAIを主要な要因として大きな人員削減を発表した主要なテック企業について、逆時系列でリストを公開しています。Monday.comのほかにも、同様の理由で削減に踏み切った企業が多数確認されています。",
+   "AI技術の導入と業務効率化が進むなかで、雇用に対する影響がどのように広がっているのか、業界全体の動向に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "人員削減",
+   "テック企業"
+  ],
+  "slug": "monday-com-ai-layoffs-techcrunch",
+  "people": [],
+  "terms": [
+   {
+    "name": "Monday.com",
+    "type": "company",
+    "desc": "イスラエルに拠点を置き、業務管理やプロジェクト管理のためのSaaSプラットフォームを提供しているソフトウェア会社。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+  "category": "ai",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-monday-com-ai-layoffs-techcrunch.html"
+ },
+ {
+  "title": "知床沖観光船沈没事故、2年後に発見されたカメラのデータはなぜ完全復元できたのか",
+  "lead": "知床沖観光船沈没事故で、海水に浸かったデジカメからデータを完全復元した技術に大きな注目が集まっています。",
+  "summary3": [
+   "知床沖観光船沈没事故の乗客カメラを発見",
+   "海水に浸かったデジカメからデータを完全復元",
+   "荒れ狂う海と叫び声が記録されていた映像"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、知床沖観光船沈没事故において、乗客のカメラに残された沈前の映像データが完全復元されたことが話題となっています。このカメラは事故から2年後に浜で発見されたものです。",
+   "海水に浸かっていた過酷な状態のデジカメからデータを取り出した技術力に対し、ネット上ではエンジニアの不屈の意志を感じるなど称賛の声が上がっています。",
+   "公開された映像には、荒れ狂う海と緊迫した叫び声が捉えられており、事故当時の状況を伝える貴重な記録となっています。"
+  ],
+  "tags": [
+   "知床沖観光船沈没事故",
+   "データ復元",
+   "デジカメ"
+  ],
+  "slug": "shiretoko-camera-recovery",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://togetter.com/li/2724822",
+  "category": "ai_jp",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-shiretoko-camera-recovery.html"
+ },
+ {
+  "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを防ぐ方法",
+  "lead": "AIエージェントの導入を進める中で失敗事例が多いという情報を見かけ、自社は大丈夫かと不安になっていませんか。本記事ではセキュリティ事故と運用トラブルに関する事例を解説します。",
+  "summary3": [
+   "AIエージェントの失敗事例が話題",
+   "セキュリティ事故や運用面を解説",
+   "導入時の不安解消に役立つ情報"
+  ],
+  "body": [
+   "AIエージェントの導入を進める企業が増える一方で、失敗事例が多いという情報を目にして不安を抱えている方は少なくないでしょう。便利な反面、予期せぬトラブルやリスクについての関心が高まっています。",
+   "元記事では、AIエージェントに関する失敗事例として4つのケースが取り上げられています。具体的にはセキュリティ事故や運用トラブルなどが含まれており、導入時の注意点を知る手がかりとなります。",
+   "新しい技術を取り入れる際は、こうした実際の失敗事例から学ぶことが重要です。リスクを正しく把握し、適切な対策を講じながら安全な運用を目指しましょう。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "セキュリティ事故",
+   "運用トラブル"
+  ],
+  "slug": "ai-agent-failure-cases",
+  "people": [],
+  "terms": [],
+  "source": "AINOW",
+  "source_url": "https://ainow.ai/2026/07/26/278281/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25a4%25b1%25e6%2595%2597%25e4%25ba%258b%25e4%25be%258b4%25e3%2581%25a4%25ef%25bc%2581%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e4%25ba%258b%25e6%2595%2585",
+  "category": "ai_jp",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-ai-agent-failure-cases.html"
+ },
+ {
+  "title": "Kalshi、ネットフリックスにドキュメンタリー予告編の削除を要求",
+  "lead": "予測市場を手がけるKalshiが、ネットフリックスの新しいドキュメンタリー番組の予告編について、名誉毀損にあたるとして削除を要求しました。",
+  "summary3": [
+   "Kalshiが予告編の削除を要求",
+   "「名誉毀損にあたる」と主張",
+   "虚偽の声明や書類が含まれると指摘"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。予測市場を運営するKalshiは、動画配信サービスのNetflixに対し、ドキュメンタリー作品『Prediction Games』の予告編の公開を停止するよう強く求めました。",
+   "Kalshi側の主張によると、問題となっている予告編には「名誉毀損」にあたる内容が含まれているとのことです。さらに、動画内には偽造された書類や、事実とは異なる誤解を招くような表現が使われていると指摘しています。",
+   "今回の削除要求に対し、Netflix側が今後どのように対応するのか、業界関係者の間でも注目が集まっています。今後の動向次第では、配信内容の修正やさらなる法的措置に発展する可能性もあります。"
+  ],
+  "tags": [
+   "Kalshi",
+   "Netflix",
+   "予測市場"
+  ],
+  "slug": "kalshi-demands-netflix-take-down-trailer",
+  "people": [],
+  "terms": [
+   {
+    "name": "Kalshi",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする、様々な出来事の結果を予測して取引する予測市場プラットフォームを運営する企業。"
+   },
+   {
+    "name": "Netflix",
+    "type": "company",
+    "desc": "世界中で広く利用されている、映画やテレビ番組などをストリーミング配信するアメリカの大手動画配信企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+  "category": "silicon",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-kalshi-demands-netflix-take-down-trailer.html"
+ },
+ {
+  "title": "CNBC Tech：テック界と議会が「蒸留」に熱狂する理由",
+  "lead": "シリコンバレーからワシントンD.C.にかけて、AI技術における「蒸留（Distillation）」というコンセプトに多くの関心が集まっています。規制を巡る議論が活発化する中、なぜ今この技術が熱い議論の的となっているのでしょうか。",
+  "summary3": [
+   "AIの蒸留技術がテック界で急浮上",
+   "シリコンバレーと議会で規制論争に",
+   "専門家の話題からホットな政治課題へ"
+  ],
+  "body": [
+   "AI技術の専門家の間では長年にわたり議論の対象となってきた「蒸留（Distillation）」ですが、ここに来てテック業界や法律家たちの間で大きな注目を集めるホットな話題となっています。",
+   "背景には、AIの開発や活用が進む中で、この技術をどのように規制すべきかという議論が活発化していることがあります。技術者と議員の間で、その扱いを巡る見解が交わされています。",
+   "シリコンバレーからワシントンD.C.にいたるまで、AIの蒸留に関する議論は今後も続けられる見通しであり、AI分野の新たな重要課題として位置づけられています。"
+  ],
+  "tags": [
+   "AI",
+   "テクノロジー",
+   "規制"
+  ],
+  "slug": "tech-world-obsessed-with-ai-distillation",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+  "category": "silicon",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-tech-world-obsessed-with-ai-distillation.html"
+ },
+ {
+  "title": "トランプ米大統領、迎撃ミサイル枯渇でイラン攻撃を保留か",
+  "lead": "アメリカとイランの間でおよそ2週間にわたって攻撃の応酬が続いた中、トランプ大統領の動向についてアメリカメディアの報道が注目を集めています。",
+  "summary3": [
+   "米イラン間で攻撃の応酬が約2週間続く",
+   "25日から26日朝は直接攻撃なし",
+   "米メディアが迎撃ミサイル懸念報道"
+  ],
+  "body": [
+   "アメリカとイランの間では、およそ2週間にわたって攻撃の応酬が続けられてきました。しかし、25日から26日朝にかけては、いずれの側からも直接の攻撃は伝えられていません。",
+   "こうした中、アメリカのメディアは、トランプ大統領が中東に展開するアメリカ軍の迎撃ミサイルの枯渇を懸念し、イランに対する攻撃の強化を保留しているのではないかと報じています。",
+   "緊迫した情勢が続く中、アメリカ軍の装備品の状況や今後の判断がどのように影響するのか、引き続き現地の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "アメリカ",
+   "イラン",
+   "国際ニュース"
+  ],
+  "slug": "us-iran-missile-concerns",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。国内外の政治や外交において強い影響力を持つ。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015186111000",
+  "category": "world",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-us-iran-missile-concerns.html"
+ },
+ {
+  "title": "高盛、東証指数目標を4500に引き上げ：円安がもたらす日本企業の収益押し上げ効果とは",
+  "lead": "金融機関の高盛が、東証指数の目標を4500に引き上げました。円安による日本企業の収益押し上げを予想したものです。",
+  "summary3": [
+   "高盛が東証指数目標を4500に設定",
+   "円安が日本企業の収益を押し上げると予想",
+   "BigGo ファイナンスが伝えた情報"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の市場動向です。金融機関の高盛は、東証指数の目標を4500に引き上げました。この背景には、近年の為替動向である円安が、日本企業の業績や収益を大きく押し上げるという予測が存在しています。",
+   "円安進行の局面では、海外市場で稼ぐ自動車や電機などの輸出関連企業を中心に、円換算での売上高や利益が膨らむ傾向が知られています。今回の目標引き上げは、こうした日本企業の収益環境の改善を見込んだ判断に基づくものです。",
+   "株式市場における指数目標の設定やその背景にある経済要因については、今後の企業業績の推移とともに専門家の間でも注目されています。市場参加者は、為替相場の変動や企業が発表する実際の決算内容などを慎重に確認していくことになります。"
+  ],
+  "tags": [
+   "東証指数",
+   "高盛",
+   "円安"
+  ],
+  "slug": "goldman-tosei-target-4500",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsX3U5WkEydGFVemVvc1JhdzlMaW9wWXM1YW51UTNFS1FnMHI3RHJZV2JucmphUEJJdTlCeFFzSUEyS0hxbTFUUjQ0X1FUNkJUUHphWVJUR1B4dExEUmp2bk5QRWRuOERGd1JpWFl2Ml9zMGdN?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-goldman-tosei-target-4500.html"
+ },
+ {
+  "title": "新NISAで240万円一括vs月20万円分割、日経平均連動銘柄の投資手法をFPが解説",
+  "lead": "新NISA制度における積立投資の方法として、年始の一括240万円と月20万円の12回分割のどちらを選ぶべきか、日経平均連動銘柄を例にファイナンシャルプランナーが解説しています。",
+  "summary3": [
+   "新NISAの積立投資手法をFPが解説",
+   "年始一括240万円と月20万円分割を比較",
+   "日経平均連動銘柄での投資方法を取り上げ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の市場ニュースです。新NISAにおける積み立て投資において、年始に一括で240万円を投資する方法と、月20万円ずつ12回に分けて投資する方法のどちらを選択すべきかという議論について、ファイナンシャルプランナー（FP）の解説が報じられました。",
+   "対象となっているのは日経平均連動銘柄であり、それぞれの投資手法の特徴や違いについて専門家の視点から詳しく解説が行われています。一括投資と分割投資の特性を理解することは、資産形成を進める上で重要な判断材料となります。",
+   "新NISAの非課税枠をどのように活用するかは投資家ごとの判断となりますが、本記事では具体的な投資手法の比較を通じて、それぞれのメリットや仕組みについての情報が提供されています。"
+  ],
+  "tags": [
+   "新NISA",
+   "日経平均",
+   "投資信託"
+  ],
+  "slug": "new-nisa-investment-strategy-fp-analysis",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHY3V3FSWWZuOE5WeTEzWjFmd0xsUHRSSVhETkpvQ1ZNRjBTOXB2TURXV0FXbjVad1JRTU9TbkRWc0hZVUE2R3lmcHZvb2F1RDdLc3RCUjZhM0QxNmxfcVJPbDM5X2l1NkZYM0Rlcm9TWkx2VWkybWZnR2pRLUU?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-new-nisa-investment-strategy-fp-analysis.html"
+ },
+ {
+  "title": "上場企業の統治指針5年ぶり改定、目指す成長の行方",
+  "lead": "上場企業の企業統治指針が5年ぶりに改定され、「中長期の企業価値向上」に重点が置かれることになりました。成長に向けた「攻めのガバナンス」が強く後押しされます。",
+  "summary3": [
+   "上場企業の統治指針が5年ぶり改定",
+   "中長期の企業価値向上に重点",
+   "成長へ攻めのガバナンスを後押し"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。上場企業のコーポレートガバナンス（企業統治）に関する指針が、5年ぶりに改定されることが明らかになりました。",
+   "今回の改定では、「中長期の企業価値向上」に重点が置かれています。企業が持続的な成長を実現するため、「攻めのガバナンス」が強く後押しされる内容となっています。",
+   "株式市場や投資家にとっても重要な指針となる今回の改定。今後の上場企業における経営戦略や企業価値のあり方にどのような影響を与えるのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "上場企業",
+   "ガバナンス",
+   "企業価値"
+  ],
+  "slug": "governance-guideline-revision",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NEl2U2poLWhYRlpqZG5nakltd3hqUzJJcVdJMnZaN1BHME5aWE13U19GdWN0dmZwX19FSDRTUlBwUURGWXQ5S0Y5Vzhoal9zNmtNbFNYUmRYMTRncE1odllKbWtBQjYxQkdfLU9LY1lBWUx3R1FrQ29wS2ZNRDQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-governance-guideline-revision.html"
+ },
+ {
+  "title": "四季報オンライン、7月27～31日の決算発表予定企業リストを公開",
+  "lead": "四季報オンラインは、7月27日から31日にかけて決算発表を予定している企業リストを公開しました。",
+  "summary3": [
+   "7月27～31日の決算リスト",
+   "四季報オンラインが公開",
+   "企業の発表スケジュール"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式・企業ニュースです。四季報オンラインは、2023年7月27日から31日にかけて決算発表を予定している企業のリストを公開いたしました。",
+   "決算発表は、企業の業績や財務状況を把握するための重要な情報開示の場となります。投資家や市場関係者をはじめ、多くのビジネスパーソンにとって注目が集まるスケジュールです。",
+   "具体的な企業名や詳細な発表スケジュールについては、四季報オンラインの元記事および関連ページをご確認ください。引き続き最新の企業情報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "決算発表",
+   "四季報オンライン",
+   "企業情報"
+  ],
+  "slug": "earnings-announcement-list-july",
+  "people": [],
+  "terms": [
+   {
+    "name": "四季報オンライン",
+    "type": "company",
+    "desc": "東洋経済新報社が運営する、日本の株式投資・企業情報を取り扱う有料会員制の経済メディア。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xV1FaeXJqbVVVeE4wVE9OdFZRRloxWXBiX3plQjhSWDVjcnZZOUFmbVJwdDF1enlBZF9wYWRseHI1MmFrTWZyeVBBT3A4THNUY3ByN2tKbw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-26",
+  "time": "21:04",
+  "path": "/articles/20260726-earnings-announcement-list-july.html"
  }
 ]

@@ -153,7 +153,7 @@
    "id": "vOfyxPRunFM",
    "title": "Animal",
    "channel": "KATSEYE - Topic",
-   "views": 3682386,
+   "views": 3696727,
    "url": "https://www.youtube.com/watch?v=vOfyxPRunFM",
    "thumb": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
    "regions": [
@@ -168,7 +168,7 @@
    "id": "g79GPZSQHBk",
    "title": "Neuromancer — Official Teaser | Apple TV",
    "channel": "Apple TV",
-   "views": 621766,
+   "views": 633387,
    "url": "https://www.youtube.com/watch?v=g79GPZSQHBk",
    "thumb": "https://i.ytimg.com/vi/g79GPZSQHBk/hqdefault.jpg",
    "regions": [
@@ -183,7 +183,7 @@
    "id": "7UIBOsuUwc4",
    "title": "Lanterns | Official Trailer | HBO Max",
    "channel": "HBO Max",
-   "views": 4305459,
+   "views": 4324939,
    "url": "https://www.youtube.com/watch?v=7UIBOsuUwc4",
    "thumb": "https://i.ytimg.com/vi/7UIBOsuUwc4/hqdefault.jpg",
    "regions": [
@@ -197,7 +197,7 @@
    "id": "rfza9kCybEs",
    "title": "The Wedding Song Lyric Video (Tamil) | Vishwanath and Sons | Suriya |MamithaBaiju|GV Prakash | Venky",
    "channel": "Aditya Music Tamil",
-   "views": 2355863,
+   "views": 2380352,
    "url": "https://www.youtube.com/watch?v=rfza9kCybEs",
    "thumb": "https://i.ytimg.com/vi/rfza9kCybEs/hqdefault.jpg",
    "regions": [
@@ -211,7 +211,7 @@
    "id": "PCbp1FfipPg",
    "title": "REACHER Season 4 - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 1453213,
+   "views": 1481375,
    "url": "https://www.youtube.com/watch?v=PCbp1FfipPg",
    "thumb": "https://i.ytimg.com/vi/PCbp1FfipPg/hqdefault.jpg",
    "regions": [
@@ -225,7 +225,7 @@
    "id": "I3BcCNby_LU",
    "title": "The Worst Meccha Chameleon Spots Ever...",
    "channel": "SMii7Yplus",
-   "views": 1438963,
+   "views": 1454714,
    "url": "https://www.youtube.com/watch?v=I3BcCNby_LU",
    "thumb": "https://i.ytimg.com/vi/I3BcCNby_LU/hqdefault.jpg",
    "regions": [
@@ -239,7 +239,7 @@
    "id": "pKeSTE8kXMk",
    "title": "i won $10,000 by outsmarting pro players",
    "channel": "JudeLow",
-   "views": 1232188,
+   "views": 1247429,
    "url": "https://www.youtube.com/watch?v=pKeSTE8kXMk",
    "thumb": "https://i.ytimg.com/vi/pKeSTE8kXMk/hqdefault.jpg",
    "regions": [
@@ -253,7 +253,7 @@
    "id": "S_qfkREdcy4",
    "title": "roblox best gameplay",
    "channel": "StanRP",
-   "views": 341636,
+   "views": 341659,
    "url": "https://www.youtube.com/watch?v=S_qfkREdcy4",
    "thumb": "https://i.ytimg.com/vi/S_qfkREdcy4/hqdefault.jpg",
    "regions": [
@@ -264,10 +264,24 @@
   },
   {
    "rank": 9,
+   "id": "rZdIfi7LShk",
+   "title": "Why Did I Take A Babysitting Job…",
+   "channel": "CaseOh",
+   "views": 306663,
+   "url": "https://www.youtube.com/watch?v=rZdIfi7LShk",
+   "thumb": "https://i.ytimg.com/vi/rZdIfi7LShk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ベビーシッターの仕事を受けた理由を語る動画のようです。(24文字)"
+  },
+  {
+   "rank": 10,
    "id": "erKHpH0EICo",
    "title": "AVENGERS DOOMSDAY TRAILER: Marvel Comic Con Panel, Black Panther 3 & Ghost Rider!",
    "channel": "Emergency Awesome",
-   "views": 160739,
+   "views": 165647,
    "url": "https://www.youtube.com/watch?v=erKHpH0EICo",
    "thumb": "https://i.ytimg.com/vi/erKHpH0EICo/hqdefault.jpg",
    "regions": [
@@ -275,20 +289,6 @@
     "GB"
    ],
    "comment": "マーベルのコミコンパネルや新作映画の話題を解説している動画みたいです。(32文字)"
-  },
-  {
-   "rank": 10,
-   "id": "07OxIAvsXQ4",
-   "title": "Marvel SDCC Announcements (Ghost Rider + Black Panther 3)",
-   "channel": "3C Films",
-   "views": 52501,
-   "url": "https://www.youtube.com/watch?v=07OxIAvsXQ4",
-   "thumb": "https://i.ytimg.com/vi/07OxIAvsXQ4/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "サンディエゴ・コミコンでのマーベル作品の新情報について話しているようです。(33文字)"
   }
  ]
 }

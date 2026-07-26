@@ -1,15 +1,21 @@
 {
- "updated": "2026-07-26 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-07-26 20:45",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "Xフォロワー24万人のインフルエンサー逮捕、17歳少女唆し裏動画販売",
+   "path": "/articles/20260726-influencer-arrested-on-x.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
-  "title": "JENNIE - Less than a Lover (Official Video)",
-  "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
+  "title": "Animal",
+  "url": "https://www.youtube.com/watch?v=vOfyxPRunFM"
  },
  "notes": [],
- "pv_today": 22,
+ "pv_today": 30,
  "gemini": {
-  "used": 101,
+  "used": 104,
   "limit": 200
  }
 }
