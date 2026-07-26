@@ -1,21 +1,23 @@
 {
- "updated": "2026-07-27 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-27 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判",
-   "path": "/articles/20260727-ohtani-shohei-criticism-by-politician.html",
-   "cat": "インフルエンサー"
+   "title": "名所フラットアイアンビル、5850万ドルの改修を経て迎える次の段階",
+   "path": "/articles/20260727-flatiron-building-renovation.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
- "notes": [],
- "pv_today": 2,
+ "notes": [
+  "執筆失敗: Israeli settlers set fire to mosques, ca"
+ ],
+ "pv_today": 3,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }
