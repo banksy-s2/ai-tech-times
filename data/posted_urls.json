@@ -354,7 +354,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015186771000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcXNCT0xqTTI1TUJGSGdwNjVSVkJHWWlLX0tfRTBxbzkxanpTX1lFTThyWFFYOTBoaHlvYk9waGhDMm9lNS12dlZkemRYQzNlR1p1ZHBET0g0UFU0WWZKdGVxQTBXUThza0FHZw?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tcnloNHlJdG9xU29aeVAyMWtxaGFKbjlkRWdiLUtqMVBOdkFGci05OGxscFdTZjRJeFJIVjl1QUNuZ3otMEVaV3ZmVmRESURPcWFaVnpLX1M3X2RIZDRJ?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX09Rd3RUemJPUnlleGNZOVE3TVRKSHJQcnNaYndTMDdfTkdNQ2pHZnBGVS1CU2NPdzFib2p6dF9uTjRkZDlJOE40N1RzcUpOVVNUeVgzU1VPblFwSXBxSG4zbUQ5WkxCblFOZWlNOTRnWWVrSktRd0JlUUhsNHozY1VfUkd0UW8?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX09Rd3RUemJPUnlleGNZOVE3TVRKSHJQcnNaYndTMDdfTkdNQ2pHZnBGVS1CU2NPdzFib2p6dF9uTjRkZDlJOE40N1RzcUpOVVNUeVgzU1VPblFwSXBxSG4zbUQ5WkxCblFOZWlNOTRnWWVrSktRd0JlUUhsNHozY1VfUkd0UW8?oc=5",
+  "https://blog.cloudflare.com/content-independence-day-ai-options/",
+  "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1048,6 +1050,10 @@
   "日銀、今週の会合で政策金利据え置きか",
   "日経平均は下値探る展開か、日米決算本格化へ",
   "国際自動車が大和自動車交通の筆頭株主に、買収と資本業務提携へ",
-  "キヤノンやコーテクHDなど15社が本日決算発表"
+  "キヤノンやコーテクHDなど15社が本日決算発表",
+  "Cloudflare's new AI traffic options for customers",
+  "The new rules of context engineering for Claude 5 generation models",
+  "Cloudflare、AIトラフィックの新オプション発表",
+  "Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開"
  ]
 }

@@ -11874,5 +11874,73 @@
   "date": "2026-07-27",
   "time": "07:02",
   "path": "/articles/20260727-earnings-announcements-canon-koutec-hd.html"
+ },
+ {
+  "title": "Cloudflare、AIトラフィックの新オプション発表",
+  "lead": "Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。",
+  "summary3": [
+   "Cloudflareが新オプションを発表",
+   "AIトラフィックの管理機能を提供",
+   "コンテンツの独立性を重視した内容"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、Cloudflareによる顧客向けの新しいAIトラフィックオプションに関する情報が入ってまいりました。公式ブログにて詳細が公開されております。",
+   "今回の発表では、AIに関するトラフィックのオプションが新たに導入されており、コンテンツの独立性をテーマにした内容となっています。詳細な仕様や利用方法については、公式の案内ページをご確認ください。",
+   "インターネットの安全性やパフォーマンス向上を支える同社の新機能は、今後のAI活用において重要な選択肢となりそうです。さらなる詳細や今後の展開に注目が集まります。"
+  ],
+  "tags": [
+   "Cloudflare",
+   "AI",
+   "トラフィック"
+  ],
+  "slug": "cloudflare-new-ai-traffic-options",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cloudflare",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、ウェブセキュリティやコンテンツ配信ネットワークを提供する企業。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+  "category": "ai",
+  "date": "2026-07-27",
+  "time": "08:00",
+  "path": "/articles/20260727-cloudflare-new-ai-traffic-options.html"
+ },
+ {
+  "title": "Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開",
+  "lead": "Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。",
+  "summary3": [
+   "Claude 5世代モデルの新ルール公開",
+   "公式ブログで詳細な解説を展開",
+   "Hacker Newsでも多くの議論に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、Claudeの公式ブログに掲載された「The new rules of context engineering for Claude 5 generation models」に関する情報が入ってまいりました。",
+   "この記事では、Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールについて解説されています。AIモデルの性能を最大限に引き出すためのアプローチとして、多くの開発者や技術者の関心を集めている状況です。",
+   "ソーシャルニュースサイトのHacker Newsでは、本記事に対して437ポイントが寄せられ、348件のコメントが投稿されるなど、活発な議論が交わされています。今後のAI開発において重要な指針となる可能性があり、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "Claude",
+   "AI/LLM",
+   "Context Engineering"
+  ],
+  "slug": "new-rules-of-context-engineering-claude-5",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した対話型の高性能AIモデルおよびアシスタント製品。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+  "category": "ai",
+  "date": "2026-07-27",
+  "time": "08:00",
+  "path": "/articles/20260727-new-rules-of-context-engineering-claude-5.html"
  }
 ]

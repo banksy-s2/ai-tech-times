@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Cloudflare、AIトラフィックの新オプション発表</title>
+<link>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</guid>
+<pubDate>Mon, 27 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。</description>
+</item>
+<item>
+<title>Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開</title>
+<link>https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html</guid>
+<pubDate>Mon, 27 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。</description>
+</item>
+<item>
 <title>Claude CodeでOpus5の思考が浅くなる問題とその対策</title>
 <link>https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 26 Jul 2026 21:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>知床沖観光船沈没事故で、海水に浸かったデジカメからデータを完全復元した技術に大きな注目が集まっています。</description>
-</item>
-<item>
-<title>AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを防ぐ方法</title>
-<link>https://ai-tech-times.web.app/articles/20260726-ai-agent-failure-cases.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-ai-agent-failure-cases.html</guid>
-<pubDate>Sun, 26 Jul 2026 21:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIエージェントの導入を進める中で失敗事例が多いという情報を見かけ、自社は大丈夫かと不安になっていませんか。本記事ではセキュリティ事故と運用トラブルに関する事例を解説します。</description>
-</item>
-<item>
-<title>Kalshi、ネットフリックスにドキュメンタリー予告編の削除を要求</title>
-<link>https://ai-tech-times.web.app/articles/20260726-kalshi-demands-netflix-take-down-trailer.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-kalshi-demands-netflix-take-down-trailer.html</guid>
-<pubDate>Sun, 26 Jul 2026 21:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>予測市場を手がけるKalshiが、ネットフリックスの新しいドキュメンタリー番組の予告編について、名誉毀損にあたるとして削除を要求しました。</description>
 </item>
 </channel></rss>

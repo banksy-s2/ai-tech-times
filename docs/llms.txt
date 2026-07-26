@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Cloudflare、AIトラフィックの新オプション発表](https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html) — 2026-07-27 08:00: Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。
+- [Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開](https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html) — 2026-07-27 08:00: Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。
 - [Claude CodeでOpus5の思考が浅くなる問題とその対策](https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html) — 2026-07-27 07:02: Claude CodeをOpus 5に切り替えたところ、応答の散文傾向が強まり思考が浅くなる変化が見られました。
 - [GitHubが対応、MCPの7月28日版仕様で何が変わるのか](https://ai-tech-times.web.app/articles/20260727-mcp-github-update.html) — 2026-07-27 07:02: AIツールを接続する通信プロトコル「MCP」の7月28日版仕様が公開間近となっています。早くもGitHubのMCPサーバが対応を発表しました。
 - [Appleの初スマートグラス、開発の遅れはプライバシー重視が原因か](https://ai-tech-times.web.app/articles/20260727-apple-smart-glasses-privacy.html) — 2026-07-27 07:02: Appleが初となるスマートグラスの発表・発売に向けて準備を進めていることが明らかになりました。プライバシー機能の調整が遅れの要因になっていると報じられています。
@@ -40,8 +42,6 @@
 - [大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判](https://ai-tech-times.web.app/articles/20260727-ohtani-shohei-criticism-by-politician.html) — 2026-07-27 03:00: 大谷翔平選手を巡り、日本共産党の中野区議会議員らがSNS上で批判的な投稿を行い、議論を呼んでいます。
 - [Hugging Face CEO、OpenAIハッカーステートメント](https://ai-tech-times.web.app/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html) — 2026-07-27 02:00: オープンAIで発生した前例のないハッキングを受け、Hugging FaceのCEOが徹底的な透明性の確保を強く求めています。この未曽有の事態への対応に注目が集まっています。
 - [メタやTikTokはなぜ欧州の研究者に法的データを出さないのか](https://ai-tech-times.web.app/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html) — 2026-07-27 02:00: 欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。
-- [AIコーディングで人間の理解を手放すとどうなるか](https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html) — 2026-07-27 01:00: AIコーディングエージェントの高速な成果物に対し、人間の理解を追いつかせずに進めるアプローチについて、ブログ記事で考察されています。
-- [郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由](https://ai-tech-times.web.app/articles/20260727-miichan-and-yamada-san-controversy.html) — 2026-07-27 01:00: 『みいちゃんと山田さん』のアニメ化をめぐり、反対運動を行う郡司真子氏の主張と批判のあり方について考察されています。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
@@ -57,17 +57,18 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
+- [Cloudflareとは](https://ai-tech-times.web.app/term/cloudflare.html): アメリカに拠点を置き、ウェブセキュリティやコンテンツ配信ネットワークを提供する企業。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインインターフェースで動作するコーディング支援AIツール。
 - [GitHubとは](https://ai-tech-times.web.app/term/github.html): アメリカの企業で、ソフトウェア開発のソースコードを共有・管理する世界最大のプラットフォームを運営する。
 - [マーク・ガーマンとは](https://ai-tech-times.web.app/term/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%9E%E3%83%B3.html): Bloombergに所属し、Apple製品に関する正確な内部情報やリーク情報で世界的に知られる著名なジャーナリスト。
@@ -78,7 +79,6 @@
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。
 - [インテルとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB.html): アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
-- [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
