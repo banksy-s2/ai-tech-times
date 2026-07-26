@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Claude CodeでOpus5の思考が浅くなる問題とその対策](https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html) — 2026-07-27 07:02: Claude CodeをOpus 5に切り替えたところ、応答の散文傾向が強まり思考が浅くなる変化が見られました。
+- [GitHubが対応、MCPの7月28日版仕様で何が変わるのか](https://ai-tech-times.web.app/articles/20260727-mcp-github-update.html) — 2026-07-27 07:02: AIツールを接続する通信プロトコル「MCP」の7月28日版仕様が公開間近となっています。早くもGitHubのMCPサーバが対応を発表しました。
+- [Appleの初スマートグラス、開発の遅れはプライバシー重視が原因か](https://ai-tech-times.web.app/articles/20260727-apple-smart-glasses-privacy.html) — 2026-07-27 07:02: Appleが初となるスマートグラスの発表・発売に向けて準備を進めていることが明らかになりました。プライバシー機能の調整が遅れの要因になっていると報じられています。
+- [株価低迷の裏で何が？投資家を悩ませた4つの要因](https://ai-tech-times.web.app/articles/20260727-4-forces-drove-tough-week-for-stocks.html) — 2026-07-27 07:02: 中東情勢の緊迫化から主要なハイテク企業の決算発表、医療分野の動向まで、投資家たちは今週、数々の複雑な要因への対応を迫られました。市場に大きな重荷となった4つのforcesを紐解きます。
+- [ヒカルが東大卒YouTuber逮捕に言及、その理由とは](https://ai-tech-times.web.app/articles/20260727-hikaru-youtuber-arrest-comment.html) — 2026-07-27 07:02: 人気YouTuberのヒカルが、レスバした東大卒YouTuberの逮捕について言及し、「いい大学を出ても道徳を学ばないと」と持論を述べました。
+- [高市首相が判断する見方強まる、食料品消費税減税の行方は](https://ai-tech-times.web.app/articles/20260727-food-consumption-tax-cut-takaichi.html) — 2026-07-27 07:02: 食料品の消費税減税をめぐり、超党派の実務者会議が今週の中間とりまとめに向けた議論を行うことになりました。政府・与党内で各党の隔たりが埋まらない中、今後の判断をめぐる見方が強まっています。
+- [日銀、今週の会合で政策金利据え置きか](https://ai-tech-times.web.app/articles/20260727-boj-policy-rate-meeting-2024.html) — 2026-07-27 07:02: 日銀は今週、金融政策決定会合を開きます。先月決定した利上げの影響を見極めるため、政策金利を据え置く方向で検討するとみられています。
+- [日経平均は下値探る展開か、日米決算本格化へ](https://ai-tech-times.web.app/articles/20260727-nikkei-average-earnings-season.html) — 2026-07-27 07:02: 日本経済新聞の報道によると、日経平均株価は下値を模索する展開が予想され、今週は日米の決算発表が本格化する見通しです。
+- [国際自動車が大和自動車交通の筆頭株主に、買収と資本業務提携へ](https://ai-tech-times.web.app/articles/20260727-kokusai-koku-acquires-daiwa-motor-transport.html) — 2026-07-27 07:02: 国際自動車が大和自動車交通を買収し、資本・業務提携を行うことが明らかになりました。これにより事業基盤の強化が進められます。
+- [キヤノンやコーテクHDなど15社が本日決算発表](https://ai-tech-times.web.app/articles/20260727-earnings-announcements-canon-koutec-hd.html) — 2026-07-27 07:02: AI TECH TIMESの編集部がお伝えする本日の企業動向です。本日はキヤノン、コーテクHD、マクニカHDなど15社が決算発表を予定しています。
 - [PayPay、上場後初の決算国内好調も海外戦略が問われる理由](https://ai-tech-times.web.app/articles/20260727-paypay-first-earnings-report.html) — 2026-07-27 06:00: PayPayが上場後初の決算を発表しました。国内での事業は好調を維持していますが、今後の海外における成長戦略がどのように展開されるのかが注目されています。
 - [BluePortとTDAが業務提携、AX・DX支援へ](https://ai-tech-times.web.app/articles/20260727-blueport-tda-business-partnership.html) — 2026-07-27 06:00: BluePortとTDAが業務提携を発表し、日本企業のAXおよびDX支援に向けて取り組みを開始しました。
 - [伊藤園、抹茶ブームでも値上げ進まず株価渋く](https://ai-tech-times.web.app/articles/20260727-itoen-matcha-boom-stock.html) — 2026-07-27 05:00: 世界的な抹茶ブームに沸く中、伊藤園を悩ます茶葉高騰と値上げの現状について日本経済新聞が報じました。
@@ -32,23 +42,13 @@
 - [メタやTikTokはなぜ欧州の研究者に法的データを出さないのか](https://ai-tech-times.web.app/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html) — 2026-07-27 02:00: 欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。
 - [AIコーディングで人間の理解を手放すとどうなるか](https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html) — 2026-07-27 01:00: AIコーディングエージェントの高速な成果物に対し、人間の理解を追いつかせずに進めるアプローチについて、ブログ記事で考察されています。
 - [郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由](https://ai-tech-times.web.app/articles/20260727-miichan-and-yamada-san-controversy.html) — 2026-07-27 01:00: 『みいちゃんと山田さん』のアニメ化をめぐり、反対運動を行う郡司真子氏の主張と批判のあり方について考察されています。
-- [スタンフォード大学政策研究所が明かすAIと雇用の真実](https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html) — 2026-07-27 00:01: AIの普及が雇用にどのような影響を与えているのか。スタンフォード大学政策研究所の公開した資料から、過度な誇大広告と現実のギャップが明らかになりました。
-- [8ドルのマイコンで2890万パラメータのLLMを動かす方法](https://ai-tech-times.web.app/articles/20260727-running-28m-llm-on-microcontroller.html) — 2026-07-27 00:01: 8ドルのマイクロコントローラ上で2890万パラメータを持つ大規模言語モデルを稼働させるプロジェクトが公開され、注目を集めています。
-- [ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み](https://ai-tech-times.web.app/articles/20260726-ai-revolution-stock-price-drop.html) — 2026-07-26 23:00: AI革命の進展と株価の動きに関する記事が公開されました。技術の発展と市場の反応について伝えています。
-- [パナソニック、構造改革で来期営業益2.3倍へ](https://ai-tech-times.web.app/articles/20260726-panasonic-structural-reform-operating-profit.html) — 2026-07-26 23:00: パナソニックに関する最新の構造改革と来期業績の見通しについてお伝えします。
-- [ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘](https://ai-tech-times.web.app/articles/20260726-zelensky-north-korea-troops.html) — 2026-07-26 22:00: ウクライナのゼレンスキー大統領が、ロシアによる新たな北朝鮮兵士の受け入れ準備について言及しました。
-- [ベルリンで車突入、1人死亡16人負傷。容疑者とイスラム主義のつながりは](https://ai-tech-times.web.app/articles/20260726-berlin-car-crash-investigation.html) — 2026-07-26 22:00: ドイツの首都ベルリンで25日、性的マイノリティーの権利向上イベントの人混みに車が突っ込み、死傷者が出ました。警察は容疑者の背景を調べています。
-- [Monday.comなどがAI理由に人員削減、進む背景](https://ai-tech-times.web.app/articles/20260726-monday-com-ai-layoffs-techcrunch.html) — 2026-07-26 21:04: TechCrunch AIによると、Monday.comなどのテック企業がAIの導入を理由に大規模な人員削減を発表しました。今年に入りAIを要因に挙げた主要企業の動向が伝えられています。
-- [知床沖観光船沈没事故、2年後に発見されたカメラのデータはなぜ完全復元できたのか](https://ai-tech-times.web.app/articles/20260726-shiretoko-camera-recovery.html) — 2026-07-26 21:04: 知床沖観光船沈没事故で、海水に浸かったデジカメからデータを完全復元した技術に大きな注目が集まっています。
-- [AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを防ぐ方法](https://ai-tech-times.web.app/articles/20260726-ai-agent-failure-cases.html) — 2026-07-26 21:04: AIエージェントの導入を進める中で失敗事例が多いという情報を見かけ、自社は大丈夫かと不安になっていませんか。本記事ではセキュリティ事故と運用トラブルに関する事例を解説します。
-- [Kalshi、ネットフリックスにドキュメンタリー予告編の削除を要求](https://ai-tech-times.web.app/articles/20260726-kalshi-demands-netflix-take-down-trailer.html) — 2026-07-26 21:04: 予測市場を手がけるKalshiが、ネットフリックスの新しいドキュメンタリー番組の予告編について、名誉毀損にあたるとして削除を要求しました。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
 - 2位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 - 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 
-## AI用語事典 (全289語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全298語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -68,6 +68,9 @@
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
+- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインインターフェースで動作するコーディング支援AIツール。
+- [GitHubとは](https://ai-tech-times.web.app/term/github.html): アメリカの企業で、ソフトウェア開発のソースコードを共有・管理する世界最大のプラットフォームを運営する。
+- [マーク・ガーマンとは](https://ai-tech-times.web.app/term/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%9E%E3%83%B3.html): Bloombergに所属し、Apple製品に関する正確な内部情報やリーク情報で世界的に知られる著名なジャーナリスト。
 - [PayPayとは](https://ai-tech-times.web.app/term/paypay.html): ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。
 - [ダイヤモンド・オンラインとは](https://ai-tech-times.web.app/term/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 株式会社ダイヤモンド社が運営する、ビジネスパーソン向けの総合経済オンラインメディアです。
 - [Netflixとは](https://ai-tech-times.web.app/term/netflix.html): 世界中で広く利用されている、映画やテレビ番組などをストリーミング配信するアメリカの大手動画配信企業。
@@ -76,9 +79,6 @@
 - [インテルとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB.html): アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
-- [ディスコとは](https://ai-tech-times.web.app/term/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3.html): 半導体製造装置などを手掛ける日本の大手精密加工装置メーカーです。
-- [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
-- [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

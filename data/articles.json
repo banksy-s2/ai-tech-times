@@ -11517,5 +11517,362 @@
   "date": "2026-07-27",
   "time": "06:00",
   "path": "/articles/20260727-blueport-tda-business-partnership.html"
+ },
+ {
+  "title": "Claude CodeでOpus5の思考が浅くなる問題とその対策",
+  "lead": "Claude CodeをOpus 5に切り替えたところ、応答の散文傾向が強まり思考が浅くなる変化が見られました。",
+  "summary3": [
+   "Opus5への切り替えで散文傾向が増加",
+   "ルールは変えていないのに思考が浅化",
+   "モデルやルールではなく原因を調査"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、はてなブックマークITに掲載されたClaude Codeに関する話題をお伝えします。開発現場で広く利用されているClaude CodeをOpus 5に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなるという変化が出ました。",
+   "特筆すべきは、長年育ててきたrulesであるCLAUDE.mdや常時ロードの指示ファイル群は何も変えていない点です。設定を変えていないにもかかわらず、構造化して考えられない状態に陥る現象が確認されています。",
+   "詳しく調べていくと、モデル自体が悪かったりrulesが壊れたりしたわけではなく、Claude 5世代における特有の挙動であることが分かってきました。原因の特定と対策を知ることで、開発効率の低下を防ぐことが重要です。"
+  ],
+  "tags": [
+   "Claude Code",
+   "Opus 5",
+   "AI開発"
+  ],
+  "slug": "claude-code-opus5-rules-fix",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが開発した、コマンドラインから利用できるAIコーディングアシスタント製品。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-claude-code-opus5-rules-fix.html"
+ },
+ {
+  "title": "GitHubが対応、MCPの7月28日版仕様で何が変わるのか",
+  "lead": "AIツールを接続する通信プロトコル「MCP」の7月28日版仕様が公開間近となっています。早くもGitHubのMCPサーバが対応を発表しました。",
+  "summary3": [
+   "MCPの7月28日版仕様が公開間近",
+   "ステートレスな接続が正式仕様に",
+   "GitHub MCPサーバが対応を発表"
+  ],
+  "body": [
+   "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコル「MCP（Model Context Protocol）」の7月28日版仕様の登場が目前となっています。",
+   "MCPの仕様は継続的にアップデートされ続けており、今回の7月28日版MCPからはステートレスな接続が正式仕様になる予定です。",
+   "このアップデートに向けて、GitHubのMCPサーバが早くも対応を発表するなど、開発現場での準備が進められています。"
+  ],
+  "tags": [
+   "MCP",
+   "GitHub",
+   "AI TECH TIMES"
+  ],
+  "slug": "mcp-github-update",
+  "people": [],
+  "terms": [
+   {
+    "name": "GitHub",
+    "type": "company",
+    "desc": "ソフトウェア開発プラットフォームを提供する米国の企業であり、コードの共有や管理機能を提供しています。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-mcp-github-update.html"
+ },
+ {
+  "title": "Appleの初スマートグラス、開発の遅れはプライバシー重視が原因か",
+  "lead": "Appleが初となるスマートグラスの発表・発売に向けて準備を進めていることが明らかになりました。プライバシー機能の調整が遅れの要因になっていると報じられています。",
+  "summary3": [
+   "Appleが初のスマートグラスを計画",
+   "来年6月のWWDCで発表の予想",
+   "発売は2027年末までの見込み"
+  ],
+  "body": [
+   "米メディア「The Verge」の報道によると、Appleは初のスマートグラスを計画しており、マーク・ガーマン氏によれば、来年6月に開催されるWWDC（世界開発者会議）で発表される予定です。市場への投入は2027年末までに行われることが期待されています。",
+   "開発が遅れている背景の一つには、同社がプライバシー機能やメッセージングの仕組みをしっかりと整えることに注力していることがあるようです。一般的なスマートグラス市場では、すでにMetaなどの他社製品が存在感を示しています。",
+   "Appleはプライバシーを重視した独自の機能で他社製スマートグラスとの差別化を図る狙いがあるとみられます。今後、正式な発表に向けてどのようなプライバシー保護機能が打ち出されるのか、大きな注目を集めそうです。"
+  ],
+  "tags": [
+   "Apple",
+   "スマートグラス",
+   "WWDC"
+  ],
+  "slug": "apple-smart-glasses-privacy",
+  "people": [
+   {
+    "name": "マーク・ガーマン氏",
+    "bio": "Apple関連の正確なリーク情報で知られる、ブルームバーグの著名ジャーナリスト。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売する、アメリカを代表する世界的テクノロジー企業。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramを運営し、VRヘッドセットやスマートグラスも手がける企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-apple-smart-glasses-privacy.html"
+ },
+ {
+  "title": "株価低迷の裏で何が？投資家を悩ませた4つの要因",
+  "lead": "中東情勢の緊迫化から主要なハイテク企業の決算発表、医療分野の動向まで、投資家たちは今週、数々の複雑な要因への対応を迫られました。市場に大きな重荷となった4つのforcesを紐解きます。",
+  "summary3": [
+   "中東情勢の緊迫化が市場に影響",
+   "主要ハイテク企業の決算に注目",
+   "医療分野の動向が投資家を悩ます"
+  ],
+  "body": [
+   "AI TECH TIMESがお届けする今週の市場動向です。米CNBC Techの報道によると、今週の株式市場は非常に厳しい展開となり、投資家たちは複数の重大な要因への対応に追われる1週間となりました。",
+   "市場を揺るがした要因の一つ目は、緊迫化する中東情勢です。地政学的リスクの高まりは、世界経済の先行きに対する不透明感を強め、投資家心理を冷え込ませる大きな要因となりました。",
+   "二つ目は、主要なテクノロジー企業による決算発表です。市場の牽引役となってきたIT・テクノロジー分野の業績や今後の見通しに、多くの投資家が固唾を飲んで注目しました。",
+   "三つ目および四つ目として、医療分野における新たな動向なども挙げられています。これらの複雑に絡み合う要素が複合的に作用し、今週の株式市場全体にとって厳しい環境を作り出す結果となりました。"
+  ],
+  "tags": [
+   "株式市場",
+   "決算",
+   "マクロ経済"
+  ],
+  "slug": "4-forces-drove-tough-week-for-stocks",
+  "people": [],
+  "terms": [
+   {
+    "name": "CNBC Tech",
+    "type": "company",
+    "desc": "米国の主要経済メディアであるCNBCが運営する、テクノロジー分野に特化したニュースチャンネル・サイトです。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-4-forces-drove-tough-week-for-stocks.html"
+ },
+ {
+  "title": "ヒカルが東大卒YouTuber逮捕に言及、その理由とは",
+  "lead": "人気YouTuberのヒカルが、レスバした東大卒YouTuberの逮捕について言及し、「いい大学を出ても道徳を学ばないと」と持論を述べました。",
+  "summary3": [
+   "ヒカルが東大卒YouTuber逮捕に言及",
+   "いい大学を出ても道徳を学ばないと指摘",
+   "東スポWEBがその発言内容を報じた"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする本日の注目ニュースです。東スポWEBの報道によると、人気YouTuberのヒカルが、レスバした東大卒YouTuberの逮捕について言及しました。",
+   "ヒカルはその中で、「いい大学を出ても道徳を学ばないと」と述べ、学歴と道徳心の関係性について自身の考えを明かしました。この発言は、ネット上でも大きな注目を集めることとなりました。",
+   "元記事の情報によれば、東スポWEBが報じたこの話題は、多くの人々の関心を集める出来事となっています。今後の詳細な展開についても、引き続きメディアの報道が注目されます。"
+  ],
+  "tags": [
+   "ヒカル",
+   "YouTuber",
+   "東スポWEB"
+  ],
+  "slug": "hikaru-youtuber-arrest-comment",
+  "people": [
+   {
+    "name": "ヒカル",
+    "bio": "日本の人気YouTuberとして数々の動画を配信し、多方面でビジネスやタレント活動も展開する実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "東スポWEB",
+    "type": "company",
+    "desc": "東京スポーツ新聞社が運営する、エンタメや社会問題など幅広いニュースを配信する総合ニュースサイト。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HaktsM0ZvUUtoOGtMRnR0SlRNUExKMHRSSFFqNmZOMDl3Yk5BSzNtTkJPTDVmc0RFYVJ6cUF6ZlE4cFRNTV9ialMtV1c4dzF6bVEtY0htb25PUlFM?oc=5",
+  "category": "influencer",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-hikaru-youtuber-arrest-comment.html"
+ },
+ {
+  "title": "高市首相が判断する見方強まる、食料品消費税減税の行方は",
+  "lead": "食料品の消費税減税をめぐり、超党派の実務者会議が今週の中間とりまとめに向けた議論を行うことになりました。政府・与党内で各党の隔たりが埋まらない中、今後の判断をめぐる見方が強まっています。",
+  "summary3": [
+   "食料品の消費税減税をめぐる実務者会議へ",
+   "今週、中間とりまとめに向け詰めの議論",
+   "各党の隔たりが埋まらず首相判断の見方"
+  ],
+  "body": [
+   "食料品の消費税減税をめぐり、超党派の「国民会議」の実務者会議は、今週に迫った中間とりまとめに向けて詰めの議論を行うことになりました。物価高が続く中で生活に直結するテーマとして、各方面から高い関心が寄せられています。",
+   "しかしながら、政府・与党内においては各党間の隔たりが十分に埋まっていないのが現状です。意見の調整が難航している状況が続いており、実務者会議だけで明確な方向性を打ち出すことができるのかどうか、先行きを不安視する声も上がっています。",
+   "もし実務者会議が具体的な方向性を打ち出せない場合、高市首相が自ら判断を下すことになるとの見方が急速に強まっています。今週の議論の行方と、最終的にどのような決定が下されるのかについて、政治の舞台だけでなく私たちの家計や生活への影響も含めて今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "消費税減税",
+   "食料品",
+   "政治"
+  ],
+  "slug": "food-consumption-tax-cut-takaichi",
+  "people": [
+   {
+    "name": "高市首相",
+    "bio": "日本の内閣総理大臣を務める政治家で、国の最高行政機関の舵取りを行う要職にある人物。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015186841000",
+  "category": "world",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-food-consumption-tax-cut-takaichi.html"
+ },
+ {
+  "title": "日銀、今週の会合で政策金利据え置きか",
+  "lead": "日銀は今週、金融政策決定会合を開きます。先月決定した利上げの影響を見極めるため、政策金利を据え置く方向で検討するとみられています。",
+  "summary3": [
+   "日銀が今週金融政策決定会合を開催",
+   "先月の利上げの影響を見極める方針",
+   "政策金利据え置きの方向で検討"
+  ],
+  "body": [
+   "日銀は今週、金融政策決定会合を開きます。先月に決定された利上げが経済に与える影響を慎重に見極めるため、今回の会合では政策金利を据え置く方向で検討するとみられています。",
+   "歴史的な円安水準が依然として続いている現在の市場環境において、今後の経済や物価の先行き見通し、そして追加的な利上げのペースについてどのような議論が交わされるかが最大の焦点となっています。",
+   "市場関係者の間では、今後の金融政策の舵取りや景気判断に対する日銀の姿勢に高い関心が寄せられており、会合後の発表内容に注目が集まっています。"
+  ],
+  "tags": [
+   "日銀",
+   "金融政策",
+   "経済"
+  ],
+  "slug": "boj-policy-rate-meeting-2024",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015186771000",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-boj-policy-rate-meeting-2024.html"
+ },
+ {
+  "title": "日経平均は下値探る展開か、日米決算本格化へ",
+  "lead": "日本経済新聞の報道によると、日経平均株価は下値を模索する展開が予想され、今週は日米の決算発表が本格化する見通しです。",
+  "summary3": [
+   "日経平均は下値探る展開か",
+   "日米の企業決算が本格化へ",
+   "今週の市場・予定を報道"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする株式市場の動向について、日本経済新聞の報道によれば、日経平均株価は今後の相場において下値を模索する展開が予想されています。",
+   "今週の市場においては、日本国内および米国企業による決算発表が本格化するスケジュールとなっており、各企業の業績内容に投資家の関心が集まる見通しです。",
+   "マーケット参加者は、国内外の主要企業の決算動向を見極めながら、慎重な取引を行うことが求められる状況が続いています。"
+  ],
+  "tags": [
+   "日経平均",
+   "決算発表",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-earnings-season",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcXNCT0xqTTI1TUJGSGdwNjVSVkJHWWlLX0tfRTBxbzkxanpTX1lFTThyWFFYOTBoaHlvYk9waGhDMm9lNS12dlZkemRYQzNlR1p1ZHBET0g0UFU0WWZKdGVxQTBXUThza0FHZw?oc=5",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-nikkei-average-earnings-season.html"
+ },
+ {
+  "title": "国際自動車が大和自動車交通の筆頭株主に、買収と資本業務提携へ",
+  "lead": "国際自動車が大和自動車交通を買収し、資本・業務提携を行うことが明らかになりました。これにより事業基盤の強化が進められます。",
+  "summary3": [
+   "国際自動車が大和自動車交通を買収",
+   "資本・業務提携で事業基盤を強化",
+   "国際自動車が筆頭株主に浮上"
+  ],
+  "body": [
+   "タクシー大手の国際自動車による、同業の大和自動車交通の買収および資本・業務提携に関する情報が発表されました。今回の動きにより両社の結びつきが強まり、事業基盤の強化が図られることになります。",
+   "発表によると、今回の資本・業務提携に伴い、国際自動車が大和自動車交通の筆頭株主になることが示されています。タクシー業界における大手同士の連携として、今後の動向に関心が集まっています。"
+  ],
+  "tags": [
+   "大和自動車交通",
+   "国際自動車",
+   "M&A"
+  ],
+  "slug": "kokusai-koku-acquires-daiwa-motor-transport",
+  "people": [],
+  "terms": [
+   {
+    "name": "国際自動車",
+    "type": "company",
+    "desc": "東京都を拠点とする大手のタクシー・ハイヤー事業者で、業界を牽引する存在として知られています。"
+   },
+   {
+    "name": "大和自動車交通",
+    "type": "company",
+    "desc": "東京都を中心に事業を展開する老舗のタクシー大手企業で、業界内で広く知られています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tcnloNHlJdG9xU29aeVAyMWtxaGFKbjlkRWdiLUtqMVBOdkFGci05OGxscFdTZjRJeFJIVjl1QUNuZ3otMEVaV3ZmVmRESURPcWFaVnpLX1M3X2RIZDRJ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-kokusai-koku-acquires-daiwa-motor-transport.html"
+ },
+ {
+  "title": "キヤノンやコーテクHDなど15社が本日決算発表",
+  "lead": "AI TECH TIMESの編集部がお伝えする本日の企業動向です。本日はキヤノン、コーテクHD、マクニカHDなど15社が決算発表を予定しています。",
+  "summary3": [
+   "本日の決算発表予定企業は15社",
+   "キヤノンやコーテクHDが含まれる",
+   "マクニカHDなども発表を控える"
+  ],
+  "body": [
+   "AI TECH TIMESでは、上場企業の最新の動きに関する情報をまとめてお届けしています。本日は、キヤノン、コーテクHD、マクニカHDなどを含む合計15社が、決算発表を予定していることが明らかになりました。",
+   "今回の発表スケジュールには、カメラや事務機器などで世界的に知られるキヤノンをはじめ、ゲームソフト開発や映像事業などを手がけるコーテクHD、半導体や電子デバイスの専門商社であるマクニカHDなどが名を連ねています。",
+   "企業の業績動向や今後の事業展開を把握する上で、決算発表は重要な情報となります。本日はこれら15社の発表が予定されており、市場関係者からの注目が集まる一日となりそうです。"
+  ],
+  "tags": [
+   "決算発表",
+   "キヤノン",
+   "コーテクHD"
+  ],
+  "slug": "earnings-announcements-canon-koutec-hd",
+  "people": [],
+  "terms": [
+   {
+    "name": "キヤノン",
+    "type": "company",
+    "desc": "カメラや複写機、プリンターなどの事務機器や光学機器を主力とする日本の大手電機メーカーです。"
+   },
+   {
+    "name": "コーテクHD",
+    "type": "company",
+    "desc": "「信長の野望」や「三國志」などの歴史シミュレーションゲームで知られるコーエーテクモホールディングスです。"
+   },
+   {
+    "name": "マクニカHD",
+    "type": "company",
+    "desc": "半導体や電子デバイス、ネットワーク関連機器の輸入・販売を手がける国内トップクラスの技術商社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX09Rd3RUemJPUnlleGNZOVE3TVRKSHJQcnNaYndTMDdfTkdNQ2pHZnBGVS1CU2NPdzFib2p6dF9uTjRkZDlJOE40N1RzcUpOVVNUeVgzU1VPblFwSXBxSG4zbUQ5WkxCblFOZWlNOTRnWWVrSktRd0JlUUhsNHozY1VfUkd0UW8?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "07:02",
+  "path": "/articles/20260727-earnings-announcements-canon-koutec-hd.html"
  }
 ]

@@ -1,15 +1,55 @@
 {
- "updated": "2026-07-27 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-27 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "PayPay、上場後初の決算国内好調も海外戦略が問われる理由",
-   "path": "/articles/20260727-paypay-first-earnings-report.html",
+   "title": "Claude CodeでOpus5の思考が浅くなる問題とその対策",
+   "path": "/articles/20260727-claude-code-opus5-rules-fix.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "GitHubが対応、MCPの7月28日版仕様で何が変わるのか",
+   "path": "/articles/20260727-mcp-github-update.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleの初スマートグラス、開発の遅れはプライバシー重視が原因か",
+   "path": "/articles/20260727-apple-smart-glasses-privacy.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "株価低迷の裏で何が？投資家を悩ませた4つの要因",
+   "path": "/articles/20260727-4-forces-drove-tough-week-for-stocks.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ヒカルが東大卒YouTuber逮捕に言及、その理由とは",
+   "path": "/articles/20260727-hikaru-youtuber-arrest-comment.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "高市首相が判断する見方強まる、食料品消費税減税の行方は",
+   "path": "/articles/20260727-food-consumption-tax-cut-takaichi.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀、今週の会合で政策金利据え置きか",
+   "path": "/articles/20260727-boj-policy-rate-meeting-2024.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "日経平均は下値探る展開か、日米決算本格化へ",
+   "path": "/articles/20260727-nikkei-average-earnings-season.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "国際自動車が大和自動車交通の筆頭株主に、買収と資本業務提携へ",
+   "path": "/articles/20260727-kokusai-koku-acquires-daiwa-motor-transport.html",
    "cat": "日本企業"
   },
   {
-   "title": "BluePortとTDAが業務提携、AX・DX支援へ",
-   "path": "/articles/20260727-blueport-tda-business-partnership.html",
+   "title": "キヤノンやコーテクHDなど15社が本日決算発表",
+   "path": "/articles/20260727-earnings-announcements-canon-koutec-hd.html",
    "cat": "日本企業"
   }
  ],
@@ -17,10 +57,13 @@
   "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 日銀 今週決定会合 政策金利据え置きか 経済・物価見通し焦点",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 3,
  "gemini": {
-  "used": 25,
+  "used": 48,
   "limit": 200
  }
 }

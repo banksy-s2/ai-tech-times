@@ -11444,5 +11444,78 @@
   "date": "2026-07-27",
   "time": "05:00",
   "path": "/articles/20260727-itochu-market-cap-valuation.html"
+ },
+ {
+  "title": "PayPay、上場後初の決算国内好調も海外戦略が問われる理由",
+  "lead": "PayPayが上場後初の決算を発表しました。国内での事業は好調を維持していますが、今後の海外における成長戦略がどのように展開されるのかが注目されています。",
+  "summary3": [
+   "PayPayが上場後初の決算を発表",
+   "国内事業は好調を維持し推移",
+   "海外での成長戦略が問われる展開"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする本日の企業ニュースです。キャッシュレス決済サービスなどを展開するPayPayが、上場後初となる決算発表を行いました。",
+   "発表によると、国内市場においては好調な業績を示しており、多くのユーザーや加盟店を獲得して順調に事業を拡大させていることがうかがえます。",
+   "一方で、今後は国内市場にとどまらず、海外での成長戦略をどのように描き実行していくのかという点が、市場や関係者から厳しく問われる局面に入っています。"
+  ],
+  "tags": [
+   "PayPay",
+   "決算",
+   "企業ニュース"
+  ],
+  "slug": "paypay-first-earnings-report",
+  "people": [],
+  "terms": [
+   {
+    "name": "PayPay",
+    "type": "company",
+    "desc": "日本国内で広く普及しているQRコード決済サービスを中心に提供する日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU45akhLTV81X1hyVlVzdl9hQmRLYnFnbm81TjI2aWd4NFJnLXNGVmNVc1BwZEFuVDdYQy1SaHludXFlUmlWeWx3ekIzUWh3em9wWmpzSHh1TDI5NWRteHhOWkczVENxZ0xFS3hLbDM1V3pMRTdJcWFEVGpIYWQ2bnBtcU03bVRoakZ3QzdHNnlZcE0?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "06:00",
+  "path": "/articles/20260727-paypay-first-earnings-report.html"
+ },
+ {
+  "title": "BluePortとTDAが業務提携、AX・DX支援へ",
+  "lead": "BluePortとTDAが業務提携を発表し、日本企業のAXおよびDX支援に向けて取り組みを開始しました。",
+  "summary3": [
+   "BluePortとTDAが業務提携",
+   "日本企業のAX・DX支援を実施",
+   "日系企業向けの取り組みが進行"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のビジネスニュースです。BluePortとTDAの2社が業務提携を締結したことが明らかになりました。",
+   "今回の提携により、日本企業に向けたAX（AIトランスフォーメーション）およびDX（デジタルトランスフォーメーション）の支援を共同で展開していく方針です。",
+   "両社による今後の具体的な支援内容や取り組みの進展については、引き続き最新の動向に注目が集まるところです。"
+  ],
+  "tags": [
+   "BluePort",
+   "TDA",
+   "DX"
+  ],
+  "slug": "blueport-tda-business-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "BluePort",
+    "type": "company",
+    "desc": "企業活動やビジネスに関連するサービスや事業を展開する企業です。"
+   },
+   {
+    "name": "TDA",
+    "type": "company",
+    "desc": "企業向けサービスの提供や事業支援などを行う企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYkJlZUJLN3RpWnduc1NTbTUxXy1Nd3VYUWJrbGxEcG5LV0dxRmJqamFUOF9iRkFpSUlNQzU3QktLc1N3Q1NCWTc1M1k0R2l2Z1RwbGFoeHF4amdsRUYxN3hvWQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "06:00",
+  "path": "/articles/20260727-blueport-tda-business-partnership.html"
  }
 ]
