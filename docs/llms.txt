@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 12:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [グーグルに1600億円制裁のEU、トランプ大統領が関税課す方針](https://ai-tech-times.web.app/articles/20260726-trump-google-eu-tariffs.html) — 2026-07-26 13:00: EUがアメリカのIT大手グーグルに多額の制裁金を科したことを受け、トランプ大統領が対抗措置として関税を課す方針を示しました。
+- [「飛鳥・藤原の宮都」世界文化遺産に国内27件目](https://ai-tech-times.web.app/articles/20260726-asuka-fujiwara-world-heritage.html) — 2026-07-26 13:00: 奈良県内の飛鳥時代の遺跡群である「飛鳥・藤原の宮都」が、世界文化遺産に登録されることが決定しました。今回の決定により、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。
 - [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
 - [Claude CodeでInput Tokenが大量消費される原因](https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html) — 2026-07-26 12:02: FLINTERSのエンジニアが、Claude Code利用時に短い入力なのにInput Tokenが大量に消費される原因を利用ログから調査しました。
 - [Google、Pixel 11の値上げを示唆。財布への影響は](https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html) — 2026-07-26 12:02: Googleの幹部が次世代のPixelスマートフォンについて価格が上がると示唆しました。AIデータセンターの急増に伴うRAM供給の逼迫が背景にあります。
@@ -40,8 +42,6 @@
 - [韓国インフルエンサー、出演者の襟首つかみ批判殺到](https://ai-tech-times.web.app/articles/20260726-korean-influencer-violence-apology.html) — 2026-07-26 07:01: 韓国のインフルエンサーが、女性出演者の襟首をつかんで引きずる暴力行為を行い、インターネット上で大きな批判を集めて謝罪に追い込まれました。
 - [フランスとスペイン山火事、20万人避難のなぜ](https://ai-tech-times.web.app/articles/20260726-france-spain-wildfires-evacuation.html) — 2026-07-26 07:01: フランスとスペインでは、高温に伴う山火事が猛威を振るい、両国合わせて20万人以上が避難する深刻な事態となっています。欧州連合（EU）への支援要請や軍の出動が行われる中、現地の状況と被害拡大の背景を伝えます。
 - [トランプ氏、EUの米IT罰金撤回を要求へ](https://ai-tech-times.web.app/articles/20260726-trump-vows-to-investigate-eu-over-tech-fines.html) — 2026-07-26 07:01: トランプ米大統領は、欧州連合（EU）による米国IT企業への巨額の罰金処分について、完全に撤回させる方針を表明しました。
-- [スルガ銀の処分解除が視野、筆頭株主の狙い](https://ai-tech-times.web.app/articles/20260726-suruga-bank-credaison-acquisition.html) — 2026-07-26 07:01: スルガ銀行をめぐる長年の業務改善命令の解除へ向けた動きが進んでいます。これに伴い、筆頭株主であるクレディセゾンの動向に注目が集まっています。
-- [県内上場企業の株価情報、24日の動向が明らかに](https://ai-tech-times.web.app/articles/20260726-tochigi-listed-company-stock-prices-24th.html) — 2026-07-26 07:01: 下野新聞社が配信した情報によると、県内の上場企業株価に関する24日のニュースが報じられました。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [JENNIE - Less than a Lover (Official Video)](https://www.youtube.com/watch?v=_IT83Y_HcAw)
@@ -49,13 +49,13 @@
 - 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 
 ## AI用語事典 (全275語 / https://ai-tech-times.web.app/term/)
-- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
+- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
+- [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。

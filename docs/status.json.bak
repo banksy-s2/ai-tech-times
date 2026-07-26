@@ -1,21 +1,52 @@
 {
- "updated": "2026-07-26 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-26 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "登録者5億超人気YouTuberの結婚式ショットに大反響",
-   "path": "/articles/20260726-youtuber-wedding-shot-big-response.html",
+   "title": "OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身",
+   "path": "/articles/20260726-zimmermann-joins-openai-fields-medal.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Claude CodeでInput Tokenが大量消費される原因",
+   "path": "/articles/20260726-claude-code-input-token-cause.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Google、Pixel 11の値上げを示唆。財布への影響は",
+   "path": "/articles/20260726-google-pixel-11-price-hike.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "愛媛の禅寺からYouTube総再生1億回、僧侶が選んだヒットの法則とは",
+   "path": "/articles/20260726-yakushiji-kanho-youtube-100m-views.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "新潟・北陸・東北で大雨警戒、西日本は猛暑",
+   "path": "/articles/20260726-heavy-rain-and-dangerous-heat-japan.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "サウジアラムコ施設をフーシ派が攻撃、影響は",
+   "path": "/articles/20260726-houthis-attack-saudi-aramco-facility.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "JENNIE - Less than a Lover (Official Video)",
   "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Monday.com is the latest tech company to",
+  "執筆失敗: Volkswagen engineers charged with inside",
+  "執筆失敗: パナソニック、構造改革で来期営業益2.3倍へ。株価は高値から一服、電機大手で見劣",
+  "執筆失敗: 良品計画株が上場来高値圏 東アジアで高まる「MUJI」人気 - 日本経済新聞",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 17,
  "gemini": {
-  "used": 66,
+  "used": 90,
   "limit": 200
  }
 }
