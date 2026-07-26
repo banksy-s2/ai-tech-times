@@ -10230,5 +10230,44 @@
   "date": "2026-07-26",
   "time": "09:00",
   "path": "/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html"
+ },
+ {
+  "title": "Anthropic新AIが価格と性能で競合を圧倒する理由",
+  "lead": "AI企業のアントロピックが、最高性能かつ最もコストパフォーマンスに優れた新型モデル「Claude Opus 5」を発表しました。",
+  "summary3": [
+   "アントロピックが新AIを発表",
+   "最高性能と低コストを両立",
+   "企業のコスト負担を軽減へ"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、AI開発企業のアントロピックは、最高性能を誇りつつ最もコストパフォーマンスに優れた新型AIモデル「Claude Opus 5」を発表しました。",
+   "今回の新モデルは、他社の主要なAIモデルに対抗しうる性能を持ちながら、より安価に利用できる点が大きな特徴となっています。コスト面での負担に悩む多くのビジネス運営者や企業にとって、非常に魅力的な選択肢となりそうです。",
+   "企業の間ではAI導入におけるコストが大きな懸念材料となっていましたが、同社はこの新モデルによってその課題に対応する構えです。今後のビジネスにおけるAI活用やコスト削減への影響に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "Anthropic",
+   "Claude Opus 5"
+  ],
+  "slug": "anthropic-claude-opus-5-ai-fable-5-cost",
+  "people": [],
+  "terms": [
+   {
+    "name": "アントロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能(AI)安全・研究企業で、対話型AI「Claude」などを開発している。"
+   },
+   {
+    "name": "Claude Opus 5",
+    "type": "ai",
+    "desc": "アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+  "category": "silicon",
+  "date": "2026-07-26",
+  "time": "10:00",
+  "path": "/articles/20260726-anthropic-claude-opus-5-ai-fable-5-cost.html"
  }
 ]
