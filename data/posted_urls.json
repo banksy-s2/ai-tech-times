@@ -332,7 +332,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015186801000",
   "https://news.web.nhk/newsweb/na/na-k10015186341000",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWDB4czBZS0g3NVd6YU1samV2THZuWVZOQzNsWlc1Tk5uVm82Q0VPYnN4UlotQm9ZTndsNVd6cjcweEYtYVdIUmJhdkLSAU9BVV95cUxNRlNRYnNPV25NS0twaVZuX29BbUJWN3ljdFg0OUh0MkJoSk94bm82X3FxazhvMmtraGdtdjVFV21jWmwzb2hjb0JmRzZhQkRV?oc=5",
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5"
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5",
+  "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+  "https://github.com/slvDev/esp32-ai"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -982,6 +984,10 @@
   "AI革命が本物でも、株価が下がってしまう理由を知っておこう - ダイヤモンド・オンライン",
   "パナソニック、構造改革で来期営業益2.3倍へ。株価は高値から一服、電機大手で見劣りするROEは上向くか（LIMO） - Yahoo!ニュース",
   "ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み",
-  "パナソニック、構造改革で来期営業益2.3倍へ"
+  "パナソニック、構造改革で来期営業益2.3倍へ",
+  "What is happening to jobs? Separating AI hype from reality",
+  "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "スタンフォード大学政策研究所が明かすAIと雇用の真実",
+  "8ドルのマイコンで2890万パラメータのLLMを動かす方法"
  ]
 }

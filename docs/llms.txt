@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [スタンフォード大学政策研究所が明かすAIと雇用の真実](https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html) — 2026-07-27 00:01: AIの普及が雇用にどのような影響を与えているのか。スタンフォード大学政策研究所の公開した資料から、過度な誇大広告と現実のギャップが明らかになりました。
+- [8ドルのマイコンで2890万パラメータのLLMを動かす方法](https://ai-tech-times.web.app/articles/20260727-running-28m-llm-on-microcontroller.html) — 2026-07-27 00:01: 8ドルのマイクロコントローラ上で2890万パラメータを持つ大規模言語モデルを稼働させるプロジェクトが公開され、注目を集めています。
 - [ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み](https://ai-tech-times.web.app/articles/20260726-ai-revolution-stock-price-drop.html) — 2026-07-26 23:00: AI革命の進展と株価の動きに関する記事が公開されました。技術の発展と市場の反応について伝えています。
 - [パナソニック、構造改革で来期営業益2.3倍へ](https://ai-tech-times.web.app/articles/20260726-panasonic-structural-reform-operating-profit.html) — 2026-07-26 23:00: パナソニックに関する最新の構造改革と来期業績の見通しについてお伝えします。
 - [ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘](https://ai-tech-times.web.app/articles/20260726-zelensky-north-korea-troops.html) — 2026-07-26 22:00: ウクライナのゼレンスキー大統領が、ロシアによる新たな北朝鮮兵士の受け入れ準備について言及しました。
@@ -40,15 +42,13 @@
 - [日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も](https://ai-tech-times.web.app/articles/20260726-nikkei-average-double-drop-risk.html) — 2026-07-26 14:00: 週次で反発を見せた日経平均株価について、相次ぐ企業の決算発表やFOMCを控え、二重の急落リスクが指摘されています。
 - [キオクシアショックや日経平均株価急落で投資を中断した人が知らない事実](https://ai-tech-times.web.app/articles/20260726-kioxia-shock-nikkei-drop.html) — 2026-07-26 14:00: キオクシアショックや日経平均株価の急落を受けて投資を中断した人が知らない事実について、トウシルが報じています。
 - [グーグルに1600億円制裁のEU、トランプ大統領が関税課す方針](https://ai-tech-times.web.app/articles/20260726-trump-google-eu-tariffs.html) — 2026-07-26 13:00: EUがアメリカのIT大手グーグルに多額の制裁金を科したことを受け、トランプ大統領が対抗措置として関税を課す方針を示しました。
-- [「飛鳥・藤原の宮都」世界文化遺産に国内27件目](https://ai-tech-times.web.app/articles/20260726-asuka-fujiwara-world-heritage.html) — 2026-07-26 13:00: 奈良県内の飛鳥時代の遺跡群である「飛鳥・藤原の宮都」が、世界文化遺産に登録されることが決定しました。今回の決定により、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。
-- [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
 
-## 世界のバズ動画TOP3 (2026-07-26)
+## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 - 2位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - 3位: [Lanterns | Official Trailer | HBO Max](https://www.youtube.com/watch?v=7UIBOsuUwc4)
 
-## AI用語事典 (全280語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全282語 / https://ai-tech-times.web.app/term/)
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。

@@ -11040,5 +11040,73 @@
   "date": "2026-07-26",
   "time": "22:00",
   "path": "/articles/20260726-berlin-car-crash-investigation.html"
+ },
+ {
+  "title": "ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み",
+  "lead": "AI革命の進展と株価の動きに関する記事が公開されました。技術の発展と市場の反応について伝えています。",
+  "summary3": [
+   "AI革命が本物でも株価が下がる",
+   "ダイヤモンド・オンラインが解説",
+   "市場の動向について言及"
+  ],
+  "body": [
+   "ダイヤモンド・オンラインは、AI革命が本物であるにもかかわらず、株価が下落してしまう現象についての記事を掲載しました。技術的な進化と実際の株式市場の評価には異なる側面が存在することが示唆されています。",
+   "株式市場においては、技術革新の波が直接企業の株価上昇に結びつかないケースが見られます。投資家や市場参加者は、産業構造の変化や期待値の調整など、さまざまな要因を背景に判断を下しています。",
+   "今回の記事では、AI分野の成長と市場メカニズムの複雑な関係について触れられています。技術の是非と株価の変動要因を分けて考える視点の重要性が伝えられています。"
+  ],
+  "tags": [
+   "AI",
+   "株式市場",
+   "経済"
+  ],
+  "slug": "ai-revolution-stock-price-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "ダイヤモンド・オンライン",
+    "type": "company",
+    "desc": "株式会社ダイヤモンド社が運営するビジネスパーソン向けの総合経済オンラインメディアです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWDB4czBZS0g3NVd6YU1samV2THZuWVZOQzNsWlc1Tk5uVm82Q0VPYnN4UlotQm9ZTndsNVd6cjcweEYtYVdIUmJhdkLSAU9BVV95cUxNRlNRYnNPV25NS0twaVZuX29BbUJWN3ljdFg0OUh0MkJoSk94bm82X3FxazhvMmtraGdtdjVFV21jWmwzb2hjb0JmRzZhQkRV?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "23:00",
+  "path": "/articles/20260726-ai-revolution-stock-price-drop.html"
+ },
+ {
+  "title": "パナソニック、構造改革で来期営業益2.3倍へ",
+  "lead": "パナソニックに関する最新の構造改革と来期業績の見通しについてお伝えします。",
+  "summary3": [
+   "パナソニックが構造改革を実施する",
+   "来期の営業利益が2.3倍になる見通し",
+   "株価やROEの動向に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、パナソニックは構造改革を進めており、来期の営業利益が2.3倍に増加する見通しであることが明らかになりました。これまでの事業見直しや収益性改善の取り組みが、具体的な数字として表れる形となっています。",
+   "一方で、株式市場における同社の株価は高値圏から一服した動きを見せています。電機大手各社と比較した際に見劣りすると指摘されてきた資本効率の指標であるROEについても、今後の業績改善に伴って上向くかどうかが投資家の関心を集めるポイントとなっています。",
+   "今回の構造改革による業績回復の計画が、実際の財務数値や市場評価にどのような影響を与えるのか、今後の動向が引き続き注目されます。"
+  ],
+  "tags": [
+   "パナソニック",
+   "株式市場",
+   "企業業績"
+  ],
+  "slug": "panasonic-structural-reform-operating-profit",
+  "people": [],
+  "terms": [
+   {
+    "name": "パナソニック",
+    "type": "company",
+    "desc": "大阪府門真市に本拠を置く、家電から車載電池まで幅広く手掛ける日本を代表する大手電機メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5",
+  "category": "stock",
+  "date": "2026-07-26",
+  "time": "23:00",
+  "path": "/articles/20260726-panasonic-structural-reform-operating-profit.html"
  }
 ]

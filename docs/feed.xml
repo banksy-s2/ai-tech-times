@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>スタンフォード大学政策研究所が明かすAIと雇用の真実</title>
+<link>https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html</guid>
+<pubDate>Mon, 27 Jul 2026 00:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIの普及が雇用にどのような影響を与えているのか。スタンフォード大学政策研究所の公開した資料から、過度な誇大広告と現実のギャップが明らかになりました。</description>
+</item>
+<item>
+<title>8ドルのマイコンで2890万パラメータのLLMを動かす方法</title>
+<link>https://ai-tech-times.web.app/articles/20260727-running-28m-llm-on-microcontroller.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-running-28m-llm-on-microcontroller.html</guid>
+<pubDate>Mon, 27 Jul 2026 00:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>8ドルのマイクロコントローラ上で2890万パラメータを持つ大規模言語モデルを稼働させるプロジェクトが公開され、注目を集めています。</description>
+</item>
+<item>
 <title>ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み</title>
 <link>https://ai-tech-times.web.app/articles/20260726-ai-revolution-stock-price-drop.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260726-ai-revolution-stock-price-drop.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 26 Jul 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>フリーランスライターとして活動していたベン・トゥアティ氏が、解雇された後にもかかわらず、自身の名前がAI生成されたオンラインカジノの記事に使用されていたことを明らかにしました。</description>
-</item>
-<item>
-<title>マイクロソフトやエヌビディアがAI規制反対の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-microsoft-nvidia-oppose-ai-regulation.html</guid>
-<pubDate>Sun, 26 Jul 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米マイクロソフトや米エヌビディアなどは24日、技術を外部に公開する「オープン型」の人工知能（AI）開発を規制しないよう米政府に求める声明を公開しました。</description>
-</item>
-<item>
-<title>BlueskyのAI「Attie」が開放される理由</title>
-<link>https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-bluesky-ai-assistant-attie-expands.html</guid>
-<pubDate>Sun, 26 Jul 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>分散型ソーシャルプラットフォームのBlueskyが提供するAIアシスタント「Attie」が、オープンな社会調査ツールへと機能を拡張しました。ATプロトコル上の会話やトレンドをどのように分析できるようになったのでしょうか。</description>
 </item>
 </channel></rss>
