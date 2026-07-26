@@ -334,7 +334,9 @@
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWDB4czBZS0g3NVd6YU1samV2THZuWVZOQzNsWlc1Tk5uVm82Q0VPYnN4UlotQm9ZTndsNVd6cjcweEYtYVdIUmJhdkLSAU9BVV95cUxNRlNRYnNPV25NS0twaVZuX29BbUJWN3ljdFg0OUh0MkJoSk94bm82X3FxazhvMmtraGdtdjVFV21jWmwzb2hjb0JmRzZhQkRV?oc=5",
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5",
   "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-  "https://github.com/slvDev/esp32-ai"
+  "https://github.com/slvDev/esp32-ai",
+  "https://blog.shin1x1.com/entry/dont-let-go-of-understanding",
+  "https://note.com/ganot/n/ned74462afe7e"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -988,6 +990,10 @@
   "What is happening to jobs? Separating AI hype from reality",
   "Running a 28.9M parameter LLM on an $8 microcontroller",
   "スタンフォード大学政策研究所が明かすAIと雇用の真実",
-  "8ドルのマイコンで2890万パラメータのLLMを動かす方法"
+  "8ドルのマイコンで2890万パラメータのLLMを動かす方法",
+  "理解を手放さない - Shin x Blog",
+  "『みいちゃんと山田さん』反対運動への所見｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
+  "AIコーディングで人間の理解を手放すとどうなるか",
+  "郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由"
  ]
 }

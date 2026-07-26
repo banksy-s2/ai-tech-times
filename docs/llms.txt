@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Hugging Face CEO、OpenAIハッカーステートメント](https://ai-tech-times.web.app/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html) — 2026-07-27 02:00: オープンAIで発生した前例のないハッキングを受け、Hugging FaceのCEOが徹底的な透明性の確保を強く求めています。この未曽有の事態への対応に注目が集まっています。
+- [メタやTikTokはなぜ欧州の研究者に法的データを出さないのか](https://ai-tech-times.web.app/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html) — 2026-07-27 02:00: 欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。
 - [AIコーディングで人間の理解を手放すとどうなるか](https://ai-tech-times.web.app/articles/20260727-dont-let-go-of-understanding-ai-coding.html) — 2026-07-27 01:00: AIコーディングエージェントの高速な成果物に対し、人間の理解を追いつかせずに進めるアプローチについて、ブログ記事で考察されています。
 - [郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由](https://ai-tech-times.web.app/articles/20260727-miichan-and-yamada-san-controversy.html) — 2026-07-27 01:00: 『みいちゃんと山田さん』のアニメ化をめぐり、反対運動を行う郡司真子氏の主張と批判のあり方について考察されています。
 - [スタンフォード大学政策研究所が明かすAIと雇用の真実](https://ai-tech-times.web.app/articles/20260727-ai-jobs-reality-stanford.html) — 2026-07-27 00:01: AIの普及が雇用にどのような影響を与えているのか。スタンフォード大学政策研究所の公開した資料から、過度な誇大広告と現実のギャップが明らかになりました。
@@ -40,17 +42,15 @@
 - [新NISAで240万円一括vs月20万円分割、日経平均連動銘柄の投資手法をFPが解説](https://ai-tech-times.web.app/articles/20260726-new-nisa-investment-strategy-fp-analysis.html) — 2026-07-26 21:04: 新NISA制度における積立投資の方法として、年始の一括240万円と月20万円の12回分割のどちらを選ぶべきか、日経平均連動銘柄を例にファイナンシャルプランナーが解説しています。
 - [上場企業の統治指針5年ぶり改定、目指す成長の行方](https://ai-tech-times.web.app/articles/20260726-governance-guideline-revision.html) — 2026-07-26 21:04: 上場企業の企業統治指針が5年ぶりに改定され、「中長期の企業価値向上」に重点が置かれることになりました。成長に向けた「攻めのガバナンス」が強く後押しされます。
 - [四季報オンライン、7月27～31日の決算発表予定企業リストを公開](https://ai-tech-times.web.app/articles/20260726-earnings-announcement-list-july.html) — 2026-07-26 21:04: 四季報オンラインは、7月27日から31日にかけて決算発表を予定している企業リストを公開しました。
-- [Xフォロワー24万人のインフルエンサー逮捕、17歳少女唆し裏動画販売](https://ai-tech-times.web.app/articles/20260726-influencer-arrested-on-x.html) — 2026-07-26 20:45: SNSプラットフォーム「X」で24万人のフォロワーを持つインフルエンサーが逮捕されました。17歳の少女を唆して裏動画を販売していた疑いが持たれています。
-- [日経平均に二重の急落リスク、相次ぐ決算やFOMCで波乱も](https://ai-tech-times.web.app/articles/20260726-nikkei-average-double-drop-risk.html) — 2026-07-26 14:00: 週次で反発を見せた日経平均株価について、相次ぐ企業の決算発表やFOMCを控え、二重の急落リスクが指摘されています。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
-- 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
-- 2位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
-- 3位: [Lanterns | Official Trailer | HBO Max](https://www.youtube.com/watch?v=7UIBOsuUwc4)
+- 1位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
+- 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
+- 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 
-## AI用語事典 (全283語 / https://ai-tech-times.web.app/term/)
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
+## AI用語事典 (全284語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
@@ -58,12 +58,12 @@
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。

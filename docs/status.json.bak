@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-27 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-27 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "スタンフォード大学政策研究所が明かすAIと雇用の真実",
-   "path": "/articles/20260727-ai-jobs-reality-stanford.html",
-   "cat": "AI(海外)"
+   "title": "AIコーディングで人間の理解を手放すとどうなるか",
+   "path": "/articles/20260727-dont-let-go-of-understanding-ai-coding.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "8ドルのマイコンで2890万パラメータのLLMを動かす方法",
-   "path": "/articles/20260727-running-28m-llm-on-microcontroller.html",
-   "cat": "AI(海外)"
+   "title": "郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由",
+   "path": "/articles/20260727-miichan-and-yamada-san-controversy.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Animal",
-  "url": "https://www.youtube.com/watch?v=vOfyxPRunFM"
+  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
+  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }
