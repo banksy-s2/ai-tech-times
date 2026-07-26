@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-26 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-26 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘",
-   "path": "/articles/20260726-zelensky-north-korea-troops.html",
-   "cat": "時事・世界"
+   "title": "ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み",
+   "path": "/articles/20260726-ai-revolution-stock-price-drop.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "ベルリンで車突入、1人死亡16人負傷。容疑者とイスラム主義のつながりは",
-   "path": "/articles/20260726-berlin-car-crash-investigation.html",
-   "cat": "時事・世界"
+   "title": "パナソニック、構造改革で来期営業益2.3倍へ",
+   "path": "/articles/20260726-panasonic-structural-reform-operating-profit.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 32,
  "gemini": {
-  "used": 128,
+  "used": 131,
   "limit": 200
  }
 }

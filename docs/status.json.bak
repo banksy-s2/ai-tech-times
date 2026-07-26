@@ -1,70 +1,26 @@
 {
- "updated": "2026-07-26 21:04",
- "mode": "フル便",
+ "updated": "2026-07-26 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Monday.comなどがAI理由に人員削減、進む背景",
-   "path": "/articles/20260726-monday-com-ai-layoffs-techcrunch.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "知床沖観光船沈没事故、2年後に発見されたカメラのデータはなぜ完全復元できたのか",
-   "path": "/articles/20260726-shiretoko-camera-recovery.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを防ぐ方法",
-   "path": "/articles/20260726-ai-agent-failure-cases.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Kalshi、ネットフリックスにドキュメンタリー予告編の削除を要求",
-   "path": "/articles/20260726-kalshi-demands-netflix-take-down-trailer.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "CNBC Tech：テック界と議会が「蒸留」に熱狂する理由",
-   "path": "/articles/20260726-tech-world-obsessed-with-ai-distillation.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ米大統領、迎撃ミサイル枯渇でイラン攻撃を保留か",
-   "path": "/articles/20260726-us-iran-missile-concerns.html",
+   "title": "ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘",
+   "path": "/articles/20260726-zelensky-north-korea-troops.html",
    "cat": "時事・世界"
   },
   {
-   "title": "高盛、東証指数目標を4500に引き上げ：円安がもたらす日本企業の収益押し上げ効果とは",
-   "path": "/articles/20260726-goldman-tosei-target-4500.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "新NISAで240万円一括vs月20万円分割、日経平均連動銘柄の投資手法をFPが解説",
-   "path": "/articles/20260726-new-nisa-investment-strategy-fp-analysis.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "上場企業の統治指針5年ぶり改定、目指す成長の行方",
-   "path": "/articles/20260726-governance-guideline-revision.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "四季報オンライン、7月27～31日の決算発表予定企業リストを公開",
-   "path": "/articles/20260726-earnings-announcement-list-july.html",
-   "cat": "日本企業"
+   "title": "ベルリンで車突入、1人死亡16人負傷。容疑者とイスラム主義のつながりは",
+   "path": "/articles/20260726-berlin-car-crash-investigation.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "Animal",
   "url": "https://www.youtube.com/watch?v=vOfyxPRunFM"
  },
- "notes": [
-  "執筆失敗: 有村昆、収入ゼロからホテル社長に「芸能2割ホテル8割」　原動力は4年前の不祥事“",
-  "執筆失敗: ゼレンスキー大統領“ロシアが北朝鮮兵士3万人 受け入れ準備”",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 31,
+ "notes": [],
+ "pv_today": 32,
  "gemini": {
-  "used": 124,
+  "used": 128,
   "limit": 200
  }
 }

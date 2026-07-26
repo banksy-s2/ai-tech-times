@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-26 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ダイヤモンド・オンラインが解説、AI革命でも株価が下がる仕組み](https://ai-tech-times.web.app/articles/20260726-ai-revolution-stock-price-drop.html) — 2026-07-26 23:00: AI革命の進展と株価の動きに関する記事が公開されました。技術の発展と市場の反応について伝えています。
+- [パナソニック、構造改革で来期営業益2.3倍へ](https://ai-tech-times.web.app/articles/20260726-panasonic-structural-reform-operating-profit.html) — 2026-07-26 23:00: パナソニックに関する最新の構造改革と来期業績の見通しについてお伝えします。
 - [ゼレンスキー大統領、北朝鮮兵士3万人受け入れ準備を指摘](https://ai-tech-times.web.app/articles/20260726-zelensky-north-korea-troops.html) — 2026-07-26 22:00: ウクライナのゼレンスキー大統領が、ロシアによる新たな北朝鮮兵士の受け入れ準備について言及しました。
 - [ベルリンで車突入、1人死亡16人負傷。容疑者とイスラム主義のつながりは](https://ai-tech-times.web.app/articles/20260726-berlin-car-crash-investigation.html) — 2026-07-26 22:00: ドイツの首都ベルリンで25日、性的マイノリティーの権利向上イベントの人混みに車が突っ込み、死傷者が出ました。警察は容疑者の背景を調べています。
 - [Monday.comなどがAI理由に人員削減、進む背景](https://ai-tech-times.web.app/articles/20260726-monday-com-ai-layoffs-techcrunch.html) — 2026-07-26 21:04: TechCrunch AIによると、Monday.comなどのテック企業がAIの導入を理由に大規模な人員削減を発表しました。今年に入りAIを要因に挙げた主要企業の動向が伝えられています。
@@ -40,15 +42,13 @@
 - [グーグルに1600億円制裁のEU、トランプ大統領が関税課す方針](https://ai-tech-times.web.app/articles/20260726-trump-google-eu-tariffs.html) — 2026-07-26 13:00: EUがアメリカのIT大手グーグルに多額の制裁金を科したことを受け、トランプ大統領が対抗措置として関税を課す方針を示しました。
 - [「飛鳥・藤原の宮都」世界文化遺産に国内27件目](https://ai-tech-times.web.app/articles/20260726-asuka-fujiwara-world-heritage.html) — 2026-07-26 13:00: 奈良県内の飛鳥時代の遺跡群である「飛鳥・藤原の宮都」が、世界文化遺産に登録されることが決定しました。今回の決定により、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。
 - [OpenAI、フィールズ賞の新受賞者ツィマーマンがAI安全性研究へ転身](https://ai-tech-times.web.app/articles/20260726-zimmermann-joins-openai-fields-medal.html) — 2026-07-26 12:02: 2026年のフィールズ賞授賞式で、新受賞者のジェイコブ・ツィマーマンがOpenAIへの加入とAI安全性研究への従事を発表しました。
-- [Claude CodeでInput Tokenが大量消費される原因](https://ai-tech-times.web.app/articles/20260726-claude-code-input-token-cause.html) — 2026-07-26 12:02: FLINTERSのエンジニアが、Claude Code利用時に短い入力なのにInput Tokenが大量に消費される原因を利用ログから調査しました。
-- [Google、Pixel 11の値上げを示唆。財布への影響は](https://ai-tech-times.web.app/articles/20260726-google-pixel-11-price-hike.html) — 2026-07-26 12:02: Googleの幹部が次世代のPixelスマートフォンについて価格が上がると示唆しました。AIデータセンターの急増に伴うRAM供給の逼迫が背景にあります。
 
 ## 世界のバズ動画TOP3 (2026-07-26)
 - 1位: [Animal](https://www.youtube.com/watch?v=vOfyxPRunFM)
 - 2位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
 - 3位: [Lanterns | Official Trailer | HBO Max](https://www.youtube.com/watch?v=7UIBOsuUwc4)
 
-## AI用語事典 (全279語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全280語 / https://ai-tech-times.web.app/term/)
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -68,6 +68,7 @@
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
+- [ダイヤモンド・オンラインとは](https://ai-tech-times.web.app/term/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 株式会社ダイヤモンド社が運営する、ビジネスパーソン向けの総合経済オンラインメディアです。
 - [Netflixとは](https://ai-tech-times.web.app/term/netflix.html): 世界中で広く利用されている、映画やテレビ番組などをストリーミング配信するアメリカの大手動画配信企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリを中心とした半導体製品の開発・製造を手がける日本の企業です。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。
@@ -78,7 +79,6 @@
 - [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): Anthropicが開発したAIモデルであり、数学の難問の反例生成などに活用された。
 - [オラクルとは](https://ai-tech-times.web.app/term/%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB.html): アメリカに本拠地を置き、データベース管理システムや企業向けクラウドソフトウェアなどを提供する大手IT企業。
 - [Andurilとは](https://ai-tech-times.web.app/term/anduril.html): アメリカに拠点を置き、最先端の防衛技術やAIを活用したハードウェア・ソフトウェアを開発する企業。
-- [Ben Thompsonとは](https://ai-tech-times.web.app/term/ben-thompson.html): 著名なテック系アナリストであり、ニュースレター「Stratechery」を運営する独立系メディアの創設者。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
