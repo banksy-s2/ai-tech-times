@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日産、利益9割減の決算発表で飛び出した社長発言](https://ai-tech-times.web.app/articles/20260727-nissan-earnings-drop-90-percent.html) — 2026-07-27 15:00: 日産自動車が利益9割減となる決算発表を行い、その中で飛び出した社長の発言に注目が集まっています。
+- [Ｊフロンティ急反発、エアロネクストと業務提携で地域医療を支援へ](https://ai-tech-times.web.app/articles/20260727-j-frontier-aeronext-business-alliance.html) — 2026-07-27 15:00: Ｊフロンティが急反発を見せています。エアロネクストとの業務提携を通じて「空から支える地域医療インフラ」の構築を目指す方針です。
 - [最大20%の食料品価格高騰へ、スーパーエルニーニョの家計への影響](https://ai-tech-times.web.app/articles/20260727-super-el-nino-food-inflation-2026.html) — 2026-07-27 14:00: 2026年に懸念される過去最大級のスーパーエルニーニョ現象について、世界的な異常気象による家計への影響が報じられています。
 - [高市総理、物価高対策を後回しとの批判に最優先と反論](https://ai-tech-times.web.app/articles/20260727-shugiin-budget-committee-inflation-measures.html) — 2026-07-27 13:00: 衆議院予算委員会で集中審議が行われ、物価高対策や国民生活への手当てをめぐって論戦が交わされました。
 - [米国産生鮮ジャガイモの輸入解禁、夏にも評価終了へ](https://ai-tech-times.web.app/articles/20260727-us-fresh-potatoes-import-evaluation.html) — 2026-07-27 13:00: 農林水産省は、アメリカが求めている生のジャガイモの輸入解禁に向け、病気や害虫のリスク評価を今夏にも終える見込みです。
@@ -40,15 +42,13 @@
 - [SpaceX、次回のStarship飛行で発射塔キャッチに挑む](https://ai-tech-times.web.app/articles/20260727-spacex-eyes-tower-catch-for-starship.html) — 2026-07-27 10:00: Ars Technicaによると、SpaceXは次回のスターシップ飛行で、発射台でのキャッチを試みる見込みです。
 - [被害45億円、会話もできるAI詐欺の手口と対策](https://ai-tech-times.web.app/articles/20260727-ai-voice-fraud-prevention.html) — 2026-07-27 09:00: 生成AIによる音声合成の進化により、経営者や上司の声が数秒で複製される時代が訪れました。ITmedia AI+の報道から、最新のボイスフィッシングの手口と組織が取るべき備えを解説します。
 - [AIエージェント導入のセキュリティリスクとは](https://ai-tech-times.web.app/articles/20260727-ai-agent-security-risks.html) — 2026-07-27 09:00: 企業でAIエージェント導入を検討する中、自律的に動く特性がどのようなセキュリティリスクを生むのか判断できず対策の検討が止まっている状況について解説します。
-- [Cloudflare、AIトラフィックの新オプション発表](https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html) — 2026-07-27 08:00: Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。
-- [Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開](https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html) — 2026-07-27 08:00: Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
 - 2位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
 - 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 
-## AI用語事典 (全307語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全310語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。

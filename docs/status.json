@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-27 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-27 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "最大20%の食料品価格高騰へ、スーパーエルニーニョの家計への影響",
-   "path": "/articles/20260727-super-el-nino-food-inflation-2026.html",
-   "cat": "株式投資(日本)"
+   "title": "日産、利益9割減の決算発表で飛び出した社長発言",
+   "path": "/articles/20260727-nissan-earnings-drop-90-percent.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "Ｊフロンティ急反発、エアロネクストと業務提携で地域医療を支援へ",
+   "path": "/articles/20260727-j-frontier-aeronext-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
- "notes": [
-  "執筆失敗: 日経平均株価、553円83銭高で始まる - 寄り付き解説 きょうのトピック - "
- ],
- "pv_today": 32,
+ "notes": [],
+ "pv_today": 35,
  "gemini": {
-  "used": 99,
+  "used": 103,
   "limit": 200
  }
 }

@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-27 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-27 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "高市総理、物価高対策を後回しとの批判に最優先と反論",
-   "path": "/articles/20260727-shugiin-budget-committee-inflation-measures.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米国産生鮮ジャガイモの輸入解禁、夏にも評価終了へ",
-   "path": "/articles/20260727-us-fresh-potatoes-import-evaluation.html",
-   "cat": "時事・世界"
+   "title": "最大20%の食料品価格高騰へ、スーパーエルニーニョの家計への影響",
+   "path": "/articles/20260727-super-el-nino-food-inflation-2026.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
-  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
+  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
+  "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
- "notes": [],
- "pv_today": 28,
+ "notes": [
+  "執筆失敗: 日経平均株価、553円83銭高で始まる - 寄り付き解説 きょうのトピック - "
+ ],
+ "pv_today": 32,
  "gemini": {
-  "used": 93,
+  "used": 99,
   "limit": 200
  }
 }
