@@ -12105,5 +12105,332 @@
   "date": "2026-07-27",
   "time": "11:00",
   "path": "/articles/20260727-magical-mirai-hamamatsu-vocaloid.html"
+ },
+ {
+  "title": "TechCrunch AI：脳波データの活用が迫る物理AIの進化",
+  "lead": "フロンティア物理AIモデルの進化において、脳波データの読み取りが新たな鍵として注目を集めています。YouTube動画を超える多様なアプローチが模索されています。",
+  "summary3": [
+   "物理AIモデルの進化に脳波データが浮上",
+   "従来のYouTube動画を超える学習が必要",
+   "複数カメラや高密度アノテーションも必須"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のAI動向として、海外メディア「TechCrunch AI」が報じた物理AIモデルの進化に関する情報をお届けします。最先端の物理AIモデルの訓練において、従来のようなYouTube動画を活用するだけでは不十分であることが指摘されています。",
+   "これからのフロンティア物理AIモデルには、複数のカメラアングルによる映像や、高密度なアノテーションが不可欠となっています。さらに、それらのデータに加え、今後は脳波データの読み取りまでもが必要になる可能性が示唆されています。",
+   "ロボット工学や身体性を持つAIの開発現場において、機械学習の精度をさらに高めるためのアプローチは多様化しています。脳波の活用が次世代のAI開発にどのような影響を与えるのか、今後の技術的な進展から目が離せません。"
+  ],
+  "tags": [
+   "物理AI",
+   "脳波",
+   "TechCrunch"
+  ],
+  "slug": "brain-waves-physical-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+  "category": "ai",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-brain-waves-physical-ai.html"
+ },
+ {
+  "title": "NEC、スマホ映像から1分で3Dモデル化するAI開発",
+  "lead": "NECは、スマートフォンで撮影した映像から高精細な3Dモデルを最短1分で生成する技術を開発しました。独自のAIが人物や一時的な障害物を自動で除去するのが特徴です。",
+  "summary3": [
+   "スマホ映像から最短1分で3Dモデル生成",
+   "独自AIが人物や障害物を自動で除去",
+   "周囲の映像を基にして背景を補完する"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。ITmedia AI+の報道によると、NECはスマートフォンなどの汎用カメラで撮影した映像から、高精細な3Dモデルを最短1分ほどで生成する技術を開発しました。撮影したデータを素早く立体化できるため、様々な分野での活用が期待されています。",
+   "この技術の大きな特徴は、独自のAIによる高度な画像処理能力にあります。撮影時に映り込んでしまった人物や、一時的な障害物を自動で綺麗に除去することが可能です。さらに、取り除いた部分の周囲にある映像を基にして、背景を自然に補完する仕組みを備えています。",
+   "身近なデバイスであるスマートフォンの映像を手軽に活用しながら、短時間で高精度な3Dモデルを作り出す今回の技術は、映像制作や空間情報のデジタル化を大きく変える可能性があります。今後の展開や詳しい仕様についても、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "NEC",
+   "3Dモデル",
+   "AI"
+  ],
+  "slug": "nec-develops-fast-3d-model-generation-from-smartphone-video",
+  "people": [],
+  "terms": [
+   {
+    "name": "NEC",
+    "type": "company",
+    "desc": "東京都港区に本拠を置く、通信機器やITサービス、AI技術の提供などを手掛ける日本の大手電機メーカー。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://monoist.itmedia.co.jp/mn/articles/2607/27/news011.html",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-nec-develops-fast-3d-model-generation-from-smartphone-video.html"
+ },
+ {
+  "title": "脳研究とAIが融合、頭の中の音楽を復元する仕組みとは",
+  "lead": "脳研究と人工知能（AI）の融合が進み、人が見聞きしているイメージや音楽を脳活動から復元する技術が注目を集めています。抽象的な概念を脳がどう処理しているのか、その解明に向けたアプローチを探ります。",
+  "summary3": [
+   "脳研究とAIの融合が進行中",
+   "脳活動から音楽や画像を復元",
+   "抽象的な概念の処理を解明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。脳研究と人工知能（AI）という2つの研究領域が融合し始めています。従来の脳研究では、頭の中にある抽象的な概念やイメージを実験で直接扱うことは非常に難しいとされてきました。",
+   "しかし、AIを活用することで、人が画像や音楽を見聞きしている時に生じる抽象的な概念を取り出すことが可能になってきました。これにより、その人が見聞きしている内容を脳活動から復元できるようになっています。",
+   "今後は、脳がどのように抽象的な概念を処理しているのかというメカニズムの解明が進むと期待されています。AI技術の進化が、これまでの脳科学では難しかった領域に新たな光を当てています。"
+  ],
+  "tags": [
+   "AI",
+   "脳科学",
+   "テクノロジー"
+  ],
+  "slug": "ai-brain-activity-music-restoration",
+  "people": [],
+  "terms": [
+   {
+    "name": "人工知能（AI）",
+    "type": "ai",
+    "desc": "人間の知的なふるまいをコンピュータで再現する技術やシステムの総称です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOSG2357A0T20C26A7000000/",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-ai-brain-activity-music-restoration.html"
+ },
+ {
+  "title": "政府スパイウェア企業をハッキングしたPhineas Fisherの正体",
+  "lead": "政府向けのスパイウェアを開発する企業をハッキングし、一度も逮捕されていないハクティビスト「Phineas Fisher」についての情報が注目を集めています。",
+  "summary3": [
+   "政府スパイウェア企業をハック",
+   "一度も逮捕されていないハッカー",
+   "Phineas Fisherの正体とは"
+  ],
+  "body": [
+   "TechCrunchの報道によると、政府向けに controversial な（物議を醸す）スパイウェアを製造する2つの企業をハッキングした、畏敬の念を抱かせるハクティビストが存在します。",
+   "その人物は「Phineas Fisher」と呼ばれており、これまでに一度も捕まったことがない最も多作なハッカーの一人である可能性があります。",
+   "現在、この人物に関して何が分かっているのか、その全貌や背景について改めて関心が集まっていますが、詳細については依然として謎に包まれたままとなっています。"
+  ],
+  "tags": [
+   "セキュリティ",
+   "ハッキング",
+   "スパイウェア"
+  ],
+  "slug": "phineas-fisher-spyware-hacker",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー系ニュースメディアで、スタートアップやIT企業の情報を専門に報じています。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-phineas-fisher-spyware-hacker.html"
+ },
+ {
+  "title": "登録者数140万超YouTuberのビフォーアフター",
+  "lead": "登録者数140万超えの美容系YouTuberが公開したメイクのビフォーアフターが、ネット上で大きな反響を呼んでいます。",
+  "summary3": [
+   "登録者数140万超の美容系YouTuber",
+   "メイクのビフォーアフターを公開",
+   "振り幅の大きさに称賛の声が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする注目のニュースです。登録者数が140万人を超える人気の美容系YouTuberが、自身のメイクのビフォーアフターを公開し、大きな話題となっています。",
+   "公開された姿に対して、SNSなどでは「メイクという概念がある時代に生まれてよかった」といったコメントのほか、「振り幅がすごすぎる」「技術が神」といった絶賛の声が多数寄せられています。",
+   "圧倒的なメイクの技術とその変化の大きさに、多くのファンや視聴者が魅了されており、美容に対する関心がさらに高まるきっかけとなっています。"
+  ],
+  "tags": [
+   "YouTuber",
+   "美容",
+   "メイク"
+  ],
+  "slug": "beauty-youtuber-before-after",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVZOcWJjTHJQQk1iYThwX2hmSElXT090emdoVkZCOWxSVDA0MGdhQmMyaTcyYTBfQXZVWk40T0s3dEZPOUpDaTNncFdaaW1keFl4WnUxeXNzNXpZV3FCM3BrX3V3UlJwVE9UZWthdDgtcjRhNDNjWnV5X01lcUhpQkQ5dDI3d0pEUW9oWk53?oc=5",
+  "category": "influencer",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-beauty-youtuber-before-after.html"
+ },
+ {
+  "title": "WTI原油が一時83ドル台に急落、イラン攻撃停止で7%安",
+  "lead": "26日のニューヨーク原油市場で売り注文が広がり、WTIの先物価格が一時1バレル＝83ドル台前半まで下落しました。",
+  "summary3": [
+   "ニューヨーク原油市場で売り注文が広がる",
+   "WTI先物価格が一時83ドル台前半に下落",
+   "イランへの攻撃停止が要因で下落率が7%に迫る"
+  ],
+  "body": [
+   "26日のニューヨーク原油市場では売り注文が広がり、国際的な取り引きの指標となるWTIの先物価格は一時、1バレル＝83ドル台前半まで値下がりしました。",
+   "今回の価格下落は、イランへの攻撃停止が主な要因となっており、市場では地政学リスクへの意識が変化する動きが見られました。",
+   "この日の値下がりによって、先週末からの下落率は7％に迫る場面もあり、今後の原油市場の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "原油",
+   "経済",
+   "ニューヨーク市場"
+  ],
+  "slug": "ny-crude-oil-drops-to-83-dollars",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187131000",
+  "category": "world",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-ny-crude-oil-drops-to-83-dollars.html"
+ },
+ {
+  "title": "福岡県議会1800万円金銭授受問題、吉松源昭議員らが会見へ",
+  "lead": "福岡県議会の正副議長ポストをめぐる金銭授受の指摘について、吉松源昭議員が27日午前11時から記者会見を行います。",
+  "summary3": [
+   "福岡県議会の金銭授受問題で会見",
+   "吉松源昭議員が1800万円提供と証言",
+   "27日午前11時から福岡県庁で実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。福岡県議会の正副議長ポストをめぐり、金銭授受があったと指摘されている問題で、新たな動きがありました。",
+   "議長に就任する前に自民党県議団の幹部に1800万円以上を提供したと証言した吉松源昭議員が、27日午前11時から福岡県庁で記者会見を行う予定です。",
+   "本件に関する今後の詳細や影響については、引き続き取材を進めてまいります。"
+  ],
+  "tags": [
+   "福岡県議会",
+   "政治",
+   "金銭授受"
+  ],
+  "slug": "fukuoka-assembly-money-issue",
+  "people": [
+   {
+    "name": "吉松源昭議員",
+    "bio": "福岡県議会の議員であり、正副議長ポストをめぐる金銭授受の指摘に関して自民党県議団幹部への金銭提供を証言した。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187091000",
+  "category": "world",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-fukuoka-assembly-money-issue.html"
+ },
+ {
+  "title": "米FRB、イラン情勢で金利どうなる",
+  "lead": "アメリカのFRBは28日から金融政策を決める会合を開きます。イラン情勢によるインフレ再加速の懸念が高まる中、その判断に高い関心が寄せられています。",
+  "summary3": [
+   "米FRBが28日から会合を開催",
+   "イラン情勢でインフレ懸念が浮上",
+   "政策金利の据え置き見方も出る"
+  ],
+  "body": [
+   "アメリカのFRB＝連邦準備制度理事会は、28日からウォーシュ議長のもとで2回目となる金融政策を決める会合を開きます。今回の会合では、今後の金利の行方や金融政策の運営方針についてどのような判断が下されるのかが最大の焦点となっています。",
+   "金融市場では、現時点ではFRBが政策金利を据え置くとの見方が示される一方、中東のイラン情勢を背景としたインフレの再加速に対する懸念もくすぶっています。",
+   "地政学的なリスクが経済や物価に与える影響は小さくなく、市場参加者の間では今後の物価動向やFRBの姿勢を慎重に見極めようとする動きが続いています。"
+  ],
+  "tags": [
+   "FRB",
+   "金融政策",
+   "インフレ"
+  ],
+  "slug": "us-frb-meeting-iran-inflation",
+  "people": [],
+  "terms": [
+   {
+    "name": "FRB",
+    "type": "company",
+    "desc": "アメリカの金融政策を担う中央銀行制度であり、法定通貨ドルの発行や金利の調整などを統括している。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015186781000",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-us-frb-meeting-iran-inflation.html"
+ },
+ {
+  "title": "キオクシアHD株、米国レバETFの波で値動き激化か",
+  "lead": "キオクシアホールディングス株を対象とした個別株レバレッジ型上場投資信託の上場準備が米国で進んでおり、新たなリスクとして浮上しています。",
+  "summary3": [
+   "キオクシアHD株に新たなリスク",
+   "米国でレバETFの上場準備が進む",
+   "値動きがさらに激しくなる可能性"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が東洋経済オンラインの報道を基に伝えたところによると、キオクシアホールディングス株に新たなリスクが浮上していることが分かりました。",
+   "現在、米国において同社株を対象とした個別株レバレッジ型上場投資信託（ETF）の上場準備が進められている状況です。この動きが実現した場合、今後の値動きがさらに激しくなる可能性が指摘されています。",
+   "市場関係者の間では、米証券取引委員会などの動向を含め、今後の展開に警戒感が広がっています。投資家にとっては、株価の変動リスクに対する十分な注意が必要です。"
+  ],
+  "tags": [
+   "キオクシアHD",
+   "ETF",
+   "株式市場"
+  ],
+  "slug": "kioxia-hd-leverage-etf-risk",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシアホールディングス",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を手がける日本の大手半導体企業。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952734?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-kioxia-hd-leverage-etf-risk.html"
+ },
+ {
+  "title": "ELEMENTS、2026年11月期第2四半期決算説明の書き起こし記事が掲載",
+  "lead": "AI TECH TIMESがお届けする企業ニュース。ＥＬＥＭＥＮＴＳに関する最新の適時開示情報をお伝えします。",
+  "summary3": [
+   "ＥＬＥＭＥＮＴＳの決算説明会",
+   "ログミーFinanceに記事掲載",
+   "2026年7月27日に適時開示"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、ＥＬＥＭＥＮＴＳに関する新たな情報が公開されました。",
+   "2026年7月27日の適時開示において、2026年11月期第２四半期決算説明に関するログミーFinance書き起こし記事の掲載がお知らせされています。",
+   "詳細な内容については、該当の適時開示情報および掲載された書き起こし記事をご参照ください。"
+  ],
+  "tags": [
+   "ＥＬＥＭＥＮＴＳ",
+   "決算説明",
+   "適時開示"
+  ],
+  "slug": "elements-2026-q2-earnings-logmi",
+  "people": [],
+  "terms": [
+   {
+    "name": "ＥＬＥＭＥＮＴＳ",
+    "type": "company",
+    "desc": "証券コード5246の上場企業であり、各種事業を展開している会社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmtBVWNlM0tLeDRsb3dIQ1Nvc3ZqRHpESmFtdFpCblhkNEowdTM2RFE5aV8tM1d2S1FRVXVmMWdQMlZJZ1ZfUE5wdXczUkRBYzRQNXdVVVJPUzVSQWVDRy0talR0aVg2MjdfVVpYelF2UUN4RHQ5bXQ2VEpnMThib09YbkdKQmpGMFpSbUhaLXhMdXpLYUF5djhfN1JRcTlMMy1rdmx6cmx2ZVdrNkdhWFl3NTlYRmdHVnJGWGh0Y1BRVlIyaTUyLXM3dGk?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "12:01",
+  "path": "/articles/20260727-elements-2026-q2-earnings-logmi.html"
  }
 ]

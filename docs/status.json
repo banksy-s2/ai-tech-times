@@ -1,21 +1,70 @@
 {
- "updated": "2026-07-27 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-27 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "初音ミクの大型イベント「マジカルミライ」がボカロのふるさと浜松で初開催された理由",
-   "path": "/articles/20260727-magical-mirai-hamamatsu-vocaloid.html",
+   "title": "TechCrunch AI：脳波データの活用が迫る物理AIの進化",
+   "path": "/articles/20260727-brain-waves-physical-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "NEC、スマホ映像から1分で3Dモデル化するAI開発",
+   "path": "/articles/20260727-nec-develops-fast-3d-model-generation-from-smartphone-video.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "脳研究とAIが融合、頭の中の音楽を復元する仕組みとは",
+   "path": "/articles/20260727-ai-brain-activity-music-restoration.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "政府スパイウェア企業をハッキングしたPhineas Fisherの正体",
+   "path": "/articles/20260727-phineas-fisher-spyware-hacker.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "登録者数140万超YouTuberのビフォーアフター",
+   "path": "/articles/20260727-beauty-youtuber-before-after.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "WTI原油が一時83ドル台に急落、イラン攻撃停止で7%安",
+   "path": "/articles/20260727-ny-crude-oil-drops-to-83-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "福岡県議会1800万円金銭授受問題、吉松源昭議員らが会見へ",
+   "path": "/articles/20260727-fukuoka-assembly-money-issue.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米FRB、イラン情勢で金利どうなる",
+   "path": "/articles/20260727-us-frb-meeting-iran-inflation.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシアHD株、米国レバETFの波で値動き激化か",
+   "path": "/articles/20260727-kioxia-hd-leverage-etf-risk.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ELEMENTS、2026年11月期第2四半期決算説明の書き起こし記事が掲載",
+   "path": "/articles/20260727-elements-2026-q2-earnings-logmi.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
- "notes": [],
- "pv_today": 21,
+ "notes": [
+  "執筆失敗: China memory chipmaker CXMT skyrockets 4",
+  "執筆失敗: Ｊフロンティが急反発、エアロネクストと業務提携し「空から支える地域医療インフラ」",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 25,
  "gemini": {
-  "used": 64,
+  "used": 90,
   "limit": 200
  }
 }

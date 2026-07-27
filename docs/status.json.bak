@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-27 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-27 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Uberが前CEOに賭ける理由、未来の交通とAI戦略",
-   "path": "/articles/20260727-uber-bets-on-former-ceo.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX、次回のStarship飛行で発射塔キャッチに挑む",
-   "path": "/articles/20260727-spacex-eyes-tower-catch-for-starship.html",
-   "cat": "シリコンバレー最速"
+   "title": "初音ミクの大型イベント「マジカルミライ」がボカロのふるさと浜松で初開催された理由",
+   "path": "/articles/20260727-magical-mirai-hamamatsu-vocaloid.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 19,
+ "pv_today": 21,
  "gemini": {
-  "used": 61,
+  "used": 64,
   "limit": 200
  }
 }
