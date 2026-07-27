@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 12:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [高市総理、物価高対策を後回しとの批判に最優先と反論](https://ai-tech-times.web.app/articles/20260727-shugiin-budget-committee-inflation-measures.html) — 2026-07-27 13:00: 衆議院予算委員会で集中審議が行われ、物価高対策や国民生活への手当てをめぐって論戦が交わされました。
+- [米国産生鮮ジャガイモの輸入解禁、夏にも評価終了へ](https://ai-tech-times.web.app/articles/20260727-us-fresh-potatoes-import-evaluation.html) — 2026-07-27 13:00: 農林水産省は、アメリカが求めている生のジャガイモの輸入解禁に向け、病気や害虫のリスク評価を今夏にも終える見込みです。
 - [TechCrunch AI：脳波データの活用が迫る物理AIの進化](https://ai-tech-times.web.app/articles/20260727-brain-waves-physical-ai.html) — 2026-07-27 12:01: フロンティア物理AIモデルの進化において、脳波データの読み取りが新たな鍵として注目を集めています。YouTube動画を超える多様なアプローチが模索されています。
 - [NEC、スマホ映像から1分で3Dモデル化するAI開発](https://ai-tech-times.web.app/articles/20260727-nec-develops-fast-3d-model-generation-from-smartphone-video.html) — 2026-07-27 12:01: NECは、スマートフォンで撮影した映像から高精細な3Dモデルを最短1分で生成する技術を開発しました。独自のAIが人物や一時的な障害物を自動で除去するのが特徴です。
 - [脳研究とAIが融合、頭の中の音楽を復元する仕組みとは](https://ai-tech-times.web.app/articles/20260727-ai-brain-activity-music-restoration.html) — 2026-07-27 12:01: 脳研究と人工知能（AI）の融合が進み、人が見聞きしているイメージや音楽を脳活動から復元する技術が注目を集めています。抽象的な概念を脳がどう処理しているのか、その解明に向けたアプローチを探ります。
@@ -40,15 +42,13 @@
 - [Cloudflare、AIトラフィックの新オプション発表](https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html) — 2026-07-27 08:00: Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。
 - [Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開](https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html) — 2026-07-27 08:00: Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。
 - [Claude CodeでOpus5の思考が浅くなる問題とその対策](https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html) — 2026-07-27 07:02: Claude CodeをOpus 5に切り替えたところ、応答の散文傾向が強まり思考が浅くなる変化が見られました。
-- [GitHubが対応、MCPの7月28日版仕様で何が変わるのか](https://ai-tech-times.web.app/articles/20260727-mcp-github-update.html) — 2026-07-27 07:02: AIツールを接続する通信プロトコル「MCP」の7月28日版仕様が公開間近となっています。早くもGitHubのMCPサーバが対応を発表しました。
-- [Appleの初スマートグラス、開発の遅れはプライバシー重視が原因か](https://ai-tech-times.web.app/articles/20260727-apple-smart-glasses-privacy.html) — 2026-07-27 07:02: Appleが初となるスマートグラスの発表・発売に向けて準備を進めていることが明らかになりました。プライバシー機能の調整が遅れの要因になっていると報じられています。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
 - 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
 - 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 
-## AI用語事典 (全306語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全307語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
