@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-28 00:02",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-28 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資",
-   "path": "/articles/20260728-enigma-raises-70m-robot-control.html",
-   "cat": "AI(海外)"
+   "title": "Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に",
+   "path": "/articles/20260728-anthropic-claude-opus-5-announced.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Moonshot AIのKimiがシリコンバレーに動揺を与えた理由",
-   "path": "/articles/20260728-making-sense-of-the-panic-over-chinese-ai.html",
-   "cat": "AI(海外)"
+   "title": "Cameron Palmer氏が明かすLLM導入の罠とは",
+   "path": "/articles/20260728-cameron-palmer-llm-implementation-framework.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
-  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
+  "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+  "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc"
  },
  "notes": [],
- "pv_today": 5,
+ "pv_today": 6,
  "gemini": {
-  "used": 4,
+  "used": 7,
   "limit": 200
  }
 }

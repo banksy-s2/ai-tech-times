@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Amazon、衛星5105基の直結網へ連邦承認を申請](https://ai-tech-times.web.app/articles/20260728-amazon-satellite-network-approval.html) — 2026-07-28 02:00: 米Amazonが、直結型ネットワークの構築に向けて5,105基の衛星打ち上げの連邦承認を申請したことがCNBC Techの報道で明らかになりました。
 - [Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に](https://ai-tech-times.web.app/articles/20260728-anthropic-claude-opus-5-announced.html) — 2026-07-28 01:00: Anthropicは、新たなAIモデル「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持ちながら、価格は半額に抑えられています。
 - [Cameron Palmer氏が明かすLLM導入の罠とは](https://ai-tech-times.web.app/articles/20260728-cameron-palmer-llm-implementation-framework.html) — 2026-07-28 01:00: 「AIを使えるところを探す」という発想に潜むリスクについて、AI実装コンサルタントのCameron Palmer氏が自身の失敗から得た教訓を公開しました。
 - [Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資](https://ai-tech-times.web.app/articles/20260728-enigma-raises-70m-robot-control.html) — 2026-07-28 00:02: ロボットの制御を音量調節のように簡単にする新興企業Enigmaが、総額7000万ドルの大規模なシードラウンドでの資金調達を実施しました。
@@ -41,14 +42,13 @@
 - [三菱UFJFG株価が上場来高値、日銀会合前に思惑買い](https://ai-tech-times.web.app/articles/20260727-mitsubishi-ufj-fg-stock-high.html) — 2026-07-27 21:04: 三菱UFJFGの株価が上場来高値を更新しました。日本銀行の金融政策決定会合を控えた思惑買いが背景にあります。
 - [7751.T、純利益47%増の1,229億円を達成](https://ai-tech-times.web.app/articles/20260727-7751-t-fy2026-q2-earnings.html) — 2026-07-27 21:04: AI TECH TIMESがお届けする企業決算ニュースです。BigGo ファイナンスが報じた【7751.T FY2026 Q2 決算説明会】の最新情報をお伝えします。
 - [SBIグローバルアセットマネジメント、統合効果で売上高4.5倍](https://ai-tech-times.web.app/articles/20260727-sbi-global-asset-management-fy2027-q1-results.html) — 2026-07-27 21:04: SBIグローバルアセットマネジメントの2027年3月期第1四半期決算説明会動画が公開されました。統合効果により売上高4.5倍、EPS80%増を達成し、中間増配へ向かうことが明らかにされています。
-- [映画ちいかわ初日からの3日間で興収22.4億円突破、150万人動員はなぜ成功したのか](https://ai-tech-times.web.app/articles/20260727-movie-chiikawa-box-office-22-4-billion.html) — 2026-07-27 20:01: アニメ『ちいかわ』初の映画『映画ちいかわ 人魚の島のひみつ』が24日より公開され、初日から3日間の興行収入が22.4億円、動員数が150万人を記録しました。大ヒットの背景には何があったのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
 - 1位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 - 2位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
-- 3位: [REACHER Season 4 - Official Trailer | Prime Video](https://www.youtube.com/watch?v=PCbp1FfipPg)
+- 3位: [Welcome to K.H.A.O.S | TV Royale](https://www.youtube.com/watch?v=XuovA-AdDP8)
 
-## AI用語事典 (全327語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全328語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -57,9 +57,9 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ対話型AIアシスタント。
-- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。

@@ -13577,5 +13577,77 @@
   "date": "2026-07-28",
   "time": "00:02",
   "path": "/articles/20260728-making-sense-of-the-panic-over-chinese-ai.html"
+ },
+ {
+  "title": "Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に",
+  "lead": "Anthropicは、新たなAIモデル「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持ちながら、価格は半額に抑えられています。",
+  "summary3": [
+   "Anthropicが新モデルClaude Opus 5を発表",
+   "Fable 5に迫る知能を半分の価格で提供",
+   "Maxプランの新たな既定モデルに採用"
+  ],
+  "body": [
+   "AI開発企業のAnthropicは、「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持つとされており、注目を集めています。",
+   "特筆すべきは、その価格設定です。「Fable 5」に迫る知能を従来の半分の価格で実現しており、「Opus 4.8」からも価格が据え置かれています。",
+   "さらに、「Max」プランの新たな既定モデルとして採用されることも明らかになりました。コストパフォーマンスを重視するユーザーにとって重要な選択肢となりそうです。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude Opus 5",
+   "AI"
+  ],
+  "slug": "anthropic-claude-opus-5-announced",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、安全性に配慮したAIモデルの開発を行っています。"
+   },
+   {
+    "name": "Claude Opus 5",
+    "type": "ai",
+    "desc": "Anthropicが発表した最新のAIモデルで、Maxプランの新たな既定モデルとなります。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forest.watch.impress.co.jp/docs/news/2127918.html",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "01:00",
+  "path": "/articles/20260728-anthropic-claude-opus-5-announced.html"
+ },
+ {
+  "title": "Cameron Palmer氏が明かすLLM導入の罠とは",
+  "lead": "「AIを使えるところを探す」という発想に潜むリスクについて、AI実装コンサルタントのCameron Palmer氏が自身の失敗から得た教訓を公開しました。",
+  "summary3": [
+   "AIエージェントの丸投げで大失敗",
+   "800件超を手作業で確認し直す事態",
+   "導入を判断する6つの問いを公開"
+  ],
+  "body": [
+   "7月22日、AI実装コンサルタントのCameron Palmer氏が「Should you even use an LLM?」と題した記事を公開しました。記事では、「AIを使えるところを探す」という発想そのものが間違っていると指摘されています。",
+   "Palmer氏は自身が開発したリード発掘システムにおいて、LLMエージェントに処理を丸投げするという痛烈な失敗を経験しました。その結果、800件以上のリードを手作業で確認し直さなければならない事態に陥ったとのことです。",
+   "この記事では、その痛い教訓をもとに、実際にLLMを導入すべきかどうかを判断するための6つの問いで構成されたフレームワークが構築されています。AIの導入を検討している担当者にとって、見落としがちな視点を提供する内容となっています。"
+  ],
+  "tags": [
+   "LLM",
+   "AI導入",
+   "人工知能"
+  ],
+  "slug": "cameron-palmer-llm-implementation-framework",
+  "people": [
+   {
+    "name": "Cameron Palmer",
+    "bio": "AI実装コンサルタントとして活動し、自身のリード発掘システムでの失敗経験をもとにLLM導入の判断基準を公開。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://techfeed.io/entries/6a65420cd0c20765e83dd880",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "01:00",
+  "path": "/articles/20260728-cameron-palmer-llm-implementation-framework.html"
  }
 ]
