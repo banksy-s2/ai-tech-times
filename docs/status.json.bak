@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-27 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "被害45億円、会話もできるAI詐欺の手口と対策",
-   "path": "/articles/20260727-ai-voice-fraud-prevention.html",
-   "cat": "日本のAI"
+   "title": "Uberが前CEOに賭ける理由、未来の交通とAI戦略",
+   "path": "/articles/20260727-uber-bets-on-former-ceo.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "AIエージェント導入のセキュリティリスクとは",
-   "path": "/articles/20260727-ai-agent-security-risks.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、次回のStarship飛行で発射塔キャッチに挑む",
+   "path": "/articles/20260727-spacex-eyes-tower-catch-for-starship.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 7,
+ "pv_today": 19,
  "gemini": {
-  "used": 56,
+  "used": 61,
   "limit": 200
  }
 }

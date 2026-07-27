@@ -11999,5 +11999,77 @@
   "date": "2026-07-27",
   "time": "09:00",
   "path": "/articles/20260727-ai-agent-security-risks.html"
+ },
+ {
+  "title": "Uberが前CEOに賭ける理由、未来の交通とAI戦略",
+  "lead": "TechCrunch Mobilityの最新ニュースをお届けします。今回は、輸送の未来とAIの役割についてお伝えします。",
+  "summary3": [
+   "TechCrunch Mobilityの最新情報",
+   "輸送の未来におけるAIの役割に注目",
+   "Uberが前CEOに賭ける戦略"
+  ],
+  "body": [
+   "「TechCrunch Mobility」へようこそ。ここは、未来の交通手段、そしてこれまで以上にそれが果たすAIの役割に焦点を当てたハブです。",
+   "今回の大きな話題の一つとして、Uberがその元CEOに再び賭けているという動きが挙げられます。",
+   "輸送業界の未来がどのように形作られていくのか、そしてAIがその中でどのような役割を担っていくのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Uber",
+   "TechCrunch Mobility",
+   "AI"
+  ],
+  "slug": "uber-bets-on-former-ceo",
+  "people": [],
+  "terms": [
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー系ニュースサイトであり、スタートアップや新技術の情報を中心に発信している。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "10:00",
+  "path": "/articles/20260727-uber-bets-on-former-ceo.html"
+ },
+ {
+  "title": "SpaceX、次回のStarship飛行で発射塔キャッチに挑む",
+  "lead": "Ars Technicaによると、SpaceXは次回のスターシップ飛行で、発射台でのキャッチを試みる見込みです。",
+  "summary3": [
+   "次回の飛行で発射塔キャッチを計画",
+   "13回目の飛行が好調な結末を迎える",
+   "Ars Technicaが今後の展望を報道"
+  ],
+  "body": [
+   "米国の宇宙企業であるSpaceXは、大型宇宙船スターシップの13回目の飛行を好調な結末で終えました。これを受け、同社は次の飛行において、発射台に戻るスターシップを発射塔でキャッチすることを計画しています。",
+   "これまでの開発プロセスを経て、今回の成功が次の挑戦への道を開きました。発射塔でのキャッチという高度な回収手法が次の飛行でどのように実行されるのか、宇宙開発の分野で大きな注目を集めています。"
+  ],
+  "tags": [
+   "SpaceX",
+   "Starship",
+   "宇宙開発"
+  ],
+  "slug": "spacex-eyes-tower-catch-for-starship",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、ロケット開発や宇宙輸送を行っている民間宇宙企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "10:00",
+  "path": "/articles/20260727-spacex-eyes-tower-catch-for-starship.html"
  }
 ]
