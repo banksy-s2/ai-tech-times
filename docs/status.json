@@ -1,24 +1,13 @@
 {
- "updated": "2026-07-27 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [
-  {
-   "title": "日産、利益9割減の決算発表で飛び出した社長発言",
-   "path": "/articles/20260727-nissan-earnings-drop-90-percent.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "Ｊフロンティ急反発、エアロネクストと業務提携で地域医療を支援へ",
-   "path": "/articles/20260727-j-frontier-aeronext-business-alliance.html",
-   "cat": "日本企業"
-  }
- ],
+ "updated": "2026-07-27 16:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
  "notes": [],
- "pv_today": 35,
+ "pv_today": 40,
  "gemini": {
   "used": 103,
   "limit": 200
