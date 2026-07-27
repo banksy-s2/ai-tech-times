@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>MIXIの新卒向けAI研修資料、全12科目で無料公開</title>
+<link>https://ai-tech-times.web.app/articles/20260727-mixi-ai-training-materials.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-mixi-ai-training-materials.html</guid>
+<pubDate>Mon, 27 Jul 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>MIXIは、2026年度入社の新卒エンジニア向け技術研修の資料と動画を無料公開しました。</description>
+</item>
+<item>
+<title>ChatGPTと挑む元トラック運転手のバーガー店成功術</title>
+<link>https://ai-tech-times.web.app/articles/20260727-ai-hamburger-recipe-chatgpt.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-ai-hamburger-recipe-chatgpt.html</guid>
+<pubDate>Mon, 27 Jul 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>倒産件数が過去最多を更新するなど飲食店を取り巻く環境が厳しさを増す中、調理経験のない元トラック運転手が生成AIを活用して人気店を作り上げた取材記事が注目を集めています。</description>
+</item>
+<item>
 <title>SKハイニックス過去最高の約7.2兆円利益、その理由は？</title>
 <link>https://ai-tech-times.web.app/articles/20260727-sk-hynix-record-profit-2026.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260727-sk-hynix-record-profit-2026.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 27 Jul 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>企業でAIエージェント導入を検討する中、自律的に動く特性がどのようなセキュリティリスクを生むのか判断できず対策の検討が止まっている状況について解説します。</description>
-</item>
-<item>
-<title>Cloudflare、AIトラフィックの新オプション発表</title>
-<link>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</guid>
-<pubDate>Mon, 27 Jul 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。</description>
-</item>
-<item>
-<title>Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開</title>
-<link>https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html</guid>
-<pubDate>Mon, 27 Jul 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。</description>
 </item>
 </channel></rss>
