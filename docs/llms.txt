@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 07:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [GoogleのAI検索、43%の検索で表示され標準に](https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html) — 2026-07-28 08:00: Googleの検索結果にAIが生成する回答が表示される「AI Overviews」が、全検索の43%に達していることが新しいデータで明らかになりました。
 - [AnthropicのClaude共有チャットがGoogleにインデックスか](https://ai-tech-times.web.app/articles/20260728-claude-shared-chats-google-indexing.html) — 2026-07-28 07:03: Anthropicが提供するAIサービス「Claude」の共有機能を利用したチャットやArtifactsが、Googleなどの検索エンジンにインデックスされてしまった可能性が浮上しました。
 - [Safe SuperintelligenceがNvidiaと提携した理由](https://ai-tech-times.web.app/articles/20260728-safe-superintelligence-nvidia-partnership.html) — 2026-07-28 07:03: AI業界の注目を集めるSafe Superintelligenceが、Nvidiaと長期的なパートナーシップを締結し、AI研究を次の段階へとスケールさせると発表しました。
 - [弁護士ドットコムがAWS DevOps Agentを活用、インシデント対応の自動化と属人化の解消に挑む](https://ai-tech-times.web.app/articles/20260728-bengo4com-aws-devops-agent-case-study.html) — 2026-07-28 07:03: 弁護士ドットコム株式会社がAmazon Web Servicesの「AWS DevOps Agent」を活用した事例が、AWS公式ブログにて公開されました。インシデント対応の自動化と属人化の解消をどのように実現したのか、同社の開発陣による寄稿の内容をお伝えします。
@@ -41,7 +42,6 @@
 - [プーチン大統領、北朝鮮の2万人追加派兵とウクライナ東部展開を議論か](https://ai-tech-times.web.app/articles/20260728-putin-north-korea-troop-deployment.html) — 2026-07-28 04:00: ロシアのプーチン大統領と北朝鮮の外相が7月にモスクワで会談し、北朝鮮がロシアへ2万人規模の兵士を追加派遣する可能性について議論していたことが、ロシアの外交筋の取材で明らかになりました。
 - [Amazon、衛星5105基の直結網へ連邦承認を申請](https://ai-tech-times.web.app/articles/20260728-amazon-satellite-network-approval.html) — 2026-07-28 02:00: 米Amazonが、直結型ネットワークの構築に向けて5,105基の衛星打ち上げの連邦承認を申請したことがCNBC Techの報道で明らかになりました。
 - [Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に](https://ai-tech-times.web.app/articles/20260728-anthropic-claude-opus-5-announced.html) — 2026-07-28 01:00: Anthropicは、新たなAIモデル「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持ちながら、価格は半額に抑えられています。
-- [Cameron Palmer氏が明かすLLM導入の罠とは](https://ai-tech-times.web.app/articles/20260728-cameron-palmer-llm-implementation-framework.html) — 2026-07-28 01:00: 「AIを使えるところを探す」という発想に潜むリスクについて、AI実装コンサルタントのCameron Palmer氏が自身の失敗から得た教訓を公開しました。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
 - 1位: [Welcome to K.H.A.O.S | TV Royale](https://www.youtube.com/watch?v=XuovA-AdDP8)
@@ -51,8 +51,8 @@
 ## AI用語事典 (全347語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
-- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
+- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
@@ -68,6 +68,7 @@
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う日本の代表的な日刊新聞です。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
@@ -78,7 +79,6 @@
 - [Kimiとは](https://ai-tech-times.web.app/term/kimi.html): Moonshot AIが開発した、市場に大きなインパクトを与えている対話型のAIモデルです。
 - [Ars Technicaとは](https://ai-tech-times.web.app/term/ars-technica.html): テクノロジーや科学、IT政策に関する専門的なニュースや深い分析を提供するアメリカの有力メディア媒体です。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
-- [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体メーカーで、特にDRAMなどのメモリ製品で高いシェアを誇ります。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

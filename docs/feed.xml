@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>GoogleのAI検索、43%の検索で表示され標準に</title>
+<link>https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html</guid>
+<pubDate>Tue, 28 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Googleの検索結果にAIが生成する回答が表示される「AI Overviews」が、全検索の43%に達していることが新しいデータで明らかになりました。</description>
+</item>
+<item>
 <title>AnthropicのClaude共有チャットがGoogleにインデックスか</title>
 <link>https://ai-tech-times.web.app/articles/20260728-claude-shared-chats-google-indexing.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260728-claude-shared-chats-google-indexing.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>東大松尾・岩澤研が、講義動画の英語字幕を自動生成するAIアプリを無償で公開しました。</description>
-</item>
-<item>
-<title>MicrosoftやSpaceXが新AI安全同盟になぜ参加したのか</title>
-<link>https://ai-tech-times.web.app/articles/20260727-microsoft-spacex-ai-safety-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-microsoft-spacex-ai-safety-alliance.html</guid>
-<pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>MicrosoftやSpaceXなど多数のテクノロジー企業が、AIの安全性を確保するための新たな取り組み「Open Secure AI Alliance」に参加しました。</description>
 </item>
 </channel></rss>
