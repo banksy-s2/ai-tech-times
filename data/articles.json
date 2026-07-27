@@ -13861,5 +13861,476 @@
   "date": "2026-07-28",
   "time": "06:00",
   "path": "/articles/20260728-icda-holdings-business-analysis.html"
+ },
+ {
+  "title": "AnthropicのClaude共有チャットがGoogleにインデックスか",
+  "lead": "Anthropicが提供するAIサービス「Claude」の共有機能を利用したチャットやArtifactsが、Googleなどの検索エンジンにインデックスされてしまった可能性が浮上しました。",
+  "summary3": [
+   "Claudeの共有チャット機能に問題か",
+   "会話やArtifactsが検索結果に",
+   "URLを知る誰でも閲覧できる仕様"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が得た情報によると、Anthropicの提供する対話型AI「Claude」において、共有されたチャットやArtifactsがGoogleなどの検索エンジンにインデックスされてしまった可能性があることが明らかになりました。",
+   "この問題の主な発端となっているのは、Claudeに備わっている「シェアチャット」機能であるとみられています。この機能は、ユーザーが作成した特定のURLを知っていれば、誰でもその会話内容やプロジェクトを閲覧できるようにするためのものです。",
+   "意図せず自身の共有チャットや成果物が検索結果に含まれてしまうリスクがあるため、ユーザーの間で懸念が高まっています。今後の詳細な調査や対策の発表が待たれる状況です。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "セキュリティ"
+  ],
+  "slug": "claude-shared-chats-google-indexing",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、安全性を重視した対話型AI「Claude」を開発する人工知能企業。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-claude-shared-chats-google-indexing.html"
+ },
+ {
+  "title": "Safe SuperintelligenceがNvidiaと提携した理由",
+  "lead": "AI業界の注目を集めるSafe Superintelligenceが、Nvidiaと長期的なパートナーシップを締結し、AI研究を次の段階へとスケールさせると発表しました。",
+  "summary3": [
+   "SSIがNvidiaと長期提携を発表",
+   "2年間のステルス期間を経て次段階へ",
+   "AI研究のスケーリングを推進"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、2年間のステルス期間を経て活動を続けてきたSafe Superintelligenceが、新たにNvidiaとの長期的なパートナーシップを締結したことが明らかになりました。",
+   "今回の提携は、同社がAI研究を次の段階へとスケールさせるために行われるものです。最先端のAI開発を進める上で、強力な基盤を持つ企業との連携が不可欠となっています。",
+   "Safe Superintelligenceは今後、Nvidiaとの協力を通じて研究開発を加速させ、さらなる技術的飛躍を目指していく方針です。"
+  ],
+  "tags": [
+   "Safe Superintelligen",
+   "Nvidia",
+   "AI研究"
+  ],
+  "slug": "safe-superintelligence-nvidia-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "Safe Superintelligence",
+    "type": "company",
+    "desc": "安全な超知能AIの開発を目指し、元OpenAIの研究者らが設立した最先端のAIスタートアップ企業。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "AI開発に不可欠な高性能GPU市場で圧倒的なシェアを誇る、アメリカの半導体大手企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-safe-superintelligence-nvidia-partnership.html"
+ },
+ {
+  "title": "弁護士ドットコムがAWS DevOps Agentを活用、インシデント対応の自動化と属人化の解消に挑む",
+  "lead": "弁護士ドットコム株式会社がAmazon Web Servicesの「AWS DevOps Agent」を活用した事例が、AWS公式ブログにて公開されました。インシデント対応の自動化と属人化の解消をどのように実現したのか、同社の開発陣による寄稿の内容をお伝えします。",
+  "summary3": [
+   "弁護士ドットコムがAWSブログに寄稿",
+   "AWS DevOps Agentを活用",
+   "インシデント対応の自動化と属人化解消へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、Amazon Web Services ブログに掲載された弁護士ドットコム株式会社における「AWS DevOps Agent」の活用事例について報じます。本稿は、同社のCTOを務める田中慎司氏、プロダクト開発本部 Platform & Reliability Engineering 部 (以下、PRE 部) 部長の熊谷晃氏、同 PRE 部の原口慎太郎氏による寄稿をもとにしています。",
+   "記事では、AWS DevOps Agentを活用することで、インシデント対応の自動化や、これまで課題となりがちであった業務の属人化をどのように解消していったのかが解説されています。クラウドインフラストラクチャの運用管理において、最先端のツールをいかに現場に落とし込み、効率化を図っているのかが示されています。",
+   "プラットフォームや信頼性向上を担うPRE部のメンバーが中心となり、AWSの最新技術を取り入れた具体的なプロセスや、その成果に注目が集まっています。詳細な活用事例や導入背景については、Amazon Web Servicesの公式ブログにて公開されています。"
+  ],
+  "tags": [
+   "弁護士ドットコム",
+   "AWS",
+   "DevOps",
+   "クラウド",
+   "インシデント対応"
+  ],
+  "slug": "bengo4com-aws-devops-agent-case-study",
+  "people": [
+   {
+    "name": "田中慎司氏",
+    "bio": "弁護士ドットコム株式会社の最高技術責任者(CTO)を務める人物。"
+   },
+   {
+    "name": "熊谷晃氏",
+    "bio": "弁護士ドットコムのプロダクト開発本部 PRE部 部長を務める人物。"
+   },
+   {
+    "name": "原口慎太郎氏",
+    "bio": "弁護士ドットコムのプロダクト開発本部 PRE部に所属する人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "弁護士ドットコム",
+    "type": "company",
+    "desc": "日本国内で法律相談ポータルサイトやWeb完結型クラウド契約サービス「クラウドサイン」等を運営する企業。"
+   },
+   {
+    "name": "Amazon Web Services",
+    "type": "company",
+    "desc": "米アマゾン・ドット・コムが提供する、世界最大手のエッジからクラウドまで網羅する包括的なクラウドコンピューティングサービス。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://aws.amazon.com/jp/blogs/news/bengo4com-devops-agent-case-study/",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-bengo4com-aws-devops-agent-case-study.html"
+ },
+ {
+  "title": "OpenAIやClaudeのAIトークン価格を10分の1にするプロンプトキャッシュとは",
+  "lead": "OpenAIやAnthropicなどの大規模言語モデルで導入されている「プロンプトキャッシュ」の仕組みについて、開発者向けサービスを提供するngrokが詳しく解説しています。",
+  "summary3": [
+   "AIのトークン価格を10分の1に",
+   "同じプロンプトの入力を再利用",
+   "ngrokが仕組みを詳しく解説"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル（LLM）では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を再利用する「プロンプトキャッシュ」が導入されています。",
+   "このプロンプトキャッシュ機能を利用することで、通常の入力トークンと比べて約10分の1の料金で利用できる場合があります。開発者向けサービスを提供するngrokが、このプロンプトキャッシュの仕組みを詳しく解説しています。",
+   "コストを抑えて大規模言語モデルを活用したい開発者にとって、入力トークンの処理を再利用できるこの仕組みは非常に重要な技術となっています。今後のAI開発におけるコスト削減の選択肢として注目を集めそうです。"
+  ],
+  "tags": [
+   "プロンプトキャッシュ",
+   "AI",
+   "トークン料金"
+  ],
+  "slug": "prompt-caching-mechanism",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能の研究開発企業で、対話型AIのGPTシリーズなどを開発しています。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業で、対話型AIモデルのClaudeシリーズを開発しています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した大規模言語モデルで、高度な対話や文章処理を行います。"
+   },
+   {
+    "name": "ngrok",
+    "type": "company",
+    "desc": "ローカル環境を安全にインターネットへ公開する開発者向けサービス等を提供する企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260727-prompt-caching/",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-prompt-caching-mechanism.html"
+ },
+ {
+  "title": "エヌビディアとオープンAI、最大2,500億ドルのAI基盤支援で交渉",
+  "lead": "CNBC Techの報道によると、エヌビディアとオープンAIがAIインフラ計画を資金調達するため、最大2,500億ドルの支援を巡り交渉を進めていることが明らかになりました。",
+  "summary3": [
+   "最大2500億ドルの支援で交渉",
+   "オハイオ州のデータセンター対象",
+   "エヌビディアの信用力で債券発行"
+  ],
+  "body": [
+   "AI TECH TIMESの編集部がお伝えします。CNBC Techが報じたところによると、半導体大手のエヌビディアと対話型AIを手がけるオープンAIが、最大2,500億ドル規模のバックストップ（債務保証などの支援）に向けて交渉を行っています。",
+   "この支援スキームが実現した場合、オープンAIはエヌビディアの高い信用力を背景にして、大規模な資金調達を行うことが可能になります。",
+   "調達された資金は、オハイオ州パイク郡に計画されているデータセンターキャンパスの建設に充てられる予定です。今後のインフラ整備の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "OpenAI",
+   "AIインフラ"
+  ],
+  "slug": "nvidia-openai-250-billion-backstop",
+  "people": [],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPU（画像処理半導体）の開発で世界をリードする半導体大手企業。"
+   },
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、生成AIや大規模言語モデルの開発で知られる最先端の人工知能企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-nvidia-openai-250-billion-backstop.html"
+ },
+ {
+  "title": "X、最大6%APYの預金口座「X Money」提供開始",
+  "lead": "Xは、米国の一部加入者向けに「X Money」の提供を開始しました。Apple Walletにも対応し、便利な機能が複数用意されています。",
+  "summary3": [
+   "米国の一部加入者向けに提供開始",
+   "最大6%APYの預金口座とVisaデビット",
+   "Apple Walletや無料の即座送金に対応"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Xは、招待制のベータ版から移行し、米国の一部加入者を対象に「X Money」の正式提供を開始しました。",
+   "今回の展開により、対象となるユーザーは最大6%APYの預金口座、X上での無料の即座送金、そしてVisaデビットカードを利用できるようになります。",
+   "さらに、Apple Walletへのサポートも含まれており、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "X",
+   "X Money",
+   "Visa"
+  ],
+  "slug": "x-rolls-out-x-money",
+  "people": [],
+  "terms": [
+   {
+    "name": "Visa",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界中で決済ネットワークを展開する国際的なクレジットカードブランド。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260727/p28#a260727p28",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-x-rolls-out-x-money.html"
+ },
+ {
+  "title": "埼玉西武、インド出身のアクシャイ・モーレ投手と育成契約なぜ？",
+  "lead": "プロ野球・埼玉西武ライオンズは、インド出身のアクシャイ・モーレ投手と育成選手契約を結んだと発表しました。",
+  "summary3": [
+   "西武がインド出身選手と育成契約",
+   "NPB史上初のインド出身選手",
+   "柔道で全国準Vの経験も持つ"
+  ],
+  "body": [
+   "プロ野球・埼玉西武ライオンズは27日、インド出身のアクシャイ・モーレ投手（22）と育成選手契約を結んだと発表しました。球団によると、インド出身の選手との契約は日本野球機構（NPB）史上初となります。",
+   "今回加入が発表されたアクシャイ・モーレ投手は、これまでに柔道で全国準優勝の経験を持つなど、異色の経歴の持ち主としても注目を集めています。野球とは異なる競技からの挑戦が、今後どのようにプロの世界で活かされていくのかが期待されます。",
+   "球界初の試みとなるインド出身選手のNPB挑戦は、日本のプロ野球界における新たな可能性を広げる一歩となりそうです。今後の育成契約からの飛躍と、一軍舞台での活躍に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "埼玉西武ライオンズ",
+   "プロ野球",
+   "NPB"
+  ],
+  "slug": "seibu-lions-indian-pitcher-akshay-more",
+  "people": [],
+  "terms": [
+   {
+    "name": "埼玉西武ライオンズ",
+    "type": "company",
+    "desc": "埼玉県を拠点とする日本のプロ野球球団で、パシフィック・リーグに所属しています。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.asahi.com/articles/ASV7W2FL9V7WUTQP029M.html",
+  "category": "influencer",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-seibu-lions-indian-pitcher-akshay-more.html"
+ },
+ {
+  "title": "東野圭吾さん68歳で死去、読者や関係者から悲しみの声",
+  "lead": "「容疑者Xの献身」など数々のベストセラー小説で知られる作家の東野圭吾さんが今月23日、大腸がんのため68歳で亡くなりました。",
+  "summary3": [
+   "作家の東野圭吾さんが死去",
+   "死因は大腸がんで68歳だった",
+   "読者や関係者から悼む声が上がる"
+  ],
+  "body": [
+   "「容疑者Xの献身」など数々のベストセラー小説で知られる作家の東野圭吾さんが今月23日、大腸がんのため68歳で亡くなりました。",
+   "東野さんは数多くの優れたミステリー小説やエンターテインメント作品を発表し、幅広い世代の読者から絶大な支持を集めてきました。",
+   "突然の訃報を受け、作品を愛してきた読者や出版関係者の間からは、その早すぎる死を惜しみ、深く悼む声が上がっています。"
+  ],
+  "tags": [
+   "東野圭吾",
+   "訃報",
+   "小説"
+  ],
+  "slug": "higashino-keigo-passes-away",
+  "people": [
+   {
+    "name": "東野圭吾",
+    "bio": "「容疑者Xの献身」など数々のベストセラー小説で知られる作家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187551000",
+  "category": "world",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-higashino-keigo-passes-away.html"
+ },
+ {
+  "title": "トランプ氏がFRBに利下げ要求、会合前に圧力",
+  "lead": "AI TECH TIMESの記者として、トランプ米大統領による金融政策への発言についてお伝えします。トランプ大統領は27日、記者団に対し金利の引き下げを主張しました。",
+  "summary3": [
+   "トランプ大統領が利下げを主張",
+   "FRB会合の直前に圧力をかける",
+   "金融政策の決定を前に発言"
+  ],
+  "body": [
+   "トランプ大統領は27日、記者団に対し「金利は引き下げられるべきだ」などと強く主張しました。これは、FRB＝連邦準備制度理事会が28日から開く金融政策を決める会合を目前に控えたタイミングでの発言となります。",
+   "今回の発言は、金融政策を決定するFRBに対して改めて利下げを行うよう圧力をかける狙いがあるものとみられています。会合を前にしたこの動きが、今後の金融政策や経済にどのような影響を与えるのか注目が集まっています。"
+  ],
+  "tags": [
+   "トランプ大統領",
+   "FRB",
+   "経済"
+  ],
+  "slug": "trump-frb-rate-cut-pressure",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。政治や経済に関する発言が世界的に大きな注目を集めている。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "FRB",
+    "type": "company",
+    "desc": "アメリカの金融政策を決定・運営する中央銀行制度にあたる機関。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187671000",
+  "category": "world",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-trump-frb-rate-cut-pressure.html"
+ },
+ {
+  "title": "松井証券、米国株を「23時間取引」へ 12月6日から日中売買可能に",
+  "lead": "松井証券は、米国株式の「23時間取引」を12月6日から日本国内で開始すると発表しました。",
+  "summary3": [
+   "松井証券が米国株の取引時間を拡大",
+   "12月6日から日本で日中売買が可能に",
+   "米国株の23時間取引に対応へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回の株式・企業ニュースでは、松井証券による米国株の取引サービス拡充についてお伝えします。",
+   "日本経済新聞の報道によると、松井証券は米国株式の「23時間取引」を実施し、12月6日から日本国内において日中の売買が可能になる予定です。",
+   "今回のサービス変更により、投資家はこれまでとは異なる時間帯でも米国株式の売買を行えるようになります。今後の詳細な仕様や取引ルールについては、同社の発表をご確認ください。"
+  ],
+  "tags": [
+   "松井証券",
+   "米国株",
+   "株取引"
+  ],
+  "slug": "matsui-sec-us-stock-23-hours-trading",
+  "people": [],
+  "terms": [
+   {
+    "name": "松井証券",
+    "type": "company",
+    "desc": "日本の大手ネット証券会社の一つで、個人向けに株式や投資信託などの金融商品取引サービスを提供している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcVczVGVRWFR2RldwMk1JbXlQZFE5WUZuYllqdmo2VkZfNEVRVkVYWUU1MTYtdng0dXRkQzNmTmMyZS1ubFZHaEZhTnRya3RaRlRiR2toOFBkb19EMXRQeFB5SzdlSUE5TnVGRQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-matsui-sec-us-stock-23-hours-trading.html"
+ },
+ {
+  "title": "信越化学工業株価一時6%安、利益計画が未達の理由",
+  "lead": "信越化学工業の株価が一時6%下落しました。27年3月期利益計画が市場予想を下回ったことが背景にあります。",
+  "summary3": [
+   "信越化学工業の株価が一時6%下落",
+   "27年3月期利益計画が市場予想下回る",
+   "日本経済新聞が報じた市場の動向"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、信越化学工業の株価が一時6%安となりました。",
+   "この下落は、同社が発表した27年3月期の利益計画が市場予想を下回ったことによるものです。",
+   "詳細な数値や今後の動向については引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "信越化学工業",
+   "株価",
+   "市場動向"
+  ],
+  "slug": "shin-etsu-chemical-stock-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "信越化学工業",
+    "type": "company",
+    "desc": "日本の大手化学メーカーであり、塩化ビニル樹脂や半導体シリコンウェハーなどで世界トップシェアを誇る企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZFFOUFJ5UjFvamlxWnhUY0tMRG5nR0N4TEF4VWdhTWNzY3FlbGdLRkNWb1hmdlMwUG96cWg5NmJ6Y0VoRXBEa01LdHRSd2Ziekx0TWppS3ktUWFha1JoWHBsa2IxV3JLTFJuNg?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-shin-etsu-chemical-stock-drop.html"
+ },
+ {
+  "title": "エディオン会長がヤマダHDとの統合協議で「対等の精神」を強調",
+  "lead": "家電量販店最大手のヤマダホールディングスと経営統合に向けた協議を進めるエディオンの久保允誉会長が、NHKのインタビューに応じました。統合協議において「対等の精神は譲れない」と強く主張しています。",
+  "summary3": [
+   "エディオンがヤマダHDと統合協議",
+   "久保会長が対等の精神を強調",
+   "NHKのインタビューで明かす"
+  ],
+  "body": [
+   "家電量販店最大手の「ヤマダホールディングス」と経営統合に向けた協議を進めている「エディオン」の久保允誉会長が、NHKの経済ニュースに関するインタビューに応じました。",
+   "このインタビューの中で、久保允誉会長は両社の間で進められている経営統合の協議について言及しました。その中で「対等の精神は譲れない」と強く強調し、協議における重要な姿勢を示しています。",
+   "今後の動向や具体的な統合の条件などについては引き続き協議が進められる見通しであり、家電業界における大手同士の動きとして注目を集めています。"
+  ],
+  "tags": [
+   "エディオン",
+   "ヤマダホールディングス",
+   "経営統合"
+  ],
+  "slug": "edion-yamada-hd-integration-talks",
+  "people": [
+   {
+    "name": "久保允誉会長",
+    "bio": "エディオンの会長を務め、ヤマダホールディングスとの経営統合に向けた協議に臨む。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "エディオン",
+    "type": "company",
+    "desc": "家電量販店大手で、ヤマダホールディングスと経営統合に向けた協議を進めている企業。"
+   },
+   {
+    "name": "ヤマダホールディングス",
+    "type": "company",
+    "desc": "家電量販店最大手であり、エディオンと経営統合に向けた協議を行っている企業。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187521000",
+  "category": "jp_corp",
+  "date": "2026-07-28",
+  "time": "07:03",
+  "path": "/articles/20260728-edion-yamada-hd-integration-talks.html"
  }
 ]

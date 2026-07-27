@@ -1,10 +1,65 @@
 {
- "updated": "2026-07-28 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-28 07:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ＩＣＤＡＨＤ、27年３月期最高決算を狙う背景とPBR1倍未満の現状",
-   "path": "/articles/20260728-icda-holdings-business-analysis.html",
+   "title": "AnthropicのClaude共有チャットがGoogleにインデックスか",
+   "path": "/articles/20260728-claude-shared-chats-google-indexing.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Safe SuperintelligenceがNvidiaと提携した理由",
+   "path": "/articles/20260728-safe-superintelligence-nvidia-partnership.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "弁護士ドットコムがAWS DevOps Agentを活用、インシデント対応の自動化と属人化の解消に挑む",
+   "path": "/articles/20260728-bengo4com-aws-devops-agent-case-study.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIやClaudeのAIトークン価格を10分の1にするプロンプトキャッシュとは",
+   "path": "/articles/20260728-prompt-caching-mechanism.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "エヌビディアとオープンAI、最大2,500億ドルのAI基盤支援で交渉",
+   "path": "/articles/20260728-nvidia-openai-250-billion-backstop.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "X、最大6%APYの預金口座「X Money」提供開始",
+   "path": "/articles/20260728-x-rolls-out-x-money.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "埼玉西武、インド出身のアクシャイ・モーレ投手と育成契約なぜ？",
+   "path": "/articles/20260728-seibu-lions-indian-pitcher-akshay-more.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "東野圭吾さん68歳で死去、読者や関係者から悲しみの声",
+   "path": "/articles/20260728-higashino-keigo-passes-away.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トランプ氏がFRBに利下げ要求、会合前に圧力",
+   "path": "/articles/20260728-trump-frb-rate-cut-pressure.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "松井証券、米国株を「23時間取引」へ 12月6日から日中売買可能に",
+   "path": "/articles/20260728-matsui-sec-us-stock-23-hours-trading.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "信越化学工業株価一時6%安、利益計画が未達の理由",
+   "path": "/articles/20260728-shin-etsu-chemical-stock-drop.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "エディオン会長がヤマダHDとの統合協議で「対等の精神」を強調",
+   "path": "/articles/20260728-edion-yamada-hd-integration-talks.html",
    "cat": "日本企業"
   }
  ],
@@ -13,11 +68,12 @@
   "url": "https://www.youtube.com/watch?v=XuovA-AdDP8"
  },
  "notes": [
-  "執筆失敗: 【8060.T FY2026 Q2 決算説明会】キヤノンMJ、上半期に過去最高益"
+  "執筆失敗: 【8060.T FY2026 Q2 決算説明会】キヤノンMJ、上半期に過去最高益",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
- "pv_today": 36,
+ "pv_today": 43,
  "gemini": {
-  "used": 28,
+  "used": 58,
   "limit": 200
  }
 }

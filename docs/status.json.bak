@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-28 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-28 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日銀「利上げ前倒し」警戒で日経平均に6万円割れリスク",
-   "path": "/articles/20260728-boj-rate-hike-nikkei-risk.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "青山商事やリケンNPR、TOPIX除外回避へ増配期待の10銘柄",
-   "path": "/articles/20260728-topix-dividend-stocks-update.html",
-   "cat": "株式投資(日本)"
+   "title": "ＩＣＤＡＨＤ、27年３月期最高決算を狙う背景とPBR1倍未満の現状",
+   "path": "/articles/20260728-icda-holdings-business-analysis.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Welcome to K.H.A.O.S | TV Royale",
   "url": "https://www.youtube.com/watch?v=XuovA-AdDP8"
  },
- "notes": [],
- "pv_today": 30,
+ "notes": [
+  "執筆失敗: 【8060.T FY2026 Q2 決算説明会】キヤノンMJ、上半期に過去最高益"
+ ],
+ "pv_today": 36,
  "gemini": {
-  "used": 25,
+  "used": 28,
   "limit": 200
  }
 }
