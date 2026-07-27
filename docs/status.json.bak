@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-28 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-28 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に",
-   "path": "/articles/20260728-anthropic-claude-opus-5-announced.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Cameron Palmer氏が明かすLLM導入の罠とは",
-   "path": "/articles/20260728-cameron-palmer-llm-implementation-framework.html",
-   "cat": "日本のAI"
+   "title": "Amazon、衛星5105基の直結網へ連邦承認を申請",
+   "path": "/articles/20260728-amazon-satellite-network-approval.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc"
  },
- "notes": [],
- "pv_today": 6,
+ "notes": [
+  "執筆失敗: Ilya Sutskever’s Safe Superintelligence "
+ ],
+ "pv_today": 10,
  "gemini": {
-  "used": 7,
+  "used": 12,
   "limit": 200
  }
 }

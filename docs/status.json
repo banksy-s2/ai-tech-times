@@ -1,23 +1,17 @@
 {
- "updated": "2026-07-28 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Amazon、衛星5105基の直結網へ連邦承認を申請",
-   "path": "/articles/20260728-amazon-satellite-network-approval.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-28 03:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
-  "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
-  "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc"
+  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
+  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [
-  "執筆失敗: Ilya Sutskever’s Safe Superintelligence "
+  "執筆失敗: YouTuber「東京大学恋愛学部」未成年少女への飲酒・性的暴行容疑で逮捕に相方"
  ],
- "pv_today": 10,
+ "pv_today": 17,
  "gemini": {
-  "used": 12,
+  "used": 16,
   "limit": 200
  }
 }
