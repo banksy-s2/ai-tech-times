@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-27 19:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-27 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "米当局、スマホを初期化したサム・チュニック氏を起訴",
-   "path": "/articles/20260727-us-citizen-charged-for-wiping-phone-at-border.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "フィンランドの砂バッテリー、再エネの壁を越える仕組み",
-   "path": "/articles/20260727-finland-world-largest-sand-battery.html",
-   "cat": "シリコンバレー最速"
+   "title": "映画ちいかわ初日からの3日間で興収22.4億円突破、150万人動員はなぜ成功したのか",
+   "path": "/articles/20260727-movie-chiikawa-box-office-22-4-billion.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
  "notes": [],
- "pv_today": 52,
+ "pv_today": 59,
  "gemini": {
-  "used": 132,
+  "used": 137,
   "limit": 200
  }
 }

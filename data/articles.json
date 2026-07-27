@@ -13005,5 +13005,375 @@
   "date": "2026-07-27",
   "time": "20:01",
   "path": "/articles/20260727-movie-chiikawa-box-office-22-4-billion.html"
+ },
+ {
+  "title": "MIT Tech Review AIが解説する、自律型AIの企業環境",
+  "lead": "企業における自律型AIの導入は、単なる優れたチャットボットを超えたシステム基盤が求められています。MIT Tech Review AIが報じた、エージェントを実行する最適なプラットフォームの要件をお伝えします。",
+  "summary3": [
+   "企業向け自律型AIの導入が進む",
+   "チャットボットを超える業務遂行が期待",
+   "適切なシステム基盤の構築が鍵となる"
+  ],
+  "body": [
+   "企業の現場において、自律型AI（エージェント型AI）への期待は、単なる優れたチャットボットの枠を大きく超えています。それは、人とビジネスワークフロー、データ、そしてシステムを横断し、一気通貫で業務タスクを実行するソフトウェアエージェントの活用にほかならないからです。",
+   "このようなエージェントを実行するために最も適したプラットフォームは、適切なCPU容量を備えている必要があります。さらに、堅牢なデータアクセス、ポリシーを意識したツールの利用、オブザーバビリティ（可観測性）、メモリ管理などが統合されたシステム環境が不可欠となります。",
+   "これらを適切に組み合わせることで、企業は複雑化する業務プロセスを自律型AIに安全かつ効率的に任せることが可能となります。AI技術が実務の現場へ深く浸透していく中、それを支えるエンタープライズ環境の整備が急務となっています。"
+  ],
+  "tags": [
+   "自律型AI",
+   "エンタープライズ",
+   "システム基盤"
+  ],
+  "slug": "building-enterprise-environment-agentic-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "MIT Tech Review AI",
+    "type": "company",
+    "desc": "米マサチューセッツ工科大学が発行する、テクノロジーの動向を伝える専門メディアのAI専門セクション。"
+   }
+  ],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+  "category": "ai",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-building-enterprise-environment-agentic-ai.html"
+ },
+ {
+  "title": "警視庁が注意喚起、AI要約も餌食になる検索悪用の詐欺手口",
+  "lead": "警視庁は、SNS型投資詐欺グループがWeb検索やAI要約の仕組みを悪用し、「詐欺ではありません」と表示させる手口を確認したと発表しました。",
+  "summary3": [
+   "検索結果に肯定的な情報を並べる手口",
+   "AI要約にも詐欺ではないと表示",
+   "警視庁が新たな詐欺手法に注意喚起"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。AI TECH TIMESが伝える最新ニュースです。警視庁は、SNS型投資詐欺グループがWeb検索の仕組みを悪用している新たな手口を確認し、広く注意を呼び掛けています。",
+   "報道によると、詐欺グループは検索結果の画面に肯定的な情報を大量に並べることで、ユーザーを信用させようとしています。さらに、近年の検索エンジンに導入されているAI要約機能までもがその餌食となっており、検索結果のAIによる要約文にまで「詐欺ではありません」と表示させる巧妙な手口が使われていることが分かりました。",
+   "巧妙化する手口により、投資詐欺への警戒心を持つユーザーさえも誤認させられる恐れがあります。日頃から利用する検索結果やAIの要約情報であっても、鵜呑みにせず慎重に確認することが求められています。"
+  ],
+  "tags": [
+   "警視庁",
+   "SNS型投資詐欺",
+   "AI要約"
+  ],
+  "slug": "keishicho-ai-summary-fraud",
+  "people": [],
+  "terms": [
+   {
+    "name": "警視庁",
+    "type": "company",
+    "desc": "東京都の治安を維持するため警察活動を行う日本の行政機関です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-keishicho-ai-summary-fraud.html"
+ },
+ {
+  "title": "東大松尾・岩澤研が講義動画の英語字幕を自動生成するアプリを無償公開",
+  "lead": "東大松尾・岩澤研が、講義動画の英語字幕を自動生成するAIアプリを無償で公開しました。",
+  "summary3": [
+   "講義動画の英語字幕を自動生成",
+   "日本語音声の書き起こしなどを自動化",
+   "アプリは無償で公開されている"
+  ],
+  "body": [
+   "東大松尾・岩澤研は、講義動画の英語字幕を自動生成するAIアプリを無償公開しました。",
+   "このアプリは、日本語音声の書き起こし、文章の整形、英訳、字幕の分割、品質チェックまでの工程を自動で実行する機能を持っています。",
+   "公開されたアプリを活用することで、講義動画の英語字幕作成にかかる手間を大幅に削減することが可能になります。"
+  ],
+  "tags": [
+   "東大松尾・岩澤研",
+   "AI",
+   "動画編集"
+  ],
+  "slug": "toudai-matsuo-iwasawa-lab-subtitle-ai",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forest.watch.impress.co.jp/docs/news/2127822.html",
+  "category": "ai_jp",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-toudai-matsuo-iwasawa-lab-subtitle-ai.html"
+ },
+ {
+  "title": "MicrosoftやSpaceXが新AI安全同盟になぜ参加したのか",
+  "lead": "MicrosoftやSpaceXなど多数のテクノロジー企業が、AIの安全性を確保するための新たな取り組み「Open Secure AI Alliance」に参加しました。",
+  "summary3": [
+   "MicrosoftやSpaceXが新同盟に参加",
+   "日米欧の多数のテック企業がAI安全を推進",
+   "Open Secure AI Allianceを発足"
+  ],
+  "body": [
+   "マイクロソフト（Microsoft）やスペースX（SpaceX）をはじめとする米国やヨーロッパの多数のテクノロジー企業が、新たに「Open Secure AI Alliance」への参加を表明しました。この動きは、人工知能技術の急速な発展に伴い、セキュリティや安全性の確保が急務となっている中で展開されています。",
+   "同アライアンスには、パランティア（Palantir）などの著名企業も名を連ねており、世界各国から数十社に及ぶ企業が結集しています。AIシステムを取り巻くリスクや課題に対して、業界全体で協力して安全なエコシステムを築くことが主な狙いとされています。",
+   "今回の発表は、AI分野における安全対策の重要性が一段と高まる中で行われました。今後、参画企業がどのような具体的なセキュリティ基準や枠組みを構築していくのか、テクノロジー業界全体からの注目が集まっています。"
+  ],
+  "tags": [
+   "AI安全",
+   "Microsoft",
+   "SpaceX"
+  ],
+  "slug": "microsoft-spacex-ai-safety-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界的なソフトウェアおよびクラウドサービスの開発企業。"
+   },
+   {
+    "name": "スペースX",
+    "type": "company",
+    "desc": "アメリカ合衆国にある宇宙航空の開発・製造・宇宙輸送を手がける民間企業。"
+   },
+   {
+    "name": "パランティア",
+    "type": "company",
+    "desc": "アメリカ合衆国にある、政府や企業向けのビッグデータ解析ソフトウェアを提供する企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-microsoft-spacex-ai-safety-alliance.html"
+ },
+ {
+  "title": "Ars Technica、AIミーム生成ツールが私的コミックを広告テンプレート化して提訴されたと報道",
+  "lead": "海外メディアのArs Technicaが、AIミームジェネレーターをめぐる著作権侵害の訴訟について報じました。極めて個人的なコミックが広告テンプレートとして販売されたことが問題視されています。",
+  "summary3": [
+   "アーティストがAIミームツールを提訴",
+   "個人的なコミックを勝手に広告化",
+   "テンプレートの出力方法に問題か"
+  ],
+  "body": [
+   "海外のテクノロジーメディア「Ars Technica」が伝えたところによると、あるアーティストがAIミームジェネレーターを相手取り、法的措置に踏み切りました。問題となっているのは、極めて個人的な内容を描いたコミックが、本人の許可なく広告テンプレートとして無断で販売されたという事例です。",
+   "専門家の分析によれば、このAIミームジェネレーターは、出力結果の中に勝手にテンプレートを組み込んで使用してしまった点が、今回のトラブルを引き起こした大きな要因になった可能性があると指摘されています。",
+   "クリエイターの作品や個人的な表現物が、AIツールによって意図しない形で商用利用や広告テンプレートに流用されるリスクが浮き彫りになりました。今後の司法の判断や、AI開発における著作物取扱いの規約に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "著作権",
+   "生成AI",
+   "訴訟"
+  ],
+  "slug": "artist-sues-ai-meme-generator",
+  "people": [],
+  "terms": [
+   {
+    "name": "Ars Technica",
+    "type": "company",
+    "desc": "テクノロジーや科学、IT政策などを中心に専門的な報道を行うアメリカの著名なオンラインメディアです。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+  "category": "silicon",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-artist-sues-ai-meme-generator.html"
+ },
+ {
+  "title": "HIKAKINのラーメン屋が大阪に進出、東京の約4倍の店舗面積でカウンター席なし",
+  "lead": "人気YouTuber「HIKAKIN」が手がけるラーメン店が、新たに大阪へ進出することが明らかになりました。東京の約4倍となる広い店舗面積が特徴です。",
+  "summary3": [
+   "HIKAKINのラーメン屋が大阪に進出",
+   "店舗面積は東京の約4倍の広さに",
+   "大阪店にはカウンター席がない仕様"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、YouTuber「HIKAKIN」が展開するラーメン屋が大阪に進出することが分かりました。話題を集めている新店舗は、東京にある店舗と比較して約4倍の店舗面積を誇る規模となっています。",
+   "さらに今回の大阪進出における大きな特徴として、カウンター席が設置されていないことが挙げられます。東京の店舗とは異なる座席の仕様や広々とした空間が、どのように展開されるのか注目が集まっています。",
+   "ファンやラーメンファンの間でも話題となっているこの大阪進出は、新たな店舗形態として多くの関心を集めそうです。今後の詳しい情報やオープンに関する発表が待たれます。"
+  ],
+  "tags": [
+   "HIKAKIN",
+   "ラーメン",
+   "大阪進出"
+  ],
+  "slug": "hikakin-ramen-osaka-expansion",
+  "people": [
+   {
+    "name": "HIKAKIN",
+    "bio": "日本のトップYouTuberとして長年活躍し、多彩な商品プロデュースも手がける人物。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVDQ0YUZ4UG5wZmpVd09WUk9GaXJVNXdkOXNGQkZMRXZXLURvTDdkckdlT3cwd1FvYTZiby1IQUdmMGZ1WWthZVI1ZFRIT0dXUWFGS1NDNVpTeHFMblprUVE5b2xKazhEMV9Xdm05MUpzUC14dnItSndkbG1xS1U?oc=5",
+  "category": "influencer",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-hikakin-ramen-osaka-expansion.html"
+ },
+ {
+  "title": "高市首相、食料品の消費税減税法案の速やかな提出を表明",
+  "lead": "国会の閉会を受けて、高市総理大臣は27日夜に記者会見を行い、食料品の消費税減税について方針を示しました。",
+  "summary3": [
+   "高市首相が27日夜に会見を実施",
+   "食料品の消費税減税で法案提出へ",
+   "国民会議のとりまとめを受け方針"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。国会の閉会を受けて、高市総理大臣は27日夜に記者会見を行いました。",
+   "会見の中で高市首相は、食料品の消費税減税について「国民会議」のとりまとめを受けて、速やかに法案を提出する方針を示しました。",
+   "また、先の衆議院選挙で訴えた公約の実現に引き続き取り組む姿勢を強調しています。"
+  ],
+  "tags": [
+   "消費税減税",
+   "高市首相",
+   "国会閉会"
+  ],
+  "slug": "takaichi-tax-cut-bill-2026",
+  "people": [
+   {
+    "name": "高市総理大臣",
+    "bio": "日本の内閣総理大臣を務め、国政の中心で政権を運営する政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187261000",
+  "category": "world",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-takaichi-tax-cut-bill-2026.html"
+ },
+ {
+  "title": "日経平均株価、320円高の6万4931円で反発",
+  "lead": "日本経済新聞の報道によると、日経平均株価が反発し、終値は320円高の6万4931円となりました。",
+  "summary3": [
+   "日経平均株価が反発を記録",
+   "終値は前日比320円高に",
+   "終値は6万4931円で終了"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする本日の株式市場ニュースです。日本経済新聞の報道によりますと、日経平均株価は反発の動きを見せました。",
+   "本日の取引において、日経平均株価の終値は前日比320円高となる6万4931円を記録しました。",
+   "市場の詳しい動向や個別銘柄の動きについては、引き続き最新の経済情報をご確認ください。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-rebounds",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43U3FIeFNnV1JDUm5feU9hQXE5WUkxNWU3NjJnWjFqa2FHT2VWc2pybXFjUkJ5NTRuY0tjN2ZLVThJbUxWcEtNVnk4b3Fha2ttVlNsZ2d0d2FfU29nbWllZzZFS0pKR0RLVkl0WQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-nikkei-average-rebounds.html"
+ },
+ {
+  "title": "三菱UFJFG株価が上場来高値、日銀会合前に思惑買い",
+  "lead": "三菱UFJFGの株価が上場来高値を更新しました。日本銀行の金融政策決定会合を控えた思惑買いが背景にあります。",
+  "summary3": [
+   "三菱UFJFG株価が上場来高値を更新",
+   "日銀会合を控えた思惑買いが広がる",
+   "日本経済新聞がその動きを報じた"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、三菱UFJFGの株価が上場来高値を更新したことが明らかになりました。日銀会合を控えた思惑買いが株価を押し上げる要因となっています。",
+   "今回の値動きについては、日本経済新聞などが詳細を伝えています。金融市場では、日銀の動向に注目が集まる中で買い注文が先行する展開となりました。",
+   "企業や市場の動向に関する情報は随時更新されます。引き続き、日銀会合に向けた市場の反応や関連する経済ニュースに注目が集まるとみられます。"
+  ],
+  "tags": [
+   "三菱UFJFG",
+   "株価",
+   "日銀"
+  ],
+  "slug": "mitsubishi-ufj-fg-stock-high",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱UFJFG",
+    "type": "company",
+    "desc": "日本の三大メガバンクの一つである三菱UFJフィナンシャル・グループを指す。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaV0RjNHJNcC0xMFJDRE9QVlRUbUZBcFBEbzhnWlZtTzliekVIa1hNRlphWlMtcGtWeDEwV0czTERETVdvbC11MnM0QzRFaUpla0R3N245M0kzRjNJRHVOUnVXbDdmSlVMTGVNZg?oc=5",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-mitsubishi-ufj-fg-stock-high.html"
+ },
+ {
+  "title": "7751.T、純利益47%増の1,229億円を達成",
+  "lead": "AI TECH TIMESがお届けする企業決算ニュースです。BigGo ファイナンスが報じた【7751.T FY2026 Q2 決算説明会】の最新情報をお伝えします。",
+  "summary3": [
+   "純利益は前年同期比47%増の1,229億円を記録",
+   "ネットワークカメラがAI需要で2割超の増収に",
+   "BigGo ファイナンスがFY2026 Q2決算を報道"
+  ],
+  "body": [
+   "AI TECH TIMESの調査によると、BigGo ファイナンスが報じた【7751.T FY2026 Q2 決算説明会】において、企業の好調な業績が明らかになりました。当期の純利益は47%増となる1,229億円に達し、多くの注目を集めています。",
+   "今回の決算では、ネットワークカメラ事業がAI需要を背景に大きく成長しました。関連製品は2割を超える増収を達成しており、市場におけるAI活用の広がりが実際の数字として表れる結果となっています。",
+   "堅調なネットワークカメラの伸びとAI需要の取り込みが、今回の大幅な利益拡大を牽引した形です。詳細な決算内容については、BigGo ファイナンスの報道をご参照ください。"
+  ],
+  "tags": [
+   "決算",
+   "AI需要",
+   "ネットワークカメラ"
+  ],
+  "slug": "7751-t-fy2026-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "BigGo ファイナンス",
+    "type": "company",
+    "desc": "企業の財務情報や決算ニュースなどを幅広く配信している金融情報メディア。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EOXpOaE1FaXk4cFhlRGp3c3NkRkpZd2o4MmVWNElNQ1ZYbTFJSzlyTGlESGtCZUItY214VmxXYzE2dnVfcTlfWXZxZEZfTjNDVW5rcUpMYnQydXBIUGxz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-7751-t-fy2026-q2-earnings.html"
+ },
+ {
+  "title": "SBIグローバルアセットマネジメント、統合効果で売上高4.5倍",
+  "lead": "SBIグローバルアセットマネジメントの2027年3月期第1四半期決算説明会動画が公開されました。統合効果により売上高4.5倍、EPS80%増を達成し、中間増配へ向かうことが明らかにされています。",
+  "summary3": [
+   "統合効果で売上高が4.5倍に",
+   "EPSは80%増加を記録",
+   "中間増配の実施へ向かう"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、BigGo ファイナンスが報じたSBIグローバルアセットマネジメントの2027年3月期第1四半期決算説明会動画についての情報をお伝えします。",
+   "今回の決算説明会では、企業統合の効果が大きく表れたことが示されています。発表によると、統合効果によって売上高は4.5倍に急増し、EPS（1株当たり当期純利益）についても80%増を記録しました。",
+   "さらに、好調な業績を背景として中間増配が行われる予定であることが明らかにされています。詳細な決算内容や今後の事業展開については、公開された決算説明会動画で確認することができます。"
+  ],
+  "tags": [
+   "SBIグローバルアセットマネジメント",
+   "決算説明会",
+   "株式市場"
+  ],
+  "slug": "sbi-global-asset-management-fy2027-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "SBIグローバルアセットマネジメント",
+    "type": "company",
+    "desc": "SBIグループの資産運用会社であり、投資信託やアセットマネジメント事業を展開している日本の企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWmVjY1prWGNjeUZ4cFUxa2M4cUd3bE80LXlmVHMtaWdPYUtIUm1qMDhIZm5PSEdXVENwRjVXbzlOeDhpUVJoUVNobDZ2WjBINm5xZGpKNXYxS3d3YmdR?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-27",
+  "time": "21:04",
+  "path": "/articles/20260727-sbi-global-asset-management-fy2027-q1-results.html"
  }
 ]
