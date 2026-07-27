@@ -13649,5 +13649,44 @@
   "date": "2026-07-28",
   "time": "01:00",
   "path": "/articles/20260728-cameron-palmer-llm-implementation-framework.html"
+ },
+ {
+  "title": "Amazon、衛星5105基の直結網へ連邦承認を申請",
+  "lead": "米Amazonが、直結型ネットワークの構築に向けて5,105基の衛星打ち上げの連邦承認を申請したことがCNBC Techの報道で明らかになりました。",
+  "summary3": [
+   "Amazonが5105基の衛星承認を申請",
+   "計画はGlobalstarの資産を一部活用",
+   "4月に約116億ドルでの買収を発表済み"
+  ],
+  "body": [
+   "米CNBC Techによると、Amazonは直結型ネットワークを構築するため、5,105基の衛星打ち上げの連邦承認を求めています。",
+   "提案されているこのネットワークは、Amazonが4月に約116億ドルで買収する計画を発表したGlobalstarの資産を一部活用する予定です。",
+   "今回の申請により、同社の衛星通信事業に向けた動きがさらに具体化し、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "Amazon",
+   "衛星通信",
+   "Globalstar"
+  ],
+  "slug": "amazon-satellite-network-approval",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "米国に本拠を置き、世界最大級の電子商取引やクラウドサービスなどを展開する企業です。"
+   },
+   {
+    "name": "Globalstar",
+    "type": "company",
+    "desc": "衛星通信サービスを提供し、モバイル通信や位置情報サービスなどを展開している企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "02:00",
+  "path": "/articles/20260728-amazon-satellite-network-approval.html"
  }
 ]
