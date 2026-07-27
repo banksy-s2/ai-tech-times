@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Uberが前CEOに賭ける理由、未来の交通とAI戦略](https://ai-tech-times.web.app/articles/20260727-uber-bets-on-former-ceo.html) — 2026-07-27 10:00: TechCrunch Mobilityの最新ニュースをお届けします。今回は、輸送の未来とAIの役割についてお伝えします。
+- [SpaceX、次回のStarship飛行で発射塔キャッチに挑む](https://ai-tech-times.web.app/articles/20260727-spacex-eyes-tower-catch-for-starship.html) — 2026-07-27 10:00: Ars Technicaによると、SpaceXは次回のスターシップ飛行で、発射台でのキャッチを試みる見込みです。
 - [被害45億円、会話もできるAI詐欺の手口と対策](https://ai-tech-times.web.app/articles/20260727-ai-voice-fraud-prevention.html) — 2026-07-27 09:00: 生成AIによる音声合成の進化により、経営者や上司の声が数秒で複製される時代が訪れました。ITmedia AI+の報道から、最新のボイスフィッシングの手口と組織が取るべき備えを解説します。
 - [AIエージェント導入のセキュリティリスクとは](https://ai-tech-times.web.app/articles/20260727-ai-agent-security-risks.html) — 2026-07-27 09:00: 企業でAIエージェント導入を検討する中、自律的に動く特性がどのようなセキュリティリスクを生むのか判断できず対策の検討が止まっている状況について解説します。
 - [Cloudflare、AIトラフィックの新オプション発表](https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html) — 2026-07-27 08:00: Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。
@@ -40,15 +42,13 @@
 - [BluePortとTDAが業務提携、AX・DX支援へ](https://ai-tech-times.web.app/articles/20260727-blueport-tda-business-partnership.html) — 2026-07-27 06:00: BluePortとTDAが業務提携を発表し、日本企業のAXおよびDX支援に向けて取り組みを開始しました。
 - [伊藤園、抹茶ブームでも値上げ進まず株価渋く](https://ai-tech-times.web.app/articles/20260727-itoen-matcha-boom-stock.html) — 2026-07-27 05:00: 世界的な抹茶ブームに沸く中、伊藤園を悩ます茶葉高騰と値上げの現状について日本経済新聞が報じました。
 - [伊藤忠商事、時価総額15兆円の理由とは](https://ai-tech-times.web.app/articles/20260727-itochu-market-cap-valuation.html) — 2026-07-27 05:00: 伊藤忠商事の株価が高値圏にあり、時価総額が15兆円に達しています。PER14倍・PBR2倍となる、総合商社での評価の背景をお伝えします。
-- [名所フラットアイアンビル、5850万ドルの改修を経て迎える次の段階](https://ai-tech-times.web.app/articles/20260727-flatiron-building-renovation.html) — 2026-07-27 04:00: BBC Worldによると、改修工事が間もなく完了するニューヨークの象徴的な建物フラットアイアンビルが、最も豪華な次のフェーズへ移行する準備を整えています。
-- [大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判](https://ai-tech-times.web.app/articles/20260727-ohtani-shohei-criticism-by-politician.html) — 2026-07-27 03:00: 大谷翔平選手を巡り、日本共産党の中野区議会議員らがSNS上で批判的な投稿を行い、議論を呼んでいます。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
 - 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
 - 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 
-## AI用語事典 (全298語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全299語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -65,6 +65,8 @@
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行う最先端の人工知能チャットボット製品です。
@@ -76,9 +78,7 @@
 - [ダイヤモンド・オンラインとは](https://ai-tech-times.web.app/term/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 株式会社ダイヤモンド社が運営する、ビジネスパーソン向けの総合経済オンラインメディアです。
 - [Netflixとは](https://ai-tech-times.web.app/term/netflix.html): 世界中で広く利用されている、映画やテレビ番組などをストリーミング配信するアメリカの大手動画配信企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリを中心とした半導体製品の開発・製造を手がける日本の企業です。
-- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカに本拠地を置き、世界中で配車サービスやフードデリバリーを展開するプラットフォーム企業。
 - [インテルとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB.html): アメリカに本拠地を置き、パソコン向けなどの半導体チップを広く製造・販売する世界的な大手テクノロジー企業です。
-- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
