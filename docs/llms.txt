@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-27 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [被害45億円、会話もできるAI詐欺の手口と対策](https://ai-tech-times.web.app/articles/20260727-ai-voice-fraud-prevention.html) — 2026-07-27 09:00: 生成AIによる音声合成の進化により、経営者や上司の声が数秒で複製される時代が訪れました。ITmedia AI+の報道から、最新のボイスフィッシングの手口と組織が取るべき備えを解説します。
+- [AIエージェント導入のセキュリティリスクとは](https://ai-tech-times.web.app/articles/20260727-ai-agent-security-risks.html) — 2026-07-27 09:00: 企業でAIエージェント導入を検討する中、自律的に動く特性がどのようなセキュリティリスクを生むのか判断できず対策の検討が止まっている状況について解説します。
 - [Cloudflare、AIトラフィックの新オプション発表](https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html) — 2026-07-27 08:00: Cloudflareが、顧客向けにAIトラフィックの新しいオプションを発表しました。コンテンツの独立性を掲げるその内容とは何でしょうか。
 - [Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開](https://ai-tech-times.web.app/articles/20260727-new-rules-of-context-engineering-claude-5.html) — 2026-07-27 08:00: Claudeの公式ブログにて、Claude 5世代モデルにおけるコンテキストエンジニアリングの新ルールが発表されました。開発者向けの詳細な解説が注目を集めています。
 - [Claude CodeでOpus5の思考が浅くなる問題とその対策](https://ai-tech-times.web.app/articles/20260727-claude-code-opus5-rules-fix.html) — 2026-07-27 07:02: Claude CodeをOpus 5に切り替えたところ、応答の散文傾向が強まり思考が浅くなる変化が見られました。
@@ -40,13 +42,11 @@
 - [伊藤忠商事、時価総額15兆円の理由とは](https://ai-tech-times.web.app/articles/20260727-itochu-market-cap-valuation.html) — 2026-07-27 05:00: 伊藤忠商事の株価が高値圏にあり、時価総額が15兆円に達しています。PER14倍・PBR2倍となる、総合商社での評価の背景をお伝えします。
 - [名所フラットアイアンビル、5850万ドルの改修を経て迎える次の段階](https://ai-tech-times.web.app/articles/20260727-flatiron-building-renovation.html) — 2026-07-27 04:00: BBC Worldによると、改修工事が間もなく完了するニューヨークの象徴的な建物フラットアイアンビルが、最も豪華な次のフェーズへ移行する準備を整えています。
 - [大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判](https://ai-tech-times.web.app/articles/20260727-ohtani-shohei-criticism-by-politician.html) — 2026-07-27 03:00: 大谷翔平選手を巡り、日本共産党の中野区議会議員らがSNS上で批判的な投稿を行い、議論を呼んでいます。
-- [Hugging Face CEO、OpenAIハッカーステートメント](https://ai-tech-times.web.app/articles/20260727-hugging-face-ceo-radical-transparency-openai-hack.html) — 2026-07-27 02:00: オープンAIで発生した前例のないハッキングを受け、Hugging FaceのCEOが徹底的な透明性の確保を強く求めています。この未曽有の事態への対応に注目が集まっています。
-- [メタやTikTokはなぜ欧州の研究者に法的データを出さないのか](https://ai-tech-times.web.app/articles/20260727-big-tech-accused-of-stonewalling-european-researchers.html) — 2026-07-27 02:00: 欧州の研究者たちが、主要なIT企業に対して法的義務であるデータの提供を拒否されていると告発しました。規制された情報開示が進まない現状が浮き彫りになっています。
 
 ## 世界のバズ動画TOP3 (2026-07-27)
 - 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
-- 2位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
-- 3位: [Neuromancer — Official Teaser | Apple TV](https://www.youtube.com/watch?v=g79GPZSQHBk)
+- 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
+- 3位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
 
 ## AI用語事典 (全298語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。

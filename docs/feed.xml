@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>被害45億円、会話もできるAI詐欺の手口と対策</title>
+<link>https://ai-tech-times.web.app/articles/20260727-ai-voice-fraud-prevention.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-ai-voice-fraud-prevention.html</guid>
+<pubDate>Mon, 27 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIによる音声合成の進化により、経営者や上司の声が数秒で複製される時代が訪れました。ITmedia AI+の報道から、最新のボイスフィッシングの手口と組織が取るべき備えを解説します。</description>
+</item>
+<item>
+<title>AIエージェント導入のセキュリティリスクとは</title>
+<link>https://ai-tech-times.web.app/articles/20260727-ai-agent-security-risks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260727-ai-agent-security-risks.html</guid>
+<pubDate>Mon, 27 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>企業でAIエージェント導入を検討する中、自律的に動く特性がどのようなセキュリティリスクを生むのか判断できず対策の検討が止まっている状況について解説します。</description>
+</item>
+<item>
 <title>Cloudflare、AIトラフィックの新オプション発表</title>
 <link>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260727-cloudflare-new-ai-traffic-options.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 26 Jul 2026 22:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>ドイツの首都ベルリンで25日、性的マイノリティーの権利向上イベントの人混みに車が突っ込み、死傷者が出ました。警察は容疑者の背景を調べています。</description>
-</item>
-<item>
-<title>Monday.comなどがAI理由に人員削減、進む背景</title>
-<link>https://ai-tech-times.web.app/articles/20260726-monday-com-ai-layoffs-techcrunch.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-monday-com-ai-layoffs-techcrunch.html</guid>
-<pubDate>Sun, 26 Jul 2026 21:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>TechCrunch AIによると、Monday.comなどのテック企業がAIの導入を理由に大規模な人員削減を発表しました。今年に入りAIを要因に挙げた主要企業の動向が伝えられています。</description>
-</item>
-<item>
-<title>知床沖観光船沈没事故、2年後に発見されたカメラのデータはなぜ完全復元できたのか</title>
-<link>https://ai-tech-times.web.app/articles/20260726-shiretoko-camera-recovery.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260726-shiretoko-camera-recovery.html</guid>
-<pubDate>Sun, 26 Jul 2026 21:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>知床沖観光船沈没事故で、海水に浸かったデジカメからデータを完全復元した技術に大きな注目が集まっています。</description>
 </item>
 </channel></rss>

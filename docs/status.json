@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-27 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Cloudflare、AIトラフィックの新オプション発表",
-   "path": "/articles/20260727-cloudflare-new-ai-traffic-options.html",
-   "cat": "AI(海外)"
+   "title": "被害45億円、会話もできるAI詐欺の手口と対策",
+   "path": "/articles/20260727-ai-voice-fraud-prevention.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Claude 5世代モデルに向けたコンテキストエンジニアリングの新ルールが公開",
-   "path": "/articles/20260727-new-rules-of-context-engineering-claude-5.html",
-   "cat": "AI(海外)"
+   "title": "AIエージェント導入のセキュリティリスクとは",
+   "path": "/articles/20260727-ai-agent-security-risks.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 4,
+ "pv_today": 7,
  "gemini": {
-  "used": 52,
+  "used": 56,
   "limit": 200
  }
 }
