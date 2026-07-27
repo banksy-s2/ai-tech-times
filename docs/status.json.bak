@@ -1,21 +1,74 @@
 {
- "updated": "2026-07-27 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-27 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "映画ちいかわ初日からの3日間で興収22.4億円突破、150万人動員はなぜ成功したのか",
-   "path": "/articles/20260727-movie-chiikawa-box-office-22-4-billion.html",
+   "title": "MIT Tech Review AIが解説する、自律型AIの企業環境",
+   "path": "/articles/20260727-building-enterprise-environment-agentic-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "警視庁が注意喚起、AI要約も餌食になる検索悪用の詐欺手口",
+   "path": "/articles/20260727-keishicho-ai-summary-fraud.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "東大松尾・岩澤研が講義動画の英語字幕を自動生成するアプリを無償公開",
+   "path": "/articles/20260727-toudai-matsuo-iwasawa-lab-subtitle-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "MicrosoftやSpaceXが新AI安全同盟になぜ参加したのか",
+   "path": "/articles/20260727-microsoft-spacex-ai-safety-alliance.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Ars Technica、AIミーム生成ツールが私的コミックを広告テンプレート化して提訴されたと報道",
+   "path": "/articles/20260727-artist-sues-ai-meme-generator.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "HIKAKINのラーメン屋が大阪に進出、東京の約4倍の店舗面積でカウンター席なし",
+   "path": "/articles/20260727-hikakin-ramen-osaka-expansion.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "高市首相、食料品の消費税減税法案の速やかな提出を表明",
+   "path": "/articles/20260727-takaichi-tax-cut-bill-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均株価、320円高の6万4931円で反発",
+   "path": "/articles/20260727-nikkei-average-rebounds.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "三菱UFJFG株価が上場来高値、日銀会合前に思惑買い",
+   "path": "/articles/20260727-mitsubishi-ufj-fg-stock-high.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "7751.T、純利益47%増の1,229億円を達成",
+   "path": "/articles/20260727-7751-t-fy2026-q2-earnings.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "SBIグローバルアセットマネジメント、統合効果で売上高4.5倍",
+   "path": "/articles/20260727-sbi-global-asset-management-fy2027-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
- "notes": [],
- "pv_today": 59,
+ "notes": [
+  "執筆失敗: 声にも無断使用されない権利 法務省検討会が報告書案",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 66,
  "gemini": {
-  "used": 137,
+  "used": 164,
   "limit": 200
  }
 }
