@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-27 19:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "MIXIの新卒向けAI研修資料、全12科目で無料公開",
-   "path": "/articles/20260727-mixi-ai-training-materials.html",
-   "cat": "日本のAI"
+   "title": "米当局、スマホを初期化したサム・チュニック氏を起訴",
+   "path": "/articles/20260727-us-citizen-charged-for-wiping-phone-at-border.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ChatGPTと挑む元トラック運転手のバーガー店成功術",
-   "path": "/articles/20260727-ai-hamburger-recipe-chatgpt.html",
-   "cat": "日本のAI"
+   "title": "フィンランドの砂バッテリー、再エネの壁を越える仕組み",
+   "path": "/articles/20260727-finland-world-largest-sand-battery.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
  "notes": [],
- "pv_today": 44,
+ "pv_today": 52,
  "gemini": {
-  "used": 129,
+  "used": 132,
   "limit": 200
  }
 }
