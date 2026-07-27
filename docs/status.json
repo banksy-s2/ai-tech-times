@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-27 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-27 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "東京地検特捜部の元検事、不適切関係疑惑で裁判の証人出廷を求められる",
-   "path": "/articles/20260727-tokyo-district-public-prosecutors-office-prosecutor-witness.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価は320円04銭高の6万4931円19銭と反発",
+   "path": "/articles/20260727-nikkei-average-rebounds-27th.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "法務省検討会、声にも無断使用されない権利を報告書案に明記",
-   "path": "/articles/20260727-moj-reports-on-voice-publicity-rights.html",
-   "cat": "時事・世界"
+   "title": "キオクシア株価一時10%安、米半導体株安なぜ",
+   "path": "/articles/20260727-kioxia-shares-drop.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
-  "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
+  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
+  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 67,
+ "pv_today": 74,
  "gemini": {
-  "used": 168,
+  "used": 173,
   "limit": 200
  }
 }

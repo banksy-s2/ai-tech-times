@@ -13438,5 +13438,66 @@
   "date": "2026-07-27",
   "time": "22:00",
   "path": "/articles/20260727-moj-reports-on-voice-publicity-rights.html"
+ },
+ {
+  "title": "日経平均株価は320円04銭高の6万4931円19銭と反発",
+  "lead": "ウエルスアドバイザーによると、27日大引けの日経平均株価は320円04銭高の6万4931円19銭となりました。",
+  "summary3": [
+   "27日の日経平均株価は反発",
+   "終値は320円04銭高を記録",
+   "株価は6万4931円19銭に"
+  ],
+  "body": [
+   "ウエルスアドバイザーの報道によると、27日大引けの日経平均株価は前日からの動きを経て反発となりました。",
+   "この日の終値は320円04銭高の6万4931円19銭を記録し、市場取引を終了しています。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-rebounds-27th",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd24yZk02eEN4TW5ULVNmakJYb0R0VTlfMjBIcXNPaDZTRXFsZHVOVE9QMlpGdGMzb0dJNGtJa21rY2NKVnVZbWF6dlh4bl9tX2twOGJRc2x6eTlQM0dtaFZWangtclJWNE40MTR1eFhybU5oSkxZQjc1b1pwdkZnZlliZXVJVjg?oc=5",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "23:00",
+  "path": "/articles/20260727-nikkei-average-rebounds-27th.html"
+ },
+ {
+  "title": "キオクシア株価一時10%安、米半導体株安なぜ",
+  "lead": "AI TECH TIMESの報道によれば、キオクシアの株価が一時10%安となり、約2カ月ぶりの安値を記録しました。米半導体メモリー株の急落が影響したとみられています。",
+  "summary3": [
+   "キオクシア株価が一時10%安を記録",
+   "約2カ月ぶりの安値水準に下落",
+   "米半導体メモリー株安が背景に"
+  ],
+  "body": [
+   "「AI TECH TIMES」が日本経済新聞の報道として伝えたところによると、キオクシアの株価が一時10%安を記録し、約2カ月ぶりとなる安値をつけました。",
+   "今回の株価下落の背景には、アメリカ市場における半導体メモリー関連の株安があるとされています。米国の動向が日本の市場にも波及した形です。",
+   "半導体市場全体の動向や今後の値動きについては、引き続き国内外の関連企業の業績や市場環境の変化に注目が集まっています。"
+  ],
+  "tags": [
+   "キオクシア",
+   "半導体",
+   "株式市場"
+  ],
+  "slug": "kioxia-shares-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を手がける日本の半導体企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdldjM1NvM29ZanlVREZvbURLTEx4dlhodWM4WFR0UmVBSHQwM3p4c0dtWGhFVnlzdjBZV095ZTE0UzBaU2hmYUZKS1Y4RWo2Wm5kbllUT21aZ0ZPaUNGcUhrWV9TaVJRZmdjYQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-27",
+  "time": "23:00",
+  "path": "/articles/20260727-kioxia-shares-drop.html"
  }
 ]
