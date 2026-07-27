@@ -1,17 +1,26 @@
 {
- "updated": "2026-07-28 03:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-07-28 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "韓国・ユン前大統領に有罪、約44億円返還へ",
+   "path": "/articles/20260728-yoon-seok-yeol-guilty-verdict.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "プーチン大統領、北朝鮮の2万人追加派兵とウクライナ東部展開を議論か",
+   "path": "/articles/20260728-putin-north-korea-troop-deployment.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
- "notes": [
-  "執筆失敗: YouTuber「東京大学恋愛学部」未成年少女への飲酒・性的暴行容疑で逮捕に相方"
- ],
- "pv_today": 17,
+ "notes": [],
+ "pv_today": 23,
  "gemini": {
-  "used": 16,
+  "used": 20,
   "limit": 200
  }
 }
