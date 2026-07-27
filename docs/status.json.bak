@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-28 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-28 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "韓国・ユン前大統領に有罪、約44億円返還へ",
-   "path": "/articles/20260728-yoon-seok-yeol-guilty-verdict.html",
-   "cat": "時事・世界"
+   "title": "日銀「利上げ前倒し」警戒で日経平均に6万円割れリスク",
+   "path": "/articles/20260728-boj-rate-hike-nikkei-risk.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "プーチン大統領、北朝鮮の2万人追加派兵とウクライナ東部展開を議論か",
-   "path": "/articles/20260728-putin-north-korea-troop-deployment.html",
-   "cat": "時事・世界"
+   "title": "青山商事やリケンNPR、TOPIX除外回避へ増配期待の10銘柄",
+   "path": "/articles/20260728-topix-dividend-stocks-update.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
-  "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
+  "title": "Welcome to K.H.A.O.S | TV Royale",
+  "url": "https://www.youtube.com/watch?v=XuovA-AdDP8"
  },
  "notes": [],
- "pv_today": 23,
+ "pv_today": 30,
  "gemini": {
-  "used": 20,
+  "used": 25,
   "limit": 200
  }
 }
