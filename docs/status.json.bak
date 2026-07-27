@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-28 00:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均株価は320円04銭高の6万4931円19銭と反発",
-   "path": "/articles/20260727-nikkei-average-rebounds-27th.html",
-   "cat": "株式投資(日本)"
+   "title": "Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資",
+   "path": "/articles/20260728-enigma-raises-70m-robot-control.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "キオクシア株価一時10%安、米半導体株安なぜ",
-   "path": "/articles/20260727-kioxia-shares-drop.html",
-   "cat": "株式投資(日本)"
+   "title": "Moonshot AIのKimiがシリコンバレーに動揺を与えた理由",
+   "path": "/articles/20260728-making-sense-of-the-panic-over-chinese-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0"
  },
  "notes": [],
- "pv_today": 74,
+ "pv_today": 5,
  "gemini": {
-  "used": 173,
+  "used": 4,
   "limit": 200
  }
 }

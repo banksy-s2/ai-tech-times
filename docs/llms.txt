@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 00:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に](https://ai-tech-times.web.app/articles/20260728-anthropic-claude-opus-5-announced.html) — 2026-07-28 01:00: Anthropicは、新たなAIモデル「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持ちながら、価格は半額に抑えられています。
+- [Cameron Palmer氏が明かすLLM導入の罠とは](https://ai-tech-times.web.app/articles/20260728-cameron-palmer-llm-implementation-framework.html) — 2026-07-28 01:00: 「AIを使えるところを探す」という発想に潜むリスクについて、AI実装コンサルタントのCameron Palmer氏が自身の失敗から得た教訓を公開しました。
 - [Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資](https://ai-tech-times.web.app/articles/20260728-enigma-raises-70m-robot-control.html) — 2026-07-28 00:02: ロボットの制御を音量調節のように簡単にする新興企業Enigmaが、総額7000万ドルの大規模なシードラウンドでの資金調達を実施しました。
 - [Moonshot AIのKimiがシリコンバレーに動揺を与えた理由](https://ai-tech-times.web.app/articles/20260728-making-sense-of-the-panic-over-chinese-ai.html) — 2026-07-28 00:02: ポッドキャスト番組「Equity」の最新エピソードにて、中国発のAIモデル「Kimi」がなぜシリコンバレーやウォール街に大きな動揺を与えたのかが議論されました。
 - [日経平均株価は320円04銭高の6万4931円19銭と反発](https://ai-tech-times.web.app/articles/20260727-nikkei-average-rebounds-27th.html) — 2026-07-27 23:00: ウエルスアドバイザーによると、27日大引けの日経平均株価は320円04銭高の6万4931円19銭となりました。
@@ -40,18 +42,16 @@
 - [7751.T、純利益47%増の1,229億円を達成](https://ai-tech-times.web.app/articles/20260727-7751-t-fy2026-q2-earnings.html) — 2026-07-27 21:04: AI TECH TIMESがお届けする企業決算ニュースです。BigGo ファイナンスが報じた【7751.T FY2026 Q2 決算説明会】の最新情報をお伝えします。
 - [SBIグローバルアセットマネジメント、統合効果で売上高4.5倍](https://ai-tech-times.web.app/articles/20260727-sbi-global-asset-management-fy2027-q1-results.html) — 2026-07-27 21:04: SBIグローバルアセットマネジメントの2027年3月期第1四半期決算説明会動画が公開されました。統合効果により売上高4.5倍、EPS80%増を達成し、中間増配へ向かうことが明らかにされています。
 - [映画ちいかわ初日からの3日間で興収22.4億円突破、150万人動員はなぜ成功したのか](https://ai-tech-times.web.app/articles/20260727-movie-chiikawa-box-office-22-4-billion.html) — 2026-07-27 20:01: アニメ『ちいかわ』初の映画『映画ちいかわ 人魚の島のひみつ』が24日より公開され、初日から3日間の興行収入が22.4億円、動員数が150万人を記録しました。大ヒットの背景には何があったのでしょうか。
-- [米当局、スマホを初期化したサム・チュニック氏を起訴](https://ai-tech-times.web.app/articles/20260727-us-citizen-charged-for-wiping-phone-at-border.html) — 2026-07-27 19:00: 米国の空港で、連邦捜査官による押収の際にスマートフォンを初期化する「脅迫パスワード」を使用したとして、米国籍の人物が起訴されました。
-- [フィンランドの砂バッテリー、再エネの壁を越える仕組み](https://ai-tech-times.web.app/articles/20260727-finland-world-largest-sand-battery.html) — 2026-07-27 19:00: 再生可能エネルギーの最大の課題である不安定さを解決するため、フィンランドの小さな町に世界最大級の商業用砂バッテリーが導入されました。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
-- 1位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
-- 2位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
-- 3位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video](https://www.youtube.com/watch?v=6yvxHpIO5NY)
+- 1位: [Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept](https://www.youtube.com/watch?v=ovv5V6rDSxc)
+- 2位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
+- 3位: [REACHER Season 4 - Official Trailer | Prime Video](https://www.youtube.com/watch?v=PCbp1FfipPg)
 
-## AI用語事典 (全326語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全327語 / https://ai-tech-times.web.app/term/)
+- [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
-- [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
@@ -63,6 +63,7 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
+- [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが発表した最新のAIモデルで、Maxプランの新たな既定モデルとなります。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
@@ -70,7 +71,6 @@
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): イーロン・マスク氏が率いる、宇宙輸送や衛星通信サービスなどを手掛ける米国の民間宇宙開発企業。
-- [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): アントロピックが発表した最高性能かつ最もコストパフォーマンスに優れた最新のAIモデル。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務める実業家。宇宙開発やEV事業などで世界的に知られる。
 - [Kimiとは](https://ai-tech-times.web.app/term/kimi.html): Moonshot AIが開発した、市場に大きなインパクトを与えている対話型のAIモデルです。
 - [Ars Technicaとは](https://ai-tech-times.web.app/term/ars-technica.html): テクノロジーや科学、IT政策に関する専門的なニュースや深い分析を提供するアメリカの有力メディア媒体です。

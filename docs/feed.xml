@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropicが新モデル「Claude Opus 5」を発表、価格は半額に</title>
+<link>https://ai-tech-times.web.app/articles/20260728-anthropic-claude-opus-5-announced.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-anthropic-claude-opus-5-announced.html</guid>
+<pubDate>Tue, 28 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Anthropicは、新たなAIモデル「Claude Opus 5」を発表しました。「Fable 5」に迫る知能を持ちながら、価格は半額に抑えられています。</description>
+</item>
+<item>
+<title>Cameron Palmer氏が明かすLLM導入の罠とは</title>
+<link>https://ai-tech-times.web.app/articles/20260728-cameron-palmer-llm-implementation-framework.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-cameron-palmer-llm-implementation-framework.html</guid>
+<pubDate>Tue, 28 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>「AIを使えるところを探す」という発想に潜むリスクについて、AI実装コンサルタントのCameron Palmer氏が自身の失敗から得た教訓を公開しました。</description>
+</item>
+<item>
 <title>Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資</title>
 <link>https://ai-tech-times.web.app/articles/20260728-enigma-raises-70m-robot-control.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260728-enigma-raises-70m-robot-control.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 27 Jul 2026 17:05:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>ロイターの報道によると、東京株式市場で日経平均株価は反発しました。景気敏感株が相場を支える一方、AI・半導体関連の一部銘柄は軟調な動きとなっています。</description>
-</item>
-<item>
-<title>キオクシア株価5万円割れ寸前、決算控え売りの行方は</title>
-<link>https://ai-tech-times.web.app/articles/20260727-kioxia-stock-price-falls.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-kioxia-stock-price-falls.html</guid>
-<pubDate>Mon, 27 Jul 2026 17:05:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>キオクシアの株価が5万円割れ寸前となり、決算発表を控えて売りが加速しています。次の節目となる水準に関心が集まっています。</description>
-</item>
-<item>
-<title>アイサンテクノロジー、ミックウェアと資本業務提携</title>
-<link>https://ai-tech-times.web.app/articles/20260727-aisan-technology-micware-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-aisan-technology-micware-capital-business-alliance.html</guid>
-<pubDate>Mon, 27 Jul 2026 17:05:00 +0900</pubDate>
-<category>日本企業</category>
-<description>アイサンテクノロジーは2026年7月27日、株式会社ミックウェアとの資本業務提携契約の締結に関する適時開示を行いました。</description>
 </item>
 </channel></rss>

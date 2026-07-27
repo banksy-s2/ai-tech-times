@@ -1,11 +1,11 @@
 {
- "date": "2026-07-27",
+ "date": "2026-07-28",
  "videos": [
   {
    "id": "_Pk6xfju3l0",
    "title": "ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV",
    "channel": "HYBE LABELS",
-   "views": 3313052,
+   "views": 3399594,
    "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0",
    "thumb": "https://i.ytimg.com/vi/_Pk6xfju3l0/hqdefault.jpg",
    "regions": [
@@ -21,7 +21,7 @@
    "id": "ovv5V6rDSxc",
    "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
    "channel": "TeaserCon",
-   "views": 589381,
+   "views": 612936,
    "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
    "thumb": "https://i.ytimg.com/vi/ovv5V6rDSxc/hqdefault.jpg",
    "regions": [
@@ -37,7 +37,7 @@
    "id": "6yvxHpIO5NY",
    "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
    "channel": "BANGTANTV",
-   "views": 919978,
+   "views": 952011,
    "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY",
    "thumb": "https://i.ytimg.com/vi/6yvxHpIO5NY/hqdefault.jpg",
    "regions": [
@@ -52,7 +52,7 @@
    "id": "PCbp1FfipPg",
    "title": "REACHER Season 4 - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 3520158,
+   "views": 3576180,
    "url": "https://www.youtube.com/watch?v=PCbp1FfipPg",
    "thumb": "https://i.ytimg.com/vi/PCbp1FfipPg/hqdefault.jpg",
    "regions": [
@@ -66,7 +66,7 @@
    "id": "ynkhNRpQ9Xc",
    "title": "1000 Players Build END Civilization in Hardcore Minecraft",
    "channel": "Spoke",
-   "views": 2061099,
+   "views": 2156167,
    "url": "https://www.youtube.com/watch?v=ynkhNRpQ9Xc",
    "thumb": "https://i.ytimg.com/vi/ynkhNRpQ9Xc/hqdefault.jpg",
    "regions": [
@@ -77,38 +77,38 @@
    "comment": "1000人のプレイヤーでマインクラフトの文明シミュレーションを行う動画のようです。"
   },
   {
-   "id": "g79GPZSQHBk",
-   "title": "Neuromancer — Official Teaser | Apple TV",
-   "channel": "Apple TV",
-   "views": 1168932,
-   "url": "https://www.youtube.com/watch?v=g79GPZSQHBk",
-   "thumb": "https://i.ytimg.com/vi/g79GPZSQHBk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 6,
-   "comment": "Apple TVによる「Neuromancer」公式ティーザー映像のようです。"
-  },
-  {
    "id": "hPZcZpNn3KY",
    "title": "Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar",
    "channel": "Tips Official",
-   "views": 1163790,
+   "views": 1459039,
    "url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
    "thumb": "https://i.ytimg.com/vi/hPZcZpNn3KY/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "マヒラ・シャルマらが出演する新曲MVのようです"
+  },
+  {
+   "id": "g79GPZSQHBk",
+   "title": "Neuromancer — Official Teaser | Apple TV",
+   "channel": "Apple TV",
+   "views": 1184826,
+   "url": "https://www.youtube.com/watch?v=g79GPZSQHBk",
+   "thumb": "https://i.ytimg.com/vi/g79GPZSQHBk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 7,
+   "comment": "Apple TVによる「Neuromancer」公式ティーザー映像のようです。"
   },
   {
    "id": "mh1BYXHpeOc",
    "title": "THE BEST COMIC-CON 2026 MOVIE TRAILERS",
    "channel": "KinoCheck.com",
-   "views": 751706,
+   "views": 767891,
    "url": "https://www.youtube.com/watch?v=mh1BYXHpeOc",
    "thumb": "https://i.ytimg.com/vi/mh1BYXHpeOc/hqdefault.jpg",
    "regions": [
@@ -122,7 +122,7 @@
    "id": "86OOvAHW424",
    "title": "The SLIME INFECTION in Animal Hospital ANOMALY..",
    "channel": "Tyler & Snowi",
-   "views": 535496,
+   "views": 565167,
    "url": "https://www.youtube.com/watch?v=86OOvAHW424",
    "thumb": "https://i.ytimg.com/vi/86OOvAHW424/hqdefault.jpg",
    "regions": [
@@ -136,7 +136,7 @@
    "id": "HeFsNVSAdtw",
    "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
    "channel": "New Rockstars",
-   "views": 458553,
+   "views": 483839,
    "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
    "thumb": "https://i.ytimg.com/vi/HeFsNVSAdtw/hqdefault.jpg",
    "regions": [
