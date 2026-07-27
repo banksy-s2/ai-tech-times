@@ -13499,5 +13499,83 @@
   "date": "2026-07-27",
   "time": "23:00",
   "path": "/articles/20260727-kioxia-shares-drop.html"
+ },
+ {
+  "title": "Index Venturesなど、ロボット操作を簡単にするEnigmaに7000万ドル出資",
+  "lead": "ロボットの制御を音量調節のように簡単にする新興企業Enigmaが、総額7000万ドルの大規模なシードラウンドでの資金調達を実施しました。",
+  "summary3": [
+   "Enigmaが7000万ドルを調達",
+   "Index Venturesが主導",
+   "ロボット操作の簡素化を目指す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきましては、海外のAI・テック動向に関する最新ニュースをお伝えしております。このたび、ロボットの制御を極めて容易にすることを目指す新興企業Enigmaが、巨額の資金調達に成功したことが明らかになりました。",
+   "テックメディア「TechCrunch AI」の報道によりますと、今回のmassiveなシードラウンドを主導したのはIndex VenturesおよびRibbit Capitalであり、さらにSarah Guoが率いるConviction Partnersも参加したとのことです。",
+   "Enigmaが掲げる「ロボットの制御を音量調節のように簡単にする」というビジョンが実現すれば、私たちの生活や仕事におけるロボット活用のハードルは大きく下がる可能性があります。今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "ロボット",
+   "資金調達",
+   "AI技術"
+  ],
+  "slug": "enigma-raises-70m-robot-control",
+  "people": [
+   {
+    "name": "Sarah Guo",
+    "bio": "著名な投資家であり、Conviction Partnersを率いる人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Index Ventures",
+    "type": "company",
+    "desc": "欧米を中心にテクノロジー企業への投資を行う有力なベンチャーキャピタル。"
+   },
+   {
+    "name": "Ribbit Capital",
+    "type": "company",
+    "desc": "フィンテックをはじめとする革新的なテクノロジー企業へ投資するベンチャーキャピタル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "00:02",
+  "path": "/articles/20260728-enigma-raises-70m-robot-control.html"
+ },
+ {
+  "title": "Moonshot AIのKimiがシリコンバレーに動揺を与えた理由",
+  "lead": "ポッドキャスト番組「Equity」の最新エピソードにて、中国発のAIモデル「Kimi」がなぜシリコンバレーやウォール街に大きな動揺を与えたのかが議論されました。",
+  "summary3": [
+   "Moonshot AIのKimiが話題に",
+   "シリコンバレーとウォール街に動揺",
+   "最新エピソードで背景を議論"
+  ],
+  "body": [
+   "ニュースサイト「TechCrunch AI」のポッドキャスト番組「Equity」の最新エピソードにおいて、中国のAI企業が開発した「Kimi」というAIモデルが取り上げられました。",
+   "このKimiの登場が、なぜシリコンバレーやウォール街で大きなパニックを引き起こしたのかについて、番組内で詳細な議論が交わされました。",
+   "海外のAI開発競争が激しさを増す中、中国発のAI技術が欧米の市場にどのような影響を与えているのか、その背景に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "MoonshotAI",
+   "TechCrunch"
+  ],
+  "slug": "making-sense-of-the-panic-over-chinese-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Kimi",
+    "type": "ai",
+    "desc": "Moonshot AIが開発した、市場に大きなインパクトを与えている対話型のAIモデルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "00:02",
+  "path": "/articles/20260728-making-sense-of-the-panic-over-chinese-ai.html"
  }
 ]
