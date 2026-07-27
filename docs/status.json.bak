@@ -1,61 +1,26 @@
 {
- "updated": "2026-07-27 17:05",
- "mode": "フル便",
+ "updated": "2026-07-27 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "SKハイニックス過去最高の約7.2兆円利益、その理由は？",
-   "path": "/articles/20260727-sk-hynix-record-profit-2026.html",
+   "title": "MIXIの新卒向けAI研修資料、全12科目で無料公開",
+   "path": "/articles/20260727-mixi-ai-training-materials.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Shein、第1四半期売上高90.5億ドルも9900万ドルの赤字転落",
-   "path": "/articles/20260727-shein-q1-revenue-and-loss.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "CXMT株価500%急騰、上海市場で86億ドル調達",
-   "path": "/articles/20260727-cxmt-china-market-debut-chipmaker-ipo.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "東野圭吾さん68歳で死去、直木賞作家が残した数々の名作",
-   "path": "/articles/20260727-keigo-higashino-passes-away-at-68.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ウクライナ、ロシア・イラン間の輸送船を攻撃",
-   "path": "/articles/20260727-ukraine-attacks-russia-iran-transport-ship.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均は反発、景気敏感株が支える展開に",
-   "path": "/articles/20260727-nikkei-average-rebounds-2024.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "キオクシア株価5万円割れ寸前、決算控え売りの行方は",
-   "path": "/articles/20260727-kioxia-stock-price-falls.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "アイサンテクノロジー、ミックウェアと資本業務提携",
-   "path": "/articles/20260727-aisan-technology-micware-capital-business-alliance.html",
-   "cat": "日本企業"
+   "title": "ChatGPTと挑む元トラック運転手のバーガー店成功術",
+   "path": "/articles/20260727-ai-hamburger-recipe-chatgpt.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
   "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY"
  },
- "notes": [
-  "執筆失敗: 【大河原克行の「パソコン業界、東奔西走」】 富岳の7倍超のAI性能、次世代スパコ",
-  "執筆失敗: YouTuber「HIKAKIN」のラーメン屋が大阪に進出 店舗面積は東京の約4",
-  "執筆失敗: 吉田凜音、アソビシステムと業務提携 Z世代のアイコンとして注目を集める存在（EN",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 41,
+ "notes": [],
+ "pv_today": 44,
  "gemini": {
-  "used": 124,
+  "used": 129,
   "limit": 200
  }
 }
