@@ -1,11 +1,16 @@
 {
- "updated": "2026-07-29 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-29 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "料理研究家リュウジが暴露！インフルエンサー案件の真実",
-   "path": "/articles/20260729-ryuji-influencer-gourmet-debate.html",
-   "cat": "インフルエンサー"
+   "title": "日本製紙八代工場で2人心肺停止、救助要望9人",
+   "path": "/articles/20260729-nippon-paper-yatsushiro-earthquake.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "中国大使館侵入の陸上自衛官、脅迫罪でも起訴",
+   "path": "/articles/20260729-chinese-embassy-intruder-indicted.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 19,
+  "used": 23,
   "limit": 200
  }
 }

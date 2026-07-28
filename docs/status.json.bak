@@ -1,26 +1,21 @@
 {
- "updated": "2026-07-29 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-29 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Apple、月11.99ドルからの新端末リース発表",
-   "path": "/articles/20260729-apple-upgrade-device-leasing-program.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "eBayと元幹部らがブロガー嫌がらせ訴訟で5600万ドル支払いへ",
-   "path": "/articles/20260729-ebay-blogger-harassment-settlement.html",
-   "cat": "シリコンバレー最速"
+   "title": "料理研究家リュウジが暴露！インフルエンサー案件の真実",
+   "path": "/articles/20260729-ryuji-influencer-gourmet-debate.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
-  "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc"
+  "title": "Apex Legends: Marked Gameplay Trailer",
+  "url": "https://www.youtube.com/watch?v=jJObfZSbzAw"
  },
  "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }
