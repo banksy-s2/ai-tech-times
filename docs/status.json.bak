@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-29 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-29 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "アドテストが730円押し下げ、日経平均は2755円安の6万2176円",
-   "path": "/articles/20260729-nikkei-average-drops-2755-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "ヒューリック、青果物生産・販売会社と資本・業務提携",
+   "path": "/articles/20260729-hulic-capital-business-alliance.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "スクリン・カプコンなど35社が決算発表予定 (7月28日)",
+   "path": "/articles/20260729-earnings-announcement-july-28.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Apex Legends: Marked Gameplay Trailer",
   "url": "https://www.youtube.com/watch?v=jJObfZSbzAw"
  },
- "notes": [
-  "執筆失敗: ニップンの株価が上場来高値 物言う株主が株買い増し - 日本経済新聞"
- ],
+ "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 29,
+  "used": 32,
   "limit": 200
  }
 }

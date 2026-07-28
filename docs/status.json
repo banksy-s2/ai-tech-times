@@ -1,26 +1,75 @@
 {
- "updated": "2026-07-29 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-29 07:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ヒューリック、青果物生産・販売会社と資本・業務提携",
-   "path": "/articles/20260729-hulic-capital-business-alliance.html",
+   "title": "Google、AI投資を最大205億ドルに引き上げで株価への影響は",
+   "path": "/articles/20260729-google-ai-spending-increase-wall-street.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Insight Partners、ボット対策Spurに2億ドル出資",
+   "path": "/articles/20260729-spur-nabs-200m-from-insight.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Gigazine報道：中国で自分の顔をAIにレンタルするビジネスが流行",
+   "path": "/articles/20260729-china-people-renting-face-to-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オードリー・タンが明かす、米中AI競争で勝つ意外な道",
+   "path": "/articles/20260729-audrey-tang-ai-strategy.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アップルが時価総額5兆ドル突破、AIの未来を巡る投資家の議論とは",
+   "path": "/articles/20260729-apple-touches-5-trillion-market-cap.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Rippling訴えられた背景：MCP製品の模倣めぐる攻防",
+   "path": "/articles/20260729-runlayer-accuses-rippling-mcp-lawsuit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "伊豆諸島南部で線状降水帯発生のおそれ、直前予測を発表",
+   "path": "/articles/20260729-izu-islands-heavy-rain-forecast.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均が4％超安、半導体株売りで急落なぜ",
+   "path": "/articles/20260729-nikkei-average-plunges-semiconductor-selloff.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "三井住友FG中島社長が語る変革期の舵取り",
+   "path": "/articles/20260729-smfg-nakajima-interview.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "中国電力・マツダ含む49社、4～6月期業績発表へ",
+   "path": "/articles/20260729-chugoku-region-earnings-announcement.html",
    "cat": "日本企業"
   },
   {
-   "title": "スクリン・カプコンなど35社が決算発表予定 (7月28日)",
-   "path": "/articles/20260729-earnings-announcement-july-28.html",
+   "title": "アドテスト・東エレクなど半導体関連が安い理由とは",
+   "path": "/articles/20260729-semiconductor-stocks-decline-before-earnings.html",
    "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Apex Legends: Marked Gameplay Trailer",
-  "url": "https://www.youtube.com/watch?v=jJObfZSbzAw"
+  "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
+  "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
  },
- "notes": [],
- "pv_today": 3,
+ "notes": [
+  "執筆失敗: BYD、軽EV「ラッコ」の価格は214万5000円から スーパートール車形に両側",
+  "執筆失敗: Ariana Grande sues hackers who leaked mu",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 4,
  "gemini": {
-  "used": 32,
+  "used": 58,
   "limit": 200
  }
 }
