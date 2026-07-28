@@ -15433,5 +15433,49 @@
   "date": "2026-07-28",
   "time": "17:07",
   "path": "/articles/20260728-canon-q2-earnings-lens-interchangeable.html"
+ },
+ {
+  "title": "Anthropicが数百万冊の本を裁断しAI学習、希少本消失の懸念も",
+  "lead": "AI「Claude」を開発するAnthropicが、学習のために数百万冊の印刷された書籍を裁断してデジタル化し、廃棄していたことが判明しました。",
+  "summary3": [
+   "Anthropicと原告の和解案が承認",
+   "数百万冊の本を裁断しAI学習に使用",
+   "イーロン・マスク氏が批判に言及"
+  ],
+  "body": [
+   "AI「Claude」を開発するAnthropicは、海賊版書籍を使ったとして作家グループに訴えられていました。2026年7月27日、Anthropicと原告の和解案が承認されたことが明らかになっています。",
+   "しかし、裁判資料を通じて、Anthropicが数百万冊もの印刷された書籍を製本から裁断してスキャンしていたことが判明しました。これらはAIのトレーニングのためだけに使用され、原本は廃棄されていたとのことです。",
+   "この手法に対しては、希少な本が失われるのではないかと懸念の声が上がり、一部から批判を集めています。一方、イーロン・マスク氏は「SpaceXAIはそんなことしない」と自身のSNSでアピールしました。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI学習"
+  ],
+  "slug": "anthropic-books-ai-training",
+  "people": [
+   {
+    "name": "イーロン・マスク",
+    "bio": "テスラやスペースXなどを率いる起業家で、AI開発企業なども手掛ける人物です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した、自然な対話や文章生成を行う人工知能モデルです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260728-anthropic-books/",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "18:00",
+  "path": "/articles/20260728-anthropic-books-ai-training.html"
  }
 ]

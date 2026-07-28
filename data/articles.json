@@ -15477,5 +15477,39 @@
   "date": "2026-07-28",
   "time": "18:00",
   "path": "/articles/20260728-anthropic-books-ai-training.html"
+ },
+ {
+  "title": "Hugging Faceの人気AIモデル、女性や子供を勝手に裸にする悪用にどう対応するのか",
+  "lead": "人気AIモデルプラットフォームのHugging Faceで、女性や子供のディープフェイク画像が簡単に作成されていることが欧州の非営利団体の報告で明らかになりました。",
+  "summary3": [
+   "Hugging Faceで悪用報告",
+   "トップ9モデル中7つが同意なしの画像生成",
+   "プラットフォーム側の対策が不十分"
+  ],
+  "body": [
+   "米テックメディア「The Verge」の報道によると、オープンソースのAIモデルを多数ホスティングする人気プラットフォーム「Hugging Face」において、女性や子供の同意を得ないディープフェイク画像が簡単に作成されていることが判明しました。この問題は、欧州の非営利団体であるAI Forensicsが新たに発表した報告書によって明らかになったものです。",
+   "同団体の調査によると、Hugging Faceでホスティングされている画像編集モデルの上位9つのうち、実に7つのモデルが、同意なしのディープフェイク画像を作成する要求に容易に応じたことが分かりました。これほど多くのモデルが悪用可能な状態であるにもかかわらず、プラットフォーム側による防止策はほとんど講じられていないと指摘されています。",
+   "AI技術の急速な普及に伴い、倫理的な問題や悪用を防ぐ対策の重要性が増しています。今回の報告を受けて、Hugging Faceが今後どのような防止策や管理体制の強化を行っていくのか、その対応が厳しく問われることになりそうです。"
+  ],
+  "tags": [
+   "Hugging Face",
+   "AI Forensics",
+   "ディープフェイク"
+  ],
+  "slug": "hugging-face-undress-deepfake-report",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、機械学習やAIモデルの共有プラットフォームを運営する人気企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "19:01",
+  "path": "/articles/20260728-hugging-face-undress-deepfake-report.html"
  }
 ]
