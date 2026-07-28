@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アドテストが730円押し下げ、日経平均は2755円安の6万2176円](https://ai-tech-times.web.app/articles/20260729-nikkei-average-drops-2755-yen.html) — 2026-07-29 05:00: 東京株式市場で日経平均株価が大幅に下落し、15時時点で前日比2755円安の6万2176円となりました。
 - [日本製紙八代工場で2人心肺停止、救助要望9人](https://ai-tech-times.web.app/articles/20260729-nippon-paper-yatsushiro-earthquake.html) — 2026-07-29 04:00: 総務省消防庁によると、震度6強の揺れを観測した熊本県八代市の日本製紙八代工場で、午後10時までに2人が心肺停止となり、9人の安否が不明となっています。
 - [中国大使館侵入の陸上自衛官、脅迫罪でも起訴](https://ai-tech-times.web.app/articles/20260729-chinese-embassy-intruder-indicted.html) — 2026-07-29 04:00: ことし3月、東京・港区の中国大使館に刃物を所持して侵入したとして逮捕された陸上自衛官について、検察は脅迫の罪でも起訴しました。
 - [料理研究家リュウジが暴露！インフルエンサー案件の真実](https://ai-tech-times.web.app/articles/20260729-ryuji-influencer-gourmet-debate.html) — 2026-07-29 03:00: 料理研究家リュウジの発言をきっかけに、グルメインフルエンサーの“案件まみれ”の実態とその信頼性をめぐって議論が勃発しています。
@@ -41,12 +42,11 @@
 - [Antaresが4億7000万ドル調達、米軍基地向け小型原子炉の開発へ](https://ai-tech-times.web.app/articles/20260728-antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-mi.html) — 2026-07-28 21:03: 米軍基地への電力供給を目指し、小型モジュール炉の開発を進める新興企業が大型資金調達に成功しました。
 - [ベライゾン、グーグル向け10億ドル規模ダークファイバー契約でAI収益化へ](https://ai-tech-times.web.app/articles/20260728-verizon-1b-dark-fiber-deal-google.html) — 2026-07-28 21:03: 米通信大手ベライゾンがグーグルのデータセンター向けに10億ドルのダークファイバー契約を締結し、AI関連の収益化を目指す方針を明らかにしました。
 - [板東英二さん86歳で死去、タレントとしても活躍](https://ai-tech-times.web.app/articles/20260728-bando-eiji-passes-away-at-86.html) — 2026-07-28 21:03: プロ野球の中日で投手として活躍し、のちにタレントや俳優としても人気を集めた板東英二さんが慢性心不全のため亡くなりました。86歳でした。
-- [熊本で震度7の地震、気象庁が午後8時半から2回目の会見へ](https://ai-tech-times.web.app/articles/20260728-kumamoto-earthquake-kishochou-briefing.html) — 2026-07-28 21:03: 28日午後4時半ごろに熊本県で震度7の揺れを観測した地震について、気象庁は午後8時半から2回目の会見を開いています。
 
 ## 世界のバズ動画TOP3 (2026-07-29)
 - 1位: [Apex Legends: Marked Gameplay Trailer](https://www.youtube.com/watch?v=jJObfZSbzAw)
-- 2位: [BRAWL WILL FINALLY MAKE YOU SMARTER #EscapePyramidQuest](https://www.youtube.com/watch?v=J3NnGQwPdZU)
-- 3位: [Ted Lasso — Season 4 Official Trailer (Together) | Apple TV](https://www.youtube.com/watch?v=GACU1N9hg5o)
+- 2位: [Ted Lasso — Season 4 Official Trailer (Together) | Apple TV](https://www.youtube.com/watch?v=GACU1N9hg5o)
+- 3位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY](https://www.youtube.com/watch?v=bVgm4dy6Uxc)
 
 ## AI用語事典 (全385語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -77,8 +77,8 @@
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
+- [アドテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスタ）の大手メーカーであり、世界トップクラスのシェアを誇ります。
 - [Klarnaとは](https://ai-tech-times.web.app/term/klarna.html): スウェーデン発祥の、後払い決済やショッピングサービスなどを提供している大手フィンテック企業です。
-- [Google Cloudとは](https://ai-tech-times.web.app/term/google-cloud.html): Googleが提供する、企業向けのクラウドコンピューティングサービス事業です。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
