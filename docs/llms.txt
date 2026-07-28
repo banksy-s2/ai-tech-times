@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 21:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 22:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [イオンモール熊本で従業員20～30人と連絡取れず](https://ai-tech-times.web.app/articles/20260728-aeon-mall-kumamoto-contact-lost.html) — 2026-07-28 22:02: 警察庁や警察関係者によりますと、イオンモール熊本で従業員とみられる複数の安否不明者が確認されており、現在も連絡が取れていない従業員は20人から30人に上るという情報があるということです。
 - [AnthropicダリオCEO、中国のAI台頭に強い懸念](https://ai-tech-times.web.app/articles/20260728-anthropic-dario-amodei-china-ai-fears.html) — 2026-07-28 21:03: Anthropicの最高経営責任者であるダリオ・アモデイ氏が、オープンウェイトモデルと中国のAI開発力について自身の見解を明らかにしました。
 - [Moonshot AIのKimi K3が米国製を低コストで超える理由](https://ai-tech-times.web.app/articles/20260728-moonshot-ai-kimi-k3-rivalry.html) — 2026-07-28 21:03: 中国のMoonshot AIが開発した新型AIモデル「Kimi K3」の登場により、シリコンバレーに大きな衝撃が走っています。米国の主要システムを凌駕する性能を低コストで実現した背景には何があるのでしょうか。
 - [Claude Codeで変わる最新の仕事の流れと開発手法](https://ai-tech-times.web.app/articles/20260728-claude-code-work-flow.html) — 2026-07-28 21:03: ここ数ヶ月で働き方が大きく変わり、AIを活用した新しい開発プロセスが注目を集めています。リファインメントからCI、PRの管理までの一連の流れが生み出す変化とは何でしょうか。
@@ -41,14 +42,13 @@
 - [日本IBMが医療文書作成を30分から5分へ短縮した理由](https://ai-tech-times.web.app/articles/20260728-ibm-medical-ai-platform.html) — 2026-07-28 17:07: 日本アイ・ビー・エムと関西医科大学が共同開発した「医療AI共通ICTプラットフォーム」により、医療文書の作成時間が大幅に短縮されました。現場の業務効率化をもたらす生成AI活用の実態をお伝えします。
 - [Microsoft、「Copilot Cowork」提供開始](https://ai-tech-times.web.app/articles/20260728-copilot-cowork-general-availability.html) — 2026-07-28 17:07: Microsoftは、「Microsoft 365 Copilot」の新機能「Copilot Cowork」の一般提供を全世界で開始しました。業務効率化に向けた実証が進んでおり、今後の活用に注目が集まっています。
 - [Amazon、スマホ向け衛星通信網を拡大しSpaceXに対抗](https://ai-tech-times.web.app/articles/20260728-amazon-satellite-network-spacex.html) — 2026-07-28 17:07: Amazonは、モバイル端末向け衛星通信サービスの提供に向けた計画をさらに拡大させています。この新たな取り組みは、競合するSpaceXにどのような影響を与えるのでしょうか。
-- [ケイデンスQ2売上高24.2%増、AI特需で年間予測を上方修正](https://ai-tech-times.web.app/articles/20260728-cadence-reports-q2-revenue-up-24-percent.html) — 2026-07-28 17:07: ケイデンス・デザイン・システムズは月曜、AI関連の需要が好調であることから、第2四半期決算の増収と年間売上・利益予測の上方修正を発表しました。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
 - 1位: [SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer "Tombstone" | Marvel Comics | Concept](https://www.youtube.com/watch?v=Vstf1W5mA7c)
 - 2位: [Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar](https://www.youtube.com/watch?v=hPZcZpNn3KY)
 - 3位: [Onslaught | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=AMLCbpM1fRQ)
 
-## AI用語事典 (全376語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全377語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。

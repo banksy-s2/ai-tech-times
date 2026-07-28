@@ -15545,5 +15545,444 @@
   "date": "2026-07-28",
   "time": "20:01",
   "path": "/articles/20260728-national-tax-agency-ksk2-system.html"
+ },
+ {
+  "title": "AnthropicダリオCEO、中国のAI台頭に強い懸念",
+  "lead": "Anthropicの最高経営責任者であるダリオ・アモデイ氏が、オープンウェイトモデルと中国のAI開発力について自身の見解を明らかにしました。",
+  "summary3": [
+   "オープンウェイトには反対せず",
+   "中国のAI能力の成長を警戒",
+   "ダリオCEOが見解を明かす"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米国の人工知能企業Anthropicの創業者兼CEOであるダリオ・アモデイ氏が、オープンウェイトモデルおよび中国の急速に高まるAI開発能力について、自身の考えを明確に示しました。",
+   "同氏はオープンウェイトモデルそのものに対しては反対の姿勢をとっていないものの、中国のAI分野における技術力と能力の向上に対しては強い懸念を抱いていることが伝えられています。",
+   "今回の見解表明は、世界のAI開発競争や安全性をめぐる議論において、主要なAI企業のトップがどのような警戒感を持っているのかを示すものとして注目を集めています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI開発",
+   "中国AI"
+  ],
+  "slug": "anthropic-dario-amodei-china-ai-fears",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ氏",
+    "bio": "Anthropicの創業者兼CEOを務め、AIの安全性研究と開発を主導する主要な経営者の一人。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とする人工知能の安全性と研究開発を手がける企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-anthropic-dario-amodei-china-ai-fears.html"
+ },
+ {
+  "title": "Moonshot AIのKimi K3が米国製を低コストで超える理由",
+  "lead": "中国のMoonshot AIが開発した新型AIモデル「Kimi K3」の登場により、シリコンバレーに大きな衝撃が走っています。米国の主要システムを凌駕する性能を低コストで実現した背景には何があるのでしょうか。",
+  "summary3": [
+   "中国のMoonshot AIが新型AIを発表",
+   "米国の最高峰システムを凌駕する性能を記録",
+   "低コストでの実現がシリコンバレーに危機感"
+  ],
+  "body": [
+   "米国のシリコンバレーは過去1週間にわたり、中国のMoonshot AIが手がけた「Kimi K3」の登場を受けて厳戒態勢に入っています。この中国製AIモデルは、米国企業が構築した最高のシステムの一部を凌駕する性能を持つとされており、しかもわずかなコストでそれを実現しています。",
+   "その圧倒的なパフォーマンスだけでも、米中間のAI競争を激化させるには十分すぎるものでした。低コストでありながら高性能を発揮するAIの登場は、これまでのAI開発の勢力図を大きく揺るがす可能性を秘めています。",
+   "優れたAIモデルが中国から登場したことで、今後の業界動向や米国のテック企業による戦略に注目が集まっています。AI技術を巡る国際的な競争は、さらなる局面へと突入しようとしています。"
+  ],
+  "tags": [
+   "AI",
+   "Moonshot AI",
+   "Kimi K3"
+  ],
+  "slug": "moonshot-ai-kimi-k3-rivalry",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "中国を拠点とし、高性能なAIモデルの開発を進めている注目の人工知能企業です。"
+   },
+   {
+    "name": "Kimi K3",
+    "type": "ai",
+    "desc": "Moonshot AIが開発したAIモデルで、米国企業の優秀なシステムに匹敵する性能を持ちます。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-moonshot-ai-kimi-k3-rivalry.html"
+ },
+ {
+  "title": "Claude Codeで変わる最新の仕事の流れと開発手法",
+  "lead": "ここ数ヶ月で働き方が大きく変わり、AIを活用した新しい開発プロセスが注目を集めています。リファインメントからCI、PRの管理までの一連の流れが生み出す変化とは何でしょうか。",
+  "summary3": [
+   "ここ数ヶ月で働き方が大幅に変化した",
+   "Claude Codeが実装を担当する",
+   "安定して信頼度の高い変更を生産"
+  ],
+  "body": [
+   "はじめに、ここ数ヶ月で働き方がかなり変わったという現状があります。日々の業務におけるプロセスや手法の見直しが進められています。",
+   "具体的な仕事の流れとしては、リファインメントでgrillして認識を合わせ、実装はClaude Codeに書かせます。さらに、多層モデルのレビューと厚いCIを通すプロセスを取り入れています。",
+   "その後、babysit-prでgreenになるまで面倒を見させます。この流れが回り始めてから、かなりの信頼度のchange listが安定して生産できるようになりました。"
+  ],
+  "tags": [
+   "Claude Code",
+   "働き方",
+   "CI"
+  ],
+  "slug": "claude-code-work-flow",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが提供する、コマンドラインインターフェースで動作するAIコーディングアシスタント。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-claude-code-work-flow.html"
+ },
+ {
+  "title": "Moonshot AIのKimi-K3をB300 x8でDay0デプロイ",
+  "lead": "Moonshot AIが公開した史上最大のオープンウェイトモデル「Kimi-K3」を、フィックスターズがNVIDIA B300 x8のシングルノード環境へデプロイしました。",
+  "summary3": [
+   "Kimi-K3のモデルウェイトが公開された",
+   "史上最大のオープンウェイトモデルとして話題",
+   "NVIDIA B300 x8でデプロイと検証を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、2026年7月27日にMoonshot AIから公開された「Kimi-K3」のモデルウェイトに関する最新情報が入ってまいりました。本作は、7月16日のモデル発表時点から「オープンウェイトモデルとして史上最大」と、大きな話題を集めていた注目モデルです。",
+   "フィックスターズでは、このウェイト公開の当日となる2026年7月27日に、NVIDIA B300 x8のシングルノード環境へKimi-K3を「Day0デプロイ」することに成功しました。史上最大のモデルがシングルノードでどのように動作するのか、推論性能のベンチマークなどに大きな関心が寄せられています。",
+   "今回のデプロイ成功により、大規模なオープンウェイトモデルの運用における新たな可能性が示されました。今後の推論性能の検証結果や、実運用への展開についても引き続き注目が集まることが予想されます。"
+  ],
+  "tags": [
+   "Kimi-K3",
+   "Moonshot AI",
+   "フィックスターズ"
+  ],
+  "slug": "kimi-k3-day0-deploy-fixstars",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "最先端の大規模言語モデルなどの開発を手がける、中国発の人工知能スタートアップ企業です。"
+   },
+   {
+    "name": "Kimi-K3",
+    "type": "ai",
+    "desc": "Moonshot AIが開発した、オープンウェイトモデルとして史上最大規模を誇る話題のAIモデルです。"
+   },
+   {
+    "name": "フィックスターズ",
+    "type": "company",
+    "desc": "ソフトウェアの高速化や最適化技術に強みを持つ、日本のテクノロジー企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+  "category": "ai_jp",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-kimi-k3-day0-deploy-fixstars.html"
+ },
+ {
+  "title": "Antaresが4億7000万ドル調達、米軍基地向け小型原子炉の開発へ",
+  "lead": "米軍基地への電力供給を目指し、小型モジュール炉の開発を進める新興企業が大型資金調達に成功しました。",
+  "summary3": [
+   "Antaresが4億7000万ドルを調達",
+   "米軍基地向けに小型原子炉を開発へ",
+   "出力は100kWから1MWを想定"
+  ],
+  "body": [
+   "テッククランチの報道によると、原子炉の開発を手がけるAntaresは、米国防総省関連の基地向けに小型モジュール炉を建設するため、4億7000万ドルを調達したことが明らかになりました。",
+   "今回計画されている小型モジュール炉の出力は、100 kWから1 MWの規模を想定しています。この原子炉は、米空軍基地への導入を視野に入れて開発が進められる予定です。",
+   "エネルギー供給の安定化や防衛インフラの強化が求められる中、最先端の小型原子力技術が軍事拠点においてどのように活用されていくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "原子炉",
+   "米軍",
+   "資金調達"
+  ],
+  "slug": "antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-mi",
+  "people": [],
+  "terms": [
+   {
+    "name": "Antares",
+    "type": "company",
+    "desc": "米軍基地向けなどの小型モジュール炉開発を手がけるアメリカの企業。"
+   },
+   {
+    "name": "テッククランチ",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とする、IT業界やスタートアップに関するニュースを専門に報じるメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-mi.html"
+ },
+ {
+  "title": "ベライゾン、グーグル向け10億ドル規模ダークファイバー契約でAI収益化へ",
+  "lead": "米通信大手ベライゾンがグーグルのデータセンター向けに10億ドルのダークファイバー契約を締結し、AI関連の収益化を目指す方針を明らかにしました。",
+  "summary3": [
+   "ベライゾンが10億ドルの契約を締結",
+   "グーグルのデータセンター向けが対象",
+   "通信会社がAI収益化に期待を示す"
+  ],
+  "body": [
+   "海外メディアのアーテクニカ（Ars Technica）の報道によると、米国の通信大手ベライゾン（Verizon）は、グーグル（Google）のデータセンター向けに10億ドル規模のダークファイバー契約を締結したと発表しました。今回の契約は、同社が期待する数多くの取引の第一弾と位置づけられています。",
+   "通信業界では、生成AIなどの急速な普及に伴い、膨大なデータを高速でやり取りするための通信インフラへの需要が高まっています。ベライゾンは、こうした市場の変化に対応するため、ダークファイバーの提供やデータセンターの改修を通じて、新たなAI関連の収益源を確保したい考えです。",
+   "AI技術の進化を支える裏側では、通信インフラやデータセンターの果たす役割がますます重要になっています。ベライゾンによる今回の大型契約は、通信会社がAIブームの波にどのように乗っていくのかを示す一つの事例と言えそうです。"
+  ],
+  "tags": [
+   "Verizon",
+   "Google",
+   "AI"
+  ],
+  "slug": "verizon-1b-dark-fiber-deal-google",
+  "people": [],
+  "terms": [
+   {
+    "name": "ベライゾン",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、通信事業やインターネットサービスなどを幅広く手がける大手通信会社。"
+   },
+   {
+    "name": "グーグル",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、検索エンジンをはじめ多様なインターネット関連サービスやAI開発を行う企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-verizon-1b-dark-fiber-deal-google.html"
+ },
+ {
+  "title": "板東英二さん86歳で死去、タレントとしても活躍",
+  "lead": "プロ野球の中日で投手として活躍し、のちにタレントや俳優としても人気を集めた板東英二さんが慢性心不全のため亡くなりました。86歳でした。",
+  "summary3": [
+   "元プロ野球投手の板東英二さん死去",
+   "中日で投手として活躍し86歳で逝去",
+   "タレントや俳優としても人気を集めた"
+  ],
+  "body": [
+   "プロ野球の中日で投手として活躍したあと、巧みな話術と明るいキャラクターでタレントや俳優としても人気を集めた板東英二さんが、今月22日、慢性心不全のため亡くなりました。86歳でした。",
+   "板東さんは選手としてプロの世界で実績を残したのち、その親しみやすい人柄と軽妙な語り口を活かして多くのテレビ番組や映画に出演し、幅広い世代から親しまれる存在となりました。",
+   "スポーツ界から芸能界へとフィールドを広げ、長年にわたって第一線で活躍し続けたその足跡は、多くの人々の記憶に刻まれています。関係者によると、今月22日に慢性心不全のため息を引き取りました。"
+  ],
+  "tags": [
+   "板東英二",
+   "プロ野球",
+   "訃報"
+  ],
+  "slug": "bando-eiji-passes-away-at-86",
+  "people": [
+   {
+    "name": "板東英二",
+    "bio": "元プロ野球選手・投手として中日で活躍後、タレントや俳優として幅広く活動した。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015188041000",
+  "category": "influencer",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-bando-eiji-passes-away-at-86.html"
+ },
+ {
+  "title": "熊本で震度7の地震、気象庁が午後8時半から2回目の会見へ",
+  "lead": "28日午後4時半ごろに熊本県で震度7の揺れを観測した地震について、気象庁は午後8時半から2回目の会見を開いています。",
+  "summary3": [
+   "28日午後4時半ごろ熊本で震度7",
+   "気象庁が午後8時半から2回目会見",
+   "地震の発生状況などを説明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。28日午後4時半ごろ、熊本県において震度7の揺れを観測する大きな地震が発生しました。",
+   "この地震の発生を受けて、気象庁は午後8時半から2回目の会見を開いています。",
+   "会見では、今回の地震に関する詳細な状況や今後の注意点などが説明される予定です。最新の発表に十分ご注意ください。"
+  ],
+  "tags": [
+   "熊本",
+   "地震",
+   "気象庁"
+  ],
+  "slug": "kumamoto-earthquake-kishochou-briefing",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015188481000",
+  "category": "world",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-kumamoto-earthquake-kishochou-briefing.html"
+ },
+ {
+  "title": "トヨタ・ホンダが地震で工場停止、その影響は",
+  "lead": "トヨタ自動車とホンダが、今回の地震の影響により、それぞれ福岡県と熊本県にある工場で稼働を停止したことを明らかにしました。",
+  "summary3": [
+   "トヨタが福岡の3工場で稼働停止",
+   "ホンダも熊本の工場で稼働を停止",
+   "安全確認や被害状況の把握を優先"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によりますと、トヨタ自動車は今回の地震の影響を受けて、福岡県にある3つの工場で稼働を停止したと明らかにしました。現在は従業員の安全確保や設備の安全点検を行っている段階だとしています。",
+   "また、取引先となる部品メーカーの被害状況についても、引き続き確認を進めている状況です。自動車大手によるこうした動きは、サプライチェーン全体への影響も懸念されます。",
+   "一方、ホンダについても、熊本県にある工場で同様に稼働を停止していることが分かっています。各社とも安全確認を最優先に対応を進めており、今後の状況が注目されます。"
+  ],
+  "tags": [
+   "トヨタ自動車",
+   "ホンダ",
+   "地震"
+  ],
+  "slug": "toyota-honda-plant-suspension-earthquake",
+  "people": [],
+  "terms": [
+   {
+    "name": "トヨタ自動車",
+    "type": "company",
+    "desc": "日本を代表する自動車メーカーであり、世界各地で車両の製造・販売を展開している。"
+   },
+   {
+    "name": "ホンダ",
+    "type": "company",
+    "desc": "オートバイや自動車、航空機などを手がける日本の大手輸送用機器メーカー。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015188891000",
+  "category": "world",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-toyota-honda-plant-suspension-earthquake.html"
+ },
+ {
+  "title": "東証、投資単位の引き下げを再要請へ",
+  "lead": "東京証券取引所は、株式の分割を促進するため、企業や証券会社と新たな会議体を設置する方針を固めました。",
+  "summary3": [
+   "東証が投資単位の引き下げを再要請",
+   "株式分割を促進へ会議体を新設",
+   "企業や証券会社と連携し対応へ"
+  ],
+  "body": [
+   "東京証券取引所は、個人投資家などがより投資しやすい環境を整えるため、投資単位の引き下げを改めて要請する方針を明らかにしました。これに伴い、企業の株式分割をより一層促進するための新たな会議体を設置することが決定されています。",
+   "今回設置される会議体には、企業の関係者や証券会社が参加する予定です。実務的な観点から株式分割の促進に向けた課題や方策について議論を行い、投資単位の引き下げを進めるための具体的な取り組みを検討していく方針です。",
+   "東証による今回の再要請と会議体の設置は、市場の活性化や投資家層の拡大を目指す一環として行われます。企業側と証券会社側が一体となって環境整備に取り組むことで、今後の株式市場における分割の動きがどのように変化していくのか注目されます。"
+  ],
+  "tags": [
+   "東証",
+   "株式分割",
+   "投資単位"
+  ],
+  "slug": "tse-requests-investment-unit-reduction",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDallldWZURzY2RFBkUWZTcGJGTXd0cW80bmpILVlUdmV1MktuQWRIb3RhQUZsa0dMLVJ5emN6UEhERThLVUd6SVcyUHZaZFl5MnNqYXN4V1R4Q3VmbkdyVk5iWFBwQ2VldnRzVQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-tse-requests-investment-unit-reduction.html"
+ },
+ {
+  "title": "塩澤崇氏が議論、35年VS50年住宅ローンの最適解",
+  "lead": "インフレや金利上昇が進む現在、住宅ローンの借り方として「35年」と「50年」のどちらを選ぶべきか。AIも駆使したディベートの模様が東洋経済オンラインで報じられました。",
+  "summary3": [
+   "インフレや金利上昇が続く現状を解説",
+   "住宅ローンは35年と50年を比較",
+   "AIも駆使しアナリストらが討論"
+  ],
+  "body": [
+   "東洋経済オンラインにて、インフレや金利上昇が進む現代における住宅ローンの借り方に関する記事が公開されました。住宅ローンをめぐっては「35年時代」が継続するのか、それとも「50年時代」が到来するのかが度々話題となっています。",
+   "今回の企画では、インフレや金利上昇という環境の変化を踏まえて、どちらを選べばよいのかを徹底的にディベートしています。対戦者として住宅ローンアナリストの塩澤崇氏と、フリーアナウンサーの森氏が参加しました。",
+   "さらに、AIも駆使しながら住宅ローンの新常識と最適解に迫る内容となっています。住宅ローンの見直しや今後の借り入れを検討する上で、現状のトレンドを知るための情報として注目されます。"
+  ],
+  "tags": [
+   "住宅ローン",
+   "インフレ",
+   "金利上昇"
+  ],
+  "slug": "housing-loan-35-vs-50-years",
+  "people": [
+   {
+    "name": "塩澤崇氏",
+    "bio": "住宅ローンアナリストとして、金利や不動産市場の動向に精通しメディア等で解説を行う。"
+   },
+   {
+    "name": "森氏",
+    "bio": "フリーアナウンサーとして幅広いメディアや番組で活躍している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "東洋経済オンライン",
+    "type": "company",
+    "desc": "東洋経済新報社が運営する、ビジネスパーソン向け経済ニュースや記事を配信するメディア。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952996?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-housing-loan-35-vs-50-years.html"
+ },
+ {
+  "title": "キオクシア決算発表、株価浮上と株式分割の行方",
+  "lead": "キオクシアの決算発表に向け、株価の浮上や株式分割に対する市場の注目が集まっています。",
+  "summary3": [
+   "キオクシアが決算発表を予定",
+   "株価の浮上や株式分割に注目",
+   "“最も稼げる日本企業”の真価"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。キオクシアの決算発表が注目を集めています。今回の決算発表によって株価がどのように動くのか、市場関係者の関心が集まっています。",
+   "また、同社の株式分割に対する動向についても大きな注目が集まっており、“最も稼げる日本企業”としての真価がどのように評価されるのかが焦点となっています。",
+   "決算発表を通じて、今後の動向や市場への影響が明らかになるとみられており、引き続き詳細な情報が注目されます。"
+  ],
+  "tags": [
+   "キオクシア",
+   "決算発表",
+   "株式分割"
+  ],
+  "slug": "kioxia-earnings-preview",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発・製造を手がける日本の半導体企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT18zWTBEVXdUN2ZyaVlKTWtpWWdyaW80bXFQTG54Q0pfbS00UE8zdjZLTUdNUXctd3JNRDdwZlByRF9mMkV5bmJ3eGxJXy0wMXNLR2lxMXo0WU9iYzNaa1hsWWtELTNmcG84UEJUemtCalF4QnBkcl94ZndSRTdCTWl3SHJRcExNLTM2U192cFItUWQ4TEtJaHR3bXBxUml4dURyUDlBRDc3NXlINmFMMzBwcE43c2ZCV2VYd25aUzQ0Zw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-28",
+  "time": "21:03",
+  "path": "/articles/20260728-kioxia-earnings-preview.html"
  }
 ]

@@ -444,7 +444,7 @@
    "id": "Vstf1W5mA7c",
    "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
    "channel": "TeaserCon",
-   "views": 863413,
+   "views": 886356,
    "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
    "thumb": "https://i.ytimg.com/vi/Vstf1W5mA7c/hqdefault.jpg",
    "regions": [
@@ -459,7 +459,7 @@
    "id": "hPZcZpNn3KY",
    "title": "Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar",
    "channel": "Tips Official",
-   "views": 3718703,
+   "views": 3922983,
    "url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
    "thumb": "https://i.ytimg.com/vi/hPZcZpNn3KY/hqdefault.jpg",
    "regions": [
@@ -473,7 +473,7 @@
    "id": "AMLCbpM1fRQ",
    "title": "Onslaught | Official Trailer 2 HD | A24",
    "channel": "A24",
-   "views": 1636834,
+   "views": 1735408,
    "url": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
    "thumb": "https://i.ytimg.com/vi/AMLCbpM1fRQ/hqdefault.jpg",
    "regions": [
@@ -487,7 +487,7 @@
    "id": "XuovA-AdDP8",
    "title": "Welcome to K.H.A.O.S | TV Royale",
    "channel": "Clash Royale",
-   "views": 1097425,
+   "views": 1108670,
    "url": "https://www.youtube.com/watch?v=XuovA-AdDP8",
    "thumb": "https://i.ytimg.com/vi/XuovA-AdDP8/hqdefault.jpg",
    "regions": [
@@ -498,52 +498,10 @@
   },
   {
    "rank": 5,
-   "id": "mopsqFE8R2A",
-   "title": "The Wildest Fighting Game is Still Hilarious",
-   "channel": "SMii7Y",
-   "views": 863922,
-   "url": "https://www.youtube.com/watch?v=mopsqFE8R2A",
-   "thumb": "https://i.ytimg.com/vi/mopsqFE8R2A/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "大人気格闘ゲームの予測不能なカオスな展開を楽しめる動画のようです。"
-  },
-  {
-   "rank": 6,
-   "id": "JB4U1PAqbXw",
-   "title": "Somehow The Rings Of Power Returned",
-   "channel": "The Critical Drinker",
-   "views": 777411,
-   "url": "https://www.youtube.com/watch?v=JB4U1PAqbXw",
-   "thumb": "https://i.ytimg.com/vi/JB4U1PAqbXw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "「ロード・オブ・ザ・リング：力の指輪」について語る動画のようです。"
-  },
-  {
-   "rank": 7,
-   "id": "HeFsNVSAdtw",
-   "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
-   "channel": "New Rockstars",
-   "views": 774601,
-   "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
-   "thumb": "https://i.ytimg.com/vi/HeFsNVSAdtw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "アベンジャーズ新作のSDCC予告編やホールH映像を解説しているようです。"
-  },
-  {
-   "rank": 8,
    "id": "J3NnGQwPdZU",
-   "title": "BRAWL WILL FINALLY MAKE YOU SMARTER #EscapePyramidQuest",
+   "title": "HELP KENJI & KAZE BREAK OUT! #EscapePyramidQuest",
    "channel": "Brawl Stars",
-   "views": 755762,
+   "views": 905315,
    "url": "https://www.youtube.com/watch?v=J3NnGQwPdZU",
    "thumb": "https://i.ytimg.com/vi/J3NnGQwPdZU/hqdefault.jpg",
    "regions": [
@@ -553,11 +511,53 @@
    "comment": "ブロスタの新イベントかアップデートに関する動画のようです。"
   },
   {
+   "rank": 6,
+   "id": "mopsqFE8R2A",
+   "title": "The Wildest Fighting Game is Still Hilarious",
+   "channel": "SMii7Y",
+   "views": 888192,
+   "url": "https://www.youtube.com/watch?v=mopsqFE8R2A",
+   "thumb": "https://i.ytimg.com/vi/mopsqFE8R2A/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "大人気格闘ゲームの予測不能なカオスな展開を楽しめる動画のようです。"
+  },
+  {
+   "rank": 7,
+   "id": "JB4U1PAqbXw",
+   "title": "Somehow The Rings Of Power Returned",
+   "channel": "The Critical Drinker",
+   "views": 790352,
+   "url": "https://www.youtube.com/watch?v=JB4U1PAqbXw",
+   "thumb": "https://i.ytimg.com/vi/JB4U1PAqbXw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "「ロード・オブ・ザ・リング：力の指輪」について語る動画のようです。"
+  },
+  {
+   "rank": 8,
+   "id": "HeFsNVSAdtw",
+   "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
+   "channel": "New Rockstars",
+   "views": 777549,
+   "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
+   "thumb": "https://i.ytimg.com/vi/HeFsNVSAdtw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "アベンジャーズ新作のSDCC予告編やホールH映像を解説しているようです。"
+  },
+  {
    "rank": 9,
    "id": "NjfVpjHHnFM",
    "title": "IM NOT LATE",
    "channel": "Jynxzi",
-   "views": 601572,
+   "views": 604585,
    "url": "https://www.youtube.com/watch?v=NjfVpjHHnFM",
    "thumb": "https://i.ytimg.com/vi/NjfVpjHHnFM/hqdefault.jpg",
    "regions": [
@@ -571,7 +571,7 @@
    "id": "yO_fhImQIBU",
    "title": "100 Times (Official Music Video) Jordan Sandhu | God's Favorite | New Punjabi Songs 2026",
    "channel": "Jordan Sandhu",
-   "views": 478608,
+   "views": 490850,
    "url": "https://www.youtube.com/watch?v=yO_fhImQIBU",
    "thumb": "https://i.ytimg.com/vi/yO_fhImQIBU/hqdefault.jpg",
    "regions": [

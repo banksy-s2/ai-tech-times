@@ -1,21 +1,79 @@
 {
- "updated": "2026-07-28 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-28 21:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "国税庁の新システムKSK2導入、狙われる人たちとは",
-   "path": "/articles/20260728-national-tax-agency-ksk2-system.html",
+   "title": "AnthropicダリオCEO、中国のAI台頭に強い懸念",
+   "path": "/articles/20260728-anthropic-dario-amodei-china-ai-fears.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Moonshot AIのKimi K3が米国製を低コストで超える理由",
+   "path": "/articles/20260728-moonshot-ai-kimi-k3-rivalry.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Claude Codeで変わる最新の仕事の流れと開発手法",
+   "path": "/articles/20260728-claude-code-work-flow.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Moonshot AIのKimi-K3をB300 x8でDay0デプロイ",
+   "path": "/articles/20260728-kimi-k3-day0-deploy-fixstars.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Antaresが4億7000万ドル調達、米軍基地向け小型原子炉の開発へ",
+   "path": "/articles/20260728-antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-mi.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ベライゾン、グーグル向け10億ドル規模ダークファイバー契約でAI収益化へ",
+   "path": "/articles/20260728-verizon-1b-dark-fiber-deal-google.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "板東英二さん86歳で死去、タレントとしても活躍",
+   "path": "/articles/20260728-bando-eiji-passes-away-at-86.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "熊本で震度7の地震、気象庁が午後8時半から2回目の会見へ",
+   "path": "/articles/20260728-kumamoto-earthquake-kishochou-briefing.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トヨタ・ホンダが地震で工場停止、その影響は",
+   "path": "/articles/20260728-toyota-honda-plant-suspension-earthquake.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東証、投資単位の引き下げを再要請へ",
+   "path": "/articles/20260728-tse-requests-investment-unit-reduction.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "塩澤崇氏が議論、35年VS50年住宅ローンの最適解",
+   "path": "/articles/20260728-housing-loan-35-vs-50-years.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア決算発表、株価浮上と株式分割の行方",
+   "path": "/articles/20260728-kioxia-earnings-preview.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [],
- "pv_today": 90,
+ "notes": [
+  "執筆失敗: 「すし職人をAI開発の輪に入れろ」──オードリー・タンに聞く、米中AI競争で日本",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 91,
  "gemini": {
-  "used": 154,
+  "used": 182,
   "limit": 200
  }
 }
