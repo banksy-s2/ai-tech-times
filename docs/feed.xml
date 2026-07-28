@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起</title>
+<link>https://ai-tech-times.web.app/articles/20260729-fact-check-initiative-earthquake-fake-news.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-fact-check-initiative-earthquake-fake-news.html</guid>
+<pubDate>Wed, 29 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>偽情報対策に取り組むファクトチェック・イニシアティブは、熊本県での地震を受けて注意を呼び掛けました。生成AIや過去の画像によるフェイク情報にどう備えるべきか、その詳細をお伝えします。</description>
+</item>
+<item>
+<title>Google Cloudが脆弱性の自動検出・修正AIを公開</title>
+<link>https://ai-tech-times.web.app/articles/20260729-google-cloud-codemender-preview.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-google-cloud-codemender-preview.html</guid>
+<pubDate>Wed, 29 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Google Cloudは、コードの脆弱性検出から検証、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。</description>
+</item>
+<item>
 <title>サムスン半導体エンジニアがSKハイニックスへ移籍する理由</title>
 <link>https://ai-tech-times.web.app/articles/20260729-samsung-chip-workers-sk-hynix.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-samsung-chip-workers-sk-hynix.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 28 Jul 2026 17:07:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>ジョンソン・エンド・ジョンソンが、タルク製品に発がん性があるとする長年の法廷闘争を終結させるため、最大55億ドルの和解金を提示しました。</description>
-</item>
-<item>
-<title>日経平均株価、2566円安の6万2364円で大幅反落</title>
-<link>https://ai-tech-times.web.app/articles/20260728-nikkei-average-drops-2566-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-nikkei-average-drops-2566-yen.html</guid>
-<pubDate>Tue, 28 Jul 2026 17:07:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日経平均株価が大幅に反落し、終値は前日比2566円安の6万2364円となりました。</description>
-</item>
-<item>
-<title>キオクシアHDが再びストップ安、AI半導体株急落の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260728-kioxia-stock-drop-ai-semiconductor.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-kioxia-stock-drop-ai-semiconductor.html</guid>
-<pubDate>Tue, 28 Jul 2026 17:07:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>28日の東京株式市場で、AI・半導体関連株が軒並み急落しました。半導体メモリー大手キオクシアホールディングス株は一時ストップ安となるなど、市場に動揺が広がっています。</description>
 </item>
 </channel></rss>

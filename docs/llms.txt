@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 00:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起](https://ai-tech-times.web.app/articles/20260729-fact-check-initiative-earthquake-fake-news.html) — 2026-07-29 01:00: 偽情報対策に取り組むファクトチェック・イニシアティブは、熊本県での地震を受けて注意を呼び掛けました。生成AIや過去の画像によるフェイク情報にどう備えるべきか、その詳細をお伝えします。
+- [Google Cloudが脆弱性の自動検出・修正AIを公開](https://ai-tech-times.web.app/articles/20260729-google-cloud-codemender-preview.html) — 2026-07-29 01:00: Google Cloudは、コードの脆弱性検出から検証、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。
 - [サムスン半導体エンジニアがSKハイニックスへ移籍する理由](https://ai-tech-times.web.app/articles/20260729-samsung-chip-workers-sk-hynix.html) — 2026-07-29 00:00: MIT Tech Review AIの報道によると、サムスンの半導体部門で働くエンジニアたちが、韓国のライバル企業であるSKハイニックスへの転職を目指す動きが広がっています。
 - [Apple、AIバブル崩壊時に直面するリスクとは](https://ai-tech-times.web.app/articles/20260729-apple-ai-bubble-bursts.html) — 2026-07-29 00:00: 「AI TECH TIMES」編集部が、海外テック系コミュニティやニュースで話題となっているAppleの将来に関する予測をお届けします。AIバブルが弾けた際、同社はどうなってしまうのでしょうか。
 - [日経平均が2566円安、2か月ぶり6万3000円割れ](https://ai-tech-times.web.app/articles/20260728-nikkei-average-drops-below-63000-yen.html) — 2026-07-28 23:00: 読売新聞の報道によると、日経平均株価の終値が2か月ぶりに6万3000円を割り込みました。
@@ -40,15 +42,13 @@
 - [塩澤崇氏が議論、35年VS50年住宅ローンの最適解](https://ai-tech-times.web.app/articles/20260728-housing-loan-35-vs-50-years.html) — 2026-07-28 21:03: インフレや金利上昇が進む現在、住宅ローンの借り方として「35年」と「50年」のどちらを選ぶべきか。AIも駆使したディベートの模様が東洋経済オンラインで報じられました。
 - [キオクシア決算発表、株価浮上と株式分割の行方](https://ai-tech-times.web.app/articles/20260728-kioxia-earnings-preview.html) — 2026-07-28 21:03: キオクシアの決算発表に向け、株価の浮上や株式分割に対する市場の注目が集まっています。
 - [国税庁の新システムKSK2導入、狙われる人たちとは](https://ai-tech-times.web.app/articles/20260728-national-tax-agency-ksk2-system.html) — 2026-07-28 20:01: 国税庁が最新の徴税システム「KSK2」を導入したことで、特定の職業の人々が狙われるとして注目を集めています。
-- [Hugging Faceの人気AIモデル、女性や子供を勝手に裸にする悪用にどう対応するのか](https://ai-tech-times.web.app/articles/20260728-hugging-face-undress-deepfake-report.html) — 2026-07-28 19:01: 人気AIモデルプラットフォームのHugging Faceで、女性や子供のディープフェイク画像が簡単に作成されていることが欧州の非営利団体の報告で明らかになりました。
-- [Anthropicが数百万冊の本を裁断しAI学習、希少本消失の懸念も](https://ai-tech-times.web.app/articles/20260728-anthropic-books-ai-training.html) — 2026-07-28 18:00: AI「Claude」を開発するAnthropicが、学習のために数百万冊の印刷された書籍を裁断してデジタル化し、廃棄していたことが判明しました。
 
 ## 世界のバズ動画TOP3 (2026-07-29)
 - 1位: [SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer "Tombstone" | Marvel Comics | Concept](https://www.youtube.com/watch?v=Vstf1W5mA7c)
 - 2位: [BRAWL WILL FINALLY MAKE YOU SMARTER #EscapePyramidQuest](https://www.youtube.com/watch?v=J3NnGQwPdZU)
-- 3位: [KARD (카드) - 'Back To Life' MV](https://www.youtube.com/watch?v=iwc3ePT4-xw)
+- 3位: [Ted Lasso — Season 4 Official Trailer (Together) | Apple TV](https://www.youtube.com/watch?v=GACU1N9hg5o)
 
-## AI用語事典 (全378語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全380語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -77,8 +77,8 @@
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
+- [Google Cloudとは](https://ai-tech-times.web.app/term/google-cloud.html): Googleが提供する、企業向けのクラウドコンピューティングサービス事業です。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリの開発や製造を手がける日本の大手半導体企業です。
-- [キヤノンとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3.html): カメラや複写機、プリンターなどの事務機器や光学機器を主力とする日本の大手電機メーカーです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

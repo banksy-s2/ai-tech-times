@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-29 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-29 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "サムスン半導体エンジニアがSKハイニックスへ移籍する理由",
-   "path": "/articles/20260729-samsung-chip-workers-sk-hynix.html",
-   "cat": "AI(海外)"
+   "title": "ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起",
+   "path": "/articles/20260729-fact-check-initiative-earthquake-fake-news.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Apple、AIバブル崩壊時に直面するリスクとは",
-   "path": "/articles/20260729-apple-ai-bubble-bursts.html",
-   "cat": "AI(海外)"
+   "title": "Google Cloudが脆弱性の自動検出・修正AIを公開",
+   "path": "/articles/20260729-google-cloud-codemender-preview.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 4,
+  "used": 10,
   "limit": 200
  }
 }

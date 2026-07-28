@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-28 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-29 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均が2566円安、2か月ぶり6万3000円割れ",
-   "path": "/articles/20260728-nikkei-average-drops-below-63000-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "サムスン半導体エンジニアがSKハイニックスへ移籍する理由",
+   "path": "/articles/20260729-samsung-chip-workers-sk-hynix.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "キオクシア株価が一時5万円割れ、18%下落の背景",
-   "path": "/articles/20260728-kioxia-stock-price-drop.html",
-   "cat": "株式投資(日本)"
+   "title": "Apple、AIバブル崩壊時に直面するリスクとは",
+   "path": "/articles/20260729-apple-ai-bubble-bursts.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
  "notes": [],
- "pv_today": 94,
+ "pv_today": 3,
  "gemini": {
-  "used": 191,
+  "used": 4,
   "limit": 200
  }
 }

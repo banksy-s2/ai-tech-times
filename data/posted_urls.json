@@ -478,7 +478,9 @@
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JRld6cnBHQndWdmNUUDVtZXA3S2VPSEtrVXlZazktX2dESUVZNlE3cGltUE9YMUhXSFI0eVUzLTNndE8xdlRDOGFncThHUDEzUF90MUNUV2lrUFMxMDNGMzgxMEg?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EeG1udkRNcy05Wkg5STNzVUNxWnAtTXA1QV9zYV8zc2VHRWRoSXhtSGdwdXg2bEQtUW85bUg2OHdEZExhb3JQbUpqcmIzbzRaUzFzaHdXSU5QSk15NFg2MVllVWtxR3h6RVZ2Mg?oc=5",
   "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-  "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
+  "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+  "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000241/",
+  "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1420,6 +1422,10 @@
   "Samsung’s chip workers are jumping ship to rival SK Hynix",
   "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
   "サムスン半導体エンジニアがSKハイニックスへ移籍する理由",
-  "Apple、AIバブル崩壊時に直面するリスクとは"
+  "Apple、AIバブル崩壊時に直面するリスクとは",
+  "生成AIや過去画像による偽・誤情報に注意を　熊本県の地震受け、ファクトチェック団体が呼び掛け",
+  "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+  "ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起",
+  "Google Cloudが脆弱性の自動検出・修正AIを公開"
  ]
 }

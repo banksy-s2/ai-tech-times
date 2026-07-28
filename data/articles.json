@@ -16153,5 +16153,78 @@
   "date": "2026-07-29",
   "time": "00:00",
   "path": "/articles/20260729-apple-ai-bubble-bursts.html"
+ },
+ {
+  "title": "ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起",
+  "lead": "偽情報対策に取り組むファクトチェック・イニシアティブは、熊本県での地震を受けて注意を呼び掛けました。生成AIや過去の画像によるフェイク情報にどう備えるべきか、その詳細をお伝えします。",
+  "summary3": [
+   "熊本県の地震を受け偽情報に注意喚起",
+   "ファクトチェック団体が7月28日に発表",
+   "生成AIや過去画像を利用した情報に警戒"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、偽情報対策に取り組む団体であるファクトチェック・イニシアティブは7月28日、同日に熊本県で観測した震度7の地震を受け、生成AIや過去の画像などによる偽・誤情報に注意喚起を行いました。",
+   "近年、大規模な災害が発生した際には、SNS上などで生成AI技術を用いて作成された精巧な偽画像や、過去に発生した別の災害時の古い画像が、あたかも現在の被害状況であるかのように拡散される事例が確認されています。",
+   "こうした誤った情報は、被災地の混乱を招くだけではなく、救助活動や支援物資の供給などにも悪影響を及ぼす恐れがあります。同団体は、災害時には情報の真偽を慎重に見極め、安易に拡散しないよう強く呼び掛けています。"
+  ],
+  "tags": [
+   "ファクトチェック",
+   "生成AI",
+   "地震"
+  ],
+  "slug": "fact-check-initiative-earthquake-fake-news",
+  "people": [],
+  "terms": [
+   {
+    "name": "ファクトチェック・イニシアティブ",
+    "type": "company",
+    "desc": "インターネット上の誤情報や偽ニュースの対策に取り組む日本の非営利団体である。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000241/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "01:00",
+  "path": "/articles/20260729-fact-check-initiative-earthquake-fake-news.html"
+ },
+ {
+  "title": "Google Cloudが脆弱性の自動検出・修正AIを公開",
+  "lead": "Google Cloudは、コードの脆弱性検出から検証、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。",
+  "summary3": [
+   "Google Cloudが新AIを発表",
+   "脆弱性の検出から修正までを自動化",
+   "サンドボックス内でリスクを検証"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、Google Cloudはコードの脆弱性検出、リスクの検証と報告、そして修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。",
+   "CodeMenderは複雑な脆弱性まで発見することが可能であり、サンドボックス内でリスク検証を行う機能を備えています。",
+   "開発現場におけるセキュリティ対策や脆弱性修正の負担を大きく軽減することが期待される注目のツールとなっています。"
+  ],
+  "tags": [
+   "Google Cloud",
+   "CodeMender",
+   "AI"
+  ],
+  "slug": "google-cloud-codemender-preview",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google Cloud",
+    "type": "company",
+    "desc": "アメリカの巨大IT企業が提供する、企業向けクラウド計算サービス事業の名称。"
+   },
+   {
+    "name": "CodeMender",
+    "type": "ai",
+    "desc": "Google Cloudが発表した、脆弱性の検出から検証、修正までを自律的に行うAIエージェント。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "01:00",
+  "path": "/articles/20260729-google-cloud-codemender-preview.html"
  }
 ]
