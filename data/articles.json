@@ -14910,5 +14910,67 @@
   "date": "2026-07-28",
   "time": "13:00",
   "path": "/articles/20260728-zelenskyy-russian-mobilization-plan.html"
+ },
+ {
+  "title": "日経平均は2884円安、半導体株中心に値下がり銘柄7割",
+  "lead": "28日の前場、日経平均株価は2884円安と急落しました。半導体株を中心に値下がり銘柄が7割を占める展開となっています。",
+  "summary3": [
+   "日経平均は2884円安と急落",
+   "半導体株中心に値下がりが波及",
+   "値下がり銘柄は全体の7割に"
+  ],
+  "body": [
+   "28日の前場の東京株式市場で、日経平均株価は前日からの大幅な下落となり、下げ幅は2884円安の急落を記録しました。",
+   "市場では半導体関連株を中心に売りが優勢となり、幅広い銘柄に下落圧力がかかりました。",
+   "この日の前場は値下がり銘柄が全体の7割を占めるなど、市場全体で下落が目立つ展開となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "半導体株"
+  ],
+  "slug": "nikkei-average-plunges-2884-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaExnZFdwVERnYmRFRnZLc2JtNlRXVUJGSTJyc0dLOUNoQWZTQjNzQW5RbjVyRl9aZ0JvdjZJWmdvR0dVTEFjQnc3cUpqTlR6QWxEVzlzTFFFSG1fMnpHd055NDVUYm10QThQS1U1WlpBalpmLVh1WnZqbXMybmg0OHZxLWRmU2M?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "14:00",
+  "path": "/articles/20260728-nikkei-average-plunges-2884-yen.html"
+ },
+ {
+  "title": "ANAの300万円の壁と新運賃、株主批判を受けた背景",
+  "lead": "ANAが設置した「300万円の壁」や新運賃体系に対し、株主から厳しい批判や謝罪の声が上がっています。",
+  "summary3": [
+   "ANAが新運賃体系を設置",
+   "株主から厳しい批判と謝罪",
+   "本当に大切な顧客の姿とは"
+  ],
+  "body": [
+   "企業がロイヤルカスタマーを優遇する流れが加速しています。そうした中でANAが導入した「300万円の壁」や新運賃体系を巡り、株主から厳しい批判が寄せられ、社長が謝罪する事態となりました。",
+   "企業活動において顧客をどのように優遇し、関係性を築くのかは重要な課題です。しかし、今回のANAの対応においては、本当に大切にすべきなのは「熱意あるファン」ではないかという視点が欠けていたのではないかと指摘されています。",
+   "企業によるロイヤルカスタマーの優遇策と顧客心理のあり方について、今回の出来事は多くの議論を呼んでいます。今後の企業の向き合い方に注目が集まっています。"
+  ],
+  "tags": [
+   "ANA",
+   "企業経営",
+   "ロイヤルカスタマー"
+  ],
+  "slug": "ana-fare-system-criticism",
+  "people": [],
+  "terms": [
+   {
+    "name": "ANA",
+    "type": "company",
+    "desc": "日本の大手航空会社であり、国内線および国際線の旅客輸送事業を主要に展開している。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "14:00",
+  "path": "/articles/20260728-ana-fare-system-criticism.html"
  }
 ]

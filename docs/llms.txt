@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均は2884円安、半導体株中心に値下がり銘柄7割](https://ai-tech-times.web.app/articles/20260728-nikkei-average-plunges-2884-yen.html) — 2026-07-28 14:00: 28日の前場、日経平均株価は2884円安と急落しました。半導体株を中心に値下がり銘柄が7割を占める展開となっています。
+- [ANAの300万円の壁と新運賃、株主批判を受けた背景](https://ai-tech-times.web.app/articles/20260728-ana-fare-system-criticism.html) — 2026-07-28 14:00: ANAが設置した「300万円の壁」や新運賃体系に対し、株主から厳しい批判や謝罪の声が上がっています。
 - [公正取引委員会、東海地方のマンション修繕20社あまりを立ち入り検査](https://ai-tech-times.web.app/articles/20260728-jftc-investigates-tokai-mansion-repairs.html) — 2026-07-28 13:00: 東海地方のマンション大規模修繕工事をめぐり、設計コンサルタント会社や施工会社など20社あまりを受注調整の疑いで公正取引委員会が立ち入り検査に入りました。
 - [ゼレンスキー大統領、ロシア50万人動員計画を明かす](https://ai-tech-times.web.app/articles/20260728-zelenskyy-russian-mobilization-plan.html) — 2026-07-28 13:00: ウクライナのゼレンスキー大統領は、ロシアが軍事侵攻を継続するために、新たに最大50万人を動員する計画があるとの見方を示しました。
 - [マイクロソフトが初のAIセキュリティモデルを投入、新プラットフォームも](https://ai-tech-times.web.app/articles/20260728-microsoft-launches-first-cyber-model.html) — 2026-07-28 12:02: マイクロソフトはAIを活用したサイバーセキュリティ分野のサービスを強化し、同社初となるAIセキュリティモデルと新しいセキュリティプラットフォームを発表しました。
@@ -40,15 +42,13 @@
 - [ラフ画を生成AIに使われ取引中止に、フリーランスが直面したトラブル](https://ai-tech-times.web.app/articles/20260728-freelance-rough-draft-ai-dispute.html) — 2026-07-28 09:01: クライアントに送ったラフ画を無断で生成AIに取り込まれ、取引を一方的に中止させられた事例が話題となっています。クリエイターが不利益を被らないための契約の重要性が浮き彫りになりました。
 - [GoogleのAI検索、43%の検索で表示され標準に](https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html) — 2026-07-28 08:00: Googleの検索結果にAIが生成する回答が表示される「AI Overviews」が、全検索の43%に達していることが新しいデータで明らかになりました。
 - [AnthropicのClaude共有チャットがGoogleにインデックスか](https://ai-tech-times.web.app/articles/20260728-claude-shared-chats-google-indexing.html) — 2026-07-28 07:03: Anthropicが提供するAIサービス「Claude」の共有機能を利用したチャットやArtifactsが、Googleなどの検索エンジンにインデックスされてしまった可能性が浮上しました。
-- [Safe SuperintelligenceがNvidiaと提携した理由](https://ai-tech-times.web.app/articles/20260728-safe-superintelligence-nvidia-partnership.html) — 2026-07-28 07:03: AI業界の注目を集めるSafe Superintelligenceが、Nvidiaと長期的なパートナーシップを締結し、AI研究を次の段階へとスケールさせると発表しました。
-- [弁護士ドットコムがAWS DevOps Agentを活用、インシデント対応の自動化と属人化の解消に挑む](https://ai-tech-times.web.app/articles/20260728-bengo4com-aws-devops-agent-case-study.html) — 2026-07-28 07:03: 弁護士ドットコム株式会社がAmazon Web Servicesの「AWS DevOps Agent」を活用した事例が、AWS公式ブログにて公開されました。インシデント対応の自動化と属人化の解消をどのように実現したのか、同社の開発陣による寄稿の内容をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
 - 1位: [SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer "Tombstone" | Marvel Comics | Concept](https://www.youtube.com/watch?v=Vstf1W5mA7c)
-- 2位: [1000 Players Build END Civilization in Hardcore Minecraft](https://www.youtube.com/watch?v=ynkhNRpQ9Xc)
-- 3位: [Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar](https://www.youtube.com/watch?v=hPZcZpNn3KY)
+- 2位: [Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar](https://www.youtube.com/watch?v=hPZcZpNn3KY)
+- 3位: [1000 Players Build END Civilization in Hardcore Minecraft](https://www.youtube.com/watch?v=ynkhNRpQ9Xc)
 
-## AI用語事典 (全352語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全353語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
