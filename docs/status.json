@@ -1,23 +1,21 @@
 {
- "updated": "2026-07-28 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-28 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Hugging Faceの人気AIモデル、女性や子供を勝手に裸にする悪用にどう対応するのか",
-   "path": "/articles/20260728-hugging-face-undress-deepfake-report.html",
-   "cat": "シリコンバレー最速"
+   "title": "国税庁の新システムKSK2導入、狙われる人たちとは",
+   "path": "/articles/20260728-national-tax-agency-ksk2-system.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [
-  "執筆失敗: Verizon touts $1B dark fiber deal for Go"
- ],
- "pv_today": 88,
+ "notes": [],
+ "pv_today": 90,
  "gemini": {
-  "used": 149,
+  "used": 154,
   "limit": 200
  }
 }

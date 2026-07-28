@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 19:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 20:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [国税庁の新システムKSK2導入、狙われる人たちとは](https://ai-tech-times.web.app/articles/20260728-national-tax-agency-ksk2-system.html) — 2026-07-28 20:01: 国税庁が最新の徴税システム「KSK2」を導入したことで、特定の職業の人々が狙われるとして注目を集めています。
 - [Hugging Faceの人気AIモデル、女性や子供を勝手に裸にする悪用にどう対応するのか](https://ai-tech-times.web.app/articles/20260728-hugging-face-undress-deepfake-report.html) — 2026-07-28 19:01: 人気AIモデルプラットフォームのHugging Faceで、女性や子供のディープフェイク画像が簡単に作成されていることが欧州の非営利団体の報告で明らかになりました。
 - [Anthropicが数百万冊の本を裁断しAI学習、希少本消失の懸念も](https://ai-tech-times.web.app/articles/20260728-anthropic-books-ai-training.html) — 2026-07-28 18:00: AI「Claude」を開発するAnthropicが、学習のために数百万冊の印刷された書籍を裁断してデジタル化し、廃棄していたことが判明しました。
 - [TechCrunch Disrupt 2026、AIインフラの課題に迫るステージ公開](https://ai-tech-times.web.app/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html) — 2026-07-28 17:07: 「TechCrunch Disrupt 2026」にて、エネルギーとテクノロジーの衝突をテーマにした「Smart Systems Stage」のAGENDAが発表されました。AIが経済全体に与える電力網への負荷やインフラの未来に迫ります。
@@ -41,14 +42,13 @@
 - [ANAの300万円の壁と新運賃、株主批判を受けた背景](https://ai-tech-times.web.app/articles/20260728-ana-fare-system-criticism.html) — 2026-07-28 14:00: ANAが設置した「300万円の壁」や新運賃体系に対し、株主から厳しい批判や謝罪の声が上がっています。
 - [公正取引委員会、東海地方のマンション修繕20社あまりを立ち入り検査](https://ai-tech-times.web.app/articles/20260728-jftc-investigates-tokai-mansion-repairs.html) — 2026-07-28 13:00: 東海地方のマンション大規模修繕工事をめぐり、設計コンサルタント会社や施工会社など20社あまりを受注調整の疑いで公正取引委員会が立ち入り検査に入りました。
 - [ゼレンスキー大統領、ロシア50万人動員計画を明かす](https://ai-tech-times.web.app/articles/20260728-zelenskyy-russian-mobilization-plan.html) — 2026-07-28 13:00: ウクライナのゼレンスキー大統領は、ロシアが軍事侵攻を継続するために、新たに最大50万人を動員する計画があるとの見方を示しました。
-- [マイクロソフトが初のAIセキュリティモデルを投入、新プラットフォームも](https://ai-tech-times.web.app/articles/20260728-microsoft-launches-first-cyber-model.html) — 2026-07-28 12:02: マイクロソフトはAIを活用したサイバーセキュリティ分野のサービスを強化し、同社初となるAIセキュリティモデルと新しいセキュリティプラットフォームを発表しました。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
 - 1位: [SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer "Tombstone" | Marvel Comics | Concept](https://www.youtube.com/watch?v=Vstf1W5mA7c)
 - 2位: [Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar](https://www.youtube.com/watch?v=hPZcZpNn3KY)
 - 3位: [Onslaught | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=AMLCbpM1fRQ)
 
-## AI用語事典 (全364語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全365語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。

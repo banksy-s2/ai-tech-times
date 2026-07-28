@@ -15511,5 +15511,39 @@
   "date": "2026-07-28",
   "time": "19:01",
   "path": "/articles/20260728-hugging-face-undress-deepfake-report.html"
+ },
+ {
+  "title": "国税庁の新システムKSK2導入、狙われる人たちとは",
+  "lead": "国税庁が最新の徴税システム「KSK2」を導入したことで、特定の職業の人々が狙われるとして注目を集めています。",
+  "summary3": [
+   "国税庁が最新徴税システムを導入",
+   "キャバ嬢やYouTuberが標的に",
+   "税務調査の厳格化で年貢の納め時"
+  ],
+  "body": [
+   "国税庁による最新の徴税システム「KSK2」の導入が進められており、その動向に大きな関心が寄せられています。現代ビジネスの報道によると、このシステム導入に伴い、特定の職種の人々が厳しく狙われる状況となっています。",
+   "記事では「キャバ嬢、YouTuber…年貢の納め時です」と表現されており、これまで比較的個人の裁量に任されがちだったり、デジタル上の収入把握が難しかったりした層に対して、税務署の目がより厳しく向けられることになります。",
+   "最新システムの活用により、収入の把握や申告漏れの検知精度が上がると見られています。関係者の間では、これまでの申告方法を見直す動きや、税務調査に対する警戒感が急速に高まる契機となっています。"
+  ],
+  "tags": [
+   "国税庁",
+   "KSK2",
+   "税務調査"
+  ],
+  "slug": "national-tax-agency-ksk2-system",
+  "people": [],
+  "terms": [
+   {
+    "name": "国税庁",
+    "type": "company",
+    "desc": "日本の行政機関の一つで、内閣府の外局である財務省の属機関。内国税の適正かつ公平な徴収等を目的とする。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rbmM1NWJxaUVlQ3p4cHRZS240OXY0MG5YMlo3cDkzOU9zTnhlYTVLX0diRGVPcnZBXzMzVWlyVDJOVzNNSHg5cTBLN2VNREU?oc=5",
+  "category": "influencer",
+  "date": "2026-07-28",
+  "time": "20:01",
+  "path": "/articles/20260728-national-tax-agency-ksk2-system.html"
  }
 ]
