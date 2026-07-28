@@ -1,21 +1,70 @@
 {
- "updated": "2026-07-28 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-28 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "米有名女性インフルエンサー、夫に殺害される",
-   "path": "/articles/20260728-influencer-killed-by-husband.html",
-   "cat": "インフルエンサー"
+   "title": "マイクロソフトが初のAIセキュリティモデルを投入、新プラットフォームも",
+   "path": "/articles/20260728-microsoft-launches-first-cyber-model.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Copilot進化でExcelの地味な手間が消える新機能3選とは",
+   "path": "/articles/20260728-copilot-excel-new-features.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ASML株価7％下落、中国国営企業がDUV露光装置の製造へ",
+   "path": "/articles/20260728-china-making-duv-exposure-equipment.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "エヌビディアとオープンAIのAI資金循環にジム・クレイマー氏がドットコムバブルの再来を警告",
+   "path": "/articles/20260728-cramer-warns-ai-circular-financing.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Appleが世界時価総額首位に、Nvidiaを抜いた理由とは",
+   "path": "/articles/20260728-apple-passes-nvidia-most-valuable-company.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "自民党内で税率1％案浮上も、食料品の消費税減税どうなる",
+   "path": "/articles/20260728-consumption-tax-reduction-ldp.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均2884円安、韓国発AI株安「第2弾」でキオクシアがストップ安",
+   "path": "/articles/20260728-nikkei-average-ai-stock-drop-kioxia.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "高市政権の2026年骨太方針、財政健全化目標の変更で金利の影響に注目が集まる理由",
+   "path": "/articles/20260728-takaichi-honebuto-hoshin-2026.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "上場企業の平均年収692.6万円で過去最高、なぜ二極化が進むのか",
+   "path": "/articles/20260728-listed-companies-average-salary-record.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "ホテル川六、DXで3.4万時間削減できたのはなぜか",
+   "path": "/articles/20260728-kawaroku-hotel-dx-automation.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [],
- "pv_today": 64,
+ "notes": [
+  "執筆失敗: にじさんじ所属のVTuberユニット・MECHATU-A、自身初のオリコン週間音",
+  "執筆失敗: 株価 一時2600円以上値下がり NY市場 半導体関連の値下がりで",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 70,
  "gemini": {
-  "used": 76,
+  "used": 102,
   "limit": 200
  }
 }

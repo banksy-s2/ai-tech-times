@@ -1,23 +1,21 @@
 {
- "updated": "2026-07-28 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-28 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Apple、アプリ詐欺で180万ドル損失の訴訟",
-   "path": "/articles/20260728-apple-sued-app-store-crypto-scam.html",
-   "cat": "シリコンバレー最速"
+   "title": "米有名女性インフルエンサー、夫に殺害される",
+   "path": "/articles/20260728-influencer-killed-by-husband.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [
-  "執筆失敗: Verizon touts $1B dark fiber deal for Go"
- ],
- "pv_today": 59,
+ "notes": [],
+ "pv_today": 64,
  "gemini": {
-  "used": 72,
+  "used": 76,
   "limit": 200
  }
 }
