@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-29 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-29 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起",
-   "path": "/articles/20260729-fact-check-initiative-earthquake-fake-news.html",
-   "cat": "日本のAI"
+   "title": "Apple、月11.99ドルからの新端末リース発表",
+   "path": "/articles/20260729-apple-upgrade-device-leasing-program.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Google Cloudが脆弱性の自動検出・修正AIを公開",
-   "path": "/articles/20260729-google-cloud-codemender-preview.html",
-   "cat": "日本のAI"
+   "title": "eBayと元幹部らがブロガー嫌がらせ訴訟で5600万ドル支払いへ",
+   "path": "/articles/20260729-ebay-blogger-harassment-settlement.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
-  "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
+  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
+  "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc"
  },
  "notes": [],
  "pv_today": 3,
  "gemini": {
-  "used": 10,
+  "used": 15,
   "limit": 200
  }
 }
