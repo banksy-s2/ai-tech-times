@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ヒューリック、青果物生産・販売会社と資本・業務提携</title>
+<link>https://ai-tech-times.web.app/articles/20260729-hulic-capital-business-alliance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-hulic-capital-business-alliance.html</guid>
+<pubDate>Wed, 29 Jul 2026 06:00:00 +0900</pubDate>
+<category>日本企業</category>
+<description>ヒューリックが青果物の生産・販売を手がける企業と資本・業務提携を行うことが明らかになりました。</description>
+</item>
+<item>
+<title>スクリン・カプコンなど35社が決算発表予定 (7月28日)</title>
+<link>https://ai-tech-times.web.app/articles/20260729-earnings-announcement-july-28.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-earnings-announcement-july-28.html</guid>
+<pubDate>Wed, 29 Jul 2026 06:00:00 +0900</pubDate>
+<category>日本企業</category>
+<description>AI TECH TIMESがお伝えする本日の企業動向です。7月28日は、スクリンやカプコンなど合計35社が決算発表を予定しています。</description>
+</item>
+<item>
 <title>アドテストが730円押し下げ、日経平均は2755円安の6万2176円</title>
 <link>https://ai-tech-times.web.app/articles/20260729-nikkei-average-drops-2755-yen.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-nikkei-average-drops-2755-yen.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 28 Jul 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AI「Claude」を開発するAnthropicが、学習のために数百万冊の印刷された書籍を裁断してデジタル化し、廃棄していたことが判明しました。</description>
-</item>
-<item>
-<title>TechCrunch Disrupt 2026、AIインフラの課題に迫るステージ公開</title>
-<link>https://ai-tech-times.web.app/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html</guid>
-<pubDate>Tue, 28 Jul 2026 17:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>「TechCrunch Disrupt 2026」にて、エネルギーとテクノロジーの衝突をテーマにした「Smart Systems Stage」のAGENDAが発表されました。AIが経済全体に与える電力網への負荷やインフラの未来に迫ります。</description>
-</item>
-<item>
-<title>日本IBMが医療文書作成を30分から5分へ短縮した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260728-ibm-medical-ai-platform.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-ibm-medical-ai-platform.html</guid>
-<pubDate>Tue, 28 Jul 2026 17:07:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>日本アイ・ビー・エムと関西医科大学が共同開発した「医療AI共通ICTプラットフォーム」により、医療文書の作成時間が大幅に短縮されました。現場の業務効率化をもたらす生成AI活用の実態をお伝えします。</description>
 </item>
 </channel></rss>

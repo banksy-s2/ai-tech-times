@@ -16403,5 +16403,39 @@
   "date": "2026-07-29",
   "time": "04:00",
   "path": "/articles/20260729-chinese-embassy-intruder-indicted.html"
+ },
+ {
+  "title": "アドテストが730円押し下げ、日経平均は2755円安の6万2176円",
+  "lead": "東京株式市場で日経平均株価が大幅に下落し、15時時点で前日比2755円安の6万2176円となりました。",
+  "summary3": [
+   "日経平均は2755円安の6万2176円",
+   "アドテストが730.11円押し下げ",
+   "15時時点の市場データが発表"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の株式市場の動きです。Googleニュースの「日本株・市場」によると、15時の日経平均株価は前日比2755円安の6万2176円となりました。",
+   "この大幅な下落に大きな影響を与えた銘柄の一つがアドテストです。同銘柄だけで日経平均を730.11円押し下げる結果となりました。",
+   "市場関係者や投資家の皆様におかれましては、今後の株価推移や各銘柄の動向について、引き続き慎重な確認が求められる状況となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "アドテスト"
+  ],
+  "slug": "nikkei-average-drops-2755-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドテスト",
+    "type": "company",
+    "desc": "半導体製造装置などを手掛け、東京市場を代表する大手エレクトロニクス関連企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UY0xvaGszamNaRVZ1ZnpLNUdvaUZhQWZpOEhhMFpxdVY5c3R5dHFqUVU2ZkRUc3lobjdQb0pUWmxRZ2dRUWVzVjVHYkI4VFNKODQ0QnVIaXhuZC1pRkNhSg?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "05:00",
+  "path": "/articles/20260729-nikkei-average-drops-2755-yen.html"
  }
 ]

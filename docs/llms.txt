@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ヒューリック、青果物生産・販売会社と資本・業務提携](https://ai-tech-times.web.app/articles/20260729-hulic-capital-business-alliance.html) — 2026-07-29 06:00: ヒューリックが青果物の生産・販売を手がける企業と資本・業務提携を行うことが明らかになりました。
+- [スクリン・カプコンなど35社が決算発表予定 (7月28日)](https://ai-tech-times.web.app/articles/20260729-earnings-announcement-july-28.html) — 2026-07-29 06:00: AI TECH TIMESがお伝えする本日の企業動向です。7月28日は、スクリンやカプコンなど合計35社が決算発表を予定しています。
 - [アドテストが730円押し下げ、日経平均は2755円安の6万2176円](https://ai-tech-times.web.app/articles/20260729-nikkei-average-drops-2755-yen.html) — 2026-07-29 05:00: 東京株式市場で日経平均株価が大幅に下落し、15時時点で前日比2755円安の6万2176円となりました。
 - [日本製紙八代工場で2人心肺停止、救助要望9人](https://ai-tech-times.web.app/articles/20260729-nippon-paper-yatsushiro-earthquake.html) — 2026-07-29 04:00: 総務省消防庁によると、震度6強の揺れを観測した熊本県八代市の日本製紙八代工場で、午後10時までに2人が心肺停止となり、9人の安否が不明となっています。
 - [中国大使館侵入の陸上自衛官、脅迫罪でも起訴](https://ai-tech-times.web.app/articles/20260729-chinese-embassy-intruder-indicted.html) — 2026-07-29 04:00: ことし3月、東京・港区の中国大使館に刃物を所持して侵入したとして逮捕された陸上自衛官について、検察は脅迫の罪でも起訴しました。
@@ -40,15 +42,13 @@
 - [Claude Codeで変わる最新の仕事の流れと開発手法](https://ai-tech-times.web.app/articles/20260728-claude-code-work-flow.html) — 2026-07-28 21:03: ここ数ヶ月で働き方が大きく変わり、AIを活用した新しい開発プロセスが注目を集めています。リファインメントからCI、PRの管理までの一連の流れが生み出す変化とは何でしょうか。
 - [Moonshot AIのKimi-K3をB300 x8でDay0デプロイ](https://ai-tech-times.web.app/articles/20260728-kimi-k3-day0-deploy-fixstars.html) — 2026-07-28 21:03: Moonshot AIが公開した史上最大のオープンウェイトモデル「Kimi-K3」を、フィックスターズがNVIDIA B300 x8のシングルノード環境へデプロイしました。
 - [Antaresが4億7000万ドル調達、米軍基地向け小型原子炉の開発へ](https://ai-tech-times.web.app/articles/20260728-antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-mi.html) — 2026-07-28 21:03: 米軍基地への電力供給を目指し、小型モジュール炉の開発を進める新興企業が大型資金調達に成功しました。
-- [ベライゾン、グーグル向け10億ドル規模ダークファイバー契約でAI収益化へ](https://ai-tech-times.web.app/articles/20260728-verizon-1b-dark-fiber-deal-google.html) — 2026-07-28 21:03: 米通信大手ベライゾンがグーグルのデータセンター向けに10億ドルのダークファイバー契約を締結し、AI関連の収益化を目指す方針を明らかにしました。
-- [板東英二さん86歳で死去、タレントとしても活躍](https://ai-tech-times.web.app/articles/20260728-bando-eiji-passes-away-at-86.html) — 2026-07-28 21:03: プロ野球の中日で投手として活躍し、のちにタレントや俳優としても人気を集めた板東英二さんが慢性心不全のため亡くなりました。86歳でした。
 
 ## 世界のバズ動画TOP3 (2026-07-29)
 - 1位: [Apex Legends: Marked Gameplay Trailer](https://www.youtube.com/watch?v=jJObfZSbzAw)
 - 2位: [Ted Lasso — Season 4 Official Trailer (Together) | Apple TV](https://www.youtube.com/watch?v=GACU1N9hg5o)
 - 3位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY](https://www.youtube.com/watch?v=bVgm4dy6Uxc)
 
-## AI用語事典 (全385語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全387語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
