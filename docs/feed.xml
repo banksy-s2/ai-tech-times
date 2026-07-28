@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Perplexity、WindowsでもAIエージェント機能を提供開始</title>
+<link>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</guid>
+<pubDate>Wed, 29 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI関連企業として知られるPerplexityは、パソコンをローカルのAIシステムとして活用できる「Personal Computer」ツールをWindows向けに拡大しました。</description>
+</item>
+<item>
 <title>Google、AI投資を最大205億ドルに引き上げで株価への影響は</title>
 <link>https://ai-tech-times.web.app/articles/20260729-google-ai-spending-increase-wall-street.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-google-ai-spending-increase-wall-street.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Tue, 28 Jul 2026 21:03:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>ここ数ヶ月で働き方が大きく変わり、AIを活用した新しい開発プロセスが注目を集めています。リファインメントからCI、PRの管理までの一連の流れが生み出す変化とは何でしょうか。</description>
-</item>
-<item>
-<title>Moonshot AIのKimi-K3をB300 x8でDay0デプロイ</title>
-<link>https://ai-tech-times.web.app/articles/20260728-kimi-k3-day0-deploy-fixstars.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-kimi-k3-day0-deploy-fixstars.html</guid>
-<pubDate>Tue, 28 Jul 2026 21:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Moonshot AIが公開した史上最大のオープンウェイトモデル「Kimi-K3」を、フィックスターズがNVIDIA B300 x8のシングルノード環境へデプロイしました。</description>
 </item>
 </channel></rss>

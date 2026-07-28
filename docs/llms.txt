@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Perplexity、WindowsでもAIエージェント機能を提供開始](https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html) — 2026-07-29 08:00: AI関連企業として知られるPerplexityは、パソコンをローカルのAIシステムとして活用できる「Personal Computer」ツールをWindows向けに拡大しました。
 - [Google、AI投資を最大205億ドルに引き上げで株価への影響は](https://ai-tech-times.web.app/articles/20260729-google-ai-spending-increase-wall-street.html) — 2026-07-29 07:01: 決算シーズンを迎えたなか、GoogleがAI関連の支出予測を大幅に引き上げ、ウォール街の投資家たちに波紋を広げています。
 - [Insight Partners、ボット対策Spurに2億ドル出資](https://ai-tech-times.web.app/articles/20260729-spur-nabs-200m-from-insight.html) — 2026-07-29 07:01: ボット対策技術を手がけるSpur Intelligenceが、Insight Partnersから2億ドルの資金調達を実施しました。
 - [Gigazine報道：中国で自分の顔をAIにレンタルするビジネスが流行](https://ai-tech-times.web.app/articles/20260729-china-people-renting-face-to-ai.html) — 2026-07-29 07:01: 中国において、自身の顔をAI用にあらかじめレンタルして使用権を販売する新しいビジネスモデルが成立し、流行していることが伝えられました。
@@ -41,14 +42,13 @@
 - [料理研究家リュウジが暴露！インフルエンサー案件の真実](https://ai-tech-times.web.app/articles/20260729-ryuji-influencer-gourmet-debate.html) — 2026-07-29 03:00: 料理研究家リュウジの発言をきっかけに、グルメインフルエンサーの“案件まみれ”の実態とその信頼性をめぐって議論が勃発しています。
 - [Apple、月11.99ドルからの新端末リース発表](https://ai-tech-times.web.app/articles/20260729-apple-upgrade-device-leasing-program.html) — 2026-07-29 02:00: Appleは、Klarnaとのパートナーシップにより、新しいデバイスリースプログラム「Upgrade」を開始しました。毎月の負担を抑えて各種製品を利用できるようになります。
 - [eBayと元幹部らがブロガー嫌がらせ訴訟で5600万ドル支払いへ](https://ai-tech-times.web.app/articles/20260729-ebay-blogger-harassment-settlement.html) — 2026-07-29 02:00: 米EC大手のeBayと元幹部らが、批判的な記事を掲載した人気Eコマースブログの運営者に対する嫌がらせおよびストーキング事件をめぐり、5600万ドルを支払うことで合意しました。
-- [ファクトチェック・イニシアティブ、地震に乗じた生成AIの偽・誤情報に注意喚起](https://ai-tech-times.web.app/articles/20260729-fact-check-initiative-earthquake-fake-news.html) — 2026-07-29 01:00: 偽情報対策に取り組むファクトチェック・イニシアティブは、熊本県での地震を受けて注意を呼び掛けました。生成AIや過去の画像によるフェイク情報にどう備えるべきか、その詳細をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-07-29)
 - 1位: [Ted Lasso — Season 4 Official Trailer (Together) | Apple TV](https://www.youtube.com/watch?v=GACU1N9hg5o)
 - 2位: [BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY](https://www.youtube.com/watch?v=bVgm4dy6Uxc)
 - 3位: [ATEEZ(에이티즈) - 'BAD (Japanese Ver.)' Official MV](https://www.youtube.com/watch?v=p67W66bny94)
 
-## AI用語事典 (全397語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全398語 / https://ai-tech-times.web.app/term/)
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。

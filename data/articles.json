@@ -16901,5 +16901,39 @@
   "date": "2026-07-29",
   "time": "07:01",
   "path": "/articles/20260729-semiconductor-stocks-decline-before-earnings.html"
+ },
+ {
+  "title": "Perplexity、WindowsでもAIエージェント機能を提供開始",
+  "lead": "AI関連企業として知られるPerplexityは、パソコンをローカルのAIシステムとして活用できる「Personal Computer」ツールをWindows向けに拡大しました。",
+  "summary3": [
+   "PerplexityのAIツールがWindowsに対応",
+   "PCをローカルのAIシステムとして活用可能",
+   "ファイルやアプリにアクセスし作業を代行"
+  ],
+  "body": [
+   "AI技術を手がけるPerplexityは、エージェント型ツール「Personal Computer」をWindowsに拡大すると発表しました。これにより、世界で最も人気のあるOSを搭載したパソコンを、ローカルで実行されるAIシステムとして利用できるようになります。",
+   "本ツールは、4月にMac向けに提供が開始されたバージョンと同様に動作します。汎用的なデジタルワーカーのように機能し、ローカルのファイルやアプリにアクセスして作業を実行することが可能です。",
+   "ユーザーは手元のWindows PC上でAIシステムを直接動かせるようになり、パソコンの活用方法が大きく広がることになります。"
+  ],
+  "tags": [
+   "Perplexity",
+   "Windows",
+   "AIエージェント"
+  ],
+  "slug": "perplexity-personal-computer-windows-ai-agents",
+  "people": [],
+  "terms": [
+   {
+    "name": "Perplexity",
+    "type": "company",
+    "desc": "AIを活用した検索エンジンや対話型AIサービスなどを提供しているアメリカの企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+  "category": "ai",
+  "date": "2026-07-29",
+  "time": "08:00",
+  "path": "/articles/20260729-perplexity-personal-computer-windows-ai-agents.html"
  }
 ]

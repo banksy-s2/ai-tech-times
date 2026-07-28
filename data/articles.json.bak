@@ -16505,5 +16505,401 @@
   "date": "2026-07-29",
   "time": "06:00",
   "path": "/articles/20260729-earnings-announcement-july-28.html"
+ },
+ {
+  "title": "Google、AI投資を最大205億ドルに引き上げで株価への影響は",
+  "lead": "決算シーズンを迎えたなか、GoogleがAI関連の支出予測を大幅に引き上げ、ウォール街の投資家たちに波紋を広げています。",
+  "summary3": [
+   "GoogleがAI支出予測を最大205億ドルへ引き上げ",
+   "前四半期の予測190億ドルから大幅な増加となる",
+   "想定を上回る巨額の投資計画に市場が動揺を示す"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、現在は決算シーズンとなっており、投資家たちにとってGoogleからの思わぬサプライズ発表となりました。同社はAI関連の支出予測を、前四半期の最大190億ドルという予測から、最大205億ドルへと引き上げました。",
+   "さらに、Googleが新たに提示した予測範囲の低い方の数値である195億ドルであっても、これまでに想定されていた水準を大きく上回る金額となっています。",
+   "この急激に膨らむAI関連の巨額コストに対し、ウォール街の投資家たちの間では、これほどまでに費用がかさむ状況に対して緊張の色が広がっています。AI分野への開発やインフラ整備における莫大な支出が、今後の企業業績や株価にどのような影響をもたらすのか、市場の関心と懸念が高まっています。"
+  ],
+  "tags": [
+   "Google",
+   "AI投資",
+   "決算"
+  ],
+  "slug": "google-ai-spending-increase-wall-street",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大の検索エンジンをはじめ多様なインターネットサービスを展開する企業"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+  "category": "ai",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-google-ai-spending-increase-wall-street.html"
+ },
+ {
+  "title": "Insight Partners、ボット対策Spurに2億ドル出資",
+  "lead": "ボット対策技術を手がけるSpur Intelligenceが、Insight Partnersから2億ドルの資金調達を実施しました。",
+  "summary3": [
+   "Spurが2億ドルを調達",
+   "Insight Partnersが出資",
+   "人間のトラフィックを識別"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。ボット対策技術を提供するSpur Intelligenceが、Insight Partnersから2億ドルの資金調達を実施したことが明らかになりました。今回の資金調達により、同社の技術開発や事業展開がさらに加速することが期待されています。",
+   "Spur Intelligenceが手がける技術は、ウェブサイトにアクセスするトラフィックの中から、正当な人間のアクセスと自動化されたボットを高精度で識別するためのものです。インターネット上でのボットによる不正アクセスや自動化スクリプトによる負荷が増加する中、企業のセキュリティ対策として重要な役割を担っています。",
+   "出資を行ったInsight Partnersは、テクノロジーやソフトウェア企業を中心に幅広く投資を行っていることで知られています。今回の巨額な資金調達を経て、Spur Intelligenceがボット対策市場においてどのようなサービス展開を見せるのか、今後の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Spur Intelligence",
+   "Insight Partners",
+   "資金調達"
+  ],
+  "slug": "spur-nabs-200m-from-insight",
+  "people": [],
+  "terms": [
+   {
+    "name": "Insight Partners",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、ソフトウェアやテクノロジー企業を中心に投資を行う大手ベンチャーキャピタル・プライベートエクイティ企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+  "category": "ai",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-spur-nabs-200m-from-insight.html"
+ },
+ {
+  "title": "Gigazine報道：中国で自分の顔をAIにレンタルするビジネスが流行",
+  "lead": "中国において、自身の顔をAI用にあらかじめレンタルして使用権を販売する新しいビジネスモデルが成立し、流行していることが伝えられました。",
+  "summary3": [
+   "顔の無断使用動画の削除が中国で相次いで発生",
+   "権利問題を逆手に取り顔の使用権を販売",
+   "自分の顔をAIにレンタルする行為が流行"
+  ],
+  "body": [
+   "近年、他人の顔を無断で使用した動画が権利関係の問題によって削除される事例が、中国国内において相次いで発生しています。",
+   "こうした著作権や肖像権をめぐるトラブルが頻発する現状を逆手に取り、最初から自分の顔の使用権をあらかじめ販売するというビジネスモデルが現在成立していることが伝えられました。",
+   "自身の顔をAIにレンタルする行為が新しいトレンドとして広がっており、今後の権利関係や関連ビジネスの動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "中国",
+   "ビジネス"
+  ],
+  "slug": "china-people-renting-face-to-ai",
+  "people": [],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-china-people-renting-face-to-ai.html"
+ },
+ {
+  "title": "オードリー・タンが明かす、米中AI競争で勝つ意外な道",
+  "lead": "米中による激しいAI覇権争いが続く中、元台湾デジタル担当大臣のオードリー・タン氏が「勝つために究極のAIを作る必要はない」と語り、すし職人を開発の輪に入れる重要性を指摘しました。",
+  "summary3": [
+   "米中AI競争が世界規模で激化",
+   "究極のAIを作る必要はないと指摘",
+   "すし職人を開発の輪に入れるべき"
+  ],
+  "body": [
+   "米国のOpenAIやGoogle、中国のDeepSeekなどが莫大な資金とエネルギーを投じ、AIの覇権争いは世界規模で激化しています。巨大モデルの性能向上が進む中、今後の開発のあり方について新たな視点が提示されました。",
+   "こうした状況において、台湾で元デジタル担当大臣を務めたオードリー・タン氏は、「勝つために、究極のAIを作る必要はない。すし職人を開発の輪に入れろ」と力強く言い切りました。",
+   "AI開発の最前線において、専門家以外の知見や異なる分野の技術を取り入れることが、今後の競争を勝ち抜くための鍵になるという見解が示されています。"
+  ],
+  "tags": [
+   "AI",
+   "オードリー・タン",
+   "テクノロジー"
+  ],
+  "slug": "audrey-tang-ai-strategy",
+  "people": [
+   {
+    "name": "オードリー・タン",
+    "bio": "台湾で元デジタル担当大臣を務め、オープンソースやデジタル政策の推進で世界的に知られる天才プログラマー。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AIなどの先進的な人工知能の研究開発をリードする世界的な企業。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドサービスや人工知能の研究開発などを幅広く手がけるアメリカの巨大テック企業。"
+   },
+   {
+    "name": "DeepSeek",
+    "type": "company",
+    "desc": "高性能な大規模言語モデルを開発し、世界的な注目を集めている中国の人工知能関連企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2607/28/news032.html",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-audrey-tang-ai-strategy.html"
+ },
+ {
+  "title": "アップルが時価総額5兆ドル突破、AIの未来を巡る投資家の議論とは",
+  "lead": "Appleが初めて時価総額5兆ドルに達しました。Nvidiaとの競り合いは、この夏の投資家を悩ませるAIの未来を巡る議論を反映しています。",
+  "summary3": [
+   "Appleが時価総額5兆ドルを初めて突破",
+   "Nvidiaとの間で競り合いが発生",
+   "AIの未来を巡る投資家の議論が反映"
+  ],
+  "body": [
+   "CNBC Techの報道によると、Appleが初めて時価総額5兆ドル（約5兆ドル規模）に達しました。この記録的な到達は、世界の金融市場において大きな注目を集めています。",
+   "今回の局面におけるAppleとNvidiaの競り合いは、AIの未来がどうなるのかを巡る議論を浮き彫りにしています。このテーマは、今夏を通じて多くの投資家たちの関心を深く占有してきました。",
+   "AI技術の発展とその商業的な将来性について、市場では様々な見方が交錯しています。今回の時価総額到達は、そうした投資家たちの思惑や議論の象徴的な出来事と言えます。"
+  ],
+  "tags": [
+   "Apple",
+   "Nvidia",
+   "AI"
+  ],
+  "slug": "apple-touches-5-trillion-market-cap",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneなどのハードウェアやソフトウェアを手がけるアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "画像処理半導体（GPU）の開発で知られ、AI開発向けでも高いシェアを持つアメリカの半導体企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-apple-touches-5-trillion-market-cap.html"
+ },
+ {
+  "title": "Rippling訴えられた背景：MCP製品の模倣めぐる攻防",
+  "lead": "AI関連スタートアップのRunlayerが、Ripplingを相手取り提訴しました。製品アイデアの盗用をめぐる注目の裁判です。",
+  "summary3": [
+   "RunlayerがRipplingを提訴",
+   "製品アイデア盗用の疑い指摘",
+   "MCPゲートウェイが争点に"
+  ],
+  "body": [
+   "海外メディアのTechCrunchによると、AI技術関連のスタートアップであるRunlayerが、Ripplingを相手取って訴訟を提起しました。このトラブルの発端は、Rippling側がRunlayerのMCPゲートウェイ製品を事前に評価したことにあります。",
+   "評価を行った後、Ripplingは独自のMCPゲートウェイ製品を自社で構築する道を選びました。Runlayer側はこの一連の動きに対して、自社の製品アイデアが盗まれたものと主張し、法的措置に踏み切る事態となっています。",
+   "AI技術の急速な発展やエコシステムの拡大に伴い、企業間での製品開発やアイデアの扱いをめぐる法的紛争のリスクが高まっています。今回の裁判の行方は、今後の関連業界における開発競争や知的財産の保護のあり方に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "Runlayer",
+   "Rippling",
+   "裁判"
+  ],
+  "slug": "runlayer-accuses-rippling-mcp-lawsuit",
+  "people": [],
+  "terms": [
+   {
+    "name": "Runlayer",
+    "type": "company",
+    "desc": "MCPゲートウェイ製品などを開発しているスタートアップ企業です。"
+   },
+   {
+    "name": "Rippling",
+    "type": "company",
+    "desc": "人事労務やIT管理などの統合プラットフォームを提供する企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-runlayer-accuses-rippling-mcp-lawsuit.html"
+ },
+ {
+  "title": "伊豆諸島南部で線状降水帯発生のおそれ、直前予測を発表",
+  "lead": "気象庁は東京の伊豆諸島南部を対象に、今後3時間以内に線状降水帯が発生する可能性が高まっているとして、気象防災速報を発表しました。",
+  "summary3": [
+   "伊豆諸島南部で線状降水帯発生のおそれ",
+   "気象庁が29日午前6時18分に直前予測を発表",
+   "今後3時間以内の発生可能性が高まる"
+  ],
+  "body": [
+   "気象庁は、東京の伊豆諸島南部において、今後3時間以内に線状降水帯が発生する可能性が高まっているとして、29日午前6時18分に「線状降水帯直前予測」の気象防災速報を発表しました。",
+   "「線状降水帯」は発達した積乱雲が次々と発生・通過することで、同じ場所組織的に停滞し、大雨をもたらす気象現象です。急速に災害のリスクが高まるため、事前の警戒が重要となります。",
+   "気象庁は最新の気象情報や自治体からの避難情報などに十分注意するよう呼びかけています。今後の天気の急変や大雨に対して、厳重な警戒が必要です。"
+  ],
+  "tags": [
+   "線状降水帯",
+   "気象庁",
+   "伊豆諸島南部"
+  ],
+  "slug": "izu-islands-heavy-rain-forecast",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015189311000",
+  "category": "world",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-izu-islands-heavy-rain-forecast.html"
+ },
+ {
+  "title": "日経平均が4％超安、半導体株売りで急落なぜ",
+  "lead": "午前の東京株式市場で、日経平均株価が急落し、下落率が4％を超える展開となりました。半導体関連株の売りが広がり、中国勢の台頭に対する警戒感が背景にあります。",
+  "summary3": [
+   "午前の日経平均株価が急落",
+   "半導体関連株売りで4%超安",
+   "中国勢台頭への警戒感広がる"
+  ],
+  "body": [
+   "午前の東京株式市場において、日経平均株価が急落しました。下落率は4％を超える大幅な値下がりとなっています。",
+   "市場では半導体関連銘柄への売り注文が膨らみました。その背景には、中国勢の台頭に対する市場の警戒感があることがロイターの報道で伝えられています。",
+   "今回の株式市場の動きは、半導体セクターを中心とした売りが全体を押し下げる展開となりました。中国企業の動向が投資家心理に影響を与えています。"
+  ],
+  "tags": [
+   "日経平均",
+   "半導体株",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-plunges-semiconductor-selloff",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2FBaURqZmttcXI3QVJuUDlLNDRXdE9xY21nZS12R21NcldXV25lZUxrS2o2ZWFZZ2tjYkVOOFJWcHN4UXJpT0pIR2hMclNBdDhzdERCbGdaTGhHUzBudUx2WklrX1RtZzIyM1pIXzhjamc1TDNnR3Ezbm1uaFBiZA?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-nikkei-average-plunges-semiconductor-selloff.html"
+ },
+ {
+  "title": "三井住友FG中島社長が語る変革期の舵取り",
+  "lead": "利上げを追い風に利益拡大と事業モデルの転換を進める三井住友フィナンシャルグループ。中島達社長を直撃し、変革期の舵取りを聞きました。",
+  "summary3": [
+   "利上げを追い風に利益拡大を推進",
+   "事業モデルの転換を進める方針",
+   "預金の伸び鈍化や海外リスクに対応"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、利上げを追い風に利益拡大と事業モデルの転換を進める三井住友フィナンシャルグループの動向に注目しています。",
+   "今回は三井住友フィナンシャルグループの中島達社長を直撃し、課題となる預金の伸びの鈍化や海外リスクなど、変革期における舵取りについて詳しく聞きました。",
+   "具体的な事業の道筋や預貸バランス、セキュリティー対策まで、今後の展開に向けた取り組みが語られています。"
+  ],
+  "tags": [
+   "三井住友FG",
+   "金融",
+   "ビジネス"
+  ],
+  "slug": "smfg-nakajima-interview",
+  "people": [
+   {
+    "name": "中島達",
+    "bio": "三井住友フィナンシャルグループの社長を務める経営者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "三井住友フィナンシャルグループ",
+    "type": "company",
+    "desc": "日本を代表するメガバンクの一つである三井住友銀行などを傘下に持つ持株会社。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952769?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-smfg-nakajima-interview.html"
+ },
+ {
+  "title": "中国電力・マツダ含む49社、4～6月期業績発表へ",
+  "lead": "中国地方の上場企業49社による4～6月期の業績発表が、29日から順次スタートします。",
+  "summary3": [
+   "中国地方49社が業績発表へ",
+   "中国電力は7月31日に予定",
+   "マツダは8月4日に発表予定"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、中国地方の上場企業49社による4～6月期の業績発表が、29日から開始される予定です。地域経済に大きな影響を持つ各企業の動向に、関係者の注目が集まっています。",
+   "主な企業の発表スケジュールとしては、中国電力が7月31日に業績を発表する予定となっています。また、マツダについては8月4日に発表が予定されている状況です。",
+   "今回の4～6月期業績発表を通じて、中国地方の上場企業における直近の経営状況や事業の進捗が順次明らかになる見通しです。発表される各社の詳細な内容に関心が寄せられています。"
+  ],
+  "tags": [
+   "中国電力",
+   "マツダ",
+   "企業業績"
+  ],
+  "slug": "chugoku-region-earnings-announcement",
+  "people": [],
+  "terms": [
+   {
+    "name": "中国電力",
+    "type": "company",
+    "desc": "広島県広島市に本社を置く、中国地方を主な供給区域とする電気事業者"
+   },
+   {
+    "name": "マツダ",
+    "type": "company",
+    "desc": "広島県安芸郡に本社を置く、世界的な自動車製造・販売を手がける大手自動車メーカー"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mTkxNbDQzUzluTzlFaXVVdVpndURJcEw0OFExRVA4SWwyWml3emYzSV9SUDBpb3FzYkpKVHZnQ1NjYldlNWRNTHB3RTRqNGZPLUVwdWRudm1EZw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-chugoku-region-earnings-announcement.html"
+ },
+ {
+  "title": "アドテスト・東エレクなど半導体関連が安い理由とは",
+  "lead": "アドバンテストや東京エレクトロンなどの半導体製造装置関連株が安い値動きとなっています。決算発表を目前に控え、売りが止まらない状況が続いています。",
+  "summary3": [
+   "アドテストなど半導体株が安い",
+   "決算発表を目前に売り止まらず",
+   "東エレクなど関連銘柄も下落"
+  ],
+  "body": [
+   "アドバンテストや東京エレクトロンをはじめとする半導体製造装置関連の銘柄が、株式市場で安い値動きを見せています。決算発表の時期を目前に控え、売り圧力が収まらずに下落する展開となっています。",
+   "市場では重要な決算発表を控えていることから、様子見ムードや利益確定の売りなどが広がっているとみられます。半導体製造装置関連の主力銘柄に売り注文が集中し、軟調な相場環境が形成されています。",
+   "今後の業績発表やそれに伴う業績見通しの内容に注目が集まっており、投資家間では慎重な姿勢が強まっています。決算発表を前にした値動きの行方に市場の関心が集まっています。"
+  ],
+  "tags": [
+   "アドバンテスト",
+   "東京エレクトロン",
+   "半導体製造装置"
+  ],
+  "slug": "semiconductor-stocks-decline-before-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドバンテスト",
+    "type": "company",
+    "desc": "半導体試験装置（テスタ）の世界的メーカーとして知られる日本の電気機器製造企業。"
+   },
+   {
+    "name": "東京エレクトロン",
+    "type": "company",
+    "desc": "半導体製造装置やFPD製造装置の開発・製造・販売を行う日本の大手半導体製造装置メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Rd0RZc0R5NldOdDJyVmtVVENUcW1XYWtVcVlCNm03NWlYSG1yT3ZLQ2dkNTFpZ1lUOXV5c0lZMk92TjhRZzE1QXVqQkM1SGRUa2JLNXlvS1FuZlBMenYwOQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "07:01",
+  "path": "/articles/20260729-semiconductor-stocks-decline-before-earnings.html"
  }
 ]
