@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropicが数百万冊の本を裁断しAI学習、希少本消失の懸念も</title>
+<link>https://ai-tech-times.web.app/articles/20260728-anthropic-books-ai-training.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-anthropic-books-ai-training.html</guid>
+<pubDate>Tue, 28 Jul 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI「Claude」を開発するAnthropicが、学習のために数百万冊の印刷された書籍を裁断してデジタル化し、廃棄していたことが判明しました。</description>
+</item>
+<item>
 <title>TechCrunch Disrupt 2026、AIインフラの課題に迫るステージ公開</title>
 <link>https://ai-tech-times.web.app/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Tue, 28 Jul 2026 10:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>AppleのApp Storeで偽の暗号資産ウォレットをダウンロードし、合計180万ドル以上を失ったとする3人のユーザーが同社を提訴しました。厳格な審査による安全性の主張が問われています。</description>
-</item>
-<item>
-<title>Gigazine：高齢者を狙うAI音声詐欺の恐怖</title>
-<link>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</guid>
-<pubDate>Tue, 28 Jul 2026 09:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AI技術の発展に伴い、音声クローンを用いた巧妙な詐欺が多発しています。エンジニアの指摘をもとに、最先端の詐欺の手口とその実態に迫ります。</description>
 </item>
 </channel></rss>

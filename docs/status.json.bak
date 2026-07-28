@@ -1,15 +1,78 @@
 {
- "updated": "2026-07-28 16:01",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-07-28 17:07",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "TechCrunch Disrupt 2026、AIインフラの課題に迫るステージ公開",
+   "path": "/articles/20260728-techcrunch-disrupt-2026-smart-systems-stage.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "日本IBMが医療文書作成を30分から5分へ短縮した理由",
+   "path": "/articles/20260728-ibm-medical-ai-platform.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Microsoft、「Copilot Cowork」提供開始",
+   "path": "/articles/20260728-copilot-cowork-general-availability.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Amazon、スマホ向け衛星通信網を拡大しSpaceXに対抗",
+   "path": "/articles/20260728-amazon-satellite-network-spacex.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ケイデンスQ2売上高24.2%増、AI特需で年間予測を上方修正",
+   "path": "/articles/20260728-cadence-reports-q2-revenue-up-24-percent.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "東京ディズニー1万2000円超え！値上げの背景とは",
+   "path": "/articles/20260728-disney-ticket-price-increase-12000-yen.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "熊本・宇城市と氷川町で震度7、有明・八代海に津波注意報",
+   "path": "/articles/20260728-kumamoto-earthquake-tsunami-warning.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ジョンソン・エンド・ジョンソン、発がん性主張のベビーパウダー訴訟終結へ55億ドル提示",
+   "path": "/articles/20260728-johnson-and-johnson-settles-lawsuits.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均株価、2566円安の6万2364円で大幅反落",
+   "path": "/articles/20260728-nikkei-average-drops-2566-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシアHDが再びストップ安、AI半導体株急落の理由",
+   "path": "/articles/20260728-kioxia-stock-drop-ai-semiconductor.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "フジ・メディアHDとSBI、戦略的業務提携の協議開始",
+   "path": "/articles/20260728-fuji-media-sbi-business-alliance.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "キヤノンQ2決算発表、年内にレンズ交換式展開の可能性高まる",
+   "path": "/articles/20260728-canon-q2-earnings-lens-interchangeable.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [],
- "pv_today": 80,
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 84,
  "gemini": {
-  "used": 118,
+  "used": 142,
   "limit": 200
  }
 }
