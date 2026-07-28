@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-28 22:02",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-28 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イオンモール熊本で従業員20～30人と連絡取れず",
-   "path": "/articles/20260728-aeon-mall-kumamoto-contact-lost.html",
-   "cat": "時事・世界"
+   "title": "日経平均が2566円安、2か月ぶり6万3000円割れ",
+   "path": "/articles/20260728-nikkei-average-drops-below-63000-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア株価が一時5万円割れ、18%下落の背景",
+   "path": "/articles/20260728-kioxia-stock-price-drop.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [
-  "執筆失敗: ラオス当局「日本人5人を拘束」 特殊詐欺に関与か"
- ],
- "pv_today": 93,
+ "notes": [],
+ "pv_today": 94,
  "gemini": {
-  "used": 187,
+  "used": 191,
   "limit": 200
  }
 }

@@ -16018,5 +16018,67 @@
   "date": "2026-07-28",
   "time": "22:02",
   "path": "/articles/20260728-aeon-mall-kumamoto-contact-lost.html"
+ },
+ {
+  "title": "日経平均が2566円安、2か月ぶり6万3000円割れ",
+  "lead": "読売新聞の報道によると、日経平均株価の終値が2か月ぶりに6万3000円を割り込みました。",
+  "summary3": [
+   "日経平均が2566円安を記録",
+   "終値は6万2364円となる",
+   "2か月ぶり6万3000円割れ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。読売新聞の報道によると、日経平均株価の終値が2か月ぶりに6万3000円を割り込む展開となりました。",
+   "この日の市場では大幅な下落が観測され、下落幅は2566円安に達しました。その結果、終値は6万2364円となっています。",
+   "株式市場における今後の動向や値動きについては、引き続き投資家や市場関係者の注目を集めることになりそうです。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-drops-below-63000-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JRld6cnBHQndWdmNUUDVtZXA3S2VPSEtrVXlZazktX2dESUVZNlE3cGltUE9YMUhXSFI0eVUzLTNndE8xdlRDOGFncThHUDEzUF90MUNUV2lrUFMxMDNGMzgxMEg?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "23:00",
+  "path": "/articles/20260728-nikkei-average-drops-below-63000-yen.html"
+ },
+ {
+  "title": "キオクシア株価が一時5万円割れ、18%下落の背景",
+  "lead": "キオクシアの株価が一時5万円を割り込み、18%下落しました。米同業の急落が波及したことが要因となっています。",
+  "summary3": [
+   "キオクシアの株価が一時5万円割れ",
+   "前日から18%の大幅な下落を記録",
+   "米同業の急落が波及したことが要因"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。日本経済新聞の報道によると、キオクシアの株価が一時5万円を割り込み、18%の下落を記録しました。",
+   "今回の株価下落は、米国における同業他社の急落が波及したことによるものとされています。",
+   "株式市場においては、海外市場の動向が国内企業に影響を与える展開となりました。今後の市場の動きに引き続き注目が集まります。"
+  ],
+  "tags": [
+   "キオクシア",
+   "株価",
+   "経済"
+  ],
+  "slug": "kioxia-stock-price-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリを中心とする日本の半導体製造企業で、世界的なシェアを持つ。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EeG1udkRNcy05Wkg5STNzVUNxWnAtTXA1QV9zYV8zc2VHRWRoSXhtSGdwdXg2bEQtUW85bUg2OHdEZExhb3JQbUpqcmIzbzRaUzFzaHdXSU5QSk15NFg2MVllVWtxR3h6RVZ2Mg?oc=5",
+  "category": "stock",
+  "date": "2026-07-28",
+  "time": "23:00",
+  "path": "/articles/20260728-kioxia-stock-price-drop.html"
  }
 ]
