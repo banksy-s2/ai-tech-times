@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-28 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-28 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Gigazine：高齢者を狙うAI音声詐欺の恐怖",
-   "path": "/articles/20260728-ai-voice-fraud-gigazine.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ラフ画を生成AIに使われ取引中止に、フリーランスが直面したトラブル",
-   "path": "/articles/20260728-freelance-rough-draft-ai-dispute.html",
-   "cat": "日本のAI"
+   "title": "Apple、アプリ詐欺で180万ドル損失の訴訟",
+   "path": "/articles/20260728-apple-sued-app-store-crypto-scam.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "Welcome to K.H.A.O.S | TV Royale",
-  "url": "https://www.youtube.com/watch?v=XuovA-AdDP8"
+  "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
+  "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [],
- "pv_today": 54,
+ "notes": [
+  "執筆失敗: Verizon touts $1B dark fiber deal for Go"
+ ],
+ "pv_today": 59,
  "gemini": {
-  "used": 67,
+  "used": 72,
   "limit": 200
  }
 }

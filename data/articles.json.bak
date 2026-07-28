@@ -14437,5 +14437,41 @@
   "date": "2026-07-28",
   "time": "09:01",
   "path": "/articles/20260728-freelance-rough-draft-ai-dispute.html"
+ },
+ {
+  "title": "Apple、アプリ詐欺で180万ドル損失の訴訟",
+  "lead": "AppleのApp Storeで偽の暗号資産ウォレットをダウンロードし、合計180万ドル以上を失ったとする3人のユーザーが同社を提訴しました。厳格な審査による安全性の主張が問われています。",
+  "summary3": [
+   "AppleがApp Storeの詐欺被害で提訴された",
+   "偽の暗号資産ウォレットで180万ドルを損失",
+   "アプリの安全性に対する主張に疑問符"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がTechCrunchの報道に基づきお伝えします。米Appleは、App Storeからダウンロードした不正な暗号資産ウォレットアプリによって、ユーザーが合計180万ドル（約2億7千万円規模）以上の甚大な被害を受けたとして、3人のユーザーから訴訟を起こされました。",
+   "今回の訴訟は、Appleが長年主張してきた「厳格なアプリ審査プロセスによってユーザーを詐欺から守っている」という安全性の神話に直接挑戦する形となっています。信頼性の高いはずの公式ストアで被害が発生したことで、プラットフォーム側の責任範囲をめぐる議論に発展しています。",
+   "被害者側は、Appleの安全管理体制の不備を指摘しており、今後の裁判の行方や、アプリストアの審査体制に対する信頼回復の取り組みがどのように進められるのか、世界的な注目が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "App Store",
+   "暗号資産",
+   "セキュリティ",
+   "訴訟"
+  ],
+  "slug": "apple-sued-app-store-crypto-scam",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアからApp Storeなどのサービスまで手掛けるアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+  "category": "silicon",
+  "date": "2026-07-28",
+  "time": "10:00",
+  "path": "/articles/20260728-apple-sued-app-store-crypto-scam.html"
  }
 ]
