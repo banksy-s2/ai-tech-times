@@ -1,23 +1,15 @@
 {
- "updated": "2026-07-28 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [
-  {
-   "title": "ココイチFCスカイスクレイパー、22歳社長が挑む年商100億円の戦略",
-   "path": "/articles/20260728-skyscraper-cocoichi-moshizawa.html",
-   "cat": "日本企業"
-  }
- ],
+ "updated": "2026-07-28 16:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
- "notes": [
-  "執筆失敗: フジ・メディアHDとSBIが戦略的業務提携に向けた協議を開始、その狙いはどこにあ"
- ],
- "pv_today": 77,
+ "notes": [],
+ "pv_today": 80,
  "gemini": {
-  "used": 115,
+  "used": 118,
   "limit": 200
  }
 }
