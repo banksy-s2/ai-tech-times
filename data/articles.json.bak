@@ -14332,5 +14332,44 @@
   "date": "2026-07-28",
   "time": "07:03",
   "path": "/articles/20260728-edion-yamada-hd-integration-talks.html"
+ },
+ {
+  "title": "GoogleのAI検索、43%の検索で表示され標準に",
+  "lead": "Googleの検索結果にAIが生成する回答が表示される「AI Overviews」が、全検索の43%に達していることが新しいデータで明らかになりました。",
+  "summary3": [
+   "GoogleのAI検索の利用が急速に拡大",
+   "AI Overviewsの表示割合は43%に到達",
+   "オンラインの情報探索の標準に"
+  ],
+  "body": [
+   "テクノロジー分野のニュースを伝えるTechCrunch AIによると、Googleが提供するAI検索機能「AI Overviews」が、現在すべての検索の43%に表示されていることが新しいデータによって示されました。",
+   "この高い割合は、AIによって生成された回答が、人々がオンライン上で情報を発見するための標準的な方法になりつつあるスピードの速さを裏付けています。",
+   "Googleが提供する検索サービスにおいて、AIによる情報提示が急速に既定の手段として定着しつつある現状が浮き彫りになりました。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "検索エンジン"
+  ],
+  "slug": "googles-ai-search-default-data",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "米国の代表的なテック企業であり、世界最大の検索エンジンや関連サービスを開発・運営しています。"
+   },
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "AI技術やスタートアップ企業の動向を中心に、最新のテクノロジー情報を専門に報じるメディアです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+  "category": "ai",
+  "date": "2026-07-28",
+  "time": "08:00",
+  "path": "/articles/20260728-googles-ai-search-default-data.html"
  }
 ]

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Gigazine：高齢者を狙うAI音声詐欺の恐怖</title>
+<link>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</guid>
+<pubDate>Tue, 28 Jul 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI技術の発展に伴い、音声クローンを用いた巧妙な詐欺が多発しています。エンジニアの指摘をもとに、最先端の詐欺の手口とその実態に迫ります。</description>
+</item>
+<item>
+<title>ラフ画を生成AIに使われ取引中止に、フリーランスが直面したトラブル</title>
+<link>https://ai-tech-times.web.app/articles/20260728-freelance-rough-draft-ai-dispute.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-freelance-rough-draft-ai-dispute.html</guid>
+<pubDate>Tue, 28 Jul 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>クライアントに送ったラフ画を無断で生成AIに取り込まれ、取引を一方的に中止させられた事例が話題となっています。クリエイターが不利益を被らないための契約の重要性が浮き彫りになりました。</description>
+</item>
+<item>
 <title>GoogleのAI検索、43%の検索で表示され標準に</title>
 <link>https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>企業における自律型AIの導入は、単なる優れたチャットボットを超えたシステム基盤が求められています。MIT Tech Review AIが報じた、エージェントを実行する最適なプラットフォームの要件をお伝えします。</description>
-</item>
-<item>
-<title>警視庁が注意喚起、AI要約も餌食になる検索悪用の詐欺手口</title>
-<link>https://ai-tech-times.web.app/articles/20260727-keishicho-ai-summary-fraud.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-keishicho-ai-summary-fraud.html</guid>
-<pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>警視庁は、SNS型投資詐欺グループがWeb検索やAI要約の仕組みを悪用し、「詐欺ではありません」と表示させる手口を確認したと発表しました。</description>
-</item>
-<item>
-<title>東大松尾・岩澤研が講義動画の英語字幕を自動生成するアプリを無償公開</title>
-<link>https://ai-tech-times.web.app/articles/20260727-toudai-matsuo-iwasawa-lab-subtitle-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-toudai-matsuo-iwasawa-lab-subtitle-ai.html</guid>
-<pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>東大松尾・岩澤研が、講義動画の英語字幕を自動生成するAIアプリを無償で公開しました。</description>
 </item>
 </channel></rss>

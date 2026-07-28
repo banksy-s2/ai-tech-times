@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-28 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-28 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "GoogleのAI検索、43%の検索で表示され標準に",
-   "path": "/articles/20260728-googles-ai-search-default-data.html",
-   "cat": "AI(海外)"
+   "title": "Gigazine：高齢者を狙うAI音声詐欺の恐怖",
+   "path": "/articles/20260728-ai-voice-fraud-gigazine.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ラフ画を生成AIに使われ取引中止に、フリーランスが直面したトラブル",
+   "path": "/articles/20260728-freelance-rough-draft-ai-dispute.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "Welcome to K.H.A.O.S | TV Royale",
   "url": "https://www.youtube.com/watch?v=XuovA-AdDP8"
  },
- "notes": [
-  "執筆失敗: Microsoft launches its first cybersecuri"
- ],
- "pv_today": 49,
+ "notes": [],
+ "pv_today": 54,
  "gemini": {
-  "used": 62,
+  "used": 67,
   "limit": 200
  }
 }
