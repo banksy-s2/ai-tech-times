@@ -2,26 +2,42 @@
  "date": "2026-07-29",
  "videos": [
   {
-   "id": "Vstf1W5mA7c",
-   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
-   "channel": "TeaserCon",
-   "views": 1004712,
-   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
-   "thumb": "https://i.ytimg.com/vi/Vstf1W5mA7c/hqdefault.jpg",
+   "id": "bVgm4dy6Uxc",
+   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
+   "channel": "BANGTANTV",
+   "views": 249671,
+   "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc",
+   "thumb": "https://i.ytimg.com/vi/bVgm4dy6Uxc/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "BR",
-    "IN"
+    "JP",
+    "BR"
    ],
    "rank": 1,
-   "comment": "2026年公開予定のスパイダーマン新作に関するコンセプトトレイラーのようです。"
+   "comment": "BTSのARMYに向けた韓国語バージョンのビジュアライザー動画のようですね。（25文字）"
+  },
+  {
+   "id": "jJObfZSbzAw",
+   "title": "Apex Legends: Marked Gameplay Trailer",
+   "channel": "Apex Legends",
+   "views": 82150,
+   "url": "https://www.youtube.com/watch?v=jJObfZSbzAw",
+   "thumb": "https://i.ytimg.com/vi/jJObfZSbzAw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 2,
+   "comment": "Apex Legendsの新しいゲームプレイトレーラーが公開されているみたいです。（28文字）"
   },
   {
    "id": "J3NnGQwPdZU",
    "title": "BRAWL WILL FINALLY MAKE YOU SMARTER #EscapePyramidQuest",
    "channel": "Brawl Stars",
-   "views": 1759045,
+   "views": 1978228,
    "url": "https://www.youtube.com/watch?v=J3NnGQwPdZU",
    "thumb": "https://i.ytimg.com/vi/J3NnGQwPdZU/hqdefault.jpg",
    "regions": [
@@ -29,14 +45,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 3,
    "comment": "ブロスタの新イベントかアップデートに関する動画のようです。"
   },
   {
    "id": "GACU1N9hg5o",
    "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
    "channel": "Apple TV",
-   "views": 134580,
+   "views": 238381,
    "url": "https://www.youtube.com/watch?v=GACU1N9hg5o",
    "thumb": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
    "regions": [
@@ -44,107 +60,92 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
-   "comment": "テッド・ラッソ シーズン4の公式予告編映像かもしれない (26字)"
-  },
-  {
-   "id": "iwc3ePT4-xw",
-   "title": "KARD (카드) - 'Back To Life' MV",
-   "channel": "KARD",
-   "views": 124597,
-   "url": "https://www.youtube.com/watch?v=iwc3ePT4-xw",
-   "thumb": "https://i.ytimg.com/vi/iwc3ePT4-xw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
    "rank": 4,
-   "comment": "KARDの新曲「Back To Life」のミュージックビデオが公開されたようです。"
-  },
-  {
-   "id": "hPZcZpNn3KY",
-   "title": "Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar",
-   "channel": "Tips Official",
-   "views": 4731896,
-   "url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
-   "thumb": "https://i.ytimg.com/vi/hPZcZpNn3KY/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "rank": 5,
-   "comment": "マヒラ・シャルマらが出演する新曲MVのようです"
-  },
-  {
-   "id": "AMLCbpM1fRQ",
-   "title": "Onslaught | Official Trailer 2 HD | A24",
-   "channel": "A24",
-   "views": 2057509,
-   "url": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
-   "thumb": "https://i.ytimg.com/vi/AMLCbpM1fRQ/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 6,
-   "comment": "A24が手掛ける新作映画『Onslaught』の公式予告編第2弾のようです。"
+   "comment": "テッド・ラッソ シーズン4の公式予告編映像かもしれない (26字)"
   },
   {
    "id": "oRsAMzfvVGk",
    "title": "Batwara 1947 | Official Trailer | Shabana Azmi | Sunny Deol | Aamir Khan Productions | 14th Aug 2026",
    "channel": "Aamir Khan Talkies",
-   "views": 1283246,
+   "views": 1717064,
    "url": "https://www.youtube.com/watch?v=oRsAMzfvVGk",
    "thumb": "https://i.ytimg.com/vi/oRsAMzfvVGk/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 7,
+   "rank": 5,
    "comment": "豪華キャストが出演する「Batwara 1947」の公式予告編のようです。"
   },
   {
    "id": "XuovA-AdDP8",
    "title": "Welcome to K.H.A.O.S | TV Royale",
    "channel": "Clash Royale",
-   "views": 1149188,
+   "views": 1156702,
    "url": "https://www.youtube.com/watch?v=XuovA-AdDP8",
    "thumb": "https://i.ytimg.com/vi/XuovA-AdDP8/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 6,
    "comment": "クラッシュ・ロワイヤル公式チャンネルの新しい動画のようです。"
+  },
+  {
+   "id": "Vstf1W5mA7c",
+   "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
+   "channel": "TeaserCon",
+   "views": 1036567,
+   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
+   "thumb": "https://i.ytimg.com/vi/Vstf1W5mA7c/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 7,
+   "comment": "2026年公開予定のスパイダーマン新作に関するコンセプトトレイラーのようです。"
   },
   {
    "id": "mopsqFE8R2A",
    "title": "The Wildest Fighting Game is Still Hilarious",
    "channel": "SMii7Y",
-   "views": 996194,
+   "views": 1023564,
    "url": "https://www.youtube.com/watch?v=mopsqFE8R2A",
    "thumb": "https://i.ytimg.com/vi/mopsqFE8R2A/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 8,
    "comment": "大人気格闘ゲームの予測不能なカオスな展開を楽しめる動画のようです。"
   },
   {
    "id": "NjfVpjHHnFM",
    "title": "IM NOT LATE",
    "channel": "Jynxzi",
-   "views": 618318,
+   "views": 621934,
    "url": "https://www.youtube.com/watch?v=NjfVpjHHnFM",
    "thumb": "https://i.ytimg.com/vi/NjfVpjHHnFM/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 10,
+   "rank": 9,
    "comment": "Jynxzi氏によるゲーム実況系の動画のようです。(24文字)"
+  },
+  {
+   "id": "7VsejGzcJmM",
+   "title": "Alaakaa Loova Lyrical Video | OM | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai",
+   "channel": "Divo Music",
+   "views": 596458,
+   "url": "https://www.youtube.com/watch?v=7VsejGzcJmM",
+   "thumb": "https://i.ytimg.com/vi/7VsejGzcJmM/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 10,
+   "comment": "ダヌシュらが出演する映画の音楽リリカルビデオが公開されているようです。（28文字）"
   }
  ],
  "covered": [
@@ -247,6 +248,9 @@
   "J3NnGQwPdZU": "ブロスタの新イベントかアップデートに関する動画のようです。",
   "oRsAMzfvVGk": "豪華キャストが出演する「Batwara 1947」の公式予告編のようです。",
   "iwc3ePT4-xw": "KARDの新曲「Back To Life」のミュージックビデオが公開されたようです。",
-  "GACU1N9hg5o": "テッド・ラッソ シーズン4の公式予告編映像かもしれない (26字)"
+  "GACU1N9hg5o": "テッド・ラッソ シーズン4の公式予告編映像かもしれない (26字)",
+  "bVgm4dy6Uxc": "BTSのARMYに向けた韓国語バージョンのビジュアライザー動画のようですね。（25文字）",
+  "jJObfZSbzAw": "Apex Legendsの新しいゲームプレイトレーラーが公開されているみたいです。（28文字）",
+  "7VsejGzcJmM": "ダヌシュらが出演する映画の音楽リリカルビデオが公開されているようです。（28文字）"
  }
 }

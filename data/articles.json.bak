@@ -16226,5 +16226,87 @@
   "date": "2026-07-29",
   "time": "01:00",
   "path": "/articles/20260729-google-cloud-codemender-preview.html"
+ },
+ {
+  "title": "Apple、月11.99ドルからの新端末リース発表",
+  "lead": "Appleは、Klarnaとのパートナーシップにより、新しいデバイスリースプログラム「Upgrade」を開始しました。毎月の負担を抑えて各種製品を利用できるようになります。",
+  "summary3": [
+   "Appleが新リースプログラムを発表",
+   "Klarnaとの提携で端末を展開",
+   "月額11.99ドルから利用可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、Appleは新しいデバイスリースプログラム「Upgrade」を開始しました。本プログラムは決済サービスを手がけるKlarnaとのパートナーシップにより提供されます。",
+   "気になるリース価格は、iPhoneが月額17.99ドルから、Apple Watchが月額11.99ドルからとなっています。さらに、Macが月額24.99ドルから、iPadが月額11.99ドルから利用可能となります。",
+   "今回の新プログラム導入により、ユーザーは手頃な月額料金でAppleの主要デバイスを柔軟に手に入れられるようになります。今後の展開にも注目が集まりそうです。"
+  ],
+  "tags": [
+   "Apple",
+   "Klarna",
+   "ガジェット"
+  ],
+  "slug": "apple-upgrade-device-leasing-program",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本社を置く、iPhoneやMacなどを開発・販売する世界的なテクノロジー企業です。"
+   },
+   {
+    "name": "Klarna",
+    "type": "company",
+    "desc": "スウェーデン発祥の、後払い決済やショッピングサービスなどを提供している大手フィンテック企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "02:00",
+  "path": "/articles/20260729-apple-upgrade-device-leasing-program.html"
+ },
+ {
+  "title": "eBayと元幹部らがブロガー嫌がらせ訴訟で5600万ドル支払いへ",
+  "lead": "米EC大手のeBayと元幹部らが、批判的な記事を掲載した人気Eコマースブログの運営者に対する嫌がらせおよびストーキング事件をめぐり、5600万ドルを支払うことで合意しました。",
+  "summary3": [
+   "eBayと元幹部らが5600万ドルを支払いへ",
+   "Eコマースブログの運営者への嫌がらせが原因",
+   "批判的な報道に怒った幹部らがストーキング"
+  ],
+  "body": [
+   "CNBC Techの報道によると、米EC大手のeBayと元幹部らが、ブロガーの嫌がらせおよびストーキング事件をめぐり5600万ドルを支払うことになりました。この事件は、イナ・シュタイナー氏とデヴィッド・シュタイナー氏が運営する人気Eコマースブログに関連しています。",
+   "同ブログは、eBayの経営陣に対して批判的な報道をおこなっていました。その記事内容に怒ったeBayの元幹部らが、ブログ運営者に対して嫌がらせやストーキング行為を行ったとされています。",
+   "今回の和解により、eBayおよび元幹部らは総額5600万ドルの支払いに同意しました。企業がメディアやブロガーの批判的報道に対して行った行為として、巨額の金銭的解決が図られる結果となりました。"
+  ],
+  "tags": [
+   "eBay",
+   "裁判",
+   "EC"
+  ],
+  "slug": "ebay-blogger-harassment-settlement",
+  "people": [
+   {
+    "name": "イナ・シュタイナー氏",
+    "bio": "人気Eコマースブログを夫のデヴィッド・シュタイナー氏と共に運営するブロガー。"
+   },
+   {
+    "name": "デヴィッド・シュタイナー氏",
+    "bio": "妻のイナ・シュタイナー氏と共にEコマースブログを運営するブロガー。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "eBay",
+    "type": "company",
+    "desc": "世界的なオンラインマーケットプレイスやオークションサイトを運営するアメリカの巨大EC企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "02:00",
+  "path": "/articles/20260729-ebay-blogger-harassment-settlement.html"
  }
 ]
