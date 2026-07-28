@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Apple、アプリ詐欺で180万ドル損失の訴訟</title>
+<link>https://ai-tech-times.web.app/articles/20260728-apple-sued-app-store-crypto-scam.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260728-apple-sued-app-store-crypto-scam.html</guid>
+<pubDate>Tue, 28 Jul 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AppleのApp Storeで偽の暗号資産ウォレットをダウンロードし、合計180万ドル以上を失ったとする3人のユーザーが同社を提訴しました。厳格な審査による安全性の主張が問われています。</description>
+</item>
+<item>
 <title>Gigazine：高齢者を狙うAI音声詐欺の恐怖</title>
 <link>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 27 Jul 2026 22:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>生成AIが普及する中、法務省の有識者検討会は、著名人の声にも「パブリシティ権」が認められるなどとした報告書案を大筋でとりまとめました。</description>
-</item>
-<item>
-<title>MIT Tech Review AIが解説する、自律型AIの企業環境</title>
-<link>https://ai-tech-times.web.app/articles/20260727-building-enterprise-environment-agentic-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260727-building-enterprise-environment-agentic-ai.html</guid>
-<pubDate>Mon, 27 Jul 2026 21:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>企業における自律型AIの導入は、単なる優れたチャットボットを超えたシステム基盤が求められています。MIT Tech Review AIが報じた、エージェントを実行する最適なプラットフォームの要件をお伝えします。</description>
 </item>
 </channel></rss>

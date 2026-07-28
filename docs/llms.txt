@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 09:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-28 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Apple、アプリ詐欺で180万ドル損失の訴訟](https://ai-tech-times.web.app/articles/20260728-apple-sued-app-store-crypto-scam.html) — 2026-07-28 10:00: AppleのApp Storeで偽の暗号資産ウォレットをダウンロードし、合計180万ドル以上を失ったとする3人のユーザーが同社を提訴しました。厳格な審査による安全性の主張が問われています。
 - [Gigazine：高齢者を狙うAI音声詐欺の恐怖](https://ai-tech-times.web.app/articles/20260728-ai-voice-fraud-gigazine.html) — 2026-07-28 09:01: AI技術の発展に伴い、音声クローンを用いた巧妙な詐欺が多発しています。エンジニアの指摘をもとに、最先端の詐欺の手口とその実態に迫ります。
 - [ラフ画を生成AIに使われ取引中止に、フリーランスが直面したトラブル](https://ai-tech-times.web.app/articles/20260728-freelance-rough-draft-ai-dispute.html) — 2026-07-28 09:01: クライアントに送ったラフ画を無断で生成AIに取り込まれ、取引を一方的に中止させられた事例が話題となっています。クリエイターが不利益を被らないための契約の重要性が浮き彫りになりました。
 - [GoogleのAI検索、43%の検索で表示され標準に](https://ai-tech-times.web.app/articles/20260728-googles-ai-search-default-data.html) — 2026-07-28 08:00: Googleの検索結果にAIが生成する回答が表示される「AI Overviews」が、全検索の43%に達していることが新しいデータで明らかになりました。
@@ -41,12 +42,11 @@
 - [日銀「利上げ前倒し」警戒で日経平均に6万円割れリスク](https://ai-tech-times.web.app/articles/20260728-boj-rate-hike-nikkei-risk.html) — 2026-07-28 05:00: 日本経済新聞の「ヴェリタスEYE」において、日銀による「利上げ前倒し」への警戒感が報じられました。市場では日経平均株価の6万円割れリスクも意識されています。
 - [青山商事やリケンNPR、TOPIX除外回避へ増配期待の10銘柄](https://ai-tech-times.web.app/articles/20260728-topix-dividend-stocks-update.html) — 2026-07-28 05:00: ダイヤモンド・ザイの報道によると、TOPIX除外回避に向けて増配が期待できる10銘柄が注目を集めています。配当利回り5％超ながら、さらなる株主還元に前向きな企業を取り上げています。
 - [韓国・ユン前大統領に有罪、約44億円返還へ](https://ai-tech-times.web.app/articles/20260728-yoon-seok-yeol-guilty-verdict.html) — 2026-07-28 04:00: 韓国のユン・ソンニョル前大統領が過去の大統領選挙を巡る虚偽発言で有罪判決を受けました。判決が確定すれば、所属政党は約44億円の返還を迫られる事態となります。
-- [プーチン大統領、北朝鮮の2万人追加派兵とウクライナ東部展開を議論か](https://ai-tech-times.web.app/articles/20260728-putin-north-korea-troop-deployment.html) — 2026-07-28 04:00: ロシアのプーチン大統領と北朝鮮の外相が7月にモスクワで会談し、北朝鮮がロシアへ2万人規模の兵士を追加派遣する可能性について議論していたことが、ロシアの外交筋の取材で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-07-28)
-- 1位: [Welcome to K.H.A.O.S | TV Royale](https://www.youtube.com/watch?v=XuovA-AdDP8)
+- 1位: [SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer "Tombstone" | Marvel Comics | Concept](https://www.youtube.com/watch?v=Vstf1W5mA7c)
 - 2位: [ILLIT (아일릿) 'I Got Your Back (Feat. JISOO, MOMOKA of HANA)' Official MV](https://www.youtube.com/watch?v=_Pk6xfju3l0)
-- 3位: [Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar](https://www.youtube.com/watch?v=hPZcZpNn3KY)
+- 3位: [1000 Players Build END Civilization in Hardcore Minecraft](https://www.youtube.com/watch?v=ynkhNRpQ9Xc)
 
 ## AI用語事典 (全349語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -54,8 +54,8 @@
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国の半導体メーカーで、特に画像処理半導体（GPU）やAI開発向けハードウェアで知られています。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
-- [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
+- [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドサービスAWSなども提供するアメリカの企業です。
