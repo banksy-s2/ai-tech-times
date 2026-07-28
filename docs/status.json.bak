@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-28 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-28 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "公正取引委員会、東海地方のマンション修繕20社あまりを立ち入り検査",
-   "path": "/articles/20260728-jftc-investigates-tokai-mansion-repairs.html",
-   "cat": "時事・世界"
+   "title": "日経平均は2884円安、半導体株中心に値下がり銘柄7割",
+   "path": "/articles/20260728-nikkei-average-plunges-2884-yen.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "ゼレンスキー大統領、ロシア50万人動員計画を明かす",
-   "path": "/articles/20260728-zelenskyy-russian-mobilization-plan.html",
-   "cat": "時事・世界"
+   "title": "ANAの300万円の壁と新運賃、株主批判を受けた背景",
+   "path": "/articles/20260728-ana-fare-system-criticism.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c"
  },
  "notes": [],
- "pv_today": 73,
+ "pv_today": 75,
  "gemini": {
-  "used": 105,
+  "used": 109,
   "limit": 200
  }
 }
