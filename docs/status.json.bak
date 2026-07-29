@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-29 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-29 19:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NVIDIA社員逮捕、日本経由の中国密輸事件で",
-   "path": "/articles/20260729-nvidia-employee-detained-china-smuggling.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Sakana AI「Fugu-Ultra」v1.1発表、Claude Code互換も",
-   "path": "/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html",
-   "cat": "日本のAI"
+   "title": "Moonshot AIが350億ドル評価で35億ドル調達、2026年にも香港上場へ",
+   "path": "/articles/20260729-moonshot-ai-35b-valuation-hk-ipo-2026.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [],
- "pv_today": 9,
+ "notes": [
+  "執筆失敗: Jim Cramer says Wall Street is fleeing t"
+ ],
+ "pv_today": 10,
  "gemini": {
-  "used": 138,
+  "used": 141,
   "limit": 200
  }
 }
