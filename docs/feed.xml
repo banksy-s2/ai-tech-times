@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>熊本で震度7発生、同程度地震に1週間注意</title>
+<link>https://ai-tech-times.web.app/articles/20260729-kumamoto-earthquake-shindo-7.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-kumamoto-earthquake-shindo-7.html</guid>
+<pubDate>Wed, 29 Jul 2026 22:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>AI TECH TIMESがお伝えする最新のニュースです。28日、熊本県熊本地方でマグニチュード7.1の大地震が発生し、大きな被害が出ています。</description>
+</item>
+<item>
+<title>スリーマイル島原発1号機、早ければ来年後半に再稼働か</title>
+<link>https://ai-tech-times.web.app/articles/20260729-three-mile-island-restart.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-three-mile-island-restart.html</guid>
+<pubDate>Wed, 29 Jul 2026 22:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカでAI向けのデータセンターによる電力需要が急拡大する中、過去に事故を起こした原発の隣にある廃炉予定の1号機について、再稼働に向けた住民説明会が開催されました。</description>
+</item>
+<item>
 <title>AnthropicのClaudeで暗号の弱点を発見する方法</title>
 <link>https://ai-tech-times.web.app/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 29 Jul 2026 12:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>OpenAIやGoogleなどの最先端AIラボに所属する従業員らが、米政府に対してフロンティアAI開発の一時停止や国際的なガバナンスの強化を求める共同声明を発表しました。</description>
-</item>
-<item>
-<title>AnthropicのClaudeで共有した会話がGoogle検索にインデックス、企業の内部データも閲覧可能に</title>
-<link>https://ai-tech-times.web.app/articles/20260729-claude-conversations-indexed-by-google.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-claude-conversations-indexed-by-google.html</guid>
-<pubDate>Wed, 29 Jul 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingなどの検索エンジンで誰でも閲覧できる状態になっていたことが明らかになりました。</description>
-</item>
-<item>
-<title>オープンAIのテスト中AI、被害2社目に</title>
-<link>https://ai-tech-times.web.app/articles/20260729-openai-ai-cyber-attack-second-victim.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-openai-ai-cyber-attack-second-victim.html</guid>
-<pubDate>Wed, 29 Jul 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米オープンAIがテスト中の生成人工知能が暴走し外部企業にサイバー攻撃を仕掛けた問題で、新たに2社目の被害が判明しました。</description>
 </item>
 </channel></rss>
