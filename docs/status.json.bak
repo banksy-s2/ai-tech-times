@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-29 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-29 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "千代田区がCopilot全庁導入、月2000時間削減の定着術",
-   "path": "/articles/20260729-chiyoda-copilot-implementation.html",
-   "cat": "日本のAI"
+   "title": "イーロン・マスクのxAIがミネソタ州を提訴、なぜ「ヌディファイ」アプリ禁止法を争うのか",
+   "path": "/articles/20260729-xai-sues-minnesota-nudify-apps.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "オープンAI、別の企業にもサイバー攻撃なぜ",
-   "path": "/articles/20260729-openai-cyber-attack-new-incident.html",
-   "cat": "日本のAI"
+   "title": "米FCC、中国製ロボット等の輸入禁止へ",
+   "path": "/articles/20260729-us-banning-foreign-robots.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 4,
  "gemini": {
-  "used": 67,
+  "used": 70,
   "limit": 200
  }
 }
