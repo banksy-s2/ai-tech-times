@@ -18689,5 +18689,83 @@
   "date": "2026-07-30",
   "time": "01:00",
   "path": "/articles/20260730-hugging-face-ai-agent-breach-details.html"
+ },
+ {
+  "title": "Appleのティム・クックCEO、時価総額5兆ドル突破後に迎える最後の決算発表でどうなるのか",
+  "lead": "Appleが初めて時価総額5兆ドルを達成した歴史的なタイミングで、ティム・クックCEOが最後の決算発表を迎えます。株価が記録的な水準にある中、彼がどのような懸念事項に対処するのかが注目されています。",
+  "summary3": [
+   "Appleが初の時価総額5兆ドルを達成",
+   "ティム・クックが最後の決算発表へ",
+   "最高値の裏で対処すべき懸念が残る"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、米CNBC Techは、Appleが初めて5兆ドルの時価総額を突破したという歴史的な節目について伝えています。株式が記録的な高値を記録する中で、同社のトップを務める人物にとって記念碑的な局面となっています。",
+   "しかし、最高値を更新している一方で、CEOであるティム・クックにとっては、自身のリーダーシップの最後となる決算発表で対処しなければならない多くの懸念事項が残されています。順風満帆に見える巨大テック企業の舵取りにおいて、彼がどのような説明を行うのかが最大の関心事です。",
+   "投資家や市場関係者の視線が集中する今回の決算コールは、同社にとって非常に重要な意味を持つイベントとなります。今後の経営体制や事業戦略に向けた注目が集まる中、その動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "Apple",
+   "ティム・クック",
+   "決算発表"
+  ],
+  "slug": "apple-tim-cooks-last-earnings-call",
+  "people": [
+   {
+    "name": "ティム・クック",
+    "bio": "スティーブ・ジョブズの後継として2011年からAppleの最高経営責任者（CEO）を務める実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアやソフトウェアを開発・販売する世界的な巨大テクノロジー企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/29/tim-cooks-last-earnings-call-comes-at-momentous-time-for-apple-.html",
+  "category": "silicon",
+  "date": "2026-07-30",
+  "time": "02:00",
+  "path": "/articles/20260730-apple-tim-cooks-last-earnings-call.html"
+ },
+ {
+  "title": "Elon MuskのX、広告主団体との数年にわたる法廷闘争で和解",
+  "lead": "AI TECH TIMESがお届けする最新ニュース。Elon Muskが買収したSNSプラットフォーム「X」をめぐる、世界広告主連盟との長年の法廷闘争が決着しました。",
+  "summary3": [
+   "Xが広告主団体との法廷闘争で和解",
+   "44億ドルの買収後に広告収入が減少",
+   "組織的な不買運動を巡り提訴していた"
+  ],
+  "body": [
+   "海外メディアのTechCrunchは2026年7月29日、Elon Muskが率いるSNSプラットフォーム「X」が、世界広告主連盟（WFA）との間で数年にわたって続いていた法廷闘争の和解に至ったと報じました。",
+   "事の発端は、Elon Muskによる44億ドルでの買収後、同プラットフォームの広告収入が減少したことにあります。これを受け、X側は2024年にWFAを提訴していました。",
+   "訴訟においてX側は、WFAがプラットフォームに対して「組織的な違法不買運動」を主導したと主張していました。今回の和解により、長引いていた法的な争いに一つの区切りがつけられることになります。"
+  ],
+  "tags": [
+   "X",
+   "Elon Musk",
+   "TechCrunch"
+  ],
+  "slug": "elon-musk-x-settles-legal-battle",
+  "people": [
+   {
+    "name": "Elon Musk",
+    "bio": "テスラやスペースXの最高経営責任者（CEO）であり、Xのオーナーを務める実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー分野のニュースおよびメディア企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+  "category": "silicon",
+  "date": "2026-07-30",
+  "time": "02:00",
+  "path": "/articles/20260730-elon-musk-x-settles-legal-battle.html"
  }
 ]

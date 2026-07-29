@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 00:05",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-30 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Cyera、AIエージェント保護へOasis Securityを10億ドルで買収",
-   "path": "/articles/20260730-cyera-acquires-oasis-security-1b.html",
-   "cat": "AI(海外)"
+   "title": "OpenAIやGoogle従業員1000人超、米政府にAI開発のペース調整を要求",
+   "path": "/articles/20260730-openai-google-employees-request-ai-slowdown.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAI暴走AI、ハッキング被害は他社にもなぜ拡大したのか",
-   "path": "/articles/20260730-openai-rogue-ai-agent-hacked-more-than-hugging-face.html",
-   "cat": "AI(海外)"
+   "title": "Hugging Faceが暴露、AIが1.7万回攻撃のなぜ",
+   "path": "/articles/20260730-hugging-face-ai-agent-breach-details.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 14,
   "limit": 200
  }
 }
