@@ -18958,5 +18958,450 @@
   "date": "2026-07-30",
   "time": "06:00",
   "path": "/articles/20260730-government-investment-namibia-rare-earth.html"
+ },
+ {
+  "title": "OpenAIグレッグ社長、専用デバイス開発を示唆",
+  "lead": "AI TECH TIMESがお届けする最新ニュースです。OpenAIのグレッグ・ブロックマン社長が、同社のAIモデルと対話するための独自のデバイス開発について言及しました。",
+  "summary3": [
+   "OpenAI社長が専用デバイス開発に言及",
+   "AIモデルと対話するファミリーを構想",
+   "2027年等のスマートスピーカー報道は未確認"
+  ],
+  "body": [
+   "「AI TECH TIMES」の編集部が取得した情報によると、AI開発企業OpenAIの社長を務めるグレッグ・ブロックマン氏は、YouTubeチャンネルのインタビューにおいて、AIモデルと対話するための「デバイスのファミリー」を構築中であると明らかにしました。",
+   "同氏はジャーナリストのジョアンナ・スターン氏のインタビューに応じ、AI技術を日常で活用するためのハードウェア開発が進んでいる現状を語りました。",
+   "一方で、2027年あるいはそれよりも早い時期にスマートスピーカーが発売されるのではないかと噂されている報道については、今回のインタビューの中で直接の確認や言及を避けています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ハードウェア",
+   "AIデバイス"
+  ],
+  "slug": "openai-president-device-family",
+  "people": [
+   {
+    "name": "グレッグ・ブロックマン氏",
+    "bio": "OpenAIの共同創業者であり、現在は同社の社長を務めるアメリカの実業家・技術者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ・サンフランシスコを拠点とする、対話型AIなどの研究開発を行う主要なAI企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+  "category": "ai",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-openai-president-device-family.html"
+ },
+ {
+  "title": "OpenAI、ChatGPT Workの5時間制限を明日再開",
+  "lead": "米OpenAI幹部が、デスクトップ向けサービスなどの利用制限枠を明日から再開すると発表しました。",
+  "summary3": [
+   "ChatGPT Workの制限再開を発表",
+   "Codexの5時間制限も明日から復活",
+   "トークン消費問題の改善に対応"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米OpenAI幹部のティボ・ソティオ氏は、デスクトップPC向けAIサービス「ChatGPT Work」とAIコーディングツール「Codex」について、明日から5時間ごとの利用制限枠を再開すると発表しました。",
+   "今回の再開は、GPT-5.6 Solにおける“トークン消費問題”を改善するための対応として実施されるものとなります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "Codex"
+  ],
+  "slug": "openai-resumes-chatgpt-work-limit",
+  "people": [
+   {
+    "name": "ティボ・ソティオ",
+    "bio": "米OpenAIの幹部を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国のAI開発企業で、対話型AIなどを手掛ける."
+   },
+   {
+    "name": "ChatGPT Work",
+    "type": "ai",
+    "desc": "デスクトップPC向けのAIサービス。"
+   },
+   {
+    "name": "Codex",
+    "type": "ai",
+    "desc": "AIコーディングツールとして提供されているシステム。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
+  "category": "ai_jp",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-openai-resumes-chatgpt-work-limit.html"
+ },
+ {
+  "title": "AmazonでiPhone Airが異例の叩き売り、その背景とは",
+  "lead": "はてなブックマークITで話題の「iPhone Air」が、アマゾンにて異例の大幅値引きで販売されています。なぜこのような叩き売り状態となったのでしょうか。",
+  "summary3": [
+   "AmazonでiPhone Airが大幅値引き",
+   "異例の叩き売りとなった背景を解説",
+   "石川温氏がスマホ業界の動向を分析"
+  ],
+  "body": [
+   "「AI TECH TIMES」のニュースをお届けします。はてなブックマークITにおいて、石川温氏によるコラム「スマホ業界 Watch」の記事が注目を集めています。",
+   "取り上げられているのは、アマゾンにおける「iPhone Air」の異例の大幅値引きです。これまででは考えられないような叩き売り状態となっており、その理由や背景に関心が集まっています。",
+   "スマートフォン市場において、こうした大規模な値引きが行われる背景にはどのような要因があるのでしょうか。詳細については元記事および今後の業界動向から目が離せません。"
+  ],
+  "tags": [
+   "iPhone",
+   "Amazon",
+   "スマホ業界"
+  ],
+  "slug": "iphone-air-amazon-discount",
+  "people": [
+   {
+    "name": "石川温",
+    "bio": "モバイル業界を中心に取材・執筆活動を行う著名な携帯電話ジャーナリスト。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "世界最大級の総合オンラインストアを運営するアメリカの巨大テクノロジー企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
+  "category": "ai_jp",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-iphone-air-amazon-discount.html"
+ },
+ {
+  "title": "クアルコム、9月1日から全プロセッサ値上げ",
+  "lead": "米クアルコムが9月1日より、すべてのプロセッサ製品の価格を引き上げることを明らかにしました。スマートフォンの購入価格に影響が及ぶ可能性があります。",
+  "summary3": [
+   "クアルコムが全プロセッサの値上げを発表",
+   "価格引き上げの時期は9月1日から開始",
+   "スマートフォンの価格高騰につながる懸念"
+  ],
+  "body": [
+   "ニュースサイト「The Verge」の報道によると、半導体大手のクアルコムは、9月1日から同社のすべてのプロセッサ製品の価格を引き上げる方針を明らかにしました。先週から値上げの噂が流れていましたが、今回正式に価格改定が行われることが確実となりました。",
+   "クアルコムのクリスティアーノ・アモンCEOが水曜日に「価格が上昇する」と明言したものであり、同社の製品全般にわたって値上げが実施されます。これにより、今後のスマートフォン端末の価格にもさらなる影響を与える可能性があります。",
+   "次世代のスマートフォン購入時に負担が増える要因として、RAMの高騰だけでなく、今回のプロセッサ価格の引き上げも大きな要素となります。消費者の財布事情に直結する今回の値上げの動向に、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "クアルコム",
+   "プロセッサ",
+   "価格改定"
+  ],
+  "slug": "qualcomm-processor-price-hike-september",
+  "people": [
+   {
+    "name": "クリスティアーノ・アモン",
+    "bio": "米半導体大手クアルコムの最高経営責任者（CEO）を務める実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "クアルコム",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、モバイル向けプロセッサなどで知られる世界的な半導体企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+  "category": "silicon",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-qualcomm-processor-price-hike-september.html"
+ },
+ {
+  "title": "MetaがQ2売上高608億ドルで28%増、好調なのに時間外で10%超下落の理由",
+  "lead": "Meta Platformsは2026年6月30日までの四半期決算を発表し、売上高が前年同期比28%増の608億ドルと大幅な増収を記録しました。しかし、市場の反応とは裏腹に時間外取引で株価は10%を超える下落を見せています。",
+  "summary3": [
+   "Q2売上高は608億ドルで前年同期比28%増",
+   "ファミリー月間・日次アクティブ利用者も増加",
+   "好決算発表後にもかかわらず時間外で10%超下落"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によると、Meta Platforms, Inc.は2026年6月30日までの四半期決算を発表しました。当期の売上高は前年同期比28%増の60.8億ドル（608億ドル）となり、コアビジネスにおけるAIの加速などが業績を牽引していることが示されています。",
+   "また、2026年6月平均におけるファミリー日次アクティブユーザー数（Family daily active people）は前年同期比3%増の3.6億（3.6B）に達しました。ユーザー基盤の拡大と収益力の双方が順調に成長していることがうかがえます。",
+   "しかし、好調な財務結果が示された一方で、市場の動向は複雑です。発表直後の時間外取引において、METAの株価は10%を超える下落を記録しました。今後の投資家の動向や事業戦略がどのように影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Meta",
+   "決算",
+   "AI",
+   "株式市場"
+  ],
+  "slug": "meta-q2-2026-earnings-and-stock-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260729/p36#a260729p36",
+  "category": "silicon",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-meta-q2-2026-earnings-and-stock-drop.html"
+ },
+ {
+  "title": "大谷翔平の元通訳・水原一平受刑者が高校も未卒業だった",
+  "lead": "ドジャースの大谷翔平選手の口座から約1700万ドルを盗んだとして解雇された水原一平受刑者をめぐり、新たな事実が報じられました。",
+  "summary3": [
+   "水原一平受刑者に新たな経歴詐称",
+   "大学だけでなく高校も未卒業だった",
+   "大谷や球団が気づかなかった謎"
+  ],
+  "body": [
+   "ドジャース・大谷翔平選手の銀行口座から約1700万ドルを盗んだとして、元専属通訳である水原一平受刑者が解雇されたのは2024年3月のことでした。この事件をめぐり、さらなる経歴の問題が浮上しています。",
+   "報じられたところによると、水原一平受刑者は「大学詐称」にとどまらず、実際には高校も卒業していなかったことが明らかになりました。通っていたとされる高校のホームページからは「卒業者紹介」の欄から名前が削除される事態となっています。",
+   "この状況を受け、大谷翔平選手や所属していたエンゼルスは、なぜこうした経歴の矛盾に気づくことができなかったのかという謎がさらに深まることとなりました。"
+  ],
+  "tags": [
+   "水原一平",
+   "大谷翔平",
+   "エンゼルス"
+  ],
+  "slug": "mizuhara-ippei-high-school-dropout",
+  "people": [
+   {
+    "name": "大谷翔平",
+    "bio": "ロサンゼルス・ドジャースに所属する日本人のプロ野球選手で、投打の二刀流として世界的に活躍している。"
+   },
+   {
+    "name": "水原一平",
+    "bio": "大谷翔平選手の元専属通訳で、口座からの不正送金問題により解雇され、のちに受刑者となった。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ドジャース",
+    "type": "company",
+    "desc": "アメリカ・カリフォルニア州ロサンゼルスを本拠地とするメジャーリーグベースボールの球団。"
+   },
+   {
+    "name": "エンゼルス",
+    "type": "company",
+    "desc": "アメリカ・カリフォルニア州アナハイムを本拠地とするメジャーリーグベースボールの球団。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.news-postseven.com/archives/20260729_2123472.html?DETAIL",
+  "category": "influencer",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-mizuhara-ippei-high-school-dropout.html"
+ },
+ {
+  "title": "高市首相、食料品の消費税率1％に引き下げ方針へ",
+  "lead": "高市総理大臣は、食料品の消費税率を来年4月から2年間、1％に引き下げる方針を30日に明らかにするとみられています。",
+  "summary3": [
+   "食料品の消費税率を1％に引き下げ方針",
+   "来年4月から2年間の期間限定で実施へ",
+   "自民党の臨時役員会で意見集約を要請"
+  ],
+  "body": [
+   "食料品の消費税減税をめぐり、高市総理大臣は来年4月から2年間、税率を1％に引き下げる方針を30日明らかにする見通しであることが分かりました。",
+   "今回の方針表明を受けて、党内の意見集約を図るため、自民党の臨時役員会に対して協力を求めることにしています。",
+   "今後の税率引き下げに向けた党内の議論や、具体的な実施に向けた動きに注目が集まっています。"
+  ],
+  "tags": [
+   "高市首相",
+   "消費税",
+   "食料品"
+  ],
+  "slug": "takaichi-food-consumption-tax-reduction",
+  "people": [
+   {
+    "name": "高市総理大臣",
+    "bio": "日本の内閣総理大臣を務める政治家で、党内の要職を歴任してきた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "自民党",
+    "type": "company",
+    "desc": "日本の中道保守を掲げる政党で、多くの国会議員が所属している与党。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015190331000",
+  "category": "world",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-takaichi-food-consumption-tax-reduction.html"
+ },
+ {
+  "title": "熊本県氷川町などで死者12人、心肺停止6人に",
+  "lead": "AI TECH TIMESの報道によれば、29日午後7時の時点で、地震による死者は12人、心肺停止の状態が6人となりました。",
+  "summary3": [
+   "地震による死者は12人にのぼる",
+   "心肺停止の状態の人は6人",
+   "けが人は64人で安否不明者も"
+  ],
+  "body": [
+   "熊本県によりますと、29日午後7時の時点で、今回の地震による死者が12人、心肺停止の状態が6人で、けが人は64人にのぼっています。",
+   "また、安否不明となっている人が少なくとも4人いるということです。被害が確認されている地域では、救助活動や状況の把握が続けられています。",
+   "地震の規模を示す震度は7となっており、各地で大きな被害が発生しています。今後の情報に十分な注意が必要です。"
+  ],
+  "tags": [
+   "熊本県",
+   "地震",
+   "被害情報"
+  ],
+  "slug": "kumamoto-earthquake-damage-update",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015190301000",
+  "category": "world",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-kumamoto-earthquake-damage-update.html"
+ },
+ {
+  "title": "日経平均930円安、AI銘柄に広がる半値割れ",
+  "lead": "日本経済新聞の報道によると、株式市場で日経平均株価が930円安の大幅な下落を記録しました。市場の注目を集めてきたAI関連銘柄においても、相次いで「半値割れ」が発生する展開となっています。",
+  "summary3": [
+   "日経平均株価が930円安を記録しました",
+   "AI関連銘柄に相次ぎ半値割れが発生",
+   "日本経済新聞が市場の動向を報じました"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が日本経済新聞の報道に基づいてお伝えします。株式市場において、日経平均株価が930円安となる大幅な下落を記録しました。市場全体に売りが広がる展開となっています。",
+   "今回の相場の下落局面では、これまで市場を牽引してきた主力のAI銘柄に対して、高値から「半値割れ」となる動きが相次いで発生しています。投資家のリスク回避姿勢が強まる形となりました。",
+   "株式市場の動向や個別銘柄の価格変動については、今後の経済情勢や企業業績に関する発表を引き続き注視していく必要があります。"
+  ],
+  "tags": [
+   "日経平均",
+   "AI銘柄",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-falls-ai-stocks",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kZlZhMEJlZXF1UlJiOXBkSWM2ZVN3aExoVXQwbzhqanlzbXpsX0REM2xYdXp0SHB3TjlfeG8wWlFVVFVkQnFlREg2amdDTWpXeDd4allFcUYxOXlSOF9aNjg0bUVBT0lJYlRiaQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-nikkei-average-falls-ai-stocks.html"
+ },
+ {
+  "title": "キーエンス株価+9%上昇、営業利益44.7%増の背景",
+  "lead": "キーエンスの株価が前日比でプラス9%の上昇を記録しました。2027年3月期第1四半期における大幅な増益が市場で好感されています。",
+  "summary3": [
+   "キーエンスの株価が+9%上昇",
+   "2027年3月期第1四半期の決算を発表",
+   "営業利益は44.7%増を記録し好感"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、キーエンスの株価が市場においてプラス9%の上昇を見せました。この株価上昇の主な要因として、発表された2027年3月期第1四半期の好決算が挙げられています。",
+   "同四半期における営業利益は前年同期比で44.7%増という高い伸びを記録しました。この大幅な増益が投資家や市場関係者から好意的に受け止められ、株価を押し上げる結果となっています。",
+   "企業の業績と実際の株価の動きを示す重要な経済ニュースとして、今回の決算内容と市場の反応が注目を集めています。"
+  ],
+  "tags": [
+   "キーエンス",
+   "株価",
+   "決算"
+  ],
+  "slug": "keyence-stock-price-rises-9-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "キーエンス",
+    "type": "company",
+    "desc": "大阪府に本社を置く、自動制御機器や測定器などの開発・製造を手がける大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW5VSkYxajB3MHBUMXliTTNycnN6aGV0dnRYUUotS0RDMEZQblNiOHJWRDhEZVM1dUp1RlFOazFGVUVWYy1EUFlwS2k2amlfcUhZTHJCXzlFU2U3WURYS1duMm1EbV83ZGlvSUhjQkdpRXBjdjFxOHIyRndoZFZHYVFIQlFiMTg?oc=5",
+  "category": "stock",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-keyence-stock-price-rises-9-percent.html"
+ },
+ {
+  "title": "アドバンテスト、AI推論需要で通期予想を上方修正",
+  "lead": "アドバンテストはFY2026 Q1決算説明会を開催し、AI推論需要の急拡大に伴うテスター市場の成長構造の変革を背景に通期予想を上方修正しました。",
+  "summary3": [
+   "アドバンテストが決算説明会を開催",
+   "AI推論需要で市場の成長構造が変革",
+   "通期予想を上方修正し成長を加速"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回の企業ニュースでは、アドバンテストによるFY2026 Q1決算説明会の内容をお伝えします。同社の発表によると、AI推論需要の急拡大がテスター市場の成長構造を変革させていることが明らかになりました。",
+   "この市場環境の変化を受け、アドバンテストは通期予想を上方修正する決定を下しました。AI技術の普及に伴う半導体テスト需要の高まりが、企業の業績予想見直しに直結している形です。",
+   "今後もAI分野の発展が関連市場に与える影響や、同社の動向から目が離せない状況が続きます。"
+  ],
+  "tags": [
+   "アドバンテスト",
+   "決算説明会",
+   "AI推論需要"
+  ],
+  "slug": "advantest-fy2026-q1-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドバンテスト",
+    "type": "company",
+    "desc": "半導体試験装置（テスター）の製造を手掛ける日本の大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tbHlzTjVtOHlOV1hGblRJNV9yclh5YlktcnUzTTd1SWxHMV9CNjlXSWRTbkEwTTVJcHVKQWwxYTVPZ1N0b3lmUEFnUEVUclBlS1lLNDFBTVp5NjBNaHZr?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-advantest-fy2026-q1-earnings.html"
+ },
+ {
+  "title": "ブックオフ、経常益47.2億円で2期連続最高なぜか",
+  "lead": "ブックオフグループホールディングスがFY2026の決算説明会を実施し、経常利益が過去最高を更新しました。",
+  "summary3": [
+   "経常益47.2億円で2期連続最高",
+   "トレカ売上が書籍を超える",
+   "50億円目標を1年前倒しへ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。ブックオフグループホールディングスは、FY2026の決算説明会を開催し、その好調な業績を発表しました。",
+   "今回の発表によると、経常利益は47.2億円を記録し、2期連続で過去最高を更新する結果となりました。事業の内訳では、トレカ（トレーディングカード）の売上が書籍を超えるという大きな構造変化が見られています。",
+   "この好調を背景に、50億円の利益目標達成を1年前倒しする見込みであることが明らかにされました。今後のさらなる事業展開にも注目が集まります。"
+  ],
+  "tags": [
+   "ブックオフ",
+   "決算",
+   "小売"
+  ],
+  "slug": "bookoff-fy2026-financial-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "ブックオフグループホールディングス",
+    "type": "company",
+    "desc": "「BOOKOFF」などのリユースショップチェーンを統括する日本の持株会社。中古本やトレカなどを広く扱う。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13YWNEMlpFYjFSQmF6RDhFRW10VG14d2hPS1BTWUU1OG5XU3R0NWpCeFZQRUllejgzT1RNbWF4dm5JT0w0UmlORHF1OTh0cW1KVFI5OTJMWXVSczFKNGhz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-30",
+  "time": "07:02",
+  "path": "/articles/20260730-bookoff-fy2026-financial-results.html"
  }
 ]

@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-30 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均が930円安、SK好決算でもAI過剰投資の懸念はなぜ根強いのか",
-   "path": "/articles/20260730-nikkei-average-drops-930-yen-ai-investment-concerns.html",
-   "cat": "株式投資(日本)"
+   "title": "6301.T Q1売上高1兆4,031億円で過去最高も利益率低下に懸念",
+   "path": "/articles/20260730-6301-t-fy2026-q1-earnings.html",
+   "cat": "日本企業"
   },
   {
-   "title": "FRB政策金利5会合連続据え置き、その狙いは",
-   "path": "/articles/20260730-frb-interest-rate-hold-5-consecutive.html",
-   "cat": "株式投資(日本)"
+   "title": "政府、ナミビアレアアース開発に最大50億円出資へ",
+   "path": "/articles/20260730-government-investment-namibia-rare-earth.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [],
- "pv_today": 33,
+ "pv_today": 41,
  "gemini": {
-  "used": 30,
+  "used": 35,
   "limit": 200
  }
 }
