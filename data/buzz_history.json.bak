@@ -735,7 +735,7 @@
    "id": "zhApeaHMvfs",
    "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
    "channel": "Sony Pictures Entertainment",
-   "views": 4146052,
+   "views": 4246453,
    "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
    "thumb": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
    "regions": [
@@ -750,7 +750,7 @@
    "id": "gnm4HgIAVmU",
    "title": "The Thomas Crown Affair | Official Teaser Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 317739,
+   "views": 801099,
    "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU",
    "thumb": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
    "regions": [
@@ -765,7 +765,7 @@
    "id": "VoFFuF4zSjY",
    "title": "Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli",
    "channel": "daydream.",
-   "views": 227160,
+   "views": 249469,
    "url": "https://www.youtube.com/watch?v=VoFFuF4zSjY",
    "thumb": "https://i.ytimg.com/vi/VoFFuF4zSjY/hqdefault.jpg",
    "regions": [
@@ -780,7 +780,7 @@
    "id": "2fJN18HYPKc",
    "title": "Alphaville - Forever Young (Lyrics)",
    "channel": "Groovora",
-   "views": 186403,
+   "views": 205175,
    "url": "https://www.youtube.com/watch?v=2fJN18HYPKc",
    "thumb": "https://i.ytimg.com/vi/2fJN18HYPKc/hqdefault.jpg",
    "regions": [
@@ -792,24 +792,25 @@
   },
   {
    "rank": 5,
-   "id": "HnWvg90lQt8",
-   "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
-   "channel": "Paramount Pictures",
-   "views": 6527414,
-   "url": "https://www.youtube.com/watch?v=HnWvg90lQt8",
-   "thumb": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
+   "id": "W1z9DUiFi0A",
+   "title": "Path to Doomsday - Avengers: Age of Ultron | New PvE Mode Trailer | Marvel Rivals",
+   "channel": "Marvel Rivals",
+   "views": 86541,
+   "url": "https://www.youtube.com/watch?v=W1z9DUiFi0A",
+   "thumb": "https://i.ytimg.com/vi/W1z9DUiFi0A/hqdefault.jpg",
    "regions": [
     "US",
-    "GB"
+    "GB",
+    "BR"
    ],
-   "comment": "2027年公開予定の映画の公式予告編のようです"
+   "comment": "『Marvel Rivals』の新PvEモード「Path to Doomsday」の予告編のようですね。"
   },
   {
    "rank": 6,
    "id": "GACU1N9hg5o",
    "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
    "channel": "Apple TV",
-   "views": 1909976,
+   "views": 1950081,
    "url": "https://www.youtube.com/watch?v=GACU1N9hg5o",
    "thumb": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
    "regions": [
@@ -820,38 +821,10 @@
   },
   {
    "rank": 7,
-   "id": "gH3fL9cMvuM",
-   "title": "BELOW | Official Teaser | Netflix",
-   "channel": "Netflix",
-   "views": 841979,
-   "url": "https://www.youtube.com/watch?v=gH3fL9cMvuM",
-   "thumb": "https://i.ytimg.com/vi/gH3fL9cMvuM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Netflixの新作公式ティーザー映像のようですね。(23文字)"
-  },
-  {
-   "rank": 8,
-   "id": "FxGAZcX8qiQ",
-   "title": "Starting Over Using ONLY ADMIN TREADMILL In Keyboard Escape..",
-   "channel": "Foltyn",
-   "views": 744187,
-   "url": "https://www.youtube.com/watch?v=FxGAZcX8qiQ",
-   "thumb": "https://i.ytimg.com/vi/FxGAZcX8qiQ/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ゲーム内で特定器具のみを使い最初から挑む動画のようです。"
-  },
-  {
-   "rank": 9,
    "id": "KtH3MqUmnws",
    "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
    "channel": "Fortnite",
-   "views": 704877,
+   "views": 716169,
    "url": "https://www.youtube.com/watch?v=KtH3MqUmnws",
    "thumb": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
    "regions": [
@@ -861,11 +834,11 @@
    "comment": "フォートナイトにスパイダーマンが復活する特別映像のようです"
   },
   {
-   "rank": 10,
+   "rank": 8,
    "id": "p67W66bny94",
    "title": "ATEEZ(에이티즈) - 'BAD (Japanese Ver.)' Official MV",
    "channel": "KQ ENTERTAINMENT",
-   "views": 694216,
+   "views": 705976,
    "url": "https://www.youtube.com/watch?v=p67W66bny94",
    "thumb": "https://i.ytimg.com/vi/p67W66bny94/hqdefault.jpg",
    "regions": [
@@ -873,6 +846,34 @@
     "KR"
    ],
    "comment": "ATEEZの「BAD (Japanese Ver.)」公式MV (25字)"
+  },
+  {
+   "rank": 9,
+   "id": "n4P9ymOBtt0",
+   "title": "Don’t Let The Skinwalkers In… [Shift At Midnight]",
+   "channel": "Joe Bart Games",
+   "views": 668361,
+   "url": "https://www.youtube.com/watch?v=n4P9ymOBtt0",
+   "thumb": "https://i.ytimg.com/vi/n4P9ymOBtt0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "深夜のシフト勤務で奇妙な恐怖に直面するゲーム実況のようです"
+  },
+  {
+   "rank": 10,
+   "id": "9ji4JnBsS-Y",
+   "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
+   "channel": "Electric Callboy",
+   "views": 597673,
+   "url": "https://www.youtube.com/watch?v=9ji4JnBsS-Y",
+   "thumb": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Electric Callboyの新曲公式ミュージックビデオのようです"
   }
  ]
 }

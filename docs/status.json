@@ -1,17 +1,26 @@
 {
- "updated": "2026-07-30 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-07-30 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "イオンモール熊本で爆発、3人死亡1人心肺停止なぜ起きのか",
+   "path": "/articles/20260730-aeon-mall-kumamoto-explosion.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "サウジアラビア、イラクの親イラン派武装勢力を空爆",
+   "path": "/articles/20260730-saudi-arabia-strikes-iran-backed-militias.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: ヒカル「いい大学を出ても道徳学ばないと」SNSバトルで“因縁”の東大YouTub"
- ],
- "pv_today": 11,
+ "notes": [],
+ "pv_today": 29,
  "gemini": {
-  "used": 21,
+  "used": 25,
   "limit": 200
  }
 }
