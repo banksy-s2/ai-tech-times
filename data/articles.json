@@ -17917,5 +17917,73 @@
   "date": "2026-07-29",
   "time": "17:05",
   "path": "/articles/20260729-genda-sbihd-capital-business-alliance.html"
+ },
+ {
+  "title": "NVIDIA社員逮捕、日本経由の中国密輸事件で",
+  "lead": "台湾の検察によるNVIDIA製GPUの密輸事件捜査で、NVIDIAの社員が逮捕されたことが明らかになりました。AI開発に不可欠な半導体の流通管理を揺るがす事態となっています。",
+  "summary3": [
+   "台湾検察がGPU密輸事件を捜査",
+   "NVIDIA社員の逮捕が判明",
+   "日本経由で中国へ運ぼうとした"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、台湾の検察は2026年5月に「NVIDIA製GPUを日本経由で中国に密輸しようとした」として3人を逮捕しました。この事件に関連して、新たにNVIDIAの社員が逮捕されたことが報じられています。",
+   "NVIDIA製GPUは最先端のAI開発において極めて重要な役割を果たしており、その流通や輸出管理については世界各国で厳しく監視されています。今回、日本を経由した密輸ルートが存在したこと、そして自社社員の関与が浮上したことで、同社の管理体制に注目が集まっています。",
+   "事件の背景や詳細な手口については今後の捜査の進展が待たれる状況です。AI半導体の国際的な供給網とセキュリティ対策において、今回の逮捕劇がどのような影響を与えるのか、引き続き動向を注視していく必要があります。"
+  ],
+  "tags": [
+   "NVIDIA",
+   "GPU",
+   "半導体密輸"
+  ],
+  "slug": "nvidia-employee-detained-china-smuggling",
+  "people": [],
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、AI開発などに欠かせない高性能GPUで世界をリードする半導体メーカー。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260729-nvidia-employee-detained/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "18:00",
+  "path": "/articles/20260729-nvidia-employee-detained-china-smuggling.html"
+ },
+ {
+  "title": "Sakana AI「Fugu-Ultra」v1.1発表、Claude Code互換も",
+  "lead": "Sakana AIは、「Fable 5」越えを達成した新モデル「Fugu-Ultra」v1.1を発表しました。「Claude Code」互換エンドポイントの実装も含まれています。",
+  "summary3": [
+   "Sakana AIがFugu-Ultra v1.1を発表",
+   "Fable 5越えの性能を達成",
+   "Claude Code互換エンドポイントを実装"
+  ],
+  "body": [
+   "ニュースサイト「はてなブックマークIT」によると、Sakana AIは、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表しました。",
+   "今回の発表では、新モデルの性能向上のほか、「Claude Code」互換エンドポイントも実装されていることが明らかにされています。",
+   "今後の開発や利用において、これらの新機能や互換性への対応がどのように影響していくのか、技術者や関連企業の間で注目を集めることになりそうです。"
+  ],
+  "tags": [
+   "Sakana AI",
+   "Fugu-Ultra",
+   "Claude Code"
+  ],
+  "slug": "sakana-ai-fugu-ultra-v1-1-announced",
+  "people": [],
+  "terms": [
+   {
+    "name": "Sakana AI",
+    "type": "company",
+    "desc": "日本を拠点に独自のAIモデル開発や研究を進める注目のAIスタートアップ企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "18:00",
+  "path": "/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html"
  }
 ]

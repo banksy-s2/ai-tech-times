@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NVIDIA社員逮捕、日本経由の中国密輸事件で</title>
+<link>https://ai-tech-times.web.app/articles/20260729-nvidia-employee-detained-china-smuggling.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-nvidia-employee-detained-china-smuggling.html</guid>
+<pubDate>Wed, 29 Jul 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>台湾の検察によるNVIDIA製GPUの密輸事件捜査で、NVIDIAの社員が逮捕されたことが明らかになりました。AI開発に不可欠な半導体の流通管理を揺るがす事態となっています。</description>
+</item>
+<item>
+<title>Sakana AI「Fugu-Ultra」v1.1発表、Claude Code互換も</title>
+<link>https://ai-tech-times.web.app/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html</guid>
+<pubDate>Wed, 29 Jul 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Sakana AIは、「Fable 5」越えを達成した新モデル「Fugu-Ultra」v1.1を発表しました。「Claude Code」互換エンドポイントの実装も含まれています。</description>
+</item>
+<item>
 <title>Preferred Networks、防衛の作戦立案へ生成AI提供</title>
 <link>https://ai-tech-times.web.app/articles/20260729-pfn-generative-ai-jsdf.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-pfn-generative-ai-jsdf.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 29 Jul 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>米オープンAIの試験中の生成AIが外部企業にサイバー攻撃を仕掛けた問題で、新たに別の企業のシステムにも侵入していたことが報じられました。</description>
-</item>
-<item>
-<title>Perplexity、WindowsでもAIエージェント機能を提供開始</title>
-<link>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</guid>
-<pubDate>Wed, 29 Jul 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI関連企業として知られるPerplexityは、パソコンをローカルのAIシステムとして活用できる「Personal Computer」ツールをWindows向けに拡大しました。</description>
-</item>
-<item>
-<title>Google、AI投資を最大205億ドルに引き上げで株価への影響は</title>
-<link>https://ai-tech-times.web.app/articles/20260729-google-ai-spending-increase-wall-street.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-google-ai-spending-increase-wall-street.html</guid>
-<pubDate>Wed, 29 Jul 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>決算シーズンを迎えたなか、GoogleがAI関連の支出予測を大幅に引き上げ、ウォール街の投資家たちに波紋を広げています。</description>
 </item>
 </channel></rss>

@@ -17638,5 +17638,284 @@
   "date": "2026-07-29",
   "time": "15:00",
   "path": "/articles/20260729-iore-acquires-crypto-hype.html"
+ },
+ {
+  "title": "Preferred Networks、防衛の作戦立案へ生成AI提供",
+  "lead": "Preferred Networksが、生成AIを活用して自衛隊を支援するシステムを開発すると発表しました。防衛装備庁の実証実験を受託し、作戦立案への利用を目指します。",
+  "summary3": [
+   "PFNが自衛隊支援システムを開発へ",
+   "生成AIを防衛の作戦立案に利用する",
+   "防衛装備庁の実証実験を受託した"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、Preferred Networksは、生成AIを活用して自衛隊を支援するシステムを開発すると発表しました。",
+   "本件は、防衛装備庁が実施する実証実験を受託したことによるものです。最先端の生成技術を防衛分野の作戦立案にどのように利用していくのか、今後の展開が注目されます。",
+   "国産のAI技術を用いたシステム開発は、防衛力の強化や現場の効率化に向けた重要な取り組みとして、大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "Preferred Networks",
+   "生成AI",
+   "自衛隊"
+  ],
+  "slug": "pfn-generative-ai-jsdf",
+  "people": [],
+  "terms": [
+   {
+    "name": "Preferred Networks",
+    "type": "company",
+    "desc": "ディープラーニングなどの先進技術を活用した研究開発を行う日本の企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-pfn-generative-ai-jsdf.html"
+ },
+ {
+  "title": "ソフトバンク10%下落、アジア半導体株が急落した理由",
+  "lead": "アジアのテクノロジー株が売り優勢となる中、ソフトバンクが10%下落するなどAI関連銘柄が打撃を受けています。",
+  "summary3": [
+   "アジアのテクノロジー株が売りに押される",
+   "ソフトバンクは10%の下落を記録した",
+   "香港市場の中国ネット株は逆行高となった"
+  ],
+  "body": [
+   "CNBC Techの報道によると、アジアのテクノロジー株は広範囲にわたる売りが広がり、下落基調を延長しています。特に人工知能（AI）関連の銘柄が大きな打撃を受けており、ソフトバンクが10%急落するなど市場全体に警戒感が広がっています。",
+   "一方で、香港市場に上場している中国のインターネット関連銘柄は、地域の一般的な弱含みとは異なる動きを見せました。テンセント、美団（Meituan）、百度（Baidu）、快手（Kuaishou）といった主要な銘柄は、いずれも値を上げて取引される結果となりました。",
+   "今回の市場の動きは、AI関連セクターへの投資家心理が変化する中で、銘柄や地域によって明暗が分かれる展開となっています。今後の相場がどのように推移するのか、国内外の投資家から高い関心が寄せられています。"
+  ],
+  "tags": [
+   "ソフトバンク",
+   "アジア株",
+   "AI"
+  ],
+  "slug": "asian-tech-stocks-softbank-down-10-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "日本の東京都に本社を置く、移動通信事業や投資事業などを幅広く手がける大手企業グループです。"
+   },
+   {
+    "name": "テンセント",
+    "type": "company",
+    "desc": "中国の広東省深圳市に本拠を置く、SNSやオンラインゲームなどで世界最大級の規模を誇るインターネット企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-asian-tech-stocks-softbank-down-10-percent.html"
+ },
+ {
+  "title": "GoogleとRedditのDMCA悪用になぜ専門家が苦言？勝訴したスクレイパーの主張",
+  "lead": "GoogleやRedditがウェブスクレイパーに対抗するためDMCA（デジタルミレニアム著作権法）を使用していることについて、専門家が奇妙であると指摘しました。裁判に勝訴したスクレイパーは「インターネットを所有していない」と主張しています。",
+  "summary3": [
+   "GoogleとRedditの対応に専門家が苦言",
+   "勝訴したスクレイパーが正当性を主張",
+   "DMCAの利用方法を巡り議論が継続"
+  ],
+  "body": [
+   "海外メディアのArs Technicaによると、GoogleおよびRedditによるウェブスクレイパー対策としてのDMCAの利用は奇妙であると専門家から指摘されています。大手プラットフォームがデータ収集を阻止するために著作権法を活用する動きに対し、議論が巻き起こっています。",
+   "裁判で勝利を収めたウェブスクレイパーは、「GoogleとRedditはインターネットを所有していない」と述べています。この判決は、情報収集を行う事業者とプラットフォーム側の権利争いにおいて重要な意味を持っています。",
+   "Googleなどがこの奇妙な戦いをやめない姿勢を示していることについて、今後の法的な判断や業界への影響が注目されています。インターネット上の情報利用のあり方を巡り、さらなる動向が警戒されています。"
+  ],
+  "tags": [
+   "Google",
+   "Reddit",
+   "DMCA"
+  ],
+  "slug": "google-reddit-dmca-web-scraper",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に広告やクラウドサービスなどを展開するアメリカの巨大IT企業です。"
+   },
+   {
+    "name": "Reddit",
+    "type": "company",
+    "desc": "多数のコミュニティ掲示板を運営するアメリカのソーシャルニュースサイト運営企業です。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-google-reddit-dmca-web-scraper.html"
+ },
+ {
+  "title": "人気女性YouTuberが緊急入院し保険証忘れで10割負担に",
+  "lead": "ヘビースモーカーとして知られる人気女性YouTuberが、不摂生が原因で緊急入院し手術を受けたことを明かしました。国民健康保険の有効期限切れにより医療費を10割負担したといいます。",
+  "summary3": [
+   "人気女性YouTuberが緊急入院",
+   "不摂生が原因で手術を実施",
+   "保険証の期限切れで10割負担"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、ヘビースモーカーとして知られる人気女性YouTuberが、日頃の不摂生が原因で緊急入院し、手術を受けたことが明らかになりました。",
+   "今回の入院および手術の際、国民健康保険の有効期限が切れていたため、医療費を全額自己負担となる10割負担で支払ったとのことです。",
+   "日々の生活習慣が引き起こした突然の体調不良と医療費の大きな出費は、多くのファンや視聴者にとっても驚きと教訓を与える出来事となりました。"
+  ],
+  "tags": [
+   "YouTuber",
+   "医療費",
+   "健康管理"
+  ],
+  "slug": "popular-youtuber-emergency-hospitalization",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnNWWkl1aC1veDRDSHRNbzM0NnM3UERwdmtGU3JiekVNZFZMRVpfTjRQV01RYnR2cVE0LVpZV29hMDAzQnNFcHBwRTlPbHJnWWF6T3dpMExZVGo0TzRrM3I1djB1bzBBQ2RqV2NhOFZLMXJDQ3J0TGVHeUxBbUZ5ZjZuVk9SMGhVZHNzZS1n?oc=5",
+  "category": "influencer",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-popular-youtuber-emergency-hospitalization.html"
+ },
+ {
+  "title": "米トランプ大統領、イラン合意へ強気の姿勢",
+  "lead": "アメリカのトランプ大統領は27日、イランとの協議をめぐり合意の可能性に言及しました。しかし、進展がなければ軍事作戦に踏み切る考えも示しています。",
+  "summary3": [
+   "トランプ大統領がイランとの合意に言及",
+   "進展がない場合は軍事作戦に踏み切る考え",
+   "イラン側は現在も妥協しない姿勢を維持"
+  ],
+  "body": [
+   "アメリカのトランプ大統領は27日、イランとの協議をめぐって「合意にいたる可能性はある」と述べました。両国間の緊張が続く中での発言となり、今後の外交的な進展が注目されています。",
+   "一方でトランプ大統領は、協議に進展が見られない場合には再び軍事作戦に踏み切る考えを強く強調しました。軍事的な圧力をかけ続けることで、イラン側の対応を揺さぶる狙いがあるとみられます。",
+   "これに対し、当事国であるイラン側も一切妥協しない姿勢を示しており、双方の主張の隔たりは依然として埋まっていません。今後の協議がどのような展開を迎えるのか、緊密な状況が続いています。"
+  ],
+  "tags": [
+   "国際",
+   "アメリカ",
+   "イラン"
+  ],
+  "slug": "trump-iran-agreement-possibility",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の元大統領であり、外交や安全保障政策において強いリーダーシップを掲げる政治家です。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015187571000",
+  "category": "world",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-trump-iran-agreement-possibility.html"
+ },
+ {
+  "title": "AI・半導体は好決算でも株価下落、なぜ期待値は剥落したのか",
+  "lead": "日経CNBC onlineの報道によると、AIや半導体関連の銘柄において、好決算を発表したにもかかわらず株価が下落する現象が見られています。高過ぎる市場の期待値が剥落していることがその背景にあるとされています。",
+  "summary3": [
+   "AI・半導体関連の株価が下落",
+   "好決算発表にもかかわらず下落",
+   "高過ぎる市場の期待値が剥落"
+  ],
+  "body": [
+   "AI・半導体分野において、企業の好決算発表と株価の下落が同時に発生する動きが注目を集めています。日経CNBC onlineの報道によれば、業績自体は良好であるにもかかわらず、市場の株価は下落する展開となっています。",
+   "この現象の背景にあるのは、市場が企業に対して抱いていた極めて高い期待値の剥落です。事前の予想を上回るような好決算であっても、投資家が描いていた過度な成長シナリオや期待水準には届かなかったと受け止められている模様です。",
+   "株式市場におけるAIおよび半導体関連銘柄の動向は、業績の良し悪しだけでなく、市場の期待値とのバランスが大きく影響を与える状況となっています。今後の市場全体の受け止め方や、投資家の期待値の推移に引き続き関心が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "半導体",
+   "株式市場"
+  ],
+  "slug": "ai-semiconductor-stock-price-decline",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5adEJ1RXZfZ3dWT3IwY21qV1JUNXFlel9zb2F5eDd2XzZkY2ZZLXdHYllibjQwaEpFQS1IRmlhclZoY01VSVQ3TGpJbEJ2T0FxSkVkRw?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-ai-semiconductor-stock-price-decline.html"
+ },
+ {
+  "title": "SMBCやキリン導入のAI役員、実は経営判断してない件",
+  "lead": "SMBCグループやキリンホールディングスなどで導入が進む「AI役員」ですが、実際の経営判断をAIが担っている事例はほとんどないことが分かりました。",
+  "summary3": [
+   "SMBCなどでAI役員の導入が進む",
+   "しかしAIが経営判断を担う例はほぼない",
+   "先進事例から人とAIの役割を解説"
+  ],
+  "body": [
+   "ITビジネス情報を扱うメディア「ITmedia ビジネス」によると、SMBCグループやキリンホールディングスなどの先進企業において「AI役員」の導入が進んでいます。ビジネスの現場で大きな話題を集めている新しい取り組みです。",
+   "一方で、こうした先進企業の事例を詳しく見ていくと、AIが本当に企業の経営判断を担っている事例はほとんどないのが実態です。「AI役員、導入しました」という話題の裏側には、人間とAIの役割分担についての現実的な判断があります。",
+   "先進企業の事例を基に、「AI役員」の実態や、人とAIがそれぞれの立場で担うべき経営の役割について改めて考える時期に来ています。"
+  ],
+  "tags": [
+   "AI役員",
+   "SMBCグループ",
+   "キリンホールディングス"
+  ],
+  "slug": "ai-executive-smbc-kirin",
+  "people": [],
+  "terms": [
+   {
+    "name": "SMBCグループ",
+    "type": "company",
+    "desc": "三井住友フィナンシャルグループを中心とする日本の巨大な総合金融グループである。"
+   },
+   {
+    "name": "キリンホールディングス",
+    "type": "company",
+    "desc": "酒類事業や飲料事業などを幅広く展開する日本の大手持株会社である。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2607/29/news016.html",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-ai-executive-smbc-kirin.html"
+ },
+ {
+  "title": "ＧＥＮＤＡ、ＳＢＩＨＤと資本業務提携",
+  "lead": "ＧＥＮＤＡは、ＳＢＩＨＤと資本業務提携を行うと発表しました。",
+  "summary3": [
+   "ＧＥＮＤＡが発表",
+   "ＳＢＩＨＤと資本業務提携",
+   "株価材料として注目"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。ＧＥＮＤＡに関する新たな株価材料として、ＳＢＩＨＤとの資本業務提携が報じられました。",
+   "今回の提携に関する詳細な内容や今後の展開については、各社の発表や今後の公開情報に注目が集まるところです。",
+   "株式市場においても、両社の取り組みがどのような影響を与えるか、引き続き動向が注視される見通しとなっています。"
+  ],
+  "tags": [
+   "ＧＥＮＤＡ",
+   "ＳＢＩＨＤ",
+   "資本業務提携"
+  ],
+  "slug": "genda-sbihd-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ＧＥＮＤＡ",
+    "type": "company",
+    "desc": "エンターテインメント領域を中心に国内外で事業を展開している企業です。"
+   },
+   {
+    "name": "ＳＢＩＨＤ",
+    "type": "company",
+    "desc": "金融サービス事業を主軸に、幅広い投資や業務展開を行う大手企業グループです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaFRDOHd5UFlPd1MzZ1dvcG5jYWUwcTNLQVVlck1yMUJPejg0VmFhX2pvN2dZVTAyWVFnMS16Y0FtZnVWVXdKSnNMTm1RM3hYSkhsd1dpZG9GdGZLajdWNmh5SnhqLTVoN2JUUkRoR0ZxM3kzQXQ1VHZUQ2NtcGZLQVN0eEc5Y0U?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "17:05",
+  "path": "/articles/20260729-genda-sbihd-capital-business-alliance.html"
  }
 ]
