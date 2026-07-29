@@ -17985,5 +17985,39 @@
   "date": "2026-07-29",
   "time": "18:00",
   "path": "/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html"
+ },
+ {
+  "title": "Moonshot AIが350億ドル評価で35億ドル調達、2026年にも香港上場へ",
+  "lead": "生成AIを手がけるMoonshot AIが、大規模な資金調達により企業価値が350億ドルに到達しました。今後は2026年にも香港市場での株式公開を目指す計画です。",
+  "summary3": [
+   "Moonshot AIが35億ドルを新たに調達",
+   "企業価値は当初の目標を上回る350億ドルに到達",
+   "2026年にも香港での新規株式公開を計画"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がBloombergの報道に基づいてお伝えします。人工知能開発を手がけるMoonshot AIは、直近の資金調達ラウンドにおいて35億ドル（約5,400億円相当）の資金を確保しました。これにより、同社の企業価値は350億ドルに達しています。",
+   "今回の調達額は、当初予定されていた10億ドルから20億ドルという目標を大きく上回る結果となりました。投資家の間での同社技術への期待の高さと、資金集めの順調さがうかがえる動きとなっています。",
+   "好調な資金調達を背景に、Moonshot AIは早くも2026年にも香港証券取引所での新規株式公開（IPO）を行う計画を進めていることが明らかになりました。今後の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Moonshot AI",
+   "資金調達",
+   "IPO"
+  ],
+  "slug": "moonshot-ai-35b-valuation-hk-ipo-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "中国を拠点に生成AIや大規大規模言語モデルの開発を手がけるAIスタートアップ企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260729/p8#a260729p8",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "19:00",
+  "path": "/articles/20260729-moonshot-ai-35b-valuation-hk-ipo-2026.html"
  }
 ]

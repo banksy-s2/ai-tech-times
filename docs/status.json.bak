@@ -1,61 +1,26 @@
 {
- "updated": "2026-07-29 17:05",
- "mode": "フル便",
+ "updated": "2026-07-29 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Preferred Networks、防衛の作戦立案へ生成AI提供",
-   "path": "/articles/20260729-pfn-generative-ai-jsdf.html",
+   "title": "NVIDIA社員逮捕、日本経由の中国密輸事件で",
+   "path": "/articles/20260729-nvidia-employee-detained-china-smuggling.html",
    "cat": "日本のAI"
   },
   {
-   "title": "ソフトバンク10%下落、アジア半導体株が急落した理由",
-   "path": "/articles/20260729-asian-tech-stocks-softbank-down-10-percent.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "GoogleとRedditのDMCA悪用になぜ専門家が苦言？勝訴したスクレイパーの主張",
-   "path": "/articles/20260729-google-reddit-dmca-web-scraper.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "人気女性YouTuberが緊急入院し保険証忘れで10割負担に",
-   "path": "/articles/20260729-popular-youtuber-emergency-hospitalization.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "米トランプ大統領、イラン合意へ強気の姿勢",
-   "path": "/articles/20260729-trump-iran-agreement-possibility.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "AI・半導体は好決算でも株価下落、なぜ期待値は剥落したのか",
-   "path": "/articles/20260729-ai-semiconductor-stock-price-decline.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "SMBCやキリン導入のAI役員、実は経営判断してない件",
-   "path": "/articles/20260729-ai-executive-smbc-kirin.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "ＧＥＮＤＡ、ＳＢＩＨＤと資本業務提携",
-   "path": "/articles/20260729-genda-sbihd-capital-business-alliance.html",
-   "cat": "日本企業"
+   "title": "Sakana AI「Fugu-Ultra」v1.1発表、Claude Code互換も",
+   "path": "/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は　開発者の見解 | 毎",
-  "執筆失敗: イラン ホルムズ海峡を均等に分割するオマーンの提案を拒否",
-  "執筆失敗: ｢高市積極財政｣を監視する市場とアメリカ…財政不安を懸念する市場､米国債への波及",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 8,
+ "notes": [],
+ "pv_today": 9,
  "gemini": {
-  "used": 133,
+  "used": 138,
   "limit": 200
  }
 }
