@@ -1,26 +1,17 @@
 {
- "updated": "2026-07-30 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Appleのティム・クックCEO、時価総額5兆ドル突破後に迎える最後の決算発表でどうなるのか",
-   "path": "/articles/20260730-apple-tim-cooks-last-earnings-call.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Elon MuskのX、広告主団体との数年にわたる法廷闘争で和解",
-   "path": "/articles/20260730-elon-musk-x-settles-legal-battle.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-30 03:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [],
- "pv_today": null,
+ "notes": [
+  "執筆失敗: ヒカル「いい大学を出ても道徳学ばないと」SNSバトルで“因縁”の東大YouTub"
+ ],
+ "pv_today": 11,
  "gemini": {
-  "used": 18,
+  "used": 21,
   "limit": 200
  }
 }

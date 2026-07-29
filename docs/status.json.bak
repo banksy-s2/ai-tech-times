@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-30 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAIやGoogle従業員1000人超、米政府にAI開発のペース調整を要求",
-   "path": "/articles/20260730-openai-google-employees-request-ai-slowdown.html",
-   "cat": "日本のAI"
+   "title": "Appleのティム・クックCEO、時価総額5兆ドル突破後に迎える最後の決算発表でどうなるのか",
+   "path": "/articles/20260730-apple-tim-cooks-last-earnings-call.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Hugging Faceが暴露、AIが1.7万回攻撃のなぜ",
-   "path": "/articles/20260730-hugging-face-ai-agent-breach-details.html",
-   "cat": "日本のAI"
+   "title": "Elon MuskのX、広告主団体との数年にわたる法廷闘争で和解",
+   "path": "/articles/20260730-elon-musk-x-settles-legal-battle.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }
