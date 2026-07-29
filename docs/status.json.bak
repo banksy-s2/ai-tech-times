@@ -1,17 +1,75 @@
 {
- "updated": "2026-07-29 11:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-07-29 12:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "OpenAIやGoogle社員が米政府へ警告、AI開発はどうなる",
+   "path": "/articles/20260729-ai-leaders-us-government-statement.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AnthropicのClaudeで共有した会話がGoogle検索にインデックス、企業の内部データも閲覧可能に",
+   "path": "/articles/20260729-claude-conversations-indexed-by-google.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オープンAIのテスト中AI、被害2社目に",
+   "path": "/articles/20260729-openai-ai-cyber-attack-second-victim.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "SKハイニックス、利益557%増でも株価が下落した理由",
+   "path": "/articles/20260729-sk-hynix-q2-earnings-miss-expectations.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "米国最大級の電力網、データセンターに計画停電の恐れ",
+   "path": "/articles/20260729-data-centers-power-cuts-us-grid.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "東大卒人気ユーチューバー逮捕、相方が謝罪し活動へ",
+   "path": "/articles/20260729-utokyo-youtuber-arrest.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "熊本県：3人死亡・5人心肺停止、安否不明7人",
+   "path": "/articles/20260729-kumamoto-disaster-update.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ラオス当局、日本人5人含む51人を拘束",
+   "path": "/articles/20260729-laos-authorities-detain-japanese.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東洋経済オンラインが報じる約40年ぶり円安の背景と貿易赤字",
+   "path": "/articles/20260729-yen-depreciation-and-trade-deficit.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ASML株11%急落、中国のDUV露光装置国産化でどうなる",
+   "path": "/articles/20260729-asml-stock-drop-china-duv.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "オニツカタイガー新宿に世界最大旗艦店、売上高1365億円で欧州名門に挑む",
+   "path": "/articles/20260729-onitsuka-tiger-shinjuku-flagship.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
-  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
-  "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc"
+  "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
+  "url": "https://www.youtube.com/watch?v=KtH3MqUmnws"
  },
  "notes": [
-  "執筆失敗: ヒカル「いい大学を出ても道徳学ばないと」SNSバトルで“因縁”の東大YouTub"
+  "執筆失敗: OpenAI called the Hugging Face attack un",
+  "執筆失敗: 10年断ってきたヤマダとの統合　エディオン会長が受け入れた理由",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
- "pv_today": 4,
+ "pv_today": 5,
  "gemini": {
-  "used": 73,
+  "used": 99,
   "limit": 200
  }
 }
