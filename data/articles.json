@@ -17499,5 +17499,67 @@
   "date": "2026-07-29",
   "time": "13:00",
   "path": "/articles/20260729-kumamoto-earthquake-casualty-report.html"
+ },
+ {
+  "title": "日経平均2566円安、アジアで半導体株安の背景",
+  "lead": "アジア市場での半導体株安を受け、日経平均株価が2566円下落しました。市場では「AIツルハシ銘柄」に売りが出ています。",
+  "summary3": [
+   "日経平均株価が2566円下落",
+   "アジアで半導体株安が広がる",
+   "「AIツルハシ銘柄」に売り"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、アジア市場において半導体関連株が下落しました。これに伴い、日経平均株価は2566円安を記録する大きな下落となりました。",
+   "市場では、人工知能（AI）開発を支える基盤技術やハードウェア関連企業、いわゆる「AIツルハシ銘柄」に対して売り注文が優勢となりました。国内外の半導体関連銘柄全般に波及する形での値下がりとなっています。",
+   "今回の株価下落は、アジア圏全体での半導体株安の流れを受けたものです。今後の市場動向や各企業の業績への影響について、投資家の間でも慎重な見方が広がっています。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "半導体株",
+   "AIツルハシ銘柄"
+  ],
+  "slug": "nikkei-average-drops-2566-yen-semiconductor-decline",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNVhwRVhiUnNxUFdKRmJyak1HWGFFNHVRZG1KRnRFOFROS25rWkhLckxDVmxKNzc3N0FrY1hfMTZUbFctYUZYNmhyalp4VDBrVW9zZi05cGNjeGhMMkxGZWdoQUE3WU5NYjJZRw?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "14:00",
+  "path": "/articles/20260729-nikkei-average-drops-2566-yen-semiconductor-decline.html"
+ },
+ {
+  "title": "キーエンス株価が反発、51%増益で",
+  "lead": "キーエンスの株価が反発しました。26年4〜6月期の51%増益が好感されています。",
+  "summary3": [
+   "キーエンスの株価が反発",
+   "26年4〜6月期は51%増益",
+   "増益が市場で好感される"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、キーエンスの株価が反発したことが分かりました。",
+   "今回の株価反発は、26年4〜6月期における51%の増益が好感されたものと伝えられています。",
+   "市場において、同期間の業績拡大が前向きに受け止められた形です。"
+  ],
+  "tags": [
+   "キーエンス",
+   "株価",
+   "決算"
+  ],
+  "slug": "keyence-stock-price-rebounds",
+  "people": [],
+  "terms": [
+   {
+    "name": "キーエンス",
+    "type": "company",
+    "desc": "センサーや測定器などの自動制御機器を開発・製造する日本の大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRl9fQzRRN2ExM3JHTnlNUkpRdGxwNjlPeWFwblhOMldsZEVEQUtkTlgyRDR2aWF0R2VXLWhJeGpoN0tJak1xUHM0R3k1dFQtMWtiakdPSnVRZmVYNU9ITnJyalVDSTBZaXJScA?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "14:00",
+  "path": "/articles/20260729-keyence-stock-price-rebounds.html"
  }
 ]
