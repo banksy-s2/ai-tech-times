@@ -1,75 +1,26 @@
 {
- "updated": "2026-07-29 21:04",
- "mode": "フル便",
+ "updated": "2026-07-29 22:02",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AnthropicのClaudeで暗号の弱点を発見する方法",
-   "path": "/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "TSMC熊本工場、地震で一時中断も通常操業へ",
-   "path": "/articles/20260729-tsmc-kumamoto-plant-earthquake-recovery.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "デジタル庁、生成AI「源内」を被災自治体に緊急提供",
-   "path": "/articles/20260729-digital--gennai-emergency.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "eBay、5600万ドルで和解：批判的な執筆者への嫌がらせ事件の結末",
-   "path": "/articles/20260729-ebay-reaches-56m-settlement.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "イーロン・マスク氏のX Money始動、主要市場の除外でどうなる",
-   "path": "/articles/20260729-elon-musk-launches-x-money.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "日本製紙八代工場で煙突倒壊、5人死亡の被害",
-   "path": "/articles/20260729-nippon-paper-yatsushiro-factory-earthquake.html",
+   "title": "熊本で震度7発生、同程度地震に1週間注意",
+   "path": "/articles/20260729-kumamoto-earthquake-shindo-7.html",
    "cat": "時事・世界"
   },
   {
-   "title": "米トランプ政権、中国製の人型ロボットを禁止",
-   "path": "/articles/20260729-trump-banns-chinese-humanoid-robots.html",
+   "title": "スリーマイル島原発1号機、早ければ来年後半に再稼働か",
+   "path": "/articles/20260729-three-mile-island-restart.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均、２か月ぶり一時６万１０００円割れ…１５００円超下落の理由とは",
-   "path": "/articles/20260729-nikkei-average-drops-below-61000-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "韓国株が一時13%急落、個人投資家殺到で楽観から恐怖へ",
-   "path": "/articles/20260729-south-korea-stocks-plummet-13-percent.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "SBI、GENDAと資本業務提携を発表",
-   "path": "/articles/20260729-sbi-genda-capital-alliance.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "カプコンがS高、コーエーテクモHDは大幅反発",
-   "path": "/articles/20260729-game-entertainment-stocks-729.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: As AI content floods the internet, Pangr",
-  "執筆失敗: BYD、軽EV「ラッコ」の価格は214万5000円から スーパートール車形に両側",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 16,
  "gemini": {
-  "used": 178,
+  "used": 183,
   "limit": 200
  }
 }

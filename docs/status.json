@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-29 22:02",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-29 23:03",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "熊本で震度7発生、同程度地震に1週間注意",
-   "path": "/articles/20260729-kumamoto-earthquake-shindo-7.html",
-   "cat": "時事・世界"
+   "title": "日経平均一時1900円下落、6万1000円割れ",
+   "path": "/articles/20260729-nikkei-average-falls-below-61000.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "スリーマイル島原発1号機、早ければ来年後半に再稼働か",
-   "path": "/articles/20260729-three-mile-island-restart.html",
-   "cat": "時事・世界"
+   "title": "ウォーシュ新議長の金融政策転換、株式市場への影響は",
+   "path": "/articles/20260729-warsh-frb-balance-sheet.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 16,
  "gemini": {
-  "used": 183,
+  "used": 189,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 22:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-29 23:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均一時1900円下落、6万1000円割れ](https://ai-tech-times.web.app/articles/20260729-nikkei-average-falls-below-61000.html) — 2026-07-29 23:03: 日経平均株価が一時1900円を超える下落となり、6万1000円を割り込みました。AI関連株が売られたことが主な要因となっています。
+- [ウォーシュ新議長の金融政策転換、株式市場への影響は](https://ai-tech-times.web.app/articles/20260729-warsh-frb-balance-sheet.html) — 2026-07-29 23:03: 米連邦準備制度理事会（FRB）の新議長・ウォーシュ氏が就任後2度目のFOMCを迎え、金融政策の転換に注目が集まっています。フォワードガイダンス廃止やバランスシート縮小の本気度が取り沙汰されています。
 - [熊本で震度7発生、同程度地震に1週間注意](https://ai-tech-times.web.app/articles/20260729-kumamoto-earthquake-shindo-7.html) — 2026-07-29 22:02: AI TECH TIMESがお伝えする最新のニュースです。28日、熊本県熊本地方でマグニチュード7.1の大地震が発生し、大きな被害が出ています。
 - [スリーマイル島原発1号機、早ければ来年後半に再稼働か](https://ai-tech-times.web.app/articles/20260729-three-mile-island-restart.html) — 2026-07-29 22:02: アメリカでAI向けのデータセンターによる電力需要が急拡大する中、過去に事故を起こした原発の隣にある廃炉予定の1号機について、再稼働に向けた住民説明会が開催されました。
 - [AnthropicのClaudeで暗号の弱点を発見する方法](https://ai-tech-times.web.app/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html) — 2026-07-29 21:03: Anthropicの研究により、AIモデル「Claude」を活用して暗号の弱点をどのように発見できるのかが明らかになりました。
@@ -40,15 +42,13 @@
 - [Sakana AI「Fugu-Ultra」v1.1発表、Claude Code互換も](https://ai-tech-times.web.app/articles/20260729-sakana-ai-fugu-ultra-v1-1-announced.html) — 2026-07-29 18:00: Sakana AIは、「Fable 5」越えを達成した新モデル「Fugu-Ultra」v1.1を発表しました。「Claude Code」互換エンドポイントの実装も含まれています。
 - [Preferred Networks、防衛の作戦立案へ生成AI提供](https://ai-tech-times.web.app/articles/20260729-pfn-generative-ai-jsdf.html) — 2026-07-29 17:05: Preferred Networksが、生成AIを活用して自衛隊を支援するシステムを開発すると発表しました。防衛装備庁の実証実験を受託し、作戦立案への利用を目指します。
 - [ソフトバンク10%下落、アジア半導体株が急落した理由](https://ai-tech-times.web.app/articles/20260729-asian-tech-stocks-softbank-down-10-percent.html) — 2026-07-29 17:05: アジアのテクノロジー株が売り優勢となる中、ソフトバンクが10%下落するなどAI関連銘柄が打撃を受けています。
-- [GoogleとRedditのDMCA悪用になぜ専門家が苦言？勝訴したスクレイパーの主張](https://ai-tech-times.web.app/articles/20260729-google-reddit-dmca-web-scraper.html) — 2026-07-29 17:05: GoogleやRedditがウェブスクレイパーに対抗するためDMCA（デジタルミレニアム著作権法）を使用していることについて、専門家が奇妙であると指摘しました。裁判に勝訴したスクレイパーは「インターネットを所有していない」と主張しています。
-- [人気女性YouTuberが緊急入院し保険証忘れで10割負担に](https://ai-tech-times.web.app/articles/20260729-popular-youtuber-emergency-hospitalization.html) — 2026-07-29 17:05: ヘビースモーカーとして知られる人気女性YouTuberが、不摂生が原因で緊急入院し手術を受けたことを明かしました。国民健康保険の有効期限切れにより医療費を10割負担したといいます。
 
 ## 世界のバズ動画TOP3 (2026-07-29)
 - 1位: [JUMANJI: OPEN WORLD - Official Trailer (4K)](https://www.youtube.com/watch?v=zhApeaHMvfs)
 - 2位: [An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite](https://www.youtube.com/watch?v=KtH3MqUmnws)
 - 3位: [Apex Legends: Marked Gameplay Trailer](https://www.youtube.com/watch?v=jJObfZSbzAw)
 
-## AI用語事典 (全424語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全426語 / https://ai-tech-times.web.app/term/)
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
