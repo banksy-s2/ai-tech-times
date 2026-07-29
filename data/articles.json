@@ -18019,5 +18019,395 @@
   "date": "2026-07-29",
   "time": "19:00",
   "path": "/articles/20260729-moonshot-ai-35b-valuation-hk-ipo-2026.html"
+ },
+ {
+  "title": "AnthropicのClaudeで暗号の弱点を発見する方法",
+  "lead": "Anthropicの研究により、AIモデル「Claude」を活用して暗号の弱点をどのように発見できるのかが明らかになりました。",
+  "summary3": [
+   "Claudeを活用した暗号の弱点発見",
+   "Anthropicが研究成果を公開",
+   "セキュリティ分野でのAI活用"
+  ],
+  "body": [
+   "AI技術の開発を手がけるAnthropicは、同社の提供するAIモデル「Claude」を使用して、暗号の弱点を発見する手法に関する研究結果を発表しました。",
+   "公開された記事では、セキュリティの観点からAIがどのように暗号の脆弱性を特定できるのかについて詳しく解説されており、多くの関心を集めています。",
+   "この研究は技術コミュニティでも話題となっており、Hacker Newsなどのプラットフォーム上で多くのコメントや議論が交わされています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "セキュリティ"
+  ],
+  "slug": "discovering-cryptographic-weaknesses-with-claude",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けている。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高度な対話型AIモデルであり、文章生成や分析などを行う。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+  "category": "ai",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html"
+ },
+ {
+  "title": "TSMC熊本工場、地震で一時中断も通常操業へ",
+  "lead": "半導体受託製造大手の台湾TSMCは、熊本県で発生した最大震度7の地震の影響で一時中断していた子会社JASMの操業について、段階的に通常操業に戻りつつあると明らかにしました。",
+  "summary3": [
+   "TSMC熊本工場が一時操業中断",
+   "地震の影響で従業員の無事を確認",
+   "段階的に通常操業へ戻りつつある"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が台湾紙・経済日報の報道を基に伝えたところによると、半導体受託製造大手の台湾TSMCは7月28日夜、同日午後に熊本県で発生した最大震度7の地震の影響で操業を一時中断していた子会社JASM（熊本県菊陽町）について、段階的に通常操業に戻りつつあると回答しました。",
+   "JASMが立地する熊本県菊陽町では最大震度5強を観測し、その後も相当規模の揺れが警戒される状況が続きました。そのような中、地震発生後には従業員の無事が速やかに確認されています。",
+   "今回の地震により一時的な影響を受けたものの、安全確認を経て着実に通常操業への復帰が進められている状況です。"
+  ],
+  "tags": [
+   "TSMC",
+   "熊本",
+   "地震"
+  ],
+  "slug": "tsmc-kumamoto-plant-earthquake-recovery",
+  "people": [],
+  "terms": [
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "台湾に本拠を置く世界最大の半導体受託製造企業（ファウンドリ）です。"
+   },
+   {
+    "name": "JASM",
+    "type": "company",
+    "desc": "台湾TSMCが日本国内に設立した半導体受託製造の子会社です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-tsmc-kumamoto-plant-earthquake-recovery.html"
+ },
+ {
+  "title": "デジタル庁、生成AI「源内」を被災自治体に緊急提供",
+  "lead": "デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を被災自治体や災害対策機関などに緊急提供すると発表しました。平時をはるかに超える災害対応業務を支援する狙いです。",
+  "summary3": [
+   "デジタル庁が生成AIを緊急提供",
+   "熊本地震の被災自治体などが対象",
+   "期間は3週間程度の予定で実施"
+  ],
+  "body": [
+   "デジタル庁は、政府職員向けの生成AI利用環境である「ガバメントAI 源内」を、熊本地震の被災自治体や災害対策機関などに向けて緊急提供すると発表しました。",
+   "今回の提供は、平時をはるかに超えて集中する災害対応業務を支援することを目的として行われます。大規模な災害が発生した現場において、職員の負担軽減や業務の効率化を図るねらいがあります。",
+   "利用期間については、3週間程度を予定しているとのことです。デジタル庁は、行政におけるAI活用を通じて、過酷な状況下にある自治体の業務を技術面から支えていきます。"
+  ],
+  "tags": [
+   "デジタル庁",
+   "生成AI",
+   "災害対策"
+  ],
+  "slug": "digital--gennai-emergency",
+  "people": [],
+  "terms": [
+   {
+    "name": "デジタル庁",
+    "type": "company",
+    "desc": "日本の行政のデジタル化を強力に推進するために設立された、内閣直属の政府機関です。"
+   },
+   {
+    "name": "ガバメントAI 源内",
+    "type": "ai",
+    "desc": "デジタル庁が提供する、政府職員向けのセキュアな利用環境が整えられた生成AIサービスです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+  "category": "ai_jp",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-digital--gennai-emergency.html"
+ },
+ {
+  "title": "eBay、5600万ドルで和解：批判的な執筆者への嫌がらせ事件の結末",
+  "lead": "大手オンラインマーケットプレイスのeBayが、自社への批判的な報道を行ったニュースレター執筆者に対し、5600万ドルで和解に合意しました。",
+  "summary3": [
+   "eBayが5600万ドルで和解に合意",
+   "批判的な執筆者への嫌がらせが発端",
+   "2019年の事件をめぐり解決へ"
+  ],
+  "body": [
+   "海外メディア「TechCrunch」の報道によると、eBayは、自社のニュースレターで会社を批判したイナ・シュタイナー氏とデヴィッド・シュタイナー氏のカップルに対し、5600万ドルで和解に達しました。",
+   "事の発端は2019年、この夫婦の執筆活動に不満を抱いたeBayのハイレベルな幹部らが、彼らを威圧して否定的な報道を止めさせるための計画を企てたことでした。",
+   "当時の幹部らによって引き起こされた嫌がらせ事件をめぐり、このたび巨額の和解金による解決に至ったことが明らかになっています。"
+  ],
+  "tags": [
+   "eBay",
+   "TechCrunch",
+   "eコマース"
+  ],
+  "slug": "ebay-reaches-56m-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "eBay",
+    "type": "company",
+    "desc": "オークションやECサイトを運営するアメリカのグローバル企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-ebay-reaches-56m-settlement.html"
+ },
+ {
+  "title": "イーロン・マスク氏のX Money始動、主要市場の除外でどうなる",
+  "lead": "Ars Technicaによると、イーロン・マスク氏が率いるX（旧Twitter）において「X Money」がついにローンチされました。しかし、主要な米国の金融市場が除外されているため、今後の展開には混乱が予想されています。",
+  "summary3": [
+   "イーロン・マスク氏がX Moneyを始動",
+   "主要な米国の金融市場が除外される",
+   "今後のロールアウトに混乱の懸念"
+  ],
+  "body": [
+   "海外メディアのArs Technicaの報道によると、実業家のイーロン・マスク氏が手掛けるプラットフォームにおいて、「X Money」がついにローンチされました。新機能の導入により、今後のサービス展開がどのように進むのか注目が集まっています。",
+   "しかし、今回のロールアウトでは主要な米国の金融市場が除外されているという状況があります。そのため、サービスがスムーズに浸透していくのかどうかについては、いくつかの障害や不確実性が指摘されているところです。",
+   "新しい金融関連機能の提供開始にあたり、主要市場が含まれていないことは、今後の利用拡大やユーザーの利便性に少なからず影響を与える可能性があります。実際の運用においてどのような波乱が起きるのか、引き続き動向が注視されます。"
+  ],
+  "tags": [
+   "X Money",
+   "イーロン・マスク",
+   "金融サービス"
+  ],
+  "slug": "elon-musk-launches-x-money",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "テスラやスペースXのCEOを務め、近年はX（旧Twitter）を買収して経営にあたる著名な実業家。"
+   }
+  ],
+  "terms": [],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+  "category": "silicon",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-elon-musk-launches-x-money.html"
+ },
+ {
+  "title": "日本製紙八代工場で煙突倒壊、5人死亡の被害",
+  "lead": "熊本県にある日本製紙の八代工場で地震による被害が発生し、これまでに5人が死亡、2人がけがを負いました。",
+  "summary3": [
+   "日本製紙八代工場で煙突が倒壊するなどの被害",
+   "午後2時時点で11人が閉じ込められ7人救助",
+   "救助された7人のうち5人が死亡し2人がけが"
+  ],
+  "body": [
+   "熊本県によりますと、今回の地震で煙突が倒壊するなどの被害が出た八代市の日本製紙の八代工場では、29日午後2時の時点で11人が閉じ込められる事態となりました。",
+   "現場では救助活動が行われ、これまでに7人が救助されましたが、そのうち5人が死亡し、2人がけがをしているということです。",
+   "また、残る4人については引き続き安否が不明となっており、今後の救助活動や被害の全容解明が急がれています。"
+  ],
+  "tags": [
+   "日本製紙",
+   "地震被害",
+   "熊本県"
+  ],
+  "slug": "nippon-paper-yatsushiro-factory-earthquake",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本製紙",
+    "type": "company",
+    "desc": "東京都千代田区に本社を置く、国内大手製紙メーカーの一つ。洋紙や段ボールなどを幅広く手掛ける。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015189721000",
+  "category": "world",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-nippon-paper-yatsushiro-factory-earthquake.html"
+ },
+ {
+  "title": "米トランプ政権、中国製の人型ロボットを禁止",
+  "lead": "ロボットとAIの主導権を巡る米中間の競争が激化する中、トランプ政権が新たな中国製ヒューマノイドロボットの導入を禁止しました。",
+  "summary3": [
+   "ロボットとAIの主導権争いが激化",
+   "米トランプ政権が規制に踏み切る",
+   "中国製の新型ロボットが禁止対象に"
+  ],
+  "body": [
+   "アメリカと中国の間で、ロボットおよび人工知能（AI）分野の世界的主導権を握るための激しい競争が繰り広げられています。両国は最先端技術の開発や市場の覇権をめぐり、長年にわたり緊密な主導権争いを続けてきました。",
+   "こうした緊迫した状況の中、トランプ政権は新たな中国製の人型ロボットを禁止する措置を講じました。この決定は、重要技術における安全保障上の懸念や、国内産業の保護を強く意識した動きと見られています。",
+   "AI技術やロボット工学の発展は経済や社会に大きな影響を与えるため、今回の規制は今後の両国の技術開発やサプライチェーンに多大な影響を及ぼす可能性があります。両国の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "ロボット",
+   "人工知能",
+   "米中関係"
+  ],
+  "slug": "trump-banns-chinese-humanoid-robots",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-trump-banns-chinese-humanoid-robots.html"
+ },
+ {
+  "title": "日経平均、２か月ぶり一時６万１０００円割れ…１５００円超下落の理由とは",
+  "lead": "読売新聞の報道によると、日経平均株価が２か月ぶりに一時６万１０００円を割り込みました。１５００円を超える大幅な下落となり、６万８００円台で推移しています。",
+  "summary3": [
+   "日経平均が2か月ぶりに6万1000円割れ",
+   "1500円超の大幅な下落を記録",
+   "6万800円台で推移する展開に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じた読売新聞の情報によれば、株式市場における日経平均株価は２か月ぶりに一時６万１０００円を割り込む展開となりました。下落幅は１５００円を超えており、市場関係者の間で注目を集める値動きとなっています。",
+   "現在の市場では６万８００円台での推移が続いており、今後の動向について慎重な見方が広がっています。短期間での急激な下落が投資家や家計の資産管理にどのような影響を与えるのか、関心が高まっています。",
+   "具体的な下落の背景や要因については引き続き詳細な情報が待たれるところであり、市場参加者は慎重に今後の価格変動を見守る状況となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-drops-below-61000-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "読売新聞",
+    "type": "company",
+    "desc": "全国紙を発行する日本の大手新聞社であり、ニュースや報道などを広く提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yb3ExU2Z2UGFOMTJVVVA3elplMzBORWw3eFB1RXVUWk1jMC12OWkzNnZUbENVWWhRZHprSjFMRkdsTVlUQnJ4eVRWOWNGalV0cUpaVGhDUnh0RjFYaEN6QVRxU1E?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-nikkei-average-drops-below-61000-yen.html"
+ },
+ {
+  "title": "韓国株が一時13%急落、個人投資家殺到で楽観から恐怖へ",
+  "lead": "韓国株市場において、個人投資家の売りが殺到し、株価が一時13%急落する事態となりました。",
+  "summary3": [
+   "韓国株が一時13%急落を記録",
+   "個人投資家の売りが殺到した",
+   "市場は楽観論から恐怖に一転"
+  ],
+  "body": [
+   "韓国の株式市場において、株価が一時13%急落する大きな動きが見られました。市場では個人投資家による売り注文が殺到し、これまで広がっていた楽観的な見方が一転して恐怖へと変わる展開となっています。",
+   "今回の急落劇は、現地の市場参加者に大きな影響を与えており、今後の動向が注目されています。株価の変動が激しい状況下で、市場の心理状態がどのように変化していくのかが緊迫した局面を迎えています。"
+  ],
+  "tags": [
+   "韓国株",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "south-korea-stocks-plummet-13-percent",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92d0ZxbS1UbUplY2ktd25JREd1c3F2eWRjaUJfMkZEUU9WNlpSSkVrUGtraTNVQ2xFU0tKcmJHT1J6bVk3empyWTVpTVVoOURHRXMwSkdoemliaGplamJWUm5yWEk2VlRuMnRFNGFha2Y5bGxjd0h0cUt5R3NpUTg?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-south-korea-stocks-plummet-13-percent.html"
+ },
+ {
+  "title": "SBI、GENDAと資本業務提携を発表",
+  "lead": "SBIは、GENDAと資本業務提携を締結したと発表しました。エンタメ領域におけるシナジーの創出を目指す方針です。",
+  "summary3": [
+   "SBIとGENDAが資本業務提携を発表",
+   "エンタメ領域でシナジー創出へ",
+   "両社の連携による今後の展開に注目"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の企業ニュースです。SBIは、GENDAと資本業務提携を締結したことを明らかにしました。",
+   "今回の提携は、エンタメ領域におけるシナジーを創出することを目的として行われます。両社がそれぞれの強みを活かすことで、どのような相乗効果を生み出すのかが注目されます。",
+   "具体的な事業展開や今後のスケジュールなどの詳細については、今後の発表が待たれるところです。当サイトでは引き続き、関連する動向を報じてまいります。"
+  ],
+  "tags": [
+   "SBI",
+   "GENDA",
+   "資本業務提携"
+  ],
+  "slug": "sbi-genda-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "SBI",
+    "type": "company",
+    "desc": "金融サービス事業を中心に、幅広い投資やアセットマネジメントを手がける日本の企業グループです。"
+   },
+   {
+    "name": "GENDA",
+    "type": "company",
+    "desc": "エンターテインメント領域を中心に、アミューズメント施設の運営などを展開している企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHptWkZtOHlza0tXdDJuOVRaZnlDaHhEODh5SWpic1dmam5qaTZZNnJlUVlUc3haUWpwQ2dHNVVlVlpIXzZZb1RTUG5PN2VGV25pb2pNNDRKRVczcnlTVGVIQzZiYVo1bWZEcmdtcGpzUzEtVU9yMVlVWTI0dkhua1RYVEhNR2s?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-sbi-genda-capital-alliance.html"
+ },
+ {
+  "title": "カプコンがS高、コーエーテクモHDは大幅反発",
+  "lead": "7月29日のゲームエンタメ株概況において、好決算を発表したカプコンがストップ高となりました。",
+  "summary3": [
+   "好決算のカプコンがストップ高",
+   "コーエーテクモHDは大幅反発",
+   "円谷フィールズHDが連日S高"
+  ],
+  "body": [
+   "7月29日の株式市場におけるゲームエンタメ株の概況が発表されました。好決算を発表したカプコンがストップ高（S高）を記録し、市場の注目を集めました。",
+   "また、国内証券が投資判断を「A」に格上げしたコーエーテクモHDが大幅な反発を見せました。さらに、円谷フィールズHDも連日のストップ高となり、活況な値動きを見せています。",
+   "株式市場全体において、ゲームエンタメ関連企業の動向や個別銘柄の発表内容が投資家の関心を集める一日となりました。"
+  ],
+  "tags": [
+   "カプコン",
+   "コーエーテクモHD",
+   "円谷フィールズHD"
+  ],
+  "slug": "game-entertainment-stocks-729",
+  "people": [],
+  "terms": [
+   {
+    "name": "カプコン",
+    "type": "company",
+    "desc": "「モンスターハンター」や「バイオハザード」などの人気ゲームシリーズを手がける日本の大手ゲーム会社。"
+   },
+   {
+    "name": "コーエーテクモHD",
+    "type": "company",
+    "desc": "「三國志」や「信長の野望」などで知られるゲームソフト開発会社を傘下に持つ持株会社。"
+   },
+   {
+    "name": "円谷フィールズHD",
+    "type": "company",
+    "desc": "ウルトラマンシリーズの円谷プロダクションなどを傘下に持つ、エンターテインメント関連の持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1ZWHNYTjl3Z01FQ1R5NTBrbWJYN3pLNmYxZTczUzc2VW9DSmxZVno4d3pKRnk2Rk1KWGUyNVBDbFM2RERJRnh5andYNl96NUxXekNhak1fY0NfTnd6X2ZHRl9rVXZOTndBYVllN3UtT2NUVUJoMWp2Zm13MVpGVmJlRlN3aHM?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "21:03",
+  "path": "/articles/20260729-game-entertainment-stocks-729.html"
  }
 ]

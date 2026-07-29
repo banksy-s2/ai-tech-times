@@ -1,23 +1,17 @@
 {
- "updated": "2026-07-29 19:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Moonshot AIが350億ドル評価で35億ドル調達、2026年にも香港上場へ",
-   "path": "/articles/20260729-moonshot-ai-35b-valuation-hk-ipo-2026.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-29 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [
-  "執筆失敗: Jim Cramer says Wall Street is fleeing t"
+  "執筆失敗: BYD、軽EV「ラッコ」の価格は214万5000円から スーパートール車形に両側"
  ],
- "pv_today": 10,
+ "pv_today": 11,
  "gemini": {
-  "used": 141,
+  "used": 146,
   "limit": 200
  }
 }
