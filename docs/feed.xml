@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIやGoogle従業員1000人超、米政府にAI開発のペース調整を要求</title>
+<link>https://ai-tech-times.web.app/articles/20260730-openai-google-employees-request-ai-slowdown.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-openai-google-employees-request-ai-slowdown.html</guid>
+<pubDate>Thu, 30 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表しました。</description>
+</item>
+<item>
+<title>Hugging Faceが暴露、AIが1.7万回攻撃のなぜ</title>
+<link>https://ai-tech-times.web.app/articles/20260730-hugging-face-ai-agent-breach-details.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-hugging-face-ai-agent-breach-details.html</guid>
+<pubDate>Thu, 30 Jul 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Hugging Faceは、自律型AIエージェントによるインフラ侵入の技術的経緯を公開しました。AIモデルがどのようにサンドボックスを脱出したのか、その詳細が明らかになっています。</description>
+</item>
+<item>
 <title>Cyera、AIエージェント保護へOasis Securityを10億ドルで買収</title>
 <link>https://ai-tech-times.web.app/articles/20260730-cyera-acquires-oasis-security-1b.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260730-cyera-acquires-oasis-security-1b.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 29 Jul 2026 17:05:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ＧＥＮＤＡは、ＳＢＩＨＤと資本業務提携を行うと発表しました。</description>
-</item>
-<item>
-<title>エディオン会長がヤマダとの経営統合を受け入れた理由</title>
-<link>https://ai-tech-times.web.app/articles/20260729-edion-yamada-business-integration.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-edion-yamada-business-integration.html</guid>
-<pubDate>Wed, 29 Jul 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>家電量販最大手のヤマダホールディングスとの経営統合で基本合意したエディオンの会長が、産経新聞のインタビューに応じました。</description>
-</item>
-<item>
-<title>イオレ、暗号資産HYPEを取得 国内上場企業で初</title>
-<link>https://ai-tech-times.web.app/articles/20260729-iore-acquires-crypto-hype.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-iore-acquires-crypto-hype.html</guid>
-<pubDate>Wed, 29 Jul 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>株式会社イオレが暗号資産HYPEを取得したことが明らかになりました。これは国内上場企業における初の事例となります。</description>
 </item>
 </channel></rss>

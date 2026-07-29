@@ -546,7 +546,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015189251000",
   "https://news.web.nhk/newsweb/na/na-k10015189881000",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwbzloRDI1ZW9KaGg1MmwzVmRkbDZoTVZhbi1IOWd4Q0RHTkpOUGMzaVhiRHlPbHlCSVRSZ1ZFSU00dnR6Tl82bFpCM24tWUlLMGZEMWlYTGpmYWo5bXV2TTNadUhTd3R6dTBWZHlPeEtPUFpEbnAtZFRyNnNQa1E?oc=5",
-  "https://toyokeizai.net/articles/-/953042?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  "https://toyokeizai.net/articles/-/953042?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+  "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1624,6 +1626,10 @@
   "日経平均、一時1900円下落 AI関連株売られ6万1000円割れ（朝日新聞） - Yahoo!ニュース",
   "市場はウォーシュ新議長のバランスシート縮小を過小評価している…インフレ抑制へ縮小急げば､株式市場への影響は甚大 | 政治・経済・投資 | 東洋経済オンライン",
   "日経平均一時1900円下落、6万1000円割れ",
-  "ウォーシュ新議長の金融政策転換、株式市場への影響は"
+  "ウォーシュ新議長の金融政策転換、株式市場への影響は",
+  "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+  "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+  "Cyera、AIエージェント保護へOasis Securityを10億ドルで買収",
+  "OpenAI暴走AI、ハッキング被害は他社にもなぜ拡大したのか"
  ]
 }

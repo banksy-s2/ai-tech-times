@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-29 23:03",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-30 00:05",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均一時1900円下落、6万1000円割れ",
-   "path": "/articles/20260729-nikkei-average-falls-below-61000.html",
-   "cat": "株式投資(日本)"
+   "title": "Cyera、AIエージェント保護へOasis Securityを10億ドルで買収",
+   "path": "/articles/20260730-cyera-acquires-oasis-security-1b.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "ウォーシュ新議長の金融政策転換、株式市場への影響は",
-   "path": "/articles/20260729-warsh-frb-balance-sheet.html",
-   "cat": "株式投資(日本)"
+   "title": "OpenAI暴走AI、ハッキング被害は他社にもなぜ拡大したのか",
+   "path": "/articles/20260730-openai-rogue-ai-agent-hacked-more-than-hugging-face.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [],
- "pv_today": 16,
+ "pv_today": null,
  "gemini": {
-  "used": 189,
+  "used": 9,
   "limit": 200
  }
 }
