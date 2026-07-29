@@ -1,26 +1,17 @@
 {
- "updated": "2026-07-29 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "イーロン・マスクのxAIがミネソタ州を提訴、なぜ「ヌディファイ」アプリ禁止法を争うのか",
-   "path": "/articles/20260729-xai-sues-minnesota-nudify-apps.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "米FCC、中国製ロボット等の輸入禁止へ",
-   "path": "/articles/20260729-us-banning-foreign-robots.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-29 11:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
   "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ヒカル「いい大学を出ても道徳学ばないと」SNSバトルで“因縁”の東大YouTub"
+ ],
  "pv_today": 4,
  "gemini": {
-  "used": 70,
+  "used": 73,
   "limit": 200
  }
 }

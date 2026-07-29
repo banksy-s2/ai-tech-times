@@ -5,12 +5,12 @@
    "id": "bVgm4dy6Uxc",
    "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
    "channel": "BANGTANTV",
-   "views": 589065,
+   "views": 614550,
    "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc",
    "thumb": "https://i.ytimg.com/vi/bVgm4dy6Uxc/hqdefault.jpg",
    "regions": [
-    "US",
     "JP",
+    "KR",
     "BR"
    ],
    "rank": 1,
@@ -20,7 +20,7 @@
    "id": "KtH3MqUmnws",
    "title": "An Exclusive Look at Spider-Man: Brand New Day | Spider-Man Returns to Fortnite",
    "channel": "Fortnite",
-   "views": 345242,
+   "views": 401214,
    "url": "https://www.youtube.com/watch?v=KtH3MqUmnws",
    "thumb": "https://i.ytimg.com/vi/KtH3MqUmnws/hqdefault.jpg",
    "regions": [
@@ -35,7 +35,7 @@
    "id": "p67W66bny94",
    "title": "ATEEZ(에이티즈) - 'BAD (Japanese Ver.)' Official MV",
    "channel": "KQ ENTERTAINMENT",
-   "views": 324033,
+   "views": 347775,
    "url": "https://www.youtube.com/watch?v=p67W66bny94",
    "thumb": "https://i.ytimg.com/vi/p67W66bny94/hqdefault.jpg",
    "regions": [
@@ -50,7 +50,7 @@
    "id": "jJObfZSbzAw",
    "title": "Apex Legends: Marked Gameplay Trailer",
    "channel": "Apex Legends",
-   "views": 283088,
+   "views": 293502,
    "url": "https://www.youtube.com/watch?v=jJObfZSbzAw",
    "thumb": "https://i.ytimg.com/vi/jJObfZSbzAw/hqdefault.jpg",
    "regions": [
@@ -65,7 +65,7 @@
    "id": "UKMLprkoG_Q",
    "title": "Shawn Mendes - Treat You Better (Lyrics)",
    "channel": "Unique Vibes",
-   "views": 269096,
+   "views": 281748,
    "url": "https://www.youtube.com/watch?v=UKMLprkoG_Q",
    "thumb": "https://i.ytimg.com/vi/UKMLprkoG_Q/hqdefault.jpg",
    "regions": [
@@ -77,25 +77,25 @@
    "comment": "Shawn Mendesの楽曲の歌詞付き動画のようです"
   },
   {
-   "id": "B1zoJvZOunk",
-   "title": "mgk, Yuki Chiba - JJK (Official Video)",
-   "channel": "MGKVEVO",
-   "views": 117728,
-   "url": "https://www.youtube.com/watch?v=B1zoJvZOunk",
-   "thumb": "https://i.ytimg.com/vi/B1zoJvZOunk/hqdefault.jpg",
+   "id": "qpjboOAxIls",
+   "title": "FLO - Remedied (Official Video)",
+   "channel": "FLO",
+   "views": 131920,
+   "url": "https://www.youtube.com/watch?v=qpjboOAxIls",
+   "thumb": "https://i.ytimg.com/vi/qpjboOAxIls/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "JP"
+    "BR"
    ],
    "rank": 6,
-   "comment": "mgkと千葉雄共演による新曲のオフィシャルビデオのようです"
+   "comment": "FLOの新曲「Remedied」の公式ミュージックビデオです。（29文字）"
   },
   {
    "id": "7VsejGzcJmM",
    "title": "Alaakaa Loova Lyrical Video | OM | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai",
    "channel": "Divo Music",
-   "views": 7331410,
+   "views": 7584023,
    "url": "https://www.youtube.com/watch?v=7VsejGzcJmM",
    "thumb": "https://i.ytimg.com/vi/7VsejGzcJmM/hqdefault.jpg",
    "regions": [
@@ -109,7 +109,7 @@
    "id": "oRsAMzfvVGk",
    "title": "Batwara 1947 | Official Trailer | Shabana Azmi | Sunny Deol | Aamir Khan Productions | 14th Aug 2026",
    "channel": "Aamir Khan Talkies",
-   "views": 4381232,
+   "views": 4399051,
    "url": "https://www.youtube.com/watch?v=oRsAMzfvVGk",
    "thumb": "https://i.ytimg.com/vi/oRsAMzfvVGk/hqdefault.jpg",
    "regions": [
@@ -123,7 +123,7 @@
    "id": "HnWvg90lQt8",
    "title": "Children of Blood and Bone | Official Trailer (2027) - Thuso Mbedu, Damson Idris, Amandla Stenberg",
    "channel": "Paramount Pictures",
-   "views": 3437178,
+   "views": 3848270,
    "url": "https://www.youtube.com/watch?v=HnWvg90lQt8",
    "thumb": "https://i.ytimg.com/vi/HnWvg90lQt8/hqdefault.jpg",
    "regions": [
@@ -137,7 +137,7 @@
    "id": "GACU1N9hg5o",
    "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
    "channel": "Apple TV",
-   "views": 1140338,
+   "views": 1173077,
    "url": "https://www.youtube.com/watch?v=GACU1N9hg5o",
    "thumb": "https://i.ytimg.com/vi/GACU1N9hg5o/hqdefault.jpg",
    "regions": [
@@ -258,6 +258,7 @@
   "UKMLprkoG_Q": "Shawn Mendesの楽曲の歌詞付き動画のようです",
   "p67W66bny94": "ATEEZの「BAD (Japanese Ver.)」公式MV (25字)",
   "KtH3MqUmnws": "フォートナイトにスパイダーマンが復活する特別映像のようです",
-  "B1zoJvZOunk": "mgkと千葉雄共演による新曲のオフィシャルビデオのようです"
+  "B1zoJvZOunk": "mgkと千葉雄共演による新曲のオフィシャルビデオのようです",
+  "qpjboOAxIls": "FLOの新曲「Remedied」の公式ミュージックビデオです。（29文字）"
  }
 }
