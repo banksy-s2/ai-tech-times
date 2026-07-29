@@ -1,66 +1,11 @@
 {
- "updated": "2026-07-30 07:02",
- "mode": "フル便",
+ "updated": "2026-07-30 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "OpenAIグレッグ社長、専用デバイス開発を示唆",
-   "path": "/articles/20260730-openai-president-device-family.html",
+   "title": "マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる",
+   "path": "/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI、ChatGPT Workの5時間制限を明日再開",
-   "path": "/articles/20260730-openai-resumes-chatgpt-work-limit.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AmazonでiPhone Airが異例の叩き売り、その背景とは",
-   "path": "/articles/20260730-iphone-air-amazon-discount.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "クアルコム、9月1日から全プロセッサ値上げ",
-   "path": "/articles/20260730-qualcomm-processor-price-hike-september.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "MetaがQ2売上高608億ドルで28%増、好調なのに時間外で10%超下落の理由",
-   "path": "/articles/20260730-meta-q2-2026-earnings-and-stock-drop.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "大谷翔平の元通訳・水原一平受刑者が高校も未卒業だった",
-   "path": "/articles/20260730-mizuhara-ippei-high-school-dropout.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "高市首相、食料品の消費税率1％に引き下げ方針へ",
-   "path": "/articles/20260730-takaichi-food-consumption-tax-reduction.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "熊本県氷川町などで死者12人、心肺停止6人に",
-   "path": "/articles/20260730-kumamoto-earthquake-damage-update.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均930円安、AI銘柄に広がる半値割れ",
-   "path": "/articles/20260730-nikkei-average-falls-ai-stocks.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "キーエンス株価+9%上昇、営業利益44.7%増の背景",
-   "path": "/articles/20260730-keyence-stock-price-rises-9-percent.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "アドバンテスト、AI推論需要で通期予想を上方修正",
-   "path": "/articles/20260730-advantest-fy2026-q1-earnings.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "ブックオフ、経常益47.2億円で2期連続最高なぜか",
-   "path": "/articles/20260730-bookoff-fy2026-financial-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -68,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [
-  "執筆失敗: Claude Opus 5 became downright ruthless ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: Claude Opus 5 became downright ruthless "
  ],
- "pv_today": 49,
+ "pv_today": 52,
  "gemini": {
-  "used": 62,
+  "used": 67,
   "limit": 200
  }
 }

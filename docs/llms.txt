@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる](https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html) — 2026-07-30 08:00: マイクロソフトが2026年6月30日に終了した2026年度第4四半期の好調な業績を発表し、競合する2大AI企業への投資の成果を明らかにしました。
 - [OpenAIグレッグ社長、専用デバイス開発を示唆](https://ai-tech-times.web.app/articles/20260730-openai-president-device-family.html) — 2026-07-30 07:02: AI TECH TIMESがお届けする最新ニュースです。OpenAIのグレッグ・ブロックマン社長が、同社のAIモデルと対話するための独自のデバイス開発について言及しました。
 - [OpenAI、ChatGPT Workの5時間制限を明日再開](https://ai-tech-times.web.app/articles/20260730-openai-resumes-chatgpt-work-limit.html) — 2026-07-30 07:02: 米OpenAI幹部が、デスクトップ向けサービスなどの利用制限枠を明日から再開すると発表しました。
 - [AmazonでiPhone Airが異例の叩き売り、その背景とは](https://ai-tech-times.web.app/articles/20260730-iphone-air-amazon-discount.html) — 2026-07-30 07:02: はてなブックマークITで話題の「iPhone Air」が、アマゾンにて異例の大幅値引きで販売されています。なぜこのような叩き売り状態となったのでしょうか。
@@ -41,22 +42,21 @@
 - [イオンモール熊本で爆発、3人死亡1人心肺停止なぜ起きのか](https://ai-tech-times.web.app/articles/20260730-aeon-mall-kumamoto-explosion.html) — 2026-07-30 04:00: 「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長らが29日午後、熊本市内で会見を開きました。
 - [サウジアラビア、イラクの親イラン派武装勢力を空爆](https://ai-tech-times.web.app/articles/20260730-saudi-arabia-strikes-iran-backed-militias.html) — 2026-07-30 04:00: サウジアラビアがアメリカ軍と共に、イラク国内の親イラン派武装勢力に対する空爆に参加したことが明らかになりました。
 - [Appleのティム・クックCEO、時価総額5兆ドル突破後に迎える最後の決算発表でどうなるのか](https://ai-tech-times.web.app/articles/20260730-apple-tim-cooks-last-earnings-call.html) — 2026-07-30 02:00: Appleが初めて時価総額5兆ドルを達成した歴史的なタイミングで、ティム・クックCEOが最後の決算発表を迎えます。株価が記録的な水準にある中、彼がどのような懸念事項に対処するのかが注目されています。
-- [Elon MuskのX、広告主団体との数年にわたる法廷闘争で和解](https://ai-tech-times.web.app/articles/20260730-elon-musk-x-settles-legal-battle.html) — 2026-07-30 02:00: AI TECH TIMESがお届けする最新ニュース。Elon Muskが買収したSNSプラットフォーム「X」をめぐる、世界広告主連盟との長年の法廷闘争が決着しました。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [JUMANJI: OPEN WORLD - Official Trailer (4K)](https://www.youtube.com/watch?v=zhApeaHMvfs)
 - 2位: [Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli](https://www.youtube.com/watch?v=VoFFuF4zSjY)
-- 3位: [Alphaville - Forever Young (Lyrics)](https://www.youtube.com/watch?v=2fJN18HYPKc)
+- 3位: [Tony Iommi – World Alone (Official Video)](https://www.youtube.com/watch?v=IddUJxhDgZk)
 
 ## AI用語事典 (全444語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): アメリカ合衆国に本社を置き、iPhoneなどのハードウェアやソフトウェアの開発・販売を手がける世界的な大手テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の大統領。保護主義的な貿易政策や関税措置を掲げ、国内産業の保護と育成を強力に推進している政治家。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): Windowsなどを開発するアメリカの巨大IT企業であり、クラウドサービスやAI分野でも広く知られています。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級のECサイト運営やクラウドサービスを手がける巨大テクノロジー企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramを運営し、オープンソースのAIモデル開発にも積極的に取り組む米IT大手。
