@@ -17561,5 +17561,82 @@
   "date": "2026-07-29",
   "time": "14:00",
   "path": "/articles/20260729-keyence-stock-price-rebounds.html"
+ },
+ {
+  "title": "エディオン会長がヤマダとの経営統合を受け入れた理由",
+  "lead": "家電量販最大手のヤマダホールディングスとの経営統合で基本合意したエディオンの会長が、産経新聞のインタビューに応じました。",
+  "summary3": [
+   "エディオンとヤマダが経営統合へ",
+   "10年断ってきた統合を受諾",
+   "久保会長が理由を語る"
+  ],
+  "body": [
+   "家電量販最大手のヤマダホールディングス（HD）との経営統合で基本合意した、エディオンの久保允誉会長が産経新聞のインタビューに応じたことが明らかになりました。",
+   "これまで10年にわたり統合の打診を断り続けてきたエディオンですが、今回の経営統合の受け入れに至った経緯や理由について、久保会長がインタビューの中で語っています。",
+   "今回の経営統合の基本合意は、家電量販業界における大きな動きとして注目を集めており、今後の動向について関心が寄せられています。"
+  ],
+  "tags": [
+   "エディオン",
+   "ヤマダホールディングス",
+   "経営統合"
+  ],
+  "slug": "edion-yamada-business-integration",
+  "people": [
+   {
+    "name": "久保允誉",
+    "bio": "エディオンの会長を務め、産経新聞のインタビューに応じた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ヤマダホールディングス",
+    "type": "company",
+    "desc": "家電量販店最大手であり、エディオンとの経営統合で基本合意した企業。"
+   },
+   {
+    "name": "エディオン",
+    "type": "company",
+    "desc": "ヤマダホールディングスとの経営統合で基本合意した家電量販店。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2607/29/news062.html",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "15:00",
+  "path": "/articles/20260729-edion-yamada-business-integration.html"
+ },
+ {
+  "title": "イオレ、暗号資産HYPEを取得 国内上場企業で初",
+  "lead": "株式会社イオレが暗号資産HYPEを取得したことが明らかになりました。これは国内上場企業における初の事例となります。",
+  "summary3": [
+   "イオレが暗号資産HYPEを取得",
+   "国内上場企業としては初の事例",
+   "詳細な情報はCoinPostが報道"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、株式会社イオレが暗号資産HYPEを取得したことが判明しました。国内上場企業による暗号資産HYPEの取得は、これが初の事例となります。",
+   "本件に関する詳細な情報は、暗号資産専門メディアのCoinPostによって報じられました。今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "イオレ",
+   "暗号資産",
+   "上場企業"
+  ],
+  "slug": "iore-acquires-crypto-hype",
+  "people": [],
+  "terms": [
+   {
+    "name": "イオレ",
+    "type": "company",
+    "desc": "東京都に拠点を置く、インターネットサービスやグループコミュニケーション支援などを展開する企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkpOcld6MXcxNHdQQm96ZzRhaHVNZklzRHNRMnBrSjJsU1ZoNDBndEZTbU1pM3U3UGcyXzNuRHloR0hJa3NiTGpwc3lkVW9taGNmckVjMlRMdWlsWTl2dTVuY0J5YkZ1X0VpWmkweDVhU3lMcWM2MzRJdlNpMU5WcDlFQkhpd1E?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-29",
+  "time": "15:00",
+  "path": "/articles/20260729-iore-acquires-crypto-hype.html"
  }
 ]

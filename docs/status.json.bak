@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-29 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-29 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "高市首相、熊本地震の死者13人と発表。非常災害対策本部で調査継続",
-   "path": "/articles/20260729-kumamoto-earthquake-casualty-report.html",
-   "cat": "時事・世界"
+   "title": "日経平均2566円安、アジアで半導体株安の背景",
+   "path": "/articles/20260729-nikkei-average-drops-2566-yen-semiconductor-decline.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キーエンス株価が反発、51%増益で",
+   "path": "/articles/20260729-keyence-stock-price-rebounds.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: 米ウクライナ首脳会談 迎撃ミサイルのライセンス生産など協議"
- ],
+ "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 104,
+  "used": 108,
   "limit": 200
  }
 }
