@@ -18834,5 +18834,67 @@
   "date": "2026-07-30",
   "time": "04:00",
   "path": "/articles/20260730-saudi-arabia-strikes-iran-backed-militias.html"
+ },
+ {
+  "title": "日経平均が930円安、SK好決算でもAI過剰投資の懸念はなぜ根強いのか",
+  "lead": "日本経済新聞の報道によると、日経平均株価の終値が930円安を記録しました。SKの好決算発表があったものの力不足となり、AI過剰投資の懸念が根強く残る相場環境となっています。",
+  "summary3": [
+   "日経平均株価の終値は930円安を記録",
+   "SKの好決算でも力不足との見方",
+   "AI過剰投資の懸念が根強く残る"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の市場ニュースです。日本経済新聞の報道によれば、株式市場において日経平均株価の終値が930円安と大きく下落する展開となりました。",
+   "市場では、SKによる好決算発表が行われたものの、それだけでは下落圧力を防ぐための「力不足」と受け止められました。背景には、人工知能（AI）分野における過剰投資への懸念が根強く存在していることがあります。",
+   "今回の株価下落と市場の反応は、AI関連産業の急拡大に対する投資家の警戒感を示すものとなりました。今後の動向については、さらなる企業の業績発表や市場関係者の分析が注目される状況です。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "AI"
+  ],
+  "slug": "nikkei-average-drops-930-yen-ai-investment-concerns",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lT0oxellzUkUwNWN5VkM0YllUS2h0OFZXZXNkc21IaU5Nd3RFMmhlbWpLWmE3cE13TkNhcmVydmdSay1ialhBM1psS1dtSWp3NUtpenBIYlQwaWxtdXVkNWpMRFA3OWJjTUFMdA?oc=5",
+  "category": "stock",
+  "date": "2026-07-30",
+  "time": "05:00",
+  "path": "/articles/20260730-nikkei-average-drops-930-yen-ai-investment-concerns.html"
+ },
+ {
+  "title": "FRB政策金利5会合連続据え置き、その狙いは",
+  "lead": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、政策金利を据え置くと発表しました。据え置きは5会合連続となります。",
+  "summary3": [
+   "FRBが政策金利を据え置きと発表",
+   "据え置きは5会合連続となる",
+   "インフレ動向を慎重に見極めるねらい"
+  ],
+  "body": [
+   "アメリカの中央銀行にあたるFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、29日に政策金利を据え置くと発表しました。金利の据え置きは5会合連続となります。",
+   "今回の決定には、イラン情勢を背景にしたインフレの動向を慎重に見極めるねらいがあるものとみられています。",
+   "FRBは今後の物価動向や経済状況の変化を注視しながら、慎重に金融政策の運営にあたっていく方針です。"
+  ],
+  "tags": [
+   "FRB",
+   "政策金利",
+   "金融政策"
+  ],
+  "slug": "frb-interest-rate-hold-5-consecutive",
+  "people": [],
+  "terms": [
+   {
+    "name": "FRB",
+    "type": "company",
+    "desc": "アメリカの金融政策を決定・遂行する中央銀行にあたる連邦準備制度理事会のことです。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015190151000",
+  "category": "stock",
+  "date": "2026-07-30",
+  "time": "05:00",
+  "path": "/articles/20260730-frb-interest-rate-hold-5-consecutive.html"
  }
 ]

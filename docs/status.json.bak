@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-30 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イオンモール熊本で爆発、3人死亡1人心肺停止なぜ起きのか",
-   "path": "/articles/20260730-aeon-mall-kumamoto-explosion.html",
-   "cat": "時事・世界"
+   "title": "日経平均が930円安、SK好決算でもAI過剰投資の懸念はなぜ根強いのか",
+   "path": "/articles/20260730-nikkei-average-drops-930-yen-ai-investment-concerns.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "サウジアラビア、イラクの親イラン派武装勢力を空爆",
-   "path": "/articles/20260730-saudi-arabia-strikes-iran-backed-militias.html",
-   "cat": "時事・世界"
+   "title": "FRB政策金利5会合連続据え置き、その狙いは",
+   "path": "/articles/20260730-frb-interest-rate-hold-5-consecutive.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [],
- "pv_today": 29,
+ "pv_today": 33,
  "gemini": {
-  "used": 25,
+  "used": 30,
   "limit": 200
  }
 }

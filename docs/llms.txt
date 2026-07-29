@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [6301.T Q1売上高1兆4,031億円で過去最高も利益率低下に懸念](https://ai-tech-times.web.app/articles/20260730-6301-t-fy2026-q1-earnings.html) — 2026-07-30 06:00: AI TECH TIMESがお届けする企業決算ニュースです。6301.TのFY2026第1四半期決算説明会において、売上高が過去最高を更新する一方で利益率低下への懸念が示されました。
+- [政府、ナミビアレアアース開発に最大50億円出資へ](https://ai-tech-times.web.app/articles/20260730-government-investment-namibia-rare-earth.html) — 2026-07-30 06:00: 政府が南西アフリカのナミビアにおけるレアアース鉱山開発を目的とした会社に対し、最大50億円程度の出資を決めたことが明らかになりました。
 - [日経平均が930円安、SK好決算でもAI過剰投資の懸念はなぜ根強いのか](https://ai-tech-times.web.app/articles/20260730-nikkei-average-drops-930-yen-ai-investment-concerns.html) — 2026-07-30 05:00: 日本経済新聞の報道によると、日経平均株価の終値が930円安を記録しました。SKの好決算発表があったものの力不足となり、AI過剰投資の懸念が根強く残る相場環境となっています。
 - [FRB政策金利5会合連続据え置き、その狙いは](https://ai-tech-times.web.app/articles/20260730-frb-interest-rate-hold-5-consecutive.html) — 2026-07-30 05:00: アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、政策金利を据え置くと発表しました。据え置きは5会合連続となります。
 - [イオンモール熊本で爆発、3人死亡1人心肺停止なぜ起きのか](https://ai-tech-times.web.app/articles/20260730-aeon-mall-kumamoto-explosion.html) — 2026-07-30 04:00: 「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長らが29日午後、熊本市内で会見を開きました。
@@ -40,8 +42,6 @@
 - [TSMC熊本工場、地震で一時中断も通常操業へ](https://ai-tech-times.web.app/articles/20260729-tsmc-kumamoto-plant-earthquake-recovery.html) — 2026-07-29 21:03: 半導体受託製造大手の台湾TSMCは、熊本県で発生した最大震度7の地震の影響で一時中断していた子会社JASMの操業について、段階的に通常操業に戻りつつあると明らかにしました。
 - [デジタル庁、生成AI「源内」を被災自治体に緊急提供](https://ai-tech-times.web.app/articles/20260729-digital--gennai-emergency.html) — 2026-07-29 21:03: デジタル庁は、政府職員向けの生成AI利用環境「ガバメントAI 源内」を被災自治体や災害対策機関などに緊急提供すると発表しました。平時をはるかに超える災害対応業務を支援する狙いです。
 - [eBay、5600万ドルで和解：批判的な執筆者への嫌がらせ事件の結末](https://ai-tech-times.web.app/articles/20260729-ebay-reaches-56m-settlement.html) — 2026-07-29 21:03: 大手オンラインマーケットプレイスのeBayが、自社への批判的な報道を行ったニュースレター執筆者に対し、5600万ドルで和解に合意しました。
-- [イーロン・マスク氏のX Money始動、主要市場の除外でどうなる](https://ai-tech-times.web.app/articles/20260729-elon-musk-launches-x-money.html) — 2026-07-29 21:03: Ars Technicaによると、イーロン・マスク氏が率いるX（旧Twitter）において「X Money」がついにローンチされました。しかし、主要な米国の金融市場が除外されているため、今後の展開には混乱が予想されています。
-- [日本製紙八代工場で煙突倒壊、5人死亡の被害](https://ai-tech-times.web.app/articles/20260729-nippon-paper-yatsushiro-factory-earthquake.html) — 2026-07-29 21:03: 熊本県にある日本製紙の八代工場で地震による被害が発生し、これまでに5人が死亡、2人がけがを負いました。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [JUMANJI: OPEN WORLD - Official Trailer (4K)](https://www.youtube.com/watch?v=zhApeaHMvfs)
@@ -73,12 +73,12 @@
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが発表した最新のAIモデルで、Maxプランの新たな既定モデルとなります。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
+- [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): アメリカの金融政策を担う中央銀行制度であり、法定通貨ドルの発行や金利の調整などを統括している。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー系ニュースメディアで、スタートアップやIT企業の情報を専門に報じています。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本を代表する通信・IT事業者であり、移動通信サービスやAI・IT分野の事業を幅広く展開する企業。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが提供する、コマンドラインインターフェースで動作するAIコーディングアシスタント。
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
-- [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
