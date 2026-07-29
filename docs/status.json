@@ -1,18 +1,7 @@
 {
- "updated": "2026-07-29 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [
-  {
-   "title": "エディオン会長がヤマダとの経営統合を受け入れた理由",
-   "path": "/articles/20260729-edion-yamada-business-integration.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "イオレ、暗号資産HYPEを取得 国内上場企業で初",
-   "path": "/articles/20260729-iore-acquires-crypto-hype.html",
-   "cat": "日本企業"
-  }
- ],
+ "updated": "2026-07-29 16:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
@@ -20,7 +9,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 113,
+  "used": 114,
   "limit": 200
  }
 }

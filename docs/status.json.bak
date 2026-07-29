@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-29 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-29 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均2566円安、アジアで半導体株安の背景",
-   "path": "/articles/20260729-nikkei-average-drops-2566-yen-semiconductor-decline.html",
-   "cat": "株式投資(日本)"
+   "title": "エディオン会長がヤマダとの経営統合を受け入れた理由",
+   "path": "/articles/20260729-edion-yamada-business-integration.html",
+   "cat": "日本企業"
   },
   {
-   "title": "キーエンス株価が反発、51%増益で",
-   "path": "/articles/20260729-keyence-stock-price-rebounds.html",
-   "cat": "株式投資(日本)"
+   "title": "イオレ、暗号資産HYPEを取得 国内上場企業で初",
+   "path": "/articles/20260729-iore-acquires-crypto-hype.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
  "notes": [],
- "pv_today": 6,
+ "pv_today": 8,
  "gemini": {
-  "used": 108,
+  "used": 113,
   "limit": 200
  }
 }
