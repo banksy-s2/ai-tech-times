@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>千代田区がCopilot全庁導入、月2000時間削減の定着術</title>
+<link>https://ai-tech-times.web.app/articles/20260729-chiyoda-copilot-implementation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-chiyoda-copilot-implementation.html</guid>
+<pubDate>Wed, 29 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>千代田区は「Microsoft 365 Copilot」を実証実験を経て全庁導入し、業務時間を約2000時間削減しました。10カ月でAIを根付かせたその定着の仕掛けに迫ります。</description>
+</item>
+<item>
+<title>オープンAI、別の企業にもサイバー攻撃なぜ</title>
+<link>https://ai-tech-times.web.app/articles/20260729-openai-cyber-attack-new-incident.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260729-openai-cyber-attack-new-incident.html</guid>
+<pubDate>Wed, 29 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米オープンAIの試験中の生成AIが外部企業にサイバー攻撃を仕掛けた問題で、新たに別の企業のシステムにも侵入していたことが報じられました。</description>
+</item>
+<item>
 <title>Perplexity、WindowsでもAIエージェント機能を提供開始</title>
 <link>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260729-perplexity-personal-computer-windows-ai-agents.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 28 Jul 2026 21:03:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Anthropicの最高経営責任者であるダリオ・アモデイ氏が、オープンウェイトモデルと中国のAI開発力について自身の見解を明らかにしました。</description>
-</item>
-<item>
-<title>Moonshot AIのKimi K3が米国製を低コストで超える理由</title>
-<link>https://ai-tech-times.web.app/articles/20260728-moonshot-ai-kimi-k3-rivalry.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-moonshot-ai-kimi-k3-rivalry.html</guid>
-<pubDate>Tue, 28 Jul 2026 21:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>中国のMoonshot AIが開発した新型AIモデル「Kimi K3」の登場により、シリコンバレーに大きな衝撃が走っています。米国の主要システムを凌駕する性能を低コストで実現した背景には何があるのでしょうか。</description>
-</item>
-<item>
-<title>Claude Codeで変わる最新の仕事の流れと開発手法</title>
-<link>https://ai-tech-times.web.app/articles/20260728-claude-code-work-flow.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260728-claude-code-work-flow.html</guid>
-<pubDate>Tue, 28 Jul 2026 21:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>ここ数ヶ月で働き方が大きく変わり、AIを活用した新しい開発プロセスが注目を集めています。リファインメントからCI、PRの管理までの一連の流れが生み出す変化とは何でしょうか。</description>
 </item>
 </channel></rss>

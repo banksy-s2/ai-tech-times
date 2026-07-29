@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-29 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-29 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Perplexity、WindowsでもAIエージェント機能を提供開始",
-   "path": "/articles/20260729-perplexity-personal-computer-windows-ai-agents.html",
-   "cat": "AI(海外)"
+   "title": "千代田区がCopilot全庁導入、月2000時間削減の定着術",
+   "path": "/articles/20260729-chiyoda-copilot-implementation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オープンAI、別の企業にもサイバー攻撃なぜ",
+   "path": "/articles/20260729-openai-cyber-attack-new-incident.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Ted Lasso — Season 4 Official Trailer (Together) | Apple TV",
-  "url": "https://www.youtube.com/watch?v=GACU1N9hg5o"
+  "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Visualizer for ARMY",
+  "url": "https://www.youtube.com/watch?v=bVgm4dy6Uxc"
  },
- "notes": [
-  "執筆失敗: AI leaders sign statement asking the gov"
- ],
+ "notes": [],
  "pv_today": 4,
  "gemini": {
-  "used": 62,
+  "used": 67,
   "limit": 200
  }
 }
