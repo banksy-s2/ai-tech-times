@@ -18465,5 +18465,72 @@
   "date": "2026-07-29",
   "time": "22:02",
   "path": "/articles/20260729-three-mile-island-restart.html"
+ },
+ {
+  "title": "日経平均一時1900円下落、6万1000円割れ",
+  "lead": "日経平均株価が一時1900円を超える下落となり、6万1000円を割り込みました。AI関連株が売られたことが主な要因となっています。",
+  "summary3": [
+   "日経平均が一時1900円下落",
+   "AI関連株が売られる展開に",
+   "節目の6万1000円を割る"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする市場の動きです。株式市場において、日経平均株価が一時1900円下落を記録し、6万1000円を割り込む展開となりました。",
+   "今回の下落の背景には、これまで市場を牽引してきたAI関連株が広く売られたことがあります。売りの動きが優勢となり、指数全体を押し下げる格好となりました。",
+   "市場関係者の間では、今後の株価の動向やAI関連銘柄の値動きに対する警戒感が広がっています。引き続き慎重な市場観察が求められる状況です。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "AI関連株"
+  ],
+  "slug": "nikkei-average-falls-below-61000",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwbzloRDI1ZW9KaGg1MmwzVmRkbDZoTVZhbi1IOWd4Q0RHTkpOUGMzaVhiRHlPbHlCSVRSZ1ZFSU00dnR6Tl82bFpCM24tWUlLMGZEMWlYTGpmYWo5bXV2TTNadUhTd3R6dTBWZHlPeEtPUFpEbnAtZFRyNnNQa1E?oc=5",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "23:03",
+  "path": "/articles/20260729-nikkei-average-falls-below-61000.html"
+ },
+ {
+  "title": "ウォーシュ新議長の金融政策転換、株式市場への影響は",
+  "lead": "米連邦準備制度理事会（FRB）の新議長・ウォーシュ氏が就任後2度目のFOMCを迎え、金融政策の転換に注目が集まっています。フォワードガイダンス廃止やバランスシート縮小の本気度が取り沙汰されています。",
+  "summary3": [
+   "ウォーシュ新議長が就任後2度目のFOMCを迎える",
+   "フォワードガイダンス廃止や政策転換に注目が集まる",
+   "バランスシート縮小の本気度が市場に影響を与える"
+  ],
+  "body": [
+   "米連邦準備制度理事会（FRB）の新議長・ウォーシュ氏が就任後2度目のFOMCを迎え、金融政策の転換に大きな注目が集まっています。市場では、フォワードガイダンスの廃止やバランスシート縮小に対する同氏の本気度がどのように表れるのか、その動向を慎重に見極めようとする動きが広がっています。",
+   "インフレ抑制に向けてバランスシート縮小を急ぐ場合、株式市場への影響は甚大になるという指摘もなされています。しかし、市場参加者の間では、こうしたバランスシート縮小に伴う影響が十分に織り込まれておらず、過小評価されているとの見方も示されています。",
+   "今後は、金融政策の方向性や具体的な施策が経済や市場にどのような波及効果をもたらすのか、引き続き高い関心が寄せられることになります。金融当局の決定と市場の反応に、関係者の視線が注がれています。"
+  ],
+  "tags": [
+   "FRB",
+   "金融政策",
+   "株式市場"
+  ],
+  "slug": "warsh-frb-balance-sheet",
+  "people": [
+   {
+    "name": "ウォーシュ氏",
+    "bio": "米連邦準備制度理事会（FRB）の新議長を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "米連邦準備制度理事会（FRB）",
+    "type": "company",
+    "desc": "アメリカ合衆国の中央銀行制度を統括する機関で、金融政策を決定する。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/953042?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-29",
+  "time": "23:03",
+  "path": "/articles/20260729-warsh-frb-balance-sheet.html"
  }
 ]
