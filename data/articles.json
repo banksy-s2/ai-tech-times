@@ -21273,5 +21273,93 @@
   "date": "2026-07-31",
   "time": "01:01",
   "path": "/articles/20260731-ai-semiconductor-market-outlook.html"
+ },
+ {
+  "title": "Amazon傘下のZoox、有料ロボタクシー実現へ",
+  "lead": "Amazon傘下の自動運転技術企業Zooxが、連邦安全規制当局から一時的な免除措置を獲得しました。これにより、カスタムメイドのロボタクシーによる有料サービスの提供が可能になります。",
+  "summary3": [
+   "Amazon傘下のZooxが規制をクリア",
+   "ロボタクシーによる有料サービスが可能に",
+   "連邦安全規制当局から一時的免除を獲得"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回のニュースは、自動運転分野における新たな展開です。Amazon傘下の自動運転技術企業であるZooxは、連邦安全規制当局から一時的な免除措置を与えられました。",
+   "この免除措置により、同社が独自に開発したカスタムメイドのロボタクシーを使用して、顧客から料金を徴収して乗車サービスを提供することが可能になります。",
+   "長年にわたり開発が進められてきた自動運転車両によるサービス展開において、連邦レベルでの最後のハードルをクリアしたことになり、今後のサービス開始に向けた大きな前進となります。"
+  ],
+  "tags": [
+   "Zoox",
+   "Amazon",
+   "自動運転"
+  ],
+  "slug": "zoox-clears-final-federal-hurdle",
+  "people": [],
+  "terms": [
+   {
+    "name": "Zoox",
+    "type": "company",
+    "desc": "完全自動運転のロボタクシー開発を手がけるアメリカの企業で、現在はAmazonの傘下に入っている。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大級のECサイト運営やクラウドサービスなどを展開する総合テック企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "02:00",
+  "path": "/articles/20260731-zoox-clears-final-federal-hurdle.html"
+ },
+ {
+  "title": "Metaが9%急落で株価低迷、Microsoftは15%急騰したAI投資の明暗",
+  "lead": "AI関連の投資動向が分かれる中、Metaはフリーキャッシュフローの急減により収益見通しを下回り、株価が9%下落する記録的な低迷を続けました。一方、Microsoftは堅調なクラウドとAI支援機能の成長により、株価が15%急騰しています。",
+  "summary3": [
+   "Meta株は9%急落し低迷が続く",
+   "Microsoft株は15%急騰した",
+   "AI投資の明暗が分かれる展開に"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、AI関連の市場動向が分かれる中で、主要テック企業の株価に対照的な動きが見られました。Microsoftは、クラウドサービスであるAzureおよび、作業を支援するCopilotの強力な成長を記録し、投資家からの高い評価を集めています。",
+   "その結果、同社の株価は15%の大幅な急騰を見せました。企業のデジタル化やAI導入の需要を背景に、強さを示す形となっています。",
+   "対照的に、Metaは収益見通しの予測を下回る結果となりました。フリーキャッシュフローが急激に落ち込んだことが響き、株価は9%下落して記録的な低迷を続けています。AI投資をめぐる戦略や財務状況の違いが、両社の株価に明確な差を生む結果となりました。"
+  ],
+  "tags": [
+   "Meta",
+   "Microsoft",
+   "AI"
+  ],
+  "slug": "meta-and-microsoft-stock-split-on-ai-trade",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "ソーシャルメディアの運営を中心に展開するアメリカのIT企業です。"
+   },
+   {
+    "name": "Azure",
+    "type": "ai",
+    "desc": "Microsoftが提供する、多様なクラウドコンピューティングサービスです。"
+   },
+   {
+    "name": "Copilot",
+    "type": "ai",
+    "desc": "Microsoftが提供する、業務効率化を支援するAIアシスタント機能です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "02:00",
+  "path": "/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html"
  }
 ]

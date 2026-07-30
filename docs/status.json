@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-31 01:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-31 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "キオクシア、フジクラの稼ぎ頭は？AI半導体市場の今後",
-   "path": "/articles/20260731-ai-semiconductor-market-outlook.html",
-   "cat": "日本のAI"
+   "title": "Amazon傘下のZoox、有料ロボタクシー実現へ",
+   "path": "/articles/20260731-zoox-clears-final-federal-hurdle.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Metaが9%急落で株価低迷、Microsoftは15%急騰したAI投資の明暗",
+   "path": "/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [
-  "執筆失敗: KADOKAWAとはてな、AIで小説執筆を支援　新サービス「RIKU」、テスター"
- ],
+ "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }
