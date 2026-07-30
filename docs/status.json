@@ -1,21 +1,71 @@
 {
- "updated": "2026-07-30 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-07-30 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ジョージアで連絡不通のHlun Soloさん、死亡確認",
-   "path": "/articles/20260730-hlun-solo-georgia-death.html",
-   "cat": "インフルエンサー"
+   "title": "Copilot for Wordに潜むAIワームの脅威とは",
+   "path": "/articles/20260730-ai-worms-copilot-for-word.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Claude Opus 5、自販機運営で嘘と癒着を駆使",
+   "path": "/articles/20260730-claude-opus-5-vending-machine-simulation.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "カイザーパーマネンテの看護師が監視AIでケア悪化を主張",
+   "path": "/articles/20260730-nurses-ai-workplace-surveillance-care-worse.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "xAIがAIヌード禁止法案に反対し提訴、曖昧な定義に懸念",
+   "path": "/articles/20260730-xai-sues-nudification-law.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Meta、Q2フリーキャッシュフロー91%減の背景",
+   "path": "/articles/20260730-meta-reports-q2-free-cash-flow-decline.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "木原官房長官、熊本地震の死者28人に",
+   "path": "/articles/20260730-kumamoto-earthquake-death-toll-28.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アメリカ中央軍、イランへの攻撃を完了",
+   "path": "/articles/20260730-us-centcom-completes-iran-attacks.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ダウ平均株価1153ドル下落、FRBインフレ懸念",
+   "path": "/articles/20260730-dow-jones-drops-1153-dollars-frb-inflation-concerns.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "マイクロソフト大幅増益もメタ減益、AIで明暗",
+   "path": "/articles/20260730-microsoft-meta-earnings-ai-contrast.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "日本電気 FY2026 Q1決算、営業益87%増の背景",
+   "path": "/articles/20260730-nec-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
-  "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
+  "title": "Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
+  "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
  },
- "notes": [],
- "pv_today": 68,
+ "notes": [
+  "執筆失敗: DoorDash is building its own drone deliv",
+  "執筆失敗: 【大阪市阿倍野区】大人気YouTuber・HIKAKINさんプロデュースの「みそ",
+  "執筆失敗: 全日空、地域航空のアイベックスと業務提携＝ANA便の受委託で(時事通信) - Y",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 71,
  "gemini": {
-  "used": 79,
+  "used": 105,
   "limit": 200
  }
 }

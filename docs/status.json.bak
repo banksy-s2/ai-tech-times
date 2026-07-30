@@ -1,18 +1,21 @@
 {
- "updated": "2026-07-30 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [],
+ "updated": "2026-07-30 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "ジョージアで連絡不通のHlun Soloさん、死亡確認",
+   "path": "/articles/20260730-hlun-solo-georgia-death.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: Meta reports free cash flow of $784M in ",
-  "執筆失敗: DoorDash is building its own drone deliv"
- ],
- "pv_today": 62,
+ "notes": [],
+ "pv_today": 68,
  "gemini": {
-  "used": 75,
+  "used": 79,
   "limit": 200
  }
 }
