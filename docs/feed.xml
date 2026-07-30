@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>日本HP、楽天の70億LLM搭載PCを提供へ</title>
+<link>https://ai-tech-times.web.app/articles/20260730-hp-rakuten-ai-desktop.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-hp-rakuten-ai-desktop.html</guid>
+<pubDate>Thu, 30 Jul 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日本HPと楽天は、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始しました。オフラインでのローカル実行が可能となります。</description>
+</item>
+<item>
+<title>マイクロソフト総売上高14.7兆円、クラウド増なのにXBOXはなぜ苦戦？</title>
+<link>https://ai-tech-times.web.app/articles/20260730-microsoft-2026-q4-earnings.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-microsoft-2026-q4-earnings.html</guid>
+<pubDate>Thu, 30 Jul 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>マイクロソフトが2026年度第4四半期決算を発表しました。クラウドとAI事業が牽引し、全社売上高が前年同期比18％増の約14兆7000億円に達した一方、ゲーム事業の苦戦が明らかになりました。</description>
+</item>
+<item>
 <title>マーサ・スチュワート氏共同創業のHint、住宅管理AIを提供</title>
 <link>https://ai-tech-times.web.app/articles/20260730-hint-ai-assistant-homeowners.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260730-hint-ai-assistant-homeowners.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 30 Jul 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>世界の人型ロボットの大部分を供給する中国が、最大の輸出市場である米国から突然締め出されました。米政府が外国テクノロジー依存の低減に動く中、なぜこのような決定が下されたのでしょうか。</description>
-</item>
-<item>
-<title>GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針</title>
-<link>https://ai-tech-times.web.app/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html</guid>
-<pubDate>Thu, 30 Jul 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>2026年7月30日、Ruby on Railsにおいて認証不要でリモートコード実行につながる深刻な脆弱性が公開されました。開発者が今すぐ取るべき対策について解説します。</description>
-</item>
-<item>
-<title>マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる</title>
-<link>https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html</guid>
-<pubDate>Thu, 30 Jul 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>マイクロソフトが2026年6月30日に終了した2026年度第4四半期の好調な業績を発表し、競合する2大AI企業への投資の成果を明らかにしました。</description>
 </item>
 </channel></rss>
