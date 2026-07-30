@@ -574,7 +574,17 @@
   "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
   "https://www.cnn.co.jp/business/35251078.html",
   "https://blog.flatt.tech/entry/kindarails2shell_rails",
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wNGw0eUVhaUhqY3RXb3BXcDgyb0xWQ3FJN0Z0UHlwYlNXQkM4dzBSZUZSNU9LRi1XTEM3NXp0VHppeHRrQ21IOXZxNGJzN2lvbG1WTA?oc=5"
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wNGw0eUVhaUhqY3RXb3BXcDgyb0xWQ3FJN0Z0UHlwYlNXQkM4dzBSZUZSNU9LRi1XTEM3NXp0VHppeHRrQ21IOXZxNGJzN2lvbG1WTA?oc=5",
+  "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+  "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+  "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
+  "https://gigazine.net/news/20260729-xai-sue-nudification-law/",
+  "https://www.techmeme.com/260729/p40#a260729p40",
+  "https://news.web.nhk/newsweb/na/na-k10015190421000",
+  "https://news.web.nhk/newsweb/na/na-k10015190431000",
+  "https://news.web.nhk/newsweb/na/na-k10015190381000",
+  "https://news.web.nhk/newsweb/na/na-k10015190491000",
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fdmpmTzExNWxDbnJ5RkYxVDdTczBackxhdTBRQm9NckRtWU1UZXB0YkZnbDRyWlNacVFRd2RQYnNTNnhHejI1VXE0eUhhVmNkSFdMZXU2Y096VEhNZ0Vr?oc=5"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1708,6 +1718,26 @@
   "米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは",
   "GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針",
   "ジョージアで連絡不通のタイ人旅行YouTuber「Hlun Solo」さん、死亡確認 - タイランドハイパーリンクス",
-  "ジョージアで連絡不通のHlun Soloさん、死亡確認"
+  "ジョージアで連絡不通のHlun Soloさん、死亡確認",
+  "Document-borne AI worms can self-propagate through Copilot for Word",
+  "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+  "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
+  "AIによるヌード化を禁止する法案にxAIが反対表明、定義が曖昧でトランプ大統領の水着画像も罰金対象になるとして",
+  "Meta reports free cash flow of $784M in Q2, down 91% YoY, and now expects 2026 capex to be $130B-$145B, compared with its prior forecast of $125B-$145B (Reuters)",
+  "熊本地震 関連調査中含め死者28人に【現地からの映像も】",
+  "アメリカ中央軍 イランへの攻撃を完了したと発表",
+  "ダウ平均株価1153ドル下落 FRBがインフレ対策に後手の懸念も",
+  "米IT決算 マイクロソフト増益もメタ減益 AIで明暗分かれる",
+  "【日本電気 FY2026 Q1 決算説明会】ブルーステラー急伸で営業益87%増、通期予想を上方修正 - BigGo ファイナンス",
+  "Copilot for Wordに潜むAIワームの脅威とは",
+  "Claude Opus 5、自販機運営で嘘と癒着を駆使",
+  "カイザーパーマネンテの看護師が監視AIでケア悪化を主張",
+  "xAIがAIヌード禁止法案に反対し提訴、曖昧な定義に懸念",
+  "Meta、Q2フリーキャッシュフロー91%減の背景",
+  "木原官房長官、熊本地震の死者28人に",
+  "アメリカ中央軍、イランへの攻撃を完了",
+  "ダウ平均株価1153ドル下落、FRBインフレ懸念",
+  "マイクロソフト大幅増益もメタ減益、AIで明暗",
+  "日本電気 FY2026 Q1決算、営業益87%増の背景"
  ]
 }
