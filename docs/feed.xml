@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>日本で強力な地震、13人死亡後に100回超の余震</title>
+<link>https://ai-tech-times.web.app/articles/20260730-japan-earthquake-aftershocks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-japan-earthquake-aftershocks.html</guid>
+<pubDate>Thu, 30 Jul 2026 22:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>BBC Worldによると、日本で強力な地震が発生し13人が死亡しました。その後も100回を超える余震が観測されており、当局は警戒を呼びかけています。</description>
+</item>
+<item>
 <title>国際学会が指摘、LLM構造的欠陥のなぜ</title>
 <link>https://ai-tech-times.web.app/articles/20260730-llm-fundamental-flaw-vulnerability.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260730-llm-fundamental-flaw-vulnerability.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Thu, 30 Jul 2026 16:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>メディア企業がAIモデルの訓練に使われた作品のデータセットを公開したことで、自身の著作物が無断で使用されていたことを知る作家が相次いでいます。</description>
-</item>
-<item>
-<title>アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは</title>
-<link>https://ai-tech-times.web.app/articles/20260730-earnings-impact-prime-market-july29.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-earnings-impact-prime-market-july29.html</guid>
-<pubDate>Thu, 30 Jul 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>AI TECH TIMESでは、7月29日に発表された東証プライム上場企業の決算プラス・インパクト銘柄に関する情報を伝えます。</description>
 </item>
 </channel></rss>

@@ -21061,5 +21061,39 @@
   "date": "2026-07-30",
   "time": "21:05",
   "path": "/articles/20260730-konami-group-financial-results-silent-hill.html"
+ },
+ {
+  "title": "日本で強力な地震、13人死亡後に100回超の余震",
+  "lead": "BBC Worldによると、日本で強力な地震が発生し13人が死亡しました。その後も100回を超える余震が観測されており、当局は警戒を呼びかけています。",
+  "summary3": [
+   "日本で強力な地震により13人が死亡",
+   "発生後に100回を超える余震を観測",
+   "マグニチュード7の余震に警戒呼びかけ"
+  ],
+  "body": [
+   "BBC Worldの報道によると、日本で強力な地震が発生し、これまでに13人の死亡が確認されました。災害の発生後、現地では住民に対して警戒を続けるよう強く呼びかけられています。",
+   "当局の発表によると、最初の地震の後、これまでに100回を超える余震が観測されています。さらに今後、マグニチュード7に達するような大きな余震が発生する可能性もあるとして、引き続いた注意が必要です。",
+   "被災地やその周辺地域では、公式の発表や最新の気象情報に注意し、安全確保を最優先に行動することが求められています。"
+  ],
+  "tags": [
+   "地震",
+   "災害",
+   "日本"
+  ],
+  "slug": "japan-earthquake-aftershocks",
+  "people": [],
+  "terms": [
+   {
+    "name": "BBC World",
+    "type": "company",
+    "desc": "イギリスの公共放送BBCが運営する国際的なニュース専門の放送チャンネルおよびメディア。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-07-30",
+  "time": "22:00",
+  "path": "/articles/20260730-japan-earthquake-aftershocks.html"
  }
 ]
