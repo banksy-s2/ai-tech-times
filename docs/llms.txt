@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アドバンテスト株価一時16.7%高、27年3月期純利益上方修正の理由](https://ai-tech-times.web.app/articles/20260730-advantest-stock-up-16-7-percent.html) — 2026-07-30 23:00: アドバンテストの株価が一時16.7%高となり、話題を集めています。2027年3月期の純利益を上方修正したことが日本経済新聞により報じられました。
+- [JTが配当利回り4.0％に、2期連続増配で1株272円へ](https://ai-tech-times.web.app/articles/20260730-jt-dividend-increase-2026.html) — 2026-07-30 23:00: JT（日本たばこ産業）は、2期連続となる増配を発表し、配当利回りが4.0％に達したことを明らかにしました。
 - [日本で強力な地震、13人死亡後に100回超の余震](https://ai-tech-times.web.app/articles/20260730-japan-earthquake-aftershocks.html) — 2026-07-30 22:00: BBC Worldによると、日本で強力な地震が発生し13人が死亡しました。その後も100回を超える余震が観測されており、当局は警戒を呼びかけています。
 - [国際学会が指摘、LLM構造的欠陥のなぜ](https://ai-tech-times.web.app/articles/20260730-llm-fundamental-flaw-vulnerability.html) — 2026-07-30 21:05: 大規模言語モデル（LLM）には仕組み上の根本的な欠陥があり、ハッキングに対する完全な防御が不可能なことが明らかになりました。トップAIカンファレンスの研究発表が、AI技術の安全性に大きな影響を与えています。
 - [JuliaHub調査：物理AIで勝るのはGPT-5.6かClaude Fable 5か](https://ai-tech-times.web.app/articles/20260730-gpt-5-6-vs-claude-fable-5-physical-ai.html) — 2026-07-30 21:05: 最新のフロンティアモデルにおける物理AIの性能評価が公開され、注目を集めています。GPT-5.6とClaude Fable 5のどちらが優れているのでしょうか。
@@ -40,8 +42,6 @@
 - [ロールス・ロイス受注増のなぜ？AIデータセンターが50%超伸長](https://ai-tech-times.web.app/articles/20260730-rolls-royce-ai-data-center-guidance.html) — 2026-07-30 19:01: 英ロールス・ロイスが業績予想を上方修正しました。防衛需要の拡大に加え、AIデータセンター向けの受注が急増した背景に迫ります。
 - [日本HP、楽天の70億LLM搭載PCを提供へ](https://ai-tech-times.web.app/articles/20260730-hp-rakuten-ai-desktop.html) — 2026-07-30 18:01: 日本HPと楽天は、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始しました。オフラインでのローカル実行が可能となります。
 - [マイクロソフト総売上高14.7兆円、クラウド増なのにXBOXはなぜ苦戦？](https://ai-tech-times.web.app/articles/20260730-microsoft-2026-q4-earnings.html) — 2026-07-30 18:01: マイクロソフトが2026年度第4四半期決算を発表しました。クラウドとAI事業が牽引し、全社売上高が前年同期比18％増の約14兆7000億円に達した一方、ゲーム事業の苦戦が明らかになりました。
-- [マーサ・スチュワート氏共同創業のHint、住宅管理AIを提供](https://ai-tech-times.web.app/articles/20260730-hint-ai-assistant-homeowners.html) — 2026-07-30 17:05: 米国の著名人が共同創業したAIスタートアップ「Hint」が、住宅管理を一つにまとめる新しいAIアシスタントアプリを発表しました。物件記録やメンテナンスなどをアプリでどのように管理するのでしょうか。
-- [1Xが発表、人間より上手に夕食を作るAIロボット](https://ai-tech-times.web.app/articles/20260730-ai-hype-index-unsexy-ai.html) — 2026-07-30 17:05: AIが人間の仕事を奪うという議論が進む中、今度は夕食作りまで人間より上手に行う可能性が示され、注目を集めています。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
@@ -68,6 +68,7 @@
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカの宇宙航空企業であり、ロケット開発や衛星通信サービス「Starlink」を展開している。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
+- [アドバンテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスター）の大手メーカーであり、世界トップクラスのシェアを誇る日本の電機企業。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
@@ -78,7 +79,6 @@
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [Claude Fable 5とは](https://ai-tech-times.web.app/term/claude-fable-5.html): 高度な推論能力と自然な対話を持ち味とする、最先端のフロンティアAIモデルの一つです。
-- [アドバンテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスタ）の製造・販売を主力とする日本の大手電気機器メーカーです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

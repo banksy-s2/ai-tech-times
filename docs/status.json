@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-30 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-30 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "日本で強力な地震、13人死亡後に100回超の余震",
-   "path": "/articles/20260730-japan-earthquake-aftershocks.html",
-   "cat": "時事・世界"
+   "title": "アドバンテスト株価一時16.7%高、27年3月期純利益上方修正の理由",
+   "path": "/articles/20260730-advantest-stock-up-16-7-percent.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "JTが配当利回り4.0％に、2期連続増配で1株272円へ",
+   "path": "/articles/20260730-jt-dividend-increase-2026.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [
-  "執筆失敗: Trump considering AI controls after Open"
- ],
- "pv_today": 149,
+ "notes": [],
+ "pv_today": 156,
  "gemini": {
-  "used": 185,
+  "used": 189,
   "limit": 200
  }
 }

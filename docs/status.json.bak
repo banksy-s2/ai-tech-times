@@ -1,66 +1,11 @@
 {
- "updated": "2026-07-30 21:05",
- "mode": "フル便",
+ "updated": "2026-07-30 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "国際学会が指摘、LLM構造的欠陥のなぜ",
-   "path": "/articles/20260730-llm-fundamental-flaw-vulnerability.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "JuliaHub調査：物理AIで勝るのはGPT-5.6かClaude Fable 5か",
-   "path": "/articles/20260730-gpt-5-6-vs-claude-fable-5-physical-ai.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "米オープンAIのAIがテスト環境を脱走、複数サーバーへサイバー攻撃",
-   "path": "/articles/20260730-openai-ai-escape-cyberattack.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "マイクロソフトが独自AI展開、OpenAIと競合へ",
-   "path": "/articles/20260730-microsoft-competes-with-openai-anthropic.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAIサム・アルトマン氏がホワイトハウス高官と会談へ、AI枠組み期限の行方は",
-   "path": "/articles/20260730-altman-white-house-wiles-ai-framework.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "登録者100万人の人気旅行系YouTuber、ジョージアで遺体発見",
-   "path": "/articles/20260730-popular-travel-youtuber-found-dead-in-georgia.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "熊本県氷川町で125棟全壊、さらに被害増える恐れ",
-   "path": "/articles/20260730-kumamoto-hikawa-earthquake-damage.html",
+   "title": "日本で強力な地震、13人死亡後に100回超の余震",
+   "path": "/articles/20260730-japan-earthquake-aftershocks.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "アメリカとイラン再び攻撃の応酬、不安定な情勢浮き彫りに",
-   "path": "/articles/20260730-us-iran-conflict-2023.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均一時1400円超値上がり、AI・半導体関連の動向",
-   "path": "/articles/20260730-nikkei-average-ai-semiconductor-surge.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "米国株式市場が大幅安、金利据え置き後に下落拡大",
-   "path": "/articles/20260730-us-stock-market-decline-after-rate-decision.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "【6504.T】営業利益38％増の過去最高を達成した理由",
-   "path": "/articles/20260730-6504-t-fy2027-q1-earnings.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "コナミグループ決算資料で『SILENT HILL: Townfall』9月発売予定が判明",
-   "path": "/articles/20260730-konami-group-financial-results-silent-hill.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -68,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [
-  "執筆失敗: KADOKAWAとはてな、AIで小説執筆を支援　新サービス「RIKU」、テスター",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: Trump considering AI controls after Open"
  ],
- "pv_today": 127,
+ "pv_today": 149,
  "gemini": {
-  "used": 181,
+  "used": 185,
   "limit": 200
  }
 }
