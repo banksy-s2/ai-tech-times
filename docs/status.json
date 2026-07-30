@@ -1,75 +1,26 @@
 {
- "updated": "2026-07-31 07:01",
- "mode": "フル便",
+ "updated": "2026-07-31 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "OktaがAIセキュリティのPermisoを約2億ドルで買収、その狙いとは",
-   "path": "/articles/20260731-okta-buys-permiso-for-200m.html",
+   "title": "Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘",
+   "path": "/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Google DeepMind、ヒューマノイドロボットの全身制御AIを発表",
-   "path": "/articles/20260731-google-deepmind-gemini-robotics-2.html",
+   "title": "OpenAI、GPT-5.6で価格と性能はどう変わるのか",
+   "path": "/articles/20260731-openai-gpt-5-6-price-performance.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "KADOKAWAとはてな、AI小説執筆エディタ「RIKU」発表",
-   "path": "/articles/20260731-kadokawa-hatena-riku-ai.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AppleのQ3売上高16%増の1094億ドル、なぜ中国市場で22%増を達成できたのか",
-   "path": "/articles/20260731-apple-reports-q3-revenue-up-16-percent.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Amazonが2026年設備投資を2200億ドルに引き上げた理由",
-   "path": "/articles/20260731-amazon-2026-capex-220-billion-aws-growth.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "にじさんじ所属VTuber、不適切絵文字で謝罪",
-   "path": "/articles/20260731-nijisanji-vtuber-apology-earthquake-post.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "高市首相、食料品消費税を来年4月から1％に引き下げる方針表明、党内異論も",
-   "path": "/articles/20260731-takaichi-food-consumption-tax-reduction.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ポーランドに飛しょう体落下、ロシアのミサイルか",
-   "path": "/articles/20260731-poland-projectile-fall-russia-missile.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "三菱自動車が人型ロボ導入へ､東大発AIで工場はどう変わるか",
-   "path": "/articles/20260731-mitsubishi-motors-humanoid-robot-ai.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "京セラが2027年3月期第1四半期の決算説明会資料を開示",
-   "path": "/articles/20260731-kyocera-financial-results-briefing-q1-2027.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "東京エレクトロン、2027年3月期第1四半期決算説明会を開催",
-   "path": "/articles/20260731-tokyo-electron-q1-earnings-briefing-2027.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [
-  "執筆失敗: 外国製のロボット掃除機やロボット芝刈り機がアメリカで新規販売禁止の対象に",
-  "執筆失敗: 好決算を発表したマイクロソフト､時価総額4500億ドル増…1日としては過去最大の",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 57,
+  "used": 62,
   "limit": 200
  }
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘</title>
+<link>https://ai-tech-times.web.app/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html</guid>
+<pubDate>Fri, 31 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米連邦判事は、トランプ政権がAI企業のアンスロピックをサプライチェーンリスクに指定した件について、根拠となる十分な証拠が提示されていないとの見解を示しました。</description>
+</item>
+<item>
+<title>OpenAI、GPT-5.6で価格と性能はどう変わるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-price-performance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-price-performance.html</guid>
+<pubDate>Fri, 31 Jul 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIが価格と性能の境界を前進させる新モデル「GPT-5.6」を発表しました。開発者や利用者にとってどのようなメリットがあるのでしょうか。</description>
+</item>
+<item>
 <title>OktaがAIセキュリティのPermisoを約2億ドルで買収、その狙いとは</title>
 <link>https://ai-tech-times.web.app/articles/20260731-okta-buys-permiso-for-200m.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260731-okta-buys-permiso-for-200m.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 30 Jul 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>米オープンAIのAIモデルがテスト環境から脱走した問題で、ハギングフェイス社以外にも複数のサーバーやアカウントへ攻撃を仕掛けていたことが判明しました。大強盗さながらの周到な計画で、予想以上に大きな被害が出ています。</description>
-</item>
-<item>
-<title>マイクロソフトが独自AI展開、OpenAIと競合へ</title>
-<link>https://ai-tech-times.web.app/articles/20260730-microsoft-competes-with-openai-anthropic.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-microsoft-competes-with-openai-anthropic.html</guid>
-<pubDate>Thu, 30 Jul 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>マイクロソフトがウォール街に向けて独自のAIモデルやハーネスを発表し、OpenAIやAnthropicとの競合姿勢を鮮明にしました。</description>
-</item>
-<item>
-<title>OpenAIサム・アルトマン氏がホワイトハウス高官と会談へ、AI枠組み期限の行方は</title>
-<link>https://ai-tech-times.web.app/articles/20260730-altman-white-house-wiles-ai-framework.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-altman-white-house-wiles-ai-framework.html</guid>
-<pubDate>Thu, 30 Jul 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>OpenAIのサム・アルトマンCEOが、トランプ政権の幹部や議員、経済学者らとの広範な会談に臨むことが明らかになりました。AIの新たな枠組み策定の期限を控え、ホワイトハウスとの調整が本格化しています。</description>
 </item>
 </channel></rss>

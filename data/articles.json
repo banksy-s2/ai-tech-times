@@ -21935,5 +21935,78 @@
   "date": "2026-07-31",
   "time": "07:01",
   "path": "/articles/20260731-tokyo-electron-q1-earnings-briefing-2027.html"
+ },
+ {
+  "title": "Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘",
+  "lead": "米連邦判事は、トランプ政権がAI企業のアンスロピックをサプライチェーンリスクに指定した件について、根拠となる十分な証拠が提示されていないとの見解を示しました。",
+  "summary3": [
+   "トランプ政権の指定に証拠不足",
+   "連邦判事が政府側の対応に疑問視",
+   "AI技術の禁止措置に影響の可能性"
+  ],
+  "body": [
+   "AI TECH TIMES編集部：米国の連邦判事は、トランプ政権がアンスロピックをサプライチェーンリスク（供給網リスク）に指定したことについて、その判断を正当化するための十分な証拠が提示されていないとの見解を示しました。",
+   "今回の判断により、政府側が進めてきた同社のAI技術に対する利用禁止措置に対して、司法の場から強い疑問が投げかけられる形となりました。政権側は安全保障上のリスクを主張してきましたが、それを裏付ける具体的な証拠の提示が求められることになります。",
+   "政府による規制措置の妥当性が問われる中、今後の司法判断や政権側の対応に注目が集まっています。AI技術の調達や利用をめぐる政府の規制方針にどのような影響を与えるのか、引き続き動向が注視されます。"
+  ],
+  "tags": [
+   "Anthropic",
+   "トランプ政権",
+   "AI規制"
+  ],
+  "slug": "judge-says-trump-admin-lacks-evidence-for-anthropic",
+  "people": [],
+  "terms": [
+   {
+    "name": "アンスロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、高度な対話型AIモデルの開発などで広く知られている。安全性に配慮した開発を進めることで注目を集めている。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "08:00",
+  "path": "/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html"
+ },
+ {
+  "title": "OpenAI、GPT-5.6で価格と性能はどう変わるのか",
+  "lead": "OpenAIが価格と性能の境界を前進させる新モデル「GPT-5.6」を発表しました。開発者や利用者にとってどのようなメリットがあるのでしょうか。",
+  "summary3": [
+   "OpenAIが新モデルを発表",
+   "価格と性能の境界を前進",
+   "Hacker Newsで話題に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、米国の人工知能企業であるOpenAIが新たに「GPT-5.6」に関する情報を公開したことが明らかになりました。今回の発表は、価格と性能のバランスを最適化し、これまでの限界を突破することを目的としています。",
+   "海外のソーシャルニュースサイトであるHacker Newsでは、この「GPT-5.6」に関連する記事や議論が大きな注目を集めています。コミュニティ内では多数のコメントが寄せられ、新しいモデルの性能やコストパフォーマンスについて熱い議論が交わされている状況です。",
+   "具体的な価格設定や機能の詳細は順次公開される見通しですが、AI技術の進化スピードが加速する中で、今後の展開から目が離せません。読者の皆様の業務や日々の生活にどのような影響を与えるのか、引き続き最新情報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "GPT-5.6",
+   "AI TECH TIMES"
+  ],
+  "slug": "openai-gpt-5-6-price-performance",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国・サンフランシスコに拠点を置く、最先端の人工知能開発を手がける企業"
+   },
+   {
+    "name": "GPT-5.6",
+    "type": "ai",
+    "desc": "OpenAIが開発した、価格と性能の境界を前進させることを目指した新しいAIモデル"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "08:00",
+  "path": "/articles/20260731-openai-gpt-5-6-price-performance.html"
  }
 ]

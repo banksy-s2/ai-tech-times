@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘](https://ai-tech-times.web.app/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html) — 2026-07-31 08:00: 米連邦判事は、トランプ政権がAI企業のアンスロピックをサプライチェーンリスクに指定した件について、根拠となる十分な証拠が提示されていないとの見解を示しました。
+- [OpenAI、GPT-5.6で価格と性能はどう変わるのか](https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-price-performance.html) — 2026-07-31 08:00: OpenAIが価格と性能の境界を前進させる新モデル「GPT-5.6」を発表しました。開発者や利用者にとってどのようなメリットがあるのでしょうか。
 - [OktaがAIセキュリティのPermisoを約2億ドルで買収、その狙いとは](https://ai-tech-times.web.app/articles/20260731-okta-buys-permiso-for-200m.html) — 2026-07-31 07:01: アイデンティティ管理の大手Oktaが、AIセキュリティの新興企業Permisoを買収しました。クラウド環境全体での非人間アイデンティティの保護を強化する狙いがあります。
 - [Google DeepMind、ヒューマノイドロボットの全身制御AIを発表](https://ai-tech-times.web.app/articles/20260731-google-deepmind-gemini-robotics-2.html) — 2026-07-31 07:01: Google DeepMindは、最新のGemini Robotics AIモデルがヒューマノイドロボットの全身を制御できるようになったと発表しました。
 - [KADOKAWAとはてな、AI小説執筆エディタ「RIKU」発表](https://ai-tech-times.web.app/articles/20260731-kadokawa-hatena-riku-ai.html) — 2026-07-31 07:01: KADOKAWAとはてなは、AIで小説の執筆を支援する新サービス「RIKU」を発表し、テスターの募集を開始しました。
@@ -40,15 +42,13 @@
 - [NY市場で1ドル157円台後半に、市場介入の観測も](https://ai-tech-times.web.app/articles/20260731-ny-market-exchange-rate-157-yen.html) — 2026-07-31 04:00: 30日のニューヨーク外国為替市場で、急激な円高ドル安が進行しました。一時1ドル＝157円台後半まで値上がりし、金融市場では政府・日銀の動向に注目が集まっています。
 - [イオンモール崩落、捜索続くなぜ生存者は見つかるのか](https://ai-tech-times.web.app/articles/20260731-aeon-mall-earthquake-search.html) — 2026-07-31 04:00: マグニチュード6.8の地震が発生し、崩落したイオンショッピングセンターで生存者の捜索が続いています。
 - [Amazon傘下のZoox、有料ロボタクシー実現へ](https://ai-tech-times.web.app/articles/20260731-zoox-clears-final-federal-hurdle.html) — 2026-07-31 02:00: Amazon傘下の自動運転技術企業Zooxが、連邦安全規制当局から一時的な免除措置を獲得しました。これにより、カスタムメイドのロボタクシーによる有料サービスの提供が可能になります。
-- [Metaが9%急落で株価低迷、Microsoftは15%急騰したAI投資の明暗](https://ai-tech-times.web.app/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html) — 2026-07-31 02:00: AI関連の投資動向が分かれる中、Metaはフリーキャッシュフローの急減により収益見通しを下回り、株価が9%下落する記録的な低迷を続けました。一方、Microsoftは堅調なクラウドとAI支援機能の成長により、株価が15%急騰しています。
-- [キオクシア、フジクラの稼ぎ頭は？AI半導体市場の今後](https://ai-tech-times.web.app/articles/20260731-ai-semiconductor-market-outlook.html) — 2026-07-31 01:01: 乱高下するAI・半導体市場の今後について、注目企業の経営幹部が見通しを語った記事が注目を集めています。ITmedia AI+が公開した内容をまとめてお届けします。
 
 ## 世界のバズ動画TOP3 (2026-07-31)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 2位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 3位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 
-## AI用語事典 (全493語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全494語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -78,7 +78,7 @@
 - [Claude Opus 5とは](https://ai-tech-times.web.app/term/claude-opus-5.html): Anthropicが発表した最新のAIモデルで、Maxプランの新たな既定モデルとなります。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
-- [Copilotとは](https://ai-tech-times.web.app/term/copilot.html): マイクロソフトが提供するAIアシスタント製品。チャット機能やプログラミング支援など幅広い業務をサポートする。
+- [GPT-5.6とは](https://ai-tech-times.web.app/term/gpt-5-6.html): 最先端の大規模言語モデルであり、様々なタスクで高い処理能力を発揮するAIモデルです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
