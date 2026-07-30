@@ -1,26 +1,17 @@
 {
- "updated": "2026-07-31 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Amazon傘下のZoox、有料ロボタクシー実現へ",
-   "path": "/articles/20260731-zoox-clears-final-federal-hurdle.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Metaが9%急落で株価低迷、Microsoftは15%急騰したAI投資の明暗",
-   "path": "/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-31 03:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: BTSがグラミー賞エントリー見送り、アジア系部門の新設にファンも失望"
+ ],
  "pv_today": 5,
  "gemini": {
-  "used": 13,
+  "used": 17,
   "limit": 200
  }
 }
