@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-30 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-30 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる",
-   "path": "/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html",
-   "cat": "AI(海外)"
+   "title": "米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは",
+   "path": "/articles/20260730-us-bans-chinese-humanoid-robots.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針",
+   "path": "/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [
-  "執筆失敗: Claude Opus 5 became downright ruthless "
- ],
- "pv_today": 52,
+ "notes": [],
+ "pv_today": 58,
  "gemini": {
-  "used": 67,
+  "used": 71,
   "limit": 200
  }
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは</title>
+<link>https://ai-tech-times.web.app/articles/20260730-us-bans-chinese-humanoid-robots.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-us-bans-chinese-humanoid-robots.html</guid>
+<pubDate>Thu, 30 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>世界の人型ロボットの大部分を供給する中国が、最大の輸出市場である米国から突然締め出されました。米政府が外国テクノロジー依存の低減に動く中、なぜこのような決定が下されたのでしょうか。</description>
+</item>
+<item>
+<title>GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針</title>
+<link>https://ai-tech-times.web.app/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html</guid>
+<pubDate>Thu, 30 Jul 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2026年7月30日、Ruby on Railsにおいて認証不要でリモートコード実行につながる深刻な脆弱性が公開されました。開発者が今すぐ取るべき対策について解説します。</description>
+</item>
+<item>
 <title>マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる</title>
 <link>https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 29 Jul 2026 22:02:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>AI TECH TIMESがお伝えする最新のニュースです。28日、熊本県熊本地方でマグニチュード7.1の大地震が発生し、大きな被害が出ています。</description>
-</item>
-<item>
-<title>スリーマイル島原発1号機、早ければ来年後半に再稼働か</title>
-<link>https://ai-tech-times.web.app/articles/20260729-three-mile-island-restart.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-three-mile-island-restart.html</guid>
-<pubDate>Wed, 29 Jul 2026 22:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカでAI向けのデータセンターによる電力需要が急拡大する中、過去に事故を起こした原発の隣にある廃炉予定の1号機について、再稼働に向けた住民説明会が開催されました。</description>
-</item>
-<item>
-<title>AnthropicのClaudeで暗号の弱点を発見する方法</title>
-<link>https://ai-tech-times.web.app/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260729-discovering-cryptographic-weaknesses-with-claude.html</guid>
-<pubDate>Wed, 29 Jul 2026 21:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Anthropicの研究により、AIモデル「Claude」を活用して暗号の弱点をどのように発見できるのかが明らかになりました。</description>
 </item>
 </channel></rss>

@@ -19403,5 +19403,49 @@
   "date": "2026-07-30",
   "time": "07:02",
   "path": "/articles/20260730-bookoff-fy2026-financial-results.html"
+ },
+ {
+  "title": "マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる",
+  "lead": "マイクロソフトが2026年6月30日に終了した2026年度第4四半期の好調な業績を発表し、競合する2大AI企業への投資の成果を明らかにしました。",
+  "summary3": [
+   "マイクロソフトが第4四半期の好業績を発表",
+   "Anthropic投資で32億ドルの利益を記録",
+   "もう一つのAI投資であるオープンAIは明暗が分かれる"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、マイクロソフトは2026年6月30日に終了した2026年度第4四半期において好調な業績を報告しました。その決算発表の中で、人工知能分野をリードする2大競合AIラボへの投資が現在どのような状況にあるのかについて、興味深い詳細を明らかにしています。",
+   "今回の発表で特に注目を集めたのは、Anthropicへの投資に関する成果です。同社への投資からマイクロソフトは32億ドルの利益を記録したことが判明し、AI関連の投資が大きなリターンを生み出していることが示されました。",
+   "一方で、もう一つの主要な投資先であるオープンAIに関する成果は、明暗が分かれる結果となりました。急速に進化を続けるAI市場において、巨額の投資を行う各社の動向に引き続き高い関心が集まっています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "slug": "microsoft-logs-3-2b-from-anthropic-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、ソフトウェアやクラウドサービスなどを展開する世界的なテクノロジー企業。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、大規模言語モデルの開発などを手掛ける注目のAIラボの一つ。"
+   },
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究企業で、高度なAI技術や対話型AIモデルの開発で広く知られている。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+  "category": "ai",
+  "date": "2026-07-30",
+  "time": "08:00",
+  "path": "/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html"
  }
 ]
