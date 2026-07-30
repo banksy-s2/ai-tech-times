@@ -1,18 +1,26 @@
 {
- "updated": "2026-07-30 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-07-30 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは",
+   "path": "/articles/20260730-earnings-impact-prime-market-july29.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "ANA、アイベックスと業務提携でANA便の受委託を実施",
+   "path": "/articles/20260730-ana-ibex-business-partnership.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
   "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
  },
- "notes": [
-  "執筆失敗: タムロンの株価、ストップ高気配 ソニーから買収提案受領と発表 - 日本経済新聞",
-  "執筆失敗: アドバンテスト株価一時16.7%高 27年3月期純利益を上方修正 - 日本経済新"
- ],
- "pv_today": 84,
+ "notes": [],
+ "pv_today": 89,
  "gemini": {
-  "used": 114,
+  "used": 118,
   "limit": 200
  }
 }
