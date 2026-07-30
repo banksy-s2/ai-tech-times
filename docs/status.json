@@ -1,17 +1,26 @@
 {
- "updated": "2026-07-31 03:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-07-31 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "NY市場で1ドル157円台後半に、市場介入の観測も",
+   "path": "/articles/20260731-ny-market-exchange-rate-157-yen.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イオンモール崩落、捜索続くなぜ生存者は見つかるのか",
+   "path": "/articles/20260731-aeon-mall-earthquake-search.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [
-  "執筆失敗: BTSがグラミー賞エントリー見送り、アジア系部門の新設にファンも失望"
- ],
- "pv_today": 5,
+ "notes": [],
+ "pv_today": 6,
  "gemini": {
-  "used": 17,
+  "used": 23,
   "limit": 200
  }
 }
