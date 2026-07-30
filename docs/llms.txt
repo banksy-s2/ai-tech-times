@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 19:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 20:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [宮崎麗果被告の有罪判決確定、1.5億円脱税の罪](https://ai-tech-times.web.app/articles/20260730-miyazaki-reika-tax-evasion-conviction.html) — 2026-07-30 20:00: インフルエンサーとして知られる宮崎麗果被告の1.5億円脱税の罪について、有罪判決が確定したことが報じられました。
 - [DoorDashがドローン配送事業を構築、FAA承認を取得](https://ai-tech-times.web.app/articles/20260730-doordash-drone-delivery-business.html) — 2026-07-30 19:01: フードデリバリー大手のDoorDashが、アメリカ国内での商業ドローン配送サービス運用についてFAA（連邦航空局）の承認を取得し、自社でドローン配送事業の構築を進めていることが明らかになりました。
 - [ロールス・ロイス受注増のなぜ？AIデータセンターが50%超伸長](https://ai-tech-times.web.app/articles/20260730-rolls-royce-ai-data-center-guidance.html) — 2026-07-30 19:01: 英ロールス・ロイスが業績予想を上方修正しました。防衛需要の拡大に加え、AIデータセンター向けの受注が急増した背景に迫ります。
 - [日本HP、楽天の70億LLM搭載PCを提供へ](https://ai-tech-times.web.app/articles/20260730-hp-rakuten-ai-desktop.html) — 2026-07-30 18:01: 日本HPと楽天は、HP製PC向けAIアプリ「Rakuten AI for Desktop」のプリバンドルを開始しました。オフラインでのローカル実行が可能となります。
@@ -41,14 +42,13 @@
 - [アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは](https://ai-tech-times.web.app/articles/20260730-earnings-impact-prime-market-july29.html) — 2026-07-30 15:00: AI TECH TIMESでは、7月29日に発表された東証プライム上場企業の決算プラス・インパクト銘柄に関する情報を伝えます。
 - [ANA、アイベックスと業務提携でANA便の受委託を実施](https://ai-tech-times.web.app/articles/20260730-ana-ibex-business-partnership.html) — 2026-07-30 15:00: 全日空（ANA）は、地域航空会社のアイベックスと業務提携を行うことを発表しました。ANA便の受委託を実施する方針です。
 - [高市首相、食料品消費税を来年4月から2年間1％へ引き下げ方針](https://ai-tech-times.web.app/articles/20260730-takaichi-food-consumption-tax-reduction-2.html) — 2026-07-30 13:00: 高市総理大臣は自民党の臨時役員会に出席し、食料品の消費税を来年4月から2年間、1％に引き下げる方針を表明しました。
-- [トランプ米大統領、イランへ報復攻撃表明](https://ai-tech-times.web.app/articles/20260730-trump-iran-retaliation-attack.html) — 2026-07-30 13:00: アメリカのトランプ大統領は、イランが中東駐留の米軍に攻撃を試みたことを受け、激しく攻撃する考えを示しました。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 2位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 - 3位: [Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli](https://www.youtube.com/watch?v=VoFFuF4zSjY)
 
-## AI用語事典 (全471語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全472語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
