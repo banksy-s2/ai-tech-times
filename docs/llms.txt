@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは](https://ai-tech-times.web.app/articles/20260730-earnings-impact-prime-market-july29.html) — 2026-07-30 15:00: AI TECH TIMESでは、7月29日に発表された東証プライム上場企業の決算プラス・インパクト銘柄に関する情報を伝えます。
+- [ANA、アイベックスと業務提携でANA便の受委託を実施](https://ai-tech-times.web.app/articles/20260730-ana-ibex-business-partnership.html) — 2026-07-30 15:00: 全日空（ANA）は、地域航空会社のアイベックスと業務提携を行うことを発表しました。ANA便の受委託を実施する方針です。
 - [高市首相、食料品消費税を来年4月から2年間1％へ引き下げ方針](https://ai-tech-times.web.app/articles/20260730-takaichi-food-consumption-tax-reduction-2.html) — 2026-07-30 13:00: 高市総理大臣は自民党の臨時役員会に出席し、食料品の消費税を来年4月から2年間、1％に引き下げる方針を表明しました。
 - [トランプ米大統領、イランへ報復攻撃表明](https://ai-tech-times.web.app/articles/20260730-trump-iran-retaliation-attack.html) — 2026-07-30 13:00: アメリカのトランプ大統領は、イランが中東駐留の米軍に攻撃を試みたことを受け、激しく攻撃する考えを示しました。
 - [Copilot for Wordに潜むAIワームの脅威とは](https://ai-tech-times.web.app/articles/20260730-ai-worms-copilot-for-word.html) — 2026-07-30 12:01: 文書経由のAIワームがCopilot for Wordを通じて自己増殖する脆弱性について、Hacker Newsで議論が交わされています。文書作成の利便性を揺るがす新しいサイバーリスクの全容とは何でしょうか。
@@ -40,15 +42,13 @@
 - [マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる](https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html) — 2026-07-30 08:00: マイクロソフトが2026年6月30日に終了した2026年度第4四半期の好調な業績を発表し、競合する2大AI企業への投資の成果を明らかにしました。
 - [OpenAIグレッグ社長、専用デバイス開発を示唆](https://ai-tech-times.web.app/articles/20260730-openai-president-device-family.html) — 2026-07-30 07:02: AI TECH TIMESがお届けする最新ニュースです。OpenAIのグレッグ・ブロックマン社長が、同社のAIモデルと対話するための独自のデバイス開発について言及しました。
 - [OpenAI、ChatGPT Workの5時間制限を明日再開](https://ai-tech-times.web.app/articles/20260730-openai-resumes-chatgpt-work-limit.html) — 2026-07-30 07:02: 米OpenAI幹部が、デスクトップ向けサービスなどの利用制限枠を明日から再開すると発表しました。
-- [AmazonでiPhone Airが異例の叩き売り、その背景とは](https://ai-tech-times.web.app/articles/20260730-iphone-air-amazon-discount.html) — 2026-07-30 07:02: はてなブックマークITで話題の「iPhone Air」が、アマゾンにて異例の大幅値引きで販売されています。なぜこのような叩き売り状態となったのでしょうか。
-- [クアルコム、9月1日から全プロセッサ値上げ](https://ai-tech-times.web.app/articles/20260730-qualcomm-processor-price-hike-september.html) — 2026-07-30 07:02: 米クアルコムが9月1日より、すべてのプロセッサ製品の価格を引き上げることを明らかにしました。スマートフォンの購入価格に影響が及ぶ可能性があります。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 - 2位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 3位: [JUMANJI: OPEN WORLD - Official Trailer (4K)](https://www.youtube.com/watch?v=zhApeaHMvfs)
 
-## AI用語事典 (全452語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全454語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。

@@ -1,26 +1,18 @@
 {
- "updated": "2026-07-30 13:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "高市首相、食料品消費税を来年4月から2年間1％へ引き下げ方針",
-   "path": "/articles/20260730-takaichi-food-consumption-tax-reduction-2.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ米大統領、イランへ報復攻撃表明",
-   "path": "/articles/20260730-trump-iran-retaliation-attack.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-07-30 14:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
   "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
  },
- "notes": [],
- "pv_today": 78,
+ "notes": [
+  "執筆失敗: タムロンの株価、ストップ高気配 ソニーから買収提案受領と発表 - 日本経済新聞",
+  "執筆失敗: アドバンテスト株価一時16.7%高 27年3月期純利益を上方修正 - 日本経済新"
+ ],
+ "pv_today": 84,
  "gemini": {
-  "used": 109,
+  "used": 114,
   "limit": 200
  }
 }
