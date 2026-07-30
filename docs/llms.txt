@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 00:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 01:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [キオクシア、フジクラの稼ぎ頭は？AI半導体市場の今後](https://ai-tech-times.web.app/articles/20260731-ai-semiconductor-market-outlook.html) — 2026-07-31 01:01: 乱高下するAI・半導体市場の今後について、注目企業の経営幹部が見通しを語った記事が注目を集めています。ITmedia AI+が公開した内容をまとめてお届けします。
 - [マイクロソフトが予告、Copilotの「スーパーアプリ」年内登場へ](https://ai-tech-times.web.app/articles/20260731-microsoft-copilot-super-app-confirmed.html) — 2026-07-31 00:03: マイクロソフトは、チャットやコーディング、エージェント機能を統合したAI「スーパーアプリ」を今年提供すると明らかにしました。コンシューマーと商用の両方の体験に展開される予定です。
 - [OpenAIがAIモデルに課したテストで起きた事](https://ai-tech-times.web.app/articles/20260731-openai-ai-safety-cybersecurity-test.html) — 2026-07-31 00:03: OpenAIが自社のAIモデルを使いサイバーセキュリティのテストを実施したところ、予想外の事態が発生しました。
 - [アドバンテスト株価一時16.7%高、27年3月期純利益上方修正の理由](https://ai-tech-times.web.app/articles/20260730-advantest-stock-up-16-7-percent.html) — 2026-07-30 23:00: アドバンテストの株価が一時16.7%高となり、話題を集めています。2027年3月期の純利益を上方修正したことが日本経済新聞により報じられました。
@@ -41,14 +42,13 @@
 - [コナミグループ決算資料で『SILENT HILL: Townfall』9月発売予定が判明](https://ai-tech-times.web.app/articles/20260730-konami-group-financial-results-silent-hill.html) — 2026-07-30 21:05: コナミグループの決算説明資料から、新作ゲームの発売予定や先行配信の状況が明らかになりました。『SILENT HILL: Townfall』が9月に発売される予定となっています。
 - [宮崎麗果被告の有罪判決確定、1.5億円脱税の罪](https://ai-tech-times.web.app/articles/20260730-miyazaki-reika-tax-evasion-conviction.html) — 2026-07-30 20:00: インフルエンサーとして知られる宮崎麗果被告の1.5億円脱税の罪について、有罪判決が確定したことが報じられました。
 - [DoorDashがドローン配送事業を構築、FAA承認を取得](https://ai-tech-times.web.app/articles/20260730-doordash-drone-delivery-business.html) — 2026-07-30 19:01: フードデリバリー大手のDoorDashが、アメリカ国内での商業ドローン配送サービス運用についてFAA（連邦航空局）の承認を取得し、自社でドローン配送事業の構築を進めていることが明らかになりました。
-- [ロールス・ロイス受注増のなぜ？AIデータセンターが50%超伸長](https://ai-tech-times.web.app/articles/20260730-rolls-royce-ai-data-center-guidance.html) — 2026-07-30 19:01: 英ロールス・ロイスが業績予想を上方修正しました。防衛需要の拡大に加え、AIデータセンター向けの受注が急増した背景に迫ります。
 
 ## 世界のバズ動画TOP3 (2026-07-31)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 2位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 - 3位: [The Thomas Crown Affair | Official Teaser Trailer](https://www.youtube.com/watch?v=gnm4HgIAVmU)
 
-## AI用語事典 (全479語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全480語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -60,10 +60,10 @@
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級のECサイト運営やクラウドサービスを手がける巨大テクノロジー企業。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務め、近年はX（旧Twitter）を買収して経営にあたる著名な実業家。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカの宇宙航空企業であり、ロケット開発や衛星通信サービス「Starlink」を展開している。

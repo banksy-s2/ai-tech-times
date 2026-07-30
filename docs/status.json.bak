@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-31 00:03",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "アドバンテスト株価一時16.7%高、27年3月期純利益上方修正の理由",
-   "path": "/articles/20260730-advantest-stock-up-16-7-percent.html",
-   "cat": "株式投資(日本)"
+   "title": "マイクロソフトが予告、Copilotの「スーパーアプリ」年内登場へ",
+   "path": "/articles/20260731-microsoft-copilot-super-app-confirmed.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "JTが配当利回り4.0％に、2期連続増配で1株272円へ",
-   "path": "/articles/20260730-jt-dividend-increase-2026.html",
-   "cat": "株式投資(日本)"
+   "title": "OpenAIがAIモデルに課したテストで起きた事",
+   "path": "/articles/20260731-openai-ai-safety-cybersecurity-test.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [],
- "pv_today": 156,
+ "pv_today": 2,
  "gemini": {
-  "used": 189,
+  "used": 5,
   "limit": 200
  }
 }

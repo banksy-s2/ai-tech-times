@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-31 00:03",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-31 01:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "マイクロソフトが予告、Copilotの「スーパーアプリ」年内登場へ",
-   "path": "/articles/20260731-microsoft-copilot-super-app-confirmed.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAIがAIモデルに課したテストで起きた事",
-   "path": "/articles/20260731-openai-ai-safety-cybersecurity-test.html",
-   "cat": "AI(海外)"
+   "title": "キオクシア、フジクラの稼ぎ頭は？AI半導体市場の今後",
+   "path": "/articles/20260731-ai-semiconductor-market-outlook.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [],
- "pv_today": 2,
+ "notes": [
+  "執筆失敗: KADOKAWAとはてな、AIで小説執筆を支援　新サービス「RIKU」、テスター"
+ ],
+ "pv_today": 5,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }
