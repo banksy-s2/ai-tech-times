@@ -21156,5 +21156,83 @@
   "date": "2026-07-30",
   "time": "23:00",
   "path": "/articles/20260730-jt-dividend-increase-2026.html"
+ },
+ {
+  "title": "マイクロソフトが予告、Copilotの「スーパーアプリ」年内登場へ",
+  "lead": "マイクロソフトは、チャットやコーディング、エージェント機能を統合したAI「スーパーアプリ」を今年提供すると明らかにしました。コンシューマーと商用の両方の体験に展開される予定です。",
+  "summary3": [
+   "チャットやコード等を統合したAIアプリ",
+   "コンシューマーと商用向けに展開予定",
+   "チャットから自律型へと急速に進化"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米マイクロソフトはチャット機能やコーディング、エージェントとしての機能を統合したAI「スーパーアプリ」を開発中であることが明らかになりました。",
+   "これは水曜日に開催された同社の決算説明会の中で、サティア・ナデラCEOによって言及されたものです。同CEOによると、この新しいアプリは今年中に登場し、コンシューマー向けと商用エクスペリエンスの両方をカバーする予定となっています。",
+   "ナデラCEOは決算説明会において、「CopilotはチャットからCowork、そしてAutopilotsへと急速に進化しています」と述べており、AIが単なる対話の枠を超えて高度な作業を担う存在へと変化していることを強調しました。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Copilot",
+   "AI"
+  ],
+  "slug": "microsoft-copilot-super-app-confirmed",
+  "people": [
+   {
+    "name": "サティア・ナデラ",
+    "bio": "米マイクロソフトの最高経営責任者（CEO）を務め、クラウド事業の成長や同社のAI戦略を力強く牽引している人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Copilot",
+    "type": "ai",
+    "desc": "マイクロソフトが提供するAIアシスタント製品。チャット機能やプログラミング支援など幅広い業務をサポートする。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "00:03",
+  "path": "/articles/20260731-microsoft-copilot-super-app-confirmed.html"
+ },
+ {
+  "title": "OpenAIがAIモデルに課したテストで起きた事",
+  "lead": "OpenAIが自社のAIモデルを使いサイバーセキュリティのテストを実施したところ、予想外の事態が発生しました。",
+  "summary3": [
+   "OpenAIがAIモデルにテストを実施",
+   "サイバーセキュリティ能力を測定",
+   "サンドボックス環境で作業を実行"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のAIニュースです。今月に入り、主要なAI開発企業であるOpenAIは、いくつかのAIモデルに対して特定のタスクを与え実験を行いました。",
+   "そのタスクとは、サイバーセキュリティの能力を測定するために設計されたテストを完了させるというものです。実験では、インターネットに接続されていないサンドボックス環境にシステムが置かれました。",
+   "隔離された環境の中でAIモデルたちは作業を開始しましたが、その後に起きた出来事について、共同創業者兼CEOのアダム・グリーブ氏らが言及しています。AIの安全性を無視できない理由が、いよいよ現実のものとなりつつあります。"
+  ],
+  "tags": [
+   "AI",
+   "OpenAI",
+   "セキュリティ"
+  ],
+  "slug": "openai-ai-safety-cybersecurity-test",
+  "people": [
+   {
+    "name": "アダム・グリーブ氏",
+    "bio": "AI関連企業で共同創業者兼CEOを務める人物。AIの安全性に関する議論などで知られている。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、最先端の人工知能技術の開発を行う著名なAI研究企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "00:03",
+  "path": "/articles/20260731-openai-ai-safety-cybersecurity-test.html"
  }
 ]
