@@ -1,26 +1,18 @@
 {
- "updated": "2026-07-30 09:00",
- "mode": "軽量便(日本のAI)",
- "articles": [
-  {
-   "title": "米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは",
-   "path": "/articles/20260730-us-bans-chinese-humanoid-robots.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針",
-   "path": "/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html",
-   "cat": "日本のAI"
-  }
- ],
+ "updated": "2026-07-30 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [],
  "buzz_top": {
   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs"
  },
- "notes": [],
- "pv_today": 58,
+ "notes": [
+  "執筆失敗: Meta reports free cash flow of $784M in ",
+  "執筆失敗: DoorDash is building its own drone deliv"
+ ],
+ "pv_today": 62,
  "gemini": {
-  "used": 71,
+  "used": 75,
   "limit": 200
  }
 }

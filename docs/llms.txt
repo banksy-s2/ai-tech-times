@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-30 11:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ジョージアで連絡不通のHlun Soloさん、死亡確認](https://ai-tech-times.web.app/articles/20260730-hlun-solo-georgia-death.html) — 2026-07-30 11:00: ジョージアで連絡が取れなくなっていたタイ人旅行YouTuberのHlun Soloさんの死亡が確認されました。
 - [米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは](https://ai-tech-times.web.app/articles/20260730-us-bans-chinese-humanoid-robots.html) — 2026-07-30 09:00: 世界の人型ロボットの大部分を供給する中国が、最大の輸出市場である米国から突然締め出されました。米政府が外国テクノロジー依存の低減に動く中、なぜこのような決定が下されたのでしょうか。
 - [GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針](https://ai-tech-times.web.app/articles/20260730-rails-emergency-vulnerability-cve-2026-66066.html) — 2026-07-30 09:00: 2026年7月30日、Ruby on Railsにおいて認証不要でリモートコード実行につながる深刻な脆弱性が公開されました。開発者が今すぐ取るべき対策について解説します。
 - [マイクロソフトがAnthropic投資で32億ドル利益、オープンAIは明暗分かれる](https://ai-tech-times.web.app/articles/20260730-microsoft-logs-3-2b-from-anthropic-investment.html) — 2026-07-30 08:00: マイクロソフトが2026年6月30日に終了した2026年度第4四半期の好調な業績を発表し、競合する2大AI企業への投資の成果を明らかにしました。
@@ -41,12 +42,11 @@
 - [政府、ナミビアレアアース開発に最大50億円出資へ](https://ai-tech-times.web.app/articles/20260730-government-investment-namibia-rare-earth.html) — 2026-07-30 06:00: 政府が南西アフリカのナミビアにおけるレアアース鉱山開発を目的とした会社に対し、最大50億円程度の出資を決めたことが明らかになりました。
 - [日経平均が930円安、SK好決算でもAI過剰投資の懸念はなぜ根強いのか](https://ai-tech-times.web.app/articles/20260730-nikkei-average-drops-930-yen-ai-investment-concerns.html) — 2026-07-30 05:00: 日本経済新聞の報道によると、日経平均株価の終値が930円安を記録しました。SKの好決算発表があったものの力不足となり、AI過剰投資の懸念が根強く残る相場環境となっています。
 - [FRB政策金利5会合連続据え置き、その狙いは](https://ai-tech-times.web.app/articles/20260730-frb-interest-rate-hold-5-consecutive.html) — 2026-07-30 05:00: アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、政策金利を据え置くと発表しました。据え置きは5会合連続となります。
-- [イオンモール熊本で爆発、3人死亡1人心肺停止なぜ起きのか](https://ai-tech-times.web.app/articles/20260730-aeon-mall-kumamoto-explosion.html) — 2026-07-30 04:00: 「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長らが29日午後、熊本市内で会見を開きました。
 
 ## 世界のバズ動画TOP3 (2026-07-30)
 - 1位: [JUMANJI: OPEN WORLD - Official Trailer (4K)](https://www.youtube.com/watch?v=zhApeaHMvfs)
-- 2位: [Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli](https://www.youtube.com/watch?v=VoFFuF4zSjY)
-- 3位: [Tony Iommi – World Alone (Official Video)](https://www.youtube.com/watch?v=IddUJxhDgZk)
+- 2位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
+- 3位: [Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli](https://www.youtube.com/watch?v=VoFFuF4zSjY)
 
 ## AI用語事典 (全446語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
