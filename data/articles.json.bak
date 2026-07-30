@@ -21496,5 +21496,67 @@
   "date": "2026-07-31",
   "time": "05:00",
   "path": "/articles/20260731-kobe-dentetsu-kobe-city-top-meeting.html"
+ },
+ {
+  "title": "8035.T、売上高7323億円で過去最高を更新",
+  "lead": "AI TECH TIMESがお伝えする企業の最新動向です。8035.TのFY2027 Q1決算説明会が開催され、AI投資が追い風となって四半期売上高が過去最高を記録しました。",
+  "summary3": [
+   "8035.TのQ1売上高が過去最高に",
+   "AI投資の追い風を受け7323億円を達成",
+   "上期予想も大幅に上方修正を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がBigGo ファイナンスの情報をもとに報じるところによると、8035.TのFY2027 Q1決算説明会において、AI投資が強い追い風となっていることが明らかにされました。",
+   "当四半期の売上高は7323億円に達し、四半期ベースで過去最高を更新する好業績となりました。半導体市場や関連技術への需要が旺盛である状況が数字に表れた形と言えます。",
+   "さらに、今回の好調な滑り出しを受けて、上期予想についても大幅な上方修正が発表されました。今後の業績推移や市場環境の変化に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "決算",
+   "AI投資",
+   "業績"
+  ],
+  "slug": "8035t-fy2027-q1-results",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSk5LVVdMeUZDSlNrcGktdURXLWJGMDd5c2xiRDRZbmxvYWtnYlYtX096T3ZvVWZBRTZyTDlLcHNadlRaUXhGY01MS0VHMV9NT18zUmNoVnFEWnBMbXdz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "06:00",
+  "path": "/articles/20260731-8035t-fy2027-q1-results.html"
+ },
+ {
+  "title": "沖電気工業FY2026 Q1決算防衛システム9割増益",
+  "lead": "沖電気工業はFY2026 Q1の決算説明会を実施し、防衛システム事業が9割増益を達成したことを発表しました。",
+  "summary3": [
+   "沖電気工業がFY2026Q1決算を発表",
+   "防衛システム事業が9割増益を記録",
+   "豪フリゲート艦ソナー契約を正式締結"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。沖電気工業は、FY2026 Q1の決算説明会を開催し、その詳細な業績や事業の進捗について発表を行いました。",
+   "今回の発表では、防衛システム事業が9割増益を記録したことが明らかにされました。好調な業績をけん引する主要なセグメントとして、大きな注目を集めています。",
+   "さらに、オーストラリアのフリゲート艦に向けたソナー契約を正式に締結したことも発表されました。今後の事業展開における重要なトピックとして、関係者の関心を集めています。"
+  ],
+  "tags": [
+   "沖電気工業",
+   "決算",
+   "防衛システム"
+  ],
+  "slug": "oki-fy2026-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "沖電気工業",
+    "type": "company",
+    "desc": "情報通信や防衛電子システムなどを手掛ける日本の大手電機メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kS1NEamxZcEQ4OWZDcUFrdDEtRXZDZzhxZWhCNEgzemhRa2Zyc3lueW1EWDhDWVhnNGRVQ3p0ZUVuZzFUY3NOMnFqbG0yMEJvRDk2d2ktU0tRYVB3RXVr?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "06:00",
+  "path": "/articles/20260731-oki-fy2026-q1-results.html"
  }
 ]

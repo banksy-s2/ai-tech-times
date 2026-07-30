@@ -21558,5 +21558,382 @@
   "date": "2026-07-31",
   "time": "06:00",
   "path": "/articles/20260731-oki-fy2026-q1-results.html"
+ },
+ {
+  "title": "OktaがAIセキュリティのPermisoを約2億ドルで買収、その狙いとは",
+  "lead": "アイデンティティ管理の大手Oktaが、AIセキュリティの新興企業Permisoを買収しました。クラウド環境全体での非人間アイデンティティの保護を強化する狙いがあります。",
+  "summary3": [
+   "OktaがPermisoを買収へ",
+   "買収額は約2億ドルと報じられる",
+   "クラウドでのAI安全性を強化"
+  ],
+  "body": [
+   "米テックメディアのTechCrunch AIは2026年7月30日、アイデンティティ管理を手がけるOktaが、AIセキュリティを手がける新興企業Permisoを買収すると報じました。関係者からの情報によると、買収額は約2億ドル規模になるとされています。",
+   "今回の買収により、Oktaはアイデンティティ脅威検知の機能を獲得することになります。企業の間では、クラウド環境全体においてAIエージェントをはじめとする非人間アイデンティティを安全に管理・保護する必要性が高まっており、その対策を強化する狙いがあります。",
+   "企業がAIやクラウドを活用する動きが広がる中、セキュリティ確保は重要な課題となっています。Oktaが今回のような買収を進めることで、今後の企業向けアイデンティティ管理サービスがどのように進化していくのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Okta",
+   "Permiso",
+   "AIセキュリティ"
+  ],
+  "slug": "okta-buys-permiso-for-200m",
+  "people": [],
+  "terms": [
+   {
+    "name": "Okta",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、企業向けのアイデンティティ管理や認証サービスを提供する企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-okta-buys-permiso-for-200m.html"
+ },
+ {
+  "title": "Google DeepMind、ヒューマノイドロボットの全身制御AIを発表",
+  "lead": "Google DeepMindは、最新のGemini Robotics AIモデルがヒューマノイドロボットの全身を制御できるようになったと発表しました。",
+  "summary3": [
+   "Gemini Roboticsの最新モデルが発表される",
+   "従来の上半身制御から全身の動きに対応",
+   "足先から指先まで滑らかなモーションを実現"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Google DeepMindは木曜日の発表で、最新バージョンの「Gemini Robotics AIモデル」がヒューマノイドロボットの全身を制御できるようになると明らかにしました。",
+   "従来のモデルではヒューマノイドロボットの上半身の制御に焦点を当てていましたが、新バージョンの「Gemini Robotics 2」では、足先から指先までの「全身のモーション」をサポートするとのことです。",
+   "この新しいモデルの登場により、ヒューマノイドロボットの動作領域がどのように広がりを見せるのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "Google DeepMind",
+   "ロボットAI",
+   "Gemini Robotics"
+  ],
+  "slug": "google-deepmind-gemini-robotics-2",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google DeepMind",
+    "type": "company",
+    "desc": "イギリス・ロンドンを拠点とする世界的な人工知能の研究開発企業で、高度なAIモデルを多数発表している。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+  "category": "ai",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-google-deepmind-gemini-robotics-2.html"
+ },
+ {
+  "title": "KADOKAWAとはてな、AI小説執筆エディタ「RIKU」発表",
+  "lead": "KADOKAWAとはてなは、AIで小説の執筆を支援する新サービス「RIKU」を発表し、テスターの募集を開始しました。",
+  "summary3": [
+   "KADOKAWAとはてなが新サービス発表",
+   "AIで小説の執筆を支援するエディタ",
+   "テスターの募集が開始された"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、KADOKAWAとはてなは、AIを活用して小説の執筆を支援する新たなエディタ「RIKU」を発表しました。両社による共同の取り組みとして注目を集めています。",
+   "発表に伴い、新サービス「RIKU」のテスター募集がすでに開始されています。AI技術を活用した執筆支援ツールとして、今後の展開が期待されます。",
+   "小説執筆のプロセスにおいてAIがどのようにサポートするのか、詳細な機能や今後のスケジュールについては順次明らかにされる見通しです。創作活動の現場におけるAI活用の一歩として、多くの関心が寄せられています。"
+  ],
+  "tags": [
+   "KADOKAWA",
+   "はてな",
+   "AI"
+  ],
+  "slug": "kadokawa-hatena-riku-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "KADOKAWA",
+    "type": "company",
+    "desc": "出版事業を中心に映像やゲームなど多様なエンタテインメントを手がける日本の企業です。"
+   },
+   {
+    "name": "はてな",
+    "type": "company",
+    "desc": "ブログサービスやコンテンツプラットフォームの開発・運営などを手がける日本のインターネット企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000306/",
+  "category": "ai_jp",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-kadokawa-hatena-riku-ai.html"
+ },
+ {
+  "title": "AppleのQ3売上高16%増の1094億ドル、なぜ中国市場で22%増を達成できたのか",
+  "lead": "Appleは2026年第3四半期の決算を発表しました。売上高と純利益がともに市場予想を上回る結果となりました。",
+  "summary3": [
+   "Q3売上高は1094.2億ドルで16%増",
+   "純利益は27%増の297.9億ドルを記録",
+   "中国市場の売上高は22%増の188.2億ドル"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechmemeの報道を元にお伝えします。Appleは、2026年6月27日を期末とする2026年度第3四半期の財務結果を発表しました。当期の売上高は前年同期比16%増の1094.2億ドルとなり、市場予想の108.65億ドルを上回る好調な結果を示しました。",
+   "また、純利益についても大幅な伸びを記録しており、前年同期比27%増の29.79億ドルとなっています。世界的な経済環境が変化する中でも、同社の主力製品やサービスが堅調な需要を維持していることが浮き彫りとなりました。",
+   "さらに、注目を集める中国市場における売上高は、前年同期比22%増の18.82億ドルを記録しました。市場予想の19.6億ドルにはわずかに届かなかったものの、同地域において確実な成長を遂げていることが今回の決算データから明らかになっています。"
+  ],
+  "tags": [
+   "Apple",
+   "決算",
+   "ビジネス"
+  ],
+  "slug": "apple-reports-q3-revenue-up-16-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売する、アメリカ合衆国の世界的な大手テクノロジー企業です。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260730/p52#a260730p52",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-apple-reports-q3-revenue-up-16-percent.html"
+ },
+ {
+  "title": "Amazonが2026年設備投資を2200億ドルに引き上げた理由",
+  "lead": "米CNBC Techによると、Amazonが2026年の設備投資を2200億ドルに引き上げました。メモリコストの高騰が背景にありますが、クラウド部門の売上高は市場予想を大きく上回る成長を記録しています。",
+  "summary3": [
+   "Amazonが2026年設備投資を2200億ドルへ",
+   "AWSの売上高が前年比37%増と大幅成長",
+   "メモリコスト高騰が投資増の主な要因に"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、米Amazon（アマゾン）はメモリコストの上昇を主な理由として、2026年の設備投資額（カペックス）を2200億ドルに引き上げると発表しました。半導体やメモリ価格の高騰が続く中での巨額の投資計画となります。",
+   "一方で、同社のクラウドサービス部門であるAWSの業績は好調です。最新の四半期において、AWSの売上高は前年同期比で37%増を記録しました。この成長率は、アナリストが事前に予想していた31%増の成長を大きく上回る結果となっています。",
+   "メモリコストの増加という逆風がありながらも、クラウド事業の急拡大が同社の強さを証明する形となりました。今後は巨額の設備投資がどのように収益に結びついていくのか、市場の関心が高まっています。"
+  ],
+  "tags": [
+   "Amazon",
+   "AWS",
+   "決算"
+  ],
+  "slug": "amazon-2026-capex-220-billion-aws-growth",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "米国に本拠を置き、世界最大級のEコマース事業とクラウドコンピューティングサービスを展開する企業です。"
+   },
+   {
+    "name": "AWS",
+    "type": "company",
+    "desc": "Amazonが提供する、世界最大のシェアを持つ安全なクラウドコンピューティングサービスです。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-amazon-2026-capex-220-billion-aws-growth.html"
+ },
+ {
+  "title": "にじさんじ所属VTuber、不適切絵文字で謝罪",
+  "lead": "人気VTuberグループ「にじさんじ」に所属するメンバーが、熊本地震の際に不適切な絵文字を含んだ投稿をしたとして謝罪を行いました。",
+  "summary3": [
+   "にじさんじ所属VTuberが謝罪",
+   "熊本地震の際の投稿が原因",
+   "不適切な絵文字を含んでいた"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、人気VTuberグループ「にじさんじ」に所属するVTuberが、熊本地震の際に「不適切な絵文字を含んだ投稿」をしたとして謝罪を行いました。",
+   "当該の人物は謝罪に際して、「私の認識と確認が至らず…」と述べ、自身の認識不足や確認不足を認めて反省の意を示しているとのことです。",
+   "今回の謝罪を受け、ネット上では過去のSNSでの発言や投稿内容に対する慎重な姿勢の重要性について、改めてさまざまな意見が交わされています。"
+  ],
+  "tags": [
+   "にじさんじ",
+   "VTuber",
+   "謝罪"
+  ],
+  "slug": "nijisanji-vtuber-apology-earthquake-post",
+  "people": [],
+  "terms": [
+   {
+    "name": "にじさんじ",
+    "type": "company",
+    "desc": "多数のバーチャルライバーが所属する国内の大手VTuberプロジェクトおよびその運営企業。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55djQ1TlVrMV8yZGwtbG9YSl9Kdmk3SjdIQjFnRnQxNGVNUGc3Rlh2bVhvTGxkNmxmUXJmSi1ZbGJxTGctcVl5ckNYTGRxUzFDU2JNX0JkTkQ1alQ2VFRUOEpFdW81NUg1UENoNnN2UFY1bnpJU2ZSNDJ5NXp6Z1E?oc=5",
+  "category": "influencer",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-nijisanji-vtuber-apology-earthquake-post.html"
+ },
+ {
+  "title": "高市首相、食料品消費税を来年4月から1％に引き下げる方針表明、党内異論も",
+  "lead": "食料品の消費税減税をめぐり、高市総理大臣が来年4月から2年間、税率を1％に引き下げる方針を表明しました。これを受けて自民党執行部は意見集約を急いでいますが、党内では異論も出ています。",
+  "summary3": [
+   "高市首相が食料品の消費税減税方針を表明",
+   "来年4月から2年間、税率を1％に引き下げ",
+   "自民党執行部が意見集約を急ぐも党内異論"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、食料品の消費税減税をめぐり、高市総理大臣が来年4月から2年間、税率を1％に引き下げる方針を表明したことが分かりました。この方針の表明を受けて、自民党執行部は党内での意見集約を急ぐ方針です。",
+   "しかし、党内からは「財源が明確でない」などと異論も表面化しており、今後の調整が難航する可能性も懸念されています。消費者の家計に直結する重要な税制の変更であるだけに、与党内での議論の行方に注目が集まっています。",
+   "NHKの主要ニュースによると、減税の具体的な実施に向けた党内の意見調整がどのように進むのか、引き続き自民党の動向が注視されます。"
+  ],
+  "tags": [
+   "消費税減税",
+   "高市首相",
+   "自民党"
+  ],
+  "slug": "takaichi-food-consumption-tax-reduction",
+  "people": [
+   {
+    "name": "高市総理大臣",
+    "bio": "日本の内閣総理大臣であり、自民党の主要な政策決定を主導する政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015191271000",
+  "category": "world",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-takaichi-food-consumption-tax-reduction.html"
+ },
+ {
+  "title": "ポーランドに飛しょう体落下、ロシアのミサイルか",
+  "lead": "ウクライナの隣国ポーランドの東部に飛しょう体が落下しました。ポーランド政府はロシアのミサイルだった可能性が高いとして調査を進めています。",
+  "summary3": [
+   "ポーランド東部に飛しょう体が落下",
+   "ロシアのミサイルの可能性が高いと指摘",
+   "ポーランド政府が詳しい調査を進める方針"
+  ],
+  "body": [
+   "ウクライナの隣国であるポーランドの東部に30日、飛しょう体が落下する事態が発生しました。この問題を受け、ポーランド政府は落下した飛しょう体について、ロシアのミサイルだった可能性が高いとの見解を示しました。",
+   "現在、現地では安全確保のための対応とともに、飛しょう体の特定や落下に至った経緯などに関する詳しい調査が進められています。周辺国や国際社会に対しても緊張が走る状況となっており、今後の調査結果や政府の発表に注目が集まっています。",
+   "ウクライナ情勢が緊迫化する中での隣国への飛しょう体落下は、安全保障上の大きな懸念材料となります。ポーランド政府による今後の詳細な調査結果の公表が待たれています。"
+  ],
+  "tags": [
+   "ポーランド",
+   "ロシア",
+   "ウクライナ"
+  ],
+  "slug": "poland-projectile-fall-russia-missile",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015191301000",
+  "category": "world",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-poland-projectile-fall-russia-missile.html"
+ },
+ {
+  "title": "三菱自動車が人型ロボ導入へ､東大発AIで工場はどう変わるか",
+  "lead": "三菱自動車は、工場での人型ロボット活用に向けて動き出しました。東大発スタートアップが開発するフィジカルAIを活用し、新たな生産体制の構築を目指します。",
+  "summary3": [
+   "三菱自動車が人型ロボットを工場で活用へ",
+   "東大発スタートアップのフィジカルAIを採用",
+   "新型パジェロへの期待感も高まる展開に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。ロボットがセンサーなどを通じて現実世界を認識し、自律的に活動する「フィジカルAI」が本格化する時代を迎えました。こうした動向の中で、三菱自動車が一歩を踏み出しています。",
+   "同社は、出資先である東大発のスタートアップ企業と連携し、工場での人型ロボット活用に向けた取り組みを進めています。現実世界を認識して自律的に動く先端技術を取り入れることで、今後の製造現場における生産性の向上などが期待されます。",
+   "また、こうした技術活用の動きとあわせて、新型パジェロに対する期待感も高まるなど、同社の事業展開や今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "三菱自動車",
+   "フィジカルAI",
+   "ロボット"
+  ],
+  "slug": "mitsubishi-motors-humanoid-robot-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱自動車",
+    "type": "company",
+    "desc": "日本の大手自動車メーカー。国内外で自動車の製造・販売を手がけ、新型パジェロなどの展開にも期待が寄せられている。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/953055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-mitsubishi-motors-humanoid-robot-ai.html"
+ },
+ {
+  "title": "京セラが2027年3月期第1四半期の決算説明会資料を開示",
+  "lead": "AI TECH TIMESがお届けする企業ニュース。京セラが2027年3月期 第1四半期の決算説明会資料を適時開示しました。",
+  "summary3": [
+   "京セラが最新の決算説明会資料を開示",
+   "対象は2027年3月期第1四半期",
+   "日本経済新聞の情報を基に伝達"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、京セラに関する新しい適時開示情報が発表されました。日本経済新聞の日経会社情報DIGITALにて、京セラの2027年3月期 第1四半期 決算説明会資料が公開されています。",
+   "公開された資料は2026年7月30日付で適時開示されたものであり、同社の四半期における業績や事業の進捗状況を確認するための重要な情報源となります。",
+   "企業の動向を正確に把握するため、詳細な資料の内容については公式の開示情報をご確認ください。今後も関連する企業ニュースを継続して伝えてまいります。"
+  ],
+  "tags": [
+   "京セラ",
+   "決算説明会",
+   "適時開示"
+  ],
+  "slug": "kyocera-financial-results-briefing-q1-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "京セラ",
+    "type": "company",
+    "desc": "京セラは、京都府に本社を置く日本の大手電子部品・電気機器メーカーで、セラミック技術を基盤に多角的な事業を展開する。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnpvSTdHNEkzRHVQa202dFgzcFpHcWxHN0F5UzFFMHpIVEhKWTFuWVBDVFJiUHdnSVlTQW5weERiU2pLZG5GcVZBYXdsSDhFSzc0Y1JlLUE4Z01tbGp2M1NWSS1CZVZTWFNVWmZOZjBTTnlPVlQyVnpqREMwWHd4cUtSRnR2Y3YzSTJMR2FfOVpHYnp5UVZzS3VJOHMzVXlIZHBYekpzYks4Q0E0VjQ5cFVoclhrNU5PSEtOQkg0TDRLMEpVb2JHZlhqTU8?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-kyocera-financial-results-briefing-q1-2027.html"
+ },
+ {
+  "title": "東京エレクトロン、2027年3月期第1四半期決算説明会を開催",
+  "lead": "AI TECH TIMESがお届けする企業の最新動向。今回は東京エレクトロンが実施した2027年3月期第1四半期の決算説明会に関する情報をお伝えします。",
+  "summary3": [
+   "東京エレクトロンが説明会を実施",
+   "2027年3月期第1四半期が対象",
+   "決算説明会の詳細を公開中"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。今回は、日本の主要企業による最新の決算関連情報についてお伝えいたします。",
+   "半導体製造装置の大手メーカーとして知られる東京エレクトロンは、2027年3月期第1四半期に関する決算説明会を開催いたしました。本会合に関する詳細な情報については、finance.biggo.jpなどの関連プラットフォームを通じて確認することが可能となっています。",
+   "企業の動向を把握する上で、四半期ごとの決算説明会は重要な情報源となります。今後もAI TECH TIMESでは、読者の皆様のビジネスにお役立ていただける正確な企業ニュースを迅速にお伝えしてまいります。"
+  ],
+  "tags": [
+   "東京エレクトロン",
+   "決算説明会",
+   "企業動向"
+  ],
+  "slug": "tokyo-electron-q1-earnings-briefing-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "東京エレクトロン",
+    "type": "company",
+    "desc": "日本の東京都に本社を置く、世界有数の半導体製造装置メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVXJTUVhEOWpFSDFMMkh6elBrdUNUQVFLM2JpZ1lhOU1ab0Uza043dkVvY0l4ay1yaDgyTFloTnd0SUltckdab3I3S3Y0WUF0aFk0UVhDQmRYc2ZqNHhJYU84UTJ0YXJWT3lGUDlIckVXNFFNQVdLSFdXQWM?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "07:01",
+  "path": "/articles/20260731-tokyo-electron-q1-earnings-briefing-2027.html"
  }
 ]
