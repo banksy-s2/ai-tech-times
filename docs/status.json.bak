@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-31 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "NY市場で1ドル157円台後半に、市場介入の観測も",
-   "path": "/articles/20260731-ny-market-exchange-rate-157-yen.html",
-   "cat": "時事・世界"
+   "title": "アドテスト好決算で433円高、AI期待復活",
+   "path": "/articles/20260731-nikkei-average-advantest-ai-rally.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "イオンモール崩落、捜索続くなぜ生存者は見つかるのか",
-   "path": "/articles/20260731-aeon-mall-earthquake-search.html",
-   "cat": "時事・世界"
+   "title": "神戸電鉄、大株主となった神戸市とトップ会談の狙い",
+   "path": "/articles/20260731-kobe-dentetsu-kobe-city-top-meeting.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 23,
+  "used": 27,
   "limit": 200
  }
 }

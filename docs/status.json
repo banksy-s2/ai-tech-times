@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-31 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "アドテスト好決算で433円高、AI期待復活",
-   "path": "/articles/20260731-nikkei-average-advantest-ai-rally.html",
-   "cat": "株式投資(日本)"
+   "title": "8035.T、売上高7323億円で過去最高を更新",
+   "path": "/articles/20260731-8035t-fy2027-q1-results.html",
+   "cat": "日本企業"
   },
   {
-   "title": "神戸電鉄、大株主となった神戸市とトップ会談の狙い",
-   "path": "/articles/20260731-kobe-dentetsu-kobe-city-top-meeting.html",
-   "cat": "株式投資(日本)"
+   "title": "沖電気工業FY2026 Q1決算防衛システム9割増益",
+   "path": "/articles/20260731-oki-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [],
- "pv_today": 6,
+ "pv_today": 7,
  "gemini": {
-  "used": 27,
+  "used": 31,
   "limit": 200
  }
 }
