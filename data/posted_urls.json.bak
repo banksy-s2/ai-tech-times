@@ -588,7 +588,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015190631000",
   "https://news.web.nhk/newsweb/na/na-k10015190271000",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sTUJSZ2VoOHU2eGRJbTBoR2ZSU1lDZk5JcUd3OXlkNklpN1I0Q0dOX25wNnJxc3EtYTdkMW41Uk56d29uam0xdHFESHhsVnpRMnc?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXA4U05CRWs0U0NKVEtKbFZhTDFzbU93bVhCRzl6MHM3cUdGSUlYQnFUU0tzY2ZWVnpqWlE0MG5obTB5UFNwYXB1OXB0emJqRTRtTlMtSzAtUjZnZ3NIbU90TFVFVmlxOWlfUlVGY3hlRmhiRDVZV2lKNWdPYVFfYVN3YzJZc1U?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXA4U05CRWs0U0NKVEtKbFZhTDFzbU93bVhCRzl6MHM3cUdGSUlYQnFUU0tzY2ZWVnpqWlE0MG5obTB5UFNwYXB1OXB0emJqRTRtTlMtSzAtUjZnZ3NIbU90TFVFVmlxOWlfUlVGY3hlRmhiRDVZV2lKNWdPYVFfYVN3YzJZc1U?oc=5",
+  "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+  "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1750,6 +1752,10 @@
   "決算プラス・インパクト銘柄 【東証プライム】寄付 … アドテスト、日立、ＮＥＣ (7月29日発表分) - 株探",
   "全日空、地域航空のアイベックスと業務提携＝ANA便の受委託で(時事通信) - Yahoo!ファイナンス",
   "アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは",
-  "ANA、アイベックスと業務提携でANA便の受委託を実施"
+  "ANA、アイベックスと業務提携でANA便の受委託を実施",
+  "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+  "Artists are lawyering up against AI slop, and some are even winning",
+  "ザッカーバーグ予測：5年で数日が進むパーソナルAI",
+  "The Atlantic、AI学習データの検索可能リストを公開"
  ]
 }

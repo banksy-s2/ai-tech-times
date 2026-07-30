@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-30 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-30 16:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "アドテスト、日立、ＮＥＣらの決算プラス・インパクトとは",
-   "path": "/articles/20260730-earnings-impact-prime-market-july29.html",
-   "cat": "日本企業"
+   "title": "ザッカーバーグ予測：5年で数日が進むパーソナルAI",
+   "path": "/articles/20260730-mark-zuckerberg-predicts-ai-agents.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "ANA、アイベックスと業務提携でANA便の受委託を実施",
-   "path": "/articles/20260730-ana-ibex-business-partnership.html",
-   "cat": "日本企業"
+   "title": "The Atlantic、AI学習データの検索可能リストを公開",
+   "path": "/articles/20260730-artists-lawyering-up-against-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g"
  },
  "notes": [],
- "pv_today": 89,
+ "pv_today": 92,
  "gemini": {
-  "used": 118,
+  "used": 121,
   "limit": 200
  }
 }
