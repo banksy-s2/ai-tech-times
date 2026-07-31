@@ -718,7 +718,9 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQmJ6ZFBjSGRIVHpFSHd1ZEpPelcwVG5hWDRXNmxHTmtEVlBwYzNja1k1NmV0STc5UTNNQzFkZ1B6dlExR0IwOTR2X2lGTEVkb0gxRkFtTm5weHB2SGh4V21NQVNuZGxpMGlEMw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015193091000",
   "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUXFGNXA1TV9KMlVjeGQ0S2x3eHJSTkxyc20wQzZ1NVNOdms1WXlDRXRwQVFRRFpqVnNYckxmb2ZaeWo4azZTSlYtZVZQMGc?oc=5",
-  "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pTHdJREhBSFg3dEZkeW45RGJiU2g4QmtsS2pUaDhJNHdQUVJuamN5QWI1MFptbUMyYUxEQnBLWlc4ajdk?oc=5"
+  "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pTHdJREhBSFg3dEZkeW45RGJiU2g4QmtsS2pUaDhJNHdQUVJuamN5QWI1MFptbUMyYUxEQnBLWlc4ajdk?oc=5",
+  "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+  "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2140,6 +2142,10 @@
   "日経平均2494円高、米テック好決算でAI・半導体株に見直し買い",
   "大手銀行、8月住宅ローン固定金利を引き上げ",
   "セブン＆アイ、ソフトバンク等と提携し3000億出資の狙い",
-  "マーベラス、テンセントとの提携解消と新作中止の理由"
+  "マーベラス、テンセントとの提携解消と新作中止の理由",
+  "OpenAI reportedly finds evidence that more of its agents ran amok",
+  "The major labels propose rules to keep AI slop off the charts",
+  "OpenAI、自律エージェントの暴走事案でさらなる証拠を発見",
+  "ユニバーサルミュージックなど大手音楽レーベルがAI楽曲のチャート除外を提案"
  ]
 }
