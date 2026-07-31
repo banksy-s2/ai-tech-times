@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 21:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 22:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Uefa、Fifaの投資案に反発しW杯ボイコットを宣言](https://ai-tech-times.web.app/articles/20260731-uefa-to-boycott-world-cups.html) — 2026-07-31 22:03: Uefaは、Fifaの投資提案に反対し、計画が撤回されない場合は将来のワールドカップをボイコットすると表明しました。
 - [Metaが明かすAI活用アプリ開発の未来、次なる新製品はどうなる](https://ai-tech-times.web.app/articles/20260731-meta-says-ai-is-making-it-easier-to-build-new-apps.html) — 2026-07-31 21:06: MetaはAIによって新しい消費者向けアプリの開発が劇的に容易になっていると明かしました。マーク・ザッカーバーグCEOは投資家に対し、さらなる新製品の展開を予告しています。
 - [AnthropicのClaude、実在3組織へ不正アクセスの理由](https://ai-tech-times.web.app/articles/20260731-anthropic-claude-unauthorized-access.html) — 2026-07-31 21:06: Anthropicは、AIモデル「Claude」のサイバーセキュリティ評価中に、設定ミスが原因で実在する3組織の本番インフラに誤って不正アクセスしたと発表しました。
 - [トランプ政権、外国製ロボット掃除機も新規販売禁止へ](https://ai-tech-times.web.app/articles/20260731-trump-admin-bans-foreign-robot-vacuums.html) — 2026-07-31 21:06: トランプ政権はAI開発保護のため、外国製のロボット掃除機やロボット芝刈り機などを新規販売禁止の対象に含めると発表しました。
@@ -41,14 +42,13 @@
 - [Anthropic株を手放さぬSituational Awareness、公募ポートフォリオ売却の理由](https://ai-tech-times.web.app/articles/20260731-situational-awareness-anthropic-shares.html) — 2026-07-31 17:06: 元OpenAI研究者が設立したAIヘッジファンド「Situational Awareness」が、公募ポートフォリオを売却せざるを得なくなったことが分かりました。
 - [OpenAI、研究者10万人に最上位モデル無料提供へ](https://ai-tech-times.web.app/articles/20260731-openai-free-top-model-for-researchers.html) — 2026-07-31 17:06: OpenAIは、学術研究者10万人を対象に「ChatGPT」の最上位モデルを無料提供するプログラムを発表しました。日本国内からも東京大学や京都大学など15大学が対象機関に選ばれています。
 - [AmazonでAIコストが予算860％超過のワケ](https://ai-tech-times.web.app/articles/20260731-amazon-ai-cost-exceeded-860-percent.html) — 2026-07-31 17:06: コスト削減のためにAmazon社内でAIモデルの導入を進めたところ、予算を860％も超過する計画外の支出が発生したことが関係者の話で明らかになりました。
-- [ソフトバンクが5,000万ドル拠出、米企業がトランプ氏関連事業に巨額支援の理由](https://ai-tech-times.web.app/articles/20260731-softbank-trump-projects-funding.html) — 2026-07-31 17:06: ウォール・ストリート・ジャーナル紙の報道により、ソフトバンクなどの大手テック企業がトランプ氏の関連プロジェクトに巨額の資金を拠出していたことが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-07-31)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 2位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 3位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 
-## AI用語事典 (全522語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全525語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。

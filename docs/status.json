@@ -1,61 +1,11 @@
 {
- "updated": "2026-07-31 21:06",
- "mode": "フル便",
+ "updated": "2026-07-31 22:03",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Metaが明かすAI活用アプリ開発の未来、次なる新製品はどうなる",
-   "path": "/articles/20260731-meta-says-ai-is-making-it-easier-to-build-new-apps.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "AnthropicのClaude、実在3組織へ不正アクセスの理由",
-   "path": "/articles/20260731-anthropic-claude-unauthorized-access.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "トランプ政権、外国製ロボット掃除機も新規販売禁止へ",
-   "path": "/articles/20260731-trump-admin-bans-foreign-robot-vacuums.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "OpenAI、GPT-5.6の2モデルを値下げした背景",
-   "path": "/articles/20260731-openai-price-cut-gpt-5-6.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Xboxのアーシャ・シャルマCEO、大規模な組織再編後に成長へ向けた優先順位を策定",
-   "path": "/articles/20260731-xbox-ceo-memo-one-year-growth.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "JR九州、熊本〜新水俣の8月中再開困難",
-   "path": "/articles/20260731-jr-kyushu-shinkansen-suspension.html",
+   "title": "Uefa、Fifaの投資案に反発しW杯ボイコットを宣言",
+   "path": "/articles/20260731-uefa-to-boycott-world-cups.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "ハマスが武装解除に合意、トランプ氏の平和評議会計画",
-   "path": "/articles/20260731-hamas-agrees-to-disarm-board-of-peace.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "NHKおはBiz：急激な円高に 1時間足らずで約5円",
-   "path": "/articles/20260731-rapid-yen-appreciation-ohabiz.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "配当が600円から1640円に！東証プライム上昇率1位となった半導体銘柄の正体",
-   "path": "/articles/20260731-semiconductor-stock-surges-on-dividend-hike.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "セブン＆アイとPayPay、総額3000億円提携で7iD統合",
-   "path": "/articles/20260731-seven-and-i-paypay-capital-business-alliance.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "ヤマダHDとエディオン、2.5兆円統合への道はなぜ一筋縄ではいかないのか",
-   "path": "/articles/20260731-yamada-edion-integration-challenges.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -63,13 +13,11 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [
-  "執筆失敗: Reddit reports a solid quarter but shows",
-  "執筆失敗: グルメインフルエンサーが紹介する店は「PR案件だらけ」同業が暴露しバトル勃発、証",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: “原発建て替え 2040年代までに最大5基”政府が正式決定"
  ],
  "pv_today": 14,
  "gemini": {
-  "used": 164,
+  "used": 169,
   "limit": 200
  }
 }
