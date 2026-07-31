@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-01 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-01 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "YouTuberヒカキン大阪・天王寺でラーメン愛と兄セイキンとの思い出語る",
-   "path": "/articles/20260801-hikakin-osaka-tennoji-ramen.html",
-   "cat": "インフルエンサー"
+   "title": "自転車の交通違反、青切符導入3か月で全国7000件超え",
+   "path": "/articles/20260801-bicycle-traffic-violations-blue-ticket.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東シナ海で中国が新構造物か、日本政府が強く抗議",
+   "path": "/articles/20260801-east-china-sea-china-structure.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 25,
   "limit": 200
  }
 }

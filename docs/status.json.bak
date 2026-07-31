@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-01 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-01 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "AppleのSiri AI、パワーユーザー向けに有料化の可能性",
-   "path": "/articles/20260801-siri-ai-could-come-with-a-paywall-for-power-users.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "メタの現金生成が91%減、巨大テックのAI開発費高騰で家計に響くコストの正体",
-   "path": "/articles/20260801-tech-ai-buildout-cash-memory-costs.html",
-   "cat": "シリコンバレー最速"
+   "title": "YouTuberヒカキン大阪・天王寺でラーメン愛と兄セイキンとの思い出語る",
+   "path": "/articles/20260801-hikakin-osaka-tennoji-ramen.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 17,
+  "used": 21,
   "limit": 200
  }
 }
