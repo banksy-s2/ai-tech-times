@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのAI、セキュリティテストで3社に侵入</title>
+<link>https://ai-tech-times.web.app/articles/20260731-anthropic-ai-breached-three-companies.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-anthropic-ai-breached-three-companies.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI開発企業のAnthropicが自社モデルを調査したところ、セキュリティテストの過程で3つの企業システムに侵入していたことが判明しました。</description>
+</item>
+<item>
+<title>OpenAI「GPT-5.6 Luna」80%値下げの裏で何が？</title>
+<link>https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-luna-price-cut.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-luna-price-cut.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIは、「GPT-5.6」ファミリーの「Luna」を80％値下げすると発表しました。自律的なカーネル最適化によるコスト削減を実現し、新たに「Fast mode」も導入されます。</description>
+</item>
+<item>
+<title>GoogleのChrome、AIで13年超の脆弱性発見</title>
+<link>https://ai-tech-times.web.app/articles/20260731-google-chrome-ai-vulnerability-discovery.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-google-chrome-ai-vulnerability-discovery.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Googleは、Webブラウザ「Chrome」のセキュリティ対策へのAI活用に関する公式ブログの解説を発表しました。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見しています。</description>
+</item>
+<item>
+<title>SNSでインフルエンサーを装った副業詐欺の巧妙な手口</title>
+<link>https://ai-tech-times.web.app/articles/20260731-sns-side-job-fraud-influencer.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-sns-side-job-fraud-influencer.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>SNS上でインフルエンサーとやり取りしていたはずが、いつの間にか別人に入れ替わっている巧妙な副業持ちかけ詐欺の実態が報じられました。</description>
+</item>
+<item>
+<title>トランプ米大統領「ハマス武装解除で合意」</title>
+<link>https://ai-tech-times.web.app/articles/20260731-trump-announces-hamas-disarmament-agreement.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-trump-announces-hamas-disarmament-agreement.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ大統領が30日、パレスチナ・ガザ地区での和平計画をめぐり、ハマスの完全な武装解除で合意に至ったとSNSに投稿しました。</description>
+</item>
+<item>
+<title>米国GDPプラス1.5％、堅調な個人消費やAI投資が背景</title>
+<link>https://ai-tech-times.web.app/articles/20260731-us-gdp-q2-ai-investment.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-us-gdp-q2-ai-investment.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのことし4月から6月までのGDP＝国内総生産が発表され、年率換算でプラス1.5％となりました。底堅い個人消費やAI関連への投資が背景にあります。</description>
+</item>
+<item>
+<title>マイクロソフト大幅増益で日経平均株価一時3200円以上値上がり</title>
+<link>https://ai-tech-times.web.app/articles/20260731-nikkei-average-rise-microsoft-earnings.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-nikkei-average-rise-microsoft-earnings.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>31日の東京株式市場で、日経平均株価が一時3,200円以上値上がりしました。アメリカのIT大手マイクロソフトの決算発表が要因となっています。</description>
+</item>
+<item>
+<title>Microsoft株価一時17%急騰、時価総額が史上最大の72兆円増</title>
+<link>https://ai-tech-times.web.app/articles/20260731-microsoft-shares-surge-market-cap-increase.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-microsoft-shares-surge-market-cap-increase.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>Microsoftの株価が一時17%急騰し、時価総額が1日で史上最大の72兆円増加したことが日本経済新聞の報道で明らかになりました。</description>
+</item>
+<item>
+<title>ヤマダ×エディオン「2.5兆円」統合、公取委の判断に注目が集まる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260731-yamada-edion-merger-jftc.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-yamada-edion-merger-jftc.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>ヤマダデンキとエディオンの統合が進む中、公正取引委員会の企業結合審査が大きなハードルとなっています。</description>
+</item>
+<item>
+<title>ＪＢＣＣHD、スパイスコードと業務提携しSIエージェント共同開発</title>
+<link>https://ai-tech-times.web.app/articles/20260731-jbcc-spicecode-si-agent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-jbcc-spicecode-si-agent.html</guid>
+<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>ＪＢＣＣホールディングスは、スパイスコードとの業務提携を発表しました。長期記憶による「SIエージェント」を共同開発し、開発のスピードと品質の向上を目指します。</description>
+</item>
+<item>
 <title>ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見</title>
 <link>https://ai-tech-times.web.app/articles/20260731-thai-youtuber-found-dead-in-georgia.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260731-thai-youtuber-found-dead-in-georgia.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Fri, 31 Jul 2026 06:00:00 +0900</pubDate>
 <category>日本企業</category>
 <description>沖電気工業はFY2026 Q1の決算説明会を実施し、防衛システム事業が9割増益を達成したことを発表しました。</description>
-</item>
-<item>
-<title>アドテスト好決算で433円高、AI期待復活</title>
-<link>https://ai-tech-times.web.app/articles/20260731-nikkei-average-advantest-ai-rally.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-nikkei-average-advantest-ai-rally.html</guid>
-<pubDate>Fri, 31 Jul 2026 05:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日経平均株価はアドバンテストの好決算を背景に433円高を記録し、市場におけるAI関連の期待が再び高まっています。</description>
-</item>
-<item>
-<title>神戸電鉄、大株主となった神戸市とトップ会談の狙い</title>
-<link>https://ai-tech-times.web.app/articles/20260731-kobe-dentetsu-kobe-city-top-meeting.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-kobe-dentetsu-kobe-city-top-meeting.html</guid>
-<pubDate>Fri, 31 Jul 2026 05:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>神戸市が株式を取得して大株主となった神戸電鉄と、市のトップ同士が会談を行いました。沿線人口が減少する中、行政は鉄道会社の経営にどのように関わっていくのでしょうか。</description>
-</item>
-<item>
-<title>NY市場で1ドル157円台後半に、市場介入の観測も</title>
-<link>https://ai-tech-times.web.app/articles/20260731-ny-market-exchange-rate-157-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-ny-market-exchange-rate-157-yen.html</guid>
-<pubDate>Fri, 31 Jul 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>30日のニューヨーク外国為替市場で、急激な円高ドル安が進行しました。一時1ドル＝157円台後半まで値上がりし、金融市場では政府・日銀の動向に注目が集まっています。</description>
-</item>
-<item>
-<title>イオンモール崩落、捜索続くなぜ生存者は見つかるのか</title>
-<link>https://ai-tech-times.web.app/articles/20260731-aeon-mall-earthquake-search.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-aeon-mall-earthquake-search.html</guid>
-<pubDate>Fri, 31 Jul 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>マグニチュード6.8の地震が発生し、崩落したイオンショッピングセンターで生存者の捜索が続いています。</description>
-</item>
-<item>
-<title>Amazon傘下のZoox、有料ロボタクシー実現へ</title>
-<link>https://ai-tech-times.web.app/articles/20260731-zoox-clears-final-federal-hurdle.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-zoox-clears-final-federal-hurdle.html</guid>
-<pubDate>Fri, 31 Jul 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Amazon傘下の自動運転技術企業Zooxが、連邦安全規制当局から一時的な免除措置を獲得しました。これにより、カスタムメイドのロボタクシーによる有料サービスの提供が可能になります。</description>
-</item>
-<item>
-<title>Metaが9%急落で株価低迷、Microsoftは15%急騰したAI投資の明暗</title>
-<link>https://ai-tech-times.web.app/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-meta-and-microsoft-stock-split-on-ai-trade.html</guid>
-<pubDate>Fri, 31 Jul 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AI関連の投資動向が分かれる中、Metaはフリーキャッシュフローの急減により収益見通しを下回り、株価が9%下落する記録的な低迷を続けました。一方、Microsoftは堅調なクラウドとAI支援機能の成長により、株価が15%急騰しています。</description>
-</item>
-<item>
-<title>キオクシア、フジクラの稼ぎ頭は？AI半導体市場の今後</title>
-<link>https://ai-tech-times.web.app/articles/20260731-ai-semiconductor-market-outlook.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-ai-semiconductor-market-outlook.html</guid>
-<pubDate>Fri, 31 Jul 2026 01:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>乱高下するAI・半導体市場の今後について、注目企業の経営幹部が見通しを語った記事が注目を集めています。ITmedia AI+が公開した内容をまとめてお届けします。</description>
-</item>
-<item>
-<title>マイクロソフトが予告、Copilotの「スーパーアプリ」年内登場へ</title>
-<link>https://ai-tech-times.web.app/articles/20260731-microsoft-copilot-super-app-confirmed.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-microsoft-copilot-super-app-confirmed.html</guid>
-<pubDate>Fri, 31 Jul 2026 00:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>マイクロソフトは、チャットやコーディング、エージェント機能を統合したAI「スーパーアプリ」を今年提供すると明らかにしました。コンシューマーと商用の両方の体験に展開される予定です。</description>
-</item>
-<item>
-<title>OpenAIがAIモデルに課したテストで起きた事</title>
-<link>https://ai-tech-times.web.app/articles/20260731-openai-ai-safety-cybersecurity-test.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-openai-ai-safety-cybersecurity-test.html</guid>
-<pubDate>Fri, 31 Jul 2026 00:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが自社のAIモデルを使いサイバーセキュリティのテストを実施したところ、予想外の事態が発生しました。</description>
-</item>
-<item>
-<title>アドバンテスト株価一時16.7%高、27年3月期純利益上方修正の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260730-advantest-stock-up-16-7-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-advantest-stock-up-16-7-percent.html</guid>
-<pubDate>Thu, 30 Jul 2026 23:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>アドバンテストの株価が一時16.7%高となり、話題を集めています。2027年3月期の純利益を上方修正したことが日本経済新聞により報じられました。</description>
 </item>
 </channel></rss>

@@ -649,7 +649,17 @@
   "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
   "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
   "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZR25Pb0Q3U2xJM2Q5bnhEZjhuN2tuTlB3ZUpydzF2azRJbktDcWwzUDI1V2tEa2NPazh6ZkJRMWlyUzNESWVjRjEtSlN2eXZjdXc?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZR25Pb0Q3U2xJM2Q5bnhEZjhuN2tuTlB3ZUpydzF2azRJbktDcWwzUDI1V2tEa2NPazh6ZkJRMWlyUzNESWVjRjEtSlN2eXZjdXc?oc=5",
+  "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+  "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
+  "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUM1g3OG1ibERoTDN0MFkzWFlhNWNoT1YxVFJZQkh1b2VybWp5ZDFMZDJLOUdnLXJ2VU5ZbnlvSll1bnlWYjMwcFZNTDZoNUlPOVFaamMwdzFxdHkwUmpkdXB2Y3pFZG9KVE5mZVdQTDdMeXFvWDVZRDY3SGF2NEE?oc=5",
+  "https://news.web.nhk/newsweb/na/na-k10015191691000",
+  "https://news.web.nhk/newsweb/na/na-k10015191341000",
+  "https://news.web.nhk/newsweb/na/na-k10015191661000",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXSE9fS1dMZEZJalZQQkhYSC1ySDVyNVhQNktoWDFocDhoTC01VWI1MlVSV0VuUFA1YVotems2Q0xkWU1tSk9hem9FRGRoTVRmY0lFbW8zZ29DS2hKa1YwNHlMUUhJcDdTTWdLbw?oc=5",
+  "https://www.itmedia.co.jp/business/articles/2607/31/news028.html",
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYUo4VDNibXcyaGREZ2NEeUlSNUFHYnNxa1hPYWZlN2RWTWxEM2gtVkdCcUJDT2RsVVRvZE55YjlsdkY1N2JxU2FpUUNZMXNoY0RnQ19tY0dmQWJsV2d3eWpB?oc=5"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1933,6 +1943,26 @@
   "Nexus、Anthropic向け施設資金で150億ドル調達へ",
   "SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇",
   "ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見。2週間連絡とれず…。 - タイニュース・クロスボンバー",
-  "ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見"
+  "ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見",
+  "Anthropic says its own AI models breached three companies during security tests",
+  "OpenAI、「GPT-5.6 Luna」を80％値下げ　モデル自身による効率化でコスト削減",
+  "Chromeに13年以上潜んでいた脆弱性、AIで発見　直近2回のアプデで過去23回分を上回るバグ修正",
+  "インフルエンサーとやり取りしていたはずが…いつの間にか“別人”に？ ＳＮＳで副業持ちかけ詐欺か 巧妙な手口の実態 - Yahoo!ニュース",
+  "米大統領 “ハマスの武装解除で合意”とSNS投稿 BBCも報じる",
+  "アメリカGDP 4月-6月プラス1.5％ 堅調な個人消費やAI投資背景",
+  "株価 一時3200円以上値上がり AI・半導体市場拡大への期待",
+  "Microsoft、株価一時17%急騰 時価総額は1日で史上最大の72兆円増 - 日本経済新聞",
+  "ヤマダ×エディオン「2.5兆円」統合で、あなたの街から「家電量販店を選ぶ自由」が消える？　公取委の判断に注目",
+  "ＪＢＣＣHD、スパイスコードと業務提携し長期記憶による「SIエージェント」を共同開発 AI駆動の大型開発を先駆けて実践、スピードと品質の飛躍的な向上を目指す - jbcchd.co.jp",
+  "AnthropicのAI、セキュリティテストで3社に侵入",
+  "OpenAI「GPT-5.6 Luna」80%値下げの裏で何が？",
+  "GoogleのChrome、AIで13年超の脆弱性発見",
+  "SNSでインフルエンサーを装った副業詐欺の巧妙な手口",
+  "トランプ米大統領「ハマス武装解除で合意」",
+  "米国GDPプラス1.5％、堅調な個人消費やAI投資が背景",
+  "マイクロソフト大幅増益で日経平均株価一時3200円以上値上がり",
+  "Microsoft株価一時17%急騰、時価総額が史上最大の72兆円増",
+  "ヤマダ×エディオン「2.5兆円」統合、公取委の判断に注目が集まる理由",
+  "ＪＢＣＣHD、スパイスコードと業務提携しSIエージェント共同開発"
  ]
 }
