@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 06:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,17 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Google、公開翌日に新AI機能を即座に撤回](https://ai-tech-times.web.app/articles/20260801-google-nixes-earth-ai-feature.html) — 2026-08-01 07:02: 米Googleは、Google Earthに導入した新AI機能を公開からわずか1日で撤回しました。誤情報拡散への懸念が広がり、批判を受けたためです。
+- [GCCが15行以上のAIコードを拒絶する理由](https://ai-tech-times.web.app/articles/20260801-gcc-ai-generated-code-policy.html) — 2026-08-01 07:02: オープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームが、AI生成コードの受け入れポリシーを公開しました。AIコードの急増によるメンテナーの疲弊を防ぐため、15行以上の受け入れを拒否します。
+- [TSMCが開発中の「準EMIB」とは、Intel技術に対抗する理由](https://ai-tech-times.web.app/articles/20260801-tsmc-quasi-emib-development.html) — 2026-08-01 07:02: 世界最大の半導体受託製造企業であるTSMCが、Intelの技術に対抗する高度な半導体パッケージング技術を開発していることが報じられました。
+- [テスラ120万台を調査、サスペンション故障の報告でNHTSAが動く](https://ai-tech-times.web.app/articles/20260801-nhtsa-tesla-suspension-investigation.html) — 2026-08-01 07:02: 米道路交通安全局（NHTSA）は、テスラ車におけるサスペンションの故障報告を受け、約120万台を対象とした調査を開始しました。
+- [サムスン、メモリ不足が2027年以降も続く理由](https://ai-tech-times.web.app/articles/20260801-samsung-expects-memory-shortage-through-2028.html) — 2026-08-01 07:02: AIデータセンターの需要拡大により、複数年にわたる半導体不足が深刻化しています。Samsungは、この供給不足が2027年を通じてさらに悪化し、2028年まで長期化すると予測しています。
+- [自民党内で慎重意見も、食料品の消費税減税どうなる](https://ai-tech-times.web.app/articles/20260801-consumption-tax-reduction-ldp.html) — 2026-08-01 07:02: 食料品の消費税減税をめぐり、政府は来年4月から2年間、税率を1％に引き下げるなどとした基本方針案を来週中にも閣議決定したい考えです。しかし、党内には慎重な意見も根強くあります。
+- [大手銀行が8月住宅ローン固定金利を引き上げへ](https://ai-tech-times.web.app/articles/20260801-major-banks-raise-mortgage-fixed-rates-in-august.html) — 2026-08-01 07:02: 長期金利の上昇傾向を受け、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなります。
+- [日経平均2494円高、米テック好決算でAI・半導体株に見直し買い](https://ai-tech-times.web.app/articles/20260801-nikkei-average-surge-ai-semiconductor.html) — 2026-08-01 07:02: 日本経済新聞の報道によると、日経平均株価は米テック企業の好決算を受けて2494円高を記録しました。AI・半導体関連株に見直し買いが入る展開となっています。
+- [大手銀行、8月住宅ローン固定金利を引き上げ](https://ai-tech-times.web.app/articles/20260801-major-banks-raise-fixed-mortgage-rates-in-august.html) — 2026-08-01 07:02: 長期金利の上昇傾向が続く中、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなっています。
+- [セブン＆アイ、ソフトバンク等と提携し3000億出資の狙い](https://ai-tech-times.web.app/articles/20260801-seven-and-i-capital-business-tie-up.html) — 2026-08-01 07:02: セブン＆アイがソフトバンク、PayPay、三井住友カードと資本業務提携を行い、3000億円の出資を実施することが明らかになりました。
+- [マーベラス、テンセントとの提携解消と新作中止の理由](https://ai-tech-times.web.app/articles/20260801-marvelous-tencent-partnership-dissolution.html) — 2026-08-01 07:02: マーベラスは、中国のテンセントとの資本業務提携の解消を発表しました。同時に『牧場物語』のモバイル新作の開発中止も明らかにされています。
 - [オリエンタルランド株価+8％超で年初来高値、客単価が過去最高の理由](https://ai-tech-times.web.app/articles/20260801-oriental-land-earnings-2024.html) — 2026-08-01 06:01: オリエンタルランドの決算発表を受け、株価が急伸して年初来高値を更新しました。客単価が過去最高を更新した要因についてお伝えします。
 - [SBIホールディングス、税引前利益150%増の2258億円を達成](https://ai-tech-times.web.app/articles/20260801-sbi-holdings-q1-results-2026.html) — 2026-08-01 06:01: SBIホールディングスが2026年度第1四半期の決算説明会を開催し、第1四半期として過去最高益を達成したことを発表しました。
 - [日米協調介入か、専門家の見方と暮らしへの影響](https://ai-tech-times.web.app/articles/20260801-us-japan-joint-intervention.html) — 2026-08-01 05:00: 日米協調介入の可能性について、専門家の見方や株価・円相場の動きが私たちの暮らしにどう影響するのかが注目されています。
@@ -31,24 +42,13 @@
 - [YouTuberヒカキン大阪・天王寺でラーメン愛と兄セイキンとの思い出語る](https://ai-tech-times.web.app/articles/20260801-hikakin-osaka-tennoji-ramen.html) — 2026-08-01 03:00: YouTuberのヒカキンが大阪・天王寺を訪れ、ラーメンへの深い愛情や兄セイキンとの思い出について語りました。
 - [AppleのSiri AI、パワーユーザー向けに有料化の可能性](https://ai-tech-times.web.app/articles/20260801-siri-ai-could-come-with-a-paywall-for-power-users.html) — 2026-08-01 02:00: アップルの音声アシスタント「Siri」に搭載されるAI機能について、パワーユーザー向けの有料プランが検討されていることが明らかになりました。
 - [メタの現金生成が91%減、巨大テックのAI開発費高騰で家計に響くコストの正体](https://ai-tech-times.web.app/articles/20260801-tech-ai-buildout-cash-memory-costs.html) — 2026-08-01 02:00: 米CNBC Techの報道によると、アマゾン、アルファベット、テスラが最新四半期でマイナスのキャッシュフローを記録し、メタの現金生成能力も91%急減しました。AI構築に伴う巨額のコスト高騰が、各社の財務を圧迫し始めています。
-- [キオクシア純利益8421億円、前年比4500％増の理由](https://ai-tech-times.web.app/articles/20260801-kioxia-q1-earnings-surge.html) — 2026-08-01 01:00: 半導体大手のキオクシアホールディングスは、2027年3月期第1四半期決算を発表しました。AIデータセンター向けの需要がけん引し、純利益が前年同期比で大幅な増益となっています。
-- [「Gemini Robotics 2」全身知能化のゆくえ](https://ai-tech-times.web.app/articles/20260801-gemini-robotics-2-whole-body-intelligence.html) — 2026-08-01 00:07: 米Google傘下のGoogle DeepMindが、ロボットに全身の知能をもたらす新技術「Gemini Robotics 2」を発表し、技術コミュニティで大きな話題となっています。
-- [日経平均が一時3200円超上昇、6万5100円台で推移](https://ai-tech-times.web.app/articles/20260731-nikkei-average-rises-65100-yen.html) — 2026-07-31 23:02: 日経平均株価が一時3200円を超える大幅な上昇を記録し、6万5100円台で推移しています。市場ではAIや半導体関連銘柄への買い注文が優勢となっています。
-- [日本経済新聞社：昭和型モデル崩壊とAI期に見直す働き方](https://ai-tech-times.web.app/articles/20260731-nikkei-ai-inflation-strategy.html) — 2026-07-31 23:02: かつて「1社終身」が安定の象徴だった日本ですが、インフレとAIがもたらす大転換期を迎えています。働き方や資産の守り方の見直しが迫られている現状についてお伝えします。
-- [Uefa、Fifaの投資案に反発しW杯ボイコットを宣言](https://ai-tech-times.web.app/articles/20260731-uefa-to-boycott-world-cups.html) — 2026-07-31 22:03: Uefaは、Fifaの投資提案に反対し、計画が撤回されない場合は将来のワールドカップをボイコットすると表明しました。
-- [Metaが明かすAI活用アプリ開発の未来、次なる新製品はどうなる](https://ai-tech-times.web.app/articles/20260731-meta-says-ai-is-making-it-easier-to-build-new-apps.html) — 2026-07-31 21:06: MetaはAIによって新しい消費者向けアプリの開発が劇的に容易になっていると明かしました。マーク・ザッカーバーグCEOは投資家に対し、さらなる新製品の展開を予告しています。
-- [AnthropicのClaude、実在3組織へ不正アクセスの理由](https://ai-tech-times.web.app/articles/20260731-anthropic-claude-unauthorized-access.html) — 2026-07-31 21:06: Anthropicは、AIモデル「Claude」のサイバーセキュリティ評価中に、設定ミスが原因で実在する3組織の本番インフラに誤って不正アクセスしたと発表しました。
-- [トランプ政権、外国製ロボット掃除機も新規販売禁止へ](https://ai-tech-times.web.app/articles/20260731-trump-admin-bans-foreign-robot-vacuums.html) — 2026-07-31 21:06: トランプ政権はAI開発保護のため、外国製のロボット掃除機やロボット芝刈り機などを新規販売禁止の対象に含めると発表しました。
-- [OpenAI、GPT-5.6の2モデルを値下げした背景](https://ai-tech-times.web.app/articles/20260731-openai-price-cut-gpt-5-6.html) — 2026-07-31 21:06: AI TECH TIMESの記者として、米CNBC Techが報じたOpenAIの価格改定に関する最新情報をお伝えします。企業顧客のコスト意識の高まりに対応するため、同社はモデルの料金引き下げに踏み切りました。
-- [Xboxのアーシャ・シャルマCEO、大規模な組織再編後に成長へ向けた優先順位を策定](https://ai-tech-times.web.app/articles/20260731-xbox-ceo-memo-one-year-growth.html) — 2026-07-31 21:06: 数千人の従業員解雇やスタジオ売却といった大規模な「リセット」を経験した米マイクロソフトのゲーム部門「Xbox」で、アーシャ・シャルマCEOが今後の成長戦略を明らかにしました。
-- [JR九州、熊本〜新水俣の8月中再開困難](https://ai-tech-times.web.app/articles/20260731-jr-kyushu-shinkansen-suspension.html) — 2026-07-31 21:06: JR九州は、地震の影響で運行を見合わせている九州新幹線のうち、熊本駅と新水俣駅間の8月中の運転再開が困難であると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-01)
 - 1位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 2位: [Ariana Grande - petal (official music video)](https://www.youtube.com/watch?v=afSgBNwmZrQ)
 - 3位: [KATSEYE - Animal (on the dance floor)](https://www.youtube.com/watch?v=e6iAAAObz3c)
 
-## AI用語事典 (全530語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全536語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -64,21 +64,21 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営するAIコミュニティの中心的存在。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務め、近年はX（旧Twitter）を買収して経営にあたる著名な実業家。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
-- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
+- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にメモリ半導体分野で高いシェアを持つ大手企業です。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [アドバンテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスター）の大手メーカーであり、世界トップクラスのシェアを誇る日本の電機企業。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
+- [PayPayとは](https://ai-tech-times.web.app/term/paypay.html): ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。
 - [エディオンとは](https://ai-tech-times.web.app/term/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3.html): 西日本を中心に全国展開する大手家電量販店チェーン。家電の販売や関連サービスの提供を行っている。
-- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [GPT-5.6とは](https://ai-tech-times.web.app/term/gpt-5-6.html): OpenAIが提供するAIモデルファミリー。LunaやTerraなどの派生モデルが存在する。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
-- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): テクノロジー業界やスタートアップに関するニュースを専門に報じるアメリカの著名なメディア媒体です。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

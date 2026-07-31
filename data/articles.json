@@ -24278,5 +24278,391 @@
   "date": "2026-08-01",
   "time": "06:01",
   "path": "/articles/20260801-sbi-holdings-q1-results-2026.html"
+ },
+ {
+  "title": "Google、公開翌日に新AI機能を即座に撤回",
+  "lead": "米Googleは、Google Earthに導入した新AI機能を公開からわずか1日で撤回しました。誤情報拡散への懸念が広がり、批判を受けたためです。",
+  "summary3": [
+   "Googleが新AI機能を公開翌日に撤回",
+   "フェイク画像が拡散する懸念で批判",
+   "実際の地図上に生成画像を重ねる機能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、米GoogleはGoogle Earth向けに提供を開始したばかりのAI機能を、公開からわずか1日という短期間で撤回しました。この機能は、誰でもAIによって生成されたフェイクの画像を簡単に作成し、実際のGoogle Earthの地図上に重ね合わせて表示させることができるツールでした。",
+   "しかし、この機能の提供が始まるとすぐに、ネット上などで激しい backlash（反発）や批判が巻き起こりました。主な懸念は、現実の地理情報の上に偽の画像が容易に重ねられることで、インターネット上で誤情報やフェイクニュースが急速に拡散してしまうのではないかという点でした。",
+   "誤情報の拡散リスクを重く見た同社は、公開直後であるにもかかわらず、機能の取りやめを急遽決断するに至りました。AI技術の急速な進化と普及が進む一方で、倫理的な問題や悪用のリスクに対する企業の迅速な対応が改めて問われる事例となっています。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "Google Earth"
+  ],
+  "slug": "google-nixes-earth-ai-feature",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力事業とし、Androidや各種AIサービスなどを幅広く展開する米国の巨大IT企業。"
+   },
+   {
+    "name": "Google Earth",
+    "type": "ai",
+    "desc": "衛星写真や地形データを組み合わせて地球上のあらゆる場所を3Dで閲覧できるGoogleのデジタル地図サービス。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "category": "ai",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-google-nixes-earth-ai-feature.html"
+ },
+ {
+  "title": "GCCが15行以上のAIコードを拒絶する理由",
+  "lead": "オープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームが、AI生成コードの受け入れポリシーを公開しました。AIコードの急増によるメンテナーの疲弊を防ぐため、15行以上の受け入れを拒否します。",
+  "summary3": [
+   "GCC開発チームがAIコードのポリシー公開",
+   "15行以上のAI生成コードは受け入れを拒否",
+   "大量のプルリクエストによる疲弊が背景"
+  ],
+  "body": [
+   "AIによるコード生成が一般的になるにつれて、オープンソースプロジェクトでは新たな課題が生じています。AIによって自動生成されたプルリクエストが大量に送りつけられることで、プロジェクトを管理するメンテナーが疲弊する事態が発生しているのです。",
+   "こうした状況を受け、オープンソースのコンパイラーであるGNU Compiler Collection(GCC)の開発チームは、AIによって生成されたコードの受け入れに関する新たなポリシーを公開しました。",
+   "公開されたポリシーによると、今後は15行以上のAI生成コードについて受け入れを拒否する方針が示されています。AIの普及が進む開発現場において、オープンソースプロジェクトの持続可能性を保つための新たな基準として注目を集めています。"
+  ],
+  "tags": [
+   "GCC",
+   "AI生成コード",
+   "オープンソース"
+  ],
+  "slug": "gcc-ai-generated-code-policy",
+  "people": [],
+  "terms": [
+   {
+    "name": "GNU Compiler Collection",
+    "type": "company",
+    "desc": "GNUプロジェクトが開発・維持している、様々なプログラミング言語に対応する標準的なコンパイラー。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260731-gcc-ai-policy/",
+  "category": "ai_jp",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-gcc-ai-generated-code-policy.html"
+ },
+ {
+  "title": "TSMCが開発中の「準EMIB」とは、Intel技術に対抗する理由",
+  "lead": "世界最大の半導体受託製造企業であるTSMCが、Intelの技術に対抗する高度な半導体パッケージング技術を開発していることが報じられました。",
+  "summary3": [
+   "TSMCが準EMIB技術を開発中",
+   "IntelのEMIB技術に対抗",
+   "EMIBの受注量増加が背景"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。世界最大の半導体受託製造企業であるTSMCが、社内で「準EMIB」と呼ぶ高度なAI半導体パッケージング技術を開発していることが明らかになりました。",
+   "この開発の背景には、Intelが展開するEmbedded Multi-die Interconnect Bridge技術が受注量を増やしているという現状があります。TSMCはこれに対抗するため、IntelのEMIB技術の一部を模倣したパッケージング技術を進めていると報じられています。",
+   "AI半導体の性能向上においてパッケージング技術の重要性はますます高まっています。今回の技術開発が今後の半導体市場やAI開発にどのような影響を与えるのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "TSMC",
+   "Intel",
+   "半導体"
+  ],
+  "slug": "tsmc-quasi-emib-development",
+  "people": [],
+  "terms": [
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "台湾に本拠を置く世界最大の半導体受託製造企業（ファウンドリ）です。"
+   },
+   {
+    "name": "Intel",
+    "type": "company",
+    "desc": "アメリカに本拠を置く世界的な大手半導体メーカーで、CPUなどの開発・製造を行っています。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
+  "category": "ai_jp",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-tsmc-quasi-emib-development.html"
+ },
+ {
+  "title": "テスラ120万台を調査、サスペンション故障の報告でNHTSAが動く",
+  "lead": "米道路交通安全局（NHTSA）は、テスラ車におけるサスペンションの故障報告を受け、約120万台を対象とした調査を開始しました。",
+  "summary3": [
+   "テスラ約120万台が調査対象に浮上",
+   "サスペンション故障の報告が端緒",
+   "操縦不能になる恐れが指摘される"
+  ],
+  "body": [
+   "米国の道路安全当局であるNHTSA（米道路交通安全局）が、電気自動車大手テスラの約120万台を対象に調査を開始したことが明らかになりました。Reutersの報道によると、サスペンションの故障に関する苦情が寄せられたことがきっかけとなっています。",
+   "今回の予備調査に含まれているのは、2018年から2020年式のモデル3と、2021年から2023年式のモデルYです。NHTSAの文書によると、この不具合が発生した場合、「車両の方向制御の喪失」につながる恐れがあるとして詳細な確認が進められています。",
+   "対象となった車両を所有するユーザーにとっては、走行中の安全性に関わる重要な問題となります。今後の調査結果や、同局によるさらなる発表に注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "テスラ",
+   "NHTSA",
+   "リコール"
+  ],
+  "slug": "nhtsa-tesla-suspension-investigation",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、電気自動車や太陽光発電製品などを製造・販売する自動車メーカー。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+  "category": "silicon",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-nhtsa-tesla-suspension-investigation.html"
+ },
+ {
+  "title": "サムスン、メモリ不足が2027年以降も続く理由",
+  "lead": "AIデータセンターの需要拡大により、複数年にわたる半導体不足が深刻化しています。Samsungは、この供給不足が2027年を通じてさらに悪化し、2028年まで長期化すると予測しています。",
+  "summary3": [
+   "AIデータセンター需要で半導体不足が加速",
+   "部品コストと小売価格の上昇を招く事態に",
+   "サムスンは不足が2028年まで続くと予測"
+  ],
+  "body": [
+   "テック分野のニュースメディアであるTechCrunchによると、Samsungは世界的なメモリ不足について、2027年を通じてさらに悪化し、2028年まで継続する見通しを示しました。",
+   "この長期的な半導体不足の背景には、AIデータセンターからの旺盛な需要が存在しています。AI開発や運用を支えるインフラ需要が急拡大したことで、チップの供給が追いついていない状況です。",
+   "その結果として部品コストが押し上げられ、最終的な小売デバイスの価格にも影響が及んでいます。私たちの日常的なデジタル機器の購入費用や、関連コストへの波及が懸念される状況となっています。"
+  ],
+  "tags": [
+   "Samsung",
+   "半導体不足",
+   "AIデータセンター"
+  ],
+  "slug": "samsung-expects-memory-shortage-through-2028",
+  "people": [],
+  "terms": [
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国を代表する総合家電・電子部品メーカーであり、世界的な半導体大手企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+  "category": "silicon",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-samsung-expects-memory-shortage-through-2028.html"
+ },
+ {
+  "title": "自民党内で慎重意見も、食料品の消費税減税どうなる",
+  "lead": "食料品の消費税減税をめぐり、政府は来年4月から2年間、税率を1％に引き下げるなどとした基本方針案を来週中にも閣議決定したい考えです。しかし、党内には慎重な意見も根強くあります。",
+  "summary3": [
+   "食料品の消費税減税の議論が続く",
+   "政府は来週中の閣議決定を目指す",
+   "自民党内には慎重な意見も根強い"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。食料品の消費税減税をめぐり、政府は来年4月から2年間、税率を1％に引き下げるなどとした基本方針案を来週中にも閣議決定したい考えを示しています。",
+   "一方で、自民党内には食料品の消費税減税に対する慎重な意見も根強く残っており、意見集約に向けた調整が続けられています。",
+   "政府の方針決定に向けて、週明け以降も党内で活発な議論が継続される見通しとなっており、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "消費税減税",
+   "自民党",
+   "政治"
+  ],
+  "slug": "consumption-tax-reduction-ldp",
+  "people": [],
+  "terms": [
+   {
+    "name": "自民党",
+    "type": "company",
+    "desc": "日本の中道右派政党であり、現在の日本の政権を担う主要な政治組織の一つです。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015193121000",
+  "category": "world",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-consumption-tax-reduction-ldp.html"
+ },
+ {
+  "title": "大手銀行が8月住宅ローン固定金利を引き上げへ",
+  "lead": "長期金利の上昇傾向を受け、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなります。",
+  "summary3": [
+   "長期金利の上昇傾向が継続中",
+   "大手銀行が住宅ローン固定金利を上げ",
+   "適用は8月から実施される予定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の経済ニュースです。長期金利の上昇傾向が続いていることを受け、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決めました。",
+   "住宅ローンの固定金利は、長期金利の動向を反映して決定される仕組みが一般的です。今回の引き上げ決定により、今後新たに住宅ローンを組む方や、固定金利での借り換えを検討している方にとっては、毎月の返済額に影響がおよぶ可能性があります。",
+   "マイホームの購入計画や家計の資金計画に直接関わる重要なニュースとなります。今後の金利動向や各行の詳細な発表について、引き続き注意深く確認していく必要があります。"
+  ],
+  "tags": [
+   "住宅ローン",
+   "金利",
+   "経済"
+  ],
+  "slug": "major-banks-raise-mortgage-fixed-rates-in-august",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015193091000",
+  "category": "world",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-major-banks-raise-mortgage-fixed-rates-in-august.html"
+ },
+ {
+  "title": "日経平均2494円高、米テック好決算でAI・半導体株に見直し買い",
+  "lead": "日本経済新聞の報道によると、日経平均株価は米テック企業の好決算を受けて2494円高を記録しました。AI・半導体関連株に見直し買いが入る展開となっています。",
+  "summary3": [
+   "日経平均株価が2494円高を記録",
+   "米テック企業の好決算が材料視",
+   "AI・半導体株に見直し買い"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。日本経済新聞の報道によると、株式市場で日経平均株価が2494円高と大幅な上昇を見せました。背景には、米国市場におけるテクノロジー関連企業の好決算発表があります。",
+   "この流れを受けて、東京市場でも人工知能（AI）や半導体に関連する銘柄を中心に、見直し買いの動きが広がりました。市場関係者の間では、好決算をきっかけとした買い戻しが活発化したとみられています。",
+   "今回の株価変動は、米国の主要テック企業の動向が日本の半導体関連株やAI関連銘柄に直結していることを改めて示す形となりました。今後の市場の動向にも引き続き注目が集まります。"
+  ],
+  "tags": [
+   "日経平均",
+   "AI株",
+   "半導体"
+  ],
+  "slug": "nikkei-average-surge-ai-semiconductor",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQmJ6ZFBjSGRIVHpFSHd1ZEpPelcwVG5hWDRXNmxHTmtEVlBwYzNja1k1NmV0STc5UTNNQzFkZ1B6dlExR0IwOTR2X2lGTEVkb0gxRkFtTm5weHB2SGh4V21NQVNuZGxpMGlEMw?oc=5",
+  "category": "stock",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-nikkei-average-surge-ai-semiconductor.html"
+ },
+ {
+  "title": "大手銀行、8月住宅ローン固定金利を引き上げ",
+  "lead": "長期金利の上昇傾向が続く中、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなっています。",
+  "summary3": [
+   "長期金利の上昇を受け決定",
+   "大手銀行が固定金利を引き上げ",
+   "8月適用の住宅ローンが対象"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、長期金利の上昇傾向が続いていることを背景に、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決めました。",
+   "住宅ローンの金利変動は、日々の生活費や将来の返済計画に直接影響を与える重要な要素です。今回の引き上げ決定により、固定金利を選んでいる利用者や、これから融資を検討している人の負担にどのような変化が生じるのか、今後の動向が注目されます。",
+   "金利の動向は金融市場全体の動きと密接に関連しており、借り入れを予定している生活者にとっては慎重な情報収集が求められる状況が続いています。"
+  ],
+  "tags": [
+   "住宅ローン",
+   "金利",
+   "銀行"
+  ],
+  "slug": "major-banks-raise-fixed-mortgage-rates-in-august",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015193091000",
+  "category": "stock",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-major-banks-raise-fixed-mortgage-rates-in-august.html"
+ },
+ {
+  "title": "セブン＆アイ、ソフトバンク等と提携し3000億出資の狙い",
+  "lead": "セブン＆アイがソフトバンク、PayPay、三井住友カードと資本業務提携を行い、3000億円の出資を実施することが明らかになりました。",
+  "summary3": [
+   "セブン＆アイが資本業務提携を発表",
+   "ソフトバンク等3社が参画へ",
+   "3000億円の出資を実施"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、セブン＆アイはソフトバンク、PayPay、三井住友カードとの間で資本業務提携を締結しました。",
+   "今回の提携に伴い、3000億円の出資が行われる予定となっています。各社のサービスや基盤を活用した取り組みが進められる見通しです。",
+   "具体的な事業展開の詳細や今後のスケジュールについては、今後の発表が注目されます。"
+  ],
+  "tags": [
+   "セブン＆アイ",
+   "ソフトバンク",
+   "PayPay"
+  ],
+  "slug": "seven-and-i-capital-business-tie-up",
+  "people": [],
+  "terms": [
+   {
+    "name": "セブン＆アイ",
+    "type": "company",
+    "desc": "日本の大手流通企業グループであり、コンビニエンスストア事業などを展開しています。"
+   },
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "通信事業を中心に、インターネットやAI分野など幅広い事業を手がける日本の企業グループです。"
+   },
+   {
+    "name": "PayPay",
+    "type": "company",
+    "desc": "日本国内で広く利用されているQRコード決済サービスを提供する日本の企業です。"
+   },
+   {
+    "name": "三井住友カード",
+    "type": "company",
+    "desc": "日本の大手クレジットカード事業者であり、各種決済サービスを提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUXFGNXA1TV9KMlVjeGQ0S2x3eHJSTkxyc20wQzZ1NVNOdms1WXlDRXRwQVFRRFpqVnNYckxmb2ZaeWo4azZTSlYtZVZQMGc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-seven-and-i-capital-business-tie-up.html"
+ },
+ {
+  "title": "マーベラス、テンセントとの提携解消と新作中止の理由",
+  "lead": "マーベラスは、中国のテンセントとの資本業務提携の解消を発表しました。同時に『牧場物語』のモバイル新作の開発中止も明らかにされています。",
+  "summary3": [
+   "マーベラスがテンセントと提携解消",
+   "『牧場物語』モバイル新作は開発中止",
+   "資本業務提携の解消が明らかに"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。ゲーム開発などを手掛けるマーベラスは、中国のテンセントとの間で結んでいた資本業務提携を解消することを明らかにしました。",
+   "今回の提携解消に伴い、共同で進められていた『牧場物語』のモバイル向け新作ゲームの開発についても、中止となることが発表されました。人気シリーズのモバイル展開という今後の動向に注目が集まっていただけに、大きな転換点となります。",
+   "詳細な背景や今後の事業展開については、両社の発表を引き続き注視していく必要があります。株主やファンをはじめ、関係者の間では今後の影響について関心が寄せられている状況です。"
+  ],
+  "tags": [
+   "マーベラス",
+   "テンセント",
+   "牧場物語"
+  ],
+  "slug": "marvelous-tencent-partnership-dissolution",
+  "people": [],
+  "terms": [
+   {
+    "name": "マーベラス",
+    "type": "company",
+    "desc": "日本のゲームソフト開発およびアニメ映像作品の企画・製作などを手掛けるエンターテインメント企業です。"
+   },
+   {
+    "name": "テンセント",
+    "type": "company",
+    "desc": "中国に本拠地を置き、インターネット関連サービスやゲーム事業などをグローバルに展開する巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1pTHdJREhBSFg3dEZkeW45RGJiU2g4QmtsS2pUaDhJNHdQUVJuamN5QWI1MFptbUMyYUxEQnBLWlc4ajdk?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-01",
+  "time": "07:02",
+  "path": "/articles/20260801-marvelous-tencent-partnership-dissolution.html"
  }
 ]

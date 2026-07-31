@@ -1,15 +1,60 @@
 {
- "updated": "2026-08-01 06:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-01 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "オリエンタルランド株価+8％超で年初来高値、客単価が過去最高の理由",
-   "path": "/articles/20260801-oriental-land-earnings-2024.html",
+   "title": "Google、公開翌日に新AI機能を即座に撤回",
+   "path": "/articles/20260801-google-nixes-earth-ai-feature.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "GCCが15行以上のAIコードを拒絶する理由",
+   "path": "/articles/20260801-gcc-ai-generated-code-policy.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "TSMCが開発中の「準EMIB」とは、Intel技術に対抗する理由",
+   "path": "/articles/20260801-tsmc-quasi-emib-development.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "テスラ120万台を調査、サスペンション故障の報告でNHTSAが動く",
+   "path": "/articles/20260801-nhtsa-tesla-suspension-investigation.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "サムスン、メモリ不足が2027年以降も続く理由",
+   "path": "/articles/20260801-samsung-expects-memory-shortage-through-2028.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "自民党内で慎重意見も、食料品の消費税減税どうなる",
+   "path": "/articles/20260801-consumption-tax-reduction-ldp.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "大手銀行が8月住宅ローン固定金利を引き上げへ",
+   "path": "/articles/20260801-major-banks-raise-mortgage-fixed-rates-in-august.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均2494円高、米テック好決算でAI・半導体株に見直し買い",
+   "path": "/articles/20260801-nikkei-average-surge-ai-semiconductor.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "大手銀行、8月住宅ローン固定金利を引き上げ",
+   "path": "/articles/20260801-major-banks-raise-fixed-mortgage-rates-in-august.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "セブン＆アイ、ソフトバンク等と提携し3000億出資の狙い",
+   "path": "/articles/20260801-seven-and-i-capital-business-tie-up.html",
    "cat": "日本企業"
   },
   {
-   "title": "SBIホールディングス、税引前利益150%増の2258億円を達成",
-   "path": "/articles/20260801-sbi-holdings-q1-results-2026.html",
+   "title": "マーベラス、テンセントとの提携解消と新作中止の理由",
+   "path": "/articles/20260801-marvelous-tencent-partnership-dissolution.html",
    "cat": "日本企業"
   }
  ],
@@ -17,10 +62,14 @@
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Sam Altman isn’t the only one who wants ",
+  "執筆失敗: 「THE RIBBON HERO」で「にじさんじ」VTuber・月ノ美兎、ルンル",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 33,
+  "used": 60,
   "limit": 200
  }
 }

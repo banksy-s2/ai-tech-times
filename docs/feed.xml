@@ -5,6 +5,94 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Google、公開翌日に新AI機能を即座に撤回</title>
+<link>https://ai-tech-times.web.app/articles/20260801-google-nixes-earth-ai-feature.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-google-nixes-earth-ai-feature.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米Googleは、Google Earthに導入した新AI機能を公開からわずか1日で撤回しました。誤情報拡散への懸念が広がり、批判を受けたためです。</description>
+</item>
+<item>
+<title>GCCが15行以上のAIコードを拒絶する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260801-gcc-ai-generated-code-policy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-gcc-ai-generated-code-policy.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>オープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームが、AI生成コードの受け入れポリシーを公開しました。AIコードの急増によるメンテナーの疲弊を防ぐため、15行以上の受け入れを拒否します。</description>
+</item>
+<item>
+<title>TSMCが開発中の「準EMIB」とは、Intel技術に対抗する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260801-tsmc-quasi-emib-development.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-tsmc-quasi-emib-development.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>世界最大の半導体受託製造企業であるTSMCが、Intelの技術に対抗する高度な半導体パッケージング技術を開発していることが報じられました。</description>
+</item>
+<item>
+<title>テスラ120万台を調査、サスペンション故障の報告でNHTSAが動く</title>
+<link>https://ai-tech-times.web.app/articles/20260801-nhtsa-tesla-suspension-investigation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-nhtsa-tesla-suspension-investigation.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米道路交通安全局（NHTSA）は、テスラ車におけるサスペンションの故障報告を受け、約120万台を対象とした調査を開始しました。</description>
+</item>
+<item>
+<title>サムスン、メモリ不足が2027年以降も続く理由</title>
+<link>https://ai-tech-times.web.app/articles/20260801-samsung-expects-memory-shortage-through-2028.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-samsung-expects-memory-shortage-through-2028.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AIデータセンターの需要拡大により、複数年にわたる半導体不足が深刻化しています。Samsungは、この供給不足が2027年を通じてさらに悪化し、2028年まで長期化すると予測しています。</description>
+</item>
+<item>
+<title>自民党内で慎重意見も、食料品の消費税減税どうなる</title>
+<link>https://ai-tech-times.web.app/articles/20260801-consumption-tax-reduction-ldp.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-consumption-tax-reduction-ldp.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>食料品の消費税減税をめぐり、政府は来年4月から2年間、税率を1％に引き下げるなどとした基本方針案を来週中にも閣議決定したい考えです。しかし、党内には慎重な意見も根強くあります。</description>
+</item>
+<item>
+<title>大手銀行が8月住宅ローン固定金利を引き上げへ</title>
+<link>https://ai-tech-times.web.app/articles/20260801-major-banks-raise-mortgage-fixed-rates-in-august.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-major-banks-raise-mortgage-fixed-rates-in-august.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>長期金利の上昇傾向を受け、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなります。</description>
+</item>
+<item>
+<title>日経平均2494円高、米テック好決算でAI・半導体株に見直し買い</title>
+<link>https://ai-tech-times.web.app/articles/20260801-nikkei-average-surge-ai-semiconductor.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-nikkei-average-surge-ai-semiconductor.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>日本経済新聞の報道によると、日経平均株価は米テック企業の好決算を受けて2494円高を記録しました。AI・半導体関連株に見直し買いが入る展開となっています。</description>
+</item>
+<item>
+<title>大手銀行、8月住宅ローン固定金利を引き上げ</title>
+<link>https://ai-tech-times.web.app/articles/20260801-major-banks-raise-fixed-mortgage-rates-in-august.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-major-banks-raise-fixed-mortgage-rates-in-august.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>長期金利の上昇傾向が続く中、大手銀行は8月から適用する住宅ローンの固定金利を引き上げることを決定しました。マイホーム購入や借り換えを検討している方の財布事情に直結する動きとなっています。</description>
+</item>
+<item>
+<title>セブン＆アイ、ソフトバンク等と提携し3000億出資の狙い</title>
+<link>https://ai-tech-times.web.app/articles/20260801-seven-and-i-capital-business-tie-up.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-seven-and-i-capital-business-tie-up.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>セブン＆アイがソフトバンク、PayPay、三井住友カードと資本業務提携を行い、3000億円の出資を実施することが明らかになりました。</description>
+</item>
+<item>
+<title>マーベラス、テンセントとの提携解消と新作中止の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260801-marvelous-tencent-partnership-dissolution.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-marvelous-tencent-partnership-dissolution.html</guid>
+<pubDate>Sat, 01 Aug 2026 07:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>マーベラスは、中国のテンセントとの資本業務提携の解消を発表しました。同時に『牧場物語』のモバイル新作の開発中止も明らかにされています。</description>
+</item>
+<item>
 <title>オリエンタルランド株価+8％超で年初来高値、客単価が過去最高の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260801-oriental-land-earnings-2024.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260801-oriental-land-earnings-2024.html</guid>
@@ -155,93 +243,5 @@
 <pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>数千人の従業員解雇やスタジオ売却といった大規模な「リセット」を経験した米マイクロソフトのゲーム部門「Xbox」で、アーシャ・シャルマCEOが今後の成長戦略を明らかにしました。</description>
-</item>
-<item>
-<title>JR九州、熊本〜新水俣の8月中再開困難</title>
-<link>https://ai-tech-times.web.app/articles/20260731-jr-kyushu-shinkansen-suspension.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-jr-kyushu-shinkansen-suspension.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>JR九州は、地震の影響で運行を見合わせている九州新幹線のうち、熊本駅と新水俣駅間の8月中の運転再開が困難であると発表しました。</description>
-</item>
-<item>
-<title>ハマスが武装解除に合意、トランプ氏の平和評議会計画</title>
-<link>https://ai-tech-times.web.app/articles/20260731-hamas-agrees-to-disarm-board-of-peace.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-hamas-agrees-to-disarm-board-of-peace.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldの報道によると、ハマスの高官が「平和評議会」の計画に合意したと明らかにしました。</description>
-</item>
-<item>
-<title>NHKおはBiz：急激な円高に 1時間足らずで約5円</title>
-<link>https://ai-tech-times.web.app/articles/20260731-rapid-yen-appreciation-ohabiz.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-rapid-yen-appreciation-ohabiz.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>NHKニュース「おはよう日本」の経済ニュースコーナー「おはBiz」にて、急激な円高について報じられました。</description>
-</item>
-<item>
-<title>配当が600円から1640円に！東証プライム上昇率1位となった半導体銘柄の正体</title>
-<link>https://ai-tech-times.web.app/articles/20260731-semiconductor-stock-surges-on-dividend-hike.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-semiconductor-stock-surges-on-dividend-hike.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>7月31日の国内株式市場において、配当の大幅な引き上げを発表した半導体銘柄が2日連続でストップ高となり、東証プライム市場の上昇率第1位を記録しました。</description>
-</item>
-<item>
-<title>セブン＆アイとPayPay、総額3000億円提携で7iD統合</title>
-<link>https://ai-tech-times.web.app/articles/20260731-seven-and-i-paypay-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-seven-and-i-paypay-capital-business-alliance.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>日本企業</category>
-<description>セブン＆アイとPayPayらは総額3000億円の資本業務提携を発表しました。「7iD」は「PayPay ID」へ統合されます。</description>
-</item>
-<item>
-<title>ヤマダHDとエディオン、2.5兆円統合への道はなぜ一筋縄ではいかないのか</title>
-<link>https://ai-tech-times.web.app/articles/20260731-yamada-edion-integration-challenges.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-yamada-edion-integration-challenges.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ヤマダホールディングスとエディオンが経営統合に向けた協議を進めると発表しました。しかし、巨大な家電量販店による2.5兆円規模の統合には、数多くの課題が残されています。</description>
-</item>
-<item>
-<title>アマゾン12%急騰・アップル7%下落、決算で明暗</title>
-<link>https://ai-tech-times.web.app/articles/20260731-amazon-apple-earnings-ai-stocks-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-amazon-apple-earnings-ai-stocks-2026.html</guid>
-<pubDate>Fri, 31 Jul 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>CNBC Techの報道によると、金曜日の時間外取引でアマゾンの株価が12%急騰した一方、アップルは7%下落しました。投資家が企業の決算発表を受けてAIの勝者を選別する動きを見せています。</description>
-</item>
-<item>
-<title>SpaceX、米下院委員会からメンフィスのAI施設視察を要求される</title>
-<link>https://ai-tech-times.web.app/articles/20260731-spacex-memphis-house-energy-committee.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-spacex-memphis-house-energy-committee.html</guid>
-<pubDate>Fri, 31 Jul 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米下院エネルギー委員会の野党側トップが、SpaceXに対してメンフィス周辺にあるデータセンター等の記録提出と視察を要求しました。</description>
-</item>
-<item>
-<title>スクエニがGeminiでゲームの品質テストを自動化</title>
-<link>https://ai-tech-times.web.app/articles/20260731-square-enix-gemini-qa-automation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-square-enix-gemini-qa-automation.html</guid>
-<pubDate>Fri, 31 Jul 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>スクウェア・エニックスが、AIを活用してゲームの品質検証作業を自動化する取り組みを明らかにしました。AIが画面を認識しながらコントローラーを自ら操作して検証を進めます。</description>
-</item>
-<item>
-<title>ChatGPTの会話履歴をPC保存、利用規約の注意点とは</title>
-<link>https://ai-tech-times.web.app/articles/20260731-chatgpt-history-save-attention.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-chatgpt-history-save-attention.html</guid>
-<pubDate>Fri, 31 Jul 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>「ChatGPT」との会話履歴をPCへ簡単に保存できる方法が注目を集めています。一方で、利用規約や情報管理の面で注意すべき点もあるため、確認が必要です。</description>
-</item>
-<item>
-<title>xAI、グロク制限の裏でミネソタ州法を提訴</title>
-<link>https://ai-tech-times.web.app/articles/20260731-xai-sues-minnesota-over-nudification-law.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-xai-sues-minnesota-over-nudification-law.html</guid>
-<pubDate>Fri, 31 Jul 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>イーロン・マスク氏率いるxAIが、物議を醸す州法を巡りミネソタ州の司法長官を提訴しました。表現の自由を主張する同社は、画像編集機能の制限に追い込まれています。</description>
 </item>
 </channel></rss>
