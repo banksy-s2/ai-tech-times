@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-01 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-01 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "自転車の交通違反、青切符導入3か月で全国7000件超え",
-   "path": "/articles/20260801-bicycle-traffic-violations-blue-ticket.html",
-   "cat": "時事・世界"
+   "title": "日米協調介入か、専門家の見方と暮らしへの影響",
+   "path": "/articles/20260801-us-japan-joint-intervention.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "東シナ海で中国が新構造物か、日本政府が強く抗議",
-   "path": "/articles/20260801-east-china-sea-china-structure.html",
-   "cat": "時事・世界"
+   "title": "富士通株が一時10%安に急落、予想据え置きで物足りず",
+   "path": "/articles/20260801-fujitsu-stock-drop-2023.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 28,
   "limit": 200
  }
 }
