@@ -642,7 +642,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015191301000",
   "https://toyokeizai.net/articles/-/953055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnpvSTdHNEkzRHVQa202dFgzcFpHcWxHN0F5UzFFMHpIVEhKWTFuWVBDVFJiUHdnSVlTQW5weERiU2pLZG5GcVZBYXdsSDhFSzc0Y1JlLUE4Z01tbGp2M1NWSS1CZVZTWFNVWmZOZjBTTnlPVlQyVnpqREMwWHd4cUtSRnR2Y3YzSTJMR2FfOVpHYnp5UVZzS3VJOHMzVXlIZHBYekpzYks4Q0E0VjQ5cFVoclhrNU5PSEtOQkg0TDRLMEpVb2JHZlhqTU8?oc=5",
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVXJTUVhEOWpFSDFMMkh6elBrdUNUQVFLM2JpZ1lhOU1ab0Uza043dkVvY0l4ay1yaDgyTFloTnd0SUltckdab3I3S3Y0WUF0aFk0UVhDQmRYc2ZqNHhJYU84UTJ0YXJWT3lGUDlIckVXNFFNQVdLSFdXQWM?oc=5"
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVXJTUVhEOWpFSDFMMkh6elBrdUNUQVFLM2JpZ1lhOU1ab0Uza043dkVvY0l4ay1yaDgyTFloTnd0SUltckdab3I3S3Y0WUF0aFk0UVhDQmRYc2ZqNHhJYU84UTJ0YXJWT3lGUDlIckVXNFFNQVdLSFdXQWM?oc=5",
+  "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -1912,6 +1914,10 @@
   "ポーランドに飛しょう体落下、ロシアのミサイルか",
   "三菱自動車が人型ロボ導入へ､東大発AIで工場はどう変わるか",
   "京セラが2027年3月期第1四半期の決算説明会資料を開示",
-  "東京エレクトロン、2027年3月期第1四半期決算説明会を開催"
+  "東京エレクトロン、2027年3月期第1四半期決算説明会を開催",
+  "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+  "Advancing the price-performance frontier with GPT‑5.6",
+  "Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘",
+  "OpenAI、GPT-5.6で価格と性能はどう変わるのか"
  ]
 }
