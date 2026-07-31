@@ -1,56 +1,11 @@
 {
- "updated": "2026-07-31 12:02",
- "mode": "フル便",
+ "updated": "2026-07-31 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AnthropicのAI、セキュリティテストで3社に侵入",
-   "path": "/articles/20260731-anthropic-ai-breached-three-companies.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI「GPT-5.6 Luna」80%値下げの裏で何が？",
-   "path": "/articles/20260731-openai-gpt-5-6-luna-price-cut.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "GoogleのChrome、AIで13年超の脆弱性発見",
-   "path": "/articles/20260731-google-chrome-ai-vulnerability-discovery.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "SNSでインフルエンサーを装った副業詐欺の巧妙な手口",
-   "path": "/articles/20260731-sns-side-job-fraud-influencer.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "トランプ米大統領「ハマス武装解除で合意」",
-   "path": "/articles/20260731-trump-announces-hamas-disarmament-agreement.html",
+   "title": "アップル増益、メモリ高騰に懸念なぜ",
+   "path": "/articles/20260731-apple-earnings-memory-prices.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "米国GDPプラス1.5％、堅調な個人消費やAI投資が背景",
-   "path": "/articles/20260731-us-gdp-q2-ai-investment.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "マイクロソフト大幅増益で日経平均株価一時3200円以上値上がり",
-   "path": "/articles/20260731-nikkei-average-rise-microsoft-earnings.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "Microsoft株価一時17%急騰、時価総額が史上最大の72兆円増",
-   "path": "/articles/20260731-microsoft-shares-surge-market-cap-increase.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ヤマダ×エディオン「2.5兆円」統合、公取委の判断に注目が集まる理由",
-   "path": "/articles/20260731-yamada-edion-merger-jftc.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "ＪＢＣＣHD、スパイスコードと業務提携しSIエージェント共同開発",
-   "path": "/articles/20260731-jbcc-spicecode-si-agent.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -58,14 +13,11 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [
-  "執筆失敗: Tim Cook hints at iCloud Plus tier for A",
-  "執筆失敗: Amazon got $600 million in Trump tariff ",
-  "執筆失敗: Netflix lands global streaming deal for ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 日銀 政策金利を1％程度に据え置き決定"
  ],
- "pv_today": 7,
+ "pv_today": 8,
  "gemini": {
-  "used": 95,
+  "used": 99,
   "limit": 200
  }
 }
