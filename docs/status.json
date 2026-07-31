@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-31 19:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "スクエニがGeminiでゲームの品質テストを自動化",
-   "path": "/articles/20260731-square-enix-gemini-qa-automation.html",
-   "cat": "日本のAI"
+   "title": "アマゾン12%急騰・アップル7%下落、決算で明暗",
+   "path": "/articles/20260731-amazon-apple-earnings-ai-stocks-2026.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ChatGPTの会話履歴をPC保存、利用規約の注意点とは",
-   "path": "/articles/20260731-chatgpt-history-save-attention.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、米下院委員会からメンフィスのAI施設視察を要求される",
+   "path": "/articles/20260731-spacex-memphis-house-energy-committee.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
  "notes": [],
- "pv_today": 8,
+ "pv_today": 14,
  "gemini": {
-  "used": 135,
+  "used": 138,
   "limit": 200
  }
 }
