@@ -1,26 +1,79 @@
 {
- "updated": "2026-07-31 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-31 17:06",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Appleティム・クックCEOが語るiCloud PlusのAI有料アップグレードの可能性",
-   "path": "/articles/20260731-apple-tim-cook-icloud-plus-ai.html",
+   "title": "xAI、グロク制限の裏でミネソタ州法を提訴",
+   "path": "/articles/20260731-xai-sues-minnesota-over-nudification-law.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "GPT 5.6 Solに事業を任せたら447ドル損失した理由",
-   "path": "/articles/20260731-gpt-5-6-sol-business-loss.html",
+   "title": "Anthropic株を手放さぬSituational Awareness、公募ポートフォリオ売却の理由",
+   "path": "/articles/20260731-situational-awareness-anthropic-shares.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAI、研究者10万人に最上位モデル無料提供へ",
+   "path": "/articles/20260731-openai-free-top-model-for-researchers.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AmazonでAIコストが予算860％超過のワケ",
+   "path": "/articles/20260731-amazon-ai-cost-exceeded-860-percent.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ソフトバンクが5,000万ドル拠出、米企業がトランプ氏関連事業に巨額支援の理由",
+   "path": "/articles/20260731-softbank-trump-projects-funding.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Simileが2億ドル調達、評価額20億ドルに到達",
+   "path": "/articles/20260731-simile-raises-200m-at-2b-valuation.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "日銀、政策金利を1%程度に据え置き決定",
+   "path": "/articles/20260731-boj-maintains-interest-rate.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "中国製造業49.2悪化、5か月ぶり節目割れの理由",
+   "path": "/articles/20260731-china-manufacturing-pmi-drops-below-50.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均、上げ幅3000円超えで6万5000円回復",
+   "path": "/articles/20260731-nikkei-average-recovers-65000-yen-2.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア、最大8000億円の自社株買いと1対3の株式分割を実施へ",
+   "path": "/articles/20260731-kioxia-share-buyback-and-split.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "SBI北尾会長が日本初オンチェーン取引所を計画する理由",
+   "path": "/articles/20260731-sbi-onchain-exchange-innovation.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "アンリツ受注95%増の491億円、通期据え置きの背景",
+   "path": "/articles/20260731-anritsu-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: グルメインフルエンサーが紹介する店は「PR案件だらけ」同業が暴露でバトル勃発、集",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 8,
  "gemini": {
-  "used": 111,
+  "used": 132,
   "limit": 200
  }
 }

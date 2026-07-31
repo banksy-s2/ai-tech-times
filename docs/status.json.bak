@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-07-31 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "NRI営業益12％増、AIコンサル5倍超の背景",
-   "path": "/articles/20260731-nri-fy2027-q1-results.html",
-   "cat": "日本企業"
+   "title": "Appleティム・クックCEOが語るiCloud PlusのAI有料アップグレードの可能性",
+   "path": "/articles/20260731-apple-tim-cook-icloud-plus-ai.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "レオパレス21、リログループ子会社と業務提携へ",
-   "path": "/articles/20260731-leopalace21-relo-group-business-tie-up.html",
-   "cat": "日本企業"
+   "title": "GPT 5.6 Solに事業を任せたら447ドル損失した理由",
+   "path": "/articles/20260731-gpt-5-6-sol-business-loss.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 108,
+  "used": 111,
   "limit": 200
  }
 }
