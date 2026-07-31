@@ -23246,5 +23246,78 @@
   "date": "2026-07-31",
   "time": "17:06",
   "path": "/articles/20260731-anritsu-fy2026-q1-results.html"
+ },
+ {
+  "title": "スクエニがGeminiでゲームの品質テストを自動化",
+  "lead": "スクウェア・エニックスが、AIを活用してゲームの品質検証作業を自動化する取り組みを明らかにしました。AIが画面を認識しながらコントローラーを自ら操作して検証を進めます。",
+  "summary3": [
+   "スクエニが品質テストを自動化",
+   "Geminiを活用し自走を実現",
+   "画面を見ながら操作を進める"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。スクウェア・エニックスが、ゲームのQAテスト（品質検証作業）を「Gemini」で自動化する取り組みを披露しました。",
+   "この取り組みは、「Google Cloud Next Tokyo '26」の基調講演で公開されたものです。AIがゲームの画面を見ながらコントローラーを操作し、検証作業を自ら進める仕組みとなっています。",
+   "ゲーム開発における品質管理やテスト作業の効率化において、生成AIの活用がどのように進展していくのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "スクウェア・エニックス",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "square-enix-gemini-qa-automation",
+  "people": [],
+  "terms": [
+   {
+    "name": "スクウェア・エニックス",
+    "type": "company",
+    "desc": "「ファイナルファンタジー」シリーズなどを手掛ける日本の大手ゲーム開発・パブリッシング会社。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などを総合的に理解し処理できる高度なマルチモーダルAIモデル。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+  "category": "ai_jp",
+  "date": "2026-07-31",
+  "time": "18:00",
+  "path": "/articles/20260731-square-enix-gemini-qa-automation.html"
+ },
+ {
+  "title": "ChatGPTの会話履歴をPC保存、利用規約の注意点とは",
+  "lead": "「ChatGPT」との会話履歴をPCへ簡単に保存できる方法が注目を集めています。一方で、利用規約や情報管理の面で注意すべき点もあるため、確認が必要です。",
+  "summary3": [
+   "ChatGPTの会話履歴保存方法が注目を集める",
+   "PCへ簡単に保存できる手段に関心が集まる一方",
+   "利用規約や情報管理の面で注意すべき点もある"
+  ],
+  "body": [
+   "「ITmedia AI+」の報道によると、「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めているとのことです。",
+   "この手法は履歴を手軽に保存できる便利なものとして話題となっていますが、利用するにあたっては注意すべき点も存在します。",
+   "具体的には、利用規約や情報管理の面において注意すべき点が指摘されており、利用の際は慎重な確認が求められます。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "AI",
+   "ITmedia AI+"
+  ],
+  "slug": "chatgpt-history-save-attention",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した、人間のような自然な対話が可能なAIチャットボットサービスです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
+  "category": "ai_jp",
+  "date": "2026-07-31",
+  "time": "18:00",
+  "path": "/articles/20260731-chatgpt-history-save-attention.html"
  }
 ]

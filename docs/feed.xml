@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>スクエニがGeminiでゲームの品質テストを自動化</title>
+<link>https://ai-tech-times.web.app/articles/20260731-square-enix-gemini-qa-automation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-square-enix-gemini-qa-automation.html</guid>
+<pubDate>Fri, 31 Jul 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>スクウェア・エニックスが、AIを活用してゲームの品質検証作業を自動化する取り組みを明らかにしました。AIが画面を認識しながらコントローラーを自ら操作して検証を進めます。</description>
+</item>
+<item>
+<title>ChatGPTの会話履歴をPC保存、利用規約の注意点とは</title>
+<link>https://ai-tech-times.web.app/articles/20260731-chatgpt-history-save-attention.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-chatgpt-history-save-attention.html</guid>
+<pubDate>Fri, 31 Jul 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>「ChatGPT」との会話履歴をPCへ簡単に保存できる方法が注目を集めています。一方で、利用規約や情報管理の面で注意すべき点もあるため、確認が必要です。</description>
+</item>
+<item>
 <title>xAI、グロク制限の裏でミネソタ州法を提訴</title>
 <link>https://ai-tech-times.web.app/articles/20260731-xai-sues-minnesota-over-nudification-law.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260731-xai-sues-minnesota-over-nudification-law.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ヤマダデンキとエディオンの統合が進む中、公正取引委員会の企業結合審査が大きなハードルとなっています。</description>
-</item>
-<item>
-<title>ＪＢＣＣHD、スパイスコードと業務提携しSIエージェント共同開発</title>
-<link>https://ai-tech-times.web.app/articles/20260731-jbcc-spicecode-si-agent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-jbcc-spicecode-si-agent.html</guid>
-<pubDate>Fri, 31 Jul 2026 12:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ＪＢＣＣホールディングスは、スパイスコードとの業務提携を発表しました。長期記憶による「SIエージェント」を共同開発し、開発のスピードと品質の向上を目指します。</description>
-</item>
-<item>
-<title>ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見</title>
-<link>https://ai-tech-times.web.app/articles/20260731-thai-youtuber-found-dead-in-georgia.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-thai-youtuber-found-dead-in-georgia.html</guid>
-<pubDate>Fri, 31 Jul 2026 11:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>ジョージアにて、2週間ほど連絡が取れなくなっていたタイ人のユーチューバーが現地ホテルで遺体となって発見されました。</description>
 </item>
 </channel></rss>
