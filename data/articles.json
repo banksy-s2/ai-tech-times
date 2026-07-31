@@ -22070,5 +22070,88 @@
   "date": "2026-07-31",
   "time": "09:00",
   "path": "/articles/20260731-cybersecurity-cloud-ai-reliance-survey.html"
+ },
+ {
+  "title": "Nexus、Anthropic向け施設資金で150億ドル調達へ",
+  "lead": "Nexus Data Centersが、Googleが出資するAnthropicのデータセンター建設に向け、150億ドルの融資交渉を詰めていることが明らかになりました。",
+  "summary3": [
+   "Nexusが150億ドルの融資交渉を進める",
+   "対象はGoogle支援のAnthropic施設",
+   "モルガン・スタンレーが主幹事として関与"
+  ],
+  "body": [
+   "CNBCの報道により、Nexus Data CentersがAnthropicのデータセンター建設資金として150億ドルの融資を確保するため、大詰めの交渉に入っていることが確認されました。",
+   "今回の大型融資案件では、モルガン・スタンレーがリードバンカーとして交渉を主導していることが分かっています。",
+   "AI技術の急速な発展に伴い、大規模な計算処理を支えるデータセンターのインフラ需要と巨額の資金調達に注目が集まっています。"
+  ],
+  "tags": [
+   "Nexus Data Centers",
+   "Anthropic",
+   "データセンター"
+  ],
+  "slug": "nexus-data-centers-secures-15b-for-anthropic",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nexus Data Centers",
+    "type": "company",
+    "desc": "データセンターの開発やインフラストラクチャー事業を手がける企業である。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "安全性を重視したAIモデルや対話型AIサービスを開発するアメリカのAI企業である。"
+   },
+   {
+    "name": "モルガン・スタンレー",
+    "type": "company",
+    "desc": "アメリカ・ニューヨークに本拠地を置く、世界的な総合金融サービスを手がける投資銀行である。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "10:00",
+  "path": "/articles/20260731-nexus-data-centers-secures-15b-for-anthropic.html"
+ },
+ {
+  "title": "SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇",
+  "lead": "米国のテクノロジー株の急激な上昇を受け、韓国の半導体大手であるSKハイニックスとサムスン電子の株価が急伸しました。AI関連の買い戻しが強まり、市場に大きな影響を与えています。",
+  "summary3": [
+   "SKハイニックス株が25%急騰",
+   "サムスン電子も20%超上昇",
+   "米国テック株の急回復が牽引"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。CNBC Techの報道によると、金曜日の市場において、韓国の半導体大手であるSKハイニックスとサムスン電子の株価がそれぞれ20%を超える記録的な急騰を見せました。",
+   "この動きは、米国のテクノロジー株における急激なラリー（株価の急回復）を追随する形で発生しました。半導体市場全体に対する投資家心理が再び強気へと傾き、AI関連の需要への期待感が再び高まっていることが背景にあります。",
+   "SKハイニックスの25%上昇をはじめ、主要なチップメーカーがそろって大幅な値上がりを記録したことで、今後の世界のハイテク市場や投資動向への影響に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "SKハイニックス",
+   "サムスン電子",
+   "半導体"
+  ],
+  "slug": "sk-hynix-samsung-surge-ai-rally",
+  "people": [],
+  "terms": [
+   {
+    "name": "SKハイニックス",
+    "type": "company",
+    "desc": "韓国に本拠を置く世界的な半導体製造企業で、特にメモリ半導体分野で高いシェアを持つ大手企業です。"
+   },
+   {
+    "name": "サムスン電子",
+    "type": "company",
+    "desc": "韓国を代表する総合家電・半導体メーカーであり、スマートフォンやメモリなど幅広い分野を手がける世界的大企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+  "category": "silicon",
+  "date": "2026-07-31",
+  "time": "10:00",
+  "path": "/articles/20260731-sk-hynix-samsung-surge-ai-rally.html"
  }
 ]

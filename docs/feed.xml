@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Nexus、Anthropic向け施設資金で150億ドル調達へ</title>
+<link>https://ai-tech-times.web.app/articles/20260731-nexus-data-centers-secures-15b-for-anthropic.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-nexus-data-centers-secures-15b-for-anthropic.html</guid>
+<pubDate>Fri, 31 Jul 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Nexus Data Centersが、Googleが出資するAnthropicのデータセンター建設に向け、150億ドルの融資交渉を詰めていることが明らかになりました。</description>
+</item>
+<item>
+<title>SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇</title>
+<link>https://ai-tech-times.web.app/articles/20260731-sk-hynix-samsung-surge-ai-rally.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260731-sk-hynix-samsung-surge-ai-rally.html</guid>
+<pubDate>Fri, 31 Jul 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国のテクノロジー株の急激な上昇を受け、韓国の半導体大手であるSKハイニックスとサムスン電子の株価が急伸しました。AI関連の買い戻しが強まり、市場に大きな影響を与えています。</description>
+</item>
+<item>
 <title>日立がSI全工程をAI化、仕様確定で最大240倍効率化のワケ</title>
 <link>https://ai-tech-times.web.app/articles/20260731-hitachi-si-ai-integration.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260731-hitachi-si-ai-integration.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 30 Jul 2026 23:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>JT（日本たばこ産業）は、2期連続となる増配を発表し、配当利回りが4.0％に達したことを明らかにしました。</description>
-</item>
-<item>
-<title>日本で強力な地震、13人死亡後に100回超の余震</title>
-<link>https://ai-tech-times.web.app/articles/20260730-japan-earthquake-aftershocks.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-japan-earthquake-aftershocks.html</guid>
-<pubDate>Thu, 30 Jul 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldによると、日本で強力な地震が発生し13人が死亡しました。その後も100回を超える余震が観測されており、当局は警戒を呼びかけています。</description>
-</item>
-<item>
-<title>国際学会が指摘、LLM構造的欠陥のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260730-llm-fundamental-flaw-vulnerability.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260730-llm-fundamental-flaw-vulnerability.html</guid>
-<pubDate>Thu, 30 Jul 2026 21:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>大規模言語モデル（LLM）には仕組み上の根本的な欠陥があり、ハッキングに対する完全な防御が不可能なことが明らかになりました。トップAIカンファレンスの研究発表が、AI技術の安全性に大きな影響を与えています。</description>
 </item>
 </channel></rss>

@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-07-31 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘",
-   "path": "/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html",
-   "cat": "AI(海外)"
+   "title": "日立がSI全工程をAI化、仕様確定で最大240倍効率化のワケ",
+   "path": "/articles/20260731-hitachi-si-ai-integration.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAI、GPT-5.6で価格と性能はどう変わるのか",
-   "path": "/articles/20260731-openai-gpt-5-6-price-performance.html",
-   "cat": "AI(海外)"
+   "title": "サイバーセキュリティクラウド調査：生成AIを上司より参考にする理由",
+   "path": "/articles/20260731-cybersecurity-cloud-ai-reliance-survey.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 62,
+  "used": 65,
   "limit": 200
  }
 }
