@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-01 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-01 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "キオクシア純利益8421億円、前年比4500％増の理由",
-   "path": "/articles/20260801-kioxia-q1-earnings-surge.html",
-   "cat": "日本のAI"
+   "title": "AppleのSiri AI、パワーユーザー向けに有料化の可能性",
+   "path": "/articles/20260801-siri-ai-could-come-with-a-paywall-for-power-users.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "メタの現金生成が91%減、巨大テックのAI開発費高騰で家計に響くコストの正体",
+   "path": "/articles/20260801-tech-ai-buildout-cash-memory-costs.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [
-  "執筆失敗: 着衣画像を「AI」で裸に加工…これは「児童ポルノ」なのか？元小学校教諭に懲役3年"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 17,
   "limit": 200
  }
 }
