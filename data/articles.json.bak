@@ -23790,5 +23790,49 @@
   "date": "2026-07-31",
   "time": "21:06",
   "path": "/articles/20260731-yamada-edion-integration-challenges.html"
+ },
+ {
+  "title": "Uefa、Fifaの投資案に反発しW杯ボイコットを宣言",
+  "lead": "Uefaは、Fifaの投資提案に反対し、計画が撤回されない場合は将来のワールドカップをボイコットすると表明しました。",
+  "summary3": [
+   "Uefaが将来のW杯ボイコットを投票で決定",
+   "Fifaのジャン・インファンティノ会長の提案が発端",
+   "ワールドカップは売り物ではないと強く反発"
+  ],
+  "body": [
+   "BBC Worldの報道によると、Uefa（欧州サッカー連盟）の55の加盟協会は、Fifa（国際サッカー連盟）とその会長であるジャン・インファンティノ氏が進める投資提案から方針が撤回されない場合、将来の大会をボイコットすることを投票で決定しました。",
+   "Uefa側は「ワールドカップは売り物ではない」と強く主張しており、Fifaの提案に対する激しい反発を示しています。この対立により、今後の国際的なサッカー大会の開催や運営に大きな影響が出る可能性が懸念されています。",
+   "両組織の間で投資提案をめぐる意見の隔たりは大きく、Fifa側がどのような対応を取るのか、今後の動向に世界中のサッカーファンや関係者からの注目が集まっています。"
+  ],
+  "tags": [
+   "Uefa",
+   "Fifa",
+   "ワールドカップ"
+  ],
+  "slug": "uefa-to-boycott-world-cups",
+  "people": [
+   {
+    "name": "ジャン・インファンティノ",
+    "bio": "国際サッカー連盟（Fifa）の現会長を務めるスイス出身のサッカー administrators。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Uefa",
+    "type": "company",
+    "desc": "欧州サッカー連盟。ヨーロッパにおけるサッカーの統括団体で主要な大会を運営する。"
+   },
+   {
+    "name": "Fifa",
+    "type": "company",
+    "desc": "国際サッカー連盟。世界のサッカー競技を統括しワールドカップを主催する組織。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-07-31",
+  "time": "22:03",
+  "path": "/articles/20260731-uefa-to-boycott-world-cups.html"
  }
 ]

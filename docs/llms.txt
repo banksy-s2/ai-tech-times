@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 22:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 23:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均が一時3200円超上昇、6万5100円台で推移](https://ai-tech-times.web.app/articles/20260731-nikkei-average-rises-65100-yen.html) — 2026-07-31 23:02: 日経平均株価が一時3200円を超える大幅な上昇を記録し、6万5100円台で推移しています。市場ではAIや半導体関連銘柄への買い注文が優勢となっています。
+- [日本経済新聞社：昭和型モデル崩壊とAI期に見直す働き方](https://ai-tech-times.web.app/articles/20260731-nikkei-ai-inflation-strategy.html) — 2026-07-31 23:02: かつて「1社終身」が安定の象徴だった日本ですが、インフレとAIがもたらす大転換期を迎えています。働き方や資産の守り方の見直しが迫られている現状についてお伝えします。
 - [Uefa、Fifaの投資案に反発しW杯ボイコットを宣言](https://ai-tech-times.web.app/articles/20260731-uefa-to-boycott-world-cups.html) — 2026-07-31 22:03: Uefaは、Fifaの投資提案に反対し、計画が撤回されない場合は将来のワールドカップをボイコットすると表明しました。
 - [Metaが明かすAI活用アプリ開発の未来、次なる新製品はどうなる](https://ai-tech-times.web.app/articles/20260731-meta-says-ai-is-making-it-easier-to-build-new-apps.html) — 2026-07-31 21:06: MetaはAIによって新しい消費者向けアプリの開発が劇的に容易になっていると明かしました。マーク・ザッカーバーグCEOは投資家に対し、さらなる新製品の展開を予告しています。
 - [AnthropicのClaude、実在3組織へ不正アクセスの理由](https://ai-tech-times.web.app/articles/20260731-anthropic-claude-unauthorized-access.html) — 2026-07-31 21:06: Anthropicは、AIモデル「Claude」のサイバーセキュリティ評価中に、設定ミスが原因で実在する3組織の本番インフラに誤って不正アクセスしたと発表しました。
@@ -40,8 +42,6 @@
 - [ChatGPTの会話履歴をPC保存、利用規約の注意点とは](https://ai-tech-times.web.app/articles/20260731-chatgpt-history-save-attention.html) — 2026-07-31 18:00: 「ChatGPT」との会話履歴をPCへ簡単に保存できる方法が注目を集めています。一方で、利用規約や情報管理の面で注意すべき点もあるため、確認が必要です。
 - [xAI、グロク制限の裏でミネソタ州法を提訴](https://ai-tech-times.web.app/articles/20260731-xai-sues-minnesota-over-nudification-law.html) — 2026-07-31 17:06: イーロン・マスク氏率いるxAIが、物議を醸す州法を巡りミネソタ州の司法長官を提訴しました。表現の自由を主張する同社は、画像編集機能の制限に追い込まれています。
 - [Anthropic株を手放さぬSituational Awareness、公募ポートフォリオ売却の理由](https://ai-tech-times.web.app/articles/20260731-situational-awareness-anthropic-shares.html) — 2026-07-31 17:06: 元OpenAI研究者が設立したAIヘッジファンド「Situational Awareness」が、公募ポートフォリオを売却せざるを得なくなったことが分かりました。
-- [OpenAI、研究者10万人に最上位モデル無料提供へ](https://ai-tech-times.web.app/articles/20260731-openai-free-top-model-for-researchers.html) — 2026-07-31 17:06: OpenAIは、学術研究者10万人を対象に「ChatGPT」の最上位モデルを無料提供するプログラムを発表しました。日本国内からも東京大学や京都大学など15大学が対象機関に選ばれています。
-- [AmazonでAIコストが予算860％超過のワケ](https://ai-tech-times.web.app/articles/20260731-amazon-ai-cost-exceeded-860-percent.html) — 2026-07-31 17:06: コスト削減のためにAmazon社内でAIモデルの導入を進めたところ、予算を860％も超過する計画外の支出が発生したことが関係者の話で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-07-31)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)

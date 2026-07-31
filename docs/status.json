@@ -1,23 +1,26 @@
 {
- "updated": "2026-07-31 22:03",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-07-31 23:02",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "Uefa、Fifaの投資案に反発しW杯ボイコットを宣言",
-   "path": "/articles/20260731-uefa-to-boycott-world-cups.html",
-   "cat": "時事・世界"
+   "title": "日経平均が一時3200円超上昇、6万5100円台で推移",
+   "path": "/articles/20260731-nikkei-average-rises-65100-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "日本経済新聞社：昭和型モデル崩壊とAI期に見直す働き方",
+   "path": "/articles/20260731-nikkei-ai-inflation-strategy.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [
-  "執筆失敗: “原発建て替え 2040年代までに最大5基”政府が正式決定"
- ],
+ "notes": [],
  "pv_today": 14,
  "gemini": {
-  "used": 169,
+  "used": 173,
   "limit": 200
  }
 }
