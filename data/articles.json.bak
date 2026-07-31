@@ -22658,5 +22658,78 @@
   "date": "2026-07-31",
   "time": "14:00",
   "path": "/articles/20260731-panasonic-hd-stock-upward-revision.html"
+ },
+ {
+  "title": "NRI営業益12％増、AIコンサル5倍超の背景",
+  "lead": "野村総合研究所（NRI）のFY2027第1四半期決算説明会において、営業利益が12％増の417億円となったことが発表されました。AIコンサル案件の急増などが要因となっています。",
+  "summary3": [
+   "NRIの営業益が12％増の417億円に",
+   "AIコンサル案件は5倍超へと急拡大",
+   "セキュリティ需要も増し通期上振れ"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする企業の最新動向です。野村総合研究所（4307.T）は、FY2027第1四半期の決算説明会を実施しました。発表によると、当期の営業利益は前年同期比12％増となる417億円を記録し、順調な滑り出しを見せています。",
+   "好業績を牽引しているのは、急速に需要が高まっている先端技術分野です。AIコンサルティング案件が前年同期比で5倍を超える規模へと急拡大しているほか、セキュリティ関連の需要も急拡大を見せています。こうしたデジタル化や安全対策への強いニーズが業績を押し上げました。",
+   "同社では、これらの好調な需要や案件獲得の勢いを背景に、通期の業績が上振れることへの自信を示しています。今後の事業展開や各セグメントのさらなる動向に、市場からの関心が集まっています。"
+  ],
+  "tags": [
+   "NRI",
+   "決算",
+   "AIコンサル"
+  ],
+  "slug": "nri-fy2027-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "野村総合研究所",
+    "type": "company",
+    "desc": "日本の大手シンクタンク・システムインテグレーター。コンサルティングやITソリューションサービスを展開する。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RmtpSnJWOU9pWmNFdjlJTkVRcXhrTTRVMDlzTHNaaFRNOUNMbUM0VnNuaGRvRXVraDhkVndwZDF2X3Q4OWN4TWZrQnJrNVRmTFZGRWNFSzc5QnZCdHQw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "15:00",
+  "path": "/articles/20260731-nri-fy2027-q1-results.html"
+ },
+ {
+  "title": "レオパレス21、リログループ子会社と業務提携へ",
+  "lead": "レオパレス21は、リログループ子会社と業務提携を行い、法人向け社宅で協力することを発表しました。",
+  "summary3": [
+   "レオパレス21が業務提携を発表",
+   "リログループ子会社と協力へ",
+   "法人向け社宅分野での連携"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。株式会社レオパレス21は、リログループの子会社と業務提携を締結したことを明らかにしました。",
+   "今回の提携により、両社は法人向け社宅の分野において協力関係を築くことになります。それぞれの強みを活かした取り組みが進められる見通しです。",
+   "法人需要に対応する社宅サービスにおいて、どのような相乗効果を生み出すのか、今後の展開に注目が集まります。"
+  ],
+  "tags": [
+   "レオパレス21",
+   "リログループ",
+   "業務提携"
+  ],
+  "slug": "leopalace21-relo-group-business-tie-up",
+  "people": [],
+  "terms": [
+   {
+    "name": "レオパレス21",
+    "type": "company",
+    "desc": "賃貸住宅の管理・開発やアパート建築などを手がける日本の不動産会社です。"
+   },
+   {
+    "name": "リログループ",
+    "type": "company",
+    "desc": "福利厚生代行サービスや転勤支援などの法人向けサービスを展開する企業グループです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWHByODViR3Ewb25LaXZIbVg0SFlKT1hjZlRlbEdwcUk5S2ZwaldYUHh1ZXdHUnVyNmFONzJQenZBa3V5OWZfUzBiTXZZTXdMSEd5QWlXYVdPSjZ5Y2VqRWRoSU9aeXpPTkFRMA?oc=5",
+  "category": "jp_corp",
+  "date": "2026-07-31",
+  "time": "15:00",
+  "path": "/articles/20260731-leopalace21-relo-group-business-tie-up.html"
  }
 ]

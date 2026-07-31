@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-07-31 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均は一時3400円超プラス、6万5000円台を回復",
-   "path": "/articles/20260731-nikkei-average-recovers-65000-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "NRI営業益12％増、AIコンサル5倍超の背景",
+   "path": "/articles/20260731-nri-fy2027-q1-results.html",
+   "cat": "日本企業"
   },
   {
-   "title": "パナソニックHD株価ストップ高気配、27年3月期純利益上方修正",
-   "path": "/articles/20260731-panasonic-hd-stock-upward-revision.html",
-   "cat": "株式投資(日本)"
+   "title": "レオパレス21、リログループ子会社と業務提携へ",
+   "path": "/articles/20260731-leopalace21-relo-group-business-tie-up.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 103,
+  "used": 108,
   "limit": 200
  }
 }
