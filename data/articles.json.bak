@@ -22597,5 +22597,66 @@
   "date": "2026-07-31",
   "time": "13:00",
   "path": "/articles/20260731-apple-earnings-memory-prices.html"
+ },
+ {
+  "title": "日経平均は一時3400円超プラス、6万5000円台を回復",
+  "lead": "日経平均株価の上げ幅がさらに拡大し、一時3400円を超えるプラスを記録して6万5000円台を回復しました。",
+  "summary3": [
+   "日経平均の上げ幅がさらに拡大しました",
+   "一時3400円を超えるプラスを記録しました",
+   "株価は6万5000円台を回復しました"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、市場における日経平均株価の動きとして、上げ幅がさらに拡大していることが分かりました。取引時間中には一時3400円を超える大幅なプラスを記録する展開となっています。",
+   "この急激な相場の変動により、日経平均株価は節目の水準となる6万5000円台を回復しました。市場関係者の間でも、その急ピッチな値動きに大きな注目が集まる状況となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-recovers-65000-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QkM3Vk9NUWQ3T2VObDdLS1p0NDdaU21scVJycHRPZ3ZMNGExMW5USWFEYUFUV1dxS19fZ3QzeEFmVTFlMDFfSGZ6bGhmdExuNU5qdGE1LWYwNTU3Mkk5Y0N0d1ZrVnkydWNEQ0dvSVYzUU9faFRxYXo3UUtFT1U?oc=5",
+  "category": "stock",
+  "date": "2026-07-31",
+  "time": "14:00",
+  "path": "/articles/20260731-nikkei-average-recovers-65000-yen.html"
+ },
+ {
+  "title": "パナソニックHD株価ストップ高気配、27年3月期純利益上方修正",
+  "lead": "パナソニックHDの株価がストップ高気配となりました。27年3月期純利益上方修正が発表されています。",
+  "summary3": [
+   "パナソニックHD株がストップ高気配",
+   "27年3月期純利益を上方修正",
+   "日本経済新聞が報じる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の経済ニュースです。日本経済新聞の報道によると、パナソニックHDの株価がストップ高気配を示していることが分かりました。",
+   "今回の値動きの背景には、27年3月期純利益の上方修正があります。企業業績の修正発表を受けて、市場で大きな注目を集める展開となっています。",
+   "株式市場においては、業績見通しの変更が株価に直接的な影響を与える重要な要因となります。引き続き関連する発表や動向に注意が集まると見られます。"
+  ],
+  "tags": [
+   "パナソニックHD",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "panasonic-hd-stock-upward-revision",
+  "people": [],
+  "terms": [
+   {
+    "name": "パナソニックHD",
+    "type": "company",
+    "desc": "家電から車載電池、B2B事業まで幅広く手掛ける日本を代表する総合電機メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Y0YyRVJ3a0VjanJIX2ZXRE9mM1g1STFYbG9xbXNDTzE0dEw2UnZLZktBLUtuVThCUjNNN2d4b0RJTHJmdGdKb0RWckp6a1VnVEdaZWMwWG9WR3E4dThqd1ZscmpXanVjRVlBdQ?oc=5",
+  "category": "stock",
+  "date": "2026-07-31",
+  "time": "14:00",
+  "path": "/articles/20260731-panasonic-hd-stock-upward-revision.html"
  }
 ]

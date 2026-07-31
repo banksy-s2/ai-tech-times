@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-07-31 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [NRI営業益12％増、AIコンサル5倍超の背景](https://ai-tech-times.web.app/articles/20260731-nri-fy2027-q1-results.html) — 2026-07-31 15:00: 野村総合研究所（NRI）のFY2027第1四半期決算説明会において、営業利益が12％増の417億円となったことが発表されました。AIコンサル案件の急増などが要因となっています。
+- [レオパレス21、リログループ子会社と業務提携へ](https://ai-tech-times.web.app/articles/20260731-leopalace21-relo-group-business-tie-up.html) — 2026-07-31 15:00: レオパレス21は、リログループ子会社と業務提携を行い、法人向け社宅で協力することを発表しました。
 - [日経平均は一時3400円超プラス、6万5000円台を回復](https://ai-tech-times.web.app/articles/20260731-nikkei-average-recovers-65000-yen.html) — 2026-07-31 14:00: 日経平均株価の上げ幅がさらに拡大し、一時3400円を超えるプラスを記録して6万5000円台を回復しました。
 - [パナソニックHD株価ストップ高気配、27年3月期純利益上方修正](https://ai-tech-times.web.app/articles/20260731-panasonic-hd-stock-upward-revision.html) — 2026-07-31 14:00: パナソニックHDの株価がストップ高気配となりました。27年3月期純利益上方修正が発表されています。
 - [アップル増益、メモリ高騰に懸念なぜ](https://ai-tech-times.web.app/articles/20260731-apple-earnings-memory-prices.html) — 2026-07-31 13:00: アップルが発表したことし6月までの3か月間の決算は、iPhoneの販売が好調で増益となりました。一方で、半導体メモリの価格高騰について懸念が示されています。
@@ -40,15 +42,13 @@
 - [SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇](https://ai-tech-times.web.app/articles/20260731-sk-hynix-samsung-surge-ai-rally.html) — 2026-07-31 10:00: 米国のテクノロジー株の急激な上昇を受け、韓国の半導体大手であるSKハイニックスとサムスン電子の株価が急伸しました。AI関連の買い戻しが強まり、市場に大きな影響を与えています。
 - [日立がSI全工程をAI化、仕様確定で最大240倍効率化のワケ](https://ai-tech-times.web.app/articles/20260731-hitachi-si-ai-integration.html) — 2026-07-31 09:00: 日立はエンジニア不足やシステム複雑化に対応するため、SIの全工程にAIを全面適用するプラットフォームを開発しました。社内検証で最大240倍の効率化を実証した背景に迫ります。
 - [サイバーセキュリティクラウド調査：生成AIを上司より参考にする理由](https://ai-tech-times.web.app/articles/20260731-cybersecurity-cloud-ai-reliance-survey.html) — 2026-07-31 09:00: サイバーセキュリティクラウドが実施した調査により、職場での生成AIの利用が広がり、上司よりも生成AIを参考にした経験を持つ人が半数に上ることが明らかになりました。
-- [Anthropic供給網リスク、トランプ政権の証拠不足を連邦裁判所が指摘](https://ai-tech-times.web.app/articles/20260731-judge-says-trump-admin-lacks-evidence-for-anthropic.html) — 2026-07-31 08:00: 米連邦判事は、トランプ政権がAI企業のアンスロピックをサプライチェーンリスクに指定した件について、根拠となる十分な証拠が提示されていないとの見解を示しました。
-- [OpenAI、GPT-5.6で価格と性能はどう変わるのか](https://ai-tech-times.web.app/articles/20260731-openai-gpt-5-6-price-performance.html) — 2026-07-31 08:00: OpenAIが価格と性能の境界を前進させる新モデル「GPT-5.6」を発表しました。開発者や利用者にとってどのようなメリットがあるのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-07-31)
 - 1位: [NO BATIDÃO](https://www.youtube.com/watch?v=g16sDYTn8j0)
 - 2位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 3位: [Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://www.youtube.com/watch?v=lNaSdnz2I8g)
 
-## AI用語事典 (全504語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全507語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
