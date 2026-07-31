@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-01 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-01 06:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日米協調介入か、専門家の見方と暮らしへの影響",
-   "path": "/articles/20260801-us-japan-joint-intervention.html",
-   "cat": "株式投資(日本)"
+   "title": "オリエンタルランド株価+8％超で年初来高値、客単価が過去最高の理由",
+   "path": "/articles/20260801-oriental-land-earnings-2024.html",
+   "cat": "日本企業"
   },
   {
-   "title": "富士通株が一時10%安に急落、予想据え置きで物足りず",
-   "path": "/articles/20260801-fujitsu-stock-drop-2023.html",
-   "cat": "株式投資(日本)"
+   "title": "SBIホールディングス、税引前利益150%増の2258億円を達成",
+   "path": "/articles/20260801-sbi-holdings-q1-results-2026.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 28,
+  "used": 33,
   "limit": 200
  }
 }
