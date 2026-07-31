@@ -1,16 +1,11 @@
 {
- "updated": "2026-07-31 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-07-31 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Nexus、Anthropic向け施設資金で150億ドル調達へ",
-   "path": "/articles/20260731-nexus-data-centers-secures-15b-for-anthropic.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇",
-   "path": "/articles/20260731-sk-hynix-samsung-surge-ai-rally.html",
-   "cat": "シリコンバレー最速"
+   "title": "ジョージアで行方不明のタイ人ユーチューバー、現地ホテルで遺体で発見",
+   "path": "/articles/20260731-thai-youtuber-found-dead-in-georgia.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 68,
+  "used": 70,
   "limit": 200
  }
 }

@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-31 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-07-31 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "日立がSI全工程をAI化、仕様確定で最大240倍効率化のワケ",
-   "path": "/articles/20260731-hitachi-si-ai-integration.html",
-   "cat": "日本のAI"
+   "title": "Nexus、Anthropic向け施設資金で150億ドル調達へ",
+   "path": "/articles/20260731-nexus-data-centers-secures-15b-for-anthropic.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "サイバーセキュリティクラウド調査：生成AIを上司より参考にする理由",
-   "path": "/articles/20260731-cybersecurity-cloud-ai-reliance-survey.html",
-   "cat": "日本のAI"
+   "title": "SKハイニックスが25%急騰、AI株急回復でサムスンも20%超上昇",
+   "path": "/articles/20260731-sk-hynix-samsung-surge-ai-rally.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 65,
+  "used": 68,
   "limit": 200
  }
 }
