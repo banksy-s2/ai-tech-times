@@ -881,7 +881,7 @@
    "id": "g16sDYTn8j0",
    "title": "NO BATIDÃO",
    "channel": "slxughter - Topic",
-   "views": 2541449,
+   "views": 2608451,
    "url": "https://www.youtube.com/watch?v=g16sDYTn8j0",
    "thumb": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
    "regions": [
@@ -898,7 +898,7 @@
    "id": "1zip1rNaNYs",
    "title": "RAMAYANA - Official Trailer",
    "channel": "Sony Pictures Entertainment",
-   "views": 11255847,
+   "views": 11439653,
    "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
    "thumb": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
    "regions": [
@@ -913,7 +913,7 @@
    "id": "lNaSdnz2I8g",
    "title": "Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
    "channel": "World Of Ramayana",
-   "views": 26594027,
+   "views": 27073573,
    "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
    "thumb": "https://i.ytimg.com/vi/lNaSdnz2I8g/hqdefault.jpg",
    "regions": [
@@ -927,7 +927,7 @@
    "id": "rODu2HTw6M8",
    "title": "DC -Release Trailer| Lokesh| Sun Pictures| Anirudh| Arun Matheswaran| Wamiqa| In theatres from Aug 7",
    "channel": "Sun TV",
-   "views": 2484748,
+   "views": 2547452,
    "url": "https://www.youtube.com/watch?v=rODu2HTw6M8",
    "thumb": "https://i.ytimg.com/vi/rODu2HTw6M8/hqdefault.jpg",
    "regions": [
@@ -941,7 +941,7 @@
    "id": "2E4ihxaCDL4",
    "title": "I'M GAME TRAILER (Malayalam) | Dulquer Salmaan  | Nahas Hidhayath | Wayfarer Films",
    "channel": "Wayfarer Films Music",
-   "views": 1815990,
+   "views": 1854222,
    "url": "https://www.youtube.com/watch?v=2E4ihxaCDL4",
    "thumb": "https://i.ytimg.com/vi/2E4ihxaCDL4/hqdefault.jpg",
    "regions": [
@@ -955,7 +955,7 @@
    "id": "h-j-SpRxhHo",
    "title": "HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond",
    "channel": "HELLDIVERS™ 2",
-   "views": 755422,
+   "views": 759990,
    "url": "https://www.youtube.com/watch?v=h-j-SpRxhHo",
    "thumb": "https://i.ytimg.com/vi/h-j-SpRxhHo/hqdefault.jpg",
    "regions": [
@@ -969,7 +969,7 @@
    "id": "ukHLJ06ecH0",
    "title": "Exposing 11 SECRETS in Animal Hospital..",
    "channel": "CashBlox",
-   "views": 632451,
+   "views": 658763,
    "url": "https://www.youtube.com/watch?v=ukHLJ06ecH0",
    "thumb": "https://i.ytimg.com/vi/ukHLJ06ecH0/hqdefault.jpg",
    "regions": [
@@ -980,24 +980,10 @@
   },
   {
    "rank": 8,
-   "id": "cmawSe1PkPg",
-   "title": "Gears of War: E-Day | Official Multiplayer Reveal",
-   "channel": "XBOX",
-   "views": 373937,
-   "url": "https://www.youtube.com/watch?v=cmawSe1PkPg",
-   "thumb": "https://i.ytimg.com/vi/cmawSe1PkPg/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Gears of War: E-Dayのマルチプレイヤー映像かもしれない公式公開動画です。(28字)"
-  },
-  {
-   "rank": 9,
    "id": "7VsejGzcJmM",
    "title": "Alaakaa Loova Lyrical (Tamil) | OM | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai",
    "channel": "Divo Music",
-   "views": 14753412,
+   "views": 14794706,
    "url": "https://www.youtube.com/watch?v=7VsejGzcJmM",
    "thumb": "https://i.ytimg.com/vi/7VsejGzcJmM/hqdefault.jpg",
    "regions": [
@@ -1006,17 +992,30 @@
    "comment": "ダヌシュらが出演する映画の音楽リリカルビデオが公開されているようです。（28文字）"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "id": "gnm4HgIAVmU",
    "title": "The Thomas Crown Affair | Official Teaser Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 7917119,
+   "views": 7966484,
    "url": "https://www.youtube.com/watch?v=gnm4HgIAVmU",
    "thumb": "https://i.ytimg.com/vi/gnm4HgIAVmU/hqdefault.jpg",
    "regions": [
     "US"
    ],
    "comment": "映画『華麗なる賭け』の公式ティーザー予告編のようです"
+  },
+  {
+   "rank": 10,
+   "id": "zhApeaHMvfs",
+   "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
+   "channel": "Sony Pictures Entertainment",
+   "views": 6871788,
+   "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+   "thumb": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
+   "regions": [
+    "US"
+   ],
+   "comment": "ジュマンジ新作映画の公式予告編映像かもしれません (24文字)"
   }
  ]
 }

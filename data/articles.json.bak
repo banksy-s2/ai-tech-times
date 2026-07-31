@@ -23834,5 +23834,61 @@
   "date": "2026-07-31",
   "time": "22:03",
   "path": "/articles/20260731-uefa-to-boycott-world-cups.html"
+ },
+ {
+  "title": "日経平均が一時3200円超上昇、6万5100円台で推移",
+  "lead": "日経平均株価が一時3200円を超える大幅な上昇を記録し、6万5100円台で推移しています。市場ではAIや半導体関連銘柄への買い注文が優勢となっています。",
+  "summary3": [
+   "日経平均が一時3200円超上昇",
+   "6万5100円台で推移を記録",
+   "AIや半導体関連で買いが優勢"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。本日の東京株式市場において、日経平均株価が一時3200円を超える記録的な上昇を見せ、6万5100円台で推移していることが明らかになりました。",
+   "今回の市場の動きを牽引しているのは、人工知能（AI）および半導体関連の銘柄です。これらの分野に対する買い注文が優勢となり、全体的な株価指数を大きく押し上げる展開となっています。",
+   "読売新聞の報道によると、市場では幅広い関連企業への注目が集まっており、今後の動向にも引き続き関心が寄せられています。株式市場の最新情報については、今後も随時お伝えしてまいります。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "半導体"
+  ],
+  "slug": "nikkei-average-rises-65100-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZQ3hBbmJQSVpNOHg4aXpaeXNBaTFXcElWMEZ3UHF0R1hfcWs1RmQ3SDNXYnprQVAtdW1Ya0hLZmFHd0FZM21wM25qYTNCWHp3a05kWWtnak0yOThBdnl0Szd1TnI?oc=5",
+  "category": "stock",
+  "date": "2026-07-31",
+  "time": "23:02",
+  "path": "/articles/20260731-nikkei-average-rises-65100-yen.html"
+ },
+ {
+  "title": "日本経済新聞社：昭和型モデル崩壊とAI期に見直す働き方",
+  "lead": "かつて「1社終身」が安定の象徴だった日本ですが、インフレとAIがもたらす大転換期を迎えています。働き方や資産の守り方の見直しが迫られている現状についてお伝えします。",
+  "summary3": [
+   "1社終身の安定神話が崩壊",
+   "インフレとAIが大転換期に",
+   "働き方と資産防衛の見直しへ"
+  ],
+  "body": [
+   "かつて「1社終身」が安定の象徴だった日本ですが、現在の経済状況は大きな転換期を迎えています。物価上昇を伴うインフレと、人工知能（AI）技術の急激な発展が、私たちの働き方や社会構造に大きな影響を与えています。",
+   "これまでの昭和型モデルが通用しなくなる中で、個人における働き方や資産の守り方についても、従来の常識にとらわれない見直しが強く迫られる状況となっています。",
+   "今後は、変化の激しい時代に対応するため、個々の生存戦略として新たな視点を持ったキャリア形成や資産管理のあり方を考えていくことが重要になるとみられています。"
+  ],
+  "tags": [
+   "日本経済",
+   "AI",
+   "インフレ"
+  ],
+  "slug": "nikkei-ai-inflation-strategy",
+  "people": [],
+  "terms": [],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/952774?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-07-31",
+  "time": "23:02",
+  "path": "/articles/20260731-nikkei-ai-inflation-strategy.html"
  }
 ]

@@ -23890,5 +23890,49 @@
   "date": "2026-07-31",
   "time": "23:02",
   "path": "/articles/20260731-nikkei-ai-inflation-strategy.html"
+ },
+ {
+  "title": "「Gemini Robotics 2」全身知能化のゆくえ",
+  "lead": "米Google傘下のGoogle DeepMindが、ロボットに全身の知能をもたらす新技術「Gemini Robotics 2」を発表し、技術コミュニティで大きな話題となっています。",
+  "summary3": [
+   "Google DeepMindが新技術を発表",
+   "Gemini Robotics 2で全身知能化",
+   "HNで598ptを獲得し話題に"
+  ],
+  "body": [
+   "米Google（グーグル）傘下のAI研究開発企業であるGoogle DeepMind（グーグル・ディープマインド）が、ロボットに「全身の知能（whole body intelligence）」をもたらす新たなAI技術「Gemini Robotics 2」に関するブログ記事を公開しました。人工知能とロボット工学を融合させる新たな取り組みとして、技術者や研究者の間で大きな注目を集めています。",
+   "今回公開された記事「Gemini Robotics 2 brings whole body intelligence to robots」では、Gemini Robotics 2がロボットの身体全体を活用した高度な知能制御を可能にすることが示されています。Googleが誇る最先端のAIモデル「Gemini」の能力をロボティクス分野に拡張し、より複雑な身体動作や統合的な制御を実現する技術として期待が高まっています。",
+   "この発表は海外の著名な技術コミュニティサイト「Hacker News（ハッカーニュース）」でも大きく取り上げられ、投稿には598ポイントのスコアが付き、486件ものコメントが寄せられました。開発者コミュニティでは、全身知能がロボティクスの未来にどのような影響を与えるかについて、多様な視点から活発な議論が展開されています。"
+  ],
+  "tags": [
+   "AI",
+   "ロボティクス",
+   "GoogleDeepMind"
+  ],
+  "slug": "gemini-robotics-2-whole-body-intelligence",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google DeepMind",
+    "type": "company",
+    "desc": "英国ロンドンに本社を置くGoogle傘下のAI研究開発企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発・展開する最先端の大規模AIモデルシリーズ。"
+   },
+   {
+    "name": "Gemini Robotics 2",
+    "type": "ai",
+    "desc": "ロボットに全身の知能をもたらすGoogle DeepMindのAI技術。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+  "category": "ai",
+  "date": "2026-08-01",
+  "time": "00:07",
+  "path": "/articles/20260801-gemini-robotics-2-whole-body-intelligence.html"
  }
 ]
