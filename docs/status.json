@@ -1,26 +1,17 @@
 {
- "updated": "2026-07-31 19:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "アマゾン12%急騰・アップル7%下落、決算で明暗",
-   "path": "/articles/20260731-amazon-apple-earnings-ai-stocks-2026.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX、米下院委員会からメンフィスのAI施設視察を要求される",
-   "path": "/articles/20260731-spacex-memphis-house-energy-committee.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-07-31 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "NO BATIDÃO",
   "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: グルメインフルエンサーが紹介する店は「PR案件だらけ」同業が暴露しバトル勃発、証"
+ ],
  "pv_today": 14,
  "gemini": {
-  "used": 138,
+  "used": 141,
   "limit": 200
  }
 }
