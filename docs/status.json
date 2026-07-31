@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-01 00:07",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-01 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "「Gemini Robotics 2」全身知能化のゆくえ",
-   "path": "/articles/20260801-gemini-robotics-2-whole-body-intelligence.html",
-   "cat": "AI(海外)"
+   "title": "キオクシア純利益8421億円、前年比4500％増の理由",
+   "path": "/articles/20260801-kioxia-q1-earnings-surge.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [
-  "執筆失敗: Reddit reports a solid quarter but shows"
+  "執筆失敗: 着衣画像を「AI」で裸に加工…これは「児童ポルノ」なのか？元小学校教諭に懲役3年"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 13,
   "limit": 200
  }
 }

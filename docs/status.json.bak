@@ -1,26 +1,23 @@
 {
- "updated": "2026-07-31 23:02",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-01 00:07",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均が一時3200円超上昇、6万5100円台で推移",
-   "path": "/articles/20260731-nikkei-average-rises-65100-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日本経済新聞社：昭和型モデル崩壊とAI期に見直す働き方",
-   "path": "/articles/20260731-nikkei-ai-inflation-strategy.html",
-   "cat": "株式投資(日本)"
+   "title": "「Gemini Robotics 2」全身知能化のゆくえ",
+   "path": "/articles/20260801-gemini-robotics-2-whole-body-intelligence.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
-  "title": "NO BATIDÃO",
-  "url": "https://www.youtube.com/watch?v=g16sDYTn8j0"
+  "title": "RAMAYANA - Official Trailer",
+  "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
- "pv_today": 14,
+ "notes": [
+  "執筆失敗: Reddit reports a solid quarter but shows"
+ ],
+ "pv_today": null,
  "gemini": {
-  "used": 173,
+  "used": 10,
   "limit": 200
  }
 }
