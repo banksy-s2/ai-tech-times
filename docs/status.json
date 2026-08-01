@@ -1,15 +1,55 @@
 {
- "updated": "2026-08-02 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-02 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ソシオネクス、信越化、富士通の決算マイナス・インパクト",
-   "path": "/articles/20260802-earnings-negative-impact-stocks-prime.html",
+   "title": "xAI、ミネソタ州の過激画像生成アプリ禁止をめぐる訴訟で棄却される",
+   "path": "/articles/20260802-xai-nudify-apps-minnesota-ban.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Google EarthにAI画像生成、現実を歪めるリスクとは",
+   "path": "/articles/20260802-google-earth-ai-image-generator-problem.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "米アンソロピックAIが3社ハッキング、その理由は",
+   "path": "/articles/20260802-anthropic-ai-hacks-three-companies.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "DoorDash、中国製AIモデルの利用巡り米議員から情報要請",
+   "path": "/articles/20260802-doordash-chinese-ai-models-us-lawmakers.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "にじさんじVTuber、7年半ぶりの謎動画投稿で話題に",
+   "path": "/articles/20260802-nijisanji-vtuber-7-years-half-return.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "アメリカ・イラン攻撃計画の行方と今後の懸念",
+   "path": "/articles/20260802-us-iran-attack-plans-weekend.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日米など11か国、北朝鮮IT労働者に注意喚起",
+   "path": "/articles/20260802-us-japan-north-korea-it-workers.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "キオクシア純利益46倍、株価3分の1からの底打ち",
+   "path": "/articles/20260802-kioxia-earnings-analysis.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ソフトバンクGやトヨタが決算発表、今週の予定",
+   "path": "/articles/20260802-softbank-group-toyota-earnings-announcement.html",
    "cat": "日本企業"
   },
   {
-   "title": "【住友商事（8053）】場中の決算発表で株価急伸、1,700円をうかがう展開に",
-   "path": "/articles/20260802-sumitomo-corp-earnings-rally.html",
+   "title": "ソフトバンクGなど決算発表のスケジュールが判明",
+   "path": "/articles/20260802-softbank-group-earnings-schedule.html",
    "cat": "日本企業"
   }
  ],
@@ -17,10 +57,15 @@
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 薬局チェーンが業務効率化のためにAIを導入したところ遅延・誤った情報提供・プライ",
+  "執筆失敗: Uber is building an autonomous vehicle e",
+  "執筆失敗: パナソニックHD、1Q営業利益2.1倍で通期予想を上方修正、株価急伸（LIMO）",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 14,
  "gemini": {
-  "used": 26,
+  "used": 51,
   "limit": 200
  }
 }

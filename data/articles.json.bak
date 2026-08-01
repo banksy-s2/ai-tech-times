@@ -26749,5 +26749,83 @@
   "date": "2026-08-02",
   "time": "05:01",
   "path": "/articles/20260802-semiconductor-stocks-us-fund.html"
+ },
+ {
+  "title": "ソシオネクス、信越化、富士通の決算マイナス・インパクト",
+  "lead": "東証プライム市場において、7月24日から30日に発表された決算に基づくマイナス・インパクト銘柄が明らかになりました。",
+  "summary3": [
+   "東証プライムの決算動向を公表",
+   "ソシオネクスなどが対象に",
+   "7月24日～30日発表分"
+  ],
+  "body": [
+   "株探ニュースの報道によると、東証プライム市場を対象とした決算発表において、市場にマイナスのインパクトを与えた銘柄が特定されました。対象となった期間は7月24日から30日までに発表された決算となっています。",
+   "今回の発表では、ソシオネクス、信越化学工業、富士通などの企業名が挙げられています。それぞれの企業における直近の決算内容が、市場に対してどのような影響を与えたのかが注目される状況です。",
+   "株式市場における企業の業績発表は、投資家をはじめ多くの関係者に影響を及ぼす重要な要素となります。引き続き各社の動向や市場の反応に関する情報が確認されています。"
+  ],
+  "tags": [
+   "決算",
+   "東証プライム",
+   "株式市場"
+  ],
+  "slug": "earnings-negative-impact-stocks-prime",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソシオネクス",
+    "type": "company",
+    "desc": "システム・オン・チップ（SoC）の開発・販売を手がける日本の半導体企業。"
+   },
+   {
+    "name": "信越化",
+    "type": "company",
+    "desc": "塩化ビニル樹脂や半導体シリコンウェハーで世界トップシェアを誇る日本の大手化学メーカー。"
+   },
+   {
+    "name": "富士通",
+    "type": "company",
+    "desc": "総合ITサービスや通信機器の製造を手がける日本を代表する大手電機メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnhMendER2wxNW04NWctTzNXb3IwNlFuVm1ndVRpNjI4UC1ZOHhqZUE0cVhzNk5GNU9mMUJab1ZWYVJLZFJOeVJWaUphakZ1MHZPRkFrcFltWllYMWhGR29tT1EwTUpvUlNvZkw4ZVhYZzQtakdySU15TTZYN0tlSjNNVVh3eVU?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-02",
+  "time": "06:00",
+  "path": "/articles/20260802-earnings-negative-impact-stocks-prime.html"
+ },
+ {
+  "title": "【住友商事（8053）】場中の決算発表で株価急伸、1,700円をうかがう展開に",
+  "lead": "住友商事（8053）の株価が、場中の決算発表を契機に急伸し、1,700円をうかがう展開となっています。",
+  "summary3": [
+   "住友商事の株価が場中決算で急伸",
+   "1,700円をうかがう展開となる",
+   "LIMOが経済ニュースとして報道"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする経済ニュースです。経済メディア「LIMO」の報道によると、住友商事（8053）の株価が場中の決算発表を受けて急伸し、1,700円をうかがう展開を見せているとのことです。",
+   "株式市場において、企業の決算発表は投資家の売買判断に大きな影響を与える重要なイベントです。今回の住友商事における場中の決算発表も市場の注目を集め、株価の急速な上昇という具体的な値動きにつながりました。",
+   "今後も同社の株価動向や、関連する市場全体の動きについて、正確な経済情報に注目が集まることが予想されます。詳細な数値や詳しい財務状況については、元の経済メディア「LIMO」の報道をご確認ください。"
+  ],
+  "tags": [
+   "住友商事",
+   "株価",
+   "決算発表"
+  ],
+  "slug": "sumitomo-corp-earnings-rally",
+  "people": [],
+  "terms": [
+   {
+    "name": "住友商事",
+    "type": "company",
+    "desc": "日本の大手総合商社であり、国内外で幅広い事業を展開している企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2T09OeEFpaUhxX1hTZl9FWWpDN09uNERlWjF6MmtMVWV0WU5OSUJiSlgtOHAzaW4zRGdxc0NFWDdQSFU2ZVJNTkVjTWs?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-02",
+  "time": "06:00",
+  "path": "/articles/20260802-sumitomo-corp-earnings-rally.html"
  }
 ]
