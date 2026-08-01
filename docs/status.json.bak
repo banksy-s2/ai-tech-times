@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-02 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-02 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Reddit株価下落、Googleとの提携解消を検討か",
-   "path": "/articles/20260802-reddit-ceo-questions-google-ai-overviews.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Coinbase株価下落、Q2業績がウォール街予想未達に",
-   "path": "/articles/20260802-coinbase-shares-fall-after-q2-earnings.html",
-   "cat": "シリコンバレー最速"
+   "title": "ナガノ先生は映画「ちいかわ」の制作費を30億規模で自腹を切ったのか",
+   "path": "/articles/20260802-chiikawa-movie-budget-theory.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [],
- "pv_today": 2,
+ "pv_today": 5,
  "gemini": {
-  "used": 12,
+  "used": 15,
   "limit": 200
  }
 }
