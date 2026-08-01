@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-02 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-02 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "大分県日田市で40度予想、命を守る熱中症対策とは",
-   "path": "/articles/20260802-extreme-heat-forecast-ooita.html",
-   "cat": "時事・世界"
+   "title": "【2028年施行】金融所得の社会保険料算定",
+   "path": "/articles/20260802-financial-income-social-insurance-2028.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "フィリピン、スカボロー礁の海図を国連寄託 中国軍反発のなぜ",
-   "path": "/articles/20260802-philippines-scarborough-shoal-un.html",
-   "cat": "時事・世界"
+   "title": "日本経済新聞：半導体株の売り一巡感を示す米ファンド",
+   "path": "/articles/20260802-semiconductor-stocks-us-fund.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [],
- "pv_today": 7,
+ "pv_today": 10,
  "gemini": {
-  "used": 19,
+  "used": 23,
   "limit": 200
  }
 }
