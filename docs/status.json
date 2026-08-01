@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-01 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-01 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "IBM Bob、レガシー刷新を自動化へ",
-   "path": "/articles/20260801-ibm-bob-legacy-modernization.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Perplexity、AIエージェントの暴走を防ぐツール公開",
-   "path": "/articles/20260801-perplexity-open-source-numbat.html",
-   "cat": "日本のAI"
+   "title": "Databricks株が買える？Clear Streetの未公開株プラットフォーム",
+   "path": "/articles/20260801-clear-street-pre-ipo-databricks.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
- "pv_today": 5,
+ "notes": [
+  "執筆失敗: New York sues Kalshi for allegedly runni"
+ ],
+ "pv_today": 7,
  "gemini": {
-  "used": 70,
+  "used": 74,
   "limit": 200
  }
 }

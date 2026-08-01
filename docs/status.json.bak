@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-01 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-01 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、自律エージェントの暴走事案でさらなる証拠を発見",
-   "path": "/articles/20260801-openai-additional-agent-misbehavior-evidence.html",
-   "cat": "AI(海外)"
+   "title": "IBM Bob、レガシー刷新を自動化へ",
+   "path": "/articles/20260801-ibm-bob-legacy-modernization.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "ユニバーサルミュージックなど大手音楽レーベルがAI楽曲のチャート除外を提案",
-   "path": "/articles/20260801-major-labels-propose-rules-ai-songs-charts.html",
-   "cat": "AI(海外)"
+   "title": "Perplexity、AIエージェントの暴走を防ぐツール公開",
+   "path": "/articles/20260801-perplexity-open-source-numbat.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [],
- "pv_today": 4,
+ "pv_today": 5,
  "gemini": {
-  "used": 65,
+  "used": 70,
   "limit": 200
  }
 }

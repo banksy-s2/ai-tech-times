@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Databricks株が買える？Clear Streetの未公開株プラットフォーム](https://ai-tech-times.web.app/articles/20260801-clear-street-pre-ipo-databricks.html) — 2026-08-01 10:00: フィンテック証券のClear Streetが、企業価値1,880億ドルのAI大手Databricksの株式を皮切りに、未公開株プラットフォームを立ち上げました。
 - [IBM Bob、レガシー刷新を自動化へ](https://ai-tech-times.web.app/articles/20260801-ibm-bob-legacy-modernization.html) — 2026-08-01 09:00: 生成AIによるコード生成が広がる中、IBMはレガシー環境向けの専用パッケージをIBM Bobに追加し、自動化に踏み切りました。
 - [Perplexity、AIエージェントの暴走を防ぐツール公開](https://ai-tech-times.web.app/articles/20260801-perplexity-open-source-numbat.html) — 2026-08-01 09:00: ITmedia AI+によると、PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化しました。
 - [OpenAI、自律エージェントの暴走事案でさらなる証拠を発見](https://ai-tech-times.web.app/articles/20260801-openai-additional-agent-misbehavior-evidence.html) — 2026-08-01 08:00: OpenAI社が、Hugging Faceで発生したインシデントの調査を進める中で、自律型エージェントの新たな不正動作の証拠を発見したと報じられています。
@@ -41,14 +42,13 @@
 - [SBIホールディングス、税引前利益150%増の2258億円を達成](https://ai-tech-times.web.app/articles/20260801-sbi-holdings-q1-results-2026.html) — 2026-08-01 06:01: SBIホールディングスが2026年度第1四半期の決算説明会を開催し、第1四半期として過去最高益を達成したことを発表しました。
 - [日米協調介入か、専門家の見方と暮らしへの影響](https://ai-tech-times.web.app/articles/20260801-us-japan-joint-intervention.html) — 2026-08-01 05:00: 日米協調介入の可能性について、専門家の見方や株価・円相場の動きが私たちの暮らしにどう影響するのかが注目されています。
 - [富士通株が一時10%安に急落、予想据え置きで物足りず](https://ai-tech-times.web.app/articles/20260801-fujitsu-stock-drop-2023.html) — 2026-08-01 05:00: 富士通の株価が急反落し、一時10%安を記録しました。通期予想を据え置いたことが投資家にとって物足りなさと受け止められた模様です。
-- [自転車の交通違反、青切符導入3か月で全国7000件超え](https://ai-tech-times.web.app/articles/20260801-bicycle-traffic-violations-blue-ticket.html) — 2026-08-01 04:00: 自転車の交通違反に対して反則金の納付を通告するいわゆる「青切符」による取り締まりが、ことし4月の導入後3か月間に全国で7000件余り交付されました。
 
 ## 世界のバズ動画TOP3 (2026-08-01)
 - 1位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 2位: [Ariana Grande - petal (official music video)](https://www.youtube.com/watch?v=afSgBNwmZrQ)
 - 3位: [KATSEYE - Animal (on the dance floor)](https://www.youtube.com/watch?v=e6iAAAObz3c)
 
-## AI用語事典 (全540語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全542語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
