@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 19:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Appleティム・クック最後の決算、iPhone好調の一方で価格高騰の懸念](https://ai-tech-times.web.app/articles/20260801-apple-q3-2026-earnings-call.html) — 2026-08-01 19:01: Ars Technicaによると、Appleの2026年第3四半期決算発表において、iPhoneとMacの好調な売上が報告された一方で、メモリコストが今後の価格上昇の脅威として浮上しました。
 - [香港メディアが報じる日本のロボット産業が後退した背景](https://ai-tech-times.web.app/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html) — 2026-08-01 18:00: 2026年7月27日、香港メディアの香港01が、AI汎用ヒューマノイド本体の開発競争から日本が後退した背景について報じました。
 - [米Amazon、Claudeの誤用で予算の8倍超を請求された理由](https://ai-tech-times.web.app/articles/20260801-amazon-claude-budget-exceeded.html) — 2026-08-01 18:00: 米Amazonが、商品リストの照合作業でAIの使い方を誤り、予算の8倍超にあたる約2.8億円を請求されるトラブルが発生しました。
 - [AI特需の資金調達に異変、貸し手側が金利見直しへ](https://ai-tech-times.web.app/articles/20260801-ai-trade-borrowed-money-repricing.html) — 2026-08-01 17:05: AI関連の取引が借入金に依存する中、貸し手側が条件の再設定を始めています。この動向が市場に与える影響についてお伝えします。
@@ -41,7 +42,6 @@
 - [米財務省が円買い介入か、なぜ協調なら異例なのか](https://ai-tech-times.web.app/articles/20260801-us-treasury-yen-buying-intervention-2.html) — 2026-08-01 13:00: 外国為替市場で急激な円高ドル安が進む中、アメリカ財務省が市場介入を実施したと報じられました。
 - [米トランプ政権、イラン攻撃計画の背景](https://ai-tech-times.web.app/articles/20260801-us-trump-administration-iran-attack-plan.html) — 2026-08-01 13:00: アメリカの複数メディアは、トランプ政権が週末にもイランのエネルギー関連施設を攻撃する計画を進めていると報じました。緊迫する中東情勢の行方に注目が集まっています。
 - [Snapchat、AI完全生成動画をレコメンド対象外へ](https://ai-tech-times.web.app/articles/20260801-snapchat-no-longer-rewards-ai-spotlight.html) — 2026-08-01 12:02: 人気メッセージアプリを展開するSnapchatが、完全なAI生成コンテンツの優遇を取りやめる方針を示しました。クリエイターエコノミーに大きな影響を与えそうです。
-- [SpaceXの無許可タービン、撤去が数ヶ月先延ばしに](https://ai-tech-times.web.app/articles/20260801-spacex-wont-remove-unpermitted-turbines.html) — 2026-08-01 12:02: SpaceXがxAIのデータセンター向け発電所建設を進める中、既存の無許可タービンの撤去が多くの月を要することが判明しました。
 
 ## 世界のバズ動画TOP3 (2026-08-01)
 - 1位: [Ariana Grande - petal (official music video)](https://www.youtube.com/watch?v=afSgBNwmZrQ)
@@ -75,10 +75,10 @@
 - [アドバンテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスター）の大手メーカーであり、世界トップクラスのシェアを誇る日本の電機企業。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): CPUやGPUなどの半導体チップやAI向けシステムを開発・製造する米国の半導体大手企業。
+- [ティム・クックとは](https://ai-tech-times.web.app/term/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF.html): 米Appleの最高経営責任者（CEO）を務める実業家。スティーブ・ジョブズの後任として同社を率いる。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [Copilotとは](https://ai-tech-times.web.app/term/copilot.html): マイクロソフトが提供するAIアシスタント製品。チャット機能やプログラミング支援など幅広い業務をサポートする。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
-- [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー系ニュースメディアで、スタートアップやIT企業の情報を専門に報じています。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

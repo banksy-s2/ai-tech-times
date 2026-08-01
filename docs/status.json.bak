@@ -1,71 +1,26 @@
 {
- "updated": "2026-08-01 17:05",
- "mode": "フル便",
+ "updated": "2026-08-01 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AI特需の資金調達に異変、貸し手側が金利見直しへ",
-   "path": "/articles/20260801-ai-trade-borrowed-money-repricing.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAIがAI開発のペース調整を訴える中、アマゾンらは推進",
-   "path": "/articles/20260801-openai-spacex-ai-pace-amazon.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Forbes JAPAN：AI人員削減の誤算で元従業員を再雇用",
-   "path": "/articles/20260801-ai-layoffs-rehiring-mistake.html",
+   "title": "香港メディアが報じる日本のロボット産業が後退した背景",
+   "path": "/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html",
    "cat": "日本のAI"
   },
   {
-   "title": "MicrosoftのWord用Copilotを標的にしたAIワームが初めて実証される",
-   "path": "/articles/20260801-microsoft-copilot-word-ai-worm.html",
+   "title": "米Amazon、Claudeの誤用で予算の8倍超を請求された理由",
+   "path": "/articles/20260801-amazon-claude-budget-exceeded.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Tesla、SpaceXとの合併控え中国事業売却の可能性浮上",
-   "path": "/articles/20260801-tesla-china-business-spacex-merger.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "AmazonのAWS施設に新たな戦火、衛星画像が示す被害",
-   "path": "/articles/20260801-amazon-data-centers-war-damage-satellites.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "大谷翔平、左ひざ痛から復帰戦で24号HR含む長打2本",
-   "path": "/articles/20260801-ohtani-returns-with-hr.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米国、新疆ウイグル強制労働で中国43社を規制",
-   "path": "/articles/20260801-us-china-forced-labor-ban-43-companies.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "キオクシア、8000億円自社株買いを発表した理由",
-   "path": "/articles/20260801-kioxia-share-buyback-financial-results.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "キオクシア等の動向要注目、来週の日経平均予想レンジ発表",
-   "path": "/articles/20260801-nikkei-average-forecast-range-august.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [
-  "執筆失敗: 7年半活動が無かったにじさんじVTuber、突如謎の動画を投稿 伝説の“休眠ライ",
-  "執筆失敗: セブン＆アイにソフトバンクなどが出資 AIを店舗効率化に",
-  "執筆失敗: 【オリエンタルランド FY2027 Q1 決算説明会】売上高1,474億円、営業",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 23,
  "gemini": {
-  "used": 137,
+  "used": 140,
   "limit": 200
  }
 }
