@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-02 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-02 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "宮本佳林がClaudeとChatGPTで作った10時間配信システム",
-   "path": "/articles/20260802-miyamoto-karin-ai-streaming-system.html",
-   "cat": "日本のAI"
+   "title": "Reddit株価下落、Googleとの提携解消を検討か",
+   "path": "/articles/20260802-reddit-ceo-questions-google-ai-overviews.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Shift Up新作のMVが「生成AIまる出し」と炎上した理由",
-   "path": "/articles/20260802-stellar-blade-blood-rain-ai-controversy.html",
-   "cat": "日本のAI"
+   "title": "Coinbase株価下落、Q2業績がウォール街予想未達に",
+   "path": "/articles/20260802-coinbase-shares-fall-after-q2-earnings.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "Ariana Grande - petal (official music video)",
-  "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
+  "title": "RAMAYANA - Official Trailer",
+  "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": 2,
  "gemini": {
-  "used": 7,
+  "used": 12,
   "limit": 200
  }
 }
