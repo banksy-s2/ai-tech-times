@@ -24747,5 +24747,83 @@
   "date": "2026-08-01",
   "time": "08:00",
   "path": "/articles/20260801-major-labels-propose-rules-ai-songs-charts.html"
+ },
+ {
+  "title": "IBM Bob、レガシー刷新を自動化へ",
+  "lead": "生成AIによるコード生成が広がる中、IBMはレガシー環境向けの専用パッケージをIBM Bobに追加し、自動化に踏み切りました。",
+  "summary3": [
+   "IBM Bobに新パッケージを追加",
+   "レガシー環境の刷新を自動化",
+   "AI適用が難しい領域を効率化"
+  ],
+  "body": [
+   "生成AIによるコード生成が広く普及する一方で、レガシー環境の刷新は依然としてAIの適用が難しい領域とされてきました。こうした中、米国のIT大手であるIBMは、同社の「IBM Bob」にレガシー環境向けの専用パッケージを追加すると発表しました。",
+   "これまで多くの時間と手間がかかっていたレガシー環境の刷新作業において、生成AIを活用した自動化に踏み込むことで、作業効率の大幅な向上が期待されます。専用パッケージの導入により、これまで自動化が困難だった領域での変革が進む見通しです。",
+   "AIを活用した開発やシステム刷新の領域において、今回のIBMの取り組みは新たな選択肢となります。レガシーシステムの抱える課題解決に向けた今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "IBM",
+   "生成AI",
+   "レガシーシステム"
+  ],
+  "slug": "ibm-bob-legacy-modernization",
+  "people": [],
+  "terms": [
+   {
+    "name": "IBM",
+    "type": "company",
+    "desc": "米国に本拠を置き、コンピュータハードウェアやソフトウェア、ITサービスを提供する世界的な大企業"
+   },
+   {
+    "name": "IBM Bob",
+    "type": "ai",
+    "desc": "IBMが提供する、開発や業務効率化を支援するAI関連のツールや製品"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+  "category": "ai_jp",
+  "date": "2026-08-01",
+  "time": "09:00",
+  "path": "/articles/20260801-ibm-bob-legacy-modernization.html"
+ },
+ {
+  "title": "Perplexity、AIエージェントの暴走を防ぐツール公開",
+  "lead": "ITmedia AI+によると、PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化しました。",
+  "summary3": [
+   "PerplexityがNumbatを公開",
+   "Claude Codeなどを監視",
+   "実行前に暴走を阻止する"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化しました。",
+   "このツール群は、Claude CodeやCodexに組み込んで使用するものです。",
+   "タスクに執着したエージェントの“暴走”を実行前に阻止する役割を果たします。"
+  ],
+  "tags": [
+   "Perplexity",
+   "AIエージェント",
+   "オープンソース"
+  ],
+  "slug": "perplexity-open-source-numbat",
+  "people": [],
+  "terms": [
+   {
+    "name": "Perplexity",
+    "type": "company",
+    "desc": "AIを活用した検索エンジンなどを開発・提供しているアメリカの企業です。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが開発した、開発作業をサポートするAIツールです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+  "category": "ai_jp",
+  "date": "2026-08-01",
+  "time": "09:00",
+  "path": "/articles/20260801-perplexity-open-source-numbat.html"
  }
 ]

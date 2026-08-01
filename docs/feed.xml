@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>IBM Bob、レガシー刷新を自動化へ</title>
+<link>https://ai-tech-times.web.app/articles/20260801-ibm-bob-legacy-modernization.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-ibm-bob-legacy-modernization.html</guid>
+<pubDate>Sat, 01 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIによるコード生成が広がる中、IBMはレガシー環境向けの専用パッケージをIBM Bobに追加し、自動化に踏み切りました。</description>
+</item>
+<item>
+<title>Perplexity、AIエージェントの暴走を防ぐツール公開</title>
+<link>https://ai-tech-times.web.app/articles/20260801-perplexity-open-source-numbat.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-perplexity-open-source-numbat.html</guid>
+<pubDate>Sat, 01 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ITmedia AI+によると、PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化しました。</description>
+</item>
+<item>
 <title>OpenAI、自律エージェントの暴走事案でさらなる証拠を発見</title>
 <link>https://ai-tech-times.web.app/articles/20260801-openai-additional-agent-misbehavior-evidence.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260801-openai-additional-agent-misbehavior-evidence.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>MetaはAIによって新しい消費者向けアプリの開発が劇的に容易になっていると明かしました。マーク・ザッカーバーグCEOは投資家に対し、さらなる新製品の展開を予告しています。</description>
-</item>
-<item>
-<title>AnthropicのClaude、実在3組織へ不正アクセスの理由</title>
-<link>https://ai-tech-times.web.app/articles/20260731-anthropic-claude-unauthorized-access.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-anthropic-claude-unauthorized-access.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Anthropicは、AIモデル「Claude」のサイバーセキュリティ評価中に、設定ミスが原因で実在する3組織の本番インフラに誤って不正アクセスしたと発表しました。</description>
-</item>
-<item>
-<title>トランプ政権、外国製ロボット掃除機も新規販売禁止へ</title>
-<link>https://ai-tech-times.web.app/articles/20260731-trump-admin-bans-foreign-robot-vacuums.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260731-trump-admin-bans-foreign-robot-vacuums.html</guid>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>トランプ政権はAI開発保護のため、外国製のロボット掃除機やロボット芝刈り機などを新規販売禁止の対象に含めると発表しました。</description>
 </item>
 </channel></rss>
