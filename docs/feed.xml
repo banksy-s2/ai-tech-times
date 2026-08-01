@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>香港メディアが報じる日本のロボット産業が後退した背景</title>
+<link>https://ai-tech-times.web.app/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html</guid>
+<pubDate>Sat, 01 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2026年7月27日、香港メディアの香港01が、AI汎用ヒューマノイド本体の開発競争から日本が後退した背景について報じました。</description>
+</item>
+<item>
+<title>米Amazon、Claudeの誤用で予算の8倍超を請求された理由</title>
+<link>https://ai-tech-times.web.app/articles/20260801-amazon-claude-budget-exceeded.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260801-amazon-claude-budget-exceeded.html</guid>
+<pubDate>Sat, 01 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米Amazonが、商品リストの照合作業でAIの使い方を誤り、予算の8倍超にあたる約2.8億円を請求されるトラブルが発生しました。</description>
+</item>
+<item>
 <title>AI特需の資金調達に異変、貸し手側が金利見直しへ</title>
 <link>https://ai-tech-times.web.app/articles/20260801-ai-trade-borrowed-money-repricing.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260801-ai-trade-borrowed-money-repricing.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 01 Aug 2026 11:00:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>グルメインフルエンサーが紹介する飲食店の実態をめぐり、同業者がPR案件だらけであると暴露してバトルに発展しました。証拠の公開には料理研究家のリュウジも反応を見せています。</description>
-</item>
-<item>
-<title>Databricks株が買える？Clear Streetの未公開株プラットフォーム</title>
-<link>https://ai-tech-times.web.app/articles/20260801-clear-street-pre-ipo-databricks.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-clear-street-pre-ipo-databricks.html</guid>
-<pubDate>Sat, 01 Aug 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>フィンテック証券のClear Streetが、企業価値1,880億ドルのAI大手Databricksの株式を皮切りに、未公開株プラットフォームを立ち上げました。</description>
-</item>
-<item>
-<title>IBM Bob、レガシー刷新を自動化へ</title>
-<link>https://ai-tech-times.web.app/articles/20260801-ibm-bob-legacy-modernization.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-ibm-bob-legacy-modernization.html</guid>
-<pubDate>Sat, 01 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIによるコード生成が広がる中、IBMはレガシー環境向けの専用パッケージをIBM Bobに追加し、自動化に踏み切りました。</description>
 </item>
 </channel></rss>
