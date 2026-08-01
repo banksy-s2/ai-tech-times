@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-01 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-01 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "香港メディアが報じる日本のロボット産業が後退した背景",
-   "path": "/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米Amazon、Claudeの誤用で予算の8倍超を請求された理由",
-   "path": "/articles/20260801-amazon-claude-budget-exceeded.html",
-   "cat": "日本のAI"
+   "title": "Appleティム・クック最後の決算、iPhone好調の一方で価格高騰の懸念",
+   "path": "/articles/20260801-apple-q3-2026-earnings-call.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Sony acknowledges backlash, “cautiously”"
+ ],
  "pv_today": 23,
  "gemini": {
-  "used": 140,
+  "used": 145,
   "limit": 200
  }
 }

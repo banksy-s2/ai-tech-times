@@ -25987,5 +25987,39 @@
   "date": "2026-08-01",
   "time": "19:01",
   "path": "/articles/20260801-apple-q3-2026-earnings-call.html"
+ },
+ {
+  "title": "ABEMA番組でYouTuberが告白、案件詐欺の手口",
+  "lead": "YouTuberが案件詐欺によりほぼ全財産を失ったことを告白し、日本の詐欺事情とその巧妙な手口についてABEMAの番組が報じました。",
+  "summary3": [
+   "YouTuberが案件詐欺の被害を告白",
+   "ほぼ全財産を失った手口を明かす",
+   "日本の詐欺事情に注目が集まる"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする今回の話題は、YouTuberによる「案件詐欺」の告白についてです。インターネット上で活動するインフルエンサーが、巧妙な手口の詐欺によって財産を失うという深刻な被害が取り上げられています。",
+   "ABEMAの報道によると、被害に遭ったYouTuberは「案件詐欺で、ほぼ全財産を失った...」と自身の経験を告白しました。日本は詐欺天国ではないかという疑問の声も上がる中、その巧妙な手口の全貌や背景について注目が集まっています。",
+   "インフルエンサーを狙った悪質な案件詐欺は、現代のデジタル社会における大きなリスクの一つです。今後の被害を防ぐためにも、どのような手口が存在するのか、正確な情報を把握し警戒することが求められます。"
+  ],
+  "tags": [
+   "YouTuber",
+   "案件詐欺",
+   "ABEMA"
+  ],
+  "slug": "youtuber-fraud-abema-report",
+  "people": [],
+  "terms": [
+   {
+    "name": "ABEMA",
+    "type": "company",
+    "desc": "サイバーエージェントとテレビ朝日が共同出資して運営する日本の新しい未来のテレビ局。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VSS1OVFpfTlFCSWFETjlmWUJZYndOMXNnalBrckd4YUJUS0ZIX3JGM2xsRF9uaHVaUGhQZ1JKdmx0eEUxSzFITG83Z3gybzkyQkQ4MGRoMjd4UQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-01",
+  "time": "20:00",
+  "path": "/articles/20260801-youtuber-fraud-abema-report.html"
  }
 ]
