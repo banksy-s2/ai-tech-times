@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-01 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-01 15:10",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "米財務省が円買い介入か、なぜ協調なら異例なのか",
-   "path": "/articles/20260801-us-treasury-yen-buying-intervention-2.html",
-   "cat": "時事・世界"
+   "title": "牧野フライス製作所、日本産業推進機構からの買収提案の検討を終了",
+   "path": "/articles/20260801-makino-milling-acquisition-proposal-ended.html",
+   "cat": "日本企業"
   },
   {
-   "title": "米トランプ政権、イラン攻撃計画の背景",
-   "path": "/articles/20260801-us-trump-administration-iran-attack-plan.html",
-   "cat": "時事・世界"
+   "title": "積水化学工業、1Q営業益255億円で過去最高──原料高をどう克服したか",
+   "path": "/articles/20260801-sekisui-chemical-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
  "notes": [],
- "pv_today": 14,
+ "pv_today": 18,
  "gemini": {
-  "used": 107,
+  "used": 113,
   "limit": 200
  }
 }

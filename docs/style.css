@@ -91,6 +91,8 @@ article p{margin:16px 0;font-size:1.02rem}
 #pbox .pnote{margin-top:8px;font-size:.72rem;color:var(--dim)}
 footer{border-top:1px solid var(--border);margin-top:52px;padding:26px 0;color:var(--dim);font-size:.8rem;text-align:center}
 footer a{color:var(--muted)}
+.book-promo{margin-bottom:14px;padding:10px 14px;border:1px solid var(--border);border-radius:8px;display:inline-block;font-size:.82rem;color:var(--muted)}
+.book-promo a{color:var(--accent,#7cc4ff);text-decoration:underline}
 .back{display:inline-block;margin:20px 0;font-family:var(--mono);font-size:.82rem;color:var(--muted)}
 .back:hover{color:var(--amber)}
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}

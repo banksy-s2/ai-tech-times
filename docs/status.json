@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-01 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-01 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ソニーG、27年3月期営業利益を上方修正",
-   "path": "/articles/20260801-sony-group-upward-revision-2027.html",
-   "cat": "株式投資(日本)"
+   "title": "Google EarthのAI画像編集ツール、公開からわずか1日で終了した理由",
+   "path": "/articles/20260801-google-earth-ai-tool-ended-in-one-day.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
  "notes": [
-  "執筆失敗: デンソー株価、一時10.8%安 4〜6月期利益が市場予想下回る - 日本経済新聞"
+  "執筆失敗: AI labs want to pump the brakes, but Ama"
  ],
- "pv_today": 15,
+ "pv_today": 20,
  "gemini": {
-  "used": 110,
+  "used": 116,
   "limit": 200
  }
 }
