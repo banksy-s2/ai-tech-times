@@ -1,21 +1,15 @@
 {
- "updated": "2026-08-01 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "米財務省通知と連日介入か、円相場157円20銭台に",
-   "path": "/articles/20260801-exchange-rate-intervention-july-31.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-02 00:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
  "notes": [],
- "pv_today": 28,
+ "pv_today": null,
  "gemini": {
-  "used": 177,
+  "used": 3,
   "limit": 200
  }
 }

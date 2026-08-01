@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-01 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-02 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [宮本佳林がClaudeとChatGPTで作った10時間配信システム](https://ai-tech-times.web.app/articles/20260802-miyamoto-karin-ai-streaming-system.html) — 2026-08-02 01:00: コードが書けないアイドルとして知られる宮本佳林が、ClaudeとChatGPTを活用して10時間配信のシステムを独力で作り上げた経緯をブログで公開しました。
+- [Shift Up新作のMVが「生成AIまる出し」と炎上した理由](https://ai-tech-times.web.app/articles/20260802-stellar-blade-blood-rain-ai-controversy.html) — 2026-08-02 01:00: Shift Upが公開した『Stellar Blade: BLOOD RAIN』のミュージックビデオに対し、生成AIの利用を疑う声が殺到し、開発者の弁解も受け入れられない事態となっています。
 - [米財務省通知と連日介入か、円相場157円20銭台に](https://ai-tech-times.web.app/articles/20260801-exchange-rate-intervention-july-31.html) — 2026-08-01 23:00: 7月31日のニューヨーク外国為替市場で、対ドルの円相場が一時1ドル＝157円20銭台に上昇しました。米財務省による異例の通知も伝えられています。
 - [中国進出日系企業のおよそ6割が満足、なぜ税関審査長期化か](https://ai-tech-times.web.app/articles/20260801-china-japanese-companies-customs-delay.html) — 2026-08-01 22:01: 中国に進出する日系企業を対象にした調査で、事業環境に満足している割合がおよそ6割に達する一方、輸出規制強化に伴う税関審査の長期化など深刻な影響が出ていることが明らかになりました。
 - [キーウで9人死亡、モスクワの弾道ミサイル攻撃激化のなぜ](https://ai-tech-times.web.app/articles/20260801-kyiv-strikes-and-container-ship.html) — 2026-08-01 22:01: BBC Worldによると、ウクライナの首都キーウへの攻撃で9人が死亡しました。モスクワによる致命的な弾道ミサイル攻撃がエスカレートする中で発生した事態についてお伝えします。
@@ -40,15 +42,13 @@
 - [香港メディアが報じる日本のロボット産業が後退した背景](https://ai-tech-times.web.app/articles/20260801-hong-kong-media-reports-on-japanese-robot-industry.html) — 2026-08-01 18:00: 2026年7月27日、香港メディアの香港01が、AI汎用ヒューマノイド本体の開発競争から日本が後退した背景について報じました。
 - [米Amazon、Claudeの誤用で予算の8倍超を請求された理由](https://ai-tech-times.web.app/articles/20260801-amazon-claude-budget-exceeded.html) — 2026-08-01 18:00: 米Amazonが、商品リストの照合作業でAIの使い方を誤り、予算の8倍超にあたる約2.8億円を請求されるトラブルが発生しました。
 - [AI特需の資金調達に異変、貸し手側が金利見直しへ](https://ai-tech-times.web.app/articles/20260801-ai-trade-borrowed-money-repricing.html) — 2026-08-01 17:05: AI関連の取引が借入金に依存する中、貸し手側が条件の再設定を始めています。この動向が市場に与える影響についてお伝えします。
-- [OpenAIがAI開発のペース調整を訴える中、アマゾンらは推進](https://ai-tech-times.web.app/articles/20260801-openai-spacex-ai-pace-amazon.html) — 2026-08-01 17:05: 長年AI開発を加速させてきたOpenAIのサム・オルトマンCEOが、業界全体のペース調整の必要性に言及しました。一方で、アマゾンやスペースXは依然として開発を推し進めています。
-- [Forbes JAPAN：AI人員削減の誤算で元従業員を再雇用](https://ai-tech-times.web.app/articles/20260801-ai-layoffs-rehiring-mistake.html) — 2026-08-01 17:05: AIブームを理由に従業員を性急に解雇した企業が、元従業員の再雇用を行う動きが米国で相次いでいます。
 
 ## 世界のバズ動画TOP3 (2026-08-02)
 - 1位: [Ariana Grande - petal (official music video)](https://www.youtube.com/watch?v=afSgBNwmZrQ)
 - 2位: [RAMAYANA - Official Trailer](https://www.youtube.com/watch?v=1zip1rNaNYs)
 - 3位: [KATSEYE - Animal (on the dance floor)](https://www.youtube.com/watch?v=e6iAAAObz3c)
 
-## AI用語事典 (全562語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全564語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、広告やクラウドサービス、オペレーティングシステムなどを手掛けるアメリカの巨大IT企業。
@@ -63,11 +63,11 @@
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務め、近年はX（旧Twitter）を買収して経営にあたる著名な実業家。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): 米OpenAIが開発した対話型の生成AIモデル。自然な対話や文章・レシピ作成など多様なタスクをこなす。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [ティム・クックとは](https://ai-tech-times.web.app/term/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF.html): 米アップルの最高経営責任者（CEO）。故スティーブ・ジョブズ氏の後任として2011年から同社を率いる。
 - [PayPayとは](https://ai-tech-times.web.app/term/paypay.html): ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。
