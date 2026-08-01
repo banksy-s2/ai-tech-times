@@ -25458,5 +25458,49 @@
   "date": "2026-08-01",
   "time": "15:10",
   "path": "/articles/20260801-sekisui-chemical-fy2026-q1-results.html"
+ },
+ {
+  "title": "Google EarthのAI画像編集ツール、公開からわずか1日で終了した理由",
+  "lead": "Googleは、ユーザーがテキストプロンプトを使って衛星画像をAIで編集できるGoogle Earthの新機能を公開しましたが、わずか1日で提供を終了しました。",
+  "summary3": [
+   "Google Earthに新機能が追加",
+   "テキストで衛星画像を編集可能",
+   "公開からわずか1日で終了"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けするニュースです。Googleは木曜日に、ユーザーがテキストプロンプトを使用して衛星画像をAIで編集できるGoogle Earthの新機能をリリースしました。",
+   "しかし、この機能は現実世界のAIディープフェイクをテキストプロンプトで簡単に作成できてしまうものでした。例えば、デジタル・ディギングのヘンーク・ファン・エス氏は、メキシコ国境付近に難民などを追加する画像を意図的に生成しました。",
+   "このような実用上の懸念からか、同社はこの機能を公開したその日のうちに終了させる判断を下しました。AI技術の進化と倫理的な課題を改めて浮き彫りにする事例となりました。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "Google Earth"
+  ],
+  "slug": "google-earth-ai-tool-ended-in-one-day",
+  "people": [
+   {
+    "name": "ヘンーク・ファン・エス",
+    "bio": "デジタル・ディギングに所属し、画像生成AIの検証などを行う専門家として知られています。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、検索エンジンやクラウドサービスなどを広く展開する世界的なテクノロジー企業です。"
+   },
+   {
+    "name": "Google Earth",
+    "type": "ai",
+    "desc": "衛星写真や地理データを組み合わせて地球全体を3D表示し、閲覧できるGoogleのサービスです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "category": "ai",
+  "date": "2026-08-01",
+  "time": "16:01",
+  "path": "/articles/20260801-google-earth-ai-tool-ended-in-one-day.html"
  }
 ]

@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-01 15:10",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-01 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "牧野フライス製作所、日本産業推進機構からの買収提案の検討を終了",
-   "path": "/articles/20260801-makino-milling-acquisition-proposal-ended.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "積水化学工業、1Q営業益255億円で過去最高──原料高をどう克服したか",
-   "path": "/articles/20260801-sekisui-chemical-fy2026-q1-results.html",
-   "cat": "日本企業"
+   "title": "Google EarthのAI画像編集ツール、公開からわずか1日で終了した理由",
+   "path": "/articles/20260801-google-earth-ai-tool-ended-in-one-day.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [],
- "pv_today": 18,
+ "notes": [
+  "執筆失敗: AI labs want to pump the brakes, but Ama"
+ ],
+ "pv_today": 20,
  "gemini": {
-  "used": 113,
+  "used": 116,
   "limit": 200
  }
 }
