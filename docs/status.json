@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-01 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-01 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "米財務省が円買い介入か、なぜ協調なら異例なのか",
-   "path": "/articles/20260801-us-treasury-yen-buying-intervention-2.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米トランプ政権、イラン攻撃計画の背景",
-   "path": "/articles/20260801-us-trump-administration-iran-attack-plan.html",
-   "cat": "時事・世界"
+   "title": "ソニーG、27年3月期営業利益を上方修正",
+   "path": "/articles/20260801-sony-group-upward-revision-2027.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [],
- "pv_today": 14,
+ "notes": [
+  "執筆失敗: デンソー株価、一時10.8%安 4〜6月期利益が市場予想下回る - 日本経済新聞"
+ ],
+ "pv_today": 15,
  "gemini": {
-  "used": 107,
+  "used": 110,
   "limit": 200
  }
 }
