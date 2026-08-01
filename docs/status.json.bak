@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-01 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-01 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Appleティム・クック最後の決算、iPhone好調の一方で価格高騰の懸念",
-   "path": "/articles/20260801-apple-q3-2026-earnings-call.html",
-   "cat": "シリコンバレー最速"
+   "title": "ABEMA番組でYouTuberが告白、案件詐欺の手口",
+   "path": "/articles/20260801-youtuber-fraud-abema-report.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [
-  "執筆失敗: Sony acknowledges backlash, “cautiously”"
- ],
+ "notes": [],
  "pv_today": 23,
  "gemini": {
-  "used": 145,
+  "used": 147,
   "limit": 200
  }
 }
