@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-01 22:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-01 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "中国進出日系企業のおよそ6割が満足、なぜ税関審査長期化か",
-   "path": "/articles/20260801-china-japanese-companies-customs-delay.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "キーウで9人死亡、モスクワの弾道ミサイル攻撃激化のなぜ",
-   "path": "/articles/20260801-kyiv-strikes-and-container-ship.html",
-   "cat": "時事・世界"
+   "title": "米財務省通知と連日介入か、円相場157円20銭台に",
+   "path": "/articles/20260801-exchange-rate-intervention-july-31.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
  "notes": [],
- "pv_today": 27,
+ "pv_today": 28,
  "gemini": {
-  "used": 173,
+  "used": 177,
   "limit": 200
  }
 }
