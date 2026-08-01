@@ -1,71 +1,26 @@
 {
- "updated": "2026-08-01 21:05",
- "mode": "フル便",
+ "updated": "2026-08-01 22:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Smallest.ai、1300万ドル調達の超高速音声AI",
-   "path": "/articles/20260801-smallest-ai-raises-13m-voice-ai.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "LinkedInが「AIっぽすぎる」投稿の報告ボタンを追加へ",
-   "path": "/articles/20260801-linkedin-adds-ai-slop-button.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "EU、AI生成物に表示義務化へ！違反で65億円の制裁金",
-   "path": "/articles/20260801-eu-ai-regulation-display-obligation.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "アップルCEOティム・クック氏の動向と市場の5つの重要ポイント",
-   "path": "/articles/20260801-morning-squawk-five-key-things-2026.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Claudeが悪意あるコードを公開し3社を攻撃",
-   "path": "/articles/20260801-claude-malicious-code-attack.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "マックスむらいが投資系YouTuberへ、表舞台に返り咲くのか",
-   "path": "/articles/20260801-max-murai-investment-youtuber.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "熊本県：地震で36人死亡・住宅被害3400超、今後さらに増える恐れ",
-   "path": "/articles/20260801-kumamoto-earthquake-damage-update.html",
+   "title": "中国進出日系企業のおよそ6割が満足、なぜ税関審査長期化か",
+   "path": "/articles/20260801-china-japanese-companies-customs-delay.html",
    "cat": "時事・世界"
   },
   {
-   "title": "円相場、急激な円高に動く 日米の協調対応か",
-   "path": "/articles/20260801-yen-rate-fluctuation-us-japan.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "東京エレクトロン株価急伸、「盟主」健在の理由",
-   "path": "/articles/20260801-tokyo-electron-shares-surge.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "セブン＆アイにソフトバンクなど3000億円出資、AI活用へ",
-   "path": "/articles/20260801-seven-and-i-softbank-investment-ai.html",
-   "cat": "日本企業"
+   "title": "キーウで9人死亡、モスクワの弾道ミサイル攻撃激化のなぜ",
+   "path": "/articles/20260801-kyiv-strikes-and-container-ship.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [
-  "執筆失敗: 宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
-  "執筆失敗: 中国進出の日系企業「輸出規制強化の中 税関審査が長期化」",
-  "執筆失敗: 【オリエンタルランド FY2027 Q1 決算説明会】売上高1,474億円、営業",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 25,
+ "notes": [],
+ "pv_today": 27,
  "gemini": {
-  "used": 168,
+  "used": 173,
   "limit": 200
  }
 }
