@@ -27179,5 +27179,44 @@
   "date": "2026-08-02",
   "time": "07:02",
   "path": "/articles/20260802-softbank-group-earnings-schedule.html"
+ },
+ {
+  "title": "Fenix Flexinの「Rubberz」がHot 100の58位にランクインした理由",
+  "lead": "ロサンゼルスのラップデュオ「Shoreline Mafia」のメンバーとして知られるFenix Flexinのソロ楽曲「Rubberz」が、ビルボードHot 100の58位にランクインしました。しかし、その楽曲の起源を巡って疑問の声が上がっています。",
+  "summary3": [
+   "Fenix Flexinの楽曲が58位にランクイン",
+   "ソロ曲「Rubberz」の起源に疑問の声",
+   "AIによる制作ではないかと広く憶測呼ぶ"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、ロサンゼルスを拠点とするラップデュオ「Shoreline Mafia」のメンバーとして知られるFenix Flexinが、ソロ楽曲「Rubberz」でヒットを記録しました。この楽曲はビルボードHot 100で58位まで順位を上げています。",
+   "しかし、楽曲がチャートを上昇してほぼ即座に、その起源について疑問が投げかけられる事態となりました。多くの人々の間では、この楽曲が大部分においてAIに関連するものなのではないかという憶測が広がっています。",
+   "現時点で楽曲の制作背景に関する詳細な真偽は明らかになっていませんが、音楽業界とAI技術の関わり方において新たな議論を呼ぶ事例となっています。"
+  ],
+  "tags": [
+   "AI",
+   "音楽",
+   "Billboard"
+  ],
+  "slug": "fenix-flexin-rubberz-billboard-hot-100",
+  "people": [
+   {
+    "name": "Fenix Flexin",
+    "bio": "ロサンゼルスのラップデュオ「Shoreline Mafia」のメンバーとして知られるラッパー。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Shoreline Mafia",
+    "type": "company",
+    "desc": "アメリカ・ロサンゼルスを拠点に活動する人気のヒップホップ・ラップデュオ。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+  "category": "ai",
+  "date": "2026-08-02",
+  "time": "08:00",
+  "path": "/articles/20260802-fenix-flexin-rubberz-billboard-hot-100.html"
  }
 ]
