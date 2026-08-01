@@ -1170,7 +1170,7 @@
    "id": "1zip1rNaNYs",
    "title": "RAMAYANA - Official Trailer",
    "channel": "Sony Pictures Entertainment",
-   "views": 15768863,
+   "views": 15853997,
    "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
    "thumb": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
    "regions": [
@@ -1185,7 +1185,7 @@
    "id": "afSgBNwmZrQ",
    "title": "Ariana Grande - petal (official music video)",
    "channel": "ArianaGrandeVevo",
-   "views": 5413221,
+   "views": 5553548,
    "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
    "thumb": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
    "regions": [
@@ -1200,7 +1200,7 @@
    "id": "PRp5Y543LN0",
    "title": "Exploring My Abandoned Minecraft Server",
    "channel": "MrBeast Gaming",
-   "views": 2446277,
+   "views": 3305132,
    "url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
    "thumb": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
    "regions": [
@@ -1215,7 +1215,7 @@
    "id": "JIqKjjTfOxM",
    "title": "Korean Kanakaraju Trailer | Varun Tej | Ritika Nayak | Satya | Merlapaka Gandhi | UV Creations",
    "channel": "UV Creations",
-   "views": 1116815,
+   "views": 1151645,
    "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM",
    "thumb": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
    "regions": [
@@ -1230,7 +1230,7 @@
    "id": "vqlHSPlRDbs",
    "title": "Hero Valkyrie: A Hero Written in Stone",
    "channel": "Clash Royale",
-   "views": 799703,
+   "views": 926778,
    "url": "https://www.youtube.com/watch?v=vqlHSPlRDbs",
    "thumb": "https://i.ytimg.com/vi/vqlHSPlRDbs/hqdefault.jpg",
    "regions": [
@@ -1245,7 +1245,7 @@
    "id": "e6iAAAObz3c",
    "title": "KATSEYE - Animal (on the dance floor)",
    "channel": "KATSEYE",
-   "views": 2683433,
+   "views": 2735349,
    "url": "https://www.youtube.com/watch?v=e6iAAAObz3c",
    "thumb": "https://i.ytimg.com/vi/e6iAAAObz3c/hqdefault.jpg",
    "regions": [
@@ -1259,7 +1259,7 @@
    "id": "65mrBBZbSbo",
    "title": "Sardar 2 Teaser | Karthi | SJ Suryah | Malavika Mohanan | Ashika Ranganath | PS Mithran | Sam CS",
    "channel": "Sony Music South",
-   "views": 1980535,
+   "views": 2001297,
    "url": "https://www.youtube.com/watch?v=65mrBBZbSbo",
    "thumb": "https://i.ytimg.com/vi/65mrBBZbSbo/hqdefault.jpg",
    "regions": [
@@ -1273,7 +1273,7 @@
    "id": "Cv1AXnX8DjU",
    "title": "Five Nights at Freddy's: Secret of the Mimic Song - It Doesn't Matter - The Living Tombstone",
    "channel": "The Living Tombstone",
-   "views": 863929,
+   "views": 892739,
    "url": "https://www.youtube.com/watch?v=Cv1AXnX8DjU",
    "thumb": "https://i.ytimg.com/vi/Cv1AXnX8DjU/hqdefault.jpg",
    "regions": [
@@ -1284,10 +1284,24 @@
   },
   {
    "rank": 9,
+   "id": "syuWAhgpcuA",
+   "title": "I Opened My Own GAS STATION.. (VR)",
+   "channel": "Foltyn",
+   "views": 734865,
+   "url": "https://www.youtube.com/watch?v=syuWAhgpcuA",
+   "thumb": "https://i.ytimg.com/vi/syuWAhgpcuA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "VRの世界でガソリンスタンドを開業したようです。(24文字)"
+  },
+  {
+   "rank": 10,
    "id": "FrL13EvDSIM",
    "title": "They killed the greatest franchise of all time..",
    "channel": "Asmongold TV  ",
-   "views": 581679,
+   "views": 629323,
    "url": "https://www.youtube.com/watch?v=FrL13EvDSIM",
    "thumb": "https://i.ytimg.com/vi/FrL13EvDSIM/hqdefault.jpg",
    "regions": [
@@ -1295,20 +1309,6 @@
     "GB"
    ],
    "comment": "人気ゲームシリーズの現状について語る動画かもしれません。"
-  },
-  {
-   "rank": 10,
-   "id": "vSPeRzSiMbM",
-   "title": "Ramayana Trailer Backlash: IT'S NOT ALL HATE!",
-   "channel": "Tried&Refused Productions.",
-   "views": 162490,
-   "url": "https://www.youtube.com/watch?v=vSPeRzSiMbM",
-   "thumb": "https://i.ytimg.com/vi/vSPeRzSiMbM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "映画『ラーマヤナ』の予告編に対する様々な反応や意見について語る動画のようです。(29字)"
   }
  ]
 }

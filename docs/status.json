@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-02 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-02 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "【2028年施行】金融所得の社会保険料算定",
-   "path": "/articles/20260802-financial-income-social-insurance-2028.html",
-   "cat": "株式投資(日本)"
+   "title": "ソシオネクス、信越化、富士通の決算マイナス・インパクト",
+   "path": "/articles/20260802-earnings-negative-impact-stocks-prime.html",
+   "cat": "日本企業"
   },
   {
-   "title": "日本経済新聞：半導体株の売り一巡感を示す米ファンド",
-   "path": "/articles/20260802-semiconductor-stocks-us-fund.html",
-   "cat": "株式投資(日本)"
+   "title": "【住友商事（8053）】場中の決算発表で株価急伸、1,700円をうかがう展開に",
+   "path": "/articles/20260802-sumitomo-corp-earnings-rally.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [],
- "pv_today": 10,
+ "pv_today": 14,
  "gemini": {
-  "used": 23,
+  "used": 26,
   "limit": 200
  }
 }
