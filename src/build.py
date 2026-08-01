@@ -143,6 +143,8 @@ article p{margin:16px 0;font-size:1.02rem}
 #pbox .pnote{margin-top:8px;font-size:.72rem;color:var(--dim)}
 footer{border-top:1px solid var(--border);margin-top:52px;padding:26px 0;color:var(--dim);font-size:.8rem;text-align:center}
 footer a{color:var(--muted)}
+.book-promo{margin-bottom:14px;padding:10px 14px;border:1px solid var(--border);border-radius:8px;display:inline-block;font-size:.82rem;color:var(--muted)}
+.book-promo a{color:var(--accent,#7cc4ff);text-decoration:underline}
 .back{display:inline-block;margin:20px 0;font-family:var(--mono);font-size:.82rem;color:var(--muted)}
 .back:hover{color:var(--amber)}
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
@@ -225,7 +227,8 @@ gtag('config', 'G-V2T0G11PSH');
 <main class="wrap">
 {body}
 </main>
-<footer><div class="wrap">© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
+<footer><div class="wrap"><div class="book-promo">📘 編集部オーナーの実録本『<a href="https://zenn.dev/aidecodelabjp/books/ai-automation-jitsuroku">実録・個人AI自動化 ─ 月数ドルで回し続ける5つのレシピと事故対応</a>』(Zenn・500円/1章無料) — このサイトの「毎時無人更新」の作り方も収録。</div>
+© 2026 {SITE_NAME} — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
 <a href="{BASE_URL}/digest/">分野別まとめ</a> / <a href="{BASE_URL}/weekly.html">週刊まとめ</a> / <a href="{BASE_URL}/term/">AI用語事典</a> / <a href="{BASE_URL}/buzz/">バズ動画殿堂</a> / <a href="{BASE_URL}/archive/">アーカイブ</a> / <a href="{BASE_URL}/about.html">このサイトについて</a> / <a href="{BASE_URL}/feed.xml">RSS</a></div></footer>
 </body>
 </html>"""
