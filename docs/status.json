@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-01 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-01 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Databricks株が買える？Clear Streetの未公開株プラットフォーム",
-   "path": "/articles/20260801-clear-street-pre-ipo-databricks.html",
-   "cat": "シリコンバレー最速"
+   "title": "リュウジも反応！グルメインフルエンサーPR案件暴露バトルの真相",
+   "path": "/articles/20260801-gourmet-influencer-pr-battle.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [
-  "執筆失敗: New York sues Kalshi for allegedly runni"
- ],
- "pv_today": 7,
+ "notes": [],
+ "pv_today": 11,
  "gemini": {
-  "used": 74,
+  "used": 78,
   "limit": 200
  }
 }

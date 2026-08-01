@@ -24825,5 +24825,45 @@
   "date": "2026-08-01",
   "time": "09:00",
   "path": "/articles/20260801-perplexity-open-source-numbat.html"
+ },
+ {
+  "title": "Databricks株が買える？Clear Streetの未公開株プラットフォーム",
+  "lead": "フィンテック証券のClear Streetが、企業価値1,880億ドルのAI大手Databricksの株式を皮切りに、未公開株プラットフォームを立ち上げました。",
+  "summary3": [
+   "Clear Streetが未公開株基盤を開始",
+   "第一弾としてDatabricks株を提供",
+   "投資家による後期段階の参加を促進"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回のニュースは、金融市場における新たな動きについてです。CNBC Techの報道によると、フィンテック証券会社であるClear Streetが、新たにプライベート・マーケット（未公開株）プラットフォームを立ち上げました。",
+   "このプラットフォームの最初の取り組みとして、企業価値が1,880億ドルにのぼるAI大手のDatabricks（データブリックス）の株式が投資家に提供されることになります。これにより、投資家たちはこれまでアクセスが難しかった未公開の段階にある有力なスタートアップ企業への投資機会を得ることが可能になります。",
+   "Clear Streetによる今回のプラットフォーム開設は、投資家に対してより多くの後期段階のスタートアップ企業へのアクセス手段を提供することを目的としています。今後の展開や市場への影響に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Clear Street",
+   "Databricks",
+   "AI",
+   "未公開株"
+  ],
+  "slug": "clear-street-pre-ipo-databricks",
+  "people": [],
+  "terms": [
+   {
+    "name": "Clear Street",
+    "type": "company",
+    "desc": "金融サービスやテクノロジーを提供する米国のフィンテック証券会社です。"
+   },
+   {
+    "name": "Databricks",
+    "type": "company",
+    "desc": "ビッグデータ分析や人工知能の開発基盤を提供する米国の主要なテクノロジー企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+  "category": "silicon",
+  "date": "2026-08-01",
+  "time": "10:00",
+  "path": "/articles/20260801-clear-street-pre-ipo-databricks.html"
  }
 ]
