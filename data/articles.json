@@ -26531,5 +26531,78 @@
   "date": "2026-08-02",
   "time": "01:00",
   "path": "/articles/20260802-stellar-blade-blood-rain-ai-controversy.html"
+ },
+ {
+  "title": "Reddit株価下落、Googleとの提携解消を検討か",
+  "lead": "株価が下落する中、Redditの最高経営責任者がGoogleのAI機能の価値に疑問を呈し、ライセンス契約の終了を視野に入れています。",
+  "summary3": [
+   "Redditの株価が下落傾向にある",
+   "CEOがGoogleのAI機能を疑問視",
+   "ライセンス契約終了を検討の可能性"
+  ],
+  "body": [
+   "海外メディア「Ars Technica」の報道によると、株価が下落しているRedditが、Googleとの間で結んでいるライセンス契約の終了を依然として検討している可能性があります。",
+   "Redditの最高経営責任者は、Googleが提供するAI機能についてその価値に疑問を呈しており、両社間の提携関係の行く末に注目が集まっています。",
+   "今後の動向次第では、情報の流通やAI開発におけるデータ利用のあり方に大きな影響を与える可能性があり、関係者の間で議論が続いています。"
+  ],
+  "tags": [
+   "Reddit",
+   "Google",
+   "AI"
+  ],
+  "slug": "reddit-ceo-questions-google-ai-overviews",
+  "people": [],
+  "terms": [
+   {
+    "name": "Reddit",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界中のユーザーが投稿や意見交換を行う巨大なソーシャルニュース・掲示板サイトを運営する企業。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+  "category": "silicon",
+  "date": "2026-08-02",
+  "time": "02:00",
+  "path": "/articles/20260802-reddit-ceo-questions-google-ai-overviews.html"
+ },
+ {
+  "title": "Coinbase株価下落、Q2業績がウォール街予想未達に",
+  "lead": "米暗号資産取引所大手Coinbaseが発表した第2四半期決算は、売上高と利益の両方でウォール街の事前予想を下回る結果となりました。",
+  "summary3": [
+   "Coinbaseの第2四半期決算が発表される",
+   "売上高と利益が3四半期連続で予想を下回る",
+   "業績の予想未達を受け株価が下落する展開に"
+  ],
+  "body": [
+   "米CNBC Techによると、米国の暗号資産取引所大手Coinbase（コインベース）が木曜日に発表した第2四半期決算は、市場の期待に届かない厳しい内容となりました。",
+   "今回の報告により、同社の決算は売上高と利益の両面でウォール街の事前予想を3四半期連続で下回る形となりました。",
+   "この低調な業績発表を受けて投資家の懸念が広がり、Coinbaseの株価は下落する展開となっています。"
+  ],
+  "tags": [
+   "Coinbase",
+   "暗号資産",
+   "決算"
+  ],
+  "slug": "coinbase-shares-fall-after-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "Coinbase",
+    "type": "company",
+    "desc": "米国を拠点とし、暗号資産の売買や管理サービスを提供する大手暗号資産取引所運営企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+  "category": "silicon",
+  "date": "2026-08-02",
+  "time": "02:00",
+  "path": "/articles/20260802-coinbase-shares-fall-after-q2-earnings.html"
  }
 ]

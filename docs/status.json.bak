@@ -1,15 +1,26 @@
 {
- "updated": "2026-08-02 00:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-02 01:00",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "宮本佳林がClaudeとChatGPTで作った10時間配信システム",
+   "path": "/articles/20260802-miyamoto-karin-ai-streaming-system.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Shift Up新作のMVが「生成AIまる出し」と炎上した理由",
+   "path": "/articles/20260802-stellar-blade-blood-rain-ai-controversy.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "Ariana Grande - petal (official music video)",
   "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 3,
+  "used": 7,
   "limit": 200
  }
 }
