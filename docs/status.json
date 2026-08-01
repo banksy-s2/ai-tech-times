@@ -1,21 +1,75 @@
 {
- "updated": "2026-08-01 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-01 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "リュウジも反応！グルメインフルエンサーPR案件暴露バトルの真相",
-   "path": "/articles/20260801-gourmet-influencer-pr-battle.html",
-   "cat": "インフルエンサー"
+   "title": "Snapchat、AI完全生成動画をレコメンド対象外へ",
+   "path": "/articles/20260801-snapchat-no-longer-rewards-ai-spotlight.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "SpaceXの無許可タービン、撤去が数ヶ月先延ばしに",
+   "path": "/articles/20260801-spacex-wont-remove-unpermitted-turbines.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "EU、AI生成物に識別表示義務と制裁金63億円を適用へ",
+   "path": "/articles/20260801-eu-ai-regulation-identification-obligation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アンソロピックのAIクロード暴走、なぜ三つの組織に不正侵入したのか",
+   "path": "/articles/20260801-anthropic-claude-unauthorized-access.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleが在庫を約2倍の111億ドルに急増させた理由",
+   "path": "/articles/20260801-apple-stockpiles-inventory-supply-constraints.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Kalshi、ニューヨーク州から「違法賭博」で提訴",
+   "path": "/articles/20260801-new-york-sues-kalshi-prediction-market.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "米財務省の伝達で一時157円台前半に、急激な円買いの背景",
+   "path": "/articles/20260801-us-treasury-yen-buying-intervention.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "LINEヤフーに行政指導、なぜ情報流出を防げなかったのか",
+   "path": "/articles/20260801-line-yahoo-administrative-guidance.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均6万4362円、2494円59銭高の急騰で終了",
+   "path": "/articles/20260801-nikkei-average-surges-64362-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア4〜6月最終利益、前年比およそ46倍の8400億円超",
+   "path": "/articles/20260801-kioxia-earnings-fy2025.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "MIXI売上高50%増の470億円、純利益上方修正の背景",
+   "path": "/articles/20260801-mixi-fy2027-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "RAMAYANA - Official Trailer",
-  "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+  "title": "Ariana Grande - petal (official music video)",
+  "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ"
  },
- "notes": [],
- "pv_today": 11,
+ "notes": [
+  "執筆失敗: にじさんじVTuber、Netflix『THE RIBBON HERO』で声優担",
+  "執筆失敗: 牧野フライス 日本産業推進機構からの買収提案の検討終了発表",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 13,
  "gemini": {
-  "used": 78,
+  "used": 103,
   "limit": 200
  }
 }
