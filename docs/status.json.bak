@@ -1,15 +1,50 @@
 {
- "updated": "2026-08-03 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-03 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "四季報オンライン：8月7日に決算発表を予定している企業リスト",
-   "path": "/articles/20260803-earnings-announcement-list-august-7.html",
-   "cat": "日本企業"
+   "title": "Fender CEOの発言が物議、バンド仲間は「アナログAI」？",
+   "path": "/articles/20260803-fender-ceo-analog-ai-comments.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "神戸経済ニュース：3〜9日の予定と神戸周遊フェス",
-   "path": "/articles/20260803-kobe-economy-schedule-and-events.html",
+   "title": "EU、AI生成物に表示義務化へ 最大27億円の制裁金",
+   "path": "/articles/20260803-eu-ai-generated-content-regulation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アトラシアン、DiaブラウザのWindows版を今秋リリース",
+   "path": "/articles/20260803-atlassian-dia-browser-windows.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AppleのMacBook Air、世界的なメモリーチップ不足の影響を受ける理由",
+   "path": "/articles/20260803-global-memory-shortage-hits-macbook-air.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "バラジ・スリニヴァサン氏のネットワークスクール、マレーシアで閉鎖か",
+   "path": "/articles/20260803-malaysia-shuts-down-network-school.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "HIKAKINの「みそきん」があべのキューズモールにオープン",
+   "path": "/articles/20260803-hikakin-misokin-abeno-qs-mall.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "羽田空港の荷物預け入れ30分前に、遅れ対策でどうなる？",
+   "path": "/articles/20260803-haneda-airport-luggage-deadline.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "DMG森精機とファナックに注目、AI相場の次なる主役「フィジカルAI」とは",
+   "path": "/articles/20260803-physical-ai-dmg-mori-fanuc.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "【4689.T】FY26 EBITDA 5,850億円計画でなぜ2桁増益へ？",
+   "path": "/articles/20260803-4689-t-fy2025-q4-results.html",
    "cat": "日本企業"
   }
  ],
@@ -17,10 +52,15 @@
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 「ホルムズ海峡 航行再開の合意ない」イランメディア報道",
+  "執筆失敗: 日米が15年ぶり協調介入、円安阻止で思惑一致　3日に共同声明で調整 - 日本経済",
+  "執筆失敗: 東証上場企業の社外取締役なのに｢6年間で出席ゼロ｣の猛者がいた！…｢取締役会出席",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 46,
  "gemini": {
-  "used": 24,
+  "used": 50,
   "limit": 200
  }
 }

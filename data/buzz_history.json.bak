@@ -1316,7 +1316,7 @@
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 2492671,
+   "views": 2731946,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
@@ -1333,7 +1333,7 @@
    "id": "PRp5Y543LN0",
    "title": "Exploring My Abandoned Minecraft Server",
    "channel": "MrBeast Gaming",
-   "views": 19270245,
+   "views": 19779077,
    "url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
    "thumb": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
    "regions": [
@@ -1348,7 +1348,7 @@
    "id": "JIqKjjTfOxM",
    "title": "Korean Kanakaraju Trailer | Varun Tej | Ritika Nayak | Satya | Merlapaka Gandhi | UV Creations",
    "channel": "UV Creations",
-   "views": 1720377,
+   "views": 1733615,
    "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM",
    "thumb": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
    "regions": [
@@ -1363,7 +1363,7 @@
    "id": "afSgBNwmZrQ",
    "title": "Ariana Grande - petal (official music video)",
    "channel": "ArianaGrandeVevo",
-   "views": 8016138,
+   "views": 8134200,
    "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
    "thumb": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
    "regions": [
@@ -1374,24 +1374,10 @@
   },
   {
    "rank": 5,
-   "id": "MiwObwZw-Lc",
-   "title": "Five Nights at Freddy's: Return of the King",
-   "channel": "Markiplier",
-   "views": 1805710,
-   "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc",
-   "thumb": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "人気実況者MarkiplierによるFNAF関連の動画のようです。"
-  },
-  {
-   "rank": 6,
    "id": "BEMURK22eyM",
    "title": "WARHAMMER 40,000: Dawn Of War 4 Official Trailer (2026) Extended Space Marines Cinematic | 4K UHD",
    "channel": "GameGasm",
-   "views": 583177,
+   "views": 604898,
    "url": "https://www.youtube.com/watch?v=BEMURK22eyM",
    "thumb": "https://i.ytimg.com/vi/BEMURK22eyM/hqdefault.jpg",
    "regions": [
@@ -1401,11 +1387,25 @@
    "comment": "2026年発売予定のスペースマリーンを描いた迫力の4Kシネマティックトレイラーのようです。"
   },
   {
+   "rank": 6,
+   "id": "p_iiusgceTE",
+   "title": "Kicked Out By DIAMOND VILLAGERS..",
+   "channel": "Cash",
+   "views": 198085,
+   "url": "https://www.youtube.com/watch?v=p_iiusgceTE",
+   "thumb": "https://i.ytimg.com/vi/p_iiusgceTE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ダイヤモンドの村人たちに追い出されてしまったようです。"
+  },
+  {
    "rank": 7,
    "id": "uUESrqhVsWk",
    "title": "SAGA OF THE KHARKUS (Official Video) Prem Dhillon | The Kidd | BigBagg Films",
    "channel": "Prem Dhillon",
-   "views": 186590,
+   "views": 193658,
    "url": "https://www.youtube.com/watch?v=uUESrqhVsWk",
    "thumb": "https://i.ytimg.com/vi/uUESrqhVsWk/hqdefault.jpg",
    "regions": [
@@ -1416,10 +1416,24 @@
   },
   {
    "rank": 8,
+   "id": "vSEtmtFEwnw",
+   "title": "Hermitcraft 11: Episode 22 - LAUNCHING HERMITS",
+   "channel": "Grian",
+   "views": 181928,
+   "url": "https://www.youtube.com/watch?v=vSEtmtFEwnw",
+   "thumb": "https://i.ytimg.com/vi/vSEtmtFEwnw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "人気マインクラフトシリーズの第22話で、新たな仕掛けが始まるようです。"
+  },
+  {
+   "rank": 9,
    "id": "2X9tFQI4jis",
    "title": "STREET FIGHTER Blanka vs. Ryu Special Look Trailer (2026) Jason Momoa, 50 Cent, Action Movie [4K]",
    "channel": "Trailer Feed",
-   "views": 176711,
+   "views": 179246,
    "url": "https://www.youtube.com/watch?v=2X9tFQI4jis",
    "thumb": "https://i.ytimg.com/vi/2X9tFQI4jis/hqdefault.jpg",
    "regions": [
@@ -1429,25 +1443,11 @@
    "comment": "ストリートファイター実写映画、ブランカVSリュウ予告"
   },
   {
-   "rank": 9,
-   "id": "p_iiusgceTE",
-   "title": "Kicked Out By DIAMOND VILLAGERS..",
-   "channel": "Cash",
-   "views": 170778,
-   "url": "https://www.youtube.com/watch?v=p_iiusgceTE",
-   "thumb": "https://i.ytimg.com/vi/p_iiusgceTE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ダイヤモンドの村人たちに追い出されてしまったようです。"
-  },
-  {
    "rank": 10,
    "id": "d1rWv8VeQO0",
    "title": "TWS (투어스) 'SODA SODA' Official MV",
    "channel": "HYBE LABELS",
-   "views": 152499,
+   "views": 165892,
    "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
    "thumb": "https://i.ytimg.com/vi/d1rWv8VeQO0/hqdefault.jpg",
    "regions": [
