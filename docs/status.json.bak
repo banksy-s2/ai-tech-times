@@ -1,18 +1,26 @@
 {
- "updated": "2026-08-03 01:00",
- "mode": "軽量便(日本のAI)",
- "articles": [],
- "buzz_top": {
-  "title": "Exploring My Abandoned Minecraft Server",
-  "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
- },
- "notes": [
-  "執筆失敗: ＡＩで生成した画像や動画、ＥＵが識別できる表示義務づけ…違反なら最大２７億円か年",
-  "執筆失敗: アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリー"
+ "updated": "2026-08-03 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "マイクロソフト、欧州と英国でXbox価格を最大200ユーロ引き上げ",
+   "path": "/articles/20260803-xbox-prices-increasing-200-euros.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Pixel 11仕様と価格899ドルからリーク、値上げの理由とは",
+   "path": "/articles/20260803-pixel-11-specs-and-price-leak.html",
+   "cat": "シリコンバレー最速"
+  }
  ],
- "pv_today": 10,
+ "buzz_top": {
+  "title": "BABYMONSTER - 'MOON' M/V",
+  "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
+ },
+ "notes": [],
+ "pv_today": 26,
  "gemini": {
-  "used": 7,
+  "used": 11,
   "limit": 200
  }
 }
