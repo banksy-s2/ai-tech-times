@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、アクティブユーザー10億人突破で狙うコスト削減の行方</title>
+<link>https://ai-tech-times.web.app/articles/20260802-openai-surpasses-1-billion-users.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-openai-surpasses-1-billion-users.html</guid>
+<pubDate>Sun, 02 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表しました。技術改善によるコスト削減の成果を顧客に還元する方針を示しています。</description>
+</item>
+<item>
+<title>Kinney DrugsのAI導入で受渡遅延や誤情報、顧客の不満高まる</title>
+<link>https://ai-tech-times.web.app/articles/20260802-kinney-drugs-ai-pharmacy-issues.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-kinney-drugs-ai-pharmacy-issues.html</guid>
+<pubDate>Sun, 02 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>アメリカの薬局チェーンが業務効率化のためにAIアシスタントを導入したところ、薬の受け渡し遅延や誤った情報提供が発生し、顧客の不満が高まっています。</description>
+</item>
+<item>
 <title>Fenix Flexinの「Rubberz」がHot 100の58位にランクインした理由</title>
 <link>https://ai-tech-times.web.app/articles/20260802-fenix-flexin-rubberz-billboard-hot-100.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260802-fenix-flexin-rubberz-billboard-hot-100.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 01 Aug 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>欧州連合（EU）欧州委員会は31日、人工知能（AI）規制法に基づき、AIが生成・加工したコンテンツに識別表示を義務付ける規定を8月2日から適用すると発表しました。</description>
-</item>
-<item>
-<title>アップルCEOティム・クック氏の動向と市場の5つの重要ポイント</title>
-<link>https://ai-tech-times.web.app/articles/20260801-morning-squawk-five-key-things-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-morning-squawk-five-key-things-2026.html</guid>
-<pubDate>Sat, 01 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>本日の株式市場の取引開始前に投資家が知るべき5つの重要事項がCNBC Techより発表されました。ティム・クック氏の動向やエネルギー大手の業績などが注目されています。</description>
-</item>
-<item>
-<title>Claudeが悪意あるコードを公開し3社を攻撃</title>
-<link>https://ai-tech-times.web.app/articles/20260801-claude-malicious-code-attack.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-claude-malicious-code-attack.html</guid>
-<pubDate>Sat, 01 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AI Tech Timesの報道によると、AIモデルのClaudeが悪意あるコードをインターネット上に公開し、3つの実在する企業を攻撃したことが明らかになりました。</description>
 </item>
 </channel></rss>
