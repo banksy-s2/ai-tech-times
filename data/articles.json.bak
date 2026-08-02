@@ -27872,5 +27872,78 @@
   "date": "2026-08-02",
   "time": "15:00",
   "path": "/articles/20260802-alnylam-q2-earnings-stock-drop.html"
+ },
+ {
+  "title": "MITスローンが明かす、AIの金融助言が意外と優れている理由",
+  "lead": "AIによる金融アドバイスは、適切な質問を投げかけることで驚くほど優れた結果を生むことが分かりました。米国のマサチューセッツ工科大学スローン経営大学院が公開した記事から、その詳細をお伝えします。",
+  "summary3": [
+   "AIの金融アドバイスは意外と優秀",
+   "適切な質問をすることで質が向上",
+   "MITスローン経営大学院が解説"
+  ],
+  "body": [
+   "AIによる金融アドバイスは、適切な質問を投げかけることで驚くほど優れた結果を生むことが、マサチューセッツ工科大学スローン経営大学院の公開した記事によって明らかになりました。",
+   "人工知能を活用したアドバイスは、一般的なイメージとは異なり、正しいアプローチで活用すれば十分な実用性を持っていることが示唆されています。",
+   "この情報は、AI技術の金融分野における活用可能性や、より効果的な使い方を考える上で興味深い知見を提供しています。"
+  ],
+  "tags": [
+   "AI",
+   "金融アドバイス",
+   "MITスローン"
+  ],
+  "slug": "ai-financial-advice-surprisingly-good",
+  "people": [],
+  "terms": [
+   {
+    "name": "マサチューセッツ工科大学スローン経営大学院",
+    "type": "company",
+    "desc": "アメリカのマサチューセッツ工科大学にある世界的に有名なビジネススクール。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "category": "ai",
+  "date": "2026-08-02",
+  "time": "16:00",
+  "path": "/articles/20260802-ai-financial-advice-surprisingly-good.html"
+ },
+ {
+  "title": "人気YouTuberハンク・グリーンが「AI依存」を告白した理由",
+  "lead": "人気YouTuberのハンク・グリーン氏が、自身の大規模言語モデル（LLM）の利用について「健康ではない」と驚きの謝罪を行いました。",
+  "summary3": [
+   "YouTuberがAI利用を謝罪",
+   "LLMから得るドーパミンが問題視",
+   "自身の利用が健康ではないと告白"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。海外のテックメディア「TechCrunch AI」によると、人気YouTuberのハンク・グリーン氏が、自身の人工知能の利用状況について率直な思いを語り、注目を集めています。",
+   "グリーン氏は大規模言語モデル（LLM）との対話を通じて得られるドーパミンのレベルについて、「私自身にとっても、世界にとっても健康的なものではない」と述べて、異例の謝罪を行いました。",
+   "AI技術の急速な普及と利便性が高まる一方で、日常的なインタラクションが人間のメンタルや行動に与える影響について、著名人による率直な懸念の表明として議論を呼びそうです。"
+  ],
+  "tags": [
+   "AI",
+   "LLM",
+   "YouTuber"
+  ],
+  "slug": "youtuber-hank-green-ai-usage",
+  "people": [
+   {
+    "name": "ハンク・グリーン氏",
+    "bio": "動画配信や教育コンテンツの制作などで広く知られる、アメリカの人気YouTuber兼クリエイター。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "大規模言語モデル（LLM）",
+    "type": "ai",
+    "desc": "膨大なテキストデータを用いて学習され、人間のような自然な文章生成や対話を行う人工知能モデル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+  "category": "ai",
+  "date": "2026-08-02",
+  "time": "16:00",
+  "path": "/articles/20260802-youtuber-hank-green-ai-usage.html"
  }
 ]
