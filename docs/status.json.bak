@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-02 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-02 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Fenix Flexinの「Rubberz」がHot 100の58位にランクインした理由",
-   "path": "/articles/20260802-fenix-flexin-rubberz-billboard-hot-100.html",
-   "cat": "AI(海外)"
+   "title": "OpenAI、アクティブユーザー10億人突破で狙うコスト削減の行方",
+   "path": "/articles/20260802-openai-surpasses-1-billion-users.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Kinney DrugsのAI導入で受渡遅延や誤情報、顧客の不満高まる",
+   "path": "/articles/20260802-kinney-drugs-ai-pharmacy-issues.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [
-  "執筆失敗: YouTuber Hank Green says his AI usage is"
- ],
- "pv_today": 17,
+ "notes": [],
+ "pv_today": 18,
  "gemini": {
-  "used": 56,
+  "used": 60,
   "limit": 200
  }
 }

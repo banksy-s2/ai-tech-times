@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-02 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-02 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAI、アクティブユーザー10億人突破で狙うコスト削減の行方",
-   "path": "/articles/20260802-openai-surpasses-1-billion-users.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Kinney DrugsのAI導入で受渡遅延や誤情報、顧客の不満高まる",
-   "path": "/articles/20260802-kinney-drugs-ai-pharmacy-issues.html",
-   "cat": "日本のAI"
+   "title": "Index Ventures、Wizの成果を追い風に3つのファンドで20億ドルを調達",
+   "path": "/articles/20260802-index-ventures-raises-2b.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
- "pv_today": 18,
+ "notes": [
+  "執筆失敗: New details in the OpenAI Hugging Face h"
+ ],
+ "pv_today": 19,
  "gemini": {
-  "used": 60,
+  "used": 63,
   "limit": 200
  }
 }
