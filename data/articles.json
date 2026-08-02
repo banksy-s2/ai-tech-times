@@ -28308,5 +28308,72 @@
   "date": "2026-08-02",
   "time": "22:00",
   "path": "/articles/20260802-moscow-explosion-3-dead.html"
+ },
+ {
+  "title": "キオクシア決算が重しに、日経平均が急落リスクで週次下落",
+  "lead": "日経平均株価が、円高の急進による急落リスクから週次で下落していることが伝えられました。さらにキオクシアの決算も悪材料として市場の重しとなっています。",
+  "summary3": [
+   "日経平均が円高急進で急落リスク",
+   "週次下落の展開となり注目集まる",
+   "キオクシア決算も悪材料に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする本日の株式・市場ニュースです。足元の市場において、日経平均株価が円高の急進を受けて急落するリスクが高まっており、週次での下落を記録する展開となっています。",
+   "こうした市場環境の中、企業の決算発表内容も投資家心理に影響を与えています。特にキオクシアの決算が市場において悪材料として受け止められており、全体の値動きに対する警戒感が強まる要因となっています。",
+   "外国為替市場での急激な円高の進行と主要企業の業績動向が重なり、今後の市場動向について慎重な見方が広がっています。引き続き関連する発表や為替の動きに注意が必要です。"
+  ],
+  "tags": [
+   "日経平均",
+   "キオクシア",
+   "株式市場"
+  ],
+  "slug": "nikkei-kioxia-market-update",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "日本のフラッシュメモリ開発・製造を手掛ける大手半導体企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdElWazlNSFZ1TmRVamFzVklqSTYwb1QtRUp5ZlNYQXdDdUctTFNNV2dJN25WNkNKNGtKUjJkZkZqUmY4a242aEJWM0I5R2UzcmllT1RRMDFtM1Z5UXF1cFVGNnB3TVA4LVBlb1BlTjJVUndZaVFFeTBZYWJhMmZub3A3d2JJUnBGOWtTQml6Y3pYSklwdVhvRzV4dFlLa1Fhb1RlLXprMl9mSk9TS3Nv?oc=5",
+  "category": "stock",
+  "date": "2026-08-02",
+  "time": "23:00",
+  "path": "/articles/20260802-nikkei-kioxia-market-update.html"
+ },
+ {
+  "title": "安川電機ロボット事業、利益率1.6%のなぜ",
+  "lead": "安川電機のロボット事業における第1四半期決算が大幅な減益となり、株価が大きく下落しました。採算改善が急務となっています。",
+  "summary3": [
+   "安川電機のロボット事業が決算で大幅減益",
+   "利益率がわずか1.6%に低下し株価も下落",
+   "事業の採算改善が急務の課題となっている"
+  ],
+  "body": [
+   "東洋経済オンラインの報道によると、安川電機のロボット事業は第1四半期決算において大幅な減益を記録しました。これに伴い、市場での同社株価が大きく下落する展開となっています。",
+   "同事業の利益率はわずか1.6%にとどまっており、収益性の低下が鮮明となっています。業績の立て直しに向けた採算改善が、現在急務として求められています。"
+  ],
+  "tags": [
+   "安川電機",
+   "ロボット",
+   "決算"
+  ],
+  "slug": "yaskawa-robot-business-profit-margin",
+  "people": [],
+  "terms": [
+   {
+    "name": "安川電機",
+    "type": "company",
+    "desc": "産業用ロボットやインバータなどのモーションコントロール事業を手がける日本の大手電機メーカー。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/953383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-08-02",
+  "time": "23:00",
+  "path": "/articles/20260802-yaskawa-robot-business-profit-margin.html"
  }
 ]

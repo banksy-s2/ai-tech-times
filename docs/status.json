@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-02 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-02 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ハンガリー原発停止へ、ドナウ川干ばつで冷却水不足",
-   "path": "/articles/20260802-hungary-nuclear-plant-stopped-drought.html",
-   "cat": "時事・世界"
+   "title": "キオクシア決算が重しに、日経平均が急落リスクで週次下落",
+   "path": "/articles/20260802-nikkei-kioxia-market-update.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "モスクワ中心部で爆発3人死亡、女性関与か",
-   "path": "/articles/20260802-moscow-explosion-3-dead.html",
-   "cat": "時事・世界"
+   "title": "安川電機ロボット事業、利益率1.6%のなぜ",
+   "path": "/articles/20260802-yaskawa-robot-business-profit-margin.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
  },
  "notes": [],
- "pv_today": 70,
+ "pv_today": 81,
  "gemini": {
-  "used": 131,
+  "used": 135,
   "limit": 200
  }
 }

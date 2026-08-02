@@ -1,64 +1,26 @@
 {
- "updated": "2026-08-02 21:48",
- "mode": "フル便",
+ "updated": "2026-08-02 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Claude Codeなどの設定ファイルを削ったら賢くなった",
-   "path": "/articles/20260802-claude-md-agents-md-ai-coding.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "dayGLANCE、予定のブロック配置で何が変わるのか",
-   "path": "/articles/20260802-dayglance-visual-routine-management.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Appleの新しいアップグレードから考えるスマホ購入とサブスクの選択肢",
-   "path": "/articles/20260802-smartphone-ownership-subscription-apple.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ氏、ミネソタ州水道へのサイバー攻撃でティム・ウォルツ氏を非難",
-   "path": "/articles/20260802-trump-walz-minnesota-water-hacks-iran.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "円安是正へ日米が異例の協調介入、3日に声明発表へ",
-   "path": "/articles/20260802-us-japan-joint-intervention-yen.html",
+   "title": "ハンガリー原発停止へ、ドナウ川干ばつで冷却水不足",
+   "path": "/articles/20260802-hungary-nuclear-plant-stopped-drought.html",
    "cat": "時事・世界"
   },
   {
-   "title": "台風13号が非常に強い勢力で西へ、小笠原はあすから影響か",
-   "path": "/articles/20260802-typhoon-number-13-approaches.html",
+   "title": "モスクワ中心部で爆発3人死亡、女性関与か",
+   "path": "/articles/20260802-moscow-explosion-3-dead.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均、底堅い展開か？為替介入の効果見極めに注目",
-   "path": "/articles/20260802-nikkei-average-resilient-fx-intervention-focus.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "MMTの光と影：「無限発行」がはらむインフレ・国家破綻の歴史的教訓",
-   "path": "/articles/20260802-mmt-risks-inflation-fiscal-collapse.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ANAが運航を“丸投げ”！？謎多き「IBEX」とは",
-   "path": "/articles/20260802-ana-ibex-flight-operations.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Exploring My Abandoned Minecraft Server",
   "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
  },
- "notes": [
-  "執筆失敗: 「日本好き」で活動の韓国人ＹｏｕＴｕｂｅｒ「日本人に帰化」宣言も否定的コメント相",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 66,
+ "notes": [],
+ "pv_today": 70,
  "gemini": {
-  "used": 128,
+  "used": 131,
   "limit": 200
  }
 }
