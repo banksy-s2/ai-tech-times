@@ -1,26 +1,15 @@
 {
- "updated": "2026-08-02 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "キオクシア決算が重しに、日経平均が急落リスクで週次下落",
-   "path": "/articles/20260802-nikkei-kioxia-market-update.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "安川電機ロボット事業、利益率1.6%のなぜ",
-   "path": "/articles/20260802-yaskawa-robot-business-profit-margin.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-03 00:03",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "Exploring My Abandoned Minecraft Server",
   "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
  },
  "notes": [],
- "pv_today": 81,
+ "pv_today": null,
  "gemini": {
-  "used": 135,
+  "used": 3,
   "limit": 200
  }
 }
