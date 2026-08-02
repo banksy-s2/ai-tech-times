@@ -1,23 +1,17 @@
 {
- "updated": "2026-08-02 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Index Ventures、Wizの成果を追い風に3つのファンドで20億ドルを調達",
-   "path": "/articles/20260802-index-ventures-raises-2b.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-02 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [
-  "執筆失敗: New details in the OpenAI Hugging Face h"
+  "執筆失敗: あの業界の「逆襲」を待て！ 人気投資系YouTuberが教える「夏に仕込みたい」"
  ],
- "pv_today": 19,
+ "pv_today": 20,
  "gemini": {
-  "used": 63,
+  "used": 65,
   "limit": 200
  }
 }
