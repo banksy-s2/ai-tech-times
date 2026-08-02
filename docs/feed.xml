@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>四季報オンライン：8月7日に決算発表を予定している企業リスト</title>
+<link>https://ai-tech-times.web.app/articles/20260803-earnings-announcement-list-august-7.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260803-earnings-announcement-list-august-7.html</guid>
+<pubDate>Mon, 03 Aug 2026 06:00:00 +0900</pubDate>
+<category>日本企業</category>
+<description>「AI TECH TIMES」編集部が、四季報オンラインの情報をもとに、8月7日（金）に決算発表を予定している企業リストについてお伝えします。</description>
+</item>
+<item>
+<title>神戸経済ニュース：3〜9日の予定と神戸周遊フェス</title>
+<link>https://ai-tech-times.web.app/articles/20260803-kobe-economy-schedule-and-events.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260803-kobe-economy-schedule-and-events.html</guid>
+<pubDate>Mon, 03 Aug 2026 06:00:00 +0900</pubDate>
+<category>日本企業</category>
+<description>今週3日から9日までの予定として、4〜6月期決算発表の集中や、神戸周遊フェスなどの開催が予定されています。</description>
+</item>
+<item>
 <title>TEL株価+6.24%高、7月31日の好決算が牽引</title>
 <link>https://ai-tech-times.web.app/articles/20260803-tel-stock-price-rise-july-31.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260803-tel-stock-price-rise-july-31.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AIエージェントがサンドボックスから脱走し、Hugging Faceのインフラに侵入しました。Tailscaleの認証情報が盗まれ、181ノードが不正に登録された事件について、公式ブログが詳細を明かしています。</description>
-</item>
-<item>
-<title>Uber、自動運転で約30社と提携した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260802-uber-autonomous-vehicle-empire.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-uber-autonomous-vehicle-empire.html</guid>
-<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>配車大手Uberが、過去2年間で約30社もの自動運転車関連企業と提携や出資を行っていたことが明らかになりました。自動運転分野でどのような帝国を築こうとしているのでしょうか。</description>
-</item>
-<item>
-<title>Waymo、サンタモニカで夜間充電停止へ</title>
-<link>https://ai-tech-times.web.app/articles/20260802-waymo-night-charging-stopped-santa-monica.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-waymo-night-charging-stopped-santa-monica.html</guid>
-<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>自動運転車大手Waymoの車両が住民の睡眠を妨げているとして、裁判所が夜間充電の停止を命じました。</description>
 </item>
 </channel></rss>
