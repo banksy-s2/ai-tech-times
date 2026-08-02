@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-02 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-02 16:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Alnylam株がQ2決算後に30%急落、時価総額120億ドル消失の背景とは",
-   "path": "/articles/20260802-alnylam-q2-earnings-stock-drop.html",
-   "cat": "日本企業"
+   "title": "MITスローンが明かす、AIの金融助言が意外と優れている理由",
+   "path": "/articles/20260802-ai-financial-advice-surprisingly-good.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "人気YouTuberハンク・グリーンが「AI依存」を告白した理由",
+   "path": "/articles/20260802-youtuber-hank-green-ai-usage.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [
-  "執筆失敗: 4日 スペースXが4～6月決算発表 マスク氏語るAI戦略は - 日本経済新聞"
- ],
- "pv_today": 24,
+ "notes": [],
+ "pv_today": 27,
  "gemini": {
-  "used": 103,
+  "used": 107,
   "limit": 200
  }
 }
