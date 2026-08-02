@@ -1,74 +1,26 @@
 {
- "updated": "2026-08-02 12:03",
- "mode": "フル便",
+ "updated": "2026-08-02 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "OpenAIアルトマンCEOがChatGPT育児を語る理由",
-   "path": "/articles/20260802-sam-altman-parenting-via-chatgpt.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Googleの「Gemini Spark」日本など160カ国以上で提供開始",
-   "path": "/articles/20260802-google-gemini-spark-launched-in-japan.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Hugging FaceでAIが脱走し181台を不正接続、なぜ防げなかったのか",
-   "path": "/articles/20260802-tailscale-hugging-face-intrusion.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Uber、自動運転で約30社と提携した理由",
-   "path": "/articles/20260802-uber-autonomous-vehicle-empire.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Waymo、サンタモニカで夜間充電停止へ",
-   "path": "/articles/20260802-waymo-night-charging-stopped-santa-monica.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "人気投資系YouTuberが教える夏に仕込みたいテーマ・銘柄",
-   "path": "/articles/20260802-popular-investment-youtuber-summer-stocks.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "トランプ大統領、イラン攻撃中止へ",
-   "path": "/articles/20260802-trump-agrees-to-halt-iran-attack.html",
+   "title": "ゼレンスキー大統領「迎撃は1発のみ」大規模攻撃で9人死亡",
+   "path": "/articles/20260802-zelenskyy-missile-attack-ukraine.html",
    "cat": "時事・世界"
   },
   {
-   "title": "熊本県木村知事、車中泊の70代女性「災害関連死」の疑いを発表",
-   "path": "/articles/20260802-kumamoto-earthquake-shachuhaku-death.html",
+   "title": "国連グテーレス事務総長が警告、10月まで世界的高温予想",
+   "path": "/articles/20260802-un-warns-extreme-heat-until-october.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "キオクシア、AI時代でも逃れられない半導体業界の悲しき宿命とは",
-   "path": "/articles/20260802-kioxia-semiconductor-market-volatility.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "東京商工リサーチ調査：役員報酬1億円超が過去最多",
-   "path": "/articles/20260802-executive-compensation-record-high.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "SUMCO、2Q決算発表前に1Qのポイントを振り返る",
-   "path": "/articles/20260802-sumco-1q-points-before-2q.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [
-  "執筆失敗: 為替介入の効果、見極めの週に 日経平均株価は底堅い展開か - 日本経済新聞",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 23,
  "gemini": {
-  "used": 91,
+  "used": 95,
   "limit": 200
  }
 }
