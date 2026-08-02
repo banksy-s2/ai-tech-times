@@ -1167,40 +1167,26 @@
  "2026-08-02": [
   {
    "rank": 1,
-   "id": "1zip1rNaNYs",
-   "title": "RAMAYANA - Official Trailer",
-   "channel": "Sony Pictures Entertainment",
-   "views": 16236749,
-   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
-   "thumb": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "IN"
-   ],
-   "comment": "期待作の映画「RAMAYANA」公式予告編が公開されたようですね。"
-  },
-  {
-   "rank": 2,
    "id": "PRp5Y543LN0",
    "title": "Exploring My Abandoned Minecraft Server",
    "channel": "MrBeast Gaming",
-   "views": 10111589,
+   "views": 13993926,
    "url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
    "thumb": "https://i.ytimg.com/vi/PRp5Y543LN0/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "BR"
+    "BR",
+    "IN"
    ],
    "comment": "MrBeast Gamingによる放置されたマインクラフトサーバーの探索動画です。（33文字）※文字数調整：MrBeast Gamingが放置マインクラフト鯖を探索する動画のようです。（33文字）→ 放置したマインクラフトサーバーを探索するゲーム動画のようです。（30文字）"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "id": "afSgBNwmZrQ",
    "title": "Ariana Grande - petal (official music video)",
    "channel": "ArianaGrandeVevo",
-   "views": 6651764,
+   "views": 7185938,
    "url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
    "thumb": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
    "regions": [
@@ -1211,11 +1197,11 @@
    "comment": "アリアナ・グランデの新曲「petal」公式ミュージックビデオのようです。"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "id": "JIqKjjTfOxM",
    "title": "Korean Kanakaraju Trailer | Varun Tej | Ritika Nayak | Satya | Merlapaka Gandhi | UV Creations",
    "channel": "UV Creations",
-   "views": 1318648,
+   "views": 1501296,
    "url": "https://www.youtube.com/watch?v=JIqKjjTfOxM",
    "thumb": "https://i.ytimg.com/vi/JIqKjjTfOxM/hqdefault.jpg",
    "regions": [
@@ -1226,11 +1212,25 @@
    "comment": "ヴァルン・テイ主演映画の予告編のようです"
   },
   {
+   "rank": 4,
+   "id": "1zip1rNaNYs",
+   "title": "RAMAYANA - Official Trailer",
+   "channel": "Sony Pictures Entertainment",
+   "views": 16844689,
+   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+   "thumb": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "comment": "期待作の映画「RAMAYANA」公式予告編が公開されたようですね。"
+  },
+  {
    "rank": 5,
    "id": "e6iAAAObz3c",
    "title": "KATSEYE - Animal (on the dance floor)",
    "channel": "KATSEYE",
-   "views": 3074717,
+   "views": 3229841,
    "url": "https://www.youtube.com/watch?v=e6iAAAObz3c",
    "thumb": "https://i.ytimg.com/vi/e6iAAAObz3c/hqdefault.jpg",
    "regions": [
@@ -1244,7 +1244,7 @@
    "id": "65mrBBZbSbo",
    "title": "Sardar 2 Teaser | Karthi | SJ Suryah | Malavika Mohanan | Ashika Ranganath | PS Mithran | Sam CS",
    "channel": "Sony Music South",
-   "views": 2092686,
+   "views": 2200451,
    "url": "https://www.youtube.com/watch?v=65mrBBZbSbo",
    "thumb": "https://i.ytimg.com/vi/65mrBBZbSbo/hqdefault.jpg",
    "regions": [
@@ -1255,24 +1255,10 @@
   },
   {
    "rank": 7,
-   "id": "vqlHSPlRDbs",
-   "title": "Hero Valkyrie: A Hero Written in Stone",
-   "channel": "Clash Royale",
-   "views": 1463872,
-   "url": "https://www.youtube.com/watch?v=vqlHSPlRDbs",
-   "thumb": "https://i.ytimg.com/vi/vqlHSPlRDbs/hqdefault.jpg",
-   "regions": [
-    "US",
-    "BR"
-   ],
-   "comment": "クラッシュ・ロワイヤルに関するアニメーション動画のようです。（26文字）"
-  },
-  {
-   "rank": 8,
    "id": "MiwObwZw-Lc",
    "title": "Five Nights at Freddy's: Return of the King",
    "channel": "Markiplier",
-   "views": 1422981,
+   "views": 1613988,
    "url": "https://www.youtube.com/watch?v=MiwObwZw-Lc",
    "thumb": "https://i.ytimg.com/vi/MiwObwZw-Lc/hqdefault.jpg",
    "regions": [
@@ -1282,11 +1268,25 @@
    "comment": "人気実況者MarkiplierによるFNAF関連の動画のようです。"
   },
   {
+   "rank": 8,
+   "id": "vqlHSPlRDbs",
+   "title": "Hero Valkyrie: A Hero Written in Stone",
+   "channel": "Clash Royale",
+   "views": 1603521,
+   "url": "https://www.youtube.com/watch?v=vqlHSPlRDbs",
+   "thumb": "https://i.ytimg.com/vi/vqlHSPlRDbs/hqdefault.jpg",
+   "regions": [
+    "US",
+    "BR"
+   ],
+   "comment": "クラッシュ・ロワイヤルに関するアニメーション動画のようです。（26文字）"
+  },
+  {
    "rank": 9,
    "id": "Cv1AXnX8DjU",
    "title": "Five Nights at Freddy's: Secret of the Mimic Song - It Doesn't Matter - The Living Tombstone",
    "channel": "The Living Tombstone",
-   "views": 1143619,
+   "views": 1252676,
    "url": "https://www.youtube.com/watch?v=Cv1AXnX8DjU",
    "thumb": "https://i.ytimg.com/vi/Cv1AXnX8DjU/hqdefault.jpg",
    "regions": [
@@ -1300,7 +1300,7 @@
    "id": "zYdn8v-Fmb8",
    "title": "Surviving Lifesteal: Minecraft's Deadliest Server",
    "channel": "MinuteTech",
-   "views": 253979,
+   "views": 464104,
    "url": "https://www.youtube.com/watch?v=zYdn8v-Fmb8",
    "thumb": "https://i.ytimg.com/vi/zYdn8v-Fmb8/hqdefault.jpg",
    "regions": [

@@ -1,26 +1,64 @@
 {
- "updated": "2026-08-02 16:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-02 21:48",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "MITスローンが明かす、AIの金融助言が意外と優れている理由",
-   "path": "/articles/20260802-ai-financial-advice-surprisingly-good.html",
-   "cat": "AI(海外)"
+   "title": "Claude Codeなどの設定ファイルを削ったら賢くなった",
+   "path": "/articles/20260802-claude-md-agents-md-ai-coding.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "人気YouTuberハンク・グリーンが「AI依存」を告白した理由",
-   "path": "/articles/20260802-youtuber-hank-green-ai-usage.html",
-   "cat": "AI(海外)"
+   "title": "dayGLANCE、予定のブロック配置で何が変わるのか",
+   "path": "/articles/20260802-dayglance-visual-routine-management.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleの新しいアップグレードから考えるスマホ購入とサブスクの選択肢",
+   "path": "/articles/20260802-smartphone-ownership-subscription-apple.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "トランプ氏、ミネソタ州水道へのサイバー攻撃でティム・ウォルツ氏を非難",
+   "path": "/articles/20260802-trump-walz-minnesota-water-hacks-iran.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "円安是正へ日米が異例の協調介入、3日に声明発表へ",
+   "path": "/articles/20260802-us-japan-joint-intervention-yen.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "台風13号が非常に強い勢力で西へ、小笠原はあすから影響か",
+   "path": "/articles/20260802-typhoon-number-13-approaches.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均、底堅い展開か？為替介入の効果見極めに注目",
+   "path": "/articles/20260802-nikkei-average-resilient-fx-intervention-focus.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "MMTの光と影：「無限発行」がはらむインフレ・国家破綻の歴史的教訓",
+   "path": "/articles/20260802-mmt-risks-inflation-fiscal-collapse.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ANAが運航を“丸投げ”！？謎多き「IBEX」とは",
+   "path": "/articles/20260802-ana-ibex-flight-operations.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "RAMAYANA - Official Trailer",
-  "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
+  "title": "Exploring My Abandoned Minecraft Server",
+  "url": "https://www.youtube.com/watch?v=PRp5Y543LN0"
  },
- "notes": [],
- "pv_today": 27,
+ "notes": [
+  "執筆失敗: 「日本好き」で活動の韓国人ＹｏｕＴｕｂｅｒ「日本人に帰化」宣言も否定的コメント相",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 66,
  "gemini": {
-  "used": 107,
+  "used": 128,
   "limit": 200
  }
 }
