@@ -1,66 +1,66 @@
 {
- "week_of": "2026-07-27",
- "range": "2026-07-20 〜 2026-07-27",
+ "week_of": "2026-08-03",
+ "range": "2026-07-27 〜 2026-08-03",
  "items": [
   {
-   "path": "/articles/20260721-takaichi-government-first-honeboto-policy.html",
-   "title": "高市政権が初の「骨太の方針」決定 「強い経済」へ抜本転換",
+   "path": "/articles/20260728-kumamoto-earthquake-tsunami-warning.html",
+   "title": "熊本・宇城市と氷川町で震度7、有明・八代海に津波注意報",
    "cat": "時事・世界",
-   "comment": "政府は強い経済へ向けた初の骨太方針を決定した。"
+   "comment": "熊本地震で最大震度7を観測、有明海等に津波注意報。"
   },
   {
-   "path": "/articles/20260722-yen-drops-to-163-per-dollar.html",
-   "title": "円相場が一時1ドル＝163円台に値下がり、39年半ぶりの円安水準へ",
+   "path": "/articles/20260730-takaichi-food-consumption-tax-reduction-2.html",
+   "title": "高市首相、食料品消費税を来年4月から2年間1％へ引き下げ方針",
    "cat": "時事・世界",
-   "comment": "ニューヨーク市場で円相場が一時163円台に値下がりした。"
+   "comment": "高市首相が来年4月から食料品消費税を2年間1%へ引き下げ表明。"
   },
   {
-   "path": "/articles/20260721-anthropic-copyright-lawsuit-settlement.html",
-   "title": "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
-   "cat": "日本のAI",
-   "comment": "Anthropicが著作権訴訟で史上最大額の和解金支払いへ。"
-  },
-  {
-   "path": "/articles/20260722-kanto-tokai-extreme-heat-warning.html",
-   "title": "関東・東海で40度超えの酷暑日、あなたの地域は大丈夫？",
+   "path": "/articles/20260802-us-japan-joint-intervention-yen.html",
+   "title": "円安是正へ日米が異例の協調介入、3日に声明発表へ",
    "cat": "時事・世界",
-   "comment": "岐阜などで40度超を観測し気象庁が初の酷暑日を発表。"
+   "comment": "歴史的円安を受け、日米当局が異例の協調介入を実施。"
   },
   {
-   "path": "/articles/20260724-nikkei-plunges-over-2200-yen.html",
-   "title": "日経平均が一時2200円超下落、原油高とAI過剰投資懸念で",
+   "path": "/articles/20260801-kioxia-earnings-fy2025.html",
+   "title": "キオクシア4〜6月最終利益、前年比およそ46倍の8400億円超",
    "cat": "株式投資(日本)",
-   "comment": "東京株式市場で日経平均株価が一時2200円超下落した。"
+   "comment": "キオクシアの4〜6月期最終利益が前年比約46倍の8400億円超。"
   },
   {
-   "path": "/articles/20260725-oil-prices-hit-100-dollars.html",
-   "title": "ブレント原油6%超上昇で100ドル到達、生活への影響は",
+   "path": "/articles/20260731-boj-maintains-interest-rate.html",
+   "title": "日銀、政策金利を1%程度に据え置き決定",
    "cat": "時事・世界",
-   "comment": "中東情勢の緊迫化に伴い原油価格が100ドル台に達した。"
+   "comment": "日銀が金融政策決定会合で政策金利を1%程度に据え置き決定。"
   },
   {
-   "path": "/articles/20260723-alphabet-reports-q2-revenue-up-24-percent.html",
-   "title": "Alphabet、Q2売上高24%増の1198億ドルを達成した理由とは",
-   "cat": "シリコンバレー最速",
-   "comment": "アルファベットの第2四半期決算は売上高が大幅増を記録。"
+   "path": "/articles/20260731-microsoft-shares-surge-market-cap-increase.html",
+   "title": "Microsoft株価一時17%急騰、時価総額が史上最大の72兆円増",
+   "cat": "株式投資(日本)",
+   "comment": "米マイクロソフトの好決算を受け、株価が一時17%急騰。"
   },
   {
-   "path": "/articles/20260726-asuka-fujiwara-world-heritage.html",
-   "title": "「飛鳥・藤原の宮都」世界文化遺産に国内27件目",
+   "path": "/articles/20260731-seven-and-i-paypay-capital-business-alliance.html",
+   "title": "セブン＆アイとPayPay、総額3000億円提携で7iD統合",
+   "cat": "日本企業",
+   "comment": "セブン＆アイとPayPayらが総額3000億円の資本業務提携を発表。"
+  },
+  {
+   "path": "/articles/20260801-eu-ai-regulation-identification-obligation.html",
+   "title": "EU、AI生成物に識別表示義務と制裁金63億円を適用へ",
+   "cat": "日本のAI",
+   "comment": "EUがAI生成物への識別表示義務と高額制裁金を適用開始。"
+  },
+  {
+   "path": "/articles/20260801-ohtani-returns-with-hr.html",
+   "title": "大谷翔平、左ひざ痛から復帰戦で24号HR含む長打2本",
    "cat": "時事・世界",
-   "comment": "奈良県の飛鳥・藤原の宮都が世界文化遺産に登録決定。"
+   "comment": "大谷翔平選手が左ひざ痛からの復帰戦で24号本塁打を記録。"
   },
   {
-   "path": "/articles/20260722-france-sns-ban-under-15.html",
-   "title": "フランス、15歳未満のSNS利用禁止へ",
+   "path": "/articles/20260727-keigo-higashino-passes-away-at-68.html",
+   "title": "東野圭吾さん68歳で死去、直木賞作家が残した数々の名作",
    "cat": "時事・世界",
-   "comment": "フランス国民議会で15歳未満のSNS利用禁止法案が可決。"
-  },
-  {
-   "path": "/articles/20260723-mitoma-kaoru-document-sent.html",
-   "title": "三笘薫選手を書類送検、都内での自転車衝突事故で警視庁",
-   "cat": "時事・世界",
-   "comment": "サッカー日本代表の三笘薫選手が自動車事故で書類送検。"
+   "comment": "直木賞作家の東野圭吾さんが大腸がんのため68歳で死去。"
   }
  ]
 }

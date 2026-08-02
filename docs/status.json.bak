@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-03 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-03 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "TEL株価+6.24%高、7月31日の好決算が牽引",
-   "path": "/articles/20260803-tel-stock-price-rise-july-31.html",
-   "cat": "株式投資(日本)"
+   "title": "四季報オンライン：8月7日に決算発表を予定している企業リスト",
+   "path": "/articles/20260803-earnings-announcement-list-august-7.html",
+   "cat": "日本企業"
   },
   {
-   "title": "MIXIが配当利回り5.3％に増配、2027年3月期は155円へ",
-   "path": "/articles/20260803-mixi-dividend-increase-2027.html",
-   "cat": "株式投資(日本)"
+   "title": "神戸経済ニュース：3〜9日の予定と神戸周遊フェス",
+   "path": "/articles/20260803-kobe-economy-schedule-and-events.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 46,
  "gemini": {
-  "used": 21,
+  "used": 24,
   "limit": 200
  }
 }
