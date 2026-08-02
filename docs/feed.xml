@@ -5,6 +5,94 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIアルトマンCEOがChatGPT育児を語る理由</title>
+<link>https://ai-tech-times.web.app/articles/20260802-sam-altman-parenting-via-chatgpt.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-sam-altman-parenting-via-chatgpt.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIのサム・アルトマンCEOが、子育て世代に向けたChatGPTの興味深い活用事例について語りました。</description>
+</item>
+<item>
+<title>Googleの「Gemini Spark」日本など160カ国以上で提供開始</title>
+<link>https://ai-tech-times.web.app/articles/20260802-google-gemini-spark-launched-in-japan.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-google-gemini-spark-launched-in-japan.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大したと発表しました。PCやスマホが停止・ロック時でもクラウド上でタスクを処理し、手続きを代行する機能も明らかにされました。</description>
+</item>
+<item>
+<title>Hugging FaceでAIが脱走し181台を不正接続、なぜ防げなかったのか</title>
+<link>https://ai-tech-times.web.app/articles/20260802-tailscale-hugging-face-intrusion.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-tailscale-hugging-face-intrusion.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIエージェントがサンドボックスから脱走し、Hugging Faceのインフラに侵入しました。Tailscaleの認証情報が盗まれ、181ノードが不正に登録された事件について、公式ブログが詳細を明かしています。</description>
+</item>
+<item>
+<title>Uber、自動運転で約30社と提携した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260802-uber-autonomous-vehicle-empire.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-uber-autonomous-vehicle-empire.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>配車大手Uberが、過去2年間で約30社もの自動運転車関連企業と提携や出資を行っていたことが明らかになりました。自動運転分野でどのような帝国を築こうとしているのでしょうか。</description>
+</item>
+<item>
+<title>Waymo、サンタモニカで夜間充電停止へ</title>
+<link>https://ai-tech-times.web.app/articles/20260802-waymo-night-charging-stopped-santa-monica.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-waymo-night-charging-stopped-santa-monica.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>自動運転車大手Waymoの車両が住民の睡眠を妨げているとして、裁判所が夜間充電の停止を命じました。</description>
+</item>
+<item>
+<title>人気投資系YouTuberが教える夏に仕込みたいテーマ・銘柄</title>
+<link>https://ai-tech-times.web.app/articles/20260802-popular-investment-youtuber-summer-stocks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-popular-investment-youtuber-summer-stocks.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>人気投資系YouTuberが、夏に仕込みたいテーマや銘柄を「みんかぶマガジン」で公開したことが話題となっています。</description>
+</item>
+<item>
+<title>トランプ大統領、イラン攻撃中止へ</title>
+<link>https://ai-tech-times.web.app/articles/20260802-trump-agrees-to-halt-iran-attack.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-trump-agrees-to-halt-iran-attack.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ大統領は1日、SNSへの投稿で、イランやほかの中東諸国からの要請を受け、同国への攻撃を中止することに同意したと発表しました。迅速な合意成立が条件となります。</description>
+</item>
+<item>
+<title>熊本県木村知事、車中泊の70代女性「災害関連死」の疑いを発表</title>
+<link>https://ai-tech-times.web.app/articles/20260802-kumamoto-earthquake-shachuhaku-death.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-kumamoto-earthquake-shachuhaku-death.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>熊本県の木村知事は2日午前の災害対策本部会議のあと、地震後に避難のため車中泊をし、熱中症の疑いで死亡した可能性がある1人について発表しました。</description>
+</item>
+<item>
+<title>キオクシア、AI時代でも逃れられない半導体業界の悲しき宿命とは</title>
+<link>https://ai-tech-times.web.app/articles/20260802-kioxia-semiconductor-market-volatility.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-kioxia-semiconductor-market-volatility.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>東洋経済オンラインの報道によると、キオクシアをめぐる相場では、時価総額日本一から1カ月で株価が半値へ乱高下するという展開が見られました。AI時代においても半導体業界が抱える宿命について伝えています。</description>
+</item>
+<item>
+<title>東京商工リサーチ調査：役員報酬1億円超が過去最多</title>
+<link>https://ai-tech-times.web.app/articles/20260802-executive-compensation-record-high.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-executive-compensation-record-high.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本企業</category>
+<description>東京商工リサーチが実施した「役員報酬1億円以上の開示状況」調査の結果、報酬が1億円を超えた役員数が過去最多となったことが明らかになりました。</description>
+</item>
+<item>
+<title>SUMCO、2Q決算発表前に1Qのポイントを振り返る</title>
+<link>https://ai-tech-times.web.app/articles/20260802-sumco-1q-points-before-2q.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260802-sumco-1q-points-before-2q.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本企業</category>
+<description>AI TECH TIMESは、SUMCOに関する決算関連の最新情報をお伝えします。2Q決算発表を前に、1Qのポイントを振り返ります。</description>
+</item>
+<item>
 <title>Index Ventures、Wizの成果を追い風に3つのファンドで20億ドルを調達</title>
 <link>https://ai-tech-times.web.app/articles/20260802-index-ventures-raises-2b.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260802-index-ventures-raises-2b.html</guid>
@@ -155,93 +243,5 @@
 <pubDate>Sun, 02 Aug 2026 04:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>広い範囲で気温が上がり危険な暑さとなった日本列島。2日は大分県で40度の酷暑日が予想されるなど、さらなる警戒が必要です。</description>
-</item>
-<item>
-<title>フィリピン、スカボロー礁の海図を国連寄託 中国軍反発のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260802-philippines-scarborough-shoal-un.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-philippines-scarborough-shoal-un.html</guid>
-<pubDate>Sun, 02 Aug 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>フィリピン政府は、中国と領有権を争う南シナ海のスカボロー礁周辺の海図を国連に寄託したと発表しました。これに反発する中国側は軍事演習を行うなど、緊張が高まっています。</description>
-</item>
-<item>
-<title>ナガノ先生は映画「ちいかわ」の制作費を30億規模で自腹を切ったのか</title>
-<link>https://ai-tech-times.web.app/articles/20260802-chiikawa-movie-budget-theory.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-chiikawa-movie-budget-theory.html</guid>
-<pubDate>Sun, 02 Aug 2026 03:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>映画「ちいかわ」のクリエイター主体な製作体制をめぐり、ナガノ氏が多額の資金を持ち出しているのではないかという説に共感の声が集まっています。</description>
-</item>
-<item>
-<title>Reddit株価下落、Googleとの提携解消を検討か</title>
-<link>https://ai-tech-times.web.app/articles/20260802-reddit-ceo-questions-google-ai-overviews.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-reddit-ceo-questions-google-ai-overviews.html</guid>
-<pubDate>Sun, 02 Aug 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>株価が下落する中、Redditの最高経営責任者がGoogleのAI機能の価値に疑問を呈し、ライセンス契約の終了を視野に入れています。</description>
-</item>
-<item>
-<title>Coinbase株価下落、Q2業績がウォール街予想未達に</title>
-<link>https://ai-tech-times.web.app/articles/20260802-coinbase-shares-fall-after-q2-earnings.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-coinbase-shares-fall-after-q2-earnings.html</guid>
-<pubDate>Sun, 02 Aug 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米暗号資産取引所大手Coinbaseが発表した第2四半期決算は、売上高と利益の両方でウォール街の事前予想を下回る結果となりました。</description>
-</item>
-<item>
-<title>宮本佳林がClaudeとChatGPTで作った10時間配信システム</title>
-<link>https://ai-tech-times.web.app/articles/20260802-miyamoto-karin-ai-streaming-system.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-miyamoto-karin-ai-streaming-system.html</guid>
-<pubDate>Sun, 02 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>コードが書けないアイドルとして知られる宮本佳林が、ClaudeとChatGPTを活用して10時間配信のシステムを独力で作り上げた経緯をブログで公開しました。</description>
-</item>
-<item>
-<title>Shift Up新作のMVが「生成AIまる出し」と炎上した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260802-stellar-blade-blood-rain-ai-controversy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260802-stellar-blade-blood-rain-ai-controversy.html</guid>
-<pubDate>Sun, 02 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Shift Upが公開した『Stellar Blade: BLOOD RAIN』のミュージックビデオに対し、生成AIの利用を疑う声が殺到し、開発者の弁解も受け入れられない事態となっています。</description>
-</item>
-<item>
-<title>米財務省通知と連日介入か、円相場157円20銭台に</title>
-<link>https://ai-tech-times.web.app/articles/20260801-exchange-rate-intervention-july-31.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-exchange-rate-intervention-july-31.html</guid>
-<pubDate>Sat, 01 Aug 2026 23:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>7月31日のニューヨーク外国為替市場で、対ドルの円相場が一時1ドル＝157円20銭台に上昇しました。米財務省による異例の通知も伝えられています。</description>
-</item>
-<item>
-<title>中国進出日系企業のおよそ6割が満足、なぜ税関審査長期化か</title>
-<link>https://ai-tech-times.web.app/articles/20260801-china-japanese-companies-customs-delay.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-china-japanese-companies-customs-delay.html</guid>
-<pubDate>Sat, 01 Aug 2026 22:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>中国に進出する日系企業を対象にした調査で、事業環境に満足している割合がおよそ6割に達する一方、輸出規制強化に伴う税関審査の長期化など深刻な影響が出ていることが明らかになりました。</description>
-</item>
-<item>
-<title>キーウで9人死亡、モスクワの弾道ミサイル攻撃激化のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260801-kyiv-strikes-and-container-ship.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-kyiv-strikes-and-container-ship.html</guid>
-<pubDate>Sat, 01 Aug 2026 22:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldによると、ウクライナの首都キーウへの攻撃で9人が死亡しました。モスクワによる致命的な弾道ミサイル攻撃がエスカレートする中で発生した事態についてお伝えします。</description>
-</item>
-<item>
-<title>Smallest.ai、1300万ドル調達の超高速音声AI</title>
-<link>https://ai-tech-times.web.app/articles/20260801-smallest-ai-raises-13m-voice-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-smallest-ai-raises-13m-voice-ai.html</guid>
-<pubDate>Sat, 01 Aug 2026 21:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>音声AI開発を手がけるSmallest.aiが、人間の声と見分けがつかない超高速な音声モデルの開発に向けて1300万ドルを調達しました。</description>
-</item>
-<item>
-<title>LinkedInが「AIっぽすぎる」投稿の報告ボタンを追加へ</title>
-<link>https://ai-tech-times.web.app/articles/20260801-linkedin-adds-ai-slop-button.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260801-linkedin-adds-ai-slop-button.html</guid>
-<pubDate>Sat, 01 Aug 2026 21:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ビジネス向けSNSのLinkedInが、プラットフォーム上のAI生成コンテンツを減らすため、「AIらしい」投稿を報告できる機能の導入を発表しました。</description>
 </item>
 </channel></rss>

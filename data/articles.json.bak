@@ -27291,5 +27291,39 @@
   "date": "2026-08-02",
   "time": "09:00",
   "path": "/articles/20260802-kinney-drugs-ai-pharmacy-issues.html"
+ },
+ {
+  "title": "Index Ventures、Wizの成果を追い風に3つのファンドで20億ドルを調達",
+  "lead": "有名企業への投資実績を持つIndex Venturesが、新たに3つのファンドを合わせて20億ドルを調達しました。この資金調達により、同社の投資可能資金の総額は35億ドルに達しています。",
+  "summary3": [
+   "Index Venturesが20億ドルを調達",
+   "新資金により投資可能資金が35億ドルに",
+   "Wizのペイアウト直後の大型資金調達"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新のベンチャーキャピタル動向です。海外メディアのTechCrunchによると、著名な投資会社であるIndex Venturesが、新たな資金調達を実施したことが明らかになりました。",
+   "今回の発表では、3つのファンドを合わせて総額20億ドル（約2000億円規模）の資金を集めることに成功しています。この大型の資金調達は、先日話題となったWizからのペイアウト（利益還元・回収）を終えた直後に行われたものです。",
+   "この新たな資金の追加により、Index Venturesが保有する投資可能な資本の総額は、合計で3.5ドル規模へと拡大しました。潤沢な資金を手に入れた同社が、今後どのようなスタートアップ企業へ投資を行っていくのか、業界全体からの注目が集まっています。"
+  ],
+  "tags": [
+   "Index Ventures",
+   "ベンチャーキャピタル",
+   "資金調達"
+  ],
+  "slug": "index-ventures-raises-2b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Index Ventures",
+    "type": "company",
+    "desc": "サンフランシスコとロンドンを拠点にグローバルな投資を行う、世界的に著名なベンチャーキャピタル企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+  "category": "silicon",
+  "date": "2026-08-02",
+  "time": "10:00",
+  "path": "/articles/20260802-index-ventures-raises-2b.html"
  }
 ]
