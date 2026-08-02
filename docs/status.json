@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-03 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-03 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "全国で40度超の記録的暑さ、3日は熊本市など九州で酷暑日予想",
-   "path": "/articles/20260803-record-breaking-heat-and-extreme-temperatures-forecast.html",
-   "cat": "時事・世界"
+   "title": "TEL株価+6.24%高、7月31日の好決算が牽引",
+   "path": "/articles/20260803-tel-stock-price-rise-july-31.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "FIFAが子会社設立計画を撤回、その理由は",
-   "path": "/articles/20260803-fifa-withdraws-subsidiary-plan.html",
-   "cat": "時事・世界"
+   "title": "MIXIが配当利回り5.3％に増配、2027年3月期は155円へ",
+   "path": "/articles/20260803-mixi-dividend-increase-2027.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": 44,
+ "pv_today": 46,
  "gemini": {
-  "used": 17,
+  "used": 21,
   "limit": 200
  }
 }
