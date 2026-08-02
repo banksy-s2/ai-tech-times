@@ -28375,5 +28375,78 @@
   "date": "2026-08-02",
   "time": "23:00",
   "path": "/articles/20260802-yaskawa-robot-business-profit-margin.html"
+ },
+ {
+  "title": "マイクロソフト、欧州と英国でXbox価格を最大200ユーロ引き上げ",
+  "lead": "マイクロソフトが展開する「Xbox」の欧州と英国での価格改定が明らかになりました。モデルにより最大200ユーロまたは170ポンドの値上げとなります。",
+  "summary3": [
+   "欧州と英国でXbox価格が大幅上昇",
+   "値上げ幅は最大200ユーロまたは170ポンド",
+   "ディスクドライブ搭載の1TBモデルも対象"
+  ],
+  "body": [
+   "マイクロソフトがJune（6月）に最新のXbox価格改定を発表した際、提示されていたのは米国での価格のみでした。しかし今回、欧州（EU）および英国における新しい価格が判明し、その値上がり幅が非常に劇的なものであることが分かっています。",
+   "今回の改定により、選択するモデルによっては最大で200ユーロ、あるいは170ポンドの価格引き上げが行われます。ディスクドライブを搭載した1TBのXbox Series Xなども値上げの対象に含まれており、現地のユーザーの財布事情に直接関わる大きな変更となっています。",
+   "詳細な価格や対象モデルの全容については、The Vergeの報道などで伝えられています。米国外の市場における今後の動向や、ユーザーへの影響に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Xbox",
+   "マイクロソフト",
+   "ゲーム"
+  ],
+  "slug": "xbox-prices-increasing-200-euros",
+  "people": [],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカ合衆国のワシントン州に本社を置く、世界的な大手ソフトウェアおよびハードウェア企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "02:00",
+  "path": "/articles/20260803-xbox-prices-increasing-200-euros.html"
+ },
+ {
+  "title": "Pixel 11仕様と価格899ドルからリーク、値上げの理由とは",
+  "lead": "米The Vergeによると、Pixel 11シリーズの仕様と価格がリークされ、8月12日のイベントを前に事前情報通りの内容が明らかになりました。100ドルの値上げが予定されていますが、私たちの財布にはどう影響するのでしょうか。",
+  "summary3": [
+   "Pixel 11の全仕様と価格が流出",
+   "価格は100ドル値上げし899ドルから",
+   "容量は256GBになると伝えられている"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする最新ニュースです。海外メディアのThe Vergeが報じたところによると、Android HeadlinesがPixel 11シリーズ全体のスペックと価格に関する情報を伝えました。",
+   "今回共有された内容は、8月12日に控えたイベントに向けてこれまで噂されてきた情報と基本的に一致しているとのことです。注目の価格については、100ドルの値上げが行われ、899ドルからスタートすると予想されています。",
+   "また、価格が上昇する一方で、端末には256GBが搭載される見込みです。今後の正式発表でどのような詳細が明かされるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Pixel 11",
+   "Android Headlines",
+   "The Verge"
+  ],
+  "slug": "pixel-11-specs-and-price-leak",
+  "people": [],
+  "terms": [
+   {
+    "name": "The Verge",
+    "type": "company",
+    "desc": "アメリカのテクノロジーニュースやメディアを手がけるウェブサイト"
+   },
+   {
+    "name": "Android Headlines",
+    "type": "company",
+    "desc": "Androidに関するニュースや最新情報を専門に発信する海外メディア"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "02:00",
+  "path": "/articles/20260803-pixel-11-specs-and-price-leak.html"
  }
 ]

@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-03 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-08-03 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "全国で40度超の記録的暑さ、3日は熊本市など九州で酷暑日予想",
+   "path": "/articles/20260803-record-breaking-heat-and-extreme-temperatures-forecast.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "FIFAが子会社設立計画を撤回、その理由は",
+   "path": "/articles/20260803-fifa-withdraws-subsidiary-plan.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [
-  "執筆失敗: 有名インフルエンサーの煽りに騙されるな！資産4億の50代専業主婦、「30年スパン"
- ],
- "pv_today": 36,
+ "notes": [],
+ "pv_today": 44,
  "gemini": {
-  "used": 14,
+  "used": 17,
   "limit": 200
  }
 }
