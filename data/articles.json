@@ -27833,5 +27833,44 @@
   "date": "2026-08-02",
   "time": "14:00",
   "path": "/articles/20260802-njpw-netflix-bushiroad-sale.html"
+ },
+ {
+  "title": "Alnylam株がQ2決算後に30%急落、時価総額120億ドル消失の背景とは",
+  "lead": "Alnylamの株価が第2四半期決算の発表後に30%という急落を記録し、時価総額120億ドルが消失しました。市場に関係者や投資家の注目が集まっています。",
+  "summary3": [
+   "Alnylamの株価がQ2決算後に急落",
+   "下落率は30%に達し大きな話題に",
+   "時価総額120億ドルが消失した"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする株式市場のニュースです。Alnylamの株価が、第2四半期の決算発表後に30%の急落を記録しました。今回の急落により、同社の時価総額は120億ドルが消失する事態となっています。",
+   "決算発表を受けた株式市場での動きは非常に大きく、短期間で巨額の時価総額が失われる結果となりました。具体的な決算の内容や市場の反応については、Taro Watanabe氏のnote記事などで詳しく取り上げられています。",
+   "上場企業の動向を追う投資家や市場関係者にとって、今回のAlnylamにおける株価の急落と時価総額の減少は大きな関心事です。今後の市場における動きや追加の発表情報にも引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Alnylam",
+   "決算",
+   "株式市場"
+  ],
+  "slug": "alnylam-q2-earnings-stock-drop",
+  "people": [
+   {
+    "name": "Taro Watanabe",
+    "bio": "Alnylamの株価急落と決算に関する情報をnoteで発信している執筆者です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Alnylam",
+    "type": "company",
+    "desc": "第2四半期決算発表後に株価が30%急落し、時価総額120億ドルを消失した上場企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oX0tYb2tQUkVOblIza2JLSDRyYTV1R3BqUDlIeEROQTlXZlktb1hMaTZROGpKV19GSko5S1Y3NUVpdFNGTEZGZDNOZUtpQmV4?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-02",
+  "time": "15:00",
+  "path": "/articles/20260802-alnylam-q2-earnings-stock-drop.html"
  }
 ]

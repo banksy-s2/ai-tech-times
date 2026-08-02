@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-02 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-02 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "新日本プロレス売却、Netflixが背中押す理由",
-   "path": "/articles/20260802-njpw-netflix-bushiroad-sale.html",
-   "cat": "株式投資(日本)"
+   "title": "Alnylam株がQ2決算後に30%急落、時価総額120億ドル消失の背景とは",
+   "path": "/articles/20260802-alnylam-q2-earnings-stock-drop.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
  "notes": [
-  "執筆失敗: 沖縄電力（9511）、4期連続の「増配」を発表して、配当利回り4.7％に！ 年間"
+  "執筆失敗: 4日 スペースXが4～6月決算発表 マスク氏語るAI戦略は - 日本経済新聞"
  ],
- "pv_today": 23,
+ "pv_today": 24,
  "gemini": {
-  "used": 99,
+  "used": 103,
   "limit": 200
  }
 }

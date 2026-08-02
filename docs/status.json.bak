@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-02 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-02 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ゼレンスキー大統領「迎撃は1発のみ」大規模攻撃で9人死亡",
-   "path": "/articles/20260802-zelenskyy-missile-attack-ukraine.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "国連グテーレス事務総長が警告、10月まで世界的高温予想",
-   "path": "/articles/20260802-un-warns-extreme-heat-until-october.html",
-   "cat": "時事・世界"
+   "title": "新日本プロレス売却、Netflixが背中押す理由",
+   "path": "/articles/20260802-njpw-netflix-bushiroad-sale.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "RAMAYANA - Official Trailer",
   "url": "https://www.youtube.com/watch?v=1zip1rNaNYs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 沖縄電力（9511）、4期連続の「増配」を発表して、配当利回り4.7％に！ 年間"
+ ],
  "pv_today": 23,
  "gemini": {
-  "used": 95,
+  "used": 99,
   "limit": 200
  }
 }
