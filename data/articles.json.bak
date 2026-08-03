@@ -29072,5 +29072,362 @@
   "date": "2026-08-03",
   "time": "10:00",
   "path": "/articles/20260803-london-hacker-house-vs-founder-burnout.html"
+ },
+ {
+  "title": "AIの限界を見抜く、カエルの画像生成ベンチマーク",
+  "lead": "AIの性能を試すため、独特な条件を指定したユニークな個人用ベンチマークが注目を集めています。",
+  "summary3": [
+   "AIの性能を試す個人ベンチマークが話題",
+   "ハプスブルク家の顎を持つカエルを指定",
+   "SVG形式での画像生成能力をテスト"
+  ],
+  "body": [
+   "AI/LLMの分野において、エンジニアや研究者が独自の評価方法を模索する中、新たな個人用ベンチマークがHacker Newsなどで話題となっています。",
+   "公開された情報によると、このベンチマークは「ハプスブルク家の顎を持つカエルをSVG形式で生成する」という非常にユニークで具体的な指示をAIに与えるものです。",
+   "画像生成やコード生成を同時にこなす必要があるこの難易度の高いテストを通じて、最新のAIモデルが持つ表現力や指示への追従性をユニークな視点から検証することができます。"
+  ],
+  "tags": [
+   "AI",
+   "LLM",
+   "ベンチマーク"
+  ],
+  "slug": "ai-benchmark-frog-svg",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://frogs.vaguespac.es/",
+  "category": "ai",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-ai-benchmark-frog-svg.html"
+ },
+ {
+  "title": "16歳の開発者が発表したAIエージェント「Sprocket」",
+  "lead": "AI/LLMの分野で、ハードウェアとソフトウェアの両方で他を圧倒する性能を持つオープンソースのAIエージェント「Sprocket」が公開されました。自動でウェブから最適なコンテキストを取得し、買い物まで行う能力の全貌をお伝えします。",
+  "summary3": [
+   "16歳の開発者がSprocketを公開",
+   "ハードとソフトの開発で他を圧倒",
+   "ウェブから購入まで自律的に実行可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、AI/LLMコミュニティで話題となっている新たなオープンソースのAIエージェント「Sprocket」についての情報が入りましたのでお伝えいたします。このツールは、16歳の開発者によって長期間にわたり開発が進められてきたものです。",
+   "Sprocketは、ハードウェアおよびソフトウェアの開発において、現在存在する他のどのエージェントをも凌駕する性能を誇るとされています。特筆すべき最大の特徴は、ユーザーから指示を受けた際に、ウェブ上のあらゆるウェブサイトからハードウェアの部品やSaaSのサブスクリプションに至るまで、自ら最適なものを判断して購入できる点です。",
+   "さらに、Sprocketはあらゆる作業においてウェブから最高峰のコンテキストを取得することで、信じられないほどの信頼性を実現しています。その品質やパフォーマンス、そしてユーザーインターフェースはCodexに匹敵するレベルに達しており、今後の開発現場における活用が期待されています。"
+  ],
+  "tags": [
+   "Sprocket",
+   "AIエージェント",
+   "オープンソース"
+  ],
+  "slug": "sprocket-ai-agent-development",
+  "people": [],
+  "terms": [
+   {
+    "name": "Codex",
+    "type": "ai",
+    "desc": "高度なプログラミング支援能力を持つ、AIモデルおよびAI製品の一つです。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://sprocket-demo.spikonado.com",
+  "category": "ai",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-sprocket-ai-agent-development.html"
+ },
+ {
+  "title": "Cognition AIが描く日本市場の狙い",
+  "lead": "自律型AIエンジニア「Devin」を手掛ける米Cognition AIの日本ユーザー人口が、米国に次ぐ規模に達していることが分かりました。",
+  "summary3": [
+   "日本ユーザーは米国に次ぐ規模",
+   "Devin開発元が日本市場を分析",
+   "IT人材の約7割がSIer側"
+  ],
+  "body": [
+   "自律型AIエンジニア「Devin」を手掛ける米Cognition AIの日本ユーザー人口は、米国に次ぐ規模だといいます。IT人材の約7割がSIer側に偏るIT外注大国・日本で、同社は何を狙うのでしょうか。",
+   "日本法人代表の正井拓己氏によると、エンジニアの代替ではなく、できることを増やすことが重要であるとしています。IT人材の構造に特徴がある日本市場において、同社が見据える“伸びしろ”に注目が集まっています。"
+  ],
+  "tags": [
+   "Devin",
+   "CognitionAI",
+   "AIエンジニア"
+  ],
+  "slug": "cognition-ai-devin-japan-strategy",
+  "people": [
+   {
+    "name": "正井拓己氏",
+    "bio": "自律型AIエンジニア「Devin」を手掛ける米Cognition AIの日本法人代表を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Cognition AI",
+    "type": "company",
+    "desc": "自律型AIエンジニア「Devin」などを手掛ける米国の企業。"
+   },
+   {
+    "name": "Devin",
+    "type": "ai",
+    "desc": "米Cognition AIが手掛ける自律型AIエンジニアリングツール。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-cognition-ai-devin-japan-strategy.html"
+ },
+ {
+  "title": "OpenAI、次期モデル「Astra」で未解決の数学問題10件を解決",
+  "lead": "OpenAIは、次期主力モデル「Astra」の社内版により、数学などの未解決問題10件で新たな結果を得たと発表しました。計算コストは約2000ドルに抑えられ、高度な数学研究への応用可能性を示しています。",
+  "summary3": [
+   "次期主力モデルAstraの存在が明らかに",
+   "未解決の数学問題10件で新たな結果を得た",
+   "計算コストはSol換算で約2000ドルに抑制"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がITmedia AI+の報道から得た情報によると、米OpenAIは次期主力モデル「Astra」の社内版について、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表しました。Astraの名称が公表されたのは、今回が初とみられています。",
+   "今回の発表では、高度な数学研究への応用可能性が示されました。計算コストは「Sol」換算で約2000ドルに抑えられており、証明支援系「Lean」による形式証明もGitHubで公開されています。",
+   "AI技術が単なる対話や画像生成にとどまらず、高度な学術的・理論的研究の分野においても成果を上げつつあることが示されており、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Astra",
+   "人工知能"
+  ],
+  "slug": "openai-astra-math-problems",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発・提供し、最先端の人工知能研究をリードするアメリカの企業です。"
+   },
+   {
+    "name": "Astra",
+    "type": "ai",
+    "desc": "OpenAIが開発を進める次期主力モデルの社内版で、数学や理論計算機科学の未解決問題で成果を上げています。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-openai-astra-math-problems.html"
+ },
+ {
+  "title": "TechCrunch選出：AI時代でもアプリ開発が活発な理由",
+  "lead": "AIエージェントの台頭により従来のアプリが不要になるとの予測がある中、開発者たちはこれまで以上に速いペースで新しいソフトウェアをリリースし続けています。App Storeで見つかった注目のアプリを紹介します。",
+  "summary3": [
+   "AI時代でもアプリ開発は衰えていない",
+   "従来型アプリが不要になる予測に反する動向",
+   "日常に役立つ多様な新アプリが登場"
+  ],
+  "body": [
+   "AIエージェントの普及によって従来のアプリが時代遅れになると予測されているにもかかわらず、開発者たちはこれまで以上に速いスピードで新しいソフトウェアを世に送り出しています。",
+   "米テックメディアのTechCrunchによると、App Storeにはホーム画面に追加する価値のある最新の発見が数多く存在しています。スマートなブックマークツールや近所向けのマーケットプレイスをはじめ、デジタルペンフレンド、自然を記録するジャーナルなどが登場しています。",
+   "これらの隠れた名作アプリの存在は、AI時代が到来した現在でも、素晴らしいソフトウェアを開発する余地が十分に遺されていることを証明しています。"
+  ],
+  "tags": [
+   "App Store",
+   "アプリ開発",
+   "AI"
+  ],
+  "slug": "app-store-hidden-gems-in-ai-era",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、スタートアップ企業や新技術の情報などを専門に扱う大手テックメディアです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-app-store-hidden-gems-in-ai-era.html"
+ },
+ {
+  "title": "chachaが披露、指まで動く超高精度ギター演奏の秘密",
+  "lead": "英語圏で活動するギタリストVTuber「chacha」が投稿したギター演奏のモーションキャプチャ映像が、その精度の高さで話題を集めています。",
+  "summary3": [
+   "英語圏のVTuberがギター演奏映像を公開",
+   "指使いまで再現した精度が話題に",
+   "人気ゲームのBGM演奏で注目を集める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、英語圏で活動するギタリストVTuber「chacha」の最新情報が入ってまいりました。chachaが投稿したギター演奏のモーションキャプチャ映像が、その精度の高さで大きな話題を集めています。",
+   "公開された映像では、スマホゲーム『勝利の女神：NIKKE』のBGMである「TRUE FIREPOWER」を演奏しています。そこでは単なるアバターの動きにとどまらず、左手で弦を押さえる細かい動きや、ビブラートチョーキングといった指使いに至るまで、3D空間で完璧に再現されているのが確認できます。",
+   "バーチャル空間における演奏表現の可能性を広げるものとして、多くの音楽ファンやVTuberファンの注目を集める形となりました。今後の活動やさらなる技術の進化についても、引き続き期待が寄せられています。"
+  ],
+  "tags": [
+   "VTuber",
+   "ギター",
+   "モーションキャプチャ"
+  ],
+  "slug": "chacha-guitar-vtuber-motion-capture",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.youtube.com/shorts/o7Dg8_18cq8",
+  "category": "influencer",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-chacha-guitar-vtuber-motion-capture.html"
+ },
+ {
+  "title": "片山財務相、日米協調介入を表明し今後もちゅうちょせず",
+  "lead": "歴史的な円安の是正に向けて、片山財務大臣がアメリカとの協調介入を実施したことを明らかにしました。今後さらなる実施もちゅうちょしない姿勢を示しています。",
+  "summary3": [
+   "片山財務相が日米協調介入を明らかに",
+   "歴史的な円安の是正へ向けた取り組み",
+   "今後もさらなる実施をちゅうちょせず"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。片山財務大臣は、歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしました。",
+   "今回の対応について、日本の通貨当局からは「日米通貨同盟の完成」といった見方も示されており、市場の動向が注目されています。",
+   "同大臣は、今後も協調介入の実施をちゅうちょしないという考えを示しており、さらなる政策対応への警戒感が続いています。"
+  ],
+  "tags": [
+   "為替介入",
+   "円安",
+   "財務省"
+  ],
+  "slug": "katayama-us-japan-joint-intervention",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194421000",
+  "category": "world",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-katayama-us-japan-joint-intervention.html"
+ },
+ {
+  "title": "米トランプ大統領、イランとの協議を「3日に開始」へ",
+  "lead": "アメリカのトランプ大統領は、計画していたイランへの大規模攻撃を中止し、協議が3日に始まると発言しました。しかし、イラン側の主張とは食い違いを見せています。",
+  "summary3": [
+   "トランプ大統領がイランへの大規模攻撃中止を表明",
+   "イランとの協議が3日に始まると明らかに発言",
+   "イラン側は報復措置の警告が理由だと主張し不透明感"
+  ],
+  "body": [
+   "アメリカのトランプ大統領は、計画していたとするイランへの大規模な攻撃を中止し、イランとの協議が3日に始まると発言しました。緊迫する情勢のなかでの突然の発表となりましたが、今後の展開については依然として不透明な状況が続いています。",
+   "一方のイラン側は、アメリカが攻撃を中止した理由について、イラン自身が報復措置を警告していたからだと主張しています。このように、攻撃中止の背景をめぐる双方の言い分には食い違いが見られます。",
+   "両国の主張が対立する中、予定されている3日の協議がどのように進むのか、国際社会の関心が集まっています。今後の動向によっては情勢が再び大きく変化する可能性もあり、引き続き慎重な見極めが求められます。"
+  ],
+  "tags": [
+   "アメリカ",
+   "イラン",
+   "国際情勢"
+  ],
+  "slug": "trump-iran-talks-march-3",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。国内外の政治や外交において強い影響力を持つ政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194561000",
+  "category": "world",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-trump-iran-talks-march-3.html"
+ },
+ {
+  "title": "片山財務相、日米協調介入を継続へ円安是正で",
+  "lead": "歴史的な円安の是正に向けて、片山財務大臣はアメリカとの協調介入を実施したことを明らかにしました。今後についても、ちゅうちょせず実施する考えを示しています。",
+  "summary3": [
+   "片山財務相が日米協調介入を明かす",
+   "歴史的な円安の是正へ向けた対応",
+   "今後のさらなる実施も表明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がNHK経済の報道に基づいてお伝えします。片山財務大臣は、歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしました。",
+   "そのうえで、今後も協調介入の実施をちゅうちょしないという強い考えを示しています。日本の通貨当局からは、「日米通貨同盟の完成」といった見解も示されています。",
+   "為替市場における動向や政府の対応について、引き続き関心が集まっています。"
+  ],
+  "tags": [
+   "為替介入",
+   "円安",
+   "経済"
+  ],
+  "slug": "katayama-us-japan-joint-intervention",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194421000",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-katayama-us-japan-joint-intervention-2.html"
+ },
+ {
+  "title": "日経平均株価、下げ幅が1600円超に拡大",
+  "lead": "株式市場において、日経平均株価の下げ幅が1600円を超える展開となっています。",
+  "summary3": [
+   "日経平均の下げ幅が1600円を超える",
+   "株探ニュースが市場の動向を報じる",
+   "Yahoo!ファイナンスにて配信"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式市場のニュースです。株探ニュースの報道によると、日経平均株価の下げ幅が1600円を超える状況となっています。",
+   "市場における株価の急激な変動は、投資家や市場関係者の間で広く注目を集めています。具体的な下落の背景や今後の動向については、さらなる情報の確認が必要です。",
+   "本記事の情報はYahoo!ファイナンス経由で提供されたものであり、実際の数値や事実に基づいてお伝えしております。"
+  ],
+  "tags": [
+   "日経平均",
+   "株価",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-drops-over-1600-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1VoTC15UDdOSjNUZlNWQlJRZXZDRmpGQkZmR0NuX0RVS0NoVmFmVFVRNUpsNWc5VG0zeXBpMENDdGpnbm55TmR4N2dTenpESzUwa1NrQVctSkRRYXo2YXQxSlc5TXo4VDg4bWhnUDlRc3lVc05TX2U3V1Y4LTRqcFdsalR0NVU?oc=5",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-nikkei-average-drops-over-1600-yen.html"
+ },
+ {
+  "title": "楽天グループ、包括的業務提携に向けた基本合意を発表",
+  "lead": "AI TECH TIMESがお伝えする企業の最新動向です。楽天グループ株式会社に関する適時開示情報が発表されました。",
+  "summary3": [
+   "楽天グループが適時開示を発表",
+   "包括的業務提携に向けた基本合意",
+   "2026年8月3日に情報開示"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。2026年8月3日9時15分に、適時開示情報が発表されました。今回の発表によると、楽天グループ株式会社との包括的業務提携に向けた基本合意がなされたとのことです。",
+   "詳細な内容につきましては、今後の発表や適時開示情報をご参照ください。企業間の新たな提携の動きとして、引き続き注目を集めることが予想されます。",
+   "当メディアでは、今後も株式市場や企業に関する最新のニュースを正確かつ迅速にお伝えしてまいります。投資判断にあたっては、公式の適時開示資料を必ずご確認ください。"
+  ],
+  "tags": [
+   "楽天グループ",
+   "業務提携",
+   "適時開示"
+  ],
+  "slug": "rakuten-group-business-alliance-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "楽天グループ株式会社",
+    "type": "company",
+    "desc": "インターネット通販や金融、モバイル事業などを幅広く展開する日本の大手IT企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45RUliZXpRTWt1OXdlWURRb1B5OHQxVHh2cUFiZl95UXVNMHBxRVhfRFlMRTEzenpIUXVmeHlJcEtmV3ZNcUE?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "12:02",
+  "path": "/articles/20260803-rakuten-group-business-alliance-2026.html"
  }
 ]

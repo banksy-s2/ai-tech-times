@@ -1,75 +1,26 @@
 {
- "updated": "2026-08-03 12:02",
- "mode": "フル便",
+ "updated": "2026-08-03 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AIの限界を見抜く、カエルの画像生成ベンチマーク",
-   "path": "/articles/20260803-ai-benchmark-frog-svg.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "16歳の開発者が発表したAIエージェント「Sprocket」",
-   "path": "/articles/20260803-sprocket-ai-agent-development.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Cognition AIが描く日本市場の狙い",
-   "path": "/articles/20260803-cognition-ai-devin-japan-strategy.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "OpenAI、次期モデル「Astra」で未解決の数学問題10件を解決",
-   "path": "/articles/20260803-openai-astra-math-problems.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "TechCrunch選出：AI時代でもアプリ開発が活発な理由",
-   "path": "/articles/20260803-app-store-hidden-gems-in-ai-era.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "chachaが披露、指まで動く超高精度ギター演奏の秘密",
-   "path": "/articles/20260803-chacha-guitar-vtuber-motion-capture.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "片山財務相、日米協調介入を表明し今後もちゅうちょせず",
-   "path": "/articles/20260803-katayama-us-japan-joint-intervention.html",
+   "title": "イオンモール熊本爆発、雑貨店が売上金回収指示",
+   "path": "/articles/20260803-aeon-mall-kumamoto-explosion-incident.html",
    "cat": "時事・世界"
   },
   {
-   "title": "米トランプ大統領、イランとの協議を「3日に開始」へ",
-   "path": "/articles/20260803-trump-iran-talks-march-3.html",
+   "title": "円相場が一時155円台に値上がり、片山財務大臣が協調介入を表明",
+   "path": "/articles/20260803-yen-exchange-rate-155-yen-level.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "片山財務相、日米協調介入を継続へ円安是正で",
-   "path": "/articles/20260803-katayama-us-japan-joint-intervention-2.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日経平均株価、下げ幅が1600円超に拡大",
-   "path": "/articles/20260803-nikkei-average-drops-over-1600-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "楽天グループ、包括的業務提携に向けた基本合意を発表",
-   "path": "/articles/20260803-rakuten-group-business-alliance-2026.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [
-  "執筆失敗: This $9 key physically locks your most a",
-  "執筆失敗: セブン＆アイ－もみ合い ソフトバンクら3社と資本業務提携(トレーダーズ・ウェブ)",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 48,
  "gemini": {
-  "used": 90,
+  "used": 95,
   "limit": 200
  }
 }
