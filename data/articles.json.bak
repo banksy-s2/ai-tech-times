@@ -29546,5 +29546,78 @@
   "date": "2026-08-03",
   "time": "14:00",
   "path": "/articles/20260803-stock-price-drop-yen-appreciation.html"
+ },
+ {
+  "title": "NTTとOptQCが資本業務提携、2030年に100万量子ビット目指す理由",
+  "lead": "NTTとOptQCが、光量子コンピュータの実用化に向けた資本業務提携を締結しました。2030年の100万量子ビット到達を目指す方針です。",
+  "summary3": [
+   "NTTとOptQCが資本業務提携を締結",
+   "光量子コンピュータの実用化を目指す",
+   "2030年に100万量子ビット到達を計画"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日本電信電話株式会社（NTT）とOptQCは、次世代技術である光量子コンピュータの実用化に向けた資本業務提携に踏み切りました。",
+   "今回の提携により、両社は研究開発を加速させる方針を示しています。特に注目すべき目標として、2030年までに100万量子ビットを実現することが掲げられました。",
+   "量子コンピュータ分野は、今後の技術革新の鍵を握る領域として期待されています。両社の協業が、今後の実用化に向けた開発スピードにどのような影響を与えるのか、引き続き業界の動向が注目されます。"
+  ],
+  "tags": [
+   "光量子コンピュータ",
+   "NTT",
+   "OptQC"
+  ],
+  "slug": "ntt-optqc-optical-quantum-computer",
+  "people": [],
+  "terms": [
+   {
+    "name": "NTT",
+    "type": "company",
+    "desc": "日本電信電話株式会社。通信事業を基盤とし、国内外で幅広いIT・技術サービスを展開する大手電気通信事業者。"
+   },
+   {
+    "name": "OptQC",
+    "type": "company",
+    "desc": "光量子コンピュータの研究開発や実用化に取り組む先端技術企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Vmh3Rm9PMklzLUJmZGxRWUExdC10bDJxQmV0allwZTBuODMxdHdKLWpOcWJpTGE2LWRuMXlLanlORmQ4MnJTLXozaHRJZ0FTZm9r?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "15:00",
+  "path": "/articles/20260803-ntt-optqc-optical-quantum-computer.html"
+ },
+ {
+  "title": "東洋経済オンライン：東証上場企業の社外取締役なのに6年間で出席ゼロの猛者がいた！",
+  "lead": "東洋経済オンラインが、東証上場企業の社外取締役における「取締役会出席率ワースト」ランキングを報じました。中には6年間で一度も出席していない事例も含まれています。",
+  "summary3": [
+   "東洋経済がワーストランキングを報道",
+   "社外取締役なのに6年間出席ゼロ",
+   "東証上場企業のコーポレートガバナンス"
+  ],
+  "body": [
+   "ニュースサイト「東洋経済オンライン」は、東証上場企業の社外取締役を対象とした「取締役会出席率ワースト」ランキングの記事を公開しました。",
+   "記事によると、東証上場企業の社外取締役という立場でありながら、「6年間で出席ゼロ」という事例が存在していたことが明らかになっています。",
+   "企業の透明性やガバナンスのあり方が問われる中、社外取締役の活動実態に注目が集まる内容となっています。"
+  ],
+  "tags": [
+   "東証上場企業",
+   "社外取締役",
+   "東洋経済オンライン"
+  ],
+  "slug": "toyokeizai-outside-director-attendance-ranking",
+  "people": [],
+  "terms": [
+   {
+    "name": "東洋経済オンライン",
+    "type": "company",
+    "desc": "経済ニュースや企業情報などを配信する日本の大手オンラインメディア。東洋経済新報社が運営する。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYjRScTBtM3duWjRJOWh3WGdUQU92Y292eGVydTVobENBekdCOTJjNWV6dF9zLXc0Y2YyVldsMGo4dHNnYWJuMnRncHNWRHJiX0xzS1FSWFVLb1U?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "15:00",
+  "path": "/articles/20260803-toyokeizai-outside-director-attendance-ranking.html"
  }
 ]

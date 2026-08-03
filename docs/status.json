@@ -1,15 +1,69 @@
 {
- "updated": "2026-08-03 16:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-03 17:11",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "NTTドコモ、2027年にマーケティングフルAI化へ",
+   "path": "/articles/20260803-ntt-docomo-full-ai-marketing-2027.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "富士通とNECが語ったAI需要の手応えと2026年下半期の見通し",
+   "path": "/articles/20260803-fujitsu-nec-ai-demand-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "TechCrunch Mobility：ロボタクシーが迎えた二つの分かれ道",
+   "path": "/articles/20260803-techcrunch-mobility-robotaxis.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "アンジェラ・ニッセル最新回顧録、なぜ笑いで悲しみに挑むのか",
+   "path": "/articles/20260803-angela-nissel-good-grief-memoir.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "自民・小野寺税調会長に一任、食料品消費税1%方針",
+   "path": "/articles/20260803-food-consumption-tax-1-percent-policy.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "OPECプラス7か国、9月も日量18万バレル余増産",
+   "path": "/articles/20260803-opec-plus-september-production.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "カシオ株価、ストップ高で5年ぶり高値 27年3月期上方修正を好感",
+   "path": "/articles/20260803-casio-stock-high-5-years-upward-revision.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "野村證券：日銀利上げ継続ならバリュー強気は不変",
+   "path": "/articles/20260803-nomura-value-stocks-boj-rate-hike.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "紀伊國屋書店はなぜ5期連続で増収増益を達成できたのか",
+   "path": "/articles/20260803-kinokuniya-bookstore-growth-strategy.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "セブン＆アイがもみ合い、ソフトバンクら3社と資本業務提携",
+   "path": "/articles/20260803-seven-and-i-softbank-capital-alliance.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 【脱税で執行猶予判決】インフルエンサー宮崎被告「元国会議員の父」の “後見人” ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 79,
  "gemini": {
-  "used": 107,
+  "used": 129,
   "limit": 200
  }
 }
