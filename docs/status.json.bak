@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-04 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-04 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Stripeデータ：年間16億円超の1人事業者が2年で3倍に",
-   "path": "/articles/20260804-solo-business-revenue-growth-stripe.html",
-   "cat": "日本のAI"
+   "title": "Base Powerが10億ドル調達、家庭用バッテリー増産の狙い",
+   "path": "/articles/20260804-base-power-raises-1b-backyard-batteries.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか",
-   "path": "/articles/20260804-miyamoto-karin-claude-code-system.html",
-   "cat": "日本のAI"
+   "title": "OpenAIのChatGPT、米議会で最も使われるAIツールに選ばれた理由",
+   "path": "/articles/20260804-openai-chatgpt-dominates-congress-ai-use.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 8,
+  "used": 11,
   "limit": 200
  }
 }

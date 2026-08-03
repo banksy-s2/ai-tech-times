@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-04 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-04 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Base Powerが10億ドル調達、家庭用バッテリー増産の狙い",
-   "path": "/articles/20260804-base-power-raises-1b-backyard-batteries.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAIのChatGPT、米議会で最も使われるAIツールに選ばれた理由",
-   "path": "/articles/20260804-openai-chatgpt-dominates-congress-ai-use.html",
-   "cat": "シリコンバレー最速"
+   "title": "アリアナ・グランデ、2027年英舞台を辞退し活動休止へ",
+   "path": "/articles/20260804-ariana-grande-hiatus-2027.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": 4,
  "gemini": {
-  "used": 11,
+  "used": 15,
   "limit": 200
  }
 }

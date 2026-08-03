@@ -890,7 +890,9 @@
   "https://news.web.nhk/newsweb/na/na-k10015195391000",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNERDQ3ZJNDdxSkdwNGNHYmxoY0FYM0ZnRXQycFN5dFpxRUhueklwNlFyNTFKRm1RcmNiTWpmMzNnTUF4Zjg3b1RzSzlpVE1GUHNRQThR?oc=5",
   "https://gigazine.net/news/20260803-solo-business-10-million-revenue/",
-  "https://www.itmedia.co.jp/news/article/2608/03/2000000362/"
+  "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
+  "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+  "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2656,6 +2658,10 @@
   "年間売上が16億4000万円を超える「1人事業者」がAIの支援を受けて2年で約3倍に急増",
   "「コードは一行も書いていない」　アイドルの宮本佳林さん、AIで配信システムを丸ごと構築　“技術ブログ”が話題",
   "Stripeデータ：年間16億円超の1人事業者が2年で3倍に",
-  "宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか"
+  "宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか",
+  "Base Power raises another $1B to save the grid using backyard batteries",
+  "Congress’s favorite AI tool? ChatGPT",
+  "Base Powerが10億ドル調達、家庭用バッテリー増産の狙い",
+  "OpenAIのChatGPT、米議会で最も使われるAIツールに選ばれた理由"
  ]
 }
