@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-03 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-03 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イオンモール熊本爆発、雑貨店が売上金回収指示",
-   "path": "/articles/20260803-aeon-mall-kumamoto-explosion-incident.html",
-   "cat": "時事・世界"
+   "title": "日米財務相が協調介入実施を明らかに、今後の再実施も示唆",
+   "path": "/articles/20260803-us-japan-joint-intervention-fx-market.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "円相場が一時155円台に値上がり、片山財務大臣が協調介入を表明",
-   "path": "/articles/20260803-yen-exchange-rate-155-yen-level.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価一時1600円超安、円高で売りの理由",
+   "path": "/articles/20260803-stock-price-drop-yen-appreciation.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 48,
  "gemini": {
-  "used": 95,
+  "used": 100,
   "limit": 200
  }
 }

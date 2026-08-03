@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-03 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-03 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [NTTとOptQCが資本業務提携、2030年に100万量子ビット目指す理由](https://ai-tech-times.web.app/articles/20260803-ntt-optqc-optical-quantum-computer.html) — 2026-08-03 15:00: NTTとOptQCが、光量子コンピュータの実用化に向けた資本業務提携を締結しました。2030年の100万量子ビット到達を目指す方針です。
+- [東洋経済オンライン：東証上場企業の社外取締役なのに6年間で出席ゼロの猛者がいた！](https://ai-tech-times.web.app/articles/20260803-toyokeizai-outside-director-attendance-ranking.html) — 2026-08-03 15:00: 東洋経済オンラインが、東証上場企業の社外取締役における「取締役会出席率ワースト」ランキングを報じました。中には6年間で一度も出席していない事例も含まれています。
 - [日米財務相が協調介入実施を明らかに、今後の再実施も示唆](https://ai-tech-times.web.app/articles/20260803-us-japan-joint-intervention-fx-market.html) — 2026-08-03 14:00: 3日の東京市場は、日米協調介入の発表によって為替・株式・債券のすべてに大きな変動が走りました。
 - [日経平均株価一時1600円超安、円高で売りの理由](https://ai-tech-times.web.app/articles/20260803-stock-price-drop-yen-appreciation.html) — 2026-08-03 14:00: 週明けの3日の東京株式市場で、日経平均株価が大きく値下がりし、一時1600円以上値下がりしました。円高ドル安が進行したことが背景にあります。
 - [イオンモール熊本爆発、雑貨店が売上金回収指示](https://ai-tech-times.web.app/articles/20260803-aeon-mall-kumamoto-explosion-incident.html) — 2026-08-03 13:00: 熊本県嘉島町のイオンモール熊本で起きた大規模な爆発事故をめぐり、従業員2人が死亡した雑貨店の運営会社が、避難後に売上金を金庫に戻すため建物内へ戻るよう指示していたことが明らかになりました。
@@ -40,15 +42,13 @@
 - [TechCrunch報道：バーンアウトを防ぐロンドンのハッカーハウス](https://ai-tech-times.web.app/articles/20260803-london-hacker-house-vs-founder-burnout.html) — 2026-08-03 10:00: TechCrunchは、ロンドンにあるスタートアップの創業者向けハッカーハウスが、ワークライフバランスを重視してバーンアウトに対抗する取り組みについて報じました。
 - [ビズリーチ月100億トークン、AI費用対効果の判断基準とは](https://ai-tech-times.web.app/articles/20260803-bizreach-ai-token-cost.html) — 2026-08-03 09:00: AI活用が広がる一方でコスト増加への懸念が高まっています。月間約100億トークンを消費するというビズリーチのCTOは、どのように費用対効果を考えているのでしょうか。
 - [サイバーエージェント、賞金1000万のAIコンテスト開催](https://ai-tech-times.web.app/articles/20260803-cyberagent-ai-contest-10million.html) — 2026-08-03 09:00: 生成AIの活用に挑むサイバーエージェントが、あえて実現性を問わない異例のコンテストを開催。従業員の意識を変えたその狙いに迫ります。
-- [Fender CEOの発言が物議、バンド仲間は「アナログAI」？](https://ai-tech-times.web.app/articles/20260803-fender-ceo-analog-ai-comments.html) — 2026-08-03 07:02: ギターメーカーの老舗フェンダーのCEOの発言が、音楽業界で再び波紋を呼んでいます。
-- [EU、AI生成物に表示義務化へ 最大27億円の制裁金](https://ai-tech-times.web.app/articles/20260803-eu-ai-generated-content-regulation.html) — 2026-08-03 07:02: 欧州連合（EU）は2日、AIで生成・加工された画像や動画などのコンテンツに対し、AIによるものだと分かる表示を事業者に義務づけると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-03)
 - 1位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
 - 2位: [Exploring My Abandoned Minecraft Server](https://www.youtube.com/watch?v=PRp5Y543LN0)
 - 3位: [Ariana Grande - petal (official music video)](https://www.youtube.com/watch?v=afSgBNwmZrQ)
 
-## AI用語事典 (全608語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全609語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
@@ -70,6 +70,7 @@
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
+- [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディア。東洋経済新報社が運営する。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [GPT-5.6とは](https://ai-tech-times.web.app/term/gpt-5-6.html): OpenAIが提供するAIモデルファミリー。LunaやTerraなどの派生モデルが存在する。
@@ -78,7 +79,6 @@
 - [PayPayとは](https://ai-tech-times.web.app/term/paypay.html): ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にメモリ半導体分野で高いシェアを持つ大手企業です。
-- [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
