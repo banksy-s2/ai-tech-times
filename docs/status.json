@@ -1,21 +1,75 @@
 {
- "updated": "2026-08-03 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-03 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "資産4億の50代主婦が語る30年スパンの視点",
-   "path": "/articles/20260803-asset-management-30-years-perspective.html",
+   "title": "Alibabaが最高性能のAIモデルを発表、米国に対抗",
+   "path": "/articles/20260803-alibaba-releases-new-ai-model.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "生成AIでわいせつ画像作成、男逮捕",
+   "path": "/articles/20260803-ai-indecent-image-arrest.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIとAnthropicのAI、中国軍事研究者が抽出利用",
+   "path": "/articles/20260803-china-military-researchers-extract-openai-anthropic-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "マーク・ベニオフ支援のJune、2000万ドルでAI導入課題に挑む理由",
+   "path": "/articles/20260803-june-ai-deployment-funding.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "元公務員YouTuberの初冠番組が公開4時間で消滅した理由",
+   "path": "/articles/20260803-former-public-servant-youtuber-program-canceled.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "熊本市で初の酷暑日、被災地であすも危険な暑さ",
+   "path": "/articles/20260803-kumamoto-extreme-heat-earthquake.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "高市首相、熊本地震を激甚災害指定へ方針表明",
+   "path": "/articles/20260803-kumamoto-earthquake-gekijin-saigai.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均607円安、円急騰でAI相場はなぜ遠のいたのか",
+   "path": "/articles/20260803-nikkei-average-ai-market-drop.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシアHD株価一時7%高、大幅増益見通しと株主還元",
+   "path": "/articles/20260803-kioxia-hd-stock-rise.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "東証プライム営業利益44.8％増でストップ高となった銘柄の正体",
+   "path": "/articles/20260803-stock-market-greento-prime-20230803.html",
+   "cat": "日本企業"
+  },
+  {
+   "title": "ヒューリックがナカボーテックの議決権20％超を取得へ",
+   "path": "/articles/20260803-hulic-nakabotec-capital-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: A Marc Benioff-backed startup thinks AI ",
+  "執筆失敗: Alibaba prices Qwen3.8-Max at $2 per 1M ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 82,
  "gemini": {
-  "used": 137,
+  "used": 162,
   "limit": 200
  }
 }
