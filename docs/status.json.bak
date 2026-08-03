@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-03 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-03 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "小学館、漫画家再起用問題で第三者委が「人権侵害」と指摘",
-   "path": "/articles/20260803-shogakukan-third-party-committee-report.html",
-   "cat": "時事・世界"
+   "title": "日米協調介入、7月31日に4兆円超か",
+   "path": "/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html",
+   "cat": "株式投資(日本)"
   },
   {
-   "title": "NHK調査：韓国人の「よい印象」過去最高に",
-   "path": "/articles/20260803-japan-south-korea-poll-record.html",
-   "cat": "時事・世界"
+   "title": "ファナック、好決算でも株価14%安のなぜ",
+   "path": "/articles/20260803-fanuc-earnings-stock-drop.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": 83,
+ "pv_today": 85,
  "gemini": {
-  "used": 166,
+  "used": 171,
   "limit": 200
  }
 }
