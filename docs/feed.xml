@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Akamai中西氏解説：WAFを89％すり抜けるAI攻撃の予防策</title>
+<link>https://ai-tech-times.web.app/articles/20260803-ai-web-attack-waf-bypass.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260803-ai-web-attack-waf-bypass.html</guid>
+<pubDate>Mon, 03 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>フロンティアAIの登場によってWeb攻撃の傾向が一変しました。Akamai Technologiesの中西一博氏が解説する、AIが休みなく仕掛ける攻撃への対策とは。</description>
+</item>
+<item>
 <title>NTTドコモ、2027年にマーケティングフルAI化へ</title>
 <link>https://ai-tech-times.web.app/articles/20260803-ntt-docomo-full-ai-marketing-2027.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260803-ntt-docomo-full-ai-marketing-2027.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 03 Aug 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AI活用が広がる一方でコスト増加への懸念が高まっています。月間約100億トークンを消費するというビズリーチのCTOは、どのように費用対効果を考えているのでしょうか。</description>
-</item>
-<item>
-<title>サイバーエージェント、賞金1000万のAIコンテスト開催</title>
-<link>https://ai-tech-times.web.app/articles/20260803-cyberagent-ai-contest-10million.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260803-cyberagent-ai-contest-10million.html</guid>
-<pubDate>Mon, 03 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの活用に挑むサイバーエージェントが、あえて実現性を問わない異例のコンテストを開催。従業員の意識を変えたその狙いに迫ります。</description>
 </item>
 </channel></rss>

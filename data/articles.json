@@ -29985,5 +29985,44 @@
   "date": "2026-08-03",
   "time": "17:11",
   "path": "/articles/20260803-seven-and-i-softbank-capital-alliance.html"
+ },
+ {
+  "title": "Akamai中西氏解説：WAFを89％すり抜けるAI攻撃の予防策",
+  "lead": "フロンティアAIの登場によってWeb攻撃の傾向が一変しました。Akamai Technologiesの中西一博氏が解説する、AIが休みなく仕掛ける攻撃への対策とは。",
+  "summary3": [
+   "AIの登場でWeb攻撃が大きく変化",
+   "WAFを89％すり抜ける事例も発生",
+   "Akamaiの中西氏が対策を解説"
+  ],
+  "body": [
+   "ITmedia AI+によると、フロンティアAIの登場によってWeb攻撃の傾向は一変しました。AIが休みなく仕掛ける巧妙なWeb攻撃が現実の脅威となっています。",
+   "中には、従来のセキュリティ対策であるWAF（Webアプリケーションファイアウォール）を89％もの高確率ですり抜ける事例も報告されており、企業のWebサイトやシステムにとって深刻なリスクとなっています。",
+   "こうした状況の中、Akamai Technologiesの中西一博氏が、AIによるWeb攻撃の具体的な傾向や、それに対する予防策、そして見落としがちな落とし穴について詳しく解説しています。"
+  ],
+  "tags": [
+   "セキュリティ",
+   "AI",
+   "WAF"
+  ],
+  "slug": "ai-web-attack-waf-bypass",
+  "people": [
+   {
+    "name": "中西一博氏",
+    "bio": "Akamai Technologiesに所属し、Web攻撃やセキュリティ対策について解説を行う専門家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Akamai Technologies",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、コンテンツ配信ネットワークやクラウドセキュリティサービスを提供する企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "18:00",
+  "path": "/articles/20260803-ai-web-attack-waf-bypass.html"
  }
 ]
