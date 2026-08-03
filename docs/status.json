@@ -1,15 +1,26 @@
 {
- "updated": "2026-08-04 00:02",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-04 01:00",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "Stripeデータ：年間16億円超の1人事業者が2年で3倍に",
+   "path": "/articles/20260804-solo-business-revenue-growth-stripe.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか",
+   "path": "/articles/20260804-miyamoto-karin-claude-code-system.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 3,
+  "used": 8,
   "limit": 200
  }
 }

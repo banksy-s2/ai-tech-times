@@ -1,26 +1,15 @@
 {
- "updated": "2026-08-03 23:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日米協調介入、7月31日に4兆円超か",
-   "path": "/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ファナック、好決算でも株価14%安のなぜ",
-   "path": "/articles/20260803-fanuc-earnings-stock-drop.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-04 00:02",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": 85,
+ "pv_today": null,
  "gemini": {
-  "used": 171,
+  "used": 3,
   "limit": 200
  }
 }

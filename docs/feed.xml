@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Stripeデータ：年間16億円超の1人事業者が2年で3倍に</title>
+<link>https://ai-tech-times.web.app/articles/20260804-solo-business-revenue-growth-stripe.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-solo-business-revenue-growth-stripe.html</guid>
+<pubDate>Tue, 04 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>決済サービスのStripeが保有するデータから、年間売上が16億4000万円を超える「1人事業者」の数が、2023年から2025年までの2年間で約3倍に急増していることが明らかになりました。</description>
+</item>
+<item>
+<title>宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか</title>
+<link>https://ai-tech-times.web.app/articles/20260804-miyamoto-karin-claude-code-system.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-miyamoto-karin-claude-code-system.html</guid>
+<pubDate>Tue, 04 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>元Juice=Juiceでアイドルの宮本佳林さんが、米AnthropicのAIコーディングツール「Claude Code」を活用し、YouTubeの10時間生配信を支えるシステムを自作したブログ記事が話題を集めています。</description>
+</item>
+<item>
 <title>日米協調介入、7月31日に4兆円超か</title>
 <link>https://ai-tech-times.web.app/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 03 Aug 2026 17:11:00 +0900</pubDate>
 <category>日本企業</category>
 <description>セブン＆アイ・ホールディングスがもみ合いの展開となる中、ソフトバンクら3社との資本業務提携を発表しました。</description>
-</item>
-<item>
-<title>NTTとOptQCが資本業務提携、2030年に100万量子ビット目指す理由</title>
-<link>https://ai-tech-times.web.app/articles/20260803-ntt-optqc-optical-quantum-computer.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260803-ntt-optqc-optical-quantum-computer.html</guid>
-<pubDate>Mon, 03 Aug 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>NTTとOptQCが、光量子コンピュータの実用化に向けた資本業務提携を締結しました。2030年の100万量子ビット到達を目指す方針です。</description>
-</item>
-<item>
-<title>東洋経済オンライン：東証上場企業の社外取締役なのに6年間で出席ゼロの猛者がいた！</title>
-<link>https://ai-tech-times.web.app/articles/20260803-toyokeizai-outside-director-attendance-ranking.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260803-toyokeizai-outside-director-attendance-ranking.html</guid>
-<pubDate>Mon, 03 Aug 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>東洋経済オンラインが、東証上場企業の社外取締役における「取締役会出席率ワースト」ランキングを報じました。中には6年間で一度も出席していない事例も含まれています。</description>
 </item>
 </channel></rss>

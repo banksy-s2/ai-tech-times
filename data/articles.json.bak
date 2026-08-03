@@ -30542,5 +30542,67 @@
   "date": "2026-08-03",
   "time": "22:00",
   "path": "/articles/20260803-japan-south-korea-poll-record.html"
+ },
+ {
+  "title": "日米協調介入、7月31日に4兆円超か",
+  "lead": "アメリカ東部時間の7月31日に行われた日米の協調介入について、民間金融仲介会社が推計を発表しました。政府・日銀による介入規模は4兆円を超えていた可能性があります。",
+  "summary3": [
+   "7月31日に日米の協調介入を実施",
+   "民間仲介会社が規模を分析",
+   "介入額は4兆円超の可能性"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする経済ニュースです。アメリカ東部時間の先月31日に行われた日米の協調介入について、民間の金融仲介会社による分析結果が明らかになりました。",
+   "同社の分析によると、今回の政府・日銀による市場介入は、推計で4兆円を超える規模に達していた可能性があるということです。市場における動向や資金の動きを基に、その規模感が算出されました。",
+   "為替市場に大きな影響を与える政府・日銀の動向については、引き続き国内外の金融機関や市場関係者の間で高い関心を集めています。"
+  ],
+  "tags": [
+   "為替介入",
+   "日銀",
+   "金融市場"
+  ],
+  "slug": "boj-intervention-exceeds-4-trillion-yen",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015195391000",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "23:01",
+  "path": "/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html"
+ },
+ {
+  "title": "ファナック、好決算でも株価14%安のなぜ",
+  "lead": "ファナックの好決算発表にもかかわらず、株価が14%下落しました。市場がモメンタムの失速を直視した動きとなっています。",
+  "summary3": [
+   "ファナックが好決算を発表",
+   "株価は14%安と下落",
+   "市場はモメンタム失速視す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式市場のニュースです。ファナックに関する最新の市場動向が注目を集めています。",
+   "ファナックは好決算を発表したものの、株価は14%安という大幅な下落を記録しました。市場参加者は企業の業績そのものよりも、モメンタムの失速を厳しく直視する展開となっています。",
+   "投資家や市場関係者の間では、今後の動向について慎重な見方が広がっています。好決算と株価下落のギャップが示す市場のシグナルに、引き続き関心が集まりそうです。"
+  ],
+  "tags": [
+   "ファナック",
+   "株価",
+   "決算"
+  ],
+  "slug": "fanuc-earnings-stock-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "ファナック",
+    "type": "company",
+    "desc": "山梨県忍野村に本社を置く、FAやロボットなどの産業用機械で世界的なシェアを持つ大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNERDQ3ZJNDdxSkdwNGNHYmxoY0FYM0ZnRXQycFN5dFpxRUhueklwNlFyNTFKRm1RcmNiTWpmMzNnTUF4Zjg3b1RzSzlpVE1GUHNRQThR?oc=5",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "23:01",
+  "path": "/articles/20260803-fanuc-earnings-stock-drop.html"
  }
 ]
