@@ -30097,5 +30097,382 @@
   "date": "2026-08-03",
   "time": "20:00",
   "path": "/articles/20260803-asset-management-30-years-perspective.html"
+ },
+ {
+  "title": "Alibabaが最高性能のAIモデルを発表、米国に対抗",
+  "lead": "中国の技術大手アリババが、これまでで最大かつ最も高性能とする新しいAIモデルを発表しました。米国の先進的なシステムに匹敵する性能を主張しています。",
+  "summary3": [
+   "Alibabaが最大規模のAIを発表",
+   "米AIや国内競合に対抗する性能",
+   "Qwen3.8-Maxを広く提供へ"
+  ],
+  "body": [
+   "中国の技術大手Alibabaは、これまでで最大かつ「最も能力の高いAIモデル」を発表しました。このモデルは、米国の先進的なAIラボであるAnthropicやOpenAIの最高のシステム、さらに国内の競合であるMoonshot AIのKimi K3に匹敵する性能を持つと主張されています。",
+   "Alibabaによると、新モデルであるQwen3.8-Maxは、多くのユーザーに対して広く利用可能な状態で提供される予定とのことです。今回の発表は、米国のAI分野における優位性に対抗する新たな動きとして注目を集めています。",
+   "AI市場における競争が激化する中、中国を代表する巨大テック企業がどのような影響を与えていくのか、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "Alibaba",
+   "AI",
+   "中国"
+  ],
+  "slug": "alibaba-releases-new-ai-model",
+  "people": [],
+  "terms": [
+   {
+    "name": "Alibaba",
+    "type": "company",
+    "desc": "中国に本拠地を置き、電子商取引やクラウドコンピューティングなど多様な事業を展開する巨大テック企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、高度な生成AIモデルの開発や提供で業界をリードする人工知能の研究開発企業です。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、安全性に配慮した大規模言語モデルなどの開発を手がける人工知能スタートアップ企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+  "category": "ai",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-alibaba-releases-new-ai-model.html"
+ },
+ {
+  "title": "生成AIでわいせつ画像作成、男逮捕",
+  "lead": "警視庁などは、生成AIを使用して実在女性の中学時代の写真からわいせつ画像を作成しSNSに投稿したとして、名誉毀損などの疑いで男を逮捕しました。",
+  "summary3": [
+   "生成AIでわいせつ画像を作成",
+   "男がSNSに投稿し逮捕される",
+   "高校生が画像の加工を依頼"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、女性の写真を生成AIで加工したわいせつ画像をSNSに投稿したとして、警視庁などは名誉毀損と児童買春・ポルノ禁止法違反（公然陳列）の疑いで、兵庫県姫路市の会社員である井元健太容疑者（32）を逮捕しました。",
+   "また、警察の調べによると、この画像の加工を依頼したとして、鹿児島県垂水市の高校3年の男子生徒（17）も同容疑で書類送検されています。実在の人物の学生時代などの写真が悪用される事例として、捜査が進められています。",
+   "生成AI技術の悪用によるプライバシー侵害や名誉毀損などの犯罪行為に対し、警察当局が厳しく取り締まりを行っている実態が浮き彫りになりました。SNS上での画像投稿や加工依頼についても、法的な責任が問われる事件となっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "事件",
+   "警視庁"
+  ],
+  "slug": "ai-indecent-image-arrest",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/03/2000000365/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-ai-indecent-image-arrest.html"
+ },
+ {
+  "title": "OpenAIとAnthropicのAI、中国軍事研究者が抽出利用",
+  "lead": "中国の軍事研究者らがOpenAIやAnthropicのAIモデルの出力を利用し、国内の軍事システム開発を行っていたことが学術論文の調査から判明しました。",
+  "summary3": [
+   "中国軍事研究者が米AIモデルを利用",
+   "知識蒸留で中国産モデルへ能力移転",
+   "防衛能力向上へシステム訓練に活用"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、中国の軍事研究者らがアメリカの主要なAIモデルであるOpenAIやAnthropicが開発したAIの出力を利用し、中国の防衛能力を向上させるための国内AIシステムをトレーニングしていることが明らかになりました。これは中国の学術論文および特許の調査から判明したものです。",
+   "アメリカ政府は中国に対して高度なチップの輸出規制を行い、その他の戦略技術へのアクセスを制限しています。しかし、中国のAI研究者らは「知識蒸留」と呼ばれる手法を活用することで、高性能なアメリカ製AIモデルの能力を、より小型で安価な中国産モデルへ移し替えていたとみられています。",
+   "アメリカによる厳しい輸出規制や技術アクセスの制限がある中、こうした手法を用いたAIモデルの抽出と軍事利用の実態が浮き彫りになりました。アメリカ製AIの技術がどのように中国の国内システム開発に応用されているのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "中国",
+   "軍事利用",
+   "AI技術"
+  ],
+  "slug": "china-military-researchers-extract-openai-anthropic-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業で、対話型AIなどを手掛ける業界の主要企業。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業で、高度なAIモデルの研究と開発を行っている。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260803-china-ai-distillation/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-china-military-researchers-extract-openai-anthropic-ai.html"
+ },
+ {
+  "title": "マーク・ベニオフ支援のJune、2000万ドルでAI導入課題に挑む理由",
+  "lead": "AIの導入プロセスをよりシンプルにすることを目指す新興企業Juneが、プレシードラウンドで2000万ドルを資金調達し、ステルス状態から脱却しました。",
+  "summary3": [
+   "Juneがステルス状態から脱却",
+   "2000万ドルの資金調達を実施",
+   "AI導入の複雑な課題解決を目指す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。AI技術の活用が急速に進む中、実際の現場での導入や運用には多くの課題が存在しています。AIの導入プロセスをシンプルにすることを目指す新興企業Juneが、プレシードラウンドで2000万ドルの資金調達を実施し、ステルス状態から脱却したことを明らかにしました。",
+   "今回のラウンドは、著名な実業家であるマーク・ベニオフ氏らが支援を行っています。多くの企業がAIの導入を模索する一方で、システム構築や現場への定着には依然として高いハードルが存在しており、Juneはこの『AI導入の課題』を解決するためのアプローチを提供しようとしています。",
+   "AIの導入をめぐる企業の悩みは尽きません。Juneがどのようなソリューションでこの課題に挑み、企業のAI活用をどのように変えていくのか、今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "AI",
+   "資金調達",
+   "スタートアップ"
+  ],
+  "slug": "june-ai-deployment-funding",
+  "people": [
+   {
+    "name": "マーク・ベニオフ",
+    "bio": "Salesforceの共同創業者兼CEOであり、長年にわたりIT業界を牽引する著名な実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "June",
+    "type": "company",
+    "desc": "AIの導入をよりシンプルにするためのソリューション開発を目指し、ステルス状態から脱却した新興企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-june-ai-deployment-funding.html"
+ },
+ {
+  "title": "元公務員YouTuberの初冠番組が公開4時間で消滅した理由",
+  "lead": "元公務員YouTuberの初冠番組が完全消滅しました。公開からわずか4時間で動画が削除され、本人降板により放送局も謝罪する事態となっています。",
+  "summary3": [
+   "元公務員YouTuberの初冠番組が消滅",
+   "公開からわずか4時間で動画を削除",
+   "本人の降板に伴い放送局も謝罪"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、元公務員YouTuberの初冠番組に関する情報が入ってまいりました。この番組は公開されたものの、わずか4時間という短時間で動画が削除される事態となりました。",
+   "今回のトラブルを受けて、当該の元公務員YouTuberは番組を降板する運びとなりました。これに伴い、番組を制作・放送した放送局側も公式に謝罪を行うなど、大きな波紋を呼んでいます。",
+   "初冠番組の完全消滅という異例の展開となり、インターネット上でも大きな注目を集めています。今後の動向や詳しい経緯については、引き続き情報を追ってまいります。"
+  ],
+  "tags": [
+   "YouTuber",
+   "元公務員",
+   "炎上"
+  ],
+  "slug": "former-public-servant-youtuber-program-canceled",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxPUkFUeEJ1NFYtOEJ0TFJpVWVhU3dJLWRzdS1JWEp6T2hzeUhEdFBhRjUwTWF4TXBFbE1iYUpWamJMNmpBUFEwVXFCWm12TUEtNkdpWncwOC1tNW5acFBLVjQ2eVc2cFhSdUJyaGxNYlNpVGhYTlRQelJBalIxZVpoMFAwNVJMNFFJZ1k0SkZLT2YtdHpVcHhhbm9zT0JDYzJoal9fT0FpYzdhNEpOR3BsNHdvbmxSaUJ5QmdNd0JtMHhQRE1RTHVGVXU0bUYzZGlmN3d2SWk1S25wQm9FOXg4bWszenNFY01lYzBGbHBjT21YX2RXWUxteWtoeWcwdk9ldGpEbkZmY29iV2V3OEhDek1hOHVWbVloODBkVjZWS3lrTjVrZEdlRlRLS0hXMjEybXZXcVdhWTdwTFdhd0p4cy04UjVaUHU3dDltVEtCbzBwaW1HOGdreFdmV0tkUTdKelNjUHRxd1JZaFV4OHdmODczMWd3YnZGVlpfd0JVQlhaNkh0Njgybm1YSWlDTmZUMkV2ZnBMRUgxN2daRGUyTHBRMndvTTRTQmwyaTA4UkViZi1TdklhUE0xdEloMEdaUV9aU01Wd1BoZmRfOW9oV2R3aEZaWnN6MWFXUkNvRjNpTm9ZRzhWajBNT0lEekMxUXlwTjFxbnhRVDF4ZzBsTURiSkdaZlJTQVpUaTZwTWRUY3JQd3BMNElOMG8wWDJwazZHMUpvRQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-former-public-servant-youtuber-program-canceled.html"
+ },
+ {
+  "title": "熊本市で初の酷暑日、被災地であすも危険な暑さ",
+  "lead": "最大震度7の地震を観測した熊本県で、記録的な猛暑となっています。被災地ではあすも危険な暑さが続く見込みです。",
+  "summary3": [
+   "熊本市などで初の酷暑日を記録",
+   "最大震度7の被災地で危険な暑さ",
+   "あすも厳しい暑さが続く見込み"
+  ],
+  "body": [
+   "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっています。そうした中で、熊本市などで日中の最高気温が40度を超える初の酷暑日となりました。",
+   "被災された方々にとって厳しい環境が続いており、体調管理には十分な警戒が求められています。",
+   "気象庁によると、明日4日も引き続き危険な暑さが続く見込みです。今後の気象情報や熱中症対策に十分注意してください。"
+  ],
+  "tags": [
+   "熊本",
+   "酷暑日",
+   "気象情報"
+  ],
+  "slug": "kumamoto-extreme-heat-earthquake",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194581000",
+  "category": "world",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-kumamoto-extreme-heat-earthquake.html"
+ },
+ {
+  "title": "高市首相、熊本地震を激甚災害指定へ方針表明",
+  "lead": "高市総理大臣は今回の熊本地震について、国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました。",
+  "summary3": [
+   "熊本地震を激甚災害に指定へ方針",
+   "200億円超の予備費使用を閣議決定",
+   "国が復旧にかかる費用を支援する"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。今回の熊本地震について、高市総理大臣は、国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました。",
+   "政府は災害からの迅速な復旧と支援を進めるため、4日に今年度予算の予備費の使用を閣議決定する方針です。その規模は200億円を超えるものとなっています。",
+   "この予備費の活用により、被災地の復旧に向けた必要な予算がスムーズに確保される見通しです。政府は引き続き、被災者の生活再建とインフラの復旧に向けた支援体制を整えていく方針を示しています。"
+  ],
+  "tags": [
+   "熊本地震",
+   "激甚災害",
+   "高市首相"
+  ],
+  "slug": "kumamoto-earthquake-gekijin-saigai",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194841000",
+  "category": "world",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-kumamoto-earthquake-gekijin-saigai.html"
+ },
+ {
+  "title": "日経平均607円安、円急騰でAI相場はなぜ遠のいたのか",
+  "lead": "日本経済新聞の報道によると、日経平均株価は終値で607円安を記録しました。円急騰が影響し、AI相場の復活が遠のく展開となっています。",
+  "summary3": [
+   "日経平均株価が終値で607円安を記録",
+   "円急騰の影響でAI相場の復活が遠のく",
+   "日本経済新聞が市場の動向を報じた"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする本日の株式市場ニュースです。日本経済新聞の報道によりますと、日経平均株価は終値で607円安の大幅な下落となりました。",
+   "市場では円の急騰が観測されており、これが大きな要因となってAI相場の復活が遠のく形となっています。足元の急激な為替の変動が、投資家心理や関連銘柄の動向に影を落としている状況です。",
+   "今後の市場における為替の動向や、AI関連銘柄の価格変動については、引き続き慎重な確認が必要と見られています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "AI相場"
+  ],
+  "slug": "nikkei-average-ai-market-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本を代表する経済専門の日刊新聞を発行する大手メディア企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQl9pMS0xRWdYVU13bTBVTmdTN1h3S3hKaklBQ1ZzQmN0RGhhcmItMWVTLXZOendXOXlrb3ZDczRYV195MGtOTGc0S1ljTnpkTEE0NFRHZnduUHVHWXh3Sm1jUUFIZ2dUa3dXMQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-nikkei-average-ai-market-drop.html"
+ },
+ {
+  "title": "キオクシアHD株価一時7%高、大幅増益見通しと株主還元",
+  "lead": "キオクシアHDの株価が一時7%上昇しました。大幅な増益見通しと株主還元が支えとなっています。",
+  "summary3": [
+   "キオクシアHDの株価が一時7%高",
+   "大幅増益見通しが材料視される",
+   "株主還元も株価を支える要因に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。キオクシアホールディングス（HD）の株価が一時、前日比で7%高となる場面が見られました。今回の株価上昇を支えたのは、市場で注目された大幅な増益見通しと、積極的な株主還元策への期待です。",
+   "半導体市場の動向や業績の回復基調を受け、同社の発表した見通しが投資家心理を刺激する形となりました。企業業績の改善と株主利益の還元姿勢が評価され、買いが優勢となる展開となりました。",
+   "株式市場においては、個別の企業が発表する具体的な業績予想や還元方針が株価の大きな変動要因となります。引き続き、同社の動向および関連する市場全体の動きに注目が集まりそうです。"
+  ],
+  "tags": [
+   "キオクシアHD",
+   "株式市場",
+   "株価"
+  ],
+  "slug": "kioxia-hd-stock-rise",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシアホールディングス",
+    "type": "company",
+    "desc": "フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbzJVNGdoSGlXeEhaMlhqVk5sc2pXRGY5NUtaRU96UENNM1BsYnRIS3lyUURZU09xNHRqcEFNTmNLMERFU0k2Sl8tR2lQa2NFS211Q3lfUWhxMzVDTFNFYkY5U1M3YzQ2cFhWQg?oc=5",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-kioxia-hd-stock-rise.html"
+ },
+ {
+  "title": "東証プライム営業利益44.8％増でストップ高となった銘柄の正体",
+  "lead": "8月3日の国内株式市場において、営業利益が「44.8％増」の好決算を発表した東証プライム上場企業がストップ高となり、上昇率1位を記録しました。",
+  "summary3": [
+   "8月3日の国内株式市場の概況をお伝えします",
+   "営業利益44.8％増の好決算を発表しました",
+   "東証プライム市場の上昇率1位でストップ高となりました"
+  ],
+  "body": [
+   "8月3日の国内株式市場において、東証プライム市場の注目銘柄に関する概況がゴールドオンラインより発表されました。",
+   "当該銘柄は、営業利益が「44.8％増」となる好決算を記録したことを受け、株式市場で買いが殺到してストップ高となりました。",
+   "その結果、同日の東証プライム市場において上昇率1位を記録するなど、市場の大きな注目を集める一日となりました。"
+  ],
+  "tags": [
+   "株式市場",
+   "東証プライム",
+   "決算"
+  ],
+  "slug": "stock-market-greento-prime-20230803",
+  "people": [],
+  "terms": [
+   {
+    "name": "ゴールドオンライン",
+    "type": "company",
+    "desc": "幻冬舎グループが運営する富裕層向け資産運用・経済情報メディアです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTzZXLWItVG1zeVVwbVktbXRDX1lXc1RvaUo0N1ZYNkxSY0k5Nk0zVmtjVVotYTBmUFBmamctYm9JRlNvT3VaVWduUmY0RDY5OWc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-stock-market-greento-prime-20230803.html"
+ },
+ {
+  "title": "ヒューリックがナカボーテックの議決権20％超を取得へ",
+  "lead": "ヒューリックは、ナカボーテックと資本業務提携を締結し、議決権の20%超を取得する方針を明らかにしました。",
+  "summary3": [
+   "ヒューリックが資本業務提携を発表",
+   "ナカボーテックの議決権20%超を取得へ",
+   "建設通信新聞Digitalが報じる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。ヒューリックとナカボーテックの間で、資本業務提携に関する動きがあることが分かりました。これは建設通信新聞Digitalが報じたもので、多くの関係者の注目を集めています。",
+   "今回の提携において、ヒューリックはナカボーテックの議決権の20％超を取得する予定です。両社による具体的な提携内容や今後の展開については、さらなる情報の発表が待たれる状況となっています。",
+   "企業の資本政策や提携の動きは、市場においても重要なトピックとなります。引き続き、両社の発表や関連する動向に注目が集まることが予想されます。"
+  ],
+  "tags": [
+   "ヒューリック",
+   "ナカボーテック",
+   "資本業務提携"
+  ],
+  "slug": "hulic-nakabotec-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ヒューリック",
+    "type": "company",
+    "desc": "東京都中央区に本社を置く、不動産賃貸事業などを主力の事業として展開している大手不動産会社です。"
+   },
+   {
+    "name": "ナカボーテック",
+    "type": "company",
+    "desc": "東京都中央区に本社を置き、電気防食工事などの腐食防止技術や関連する施工を手がける企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URjl3OExWRlVLUlZCQUVHRkh6NkVZRTN0MS1sVlVVd1phUEtCT1RSaDVjNGdSSWVnUElFQWJFOUxOZ05nb1k4SG9NVW9CSlIzYzhFTEZR?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "21:05",
+  "path": "/articles/20260803-hulic-nakabotec-capital-alliance.html"
  }
 ]
