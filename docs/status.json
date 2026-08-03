@@ -1,26 +1,15 @@
 {
- "updated": "2026-08-03 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [
-  {
-   "title": "NTTとOptQCが資本業務提携、2030年に100万量子ビット目指す理由",
-   "path": "/articles/20260803-ntt-optqc-optical-quantum-computer.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "東洋経済オンライン：東証上場企業の社外取締役なのに6年間で出席ゼロの猛者がいた！",
-   "path": "/articles/20260803-toyokeizai-outside-director-attendance-ranking.html",
-   "cat": "日本企業"
-  }
- ],
+ "updated": "2026-08-03 16:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
  "notes": [],
- "pv_today": 48,
+ "pv_today": 79,
  "gemini": {
-  "used": 106,
+  "used": 107,
   "limit": 200
  }
 }

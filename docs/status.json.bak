@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-03 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-03 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日米財務相が協調介入実施を明らかに、今後の再実施も示唆",
-   "path": "/articles/20260803-us-japan-joint-intervention-fx-market.html",
-   "cat": "株式投資(日本)"
+   "title": "NTTとOptQCが資本業務提携、2030年に100万量子ビット目指す理由",
+   "path": "/articles/20260803-ntt-optqc-optical-quantum-computer.html",
+   "cat": "日本企業"
   },
   {
-   "title": "日経平均株価一時1600円超安、円高で売りの理由",
-   "path": "/articles/20260803-stock-price-drop-yen-appreciation.html",
-   "cat": "株式投資(日本)"
+   "title": "東洋経済オンライン：東証上場企業の社外取締役なのに6年間で出席ゼロの猛者がいた！",
+   "path": "/articles/20260803-toyokeizai-outside-director-attendance-ranking.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 48,
  "gemini": {
-  "used": 100,
+  "used": 106,
   "limit": 200
  }
 }
