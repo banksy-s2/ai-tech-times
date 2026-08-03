@@ -30820,5 +30820,66 @@
   "date": "2026-08-04",
   "time": "04:00",
   "path": "/articles/20260804-threat-to-oil-tankers-middle-east.html"
+ },
+ {
+  "title": "フラット35金利3.29％に、過去最高を更新した理由",
+  "lead": "住宅金融支援機構は3日、8月の「フラット35」の適用金利を発表しました。返済期間が21年以上35年以下の最低金利は3.29％となり、現行制度になった2017年10月以降で過去最高を更新しています。",
+  "summary3": [
+   "住宅金融支援機構が8月の金利を発表",
+   "最低金利は21年以上35年以下で3.29％",
+   "制度開始以降で過去最高を更新"
+  ],
+  "body": [
+   "住宅金融支援機構は3日、長期固定金利型住宅ローン「フラット35」の8月の適用金利を発表しました。今回の発表によると、返済期間が21年以上35年以下の最低金利は3.29％となっています。",
+   "この金利水準は、現行制度になった2017年10月以降で過去最高を記録する数値となりました。"
+  ],
+  "tags": [
+   "フラット35",
+   "金利",
+   "住宅ローン"
+  ],
+  "slug": "flat35-interest-rate-august",
+  "people": [],
+  "terms": [
+   {
+    "name": "住宅金融支援機構",
+    "type": "company",
+    "desc": "住宅の安定確保や円滑な資金供給を目的として設立された日本の独立行政法人です。"
+   }
+  ],
+  "source": "はてなブックマーク 経済",
+  "source_url": "https://www.47news.jp/14731716.html",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "05:00",
+  "path": "/articles/20260804-flat35-interest-rate-august.html"
+ },
+ {
+  "title": "マネクリ：日経平均は607円安の63,754円と反落、円急伸の背景",
+  "lead": "マネクリのまとめによると、日経平均株価は607円安の63,754円と反落しました。円急伸が輸出関連銘柄の売り材料となっています。",
+  "summary3": [
+   "日経平均は607円安の63,754円で反落",
+   "円急伸が輸出関連銘柄の売り材料に",
+   "マネクリが市場の動きをまとめる"
+  ],
+  "body": [
+   "マネクリの報道によると、日経平均株価は607円安の63,754円となり、反落する結果となりました。",
+   "今回の市場の下落要因として、円急伸が発生したことが挙げられています。",
+   "この円急伸が、輸出関連銘柄にとって売り材料として働いたと伝えられています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "為替"
+  ],
+  "slug": "nikkei-average-falls-607-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKU2lIOG5EZkNFcktmWXp0VnRZd0hQYmwtMUxPTlc2WEZSWnRQcHlZZXJMOGFHSVNpNkFkdGNzN05LQ0VhMzg3LUFoMFd1UVpCQWt3edIBV0FVX3lxTE11akdFMl9tSGl6THpQWGU2SUhGU0lkejFlZ3pGVk1LY1RxdFRVNzFnUk90Q0NvQzI0LXRMeTZxYVdtT0p4WW5ja2JfbTFGWVItcDI5dHA2dw?oc=5",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "05:00",
+  "path": "/articles/20260804-nikkei-average-falls-607-yen.html"
  }
 ]

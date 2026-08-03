@@ -1464,7 +1464,7 @@
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 8696954,
+   "views": 8992769,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
@@ -1481,7 +1481,7 @@
    "id": "NZP153MUpHY",
    "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
    "channel": "SMTOWN",
-   "views": 914963,
+   "views": 983520,
    "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
    "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
    "regions": [
@@ -1498,7 +1498,7 @@
    "id": "psGsc1n8Klw",
    "title": "Five Nights at Freddy's: ULTIMATE CUSTOM STREAM",
    "channel": "Markiplier",
-   "views": 1327562,
+   "views": 1346964,
    "url": "https://www.youtube.com/watch?v=psGsc1n8Klw",
    "thumb": "https://i.ytimg.com/vi/psGsc1n8Klw/hqdefault.jpg",
    "regions": [
@@ -1512,7 +1512,7 @@
    "id": "d1rWv8VeQO0",
    "title": "TWS (투어스) 'SODA SODA' Official MV",
    "channel": "HYBE LABELS",
-   "views": 484187,
+   "views": 495051,
    "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
    "thumb": "https://i.ytimg.com/vi/d1rWv8VeQO0/hqdefault.jpg",
    "regions": [
@@ -1523,24 +1523,10 @@
   },
   {
    "rank": 5,
-   "id": "8uyVc6yvU9c",
-   "title": "Minecraft Hunger Games (Ft. anthony's mom)",
-   "channel": "Bunch of Friends",
-   "views": 344975,
-   "url": "https://www.youtube.com/watch?v=8uyVc6yvU9c",
-   "thumb": "https://i.ytimg.com/vi/8uyVc6yvU9c/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "アンソニーの母親も参加したマインクラフトのサバイバルゲームのようです。"
-  },
-  {
-   "rank": 6,
    "id": "ivZ2c69D69E",
    "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
    "channel": "Aashirvad Cinemas",
-   "views": 261787,
+   "views": 380747,
    "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
    "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
    "regions": [
@@ -1550,11 +1536,25 @@
    "comment": "映画「Thudakkam」の公式トレーラーのようです"
   },
   {
+   "rank": 6,
+   "id": "8uyVc6yvU9c",
+   "title": "Minecraft Hunger Games (Ft. anthony's mom)",
+   "channel": "Bunch of Friends",
+   "views": 362786,
+   "url": "https://www.youtube.com/watch?v=8uyVc6yvU9c",
+   "thumb": "https://i.ytimg.com/vi/8uyVc6yvU9c/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "アンソニーの母親も参加したマインクラフトのサバイバルゲームのようです。"
+  },
+  {
    "rank": 7,
    "id": "9TjRdsqm7jE",
    "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
    "channel": "THE FIRST TAKE",
-   "views": 220977,
+   "views": 260625,
    "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
    "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
    "regions": [
@@ -1568,7 +1568,7 @@
    "id": "sUjhPLauVE4",
    "title": "Orchestra",
    "channel": "Red Velvet - Topic",
-   "views": 206157,
+   "views": 224574,
    "url": "https://www.youtube.com/watch?v=sUjhPLauVE4",
    "thumb": "https://i.ytimg.com/vi/sUjhPLauVE4/hqdefault.jpg",
    "regions": [
@@ -1579,10 +1579,24 @@
   },
   {
    "rank": 9,
+   "id": "uEcoV-ngH38",
+   "title": "Your Mother Your Mother Your Mother | Official Trailer",
+   "channel": "Amazon MGM Studios",
+   "views": 160685,
+   "url": "https://www.youtube.com/watch?v=uEcoV-ngH38",
+   "thumb": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Amazon MGM Studiosによる公式トレーラー映像のようです。"
+  },
+  {
+   "rank": 10,
    "id": "xn7LRhqnxOc",
    "title": "ROBLOX SECURE THE SUPERMARKET..",
    "channel": "Foltyn",
-   "views": 114639,
+   "views": 141565,
    "url": "https://www.youtube.com/watch?v=xn7LRhqnxOc",
    "thumb": "https://i.ytimg.com/vi/xn7LRhqnxOc/hqdefault.jpg",
    "regions": [
@@ -1590,20 +1604,6 @@
     "GB"
    ],
    "comment": "Robloxでスーパーマーケットを攻略するゲーム実況のようです"
-  },
-  {
-   "rank": 10,
-   "id": "IgIY-M9FZC4",
-   "title": "Street Fighter 6 - Yasmine Update Launch Trailer",
-   "channel": "Street Fighter",
-   "views": 98051,
-   "url": "https://www.youtube.com/watch?v=IgIY-M9FZC4",
-   "thumb": "https://i.ytimg.com/vi/IgIY-M9FZC4/hqdefault.jpg",
-   "regions": [
-    "US",
-    "BR"
-   ],
-   "comment": "「ストリートファイター6」のヤスミンのアップデートトレイラーかもしれない動画 (29文字)"
   }
  ]
 }

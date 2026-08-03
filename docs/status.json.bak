@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-04 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-04 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "アリアナ・グランデ、2027年英舞台を辞退し活動休止へ",
-   "path": "/articles/20260804-ariana-grande-hiatus-2027.html",
-   "cat": "インフルエンサー"
+   "title": "中東の石油タンカー、戦争開始以降で最悪の脅威に",
+   "path": "/articles/20260804-threat-to-oil-tankers-middle-east.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
- "pv_today": 4,
+ "notes": [
+  "執筆失敗: Two workers killed in blast after re-ent"
+ ],
+ "pv_today": 7,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }
