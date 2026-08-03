@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-03 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-03 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Armも出資、英Olixが3億1200万ドル調達した理由",
-   "path": "/articles/20260803-olix-raises-312m-valuation-3b-arm.html",
-   "cat": "シリコンバレー最速"
+   "title": "資産4億の50代主婦が語る30年スパンの視点",
+   "path": "/articles/20260803-asset-management-30-years-perspective.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 82,
  "gemini": {
-  "used": 135,
+  "used": 137,
   "limit": 200
  }
 }
