@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-03 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-03 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ビズリーチ月100億トークン、AI費用対効果の判断基準とは",
-   "path": "/articles/20260803-bizreach-ai-token-cost.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "サイバーエージェント、賞金1000万のAIコンテスト開催",
-   "path": "/articles/20260803-cyberagent-ai-contest-10million.html",
-   "cat": "日本のAI"
+   "title": "TechCrunch報道：バーンアウトを防ぐロンドンのハッカーハウス",
+   "path": "/articles/20260803-london-hacker-house-vs-founder-burnout.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
- "pv_today": 46,
+ "notes": [
+  "執筆失敗: This $9 key physically locks your most a"
+ ],
+ "pv_today": 47,
  "gemini": {
-  "used": 54,
+  "used": 59,
   "limit": 200
  }
 }
