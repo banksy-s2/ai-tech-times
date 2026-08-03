@@ -30682,5 +30682,76 @@
   "date": "2026-08-04",
   "time": "01:00",
   "path": "/articles/20260804-miyamoto-karin-claude-code-system.html"
+ },
+ {
+  "title": "Base Powerが10億ドル調達、家庭用バッテリー増産の狙い",
+  "lead": "米国の電力網を支えるスタートアップ企業が、巨額の資金調達を実施して生産体制の強化に乗り出しました。",
+  "summary3": [
+   "Base Powerが10億ドルを調達",
+   "家庭用バッテリーの生産を拡大へ",
+   "電力網を救うための取り組み"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、家庭用バッテリーを活用して電力網を支える新興企業であるBase Powerが、新たに10億ドルという巨額の資金調達を実施しました。",
+   "今回の10億ドルという大規模な資金調達ラウンドは、同社が手がける家庭用バッテリーの生産体制を急速に拡大させるために活用される予定となっています。",
+   "バックヤードに設置するバッテリー技術を通じて電力網の安定化を目指す同社の動向は、今後のエネルギー供給のあり方に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "Base Power",
+   "資金調達",
+   "バッテリー"
+  ],
+  "slug": "base-power-raises-1b-backyard-batteries",
+  "people": [],
+  "terms": [
+   {
+    "name": "Base Power",
+    "type": "company",
+    "desc": "家庭用バッテリーを活用して電力網を支えることを目指しているアメリカの新興企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "02:00",
+  "path": "/articles/20260804-base-power-raises-1b-backyard-batteries.html"
+ },
+ {
+  "title": "OpenAIのChatGPT、米議会で最も使われるAIツールに選ばれた理由",
+  "lead": "米国の連邦議会における支出記録から、OpenAIが提供するAIチャットボットが圧倒的なシェアを誇っていることが明らかになりました。",
+  "summary3": [
+   "米議会でChatGPTが最も利用される",
+   "メモ作成や法案要約などに活用されている",
+   "支出記録から圧倒的なシェアが判明した"
+  ],
+  "body": [
+   "米国の下院の支出記録によると、米OpenAIが開発したAIチャットボット「ChatGPT」が、議会における有料AIツールの利用で圧倒的なシェアを占めていることが判明しました。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "米議会"
+  ],
+  "slug": "openai-chatgpt-dominates-congress-ai-use",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする人工知能の開発企業で、対話型AIなどを手掛けている"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型の人工知能モデルおよびAIチャットボットサービス"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "02:00",
+  "path": "/articles/20260804-openai-chatgpt-dominates-congress-ai-use.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Base Powerが10億ドル調達、家庭用バッテリー増産の狙い](https://ai-tech-times.web.app/articles/20260804-base-power-raises-1b-backyard-batteries.html) — 2026-08-04 02:00: 米国の電力網を支えるスタートアップ企業が、巨額の資金調達を実施して生産体制の強化に乗り出しました。
+- [OpenAIのChatGPT、米議会で最も使われるAIツールに選ばれた理由](https://ai-tech-times.web.app/articles/20260804-openai-chatgpt-dominates-congress-ai-use.html) — 2026-08-04 02:00: 米国の連邦議会における支出記録から、OpenAIが提供するAIチャットボットが圧倒的なシェアを誇っていることが明らかになりました。
 - [Stripeデータ：年間16億円超の1人事業者が2年で3倍に](https://ai-tech-times.web.app/articles/20260804-solo-business-revenue-growth-stripe.html) — 2026-08-04 01:00: 決済サービスのStripeが保有するデータから、年間売上が16億4000万円を超える「1人事業者」の数が、2023年から2025年までの2年間で約3倍に急増していることが明らかになりました。
 - [宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか](https://ai-tech-times.web.app/articles/20260804-miyamoto-karin-claude-code-system.html) — 2026-08-04 01:00: 元Juice=Juiceでアイドルの宮本佳林さんが、米AnthropicのAIコーディングツール「Claude Code」を活用し、YouTubeの10時間生配信を支えるシステムを自作したブログ記事が話題を集めています。
 - [日米協調介入、7月31日に4兆円超か](https://ai-tech-times.web.app/articles/20260803-boj-intervention-exceeds-4-trillion-yen.html) — 2026-08-03 23:01: アメリカ東部時間の7月31日に行われた日米の協調介入について、民間金融仲介会社が推計を発表しました。政府・日銀による介入規模は4兆円を超えていた可能性があります。
@@ -40,15 +42,13 @@
 - [東証プライム営業利益44.8％増でストップ高となった銘柄の正体](https://ai-tech-times.web.app/articles/20260803-stock-market-greento-prime-20230803.html) — 2026-08-03 21:05: 8月3日の国内株式市場において、営業利益が「44.8％増」の好決算を発表した東証プライム上場企業がストップ高となり、上昇率1位を記録しました。
 - [ヒューリックがナカボーテックの議決権20％超を取得へ](https://ai-tech-times.web.app/articles/20260803-hulic-nakabotec-capital-alliance.html) — 2026-08-03 21:05: ヒューリックは、ナカボーテックと資本業務提携を締結し、議決権の20%超を取得する方針を明らかにしました。
 - [資産4億の50代主婦が語る30年スパンの視点](https://ai-tech-times.web.app/articles/20260803-asset-management-30-years-perspective.html) — 2026-08-03 20:00: 有名インフルエンサーの煽りを受けない資産運用について、All Aboutが報じました。資産4億を築いた50代専業主婦が実践する長期的な視点とは何でしょうか。
-- [Armも出資、英Olixが3億1200万ドル調達した理由](https://ai-tech-times.web.app/articles/20260803-olix-raises-312m-valuation-3b-arm.html) — 2026-08-03 19:01: ロンドンを拠点とするAIチップ新興企業のOlixが、Nvidiaに対抗するため3億1200万ドルを調達しました。評価額は33億ドルに達しています。
-- [Akamai中西氏解説：WAFを89％すり抜けるAI攻撃の予防策](https://ai-tech-times.web.app/articles/20260803-ai-web-attack-waf-bypass.html) — 2026-08-03 18:00: フロンティアAIの登場によってWeb攻撃の傾向が一変しました。Akamai Technologiesの中西一博氏が解説する、AIが休みなく仕掛ける攻撃への対策とは。
 
 ## 世界のバズ動画TOP3 (2026-08-04)
 - 1位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
 - 2位: [Street Fighter 6 - Yasmine Update Launch Trailer](https://www.youtube.com/watch?v=IgIY-M9FZC4)
 - 3位: [Exploring My Abandoned Minecraft Server](https://www.youtube.com/watch?v=PRp5Y543LN0)
 
-## AI用語事典 (全627語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全628語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -62,8 +62,8 @@
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営し、AI開発者から広く利用されている。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
+- [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。

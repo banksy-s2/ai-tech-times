@@ -30604,5 +30604,83 @@
   "date": "2026-08-03",
   "time": "23:01",
   "path": "/articles/20260803-fanuc-earnings-stock-drop.html"
+ },
+ {
+  "title": "Stripeデータ：年間16億円超の1人事業者が2年で3倍に",
+  "lead": "決済サービスのStripeが保有するデータから、年間売上が16億4000万円を超える「1人事業者」の数が、2023年から2025年までの2年間で約3倍に急増していることが明らかになりました。",
+  "summary3": [
+   "AIの支援により1人事業者が急増",
+   "年間売上16億円超が2年で3倍に",
+   "Stripeのデータ分析で判明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、決済サービスのStripeが公表したデータに関する情報をお伝えします。近年のAI技術の急速な発展により、AIが市場調査やアプリ開発、マーケティングなどを自ら担えるようになってきました。",
+   "その結果、かつてなら数人のチームが必要だった大規模な事業を、わずか1人で運営する起業家が現れ始めています。Stripeが同社のデータから作成した1人事業者の推計指標を詳しく分析しました。",
+   "その結果、年間売上が1000万ドル、日本円にして約16億4000万円を超える事業者の数が、2023年から2025年までの2年間で約3倍に増加していることが判明しました。AIの活用が個人のビジネス規模を劇的に変えつつあります。"
+  ],
+  "tags": [
+   "AI",
+   "Stripe",
+   "ビジネス"
+  ],
+  "slug": "solo-business-revenue-growth-stripe",
+  "people": [],
+  "terms": [
+   {
+    "name": "Stripe",
+    "type": "company",
+    "desc": "インターネット向けの決済処理サービスや関連ソフトウェアを提供しているアメリカの企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260803-solo-business-10-million-revenue/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "01:00",
+  "path": "/articles/20260804-solo-business-revenue-growth-stripe.html"
+ },
+ {
+  "title": "宮本佳林さんがAIでシステム構築、なぜコード未経験で10時間配信できたのか",
+  "lead": "元Juice=Juiceでアイドルの宮本佳林さんが、米AnthropicのAIコーディングツール「Claude Code」を活用し、YouTubeの10時間生配信を支えるシステムを自作したブログ記事が話題を集めています。",
+  "summary3": [
+   "宮本佳林さんが生配信システムを自作",
+   "米AnthropicのAIツールを活用",
+   "プログラミング経験なく全構築を達成"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、アイドルグループ「Juice=Juice」の元メンバーである宮本佳林さんが8月1日、自身が実施した10時間のYouTube生配信を支えるシステムを自作した経緯をまとめたブログ記事を公開し、大きな注目を集めています。",
+   "今回のシステム構築において最大の特徴は、プログラミングの経験が一切ない宮本さんが、米AnthropicのAIコーディングツール「Claude Code」を用いてシステムを丸ごと作り上げた点にあります。本人も「コードは一行も自分で書いていません」と明言しています。",
+   "開発の裏側については、概要編と技術編の2本に分けてブログで詳しく解説されています。コードを全く書かずにAIだけで実用的な配信システムを構築した事例として、技術ブログ界隈でも大きな話題となっています。"
+  ],
+  "tags": [
+   "宮本佳林",
+   "Claude Code",
+   "YouTube"
+  ],
+  "slug": "miyamoto-karin-claude-code-system",
+  "people": [
+   {
+    "name": "宮本佳林",
+    "bio": "アイドルグループ「Juice=Juice」の元メンバーで、現在はソロで活動する歌手・タレント。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能(AI)開発企業で、対話型AI「Claude」シリーズなどを手掛ける。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "米Anthropicが提供する、コマンドライン環境などで動作するAIコーディング支援ツール。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "01:00",
+  "path": "/articles/20260804-miyamoto-karin-claude-code-system.html"
  }
 ]
