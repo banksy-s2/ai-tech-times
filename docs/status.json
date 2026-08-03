@@ -1,7 +1,18 @@
 {
- "updated": "2026-08-03 08:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-03 09:00",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "ビズリーチ月100億トークン、AI費用対効果の判断基準とは",
+   "path": "/articles/20260803-bizreach-ai-token-cost.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "サイバーエージェント、賞金1000万のAIコンテスト開催",
+   "path": "/articles/20260803-cyberagent-ai-contest-10million.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
@@ -9,7 +20,7 @@
  "notes": [],
  "pv_today": 46,
  "gemini": {
-  "used": 51,
+  "used": 54,
   "limit": 200
  }
 }

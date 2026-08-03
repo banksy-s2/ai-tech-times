@@ -28645,5 +28645,330 @@
   "date": "2026-08-03",
   "time": "06:00",
   "path": "/articles/20260803-kobe-economy-schedule-and-events.html"
+ },
+ {
+  "title": "Fender CEOの発言が物議、バンド仲間は「アナログAI」？",
+  "lead": "ギターメーカーの老舗フェンダーのCEOの発言が、音楽業界で再び波紋を呼んでいます。",
+  "summary3": [
+   "フェンダーCEOがインタビューでAIに言及",
+   "バンド仲間をアナログAIと表現し物議",
+   "悪評が広がる中で批判の声がさらに拡大"
+  ],
+  "body": [
+   "ギターメーカーとして知られるフェンダーの最高経営責任者（CEO）エドワード・“バッド”・コール氏が、今年5月に受けたインタビューでの発言が、最近になって再び大きな話題となっています。",
+   "同氏はテレキャスターの75周年を祝う中で、AIと音楽に関するコメントを残しました。その中でバンドの仲間を「アナログAI」のようだと表現したことが、初期にはあまり注目されなかったものの、現在になって急速に拡散しています。",
+   "この発言は、同社がすでに直面していた悪いパブリックリレーションズの炎上に、さらに燃料を注ぐ形となっています。"
+  ],
+  "tags": [
+   "Fender",
+   "AI",
+   "音楽"
+  ],
+  "slug": "fender-ceo-analog-ai-comments",
+  "people": [
+   {
+    "name": "エドワード・“バッド”・コール氏",
+    "bio": "ギターメーカーであるフェンダーの最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "フェンダー",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、エレキギターやベースなどを製造・販売する世界的な楽器メーカー。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+  "category": "ai",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-fender-ceo-analog-ai-comments.html"
+ },
+ {
+  "title": "EU、AI生成物に表示義務化へ 最大27億円の制裁金",
+  "lead": "欧州連合（EU）は2日、AIで生成・加工された画像や動画などのコンテンツに対し、AIによるものだと分かる表示を事業者に義務づけると発表しました。",
+  "summary3": [
+   "EUがAI生成物に表示義務化を発表",
+   "利用者を偽情報などから守る方針",
+   "最大27億円または売上高3%の制裁金"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、欧州連合（EU）は2日、人工知能（AI）で生成・加工した画像や音声、動画などの内容に対し、利用者がAIによるものだと分かる表示をするよう事業者に義務づけることを明らかにしました。",
+   "今回の規制は、近年急速に発展しているAI技術によって作られたコンテンツをめぐり、偽情報などから利用者を守ることを目的としています。事業者は、AIを活用して作成されたコンテンツであることを明確に示さなければなりません。",
+   "なお、この義務付けに違反した場合には、最大27億円、あるいは年売上高の3%という非常に厳しい制裁金が科されることになります。AI技術の利用が広がる中、事業者側にはより一層の透明性と適切な対応が求められることになりそうです。"
+  ],
+  "tags": [
+   "EU",
+   "AI規制",
+   "人工知能"
+  ],
+  "slug": "eu-ai-generated-content-regulation",
+  "people": [],
+  "terms": [
+   {
+    "name": "欧州連合",
+    "type": "company",
+    "desc": "ヨーロッパの27か国が加盟する政治経済統合体であり、域内の法制度や規制を統一する権限を持つ。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.yomiuri.co.jp/economy/20260801-GYT1T00222/",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-eu-ai-generated-content-regulation.html"
+ },
+ {
+  "title": "アトラシアン、DiaブラウザのWindows版を今秋リリース",
+  "lead": "アトラシアンは、Mac版が提供されているAI時代の仕事用ブラウザ「Diaブラウザ」について、Windows版を今秋にリリースすると明らかにしました。現在、ウェイトリストへの登録が開始されています。",
+  "summary3": [
+   "アトラシアンがDiaブラウザを発表",
+   "Windows版を今年の秋にリリース予定",
+   "現在ウェイトリストへの登録を受付中"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。チームコラボレーションツールなどを手掛けるアトラシアンは、AI時代の仕事用ブラウザとして展開している「Diaブラウザ」について、Windows版を今年の秋にリリースする予定であることを明らかにしました。",
+   "同ブラウザについては、すでにMac版がリリースされていますが、今回の発表によりWindows環境を利用しているユーザーも利用できるようになる見通しです。",
+   "これにともない、Windows版の利用に向けたウェイトリストへの登録がすでに開始されています。詳細な機能や正式な配信日などの今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "アトラシアン",
+   "Diaブラウザ",
+   "Windows"
+  ],
+  "slug": "atlassian-dia-browser-windows",
+  "people": [],
+  "terms": [
+   {
+    "name": "アトラシアン",
+    "type": "company",
+    "desc": "オーストラリア発祥のソフトウェア企業で、プロジェクト管理ツールなどを開発・提供しています。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+  "category": "ai_jp",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-atlassian-dia-browser-windows.html"
+ },
+ {
+  "title": "AppleのMacBook Air、世界的なメモリーチップ不足の影響を受ける理由",
+  "lead": "世界的なメモリーチップの不足により、Appleの人気製品であるMacBook Airの入手性に影響が出ていることが明らかになりました。",
+  "summary3": [
+   "世界的なメモリーチップ不足が発生",
+   "AppleのMacBook Airが入手困難に",
+   "人気製品の供給状況に影響が及ぶ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、世界的なメモリーチップの不足が、Appleの最も人気のあるMacであるMacBook Airの入手性に影響を与えている模様です。",
+   "メモリーチップ不足という世界的な供給の混乱が、身近なコンシューマー向けハードウェアの調達や購入にどのように波及しているのか、今後の動向が注目されています。",
+   "今回の状況は、半導体市場全体の動向が個別の人気製品に直結していることを示しており、購入を検討しているユーザーにとっては見逃せないニュースと言えます。"
+  ],
+  "tags": [
+   "MacBook Air",
+   "Apple",
+   "半導体"
+  ],
+  "slug": "global-memory-shortage-hits-macbook-air",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを展開するアメリカの巨大テクノロジー企業で、世界的なハードウェア製品を多数提供しています。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-global-memory-shortage-hits-macbook-air.html"
+ },
+ {
+  "title": "バラジ・スリニヴァサン氏のネットワークスクール、マレーシアで閉鎖か",
+  "lead": "テック系オプティミストのためのフロンティアコミュニティとして知られるネットワークスクールをめぐり、マレーシアでの閉鎖が報じられました。",
+  "summary3": [
+   "ネットワークスクールが閉鎖との報道",
+   "マレーシアでの動向に注目が集まる",
+   "テック系コミュニティの行方とは"
+  ],
+  "body": [
+   "海外メディアのTechCrunchは、バラジ・スリニヴァサン氏が関与する「ネットワークスクール」がマレーシアで閉鎖されると報じました。テクノロジーの力で新たな社会やコミュニティの構築を目指す、いわゆるフロンティアコミュニティとしての動向が注目されていました。",
+   "今回の報道によれば、この「テクノ・オプティミスト」たちのためのコミュニティが、現地においてどのような状況にあるのかが伝えられています。詳細な閉鎖の経緯や今後の影響については、さらなる情報の公開が待たれるところです。",
+   "同コミュニティは、従来の枠組みにとらわれない新しい生き方や学びの場を模索する取り組みとして知られてきました。今回のマレーシアにおける動きは、今後のオルタナティブなコミュニティ運営のあり方にも大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "コミュニティ",
+   "マレーシア",
+   "海外ニュース"
+  ],
+  "slug": "malaysia-shuts-down-network-school",
+  "people": [
+   {
+    "name": "バラジ・スリニヴァサン氏",
+    "bio": "米国の起業家、投資家。元コインベースの最高技術責任者（CTO）であり、テクノロジー関連の著作などで知られる。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする、IT業界やスタートアップ企業に関するニュースを専門に扱う大手テクノロジーメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+  "category": "silicon",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-malaysia-shuts-down-network-school.html"
+ },
+ {
+  "title": "HIKAKINの「みそきん」があべのキューズモールにオープン",
+  "lead": "大人気YouTuber・HIKAKINさんがプロデュースを手がける「みそきん」が、あべのキューズモールにオープンしました。チケット完売の激戦となった話題の店舗の詳細をお伝えします。",
+  "summary3": [
+   "HIKAKINプロデュースのみそきんがオープン",
+   "場所は大阪市阿倍野区のあべのキューズモール",
+   "チケット完売の激戦となる大人気ぶりを記録"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回のニュースは、大人気YouTuber・HIKAKINさんがプロデュースを手がける「みそきん」の話題です。2026年8月1日、大阪市阿倍野区にあるあべのキューズモールに新たな店舗がオープンしました。",
+   "オープンを迎えた「みそきん」は、チケット完売の激戦となるほどの大きな注目を集めています。HIKAKINさんの高い発信力と人気を背景に、多くのファンや来店客が詰めかける大盛況の滑り出しとなりました。",
+   "あべのキューズモールでのオープンにより、関西エリアのファンにとっても待望の店舗誕生となりました。今後の展開や混雑状況など、引き続き「みそきん」に関する最新情報から目が離せません。"
+  ],
+  "tags": [
+   "HIKAKIN",
+   "みそきん",
+   "あべのキューズモール"
+  ],
+  "slug": "hikakin-misokin-abeno-qs-mall",
+  "people": [
+   {
+    "name": "HIKAKIN",
+    "bio": "日本を代表するトップYouTuberであり、商品プロデュースなど多方面で活躍するクリエイター。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NSlM5ZlRqSGtteEp0dFIxRFNsRnRLdzQ4YkptWUQ5T3lEdTY5U1gxc180Q0NNTU5OTm0yeUt4aFZRb2lqNEZIdHRILXJtaGs1OVl3aTRocHE1eF9Ld2xV?oc=5",
+  "category": "influencer",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-hikakin-misokin-abeno-qs-mall.html"
+ },
+ {
+  "title": "羽田空港の荷物預け入れ30分前に、遅れ対策でどうなる？",
+  "lead": "羽田空港を発着する国内線の定時運航をめぐり、全日空や日本航空など各社が荷物を預ける締め切り時刻の変更を発表しました。",
+  "summary3": [
+   "羽田空港国内線で出発遅れが増加",
+   "ANAやJALなどが荷物預けを前倒し",
+   "9月から締め切りが出発30分前に"
+  ],
+  "body": [
+   "羽田空港を発着する国内線の空の便において、出発の遅れが増えるなど定時運航が大きな課題となっています。こうした状況を受けて、航空各社は対策に乗り出しています。",
+   "9月から、全日空や日本航空など各社は、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しして出発の30分前とすることを明らかにしました。",
+   "今回の締め切り時刻の変更により、国内線の出発遅れがどのように改善されるのか、今後の運航状況に関心が集まっています。"
+  ],
+  "tags": [
+   "羽田空港",
+   "全日空",
+   "日本航空"
+  ],
+  "slug": "haneda-airport-luggage-deadline",
+  "people": [],
+  "terms": [
+   {
+    "name": "全日空",
+    "type": "company",
+    "desc": "日本の大手航空会社であり、国内線および国際線の旅客・貨物輸送事業を展開しています。"
+   },
+   {
+    "name": "日本航空",
+    "type": "company",
+    "desc": "日本を代表する航空会社の一つで、国内外の定期航空運送事業などを手掛けています。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015194531000",
+  "category": "world",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-haneda-airport-luggage-deadline.html"
+ },
+ {
+  "title": "DMG森精機とファナックに注目、AI相場の次なる主役「フィジカルAI」とは",
+  "lead": "AI相場の次なる主役として注目を集める「フィジカルAI」に関連し、工作機械大手のDMG森精機やエヌビディアと提携するファナックに注目が集まっています。",
+  "summary3": [
+   "AI相場の次なる主役はフィジカルAI",
+   "DMG森精機は工作機械大手で業績が急回復中",
+   "ファナックはエヌビディアと提携し注目を集める"
+  ],
+  "body": [
+   "AI関連市場において、新たな主役として「フィジカルAI」に注目が集まっています。ダイヤモンド・オンラインの報道によると、関連する本命株として工作機械大手の企業や、エヌビディアと提携関係にある企業の名前が挙がっています。",
+   "その1つであるDMG森精機は工作機械大手として知られ、現在は業績が急回復している状況です。製造業の現場における自動化やデジタル化の進展に伴い、同社の動向に関心が集まっています。",
+   "もう1つの注目企業であるファナックは、米国の半導体大手エヌビディアと提携していることで知られています。最先端のAI技術と産業用ロボットや工作機械の融合が進む中、両社の取り組みが市場でどのように評価されるか注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "日本株",
+   "フィジカルAI"
+  ],
+  "slug": "physical-ai-dmg-mori-fanuc",
+  "people": [],
+  "terms": [
+   {
+    "name": "DMG森精機",
+    "type": "company",
+    "desc": "工作機械の製造・販売を手がける日本の大手機械メーカー。グローバルに事業を展開している。"
+   },
+   {
+    "name": "ファナック",
+    "type": "company",
+    "desc": "FA（ファクトリー・オートメーション）や産業用ロボットで世界トップクラスのシェアを持つ日本の電機メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
+  "category": "stock",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-physical-ai-dmg-mori-fanuc.html"
+ },
+ {
+  "title": "【4689.T】FY26 EBITDA 5,850億円計画でなぜ2桁増益へ？",
+  "lead": "「AI TECH TIMES」がお伝えする企業の最新動向です。4689.Tの決算説明会において、FY26のEBITDAが5,850億円となる2桁増益計画や、配当の11円への増配が発表されました。",
+  "summary3": [
+   "FY26のEBITDAは5,850億円を計画",
+   "2桁増益を見込み配当は11円へ増配へ",
+   "AIエージェント化で変革を加速させる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。BigGo ファイナンスが報じたところによると、4689.TはFY2025 Q4の決算説明会を実施し、今後の業績見通しや株主還元策について発表を行いました。",
+   "今回の発表では、FY26におけるEBITDAが5,850億円に達する2桁増益の計画が明らかにされました。これに伴い、配当についても11円へと増配される予定であることが示されています。",
+   "さらに、同社はAIエージェント化を推進することで、事業変革を一層加速させる方針です。具体的な計画と数値目標が示された今回の説明会は、多くの市場関係者の注目を集めています。"
+  ],
+  "tags": [
+   "決算",
+   "EBITDA",
+   "AIエージェント"
+  ],
+  "slug": "4689-t-fy2025-q4-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "BigGo ファイナンス",
+    "type": "company",
+    "desc": "金融や経済に関する情報やニュース等を提供しているメディアサービスです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FRHRFNExHUVNuN1NsUFdjUy1NU0haM2hneFJqaE9OaXNGOGRiRThYMktlYkxtU3RTLVBKZkZUcW1YbEtUb2tRaloybGNKV1A2TmxPRUR1S0MwMWRMQ200?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-03",
+  "time": "07:02",
+  "path": "/articles/20260803-4689-t-fy2025-q4-results.html"
  }
 ]
