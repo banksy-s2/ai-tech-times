@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-03 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-03 19:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Armも出資、英Olixが3億1200万ドル調達した理由](https://ai-tech-times.web.app/articles/20260803-olix-raises-312m-valuation-3b-arm.html) — 2026-08-03 19:01: ロンドンを拠点とするAIチップ新興企業のOlixが、Nvidiaに対抗するため3億1200万ドルを調達しました。評価額は33億ドルに達しています。
 - [Akamai中西氏解説：WAFを89％すり抜けるAI攻撃の予防策](https://ai-tech-times.web.app/articles/20260803-ai-web-attack-waf-bypass.html) — 2026-08-03 18:00: フロンティアAIの登場によってWeb攻撃の傾向が一変しました。Akamai Technologiesの中西一博氏が解説する、AIが休みなく仕掛ける攻撃への対策とは。
 - [NTTドコモ、2027年にマーケティングフルAI化へ](https://ai-tech-times.web.app/articles/20260803-ntt-docomo-full-ai-marketing-2027.html) — 2026-08-03 17:11: NTTドコモの鈴木敬氏が、2027年を見据えたフルAIマーケティングの実現に取り組んでいることを明かしました。
 - [富士通とNECが語ったAI需要の手応えと2026年下半期の見通し](https://ai-tech-times.web.app/articles/20260803-fujitsu-nec-ai-demand-2026.html) — 2026-08-03 17:11: 企業の業務に向けたAI需要はどのような動きを見せているのでしょうか。富士通とNECの直近決算会見におけるCFOの発言から、AI需要の盛り上がりとITサービス企業の収益との関係を考察します。
@@ -41,14 +42,13 @@
 - [円相場が一時155円台に値上がり、片山財務大臣が協調介入を表明](https://ai-tech-times.web.app/articles/20260803-yen-exchange-rate-155-yen-level.html) — 2026-08-03 13:00: 3日の外国為替市場で、日本とアメリカによる協調介入が実施されたことが表明され、円相場は一時1ドル＝155円台まで値上がりしました。
 - [AIの限界を見抜く、カエルの画像生成ベンチマーク](https://ai-tech-times.web.app/articles/20260803-ai-benchmark-frog-svg.html) — 2026-08-03 12:02: AIの性能を試すため、独特な条件を指定したユニークな個人用ベンチマークが注目を集めています。
 - [16歳の開発者が発表したAIエージェント「Sprocket」](https://ai-tech-times.web.app/articles/20260803-sprocket-ai-agent-development.html) — 2026-08-03 12:02: AI/LLMの分野で、ハードウェアとソフトウェアの両方で他を圧倒する性能を持つオープンソースのAIエージェント「Sprocket」が公開されました。自動でウェブから最適なコンテキストを取得し、買い物まで行う能力の全貌をお伝えします。
-- [Cognition AIが描く日本市場の狙い](https://ai-tech-times.web.app/articles/20260803-cognition-ai-devin-japan-strategy.html) — 2026-08-03 12:02: 自律型AIエンジニア「Devin」を手掛ける米Cognition AIの日本ユーザー人口が、米国に次ぐ規模に達していることが分かりました。
 
 ## 世界のバズ動画TOP3 (2026-08-03)
 - 1位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
 - 2位: [Street Fighter 6 - Yasmine Update Launch Trailer](https://www.youtube.com/watch?v=IgIY-M9FZC4)
 - 3位: [Exploring My Abandoned Minecraft Server](https://www.youtube.com/watch?v=PRp5Y543LN0)
 
-## AI用語事典 (全618語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全620語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
