@@ -1464,7 +1464,7 @@
    "id": "NZP153MUpHY",
    "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
    "channel": "SMTOWN",
-   "views": 1081301,
+   "views": 1118794,
    "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
    "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
    "regions": [
@@ -1481,7 +1481,7 @@
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 9339120,
+   "views": 9444140,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
@@ -1494,24 +1494,10 @@
   },
   {
    "rank": 3,
-   "id": "psGsc1n8Klw",
-   "title": "Five Nights at Freddy's: ULTIMATE CUSTOM STREAM",
-   "channel": "Markiplier",
-   "views": 1386042,
-   "url": "https://www.youtube.com/watch?v=psGsc1n8Klw",
-   "thumb": "https://i.ytimg.com/vi/psGsc1n8Klw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "FNAFのアルティメットカスタム配信を行っているようです。(27文字)"
-  },
-  {
-   "rank": 4,
    "id": "ivZ2c69D69E",
    "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
    "channel": "Aashirvad Cinemas",
-   "views": 563663,
+   "views": 618547,
    "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
    "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
    "regions": [
@@ -1521,11 +1507,25 @@
    "comment": "映画「Thudakkam」の公式トレーラーのようです"
   },
   {
+   "rank": 4,
+   "id": "izNezNuv9sU",
+   "title": "The Search For The Leviathan",
+   "channel": "Wifies",
+   "views": 532123,
+   "url": "https://www.youtube.com/watch?v=izNezNuv9sU",
+   "thumb": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "リヴァイアサンを探し求める様子が描かれているようです。"
+  },
+  {
    "rank": 5,
    "id": "d1rWv8VeQO0",
    "title": "TWS (투어스) 'SODA SODA' Official MV",
    "channel": "HYBE LABELS",
-   "views": 505965,
+   "views": 509007,
    "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
    "thumb": "https://i.ytimg.com/vi/d1rWv8VeQO0/hqdefault.jpg",
    "regions": [
@@ -1536,24 +1536,10 @@
   },
   {
    "rank": 6,
-   "id": "8uyVc6yvU9c",
-   "title": "Minecraft Hunger Games (Ft. anthony's mom)",
-   "channel": "Bunch of Friends",
-   "views": 401201,
-   "url": "https://www.youtube.com/watch?v=8uyVc6yvU9c",
-   "thumb": "https://i.ytimg.com/vi/8uyVc6yvU9c/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "アンソニーの母親も参加したマインクラフトのサバイバルゲームのようです。"
-  },
-  {
-   "rank": 7,
    "id": "uEcoV-ngH38",
    "title": "Your Mother Your Mother Your Mother | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 392943,
+   "views": 498742,
    "url": "https://www.youtube.com/watch?v=uEcoV-ngH38",
    "thumb": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
    "regions": [
@@ -1563,25 +1549,11 @@
    "comment": "Amazon MGM Studiosによる公式トレーラー映像のようです。"
   },
   {
-   "rank": 8,
-   "id": "izNezNuv9sU",
-   "title": "The Search For The Leviathan",
-   "channel": "Wifies",
-   "views": 375746,
-   "url": "https://www.youtube.com/watch?v=izNezNuv9sU",
-   "thumb": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "リヴァイアサンを探し求める様子が描かれているようです。"
-  },
-  {
-   "rank": 9,
+   "rank": 7,
    "id": "9TjRdsqm7jE",
    "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
    "channel": "THE FIRST TAKE",
-   "views": 316053,
+   "views": 330611,
    "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
    "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
    "regions": [
@@ -1591,11 +1563,11 @@
    "comment": "Hearts2Heartsによる「RUDE!」の日本語版一発撮りパフォーマンスのようです"
   },
   {
-   "rank": 10,
+   "rank": 8,
    "id": "sUjhPLauVE4",
    "title": "Orchestra",
    "channel": "Red Velvet - Topic",
-   "views": 251925,
+   "views": 261957,
    "url": "https://www.youtube.com/watch?v=sUjhPLauVE4",
    "thumb": "https://i.ytimg.com/vi/sUjhPLauVE4/hqdefault.jpg",
    "regions": [
@@ -1603,6 +1575,34 @@
     "KR"
    ],
    "comment": "Red Velvetの「Orchestra」が公開されたようです。"
+  },
+  {
+   "rank": 9,
+   "id": "xn7LRhqnxOc",
+   "title": "ROBLOX SECURE THE SUPERMARKET..",
+   "channel": "Foltyn",
+   "views": 250510,
+   "url": "https://www.youtube.com/watch?v=xn7LRhqnxOc",
+   "thumb": "https://i.ytimg.com/vi/xn7LRhqnxOc/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Robloxでスーパーマーケットを攻略するゲーム実況のようです"
+  },
+  {
+   "rank": 10,
+   "id": "qJOiCAf2Zns",
+   "title": "Working A Midnight Shift is a Nightmare",
+   "channel": "SMii7Y",
+   "views": 237489,
+   "url": "https://www.youtube.com/watch?v=qJOiCAf2Zns",
+   "thumb": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "深夜のシフト勤務の大変さを描いたゲーム実況かもしれません。"
   }
  ]
 }

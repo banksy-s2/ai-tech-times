@@ -1,15 +1,55 @@
 {
- "updated": "2026-08-04 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-04 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "エア・ウォーター最終赤字639億円、巨額減損の背景と配当維持の理由",
-   "path": "/articles/20260804-air-water-fy2025-financial-results.html",
+   "title": "米トランプ政権のAI保護主義がロボット産業に波及",
+   "path": "/articles/20260804-trumps-ai-protectionism-robotics.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ラグザス調査：情シスより生成AIを使うあの職種とは",
+   "path": "/articles/20260804-generative-ai-usage-by-job-type.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AIで仕事を効率化したら、なぜ僕の仕事だけ増えたのか",
+   "path": "/articles/20260804-ai-work-efficiency-increase.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Visaが24億ドルで買収、急増する詐欺対策の狙い",
+   "path": "/articles/20260804-visa-buys-biocatch-for-2-4-billion.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Palantirが12%急騰、売上高予想を上方修正した理由",
+   "path": "/articles/20260804-palantir-q2-earnings-surage.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "日米、追加の円買い介入も辞さず姿勢を示す",
+   "path": "/articles/20260804-us-japan-cooperative-intervention.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均が約1360円安、日米政府の為替介入で円高を警戒",
+   "path": "/articles/20260804-nikkei-average-drops-1360-yen-fx-intervention.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "Amazon時価総額3兆ドル突破、クラウド好調で株価急騰",
+   "path": "/articles/20260804-amazon-market-cap-exceeds-3-trillion.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "大手企業が決算発表、熊本地震や中東情勢の影響は",
+   "path": "/articles/20260804-corporate-earnings-earthquake-middle-east.html",
    "cat": "日本企業"
   },
   {
-   "title": "BigGo ファイナンス、売上収益1兆7,671億円で過去最高を達成",
-   "path": "/articles/20260804-biggo-finance-fy2026-q1-results.html",
+   "title": "エアロネクストとチェンジHD、AIドローンで危機管理AXへ",
+   "path": "/articles/20260804-aeronext-change-hd-ai-drone-partnership.html",
    "cat": "日本企業"
   }
  ],
@@ -17,10 +57,15 @@
   "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
   "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
- "notes": [],
- "pv_today": 8,
+ "notes": [
+  "執筆失敗: Europe’s AI labeling and transparency ru",
+  "執筆失敗: 【関西初】初日はチケット即完…人気YouTuber・ヒカキンのラーメン店「みそき",
+  "執筆失敗: 食料品の消費税減税 5日にも閣議決定したい考え 政府",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 9,
  "gemini": {
-  "used": 27,
+  "used": 55,
   "limit": 200
  }
 }
