@@ -30949,5 +30949,323 @@
   "date": "2026-08-04",
   "time": "06:00",
   "path": "/articles/20260804-biggo-finance-fy2026-q1-results.html"
+ },
+ {
+  "title": "米トランプ政権のAI保護主義がロボット産業に波及",
+  "lead": "AI TECH TIMESの週刊ニュースレター「The Algorithm」によると、トランプ政権のAI保護主義が新たにロボット産業へと波及していることが明らかになりました。",
+  "summary3": [
+   "トランプ政権のAI保護主義がロボットへ波及",
+   "ヒューマノイドロボットは未だ発展途上の産業",
+   "手先の器用さや動作には依然として課題が残る"
+  ],
+  "body": [
+   "ヒューマノイドロボットは、しばしば畏敬の念よりも気まずさを引き起こす存在です。転倒したり子供を蹴ったりするなど、技術が進歩しているにもかかわらず、その手先の器用さは幼い子供のそれよりも劣るのが現状です。",
+   "これはまだ黎明期にある産業であり、こうしたロボットたちは様々な課題を抱えながら開発が進められています。AI技術の発展とともに注目を集める分野ですが、実用化への道のりは未だ険しいものがあります。",
+   "こうした状況の中、トランプ政権によるAI保護主義の波がロボット産業にも押し寄せており、今後の動向や産業への影響に関心が集まっています。"
+  ],
+  "tags": [
+   "ロボット",
+   "AI保護主義",
+   "トランプ政権"
+  ],
+  "slug": "trumps-ai-protectionism-robotics",
+  "people": [],
+  "terms": [],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+  "category": "ai",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-trumps-ai-protectionism-robotics.html"
+ },
+ {
+  "title": "ラグザス調査：情シスより生成AIを使うあの職種とは",
+  "lead": "生成AIの活用状況に関する職種別の利用実態調査が実施されました。エンジニアや情シスを上回る利用率を記録した職種とは一体どこなのでしょうか。",
+  "summary3": [
+   "職種別の生成AI利用実態調査が実施された",
+   "エンジニアや情シスが1位ではなかった",
+   "別の職種がそれらを上回る利用率を記録した"
+  ],
+  "body": [
+   "生成AIの活用状況は、担当する業務や職種によって大きく異なることが分かっています。こうした中、職種別の生成AI利用実態を正確に把握するために、ラグザスが調査を実施しました。",
+   "一般的にAIやITの最先端にいるイメージが強いエンジニアや情シスですが、今回の調査結果では、それらの職種が職種別利用実態の1位ではなかったことが明らかになっています。",
+   "では、どの職種がエンジニアや情シスを上回る利用率を記録したのでしょうか。業務における生成AIの活用が進む現在、その具体的な職種と利用実態に関心が集まっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "ITmedia AI+",
+   "調査"
+  ],
+  "slug": "generative-ai-usage-by-job-type",
+  "people": [],
+  "terms": [
+   {
+    "name": "ラグザス",
+    "type": "company",
+    "desc": "インターネット関連事業などを展開し、様々な調査やサービスを手がけている企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/articles/2608/03/news020.html",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-generative-ai-usage-by-job-type.html"
+ },
+ {
+  "title": "AIで仕事を効率化したら、なぜ僕の仕事だけ増えたのか",
+  "lead": "AIを使って社内業務の効率化を進めた結果、なぜか自身の仕事だけが増えてしまったという体験談が話題になっています。",
+  "summary3": [
+   "AIを活用して業務の効率化を推進",
+   "画像や文章生成AIの検証を実施",
+   "効率化した結果なぜか仕事が増加"
+  ],
+  "body": [
+   "こんにちは。みなさんは日々、仕事を効率化していますでしょうか。ある人物は、AIが世の中で騒がれ始めた頃から、「これは仕事のやり方が根本から変わるぞ」と考え、積極的に仕事の効率化を進めていました。",
+   "その人物は、画像生成AIや文章生成AIを実際に試し、社内業務に応用できそうな方法を徹底的に検証しました。さらに、その結果をわかりやすい資料にまとめ、周囲の人々にも共有するなど、精力的に取り組んでいました。",
+   "しかし、AIを活用して仕事を効率化したにもかかわらず、なぜか自分の仕事ばかりが増えてしまうという事態に直面しました。効率化を求めたはずが、予期せぬ状況に置かれている現状が語られています。"
+  ],
+  "tags": [
+   "AI",
+   "仕事効率化",
+   "生成AI"
+  ],
+  "slug": "ai-work-efficiency-increase",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://anond.hatelabo.jp/20260803162719",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-ai-work-efficiency-increase.html"
+ },
+ {
+  "title": "Visaが24億ドルで買収、急増する詐欺対策の狙い",
+  "lead": "決済大手のVisaが、AIを活用した詐欺の急増に対抗するため、サイバーセキュリティ企業BioCatchを24億ドルで買収すると発表しました。",
+  "summary3": [
+   "VisaがBioCatchを買収へ",
+   "買収金額は24億ドル規模",
+   "付加価値サービス事業を拡大"
+  ],
+  "body": [
+   "米CNBC Techによると、決済大手のVisaは、サイバーセキュリティ企業であるBioCatchを24億ドルで買収することを発表しました。この買収は、人工知能（AI）技術を用いた詐欺被害が世界的に急増している背景を受けて行われるものです。",
+   "BioCatchは、デジタル空間における不正検知やサイバーセキュリティの分野で高い技術を持つ企業として知られています。今回の買収により、Visaは安全性の高い決済インフラの強化と、セキュリティ対策の高度化を進める狙いがあります。",
+   "また、今回の買収はVisaが近年注力している「付加価値サービス事業」の拡大に向けた最新の動きでもあります。同事業は現在、Visaの部門の中で最も急速に成長している分野の一つとなっており、今回の大型買収によってさらなる事業成長が期待されています。"
+  ],
+  "tags": [
+   "Visa",
+   "サイバーセキュリティ",
+   "AI"
+  ],
+  "slug": "visa-buys-biocatch-for-2-4-billion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Visa",
+    "type": "company",
+    "desc": "世界規模でクレジットカードなどの決済ネットワークを展開するアメリカの多国籍金融サービス企業です。"
+   },
+   {
+    "name": "BioCatch",
+    "type": "company",
+    "desc": "行動バイオメトリクスを活用した不正検知やサイバーセキュリティ対策を専門とする企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-visa-buys-biocatch-for-2-4-billion.html"
+ },
+ {
+  "title": "Palantirが12%急騰、売上高予想を上方修正した理由",
+  "lead": "米CNBC Techによると、AIソフトウェア企業のPalantirの第2四半期決算が予想を上回り、株価が12%急騰しました。",
+  "summary3": [
+   "Palantirの第2四半期決算が予想を上回る",
+   "米国の商用売上高が約150%急増を記録",
+   "好調な業績を受けて売上高見通しを上方修正"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、AIソフトウェアを手がけるPalantirの第2四半期決算は市場予想を上回る結果となりました。これを受けて同社の株価は12%急騰し、市場関係者の注目を集めています。",
+   "特に米国の商用事業における成長が著しく、売上高は約150%という驚異的な急増を記録しました。AI技術の企業向け導入が急ピッチで進む中、同社のサービスが強い需要を集めていることが裏付けられています。",
+   "好調な業績を背景に、同社は今後の売上高見通し（ガイダンス）を上方修正しました。AIソフトウェア市場での競争が激化するなか、今後の業績拡大への期待がさらに高まっています。"
+  ],
+  "tags": [
+   "Palantir",
+   "決算",
+   "AI"
+  ],
+  "slug": "palantir-q2-earnings-surage",
+  "people": [],
+  "terms": [
+   {
+    "name": "Palantir",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、政府機関や企業向けにビッグデータ解析プラットフォームを提供するソフトウェア企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-palantir-q2-earnings-surage.html"
+ },
+ {
+  "title": "日米、追加の円買い介入も辞さず姿勢を示す",
+  "lead": "日米の通貨当局が歴史的な円安を阻止するために協調介入を実施し、さらに追加の協調介入も辞さない姿勢を示しました。",
+  "summary3": [
+   "日米が歴史的な円安阻止へ動く",
+   "先週に協調して円買い介入を実施",
+   "追加の協調介入も辞さずと表明"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によりますと、日米の通貨当局は歴史的な円安を阻止するために先週、協調して円買い介入を実施しました。さらに、3日には追加の協調介入も辞さないという姿勢を示しています。",
+   "日本側は、円買い介入の原資となるドルを十分に調達するため、今後アメリカ当局のドル調達の仕組みを活用していく方針です。"
+  ],
+  "tags": [
+   "為替",
+   "円安",
+   "日米関係"
+  ],
+  "slug": "us-japan-cooperative-intervention",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015195341000",
+  "category": "world",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-us-japan-cooperative-intervention.html"
+ },
+ {
+  "title": "日経平均が約1360円安、日米政府の為替介入で円高を警戒",
+  "lead": "8月3日の前場において、日経平均株価が1360円程度下落しました。日米両政府による為替介入への警戒感から円高が進んだことが背景にあります。",
+  "summary3": [
+   "日経平均が約1360円程度下落",
+   "8月3日の前場における動向",
+   "日米の為替介入による円高を警戒"
+  ],
+  "body": [
+   "8月3日の東京株式市場の前場において、日経平均株価が大きく値を下げました。下落幅は1360円程度に達する展開となっています。",
+   "今回の株価下落の主な要因として、日米両政府による為替介入に対する警戒感が挙げられます。市場では円高への懸念が意識され、投資家心理に影響を与えました。"
+  ],
+  "tags": [
+   "日経平均",
+   "為替介入",
+   "円高"
+  ],
+  "slug": "nikkei-average-drops-1360-yen-fx-intervention",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFFkQ255Sm1wU2laOTU1dEVZLUFTQ0JISVBCZElRSkNvcTFZY21Ic3ozcngzeEZIRHEtN1VmNmxsZWJaTV92YllyM0xWOEF6cS1US0pFMmF4SnUxS04yaXpWTVNmN3Z4NWw2ZFpXV1gtUV9CMFAyODYyeDZkTHZMMnMycXY3WUU?oc=5",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-nikkei-average-drops-1360-yen-fx-intervention.html"
+ },
+ {
+  "title": "Amazon時価総額3兆ドル突破、クラウド好調で株価急騰",
+  "lead": "Amazonの時価総額が3兆ドルを突破しました。クラウド事業の好調が背景にあり、株価が急騰しています。",
+  "summary3": [
+   "Amazonの時価総額が3兆ドルを突破",
+   "世界で5社目となる快挙を達成",
+   "クラウド事業の好調で株価が急騰"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、Amazonの時価総額が3兆ドルを突破しました。世界で5社目となる大台の達成であり、市場関係者の注目を集めています。",
+   "今回の時価総額の急拡大を牽引したのは、好調な業績を見せるクラウド事業です。クラウドサービスの需要拡大が、株価の急騰を後押しする形となりました。",
+   "Amazonは世界的な巨大企業として知られていますが、今回の時価総額3兆ドル突破は、その強固な事業基盤と成長力を改めて示す結果となりました。"
+  ],
+  "tags": [
+   "Amazon",
+   "時価総額",
+   "株式市場"
+  ],
+  "slug": "amazon-market-cap-exceeds-3-trillion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界的なEC事業やクラウドサービスを展開する巨大テクノロジー企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpYVZkalFNM05ULVlWMVBIMlZQdjlfanVPVmRZZFJZYkRFVTBRNkZLcllScktqeDJteldmZ0dJa0g5aGF2RU5QY0pXU1hkWENydkRab3VKTkZIOXB1elI4YWNRaDI2QVJyUGU5Wg?oc=5",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-amazon-market-cap-exceeds-3-trillion.html"
+ },
+ {
+  "title": "大手企業が決算発表、熊本地震や中東情勢の影響は",
+  "lead": "大手企業によることし4月から6月までの3か月間の決算発表が相次いでいます。令和8年熊本地震や中東情勢の影響について、企業側の発言などとともにまとめました。",
+  "summary3": [
+   "大手企業が4〜6月期の決算を発表",
+   "令和8年熊本地震の影響に言及",
+   "中東情勢の影響も動向として注目"
+  ],
+  "body": [
+   "大手企業のことし4月から6月までの3か月間の決算発表が相次いで行われています。今回の決算発表では、国内外のさまざまな出来事が事業活動や業績にどのような影響を与えたのかが注目を集めています。",
+   "なかでも、令和8年熊本地震の影響や、緊迫する中東情勢の影響について、各企業がどのように受け止め、今後の見通しや対策を語っているのかが企業側の発言とともに明らかにされています。",
+   "企業を取り巻く外部環境が刻々と変化する中、各社の業績動向や経営層の発言内容に引き続き関心が集まっています。"
+  ],
+  "tags": [
+   "決算",
+   "経済",
+   "企業動向"
+  ],
+  "slug": "corporate-earnings-earthquake-middle-east",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015195061000",
+  "category": "jp_corp",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-corporate-earnings-earthquake-middle-east.html"
+ },
+ {
+  "title": "エアロネクストとチェンジHD、AIドローンで危機管理AXへ",
+  "lead": "エアロネクストとチェンジホールディングスが、AIドローンを活用した「危機管理AX」の実現に向けた業務提携を発表しました。",
+  "summary3": [
+   "エアロネクストとチェンジHDが提携",
+   "AIドローンを活用した危機管理AXを目指す",
+   "デジタル技術による業務変革を推進へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。エアロネクストとチェンジホールディングスは、AIドローンを活用した「危機管理AX」の実現に向けた業務提携を新たに締結したことを発表しました。",
+   "今回の提携により、両社が持つ知見や技術を組み合わせることで、AIドローンを用いた危機管理分野における新しいデジタル変革（AX）の推進を目指すとしています。",
+   "具体的な取り組みや今後の展開については、両社による発表等を通じて順次明らかにされる見通しです。AI技術とドローンの融合が、企業の危機管理体制にどのような影響を与えるのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "AIドローン",
+   "危機管理AX",
+   "業務提携"
+  ],
+  "slug": "aeronext-change-hd-ai-drone-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "エアロネクスト",
+    "type": "company",
+    "desc": "ドローン配送や次世代ドローンの開発・事業化を推進する日本の企業です。"
+   },
+   {
+    "name": "チェンジホールディングス",
+    "type": "company",
+    "desc": "デジタル人材の育成や自治体向けのDX支援などを幅広く手掛ける日本の持株会社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlYkFrTHlqZ3NRX2lwbm9uNlBVcWFGQkdSWHExTmNuRW11NkJhWlBQYndmdkRYZnFCRmlWT09WbE9mT1E?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-04",
+  "time": "07:02",
+  "path": "/articles/20260804-aeronext-change-hd-ai-drone-partnership.html"
  }
 ]
