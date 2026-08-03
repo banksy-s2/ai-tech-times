@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-04 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-04 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "中東の石油タンカー、戦争開始以降で最悪の脅威に",
-   "path": "/articles/20260804-threat-to-oil-tankers-middle-east.html",
-   "cat": "時事・世界"
+   "title": "フラット35金利3.29％に、過去最高を更新した理由",
+   "path": "/articles/20260804-flat35-interest-rate-august.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "マネクリ：日経平均は607円安の63,754円と反落、円急伸の背景",
+   "path": "/articles/20260804-nikkei-average-falls-607-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [
-  "執筆失敗: Two workers killed in blast after re-ent"
- ],
- "pv_today": 7,
+ "notes": [],
+ "pv_today": 8,
  "gemini": {
-  "used": 19,
+  "used": 24,
   "limit": 200
  }
 }

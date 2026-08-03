@@ -30881,5 +30881,73 @@
   "date": "2026-08-04",
   "time": "05:00",
   "path": "/articles/20260804-nikkei-average-falls-607-yen.html"
+ },
+ {
+  "title": "エア・ウォーター最終赤字639億円、巨額減損の背景と配当維持の理由",
+  "lead": "AI TECH TIMESがお伝えする企業の最新決算情報です。エア・ウォーターのFY2025決算説明会において、最終損益が639億円の赤字に転落したことが発表されました。",
+  "summary3": [
+   "最終損益は639億円の赤字転落",
+   "1080億円の減損を計上",
+   "事業利益745億円で配当維持"
+  ],
+  "body": [
+   "AI TECH TIMESの編集部が報じる最新の企業動向として、エア・ウォーターのFY2025決算説明会の詳細をお伝えします。今回の発表によると、同社の最終損益は639億円の赤字に転落する結果となりました。",
+   "赤字転落の主な要因は、1080億円にのぼる巨額の減損計上によるものです。大規模な減損処理を行った一方で、事業利益については745億円を確保する形となりました。",
+   "業績の大きな変動があったものの、株主還元については配当75円を維持する方針が示されました。本記事の数値や事実はすべて元記事に基づく情報であり、特定の投資助言を目的としたものではありません。"
+  ],
+  "tags": [
+   "エア・ウォーター",
+   "決算",
+   "減損"
+  ],
+  "slug": "air-water-fy2025-financial-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "エア・ウォーター",
+    "type": "company",
+    "desc": "日本の産業ガス大手企業であり、医療や農業など幅広い事業を展開している。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKemhvdDJQTkE0QVV6UmFKMGNPZGl4UDhucVN1SVRBNmJnZkdDbjJoUWRSZzFVVTdFMzZVOUVKcnoyUTFxTEpib2xJWFd4VFZBdXgxRGFZWjhlWkxBU05R?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-04",
+  "time": "06:00",
+  "path": "/articles/20260804-air-water-fy2025-financial-results.html"
+ },
+ {
+  "title": "BigGo ファイナンス、売上収益1兆7,671億円で過去最高を達成",
+  "lead": "BigGo ファイナンスがFY2026 Q1の決算説明会を実施し、売上収益が過去最高を更新したと発表しました。",
+  "summary3": [
+   "売上収益は1兆7,671億円で過去最高",
+   "Non-GAAP営業利益は1兆3,262億円",
+   "8,000億円の自社株買いを発表"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の企業決算情報です。BigGo ファイナンスは、FY2026 Q1の決算説明会を開催し、売上収益が1兆7,671億円に達して過去最高を記録したことを明らかにしました。",
+   "今回の好決算を牽引したのはAI向けNANDであり、Non-GAAP営業利益は1兆3,262億円、利益率は75%という高い水準を記録しています。",
+   "さらに、今回の発表では8,000億円規模の自社株買いを実施することもあわせて公表されており、今後の動向に注目が集まる内容となっています。"
+  ],
+  "tags": [
+   "決算",
+   "AI",
+   "業績"
+  ],
+  "slug": "biggo-finance-fy2026-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "BigGo ファイナンス",
+    "type": "company",
+    "desc": "金融や経済に関する情報などを提供しているメディアおよびサービスです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzcVBTWXphNXdrdXFMLUNnNVB3SVJVYUcwTW9LZUg5dTJFdEhIVWNXdW5EWEM1VjlManFJOEZtaTFWUjN2eE9aazdpbFdRRTkyRWdvNi0xYVhmUjYzTWpF?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-04",
+  "time": "06:00",
+  "path": "/articles/20260804-biggo-finance-fy2026-q1-results.html"
  }
 ]

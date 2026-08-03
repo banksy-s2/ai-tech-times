@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-04 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-04 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "フラット35金利3.29％に、過去最高を更新した理由",
-   "path": "/articles/20260804-flat35-interest-rate-august.html",
-   "cat": "株式投資(日本)"
+   "title": "エア・ウォーター最終赤字639億円、巨額減損の背景と配当維持の理由",
+   "path": "/articles/20260804-air-water-fy2025-financial-results.html",
+   "cat": "日本企業"
   },
   {
-   "title": "マネクリ：日経平均は607円安の63,754円と反落、円急伸の背景",
-   "path": "/articles/20260804-nikkei-average-falls-607-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "BigGo ファイナンス、売上収益1兆7,671億円で過去最高を達成",
+   "path": "/articles/20260804-biggo-finance-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "BABYMONSTER - 'MOON' M/V",
-  "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
+  "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
+  "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 24,
+  "used": 27,
   "limit": 200
  }
 }
