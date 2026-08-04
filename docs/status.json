@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-05 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-05 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "サカナAI案も浮上、自衛隊が米軍AIを導入する理由",
-   "path": "/articles/20260805-sdf-us-ai-integration.html",
-   "cat": "日本のAI"
+   "title": "アマゾン、独占禁止法違反で提訴される",
+   "path": "/articles/20260805-amazon-antitrust-lawsuit-new-jersey.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "東京商工リサーチ：デザイン業倒産が前年比2.7倍に急増",
-   "path": "/articles/20260805-design-industry-bankruptcy-increase-2026.html",
-   "cat": "日本のAI"
+   "title": "巨大テックのAI投資益、企業の決算をゆがめる理由",
+   "path": "/articles/20260805-big-techs-ai-stakes-distort-corporate-earnings.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": 2,
  "gemini": {
-  "used": 9,
+  "used": 12,
   "limit": 200
  }
 }
