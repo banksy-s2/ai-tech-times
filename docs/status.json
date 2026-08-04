@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-05 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-05 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "『新テニスの王子様』累計6000万部超の歴史に幕、2026年8月完結へ",
-   "path": "/articles/20260805-shin-tenisu-no-prince-ending.html",
-   "cat": "インフルエンサー"
+   "title": "NYダウ一時1000ドル超上昇、中東情勢の緊張緩和になぜ？",
+   "path": "/articles/20260805-ny-dow-surges-over-1000-dollars.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [],
- "pv_today": 2,
+ "notes": [
+  "執筆失敗: US states sue to block Trump tariffs imp"
+ ],
+ "pv_today": 4,
  "gemini": {
-  "used": 16,
+  "used": 21,
   "limit": 200
  }
 }

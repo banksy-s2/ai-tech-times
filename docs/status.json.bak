@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-05 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-05 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "アマゾン、独占禁止法違反で提訴される",
-   "path": "/articles/20260805-amazon-antitrust-lawsuit-new-jersey.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "巨大テックのAI投資益、企業の決算をゆがめる理由",
-   "path": "/articles/20260805-big-techs-ai-stakes-distort-corporate-earnings.html",
-   "cat": "シリコンバレー最速"
+   "title": "『新テニスの王子様』累計6000万部超の歴史に幕、2026年8月完結へ",
+   "path": "/articles/20260805-shin-tenisu-no-prince-ending.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 12,
+  "used": 16,
   "limit": 200
  }
 }
