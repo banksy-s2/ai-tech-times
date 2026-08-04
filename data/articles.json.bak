@@ -32581,5 +32581,78 @@
   "date": "2026-08-04",
   "time": "17:17",
   "path": "/articles/20260804-shogakukan-executive-remuneration-return.html"
+ },
+ {
+  "title": "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
+  "lead": "EUの欧州委員会は、AI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始しました。生成AI事業者にラベル付与などが義務付けられます。",
+  "summary3": [
+   "EU AI Actの透明性ルール適用開始",
+   "生成コンテンツへのラベル付与が義務に",
+   "違反時は最大1500万ユーロの制裁金"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、EUの欧州委員会はAI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始しました。",
+   "今回の適用により、生成AIやディープフェイク等を扱う事業者に対し、AIとの対話の明示やコンテンツへのラベル、および機械可読マークの付与が義務付けられます。",
+   "ルールに違反した企業には、最大1500万ユーロまたは売上高の3％という高額な制裁金が科される可能性があるため、関連事業者は速やかな対応が求められます。"
+  ],
+  "tags": [
+   "EU",
+   "AI規制",
+   "生成AI"
+  ],
+  "slug": "eu-ai-act-transparency-rules",
+  "people": [],
+  "terms": [
+   {
+    "name": "欧州委員会",
+    "type": "company",
+    "desc": "欧州連合（EU）の政策執行機関であり、法案の提案や政策の実行を担当する機関です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "18:00",
+  "path": "/articles/20260804-eu-ai-act-transparency-rules-2.html"
+ },
+ {
+  "title": "Alibaba、2.4兆パラメーターのAI「Qwen3.8-Max」発表",
+  "lead": "中国のAlibabaが、2兆4000億パラメーターを持つ新たなフラッグシップAIモデル「Qwen3.8-Max」を発表しました。一部ベンチマークでClaude Fable 5に匹敵する性能を発揮し、実務能力が大幅に強化されています。",
+  "summary3": [
+   "AlibabaがQwen3.8-Maxを発表",
+   "2.4兆パラメーターで実務能力が大幅強化",
+   "一部ベンチマークでClaudeに匹敵"
+  ],
+  "body": [
+   "中国のAlibaba傘下にあるQwenチームが、2兆4000億パラメーターを備えた新たなフラッグシップAIモデル「Qwen3.8-Max」を発表しました。テキスト、画像、動画を扱えるマルチモーダルモデルとなっています。",
+   "ソフトウェア開発や文書作成といった実務能力が大幅に強化されており、研究論文の改良や16日間の自律開発が可能となっています。",
+   "さらに、一部のベンチマークテストではAnthropicの最上位モデルであるClaude Fable 5に匹敵する性能を発揮したとされています。"
+  ],
+  "tags": [
+   "Alibaba",
+   "Qwen3.8-Max",
+   "人工知能"
+  ],
+  "slug": "alibaba-announces-qwen-3-8-max",
+  "people": [],
+  "terms": [
+   {
+    "name": "Alibaba",
+    "type": "company",
+    "desc": "中国に本拠を置き、Eコマースやクラウドコンピューティングなどを展開する大手IT企業です。"
+   },
+   {
+    "name": "Claude Fable 5",
+    "type": "ai",
+    "desc": "Anthropicが開発した最上位のAIモデルで、高度な対話や処理能力を持っています。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "18:00",
+  "path": "/articles/20260804-alibaba-announces-qwen-3-8-max.html"
  }
 ]
