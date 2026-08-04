@@ -17,8 +17,11 @@ ADVICE_NG = ["買い時", "売り時", "買うべき", "売るべき", "買い�
 HYPE_NG = ["衝撃", "ヤバい", "驚愕", "驚きの", "知られざる", "本当の理由", "本当の狙い", "全貌"]
 API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
-# カテゴリごとの1回の更新あたりの掲載本数(1日4回更新×5本=20本/日)と選定基準
-PICKS_PER_CATEGORY = {"ai": 2, "ai_jp": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2, "stock": 2, "jp_corp": 2}
+# カテゴリごとの1回の更新あたりの掲載本数と選定基準。
+# stock/jp_corpは2→1に半減(2026-08-04 合併定例K1=緊急役員会D5)。Googleニュース検索RSS経由の
+# 「他社報道の要約」が最も濃いカテゴリのため、D2(事実抽出→別工程執筆)への移行まで露出を絞る。
+# influencerも同経路だが既に1で下限(カテゴリ廃止は社長裁可事項)。
+PICKS_PER_CATEGORY = {"ai": 2, "ai_jp": 2, "silicon": 2, "voices": 1, "influencer": 1, "world": 2, "stock": 1, "jp_corp": 1}
 
 SELECT_CRITERIA = {
     "ai": """- 海外の大手AI企業(OpenAI/Anthropic/Google/Meta/NVIDIA等)の新モデル・新製品・研究・業界に影響する出来事を優先
