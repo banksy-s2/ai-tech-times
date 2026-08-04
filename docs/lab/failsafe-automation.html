@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="xU_1Ryr_326_pB2PYRmrYcU0-qprXI9QjAl2LgAlA5w">
+<title>本番データを消した日から、個人のAI自動化を作り直した — フェイルクローズ設計3原則</title>
+<meta name="description" content="自作の自動化で本番の売上データを消した実体験と、そこから確立した3つの安全設計。削除はフェイルクローズ、消す前に現物を見る、同型ミスの再発は仕組みの負け。">
+<link rel="canonical" href="https://ai-tech-times.web.app/lab/failsafe-automation.html">
+<meta property="og:title" content="本番データを消した日から、個人のAI自動化を作り直した — フェイルクローズ設計3原則">
+<meta property="og:description" content="自作の自動化で本番の売上データを消した実体験と、そこから確立した3つの安全設計。削除はフェイルクローズ、消す前に現物を見る、同型ミスの再発は仕組みの負け。">
+<meta property="og:url" content="https://ai-tech-times.web.app/lab/failsafe-automation.html">
+<meta property="og:site_name" content="AI TECH TIMES">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://ai-tech-times.web.app/ogp/default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://ai-tech-times.web.app/ogp/default.png">
+<link rel="alternate" type="application/rss+xml" title="AI TECH TIMES" href="https://ai-tech-times.web.app/feed.xml">
+<link rel="stylesheet" href="https://ai-tech-times.web.app/style.css?v=cf0b8a9a">
+<script defer src="https://ai-tech-times.web.app/views.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2T0G11PSH"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-V2T0G11PSH');
+</script>
+
+</head>
+<body>
+<header><div class="wrap">
+<div class="mast"><a href="https://ai-tech-times.web.app/" class="logo">AI TECH <span>TIMES</span></a><span class="mast-tag">24H · AI-EDITED</span></div>
+<div class="tagline">眠らない編集部が、世界を一時間ごとに読み解く。</div>
+<nav><a href="https://ai-tech-times.web.app/" class="">トップ</a><a href="https://ai-tech-times.web.app/popular.html" class="">人気</a><a href="https://ai-tech-times.web.app/ai.html" class="">海外AI</a><a href="https://ai-tech-times.web.app/ai_jp.html" class="">日本のAI</a><a href="https://ai-tech-times.web.app/silicon.html" class="">シリコンバレー</a><a href="https://ai-tech-times.web.app/voices.html" class="">海外AIの声</a><a href="https://ai-tech-times.web.app/influencer.html" class="">インフルエンサー</a><a href="https://ai-tech-times.web.app/world.html" class="">時事・世界</a><a href="https://ai-tech-times.web.app/stock.html" class="">株式投資</a><a href="https://ai-tech-times.web.app/jp_corp.html" class="">日本企業</a><a href="https://ai-tech-times.web.app/buzz.html" class="">バズ動画TOP10</a><a href="https://ai-tech-times.web.app/term/" class="">AI用語事典</a><a href="https://ai-tech-times.web.app/lab/" class="on">編集部ラボ</a><a href="https://ai-tech-times.web.app/office.html" class="">編集部ライブ</a></nav>
+</div></header>
+<main class="wrap">
+
+<h1>本番データを消した日から、個人のAI自動化を作り直した</h1>
+<p class="lead">フェイルクローズ設計3原則</p>
+
+<p>個人でAI自動化システムをいくつも運用している。X自動投稿bot、解説動画の全自動生成、そしてこのサイト自体の毎時無人更新。どれも無料枠と月数ドルで回っていて、専用サーバーは1台もない。</p>
+
+<p>……という話だけ書くと、よくある「作ってみた」記事になる。今日はその逆側を書きたい。私はこの運用の途中で、<strong>本番データベースの売上データを消し飛ばした</strong>ことがある。</p>
+
+<h2>何が起きたか</h2>
+<p>複数端末でデータを同期して使う業務アプリを運用していた。テストのつもりで実行した削除処理が、本番データに向いていた。同期の仕組みは優秀に働き、削除は即座に全端末へ行き渡った。</p>
+<p>バックアップがあったので復旧はできた。だが問題はそこではない。<strong>削除を実行する瞬間、私は自分が何を消すのかを確認していなかった</strong>。ローカルの思い込みだけで、リモートの本物に破壊的操作を撃った。これは注意力の問題ではなく、設計の問題だ。</p>
+
+<h2>原則1: 破壊的操作はフェイルクローズにする</h2>
+<p>削除・上書き・置換を含む処理は「迷ったら実行しない側」に倒す。対象件数を先に数えて想定と違えば中断する。接続先のデフォルトは必ず開発環境側にする。うっかりの着地点が安全側になるよう、デフォルト値で守る。</p>
+
+<h2>原則2: 消す前に、必ず現物を見る</h2>
+<p>破壊的操作の直前に、対象の現在の状態(件数・最終更新・サンプル数件)を取得して表示するステップを挟む。「これから消すものは、本当に思っているそれか」を人間の記憶ではなくコードに確認させる。</p>
+
+<h2>原則3: 同じ型のミスが二度起きたら、仕組みの負け</h2>
+<p>「気をつける」は対策ではない。事故やヒヤリが出たら、その日のうちに同じ型を機械的に検知するチェックを書いて、実行フローの入口に置く。人間が思い出して実行するチェックは必ず忘れるので、忘れても走る場所に置く。</p>
+
+<h2>無人化とは例外処理の設計のこと</h2>
+<p>このサイトを完全無人にしたときに確信したことがある。正常系の自動化は誰でもできる。難しいのは、異常が起きたときに必ず次の3択のどれかに落ちるよう設計することだ。</p>
+<ul>
+<li><strong>自然回復する</strong>(その回はスキップ、次の回で追いつく)</li>
+<li><strong>安全に止まる</strong>(データを壊す前に停止する)</li>
+<li><strong>人間に通知が届く</strong>(沈黙して止まらない)</li>
+</ul>
+<p>この3択に落とし切れたシステムだけが「触らなくていいシステム」になる。</p>
+<div class="book-promo" style="margin:28px 0">📘 この記事の詳細版を含む実録本『<a href="https://zenn.dev/aidecodelabjp/books/ai-automation-jitsuroku">実録・個人AI自動化 ─ 月数ドルで回し続ける5つのレシピと事故対応</a>』(Zenn・500円/1章無料)を公開しています。</div>
+</main>
+<footer><div class="wrap"><div class="book-promo">📘 編集部オーナーの実録本『<a href="https://zenn.dev/aidecodelabjp/books/ai-automation-jitsuroku">実録・個人AI自動化 ─ 月数ドルで回し続ける5つのレシピと事故対応</a>』(Zenn・500円/1章無料) — このサイトの「毎時無人更新」の作り方も収録。</div>
+© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
+<a href="https://ai-tech-times.web.app/digest/">分野別まとめ</a> / <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/term/">AI用語事典</a> / <a href="https://ai-tech-times.web.app/buzz/">バズ動画殿堂</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>
+</body>
+</html>

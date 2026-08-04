@@ -25,7 +25,12 @@ NAV = [("/", "トップ"), ("/popular.html", "人気"), ("/ai.html", "海外AI")
        ("/silicon.html", "シリコンバレー"), ("/voices.html", "海外AIの声"),
        ("/influencer.html", "インフルエンサー"), ("/world.html", "時事・世界"),
        ("/stock.html", "株式投資"), ("/jp_corp.html", "日本企業"),
-       ("/buzz.html", "バズ動画TOP10"), ("/term/", "AI用語事典"), ("/office.html", "編集部ライブ")]
+       ("/buzz.html", "バズ動画TOP10"), ("/term/", "AI用語事典"), ("/lab/", "編集部ラボ"),
+       ("/office.html", "編集部ライブ")]
+
+# 編集部ラボ(tools/build_lab_pages.py が生成する静的ページ)。sitemapに載せるため一覧をここに持つ
+LAB_URLS = [f"https://ai-tech-times.web.app/lab/{p}" for p in
+            ("", "xbot-serverless-design.html", "failsafe-automation.html")]
 
 # 検索(SEO)用のページタイトルと説明文。ブランド名は後ろ、検索されるキーワードを先頭に
 INDEX_TITLE = f"AIニュース速報・生成AIの最新情報まとめ | {SITE_NAME}"
@@ -878,6 +883,7 @@ def _sitemap(arts: list[dict], tdict: dict | None = None, digest_cats: list | No
     fixed = ([f"{BASE_URL}/", f"{BASE_URL}/about.html", f"{BASE_URL}/buzz.html", f"{BASE_URL}/buzz/",
               f"{BASE_URL}/weekly.html", f"{BASE_URL}/popular.html", f"{BASE_URL}/archive/",
               f"{BASE_URL}/term/", f"{BASE_URL}/digest/"]
+             + LAB_URLS
              + [f"{BASE_URL}/{c}.html" for c in CATEGORIES]
              + [f"{BASE_URL}/digest/{c}.html" for c in (digest_cats or [])])  # 実在するdigestのみ
     rows = [f"<url><loc>{u}</loc>{lm}</url>" for u in fixed]  # 一覧系は毎便更新

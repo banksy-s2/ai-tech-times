@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="google-site-verification" content="xU_1Ryr_326_pB2PYRmrYcU0-qprXI9QjAl2LgAlA5w">
+<title>GitHub ActionsだけでXの自動投稿botを作る — サーバー不要・月2ドル台の設計図</title>
+<meta name="description" content="X(旧Twitter)の自動投稿botをサーバーなしで運用する構成。GitHub Actionsのcronとステートレス選択だけで、月2ドル台・インフラ代0円。実運用で踏んだ罠まで公開。">
+<link rel="canonical" href="https://ai-tech-times.web.app/lab/xbot-serverless-design.html">
+<meta property="og:title" content="GitHub ActionsだけでXの自動投稿botを作る — サーバー不要・月2ドル台の設計図">
+<meta property="og:description" content="X(旧Twitter)の自動投稿botをサーバーなしで運用する構成。GitHub Actionsのcronとステートレス選択だけで、月2ドル台・インフラ代0円。実運用で踏んだ罠まで公開。">
+<meta property="og:url" content="https://ai-tech-times.web.app/lab/xbot-serverless-design.html">
+<meta property="og:site_name" content="AI TECH TIMES">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://ai-tech-times.web.app/ogp/default.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://ai-tech-times.web.app/ogp/default.png">
+<link rel="alternate" type="application/rss+xml" title="AI TECH TIMES" href="https://ai-tech-times.web.app/feed.xml">
+<link rel="stylesheet" href="https://ai-tech-times.web.app/style.css?v=cf0b8a9a">
+<script defer src="https://ai-tech-times.web.app/views.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2T0G11PSH"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-V2T0G11PSH');
+</script>
+
+</head>
+<body>
+<header><div class="wrap">
+<div class="mast"><a href="https://ai-tech-times.web.app/" class="logo">AI TECH <span>TIMES</span></a><span class="mast-tag">24H · AI-EDITED</span></div>
+<div class="tagline">眠らない編集部が、世界を一時間ごとに読み解く。</div>
+<nav><a href="https://ai-tech-times.web.app/" class="">トップ</a><a href="https://ai-tech-times.web.app/popular.html" class="">人気</a><a href="https://ai-tech-times.web.app/ai.html" class="">海外AI</a><a href="https://ai-tech-times.web.app/ai_jp.html" class="">日本のAI</a><a href="https://ai-tech-times.web.app/silicon.html" class="">シリコンバレー</a><a href="https://ai-tech-times.web.app/voices.html" class="">海外AIの声</a><a href="https://ai-tech-times.web.app/influencer.html" class="">インフルエンサー</a><a href="https://ai-tech-times.web.app/world.html" class="">時事・世界</a><a href="https://ai-tech-times.web.app/stock.html" class="">株式投資</a><a href="https://ai-tech-times.web.app/jp_corp.html" class="">日本企業</a><a href="https://ai-tech-times.web.app/buzz.html" class="">バズ動画TOP10</a><a href="https://ai-tech-times.web.app/term/" class="">AI用語事典</a><a href="https://ai-tech-times.web.app/lab/" class="on">編集部ラボ</a><a href="https://ai-tech-times.web.app/office.html" class="">編集部ライブ</a></nav>
+</div></header>
+<main class="wrap">
+
+<h1>GitHub ActionsだけでXの自動投稿botを作る</h1>
+<p class="lead">サーバー不要・月2ドル台の設計図</p>
+
+<p>X(旧Twitter)の自動投稿botを、サーバーなし・GitHub Actionsだけで運用している。月のコストは約2.25ドルで、そのほぼ全てがX APIの従量課金。インフラ代は0円だ。</p>
+
+<p>「bot 作り方」で検索するとVPSを借りる記事が今も出てくるが、毎日数回投稿する程度のbotにサーバーは要らない。ここでは実際に運用している構成の設計図を書く。</p>
+
+<h2>全体像</h2>
+<pre><code>[posts.json(投稿ストック)]
+        │
+[GitHub Actions (cron)] → [post.py] → [X API]</code></pre>
+
+<p>登場人物は3つだけ。投稿文のストックを入れたJSONファイル、定時に起動するワークフロー、そして投稿処理を行う数十行のPythonスクリプト。データベースも管理画面もない。</p>
+
+<h2>設計判断1: 投稿文は「その場で生成」せず「ストック」する</h2>
+<p>AIでbotを作るというと、実行のたびにLLMで文章を生成する構成を想像しがちだが、私はやらない。理由は2つ。</p>
+<p>1つ目は品質管理。生成して即投稿する構成では、事故った文章がそのまま世に出る。ストック方式なら事前にまとめて生成して全件目視できる。自動化するのは「投稿作業」であって「品質保証」ではない、というのが私の線引きだ。</p>
+<p>2つ目はコスト。毎回LLMを呼ぶと課金が投稿回数に比例して読めなくなる。生成は月に数回まとめてやれば実質無料の範囲に収まる。</p>
+
+<h2>設計判断2: 状態管理を持たない</h2>
+<p>「どの投稿を使ったか」を記録するDBやファイルを持つと、その保存が失敗したときの考慮が必要になり複雑になる。私の構成では<strong>「起点日からの経過日数 % ストック本数」</strong>で今日の1本を決める。完全にステートレスで、何回実行しても同じ日は同じ投稿が選ばれる。壊れる状態が存在しないものは、壊れない。</p>
+<pre><code>day_number = (today - EPOCH).days
+post = pool[day_number % len(pool)]</code></pre>
+
+<h2>設計判断3: 沈黙する失敗を作らない</h2>
+<p>無人システムの最大の敵は「止まっていることに気づけない停止」だ。私のbotも一度、APIトークンの失効で静かに止まっていたことがある。以来、投稿失敗時はワークフローを明示的に失敗させ、通知が飛ぶようにしている。正常に動いた記録より、失敗の通知の方がずっと重要だ。</p>
+
+<h2>コストの現実(2026年時点)</h2>
+<p>X APIは従量課金制で、テキストのみの投稿は1回あたり約0.015ドル、<strong>URL入りは約0.20ドルと13倍</strong>に跳ねる。1日5投稿・テキストのみなら月約2.25ドル。宣伝リンクを毎回貼りたくなるが、コストが13倍になる価値があるかは冷静に判断した方がいい。</p>
+<p>GitHub Actionsはこの規模なら無料枠で十分足りる。cronの起動時刻は混雑時に数十分ずれることがあるので、分単位の正確さが必要な用途には向かない。</p>
+
+<h2>この構成の応用範囲</h2>
+<p>「ストック生成 → cron実行 → ステートレス選択」の3点セットは、X以外にもそのまま使える。定期実行系の自動化の基本形として、最初に習得する価値がある骨格だと思っている。</p>
+<div class="book-promo" style="margin:28px 0">📘 この記事の詳細版を含む実録本『<a href="https://zenn.dev/aidecodelabjp/books/ai-automation-jitsuroku">実録・個人AI自動化 ─ 月数ドルで回し続ける5つのレシピと事故対応</a>』(Zenn・500円/1章無料)を公開しています。</div>
+</main>
+<footer><div class="wrap"><div class="book-promo">📘 編集部オーナーの実録本『<a href="https://zenn.dev/aidecodelabjp/books/ai-automation-jitsuroku">実録・個人AI自動化 ─ 月数ドルで回し続ける5つのレシピと事故対応</a>』(Zenn・500円/1章無料) — このサイトの「毎時無人更新」の作り方も収録。</div>
+© 2026 AI TECH TIMES — AI編集部が自動収集・執筆しています。事実確認は出典元をご参照ください。<br>
+<a href="https://ai-tech-times.web.app/digest/">分野別まとめ</a> / <a href="https://ai-tech-times.web.app/weekly.html">週刊まとめ</a> / <a href="https://ai-tech-times.web.app/term/">AI用語事典</a> / <a href="https://ai-tech-times.web.app/buzz/">バズ動画殿堂</a> / <a href="https://ai-tech-times.web.app/archive/">アーカイブ</a> / <a href="https://ai-tech-times.web.app/about.html">このサイトについて</a> / <a href="https://ai-tech-times.web.app/feed.xml">RSS</a></div></footer>
+</body>
+</html>
