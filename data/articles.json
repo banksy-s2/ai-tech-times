@@ -31329,5 +31329,73 @@
   "date": "2026-08-04",
   "time": "08:00",
   "path": "/articles/20260804-openai-super-pac-ai-news-site.html"
+ },
+ {
+  "title": "Microsoftが無料公開、PC操作をAIが代理するアプリ",
+  "lead": "Microsoftは、PCの画面操作を録画してAIに作業を再現させるデスクトップアプリ「Skill Recorder」を無料公開しました。",
+  "summary3": [
+   "PC画面の録画でAIに作業を再現",
+   "Microsoftが新アプリを無料公開",
+   "主にmacOS向けでWindowsにも対応"
+  ],
+  "body": [
+   "Microsoftは、PCの画面操作を録画すると、その作業をAIが再現できるよう支援するデスクトップアプリ「Skill Recorder」を公開しました。",
+   "このアプリを活用することで、AIエージェントサービスである「Microsoft Copilot Cowork」「Microsoft Scout」「Copilot Studio」向けのスキルを構築できるようになります。",
+   "本アプリは主にmacOS向けとして提供されており、Windowsへの対応も予定されています。日々のPC作業の効率化を支援する新たなツールとして注目を集めています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Copilot",
+   "AIエージェント"
+  ],
+  "slug": "microsoft-skill-recorder-app",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "米国の世界的なテクノロジー企業で、ソフトウェアやクラウドサービスなどを開発・提供する。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "09:00",
+  "path": "/articles/20260804-microsoft-skill-recorder-app.html"
+ },
+ {
+  "title": "AWSのOSSでAIに業務知識を渡す方法とは",
+  "lead": "AIエージェントの導入で壁となる業務の意味の伝達について、AWSのオープンソースソフトウェアを活用した検証記事が公開されました。",
+  "summary3": [
+   "AI導入で業務知識の伝達が課題に",
+   "AWSのOSSを実際に試した記事",
+   "データの意味をAIに渡す仕組み"
+  ],
+  "body": [
+   "AIエージェントを実際の業務に取り入れようとすると、必ず同じ壁にぶつかります。それは、データはあるものの、業務の意味がAIにしっかりと渡っていないという問題です。",
+   "例えば、「売上」という言葉一つをとっても、それが単にtotal_amountの合計なのか、送料が含まれているのか、あるいはキャンセル分を引く必要があるのかといった細かい定義は、そのままではAIには判断できません。注文データについても同様の課題が存在します。",
+   "こうした背景の中、AWS Japanでソリューションアーキテクトを務めるいなりく氏が、オントロジーを活用してAIに業務知識を渡すためのAWSのOSS「Context Ontology Accelerator」を試した記事が話題となっています。"
+  ],
+  "tags": [
+   "AWS",
+   "AI",
+   "OSS"
+  ],
+  "slug": "aws-context-ontology-accelerator",
+  "people": [],
+  "terms": [
+   {
+    "name": "AWS",
+    "type": "company",
+    "desc": "アマゾン・ドット・コムが提供する世界最大手のクラウドコンピューティングサービス。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "09:00",
+  "path": "/articles/20260804-aws-context-ontology-accelerator.html"
  }
 ]

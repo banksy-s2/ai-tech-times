@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Microsoftが無料公開、PC操作をAIが代理するアプリ</title>
+<link>https://ai-tech-times.web.app/articles/20260804-microsoft-skill-recorder-app.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-microsoft-skill-recorder-app.html</guid>
+<pubDate>Tue, 04 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Microsoftは、PCの画面操作を録画してAIに作業を再現させるデスクトップアプリ「Skill Recorder」を無料公開しました。</description>
+</item>
+<item>
+<title>AWSのOSSでAIに業務知識を渡す方法とは</title>
+<link>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator.html</guid>
+<pubDate>Tue, 04 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIエージェントの導入で壁となる業務の意味の伝達について、AWSのオープンソースソフトウェアを活用した検証記事が公開されました。</description>
+</item>
+<item>
 <title>AI分野の隠れ借金が1兆6500億ドルに到達、この負債の山はこの先どうなるのか</title>
 <link>https://ai-tech-times.web.app/articles/20260804-ai-debt-hidden-borrowing-165t.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260804-ai-debt-hidden-borrowing-165t.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 03 Aug 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>警視庁などは、生成AIを使用して実在女性の中学時代の写真からわいせつ画像を作成しSNSに投稿したとして、名誉毀損などの疑いで男を逮捕しました。</description>
-</item>
-<item>
-<title>OpenAIとAnthropicのAI、中国軍事研究者が抽出利用</title>
-<link>https://ai-tech-times.web.app/articles/20260803-china-military-researchers-extract-openai-anthropic-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260803-china-military-researchers-extract-openai-anthropic-ai.html</guid>
-<pubDate>Mon, 03 Aug 2026 21:05:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>中国の軍事研究者らがOpenAIやAnthropicのAIモデルの出力を利用し、国内の軍事システム開発を行っていたことが学術論文の調査から判明しました。</description>
-</item>
-<item>
-<title>マーク・ベニオフ支援のJune、2000万ドルでAI導入課題に挑む理由</title>
-<link>https://ai-tech-times.web.app/articles/20260803-june-ai-deployment-funding.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260803-june-ai-deployment-funding.html</guid>
-<pubDate>Mon, 03 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AIの導入プロセスをよりシンプルにすることを目指す新興企業Juneが、プレシードラウンドで2000万ドルを資金調達し、ステルス状態から脱却しました。</description>
 </item>
 </channel></rss>

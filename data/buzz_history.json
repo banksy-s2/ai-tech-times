@@ -1464,7 +1464,7 @@
    "id": "NZP153MUpHY",
    "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
    "channel": "SMTOWN",
-   "views": 1153208,
+   "views": 1184076,
    "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
    "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
    "regions": [
@@ -1481,7 +1481,7 @@
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 9534309,
+   "views": 9614361,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
@@ -1494,10 +1494,24 @@
   },
   {
    "rank": 3,
+   "id": "qCPMuBhsCs0",
+   "title": "i love mondays",
+   "channel": "IShowSpeed",
+   "views": 2497536,
+   "url": "https://www.youtube.com/watch?v=qCPMuBhsCs0",
+   "thumb": "https://i.ytimg.com/vi/qCPMuBhsCs0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "月曜日の愛について語るIShowSpeedの動画のようです。"
+  },
+  {
+   "rank": 4,
    "id": "izNezNuv9sU",
    "title": "The Search For The Leviathan",
    "channel": "Wifies",
-   "views": 792112,
+   "views": 1020972,
    "url": "https://www.youtube.com/watch?v=izNezNuv9sU",
    "thumb": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
    "regions": [
@@ -1507,25 +1521,11 @@
    "comment": "リヴァイアサンを探し求める様子が描かれているようです。"
   },
   {
-   "rank": 4,
-   "id": "ivZ2c69D69E",
-   "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
-   "channel": "Aashirvad Cinemas",
-   "views": 657590,
-   "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
-   "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "comment": "映画「Thudakkam」の公式トレーラーのようです"
-  },
-  {
    "rank": 5,
    "id": "uEcoV-ngH38",
    "title": "Your Mother Your Mother Your Mother | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 593869,
+   "views": 707266,
    "url": "https://www.youtube.com/watch?v=uEcoV-ngH38",
    "thumb": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
    "regions": [
@@ -1536,10 +1536,24 @@
   },
   {
    "rank": 6,
+   "id": "ivZ2c69D69E",
+   "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
+   "channel": "Aashirvad Cinemas",
+   "views": 680861,
+   "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
+   "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "comment": "映画「Thudakkam」の公式トレーラーのようです"
+  },
+  {
+   "rank": 7,
    "id": "d1rWv8VeQO0",
    "title": "TWS (투어스) 'SODA SODA' Official MV",
    "channel": "HYBE LABELS",
-   "views": 511745,
+   "views": 515217,
    "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
    "thumb": "https://i.ytimg.com/vi/d1rWv8VeQO0/hqdefault.jpg",
    "regions": [
@@ -1549,25 +1563,11 @@
    "comment": "TWSの新曲「SODA SODA」の公式MVが公開されたようです。"
   },
   {
-   "rank": 7,
-   "id": "9TjRdsqm7jE",
-   "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
-   "channel": "THE FIRST TAKE",
-   "views": 342302,
-   "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
-   "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
-   "regions": [
-    "JP",
-    "KR"
-   ],
-   "comment": "Hearts2Heartsによる「RUDE!」の日本語版一発撮りパフォーマンスのようです"
-  },
-  {
    "rank": 8,
    "id": "qJOiCAf2Zns",
    "title": "Working A Midnight Shift is a Nightmare",
    "channel": "SMii7Y",
-   "views": 308503,
+   "views": 374774,
    "url": "https://www.youtube.com/watch?v=qJOiCAf2Zns",
    "thumb": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
    "regions": [
@@ -1578,10 +1578,24 @@
   },
   {
    "rank": 9,
+   "id": "9TjRdsqm7jE",
+   "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
+   "channel": "THE FIRST TAKE",
+   "views": 355236,
+   "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
+   "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
+   "regions": [
+    "JP",
+    "KR"
+   ],
+   "comment": "Hearts2Heartsによる「RUDE!」の日本語版一発撮りパフォーマンスのようです"
+  },
+  {
+   "rank": 10,
    "id": "xn7LRhqnxOc",
    "title": "ROBLOX SECURE THE SUPERMARKET..",
    "channel": "Foltyn",
-   "views": 285396,
+   "views": 317641,
    "url": "https://www.youtube.com/watch?v=xn7LRhqnxOc",
    "thumb": "https://i.ytimg.com/vi/xn7LRhqnxOc/hqdefault.jpg",
    "regions": [
@@ -1589,20 +1603,6 @@
     "GB"
    ],
    "comment": "Robloxでスーパーマーケットを攻略するゲーム実況のようです"
-  },
-  {
-   "rank": 10,
-   "id": "sUjhPLauVE4",
-   "title": "Orchestra",
-   "channel": "Red Velvet - Topic",
-   "views": 273114,
-   "url": "https://www.youtube.com/watch?v=sUjhPLauVE4",
-   "thumb": "https://i.ytimg.com/vi/sUjhPLauVE4/hqdefault.jpg",
-   "regions": [
-    "US",
-    "KR"
-   ],
-   "comment": "Red Velvetの「Orchestra」が公開されたようです。"
   }
  ]
 }

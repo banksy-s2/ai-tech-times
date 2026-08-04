@@ -31267,5 +31267,67 @@
   "date": "2026-08-04",
   "time": "07:02",
   "path": "/articles/20260804-aeronext-change-hd-ai-drone-partnership.html"
+ },
+ {
+  "title": "AI分野の隠れ借金が1兆6500億ドルに到達、この負債の山はこの先どうなるのか",
+  "lead": "AIブームを牽引するハイパースケーラーの巨額な設備投資の裏で、隠れた借金が1兆6500億ドルに達していることが明らかになりました。",
+  "summary3": [
+   "AIの隠れ借金が1.65兆ドルに到達",
+   "ハイパースケーラーの巨額な支出が継続",
+   "債券発行などによる資金調達の実態"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のニュースです。AI開発を巡る熱狂的なブームの裏で、企業の財政状態に関する新たな懸念が浮上しています。海外メディアの報道によると、AI分野における隠れた借金が総額1兆6500億ドルに達していることが判明しました。",
+   "この巨額な資金調達は、主にハイパースケーラーと呼ばれる大規模なクラウド事業者やIT企業による設備投資（カペックス）を支えるために行われています。彼らはAIインフラの構築や維持のために多額の資金を必要としており、その結果として債券の発行や複雑な資金調達スキームを通じた借り入れが急増しています。",
+   "専門家の間では、こうしたAI分野の借金漬けの状態がいつまで持続可能なのかについて議論が続いています。巨額の資本支出に対するリターンが明確に見えない場合、今後の財務リスクとして表面化する可能性が指摘されており、市場関係者の注目を集めています。"
+  ],
+  "tags": [
+   "AI",
+   "財務",
+   "投資"
+  ],
+  "slug": "ai-debt-hidden-borrowing-165t",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+  "category": "ai",
+  "date": "2026-08-04",
+  "time": "08:00",
+  "path": "/articles/20260804-ai-debt-hidden-borrowing-165t.html"
+ },
+ {
+  "title": "OpenAI支援の政治団体、AIニュースサイトで業界批判を展開",
+  "lead": "OpenAIに関連する政治行動委員会（スーパーPAC）が、AIボットを記手とするニュースサイトに資金を提供し、業界の批判者を攻撃する政治的アジェンダを推進していることが分かりました。",
+  "summary3": [
+   "OpenAI支援団体がAIサイトに資金提供",
+   "AIボットが記事を執筆し業界批判を展開",
+   "政治的アジェンダ推進の動きが発覚"
+  ],
+  "body": [
+   "AI TECH TIMESの調査によると、AIの安全性などを巡る業界の批判者を攻撃するために、AIボットを活用したニュースサイトが利用されていることが明らかになりました。このサイトの記者は人間ではなくAIボットであり、特定の政治的アジェンダを推進する役割を担っています。",
+   "背景には、対話型AIを開発するOpenAIに関連する政治行動委員会（スーパーPAC）の存在があります。このスーパーPACが資金を提供することで、AI生成のコンテンツを用いた世論誘導や批判者への反論を行っていると報じられています。",
+   "AI技術が政治キャンペーンやメディア活動にどのように組み込まれているのか、その実態と倫理的な課題について今後さらなる議論が巻き起こりそうです。読者の皆様におかれましても、生成AIによる情報の出所やその背景にある意図を見極める視点がますます重要になってきます。"
+  ],
+  "tags": [
+   "OpenAI",
+   "生成AI",
+   "政治"
+  ],
+  "slug": "openai-super-pac-ai-news-site",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国のAI開発企業で、対話型AIサービスなどを手掛けて業界をリードする。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+  "category": "ai",
+  "date": "2026-08-04",
+  "time": "08:00",
+  "path": "/articles/20260804-openai-super-pac-ai-news-site.html"
  }
 ]
