@@ -1,10 +1,55 @@
 {
- "updated": "2026-08-05 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-05 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "【6981.T】売上収益5,023億円で過去最高、なぜAIサーバー需要が牽引したのか",
-   "path": "/articles/20260805-6981t-fy2026-q1-earnings.html",
+   "title": "SpaceX、AI収入が前年比3倍超の26億ドルに急増した理由",
+   "path": "/articles/20260805-spacex-ai-revenue-growth.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "GoogleのADKに権限昇格を許す脆弱性、その影響とは",
+   "path": "/articles/20260805-google-adk-vulnerability-pillar.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "MicrosoftのSkill Recorderで業務効率化スキル作成が捗る理由",
+   "path": "/articles/20260805-microsoft-skill-recorder-efficiency.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "EAが550億ドルで非公開化を完了、今後どうなるのか",
+   "path": "/articles/20260805-ea-private-company-deal-closed.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Coldcardのバグで1億3000万ドル流出、オフライン財布の危機なぜ",
+   "path": "/articles/20260805-coldcard-hackers-steal-130m.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "フォロワー55万人インフルエンサー、なぜ逃走再逮捕？",
+   "path": "/articles/20260805-influencer-rearrested-after-escape.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "食料品消費税1%に、政府が来年4月から2年引き下げ方針案",
+   "path": "/articles/20260805-food-consumption-tax-reduction-policy.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "三菱重工業、次世代型原子炉SMR国内実用化へ",
+   "path": "/articles/20260805-mitsubishi-heavy-industries-smr-development.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米ベッセント財務長官、協調介入は“日米連携の象徴”",
+   "path": "/articles/20260805-bessent-fx-intervention-symbolic.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "トヨタ自動車、2027年3月期第1四半期決算説明会の質疑応答要旨を公表",
+   "path": "/articles/20260805-toyota-q1-earnings-briefing-2027.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +57,13 @@
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [],
- "pv_today": 5,
+ "notes": [
+  "執筆失敗: Nvidia doesn’t mess around: A week after",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 6,
  "gemini": {
-  "used": 29,
+  "used": 52,
   "limit": 200
  }
 }
