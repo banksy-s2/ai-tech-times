@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-04 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-04 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AI分野の隠れ借金が1兆6500億ドルに到達、この負債の山はこの先どうなるのか",
-   "path": "/articles/20260804-ai-debt-hidden-borrowing-165t.html",
-   "cat": "AI(海外)"
+   "title": "Microsoftが無料公開、PC操作をAIが代理するアプリ",
+   "path": "/articles/20260804-microsoft-skill-recorder-app.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAI支援の政治団体、AIニュースサイトで業界批判を展開",
-   "path": "/articles/20260804-openai-super-pac-ai-news-site.html",
-   "cat": "AI(海外)"
+   "title": "AWSのOSSでAIに業務知識を渡す方法とは",
+   "path": "/articles/20260804-aws-context-ontology-accelerator.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 9,
  "gemini": {
-  "used": 59,
+  "used": 65,
   "limit": 200
  }
 }
