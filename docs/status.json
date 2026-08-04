@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-04 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-04 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [],
  "buzz_top": {
-  "title": "BABYMONSTER - 'MOON' M/V",
-  "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
+  "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
+  "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
  "notes": [
-  "時事・世界の選定失敗: Gemini日次予算超過"
+  "株式投資(日本)の選定失敗: Gemini日次予算超過"
  ],
- "pv_today": 20,
+ "pv_today": 21,
  "gemini": {
-  "used": 207,
+  "used": 209,
   "limit": 200
  }
 }
