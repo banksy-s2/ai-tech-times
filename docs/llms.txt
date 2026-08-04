@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Nvidia主導のAI連合、発足1週間で防御策を提示](https://ai-tech-times.web.app/articles/20260805-nvidia-open-secure-ai-alliance-progress.html) — 2026-08-05 08:00: Nvidiaが主導するAI業界団体「Open Secure AI Alliance」が、発足からわずか1週間ですでにAIエージェントの防御策に関する提案を明らかにしました。参加企業は120社を超えています。
+- [AMDデータセンター売上107%増、AI需要で好調](https://ai-tech-times.web.app/articles/20260805-amd-datacenter-boom-q2-2026.html) — 2026-08-05 08:00: AI需要の拡大を背景に、AMDの最新四半期決算でデータセンター部門の売上高が前年同期比で倍増以上の67億ドルに達しました。ゲーム部門が後退する中、なぜここまで急成長を遂げたのでしょうか。
 - [SpaceX、AI収入が前年比3倍超の26億ドルに急増した理由](https://ai-tech-times.web.app/articles/20260805-spacex-ai-revenue-growth.html) — 2026-08-05 07:02: SpaceXの四半期決算によると、AI関連の収入が前年同期から3倍以上の26億ドルに急増しました。他のAI企業へコンピュートを提供する契約が主な要因となっています。
 - [GoogleのADKに権限昇格を許す脆弱性、その影響とは](https://ai-tech-times.web.app/articles/20260805-google-adk-vulnerability-pillar.html) — 2026-08-05 07:02: Googleが公開する開発フレームワーク「Agent Development Kit」において、セキュリティ企業によって新たな攻撃手法が発見されました。権限の低いエージェントを悪用する脆弱性についてお伝えします。
 - [MicrosoftのSkill Recorderで業務効率化スキル作成が捗る理由](https://ai-tech-times.web.app/articles/20260805-microsoft-skill-recorder-efficiency.html) — 2026-08-05 07:02: Microsoftのデスクトップアプリ「Skill Recorder」を活用することで、定型業務の自動化スキル作成がどのように効率化されるのか、その概要をお伝えします。
@@ -40,15 +42,13 @@
 - [巨大テックのAI投資益、企業の決算をゆがめる理由](https://ai-tech-times.web.app/articles/20260805-big-techs-ai-stakes-distort-corporate-earnings.html) — 2026-08-05 02:00: 米CNBC Techは、巨大テック企業によるプライベートAI企業への投資益を除外すると、企業の決算が実際よりも強気に見えなくなると報じました。
 - [サカナAI案も浮上、自衛隊が米軍AIを導入する理由](https://ai-tech-times.web.app/articles/20260805-sdf-us-ai-integration.html) — 2026-08-05 01:00: 政府は自衛隊の部隊の指揮統制に米国製のAIシステムを導入する検討に入りました。日米で統合運用を強め、意思決定の差を埋める狙いです。
 - [東京商工リサーチ：デザイン業倒産が前年比2.7倍に急増](https://ai-tech-times.web.app/articles/20260805-design-industry-bankruptcy-increase-2026.html) — 2026-08-05 01:00: 東京商工リサーチが8月2日に発表したデータによると、グラフィックデザインやインテリアデザインを手掛ける「デザイン業」の倒産が前年同期比166.6％増と急増しています。
-- [Redditに押し寄せるAI SEOスパムの正体](https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html) — 2026-08-05 00:01: 掲示板サイトのRedditにおいて、AI技術を悪用した新たなSEOスパムが深刻な問題となっています。日常的なユーザーの投稿に巧妙に紛れ込む事例が報告されました。
-- [Runware、持ち運べるモジュラー型データセンター開発](https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html) — 2026-08-05 00:01: AIインフラ企業Runwareが、移動可能なモジュラー型データセンター「Sonic Inference Pod」を発表しました。データの処理拠点における未来のあり方を模索します。
 
 ## 世界のバズ動画TOP3 (2026-08-05)
 - 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 2位: [BABYMONSTER - 'MOON' PERFORMANCE VIDEO](https://www.youtube.com/watch?v=LYbHsAsj6i8)
 - 3位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
 
-## AI用語事典 (全667語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全668語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -69,6 +69,7 @@
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXのCEOを務め、近年はX（旧Twitter）を買収して経営にあたる著名な実業家。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
@@ -78,7 +79,6 @@
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディア。東洋経済新報社が運営する。
 - [GPT-5.6とは](https://ai-tech-times.web.app/term/gpt-5-6.html): OpenAIが提供するAIモデルファミリー。LunaやTerraなどの派生モデルが存在する。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
-- [ティム・クックとは](https://ai-tech-times.web.app/term/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF.html): 米アップルの最高経営責任者（CEO）。故スティーブ・ジョブズ氏の後任として2011年から同社を率いる。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

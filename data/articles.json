@@ -33592,5 +33592,78 @@
   "date": "2026-08-05",
   "time": "07:02",
   "path": "/articles/20260805-toyota-q1-earnings-briefing-2027.html"
+ },
+ {
+  "title": "Nvidia主導のAI連合、発足1週間で防御策を提示",
+  "lead": "Nvidiaが主導するAI業界団体「Open Secure AI Alliance」が、発足からわずか1週間ですでにAIエージェントの防御策に関する提案を明らかにしました。参加企業は120社を超えています。",
+  "summary3": [
+   "Nvidia主導のAI連合が発足1週間で始動",
+   "参加企業はすでに120社を突破",
+   "AIエージェントの防御策を提案"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。Nvidiaが主導する新しいオープンなAI業界団体「Open Secure AI Alliance」が、発足からわずか1週間で早くも具体的な動きを見せています。",
+   "同団体は発足以来急速に規模を拡大し、現在では120社を超える企業が参加しています。そして設立から1週間という異例の早さで、AIエージェントに対する防御策についての具体的な提案を提示しました。",
+   "AI技術の普及に伴い安全性の確保が急務となる中、主要企業が参加する業界団体が迅速に成果を出し始めています。今後の詳細な提案内容や各社の対応に注目が集まります。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AIセキュリティ",
+   "業界団体"
+  ],
+  "slug": "nvidia-open-secure-ai-alliance-progress",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、画像処理半導体（GPU）の開発・販売を手がけAIブームを牽引する。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "08:00",
+  "path": "/articles/20260805-nvidia-open-secure-ai-alliance-progress.html"
+ },
+ {
+  "title": "AMDデータセンター売上107%増、AI需要で好調",
+  "lead": "AI需要の拡大を背景に、AMDの最新四半期決算でデータセンター部門の売上高が前年同期比で倍増以上の67億ドルに達しました。ゲーム部門が後退する中、なぜここまで急成長を遂げたのでしょうか。",
+  "summary3": [
+   "データセンター売上高は67億ドルに急増",
+   "前年同期比で107%の驚異的な伸びを記録",
+   "AI需要が牽引しゲーム部門は後退する形に"
+  ],
+  "body": [
+   "AI（人工知能）容量への旺盛な需要に牽引され、AMDの最新決算においてデータセンター事業の売上高が前年同期から倍増以上となり、67億ドル（約1,000億円規模）に達したことが明らかになりました。これは前四半期の58億ドルからの増加であり、前年同期に報告された32億ドルからは107%という大幅な跳ね上がりを見せています。",
+   "火曜日に開催された決算説明会において、AMDのリサ・スーCEOは好調な業績について言及しました。AI関連のインフラ需要が急拡大を続ける一方で、従来のゲーム関連事業は相対的に後退する形となっており、同社の収益構造がAI中心へと大きくシフトしている実態が浮き彫りになっています。",
+   "今回の決算発表は、世界的なAI市場の拡大が半導体メーカー各社の業績にどのような影響を与えているかを示す象徴的な事例となりました。データセンター向けの強烈な追い風がどこまで続くのか、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "AMD",
+   "AI",
+   "決算"
+  ],
+  "slug": "amd-datacenter-boom-q2-2026",
+  "people": [
+   {
+    "name": "リサ・スー",
+    "bio": "半導体大手AMDの最高経営責任者（CEO）。同社の業績回復とAI分野への戦略的シフトを主導している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "08:00",
+  "path": "/articles/20260805-amd-datacenter-boom-q2-2026.html"
  }
 ]

@@ -33260,5 +33260,337 @@
   "date": "2026-08-05",
   "time": "06:00",
   "path": "/articles/20260805-6981t-fy2026-q1-earnings.html"
+ },
+ {
+  "title": "SpaceX、AI収入が前年比3倍超の26億ドルに急増した理由",
+  "lead": "SpaceXの四半期決算によると、AI関連の収入が前年同期から3倍以上の26億ドルに急増しました。他のAI企業へコンピュートを提供する契約が主な要因となっています。",
+  "summary3": [
+   "SpaceXのAI収入が前年比3倍超に急増",
+   "四半期決算で26億ドルに到達",
+   "他社へのコンピュート提供が主な要因"
+  ],
+  "body": [
+   "米テックメディア「The Verge AI」の報道によると、SpaceXのAI部門の収入が前年同期から3倍以上の26億ドルに増加したことが、四半期決算で明らかになりました。",
+   "この急成長の大部分は、同社が他のAI企業に対してコンピュート（計算資源）を提供する契約を結んだことによるものです。",
+   "SpaceXが上場に向けて提出した書類によると、このAI部門は同社の収入の大部分を占める源泉であるとされています。"
+  ],
+  "tags": [
+   "SpaceX",
+   "AI",
+   "ビジネス"
+  ],
+  "slug": "spacex-ai-revenue-growth",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカの宇宙開発企業で、ロケット製造や宇宙輸送を行っていることで世界的に知られています。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-spacex-ai-revenue-growth.html"
+ },
+ {
+  "title": "GoogleのADKに権限昇格を許す脆弱性、その影響とは",
+  "lead": "Googleが公開する開発フレームワーク「Agent Development Kit」において、セキュリティ企業によって新たな攻撃手法が発見されました。権限の低いエージェントを悪用する脆弱性についてお伝えします。",
+  "summary3": [
+   "GoogleのADKに脆弱性が発見された",
+   "低い権限から上位権限へコードを実行可能",
+   "セキュリティ企業のPillarが発見"
+  ],
+  "body": [
+   "Googleは、エンタープライズ規模の開発をサポートするエージェント開発フレームワークとして「Agent Development Kit（ADK）」を公開しています。このフレームワークは多くの企業や開発者にとって重要なツールとなっています。",
+   "しかし、セキュリティ企業のPillarによって、このADKに重大な脆弱性が存在することが新たに発見されました。その内容は「権限の低いエージェントをハックして、上位権限でコードを実行する」という攻撃を実行可能なものとなっています。",
+   "エンタープライズ環境での開発や運用において、権限管理の不備を突くこの手法はセキュリティ上の大きな懸念材料となります。今後の対応や詳細な対策について、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "脆弱性",
+   "セキュリティ"
+  ],
+  "slug": "google-adk-vulnerability-pillar",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドサービスやOSなどを手掛けるアメリカの巨大IT企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260804-agent-development-kit-attack/",
+  "category": "ai_jp",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-google-adk-vulnerability-pillar.html"
+ },
+ {
+  "title": "MicrosoftのSkill Recorderで業務効率化スキル作成が捗る理由",
+  "lead": "Microsoftのデスクトップアプリ「Skill Recorder」を活用することで、定型業務の自動化スキル作成がどのように効率化されるのか、その概要をお伝えします。",
+  "summary3": [
+   "Microsoft製アプリの活用が話題",
+   "定型業務をAIへ移譲する動きが加速",
+   "自動化スキル作成の手法が解説される"
+  ],
+  "body": [
+   "はじめに、スキル（SKILL.md）を用いて定型業務をAIに移譲したり、特定の業務の自動化や半自動化を実現したりする状況は、現在において珍しくなくなってきたと言えます。日々の業務における効率化を模索する中で、こうしたツールの活用は重要なアプローチとなっています。",
+   "例えば、ブラウザ操作のトレースはplaywright-mcpまたはplaywright-cliを用いて行われることが一般的です。そのトレース結果を活用し、AIに業務効率化のスキル作成までを担わせる手法も広く浸透しつつあります。",
+   "こうした背景の中で、Microsoft謹製のデスクトップアプリである「Skill Recorder」が登場しました。このツールを活用することで、業務効率化のためのスキル（SKILL.md）の作成がどのように捗るのか、多くのITエンジニアや実務担当者の注目を集めています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "業務効率化",
+   "AI"
+  ],
+  "slug": "microsoft-skill-recorder-efficiency",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国の世界的なテクノロジー企業で、ソフトウェアやハードウェアの開発・販売を手がける。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
+  "category": "ai_jp",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-microsoft-skill-recorder-efficiency.html"
+ },
+ {
+  "title": "EAが550億ドルで非公開化を完了、今後どうなるのか",
+  "lead": "ゲーム大手のEAが、サウジアラビアのファンドなどが主導する550億ドルの買収手続きを完了し、非公開企業となりました。",
+  "summary3": [
+   "EAが550億ドルで非公開化を完了",
+   "PIFやシルバートレイル等が買収",
+   "サウジPIFが93.4%を保有へ"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。大手ゲーム会社のElectronic Arts（EA）は、公式に非公開企業となったことを発表しました。",
+   "昨年9月に、EAはサウジアラビアのPublic Investment Fund（PIF）が率いる投資家グループ、Silver Lake、Affinity Partnersによる550億ドル規模の買収合意を発表していました。そして火曜日、EAはこの買収取引が正常に完了したことを明らかにしました。",
+   "今回の買収により、サウジアラビアのPublic Investment Fundが約93.4パーセントを保有すると報じられています。長年上場企業として知られていた同社の今後の経営体制や事業展開に注目が集まっています。"
+  ],
+  "tags": [
+   "EA",
+   "M&A",
+   "ゲーム業界"
+  ],
+  "slug": "ea-private-company-deal-closed",
+  "people": [],
+  "terms": [
+   {
+    "name": "Electronic Arts",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く、世界的な規模を持つ大手ゲームソフト開発・販売会社。"
+   },
+   {
+    "name": "Silver Lake",
+    "type": "company",
+    "desc": "テクノロジー分野への投資を専門とする、アメリカの著名なプライベート・エクイティ・ファンド。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-ea-private-company-deal-closed.html"
+ },
+ {
+  "title": "Coldcardのバグで1億3000万ドル流出、オフライン財布の危機なぜ",
+  "lead": "仮想通貨のハードウェアウォレット「Coldcard」にセキュリティ脆弱性が発覚し、ハッカーによって1億3000万ドル以上が盗み出される被害が発生しました。",
+  "summary3": [
+   "Coldcardのバグで被害が発生",
+   "ハッカーに1億3000万ドル超が盗まれる",
+   "ブロックチェーン企業が被害総額を指摘"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道から得た情報によると、オフラインの仮想通貨ハードウェアウォレットである「Coldcard」に存在するセキュリティ上の脆弱性が悪用され、ハッカーが被害者のウォレットから暗号資産を不正に引き出す事件が発生しています。",
+   "ブロックチェーン監視企業が発表したデータによると、この脆弱性を突いた一連の不正アクセスの結果、被害総額は1億3000万ドルを超える規模に達していることが明らかになりました。",
+   "オフラインで保管できる安全性の高さで知られるハードウェアウォレットで大規模な被害が出たことで、保有する資産の安全性をどのように確保すべきか、利用者にとって大きな懸念材料となっています。"
+  ],
+  "tags": [
+   "仮想通貨",
+   "セキュリティ",
+   "ハードウェアウォレット"
+  ],
+  "slug": "coldcard-hackers-steal-130m",
+  "people": [],
+  "terms": [
+   {
+    "name": "Coldcard",
+    "type": "company",
+    "desc": "仮想通貨をオフラインで安全に保管するためのハードウェアウォレットを提供するブランドです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-coldcard-hackers-steal-130m.html"
+ },
+ {
+  "title": "フォロワー55万人インフルエンサー、なぜ逃走再逮捕？",
+  "lead": "SNSで華やかな生活を演じていたフォロワー55万人の自称インフルエンサーの人物が、ベントレーを乗り捨てて猛ダッシュで逃走し、再逮捕されました。",
+  "summary3": [
+   "フォロワー55万人の自称インフルエンサーを再逮捕",
+   "高級車ベントレーを乗り捨てて猛ダッシュで逃走",
+   "SNS上で偽りのラグジュアリー生活を演じていた"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする今回のニュースは、SNS上で大きな注目を集めている自称インフルエンサーの逮捕劇についてです。報道によると、フォロワー数55万人を誇るこの人物は、ネット上で偽りのラグジュアリー生活を演じていました。",
+   "しかし、その実態は華やかなイメージとは異なるものでした。事件の際、この人物は高級車であるベントレーを突然乗り捨て、その場から猛ダッシュで逃走するという行動に出たことが明らかになっています。",
+   "警察による捜査の結果、この自称インフルエンサーは再逮捕される事態となりました。SNSの画面越しに見せていたきらびやかな生活の裏側で、どのようなトラブルや問題が起きていたのか、今後の詳細な捜査の進展が注目されています。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "SNS",
+   "事件"
+  ],
+  "slug": "influencer-rearrested-after-escape",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzB5eFo3S21JbjRIbmdZcURrVGo1RjhkWUg2VXhPYWVnQzFIV0UwNEpWSWhQeFlwMUVpYTh6YWRQWkI1MVpSRUZiU1V2dWZYcDFHR0lISlVFRXQ3bFRFLXJjNVBaaVEwcmpsSHhNdmdWNkNtS1pVbEN4M0VWMHNtLVNjQTg0cXM3TWhPemx3?oc=5",
+  "category": "influencer",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-influencer-rearrested-after-escape.html"
+ },
+ {
+  "title": "食料品消費税1%に、政府が来年4月から2年引き下げ方針案",
+  "lead": "政府は、食料品の消費税率を来年4月から2年間1％に引き下げるなどとした基本方針案を5日に閣議決定する方針を固めました。",
+  "summary3": [
+   "食料品の消費税を1%に引き下げへ",
+   "来年4月から2年間の実施を予定",
+   "政府が5日に基本方針案を閣議決定"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、食料品の消費税減税をめぐり、政府は、来年4月から2年間1％に引き下げるなどとした基本方針案を5日に閣議決定したいとしています。",
+   "この政府の方針決定を受けて、与党は税制改正大綱の検討に入り、具体的な制度設計を本格化させる見通しとなっています。",
+   "一方、野党側はこの動きに対して国会でただす構えを見せており、今後の議論の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "消費税減税",
+   "税制改正",
+   "政治"
+  ],
+  "slug": "food-consumption-tax-reduction-policy",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015196581000",
+  "category": "world",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-food-consumption-tax-reduction-policy.html"
+ },
+ {
+  "title": "三菱重工業、次世代型原子炉SMR国内実用化へ",
+  "lead": "政府が原子力を最大限活用する方針を打ち出す中、大手機械メーカーの三菱重工業が、次世代型の原子炉「SMR」の国内での実用化に向け、本格的な開発に乗り出す方針を固めたことがわかりました。",
+  "summary3": [
+   "三菱重工業がSMRの開発へ",
+   "次世代型原子炉の国内実用化",
+   "政府の原子力活用方針に対応"
+  ],
+  "body": [
+   "政府が原子力を最大限活用する方針を打ち出す中、大手機械メーカーの「三菱重工業」が、「SMR」と呼ばれる次世代型の原子炉の国内での実用化に向け、本格的な開発に乗り出す方針を固めたことが明らかになりました。",
+   "SMRは小型モジュール炉とも呼ばれる次世代型の原子炉で、従来の大型炉と比べて安全性や建設の面で多くのメリットがあるとされています。世界各国で開発や導入の動きが進められており、国内でも実用化に向けた動きが本格化しようとしています。",
+   "今回の本格開発への移行により、国内のエネルギー政策や原子力活用のあり方にどのような影響を与えるのか、今後の展開に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "三菱重工業",
+   "SMR",
+   "原子力発電"
+  ],
+  "slug": "mitsubishi-heavy-industries-smr-development",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱重工業",
+    "type": "company",
+    "desc": "日本の大手総合重機械メーカーで、航空機やプラントなど幅広い事業を手がける。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015196481000",
+  "category": "world",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-mitsubishi-heavy-industries-smr-development.html"
+ },
+ {
+  "title": "米ベッセント財務長官、協調介入は“日米連携の象徴”",
+  "lead": "アメリカのベッセント財務長官がNHKの単独インタビューに応じ、先週実施された円買いの協調介入について語りました。",
+  "summary3": [
+   "米財務長官がNHKの取材に応じた",
+   "先週の円買い協調介入に言及",
+   "日米連携の象徴的意味合いと説明"
+  ],
+  "body": [
+   "アメリカのベッセント財務長官がこのほど、NHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週実施した、円買いの協調介入について見解を述べています。",
+   "ベッセント財務長官はインタビューの中で、今回の円買いの協調介入について、日米連携の象徴的な意味合いがあったと述べました。歴史的な円安を背景に行われた一連の対応について、アメリカ側の認識が示された形となります。",
+   "通貨当局による市場介入の意図や今後の動向については、引き続き国内外の市場関係者の注目を集めています。今回の長官の発言は、日米間の連携姿勢を示すものとして伝えられています。"
+  ],
+  "tags": [
+   "為替介入",
+   "円安",
+   "アメリカ財務省"
+  ],
+  "slug": "bessent-fx-intervention-symbolic",
+  "people": [
+   {
+    "name": "ベッセント財務長官",
+    "bio": "アメリカの財務長官として経済政策や通貨政策を担当する。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015196511000",
+  "category": "stock",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-bessent-fx-intervention-symbolic.html"
+ },
+ {
+  "title": "トヨタ自動車、2027年3月期第1四半期決算説明会の質疑応答要旨を公表",
+  "lead": "AI TECH TIMESは、トヨタ自動車による2027年3月期第1四半期決算の投資家向け決算説明会の質疑応答要旨の公表についてお伝えします。",
+  "summary3": [
+   "トヨタ自動車が適時開示を実施",
+   "2027年3月期第1四半期決算",
+   "投資家向け説明会の要旨を公開"
+  ],
+  "body": [
+   "日本経済新聞の「日経会社情報DIGITAL」によると、トヨタ自動車[7203]に関する適時開示情報が発表されました。2026年8月4日に公開されたのは、2027年3月期第1四半期決算における投資家向け決算説明会の質疑応答の要旨です。",
+   "今回の適時開示では、同社の決算説明会においてどのような質疑応答が行われたのか、その要旨がまとめられています。投資家に向けて事業の状況や業績に関する説明が行われた際のやり取りを確認できる内容となっています。",
+   "詳細な質疑応答の内容や要旨については、日経会社情報DIGITALの該当ページおよび適時開示資料にて確認することができます。企業の動向を把握する上で重要な資料として公開されています。"
+  ],
+  "tags": [
+   "トヨタ自動車",
+   "決算説明会",
+   "適時開示"
+  ],
+  "slug": "toyota-q1-earnings-briefing-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "トヨタ自動車",
+    "type": "company",
+    "desc": "愛知県豊田市に本社を置く日本最大の自動車メーカーで、世界各国で車両の製造・販売を展開している。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYzFqTHhydEVxSkhiR3ptMUhNVDN3dzNnZjN3Yjgyb2xjVE4tSlp2VVhNbXowTVQ5aTVNS2NXT3VETG9jbWNIdERrc3c0WlA2OWVuTl9HNG5GZFUzZ01ZcEpRbWtBYW5mUWc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-05",
+  "time": "07:02",
+  "path": "/articles/20260805-toyota-q1-earnings-briefing-2027.html"
  }
 ]
