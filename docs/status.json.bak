@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-04 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-04 15:03",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均株価、続落で421円安の6万3333円",
-   "path": "/articles/20260804-nikkei-average-falls-421-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "トヨタ、営業利益3兆4000億円へ上方修正　見通し変更の背景",
+   "path": "/articles/20260804-toyota-raises-full-year-earnings-forecast.html",
+   "cat": "日本企業"
   },
   {
-   "title": "夫の口座で1億円超の株購入、インサイダー取引の末路",
-   "path": "/articles/20260804-insider-trading-couple-100-million.html",
-   "cat": "株式投資(日本)"
+   "title": "日産が2年ぶり黒字回復、キックス受注1万1000台超の背景",
+   "path": "/articles/20260804-nissan-surplus-kicks-elgrand-orders.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
  "notes": [],
- "pv_today": 13,
+ "pv_today": 14,
  "gemini": {
-  "used": 107,
+  "used": 120,
   "limit": 200
  }
 }

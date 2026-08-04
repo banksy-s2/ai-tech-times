@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-04 15:03",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-04 16:05",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "トヨタ、営業利益3兆4000億円へ上方修正　見通し変更の背景",
-   "path": "/articles/20260804-toyota-raises-full-year-earnings-forecast.html",
-   "cat": "日本企業"
+   "title": "Palantir CEO、10億ドル利益達成もAIフロンティアラボの信頼性に警鐘",
+   "path": "/articles/20260804-palantir-ceo-warns-ai-frontier-labs-untrustworthy.html",
+   "cat": "AI(海外)"
   },
   {
-   "title": "日産が2年ぶり黒字回復、キックス受注1万1000台超の背景",
-   "path": "/articles/20260804-nissan-surplus-kicks-elgrand-orders.html",
-   "cat": "日本企業"
+   "title": "OpenAI初の豪華旅行に批判殺到、なぜ今？",
+   "path": "/articles/20260804-openai-influencer-trip-backlash.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
  "notes": [],
- "pv_today": 14,
+ "pv_today": null,
  "gemini": {
-  "used": 120,
+  "used": 127,
   "limit": 200
  }
 }
