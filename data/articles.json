@@ -33192,5 +33192,39 @@
   "date": "2026-08-05",
   "time": "04:00",
   "path": "/articles/20260805-ny-dow-surges-over-1000-dollars.html"
+ },
+ {
+  "title": "キャタピラー4〜6月6割増益、AI投資で受注残は9割増加",
+  "lead": "キャタピラーの4〜6月期決算が発表され、AI投資の影響により受注残が大幅に増加したことが明らかになりました。",
+  "summary3": [
+   "キャタピラーの4〜6月期は6割増益",
+   "AI投資の影響で受注残が9割増加",
+   "決算発表を受けて株価は13%高に"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、キャタピラーの4〜6月期決算は6割増益となりました。AI投資に関連する需要が影響し、受注残は9割増加という大幅な伸びを記録しています。",
+   "この好業績と受注残の増加を受け、市場では買いが優勢となり、同社の株価は13%高を記録しました。AI関連のインフラ投資や需要拡大が、機械需要にどのような影響を与えているのかが注目されています。",
+   "企業の設備投資やAI市場の拡大が、実体経済や関連企業の業績に波及する動きが鮮明になっています。今後の動向や受注残の消化スピードについても、市場関係者の関心が集まるところです。"
+  ],
+  "tags": [
+   "キャタピラー",
+   "AI投資",
+   "決算"
+  ],
+  "slug": "caterpillar-earnings-ai-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "キャタピラー",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、建設機械や鉱山機械などの世界最大手メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01bHBUTjFvTmdHdjh5NXNFNFFBNmdHX1ZZOS10SzhOWWxsSHpieUE3RXpweVd2TjNGQktJcXdjcXZGcnc4Tzhacko0ZU9pcVZ4Y2xOeHk5dDNUODRRQ0loM1hRV3h1TVJoZXAtbg?oc=5",
+  "category": "stock",
+  "date": "2026-08-05",
+  "time": "05:00",
+  "path": "/articles/20260805-caterpillar-earnings-ai-investment.html"
  }
 ]
