@@ -32917,5 +32917,73 @@
   "date": "2026-08-04",
   "time": "21:02",
   "path": "/articles/20260804-bending-spoons-to-buy-airtable.html"
+ },
+ {
+  "title": "Redditに押し寄せるAI SEOスパムの正体",
+  "lead": "掲示板サイトのRedditにおいて、AI技術を悪用した新たなSEOスパムが深刻な問題となっています。日常的なユーザーの投稿に巧妙に紛れ込む事例が報告されました。",
+  "summary3": [
+   "RedditでAI SEOスパムが確認される",
+   "一見して無害なスキンケア関連の返信",
+   "新たなマーケティング手法の脅威が増加"
+  ],
+  "body": [
+   "海外のニュースサイト「The Verge AI」の報道によると、今年の初め、スキンケアに特化したRedditのサブreddit（掲示板内のコミュニティ）において、あるユーザーがニキビ治療などで使われる次亜塩素酸スプレーについて尋ねました。スレッドには数十件の回答が寄せられ、その中には製品のブランド名に言及するものも含まれていました。",
+   "一見すると、投稿者の一人であるPrimary-Taro4254というアカウントからの返信は無害なものに見えました。「自分ではそのブランドを使ったことがないので…」と書き始めていたものの、こうしたやり取りの背後には、検索エンジン最適化（SEO）を目的としたAIによる自動化されたスパム投稿の波が存在しています。",
+   "AI技術の進化に伴い、人間と見分けがつかない自然な文章を大量に生成し、特定の製品やブランドを宣伝するマーケティング手法が横行しています。情報収集の場として信頼されてきた掲示板サイトにおいて、こうした偽りの推奨情報がどのように影響を与えるのか、今後の対策が注目されています。"
+  ],
+  "tags": [
+   "Reddit",
+   "AI",
+   "SEOスパム"
+  ],
+  "slug": "reddit-fend-off-ai-seo-spam",
+  "people": [],
+  "terms": [
+   {
+    "name": "Reddit",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、世界最大級の掲示板型ソーシャルニュースサイトを運営する企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "00:01",
+  "path": "/articles/20260805-reddit-fend-off-ai-seo-spam.html"
+ },
+ {
+  "title": "Runware、持ち運べるモジュラー型データセンター開発",
+  "lead": "AIインフラ企業Runwareが、移動可能なモジュラー型データセンター「Sonic Inference Pod」を発表しました。データの処理拠点における未来のあり方を模索します。",
+  "summary3": [
+   "Runwareが新ポッドを発表",
+   "モジュラー型のデータセンター",
+   "データセンターの未来を検証"
+  ],
+  "body": [
+   "AIインフラ企業であるRunwareは、火曜日に独自のモジュラー型データセンター「Sonic Inference Pod」の立ち上げを発表しました。",
+   "近年、AIの普及に伴いデータセンターの需要は急速に高まっていますが、今回発表されたポッド型のインフラがどのような役割を果たすのか、業界の注目が集まっています。",
+   "同社はこの持ち運び可能なデータセンターを通じて、AI処理の未来がどのように変化していくのかを検証していく方針です。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "インフラ"
+  ],
+  "slug": "runware-sonic-inference-pod",
+  "people": [],
+  "terms": [
+   {
+    "name": "Runware",
+    "type": "company",
+    "desc": "AIインフラストラクチャの開発を手がける企業であり、新たなモジュラー型データセンターを発表した。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "00:01",
+  "path": "/articles/20260805-runware-sonic-inference-pod.html"
  }
 ]

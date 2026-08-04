@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-05 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-05 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Redditに押し寄せるAI SEOスパムの正体",
-   "path": "/articles/20260805-reddit-fend-off-ai-seo-spam.html",
-   "cat": "AI(海外)"
+   "title": "サカナAI案も浮上、自衛隊が米軍AIを導入する理由",
+   "path": "/articles/20260805-sdf-us-ai-integration.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Runware、持ち運べるモジュラー型データセンター開発",
-   "path": "/articles/20260805-runware-sonic-inference-pod.html",
-   "cat": "AI(海外)"
+   "title": "東京商工リサーチ：デザイン業倒産が前年比2.7倍に急増",
+   "path": "/articles/20260805-design-industry-bankruptcy-increase-2026.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 4,
+  "used": 9,
   "limit": 200
  }
 }

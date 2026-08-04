@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-04 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-08-05 00:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "Redditに押し寄せるAI SEOスパムの正体",
+   "path": "/articles/20260805-reddit-fend-off-ai-seo-spam.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Runware、持ち運べるモジュラー型データセンター開発",
+   "path": "/articles/20260805-runware-sonic-inference-pod.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [
-  "株式投資(日本)の選定失敗: Gemini日次予算超過"
- ],
- "pv_today": 21,
+ "notes": [],
+ "pv_today": null,
  "gemini": {
-  "used": 209,
+  "used": 4,
   "limit": 200
  }
 }
