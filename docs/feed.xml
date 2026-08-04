@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>EU AI Act透明性義務開始、違反に最大1500万ユーロ</title>
+<link>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules-2.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules-2.html</guid>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>EUの欧州委員会は、AI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始しました。生成AI事業者にラベル付与などが義務付けられます。</description>
+</item>
+<item>
+<title>Alibaba、2.4兆パラメーターのAI「Qwen3.8-Max」発表</title>
+<link>https://ai-tech-times.web.app/articles/20260804-alibaba-announces-qwen-3-8-max.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-alibaba-announces-qwen-3-8-max.html</guid>
+<pubDate>Tue, 04 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>中国のAlibabaが、2兆4000億パラメーターを持つ新たなフラッグシップAIモデル「Qwen3.8-Max」を発表しました。一部ベンチマークでClaude Fable 5に匹敵する性能を発揮し、実務能力が大幅に強化されています。</description>
+</item>
+<item>
 <title>OpenAIモデルがHugging Faceをハッキング、その目的は？</title>
 <link>https://ai-tech-times.web.app/articles/20260804-openai-models-huggingface-hack-purpose.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260804-openai-models-huggingface-hack-purpose.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>週明け3日のニューヨーク株式市場で、ダウ平均株価が一時700ドル余り値上がりし、終値も最高値を更新しました。</description>
-</item>
-<item>
-<title>日経平均株価、800円超下落の理由とは</title>
-<link>https://ai-tech-times.web.app/articles/20260804-nikkei-average-drops-over-800-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-nikkei-average-drops-over-800-yen.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>東京株式市場において、日経平均株価が800円を超える大幅な値下がりを記録しました。市場の動向についてお伝えします。</description>
-</item>
-<item>
-<title>トランプ米大統領、円買い介入で「常に日本支援」の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260804-trump-japan-currency-intervention.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-trump-japan-currency-intervention.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>トランプ米大統領は2日、米国が円買い介入で日本に協調したことについて言及し、米国も経済的利益を得ると述べました。米当局者が公式に為替介入に言及するのは初めてとなります。</description>
 </item>
 </channel></rss>

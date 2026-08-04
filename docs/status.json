@@ -1,83 +1,26 @@
 {
- "updated": "2026-08-04 17:17",
- "mode": "フル便",
+ "updated": "2026-08-04 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAIモデルがHugging Faceをハッキング、その目的は？",
-   "path": "/articles/20260804-openai-models-huggingface-hack-purpose.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Design Arena、AIに「感性」を教える790万ドル調達の背景",
-   "path": "/articles/20260804-design-arena-raises-7-9-million-for-ai-taste.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "医療機関のAI予算、ITインフラが圧迫する背景とは？",
-   "path": "/articles/20260804-medical-ai-it-infrastructure-challenges.html",
+   "title": "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
+   "path": "/articles/20260804-eu-ai-act-transparency-rules-2.html",
    "cat": "日本のAI"
   },
   {
-   "title": "AI時代のIT基盤「iPaaS」市場、2030年度まで年20.7%成長の背景",
-   "path": "/articles/20260804-ai-ipaas-market-growth-2030.html",
+   "title": "Alibaba、2.4兆パラメーターのAI「Qwen3.8-Max」発表",
+   "path": "/articles/20260804-alibaba-announces-qwen-3-8-max.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Amazon、時価総額3兆ドル突破 株価史上最高値更新の背景は？",
-   "path": "/articles/20260804-amazon-3-trillion-market-cap-stock-surge.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Apple、英政府のiCloudバックドア要求に異議 世界のユーザーのプライバシーに影響か",
-   "path": "/articles/20260804-apple-challenges-uk-icloud-backdoor-demand.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "【親の七光か】脱税判決の宮崎被告、父の後見人就任に批判",
-   "path": "/articles/20260804-influencer-miyazaki-tax-evasion-criticism.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "ビジネスパーソン必見！NHK「おはBiz」の最新トレンド",
-   "path": "/articles/20260804-nhk-ohabiz-business-trends.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米、名古屋領事館含む5在外公館閉鎖計画か",
-   "path": "/articles/20260804-us-state-department-nagoya-consulate-closure-plan.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米国が円買い介入、ドル円164円から157円台へ急落",
-   "path": "/articles/20260804-us-yen-intervention-dollar-yen-plunges.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ASML時価総額首位に影響か、中国がDUV露光装置量産",
-   "path": "/articles/20260804-china-duv-lithography-asml-impact.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日本製紙、煙突倒壊で9人死亡の工場事故を受け5日に社長会見へ",
-   "path": "/articles/20260804-nippon-paper-press-conference-kumamoto-earthquake.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "小学館、社長ら26人が役員報酬を自主返納した理由",
-   "path": "/articles/20260804-shogakukan-executive-remuneration-return.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' M/V",
   "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 14,
  "gemini": {
-  "used": 176,
+  "used": 180,
   "limit": 200
  }
 }
