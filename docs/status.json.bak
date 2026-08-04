@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-04 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-04 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
-   "path": "/articles/20260804-eu-ai-act-transparency-rules-2.html",
-   "cat": "日本のAI"
+   "title": "AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合",
+   "path": "/articles/20260804-aws-superblocks-private-cloud.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Alibaba、2.4兆パラメーターのAI「Qwen3.8-Max」発表",
-   "path": "/articles/20260804-alibaba-announces-qwen-3-8-max.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ",
+   "path": "/articles/20260804-spacex-acquires-louisiana-marshland.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 14,
  "gemini": {
-  "used": 180,
+  "used": 185,
   "limit": 200
  }
 }

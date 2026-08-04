@@ -1464,7 +1464,7 @@
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 11069114,
+   "views": 11269394,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
@@ -1481,7 +1481,7 @@
    "id": "NZP153MUpHY",
    "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
    "channel": "SMTOWN",
-   "views": 1497334,
+   "views": 1543468,
    "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
    "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
    "regions": [
@@ -1498,7 +1498,7 @@
    "id": "qCPMuBhsCs0",
    "title": "i love mondays",
    "channel": "IShowSpeed",
-   "views": 2968254,
+   "views": 2986571,
    "url": "https://www.youtube.com/watch?v=qCPMuBhsCs0",
    "thumb": "https://i.ytimg.com/vi/qCPMuBhsCs0/hqdefault.jpg",
    "regions": [
@@ -1512,7 +1512,7 @@
    "id": "izNezNuv9sU",
    "title": "The Search For The Leviathan",
    "channel": "Wifies",
-   "views": 2494126,
+   "views": 2700827,
    "url": "https://www.youtube.com/watch?v=izNezNuv9sU",
    "thumb": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
    "regions": [
@@ -1526,7 +1526,7 @@
    "id": "uEcoV-ngH38",
    "title": "Your Mother Your Mother Your Mother | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 1122144,
+   "views": 1224092,
    "url": "https://www.youtube.com/watch?v=uEcoV-ngH38",
    "thumb": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
    "regions": [
@@ -1540,7 +1540,7 @@
    "id": "qJOiCAf2Zns",
    "title": "Working A Midnight Shift is a Nightmare",
    "channel": "SMii7Y",
-   "views": 1067120,
+   "views": 1141704,
    "url": "https://www.youtube.com/watch?v=qJOiCAf2Zns",
    "thumb": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
    "regions": [
@@ -1554,7 +1554,7 @@
    "id": "ivZ2c69D69E",
    "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
    "channel": "Aashirvad Cinemas",
-   "views": 908820,
+   "views": 965477,
    "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
    "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
    "regions": [
@@ -1565,24 +1565,10 @@
   },
   {
    "rank": 8,
-   "id": "d1rWv8VeQO0",
-   "title": "TWS (투어스) 'SODA SODA' Official MV",
-   "channel": "HYBE LABELS",
-   "views": 636408,
-   "url": "https://www.youtube.com/watch?v=d1rWv8VeQO0",
-   "thumb": "https://i.ytimg.com/vi/d1rWv8VeQO0/hqdefault.jpg",
-   "regions": [
-    "JP",
-    "KR"
-   ],
-   "comment": "TWSの新曲「SODA SODA」の公式MVが公開されたようです。"
-  },
-  {
-   "rank": 9,
    "id": "9TjRdsqm7jE",
    "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
    "channel": "THE FIRST TAKE",
-   "views": 549821,
+   "views": 579180,
    "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
    "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
    "regions": [
@@ -1592,11 +1578,11 @@
    "comment": "Hearts2Heartsによる「RUDE!」の日本語版一発撮りパフォーマンスのようです"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "id": "CwKb85C0ZuA",
    "title": "Meek Mill - Nightmares To Dreams (Official Video)",
    "channel": "Meek Mill",
-   "views": 328612,
+   "views": 344837,
    "url": "https://www.youtube.com/watch?v=CwKb85C0ZuA",
    "thumb": "https://i.ytimg.com/vi/CwKb85C0ZuA/hqdefault.jpg",
    "regions": [
@@ -1604,6 +1590,20 @@
     "GB"
    ],
    "comment": "Meek Millによる公式ミュージックビデオのようです。(27字)"
+  },
+  {
+   "rank": 10,
+   "id": "lnG-9ydT440",
+   "title": "House Of The Dragon Season 3 Episode 8 Trailer Breakdown & Easter Eggs",
+   "channel": "Emergency Awesome",
+   "views": 121820,
+   "url": "https://www.youtube.com/watch?v=lnG-9ydT440",
+   "thumb": "https://i.ytimg.com/vi/lnG-9ydT440/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ドラゴン御曹司シーズン3第8話の予告解説や隠し要素らしい (28字)"
   }
  ]
 }

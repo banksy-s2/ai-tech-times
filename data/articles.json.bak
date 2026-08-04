@@ -32654,5 +32654,78 @@
   "date": "2026-08-04",
   "time": "18:00",
   "path": "/articles/20260804-alibaba-announces-qwen-3-8-max.html"
+ },
+ {
+  "title": "AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合",
+  "lead": "AWSは、バイブコーディングツールを手がけるSuperblocksを顧客のプライベートクラウドに組み込めるようにしました。この動きが示すアプリとモデルの分離への影響についてお伝えします。",
+  "summary3": [
+   "AWSがSuperblocksの統合を可能に",
+   "顧客のプライベートクラウドへ組み込みが可能",
+   "アプリとモデルの分離が進む大きな一歩に"
+  ],
+  "body": [
+   "ニュースサイト「TechCrunch」の報道によると、AWSは現在、バイブコーディングツールを提供するSuperblocksを、AWS顧客のプライベートクラウド内に埋め込むことを許可しています。この取り組みは、クラウドサービスと開発ツールの連携において重要な意味を持っています。",
+   "今回の統合は、アプリケーションを特定のモデルから切り離していく「デカップリング（分離）」に向けた新たなステップとなります。開発現場における柔軟なツール選定や運用体制の構築において、無視できない動きと言えます。",
+   "企業のクラウド環境で先端的な開発ツールがどのように活用されていくのか、今後の展開に大きな注目が集まっています。アプリとモデルの分離が進むことで、開発エコシステム全体にどのような影響を及ぼすのか、引き続き動向を追う必要があります。"
+  ],
+  "tags": [
+   "AWS",
+   "Superblocks",
+   "クラウド"
+  ],
+  "slug": "aws-superblocks-private-cloud",
+  "people": [],
+  "terms": [
+   {
+    "name": "AWS",
+    "type": "company",
+    "desc": "米アマゾン・ドット・コムが提供する世界最大手のクラウドコンピューティングサービス。"
+   },
+   {
+    "name": "Superblocks",
+    "type": "company",
+    "desc": "アプリケーション開発を効率化するバイブコーディングツールを提供するスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "19:01",
+  "path": "/articles/20260804-aws-superblocks-private-cloud.html"
+ },
+ {
+  "title": "SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ",
+  "lead": "米宇宙企業SpaceXが、南部ルイジアナ州で広大な土地の取得を進めています。新たな発射サイトの開設に向けた動きとみられています。",
+  "summary3": [
+   "SpaceXがルイジアナ州の土地を取得",
+   "対象となる湿地帯は13万エーカーの広さ",
+   "新発射サイトの設置に大きな利点が存在"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米国の宇宙開発企業SpaceXが、ルイジアナ州南部において13万エーカーに及ぶ湿地帯の買収を行う予定であることが明らかになりました。",
+   "同社がこれほど広大な土地を取得する背景には、南部ルイジアナ州に新たな発射サイトを設けることによる、複数の重要なメリットが存在するためだと伝えられています。",
+   "今後の具体的な開発スケジュールや詳細な計画については明らかにされていませんが、同社の今後の宇宙事業展開において極めて重要な拠点となる可能性があります。"
+  ],
+  "tags": [
+   "SpaceX",
+   "宇宙開発",
+   "ルイジアナ州"
+  ],
+  "slug": "spacex-acquires-louisiana-marshland",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカ合衆国の民間宇宙企業。ロケットの製造や宇宙輸送サービスを手がける。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "19:01",
+  "path": "/articles/20260804-spacex-acquires-louisiana-marshland.html"
  }
 ]

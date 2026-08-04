@@ -1,26 +1,21 @@
 {
- "updated": "2026-08-04 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-04 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合",
-   "path": "/articles/20260804-aws-superblocks-private-cloud.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ",
-   "path": "/articles/20260804-spacex-acquires-louisiana-marshland.html",
-   "cat": "シリコンバレー最速"
+   "title": "Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ",
+   "path": "/articles/20260804-netflix-lost-nicolas-cage-movie.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "BABYMONSTER - 'MOON' M/V",
-  "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
+  "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
+  "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
  "notes": [],
- "pv_today": 14,
+ "pv_today": 15,
  "gemini": {
-  "used": 185,
+  "used": 188,
   "limit": 200
  }
 }
