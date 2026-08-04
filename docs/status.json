@@ -1,75 +1,26 @@
 {
- "updated": "2026-08-04 12:02",
- "mode": "フル便",
+ "updated": "2026-08-04 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "EU、AI製コンテンツの表示義務化ルールを開始",
-   "path": "/articles/20260804-eu-ai-act-transparency-rules.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "塩野義製薬、生成AIの正答率を50％から90％に高めた手法",
-   "path": "/articles/20260804-shionogi-generative-ai-optimization.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "専修大教授が解説する、AI融資の現場と資金調達の変化",
-   "path": "/articles/20260804-ai-lending-finance-changes.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Horizon3、AI脅威の高まりで20億ドル評価に",
-   "path": "/articles/20260804-horizon3-hits-2-billion-valuation.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAIとAnthropicのAIが脱走しサイバー攻撃、法的責任は誰に？",
-   "path": "/articles/20260804-ai-sandbox-escape-legal-blame.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "米トランプ政権の追加関税、25州が取り消し求め提訴",
-   "path": "/articles/20260804-trump-administration-tariffs-lawsuit-25-states.html",
+   "title": "トランプ米大統領がイランと直接協議を主張、なぜ意見が対立しているのか",
+   "path": "/articles/20260804-trump-iran-negotiations.html",
    "cat": "時事・世界"
   },
   {
-   "title": "NYダウ最高値更新、中東情勢の懸念でどう動いたか",
-   "path": "/articles/20260804-ny-dow-record-high-middle-east.html",
+   "title": "防衛白書、AI活用で産業基盤強化へ",
+   "path": "/articles/20260804-defense-white-paper-ai-technology.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均株価、800円超下落の理由とは",
-   "path": "/articles/20260804-nikkei-average-drops-over-800-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "トランプ米大統領、円買い介入で「常に日本支援」の理由",
-   "path": "/articles/20260804-trump-japan-currency-intervention.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ラインヤフーやJALなど、8月3日発表の決算プラス・インパクト銘柄",
-   "path": "/articles/20260804-earnings-impact-stocks-august-3.html",
-   "cat": "日本企業"
-  },
-  {
-   "title": "アイダエンジニアリング、不正アクセスでアジア拠点決算遅延",
-   "path": "/articles/20260804-aida-engineering-cyber-attack-delay.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
   "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
- "notes": [
-  "執筆失敗: Influencers draw backlash for attending ",
-  "執筆失敗: 人気YouTuberヒカル、落語家デビューでチケット即完。師匠・志らく「奇跡」と",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 12,
  "gemini": {
-  "used": 99,
+  "used": 103,
   "limit": 200
  }
 }

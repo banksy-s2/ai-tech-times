@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 12:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [トランプ米大統領がイランと直接協議を主張、なぜ意見が対立しているのか](https://ai-tech-times.web.app/articles/20260804-trump-iran-negotiations.html) — 2026-08-04 13:00: イラン情勢をめぐり、イラン側がアメリカとの直接協議を否定する一方、アメリカのトランプ大統領は3日に協議が行われていると主張しました。
+- [防衛白書、AI活用で産業基盤強化へ](https://ai-tech-times.web.app/articles/20260804-defense-white-paper-ai-technology.html) — 2026-08-04 13:00: AIやドローンを活用した新しい戦い方に対応するため、防衛関係の生産・技術基盤を強化する重要性が強調されました。
 - [EU、AI製コンテンツの表示義務化ルールを開始](https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules.html) — 2026-08-04 12:02: 欧州連合（EU）の「AI法」に基づく新たな透明性義務が8月2日に発効し、チャットボットやディープフェイクの識別が容易になるルールが導入されました。
 - [塩野義製薬、生成AIの正答率を50％から90％に高めた手法](https://ai-tech-times.web.app/articles/20260804-shionogi-generative-ai-optimization.html) — 2026-08-04 12:02: 生成AIの導入が難しいとされる製薬業界において、塩野義製薬が機密データと大量の情報を最適化し、正答率を大幅に向上させました。
 - [専修大教授が解説する、AI融資の現場と資金調達の変化](https://ai-tech-times.web.app/articles/20260804-ai-lending-finance-changes.html) — 2026-08-04 12:02: 融資の審査にAIを活用する動きが広がる中、資金を調達する企業にどのような変化が起きるのか。専修大学の尾木研三教授に話を聞きました。
@@ -40,8 +42,6 @@
 - [AI分野の隠れ借金が1兆6500億ドルに到達、この負債の山はこの先どうなるのか](https://ai-tech-times.web.app/articles/20260804-ai-debt-hidden-borrowing-165t.html) — 2026-08-04 08:00: AIブームを牽引するハイパースケーラーの巨額な設備投資の裏で、隠れた借金が1兆6500億ドルに達していることが明らかになりました。
 - [OpenAI支援の政治団体、AIニュースサイトで業界批判を展開](https://ai-tech-times.web.app/articles/20260804-openai-super-pac-ai-news-site.html) — 2026-08-04 08:00: OpenAIに関連する政治行動委員会（スーパーPAC）が、AIボットを記手とするニュースサイトに資金を提供し、業界の批判者を攻撃する政治的アジェンダを推進していることが分かりました。
 - [米トランプ政権のAI保護主義がロボット産業に波及](https://ai-tech-times.web.app/articles/20260804-trumps-ai-protectionism-robotics.html) — 2026-08-04 07:02: AI TECH TIMESの週刊ニュースレター「The Algorithm」によると、トランプ政権のAI保護主義が新たにロボット産業へと波及していることが明らかになりました。
-- [ラグザス調査：情シスより生成AIを使うあの職種とは](https://ai-tech-times.web.app/articles/20260804-generative-ai-usage-by-job-type.html) — 2026-08-04 07:02: 生成AIの活用状況に関する職種別の利用実態調査が実施されました。エンジニアや情シスを上回る利用率を記録した職種とは一体どこなのでしょうか。
-- [AIで仕事を効率化したら、なぜ僕の仕事だけ増えたのか](https://ai-tech-times.web.app/articles/20260804-ai-work-efficiency-increase.html) — 2026-08-04 07:02: AIを使って社内業務の効率化を進めた結果、なぜか自身の仕事だけが増えてしまったという体験談が話題になっています。
 
 ## 世界のバズ動画TOP3 (2026-08-04)
 - 1位: [Red Velvet 레드벨벳 'Surfin' Boy' MV](https://www.youtube.com/watch?v=NZP153MUpHY)
@@ -53,8 +53,8 @@
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
-- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
+- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
