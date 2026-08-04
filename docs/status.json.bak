@@ -1,21 +1,44 @@
 {
- "updated": "2026-08-04 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-04 21:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ",
-   "path": "/articles/20260804-netflix-lost-nicolas-cage-movie.html",
-   "cat": "インフルエンサー"
+   "title": "OpenAI、Apple提訴に反論したワケ",
+   "path": "/articles/20260804-openai-blog-response-apple-lawsuit.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "メキシコ国立自治大学、AI監督の試験で5万8000人が再受験",
+   "path": "/articles/20260804-ai-supervised-exam-mexico-58000-retake.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AWSのOSSでオントロジーをどう作るか",
+   "path": "/articles/20260804-aws-context-ontology-accelerator-2.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い",
+   "path": "/articles/20260804-bending-spoons-to-buy-airtable.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
-  "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
+  "title": "BABYMONSTER - 'MOON' M/V",
+  "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc"
  },
- "notes": [],
- "pv_today": 15,
+ "notes": [
+  "執筆失敗: Can Reddit fend off a new wave of AI SEO",
+  "執筆失敗: Spotify reports Q2 revenue up 14% YoY to",
+  "執筆失敗: ベントレー乗り捨て猛ダッシュで逃走…フォロワー55万人“自称インフルエンサー”を",
+  "時事・世界の選定失敗: Gemini日次予算超過",
+  "株式投資(日本)の選定失敗: Gemini日次予算超過",
+  "日本企業の選定失敗: Gemini日次予算超過",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 18,
  "gemini": {
-  "used": 188,
+  "used": 205,
   "limit": 200
  }
 }

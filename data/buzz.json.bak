@@ -2,43 +2,40 @@
  "date": "2026-08-04",
  "videos": [
   {
-   "id": "NZP153MUpHY",
-   "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
-   "channel": "SMTOWN",
-   "views": 1561527,
-   "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
-   "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "KR",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "Red Velvetの新曲「Surfin' Boy」のMVのようです"
-  },
-  {
    "id": "xXZwZ0DolJc",
    "title": "BABYMONSTER - 'MOON' M/V",
    "channel": "BABYMONSTER",
-   "views": 11432296,
+   "views": 11622937,
    "url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
    "thumb": "https://i.ytimg.com/vi/xXZwZ0DolJc/hqdefault.jpg",
    "regions": [
     "US",
-    "GB",
     "JP",
     "KR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "BABYMONSTERの新曲「MOON」のミュージックビデオが公開されたようです。"
+  },
+  {
+   "id": "xcFbyuzd9S8",
+   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
+   "channel": "SMTOWN",
+   "views": 2526477,
+   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8",
+   "thumb": "https://i.ytimg.com/vi/xcFbyuzd9S8/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 2,
+   "comment": ""
   },
   {
    "id": "qCPMuBhsCs0",
    "title": "i love mondays",
    "channel": "IShowSpeed",
-   "views": 2992927,
+   "views": 3000622,
    "url": "https://www.youtube.com/watch?v=qCPMuBhsCs0",
    "thumb": "https://i.ytimg.com/vi/qCPMuBhsCs0/hqdefault.jpg",
    "regions": [
@@ -52,7 +49,7 @@
    "id": "izNezNuv9sU",
    "title": "The Search For The Leviathan",
    "channel": "Wifies",
-   "views": 2789278,
+   "views": 2903277,
    "url": "https://www.youtube.com/watch?v=izNezNuv9sU",
    "thumb": "https://i.ytimg.com/vi/izNezNuv9sU/hqdefault.jpg",
    "regions": [
@@ -63,88 +60,88 @@
    "comment": "リヴァイアサンを探し求める様子が描かれているようです。"
   },
   {
+   "id": "NZP153MUpHY",
+   "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
+   "channel": "SMTOWN",
+   "views": 1584568,
+   "url": "https://www.youtube.com/watch?v=NZP153MUpHY",
+   "thumb": "https://i.ytimg.com/vi/NZP153MUpHY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "KR"
+   ],
+   "rank": 5,
+   "comment": "Red Velvetの新曲「Surfin' Boy」のMVのようです"
+  },
+  {
    "id": "uEcoV-ngH38",
    "title": "Your Mother Your Mother Your Mother | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 1281747,
+   "views": 1326593,
    "url": "https://www.youtube.com/watch?v=uEcoV-ngH38",
    "thumb": "https://i.ytimg.com/vi/uEcoV-ngH38/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 6,
    "comment": "Amazon MGM Studiosによる公式トレーラー映像のようです。"
   },
   {
    "id": "qJOiCAf2Zns",
    "title": "Working A Midnight Shift is a Nightmare",
    "channel": "SMii7Y",
-   "views": 1168364,
+   "views": 1201389,
    "url": "https://www.youtube.com/watch?v=qJOiCAf2Zns",
    "thumb": "https://i.ytimg.com/vi/qJOiCAf2Zns/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 7,
    "comment": "深夜のシフト勤務の大変さを描いたゲーム実況かもしれません。"
   },
   {
    "id": "ivZ2c69D69E",
    "title": "Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony",
    "channel": "Aashirvad Cinemas",
-   "views": 988051,
+   "views": 1014357,
    "url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
    "thumb": "https://i.ytimg.com/vi/ivZ2c69D69E/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 7,
+   "rank": 8,
    "comment": "映画「Thudakkam」の公式トレーラーのようです"
   },
   {
    "id": "9TjRdsqm7jE",
    "title": "Hearts2Hearts - RUDE! (Japanese Ver.) / THE FIRST TAKE",
    "channel": "THE FIRST TAKE",
-   "views": 591857,
+   "views": 609961,
    "url": "https://www.youtube.com/watch?v=9TjRdsqm7jE",
    "thumb": "https://i.ytimg.com/vi/9TjRdsqm7jE/hqdefault.jpg",
    "regions": [
     "JP",
     "KR"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "Hearts2Heartsによる「RUDE!」の日本語版一発撮りパフォーマンスのようです"
   },
   {
    "id": "CwKb85C0ZuA",
    "title": "Meek Mill - Nightmares To Dreams (Official Video)",
    "channel": "Meek Mill",
-   "views": 351062,
+   "views": 359621,
    "url": "https://www.youtube.com/watch?v=CwKb85C0ZuA",
    "thumb": "https://i.ytimg.com/vi/CwKb85C0ZuA/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "Meek Millによる公式ミュージックビデオのようです。(27字)"
-  },
-  {
-   "id": "lnG-9ydT440",
-   "title": "House Of The Dragon Season 3 Episode 8 Trailer Breakdown & Easter Eggs",
-   "channel": "Emergency Awesome",
-   "views": 124737,
-   "url": "https://www.youtube.com/watch?v=lnG-9ydT440",
-   "thumb": "https://i.ytimg.com/vi/lnG-9ydT440/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "ドラゴン御曹司シーズン3第8話の予告解説や隠し要素らしい (28字)"
+   "comment": "Meek Millによる公式ミュージックビデオのようです。(27字)"
   }
  ],
  "covered": [
