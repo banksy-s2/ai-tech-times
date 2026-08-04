@@ -912,7 +912,9 @@
   "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
   "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
   "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
-  "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy"
+  "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+  "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+  "https://www.techmeme.com/260803/p34#a260803p34"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2722,6 +2724,10 @@
   "PC操作を録画→「Copilot」で作業を代理可能に　Microsoftがアプリを無料公開　主にmacOS向け、Windows対応も",
   "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
   "Microsoftが無料公開、PC操作をAIが代理するアプリ",
-  "AWSのOSSでAIに業務知識を渡す方法とは"
+  "AWSのOSSでAIに業務知識を渡す方法とは",
+  "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+  "Snap reports Q2 revenue up 19% YoY to $1.6B, vs. $1.54B est., DAUs up 5% to 493M, vs. 487M est., forecasts Q3 revenue above est.; SNAP jumps 10%+ after hours (Jonathan Vanian/CNBC)",
+  "ウクライナのドローン5万機に米AI、自律追尾の狙い",
+  "Snap Q2売上高19%増の16億ドル、DAU4億9300万人で時間外株価10%超上昇"
  ]
 }

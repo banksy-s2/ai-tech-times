@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-04 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "ウクライナのドローン5万機に米AI、自律追尾の狙い",
-   "path": "/articles/20260804-ukraine-drones-get-ai-upgrades.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Snap Q2売上高19%増の16億ドル、DAU4億9300万人で時間外株価10%超上昇",
-   "path": "/articles/20260804-snap-reports-q2-revenue-up-19-percent.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-04 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Red Velvet 레드벨벳 'Surfin' Boy' MV",
   "url": "https://www.youtube.com/watch?v=NZP153MUpHY"
  },
- "notes": [],
- "pv_today": 10,
+ "notes": [
+  "執筆失敗: 人気YouTuberヒカル、落語家デビューでチケット即完。師匠・志らく「奇跡」と"
+ ],
+ "pv_today": 11,
  "gemini": {
-  "used": 69,
+  "used": 73,
   "limit": 200
  }
 }
