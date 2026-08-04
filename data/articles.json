@@ -31900,5 +31900,73 @@
   "date": "2026-08-04",
   "time": "13:00",
   "path": "/articles/20260804-defense-white-paper-ai-technology.html"
+ },
+ {
+  "title": "日経平均株価、続落で421円安の6万3333円",
+  "lead": "日経平均株価が続落し、前日の終値から値を下げて取引を終えました。午前の終値は421円安の6万3333円となっています。",
+  "summary3": [
+   "日経平均株価が続落を記録",
+   "午前の終値は421円安",
+   "株価は6万3333円で推移"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする市場の最新情報です。日本経済新聞の報道によると、東京株式市場で日経平均株価が続落しました。",
+   "前日からの下落基調を引き継ぎ、売り注文が優勢となる展開となりました。午前の終値は前日比421円安の6万3333円を付けています。",
+   "市場参加者は今後の相場動向を注視しており、引き続き国内外の経済指標や企業業績に関するニュースに注目が集まる状況となっています。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-falls-421-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済や金融を中心とするニュースを専門に扱う日刊の全国紙。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMXUxdUZ2eUlTSHZucVZweEh5aE9UWjk0R3hwbXRxUEVzQXRYUGZ6NnZ1Z2tqM2lVemFZOHFiNTZZRDlRLUdibXk3ZGVnNzJmZFI4a2JWQUw0cUFGN3lTc2hSejNKUHhWakZLTA?oc=5",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "14:00",
+  "path": "/articles/20260804-nikkei-average-falls-421-yen.html"
+ },
+ {
+  "title": "夫の口座で1億円超の株購入、インサイダー取引の末路",
+  "lead": "証券取引等監視委員会が、他人名義の口座を使った夫婦によるインサイダー取引を摘発しました。他人名義での売買であってもすぐに特定される実態が浮き彫りになっています。",
+  "summary3": [
+   "他人名義の口座で1億円超の株を購入",
+   "証券取引等監視委員会が夫婦を摘発",
+   "企業の情報管理や法改正の必要性問う"
+  ],
+  "body": [
+   "株式市場の公正を守る「市場の番人」である証券取引等監視委員会が、他人名義の口座を使った夫婦によるインサイダー取引を摘発しました。",
+   "今回の事件では、夫の口座を用いて1億円を超える株式の購入が行われていたことが明らかになっています。他人名義を使った不正な売買であっても、監視の網によってすぐに特定される実態が示されました。",
+   "この問題を受けて、企業における情報管理の甘さや、法改正の必要性についても改めて議論が問われる事態となっています。"
+  ],
+  "tags": [
+   "インサイダー取引",
+   "証券取引等監視委員会",
+   "株式市場"
+  ],
+  "slug": "insider-trading-couple-100-million",
+  "people": [],
+  "terms": [
+   {
+    "name": "証券取引等監視委員会",
+    "type": "company",
+    "desc": "金融庁の機関として株式市場の公正性や証券取引の透明性を確保するため市場を監視する組織。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/953351?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-08-04",
+  "time": "14:00",
+  "path": "/articles/20260804-insider-trading-couple-100-million.html"
  }
 ]
