@@ -5,6 +5,38 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、Apple提訴に反論したワケ</title>
+<link>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</guid>
+<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>対話型AI「ChatGPT」を開発するOpenAIが、Appleの訴訟に対して公開書簡で反論しました。法的紛争の行方に注目が集まっています。</description>
+</item>
+<item>
+<title>メキシコ国立自治大学、AI監督の試験で5万8000人が再受験</title>
+<link>https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html</guid>
+<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>メキシコ最大の大学で行われた初の完全リモート試験で、AI監督システムによる大失敗が発生しました。</description>
+</item>
+<item>
+<title>AWSのOSSでオントロジーをどう作るか</title>
+<link>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html</guid>
+<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AWSのオープンソースソフトウェア「Context Ontology Accelerator」を活用し、オントロジーをテーブルや文書から起こしてAIに業務知識を渡す手法が話題になっています。</description>
+</item>
+<item>
+<title>Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い</title>
+<link>https://ai-tech-times.web.app/articles/20260804-bending-spoons-to-buy-airtable.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260804-bending-spoons-to-buy-airtable.html</guid>
+<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>イタリアのIT企業であるBending Spoonsが、クラウド型データベース開発を手がけるAirtableを12.8億ドルで買収することが明らかになりました。</description>
+</item>
+<item>
 <title>Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ</title>
 <link>https://ai-tech-times.web.app/articles/20260804-netflix-lost-nicolas-cage-movie.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260804-netflix-lost-nicolas-cage-movie.html</guid>
@@ -211,37 +243,5 @@
 <pubDate>Tue, 04 Aug 2026 13:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>AIやドローンを活用した新しい戦い方に対応するため、防衛関係の生産・技術基盤を強化する重要性が強調されました。</description>
-</item>
-<item>
-<title>EU、AI製コンテンツの表示義務化ルールを開始</title>
-<link>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>欧州連合（EU）の「AI法」に基づく新たな透明性義務が8月2日に発効し、チャットボットやディープフェイクの識別が容易になるルールが導入されました。</description>
-</item>
-<item>
-<title>塩野義製薬、生成AIの正答率を50％から90％に高めた手法</title>
-<link>https://ai-tech-times.web.app/articles/20260804-shionogi-generative-ai-optimization.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-shionogi-generative-ai-optimization.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの導入が難しいとされる製薬業界において、塩野義製薬が機密データと大量の情報を最適化し、正答率を大幅に向上させました。</description>
-</item>
-<item>
-<title>専修大教授が解説する、AI融資の現場と資金調達の変化</title>
-<link>https://ai-tech-times.web.app/articles/20260804-ai-lending-finance-changes.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-ai-lending-finance-changes.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>融資の審査にAIを活用する動きが広がる中、資金を調達する企業にどのような変化が起きるのか。専修大学の尾木研三教授に話を聞きました。</description>
-</item>
-<item>
-<title>Horizon3、AI脅威の高まりで20億ドル評価に</title>
-<link>https://ai-tech-times.web.app/articles/20260804-horizon3-hits-2-billion-valuation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-horizon3-hits-2-billion-valuation.html</guid>
-<pubDate>Tue, 04 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>サイバーセキュリティスタートアップのHorizon3が、シリーズEラウンドで2億5000万ドルを資金調達し、企業価値が20億ドルに到達しました。</description>
 </item>
 </channel></rss>

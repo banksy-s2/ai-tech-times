@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 21:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,10 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、Apple提訴に反論したワケ](https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html) — 2026-08-04 21:02: 対話型AI「ChatGPT」を開発するOpenAIが、Appleの訴訟に対して公開書簡で反論しました。法的紛争の行方に注目が集まっています。
+- [メキシコ国立自治大学、AI監督の試験で5万8000人が再受験](https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html) — 2026-08-04 21:02: メキシコ最大の大学で行われた初の完全リモート試験で、AI監督システムによる大失敗が発生しました。
+- [AWSのOSSでオントロジーをどう作るか](https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html) — 2026-08-04 21:02: AWSのオープンソースソフトウェア「Context Ontology Accelerator」を活用し、オントロジーをテーブルや文書から起こしてAIに業務知識を渡す手法が話題になっています。
+- [Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い](https://ai-tech-times.web.app/articles/20260804-bending-spoons-to-buy-airtable.html) — 2026-08-04 21:02: イタリアのIT企業であるBending Spoonsが、クラウド型データベース開発を手がけるAirtableを12.8億ドルで買収することが明らかになりました。
 - [Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ](https://ai-tech-times.web.app/articles/20260804-netflix-lost-nicolas-cage-movie.html) — 2026-08-04 20:00: 動画配信大手Netflixが、ニコラス・ケイジ氏が主演する未公開映画のマスターコピーを紛失したとして、巨額の損害賠償を求められています。映画の商品価値が失われたとしてプロデューサーが提訴しました。
 - [AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合](https://ai-tech-times.web.app/articles/20260804-aws-superblocks-private-cloud.html) — 2026-08-04 19:01: AWSは、バイブコーディングツールを手がけるSuperblocksを顧客のプライベートクラウドに組み込めるようにしました。この動きが示すアプリとモデルの分離への影響についてお伝えします。
 - [SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ](https://ai-tech-times.web.app/articles/20260804-spacex-acquires-louisiana-marshland.html) — 2026-08-04 19:01: 米宇宙企業SpaceXが、南部ルイジアナ州で広大な土地の取得を進めています。新たな発射サイトの開設に向けた動きとみられています。
@@ -38,21 +42,17 @@
 - [米、名古屋領事館含む5在外公館閉鎖計画か](https://ai-tech-times.web.app/articles/20260804-us-state-department-nagoya-consulate-closure-plan.html) — 2026-08-04 17:17: アメリカ国務省が、日本の名古屋市にある領事館を含む、合計5つの在外公館を閉鎖する計画を議会に通知したと、ロイター通信が報じました。この計画は、当時のトランプ政権が進めていた組織改革の一環であるとされています。
 - [米国が円買い介入、ドル円164円から157円台へ急落](https://ai-tech-times.web.app/articles/20260804-us-yen-intervention-dollar-yen-plunges.html) — 2026-08-04 17:17: 7月31日のニューヨーク外為市場で、米国による円買い介入が行われた模様です。これに先立つ日本による為替介入と合わせ、ドル円レートは一時164円を突破する直前の水準から157円台まで急落しました。
 - [ASML時価総額首位に影響か、中国がDUV露光装置量産](https://ai-tech-times.web.app/articles/20260804-china-duv-lithography-asml-impact.html) — 2026-08-04 17:17: 中国の半導体関連企業が、先端半導体製造に不可欠な国産の液浸深紫外（DUV）露光装置の量産を開始しました。この動きは、欧州の上場企業で時価総額首位に浮上したオランダの半導体製造装置メーカーASMLに影響を与える可能性を秘めています。
-- [日本製紙、煙突倒壊で9人死亡の工場事故を受け5日に社長会見へ](https://ai-tech-times.web.app/articles/20260804-nippon-paper-press-conference-kumamoto-earthquake.html) — 2026-08-04 17:17: 日本製紙は、熊本県八代市の工場で起きた地震被害に関して、5日に現地で社長らによる記者会見を実施すると発表しました。先月28日に発生した地震では煙突が倒壊するなどの被害が生じ、9人が死亡しています。
-- [小学館、社長ら26人が役員報酬を自主返納した理由](https://ai-tech-times.web.app/articles/20260804-shogakukan-executive-remuneration-return.html) — 2026-08-04 17:17: 大手出版社の小学館は4日、社長ら役員26人が役員報酬の一部を自主返納すると発表しました。同社が運営する漫画アプリの編集部において、性加害事件を起こして連載中止となった漫画家を別のペンネームで再び起用していた問題を受け、経営責任を明確にする措置となります。
-- [Palantir CEO、10億ドル利益達成もAIフロンティアラボの信頼性に警鐘](https://ai-tech-times.web.app/articles/20260804-palantir-ceo-warns-ai-frontier-labs-untrustworthy.html) — 2026-08-04 16:05: データ分析企業PalantirのCEOであるアレックス・カープ氏が、四半期で10億ドルの利益を達成した好調な業績にもかかわらず、AIフロンティアラボの信頼性について企業に対し警告を発しました。この発言は、AI技術の導入を検討する企業にとって重要な示唆を与えています。
-- [OpenAI初の豪華旅行に批判殺到、なぜ今？](https://ai-tech-times.web.app/articles/20260804-openai-influencer-trip-backlash.html) — 2026-08-04 16:05: AI開発企業OpenAIが初めて実施したインフルエンサー向けのブランド旅行が、オンライン上で大きな反発を招いています。AI技術の利用を巡る社会的な緊張が続く中で行われたこの企画は、波紋を広げています。
 
 ## 世界のバズ動画TOP3 (2026-08-04)
-- 1位: [Red Velvet 레드벨벳 'Surfin' Boy' MV](https://www.youtube.com/watch?v=NZP153MUpHY)
-- 2位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
+- 1位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
+- 2位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 3位: [i love mondays](https://www.youtube.com/watch?v=qCPMuBhsCs0)
 
-## AI用語事典 (全654語 / https://ai-tech-times.web.app/term/)
-- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
+## AI用語事典 (全657語 / https://ai-tech-times.web.app/term/)
+- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
@@ -62,8 +62,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): アメリカの企業で、機械学習モデルやデータセットを共有するプラットフォームを運営し、AI開発者から広く利用されている。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車やクリーンエネルギー製品の開発・販売を手がける自動車メーカー。
@@ -73,12 +73,12 @@
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
+- [AWSとは](https://ai-tech-times.web.app/term/aws.html): 米アマゾン・ドット・コムが提供する世界最大手のクラウドコンピューティングサービス。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリや半導体製品の開発・製造を手がける日本の大手半導体企業。
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディア。東洋経済新報社が運営する。
 - [GPT-5.6とは](https://ai-tech-times.web.app/term/gpt-5-6.html): OpenAIが提供するAIモデルファミリー。LunaやTerraなどの派生モデルが存在する。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ティム・クックとは](https://ai-tech-times.web.app/term/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF.html): 米アップルの最高経営責任者（CEO）。故スティーブ・ジョブズ氏の後任として2011年から同社を率いる。
-- [PayPayとは](https://ai-tech-times.web.app/term/paypay.html): ソフトバンクグループ傘下の日本の大手スマホ決済サービス事業者で、コード決済などを展開する。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
