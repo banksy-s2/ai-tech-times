@@ -951,7 +951,11 @@
   "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
   "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
   "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-  "https://gigazine.net/news/20260804-netflix-lost-nicolas-cage-movie/"
+  "https://gigazine.net/news/20260804-netflix-lost-nicolas-cage-movie/",
+  "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+  "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/",
+  "https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce",
+  "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2839,6 +2843,14 @@
   "AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合",
   "SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ",
   "Netflixが未公開のニコラス・ケイジ主演映画を紛失したとして約160億円の損害賠償を求められる",
-  "Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ"
+  "Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ",
+  "OpenAI drags Apple’s lawsuit into the court of public opinion",
+  "AI監督のリモート試験が大失敗に終わり5万8000人の学生が再受験する羽目に",
+  "オントロジーは「先に決める」か「データから起こす」か",
+  "Bending Spoons to buy Airtable for $1.28B",
+  "OpenAI、Apple提訴に反論したワケ",
+  "メキシコ国立自治大学、AI監督の試験で5万8000人が再受験",
+  "AWSのOSSでオントロジーをどう作るか",
+  "Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い"
  ]
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-04 21:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Redditに押し寄せるAI SEOスパムの正体](https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html) — 2026-08-05 00:01: 掲示板サイトのRedditにおいて、AI技術を悪用した新たなSEOスパムが深刻な問題となっています。日常的なユーザーの投稿に巧妙に紛れ込む事例が報告されました。
+- [Runware、持ち運べるモジュラー型データセンター開発](https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html) — 2026-08-05 00:01: AIインフラ企業Runwareが、移動可能なモジュラー型データセンター「Sonic Inference Pod」を発表しました。データの処理拠点における未来のあり方を模索します。
 - [OpenAI、Apple提訴に反論したワケ](https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html) — 2026-08-04 21:02: 対話型AI「ChatGPT」を開発するOpenAIが、Appleの訴訟に対して公開書簡で反論しました。法的紛争の行方に注目が集まっています。
 - [メキシコ国立自治大学、AI監督の試験で5万8000人が再受験](https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html) — 2026-08-04 21:02: メキシコ最大の大学で行われた初の完全リモート試験で、AI監督システムによる大失敗が発生しました。
 - [AWSのOSSでオントロジーをどう作るか](https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html) — 2026-08-04 21:02: AWSのオープンソースソフトウェア「Context Ontology Accelerator」を活用し、オントロジーをテーブルや文書から起こしてAIに業務知識を渡す手法が話題になっています。
@@ -40,15 +42,13 @@
 - [【親の七光か】脱税判決の宮崎被告、父の後見人就任に批判](https://ai-tech-times.web.app/articles/20260804-influencer-miyazaki-tax-evasion-criticism.html) — 2026-08-04 17:17: インフルエンサーとして活動する宮崎被告が、脱税の罪で執行猶予付きの判決を受けました。その中で、元国会議員である自身の父親の「後見人」に就任したとの報道が浮上し、世間からは「すごい親の七光」といった厳しい批判の声が上がっています。
 - [ビジネスパーソン必見！NHK「おはBiz」の最新トレンド](https://ai-tech-times.web.app/articles/20260804-nhk-ohabiz-business-trends.html) — 2026-08-04 17:17: NHKが平日朝に放送する経済ニュースコーナー「おはBiz」は、多忙なビジネスパーソンに向けて、最新のビジネストレンドや働き方に関する情報をコンパクトに提供しています。
 - [米、名古屋領事館含む5在外公館閉鎖計画か](https://ai-tech-times.web.app/articles/20260804-us-state-department-nagoya-consulate-closure-plan.html) — 2026-08-04 17:17: アメリカ国務省が、日本の名古屋市にある領事館を含む、合計5つの在外公館を閉鎖する計画を議会に通知したと、ロイター通信が報じました。この計画は、当時のトランプ政権が進めていた組織改革の一環であるとされています。
-- [米国が円買い介入、ドル円164円から157円台へ急落](https://ai-tech-times.web.app/articles/20260804-us-yen-intervention-dollar-yen-plunges.html) — 2026-08-04 17:17: 7月31日のニューヨーク外為市場で、米国による円買い介入が行われた模様です。これに先立つ日本による為替介入と合わせ、ドル円レートは一時164円を突破する直前の水準から157円台まで急落しました。
-- [ASML時価総額首位に影響か、中国がDUV露光装置量産](https://ai-tech-times.web.app/articles/20260804-china-duv-lithography-asml-impact.html) — 2026-08-04 17:17: 中国の半導体関連企業が、先端半導体製造に不可欠な国産の液浸深紫外（DUV）露光装置の量産を開始しました。この動きは、欧州の上場企業で時価総額首位に浮上したオランダの半導体製造装置メーカーASMLに影響を与える可能性を秘めています。
 
-## 世界のバズ動画TOP3 (2026-08-04)
+## 世界のバズ動画TOP3 (2026-08-05)
 - 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 2位: [BABYMONSTER - 'MOON' M/V](https://www.youtube.com/watch?v=xXZwZ0DolJc)
 - 3位: [The Search For The Leviathan](https://www.youtube.com/watch?v=izNezNuv9sU)
 
-## AI用語事典 (全657語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全658語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

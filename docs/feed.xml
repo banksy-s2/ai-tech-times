@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Redditに押し寄せるAI SEOスパムの正体</title>
+<link>https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html</guid>
+<pubDate>Wed, 05 Aug 2026 00:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>掲示板サイトのRedditにおいて、AI技術を悪用した新たなSEOスパムが深刻な問題となっています。日常的なユーザーの投稿に巧妙に紛れ込む事例が報告されました。</description>
+</item>
+<item>
+<title>Runware、持ち運べるモジュラー型データセンター開発</title>
+<link>https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html</guid>
+<pubDate>Wed, 05 Aug 2026 00:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIインフラ企業Runwareが、移動可能なモジュラー型データセンター「Sonic Inference Pod」を発表しました。データの処理拠点における未来のあり方を模索します。</description>
+</item>
+<item>
 <title>OpenAI、Apple提訴に反論したワケ</title>
 <link>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 04 Aug 2026 14:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>証券取引等監視委員会が、他人名義の口座を使った夫婦によるインサイダー取引を摘発しました。他人名義での売買であってもすぐに特定される実態が浮き彫りになっています。</description>
-</item>
-<item>
-<title>トランプ米大統領がイランと直接協議を主張、なぜ意見が対立しているのか</title>
-<link>https://ai-tech-times.web.app/articles/20260804-trump-iran-negotiations.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-trump-iran-negotiations.html</guid>
-<pubDate>Tue, 04 Aug 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>イラン情勢をめぐり、イラン側がアメリカとの直接協議を否定する一方、アメリカのトランプ大統領は3日に協議が行われていると主張しました。</description>
-</item>
-<item>
-<title>防衛白書、AI活用で産業基盤強化へ</title>
-<link>https://ai-tech-times.web.app/articles/20260804-defense-white-paper-ai-technology.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-defense-white-paper-ai-technology.html</guid>
-<pubDate>Tue, 04 Aug 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>AIやドローンを活用した新しい戦い方に対応するため、防衛関係の生産・技術基盤を強化する重要性が強調されました。</description>
 </item>
 </channel></rss>

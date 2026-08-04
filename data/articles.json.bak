@@ -32766,5 +32766,156 @@
   "date": "2026-08-04",
   "time": "20:00",
   "path": "/articles/20260804-netflix-lost-nicolas-cage-movie.html"
+ },
+ {
+  "title": "OpenAI、Apple提訴に反論したワケ",
+  "lead": "対話型AI「ChatGPT」を開発するOpenAIが、Appleの訴訟に対して公開書簡で反論しました。法的紛争の行方に注目が集まっています。",
+  "summary3": [
+   "OpenAIがAppleを批判",
+   "貿易秘密の窃盗をめぐる訴訟",
+   "iMessageなどを公開"
+  ],
+  "body": [
+   "「ChatGPT」の開発元であるOpenAIは、Appleによる提訴を受けて公開されたブログ記事の中で、Appleの主張に対して真っ向から反論を行いました。",
+   "AppleはOpenAIに対して貿易秘密を盗んだとして訴訟を起こしていましたが、OpenAI側はこれを「不注意で、攻撃的であり、奇妙に個人的なものだ」と非難しています。",
+   "さらに、OpenAI側は自身の主張を裏付けるためにiMessageや電子メールのやり取りを公開するなど、世論を巻き込んだ泥沼の展開を見せています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Apple",
+   "ChatGPT"
+  ],
+  "slug": "openai-blog-response-apple-lawsuit",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアからOS、サービスまで幅広く手がけるアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話が可能な最先端の人工知能チャットボットモデルおよびサービスです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+  "category": "ai",
+  "date": "2026-08-04",
+  "time": "21:02",
+  "path": "/articles/20260804-openai-blog-response-apple-lawsuit.html"
+ },
+ {
+  "title": "メキシコ国立自治大学、AI監督の試験で5万8000人が再受験",
+  "lead": "メキシコ最大の大学で行われた初の完全リモート試験で、AI監督システムによる大失敗が発生しました。",
+  "summary3": [
+   "メキシコ国立自治大学で初の完全リモート試験を実施",
+   "AI監督が大失敗し5万8000人が再受験の事態に",
+   "約16万人が受験したものの悲惨な結果となった"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。2026年夏、メキシコ最大の大学であるメキシコ国立自治大学において、大規模な入学試験が実施されました。この試験には約16万人の学生が受験し、注目を集めました。",
+   "今回の試験では、同大学の歴史上初となる「完全リモートでの試験」が導入されました。しかし、AIによる監督システムに問題が生じるなどして大失敗に終わり、結果として5万8000人もの学生が再受験しなければいけないという悲惨な事態に発展しました。",
+   "リモート環境における試験の実施やAI監督の活用は利便性が期待される一方で、システムトラブルなどのリスクも浮き彫りとなりました。大規模な試験におけるAI導入の課題を示す事例として、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI監督",
+   "リモート試験",
+   "メキシコ国立自治大学"
+  ],
+  "slug": "ai-supervised-exam-mexico-58000-retake",
+  "people": [],
+  "terms": [
+   {
+    "name": "メキシコ国立自治大学",
+    "type": "company",
+    "desc": "メキシコ最大規模を誇る歴史ある大学であり、多くの学生が在籍している。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "21:02",
+  "path": "/articles/20260804-ai-supervised-exam-mexico-58000-retake.html"
+ },
+ {
+  "title": "AWSのOSSでオントロジーをどう作るか",
+  "lead": "AWSのオープンソースソフトウェア「Context Ontology Accelerator」を活用し、オントロジーをテーブルや文書から起こしてAIに業務知識を渡す手法が話題になっています。",
+  "summary3": [
+   "AWSのOSSを使ったオントロジー活用が話題",
+   "テーブル等から起こし人が確認して使用",
+   "部署ごとの意味のズレが誤拡散の原因"
+  ],
+  "body": [
+   "オントロジーでAIに業務知識を渡す仕組みとして、AWSのOSS「Context Ontology Accelerator」を試してみたという話題が注目を集めています。この手法では、オントロジーをテーブルや文書から起こし、提案を人が確認して使うというフローになっています。",
+   "しかし現場では、部署ごとに「売上」の意味が違うといった課題があります。その結果、AIエージェントが誤った数字をすぐに拡散してしまう問題が生じており、その原因の一つとしてオントロジーのあり方が挙げられています。",
+   "オントロジーを「先に決める」のか「データから起こす」のかという選択やアプローチについて、現場での活用を見据えた議論や検証が進められています。"
+  ],
+  "tags": [
+   "AWS",
+   "オントロジー",
+   "AI"
+  ],
+  "slug": "aws-context-ontology-accelerator",
+  "people": [],
+  "terms": [
+   {
+    "name": "AWS",
+    "type": "company",
+    "desc": "米アマゾン・ドット・コムが提供する世界最大手のクラウドコンピューティングサービス。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce",
+  "category": "ai_jp",
+  "date": "2026-08-04",
+  "time": "21:02",
+  "path": "/articles/20260804-aws-context-ontology-accelerator-2.html"
+ },
+ {
+  "title": "Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い",
+  "lead": "イタリアのIT企業であるBending Spoonsが、クラウド型データベース開発を手がけるAirtableを12.8億ドルで買収することが明らかになりました。",
+  "summary3": [
+   "Bending Spoonsが買収を発表",
+   "買収額は12億8000万ドル規模",
+   "2021年のピークから評価額が下落"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、IT企業であるBending Spoonsが、データ管理ツールを提供するAirtableを12億8000万ドルで買収する計画を進めていることがわかりました。今回の買収額は、近年の市場環境や評価額の変化を反映した金額となっています。",
+   "Airtableは2021年の全盛期には110億ドルを超える企業価値評価を受けていましたが、今年に入ってからのセカンダリー市場における株式の取引では、評価額がおよそ40億ドル規模まで低下していると伝えられていました。",
+   "ピーク時の高い評価額から一転して評価額が下落する中での大型買収となり、今後のビジネス展開や統合の行方に注目が集まっています。両社の動向については、引き続き最新の情報を確認していく必要があります。"
+  ],
+  "tags": [
+   "買収",
+   "データベース",
+   "ITビジネス"
+  ],
+  "slug": "bending-spoons-to-buy-airtable",
+  "people": [],
+  "terms": [
+   {
+    "name": "Bending Spoons",
+    "type": "company",
+    "desc": "イタリアを拠点に様々なソフトウェア製品の開発や買収を手がけているテクノロジー企業です。"
+   },
+   {
+    "name": "Airtable",
+    "type": "company",
+    "desc": "スプレッドシートの柔軟性とデータベースの機能を兼ね備えたクラウド型ツールを提供する企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+  "category": "silicon",
+  "date": "2026-08-04",
+  "time": "21:02",
+  "path": "/articles/20260804-bending-spoons-to-buy-airtable.html"
  }
 ]
