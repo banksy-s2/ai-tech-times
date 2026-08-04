@@ -33226,5 +33226,39 @@
   "date": "2026-08-05",
   "time": "05:00",
   "path": "/articles/20260805-caterpillar-earnings-ai-investment.html"
+ },
+ {
+  "title": "【6981.T】売上収益5,023億円で過去最高、なぜAIサーバー需要が牽引したのか",
+  "lead": "AI TECH TIMESがお伝えする企業の最新決算情報。6981.TのFY2026 Q1決算説明会にて、売上収益が過去最高を記録し、通期予想上方修正の背景が明らかになりました。",
+  "summary3": [
+   "売上収益は5,023億円で過去最高を記録",
+   "通期予想を2兆1,100億円へ上方修正",
+   "AIサーバー向け部品需要が業績を牽引"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、6981.TはFY2026 Q1の決算説明会を実施しました。当期の売上収益は5,023億円となり、四半期として過去最高を達成しています。",
+   "この好業績を牽引したのは、AIサーバー向け部品の堅調な需要です。足元での引き合いの強さを背景に、企業側は通期の売上収益予想を2兆1,100億円へと上方修正しました。",
+   "市場の関心が集まる中、AI関連技術の普及に伴う電子部品需要の取り込みが、同社の収益基盤をさらに強固なものにしていることが今回の発表で示されました。"
+  ],
+  "tags": [
+   "決算",
+   "AIサーバー",
+   "業績修正"
+  ],
+  "slug": "6981t-fy2026-q1-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "6981.T",
+    "type": "company",
+    "desc": "電子部品やセラミック製品などを手掛け、グローバルに事業を展開する日本の代表的な大手製造業の銘柄コード。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51YWRMOVFrWXIyWGxWemhYcGt1cFAxR2FYTlZ3cHk1UVhJZ3lnVm1fQUtvQzNQMUdxanJSNHhucy1aQ2M3X00xMXc0U3d4NlZWemgySC1mYmlidjd3TVNV?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-05",
+  "time": "06:00",
+  "path": "/articles/20260805-6981t-fy2026-q1-earnings.html"
  }
 ]
