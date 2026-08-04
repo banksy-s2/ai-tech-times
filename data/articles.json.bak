@@ -33052,5 +33052,78 @@
   "date": "2026-08-05",
   "time": "01:00",
   "path": "/articles/20260805-design-industry-bankruptcy-increase-2026.html"
+ },
+ {
+  "title": "アマゾン、独占禁止法違反で提訴される",
+  "lead": "米ニュージャージー州がアマゾンを独占禁止法違反で提訴しました。サードパーティの配送モデルにおける市場支配力の行使が問題視されています。",
+  "summary3": [
+   "アマゾンが独占禁止法違反で提訴される",
+   "サードパーティ配送モデルが問題視",
+   "低賃金や労働条件の悪化を指摘"
+  ],
+  "body": [
+   "CNBC Techの報道によると、米ニュージャージー州は、巨大テック企業のアマゾンに対して独占禁止法違反で提訴を行いました。訴状では、同社が配送業者に対して不当にその市場支配力を行使したと主張されています。",
+   "今回の訴訟の焦点となっているのは、アマゾンのサードパーティ配送モデルです。この配送モデルの運用が、結果として低い賃金や不公正な労働環境を招いており、さらに市場における競争の欠如を引き起こしていると指摘されています。",
+   "アマゾンは世界的な大企業として知られていますが、今回の法的措置によってその配送システムや労働管理のあり方が改めて問われることになります。今後の司法判断や市場への影響に注目が集まっています。"
+  ],
+  "tags": [
+   "アマゾン",
+   "独占禁止法",
+   "裁判"
+  ],
+  "slug": "amazon-antitrust-lawsuit-new-jersey",
+  "people": [],
+  "terms": [
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする世界最大級の電子商取引やクラウドサービスを手がける企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "02:00",
+  "path": "/articles/20260805-amazon-antitrust-lawsuit-new-jersey.html"
+ },
+ {
+  "title": "巨大テックのAI投資益、企業の決算をゆがめる理由",
+  "lead": "米CNBC Techは、巨大テック企業によるプライベートAI企業への投資益を除外すると、企業の決算が実際よりも強気に見えなくなると報じました。",
+  "summary3": [
+   "巨大テック企業のAI投資益が注目される",
+   "アンソロピック等の投資益が決算をゆがめる",
+   "利益を除外すると決算の強気さが薄れる"
+  ],
+  "body": [
+   "米CNBC Techは、巨大テック企業が保有するAI関連企業への出資益が、企業の業績全体の見え方をゆがめていると報じました。 AnthropicやOpenAIといったプライベートAI企業への巨額な投資による利益が、企業の決算を実際よりも非常に強気に演出している実態が浮かび上がっています。",
+   "もし、これら巨大テックによるAI企業からの投資益をすべて除外して計算し直した場合、企業の実際の収益の物語は大きく異なるものになります。AIブームを背景とした見かけ上の好業績と、実際の事業による稼ぎの間には乖離が生じている可能性が指摘されています。",
+   "株式市場や投資家にとって、AI関連の投資が企業の財務諸表にどのような影響を与えているかを正確に見極めることが、今後の企業分析において重要になりそうです。"
+  ],
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "企業決算"
+  ],
+  "slug": "big-techs-ai-stakes-distort-corporate-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能企業であり、対話型AI「Claude」などを開発していることで広く知られています。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究開発企業であり、生成AI「ChatGPT」などを手掛けています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "02:00",
+  "path": "/articles/20260805-big-techs-ai-stakes-distort-corporate-earnings.html"
  }
 ]
