@@ -33727,5 +33727,44 @@
   "date": "2026-08-05",
   "time": "10:00",
   "path": "/articles/20260805-apple-encrypted-data-legal-challenge-uk.html"
+ },
+ {
+  "title": "YouTuberヒカル明治座で初公演、オチの告白とは",
+  "lead": "YouTuberのヒカルさんが立川さぎ志として明治座で初公演を行い、ステージのオチで「全部ウソです！」と告白しました。",
+  "summary3": [
+   "YouTuberヒカルが明治座で初公演",
+   "オチで「全部ウソです！」と告白",
+   "「まんじゅうこわい」などを披露"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする注目のニュースです。YouTuberのヒカルさんが“立川さぎ志”として、明治座で初公演を開催しました。",
+   "ステージでは「猫の皿」や「芝浜」といった古典的な演目を披露しました。さらに「まんじゅうこわい」を通じて、YouTube界の“化かし合い”を投影した表現を見せています。",
+   "そして公演のオチでは「全部ウソです！」と告白し、会場を大きく沸かせました。今後の活動や展開にも引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "ヒカル",
+   "明治座",
+   "YouTube"
+  ],
+  "slug": "hikaru-meijiza-debut",
+  "people": [
+   {
+    "name": "ヒカル",
+    "bio": "多くの登録者を持つ日本の人気YouTuberで、様々な企画やビジネスを手がける。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "明治座",
+    "type": "company",
+    "desc": "東京都中央区に位置する、歴史ある老舗の劇場・興行会社。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNWZqMjdXNEhUVUhhVnFHOWlRdGpvbXRhYVprY2duN0FpVkdKbEVIVEZ1WHpmTXJ3TG1rMEVqaDVfZHFCbUtjcXlxaHRGOWt1WGtpc24zNWpIY2NCVUEwOUZsUWpyOVBtc1h0SDBDR0tFT0pPbkNxRXBEUlcxQ1U?oc=5",
+  "category": "influencer",
+  "date": "2026-08-05",
+  "time": "11:00",
+  "path": "/articles/20260805-hikaru-meijiza-debut.html"
  }
 ]

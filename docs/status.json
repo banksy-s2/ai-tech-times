@@ -1,21 +1,65 @@
 {
- "updated": "2026-08-05 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-05 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "YouTuberヒカル明治座で初公演、オチの告白とは",
-   "path": "/articles/20260805-hikaru-meijiza-debut.html",
-   "cat": "インフルエンサー"
+   "title": "Z.aiの開放型AIがフロンティアに肉薄、残る安全性の課題とは",
+   "path": "/articles/20260805-zai-glm52-safety-gap.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "イーロン・マスク氏、テスラ決算で半分をロボットとAIの話題に費やす理由",
+   "path": "/articles/20260805-musk-spends-half-time-on-robots-and-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "npmで20億回超のパッケージが侵害、どう対処すべきか",
+   "path": "/articles/20260805-npm-supply-chain-attack-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ワールドのAI服、なぜ完売したのか",
+   "path": "/articles/20260805-world-ai-fashion-brand.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Lucidが14億ドルの削減とロボタクシー戦略を発表",
+   "path": "/articles/20260805-lucid-turnaround-plan-1-4b-savings.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ロシア物流倉庫にウクライナ攻撃、被害総額6600億円か",
+   "path": "/articles/20260805-ukraine-russia-warehouse-attack.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "マルコ・ルビオ米国務長官らが示唆、ホルムズ海峡の再開へ向け進展する理由",
+   "path": "/articles/20260805-oil-prices-fall-strait-of-hormuz.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均一時2200円超上昇、米国市場受け",
+   "path": "/articles/20260805-nikkei-average-rises-over-2200-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "マツダ売上高1兆2857億円、関税の逆風を越えてV字回復した裏側",
+   "path": "/articles/20260805-mazda-financial-results-v-shape-recovery.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: An AI-supervised remote exam went so bad",
+  "執筆失敗: 「ぶつかりながら走り抜けた」ベントレー乗り捨て逃走 韓国籍で自称インフルエンサー",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 6,
  "gemini": {
-  "used": 70,
+  "used": 98,
   "limit": 200
  }
 }

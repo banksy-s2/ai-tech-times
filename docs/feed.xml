@@ -5,6 +5,78 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Z.aiの開放型AIがフロンティアに肉薄、残る安全性の課題とは</title>
+<link>https://ai-tech-times.web.app/articles/20260805-zai-glm52-safety-gap.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-zai-glm52-safety-gap.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>新しいSaferAIのレポートにより、Z.aiのオープンウェイトモデル「GLM-5.2」が最先端のAI能力に迫る一方で、重要な安全対策が不足していることが明らかになりました。</description>
+</item>
+<item>
+<title>イーロン・マスク氏、テスラ決算で半分をロボットとAIの話題に費やす理由</title>
+<link>https://ai-tech-times.web.app/articles/20260805-musk-spends-half-time-on-robots-and-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-musk-spends-half-time-on-robots-and-ai.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>テスラの過去7年間の決算説明会を分析したところ、イーロン・マスク氏が主力の自動車事業にいかに注意を払っていないかが明らかになりました。</description>
+</item>
+<item>
+<title>npmで20億回超のパッケージが侵害、どう対処すべきか</title>
+<link>https://ai-tech-times.web.app/articles/20260805-npm-supply-chain-attack-2026.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-npm-supply-chain-attack-2026.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>JavaScript向けパッケージ管理サービスの「npm」において、大規模なサプライチェーン攻撃が発生し、数百個のパッケージにマルウェアが混入しました。</description>
+</item>
+<item>
+<title>ワールドのAI服、なぜ完売したのか</title>
+<link>https://ai-tech-times.web.app/articles/20260805-world-ai-fashion-brand.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-world-ai-fashion-brand.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>アパレル大手のワールドが、生成AIを全面的に起用した新ブランド「OO（オーオー）」を立ち上げました。当初は酷評されたAIデザイナーの服が、完売する商品を生み出した理由に迫ります。</description>
+</item>
+<item>
+<title>Lucidが14億ドルの削減とロボタクシー戦略を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260805-lucid-turnaround-plan-1-4b-savings.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-lucid-turnaround-plan-1-4b-savings.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国の電気自動車メーカーLucidは、新最高経営責任者（CEO）の下で大規模な経営立て直し計画を明らかにしました。14億ドルの現金節約やロボタクシーへの参入など、4つの重要優先事項を掲げています。</description>
+</item>
+<item>
+<title>ロシア物流倉庫にウクライナ攻撃、被害総額6600億円か</title>
+<link>https://ai-tech-times.web.app/articles/20260805-ukraine-russia-warehouse-attack.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-ukraine-russia-warehouse-attack.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>ロシアではウクライナによる攻撃でネット通販最大手の物流倉庫が大きな被害を受け、巨額の損失が発生しています。今後、ロシア経済への影響が懸念されています。</description>
+</item>
+<item>
+<title>マルコ・ルビオ米国務長官らが示唆、ホルムズ海峡の再開へ向け進展する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260805-oil-prices-fall-strait-of-hormuz.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-oil-prices-fall-strait-of-hormuz.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>ホルムズ海峡の再開に向けた出荷再開の協議が進展したことを受け、原油価格が下落しました。</description>
+</item>
+<item>
+<title>日経平均一時2200円超上昇、米国市場受け</title>
+<link>https://ai-tech-times.web.app/articles/20260805-nikkei-average-rises-over-2200-yen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-nikkei-average-rises-over-2200-yen.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>朝日新聞の報道によると、日経平均株価が一時2200円を超える大幅な上昇を記録しました。米国市場の流れを受けた動きとなっています。</description>
+</item>
+<item>
+<title>マツダ売上高1兆2857億円、関税の逆風を越えてV字回復した裏側</title>
+<link>https://ai-tech-times.web.app/articles/20260805-mazda-financial-results-v-shape-recovery.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-mazda-financial-results-v-shape-recovery.html</guid>
+<pubDate>Wed, 05 Aug 2026 12:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>マツダの2026年4～6月期の売上高は前年同期比17％増の1兆2857億円となり、第1四半期として過去最高を更新しました。</description>
+</item>
+<item>
 <title>YouTuberヒカル明治座で初公演、オチの告白とは</title>
 <link>https://ai-tech-times.web.app/articles/20260805-hikaru-meijiza-debut.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260805-hikaru-meijiza-debut.html</guid>
@@ -171,77 +243,5 @@
 <pubDate>Wed, 05 Aug 2026 02:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米CNBC Techは、巨大テック企業によるプライベートAI企業への投資益を除外すると、企業の決算が実際よりも強気に見えなくなると報じました。</description>
-</item>
-<item>
-<title>サカナAI案も浮上、自衛隊が米軍AIを導入する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260805-sdf-us-ai-integration.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-sdf-us-ai-integration.html</guid>
-<pubDate>Wed, 05 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>政府は自衛隊の部隊の指揮統制に米国製のAIシステムを導入する検討に入りました。日米で統合運用を強め、意思決定の差を埋める狙いです。</description>
-</item>
-<item>
-<title>東京商工リサーチ：デザイン業倒産が前年比2.7倍に急増</title>
-<link>https://ai-tech-times.web.app/articles/20260805-design-industry-bankruptcy-increase-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-design-industry-bankruptcy-increase-2026.html</guid>
-<pubDate>Wed, 05 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>東京商工リサーチが8月2日に発表したデータによると、グラフィックデザインやインテリアデザインを手掛ける「デザイン業」の倒産が前年同期比166.6％増と急増しています。</description>
-</item>
-<item>
-<title>Redditに押し寄せるAI SEOスパムの正体</title>
-<link>https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-reddit-fend-off-ai-seo-spam.html</guid>
-<pubDate>Wed, 05 Aug 2026 00:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>掲示板サイトのRedditにおいて、AI技術を悪用した新たなSEOスパムが深刻な問題となっています。日常的なユーザーの投稿に巧妙に紛れ込む事例が報告されました。</description>
-</item>
-<item>
-<title>Runware、持ち運べるモジュラー型データセンター開発</title>
-<link>https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-runware-sonic-inference-pod.html</guid>
-<pubDate>Wed, 05 Aug 2026 00:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIインフラ企業Runwareが、移動可能なモジュラー型データセンター「Sonic Inference Pod」を発表しました。データの処理拠点における未来のあり方を模索します。</description>
-</item>
-<item>
-<title>OpenAI、Apple提訴に反論したワケ</title>
-<link>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-openai-blog-response-apple-lawsuit.html</guid>
-<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>対話型AI「ChatGPT」を開発するOpenAIが、Appleの訴訟に対して公開書簡で反論しました。法的紛争の行方に注目が集まっています。</description>
-</item>
-<item>
-<title>メキシコ国立自治大学、AI監督の試験で5万8000人が再受験</title>
-<link>https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-ai-supervised-exam-mexico-58000-retake.html</guid>
-<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>メキシコ最大の大学で行われた初の完全リモート試験で、AI監督システムによる大失敗が発生しました。</description>
-</item>
-<item>
-<title>AWSのOSSでオントロジーをどう作るか</title>
-<link>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-aws-context-ontology-accelerator-2.html</guid>
-<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AWSのオープンソースソフトウェア「Context Ontology Accelerator」を活用し、オントロジーをテーブルや文書から起こしてAIに業務知識を渡す手法が話題になっています。</description>
-</item>
-<item>
-<title>Airtableを12.8億ドルで買収へ、Bending Spoonsの狙い</title>
-<link>https://ai-tech-times.web.app/articles/20260804-bending-spoons-to-buy-airtable.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-bending-spoons-to-buy-airtable.html</guid>
-<pubDate>Tue, 04 Aug 2026 21:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>イタリアのIT企業であるBending Spoonsが、クラウド型データベース開発を手がけるAirtableを12.8億ドルで買収することが明らかになりました。</description>
-</item>
-<item>
-<title>Netflix未公開のニコラス・ケイジ主演映画を紛失、約160億円賠償請求へ</title>
-<link>https://ai-tech-times.web.app/articles/20260804-netflix-lost-nicolas-cage-movie.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-netflix-lost-nicolas-cage-movie.html</guid>
-<pubDate>Tue, 04 Aug 2026 20:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>動画配信大手Netflixが、ニコラス・ケイジ氏が主演する未公開映画のマスターコピーを紛失したとして、巨額の損害賠償を求められています。映画の商品価値が失われたとしてプロデューサーが提訴しました。</description>
 </item>
 </channel></rss>

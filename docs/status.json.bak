@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-05 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-05 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "テキサス州が新規データセンターを停止、知事が監査を要求",
-   "path": "/articles/20260805-texas-halts-new-data-centers-as-governor-calls-for-audits.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Apple、英暗号データ要求で法的闘争へ",
-   "path": "/articles/20260805-apple-encrypted-data-legal-challenge-uk.html",
-   "cat": "シリコンバレー最速"
+   "title": "YouTuberヒカル明治座で初公演、オチの告白とは",
+   "path": "/articles/20260805-hikaru-meijiza-debut.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 66,
+  "used": 70,
   "limit": 200
  }
 }
