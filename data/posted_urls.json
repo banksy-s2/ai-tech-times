@@ -1021,11 +1021,10 @@
   "https://www.jiji.com/jc/article?k=2026080400781&g=pol",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JWUplblVvVnBNcWxabjVGaUVLOFRjX3hBODVDQmNmS05xVXpSSlZQa1ZIa25DTEdKY2NkZkxGMXRjSE96R3VQeEJfWEJlcEd0Wm5QX013NF83RzNjVVNLaWxPNkw0V3Ytd3JrMw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015197411000",
-  "https://news.web.nhk/newsweb/na/na-k10015197021000"
+  "https://news.web.nhk/newsweb/na/na-k10015197021000",
+  "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
  ],
  "titles": [
-  "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
-  "iPS脊髄損傷治療の研究 長期でも悪化せず安全性確認",
   "AMD、AI向け新システム「Helios」をAzureに大規模導入",
   "米政府、外国製オープンソースAIの規制強化を検討",
   "TSMC、2027年に製造価格を最大10％引き上げへ",
@@ -3023,6 +3022,8 @@
   "トランプ大統領“あすか あさって ホルムズ海峡開放の可能性”",
   "トランプ大統領「ホルムズ海峡、あすかあさってに開放も」",
   "異例の介入 米側の思惑は ベッセント財務長官単独インタビュー",
-  "ベッセント米財務長官、歴史的な円安阻止の背景を語る"
+  "ベッセント米財務長官、歴史的な円安阻止の背景を語る",
+  "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+  "MacPaw、Liquid AIと組みアプリ開発者向けローカル推論を提供へ"
  ]
 }

@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-05 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-05 23:04",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ大統領「ホルムズ海峡、あすかあさってに開放も」",
-   "path": "/articles/20260805-trump-hormuz-strait-opening.html",
-   "cat": "時事・世界"
+   "title": "ベッセント米財務長官、歴史的な円安阻止の背景を語る",
+   "path": "/articles/20260805-bessent-interview-on-yen-intervention.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "BABYMONSTER - 'MOON' PERFORMANCE VIDEO",
   "url": "https://www.youtube.com/watch?v=LYbHsAsj6i8"
  },
- "notes": [
-  "執筆失敗: 異例の介入 米側の思惑は ベッセント財務長官単独インタビュー"
- ],
- "pv_today": 7,
+ "notes": [],
+ "pv_today": 8,
  "gemini": {
-  "used": 188,
+  "used": 195,
   "limit": 200
  }
 }
