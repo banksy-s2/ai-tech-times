@@ -35410,5 +35410,42 @@
   "date": "2026-08-06",
   "time": "02:01",
   "path": "/articles/20260806-google-announces-major-ai-leadership-shakeup.html"
+ },
+ {
+  "title": "立川志らくの弟子になった立川さぎ志とは",
+  "lead": "YouTuberのヒカルが、落語家の立川志らくの弟子「立川さぎ志」として独演会に出演しました。",
+  "summary3": [
+   "YouTuberヒカルが落語家に挑戦",
+   "立川志らくの弟子として独演会",
+   "9月23日には追加公演を開催予定"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回のニュースでは、YouTuberとして活動するヒカルの新たな挑戦についてお伝えします。",
+   "ヒカルは、落語家の立川志らくの弟子である「立川さぎ志」という名義で独演会に登場しました。師匠である立川志らくは、この弟子について「いい弟子を持った」と大絶賛しています。",
+   "なお、本件に関する今後の展開として、9月23日には追加公演が行われる予定となっています。"
+  ],
+  "tags": [
+   "ヒカル",
+   "立川志らく",
+   "落語"
+  ],
+  "slug": "hikaru-tatekawa-shiraku-rakugo",
+  "people": [
+   {
+    "name": "ヒカル",
+    "bio": "多くのチャンネル登録者を持つ人気のYouTuberとして幅広く活動している人物です。"
+   },
+   {
+    "name": "立川志らく",
+    "bio": "著名な落語家であり、テレビ番組のコメンテーターなどとしても広く知られています。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOHBWMlcxMmdJTGZ3NWlNMU9nSjRYQ05RUk1ES3hlNmRBM0JKaG56WFh3VFY4dHlvb094OHdTeE9vLW9YaDVMdE9Db0lTNnpUN2RqS3lwaDFnZ2hoc0xwWl92SmJUZDhtX3RHbVFoNnFwY01aNjBVUUNYWndZLU0?oc=5",
+  "category": "influencer",
+  "date": "2026-08-06",
+  "time": "03:00",
+  "path": "/articles/20260806-hikaru-tatekawa-shiraku-rakugo.html"
  }
 ]
