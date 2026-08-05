@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-06 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-06 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "キム・ヨジョン氏、海自護衛艦トマホーク実射を非難なぜ",
-   "path": "/articles/20260806-kim-yo-jong-criticizes-tomahawk-test.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価、続伸して終値2342円高の6万6300円に",
+   "path": "/articles/20260806-nikkei-average-gains-66300.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
- "notes": [
-  "執筆失敗: 安保3文書の有識者会議 経済的威圧に対処 法整備求める意見も"
- ],
+ "notes": [],
  "pv_today": 10,
  "gemini": {
-  "used": 20,
+  "used": 25,
   "limit": 200
  }
 }
