@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-05 08:00",
- "mode": "軽量便(AI(海外))",
- "articles": [
-  {
-   "title": "Nvidia主導のAI連合、発足1週間で防御策を提示",
-   "path": "/articles/20260805-nvidia-open-secure-ai-alliance-progress.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "AMDデータセンター売上107%増、AI需要で好調",
-   "path": "/articles/20260805-amd-datacenter-boom-q2-2026.html",
-   "cat": "AI(海外)"
-  }
- ],
+ "updated": "2026-08-05 09:01",
+ "mode": "軽量便(日本のAI)",
+ "articles": [],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 「私がウダウダしゃべるより聞きやすい」　三菱重工、決算説明に“AIジュリア”起用",
+  "執筆失敗: 1Password、ダッシュボードから組織のAI支出状況を表示する新機能。Cla"
+ ],
  "pv_today": 6,
  "gemini": {
-  "used": 56,
+  "used": 62,
   "limit": 200
  }
 }
