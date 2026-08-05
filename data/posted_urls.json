@@ -1004,7 +1004,9 @@
   "https://friday.kodansha.co.jp/article/476522",
   "https://news.web.nhk/newsweb/na/na-k10015197011000",
   "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJaHNfTzFIZUpZYnRmVmFIQzFMR1dMcVZGczRCSjlKSVU4MGk2U2Rlc29OSHY5clRLVHV0RFJ4OGc5cXZkS2lhblgxUklGdmJuZWc?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJaHNfTzFIZUpZYnRmVmFIQzFMR1dMcVZGczRCSjlKSVU4MGk2U2Rlc29OSHY5clRLVHV0RFJ4OGc5cXZkS2lhblgxUklGdmJuZWc?oc=5",
+  "https://pc.watch.impress.co.jp/docs/news/2130608.html",
+  "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000386/"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2998,6 +3000,10 @@
   "DOMOTO東京フィルと共演、契約満了の直面する楽曲問題",
   "日本製紙、地震後初の会見へなぜ踏み切ったのか",
   "フィリピンのアウトソーシング産業、AI導入でどう変化するのか",
-  "イビデンストップ高、純利益予想840億円に上方修正"
+  "イビデンストップ高、純利益予想840億円に上方修正",
+  "HBM高騰の救世主か。キオクシアが放つ1,000万IOPSのGPU直通SSD「GP1」",
+  "「フルスクラッチ開発」って何？──LLMを“骨格”と“筋肉”に例えて国産モデルの現在地を整理する",
+  "キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風",
+  "ITmedia AI+が解説するLLMの国産化と開発レイヤー"
  ]
 }

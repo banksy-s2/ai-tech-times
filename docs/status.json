@@ -1,64 +1,26 @@
 {
- "updated": "2026-08-05 17:19",
- "mode": "フル便",
+ "updated": "2026-08-05 18:06",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Hugging FaceでLFM2.5-2.6Bを展開する方法とは",
-   "path": "/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "英AISI、評価中のAIが実在開発者を標的に サプライチェーン攻撃の危険性",
-   "path": "/articles/20260805-uk-aisi-ai-targets-developers-supply-chain-attack.html",
+   "title": "キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風",
+   "path": "/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html",
    "cat": "日本のAI"
   },
   {
-   "title": "「GMO AI RAG」無償OSS版で検索精度1.8倍！企業ナレッジAI化の次なる一手は？",
-   "path": "/articles/20260805-gmo-ai-rag-oss-1-8x-search-accuracy.html",
+   "title": "ITmedia AI+が解説するLLMの国産化と開発レイヤー",
+   "path": "/articles/20260805-llm-kokusanka-itmedia-aiplus.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Anthropic、OpenAIにEUが厳格なAI規制適用へ：最大1500万ユーロ罰金も",
-   "path": "/articles/20260805-eu-ai-act-anthropic-openai-scrutiny.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceXが大手キャリアに真っ向勝負を挑む理由",
-   "path": "/articles/20260805-spacex-terrestrial-mobile-network.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "DOMOTO東京フィルと共演、契約満了の直面する楽曲問題",
-   "path": "/articles/20260805-domoto-concert-rights-issue.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日本製紙、地震後初の会見へなぜ踏み切ったのか",
-   "path": "/articles/20260805-nippon-paper-earthquake-press-conference.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "フィリピンのアウトソーシング産業、AI導入でどう変化するのか",
-   "path": "/articles/20260805-ai-transition-philippines-outsourcing.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "イビデンストップ高、純利益予想840億円に上方修正",
-   "path": "/articles/20260805-ibiden-stock-high-net-income-revision.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [
-  "執筆失敗: 高市首相、日銀総裁に「国債買い入れ」要請　積極財政にらみ、金利抑制狙う：時事ドッ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 139,
+  "used": 146,
   "limit": 200
  }
 }

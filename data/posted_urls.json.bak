@@ -995,7 +995,16 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wODJ4Q0QxUjVlcWh2UFRzQXhWQUY5bjVBNktZazdHaUh6OVNMWmFTRjhvY0NYNGFjX3U1Y2EwajZCV2R5T3JDeTEtVWJ6LXdWM3FJWTE2ZTZkcTNyQ1cyblVqNjdlZGFEUzR3Rw?oc=5",
   "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
   "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-  "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
+  "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
+  "https://forest.watch.impress.co.jp/docs/special/2130448.html",
+  "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+  "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+  "https://friday.kodansha.co.jp/article/476522",
+  "https://news.web.nhk/newsweb/na/na-k10015197011000",
+  "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJaHNfTzFIZUpZYnRmVmFIQzFMR1dMcVZGczRCSjlKSVU4MGk2U2Rlc29OSHY5clRLVHV0RFJ4OGc5cXZkS2lhblgxUklGdmJuZWc?oc=5"
  ],
  "titles": [
   "Anthropic、著作権訴訟で2400億円支払いへ 史上最大額",
@@ -2971,6 +2980,24 @@
   "Spotify expands AI remix and covers project with Merlin partnership",
   "‘Not healthy’ LLM use is more common than you think",
   "Spotify、AIで独立系音源のカバー作成が可能に",
-  "ハンク・グリーン氏、AI利用批判を受け制作活動の一時休止を発表"
+  "ハンク・グリーン氏、AI利用批判を受け制作活動の一時休止を発表",
+  "Deploy local agents everywhere with LFM2.5-2.6B",
+  "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+  "「企業の中のあらゆるナレッジはいずれAIで処理される」 検索精度を最大1.8倍に高めた「GMO AI RAG」は無償のOSS版で「1社1RAG」を目指す／開発責任者にインタビュー、その先に見据えるのは「Webサービス全体のAI化」【特集・集中企画】",
+  "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
+  "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+  "「もう音源が使えない…」STARTO社と契約満了でDOMOTOが直面する「楽曲権利問題の壁」 | FRIDAYデジタル",
+  "日本製紙 地震のあと初めて社長ら記者会見",
+  "'I feel like I dug my own grave': The workers caught in the AI transition",
+  "〈イビデン〉ストップ高で東証プライム・上昇率1位…純利益予想「580億円→840億円」へ上方修正＆株式分割の発表【8月5日の国内株式市場概況】 - gentosha-go.com",
+  "Hugging FaceでLFM2.5-2.6Bを展開する方法とは",
+  "英AISI、評価中のAIが実在開発者を標的に サプライチェーン攻撃の危険性",
+  "「GMO AI RAG」無償OSS版で検索精度1.8倍！企業ナレッジAI化の次なる一手は？",
+  "Anthropic、OpenAIにEUが厳格なAI規制適用へ：最大1500万ユーロ罰金も",
+  "SpaceXが大手キャリアに真っ向勝負を挑む理由",
+  "DOMOTO東京フィルと共演、契約満了の直面する楽曲問題",
+  "日本製紙、地震後初の会見へなぜ踏み切ったのか",
+  "フィリピンのアウトソーシング産業、AI導入でどう変化するのか",
+  "イビデンストップ高、純利益予想840億円に上方修正"
  ]
 }

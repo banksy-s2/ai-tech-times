@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風</title>
+<link>https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html</guid>
+<pubDate>Wed, 05 Aug 2026 18:06:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>半導体メモリ大手のキオクシアが、GPUに直接接続可能なSSD「GP1」を発表しました。この新製品は、1,000万IOPSという高い性能を誇り、高騰が続くHBM（広帯域幅メモリ）の代替となる可能性を秘めています。</description>
+</item>
+<item>
+<title>ITmedia AI+が解説するLLMの国産化と開発レイヤー</title>
+<link>https://ai-tech-times.web.app/articles/20260805-llm-kokusanka-itmedia-aiplus.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-llm-kokusanka-itmedia-aiplus.html</guid>
+<pubDate>Wed, 05 Aug 2026 18:06:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ニュースサイト「AI TECH TIMES」が、日本企業によるLLM活用の現在地と、開発レイヤーの仕組みについてお伝えします。</description>
+</item>
+<item>
 <title>Hugging FaceでLFM2.5-2.6Bを展開する方法とは</title>
 <link>https://ai-tech-times.web.app/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 05 Aug 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Nvidiaが主導するAI業界団体「Open Secure AI Alliance」が、発足からわずか1週間ですでにAIエージェントの防御策に関する提案を明らかにしました。参加企業は120社を超えています。</description>
-</item>
-<item>
-<title>AMDデータセンター売上107%増、AI需要で好調</title>
-<link>https://ai-tech-times.web.app/articles/20260805-amd-datacenter-boom-q2-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-amd-datacenter-boom-q2-2026.html</guid>
-<pubDate>Wed, 05 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI需要の拡大を背景に、AMDの最新四半期決算でデータセンター部門の売上高が前年同期比で倍増以上の67億ドルに達しました。ゲーム部門が後退する中、なぜここまで急成長を遂げたのでしょうか。</description>
-</item>
-<item>
-<title>SpaceX、AI収入が前年比3倍超の26億ドルに急増した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260805-spacex-ai-revenue-growth.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-spacex-ai-revenue-growth.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>SpaceXの四半期決算によると、AI関連の収入が前年同期から3倍以上の26億ドルに急増しました。他のAI企業へコンピュートを提供する契約が主な要因となっています。</description>
 </item>
 </channel></rss>
