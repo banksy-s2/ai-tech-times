@@ -33665,5 +33665,67 @@
   "date": "2026-08-05",
   "time": "08:00",
   "path": "/articles/20260805-amd-datacenter-boom-q2-2026.html"
+ },
+ {
+  "title": "テキサス州が新規データセンターを停止、知事が監査を要求",
+  "lead": "テック企業や開発者を引きつけてきたテキサス州で、新規データセンターの建設が停止され、知事が監査を要求する事態となりました。",
+  "summary3": [
+   "テキサス州で新規データセンターを停止",
+   "知事が電力供給などを巡り監査を要求",
+   "緩い規制と豊富な電力で人気を集めていた"
+  ],
+  "body": [
+   "テック企業や開発者は、新しいデータセンターを建設するための場所を求めて全米を探し回っています。これまで彼らは、テキサス州の緩い規制や、一見すると豊富に見える電力供給に引きつけられてきました。",
+   "しかし、どれほど環境が整っているように見える地域であっても、限界に達することは避けられません。テキサス州でさえも、今回の事態により限界へと追い込まれることになりました。",
+   "こうした状況を受けて、テキサス州は新規のデータセンター建設を停止する判断を下しました。さらに、知事が監査を求めるなど、急速な拡大に対する見直しと規制の動きが強まっています。"
+  ],
+  "tags": [
+   "データセンター",
+   "テキサス州",
+   "テック企業"
+  ],
+  "slug": "texas-halts-new-data-centers-as-governor-calls-for-audits",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "10:00",
+  "path": "/articles/20260805-texas-halts-new-data-centers-as-governor-calls-for-audits.html"
+ },
+ {
+  "title": "Apple、英暗号データ要求で法的闘争へ",
+  "lead": "米Appleが、イギリスにおける暗号化データへのアクセス要求をめぐり、新たな法的手続きを開始したことが明らかになりました。",
+  "summary3": [
+   "Appleが英の暗号データ要求に法的対抗",
+   "英国側による初期の要求取り下げから1年",
+   "米英ユーザーのデータ保護を巡る動き"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、米Appleがイギリス政府による暗号化されたデータへのアクセス要求に対して、新たな法的措置に踏み切りました。",
+   "今回の法的申し立ては、イギリス当局がイギリスおよびアメリカのユーザーデータへのアクセスを求めていた初期の要求を取り下げてから、ちょうど1年が経過したタイミングで行われたものです。",
+   "暗号化データの閲覧権限を巡る当局とテック企業の間では、ユーザーのプライバシー保護と安全保障のバランスをどのように取るか議論が続いており、今回の動向にも注目が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "セキュリティ",
+   "プライバシー"
+  ],
+  "slug": "apple-encrypted-data-legal-challenge-uk",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業である。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html",
+  "category": "silicon",
+  "date": "2026-08-05",
+  "time": "10:00",
+  "path": "/articles/20260805-apple-encrypted-data-legal-challenge-uk.html"
  }
 ]
