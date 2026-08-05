@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-06 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-06 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "立川志らくの弟子になった立川さぎ志とは",
-   "path": "/articles/20260806-hikaru-tatekawa-shiraku-rakugo.html",
-   "cat": "インフルエンサー"
+   "title": "キム・ヨジョン氏、海自護衛艦トマホーク実射を非難なぜ",
+   "path": "/articles/20260806-kim-yo-jong-criticizes-tomahawk-test.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
- "notes": [],
- "pv_today": 4,
+ "notes": [
+  "執筆失敗: 安保3文書の有識者会議 経済的威圧に対処 法整備求める意見も"
+ ],
+ "pv_today": 10,
  "gemini": {
-  "used": 16,
+  "used": 20,
   "limit": 200
  }
 }

@@ -35480,5 +35480,39 @@
   "date": "2026-08-06",
   "time": "04:00",
   "path": "/articles/20260806-kim-yo-jong-criticizes-tomahawk-test.html"
+ },
+ {
+  "title": "日経平均株価、続伸して終値2342円高の6万6300円に",
+  "lead": "日本経済新聞の報道によると、日経平均株価が続伸し、終値で2342円高の6万6300円を記録しました。",
+  "summary3": [
+   "日経平均株価が続伸を記録",
+   "終値は2342円高の6万6300円",
+   "日本経済新聞が報じた"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の株式市場ニュースです。日本経済新聞の報道によれば、日経平均株価が続伸し、市場の注目を集めています。",
+   "本日の市場において、日経平均株価は前日からの上昇の流れを引き継ぎ、続伸する展開となりました。その結果、終値は2342円高の大幅な上昇となり、6万6300円に達しています。",
+   "市場関係者や投資家の間では、今回の株価の動きや終値の数値に関して様々な議論が交わされています。詳細な市場動向については、引き続き関連報道や公式な発表をご確認ください。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-gains-66300",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした報道を行う大手日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS0NxbXlCQmdLVVlMRFJRUnl6QXJaUWJCNUgyT2VNWnFmajhFNTBhRnJxUnduaWlNOEZTeFQzbDVkb0sxRmNNenpEbm1UOXhkaWJJczk5clQ3YWdKQ3lrcnpadnZUNDRHREs2Yw?oc=5",
+  "category": "stock",
+  "date": "2026-08-06",
+  "time": "05:00",
+  "path": "/articles/20260806-nikkei-average-gains-66300.html"
  }
 ]
