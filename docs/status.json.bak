@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-05 23:04",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-06 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ベッセント米財務長官、歴史的な円安阻止の背景を語る",
-   "path": "/articles/20260805-bessent-interview-on-yen-intervention.html",
-   "cat": "株式投資(日本)"
+   "title": "MacPaw、Liquid AIと組みアプリ開発者向けローカル推論を提供へ",
+   "path": "/articles/20260806-macpaw-taps-liquid-ai-for-on-device-inference.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=LYbHsAsj6i8"
  },
  "notes": [],
- "pv_today": 8,
+ "pv_today": null,
  "gemini": {
-  "used": 195,
+  "used": 3,
   "limit": 200
  }
 }

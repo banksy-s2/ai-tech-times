@@ -1,21 +1,26 @@
 {
- "updated": "2026-08-06 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-06 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MacPaw、Liquid AIと組みアプリ開発者向けローカル推論を提供へ",
-   "path": "/articles/20260806-macpaw-taps-liquid-ai-for-on-device-inference.html",
-   "cat": "AI(海外)"
+   "title": "DeNA営業利益46%減、ゲームからAI新事業へ舵を切る理由",
+   "path": "/articles/20260806-dena-earnings-ai-shift.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "JFrog検証：SQLiteの偽CVEが54件判明",
+   "path": "/articles/20260806-jfrog-sqlite-fake-cve-ai.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "BABYMONSTER - 'MOON' PERFORMANCE VIDEO",
-  "url": "https://www.youtube.com/watch?v=LYbHsAsj6i8"
+  "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
+  "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 3,
+  "used": 7,
   "limit": 200
  }
 }

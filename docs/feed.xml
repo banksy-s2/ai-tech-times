@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>DeNA営業利益46%減、ゲームからAI新事業へ舵を切る理由</title>
+<link>https://ai-tech-times.web.app/articles/20260806-dena-earnings-ai-shift.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260806-dena-earnings-ai-shift.html</guid>
+<pubDate>Thu, 06 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ディー・エヌ・エー（DeNA）が発表した2026年4〜6月期の連結決算は、ゲーム事業の低迷が響き営業利益が前年同期比46%減となりました。南場智子社長はゲームから新規事業の創出へと軸足を移す方針を示しています。</description>
+</item>
+<item>
+<title>JFrog検証：SQLiteの偽CVEが54件判明</title>
+<link>https://ai-tech-times.web.app/articles/20260806-jfrog-sqlite-fake-cve-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260806-jfrog-sqlite-fake-cve-ai.html</guid>
+<pubDate>Thu, 06 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米JFrogが公開した検証結果により、SQLiteの脆弱性を主張する実在しないCVEが大量に登録されていたことが明らかになりました。AI生成による偽情報がデータベースの登録プロセスをすり抜けた形となり、セキュリティ上の深刻な穴が指摘されています。</description>
+</item>
+<item>
 <title>MacPaw、Liquid AIと組みアプリ開発者向けローカル推論を提供へ</title>
 <link>https://ai-tech-times.web.app/articles/20260806-macpaw-taps-liquid-ai-for-on-device-inference.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260806-macpaw-taps-liquid-ai-for-on-device-inference.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 05 Aug 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>音楽配信大手のSpotifyが、独立系レーベルを代表する組織と提携し、ファンがAIで楽曲のカバーやリミックスを作成できる有料ツールの開発を進めています。</description>
-</item>
-<item>
-<title>ハンク・グリーン氏、AI利用批判を受け制作活動の一時休止を発表</title>
-<link>https://ai-tech-times.web.app/articles/20260805-hank-green-steps-back-over-ai-use.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-hank-green-steps-back-over-ai-use.html</guid>
-<pubDate>Wed, 05 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>人気ユーチューバーのハンク・グリーン氏が、自身のAI利用をめぐる激しい批判を受けて制作活動から一歩引くことを明らかにしました。</description>
-</item>
-<item>
-<title>三菱重工が決算説明にAI起用した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260805-mhi-earnings-ai-julia.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-mhi-earnings-ai-julia.html</guid>
-<pubDate>Wed, 05 Aug 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>三菱重工が、決算説明にAIナレーター「ジュリア」を起用しました。導入の狙いを問われた西尾浩CFOが笑顔で語った理由とは何だったのでしょうか。</description>
 </item>
 </channel></rss>
