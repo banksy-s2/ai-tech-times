@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 19:10 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 20:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [白泉社の『ドカ食いダイスキ！ もちづきさん』がTVアニメ化決定](https://ai-tech-times.web.app/articles/20260805-dokagui-daisuki-mochizuki-san-anime.html) — 2026-08-05 20:00: 「ヤングアニマルZERO」「ヤングアニマルWeb」で連載中の人気作『ドカ食いダイスキ！ もちづきさん』のTVアニメ化が決定しました。
 - [SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる](https://ai-tech-times.web.app/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html) — 2026-08-05 19:10: 宇宙開発企業のSpaceXが、電気自動車メーカーTeslaの蓄電池システム「Megapack」を今年これまでに3億2900万ドル相当購入したことが明らかになりました。この大規模な取引は、両社を率いるイーロン・マスク氏の企業群がいかに深く連携しているかを示しています。
 - [Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは](https://ai-tech-times.web.app/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html) — 2026-08-05 19:10: データ分析企業Palantir TechnologiesのCEOであるアレックス・カープ氏が、最先端のAI技術開発を担う「フロンティアAIラボ」に対し、再び厳しい批判を展開しました。同氏は、これらのラボが知的財産（IP）の価値をあらゆる場所から「蒸留」していると指摘し、その行為が中国モデルによる米国モデルの蒸留を非難できない状況を生み出していると主張しています。
 - [キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風](https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html) — 2026-08-05 18:06: 半導体メモリ大手のキオクシアが、GPUに直接接続可能なSSD「GP1」を発表しました。この新製品は、1,000万IOPSという高い性能を誇り、高騰が続くHBM（広帯域幅メモリ）の代替となる可能性を秘めています。
@@ -41,14 +42,13 @@
 - [古河電気工業が10%高で続伸、光ファイバー増産になぜ1000億円？](https://ai-tech-times.web.app/articles/20260805-furukawa-electric-fiber-optics-investment.html) — 2026-08-05 14:00: 古河電気工業の株価が続伸し、10%高を記録しました。光ファイバーの増産に向けて1000億円を投じる方針が報じられています。
 - [TSMCが熊本被災地へ2億5000万円寄付、その支援の行方は](https://ai-tech-times.web.app/articles/20260805-tsmc-kumamoto-donation.html) — 2026-08-05 13:00: 台湾の半導体大手TSMCは、熊本県の被災地復旧・復興支援として2億5000万円を寄付すると公表しました。現地で進む支援の動きをお伝えします。
 - [日銀、利上げ決定の6月会合議事要旨を公表](https://ai-tech-times.web.app/articles/20260805-boj-june-meeting-minutes-2024.html) — 2026-08-05 13:00: 日銀は、利上げを決定した6月の金融政策決定会合の議事要旨を公表しました。物価上昇リスクへの対応や今後の追加利上げについてどのような議論が行われたのか、その詳細が明らかになりました。
-- [Z.aiの開放型AIがフロンティアに肉薄、残る安全性の課題とは](https://ai-tech-times.web.app/articles/20260805-zai-glm52-safety-gap.html) — 2026-08-05 12:02: 新しいSaferAIのレポートにより、Z.aiのオープンウェイトモデル「GLM-5.2」が最先端のAI能力に迫る一方で、重要な安全対策が不足していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-05)
 - 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 2位: [BABYMONSTER - 'MOON' PERFORMANCE VIDEO](https://www.youtube.com/watch?v=LYbHsAsj6i8)
 - 3位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
 
-## AI用語事典 (全693語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全694語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

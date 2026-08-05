@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-05 19:10",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-05 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる",
-   "path": "/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは",
-   "path": "/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html",
-   "cat": "シリコンバレー最速"
+   "title": "白泉社の『ドカ食いダイスキ！ もちづきさん』がTVアニメ化決定",
+   "path": "/articles/20260805-dokagui-daisuki-mochizuki-san-anime.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
  "notes": [],
- "pv_today": 6,
+ "pv_today": 7,
  "gemini": {
-  "used": 158,
+  "used": 162,
   "limit": 200
  }
 }
