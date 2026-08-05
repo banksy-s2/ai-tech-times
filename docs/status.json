@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-05 18:06",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-05 19:10",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風",
-   "path": "/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる",
+   "path": "/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ITmedia AI+が解説するLLMの国産化と開発レイヤー",
-   "path": "/articles/20260805-llm-kokusanka-itmedia-aiplus.html",
-   "cat": "日本のAI"
+   "title": "Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは",
+   "path": "/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 146,
+  "used": 158,
   "limit": 200
  }
 }

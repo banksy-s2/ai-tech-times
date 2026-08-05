@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 18:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 19:10 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる](https://ai-tech-times.web.app/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html) — 2026-08-05 19:10: 宇宙開発企業のSpaceXが、電気自動車メーカーTeslaの蓄電池システム「Megapack」を今年これまでに3億2900万ドル相当購入したことが明らかになりました。この大規模な取引は、両社を率いるイーロン・マスク氏の企業群がいかに深く連携しているかを示しています。
+- [Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは](https://ai-tech-times.web.app/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html) — 2026-08-05 19:10: データ分析企業Palantir TechnologiesのCEOであるアレックス・カープ氏が、最先端のAI技術開発を担う「フロンティアAIラボ」に対し、再び厳しい批判を展開しました。同氏は、これらのラボが知的財産（IP）の価値をあらゆる場所から「蒸留」していると指摘し、その行為が中国モデルによる米国モデルの蒸留を非難できない状況を生み出していると主張しています。
 - [キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風](https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html) — 2026-08-05 18:06: 半導体メモリ大手のキオクシアが、GPUに直接接続可能なSSD「GP1」を発表しました。この新製品は、1,000万IOPSという高い性能を誇り、高騰が続くHBM（広帯域幅メモリ）の代替となる可能性を秘めています。
 - [ITmedia AI+が解説するLLMの国産化と開発レイヤー](https://ai-tech-times.web.app/articles/20260805-llm-kokusanka-itmedia-aiplus.html) — 2026-08-05 18:06: ニュースサイト「AI TECH TIMES」が、日本企業によるLLM活用の現在地と、開発レイヤーの仕組みについてお伝えします。
 - [Hugging FaceでLFM2.5-2.6Bを展開する方法とは](https://ai-tech-times.web.app/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html) — 2026-08-05 17:19: Hugging Face Blogにて、ローカル環境でエージェントを展開するための「LFM2.5-2.6B」に関する情報が公開されました。
@@ -40,15 +42,13 @@
 - [TSMCが熊本被災地へ2億5000万円寄付、その支援の行方は](https://ai-tech-times.web.app/articles/20260805-tsmc-kumamoto-donation.html) — 2026-08-05 13:00: 台湾の半導体大手TSMCは、熊本県の被災地復旧・復興支援として2億5000万円を寄付すると公表しました。現地で進む支援の動きをお伝えします。
 - [日銀、利上げ決定の6月会合議事要旨を公表](https://ai-tech-times.web.app/articles/20260805-boj-june-meeting-minutes-2024.html) — 2026-08-05 13:00: 日銀は、利上げを決定した6月の金融政策決定会合の議事要旨を公表しました。物価上昇リスクへの対応や今後の追加利上げについてどのような議論が行われたのか、その詳細が明らかになりました。
 - [Z.aiの開放型AIがフロンティアに肉薄、残る安全性の課題とは](https://ai-tech-times.web.app/articles/20260805-zai-glm52-safety-gap.html) — 2026-08-05 12:02: 新しいSaferAIのレポートにより、Z.aiのオープンウェイトモデル「GLM-5.2」が最先端のAI能力に迫る一方で、重要な安全対策が不足していることが明らかになりました。
-- [イーロン・マスク氏、テスラ決算で半分をロボットとAIの話題に費やす理由](https://ai-tech-times.web.app/articles/20260805-musk-spends-half-time-on-robots-and-ai.html) — 2026-08-05 12:02: テスラの過去7年間の決算説明会を分析したところ、イーロン・マスク氏が主力の自動車事業にいかに注意を払っていないかが明らかになりました。
-- [npmで20億回超のパッケージが侵害、どう対処すべきか](https://ai-tech-times.web.app/articles/20260805-npm-supply-chain-attack-2026.html) — 2026-08-05 12:02: JavaScript向けパッケージ管理サービスの「npm」において、大規模なサプライチェーン攻撃が発生し、数百個のパッケージにマルウェアが混入しました。
 
 ## 世界のバズ動画TOP3 (2026-08-05)
 - 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 2位: [BABYMONSTER - 'MOON' PERFORMANCE VIDEO](https://www.youtube.com/watch?v=LYbHsAsj6i8)
 - 3位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
 
-## AI用語事典 (全691語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全693語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
@@ -63,10 +63,10 @@
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
-- [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
+- [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。

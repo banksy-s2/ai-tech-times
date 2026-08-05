@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる</title>
+<link>https://ai-tech-times.web.app/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html</guid>
+<pubDate>Wed, 05 Aug 2026 19:10:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>宇宙開発企業のSpaceXが、電気自動車メーカーTeslaの蓄電池システム「Megapack」を今年これまでに3億2900万ドル相当購入したことが明らかになりました。この大規模な取引は、両社を率いるイーロン・マスク氏の企業群がいかに深く連携しているかを示しています。</description>
+</item>
+<item>
+<title>Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは</title>
+<link>https://ai-tech-times.web.app/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html</guid>
+<pubDate>Wed, 05 Aug 2026 19:10:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>データ分析企業Palantir TechnologiesのCEOであるアレックス・カープ氏が、最先端のAI技術開発を担う「フロンティアAIラボ」に対し、再び厳しい批判を展開しました。同氏は、これらのラボが知的財産（IP）の価値をあらゆる場所から「蒸留」していると指摘し、その行為が中国モデルによる米国モデルの蒸留を非難できない状況を生み出していると主張しています。</description>
+</item>
+<item>
 <title>キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風</title>
 <link>https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 05 Aug 2026 10:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>テック企業や開発者を引きつけてきたテキサス州で、新規データセンターの建設が停止され、知事が監査を要求する事態となりました。</description>
-</item>
-<item>
-<title>Apple、英暗号データ要求で法的闘争へ</title>
-<link>https://ai-tech-times.web.app/articles/20260805-apple-encrypted-data-legal-challenge-uk.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-apple-encrypted-data-legal-challenge-uk.html</guid>
-<pubDate>Wed, 05 Aug 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米Appleが、イギリスにおける暗号化データへのアクセス要求をめぐり、新たな法的手続きを開始したことが明らかになりました。</description>
-</item>
-<item>
-<title>Nvidia主導のAI連合、発足1週間で防御策を提示</title>
-<link>https://ai-tech-times.web.app/articles/20260805-nvidia-open-secure-ai-alliance-progress.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-nvidia-open-secure-ai-alliance-progress.html</guid>
-<pubDate>Wed, 05 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Nvidiaが主導するAI業界団体「Open Secure AI Alliance」が、発足からわずか1週間ですでにAIエージェントの防御策に関する提案を明らかにしました。参加企業は120社を超えています。</description>
 </item>
 </channel></rss>
