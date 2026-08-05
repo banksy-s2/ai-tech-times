@@ -1,56 +1,11 @@
 {
- "updated": "2026-08-05 21:04",
- "mode": "フル便",
+ "updated": "2026-08-05 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Google、9月4日にスマホ版アシスタントを終了へ",
-   "path": "/articles/20260805-google-assistant-disappear-next-month.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "WindBorne Systems、3700万ドル調達の行方は",
-   "path": "/articles/20260805-windborne-systems-series-b-funding.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ZEALS、500万円の人型ロボ「D1」発表",
-   "path": "/articles/20260805-zeals-d1-humanoid-robot.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "首都高でGeminiヘビーユーザーが1年で10倍増、なぜ？",
-   "path": "/articles/20260805-shutoko-gemini-ai-utilization.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AMD株が市場予想超えも8%急落した理由とは",
-   "path": "/articles/20260805-amd-plummets-8-percent-premarket.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "TOHOシネマズ大井町、空調トラブルで上映強行の理由",
-   "path": "/articles/20260805-toho-cinemas-ooimachi-air-conditioning-trouble.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "イオンモール熊本でLPガス爆発か、経産省などの調査結果",
-   "path": "/articles/20260805-aeon-mall-kumamoto-lp-gas-explosion.html",
+   "title": "トランプ大統領「ホルムズ海峡、あすかあさってに開放も」",
+   "path": "/articles/20260805-trump-hormuz-strait-opening.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "スペースX初の決算で赤字、AI投資が負担に",
-   "path": "/articles/20260805-spacex-first-earnings-loss-ai-investment.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "高市首相、日銀総裁に国債買い入れ要請",
-   "path": "/articles/20260805-takaichi-boj-bonds-request.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ニデック、決算発表を延期する理由",
-   "path": "/articles/20260805-nidec-earnings-postponed.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -58,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=LYbHsAsj6i8"
  },
  "notes": [
-  "執筆失敗: Waymo opens up robotaxi service in Dalla",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 異例の介入 米側の思惑は ベッセント財務長官単独インタビュー"
  ],
  "pv_today": 7,
  "gemini": {
-  "used": 184,
+  "used": 188,
   "limit": 200
  }
 }
