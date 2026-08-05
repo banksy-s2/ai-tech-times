@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-06 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-06 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "DeNA営業利益46%減、ゲームからAI新事業へ舵を切る理由",
-   "path": "/articles/20260806-dena-earnings-ai-shift.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "JFrog検証：SQLiteの偽CVEが54件判明",
-   "path": "/articles/20260806-jfrog-sqlite-fake-cve-ai.html",
-   "cat": "日本のAI"
+   "title": "Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表",
+   "path": "/articles/20260806-google-announces-major-ai-leadership-shakeup.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
-  "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
+  "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
+  "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Saudi wealth fund and Jared Kushner's Af"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 7,
+  "used": 12,
   "limit": 200
  }
 }

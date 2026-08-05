@@ -1024,11 +1024,10 @@
   "https://news.web.nhk/newsweb/na/na-k10015197021000",
   "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
   "https://www.nikkei.com/article/DGXZQOUC047NI0U6A800C2000000/",
-  "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/"
+  "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/",
+  "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
  ],
  "titles": [
-  "AIエージェントで家電の解析が容易に？コスト低下がもたらす変化",
-  "VTuber星街すいせい、始球式で105キロの剛速球を披露",
   "米政府、イランへの攻撃継続を明言「大統領の判断まで」",
   "iPS細胞による脊髄損傷治療、長期の安全性と改善維持を確認",
   "Appleが企業秘密漏洩訴訟関連でOpenAIの社員数十人に法的文書を送付し警告",
@@ -3026,6 +3025,8 @@
   "DeNAが脱ゲームにカジ　南場智子社長「AIで新規事業生み出し成長」 - 日本経済新聞",
   "AIで\"存在しない脆弱性\"を量産？　「SQLite」の偽CVEが判明　米企業が検証",
   "DeNA営業利益46%減、ゲームからAI新事業へ舵を切る理由",
-  "JFrog検証：SQLiteの偽CVEが54件判明"
+  "JFrog検証：SQLiteの偽CVEが54件判明",
+  "Google just announced a major shakeup of its top AI leadership",
+  "Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表"
  ]
 }
