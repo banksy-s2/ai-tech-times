@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-05 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-05 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "TSMCが熊本被災地へ2億5000万円寄付、その支援の行方は",
-   "path": "/articles/20260805-tsmc-kumamoto-donation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日銀、利上げ決定の6月会合議事要旨を公表",
-   "path": "/articles/20260805-boj-june-meeting-minutes-2024.html",
-   "cat": "時事・世界"
+   "title": "古河電気工業が10%高で続伸、光ファイバー増産になぜ1000億円？",
+   "path": "/articles/20260805-furukawa-electric-fiber-optics-investment.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 102,
+  "used": 105,
   "limit": 200
  }
 }
