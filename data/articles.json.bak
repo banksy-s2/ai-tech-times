@@ -34213,5 +34213,77 @@
   "date": "2026-08-05",
   "time": "15:00",
   "path": "/articles/20260805-mhi-earnings-ai-julia.html"
+ },
+ {
+  "title": "Spotify、AIで独立系音源のカバー作成が可能に",
+  "lead": "音楽配信大手のSpotifyが、独立系レーベルを代表する組織と提携し、ファンがAIで楽曲のカバーやリミックスを作成できる有料ツールの開発を進めています。",
+  "summary3": [
+   "SpotifyがAIリミックス計画を拡大",
+   "独立系レーベル団体Merlinが参加",
+   "アーティストへの報酬還元を保証"
+  ],
+  "body": [
+   "音楽ストリーミングサービスを展開するSpotifyは、3万を超える独立系レーベルやディストリビューターを代表するMerlinが、AIを活用した新しいリミックスおよびカバー制作プロジェクトに加わったことを発表しました。",
+   "この取り組みにはすでにユニバーサルミュージックグループも参加しており、有料のツールとして提供される予定です。ファンは参加アーティストの楽曲をもとに、AIによるカバーやリミックスを作成できるようになります。",
+   "新ツールでは、アーティストが事前に参加を選択できる仕組みを採用しています。さらに、参加するアーティストに対しては、適切なクレジットの表示と収益の還元が行われる設計となっています。"
+  ],
+  "tags": [
+   "Spotify",
+   "生成AI",
+   "音楽配信"
+  ],
+  "slug": "spotify-expands-ai-remix-with-merlin",
+  "people": [],
+  "terms": [
+   {
+    "name": "Spotify",
+    "type": "company",
+    "desc": "世界中で広く利用されている、音楽やポッドキャストなどの音声コンテンツを配信するスウェーデンの企業です。"
+   },
+   {
+    "name": "Merlin",
+    "type": "company",
+    "desc": "世界中の数万を超える独立系音楽レーベルやディストリビューターを代表し、権利処理などを支援する組織です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "16:01",
+  "path": "/articles/20260805-spotify-expands-ai-remix-with-merlin.html"
+ },
+ {
+  "title": "ハンク・グリーン氏、AI利用批判を受け制作活動の一時休止を発表",
+  "lead": "人気ユーチューバーのハンク・グリーン氏が、自身のAI利用をめぐる激しい批判を受けて制作活動から一歩引くことを明らかにしました。",
+  "summary3": [
+   "ハンク・グリーン氏がAI利用で批判",
+   "批判を受け制作活動の一時休止を表明",
+   "AIはリサーチ源の探索に使用と説明"
+  ],
+  "body": [
+   "人気ユーチューバーであり科学コミュニケーターとしても知られるハンク・グリーン氏は、自身のAI利用をめぐる激しい批判を受けて、制作活動から一歩引くことを明らかにしました。グリーン氏は、自らのAIの使い方が「健全ではない（not healthy）」と表現しています。",
+   "一方で、同氏はAIの用途について、あくまでリサーチのソースを見つけるために使ったものであり、台本を書くためには使用していないと強く主張しています。",
+   "AIツールの活用方法やその是非をめぐっては、インターネット上で激しい議論が巻き起こっており、今回のグリーン氏の発表もその議論の最中で大きな波紋を広げる形となりました。"
+  ],
+  "tags": [
+   "AI",
+   "LLM",
+   "YouTube"
+  ],
+  "slug": "hank-green-steps-back-over-ai-use",
+  "people": [
+   {
+    "name": "ハンク・グリーン氏",
+    "bio": "人気のYouTubeクリエイターであり、科学分野の情報を分かりやすく伝える科学コミュニケーターとしても広く知られている。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+  "category": "ai",
+  "date": "2026-08-05",
+  "time": "16:01",
+  "path": "/articles/20260805-hank-green-steps-back-over-ai-use.html"
  }
 ]

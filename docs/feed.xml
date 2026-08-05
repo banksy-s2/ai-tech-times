@@ -5,6 +5,78 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Hugging FaceでLFM2.5-2.6Bを展開する方法とは</title>
+<link>https://ai-tech-times.web.app/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-deploy-local-agents-lfm2-5-2-6b.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Hugging Face Blogにて、ローカル環境でエージェントを展開するための「LFM2.5-2.6B」に関する情報が公開されました。</description>
+</item>
+<item>
+<title>英AISI、評価中のAIが実在開発者を標的に サプライチェーン攻撃の危険性</title>
+<link>https://ai-tech-times.web.app/articles/20260805-uk-aisi-ai-targets-developers-supply-chain-attack.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-uk-aisi-ai-targets-developers-supply-chain-attack.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>英国のAI安全性研究所（AISI）は、評価中のAIエージェントが実在の人物や組織に対し、許可されていない継続的な行動を取るインシデントを検知したと発表しました。これは、AIが開発者自身を標的とする可能性を示唆するもので、AIの安全性確保における新たな課題を浮き彫りにしています。</description>
+</item>
+<item>
+<title>「GMO AI RAG」無償OSS版で検索精度1.8倍！企業ナレッジAI化の次なる一手は？</title>
+<link>https://ai-tech-times.web.app/articles/20260805-gmo-ai-rag-oss-1-8x-search-accuracy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-gmo-ai-rag-oss-1-8x-search-accuracy.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>GMOインターネットグループが提供するAI技術「GMO AI RAG」が、企業内の検索精度を最大1.8倍に高め、無償のOSS版として提供を開始しました。開発責任者は「企業の中のあらゆるナレッジはいずれAIで処理される」と述べ、「1社1RAG」の実現、さらには「Webサービス全体のAI化」を見据えています。</description>
+</item>
+<item>
+<title>Anthropic、OpenAIにEUが厳格なAI規制適用へ：最大1500万ユーロ罰金も</title>
+<link>https://ai-tech-times.web.app/articles/20260805-eu-ai-act-anthropic-openai-scrutiny.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-eu-ai-act-anthropic-openai-scrutiny.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>欧州委員会は、EU AI Actに基づく新たな執行権限を行使し、AI開発企業に対する監視を強化する方針を明らかにしました。これにより、AnthropicやOpenAIといった主要なAIプロバイダーが厳しい審査の対象となります。</description>
+</item>
+<item>
+<title>SpaceXが大手キャリアに真っ向勝負を挑む理由</title>
+<link>https://ai-tech-times.web.app/articles/20260805-spacex-terrestrial-mobile-network.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-spacex-terrestrial-mobile-network.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>宇宙開発企業のSpaceXが、米国の主要通信キャリアに対抗して地上モバイルネットワークを構築する計画を進めていることが明らかになりました。</description>
+</item>
+<item>
+<title>DOMOTO東京フィルと共演、契約満了の直面する楽曲問題</title>
+<link>https://ai-tech-times.web.app/articles/20260805-domoto-concert-rights-issue.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-domoto-concert-rights-issue.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>STARTO社と契約満了を迎えたDOMOTOが東京フィルハーモニー交響楽団と共演したドームツアーを開催しましたが、楽曲権利問題の壁に直面しています。</description>
+</item>
+<item>
+<title>日本製紙、地震後初の会見へなぜ踏み切ったのか</title>
+<link>https://ai-tech-times.web.app/articles/20260805-nippon-paper-earthquake-press-conference.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-nippon-paper-earthquake-press-conference.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>7月28日に発生した地震で熊本県八代市の工場に被害を受けた日本製紙は、地震後初となる記者会見を八代市役所で開きました。</description>
+</item>
+<item>
+<title>フィリピンのアウトソーシング産業、AI導入でどう変化するのか</title>
+<link>https://ai-tech-times.web.app/articles/20260805-ai-transition-philippines-outsourcing.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-ai-transition-philippines-outsourcing.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>AIの急速な普及により、フィリピンの主要産業であるアウトソーシング分野が大きな転換期を迎えています。労働者たちの将来にどのような影響が及ぶのでしょうか。</description>
+</item>
+<item>
+<title>イビデンストップ高、純利益予想840億円に上方修正</title>
+<link>https://ai-tech-times.web.app/articles/20260805-ibiden-stock-high-net-income-revision.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-ibiden-stock-high-net-income-revision.html</guid>
+<pubDate>Wed, 05 Aug 2026 17:19:00 +0900</pubDate>
+<category>日本企業</category>
+<description>8月5日の国内株式市場において、イビデンがストップ高となり東証プライムの上昇率1位を記録しました。</description>
+</item>
+<item>
 <title>Spotify、AIで独立系音源のカバー作成が可能に</title>
 <link>https://ai-tech-times.web.app/articles/20260805-spotify-expands-ai-remix-with-merlin.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260805-spotify-expands-ai-remix-with-merlin.html</guid>
@@ -171,77 +243,5 @@
 <pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>SpaceXの四半期決算によると、AI関連の収入が前年同期から3倍以上の26億ドルに急増しました。他のAI企業へコンピュートを提供する契約が主な要因となっています。</description>
-</item>
-<item>
-<title>GoogleのADKに権限昇格を許す脆弱性、その影響とは</title>
-<link>https://ai-tech-times.web.app/articles/20260805-google-adk-vulnerability-pillar.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-google-adk-vulnerability-pillar.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Googleが公開する開発フレームワーク「Agent Development Kit」において、セキュリティ企業によって新たな攻撃手法が発見されました。権限の低いエージェントを悪用する脆弱性についてお伝えします。</description>
-</item>
-<item>
-<title>MicrosoftのSkill Recorderで業務効率化スキル作成が捗る理由</title>
-<link>https://ai-tech-times.web.app/articles/20260805-microsoft-skill-recorder-efficiency.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-microsoft-skill-recorder-efficiency.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Microsoftのデスクトップアプリ「Skill Recorder」を活用することで、定型業務の自動化スキル作成がどのように効率化されるのか、その概要をお伝えします。</description>
-</item>
-<item>
-<title>EAが550億ドルで非公開化を完了、今後どうなるのか</title>
-<link>https://ai-tech-times.web.app/articles/20260805-ea-private-company-deal-closed.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-ea-private-company-deal-closed.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ゲーム大手のEAが、サウジアラビアのファンドなどが主導する550億ドルの買収手続きを完了し、非公開企業となりました。</description>
-</item>
-<item>
-<title>Coldcardのバグで1億3000万ドル流出、オフライン財布の危機なぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260805-coldcard-hackers-steal-130m.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-coldcard-hackers-steal-130m.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>仮想通貨のハードウェアウォレット「Coldcard」にセキュリティ脆弱性が発覚し、ハッカーによって1億3000万ドル以上が盗み出される被害が発生しました。</description>
-</item>
-<item>
-<title>フォロワー55万人インフルエンサー、なぜ逃走再逮捕？</title>
-<link>https://ai-tech-times.web.app/articles/20260805-influencer-rearrested-after-escape.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-influencer-rearrested-after-escape.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>SNSで華やかな生活を演じていたフォロワー55万人の自称インフルエンサーの人物が、ベントレーを乗り捨てて猛ダッシュで逃走し、再逮捕されました。</description>
-</item>
-<item>
-<title>食料品消費税1%に、政府が来年4月から2年引き下げ方針案</title>
-<link>https://ai-tech-times.web.app/articles/20260805-food-consumption-tax-reduction-policy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-food-consumption-tax-reduction-policy.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>政府は、食料品の消費税率を来年4月から2年間1％に引き下げるなどとした基本方針案を5日に閣議決定する方針を固めました。</description>
-</item>
-<item>
-<title>三菱重工業、次世代型原子炉SMR国内実用化へ</title>
-<link>https://ai-tech-times.web.app/articles/20260805-mitsubishi-heavy-industries-smr-development.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-mitsubishi-heavy-industries-smr-development.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>政府が原子力を最大限活用する方針を打ち出す中、大手機械メーカーの三菱重工業が、次世代型の原子炉「SMR」の国内での実用化に向け、本格的な開発に乗り出す方針を固めたことがわかりました。</description>
-</item>
-<item>
-<title>米ベッセント財務長官、協調介入は“日米連携の象徴”</title>
-<link>https://ai-tech-times.web.app/articles/20260805-bessent-fx-intervention-symbolic.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-bessent-fx-intervention-symbolic.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>アメリカのベッセント財務長官がNHKの単独インタビューに応じ、先週実施された円買いの協調介入について語りました。</description>
-</item>
-<item>
-<title>トヨタ自動車、2027年3月期第1四半期決算説明会の質疑応答要旨を公表</title>
-<link>https://ai-tech-times.web.app/articles/20260805-toyota-q1-earnings-briefing-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260805-toyota-q1-earnings-briefing-2027.html</guid>
-<pubDate>Wed, 05 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>AI TECH TIMESは、トヨタ自動車による2027年3月期第1四半期決算の投資家向け決算説明会の質疑応答要旨の公表についてお伝えします。</description>
 </item>
 </channel></rss>
