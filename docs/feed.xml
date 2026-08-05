@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>テキサス州が新規データセンターを停止、知事が監査を要求</title>
+<link>https://ai-tech-times.web.app/articles/20260805-texas-halts-new-data-centers-as-governor-calls-for-audits.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-texas-halts-new-data-centers-as-governor-calls-for-audits.html</guid>
+<pubDate>Wed, 05 Aug 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>テック企業や開発者を引きつけてきたテキサス州で、新規データセンターの建設が停止され、知事が監査を要求する事態となりました。</description>
+</item>
+<item>
+<title>Apple、英暗号データ要求で法的闘争へ</title>
+<link>https://ai-tech-times.web.app/articles/20260805-apple-encrypted-data-legal-challenge-uk.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260805-apple-encrypted-data-legal-challenge-uk.html</guid>
+<pubDate>Wed, 05 Aug 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米Appleが、イギリスにおける暗号化データへのアクセス要求をめぐり、新たな法的手続きを開始したことが明らかになりました。</description>
+</item>
+<item>
 <title>Nvidia主導のAI連合、発足1週間で防御策を提示</title>
 <link>https://ai-tech-times.web.app/articles/20260805-nvidia-open-secure-ai-alliance-progress.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260805-nvidia-open-secure-ai-alliance-progress.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 04 Aug 2026 19:01:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>AWSは、バイブコーディングツールを手がけるSuperblocksを顧客のプライベートクラウドに組み込めるようにしました。この動きが示すアプリとモデルの分離への影響についてお伝えします。</description>
-</item>
-<item>
-<title>SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ</title>
-<link>https://ai-tech-times.web.app/articles/20260804-spacex-acquires-louisiana-marshland.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-spacex-acquires-louisiana-marshland.html</guid>
-<pubDate>Tue, 04 Aug 2026 19:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米宇宙企業SpaceXが、南部ルイジアナ州で広大な土地の取得を進めています。新たな発射サイトの開設に向けた動きとみられています。</description>
-</item>
-<item>
-<title>EU AI Act透明性義務開始、違反に最大1500万ユーロ</title>
-<link>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules-2.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260804-eu-ai-act-transparency-rules-2.html</guid>
-<pubDate>Tue, 04 Aug 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>EUの欧州委員会は、AI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始しました。生成AI事業者にラベル付与などが義務付けられます。</description>
 </item>
 </channel></rss>

@@ -1,18 +1,26 @@
 {
- "updated": "2026-08-05 09:01",
- "mode": "軽量便(日本のAI)",
- "articles": [],
+ "updated": "2026-08-05 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "テキサス州が新規データセンターを停止、知事が監査を要求",
+   "path": "/articles/20260805-texas-halts-new-data-centers-as-governor-calls-for-audits.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Apple、英暗号データ要求で法的闘争へ",
+   "path": "/articles/20260805-apple-encrypted-data-legal-challenge-uk.html",
+   "cat": "シリコンバレー最速"
+  }
+ ],
  "buzz_top": {
   "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
   "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
  },
- "notes": [
-  "執筆失敗: 「私がウダウダしゃべるより聞きやすい」　三菱重工、決算説明に“AIジュリア”起用",
-  "執筆失敗: 1Password、ダッシュボードから組織のAI支出状況を表示する新機能。Cla"
- ],
+ "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 62,
+  "used": 66,
   "limit": 200
  }
 }
