@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-05 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-05 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "古河電気工業が10%高で続伸、光ファイバー増産になぜ1000億円？",
-   "path": "/articles/20260805-furukawa-electric-fiber-optics-investment.html",
-   "cat": "株式投資(日本)"
+   "title": "三菱重工が決算説明にAI起用した理由",
+   "path": "/articles/20260805-mhi-earnings-ai-julia.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 105,
+  "used": 109,
   "limit": 200
  }
 }

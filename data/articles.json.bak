@@ -34140,5 +34140,39 @@
   "date": "2026-08-05",
   "time": "13:00",
   "path": "/articles/20260805-boj-june-meeting-minutes-2024.html"
+ },
+ {
+  "title": "古河電気工業が10%高で続伸、光ファイバー増産になぜ1000億円？",
+  "lead": "古河電気工業の株価が続伸し、10%高を記録しました。光ファイバーの増産に向けて1000億円を投じる方針が報じられています。",
+  "summary3": [
+   "古河電気工業の株価が続伸",
+   "値上がり率は10%高を記録",
+   "光ファイバー増産に1000億円"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が日本経済新聞の報道をもとに伝えたところによると、古河電気工業の株式市場における株価が続伸し、10%高を記録する展開となりました。",
+   "今回の株価上昇をめぐっては、同社が光ファイバーの増産に向けて1000億円規模の投資を行う方針であることが明らかになっています。",
+   "市場においては、巨額の資金を投じる大規模な増産計画が注目を集める形となり、今後の動向に関心が集まっています。"
+  ],
+  "tags": [
+   "古河電気工業",
+   "株価",
+   "光ファイバー"
+  ],
+  "slug": "furukawa-electric-fiber-optics-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "古河電気工業",
+    "type": "company",
+    "desc": "日本の大手非鉄金属メーカーであり、通信用の光ファイバーや電線などの製造・販売を主力事業として展開している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wODJ4Q0QxUjVlcWh2UFRzQXhWQUY5bjVBNktZazdHaUh6OVNMWmFTRjhvY0NYNGFjX3U1Y2EwajZCV2R5T3JDeTEtVWJ6LXdWM3FJWTE2ZTZkcTNyQ1cyblVqNjdlZGFEUzR3Rw?oc=5",
+  "category": "stock",
+  "date": "2026-08-05",
+  "time": "14:00",
+  "path": "/articles/20260805-furukawa-electric-fiber-optics-investment.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-05 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [三菱重工が決算説明にAI起用した理由](https://ai-tech-times.web.app/articles/20260805-mhi-earnings-ai-julia.html) — 2026-08-05 15:00: 三菱重工が、決算説明にAIナレーター「ジュリア」を起用しました。導入の狙いを問われた西尾浩CFOが笑顔で語った理由とは何だったのでしょうか。
 - [古河電気工業が10%高で続伸、光ファイバー増産になぜ1000億円？](https://ai-tech-times.web.app/articles/20260805-furukawa-electric-fiber-optics-investment.html) — 2026-08-05 14:00: 古河電気工業の株価が続伸し、10%高を記録しました。光ファイバーの増産に向けて1000億円を投じる方針が報じられています。
 - [TSMCが熊本被災地へ2億5000万円寄付、その支援の行方は](https://ai-tech-times.web.app/articles/20260805-tsmc-kumamoto-donation.html) — 2026-08-05 13:00: 台湾の半導体大手TSMCは、熊本県の被災地復旧・復興支援として2億5000万円を寄付すると公表しました。現地で進む支援の動きをお伝えします。
 - [日銀、利上げ決定の6月会合議事要旨を公表](https://ai-tech-times.web.app/articles/20260805-boj-june-meeting-minutes-2024.html) — 2026-08-05 13:00: 日銀は、利上げを決定した6月の金融政策決定会合の議事要旨を公表しました。物価上昇リスクへの対応や今後の追加利上げについてどのような議論が行われたのか、その詳細が明らかになりました。
@@ -41,14 +42,13 @@
 - [AMDデータセンター売上107%増、AI需要で好調](https://ai-tech-times.web.app/articles/20260805-amd-datacenter-boom-q2-2026.html) — 2026-08-05 08:00: AI需要の拡大を背景に、AMDの最新四半期決算でデータセンター部門の売上高が前年同期比で倍増以上の67億ドルに達しました。ゲーム部門が後退する中、なぜここまで急成長を遂げたのでしょうか。
 - [SpaceX、AI収入が前年比3倍超の26億ドルに急増した理由](https://ai-tech-times.web.app/articles/20260805-spacex-ai-revenue-growth.html) — 2026-08-05 07:02: SpaceXの四半期決算によると、AI関連の収入が前年同期から3倍以上の26億ドルに急増しました。他のAI企業へコンピュートを提供する契約が主な要因となっています。
 - [GoogleのADKに権限昇格を許す脆弱性、その影響とは](https://ai-tech-times.web.app/articles/20260805-google-adk-vulnerability-pillar.html) — 2026-08-05 07:02: Googleが公開する開発フレームワーク「Agent Development Kit」において、セキュリティ企業によって新たな攻撃手法が発見されました。権限の低いエージェントを悪用する脆弱性についてお伝えします。
-- [MicrosoftのSkill Recorderで業務効率化スキル作成が捗る理由](https://ai-tech-times.web.app/articles/20260805-microsoft-skill-recorder-efficiency.html) — 2026-08-05 07:02: Microsoftのデスクトップアプリ「Skill Recorder」を活用することで、定型業務の自動化スキル作成がどのように効率化されるのか、その概要をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-08-05)
 - 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 - 2位: [BABYMONSTER - 'MOON' PERFORMANCE VIDEO](https://www.youtube.com/watch?v=LYbHsAsj6i8)
 - 3位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
 
-## AI用語事典 (全678語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全680語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
