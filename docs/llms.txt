@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 02:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [立川志らくの弟子になった立川さぎ志とは](https://ai-tech-times.web.app/articles/20260806-hikaru-tatekawa-shiraku-rakugo.html) — 2026-08-06 03:00: YouTuberのヒカルが、落語家の立川志らくの弟子「立川さぎ志」として独演会に出演しました。
 - [Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表](https://ai-tech-times.web.app/articles/20260806-google-announces-major-ai-leadership-shakeup.html) — 2026-08-06 02:01: 米Googleは現地時間水曜日、AI部門のトップリーダーシップにおける大規模な人事刷新を発表しました。Google DeepMindを率いてきたデミス・ハサビス氏らが新たな役職に就任します。
 - [DeNA営業利益46%減、ゲームからAI新事業へ舵を切る理由](https://ai-tech-times.web.app/articles/20260806-dena-earnings-ai-shift.html) — 2026-08-06 01:00: ディー・エヌ・エー（DeNA）が発表した2026年4〜6月期の連結決算は、ゲーム事業の低迷が響き営業利益が前年同期比46%減となりました。南場智子社長はゲームから新規事業の創出へと軸足を移す方針を示しています。
 - [JFrog検証：SQLiteの偽CVEが54件判明](https://ai-tech-times.web.app/articles/20260806-jfrog-sqlite-fake-cve-ai.html) — 2026-08-06 01:00: 米JFrogが公開した検証結果により、SQLiteの脆弱性を主張する実在しないCVEが大量に登録されていたことが明らかになりました。AI生成による偽情報がデータベースの登録プロセスをすり抜けた形となり、セキュリティ上の深刻な穴が指摘されています。
@@ -41,14 +42,13 @@
 - [白泉社の『ドカ食いダイスキ！ もちづきさん』がTVアニメ化決定](https://ai-tech-times.web.app/articles/20260805-dokagui-daisuki-mochizuki-san-anime.html) — 2026-08-05 20:00: 「ヤングアニマルZERO」「ヤングアニマルWeb」で連載中の人気作『ドカ食いダイスキ！ もちづきさん』のTVアニメ化が決定しました。
 - [SpaceX、テスラ製Megapackを3.29億ドル購入：マスク氏企業群の連携深まる](https://ai-tech-times.web.app/articles/20260805-spacex-tesla-megapack-purchase-musk-companies-interconnected.html) — 2026-08-05 19:10: 宇宙開発企業のSpaceXが、電気自動車メーカーTeslaの蓄電池システム「Megapack」を今年これまでに3億2900万ドル相当購入したことが明らかになりました。この大規模な取引は、両社を率いるイーロン・マスク氏の企業群がいかに深く連携しているかを示しています。
 - [Palantir Karp氏、AIラボの「IP蒸留」を非難 その影響とは](https://ai-tech-times.web.app/articles/20260805-palantir-karp-ai-labs-ip-distillation-criticism.html) — 2026-08-05 19:10: データ分析企業Palantir TechnologiesのCEOであるアレックス・カープ氏が、最先端のAI技術開発を担う「フロンティアAIラボ」に対し、再び厳しい批判を展開しました。同氏は、これらのラボが知的財産（IP）の価値をあらゆる場所から「蒸留」していると指摘し、その行為が中国モデルによる米国モデルの蒸留を非難できない状況を生み出していると主張しています。
-- [キオクシア、1,000万IOPSのGPU直通SSD「GP1」でHBM高騰に新風](https://ai-tech-times.web.app/articles/20260805-kioxia-gp1-gpu-ssd-hbm.html) — 2026-08-05 18:06: 半導体メモリ大手のキオクシアが、GPUに直接接続可能なSSD「GP1」を発表しました。この新製品は、1,000万IOPSという高い性能を誇り、高騰が続くHBM（広帯域幅メモリ）の代替となる可能性を秘めています。
 
 ## 世界のバズ動画TOP3 (2026-08-06)
-- 1位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
-- 2位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
-- 3位: [Violent Night 2 | Official Trailer](https://www.youtube.com/watch?v=FmM2giDwLAE)
+- 1位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
+- 2位: [My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring "Weird Al" Yankovic)](https://www.youtube.com/watch?v=1zqEKPJV3po)
+- 3位: [aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV](https://www.youtube.com/watch?v=xcFbyuzd9S8)
 
-## AI用語事典 (全710語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全711語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

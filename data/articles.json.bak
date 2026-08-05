@@ -35357,5 +35357,58 @@
   "date": "2026-08-06",
   "time": "01:00",
   "path": "/articles/20260806-jfrog-sqlite-fake-cve-ai.html"
+ },
+ {
+  "title": "Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表",
+  "lead": "米Googleは現地時間水曜日、AI部門のトップリーダーシップにおける大規模な人事刷新を発表しました。Google DeepMindを率いてきたデミス・ハサビス氏らが新たな役職に就任します。",
+  "summary3": [
+   "GoogleがAI部門のトップ人事刷新を発表",
+   "デミス・ハサビス氏が新役職へ就任",
+   "アルファベットのチーフサイエンティストも兼務"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がThe Vergeの報道を元にお伝えします。米Googleは水曜日、AI分野をリードするトップリーダーシップの大規模な刷新を行いました。",
+   "今回の人事により、Google DeepMindのリーダーであるデミス・ハサビス氏は、Google DeepMindのチェア（議長）および親会社アルファベットのチーフサイエンティストに就任すると、CEOのサンダー・ピチャイ氏が発表しました。",
+   "ハサビス氏は今後も、AIを活用して医薬品開発を目指すアルファベット傘下のIsomorphic Labsの指揮を執り続けます。今回の変更は、同社のAI開発体制における重要な動きとなります。"
+  ],
+  "tags": [
+   "Google",
+   "DeepMind",
+   "AI人事"
+  ],
+  "slug": "google-announces-major-ai-leadership-shakeup",
+  "people": [
+   {
+    "name": "デミス・ハサビス氏",
+    "bio": "Google DeepMindのリーダーであり、人工知能の研究開発で世界的に知られる科学者。"
+   },
+   {
+    "name": "サンダー・ピチャイ氏",
+    "bio": "Googleおよび親会社アルファベットの最高経営責任者（CEO）を務める実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に多様なソフトウェアやハードウェア、AI技術を提供する米国の巨大IT企業。"
+   },
+   {
+    "name": "Google DeepMind",
+    "type": "company",
+    "desc": "Google傘下の世界的な人工知能研究ラボで、最先端のAIモデルや技術開発を主導している。"
+   },
+   {
+    "name": "Isomorphic Labs",
+    "type": "company",
+    "desc": "アルファベット傘下の企業で、人工知能を活用した画期的な医薬品の開発に取り組んでいる。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+  "category": "silicon",
+  "date": "2026-08-06",
+  "time": "02:01",
+  "path": "/articles/20260806-google-announces-major-ai-leadership-shakeup.html"
  }
 ]

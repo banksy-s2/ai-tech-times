@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-06 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-06 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表",
-   "path": "/articles/20260806-google-announces-major-ai-leadership-shakeup.html",
-   "cat": "シリコンバレー最速"
+   "title": "立川志らくの弟子になった立川さぎ志とは",
+   "path": "/articles/20260806-hikaru-tatekawa-shiraku-rakugo.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' MV",
-  "url": "https://www.youtube.com/watch?v=xcFbyuzd9S8"
+  "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
+  "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
- "notes": [
-  "執筆失敗: Saudi wealth fund and Jared Kushner's Af"
- ],
- "pv_today": 1,
+ "notes": [],
+ "pv_today": 4,
  "gemini": {
-  "used": 12,
+  "used": 16,
   "limit": 200
  }
 }
