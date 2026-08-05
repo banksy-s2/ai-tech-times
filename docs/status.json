@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-05 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-05 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "三菱重工が決算説明にAI起用した理由",
-   "path": "/articles/20260805-mhi-earnings-ai-julia.html",
-   "cat": "日本企業"
+   "title": "Spotify、AIで独立系音源のカバー作成が可能に",
+   "path": "/articles/20260805-spotify-expands-ai-remix-with-merlin.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ハンク・グリーン氏、AI利用批判を受け制作活動の一時休止を発表",
+   "path": "/articles/20260805-hank-green-steps-back-over-ai-use.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 109,
+  "used": 114,
   "limit": 200
  }
 }
