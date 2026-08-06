@@ -37588,5 +37588,93 @@
   "date": "2026-08-07",
   "time": "00:01",
   "path": "/articles/20260807-google-maps-adds-agentic-features.html"
+ },
+ {
+  "title": "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
+  "lead": "ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。",
+  "summary3": [
+   "SBG決算説明会で後藤CFOが発言",
+   "AIデータセンターは圧倒的に供給不足",
+   "市場で囁かれるバブル疑惑を否定"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。ソフトバンクグループ（SBG）の後藤芳光氏（取締役 専務執行役員 CFO兼CISO）は、同社の2027年3月期第1四半期連結決算の説明会に出席しました。",
+   "その中で後藤氏は、一部で懸念されているAI向けデータセンターの「バブル疑惑」について明確に否定する見解を示しました。「AI向けデータセンターは圧倒的に供給不足だ」と述べ、市場の需要が引き続き非常に高い水準にあることを強調しています。",
+   "今回の説明会における発言は、急速に拡大を続けるAIインフラ市場の現状を読み解く上で重要な手がかりとなります。供給が追いつかないほどの高い需要が今後どのように推移していくのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "ソフトバンクグループ",
+   "AIデータセンター",
+   "決算説明会"
+  ],
+  "slug": "softbank-group-ai-datacenter-supply",
+  "people": [
+   {
+    "name": "後藤芳光氏",
+    "bio": "ソフトバンクグループ取締役 専務執行役員 CFO兼CISOとして財務戦略を統括する重要人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "日本を拠点に通信事業や大規模な投資事業を展開する持株会社。AI分野への大型投資でも知られる。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "01:00",
+  "path": "/articles/20260807-softbank-group-ai-datacenter-supply.html"
+ },
+ {
+  "title": "Atlassian Rovoに社内データが外部送信される脆弱性",
+  "lead": "プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。",
+  "summary3": [
+   "Atlassian Rovoに脆弱性を発見",
+   "JiraやConfluenceのデータが流出",
+   "管理者が検索を無効にしても防げず"
+  ],
+  "body": [
+   "「Atlassian Rovo」は、プロジェクト管理や情報共有ツールを提供するAtlassianが展開するAIサービスです。セキュリティ企業のPromptArmorによると、このRovoにおいて深刻な脆弱性が発見されました。",
+   "具体的には、悪意ある命令を埋め込んだ文書をAIに読ませるだけで、JiraやConfluenceに保存されている社内データを外部へ送信できてしまうというものです。しかも、利用者による送信承認は必要としない仕様になっています。",
+   "さらに、組織の管理者がウェブ検索機能が無効にしている設定であっても、今回の攻撃を防ぐことはできないとのことです。社内データを扱うAIサービスの安全性について、大きな懸念が生じる結果となっています。"
+  ],
+  "tags": [
+   "Atlassian",
+   "Rovo",
+   "セキュリティ"
+  ],
+  "slug": "atlassian-rovo-vulnerability",
+  "people": [],
+  "terms": [
+   {
+    "name": "Atlassian",
+    "type": "company",
+    "desc": "JiraやConfluenceなどのプロジェクト管理・コラボレーションツール開発で知られる企業です。"
+   },
+   {
+    "name": "Atlassian Rovo",
+    "type": "ai",
+    "desc": "Atlassianが提供する、社内データや業務をサポートするために開発されたAIサービスです。"
+   },
+   {
+    "name": "Jira",
+    "type": "ai",
+    "desc": "Atlassianが提供する、ソフトウェア開発やプロジェクト管理のための課題追跡ツールです。"
+   },
+   {
+    "name": "Confluence",
+    "type": "ai",
+    "desc": "Atlassianが提供する、チームの共同作業や文書共有を効率化するためのナレッジ管理ツールです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260806-atlassian-rovo/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "01:00",
+  "path": "/articles/20260807-atlassian-rovo-vulnerability.html"
  }
 ]

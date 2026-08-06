@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ソフトバンク、トランプ図書館に5000万ドル寄付の真相](https://ai-tech-times.web.app/articles/20260807-softbank-trump-library-donation.html) — 2026-08-07 02:00: ソフトバンクがトランプ大統領の図書館へ5000万ドルを寄付していたことが判明しました。連邦政府との土地リース契約の数ヶ月前の出来事です。
 - [ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実](https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html) — 2026-08-07 01:00: ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。
 - [Atlassian Rovoに社内データが外部送信される脆弱性](https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html) — 2026-08-07 01:00: プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。
 - [Google Cloud、Mirendilと1億ドル超の提携](https://ai-tech-times.web.app/articles/20260807-mirendil-google-cloud-deal.html) — 2026-08-07 00:01: AI TECH TIMESは、MirendilがGoogle Cloudと1億ドル以上のパートナーシップを締結したことを報じます。計算インフラを拡張し、自己改善型AIの研究を加速させる狙いがあります。
@@ -41,14 +42,13 @@
 - [ソフトバンクグループ、17％余の減益なぜ？英社の人員増が影響](https://ai-tech-times.web.app/articles/20260806-softbank-group-earnings-decline.html) — 2026-08-06 21:04: ソフトバンクグループが発表したことし6月までの3か月間の決算は、最終利益が前の年の同じ時期と比べ17％余り減少しました。傘下の企業における人員増強などが利益を押し下げています。
 - [韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡](https://ai-tech-times.web.app/articles/20260806-japanese-influencer-dies-during-live-stream-in-korea.html) — 2026-08-06 20:00: 韓国に居住する20代女性の日本人インフルエンサーが、自宅でのライブ配信中に死亡していることが確認されました。
 - [Sequoiaが100億ドル調達、AI特化の戦略転換でどう挑むのか](https://ai-tech-times.web.app/articles/20260806-sequoia-revamped-strategy-ai-funding.html) — 2026-08-06 19:00: 伝統的な老舗ベンチャーキャピタルであるSequoiaが、人工知能（AI）が支配する世界に向けて戦略を大きく刷新しました。新たに約100億ドルの資金を調達し、大胆なAI投資へと舵を切っています。
-- [OpenAI、ビザ保持者のグリーンカード申請で米司法省の監視対象に](https://ai-tech-times.web.app/articles/20260806-openai-green-card-sponsorships-doj.html) — 2026-08-06 19:00: 米司法省（DOJ）は、AI開発を手がけるOpenAIがビザ保持者の永住権申請前に米国の労働者を雇用する試みを十分に行わなかったと主張し、監視を強めています。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
 - 2位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 - 3位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 
-## AI用語事典 (全755語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全757語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -67,10 +67,10 @@
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
+- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
-- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。

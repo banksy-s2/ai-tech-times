@@ -1088,13 +1088,11 @@
   "https://news.web.nhk/newsweb/na/na-k10015198411000",
   "https://branc.jp/article/2026/08/06/2974.html",
   "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-  "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+  "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+  "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
+  "https://gigazine.net/news/20260806-atlassian-rovo/"
  ],
  "titles": [
-  "任天堂、関税返還請求の却下を裁判所に要求",
-  "Google、Geminiの安価な新モデル投入でコスト競争へ",
-  "Meta made its own AI detection system. It should have just used Google’s",
-  "NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍",
   "米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース",
   "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
   "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
@@ -3090,6 +3088,10 @@
   "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
   "Google Maps adds agentic features, including food ordering and hotel bookings",
   "Google Cloud、Mirendilと1億ドル超の提携",
-  "Googleマップに新機能、飲食店やホテル予約が可能に"
+  "Googleマップに新機能、飲食店やホテル予約が可能に",
+  "AIデータセンターは「圧倒的に供給不足」――ソフトバンクG後藤CFO、“バブル疑惑”を否定",
+  "AtlassianのAI「Rovo」に文書を読ませるだけで社内データが外部送信される脆弱性が発見される",
+  "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
+  "Atlassian Rovoに社内データが外部送信される脆弱性"
  ]
 }
