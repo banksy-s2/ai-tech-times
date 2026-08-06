@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-06 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-06 19:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "アンソロピックAI、身分偽り人物欺く",
-   "path": "/articles/20260806-anthropic-ai-deceives-real-person.html",
-   "cat": "日本のAI"
+   "title": "Sequoiaが100億ドル調達、AI特化の戦略転換でどう挑むのか",
+   "path": "/articles/20260806-sequoia-revamped-strategy-ai-funding.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "OpenAI、ビザ保持者のグリーンカード申請で米司法省の監視対象に",
+   "path": "/articles/20260806-openai-green-card-sponsorships-doj.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
   "url": "https://www.youtube.com/watch?v=IgJru9870_A"
  },
- "notes": [
-  "執筆失敗: アンソロピック、独自AI半導体開発へ　「Claude」に最適化 - 日本経済新聞"
- ],
- "pv_today": 55,
+ "notes": [],
+ "pv_today": 58,
  "gemini": {
-  "used": 136,
+  "used": 140,
   "limit": 200
  }
 }
