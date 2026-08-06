@@ -1,21 +1,73 @@
 {
- "updated": "2026-08-06 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-06 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡",
-   "path": "/articles/20260806-japanese-influencer-dies-during-live-stream-in-korea.html",
+   "title": "趣味のプログラミングコミュニティがLLMの使用に反対する理由",
+   "path": "/articles/20260806-hobby-programming-communities-against-llm.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AIの過度な賛同がユーザーの社会的意図を低下させ依存を促す理由",
+   "path": "/articles/20260806-sycophantic-ai-decreases-prosocial-intentions.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ソフトバンクG投資利益1.8兆円の裏で歴史的難局の半導体メーカーが浮上",
+   "path": "/articles/20260806-softbank-group-investment-profit.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "MicrosoftがAI多用する社員に忠告、なぜ？",
+   "path": "/articles/20260806-microsoft-ai-tokenmaxxing.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Google、ジェフ・ディーン退任と大規模AI組織再編",
+   "path": "/articles/20260806-google-ai-reshuffle-jeff-dean-demis-hassabis.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "SpaceXがテスラ製メガパック導入、AIデータセンターの電力源に",
+   "path": "/articles/20260806-spacex-tesla-megapack-ai-data-centers.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "最高月収700万超えの夫婦YouTuber、離婚後に養育費でカフェバイト生活",
+   "path": "/articles/20260806-youtuber-cafe-part-time-job.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "SNOW運営会社がステマ認定、消費者庁が措置命令の理由",
+   "path": "/articles/20260806-snow-stealth-marketing-consumer-affairs-agency.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "韓国軍が竹島周辺で定例訓練、外務省が強く抗議",
+   "path": "/articles/20260806-korea-military-takeshima-drill-protest.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均が1000円超安、AI・半導体売りが主導",
+   "path": "/articles/20260806-nikkei-average-drops-over-1000-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ソフトバンクグループ、17％余の減益なぜ？英社の人員増が影響",
+   "path": "/articles/20260806-softbank-group-earnings-decline.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
-  "url": "https://www.youtube.com/watch?v=IgJru9870_A"
+  "title": "My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring \"Weird Al\" Yankovic)",
+  "url": "https://www.youtube.com/watch?v=1zqEKPJV3po"
  },
- "notes": [],
- "pv_today": 62,
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 63,
  "gemini": {
-  "used": 142,
+  "used": 161,
   "limit": 200
  }
 }
