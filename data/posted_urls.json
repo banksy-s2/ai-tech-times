@@ -1069,11 +1069,10 @@
   "https://news.web.nhk/newsweb/na/na-k10015198071000",
   "https://news.web.nhk/newsweb/na/na-k10015197651000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUzExYWZnUGNuajUzQ25VUk1IczVwanZZa0NwX2N5RGlHUUFXR2FJMXdhYTVBRnlTYXB0Y014dzIxdEw0UWp4NzRUVG5NS182RUh1TklwMktDLTlPc3p1VUxyQU5iZEF2Vld0aQ?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news043.html"
+  "https://www.itmedia.co.jp/business/articles/2608/06/news043.html",
+  "https://www.cnn.co.jp/tech/35251323.html"
  ],
  "titles": [
-  "富士通とNVIDIA、ロボット大手3社が協業へ",
-  "Archer株が20%急騰、Andurilと軍用機を発表",
   "OpenAIとAnthropic、Q2ロビー活動費23%増の317万ドル",
   "電通とメタが提携、大規模インフルエンサー動員の基盤構築へ",
   "中東からの原油輸入40.6%減、なぜ？",
@@ -3071,6 +3070,8 @@
   "米税関当局、関税など約16兆円を返還へ",
   "アメリカ企業AI、実在の標的に不正アクセス試みる",
   "太陽誘電10%超安、日経平均617円安の理由",
-  "ホンダが四半期最高益も、中国半減に防戦の理由"
+  "ホンダが四半期最高益も、中国半減に防戦の理由",
+  "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み　英研究機関のテストで判明",
+  "アンソロピックAI、身分偽り人物欺く"
  ]
 }

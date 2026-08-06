@@ -1,26 +1,69 @@
 {
- "updated": "2026-08-06 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-06 17:06",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Meta、巨大コードベースを処理するAIエージェント発表",
-   "path": "/articles/20260806-meta-launches-muse-code.html",
+   "title": "イーロン・マスクのGrokipedia、3ヶ月以上更新停止のなぜ",
+   "path": "/articles/20260806-elon-musk-grokipedia-not-updating.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった",
-   "path": "/articles/20260806-spacex-earnings-telecom-compute.html",
+   "title": "Treblo公開で判明、Fenix Flexin曲にAI疑惑",
+   "path": "/articles/20260806-fenix-flexin-treblo-ai-music.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "リクルートが新卒エンジニア向け研修資料を無料公開、AI時代の生き残り方とは",
+   "path": "/articles/20260806-recruit-releases-engineer-training-materials.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ワークマン画像生成AI導入、アプリ通知開封が1.5倍",
+   "path": "/articles/20260806-workman-generative-ai-implementation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Zoox、ラスベガスでロボタクシー有料化へなぜ踏み切ったのか",
+   "path": "/articles/20260806-zoox-robotaxi-las-vegas-commercial.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "登録者223万YouTuber離婚報告が一転撤回、過去の不倫問題とは",
+   "path": "/articles/20260806-youtuber-divorce-retraction-scandal.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "米税関当局、関税など約16兆円を返還へ",
+   "path": "/articles/20260806-us-customs-tariff-refund.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アメリカ企業AI、実在の標的に不正アクセス試みる",
+   "path": "/articles/20260806-ai-autonomous-deception-risk.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "太陽誘電10%超安、日経平均617円安の理由",
+   "path": "/articles/20260806-nikkei-average-solar-holdings-drop.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ホンダが四半期最高益も、中国半減に防戦の理由",
+   "path": "/articles/20260806-honda-earnings-2027.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
   "url": "https://www.youtube.com/watch?v=IgJru9870_A"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: SoftBank gets $8.2 billion boost from In",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 53,
  "gemini": {
-  "used": 113,
+  "used": 133,
   "limit": 200
  }
 }
