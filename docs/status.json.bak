@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-07 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-07 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "ソフトバンク、トランプ図書館に5000万ドル寄付の真相",
-   "path": "/articles/20260807-softbank-trump-library-donation.html",
-   "cat": "シリコンバレー最速"
+   "title": "メキシコ、生配信中のインフルエンサー射殺事件",
+   "path": "/articles/20260807-influencer-shot-dead-in-mexico.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-  "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
+  "title": "Tough Call | D.Mon Hero Trailer | Overwatch",
+  "url": "https://www.youtube.com/watch?v=i2zohQuNcbo"
  },
- "notes": [
-  "執筆失敗: Tesla and SpaceX will invest $16.8B to s"
- ],
- "pv_today": null,
+ "notes": [],
+ "pv_today": 4,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
