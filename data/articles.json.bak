@@ -37882,5 +37882,396 @@
   "date": "2026-08-07",
   "time": "06:00",
   "path": "/articles/20260807-byd-racco-ev-development.html"
+ },
+ {
+  "title": "ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明",
+  "lead": "元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。",
+  "summary3": [
+   "Jony Ive氏とOpenAIがAI端末を共同開発",
+   "ホッケーパックサイズのバッテリー駆動型スピーカー",
+   "価格は300ドルを超え、2027年発売を予定"
+  ],
+  "body": [
+   "海外メディア「The Verge AI」の報道によると、AI開発を手がけるOpenAIが、元Appleのデザイナーであるジョニー・アイブ氏と共に開発を進めているAI端末の全貌が明らかになりつつあります。Bloombergのマーク・ガーマン記者による情報として伝えられました。",
+   "この新しいAIデバイスは、ディスプレイ非搭載のバッテリー駆動式スマートスピーカーです。ドーナツ型をしており、大きさはホッケーパックほどのサイズになる見込みとなっています。独自のルックスを持つユニークな外観に仕上がると伝えられています。",
+   "気になる価格や発売時期については、300ドルを超える価格設定となり、2027年の市場投入が予定されているとのことです。今後の具体的な仕様や機能の発表に注目が集まります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "JonyIve",
+   "ガジェット"
+  ],
+  "slug": "openai-jony-ive-ai-smart-speaker-2027",
+  "people": [
+   {
+    "name": "ジョニー・アイブ氏",
+    "bio": "Appleで数々の製品デザインを手がけた著名なインダストリアルデザイナー。"
+   },
+   {
+    "name": "マーク・ガーマン記者",
+    "bio": "Apple関連をはじめとするテック業界のインサイダー情報に精通したブルームバーグの記者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供する最先端の人工知能企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html"
+ },
+ {
+  "title": "OpenAI、Appleのセキュリティ慣行を指摘",
+  "lead": "OpenAIがAppleとの営業秘密侵害訴訟において、Apple自身のセキュリティ管理に不備があったと主張していることが明らかになりました。",
+  "summary3": [
+   "OpenAIがAppleの訴訟で新戦略を展開",
+   "Appleのセキュリティ管理の不備を指摘",
+   "元従業員のiCloudアクセスを問題視"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、新たに提出された裁判資料から、OpenAIの法的な対抗戦略が明らかになりました。OpenAIは、Appleが主張する営業秘密の保護について、Apple自身のセキュリティおよびオフボーディング（退職時）の慣行がその主張の根拠を揺るがしていると主張しています。",
+   "具体的には、Appleが退職した元エンジニアのiCloudアカウントに対し、退職後にもかかわらずAppleのマネージャーがアクセスすることを許可していた点を問題視しています。情報が適切に保護されていたというApple側の主張に矛盾があるという論法です。",
+   "今回の訴訟は、営業秘密の保護体制のあり方をめぐって双方の主張が対立しており、今後の裁判所の判断に注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Apple",
+   "訴訟"
+  ],
+  "slug": "openai-says-apples-security-undermines-trade-secrets-case",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国で対話型AIなどを開発し、AI技術の発展をリードしている最先端の人工知能企業です。"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアからソフトウェアまで幅広く手がけるアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html"
+ },
+ {
+  "title": "Gmail、他社メアド送信機能など2027年1月終了へ",
+  "lead": "米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能などを2027年1月に終了すると発表しました。維持に過剰なリソースを必要とする機能が対象となります。",
+  "summary3": [
+   "Gmail他社メアド送信が終了",
+   "2027年1月にWeb・モバイル対応",
+   "維持に過剰なリソースが理由"
+  ],
+  "body": [
+   "米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能を2027年1月に終了すると発表しました。この変更はWeb版およびモバイル版の両方り対して行われる予定です。",
+   "今回の機能終了の背景には、「維持に過剰なリソースを必要とする機能」であったという事情があります。これにより、Web版Gmailでは他社メールアドレスを差出人として送信できなくなります。",
+   "さらに、Web版GmailではPOPによる他アカウントメールの取得も終了するほか、スパム対策や受信トレイの整理などの機能をサードパーティー向けに関連する変更が進められる見通しです。"
+  ],
+  "tags": [
+   "Gmail",
+   "Google",
+   "メール"
+  ],
+  "slug": "gmail-discontinue-external-address-feature",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、多様なインターネット関連サービスや製品を展開するアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-gmail-discontinue-external-address-feature.html"
+ },
+ {
+  "title": "Anthropicが数百万冊をスキャン・破棄した理由",
+  "lead": "AI学習用のデータを確保するため、企業による書籍の買いあさりや大量スキャンの実態が明らかになりました。",
+  "summary3": [
+   "オランダの古書店に中国のAI企業から3000冊の注文",
+   "注文された書籍はAI学習用データに活用される見込み",
+   "Anthropicも数百万冊をスキャン後に破棄"
+  ],
+  "body": [
+   "オランダの古書店に対して、3000冊という大量の注文が入ったことが明らかになりました。書籍の届け先は中国のAI企業であり、入手した書籍はAIの学習用データとして使用されるとみられています。",
+   "このような動きは中国の企業に限らず広がっています。AI開発を手掛けるAnthropicも、数百万冊に及ぶ書籍をスキャンした後に破棄していたことが判明しました。",
+   "AIの性能向上に不可欠な学習用データを確保するため、実物の書籍を大量に買いあさったりスキャンしたりする実態が、次々と明らかになっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI学習",
+   "古書"
+  ],
+  "slug": "anthropic-and-ai-book-scans",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIなどを手掛けている。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2608/06/news060.html",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-anthropic-and-ai-book-scans.html"
+ },
+ {
+  "title": "Anthropicが独自ハードウェア開発へ、Nvidia依存軽減の狙い",
+  "lead": "AI開発をリードするAnthropicが、Claudeを動かすための独自ハードウェアの設計に乗り出すことが明らかになりました。Nvidiaへの依存を減らしつつ、開発規模を急拡大させる狙いがあります。",
+  "summary3": [
+   "AnthropicがClaude用の独自チップ設計へ",
+   "オープンAIと共にNvidia依存からの脱却急ぐ",
+   "大規模化へ向けて独自のシリコンチームを構築"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が入手した海外メディアArs Technicaの情報によると、人工知能開発を手がけるAnthropicは、自社のAIモデルであるClaudeを駆動させるための独自ハードウェアを設計する計画を進めています。社内に独自のシリコンチームを立ち上げ、AIインフラの自社製化に舵を切る形です。",
+   "現在、AI業界を牽引するAnthropicとOpenAIの2大企業は、AIモデルの規模を急速に拡大させるレースを繰り広げています。その一方で、AI計算に不可欠な半導体を供給するNvidiaへの依存度をいかに下げるかが、両社にとって共通の大きな課題となっています。",
+   "今回の動きは、高騰するGPUコストの抑制やサプライチェーンの安定化に向けた重要な一手と見られています。AIモデルの性能向上が続く中、基盤となるハードウェアレイヤーでの競争も今後さらに激しさを増していくことが予想されます。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "ハードウェア",
+   "Nvidia",
+   "AI半導体"
+  ],
+  "slug": "anthropic-will-design-its-own-hardware-to-power-claude",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能スタートアップ企業。対話型AIモデル「Claude」シリーズの開発で広く知られています。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能開発企業。「ChatGPT」などを手がけ、最先端の生成AI研究をリードしています。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "米国の半導体メーカー。AIの学習や推論に欠かせないGPU市場で圧倒的なシェアを持つ企業です。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高度な対話型AIモデル。自然な文章生成や優れた推論能力を特徴としています。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+  "category": "silicon",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-anthropic-will-design-its-own-hardware-to-power-claude.html"
+ },
+ {
+  "title": "AMDがAIモデルをシリコンにハードワイヤリングする新興企業を買収",
+  "lead": "半導体大手AMDが、AIモデルを直接シリコンに埋め込む技術を持つ新興企業Taalasを買収したことが明らかになりました。",
+  "summary3": [
+   "AMDが新興企業Taalasを買収",
+   "AIモデルをシリコンに直接実装",
+   "MetaのLlama 3.1搭載"
+  ],
+  "body": [
+   "米CNBC Techによると、半導体大手のAMDが、AIモデルをシリコンに直接ハードワイヤリングする技術を持つ新興企業を買収しました。今回買収されたTaalas社の現在のチップでは、MetaのLlama 3.1の小規模バージョンが稼働しています。",
+   "Taalas社は現在、単に小規模なAIを動かすだけでなく、より大きく高度なモデルに対応するチップの開発にも取り組んでいます。AIモデルをシリコン回路として直接焼き付けるこのアプローチは、従来の半導体とは異なる新しい処理方式として注目を集めています。",
+   "今回の買収により、AMDはAI処理の効率化や次世代チップの開発に向けた技術基盤を強化することになります。今後、より大規模なAIモデルに対応した次世代シリコンの開発がどのように進展するのか、業界の関心が集まっています。"
+  ],
+  "tags": [
+   "AMD",
+   "Taalas",
+   "AIチップ"
+  ],
+  "slug": "amd-buys-taalas-ai-chip-startup",
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカに拠点を置く世界的な半導体メーカーで、CPUやGPUなどを開発・提供しています。"
+   },
+   {
+    "name": "Taalas",
+    "type": "company",
+    "desc": "AIモデルをシリコンに直接ハードワイヤリングするチップ技術を開発している新興企業です。"
+   },
+   {
+    "name": "Llama 3.1",
+    "type": "ai",
+    "desc": "Metaが開発したオープンソースの大規模言語モデルで、様々な規模のバリエーションが存在します。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+  "category": "silicon",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-amd-buys-taalas-ai-chip-startup.html"
+ },
+ {
+  "title": "EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退",
+  "lead": "イギリスの格安航空会社イージージェットは、アメリカの投資会社アポロによる57億ポンドでの買収に合意しました。競合他社の買収断念を受け、交渉が大きく前進した形です。",
+  "summary3": [
+   "イージージェットが身売りへ",
+   "買収額は57億ポンドに到達",
+   "競合撤退で米アポロが合意"
+  ],
+  "body": [
+   "イギリスを代表する格安航空会社のイージージェットは、アメリカの企業であるアポロによる57億ポンド規模の買収提案に同意しました。手頃な運賃で知られる同キャリアに対し、買収に向けた動きが水面下で進められていました。",
+   "今回の合意に至る過程では、買収を狙っていたライバル企業が突如として撤退を表明しました。これにより、アメリカのファンドであるアポロとの交渉が優位に進み、最終的な買収合意へと着地することになりました。",
+   "航空業界における大型の買収劇として注目を集めており、今後の運行体制や市場への影響に関心が集まっています。今回の買収完了に向けた詳細なスケジュールや、利用者への影響については順次発表される見通しです。"
+  ],
+  "tags": [
+   "EasyJet",
+   "買収",
+   "航空業界"
+  ],
+  "slug": "easyjet-agrees-to-apollo-takeover",
+  "people": [],
+  "terms": [
+   {
+    "name": "イージージェット",
+    "type": "company",
+    "desc": "イギリスを本拠地とする、ヨーロッパを中心に運航する大手格安航空会社（LCC）。"
+   },
+   {
+    "name": "アポロ",
+    "type": "company",
+    "desc": "アメリカを拠点とする世界最大手規模のオルタナティブ資産運用会社（投資会社）。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-easyjet-agrees-to-apollo-takeover.html"
+ },
+ {
+  "title": "BBC報道：AIが設計した16のウイルス作成に成功",
+  "lead": "BBC Worldによると、科学者らが人工知能によって遺伝子コードを設計されたウイルスを作り出し、16個の成功を収めました。",
+  "summary3": [
+   "AIが遺伝子コードを設計",
+   "16個のウイルス作成に成功",
+   "BBC Worldが報じる"
+  ],
+  "body": [
+   "イギリスの放送局BBC Worldの報道によると、科学者らによって人工知能が活用され、全く新しいウイルスが設計されました。AIを用いて遺伝子コードが設計されたこのウイルスは、実験において16個の作成に成功したとのことです。",
+   "人工知能の技術は近年さまざまな分野で進化を続けており、今回の事例はその中でも生物学的領域への応用を示すものとなります。AIが導き出した設計図に基づき、実際にウイルスが形作られたという点が今回の大きな特徴です。",
+   "先端技術と生命科学の融合が進む中、AIによる設計技術が現実の成果を生み出した形となりました。今後の展開や安全性への配慮など、さらなる詳細や動向に注目が集まることが予想されます。"
+  ],
+  "tags": [
+   "人工知能",
+   "ウイルス",
+   "BBC"
+  ],
+  "slug": "ai-used-to-design-brand-new-viruses",
+  "people": [],
+  "terms": [
+   {
+    "name": "BBC World",
+    "type": "company",
+    "desc": "イギリスの公共放送BBCが運営する国際的なニュース専門チャンネルおよび報道部門。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-ai-used-to-design-brand-new-viruses.html"
+ },
+ {
+  "title": "アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由",
+  "lead": "企業の脱炭素を支援するアスエネが、シリーズDで総額135億円の資金調達を実施しました。ブラックロック系ファンドがリード投資家となり、日本の新興企業への出資は初となります。",
+  "summary3": [
+   "アスエネがシリーズDで135億円を調達",
+   "ブラックロック系ファンドが日本初出資",
+   "IPOをあえて遅らせるその理由とは"
+  ],
+  "body": [
+   "企業の脱炭素化を支援するアスエネは、シリーズDラウンドにおいて総額135億円の資金調達を実施したことを発表しました。今回の資金調達におけるリード投資家には、ブラックロック系ファンドが迎えられています。なお、同ファンドが日本の新興企業に対して出資を行うのは今回が初めての事例となります。",
+   "アスエネは企業のCO2排出量見える化クラウドなどを展開し、脱炭素経営をサポートする企業として知られています。今回の巨額調達によってさらなる事業基盤の強化を図る方針ですが、注目を集めているのは、あえてIPO（新規株式公開）の時期を遅らせるというその判断です。",
+   "巨額の資金調達を達成した一方で、なぜIPOを急がずに遅らせる選択をしたのか。その背景や戦略には、グローバル展開を見据えた事業成長への強い狙いがあります。ブラックロック系という強力なパートナーを得た同社の今後の展開に、引き続き大きな注目が集まっています。"
+  ],
+  "tags": [
+   "アスエネ",
+   "ブラックロック",
+   "脱炭素"
+  ],
+  "slug": "asuene-raises-135-billion-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "アスエネ",
+    "type": "company",
+    "desc": "企業の脱炭素化支援やCO2排出量の見える化クラウドサービスなどを提供している日本の企業。"
+   },
+   {
+    "name": "ブラックロック",
+    "type": "company",
+    "desc": "世界最大級の資産運用会社であり、様々なファンドを通じて国内外の企業への投資を行っている。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/953695?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-asuene-raises-135-billion-yen.html"
+ },
+ {
+  "title": "古河電気工業、データセンター需要で営業利益3倍・純利益4倍",
+  "lead": "古河電気工業はFY2027の第1四半期決算説明会を実施しました。データセンター需要の拡大により大幅な増益を達成し、通期業績の上方修正と1,500億円の投資加速を発表しています。",
+  "summary3": [
+   "古河電気工業が第1四半期決算を発表",
+   "データセンター需要で営業利益3倍",
+   "通期上方修正と1500億円投資加速"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、古河電気工業はFY2027の第1四半期決算説明会を開催しました。今回の発表では、データセンター関連の需要が大きく伸びたことが示されています。",
+   "その結果、業績は好調に推移し、営業利益は3倍、純利益は4倍という大幅な増益を記録しました。この好決算を受けて、同社は通期の業績予想を上方修正しています。",
+   "さらに、事業成長に向けた取り組みとして、1,500億円の投資加速を明らかにしました。データセンター需要を背景にした今後の事業展開に注目が集まっています。"
+  ],
+  "tags": [
+   "古河電気工業",
+   "決算",
+   "データセンター"
+  ],
+  "slug": "furukawa-electric-fy2027-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "古河電気工業",
+    "type": "company",
+    "desc": "日本の大手非鉄金属メーカーであり、電線や光ファイバー、電子部品などを広く手掛ける。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90aTh3bmtCUTY0NUFjZVdpTEFBUlJmREdINks1Z0NqUVhtcGVVUWRDaWl6aDVCWUQ0S2Nld2hDeXpmcE1FV2NFSGNEWGZjSXVRekhVeFRNSnlacmZIdjBZ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-07",
+  "time": "07:01",
+  "path": "/articles/20260807-furukawa-electric-fy2027-q1-results.html"
  }
 ]

@@ -38273,5 +38273,72 @@
   "date": "2026-08-07",
   "time": "07:01",
   "path": "/articles/20260807-furukawa-electric-fy2027-q1-results.html"
+ },
+ {
+  "title": "OpenAI、ChatGPT無料版の制限撤廃へ",
+  "lead": "AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。",
+  "summary3": [
+   "OpenAIがChatGPTの制限を変更",
+   "無料版とGo版のテキストチャットが無制限に",
+   "来週から新仕様が適用される予定"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、人工知能開発を手がけるOpenAIは、ChatGPTの無料プランおよびGoプランを利用しているユーザーに向けて、大きな仕様変更を実施すると明らかにしました。",
+   "来週以降、これら特定のプランを利用しているユーザーは、チャットボットとのテキストチャットを回数制限なしで利用できるようになります。",
+   "これまでは、テキストチャットの回数が一定を超えると利用制限にかかる場合がありましたが、今回の変更により、ユーザーは制限を気にせずテキストでのやり取りを楽しめるようになります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "AI"
+  ],
+  "slug": "openai-chatgpt-free-unlimited-chats",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AIなどの先端技術を開発する人工知能の研究開発企業です。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "08:00",
+  "path": "/articles/20260807-openai-chatgpt-free-unlimited-chats.html"
+ },
+ {
+  "title": "AIエージェントの指示承認、人間が3分の1の見落とし",
+  "lead": "AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。",
+  "summary3": [
+   "AIエージェントのコマンド承認を調査",
+   "人間が脅威の3分の1を見落とす結果に",
+   "4万回のゲーム実行データから判明"
+  ],
+  "body": [
+   "AI/LLM分野の最新動向を伝える情報源において、AIエージェントのパーミッションに関する統計データが注目を集めています。公開された情報によると、AIエージェントのコマンドを承認する際に、人間が脅威の3分の1を見落としていたことが判明しました。",
+   "この調査は4万回に及ぶゲームの実行データを基に行われたもので、AIエージェントが自律的に動作する際の権限管理における人間の判断ミスが浮き彫りとなっています。複雑な処理を行うシステムにおいて、人間による監視や承認のプロセスが持つ課題を示す結果と言えます。",
+   "AI技術の活用が進む一方で、人間による適切なセキュリティ管理や脅威の検知がいかに重要であるかを示すデータとして、多くの議論を呼んでいます。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "セキュリティ",
+   "AI/LLM"
+  ],
+  "slug": "ai-agent-permissions-threats",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "08:00",
+  "path": "/articles/20260807-ai-agent-permissions-threats.html"
  }
 ]

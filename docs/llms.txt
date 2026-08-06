@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、ChatGPT無料版の制限撤廃へ](https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html) — 2026-08-07 08:00: AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。
+- [AIエージェントの指示承認、人間が3分の1の見落とし](https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html) — 2026-08-07 08:00: AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。
 - [ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明](https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html) — 2026-08-07 07:01: 元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。
 - [OpenAI、Appleのセキュリティ慣行を指摘](https://ai-tech-times.web.app/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html) — 2026-08-07 07:01: OpenAIがAppleとの営業秘密侵害訴訟において、Apple自身のセキュリティ管理に不備があったと主張していることが明らかになりました。
 - [Gmail、他社メアド送信機能など2027年1月終了へ](https://ai-tech-times.web.app/articles/20260807-gmail-discontinue-external-address-feature.html) — 2026-08-07 07:01: 米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能などを2027年1月に終了すると発表しました。維持に過剰なリソースを必要とする機能が対象となります。
@@ -40,8 +42,6 @@
 - [ソフトバンク、トランプ図書館に5000万ドル寄付の真相](https://ai-tech-times.web.app/articles/20260807-softbank-trump-library-donation.html) — 2026-08-07 02:00: ソフトバンクがトランプ大統領の図書館へ5000万ドルを寄付していたことが判明しました。連邦政府との土地リース契約の数ヶ月前の出来事です。
 - [ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実](https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html) — 2026-08-07 01:00: ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。
 - [Atlassian Rovoに社内データが外部送信される脆弱性](https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html) — 2026-08-07 01:00: プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。
-- [Google Cloud、Mirendilと1億ドル超の提携](https://ai-tech-times.web.app/articles/20260807-mirendil-google-cloud-deal.html) — 2026-08-07 00:01: AI TECH TIMESは、MirendilがGoogle Cloudと1億ドル以上のパートナーシップを締結したことを報じます。計算インフラを拡張し、自己改善型AIの研究を加速させる狙いがあります。
-- [Googleマップに新機能、飲食店やホテル予約が可能に](https://ai-tech-times.web.app/articles/20260807-google-maps-adds-agentic-features.html) — 2026-08-07 00:01: AI TECH TIMESの記者として、Googleマップの最新動向についてお伝えします。今回の新機能追加により、単なる地図アプリから実世界でのタスクを支援するアシスタントへの進化を目指しています。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
@@ -62,8 +62,8 @@
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。

@@ -1106,13 +1106,11 @@
   "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/953695?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90aTh3bmtCUTY0NUFjZVdpTEFBUlJmREdINks1Z0NqUVhtcGVVUWRDaWl6aDVCWUQ0S2Nld2hDeXpmcE1FV2NFSGNEWGZjSXVRekhVeFRNSnlacmZIdjBZ?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90aTh3bmtCUTY0NUFjZVdpTEFBUlJmREdINks1Z0NqUVhtcGVVUWRDaWl6aDVCWUQ0S2Nld2hDeXpmcE1FV2NFSGNEWGZjSXVRekhVeFRNSnlacmZIdjBZ?oc=5",
+  "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+  "https://scalex.dev/blog/ai-agent-permissions-stats/"
  ],
  "titles": [
-  "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-  "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-  "メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる",
-  "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
   "Alphabet reports Q2 revenue up 24% YoY to $119.8B, above $116.9B est., Google Cloud revenue up 82% YoY to $24.8B, and Services revenues up 15% to $94.5B (Alphabet)",
   "トランプ氏「船舶攻撃ならインフラ破壊」イランは報復の構え",
   "食料品消費税減税 方向性打ち出し困難の見方 各党主張記載も",
@@ -3108,6 +3106,10 @@
   "EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退",
   "BBC報道：AIが設計した16のウイルス作成に成功",
   "アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由",
-  "古河電気工業、データセンター需要で営業利益3倍・純利益4倍"
+  "古河電気工業、データセンター需要で営業利益3倍・純利益4倍",
+  "OpenAI is giving ChatGPT free users unlimited text chats",
+  "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "OpenAI、ChatGPT無料版の制限撤廃へ",
+  "AIエージェントの指示承認、人間が3分の1の見落とし"
  ]
 }

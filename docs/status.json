@@ -1,69 +1,26 @@
 {
- "updated": "2026-08-07 07:01",
- "mode": "フル便",
+ "updated": "2026-08-07 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明",
-   "path": "/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html",
+   "title": "OpenAI、ChatGPT無料版の制限撤廃へ",
+   "path": "/articles/20260807-openai-chatgpt-free-unlimited-chats.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAI、Appleのセキュリティ慣行を指摘",
-   "path": "/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html",
+   "title": "AIエージェントの指示承認、人間が3分の1の見落とし",
+   "path": "/articles/20260807-ai-agent-permissions-threats.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Gmail、他社メアド送信機能など2027年1月終了へ",
-   "path": "/articles/20260807-gmail-discontinue-external-address-feature.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Anthropicが数百万冊をスキャン・破棄した理由",
-   "path": "/articles/20260807-anthropic-and-ai-book-scans.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Anthropicが独自ハードウェア開発へ、Nvidia依存軽減の狙い",
-   "path": "/articles/20260807-anthropic-will-design-its-own-hardware-to-power-claude.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "AMDがAIモデルをシリコンにハードワイヤリングする新興企業を買収",
-   "path": "/articles/20260807-amd-buys-taalas-ai-chip-startup.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退",
-   "path": "/articles/20260807-easyjet-agrees-to-apollo-takeover.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "BBC報道：AIが設計した16のウイルス作成に成功",
-   "path": "/articles/20260807-ai-used-to-design-brand-new-viruses.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由",
-   "path": "/articles/20260807-asuene-raises-135-billion-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "古河電気工業、データセンター需要で営業利益3倍・純利益4倍",
-   "path": "/articles/20260807-furukawa-electric-fy2027-q1-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
- "notes": [
-  "執筆失敗: “獣人”共存の深夜アニメで喫煙、違法薬物の連想シーンも…視聴者批判でBPO議論「",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 6,
+ "notes": [],
+ "pv_today": 7,
  "gemini": {
-  "used": 51,
+  "used": 56,
   "limit": 200
  }
 }

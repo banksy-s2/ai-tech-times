@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、ChatGPT無料版の制限撤廃へ</title>
+<link>https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html</guid>
+<pubDate>Fri, 07 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。</description>
+</item>
+<item>
+<title>AIエージェントの指示承認、人間が3分の1の見落とし</title>
+<link>https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html</guid>
+<pubDate>Fri, 07 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。</description>
+</item>
+<item>
 <title>ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明</title>
 <link>https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>SpaceXが、テスラの大型蓄電池「メガパック」の調達を第2四半期に拡大していることが明らかになりました。AIデータセンターの電力供給を支える狙いがあります。</description>
-</item>
-<item>
-<title>最高月収700万超えの夫婦YouTuber、離婚後に養育費でカフェバイト生活</title>
-<link>https://ai-tech-times.web.app/articles/20260806-youtuber-cafe-part-time-job.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-youtuber-cafe-part-time-job.html</guid>
-<pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>かつて最高月収が700万円を超えていた夫婦YouTuberが、離婚後に養育費を支払うため、最低賃金のカフェアルバイトで生活していることが報じられました。</description>
-</item>
-<item>
-<title>SNOW運営会社がステマ認定、消費者庁が措置命令の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260806-snow-stealth-marketing-consumer-affairs-agency.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-snow-stealth-marketing-consumer-affairs-agency.html</guid>
-<pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>若者に人気の写真加工アプリ「SNOW」の運営会社が、PR表記を隠した宣伝を行っていたとして、消費者庁から措置命令を受けました。ステルスマーケティングに対する厳しい目が向けられています。</description>
 </item>
 </channel></rss>
