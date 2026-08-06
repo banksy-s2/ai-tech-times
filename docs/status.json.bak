@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-06 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-06 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Sandiskが第4四半期増収も、第1四半期予想が市場未達で株価下落",
-   "path": "/articles/20260806-sandisk-reports-q4-revenue-and-q1-forecast.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Moove、2億5000万ドル調達でロボタクシー業界の基盤へ",
-   "path": "/articles/20260806-moove-raises-250m-robotaxi-industry.html",
-   "cat": "シリコンバレー最速"
+   "title": "ENHYPENニキ苦言で波紋、日本人女性インフルエンサー急死",
+   "path": "/articles/20260806-influencer-sudden-death-enhypen-niki.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
  "notes": [],
- "pv_today": 36,
+ "pv_today": 41,
  "gemini": {
-  "used": 66,
+  "used": 69,
   "limit": 200
  }
 }
