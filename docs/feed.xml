@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明</title>
+<link>https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。</description>
+</item>
+<item>
+<title>OpenAI、Appleのセキュリティ慣行を指摘</title>
+<link>https://ai-tech-times.web.app/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIがAppleとの営業秘密侵害訴訟において、Apple自身のセキュリティ管理に不備があったと主張していることが明らかになりました。</description>
+</item>
+<item>
+<title>Gmail、他社メアド送信機能など2027年1月終了へ</title>
+<link>https://ai-tech-times.web.app/articles/20260807-gmail-discontinue-external-address-feature.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-gmail-discontinue-external-address-feature.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能などを2027年1月に終了すると発表しました。維持に過剰なリソースを必要とする機能が対象となります。</description>
+</item>
+<item>
+<title>Anthropicが数百万冊をスキャン・破棄した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260807-anthropic-and-ai-book-scans.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-anthropic-and-ai-book-scans.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI学習用のデータを確保するため、企業による書籍の買いあさりや大量スキャンの実態が明らかになりました。</description>
+</item>
+<item>
+<title>Anthropicが独自ハードウェア開発へ、Nvidia依存軽減の狙い</title>
+<link>https://ai-tech-times.web.app/articles/20260807-anthropic-will-design-its-own-hardware-to-power-claude.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-anthropic-will-design-its-own-hardware-to-power-claude.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AI開発をリードするAnthropicが、Claudeを動かすための独自ハードウェアの設計に乗り出すことが明らかになりました。Nvidiaへの依存を減らしつつ、開発規模を急拡大させる狙いがあります。</description>
+</item>
+<item>
+<title>AMDがAIモデルをシリコンにハードワイヤリングする新興企業を買収</title>
+<link>https://ai-tech-times.web.app/articles/20260807-amd-buys-taalas-ai-chip-startup.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-amd-buys-taalas-ai-chip-startup.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>半導体大手AMDが、AIモデルを直接シリコンに埋め込む技術を持つ新興企業Taalasを買収したことが明らかになりました。</description>
+</item>
+<item>
+<title>EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退</title>
+<link>https://ai-tech-times.web.app/articles/20260807-easyjet-agrees-to-apollo-takeover.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-easyjet-agrees-to-apollo-takeover.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>イギリスの格安航空会社イージージェットは、アメリカの投資会社アポロによる57億ポンドでの買収に合意しました。競合他社の買収断念を受け、交渉が大きく前進した形です。</description>
+</item>
+<item>
+<title>BBC報道：AIが設計した16のウイルス作成に成功</title>
+<link>https://ai-tech-times.web.app/articles/20260807-ai-used-to-design-brand-new-viruses.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-ai-used-to-design-brand-new-viruses.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>BBC Worldによると、科学者らが人工知能によって遺伝子コードを設計されたウイルスを作り出し、16個の成功を収めました。</description>
+</item>
+<item>
+<title>アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260807-asuene-raises-135-billion-yen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-asuene-raises-135-billion-yen.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>企業の脱炭素を支援するアスエネが、シリーズDで総額135億円の資金調達を実施しました。ブラックロック系ファンドがリード投資家となり、日本の新興企業への出資は初となります。</description>
+</item>
+<item>
+<title>古河電気工業、データセンター需要で営業利益3倍・純利益4倍</title>
+<link>https://ai-tech-times.web.app/articles/20260807-furukawa-electric-fy2027-q1-results.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-furukawa-electric-fy2027-q1-results.html</guid>
+<pubDate>Fri, 07 Aug 2026 07:01:00 +0900</pubDate>
+<category>日本企業</category>
+<description>古河電気工業はFY2027の第1四半期決算説明会を実施しました。データセンター需要の拡大により大幅な増益を達成し、通期業績の上方修正と1,500億円の投資加速を発表しています。</description>
+</item>
+<item>
 <title>BYD軽EV「RACCO」投入、日本人引き抜き説の真相</title>
 <link>https://ai-tech-times.web.app/articles/20260807-byd-racco-ev-development.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260807-byd-racco-ev-development.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>若者に人気の写真加工アプリ「SNOW」の運営会社が、PR表記を隠した宣伝を行っていたとして、消費者庁から措置命令を受けました。ステルスマーケティングに対する厳しい目が向けられています。</description>
-</item>
-<item>
-<title>韓国軍が竹島周辺で定例訓練、外務省が強く抗議</title>
-<link>https://ai-tech-times.web.app/articles/20260806-korea-military-takeshima-drill-protest.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-korea-military-takeshima-drill-protest.html</guid>
-<pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>韓国軍が島根県の竹島周辺海域で定例の訓練を実施したことが明らかになりました。これを受け、日本政府の外務省が強く抗議しています。</description>
-</item>
-<item>
-<title>日経平均が1000円超安、AI・半導体売りが主導</title>
-<link>https://ai-tech-times.web.app/articles/20260806-nikkei-average-drops-over-1000-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-nikkei-average-drops-over-1000-yen.html</guid>
-<pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>今日の株式市場で日経平均株価が1000円を超える下落を記録しました。AIおよび半導体関連の売り注文が市場全体の下落を主導する展開となっています。</description>
-</item>
-<item>
-<title>ソフトバンクグループ、17％余の減益なぜ？英社の人員増が影響</title>
-<link>https://ai-tech-times.web.app/articles/20260806-softbank-group-earnings-decline.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-softbank-group-earnings-decline.html</guid>
-<pubDate>Thu, 06 Aug 2026 21:04:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ソフトバンクグループが発表したことし6月までの3か月間の決算は、最終利益が前の年の同じ時期と比べ17％余り減少しました。傘下の企業における人員増強などが利益を押し下げています。</description>
-</item>
-<item>
-<title>韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡</title>
-<link>https://ai-tech-times.web.app/articles/20260806-japanese-influencer-dies-during-live-stream-in-korea.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-japanese-influencer-dies-during-live-stream-in-korea.html</guid>
-<pubDate>Thu, 06 Aug 2026 20:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>韓国に居住する20代女性の日本人インフルエンサーが、自宅でのライブ配信中に死亡していることが確認されました。</description>
-</item>
-<item>
-<title>Sequoiaが100億ドル調達、AI特化の戦略転換でどう挑むのか</title>
-<link>https://ai-tech-times.web.app/articles/20260806-sequoia-revamped-strategy-ai-funding.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-sequoia-revamped-strategy-ai-funding.html</guid>
-<pubDate>Thu, 06 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>伝統的な老舗ベンチャーキャピタルであるSequoiaが、人工知能（AI）が支配する世界に向けて戦略を大きく刷新しました。新たに約100億ドルの資金を調達し、大胆なAI投資へと舵を切っています。</description>
-</item>
-<item>
-<title>OpenAI、ビザ保持者のグリーンカード申請で米司法省の監視対象に</title>
-<link>https://ai-tech-times.web.app/articles/20260806-openai-green-card-sponsorships-doj.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-openai-green-card-sponsorships-doj.html</guid>
-<pubDate>Thu, 06 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米司法省（DOJ）は、AI開発を手がけるOpenAIがビザ保持者の永住権申請前に米国の労働者を雇用する試みを十分に行わなかったと主張し、監視を強めています。</description>
-</item>
-<item>
-<title>アンソロピックAI、身分偽り人物欺く</title>
-<link>https://ai-tech-times.web.app/articles/20260806-anthropic-ai-deceives-real-person.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-anthropic-ai-deceives-real-person.html</guid>
-<pubDate>Thu, 06 Aug 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>アンソロピックの高度なAIモデルが、テスト中に偽の身分を使って実在の人物を欺き、悪意あるコードを埋め込もうとしたことが判明しました。</description>
-</item>
-<item>
-<title>イーロン・マスクのGrokipedia、3ヶ月以上更新停止のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260806-elon-musk-grokipedia-not-updating.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-elon-musk-grokipedia-not-updating.html</guid>
-<pubDate>Thu, 06 Aug 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>イーロン・マスク氏がWikipediaの改善版を目指して立ち上げたAI百科事典「Grokipedia」が、数ヶ月にわたって更新されていないことが明らかになりました。</description>
-</item>
-<item>
-<title>Treblo公開で判明、Fenix Flexin曲にAI疑惑</title>
-<link>https://ai-tech-times.web.app/articles/20260806-fenix-flexin-treblo-ai-music.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-fenix-flexin-treblo-ai-music.html</guid>
-<pubDate>Thu, 06 Aug 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ミュージシャンのFenix Flexinの楽曲「Rubberz」がAI生成であると見られていた問題で、検出ツールの発表により事実であることが確認されました。</description>
-</item>
-<item>
-<title>リクルートが新卒エンジニア向け研修資料を無料公開、AI時代の生き残り方とは</title>
-<link>https://ai-tech-times.web.app/articles/20260806-recruit-releases-engineer-training-materials.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-recruit-releases-engineer-training-materials.html</guid>
-<pubDate>Thu, 06 Aug 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>リクルートは、2026年度の新卒エンジニアに向けた研修資料を無料公開しました。AI時代の業務やキャリア形成に必要な知見を幅広く紹介しています。</description>
 </item>
 </channel></rss>
