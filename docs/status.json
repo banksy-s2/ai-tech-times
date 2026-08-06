@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-06 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-06 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イラン、ホルムズ海峡の新航路設定へオマーンと調整最終段階",
-   "path": "/articles/20260806-hormuz-strait-new-route.html",
-   "cat": "時事・世界"
+   "title": "クールジャパン機構540億円赤字、経産省が検証会議",
+   "path": "/articles/20260806-cool-japan-fund-deficit-meti.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring \"Weird Al\" Yankovic)",
   "url": "https://www.youtube.com/watch?v=1zqEKPJV3po"
  },
- "notes": [
-  "執筆失敗: ルーマニア 水位低下により原発一部停止 車生産一時休止も"
- ],
- "pv_today": 64,
+ "notes": [],
+ "pv_today": 65,
  "gemini": {
-  "used": 164,
+  "used": 167,
   "limit": 200
  }
 }
