@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-06 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-06 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Mac用「Nospace」登場、スペース変換いらずのAI日本語入力",
-   "path": "/articles/20260806-nospace-for-mac-ai-japanese-input-app.html",
-   "cat": "日本のAI"
+   "title": "Sandiskが第4四半期増収も、第1四半期予想が市場未達で株価下落",
+   "path": "/articles/20260806-sandisk-reports-q4-revenue-and-q1-forecast.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Moove、2億5000万ドル調達でロボタクシー業界の基盤へ",
+   "path": "/articles/20260806-moove-raises-250m-robotaxi-industry.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
- "notes": [
-  "執筆失敗: 1Password、ダッシュボードから組織のAI支出状況を表示する新機能。Cla"
- ],
- "pv_today": 27,
+ "notes": [],
+ "pv_today": 36,
  "gemini": {
-  "used": 60,
+  "used": 66,
   "limit": 200
  }
 }

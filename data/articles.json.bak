@@ -35907,5 +35907,78 @@
   "date": "2026-08-06",
   "time": "09:00",
   "path": "/articles/20260806-nospace-for-mac-ai-japanese-input-app.html"
+ },
+ {
+  "title": "Sandiskが第4四半期増収も、第1四半期予想が市場未達で株価下落",
+  "lead": "Sandiskが発表した第4四半期決算は前年同期比372%増収と大幅な伸びを記録しました。しかし、第1四半期の売上高予測が市場予想を下回り、株価の下落を招いています。",
+  "summary3": [
+   "第4四半期売上高は8.97億ドルに到達",
+   "前年同期比で372%の大幅な増収を記録",
+   "第1四半期予想が未達で時間外株価下落"
+  ],
+  "body": [
+   "ニュースサイト「Techmeme」の報道によると、メモリ製品を手がけるSandiskは、第4四半期の売上高が前年同期比372%増の8.97億ドルに達したと発表しました。これはアナリストによる市場予想の8.48億ドルを上回る結果となりました。",
+   "しかし同時に同社が発表した第1四半期の売上高予測のミッドポイントは、アナリストらがモデル化していた数値を下回る結果となりました。",
+   "この業績見通しに対する懸念から、水曜日の午後の取引においてSandiskの株価は時間外取引で5%以上下落する展開となっています。"
+  ],
+  "tags": [
+   "Sandisk",
+   "決算発表",
+   "株式市場"
+  ],
+  "slug": "sandisk-reports-q4-revenue-and-q1-forecast",
+  "people": [],
+  "terms": [
+   {
+    "name": "Sandisk",
+    "type": "company",
+    "desc": "フラッシュメモリ製品やストレージソリューションの開発・製造を手がけるアメリカの著名なテクノロジー企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260805/p44#a260805p44",
+  "category": "silicon",
+  "date": "2026-08-06",
+  "time": "10:00",
+  "path": "/articles/20260806-sandisk-reports-q4-revenue-and-q1-forecast.html"
+ },
+ {
+  "title": "Moove、2億5000万ドル調達でロボタクシー業界の基盤へ",
+  "lead": "モビリティ分野を手がけるMooveが、総額2億5000万ドルを資金調達しました。自動運転車フリートの管理事業を急拡大させ、ロボタクシー業界のインフラを担う計画です。",
+  "summary3": [
+   "Mooveが2億5000万ドルを調達",
+   "自動運転車の管理事業を拡大",
+   "将来はWaymo保有を目指す"
+  ],
+  "body": [
+   "Mooveは、自動運転車のフリート管理（車両運行管理）側面のビジネスを急速に拡大させています。今回の資金調達額は2億5000万ドルに達し、業界における存在感をさらに強める構えです。",
+   "同社は将来的に、単なる車両管理にとどまらず、Waymoが展開するようなロボタクシーそのものを自社で所有することまで視野に入れています。",
+   "自動運転技術の普及が進む中、車両の運用や管理を支えるインフラ企業として、Mooveの今後の事業展開に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "ロボタクシー",
+   "自動運転",
+   "資金調達"
+  ],
+  "slug": "moove-raises-250m-robotaxi-industry",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moove",
+    "type": "company",
+    "desc": "モビリティ事業者向けに車両の金融や管理サービスを提供する企業。"
+   },
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカのAlphabet傘下で自動運転技術およびロボタクシーを開発・運営する企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+  "category": "silicon",
+  "date": "2026-08-06",
+  "time": "10:00",
+  "path": "/articles/20260806-moove-raises-250m-robotaxi-industry.html"
  }
 ]
