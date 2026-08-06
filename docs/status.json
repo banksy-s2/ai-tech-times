@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-07 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-07 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Google Cloud、Mirendilと1億ドル超の提携",
-   "path": "/articles/20260807-mirendil-google-cloud-deal.html",
-   "cat": "AI(海外)"
+   "title": "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
+   "path": "/articles/20260807-softbank-group-ai-datacenter-supply.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Googleマップに新機能、飲食店やホテル予約が可能に",
-   "path": "/articles/20260807-google-maps-adds-agentic-features.html",
-   "cat": "AI(海外)"
+   "title": "Atlassian Rovoに社内データが外部送信される脆弱性",
+   "path": "/articles/20260807-atlassian-rovo-vulnerability.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }

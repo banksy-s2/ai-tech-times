@@ -1,21 +1,26 @@
 {
- "updated": "2026-08-06 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-07 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "クールジャパン機構540億円赤字、経産省が検証会議",
-   "path": "/articles/20260806-cool-japan-fund-deficit-meti.html",
-   "cat": "株式投資(日本)"
+   "title": "Google Cloud、Mirendilと1億ドル超の提携",
+   "path": "/articles/20260807-mirendil-google-cloud-deal.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Googleマップに新機能、飲食店やホテル予約が可能に",
+   "path": "/articles/20260807-google-maps-adds-agentic-features.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
-  "title": "My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring \"Weird Al\" Yankovic)",
-  "url": "https://www.youtube.com/watch?v=1zqEKPJV3po"
+  "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+  "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
  "notes": [],
- "pv_today": 65,
+ "pv_today": null,
  "gemini": {
-  "used": 167,
+  "used": 5,
   "limit": 200
  }
 }

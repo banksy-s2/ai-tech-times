@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実</title>
+<link>https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html</guid>
+<pubDate>Fri, 07 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。</description>
+</item>
+<item>
+<title>Atlassian Rovoに社内データが外部送信される脆弱性</title>
+<link>https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html</guid>
+<pubDate>Fri, 07 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。</description>
+</item>
+<item>
 <title>Google Cloud、Mirendilと1億ドル超の提携</title>
 <link>https://ai-tech-times.web.app/articles/20260807-mirendil-google-cloud-deal.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260807-mirendil-google-cloud-deal.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 06 Aug 2026 17:06:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>日経平均株価は終値で617円安を記録しました。AI関連の復調に対する投資家の慎重な姿勢が影響し、太陽誘電株は10%を超える大幅な下落となっています。</description>
-</item>
-<item>
-<title>ホンダが四半期最高益も、中国半減に防戦の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260806-honda-earnings-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-honda-earnings-2027.html</guid>
-<pubDate>Thu, 06 Aug 2026 17:06:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ホンダが開催した決算説明会で、四半期最高益を記録する一方で「中国半減」「EV補償」に直面していることが明かされました。</description>
-</item>
-<item>
-<title>Meta、巨大コードベースを処理するAIエージェント発表</title>
-<link>https://ai-tech-times.web.app/articles/20260806-meta-launches-muse-code.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-meta-launches-muse-code.html</guid>
-<pubDate>Thu, 06 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaは、複雑なソフトウェアの複雑なタスクを処理できる新しいAIコーディングエージェントを発表しました。</description>
 </item>
 </channel></rss>

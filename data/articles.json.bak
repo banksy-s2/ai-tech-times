@@ -37515,5 +37515,78 @@
   "date": "2026-08-06",
   "time": "23:01",
   "path": "/articles/20260806-cool-japan-fund-deficit-meti.html"
+ },
+ {
+  "title": "Google Cloud、Mirendilと1億ドル超の提携",
+  "lead": "AI TECH TIMESは、MirendilがGoogle Cloudと1億ドル以上のパートナーシップを締結したことを報じます。計算インフラを拡張し、自己改善型AIの研究を加速させる狙いがあります。",
+  "summary3": [
+   "MirendilがGoogle Cloudと提携",
+   "契約規模は1億ドル以上の大型投資",
+   "自己改善型AIの研究開発を加速へ"
+  ],
+  "body": [
+   "AI技術の進化が加速する中、新たな巨大投資が行われました。Mirendilは、Google Cloudと1億ドル（約150億円）以上を投じるパートナーシップを締結したことを発表しました。",
+   "今回の提携の主な目的は、同社の計算インフラストラクチャを大規模に拡張することにあります。これにより、科学的な発見やAI開発をさらに加速させるための「自己改善型AIシステム」に関する研究開発を強力に後押しします。",
+   "自己改善型AIの進化は、今後の技術革新のスピードを大きく左右する可能性を秘めています。潤沢な計算資源を手に入れた同社の研究が、どのような成果を生み出すのか注目が集まっています。"
+  ],
+  "tags": [
+   "Google Cloud",
+   "Mirendil",
+   "AI開発"
+  ],
+  "slug": "mirendil-google-cloud-deal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google Cloud",
+    "type": "company",
+    "desc": "米グーグルが提供する、企業向けのクラウドコンピューティングサービスおよびインフラ基盤の総称。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "00:01",
+  "path": "/articles/20260807-mirendil-google-cloud-deal.html"
+ },
+ {
+  "title": "Googleマップに新機能、飲食店やホテル予約が可能に",
+  "lead": "AI TECH TIMESの記者として、Googleマップの最新動向についてお伝えします。今回の新機能追加により、単なる地図アプリから実世界でのタスクを支援するアシスタントへの進化を目指しています。",
+  "summary3": [
+   "Googleマップがエージェント機能を搭載",
+   "飲食店やホテルの予約が可能になる",
+   "ナビからアシスタントツールへ進化"
+  ],
+  "body": [
+   "Googleは、Googleマップにエージェント機能を新たに導入することを発表しました。今回のアップデートにより、これまでの地図やナビゲーションとしての機能に加え、飲食店での料理の注文やホテルの予約などが可能になります。",
+   "この新しい機能の導入は、Googleマップを単なるナビゲーションツールから、ユーザーが実世界でのさまざまなタスクを完了するのを手助けするアシスタントへと変革するという、同社の大きな野望を反映したものです。",
+   "日常生活の移動や検索を支えてきた地図アプリが、予約や注文といった実際の行動までを直接サポートする存在へ生まれ変わろうとしています。今後の機能拡充や実用性への期待が高まっています。"
+  ],
+  "tags": [
+   "Google",
+   "Googleマップ",
+   "AI"
+  ],
+  "slug": "google-maps-adds-agentic-features",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、クラウドコンピューティングやAI技術などを手掛けるアメリカの大手IT企業です。"
+   },
+   {
+    "name": "Googleマップ",
+    "type": "ai",
+    "desc": "Googleが提供する、世界中の地図やルート案内、店舗情報などを提供するデジタル地図サービスです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "00:01",
+  "path": "/articles/20260807-google-maps-adds-agentic-features.html"
  }
 ]
