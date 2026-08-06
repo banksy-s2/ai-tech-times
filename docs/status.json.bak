@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-06 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-06 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Klaviyoがエリアス・トレス氏の代理店を買収した理由",
-   "path": "/articles/20260806-klaviyo-acquires-elias-torres-agency.html",
-   "cat": "AI(海外)"
+   "title": "Mac用「Nospace」登場、スペース変換いらずのAI日本語入力",
+   "path": "/articles/20260806-nospace-for-mac-ai-japanese-input-app.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s"
  },
  "notes": [
-  "執筆失敗: Meta launches Muse Code, an AI agent for"
+  "執筆失敗: 1Password、ダッシュボードから組織のAI支出状況を表示する新機能。Cla"
  ],
- "pv_today": 21,
+ "pv_today": 27,
  "gemini": {
-  "used": 55,
+  "used": 60,
   "limit": 200
  }
 }

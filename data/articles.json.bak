@@ -35873,5 +35873,39 @@
   "date": "2026-08-06",
   "time": "08:00",
   "path": "/articles/20260806-klaviyo-acquires-elias-torres-agency.html"
+ },
+ {
+  "title": "Mac用「Nospace」登場、スペース変換いらずのAI日本語入力",
+  "lead": "Macの日本語入力でスペースキーによる変換を必要とせず、打ち間違いを気にせずに入力できるAI日本語入力アプリ「Nospace」がリリースされました。",
+  "summary3": [
+   "Mac用日本語入力アプリ「Nospace」リリース",
+   "スペースキーでの変換作業が不要に",
+   "打ち間違いを気にせずAIが自然な日本語に変換"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。MacのIME（日本語入力プログラム）を利用する際、ローマ字で単語や文章を入力した後にスペースキーで変換を行うのが一般的ですが、その常識を変える新しいアプリが登場しました。",
+   "新しくリリースされたMac用の日本語入力アプリ「Nospace」は、ローマ字入力をスペースキーで変換する代わりに、打ち間違いを気にせずに入力できる仕組みを採用しています。",
+   "さらに、AIを利用して入力された内容を自然な日本語に変換してくれる機能を持っており、日々のタイピング作業を大きくサポートするツールとして注目を集めています。"
+  ],
+  "tags": [
+   "Nospace",
+   "Mac",
+   "AI"
+  ],
+  "slug": "nospace-for-mac-ai-japanese-input-app",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nospace",
+    "type": "ai",
+    "desc": "打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換するMac用の日本語入力アプリです。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html",
+  "category": "ai_jp",
+  "date": "2026-08-06",
+  "time": "09:00",
+  "path": "/articles/20260806-nospace-for-mac-ai-japanese-input-app.html"
  }
 ]
