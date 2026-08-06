@@ -35834,5 +35834,44 @@
   "date": "2026-08-06",
   "time": "07:01",
   "path": "/articles/20260806-honda-financial-results-record-profit.html"
+ },
+ {
+  "title": "Klaviyoがエリアス・トレス氏の代理店を買収した理由",
+  "lead": "テック起業家のエリアス・トレス氏が率いる代理店をKlaviyoが買収しました。同氏はCPOに就任し、AIエージェントの開発を主導します。",
+  "summary3": [
+   "Klaviyoがエリアス・トレス氏の代理店を買収",
+   "トレス氏がKlaviyoのCPOに就任",
+   "AIエージェントの統括を担う予定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回のニュースは、Eコマース分野における重要な動きです。テック起業家として知られるエリアス・トレス氏の代理店を、Klaviyoが買収したことが明らかになりました。この買収により、両者の間で技術的なシナジーが生み出されることが期待されています。",
+   "買収に伴い、エリアス・トレス氏はKlaviyoの新最高製品責任者（CPO）として迎え入れられることになりました。同氏は今後、同社におけるAIエージェントの開発および戦略をリードする重要な役割を担うことになります。",
+   "今回の買収は、テック起業家たちにとってまさにフルサークル（原点回帰）の再会となりました。KlaviyoがAI分野でのプレゼンスをさらに高めていく上で、トレス氏のリーダーシップがどのように活かされるのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Klaviyo",
+   "買収",
+   "AIエージェント"
+  ],
+  "slug": "klaviyo-acquires-elias-torres-agency",
+  "people": [
+   {
+    "name": "エリアス・トレス氏",
+    "bio": "テック業界で活躍するシリアルアントレプレナー（連続起業家）であり、数々の企業を立ち上げてきた実績を持つ。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Klaviyo",
+    "type": "company",
+    "desc": "アメリカを拠点とし、Eコマース企業向けにマーケティング自動化やデータプラットフォームを提供する企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+  "category": "ai",
+  "date": "2026-08-06",
+  "time": "08:00",
+  "path": "/articles/20260806-klaviyo-acquires-elias-torres-agency.html"
  }
 ]

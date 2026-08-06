@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Mac用「Nospace」登場、スペース変換いらずのAI日本語入力](https://ai-tech-times.web.app/articles/20260806-nospace-for-mac-ai-japanese-input-app.html) — 2026-08-06 09:00: Macの日本語入力でスペースキーによる変換を必要とせず、打ち間違いを気にせずに入力できるAI日本語入力アプリ「Nospace」がリリースされました。
 - [Klaviyoがエリアス・トレス氏の代理店を買収した理由](https://ai-tech-times.web.app/articles/20260806-klaviyo-acquires-elias-torres-agency.html) — 2026-08-06 08:00: テック起業家のエリアス・トレス氏が率いる代理店をKlaviyoが買収しました。同氏はCPOに就任し、AIエージェントの開発を主導します。
 - [ジェフ・ディーン氏らグーグルAI幹部が退社、新会社を設立へ](https://ai-tech-times.web.app/articles/20260806-jeff-dean-leaves-google-startup.html) — 2026-08-06 07:01: グーグルの伝説的な幹部であるジェフ・ディーン氏を含むトップAI研究者たちが、グーグルを退社して新たなスタートアップを立ち上げることが明らかになりました。
 - [AnthropicがVoltaと100億ドル契約を結んだ理由](https://ai-tech-times.web.app/articles/20260806-anthropic-signs-10b-deal-with-volta.html) — 2026-08-06 07:01: AI開発を手がけるAnthropicが、AIクラウドの新興企業であるVoltaと100億ドル規模の契約を締結したことが報じられました。近年クラウドパートナーシップを急拡大させている同社の、最新の戦略に迫ります。
@@ -41,14 +42,13 @@
 - [MacPaw、Liquid AIと組みアプリ開発者向けローカル推論を提供へ](https://ai-tech-times.web.app/articles/20260806-macpaw-taps-liquid-ai-for-on-device-inference.html) — 2026-08-06 00:00: MacPawは、アプリストア向けに開発を行う開発者に向けてオンデバイス推論を提供するため、Liquid AIと提携しました。独自のAIアシスタント「Eney」のローカル版構築が進められています。
 - [ベッセント米財務長官、歴史的な円安阻止の背景を語る](https://ai-tech-times.web.app/articles/20260805-bessent-interview-on-yen-intervention.html) — 2026-08-05 23:04: アメリカのベッセント財務長官がNHKの単独インタビューに応じ、日米の通貨当局が踏み切った歴史的な円安を阻止するための協調介入の背景について語りました。
 - [トランプ大統領「ホルムズ海峡、あすかあさってに開放も」](https://ai-tech-times.web.app/articles/20260805-trump-hormuz-strait-opening.html) — 2026-08-05 22:00: 中東のホルムズ海峡をめぐり、アメリカのトランプ大統領が近日中の開放の可能性に言及しました。イラン側も新たな航路の設定に向けた動きを示しています。
-- [Google、9月4日にスマホ版アシスタントを終了へ](https://ai-tech-times.web.app/articles/20260805-google-assistant-disappear-next-month.html) — 2026-08-05 21:03: Googleは、Android端末や連携デバイスから「Google Assistant」へのアクセスを9月4日に削除すると発表しました。Geminiの登場に伴う動きです。
 
 ## 世界のバズ動画TOP3 (2026-08-06)
 - 1位: [The Hood: The World is His | Character Reveal Trailer | Marvel Rivals](https://www.youtube.com/watch?v=YMweqIzyB7s)
 - 2位: [Return To Minecraft ft. iShowSpeed & Kai (official trailer)](https://www.youtube.com/watch?v=IgJru9870_A)
 - 3位: [My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring "Weird Al" Yankovic)](https://www.youtube.com/watch?v=1zqEKPJV3po)
 
-## AI用語事典 (全722語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全723語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
