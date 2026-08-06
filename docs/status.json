@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-07 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-07 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "沖縄・奄美に大型で強い台風13号接近へ、住宅倒壊のおそれも",
-   "path": "/articles/20260807-typhoon-13-approaching-okinawa-amami.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "SpaceX株解放で、初期従業員に巨額の利益がもたらされる理由",
-   "path": "/articles/20260807-spacex-shares-unlocked-windfall.html",
-   "cat": "時事・世界"
+   "title": "デジタルハーツHD、1株1060円でMBO 上場廃止へ",
+   "path": "/articles/20260807-digital-hearts-hd-mbo-delisting.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
  "notes": [],
- "pv_today": 4,
+ "pv_today": 5,
  "gemini": {
-  "used": 20,
+  "used": 23,
   "limit": 200
  }
 }
