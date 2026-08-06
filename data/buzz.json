@@ -2,25 +2,10 @@
  "date": "2026-08-06",
  "videos": [
   {
-   "id": "IgJru9870_A",
-   "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
-   "channel": "IShowSpeed",
-   "views": 1966322,
-   "url": "https://www.youtube.com/watch?v=IgJru9870_A",
-   "thumb": "https://i.ytimg.com/vi/IgJru9870_A/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "iShowSpeedやKaiが出演するマインクラフト関連の公式トレーラーのようです"
-  },
-  {
    "id": "1zqEKPJV3po",
    "title": "My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring \"Weird Al\" Yankovic)",
    "channel": "My Singing Monsters",
-   "views": 237532,
+   "views": 240285,
    "url": "https://www.youtube.com/watch?v=1zqEKPJV3po",
    "thumb": "https://i.ytimg.com/vi/1zqEKPJV3po/hqdefault.jpg",
    "regions": [
@@ -28,28 +13,42 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "「アル・ヤンコビック」が参加した公式トレーラー動画のようですね。"
   },
   {
    "id": "YMweqIzyB7s",
    "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
    "channel": "Marvel Rivals",
-   "views": 2098371,
+   "views": 2130113,
    "url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
    "thumb": "https://i.ytimg.com/vi/YMweqIzyB7s/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "マーベル・ライバルズのキャラクター、ザ・フッドの紹介トレーラーのようです。"
+  },
+  {
+   "id": "IgJru9870_A",
+   "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
+   "channel": "IShowSpeed",
+   "views": 2011345,
+   "url": "https://www.youtube.com/watch?v=IgJru9870_A",
+   "thumb": "https://i.ytimg.com/vi/IgJru9870_A/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 3,
+   "comment": "iShowSpeedやKaiが出演するマインクラフト関連の公式トレーラーのようです"
   },
   {
    "id": "1ya87ENCRj0",
    "title": "Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug",
    "channel": "Vishesh Films",
-   "views": 1298904,
+   "views": 1554884,
    "url": "https://www.youtube.com/watch?v=1ya87ENCRj0",
    "thumb": "https://i.ytimg.com/vi/1ya87ENCRj0/hqdefault.jpg",
    "regions": [
@@ -63,7 +62,7 @@
    "id": "q8xYvyYYpf0",
    "title": "3 SCARY GAMES #112",
    "channel": "Markiplier",
-   "views": 858670,
+   "views": 896729,
    "url": "https://www.youtube.com/watch?v=q8xYvyYYpf0",
    "thumb": "https://i.ytimg.com/vi/q8xYvyYYpf0/hqdefault.jpg",
    "regions": [
@@ -77,7 +76,7 @@
    "id": "E6kvANEXhdU",
    "title": "🔴LIVE | [BEST DROPS] TARKOV SEASONAL | DAY 3 | Hutch x GIMMICK | WACKADOODLE WEDNESDAY | #BUNGULATE",
    "channel": "TheBurntPeanut",
-   "views": 542552,
+   "views": 548676,
    "url": "https://www.youtube.com/watch?v=E6kvANEXhdU",
    "thumb": "https://i.ytimg.com/vi/E6kvANEXhdU/hqdefault.jpg",
    "regions": [
@@ -91,7 +90,7 @@
    "id": "pRdY_JzMf5k",
    "title": "Pooh Shiesty - Last Man Breathin [Official Audio]",
    "channel": "Pooh Shiesty",
-   "views": 386717,
+   "views": 395299,
    "url": "https://www.youtube.com/watch?v=pRdY_JzMf5k",
    "thumb": "https://i.ytimg.com/vi/pRdY_JzMf5k/hqdefault.jpg",
    "regions": [
@@ -105,7 +104,7 @@
    "id": "i08i3tsFRo4",
    "title": "[Hollow Knight: Silksong] I Forgot | #7",
    "channel": "Ouro Kronii Ch. hololive-EN",
-   "views": 263152,
+   "views": 272234,
    "url": "https://www.youtube.com/watch?v=i08i3tsFRo4",
    "thumb": "https://i.ytimg.com/vi/i08i3tsFRo4/hqdefault.jpg",
    "regions": [
@@ -119,7 +118,7 @@
    "id": "F0N5Kg3FmtI",
    "title": "Weezer - C.E.O. (Official Music Video)",
    "channel": "weezer",
-   "views": 202962,
+   "views": 209816,
    "url": "https://www.youtube.com/watch?v=F0N5Kg3FmtI",
    "thumb": "https://i.ytimg.com/vi/F0N5Kg3FmtI/hqdefault.jpg",
    "regions": [
@@ -133,7 +132,7 @@
    "id": "EYNIRHbgjKI",
    "title": "Freya Skye - bad taste (Stars Align Tour: Live from Melbourne)",
    "channel": "FreyaSkyeVEVO",
-   "views": 99211,
+   "views": 102098,
    "url": "https://www.youtube.com/watch?v=EYNIRHbgjKI",
    "thumb": "https://i.ytimg.com/vi/EYNIRHbgjKI/hqdefault.jpg",
    "regions": [
