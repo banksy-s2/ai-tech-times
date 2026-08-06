@@ -36518,5 +36518,83 @@
   "date": "2026-08-06",
   "time": "15:00",
   "path": "/articles/20260806-mercari-ai-native-company-results.html"
+ },
+ {
+  "title": "Meta、巨大コードベースを処理するAIエージェント発表",
+  "lead": "Metaは、複雑なソフトウェアの複雑なタスクを処理できる新しいAIコーディングエージェントを発表しました。",
+  "summary3": [
+   "Metaが新しいAIコーディングを発表",
+   "巨大なコードベースの処理に対応",
+   "複雑なソフトウェアタスクを処理"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。Metaは、AIコーディングの提供を拡大するため、新しくAIエージェントを発表しました。このエージェントは、複雑なソフトウェアにおける複雑なタスクを処理できると約束されています。",
+   "近年、ソフトウェア開発の現場ではAIを活用したコード生成や支援ツールの導入が進んでいます。今回Metaが発表したエージェントは、大規模なコードベースを扱う現場での活用が期待されるものです。",
+   "開発現場の効率化に貢献することが見込まれており、今後の展開に注目が集まっています。詳細な機能や提供時期についての情報は、順次明らかにされていくとみられます。"
+  ],
+  "tags": [
+   "Meta",
+   "AIエージェント",
+   "プログラミング"
+  ],
+  "slug": "meta-launches-muse-code",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの巨大IT企業であり、AIの研究開発にも注力している。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+  "category": "ai",
+  "date": "2026-08-06",
+  "time": "16:01",
+  "path": "/articles/20260806-meta-launches-muse-code.html"
+ },
+ {
+  "title": "SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった",
+  "lead": "SpaceXが初めて発表した四半期決算によると、同社の事業実態は宇宙企業というよりも通信や計算能力のレンタルが中心であることが明らかになりました。",
+  "summary3": [
+   "SpaceX初の四半期決算を発表",
+   "主な収益源は通信と計算能力のレンタル",
+   "企業名と実態の乖離に疑問の声"
+  ],
+  "body": [
+   "米テックメディア「The Verge AI」によると、イーロン・マスク氏が率いるSpaceX社に関して、その事業実態と名称についての疑問が呈されています。かつては、最も順調とされるSpaceXが、最も業績の厳しいとされるxAIを買収した理由に疑問の声が上がっていました。",
+   "しかし、SpaceXが初めて公開した四半期決算の報告書を見ると、新たな疑問が生じています。売上高の観点から見ると、現在のSpaceXは宇宙開発企業というよりも、主にテレコム（通信）企業であり、同時に計算能力（コンピュート）をレンタルする企業である実態が浮かび上がってきたのです。",
+   "好調とされる企業による別の企業の買収や、決算から見えてきた実際の事業内容について、今改めてその実態に関心が集まっています。"
+  ],
+  "tags": [
+   "SpaceX",
+   "xAI",
+   "決算"
+  ],
+  "slug": "spacex-earnings-telecom-compute",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "SpaceXやxAIなどの企業を率いる実業家として広く知られています。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカの宇宙開発企業で、ロケットの打ち上げや通信事業などを展開しています。"
+   },
+   {
+    "name": "xAI",
+    "type": "company",
+    "desc": "イーロン・マスク氏が設立した人工知能の開発を手がける企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+  "category": "ai",
+  "date": "2026-08-06",
+  "time": "16:01",
+  "path": "/articles/20260806-spacex-earnings-telecom-compute.html"
  }
 ]

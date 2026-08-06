@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-06 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-06 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "メルカリ過去最高益、エンジニア生産性7.6倍の理由",
-   "path": "/articles/20260806-mercari-ai-native-company-results.html",
-   "cat": "日本企業"
+   "title": "Meta、巨大コードベースを処理するAIエージェント発表",
+   "path": "/articles/20260806-meta-launches-muse-code.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった",
+   "path": "/articles/20260806-spacex-earnings-telecom-compute.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=IgJru9870_A"
  },
  "notes": [],
- "pv_today": 50,
+ "pv_today": 53,
  "gemini": {
-  "used": 108,
+  "used": 113,
   "limit": 200
  }
 }

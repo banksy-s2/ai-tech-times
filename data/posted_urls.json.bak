@@ -1057,13 +1057,11 @@
   "https://news.web.nhk/newsweb/na/na-k10015197701000",
   "https://news.web.nhk/newsweb/na/na-k10015197591000",
   "https://www.yomiuri.co.jp/economy/20260805-GYT1T00091/",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news066.html"
+  "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
+  "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+  "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"
  ],
  "titles": [
-  "AMDが新型AIラック「Helios」投入、マイクロソフトも参入でエヌビディアに挑む",
-  "ホロライブ運営、カスハラ対策方針を公開",
-  "ニチレイにハッカー集団犯行声明、どうなる出荷業務",
-  "国民会議実務者会議、食料品消費税減税の議論再開も難航予想",
   "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
   "The Space Force is now seeking to buy up to $30 billion in rocket launches",
   "Apple、Klarnaと提携し新リース開始",
@@ -3059,6 +3057,10 @@
   "円安打開のため「大きな借り」作った日本政府、米国が求める「転換」…日銀への「利上げ圧力」高まる可能性",
   "米財務長官のX発言で高まる日銀の利上げ圧力",
   "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
-  "メルカリ過去最高益、エンジニア生産性7.6倍の理由"
+  "メルカリ過去最高益、エンジニア生産性7.6倍の理由",
+  "Meta launches Muse Code, an AI agent for large code bases",
+  "SpaceX is barely Space and mostly X",
+  "Meta、巨大コードベースを処理するAIエージェント発表",
+  "SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった"
  ]
 }
