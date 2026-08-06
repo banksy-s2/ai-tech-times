@@ -2,25 +2,10 @@
  "date": "2026-08-06",
  "videos": [
   {
-   "id": "YMweqIzyB7s",
-   "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
-   "channel": "Marvel Rivals",
-   "views": 1735069,
-   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
-   "thumb": "https://i.ytimg.com/vi/YMweqIzyB7s/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "マーベル・ライバルズのキャラクター、ザ・フッドの紹介トレーラーのようです。"
-  },
-  {
    "id": "IgJru9870_A",
    "title": "Return To Minecraft ft. iShowSpeed & Kai (official trailer)",
    "channel": "IShowSpeed",
-   "views": 1462348,
+   "views": 1538720,
    "url": "https://www.youtube.com/watch?v=IgJru9870_A",
    "thumb": "https://i.ytimg.com/vi/IgJru9870_A/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "iShowSpeedやKaiが出演するマインクラフト関連の公式トレーラーのようです"
   },
   {
    "id": "1zqEKPJV3po",
    "title": "My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring \"Weird Al\" Yankovic)",
    "channel": "My Singing Monsters",
-   "views": 198112,
+   "views": 206277,
    "url": "https://www.youtube.com/watch?v=1zqEKPJV3po",
    "thumb": "https://i.ytimg.com/vi/1zqEKPJV3po/hqdefault.jpg",
    "regions": [
@@ -43,28 +28,42 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "「アル・ヤンコビック」が参加した公式トレーラー動画のようですね。"
   },
   {
    "id": "FmM2giDwLAE",
    "title": "Violent Night 2 | Official Trailer",
    "channel": "Universal Pictures",
-   "views": 2607045,
+   "views": 2698472,
    "url": "https://www.youtube.com/watch?v=FmM2giDwLAE",
    "thumb": "https://i.ytimg.com/vi/FmM2giDwLAE/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "バイオレント・ナイト続編の公式予告編ようですね。"
+  },
+  {
+   "id": "YMweqIzyB7s",
+   "title": "The Hood: The World is His | Character Reveal Trailer | Marvel Rivals",
+   "channel": "Marvel Rivals",
+   "views": 1793410,
+   "url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+   "thumb": "https://i.ytimg.com/vi/YMweqIzyB7s/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 4,
+   "comment": "マーベル・ライバルズのキャラクター、ザ・フッドの紹介トレーラーのようです。"
   },
   {
    "id": "taAllJ0fhQk",
    "title": "OpTic GAMING VS TEAM WAR!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 1",
    "channel": "Scump",
-   "views": 439365,
+   "views": 452808,
    "url": "https://www.youtube.com/watch?v=taAllJ0fhQk",
    "thumb": "https://i.ytimg.com/vi/taAllJ0fhQk/hqdefault.jpg",
    "regions": [
@@ -75,24 +74,24 @@
    "comment": "Esports World Cup初日のScumpウォッチパーティの様子です"
   },
   {
-   "id": "35jQaMGTb40",
-   "title": "CASH Went CRAZY in Minecraft!",
-   "channel": "Cash",
-   "views": 348967,
-   "url": "https://www.youtube.com/watch?v=35jQaMGTb40",
-   "thumb": "https://i.ytimg.com/vi/35jQaMGTb40/hqdefault.jpg",
+   "id": "-PUIV0hgutQ",
+   "title": "11 MILLION TODAY",
+   "channel": "Jynxzi",
+   "views": 413387,
+   "url": "https://www.youtube.com/watch?v=-PUIV0hgutQ",
+   "thumb": "https://i.ytimg.com/vi/-PUIV0hgutQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 6,
-   "comment": "マインクラフトでの様子を収めた映像のようです。"
+   "comment": "Jynxziのチャンネルによる、1100万回再生を記念した動画のようです。"
   },
   {
    "id": "q8xYvyYYpf0",
    "title": "3 SCARY GAMES #112",
    "channel": "Markiplier",
-   "views": 321270,
+   "views": 378345,
    "url": "https://www.youtube.com/watch?v=q8xYvyYYpf0",
    "thumb": "https://i.ytimg.com/vi/q8xYvyYYpf0/hqdefault.jpg",
    "regions": [
@@ -103,46 +102,46 @@
    "comment": "怖いゲームを3つプレイする実況動画のようですね。(25文字)"
   },
   {
+   "id": "35jQaMGTb40",
+   "title": "CASH Went CRAZY in Minecraft!",
+   "channel": "Cash",
+   "views": 370885,
+   "url": "https://www.youtube.com/watch?v=35jQaMGTb40",
+   "thumb": "https://i.ytimg.com/vi/35jQaMGTb40/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 8,
+   "comment": "マインクラフトでの様子を収めた映像のようです。"
+  },
+  {
    "id": "gXjurDkYnEM",
    "title": "INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)",
    "channel": "Sony Pictures Entertainment",
-   "views": 258709,
+   "views": 278736,
    "url": "https://www.youtube.com/watch?v=gXjurDkYnEM",
    "thumb": "https://i.ytimg.com/vi/gXjurDkYnEM/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "人気ホラーシリーズ最新作のファイナル予告映像のようです"
   },
   {
    "id": "pRdY_JzMf5k",
    "title": "Pooh Shiesty - Last Man Breathin [Official Audio]",
    "channel": "Pooh Shiesty",
-   "views": 221901,
+   "views": 252233,
    "url": "https://www.youtube.com/watch?v=pRdY_JzMf5k",
    "thumb": "https://i.ytimg.com/vi/pRdY_JzMf5k/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "Pooh Shiestyの公式オーディオ楽曲が公開されているようです。"
-  },
-  {
-   "id": "F0N5Kg3FmtI",
-   "title": "Weezer - C.E.O. (Official Music Video)",
-   "channel": "weezer",
-   "views": 132145,
-   "url": "https://www.youtube.com/watch?v=F0N5Kg3FmtI",
-   "thumb": "https://i.ytimg.com/vi/F0N5Kg3FmtI/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "Weezerの新曲と思われる公式ミュージックビデオが公開されているようです"
+   "comment": "Pooh Shiestyの公式オーディオ楽曲が公開されているようです。"
   }
  ],
  "covered": [
@@ -373,6 +372,7 @@
   "pRdY_JzMf5k": "Pooh Shiestyの公式オーディオ楽曲が公開されているようです。",
   "taAllJ0fhQk": "Esports World Cup初日のScumpウォッチパーティの様子です",
   "qiZMn1_WtMw": "緑色の患者だけを受け入れる動物病院の動画のようです",
-  "q8xYvyYYpf0": "怖いゲームを3つプレイする実況動画のようですね。(25文字)"
+  "q8xYvyYYpf0": "怖いゲームを3つプレイする実況動画のようですね。(25文字)",
+  "-PUIV0hgutQ": "Jynxziのチャンネルによる、1100万回再生を記念した動画のようです。"
  }
 }
