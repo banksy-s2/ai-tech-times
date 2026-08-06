@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-06 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-06 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "米財務長官のX発言で高まる日銀の利上げ圧力",
-   "path": "/articles/20260806-us-treasury-secretary-japan-economy.html",
-   "cat": "株式投資(日本)"
+   "title": "メルカリ過去最高益、エンジニア生産性7.6倍の理由",
+   "path": "/articles/20260806-mercari-ai-native-company-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 50,
  "gemini": {
-  "used": 104,
+  "used": 108,
   "limit": 200
  }
 }

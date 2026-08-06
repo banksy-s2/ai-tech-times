@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 16:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Meta、巨大コードベースを処理するAIエージェント発表](https://ai-tech-times.web.app/articles/20260806-meta-launches-muse-code.html) — 2026-08-06 16:01: Metaは、複雑なソフトウェアの複雑なタスクを処理できる新しいAIコーディングエージェントを発表しました。
+- [SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった](https://ai-tech-times.web.app/articles/20260806-spacex-earnings-telecom-compute.html) — 2026-08-06 16:01: SpaceXが初めて発表した四半期決算によると、同社の事業実態は宇宙企業というよりも通信や計算能力のレンタルが中心であることが明らかになりました。
 - [メルカリ過去最高益、エンジニア生産性7.6倍の理由](https://ai-tech-times.web.app/articles/20260806-mercari-ai-native-company-results.html) — 2026-08-06 15:00: メルカリは2度の上方修正を超え、過去最高益を達成しました。全社を挙げたAI活用がもたらした組織変革の成果を山田進太郎CEOが語りました。
 - [米財務長官のX発言で高まる日銀の利上げ圧力](https://ai-tech-times.web.app/articles/20260806-us-treasury-secretary-japan-economy.html) — 2026-08-06 14:00: 米財務長官のスコット・ベッセント氏がXで日米の協調や日本経済について言及し、円安打開を巡る動向に注目が集まっています。
 - [NYダウ3日連続最高値、ホルムズ海峡開放への期待感から](https://ai-tech-times.web.app/articles/20260806-ny-dow-record-high-hormuz-strait.html) — 2026-08-06 13:00: ニューヨーク株式市場でダウ平均株価が前日の終値と比べて値上がりし、3日連続で最高値を更新しました。
@@ -40,8 +42,6 @@
 - [ENHYPENニキ苦言で波紋、日本人女性インフルエンサー急死](https://ai-tech-times.web.app/articles/20260806-influencer-sudden-death-enhypen-niki.html) — 2026-08-06 11:00: 日本人女性インフルエンサーの「急死」をめぐり、ENHYPENのニキによる苦言が波紋を広げていると、ｄメニューニュースが伝えています。
 - [Sandiskが第4四半期増収も、第1四半期予想が市場未達で株価下落](https://ai-tech-times.web.app/articles/20260806-sandisk-reports-q4-revenue-and-q1-forecast.html) — 2026-08-06 10:00: Sandiskが発表した第4四半期決算は前年同期比372%増収と大幅な伸びを記録しました。しかし、第1四半期の売上高予測が市場予想を下回り、株価の下落を招いています。
 - [Moove、2億5000万ドル調達でロボタクシー業界の基盤へ](https://ai-tech-times.web.app/articles/20260806-moove-raises-250m-robotaxi-industry.html) — 2026-08-06 10:00: モビリティ分野を手がけるMooveが、総額2億5000万ドルを資金調達しました。自動運転車フリートの管理事業を急拡大させ、ロボタクシー業界のインフラを担う計画です。
-- [Mac用「Nospace」登場、スペース変換いらずのAI日本語入力](https://ai-tech-times.web.app/articles/20260806-nospace-for-mac-ai-japanese-input-app.html) — 2026-08-06 09:00: Macの日本語入力でスペースキーによる変換を必要とせず、打ち間違いを気にせずに入力できるAI日本語入力アプリ「Nospace」がリリースされました。
-- [Klaviyoがエリアス・トレス氏の代理店を買収した理由](https://ai-tech-times.web.app/articles/20260806-klaviyo-acquires-elias-torres-agency.html) — 2026-08-06 08:00: テック起業家のエリアス・トレス氏が率いる代理店をKlaviyoが買収しました。同氏はCPOに就任し、AIエージェントの開発を主導します。
 
 ## 世界のバズ動画TOP3 (2026-08-06)
 - 1位: [Return To Minecraft ft. iShowSpeed & Kai (official trailer)](https://www.youtube.com/watch?v=IgJru9870_A)
@@ -57,14 +57,14 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する、高度な自然言語処理能力を持つ人気の対話型AIモデルおよびサービス。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した大規模言語モデルによる対話型AIアシスタントで、コード作成や質問応答などを行う。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
@@ -72,13 +72,13 @@
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカの宇宙開発企業で、ロケットの製造や打ち上げサービス、衛星通信サービスなどを手がける。
 - [AWSとは](https://ai-tech-times.web.app/term/aws.html): 米アマゾン・ドット・コムが提供する世界最大手のクラウドコンピューティングサービス。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリや半導体製品の開発・製造を手がける日本の大手半導体企業。
-- [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディア。東洋経済新報社が運営する。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

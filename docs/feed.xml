@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Meta、巨大コードベースを処理するAIエージェント発表</title>
+<link>https://ai-tech-times.web.app/articles/20260806-meta-launches-muse-code.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260806-meta-launches-muse-code.html</guid>
+<pubDate>Thu, 06 Aug 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaは、複雑なソフトウェアの複雑なタスクを処理できる新しいAIコーディングエージェントを発表しました。</description>
+</item>
+<item>
+<title>SpaceXの収益の正体、テレコムと計算能力のレンタル企業だった</title>
+<link>https://ai-tech-times.web.app/articles/20260806-spacex-earnings-telecom-compute.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260806-spacex-earnings-telecom-compute.html</guid>
+<pubDate>Thu, 06 Aug 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>SpaceXが初めて発表した四半期決算によると、同社の事業実態は宇宙企業というよりも通信や計算能力のレンタルが中心であることが明らかになりました。</description>
+</item>
+<item>
 <title>メルカリ過去最高益、エンジニア生産性7.6倍の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260806-mercari-ai-native-company-results.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260806-mercari-ai-native-company-results.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 06 Aug 2026 07:01:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ホンダはことし4月から6月までの決算を公表し、本業のもうけを示す営業利益が5307億円と、四半期の決算として過去最高を記録しました。</description>
-</item>
-<item>
-<title>川崎汽船、通期純益1350億円に上方修正 ドライバルク増益</title>
-<link>https://ai-tech-times.web.app/articles/20260806-k-line-fy2026-q1-earnings.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-k-line-fy2026-q1-earnings.html</guid>
-<pubDate>Thu, 06 Aug 2026 06:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>川崎汽船はFY2026 Q1決算説明会を開催し、通期純利益を1350億円に上方修正すると発表しました。</description>
-</item>
-<item>
-<title>日経平均株価、続伸して終値2342円高の6万6300円に</title>
-<link>https://ai-tech-times.web.app/articles/20260806-nikkei-average-gains-66300.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260806-nikkei-average-gains-66300.html</guid>
-<pubDate>Thu, 06 Aug 2026 05:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道によると、日経平均株価が続伸し、終値で2342円高の6万6300円を記録しました。</description>
 </item>
 </channel></rss>
