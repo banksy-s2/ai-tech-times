@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-07 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-07 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
-   "path": "/articles/20260807-softbank-group-ai-datacenter-supply.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Atlassian Rovoに社内データが外部送信される脆弱性",
-   "path": "/articles/20260807-atlassian-rovo-vulnerability.html",
-   "cat": "日本のAI"
+   "title": "ソフトバンク、トランプ図書館に5000万ドル寄付の真相",
+   "path": "/articles/20260807-softbank-trump-library-donation.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Tesla and SpaceX will invest $16.8B to s"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }

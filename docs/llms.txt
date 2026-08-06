@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [メキシコ、生配信中のインフルエンサー射殺事件](https://ai-tech-times.web.app/articles/20260807-influencer-shot-dead-in-mexico.html) — 2026-08-07 03:00: メキシコにて、生配信を行っていたインフルエンサーが射殺される事件が発生しました。麻薬組織に関する投稿への報復である可能性が指摘されています。
 - [ソフトバンク、トランプ図書館に5000万ドル寄付の真相](https://ai-tech-times.web.app/articles/20260807-softbank-trump-library-donation.html) — 2026-08-07 02:00: ソフトバンクがトランプ大統領の図書館へ5000万ドルを寄付していたことが判明しました。連邦政府との土地リース契約の数ヶ月前の出来事です。
 - [ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実](https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html) — 2026-08-07 01:00: ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。
 - [Atlassian Rovoに社内データが外部送信される脆弱性](https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html) — 2026-08-07 01:00: プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。
@@ -41,12 +42,11 @@
 - [日経平均が1000円超安、AI・半導体売りが主導](https://ai-tech-times.web.app/articles/20260806-nikkei-average-drops-over-1000-yen.html) — 2026-08-06 21:04: 今日の株式市場で日経平均株価が1000円を超える下落を記録しました。AIおよび半導体関連の売り注文が市場全体の下落を主導する展開となっています。
 - [ソフトバンクグループ、17％余の減益なぜ？英社の人員増が影響](https://ai-tech-times.web.app/articles/20260806-softbank-group-earnings-decline.html) — 2026-08-06 21:04: ソフトバンクグループが発表したことし6月までの3か月間の決算は、最終利益が前の年の同じ時期と比べ17％余り減少しました。傘下の企業における人員増強などが利益を押し下げています。
 - [韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡](https://ai-tech-times.web.app/articles/20260806-japanese-influencer-dies-during-live-stream-in-korea.html) — 2026-08-06 20:00: 韓国に居住する20代女性の日本人インフルエンサーが、自宅でのライブ配信中に死亡していることが確認されました。
-- [Sequoiaが100億ドル調達、AI特化の戦略転換でどう挑むのか](https://ai-tech-times.web.app/articles/20260806-sequoia-revamped-strategy-ai-funding.html) — 2026-08-06 19:00: 伝統的な老舗ベンチャーキャピタルであるSequoiaが、人工知能（AI）が支配する世界に向けて戦略を大きく刷新しました。新たに約100億ドルの資金を調達し、大胆なAI投資へと舵を切っています。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
-- 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
-- 2位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
-- 3位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
+- 1位: [Tough Call | D.Mon Hero Trailer | Overwatch](https://www.youtube.com/watch?v=i2zohQuNcbo)
+- 2位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
+- 3位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 
 ## AI用語事典 (全757語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
