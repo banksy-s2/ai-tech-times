@@ -1086,13 +1086,11 @@
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzVy1uZWJOUXY0RHlKS25EbE04dU14OHJZekVIMWdJTmdkci0zekZpMWJ0MnYzV3dmczM5RzA1V21BUmFQRkt5WUlYZGZDQjRIa2RsYTFldXlQaHU0UFlkeEFxZ2U?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015198231000",
   "https://news.web.nhk/newsweb/na/na-k10015198411000",
-  "https://branc.jp/article/2026/08/06/2974.html"
+  "https://branc.jp/article/2026/08/06/2974.html",
+  "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+  "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
  ],
  "titles": [
-  "デジタル庁、次期マイナンバーカードを2029年度中に提供へ",
-  "AnthropicのAIと海賊版書籍の和解、一部著者が拒否",
-  "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-  "Google expands Gemini lineup with cheaper models and new Mythos rival",
   "任天堂、関税返還請求の却下を裁判所に要求",
   "Google、Geminiの安価な新モデル投入でコスト競争へ",
   "Meta made its own AI detection system. It should have just used Google’s",
@@ -3088,6 +3086,10 @@
   "ホルムズ海峡の新航路 イラン「調整の最終段階」",
   "イラン、ホルムズ海峡の新航路設定へオマーンと調整最終段階",
   "「政策支援」と「投資回収」の二律背反。韓国コンテンツ振興院が読み解く、クールジャパン機構「540億円赤字」の本質 | Branc（ブラン）-Brand New Creativity-",
-  "クールジャパン機構540億円赤字、経産省が検証会議"
+  "クールジャパン機構540億円赤字、経産省が検証会議",
+  "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+  "Google Maps adds agentic features, including food ordering and hotel bookings",
+  "Google Cloud、Mirendilと1億ドル超の提携",
+  "Googleマップに新機能、飲食店やホテル予約が可能に"
  ]
 }

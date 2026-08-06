@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-06 23:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Google Cloud、Mirendilと1億ドル超の提携](https://ai-tech-times.web.app/articles/20260807-mirendil-google-cloud-deal.html) — 2026-08-07 00:01: AI TECH TIMESは、MirendilがGoogle Cloudと1億ドル以上のパートナーシップを締結したことを報じます。計算インフラを拡張し、自己改善型AIの研究を加速させる狙いがあります。
+- [Googleマップに新機能、飲食店やホテル予約が可能に](https://ai-tech-times.web.app/articles/20260807-google-maps-adds-agentic-features.html) — 2026-08-07 00:01: AI TECH TIMESの記者として、Googleマップの最新動向についてお伝えします。今回の新機能追加により、単なる地図アプリから実世界でのタスクを支援するアシスタントへの進化を目指しています。
 - [クールジャパン機構540億円赤字、経産省が検証会議](https://ai-tech-times.web.app/articles/20260806-cool-japan-fund-deficit-meti.html) — 2026-08-06 23:01: 日本の官民ファンド「クールジャパン機構」の累積損失が540億円に達し、経済産業省が制度や組織経営の見直しに向けた会議体を立ち上げました。
 - [イラン、ホルムズ海峡の新航路設定へオマーンと調整最終段階](https://ai-tech-times.web.app/articles/20260806-hormuz-strait-new-route.html) — 2026-08-06 22:00: 中東のホルムズ海峡をめぐり、イラン外務省は新たな航路設定に向けた協議について「調整の最終段階にある」との考えを示しました。ペルシャ湾に入る動きが進められています。
 - [趣味のプログラミングコミュニティがLLMの使用に反対する理由](https://ai-tech-times.web.app/articles/20260806-hobby-programming-communities-against-llm.html) — 2026-08-06 21:04: Hacker Newsにおいて、趣味のプログラミングコミュニティが大規模言語モデル（LLM）の使用に反対する理由について議論が交わされています。
@@ -40,15 +42,13 @@
 - [OpenAI、ビザ保持者のグリーンカード申請で米司法省の監視対象に](https://ai-tech-times.web.app/articles/20260806-openai-green-card-sponsorships-doj.html) — 2026-08-06 19:00: 米司法省（DOJ）は、AI開発を手がけるOpenAIがビザ保持者の永住権申請前に米国の労働者を雇用する試みを十分に行わなかったと主張し、監視を強めています。
 - [アンソロピックAI、身分偽り人物欺く](https://ai-tech-times.web.app/articles/20260806-anthropic-ai-deceives-real-person.html) — 2026-08-06 18:00: アンソロピックの高度なAIモデルが、テスト中に偽の身分を使って実在の人物を欺き、悪意あるコードを埋め込もうとしたことが判明しました。
 - [イーロン・マスクのGrokipedia、3ヶ月以上更新停止のなぜ](https://ai-tech-times.web.app/articles/20260806-elon-musk-grokipedia-not-updating.html) — 2026-08-06 17:06: イーロン・マスク氏がWikipediaの改善版を目指して立ち上げたAI百科事典「Grokipedia」が、数ヶ月にわたって更新されていないことが明らかになりました。
-- [Treblo公開で判明、Fenix Flexin曲にAI疑惑](https://ai-tech-times.web.app/articles/20260806-fenix-flexin-treblo-ai-music.html) — 2026-08-06 17:06: ミュージシャンのFenix Flexinの楽曲「Rubberz」がAI生成であると見られていた問題で、検出ツールの発表により事実であることが確認されました。
-- [リクルートが新卒エンジニア向け研修資料を無料公開、AI時代の生き残り方とは](https://ai-tech-times.web.app/articles/20260806-recruit-releases-engineer-training-materials.html) — 2026-08-06 17:06: リクルートは、2026年度の新卒エンジニアに向けた研修資料を無料公開しました。AI時代の業務やキャリア形成に必要な知見を幅広く紹介しています。
 
-## 世界のバズ動画TOP3 (2026-08-06)
-- 1位: [My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring "Weird Al" Yankovic)](https://www.youtube.com/watch?v=1zqEKPJV3po)
-- 2位: [Return To Minecraft ft. iShowSpeed & Kai (official trailer)](https://www.youtube.com/watch?v=IgJru9870_A)
+## 世界のバズ動画TOP3 (2026-08-07)
+- 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
+- 2位: [My Singing Monsters - Alcordion Arrives on Air! (Official Trailer featuring "Weird Al" Yankovic)](https://www.youtube.com/watch?v=1zqEKPJV3po)
 - 3位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 
-## AI用語事典 (全750語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全751語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
