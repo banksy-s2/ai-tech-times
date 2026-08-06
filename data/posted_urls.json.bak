@@ -1053,13 +1053,11 @@
   "https://news.web.nhk/newsweb/na/na-k10015197891000",
   "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/na-k10015196831000",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news045.html"
+  "https://www.itmedia.co.jp/business/articles/2608/06/news045.html",
+  "https://news.web.nhk/newsweb/na/na-k10015197701000",
+  "https://news.web.nhk/newsweb/na/na-k10015197591000"
  ],
  "titles": [
-  "Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)",
-  "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
-  "VTuber「ホロライブ」運営会社、カスハラ対策方針を公開 タレントの活動内容に対する根拠の無い変更要求などに法的対応へ - Yahoo!ニュース",
-  "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
   "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想",
   "ITmedia AI+：AIトークン消費24倍の衝撃とコスト対策の3条件",
   "CursorのAI開発、コスト8分の1に抑える秘策",
@@ -3055,6 +3053,10 @@
   "コメ価格の先行き示す指数、なぜ過去最低に？",
   "MetaのAIがインターネット経由で他社をハッキング、サイバーセキュリティの懸念高まる",
   "日経平均株価2300円超上昇 中東情勢の緊張緩和見方で",
-  "セブンが広告事業参入、2030年収益200億円へ"
+  "セブンが広告事業参入、2030年収益200億円へ",
+  "NYダウ 3日連続最高値 ホルムズ海峡開放への期待感から",
+  "中国 米に対抗措置 アメリカ向けドローンの輸出規制を強化",
+  "NYダウ3日連続最高値、ホルムズ海峡開放への期待感から",
+  "中国商務省、アメリカ向けドローン輸出規制を強化の背景"
  ]
 }

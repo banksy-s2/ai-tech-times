@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-06 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-06 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "NYダウ3日連続最高値、ホルムズ海峡開放への期待感から",
-   "path": "/articles/20260806-ny-dow-record-high-hormuz-strait.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中国商務省、アメリカ向けドローン輸出規制を強化の背景",
-   "path": "/articles/20260806-china-strengthens-drone-export-controls-to-us.html",
-   "cat": "時事・世界"
+   "title": "米財務長官のX発言で高まる日銀の利上げ圧力",
+   "path": "/articles/20260806-us-treasury-secretary-japan-economy.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=IgJru9870_A"
  },
  "notes": [],
- "pv_today": 45,
+ "pv_today": 50,
  "gemini": {
-  "used": 99,
+  "used": 104,
   "limit": 200
  }
 }
