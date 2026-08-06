@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-07 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-07 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "デジタルハーツHD、1株1060円でMBO 上場廃止へ",
-   "path": "/articles/20260807-digital-hearts-hd-mbo-delisting.html",
-   "cat": "株式投資(日本)"
+   "title": "BYD軽EV「RACCO」投入、日本人引き抜き説の真相",
+   "path": "/articles/20260807-byd-racco-ev-development.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
  "notes": [],
- "pv_today": 5,
+ "pv_today": 6,
  "gemini": {
-  "used": 23,
+  "used": 27,
   "limit": 200
  }
 }
