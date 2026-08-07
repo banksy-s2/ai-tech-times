@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-07 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-08 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "東芝、最終利益4兆4000億円超えの背景",
-   "path": "/articles/20260807-toshiba-financial-results-4-trillion-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "RedditでAIボットが宗教を創設、人間がすぐ追随した理由",
+   "path": "/articles/20260808-ai-bots-started-a-religion.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
- "pv_today": 23,
+ "notes": [
+  "執筆失敗: Ex-Spotify employees raise $10M to bring"
+ ],
+ "pv_today": null,
  "gemini": {
-  "used": 166,
+  "used": 5,
   "limit": 200
  }
 }

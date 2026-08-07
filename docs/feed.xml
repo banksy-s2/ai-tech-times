@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>法務省、「声の無断利用」は権利侵害と見解明示</title>
+<link>https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html</guid>
+<pubDate>Sat, 08 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>法務省は、生成AIの普及に伴う声優などの声が無断利用されている問題について、声も既存の権利で法的に保護できるとの見解を明示しました。</description>
+</item>
+<item>
+<title>自宅隣にデータセンター計画、規制の隙間で住環境悪化</title>
+<link>https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html</guid>
+<pubDate>Sat, 08 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>技術の進歩に伴い都市部でデータセンターの建設が相次ぐ中、規制が追いついていない現状と近隣住民との軋轢について専門家が指摘しています。</description>
+</item>
+<item>
 <title>RedditでAIボットが宗教を創設、人間がすぐ追随した理由</title>
 <link>https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 07 Aug 2026 17:04:00 +0900</pubDate>
 <category>日本企業</category>
 <description>花王はFY2026 Q2の決算説明会を開催し、上期営業利益が前年同期比39％増の958億円となり過去最高を記録したと発表しました。好調な業績を受け、通期予想の上方修正も行われています。</description>
-</item>
-<item>
-<title>OpenAIの新AIスマートスピーカー、300〜400ドルで販売か</title>
-<link>https://ai-tech-times.web.app/articles/20260807-openai-new-ai-smart-speaker-price.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-openai-new-ai-smart-speaker-price.html</guid>
-<pubDate>Fri, 07 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが開発を進める謎に包まれた新型AIデバイスについて、新たな詳細情報が報じられました。価格は300〜400ドル程度になる見込みです。</description>
-</item>
-<item>
-<title>Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html</guid>
-<pubDate>Fri, 07 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>「バイブコーディング」を一歩進め、企業の設立から運営までの大部分を自動化するインフラを掲げるNaïveが、28.5百万ドルを調達したことが明らかになりました。</description>
 </item>
 </channel></rss>
