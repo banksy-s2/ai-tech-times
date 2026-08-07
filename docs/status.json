@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-07 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-07 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、ChatGPT無料版の制限撤廃へ",
-   "path": "/articles/20260807-openai-chatgpt-free-unlimited-chats.html",
-   "cat": "AI(海外)"
+   "title": "太陽誘電、純益290億円で約2倍へ上方修正の背景",
+   "path": "/articles/20260807-taiwan-yuden-upward-revision-ai-server.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "AIエージェントの指示承認、人間が3分の1の見落とし",
-   "path": "/articles/20260807-ai-agent-permissions-threats.html",
-   "cat": "AI(海外)"
+   "title": "Zehitomoが数千万円調達、AI駆動型融資で実現した理由",
+   "path": "/articles/20260807-zehitomo-ai-data-driven-financing.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 56,
+  "used": 60,
   "limit": 200
  }
 }

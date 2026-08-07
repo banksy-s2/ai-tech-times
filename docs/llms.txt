@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [太陽誘電、純益290億円で約2倍へ上方修正の背景](https://ai-tech-times.web.app/articles/20260807-taiwan-yuden-upward-revision-ai-server.html) — 2026-08-07 09:00: 電子部品メーカーの太陽誘電は、2027年3月期通期の連結業績予想を上方修正しました。AIサーバ向けの好調が影響し、純利益は前期の約2倍となる見通しです。
+- [Zehitomoが数千万円調達、AI駆動型融資で実現した理由](https://ai-tech-times.web.app/articles/20260807-zehitomo-ai-data-driven-financing.html) — 2026-08-07 09:00: 黒字化目前のZehitomoが、AIを活用したデータ駆動型融資により、わずか1カ月で数千万円の資金調達に成功しました。銀行融資の壁を破った新たな調達術の最前線を追います。
 - [OpenAI、ChatGPT無料版の制限撤廃へ](https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html) — 2026-08-07 08:00: AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。
 - [AIエージェントの指示承認、人間が3分の1の見落とし](https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html) — 2026-08-07 08:00: AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。
 - [ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明](https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html) — 2026-08-07 07:01: 元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。
@@ -40,15 +42,13 @@
 - [SpaceX株解放で、初期従業員に巨額の利益がもたらされる理由](https://ai-tech-times.web.app/articles/20260807-spacex-shares-unlocked-windfall.html) — 2026-08-07 04:00: 宇宙開発企業SpaceXの株式が木曜日にアンロックされ、初期からの従業員らが巨額の利益を手にする見込みとなりました。BBCのサミラ・フサイン記者がその詳細を解説しています。
 - [メキシコ、生配信中のインフルエンサー射殺事件](https://ai-tech-times.web.app/articles/20260807-influencer-shot-dead-in-mexico.html) — 2026-08-07 03:00: メキシコにて、生配信を行っていたインフルエンサーが射殺される事件が発生しました。麻薬組織に関する投稿への報復である可能性が指摘されています。
 - [ソフトバンク、トランプ図書館に5000万ドル寄付の真相](https://ai-tech-times.web.app/articles/20260807-softbank-trump-library-donation.html) — 2026-08-07 02:00: ソフトバンクがトランプ大統領の図書館へ5000万ドルを寄付していたことが判明しました。連邦政府との土地リース契約の数ヶ月前の出来事です。
-- [ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実](https://ai-tech-times.web.app/articles/20260807-softbank-group-ai-datacenter-supply.html) — 2026-08-07 01:00: ソフトバンクグループの後藤芳光CFOが決算説明会に登壇し、AI向けデータセンター市場におけるバブル疑惑を否定しました。市場で指摘される過熱感に対し、現場の状況は「圧倒的に供給不足」であると強調しています。
-- [Atlassian Rovoに社内データが外部送信される脆弱性](https://ai-tech-times.web.app/articles/20260807-atlassian-rovo-vulnerability.html) — 2026-08-07 01:00: プロジェクト管理ツールなどを展開するAtlassianのAIサービス「Atlassian Rovo」に、悪意ある命令を埋め込んだ文書を読み込ませるだけで社内データが外部へ送信される脆弱性が見つかりました。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
 - 2位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 - 3位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 
-## AI用語事典 (全768語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全769語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
