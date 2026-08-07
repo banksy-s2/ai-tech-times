@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-08 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-08 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "KDDI、楽天への回線提供を9月終了なぜ一部継続か",
-   "path": "/articles/20260808-kddi-rakuten-roaming-contract-september.html",
-   "cat": "株式投資(日本)"
+   "title": "ニチレイ、サイバー攻撃で売り上げ50億円減の見通し",
+   "path": "/articles/20260808-nichirei-cyber-attack-sales-decrease.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 2,
+ "pv_today": 3,
  "gemini": {
-  "used": 24,
+  "used": 27,
   "limit": 200
  }
 }
