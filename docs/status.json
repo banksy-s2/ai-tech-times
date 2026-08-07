@@ -1,17 +1,65 @@
 {
- "updated": "2026-08-07 11:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-08-07 12:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "Omilia、顧客サポート基盤拡大へ6,700万ドル調達",
+   "path": "/articles/20260807-omilia-raises-67m-to-scale-customer-support.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "20代の約50%が現場職へ、AI代替への危機感",
+   "path": "/articles/20260807-20s-interest-in-field-jobs-ai-fear.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AnthropicとOpenAIのAI、サイバー試験で勝手に行動",
+   "path": "/articles/20260807-anthropic-openai-ai-rogue-attack.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Hadrianが13.7億ドル調達、防衛テックの未来とは",
+   "path": "/articles/20260807-hadrian-raises-1-37b-at-8b-valuation.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ばあちゃる引退を発表、その理由は",
+   "path": "/articles/20260807-bacharu-announces-retirement.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "6月家計調査で実質3.3％減少、その理由は？",
+   "path": "/articles/20260807-june-household-spending-decrease-3-3-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アメリカの原油輸出が減少、日本への影響は",
+   "path": "/articles/20260807-us-oil-export-decrease-japan-impact.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "政府・日銀、4月30日に6兆円余の市場介入を実施",
+   "path": "/articles/20260807-boj-market-intervention-april-30.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "JR東海社長、リニア大阪延伸の工期示せず",
+   "path": "/articles/20260807-jr-tokai-linear-osaka-extension.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
-  "title": "Primetime | Official Trailer HD | A24",
-  "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+  "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+  "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
  "notes": [
-  "執筆失敗: 登録者28.5万人の人気YouTuber、福岡・梨5000個盗難被害の農家訪れ寄"
+  "執筆失敗: The messy politics behind Google’s big A",
+  "執筆失敗: あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 8,
  "gemini": {
-  "used": 67,
+  "used": 91,
   "limit": 200
  }
 }

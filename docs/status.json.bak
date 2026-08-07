@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-07 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "テスラとSpaceX、テキサスに168億ドルの「Terafab」建設へ",
-   "path": "/articles/20260807-tesla-spacex-16b-terafab-texas.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Metaがニューメキシコ州で5億6,700万ドル支払いの理由",
-   "path": "/articles/20260807-meta-ordered-to-pay-567-million-new-mexico.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-07 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Primetime | Official Trailer HD | A24",
   "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 登録者28.5万人の人気YouTuber、福岡・梨5000個盗難被害の農家訪れ寄"
+ ],
  "pv_today": 8,
  "gemini": {
-  "used": 64,
+  "used": 67,
   "limit": 200
  }
 }
