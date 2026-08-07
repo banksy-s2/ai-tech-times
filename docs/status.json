@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-08 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Whatnot、評価額200億ドルに到達したライブコマースの今",
-   "path": "/articles/20260808-whatnot-live-shopping-valuation-20-billion.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX株、初の下落圧力か？内部保有株のロック解除で",
-   "path": "/articles/20260808-spacex-shares-unlock-pressure.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-08 03:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
- "pv_today": null,
+ "notes": [
+  "執筆失敗: 韓国サッカー協会、外国人審判員に性的接待か　韓国放送局が独占報道として伝える（中"
+ ],
+ "pv_today": 2,
  "gemini": {
-  "used": 12,
+  "used": 16,
   "limit": 200
  }
 }
