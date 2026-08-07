@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-08 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-08-08 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "米メタに約900億円支払い命令 SNS安全対策不足で",
+   "path": "/articles/20260808-meta-ordered-to-pay-90-billion-yen-over-sns-safety.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トランプ政権、RWEに12億ドル支払い風力発電を中止へ",
+   "path": "/articles/20260808-trump-admin-pay-rwe-wind-projects.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [
-  "執筆失敗: 韓国サッカー協会、外国人審判員に性的接待か　韓国放送局が独占報道として伝える（中"
- ],
+ "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 16,
+  "used": 21,
   "limit": 200
  }
 }
