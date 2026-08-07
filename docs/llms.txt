@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 21:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [米国就業者数2万3000人減、市場予想大きく下回る](https://ai-tech-times.web.app/articles/20260807-us-employment-statistics-july-decline.html) — 2026-08-07 22:00: アメリカの7月の雇用統計が発表され、農業分野以外の就業者数が前月から減少に転じました。市場予想を大きく下回ったことで、景気の減速懸念が広がっています。
+- [台湾の頼総統、夜間避難訓練の理由](https://ai-tech-times.web.app/articles/20260807-taiwan-president-night-evacuation-drill.html) — 2026-08-07 22:00: 台湾の頼総統が深夜に緊急避難訓練に参加しました。中国による侵攻の可能性に備える軍事演習の一環として実施されたものです。
 - [フロリダ州でAIデータセンター建設が1年間停止に](https://ai-tech-times.web.app/articles/20260807-florida-ai-data-center-moratorium.html) — 2026-08-07 21:05: AIデータセンターの急増をめぐり、フロリダ州の郡委員会が全会一致で建設のモラトリアムを承認しました。
 - [Suno、AI音楽のスパム拡散を防ぐ新透かし技術と方針を発表](https://ai-tech-times.web.app/articles/20260807-suno-ai-music-spam-watermark.html) — 2026-08-07 21:05: AI音楽生成を手がけるSunoは、スパム楽曲の拡散を抑制し透明性を高めるため、新たなウォーターマーク技術とダウンロードポリシーの導入計画を明らかにしました。
 - [HR総研調査：就活生の97％が生成AI利用、面接で追及される現実](https://ai-tech-times.web.app/articles/20260807-hr-soken-generative-ai-job-hunting.html) — 2026-08-07 21:05: 2027年春卒業予定の大学生らを対象にした調査で、就職活動における生成AIの利用率が97％に達することが明らかになりました。
@@ -40,15 +42,13 @@
 - [韓国と台湾の輸出額、初の日本超えなぜ](https://ai-tech-times.web.app/articles/20260807-south-korea-taiwan-exports-exceed-japan.html) — 2026-08-07 17:04: 韓国と台湾の1〜6月の輸出額が初めて日本を上回ったことが分かりました。AI向け半導体特需の恩恵に差が出た背景とは何でしょうか。
 - [さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始](https://ai-tech-times.web.app/articles/20260807-sakura-plamo-3-prime-release.html) — 2026-08-07 17:04: さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」において、Preferred Networksの国産大規模言語モデル「PLaMo 3.0 Prime」の提供を始めました。
 - [Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに](https://ai-tech-times.web.app/articles/20260807-connor-moucka-pleads-guilty-snowflake-hack.html) — 2026-08-07 17:04: クラウドデータプラットフォームのSnowflakeを標的にした大規模なハッキング事件で、Connor Moucka被告が罪を認めました。総額250万ドル以上の身代金を奪った手口の全貌とは。
-- [ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ](https://ai-tech-times.web.app/articles/20260807-softbank-q1-earnings-intel.html) — 2026-08-07 17:04: ソフトバンクは木曜日、市場の予想を上回る当期利益を記録した四半期決算を発表しました。OpenAIではなくインテルなどが利益を大きく押し上げています。
-- [SNOWでステマ、インフルエンサーら72人が電子ギフト券提供](https://ai-tech-times.web.app/articles/20260807-snow-stealth-marketing-72-influencers.html) — 2026-08-07 17:04: カメラアプリ「SNOW」を巡り、インフルエンサーら72人がステルスマーケティングに関与していたことが読売新聞の報道で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [FARMING](https://www.youtube.com/watch?v=HCvIZzVdeq8)
 - 3位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 
-## AI用語事典 (全792語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全793語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
