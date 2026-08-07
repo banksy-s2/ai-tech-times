@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-07 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-07 15:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "ソフトバンクG決算不発、日経平均は644円安で失速",
-   "path": "/articles/20260807-nikkei-average-drops-softbank-g.html",
-   "cat": "株式投資(日本)"
+   "title": "大和ハウス工業 FY2027 Q1営業益1306億円の過去最高を達成",
+   "path": "/articles/20260807-daiwa-house-fy2027-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 99,
+  "used": 103,
   "limit": 200
  }
 }

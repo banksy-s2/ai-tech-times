@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-07 15:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-07 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "大和ハウス工業 FY2027 Q1営業益1306億円の過去最高を達成",
-   "path": "/articles/20260807-daiwa-house-fy2027-q1-results.html",
-   "cat": "日本企業"
+   "title": "OpenAIの新AIスマートスピーカー、300〜400ドルで販売か",
+   "path": "/articles/20260807-openai-new-ai-smart-speaker-price.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景",
+   "path": "/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 103,
+  "used": 109,
   "limit": 200
  }
 }
