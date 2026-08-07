@@ -1,26 +1,69 @@
 {
- "updated": "2026-08-07 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-07 17:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "OpenAIの新AIスマートスピーカー、300〜400ドルで販売か",
-   "path": "/articles/20260807-openai-new-ai-smart-speaker-price.html",
+   "title": "Googleが大規模AI組織再編、その舞台裏にあるもの",
+   "path": "/articles/20260807-google-ai-leadership-shakeup.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景",
-   "path": "/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html",
-   "cat": "AI(海外)"
+   "title": "韓国と台湾の輸出額、初の日本超えなぜ",
+   "path": "/articles/20260807-south-korea-taiwan-exports-exceed-japan.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始",
+   "path": "/articles/20260807-sakura-plamo-3-prime-release.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに",
+   "path": "/articles/20260807-connor-moucka-pleads-guilty-snowflake-hack.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ",
+   "path": "/articles/20260807-softbank-q1-earnings-intel.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "SNOWでステマ、インフルエンサーら72人が電子ギフト券提供",
+   "path": "/articles/20260807-snow-stealth-marketing-72-influencers.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "熊本地震を激甚災害に指定、自治体費用はなぜ支援されるか",
+   "path": "/articles/20260807-kumamoto-earthquake-gekijin-saigai.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イランがホルムズ海峡で船舶から料金徴収へ、海運業界団体が反対",
+   "path": "/articles/20260807-iran-shipping-fee-hormuz-strait.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アメリカが日本を｢協調為替介入｣で助ける理由とは",
+   "path": "/articles/20260807-us-coordinated-forex-intervention-to-help-japan.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "花王、上期営業益39％増の958億円の理由",
+   "path": "/articles/20260807-kao-fy2026-q2-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
  },
- "notes": [],
- "pv_today": 8,
+ "notes": [
+  "執筆失敗: Ex-Spotify employees raise $10M to bring",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 18,
  "gemini": {
-  "used": 109,
+  "used": 127,
   "limit": 200
  }
 }

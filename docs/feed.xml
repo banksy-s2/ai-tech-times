@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>履歴書にAI向けの隠し文字が1年で7倍に増えた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260807-resume-hacks-targeting-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-resume-hacks-targeting-ai.html</guid>
+<pubDate>Fri, 07 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>就職活動でAIによるスクリーニングが普及する中、人間の目には見えない命令文を履歴書に仕込む動きが広がっています。</description>
+</item>
+<item>
+<title>DeepSeek、API料金の値上げを予告した背景</title>
+<link>https://ai-tech-times.web.app/articles/20260807-deepseek-api-price-increase.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260807-deepseek-api-price-increase.html</guid>
+<pubDate>Fri, 07 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>中国のAI企業であるDeepSeekは、オープンモデルとして公開したAIの低価格戦略による需要急増が背景となり、API料金の大幅値上げを予告しました。</description>
+</item>
+<item>
 <title>Googleが大規模AI組織再編、その舞台裏にあるもの</title>
 <link>https://ai-tech-times.web.app/articles/20260807-google-ai-leadership-shakeup.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260807-google-ai-leadership-shakeup.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 07 Aug 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>電子部品メーカーの太陽誘電は、2027年3月期通期の連結業績予想を上方修正しました。AIサーバ向けの好調が影響し、純利益は前期の約2倍となる見通しです。</description>
-</item>
-<item>
-<title>Zehitomoが数千万円調達、AI駆動型融資で実現した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260807-zehitomo-ai-data-driven-financing.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-zehitomo-ai-data-driven-financing.html</guid>
-<pubDate>Fri, 07 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>黒字化目前のZehitomoが、AIを活用したデータ駆動型融資により、わずか1カ月で数千万円の資金調達に成功しました。銀行融資の壁を破った新たな調達術の最前線を追います。</description>
-</item>
-<item>
-<title>OpenAI、ChatGPT無料版の制限撤廃へ</title>
-<link>https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html</guid>
-<pubDate>Fri, 07 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。</description>
 </item>
 </channel></rss>

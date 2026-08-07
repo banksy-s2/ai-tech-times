@@ -39318,5 +39318,72 @@
   "date": "2026-08-07",
   "time": "17:04",
   "path": "/articles/20260807-kao-fy2026-q2-results.html"
+ },
+ {
+  "title": "履歴書にAI向けの隠し文字が1年で7倍に増えた理由",
+  "lead": "就職活動でAIによるスクリーニングが普及する中、人間の目には見えない命令文を履歴書に仕込む動きが広がっています。",
+  "summary3": [
+   "AI採用の普及で履歴書の隠し文字が増加",
+   "1年間で7倍に急増していることが判明",
+   "人間の目に見えない命令文でAIを誘導"
+  ],
+  "body": [
+   "就職活動といえば履歴書ですが、それを最初に読んでいるのは、もう人間じゃなくなってきています。近年ではAIが履歴書をスクリーニングする「AI採用」が、めずらしくなくなりました。",
+   "しかし、そのシステムを逆手に取る人たちも出てきています。履歴書のなかに、人間の目には見えない“命令文”をこっそり仕込んで、AIに「この候補者を通過さ…」と判断させようとする手法です。",
+   "このようなAI向けの隠し文字は、1年で7倍に増加しています。採用プロセスのデジタル化が進むにつれて、応募者側の対策も巧妙化している実態が明らかになっています。"
+  ],
+  "tags": [
+   "AI採用",
+   "履歴書",
+   "就職活動"
+  ],
+  "slug": "resume-hacks-targeting-ai",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.gizmodo.jp/article/resume_hacks_targeting_ai/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "18:00",
+  "path": "/articles/20260807-resume-hacks-targeting-ai.html"
+ },
+ {
+  "title": "DeepSeek、API料金の値上げを予告した背景",
+  "lead": "中国のAI企業であるDeepSeekは、オープンモデルとして公開したAIの低価格戦略による需要急増が背景となり、API料金の大幅値上げを予告しました。",
+  "summary3": [
+   "DeepSeekがAPI料金の値上げを予告",
+   "低価格戦略による需要急増が背景に",
+   "インフラが追いつかない事態が発生"
+  ],
+  "body": [
+   "中国のAI企業であるDeepSeekは、2026年7月31日にAIモデル「DeepSeek-V4-Flash-0731」を商用利用可能なライセンスの下でオープンモデルとして公開しました。",
+   "DeepSeek-V4-Flash-0731は、OpenAIの低コストモデルである「GPT-5.6 Luna」よりもさらに安価なモデルとして発表され、大きな注目を集めました。",
+   "しかし、競争のために価格を大きく引き下げたことでインフラが追いつかないほどの需要を引き起こし、結果としてAPI料金の大幅値上げに踏み切ることになったようです。"
+  ],
+  "tags": [
+   "DeepSeek",
+   "AI",
+   "API料金"
+  ],
+  "slug": "deepseek-api-price-increase",
+  "people": [],
+  "terms": [
+   {
+    "name": "DeepSeek",
+    "type": "company",
+    "desc": "中国に拠点を置き、低価格なAIモデルなどを開発・公開しているAI企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、高度なAIモデルや対話型AIサービスなどを開発している企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "18:00",
+  "path": "/articles/20260807-deepseek-api-price-increase.html"
  }
 ]
