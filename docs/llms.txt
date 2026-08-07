@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ソフトバンクG決算不発、日経平均は644円安で失速](https://ai-tech-times.web.app/articles/20260807-nikkei-average-drops-softbank-g.html) — 2026-08-07 14:00: ソフトバンクグループの決算が不発に終わり、日経平均株価は午前終値で644円安と大きく失速する展開となりました。日本経済新聞の報道で明らかになりました。
 - [米トランプ大統領、ポリシリコン等に追加関税の文書署名](https://ai-tech-times.web.app/articles/20260807-us-polysilicon-tariffs-china.html) — 2026-08-07 13:00: アメリカのトランプ大統領は、半導体や太陽光パネルの材料となるポリシリコンなどに高関税を課す文書に署名しました。
 - [Metaが子どもへの被害で5億6700万ドルの罰金命令](https://ai-tech-times.web.app/articles/20260807-meta-fined-567m-child-safety.html) — 2026-08-07 13:00: ニューメキシコの裁判所が、InstagramやFacebookを運営するMetaに対して巨額の支払いを命じました。
 - [Omilia、顧客サポート基盤拡大へ6,700万ドル調達](https://ai-tech-times.web.app/articles/20260807-omilia-raises-67m-to-scale-customer-support.html) — 2026-08-07 12:02: AI TECH TIMESがお届けする最新ニュース。カスタマーサポートプラットフォームを展開するOmiliaが、シリーズBラウンドで6,700万ドルを調達しました。
@@ -41,7 +42,6 @@
 - [AIエージェントの指示承認、人間が3分の1の見落とし](https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html) — 2026-08-07 08:00: AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。
 - [ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明](https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html) — 2026-08-07 07:01: 元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。
 - [OpenAI、Appleのセキュリティ慣行を指摘](https://ai-tech-times.web.app/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html) — 2026-08-07 07:01: OpenAIがAppleとの営業秘密侵害訴訟において、Apple自身のセキュリティ管理に不備があったと主張していることが明らかになりました。
-- [Gmail、他社メアド送信機能など2027年1月終了へ](https://ai-tech-times.web.app/articles/20260807-gmail-discontinue-external-address-feature.html) — 2026-08-07 07:01: 米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能などを2027年1月に終了すると発表しました。維持に過剰なリソースを必要とする機能が対象となります。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
@@ -69,10 +69,10 @@
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
+- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
-- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。

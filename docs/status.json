@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-07 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-07 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "米トランプ大統領、ポリシリコン等に追加関税の文書署名",
-   "path": "/articles/20260807-us-polysilicon-tariffs-china.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "Metaが子どもへの被害で5億6700万ドルの罰金命令",
-   "path": "/articles/20260807-meta-fined-567m-child-safety.html",
-   "cat": "時事・世界"
+   "title": "ソフトバンクG決算不発、日経平均は644円安で失速",
+   "path": "/articles/20260807-nikkei-average-drops-softbank-g.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 96,
+  "used": 99,
   "limit": 200
  }
 }

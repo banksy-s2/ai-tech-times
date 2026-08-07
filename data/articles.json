@@ -38839,5 +38839,39 @@
   "date": "2026-08-07",
   "time": "13:00",
   "path": "/articles/20260807-meta-fined-567m-child-safety.html"
+ },
+ {
+  "title": "ソフトバンクG決算不発、日経平均は644円安で失速",
+  "lead": "ソフトバンクグループの決算が不発に終わり、日経平均株価は午前終値で644円安と大きく失速する展開となりました。日本経済新聞の報道で明らかになりました。",
+  "summary3": [
+   "日経平均が午前終値644円安を記録",
+   "ソフトバンクGの決算不発が要因に",
+   "市場全体が失速する展開となった"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。日本経済新聞の報道によると、株式市場において日経平均株価が大きく値を下げ、午前終値で644円安を記録しました。",
+   "今回の株価下落の主な要因となったのは、ソフトバンクグループの決算が不発に終わったことです。市場の期待に届かなかった決算内容が嫌気され、指数を押し下げる格好となりました。",
+   "前場の段階で600円を超える下落幅となったことで、投資家の間でも警戒感が広がる展開となっています。今後の動向については、企業業績や市場全体の反応を引き続き注視する必要があります。"
+  ],
+  "tags": [
+   "日経平均",
+   "ソフトバンクG",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-drops-softbank-g",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "日本を拠点に移動体通信やインターネット事業、大規模なテクノロジー投資ファンドを手がける持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTEZacUhNb1Z5Nml0a3R2Q2F6Q0FwNndLb3RBNVF3c0RiTTF5Y0NYMWdSSGd3eDJBQkc3LXJLS2RhRDhZZ0stYUFhazY3T1RmS29YNGUtVHYtQVBmY3FlcG9neUZ5ZDdXb3FObw?oc=5",
+  "category": "stock",
+  "date": "2026-08-07",
+  "time": "14:00",
+  "path": "/articles/20260807-nikkei-average-drops-softbank-g.html"
  }
 ]
