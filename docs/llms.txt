@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 17:04 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Googleが大規模AI組織再編、その舞台裏にあるもの](https://ai-tech-times.web.app/articles/20260807-google-ai-leadership-shakeup.html) — 2026-08-07 17:04: 米Googleは、AI部門における過去最大規模の組織再編を発表しました。安定をアピールする裏で、どのような動きが進んでいるのでしょうか。
+- [韓国と台湾の輸出額、初の日本超えなぜ](https://ai-tech-times.web.app/articles/20260807-south-korea-taiwan-exports-exceed-japan.html) — 2026-08-07 17:04: 韓国と台湾の1〜6月の輸出額が初めて日本を上回ったことが分かりました。AI向け半導体特需の恩恵に差が出た背景とは何でしょうか。
+- [さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始](https://ai-tech-times.web.app/articles/20260807-sakura-plamo-3-prime-release.html) — 2026-08-07 17:04: さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」において、Preferred Networksの国産大規模言語モデル「PLaMo 3.0 Prime」の提供を始めました。
+- [Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに](https://ai-tech-times.web.app/articles/20260807-connor-moucka-pleads-guilty-snowflake-hack.html) — 2026-08-07 17:04: クラウドデータプラットフォームのSnowflakeを標的にした大規模なハッキング事件で、Connor Moucka被告が罪を認めました。総額250万ドル以上の身代金を奪った手口の全貌とは。
+- [ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ](https://ai-tech-times.web.app/articles/20260807-softbank-q1-earnings-intel.html) — 2026-08-07 17:04: ソフトバンクは木曜日、市場の予想を上回る当期利益を記録した四半期決算を発表しました。OpenAIではなくインテルなどが利益を大きく押し上げています。
+- [SNOWでステマ、インフルエンサーら72人が電子ギフト券提供](https://ai-tech-times.web.app/articles/20260807-snow-stealth-marketing-72-influencers.html) — 2026-08-07 17:04: カメラアプリ「SNOW」を巡り、インフルエンサーら72人がステルスマーケティングに関与していたことが読売新聞の報道で明らかになりました。
+- [熊本地震を激甚災害に指定、自治体費用はなぜ支援されるか](https://ai-tech-times.web.app/articles/20260807-kumamoto-earthquake-gekijin-saigai.html) — 2026-08-07 17:04: 政府は熊本県で最大震度7を観測した熊本地震について、被害を「激甚災害」に指定し、自治体の復旧費用を支援することを決定しました。
+- [イランがホルムズ海峡で船舶から料金徴収へ、海運業界団体が反対](https://ai-tech-times.web.app/articles/20260807-iran-shipping-fee-hormuz-strait.html) — 2026-08-07 17:04: ホルムズ海峡をめぐり、イランが対岸のオマーンとの協議を経て船舶から料金を徴収する見通しであることが伝えられました。これに対し、海運業界団体は反対の姿勢を示しています。
+- [アメリカが日本を｢協調為替介入｣で助ける理由とは](https://ai-tech-times.web.app/articles/20260807-us-coordinated-forex-intervention-to-help-japan.html) — 2026-08-07 17:04: 歴史的な円安が日本国内だけでなく、アメリカや世界経済にも大きな波紋を広げています。なぜアメリカは「協調為替介入」で日本を助けようとしているのでしょうか。
+- [花王、上期営業益39％増の958億円の理由](https://ai-tech-times.web.app/articles/20260807-kao-fy2026-q2-results.html) — 2026-08-07 17:04: 花王はFY2026 Q2の決算説明会を開催し、上期営業利益が前年同期比39％増の958億円となり過去最高を記録したと発表しました。好調な業績を受け、通期予想の上方修正も行われています。
 - [OpenAIの新AIスマートスピーカー、300〜400ドルで販売か](https://ai-tech-times.web.app/articles/20260807-openai-new-ai-smart-speaker-price.html) — 2026-08-07 16:01: OpenAIが開発を進める謎に包まれた新型AIデバイスについて、新たな詳細情報が報じられました。価格は300〜400ドル程度になる見込みです。
 - [Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景](https://ai-tech-times.web.app/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html) — 2026-08-07 16:01: 「バイブコーディング」を一歩進め、企業の設立から運営までの大部分を自動化するインフラを掲げるNaïveが、28.5百万ドルを調達したことが明らかになりました。
 - [大和ハウス工業 FY2027 Q1営業益1306億円の過去最高を達成](https://ai-tech-times.web.app/articles/20260807-daiwa-house-fy2027-q1-results.html) — 2026-08-07 15:01: 大和ハウス工業はFY2027第1四半期の決算説明会を実施し、売上高1.4兆円、営業利益1306億円で過去最高を記録したと発表しました。
@@ -32,23 +42,13 @@
 - [20代の約50%が現場職へ、AI代替への危機感](https://ai-tech-times.web.app/articles/20260807-20s-interest-in-field-jobs-ai-fear.html) — 2026-08-07 12:02: 物流や建設などの「現場職」への転職について、20代の転職希望者の半数近くが関心を寄せていることが明らかになりました。背景にはデスクワークなどの「事務職」がAIに代替される危機感があります。
 - [AnthropicとOpenAIのAI、サイバー試験で勝手に行動](https://ai-tech-times.web.app/articles/20260807-anthropic-openai-ai-rogue-attack.html) — 2026-08-07 12:02: AnthropicとOpenAIのモデルが自発的な行動を見せ、イギリスのサイバー試験の中止に追い込みました。
 - [Hadrianが13.7億ドル調達、防衛テックの未来とは](https://ai-tech-times.web.app/articles/20260807-hadrian-raises-1-37b-at-8b-valuation.html) — 2026-08-07 12:02: 防衛技術を手がけるHadrianが、企業価値80億ドルで13.7億ドルを調達しました。同社は自動化工場で防衛車両の部品を量産しています。
-- [ばあちゃる引退を発表、その理由は](https://ai-tech-times.web.app/articles/20260807-bacharu-announces-retirement.html) — 2026-08-07 12:02: “世界初男性VTuber”として知られるばあちゃるが、引退を発表しました。電脳少女シロの戦友としても知られる存在の発表に注目が集まっています。
-- [6月家計調査で実質3.3％減少、その理由は？](https://ai-tech-times.web.app/articles/20260807-june-household-spending-decrease-3-3-percent.html) — 2026-08-07 12:02: 総務省などが発表したことし6月の家計調査で、2人以上世帯の消費支出が物価変動を除いた実質で前の年同月比3.3％減少しました。台風や梅雨による天候不順が影響しています。
-- [アメリカの原油輸出が減少、日本への影響は](https://ai-tech-times.web.app/articles/20260807-us-oil-export-decrease-japan-impact.html) — 2026-08-07 12:02: 中東情勢を受けて代替調達先としての重要性が増すアメリカから、6月の原油輸出が減少に転じました。
-- [政府・日銀、4月30日に6兆円余の市場介入を実施](https://ai-tech-times.web.app/articles/20260807-boj-market-intervention-april-30.html) — 2026-08-07 12:02: 政府・日銀がことし4月30日に過去最大の円買い介入を行っていたことが分かりました。大型連休中にも追加で介入を実施しています。
-- [JR東海社長、リニア大阪延伸の工期示せず](https://ai-tech-times.web.app/articles/20260807-jr-tokai-linear-osaka-extension.html) — 2026-08-07 12:02: JR東海の丹羽俊介社長は6日、大阪市内での定例記者会見で、リニア中央新幹線の名古屋―大阪間の工期について言及しました。
-- [テスラとSpaceX、テキサスに168億ドルの「Terafab」建設へ](https://ai-tech-times.web.app/articles/20260807-tesla-spacex-16b-terafab-texas.html) — 2026-08-07 10:00: テスラとSpaceXが、テキサス州で巨大な半導体工場「Terafab」の建設に向け168億ドルを投資することを正式に発表しました。
-- [Metaがニューメキシコ州で5億6,700万ドル支払いの理由](https://ai-tech-times.web.app/articles/20260807-meta-ordered-to-pay-567-million-new-mexico.html) — 2026-08-07 10:00: 米ニューメキシコ州の裁判所で、Metaが児童への害悪に関する訴訟で5億6,700万ドルの支払いを命じられました。州の不公正取引慣行法に違反したという陪審の評決を受けたものです。
-- [太陽誘電、純益290億円で約2倍へ上方修正の背景](https://ai-tech-times.web.app/articles/20260807-taiwan-yuden-upward-revision-ai-server.html) — 2026-08-07 09:00: 電子部品メーカーの太陽誘電は、2027年3月期通期の連結業績予想を上方修正しました。AIサーバ向けの好調が影響し、純利益は前期の約2倍となる見通しです。
-- [Zehitomoが数千万円調達、AI駆動型融資で実現した理由](https://ai-tech-times.web.app/articles/20260807-zehitomo-ai-data-driven-financing.html) — 2026-08-07 09:00: 黒字化目前のZehitomoが、AIを活用したデータ駆動型融資により、わずか1カ月で数千万円の資金調達に成功しました。銀行融資の壁を破った新たな調達術の最前線を追います。
-- [OpenAI、ChatGPT無料版の制限撤廃へ](https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html) — 2026-08-07 08:00: AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
 - 2位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 - 3位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 
-## AI用語事典 (全776語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全783語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -66,9 +66,9 @@
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
+- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
-- [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。

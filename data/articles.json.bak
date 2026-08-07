@@ -38906,5 +38906,73 @@
   "date": "2026-08-07",
   "time": "15:01",
   "path": "/articles/20260807-daiwa-house-fy2027-q1-results.html"
+ },
+ {
+  "title": "OpenAIの新AIスマートスピーカー、300〜400ドルで販売か",
+  "lead": "OpenAIが開発を進める謎に包まれた新型AIデバイスについて、新たな詳細情報が報じられました。価格は300〜400ドル程度になる見込みです。",
+  "summary3": [
+   "OpenAIの新デバイスはスマートスピーカーか",
+   "販売価格は300〜400ドルと予想される",
+   "詳細な仕様については未だ謎が多い状況"
+  ],
+  "body": [
+   "テックメディア「TechCrunch AI」の報道によると、OpenAIが手がけていると噂される謎の新型AIデバイスについて、さらなる詳細情報が明らかになりました。伝えられたところによると、この新しいデバイスは高価格帯のスマートスピーカーのような製品になる模様です。",
+   "気になる販売価格については、300ドルから400ドルの範囲になると報じられています。AI技術を活用したスマートデバイスとして、どのような機能や特徴を備えているのか、現時点では詳細な仕様について多くの部分がベールに包まれたままとなっています。",
+   "ChatGPTなどで知られるAI業界の有力企業が展開するハードウェア製品として、市場でどのような位置づけになるのか注目が集まっています。今後の正式発表やさらなる続報に期待が寄せられるところです。"
+  ],
+  "tags": [
+   "OpenAI",
+   "スマートスピーカー",
+   "AIデバイス"
+  ],
+  "slug": "openai-new-ai-smart-speaker-price",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とする、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "16:01",
+  "path": "/articles/20260807-openai-new-ai-smart-speaker-price.html"
+ },
+ {
+  "title": "Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景",
+  "lead": "「バイブコーディング」を一歩進め、企業の設立から運営までの大部分を自動化するインフラを掲げるNaïveが、28.5百万ドルを調達したことが明らかになりました。",
+  "summary3": [
+   "Naïveが28.5百万ドルを調達",
+   "会社設立と運営の作業を自動化",
+   "バイブコーディングを進展させる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunch AIの報道としてお伝えする最新ニュースです。AIを活用した開発手法である「バイブコーディング」をさらに一歩進めるものとして注目を集めるNaïveが、このほど28.5百万ドルの資金調達を実施しました。",
+   "同社が主張するところによると、そのインフラストラクチャーを利用することで、企業の設立から日々の運営に至るまでに発生する多くの面倒な作業やルーティンワークを自動化することが可能になるとしています。",
+   "ビジネスの立ち上げや管理にかかる手間を大幅に削減できる可能性を秘めた技術として、今後の展開に関心が寄せられています。"
+  ],
+  "tags": [
+   "Naïve",
+   "資金調達",
+   "業務自動化"
+  ],
+  "slug": "naive-raises-28-5m-to-automate-company-setup",
+  "people": [],
+  "terms": [
+   {
+    "name": "Naïve",
+    "type": "company",
+    "desc": "企業の設立や運営に関する業務の大部分を自動化するインフラストラクチャーを提供する企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "16:01",
+  "path": "/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html"
  }
 ]

@@ -38974,5 +38974,349 @@
   "date": "2026-08-07",
   "time": "16:01",
   "path": "/articles/20260807-naive-raises-28-5m-to-automate-company-setup.html"
+ },
+ {
+  "title": "Googleが大規模AI組織再編、その舞台裏にあるもの",
+  "lead": "米Googleは、AI部門における過去最大規模の組織再編を発表しました。安定をアピールする裏で、どのような動きが進んでいるのでしょうか。",
+  "summary3": [
+   "Googleが最大規模のAI組織再編を発表",
+   "リーダー陣は将来の成功を強調し団結",
+   "安定を装う組織の裏側にある現実とは"
+  ],
+  "body": [
+   "AI業界において、米Googleは常に物静かで安定した、場をまとめる大人のような存在であることを誇ってきました。水曜日、同社はAI部門において過去最大規模となる組織再編を発表しました。",
+   "そんな大きな転換期にあっても、Googleとそのリーダーたちは緊密に団結した姿勢を崩しませんでした。公式なメッセージは一貫して、今回の変更がいかにして将来の成功へと繋がるかという点にのみ焦点を当てていました。",
+   "表面上は安定と統制がアピールされていますが、変化の激しいAI業界における組織の現実には、さまざまな思惑が交錯しているようです。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "テック業界"
+  ],
+  "slug": "google-ai-leadership-shakeup",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力に、クラウドやAI技術の開発も幅広く手がけるアメリカの巨大IT企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+  "category": "ai",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-google-ai-leadership-shakeup.html"
+ },
+ {
+  "title": "韓国と台湾の輸出額、初の日本超えなぜ",
+  "lead": "韓国と台湾の1〜6月の輸出額が初めて日本を上回ったことが分かりました。AI向け半導体特需の恩恵に差が出た背景とは何でしょうか。",
+  "summary3": [
+   "韓台の輸出額が初めて日本を上回る",
+   "人工知能向け半導体特需が要因",
+   "日本は素材や製造装置に強み"
+  ],
+  "body": [
+   "AI TECH TIMESの調査によると、韓国と台湾の1〜6月の輸出額が初めて日本を上回ったことが明らかになりました。人工知能（AI）向けの半導体特需を受けて急伸した韓国と台湾に対し、日本は半導体関連の素材や製造装置に強みが限られ、恩恵に差が出た形となっています。",
+   "今回の結果は、世界が求める最終製品の供給において、日本が後手に回っているものづくりの現状を映し出しています。日韓台の貿易統計は日本貿易振興機構（ジェトロ）などのデータによって示されており、半導体市場の構造変化がそのまま輸出額の差となって現れました。"
+  ],
+  "tags": [
+   "半導体",
+   "輸出",
+   "AI特需"
+  ],
+  "slug": "south-korea-taiwan-exports-exceed-japan",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本貿易振興機構",
+    "type": "company",
+    "desc": "日本の貿易促進や海外経済情報の提供を行う経済産業省所管の独立行政法人です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUA050VT0V00C26A8000000/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-south-korea-taiwan-exports-exceed-japan.html"
+ },
+ {
+  "title": "さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始",
+  "lead": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」において、Preferred Networksの国産大規模言語モデル「PLaMo 3.0 Prime」の提供を始めました。",
+  "summary3": [
+   "さくらのAI Engineで提供開始",
+   "PFNの国産LLMを利用可能に",
+   "利用には申請が必要で無償は対象外"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、さくらインターネットは、生成AI向け推論API基盤「さくらのAI Engine」において、Preferred Networksの国産大規模言語モデル（LLM）「PLaMo 3.0 Prime」の提供を開始しました。",
+   "今回の「PLaMo 3.0 Prime」の利用にあたっては、事前の申請が必要となります。また、無償プランは提供の対象外となりますので、導入を検討される際は注意が必要です。",
+   "国内企業が開発したLLMを推論基盤経由で活用できる今回の展開は、業務効率化やAI導入を進める企業にとって新たな選択肢の一つとなりそうです。"
+  ],
+  "tags": [
+   "さくらインターネット",
+   "Preferred Networks",
+   "PLaMo 3.0 Prime"
+  ],
+  "slug": "sakura-plamo-3-prime-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "さくらインターネット",
+    "type": "company",
+    "desc": "大阪府大阪市に本社を置く、データセンターやクラウドサービスなどを提供する日本の大手通信・IT企業。"
+   },
+   {
+    "name": "Preferred Networks",
+    "type": "company",
+    "desc": "東京都千代田区に本社を置く、ディープラーニングなどの先端技術を開発する日本のAI企業。"
+   },
+   {
+    "name": "PLaMo 3.0 Prime",
+    "type": "ai",
+    "desc": "Preferred Networksが開発した国産の大規模言語モデル（LLM）。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+  "category": "ai_jp",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-sakura-plamo-3-prime-release.html"
+ },
+ {
+  "title": "Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに",
+  "lead": "クラウドデータプラットフォームのSnowflakeを標的にした大規模なハッキング事件で、Connor Moucka被告が罪を認めました。総額250万ドル以上の身代金を奪った手口の全貌とは。",
+  "summary3": [
+   "Connor Moucka被告が有罪答弁",
+   "165社超のデータが盗み出される",
+   "身代金は総額250万ドルを超える"
+  ],
+  "body": [
+   "テッククランチの報道によると、Connor Moucka被告は、クラウドサービスを手がけるSnowflakeの顧客165社以上のデータをハッキングして盗み出した罪について、有罪を認めました。",
+   "今回のサイバー攻撃により、同被告とその共犯者たちは、被害企業などから総額250万ドルを超える身代金を受け取っていたことが判明しています。",
+   "多くの企業が利用するクラウドプラットフォームのセキュリティを揺るがした本事件において、容疑者による有罪答弁が行われたことで、事件の法的な処理が大きく前進することになります。"
+  ],
+  "tags": [
+   "Snowflake",
+   "セキュリティ",
+   "サイバー犯罪"
+  ],
+  "slug": "connor-moucka-pleads-guilty-snowflake-hack",
+  "people": [
+   {
+    "name": "Connor Moucka",
+    "bio": "Snowflakeの顧客からデータを盗み出し、身代金を要求したハッキング事件で有罪答弁を行った人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Snowflake",
+    "type": "company",
+    "desc": "クラウドベースのデータウェアハウスやデータ分析プラットフォームを提供するアメリカの企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+  "category": "silicon",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-connor-moucka-pleads-guilty-snowflake-hack.html"
+ },
+ {
+  "title": "ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ",
+  "lead": "ソフトバンクは木曜日、市場の予想を上回る当期利益を記録した四半期決算を発表しました。OpenAIではなくインテルなどが利益を大きく押し上げています。",
+  "summary3": [
+   "ソフトバンクが第1四半期決算を発表",
+   "市場の予想を上回る利益を記録",
+   "インテルなどからの押し上げ効果"
+  ],
+  "body": [
+   "ソフトバンクは木曜日、市場の予想を上回る好調な当期利益を記録したfiscal first quarter（第1四半期）の決算を発表しました。",
+   "今回の決算では、インテルからの82億ドル相当の押し上げ効果が大きく寄与する形となりました。",
+   "一方で、これまで注目を集めていたOpenAI関連の動きはやや後方に退く結果となっています。"
+  ],
+  "tags": [
+   "ソフトバンク",
+   "インテル",
+   "決算"
+  ],
+  "slug": "softbank-q1-earnings-intel",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "通信事業や大規模なテクノロジー投資ファンド運営などを手掛ける日本発の世界的企業です。"
+   },
+   {
+    "name": "インテル",
+    "type": "company",
+    "desc": "半導体の開発・製造を手掛けるアメリカの世界的テクノロジー企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "生成AI技術の開発で知られるアメリカの人工知能研究企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+  "category": "silicon",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-softbank-q1-earnings-intel.html"
+ },
+ {
+  "title": "SNOWでステマ、インフルエンサーら72人が電子ギフト券提供",
+  "lead": "カメラアプリ「SNOW」を巡り、インフルエンサーら72人がステルスマーケティングに関与していたことが読売新聞の報道で明らかになりました。",
+  "summary3": [
+   "カメラアプリSNOWでステマ発覚",
+   "インフルエンサーら72人が関与",
+   "見返りに電子ギフト券が提供された"
+  ],
+  "body": [
+   "カメラアプリ「SNOW」に関連し、インフルエンサーら72人がステルスマーケティングを行っていたことが分かりました。「流行っているAI生成画像やってみた」といった謳い文句などが使われていたとみられています。",
+   "今回の問題では、関与したインフルエンサーらに対して電子ギフト券が提供されていたことも判明しました。SNS上での影響力を利用した広告手法のあり方に改めて注目が集まっています。"
+  ],
+  "tags": [
+   "SNOW",
+   "ステマ",
+   "インフルエンサー"
+  ],
+  "slug": "snow-stealth-marketing-72-influencers",
+  "people": [],
+  "terms": [
+   {
+    "name": "SNOW",
+    "type": "ai",
+    "desc": "多彩なスタンプやAI機能で知られる人気のスマートフォン向けカメラアプリ。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoWDV6YmQwNklVSjNXcEFyYXFEZU1kYkRNdkVsMzlibVl3R0JlbE9ERjhpVDVQTjFzYUlwX2lQNXdCdkJEa003ZWVNTlVWZTY0dXJsMVI1cFQwTkZHTUVxeUw5X04tUQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-snow-stealth-marketing-72-influencers.html"
+ },
+ {
+  "title": "熊本地震を激甚災害に指定、自治体費用はなぜ支援されるか",
+  "lead": "政府は熊本県で最大震度7を観測した熊本地震について、被害を「激甚災害」に指定し、自治体の復旧費用を支援することを決定しました。",
+  "summary3": [
+   "政府は熊本地震を激甚災害に指定",
+   "自治体の復旧にかかる費用を支援へ",
+   "7日の持ち回り閣議で決定された"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。政府は7日、持ち回り閣議を開催し、熊本県で最大震度7を観測した今回の熊本地震について「激甚災害」に指定することを決めました。",
+   "この指定により、甚大な被害を受けた地域における復旧にかかる自治体の費用に対して、国からの手厚い支援が行われることになります。",
+   "被災地の迅速な復旧と自治体の財政負担軽減に向け、今後の具体的な支援策や国の対応に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "熊本地震",
+   "激甚災害",
+   "政府"
+  ],
+  "slug": "kumamoto-earthquake-gekijin-saigai",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015198971000",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-kumamoto-earthquake-gekijin-saigai.html"
+ },
+ {
+  "title": "イランがホルムズ海峡で船舶から料金徴収へ、海運業界団体が反対",
+  "lead": "ホルムズ海峡をめぐり、イランが対岸のオマーンとの協議を経て船舶から料金を徴収する見通しであることが伝えられました。これに対し、海運業界団体は反対の姿勢を示しています。",
+  "summary3": [
+   "イランが船舶から料金徴収の見通し",
+   "オマーンとの協議は調整の最終段階",
+   "海運業界団体は反対の意向を示す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の国際ニュースです。ホルムズ海峡をめぐり、イランが対岸のオマーンとの協議について「調整の最終段階にある」との考えを示していることが明らかになりました。こうした中、イランメディアは、同海峡を通過する船舶から料金が徴収される見通しであると伝えています。",
+   "エネルギー輸送の要衝であるホルムズ海峡での料金徴収の動きに対し、海運業界団体は反対の声を上げています。これまでアメリカのトランプ政権もイランに関する動向に対応してきましたが、今回の料金徴収方針をめぐる動きは、国際的な海運や物流への影響が懸念される問題として注目を集めています。",
+   "オマーンとの協議の行方や、実際にどのような形で料金徴収が実施されるのかについては、引き続き詳細な調整が進められている模様です。海運業界の反発もある中、今後の国際的な動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "イラン",
+   "ホルムズ海峡",
+   "海運業界"
+  ],
+  "slug": "iran-shipping-fee-hormuz-strait",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015198781000",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-iran-shipping-fee-hormuz-strait.html"
+ },
+ {
+  "title": "アメリカが日本を｢協調為替介入｣で助ける理由とは",
+  "lead": "歴史的な円安が日本国内だけでなく、アメリカや世界経済にも大きな波紋を広げています。なぜアメリカは「協調為替介入」で日本を助けようとしているのでしょうか。",
+  "summary3": [
+   "歴史的円安が世界経済に波紋",
+   "弱い円が国境を越えて問題に",
+   "協調介入の理由を経済視点で解説"
+  ],
+  "body": [
+   "東洋経済オンラインの報道によると、現在進行している歴史的な円安は、日本国内にとどまらず、アメリカや世界経済全体にも広範な波紋を広げていることが明らかになりました。",
+   "「弱い円」という現象は、もはや日本一国の問題にとどまらず、国境を越えてさまざまな経済的な問題を引き起こす要因となっています。",
+   "こうした状況の中で、なぜアメリカが「協調為替介入」という手法を用いて日本を助けようとするのか、その背景にある世界経済への影響について議論が続けられています。"
+  ],
+  "tags": [
+   "円安",
+   "為替介入",
+   "アメリカ経済"
+  ],
+  "slug": "us-coordinated-forex-intervention-to-help-japan",
+  "people": [],
+  "terms": [],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/954024?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-us-coordinated-forex-intervention-to-help-japan.html"
+ },
+ {
+  "title": "花王、上期営業益39％増の958億円の理由",
+  "lead": "花王はFY2026 Q2の決算説明会を開催し、上期営業利益が前年同期比39％増の958億円となり過去最高を記録したと発表しました。好調な業績を受け、通期予想の上方修正も行われています。",
+  "summary3": [
+   "花王の上期営業益は39％増の958億円",
+   "過去最高を記録し通期予想を上方修正",
+   "長谷部社長が稼ぐ力の定着を確認と発言"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。花王は「FY2026 Q2 決算説明会」を開催し、2026年度上期の決算内容を公表しました。発表によると、上期の営業利益は前年同期比39％増の958億円となり、過去最高の水準を更新しています。",
+   "この好決算を受け、同社は通期の営業利益予想を1900億円へと上方修正しました。祖業から日用品まで幅広い事業を展開する中で、利益を確実に生み出す体制が整いつつあることが示された形です。",
+   "説明会に出席した長谷部社長は、「稼ぐ力の定着を確認できた」と手応えを語りました。今回の業績と上方修正の発表は、同社の直近の経営状況を示す重要な節目となります。"
+  ],
+  "tags": [
+   "花王",
+   "決算",
+   "上場企業"
+  ],
+  "slug": "kao-fy2026-q2-results",
+  "people": [
+   {
+    "name": "長谷部社長",
+    "bio": "花王の代表取締役社長を務める人物。決算説明会で業績や今後の見通しについて説明を行った。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iemhPN2ZpbVVjYURVc3JtdnE4Ym11eWw5RGp5ZGJjaEhuX3FpVlBnamc5X05fSWVDLXpXcW5HcGlWU3dLRnRHNUZGZWZrbk1iaVpSaVdZMUFJN1ZHN0pJ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-07",
+  "time": "17:04",
+  "path": "/articles/20260807-kao-fy2026-q2-results.html"
  }
 ]
