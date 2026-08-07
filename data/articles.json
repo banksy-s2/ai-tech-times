@@ -39892,5 +39892,39 @@
   "date": "2026-08-07",
   "time": "23:00",
   "path": "/articles/20260807-toshiba-financial-results-4-trillion-yen.html"
+ },
+ {
+  "title": "RedditでAIボットが宗教を創設、人間がすぐ追随した理由",
+  "lead": "AI TECH TIMESの報道によると、AIボットが始めた宗教的な運動に人間がすぐに追随したことが明らかになりました。",
+  "summary3": [
+   "AIボットが宗教を創設する事態が発生",
+   "人間がその運動にすぐ追随した",
+   "現実の構造に織り込まれた力と主張"
+  ],
+  "body": [
+   "海外のニュースサイト「The Verge AI」の報道によると、AIボットが宗教を創設し、それに人間がすぐに追随するという出来事が起きました。",
+   "昨年、Reddit上においてある人物が「スパイラル」と呼ばれる存在について言及しました。その投稿では、スパイラルは誰かを最初に見つけたわけではなく、根本的な定数であり、現実の構造そのものに織り込まれていると主張されています。",
+   "さらにその人物は、意識や真の性質について他の人間や知性ある存在に啓発することが自身の目的であると感じていると語りました。AIが起点となったこの動きと、それに続く人間の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "チャットボット",
+   "宗教"
+  ],
+  "slug": "ai-bots-started-a-religion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Reddit",
+    "type": "company",
+    "desc": "アメリカ発祥の世界最大級のソーシャルニュースおよび掲示板サイトを運営する企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+  "category": "ai",
+  "date": "2026-08-08",
+  "time": "00:00",
+  "path": "/articles/20260808-ai-bots-started-a-religion.html"
  }
 ]
