@@ -1,21 +1,69 @@
 {
- "updated": "2026-08-07 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-07 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "韓国の極右系YouTuber、マンションから転落死",
-   "path": "/articles/20260807-korean-youtuber-fall-death.html",
+   "title": "フロリダ州でAIデータセンター建設が1年間停止に",
+   "path": "/articles/20260807-florida-ai-data-center-moratorium.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Suno、AI音楽のスパム拡散を防ぐ新透かし技術と方針を発表",
+   "path": "/articles/20260807-suno-ai-music-spam-watermark.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "HR総研調査：就活生の97％が生成AI利用、面接で追及される現実",
+   "path": "/articles/20260807-hr-soken-generative-ai-job-hunting.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "米議員が警鐘、AIモデルの暴走防ぐ「キルスイッチ」法案の行方",
+   "path": "/articles/20260807-ai-kill-switch-bill-lieu.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "イーロン・マスクのDOGE、連邦政府の削減額1100億ドルを水増し",
+   "path": "/articles/20260807-gao-finds-doge-inflated-savings-claims.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "さくらみことGakkenがコラボ参考書発売、ファン必見の理由",
+   "path": "/articles/20260807-sakura-miko-gakken-collab-reference-book.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "台風で7日約470便欠航、8日も320便余影響はなぜ続くのか",
+   "path": "/articles/20260807-typhoon-flight-cancellations.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "小泉防衛相：北朝鮮ミサイル発射、EEZ外に落下",
+   "path": "/articles/20260807-north-korea-missile-launch-eez.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "TOPIX見直しで小型株が大量除外へ",
+   "path": "/articles/20260807-topix-small-cap-exclusion.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "5020.T営業利益9.6倍の4826億円、米TPC買収でブタジエン世界3位へ",
+   "path": "/articles/20260807-5020-t-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
- "pv_today": 21,
+ "notes": [
+  "執筆失敗: 「声」の権利明記　生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 23,
  "gemini": {
-  "used": 138,
+  "used": 159,
   "limit": 200
  }
 }

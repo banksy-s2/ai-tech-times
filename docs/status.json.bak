@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-07 19:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-07 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "SKハイニックス、380ドル巨額投資の理由",
-   "path": "/articles/20260807-sk-hynix-38-billion-memory-investment.html",
-   "cat": "シリコンバレー最速"
+   "title": "韓国の極右系YouTuber、マンションから転落死",
+   "path": "/articles/20260807-korean-youtuber-fall-death.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [
-  "執筆失敗: GAO finds Elon Musk's DOGE inflated clai"
- ],
- "pv_today": 19,
+ "notes": [],
+ "pv_today": 21,
  "gemini": {
-  "used": 135,
+  "used": 138,
   "limit": 200
  }
 }
