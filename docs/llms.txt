@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [KDDI、楽天への回線提供を9月終了なぜ一部継続か](https://ai-tech-times.web.app/articles/20260808-kddi-rakuten-roaming-contract-september.html) — 2026-08-08 05:00: KDDIが楽天モバイルに回線を貸し出すローミング契約について、9月末で終了する方針を明らかにしました。一方で、一部のエリアでは提供を継続する考えを示しています。
 - [米メタに約900億円支払い命令 SNS安全対策不足で](https://ai-tech-times.web.app/articles/20260808-meta-ordered-to-pay-90-billion-yen-over-sns-safety.html) — 2026-08-08 04:00: アメリカのIT大手「メタ」が運営するSNSをめぐり、子どもの安全対策が不十分で精神的な健康を害しているとして、米国の裁判所が巨額の支払い命令を下しました。
 - [トランプ政権、RWEに12億ドル支払い風力発電を中止へ](https://ai-tech-times.web.app/articles/20260808-trump-admin-pay-rwe-wind-projects.html) — 2026-08-08 04:00: BBC Worldによると、トランプ政権はドイツのエネルギー企業RWEに対し、米国での風力発電プロジェクトを中止するため12億ドルを支払うことになりました。
 - [Whatnot、評価額200億ドルに到達したライブコマースの今](https://ai-tech-times.web.app/articles/20260808-whatnot-live-shopping-valuation-20-billion.html) — 2026-08-08 02:00: ライブコマースプラットフォームのWhatnotが、人気拡大を背景に評価額を200億ドルへと引き上げました。成長を続ける市場の最新動向をお伝えします。
@@ -41,14 +42,13 @@
 - [台風で7日約470便欠航、8日も320便余影響はなぜ続くのか](https://ai-tech-times.web.app/articles/20260807-typhoon-flight-cancellations.html) — 2026-08-07 21:05: 台風の影響により、国内の主な航空会社では沖縄県や鹿児島県の空港を発着する便を中心に大規模な欠航が発生しています。
 - [小泉防衛相：北朝鮮ミサイル発射、EEZ外に落下](https://ai-tech-times.web.app/articles/20260807-north-korea-missile-launch-eez.html) — 2026-08-07 21:05: 防衛省は6日夕方、北朝鮮が少なくとも1発の弾道ミサイルを発射したと発表しました。ミサイルは日本のEEZ＝排他的経済水域の外側に落下したとみられています。
 - [TOPIX見直しで小型株が大量除外へ](https://ai-tech-times.web.app/articles/20260807-topix-small-cap-exclusion.html) — 2026-08-07 21:05: 東京証券取引所の株価指数であるTOPIXにおいて史上最大の見直しが行われ、多くの小型株が除外される見通しとなりました。
-- [5020.T営業利益9.6倍の4826億円、米TPC買収でブタジエン世界3位へ](https://ai-tech-times.web.app/articles/20260807-5020-t-fy2026-q1-results.html) — 2026-08-07 21:05: AI TECH TIMESがお伝えする企業の最新決算情報です。5020.TのFY2026 Q1決算説明会にて、営業利益が前年同期比で大幅な増益となりました。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 - 3位: [FARMING](https://www.youtube.com/watch?v=HCvIZzVdeq8)
 
-## AI用語事典 (全796語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全799語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

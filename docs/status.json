@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-08 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-08 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "米メタに約900億円支払い命令 SNS安全対策不足で",
-   "path": "/articles/20260808-meta-ordered-to-pay-90-billion-yen-over-sns-safety.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ政権、RWEに12億ドル支払い風力発電を中止へ",
-   "path": "/articles/20260808-trump-admin-pay-rwe-wind-projects.html",
-   "cat": "時事・世界"
+   "title": "KDDI、楽天への回線提供を9月終了なぜ一部継続か",
+   "path": "/articles/20260808-kddi-rakuten-roaming-contract-september.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 21,
+  "used": 24,
   "limit": 200
  }
 }
