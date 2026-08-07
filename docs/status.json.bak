@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-07 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-07 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "太陽誘電、純益290億円で約2倍へ上方修正の背景",
-   "path": "/articles/20260807-taiwan-yuden-upward-revision-ai-server.html",
-   "cat": "日本のAI"
+   "title": "テスラとSpaceX、テキサスに168億ドルの「Terafab」建設へ",
+   "path": "/articles/20260807-tesla-spacex-16b-terafab-texas.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Zehitomoが数千万円調達、AI駆動型融資で実現した理由",
-   "path": "/articles/20260807-zehitomo-ai-data-driven-financing.html",
-   "cat": "日本のAI"
+   "title": "Metaがニューメキシコ州で5億6,700万ドル支払いの理由",
+   "path": "/articles/20260807-meta-ordered-to-pay-567-million-new-mexico.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-  "url": "https://www.youtube.com/watch?v=qq76pQsI1iw"
+  "title": "Primetime | Official Trailer HD | A24",
+  "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
  },
  "notes": [],
- "pv_today": 7,
+ "pv_today": 8,
  "gemini": {
-  "used": 60,
+  "used": 64,
   "limit": 200
  }
 }
