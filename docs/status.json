@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-08 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-08 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "法務省、「声の無断利用」は権利侵害と見解明示",
-   "path": "/articles/20260808-ministry-of-justice-voice-ai-infringement.html",
-   "cat": "日本のAI"
+   "title": "Whatnot、評価額200億ドルに到達したライブコマースの今",
+   "path": "/articles/20260808-whatnot-live-shopping-valuation-20-billion.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "自宅隣にデータセンター計画、規制の隙間で住環境悪化",
-   "path": "/articles/20260808-data-center-regulation-gap.html",
-   "cat": "日本のAI"
+   "title": "SpaceX株、初の下落圧力か？内部保有株のロック解除で",
+   "path": "/articles/20260808-spacex-shares-unlock-pressure.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 12,
   "limit": 200
  }
 }

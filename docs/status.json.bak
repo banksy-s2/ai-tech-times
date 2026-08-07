@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-08 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-08 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "RedditでAIボットが宗教を創設、人間がすぐ追随した理由",
-   "path": "/articles/20260808-ai-bots-started-a-religion.html",
-   "cat": "AI(海外)"
+   "title": "法務省、「声の無断利用」は権利侵害と見解明示",
+   "path": "/articles/20260808-ministry-of-justice-voice-ai-infringement.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "自宅隣にデータセンター計画、規制の隙間で住環境悪化",
+   "path": "/articles/20260808-data-center-regulation-gap.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [
-  "執筆失敗: Ex-Spotify employees raise $10M to bring"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Whatnot、評価額200億ドルに到達したライブコマースの今](https://ai-tech-times.web.app/articles/20260808-whatnot-live-shopping-valuation-20-billion.html) — 2026-08-08 02:00: ライブコマースプラットフォームのWhatnotが、人気拡大を背景に評価額を200億ドルへと引き上げました。成長を続ける市場の最新動向をお伝えします。
+- [SpaceX株、初の下落圧力か？内部保有株のロック解除で](https://ai-tech-times.web.app/articles/20260808-spacex-shares-unlock-pressure.html) — 2026-08-08 02:00: SpaceXのインサイダーが保有する株式の最初のトランシェ（部分）がロック解除を迎え、株価に下落圧力がかかる可能性が浮上しました。
 - [法務省、「声の無断利用」は権利侵害と見解明示](https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html) — 2026-08-08 01:00: 法務省は、生成AIの普及に伴う声優などの声が無断利用されている問題について、声も既存の権利で法的に保護できるとの見解を明示しました。
 - [自宅隣にデータセンター計画、規制の隙間で住環境悪化](https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html) — 2026-08-08 01:00: 技術の進歩に伴い都市部でデータセンターの建設が相次ぐ中、規制が追いついていない現状と近隣住民との軋轢について専門家が指摘しています。
 - [RedditでAIボットが宗教を創設、人間がすぐ追随した理由](https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html) — 2026-08-08 00:00: AI TECH TIMESの報道によると、AIボットが始めた宗教的な運動に人間がすぐに追随したことが明らかになりました。
@@ -40,15 +42,13 @@
 - [5020.T営業利益9.6倍の4826億円、米TPC買収でブタジエン世界3位へ](https://ai-tech-times.web.app/articles/20260807-5020-t-fy2026-q1-results.html) — 2026-08-07 21:05: AI TECH TIMESがお伝えする企業の最新決算情報です。5020.TのFY2026 Q1決算説明会にて、営業利益が前年同期比で大幅な増益となりました。
 - [韓国の極右系YouTuber、マンションから転落死](https://ai-tech-times.web.app/articles/20260807-korean-youtuber-fall-death.html) — 2026-08-07 20:00: 覚醒剤使用で検察に送致されていた韓国の極右系YouTuberが、マンションから転落して死亡しました。
 - [SKハイニックス、380ドル巨額投資の理由](https://ai-tech-times.web.app/articles/20260807-sk-hynix-38-billion-memory-investment.html) — 2026-08-07 19:00: SKハイニックスが、需要急増と供給不足に対応するため、新メモリー半導体工場建設に380億ドルを投資すると発表しました。
-- [履歴書にAI向けの隠し文字が1年で7倍に増えた理由](https://ai-tech-times.web.app/articles/20260807-resume-hacks-targeting-ai.html) — 2026-08-07 18:00: 就職活動でAIによるスクリーニングが普及する中、人間の目には見えない命令文を履歴書に仕込む動きが広がっています。
-- [DeepSeek、API料金の値上げを予告した背景](https://ai-tech-times.web.app/articles/20260807-deepseek-api-price-increase.html) — 2026-08-07 18:00: 中国のAI企業であるDeepSeekは、オープンモデルとして公開したAIの低価格戦略による需要急増が背景となり、API料金の大幅値上げを予告しました。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 - 3位: [FARMING](https://www.youtube.com/watch?v=HCvIZzVdeq8)
 
-## AI用語事典 (全794語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全795語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -57,8 +57,8 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
-- [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高度な対話型AIモデル。自然な文章生成や優れた推論能力を特徴としています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。

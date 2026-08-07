@@ -39988,5 +39988,73 @@
   "date": "2026-08-08",
   "time": "01:00",
   "path": "/articles/20260808-data-center-regulation-gap.html"
+ },
+ {
+  "title": "Whatnot、評価額200億ドルに到達したライブコマースの今",
+  "lead": "ライブコマースプラットフォームのWhatnotが、人気拡大を背景に評価額を200億ドルへと引き上げました。成長を続ける市場の最新動向をお伝えします。",
+  "summary3": [
+   "Whatnotの評価額が200億ドルに",
+   "ライブショッピングの人気が拡大中",
+   "ライブコマース市場が急成長を見せる"
+  ],
+  "body": [
+   "CNBC Techの報道によると、ライブコマースプラットフォームを展開するWhatnotは、ライブショッピングの人気が継続的に高まる中で、その評価額を200億ドルへと引き上げました。",
+   "ライブショッピングは、動画のライブ配信を通じて商品を紹介し、視聴者がリアルタイムでその場で購入できる仕組みとして、近年多くの注目を集めています。",
+   "Whatnotはこの分野を牽引するプラットフォームとして存在感を高めており、今回の巨額な評価額の達成は、ライブコマース市場全体の順調な拡大を裏付けるものとなっています。"
+  ],
+  "tags": [
+   "Whatnot",
+   "ライブコマース",
+   "EC"
+  ],
+  "slug": "whatnot-live-shopping-valuation-20-billion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Whatnot",
+    "type": "company",
+    "desc": "ライブ配信を通じて商品を売買できる人気のライブコマースプラットフォームを運営する企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
+  "category": "silicon",
+  "date": "2026-08-08",
+  "time": "02:00",
+  "path": "/articles/20260808-whatnot-live-shopping-valuation-20-billion.html"
+ },
+ {
+  "title": "SpaceX株、初の下落圧力か？内部保有株のロック解除で",
+  "lead": "SpaceXのインサイダーが保有する株式の最初のトランシェ（部分）がロック解除を迎え、株価に下落圧力がかかる可能性が浮上しました。",
+  "summary3": [
+   "SpaceXの初期保有株がロック解除",
+   "インサイダーによる現金化が可能に",
+   "株価に下落圧力がかかる懸念浮上"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、宇宙開発企業のSpaceXにおいて、インサイダーが保有する株式の最初のトランシェがロック解除を迎えることになりました。これにより、初期の投資家などが株式を現金化できるようになります。",
+   "株式のロック解除に伴い、市場に出回る供給量が増加するため、同社の株式は今後さらなる下落圧力に直面する可能性があります。これまで非公開の制限があった株式市場において、保有者による売却の動きが注目されています。",
+   "今回の動きは、早期投資家や関係者にとって利益を確定させる機会となる一方で、株価形成においては新たな試練となります。今後の市場動向や投資家の判断に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "SpaceX",
+   "株式",
+   "経済"
+  ],
+  "slug": "spacex-shares-unlock-pressure",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカ合衆国のアメリカ航空宇宙企業で、ロケットの製造や宇宙輸送を行っています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+  "category": "silicon",
+  "date": "2026-08-08",
+  "time": "02:00",
+  "path": "/articles/20260808-spacex-shares-unlock-pressure.html"
  }
 ]
