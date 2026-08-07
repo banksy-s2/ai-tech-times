@@ -38773,5 +38773,71 @@
   "date": "2026-08-07",
   "time": "12:02",
   "path": "/articles/20260807-jr-tokai-linear-osaka-extension.html"
+ },
+ {
+  "title": "米トランプ大統領、ポリシリコン等に追加関税の文書署名",
+  "lead": "アメリカのトランプ大統領は、半導体や太陽光パネルの材料となるポリシリコンなどに高関税を課す文書に署名しました。",
+  "summary3": [
+   "米大統領がポリシリコン等に関税",
+   "半導体や太陽光パネルの材料が対象",
+   "高いシェア占める中国を念頭か"
+  ],
+  "body": [
+   "アメリカのトランプ大統領は、半導体や太陽光パネルの主な材料となる「ポリシリコン」やその派生品に追加関税などを課す文書に署名しました。",
+   "今回の措置は、この材料の生産において高いシェアを占める中国を念頭に置いたものとみられています。",
+   "半導体や太陽光パネルのサプライチェーンや市場にどのような影響を与えるのか、今後の動向に関心が集まっています。"
+  ],
+  "tags": [
+   "アメリカ",
+   "半導体",
+   "中国"
+  ],
+  "slug": "us-polysilicon-tariffs-china",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の第45代および第47代大統領を務める政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/na-k10015198941000",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "13:00",
+  "path": "/articles/20260807-us-polysilicon-tariffs-china.html"
+ },
+ {
+  "title": "Metaが子どもへの被害で5億6700万ドルの罰金命令",
+  "lead": "ニューメキシコの裁判所が、InstagramやFacebookを運営するMetaに対して巨額の支払いを命じました。",
+  "summary3": [
+   "Metaに5億6700万ドルの罰金命令",
+   "子どもへの有害な影響が理由とされる",
+   "Instagramなどが対象に含まれる"
+  ],
+  "body": [
+   "イギリスのBBC Worldによると、ニューメキシコの裁判所は、Instagram、Facebook、Whatsappの親会社であるMetaに対し、子どもたちに与えた害を理由に新たに5億6700万ドルの支払いを命じました。",
+   "今回の司法判断は、ソーシャルメディアの巨人を対象としたものとしては最大規模の子どもの安全に関する裁定となります。"
+  ],
+  "tags": [
+   "Meta",
+   "SNS",
+   "裁判"
+  ],
+  "slug": "meta-fined-567m-child-safety",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどの主要SNSを運営するアメリカの大手IT企業です。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-07",
+  "time": "13:00",
+  "path": "/articles/20260807-meta-fined-567m-child-safety.html"
  }
 ]
