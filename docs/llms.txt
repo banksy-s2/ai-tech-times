@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-07 15:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [大和ハウス工業 FY2027 Q1営業益1306億円の過去最高を達成](https://ai-tech-times.web.app/articles/20260807-daiwa-house-fy2027-q1-results.html) — 2026-08-07 15:01: 大和ハウス工業はFY2027第1四半期の決算説明会を実施し、売上高1.4兆円、営業利益1306億円で過去最高を記録したと発表しました。
 - [ソフトバンクG決算不発、日経平均は644円安で失速](https://ai-tech-times.web.app/articles/20260807-nikkei-average-drops-softbank-g.html) — 2026-08-07 14:00: ソフトバンクグループの決算が不発に終わり、日経平均株価は午前終値で644円安と大きく失速する展開となりました。日本経済新聞の報道で明らかになりました。
 - [米トランプ大統領、ポリシリコン等に追加関税の文書署名](https://ai-tech-times.web.app/articles/20260807-us-polysilicon-tariffs-china.html) — 2026-08-07 13:00: アメリカのトランプ大統領は、半導体や太陽光パネルの材料となるポリシリコンなどに高関税を課す文書に署名しました。
 - [Metaが子どもへの被害で5億6700万ドルの罰金命令](https://ai-tech-times.web.app/articles/20260807-meta-fined-567m-child-safety.html) — 2026-08-07 13:00: ニューメキシコの裁判所が、InstagramやFacebookを運営するMetaに対して巨額の支払いを命じました。
@@ -41,14 +42,13 @@
 - [OpenAI、ChatGPT無料版の制限撤廃へ](https://ai-tech-times.web.app/articles/20260807-openai-chatgpt-free-unlimited-chats.html) — 2026-08-07 08:00: AI TECH TIMESの報道によると、OpenAIは来週から無料プランとGoプランのユーザーを対象に、テキストチャットの回数制限をなくし無制限で利用できるように変更すると発表しました。
 - [AIエージェントの指示承認、人間が3分の1の見落とし](https://ai-tech-times.web.app/articles/20260807-ai-agent-permissions-threats.html) — 2026-08-07 08:00: AIエージェントのコマンド承認に関するゲーム実行の調査結果が公開され、人間が脅威の3分の1を見落としていたことが明らかになりました。
 - [ジョニー・アイブ氏とOpenAIの300ドル超えAI端末、発売時期が判明](https://ai-tech-times.web.app/articles/20260807-openai-jony-ive-ai-smart-speaker-2027.html) — 2026-08-07 07:01: 元Appleのデザイナーであるジョニー・アイブ氏とOpenAIが共同開発しているAI端末について、Bloombergのマーク・ガーマン記者が報じました。300ドルを超える価格で2027年の発売が予定されているこのデバイスは、ホッケーパックほどのサイズになるといいます。
-- [OpenAI、Appleのセキュリティ慣行を指摘](https://ai-tech-times.web.app/articles/20260807-openai-says-apples-security-undermines-trade-secrets-case.html) — 2026-08-07 07:01: OpenAIがAppleとの営業秘密侵害訴訟において、Apple自身のセキュリティ管理に不備があったと主張していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-07)
 - 1位: [Grand Theft Auto VI: An Extended Look Coming August 27](https://www.youtube.com/watch?v=qq76pQsI1iw)
 - 2位: [Awarapan 2 : Trailer: Shivam’s Rage  Vishesh | Emraan | Disha | Shabana | Puran | 14th Aug](https://www.youtube.com/watch?v=1ya87ENCRj0)
 - 3位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 
-## AI用語事典 (全774語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全775語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
