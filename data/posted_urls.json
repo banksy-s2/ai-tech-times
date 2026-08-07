@@ -1174,11 +1174,10 @@
   "https://news.web.nhk/newsweb/na/na-k10015199381000",
   "https://news.web.nhk/newsweb/na/na-k10015199831000",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2hCNTZkck0xeFplckttSUg3MjVBTjdhVzlHS0pIbEhlSVU2SGZGQlhQSU80VkczRENsOHdPT0VoV2xfbU1USkVueE9URjJuU00wLWphbTA2bUdLcERfOGk5OEctRkUzQ2lEYkRfOWw5amNNNUlqT0hXcGNKUDNRUkdaMGhWQ2c?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9keHdJLTNjbWdReXdvamJXWG5LbWpGZG1ZdWtWUHVhZ3NQd1Q2eUJzVDJKQWdhV2NPbXZOM24ybFQyWU56Q0VRWWtucThKM0lEeml0eG5OSXU1ci1QM08w?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9keHdJLTNjbWdReXdvamJXWG5LbWpGZG1ZdWtWUHVhZ3NQd1Q2eUJzVDJKQWdhV2NPbXZOM24ybFQyWU56Q0VRWWtucThKM0lEeml0eG5OSXU1ci1QM08w?oc=5",
+  "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
  ],
  "titles": [
-  "Anthropic、Claudeの音声モードをOpusとSonnetへ拡大",
-  "Alphabetの巨額キャッシュバーン、AI投資拡大でビッグテックに懸念",
   "アンソロピック「Claude Opus 5」発表か、競合への影響は",
   "フリーランススタート調査：「出社・生成AI必須」が4割超、市場規模1兆2209億円へ",
   "オラクル、国防総省と最大70億ドルの10年契約を締結した理由",
@@ -3176,6 +3175,8 @@
   "税務署員が約1億5000万円を受け取り競艇に投じた末、懲戒免職に",
   "韓国調査船が竹島周辺EEZ内で海洋調査、日本政府が抗議",
   "ＩＮＰＥＸ、5000万株・1400億円の自社株買い（割合4.3％）と決算を発表",
-  "SUMCO、300mmウェハ好調も営業赤字転落"
+  "SUMCO、300mmウェハ好調も営業赤字転落",
+  "Cloudflare launches Kitesurf, a browser built for AI agents",
+  "Cloudflare、AI専用ブラウザ「Kitesurf」公開"
  ]
 }

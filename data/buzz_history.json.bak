@@ -2041,7 +2041,7 @@
    "id": "BZ4UzthYTss",
    "title": "Stray Kids \"This & That\" M/V",
    "channel": "JYP Entertainment",
-   "views": 10871514,
+   "views": 11255714,
    "url": "https://www.youtube.com/watch?v=BZ4UzthYTss",
    "thumb": "https://i.ytimg.com/vi/BZ4UzthYTss/hqdefault.jpg",
    "regions": [
@@ -2058,14 +2058,13 @@
    "id": "i7jVfG-wB78",
    "title": "Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)",
    "channel": "Euphoric Brothers",
-   "views": 710282,
+   "views": 781878,
    "url": "https://www.youtube.com/watch?v=i7jVfG-wB78",
    "thumb": "https://i.ytimg.com/vi/i7jVfG-wB78/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "JP",
-    "KR",
     "BR"
    ],
    "comment": "人気ホラーゲームシリーズの最新作の公式ティーザートレーラーのようです。"
@@ -2075,7 +2074,7 @@
    "id": "5fHXyqQOKL8",
    "title": "Primetime | Official Trailer HD | A24",
    "channel": "A24",
-   "views": 5558250,
+   "views": 5694562,
    "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
    "thumb": "https://i.ytimg.com/vi/5fHXyqQOKL8/hqdefault.jpg",
    "regions": [
@@ -2086,24 +2085,10 @@
   },
   {
    "rank": 4,
-   "id": "qq76pQsI1iw",
-   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-   "channel": "Rockstar Games",
-   "views": 3221297,
-   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw",
-   "thumb": "https://i.ytimg.com/vi/qq76pQsI1iw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "GTA6の新たな映像が8月27日に公開予定のようです。"
-  },
-  {
-   "rank": 5,
    "id": "6qdwBOT6MlE",
    "title": "Vishwanath and Sons Trailer (Telugu) | Suriya, Mamitha | GV Prakash | Naga Vamsi | Venky Atluri",
    "channel": "Sithara Entertainments",
-   "views": 1906851,
+   "views": 1969662,
    "url": "https://www.youtube.com/watch?v=6qdwBOT6MlE",
    "thumb": "https://i.ytimg.com/vi/6qdwBOT6MlE/hqdefault.jpg",
    "regions": [
@@ -2113,11 +2098,11 @@
    "comment": "スーリヤ主演のテルグ語映画「Vishwanath and Sons」の予告編のようです。"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "id": "jEAQp6jjmQA",
    "title": "Magudam (Tamil) Trailer | Vishal | GV Prakash | Anjali | Dushara | Super Good Films",
    "channel": "G.V. Prakash Kumar",
-   "views": 829280,
+   "views": 855002,
    "url": "https://www.youtube.com/watch?v=jEAQp6jjmQA",
    "thumb": "https://i.ytimg.com/vi/jEAQp6jjmQA/hqdefault.jpg",
    "regions": [
@@ -2127,11 +2112,11 @@
    "comment": "タミール映画『Magudam』の予告編映像のようです"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "id": "XckReAEvYvE",
    "title": "D.Mon | New Hero Gameplay Trailer | Overwatch",
    "channel": "PlayOverwatch",
-   "views": 611639,
+   "views": 709938,
    "url": "https://www.youtube.com/watch?v=XckReAEvYvE",
    "thumb": "https://i.ytimg.com/vi/XckReAEvYvE/hqdefault.jpg",
    "regions": [
@@ -2141,11 +2126,25 @@
    "comment": "オーバーウォッチの新ヒーロー「D.Mon」のゲームプレイ映像のようです"
   },
   {
+   "rank": 7,
+   "id": "mWAkJSWrIg4",
+   "title": "FNAF Among Us In Real Life",
+   "channel": "Shiloh & Bros",
+   "views": 574869,
+   "url": "https://www.youtube.com/watch?v=mWAkJSWrIg4",
+   "thumb": "https://i.ytimg.com/vi/mWAkJSWrIg4/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "FNAFとAmong Usの世界観を実写で再現しているようです"
+  },
+  {
    "rank": 8,
    "id": "HCvIZzVdeq8",
    "title": "FARMING",
    "channel": "Stray Kids - Topic",
-   "views": 522784,
+   "views": 544302,
    "url": "https://www.youtube.com/watch?v=HCvIZzVdeq8",
    "thumb": "https://i.ytimg.com/vi/HCvIZzVdeq8/hqdefault.jpg",
    "regions": [
@@ -2156,31 +2155,31 @@
   },
   {
    "rank": 9,
-   "id": "mWAkJSWrIg4",
-   "title": "FNAF Among Us In Real Life",
-   "channel": "Shiloh & Bros",
-   "views": 494075,
-   "url": "https://www.youtube.com/watch?v=mWAkJSWrIg4",
-   "thumb": "https://i.ytimg.com/vi/mWAkJSWrIg4/hqdefault.jpg",
+   "id": "hkX--QTPK9g",
+   "title": "I Finally Played The New Meccha Chameleon Update...",
+   "channel": "SMii7Y",
+   "views": 317611,
+   "url": "https://www.youtube.com/watch?v=hkX--QTPK9g",
+   "thumb": "https://i.ytimg.com/vi/hkX--QTPK9g/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "comment": "FNAFとAmong Usの世界観を実写で再現しているようです"
+   "comment": "話題の新しいカメレオンのアップデートをようやくプレイしたようです"
   },
   {
    "rank": 10,
-   "id": "sqBABQJ8dNI",
-   "title": "OpTic GAMING vs P7 NOTORIOUS!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 3",
-   "channel": "Scump",
-   "views": 261468,
-   "url": "https://www.youtube.com/watch?v=sqBABQJ8dNI",
-   "thumb": "https://i.ytimg.com/vi/sqBABQJ8dNI/hqdefault.jpg",
+   "id": "von9dKzwdYk",
+   "title": "Teaching My LITTLE SISTER How To Play Keyboard Escape..",
+   "channel": "Foltyn",
+   "views": 250803,
+   "url": "https://www.youtube.com/watch?v=von9dKzwdYk",
+   "thumb": "https://i.ytimg.com/vi/von9dKzwdYk/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "comment": "eスポーツ世界大会3日目のウォッチパーティの様子かもしれない (28字)"
+   "comment": "小さい妹さんにキーボードエスケープの遊び方を教えているようです"
   }
  ]
 }

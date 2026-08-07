@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Cloudflare、AI専用ブラウザ「Kitesurf」公開](https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html) — 2026-08-08 08:00: CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。
 - [OpenAI、新型AIモデル「Astra」の開発を一時停止](https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html) — 2026-08-08 07:02: OpenAIが新開発のAIモデル「Astra」の内部活動を一時停止すると発表しました。新しいセキュリティ基準を満たしていないためとしています。
 - [Ripplingが巨額投資後にAI投資のROI追跡ツールを開発した理由](https://ai-tech-times.web.app/articles/20260808-rippling-ai-spend-console-roi.html) — 2026-08-08 07:02: 多くの企業がAI導入を進める中、Ripplingが自社の巨額なAI支出の反省から、従業員のAI利用コストを追跡する新ツールを開発しました。
 - [法務省、生成AIでの「声」無断利用を法的保護の対象へ](https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-guidelines.html) — 2026-08-08 07:02: 法務省は、著名人の声などが生成AIで無断利用されている問題を受け、「声」も法的保護の対象になると明記した解釈指針を公式サイトで公表しました。
@@ -41,14 +42,13 @@
 - [SpaceX株、初の下落圧力か？内部保有株のロック解除で](https://ai-tech-times.web.app/articles/20260808-spacex-shares-unlock-pressure.html) — 2026-08-08 02:00: SpaceXのインサイダーが保有する株式の最初のトランシェ（部分）がロック解除を迎え、株価に下落圧力がかかる可能性が浮上しました。
 - [法務省、「声の無断利用」は権利侵害と見解明示](https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html) — 2026-08-08 01:00: 法務省は、生成AIの普及に伴う声優などの声が無断利用されている問題について、声も既存の権利で法的に保護できるとの見解を明示しました。
 - [自宅隣にデータセンター計画、規制の隙間で住環境悪化](https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html) — 2026-08-08 01:00: 技術の進歩に伴い都市部でデータセンターの建設が相次ぐ中、規制が追いついていない現状と近隣住民との軋轢について専門家が指摘しています。
-- [RedditでAIボットが宗教を創設、人間がすぐ追随した理由](https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html) — 2026-08-08 00:00: AI TECH TIMESの報道によると、AIボットが始めた宗教的な運動に人間がすぐに追随したことが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 - 3位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 
-## AI用語事典 (全803語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全804語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
