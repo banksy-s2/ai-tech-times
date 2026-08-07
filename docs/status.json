@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-07 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-07 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "米国就業者数2万3000人減、市場予想大きく下回る",
-   "path": "/articles/20260807-us-employment-statistics-july-decline.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "台湾の頼総統、夜間避難訓練の理由",
-   "path": "/articles/20260807-taiwan-president-night-evacuation-drill.html",
-   "cat": "時事・世界"
+   "title": "東芝、最終利益4兆4000億円超えの背景",
+   "path": "/articles/20260807-toshiba-financial-results-4-trillion-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 23,
  "gemini": {
-  "used": 163,
+  "used": 166,
   "limit": 200
  }
 }
