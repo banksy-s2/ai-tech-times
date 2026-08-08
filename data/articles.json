@@ -42107,5 +42107,88 @@
   "date": "2026-08-09",
   "time": "07:03",
   "path": "/articles/20260809-sharp-revises-earnings-forecast.html"
+ },
+ {
+  "title": "Fenix Flexin、AI楽曲使用を認めた理由",
+  "lead": "LAのラッパーであるFenix Flexinが、話題の楽曲「Rubberz」におけるAI使用を事実上認めました。",
+  "summary3": [
+   "Fenix FlexinがAI使用を認める",
+   "プロデューサーが動画で暴露していた",
+   "検出ツールのリリースが背景にある"
+  ],
+  "body": [
+   "ロサンゼルスを拠点に活動するラッパーのFenix Flexinが、80年代のシンセポップをテーマにした楽曲「Rubberz」の制作にAIを使用したことを、ついに認める姿勢を見せました。この動きに至るまでには、プロデューサーであるMedasin氏による告発動画が存在していました。",
+   "Medasin氏は自身の動画の中で、同曲の制作に「Treblo」（旧名称：Sonauto）と呼ばれるAIツールが使用されていたと主張していました。さらに、AIツールを提供する企業側が、該当楽曲を識別できるAI検出ツールをリリースしたことも今回の事態を後押しする形となりました。",
+   "これまでAIの活用については様々な議論が交わされてきましたが、アーティスト自身がその使用を認める事例が出てきたことで、音楽制作の現場におけるAIの利用と、その透明性をめぐる議論にさらなる注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "音楽制作",
+   "Fenix Flexin"
+  ],
+  "slug": "fenix-flexin-rubberz-ai-song",
+  "people": [
+   {
+    "name": "Medasin",
+    "bio": "楽曲「Rubberz」の制作に関してAIツールの使用を動画で主張したプロデューサー。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Treblo",
+    "type": "ai",
+    "desc": "旧名称をSonautoとする、楽曲制作などに用いられるAIツールの名称。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+  "category": "ai",
+  "date": "2026-08-09",
+  "time": "08:00",
+  "path": "/articles/20260809-fenix-flexin-rubberz-ai-song.html"
+ },
+ {
+  "title": "ジル・レポール氏が暴くシリコンバレーのSF読解力",
+  "lead": "歴史学者のジル・レポール氏が、テック企業が新政府の形成かのような大言壮語を用いて自社製品を説明する理論について語りました。",
+  "summary3": [
+   "レポール氏がテック企業の表現を分析",
+   "新政府の設立かのような大言壮語を使用",
+   "TwitterやAnthropicの例を指摘"
+  ],
+  "body": [
+   "AI TECH TIMESがお届けする最新ニュースです。歴史学者のジル・レポール氏には、テクノロジー企業が自社製品を説明する際に、まるで新しい政府を形成するかのような大言壮語な表現を好んで使う理由についての独自の理論があります。",
+   "Twitterの古い表現である「ポケットの中のタウンホール」や、AnthropicのClaudeにおける憲法（Claude constitution）といった例を思い浮かべると、この理論はシリコンバレーをあまりお世辞のようには描いていません。テックリーダーたちの言語選択には、彼らの独特な世界観が反映されているようです。",
+   "この話題に関する詳細やレポール氏の今後の著作については、テック業界のリーダーたちの姿勢やSFの読み方に関する議論として注目を集めています。今後の動向にも引き続き関心が寄せられるところです。"
+  ],
+  "tags": [
+   "シリコンバレー",
+   "AI",
+   "テック企業"
+  ],
+  "slug": "jill-lepore-artificial-state-silicon-valley",
+  "people": [
+   {
+    "name": "ジル・レポール氏",
+    "bio": "アメリカの歴史学者であり、テック企業の言語表現や社会への影響について独自の理論を展開している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Twitter",
+    "type": "company",
+    "desc": "アメリカ発祥のソーシャルメディアプラットフォームを提供していた企業であり、現在はXに改称。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能安全研究・開発企業であり、対話型AIモデル「Claude」などを手掛ける。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+  "category": "ai",
+  "date": "2026-08-09",
+  "time": "08:00",
+  "path": "/articles/20260809-jill-lepore-artificial-state-silicon-valley.html"
  }
 ]

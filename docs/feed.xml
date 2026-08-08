@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Fenix Flexin、AI楽曲使用を認めた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260809-fenix-flexin-rubberz-ai-song.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-fenix-flexin-rubberz-ai-song.html</guid>
+<pubDate>Sun, 09 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>LAのラッパーであるFenix Flexinが、話題の楽曲「Rubberz」におけるAI使用を事実上認めました。</description>
+</item>
+<item>
+<title>ジル・レポール氏が暴くシリコンバレーのSF読解力</title>
+<link>https://ai-tech-times.web.app/articles/20260809-jill-lepore-artificial-state-silicon-valley.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-jill-lepore-artificial-state-silicon-valley.html</guid>
+<pubDate>Sun, 09 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>歴史学者のジル・レポール氏が、テック企業が新政府の形成かのような大言壮語を用いて自社製品を説明する理論について語りました。</description>
+</item>
+<item>
 <title>Claudeが提案したオフィスでの紛失スマホ探し</title>
 <link>https://ai-tech-times.web.app/articles/20260809-claude-suggests-tracking-bluetooth-signal-strength.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260809-claude-suggests-tracking-bluetooth-signal-strength.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 08 Aug 2026 13:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>アメリカのトランプ大統領は、アメリカで生まれた子どもに国籍を与える「出生地主義」について、制限を設ける新たな大統領令に署名しました。</description>
-</item>
-<item>
-<title>サウジ・トルコ・パキスタン防衛協定、なぜ今結ばれたのか</title>
-<link>https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defence-pact.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defence-pact.html</guid>
-<pubDate>Sat, 08 Aug 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>サウジアラビア、トルコ、パキスタンの3カ国が新たに防衛協定を締結し、中東情勢に大きな影響を与えています。</description>
-</item>
-<item>
-<title>OracleがOpenJDKでAI生成コードを全面禁止へ</title>
-<link>https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html</guid>
-<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>IT大手のOracleが、開発するOpenJDKにおいてAI生成コードの使用を禁止していることが明らかになりました。エリソン氏の発言とは裏腹に、なぜこのような方針をとっているのでしょうか。</description>
 </item>
 </channel></rss>
