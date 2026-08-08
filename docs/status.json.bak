@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-08 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-08 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "東証上場企業の4～6月期、最終益71%増の理由",
-   "path": "/articles/20260808-tosei-4-6-net-profit-increase.html",
-   "cat": "株式投資(日本)"
+   "title": "GPIFの4〜6月期運用、過去最高の24兆円超黒字",
+   "path": "/articles/20260808-gpif-record-surplus-quarterly.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 98,
+  "used": 100,
   "limit": 200
  }
 }
