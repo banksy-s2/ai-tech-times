@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [リクルートHD、米国ARPJ成長率35％加速と通期EBITDA初の1兆円台への上方修正を発表](https://ai-tech-times.web.app/articles/20260809-recruit-hd-fy2026-q1-earnings.html) — 2026-08-09 06:00: リクルートホールディングスは、FY2026 Q1決算説明会を開催し、米国ARPJ成長率が35％に加速したことなどを発表しました。この発表に伴い、通期EBITDAが初の1兆円台へ上方修正されています。
 - [日経平均株価「39％」上昇の一方でTOPIX「12％」のカラクリ](https://ai-tech-times.web.app/articles/20260809-japan-stock-market-half-year-gains.html) — 2026-08-09 05:00: 日本株の上半期における上昇幅について、日経平均株価とTOPIXの間で大きな違いが見られたことが報じられました。
 - [トッド・ブランシュ氏、米司法長官に就任 共和党一部の異例反発を乗り越え](https://ai-tech-times.web.app/articles/20260809-todd-blanche-us-attorney-general-confirmed.html) — 2026-08-09 04:59: 米国時間、ドナルド・トランプ前大統領の元刑事弁護士であるトッド・ブランシュ氏が、米国司法長官に承認されました。一部の共和党員からの異例の反発があったにもかかわらず、投票によって国の最高法執行官としての地位を確固たるものにしました。
 - [BBCが報じるドイツ空港ドローン事件、ロシア関与の可能性](https://ai-tech-times.web.app/articles/20260809-german-airport-drone-bomb.html) — 2026-08-09 04:59: ドイツの空港で発生したドローン爆弾事件をめぐり、BBCがロシア関連の代理組織による関与を示す証拠を入手したことが明らかになりました。
@@ -41,14 +42,13 @@
 - [トランプ大統領、新たな「出生地主義」制限の大統領令に署名](https://ai-tech-times.web.app/articles/20260808-trump-birthright-citizenship-order.html) — 2026-08-08 13:00: アメリカのトランプ大統領は、アメリカで生まれた子どもに国籍を与える「出生地主義」について、制限を設ける新たな大統領令に署名しました。
 - [サウジ・トルコ・パキスタン防衛協定、なぜ今結ばれたのか](https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defence-pact.html) — 2026-08-08 13:00: サウジアラビア、トルコ、パキスタンの3カ国が新たに防衛協定を締結し、中東情勢に大きな影響を与えています。
 - [OracleがOpenJDKでAI生成コードを全面禁止へ](https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html) — 2026-08-08 12:03: IT大手のOracleが、開発するOpenJDKにおいてAI生成コードの使用を禁止していることが明らかになりました。エリソン氏の発言とは裏腹に、なぜこのような方針をとっているのでしょうか。
-- [Airbnb、新AI検索のテストで機能公開を迅速化](https://ai-tech-times.web.app/articles/20260808-airbnb-ai-search-function.html) — 2026-08-08 12:03: 民泊大手Airbnbが、AIを活用した新しい検索機能のテストを実施していることを明らかにしました。この新機能には切り替えスイッチが搭載されます。
 
 ## 世界のバズ動画TOP3 (2026-08-09)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
-- 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
-- 3位: [MINECRAFT HARDCORE ALL BOSSES DAY 1 🍄🔨🧟‍♂️ft. KaiCenat](https://www.youtube.com/watch?v=Sm9Af2DPsqs)
+- 2位: [Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations](https://www.youtube.com/watch?v=G5hWlD5zfhw)
+- 3位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 
-## AI用語事典 (全823語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全824語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
