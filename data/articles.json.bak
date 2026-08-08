@@ -40621,5 +40621,83 @@
   "date": "2026-08-08",
   "time": "08:00",
   "path": "/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html"
+ },
+ {
+  "title": "OpenAI、ChatGPT有料版にSol導入なぜ",
+  "lead": "OpenAIは、ChatGPTのデフォルトモデルの変更を発表しました。有料版や無料版でそれぞれ新しいモデルが導入され、機能が刷新されます。",
+  "summary3": [
+   "有料版はSolに刷新し、速度と正確性を向上",
+   "無料版はLunaを導入し、チャットを無制限化",
+   "思考時間の選択やThinkボタンを追加"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。OpenAIは、対話型AIサービス「ChatGPT」のデフォルトモデルの変更を発表しました。",
+   "有料版の「Plus」および「Pro」には、事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」が導入されます。また、思考時間を選択できるスライダー機能が追加され、ユーザーの好みに応じた応答の調整が可能になります。",
+   "一方、無料版および「ChatGPT Go」には「GPT-5.6 Luna」が導入されます。これによりテキストチャットが無制限で利用できるようになるほか、推論を促す「Think」ボタンが提供される予定です。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "AIモデル"
+  ],
+  "slug": "openai-chatgpt-default-model-update",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究機関であり、対話型AI「ChatGPT」などを開発・提供している企業です。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話が可能な大規模言語モデルを活用したAIチャットサービスです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+  "category": "ai_jp",
+  "date": "2026-08-08",
+  "time": "09:00",
+  "path": "/articles/20260808-openai-chatgpt-default-model-update.html"
+ },
+ {
+  "title": "Google マップの新機能「マップに相談」を日本で提供開始",
+  "lead": "Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。",
+  "summary3": [
+   "Googleマップの新機能が日本で利用可能に",
+   "Gemini連携でよりスマートなお出かけ計画",
+   "自然な会話やリアルタイム情報をもとに提案"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。Googleは、Google マップの新機能「マップに相談」を日本で提供開始しました。これまでの地図サービスでは答えることが難しかった現実的な要望にも対応し、新しい活用体験をお届けします。",
+   "本機能はGeminiとの連携によって実現しています。ユーザーは自然に会話するように使うことができ、リアルタイムの情報やパーソナライズされた提案をもとに、旅行などお出かけの計画をより簡単でスマートに進めることが可能です。",
+   "日常のお出かけや旅行のプランニングをより便利にするGoogle マップの新機能。自然な対話を通じた新しい地図の活用体験を、ぜひ日常の移動や計画作りに役立ててみてはいかがでしょうか。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "マップに相談"
+  ],
+  "slug": "google-maps-ask-maps-japan",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、クラウドサービスやOS、ハードウェアなどを幅広く展開する世界的なIT企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://blog.google/intl/ja-jp/products/connect-communicate/japanese-ask-maps/",
+  "category": "ai_jp",
+  "date": "2026-08-08",
+  "time": "09:00",
+  "path": "/articles/20260808-google-maps-ask-maps-japan.html"
  }
 ]
