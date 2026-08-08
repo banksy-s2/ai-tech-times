@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-08 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-08 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAI、ChatGPT有料版にSol導入なぜ",
-   "path": "/articles/20260808-openai-chatgpt-default-model-update.html",
-   "cat": "日本のAI"
+   "title": "Airbnb、AI投資を大幅拡大へ—株価15%急騰の理由",
+   "path": "/articles/20260808-airbnb-ai-spending-earnings-surge.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Google マップの新機能「マップに相談」を日本で提供開始",
-   "path": "/articles/20260808-google-maps-ask-maps-japan.html",
-   "cat": "日本のAI"
+   "title": "Googleが警告：金融機関従業員を標的とする脅威の電話手口",
+   "path": "/articles/20260808-google-warns-hackers-targeting-financial-employees.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 59,
+  "used": 64,
   "limit": 200
  }
 }
