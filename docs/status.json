@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-09 04:50",
+ "updated": "2026-08-09 04:59",
  "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "熊本地震、10年前と隣り合う領域で発生か",
-   "path": "/articles/20260809-kumamoto-earthquake-fault-analysis.html",
+   "title": "トッド・ブランシュ氏、米司法長官に就任 共和党一部の異例反発を乗り越え",
+   "path": "/articles/20260809-todd-blanche-us-attorney-general-confirmed.html",
    "cat": "時事・世界"
   },
   {
-   "title": "韓国サッカー協会が外国人審判員に性的接待、一連の騒動を謝罪",
-   "path": "/articles/20260809-korea-football-association-scandal.html",
+   "title": "BBCが報じるドイツ空港ドローン事件、ロシア関与の可能性",
+   "path": "/articles/20260809-german-airport-drone-bomb.html",
    "cat": "時事・世界"
   }
  ],
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 74,
+ "pv_today": 75,
  "gemini": {
-  "used": 4,
+  "used": 10,
   "limit": 200
  }
 }
