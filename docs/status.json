@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-09 04:59",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-09 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トッド・ブランシュ氏、米司法長官に就任 共和党一部の異例反発を乗り越え",
-   "path": "/articles/20260809-todd-blanche-us-attorney-general-confirmed.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "BBCが報じるドイツ空港ドローン事件、ロシア関与の可能性",
-   "path": "/articles/20260809-german-airport-drone-bomb.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価「39％」上昇の一方でTOPIX「12％」のカラクリ",
+   "path": "/articles/20260809-japan-stock-market-half-year-gains.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 75,
  "gemini": {
-  "used": 10,
+  "used": 12,
   "limit": 200
  }
 }

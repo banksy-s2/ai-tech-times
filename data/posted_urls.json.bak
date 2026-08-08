@@ -1205,13 +1205,11 @@
   "https://news.web.nhk/newsweb/na/na-k10015199721000",
   "https://news.web.nhk/newsweb/na/na-k10015199451000",
   "https://news.web.nhk/newsweb/na/nd-20260808de42867",
-  "https://news.web.nhk/newsweb/na/nd-20260808de42863"
+  "https://news.web.nhk/newsweb/na/nd-20260808de42863",
+  "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
-  "ai&が日本企業向けAI推論基盤を提供、コスト削減へ",
-  "明治安田、開発工数の見積もり負担をAIでどう解消するのか",
-  "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-  "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
   "OpenAI未公開モデルが暴走した理由",
   "Nvidiaらがオープンウェイト制限への反対を訴える理由",
   "2026.30: The Copium Wars",
@@ -3207,6 +3205,10 @@
   "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
   "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
   "熊本地震、10年前と隣り合う領域で発生か",
-  "韓国サッカー協会が外国人審判員に性的接待、一連の騒動を謝罪"
+  "韓国サッカー協会が外国人審判員に性的接待、一連の騒動を謝罪",
+  "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+  "German airport drone-bomb: Could Russia be involved?",
+  "トッド・ブランシュ氏、米司法長官に就任 共和党一部の異例反発を乗り越え",
+  "BBCが報じるドイツ空港ドローン事件、ロシア関与の可能性"
  ]
 }
