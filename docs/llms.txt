@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 12:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OracleがOpenJDKでAI生成コードを全面禁止へ](https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html) — 2026-08-08 12:03: IT大手のOracleが、開発するOpenJDKにおいてAI生成コードの使用を禁止していることが明らかになりました。エリソン氏の発言とは裏腹に、なぜこのような方針をとっているのでしょうか。
+- [Airbnb、新AI検索のテストで機能公開を迅速化](https://ai-tech-times.web.app/articles/20260808-airbnb-ai-search-function.html) — 2026-08-08 12:03: 民泊大手Airbnbが、AIを活用した新しい検索機能のテストを実施していることを明らかにしました。この新機能には切り替えスイッチが搭載されます。
+- [シャープ、純利益250億円に下方修正　円安とコスト増なぜ圧迫](https://ai-tech-times.web.app/articles/20260808-sharp-net-income-revision.html) — 2026-08-08 12:03: シャープは7日、2027年3月期の連結純利益予想を期初から170億円下方修正し、前期比47.3％減の250億円にする方針を発表しました。円安や樹脂・燃料の価格上昇が収益を圧迫しています。
+- [ChatGPT無料版でGPT-5.6 Lunaが無制限に使える理由](https://ai-tech-times.web.app/articles/20260808-chatgpt-default-luna-update.html) — 2026-08-08 12:03: ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。無料ユーザーでも使用量無制限で利用可能になり、間違いが減るとのことです。
+- [SpaceXのテラファブ、テスラ製太陽光ではなく天然ガス発電に依存する理由](https://ai-tech-times.web.app/articles/20260808-spacex-terafab-natural-gas-power.html) — 2026-08-08 12:03: 米SpaceXが計画している半導体製造拠点「テラファブ」の電力供給をめぐり、テスラ製の太陽光パネルではなく天然ガス発電を採用する方針であることが明らかになりました。
+- [アソビシステムがActiv8買収、キズナアイ運営と現実・仮想の融合へ](https://ai-tech-times.web.app/articles/20260808-asobisystem-acquires-activ8.html) — 2026-08-08 12:03: ASOBISYSTEMが、バーチャルタレント「キズナアイ」を擁するActiv8の買収を発表しました。現実世界と仮想世界のコラボレーション強化を目指すその狙いとは何でしょうか。
+- [トランプ大統領、FRBクック理事に解任検討を再び通知](https://ai-tech-times.web.app/articles/20260808-trump-notifies-frb-cook-dismissal.html) — 2026-08-08 12:03: アメリカのトランプ大統領が、金融政策を決定するFRB＝連邦準備制度理事会のクック理事に対して、解任を検討していることを再び通知したと欧米メディアが伝えました。
+- [サウジアラビアなど3か国が共同防衛協定に署名](https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defense-pact.html) — 2026-08-08 12:03: サウジアラビア、トルコ、パキスタンの3か国は7日、共同防衛協定に署名しました。いずれかへの攻撃をすべてへの攻撃と見なす規定が盛り込まれました。
+- [ピクテ・ジャパン田中氏、日経平均は27年3月末に7万5000円](https://ai-tech-times.web.app/articles/20260808-nikkei-average-forecast-2027.html) — 2026-08-08 12:03: ピクテ・ジャパンの田中氏が、日経平均株価の予想について言及しました。2027年3月末時点の見通しを示しています。
+- [宝ＨＤ、1Q決算発表の延期を発表し後場マイナス転換](https://ai-tech-times.web.app/articles/20260808-tara-hd-earnings-postponed.html) — 2026-08-08 12:03: 宝ＨＤは、確認を要する事実が判明したとして第1四半期決算の発表を延期しました。この発表を受け、株式市場では後場にマイナスへと転換する動きが見られました。
 - [西鉄福岡駅などで意図しない音声、YouTuberの音声を第三者が不正に流したか](https://ai-tech-times.web.app/articles/20260808-nishitetsu-station-broadcast-incident.html) — 2026-08-08 11:00: 西日本鉄道は8月6日、西鉄福岡（天神）駅と薬院駅の駅構内放送設備から、意図しない音声が流れる事案が発生したと発表しました。
 - [Airbnb、AI投資を大幅拡大へ—株価15%急騰の理由](https://ai-tech-times.web.app/articles/20260808-airbnb-ai-spending-earnings-surge.html) — 2026-08-08 10:00: 民泊大手AirbnbのCEOを務めるブライアン・チェスキー氏は、人工知能（AI）が企業の成長を再び軌道に乗せた理由であると明かしました。好調な決算を受けて、今後はAIへの投資をさらに「大幅に増やす」方針を示しています。
 - [Googleが警告：金融機関従業員を標的とする脅威の電話手口](https://ai-tech-times.web.app/articles/20260808-google-warns-hackers-targeting-financial-employees.html) — 2026-08-08 10:00: Googleのセキュリティ研究者により、ハッカー集団が米国の金融機関の従業員に電話をかけ、機密データの窃取や恐喝を行っていることが明らかになりました。
@@ -32,23 +42,13 @@
 - [Ripplingが巨額投資後にAI投資のROI追跡ツールを開発した理由](https://ai-tech-times.web.app/articles/20260808-rippling-ai-spend-console-roi.html) — 2026-08-08 07:02: 多くの企業がAI導入を進める中、Ripplingが自社の巨額なAI支出の反省から、従業員のAI利用コストを追跡する新ツールを開発しました。
 - [法務省、生成AIでの「声」無断利用を法的保護の対象へ](https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-guidelines.html) — 2026-08-08 07:02: 法務省は、著名人の声などが生成AIで無断利用されている問題を受け、「声」も法的保護の対象になると明記した解釈指針を公式サイトで公表しました。
 - [SHIFT、防衛装備庁のAI装備品審査を支援](https://ai-tech-times.web.app/articles/20260808-shift-defense-ai-equipment-review.html) — 2026-08-08 07:02: ITコンサルティング事業を手掛けるSHIFTが、防衛装備庁によるAI装備品の技術的審査を支援すると発表しました。
-- [Rippling、AIコスト管理ツール開発の理由](https://ai-tech-times.web.app/articles/20260808-rippling-ai-spend-console.html) — 2026-08-08 07:02: 従業員のAI利用で多額の費用を費やしたRipplingが、新たな支出管理ツールを開発しました。コスト急増の背景とその対策とは何でしょうか。
-- [ByteDanceが10兆パラメータの巨大AIモデルを訓練、Anthropicに対抗する理由とは](https://ai-tech-times.web.app/articles/20260808-bytedance-trains-massive-ai-model.html) — 2026-08-08 07:02: TikTokの親会社であるByteDanceが、Anthropicに対抗するため、10兆パラメータという巨大なAIモデルの訓練を進めていることが明らかになりました。
-- [リュウジ氏が「鶏のたたき」を公開、不安への回答とは](https://ai-tech-times.web.app/articles/20260808-ryuji-chicken-tataki-recipe.html) — 2026-08-08 07:02: 料理系YouTuberのリュウジさんが紹介した「鶏のたたき」のレシピに不安を感じる人が続出しました。これに対し、本人が語った言葉が話題となっています。
-- [税務署員が約1億5000万円を受け取り競艇に投じた末、懲戒免職に](https://ai-tech-times.web.app/articles/20260808-tax-official-dismissed-boat-race-scandal.html) — 2026-08-08 07:02: 関東信越国税局は、税務調査で知り合った高齢女性から約1億5000万円を受け取り、競艇につぎ込んで脱税したとして、税務署の職員を懲戒免職処分にしました。
-- [韓国調査船が竹島周辺EEZ内で海洋調査、日本政府が抗議](https://ai-tech-times.web.app/articles/20260808-korean-research-vessel-takeshima-eez.html) — 2026-08-08 07:02: 島根県の竹島西方の日本の排他的経済水域（EEZ）内で、韓国の調査船が日本側の同意を得ずに海洋調査とみられる活動を行っていることが確認されました。日本政府は外交ルートを通じて韓国側に強く抗議しています。
-- [ＩＮＰＥＸ、5000万株・1400億円の自社株買い（割合4.3％）と決算を発表](https://ai-tech-times.web.app/articles/20260808-inpex-share-buyback-financial-results.html) — 2026-08-08 07:02: ＩＮＰＥＸは、発行済み株式数の4.3％にあたる5000万株、総額1400億円を上限とする大規模な自社株買いの実施および決算の発表を行いました。
-- [SUMCO、300mmウェハ好調も営業赤字転落](https://ai-tech-times.web.app/articles/20260808-sumco-fy2026-q2-results.html) — 2026-08-08 07:02: SUMCOの2026年3月期第2四半期決算説明会が開催され、300mmウェハ出荷が市場最高水準を記録する一方で、営業赤字に転落したことが明らかになりました。
-- [ニチレイ、サイバー攻撃で売り上げ50億円減の見通し](https://ai-tech-times.web.app/articles/20260808-nichirei-cyber-attack-sales-decrease.html) — 2026-08-08 06:00: 冷凍食品大手のニチレイは、サイバー攻撃によるシステム障害で倉庫からの出庫業務が一時停止したことなどにより、売り上げが減少する見通しを明らかにしました。
-- [KDDI、楽天への回線提供を9月終了なぜ一部継続か](https://ai-tech-times.web.app/articles/20260808-kddi-rakuten-roaming-contract-september.html) — 2026-08-08 05:00: KDDIが楽天モバイルに回線を貸し出すローミング契約について、9月末で終了する方針を明らかにしました。一方で、一部のエリアでは提供を継続する考えを示しています。
-- [米メタに約900億円支払い命令 SNS安全対策不足で](https://ai-tech-times.web.app/articles/20260808-meta-ordered-to-pay-90-billion-yen-over-sns-safety.html) — 2026-08-08 04:00: アメリカのIT大手「メタ」が運営するSNSをめぐり、子どもの安全対策が不十分で精神的な健康を害しているとして、米国の裁判所が巨額の支払い命令を下しました。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 - 3位: [Feel aura gang 🥷](https://www.youtube.com/watch?v=-mBBBylZS-M)
 
-## AI用語事典 (全807語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全817語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -57,12 +57,12 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
-- [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高度な対話型AIモデル。自然な文章生成や優れた推論能力を特徴としています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
@@ -70,15 +70,15 @@
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリの開発・製造を手掛ける日本の大手半導体企業。旧東芝メモリ。
 - [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にDRAMなどのメモリー半導体で高いシェアを持ちます。
-- [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
-- [Kimi K3とは](https://ai-tech-times.web.app/term/kimi-k3.html): 中国Moonshot AIが公開したオープンウェイトの大規模AIモデル。一部ベンチマークで最上位級の性能を示す。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

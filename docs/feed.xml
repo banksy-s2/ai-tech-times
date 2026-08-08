@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OracleがOpenJDKでAI生成コードを全面禁止へ</title>
+<link>https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>IT大手のOracleが、開発するOpenJDKにおいてAI生成コードの使用を禁止していることが明らかになりました。エリソン氏の発言とは裏腹に、なぜこのような方針をとっているのでしょうか。</description>
+</item>
+<item>
+<title>Airbnb、新AI検索のテストで機能公開を迅速化</title>
+<link>https://ai-tech-times.web.app/articles/20260808-airbnb-ai-search-function.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-airbnb-ai-search-function.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>民泊大手Airbnbが、AIを活用した新しい検索機能のテストを実施していることを明らかにしました。この新機能には切り替えスイッチが搭載されます。</description>
+</item>
+<item>
+<title>シャープ、純利益250億円に下方修正　円安とコスト増なぜ圧迫</title>
+<link>https://ai-tech-times.web.app/articles/20260808-sharp-net-income-revision.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-sharp-net-income-revision.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>シャープは7日、2027年3月期の連結純利益予想を期初から170億円下方修正し、前期比47.3％減の250億円にする方針を発表しました。円安や樹脂・燃料の価格上昇が収益を圧迫しています。</description>
+</item>
+<item>
+<title>ChatGPT無料版でGPT-5.6 Lunaが無制限に使える理由</title>
+<link>https://ai-tech-times.web.app/articles/20260808-chatgpt-default-luna-update.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-chatgpt-default-luna-update.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。無料ユーザーでも使用量無制限で利用可能になり、間違いが減るとのことです。</description>
+</item>
+<item>
+<title>SpaceXのテラファブ、テスラ製太陽光ではなく天然ガス発電に依存する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260808-spacex-terafab-natural-gas-power.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-spacex-terafab-natural-gas-power.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米SpaceXが計画している半導体製造拠点「テラファブ」の電力供給をめぐり、テスラ製の太陽光パネルではなく天然ガス発電を採用する方針であることが明らかになりました。</description>
+</item>
+<item>
+<title>アソビシステムがActiv8買収、キズナアイ運営と現実・仮想の融合へ</title>
+<link>https://ai-tech-times.web.app/articles/20260808-asobisystem-acquires-activ8.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-asobisystem-acquires-activ8.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>ASOBISYSTEMが、バーチャルタレント「キズナアイ」を擁するActiv8の買収を発表しました。現実世界と仮想世界のコラボレーション強化を目指すその狙いとは何でしょうか。</description>
+</item>
+<item>
+<title>トランプ大統領、FRBクック理事に解任検討を再び通知</title>
+<link>https://ai-tech-times.web.app/articles/20260808-trump-notifies-frb-cook-dismissal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-trump-notifies-frb-cook-dismissal.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ大統領が、金融政策を決定するFRB＝連邦準備制度理事会のクック理事に対して、解任を検討していることを再び通知したと欧米メディアが伝えました。</description>
+</item>
+<item>
+<title>サウジアラビアなど3か国が共同防衛協定に署名</title>
+<link>https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defense-pact.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defense-pact.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>サウジアラビア、トルコ、パキスタンの3か国は7日、共同防衛協定に署名しました。いずれかへの攻撃をすべてへの攻撃と見なす規定が盛り込まれました。</description>
+</item>
+<item>
+<title>ピクテ・ジャパン田中氏、日経平均は27年3月末に7万5000円</title>
+<link>https://ai-tech-times.web.app/articles/20260808-nikkei-average-forecast-2027.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-nikkei-average-forecast-2027.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>ピクテ・ジャパンの田中氏が、日経平均株価の予想について言及しました。2027年3月末時点の見通しを示しています。</description>
+</item>
+<item>
+<title>宝ＨＤ、1Q決算発表の延期を発表し後場マイナス転換</title>
+<link>https://ai-tech-times.web.app/articles/20260808-tara-hd-earnings-postponed.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-tara-hd-earnings-postponed.html</guid>
+<pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+<category>日本企業</category>
+<description>宝ＨＤは、確認を要する事実が判明したとして第1四半期決算の発表を延期しました。この発表を受け、株式市場では後場にマイナスへと転換する動きが見られました。</description>
+</item>
+<item>
 <title>西鉄福岡駅などで意図しない音声、YouTuberの音声を第三者が不正に流したか</title>
 <link>https://ai-tech-times.web.app/articles/20260808-nishitetsu-station-broadcast-incident.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260808-nishitetsu-station-broadcast-incident.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Sat, 08 Aug 2026 04:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>アメリカのIT大手「メタ」が運営するSNSをめぐり、子どもの安全対策が不十分で精神的な健康を害しているとして、米国の裁判所が巨額の支払い命令を下しました。</description>
-</item>
-<item>
-<title>トランプ政権、RWEに12億ドル支払い風力発電を中止へ</title>
-<link>https://ai-tech-times.web.app/articles/20260808-trump-admin-pay-rwe-wind-projects.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-trump-admin-pay-rwe-wind-projects.html</guid>
-<pubDate>Sat, 08 Aug 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldによると、トランプ政権はドイツのエネルギー企業RWEに対し、米国での風力発電プロジェクトを中止するため12億ドルを支払うことになりました。</description>
-</item>
-<item>
-<title>Whatnot、評価額200億ドルに到達したライブコマースの今</title>
-<link>https://ai-tech-times.web.app/articles/20260808-whatnot-live-shopping-valuation-20-billion.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-whatnot-live-shopping-valuation-20-billion.html</guid>
-<pubDate>Sat, 08 Aug 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ライブコマースプラットフォームのWhatnotが、人気拡大を背景に評価額を200億ドルへと引き上げました。成長を続ける市場の最新動向をお伝えします。</description>
-</item>
-<item>
-<title>SpaceX株、初の下落圧力か？内部保有株のロック解除で</title>
-<link>https://ai-tech-times.web.app/articles/20260808-spacex-shares-unlock-pressure.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-spacex-shares-unlock-pressure.html</guid>
-<pubDate>Sat, 08 Aug 2026 02:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>SpaceXのインサイダーが保有する株式の最初のトランシェ（部分）がロック解除を迎え、株価に下落圧力がかかる可能性が浮上しました。</description>
-</item>
-<item>
-<title>法務省、「声の無断利用」は権利侵害と見解明示</title>
-<link>https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html</guid>
-<pubDate>Sat, 08 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>法務省は、生成AIの普及に伴う声優などの声が無断利用されている問題について、声も既存の権利で法的に保護できるとの見解を明示しました。</description>
-</item>
-<item>
-<title>自宅隣にデータセンター計画、規制の隙間で住環境悪化</title>
-<link>https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html</guid>
-<pubDate>Sat, 08 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>技術の進歩に伴い都市部でデータセンターの建設が相次ぐ中、規制が追いついていない現状と近隣住民との軋轢について専門家が指摘しています。</description>
-</item>
-<item>
-<title>RedditでAIボットが宗教を創設、人間がすぐ追随した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-ai-bots-started-a-religion.html</guid>
-<pubDate>Sat, 08 Aug 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの報道によると、AIボットが始めた宗教的な運動に人間がすぐに追随したことが明らかになりました。</description>
-</item>
-<item>
-<title>東芝、最終利益4兆4000億円超えの背景</title>
-<link>https://ai-tech-times.web.app/articles/20260807-toshiba-financial-results-4-trillion-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-toshiba-financial-results-4-trillion-yen.html</guid>
-<pubDate>Fri, 07 Aug 2026 23:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>株式を非上場化して経営の立て直しを進めている東芝は、ことし4月から6月までの決算を発表しました。半導体大手企業の評価益などが影響し、最終的な利益が大幅なプラスとなっています。</description>
-</item>
-<item>
-<title>米国就業者数2万3000人減、市場予想大きく下回る</title>
-<link>https://ai-tech-times.web.app/articles/20260807-us-employment-statistics-july-decline.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-us-employment-statistics-july-decline.html</guid>
-<pubDate>Fri, 07 Aug 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカの7月の雇用統計が発表され、農業分野以外の就業者数が前月から減少に転じました。市場予想を大きく下回ったことで、景気の減速懸念が広がっています。</description>
-</item>
-<item>
-<title>台湾の頼総統、夜間避難訓練の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260807-taiwan-president-night-evacuation-drill.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-taiwan-president-night-evacuation-drill.html</guid>
-<pubDate>Fri, 07 Aug 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>台湾の頼総統が深夜に緊急避難訓練に参加しました。中国による侵攻の可能性に備える軍事演習の一環として実施されたものです。</description>
-</item>
-<item>
-<title>フロリダ州でAIデータセンター建設が1年間停止に</title>
-<link>https://ai-tech-times.web.app/articles/20260807-florida-ai-data-center-moratorium.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-florida-ai-data-center-moratorium.html</guid>
-<pubDate>Fri, 07 Aug 2026 21:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIデータセンターの急増をめぐり、フロリダ州の郡委員会が全会一致で建設のモラトリアムを承認しました。</description>
 </item>
 </channel></rss>

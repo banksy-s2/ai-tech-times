@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-08 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-08 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Airbnb、AI投資を大幅拡大へ—株価15%急騰の理由",
-   "path": "/articles/20260808-airbnb-ai-spending-earnings-surge.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Googleが警告：金融機関従業員を標的とする脅威の電話手口",
-   "path": "/articles/20260808-google-warns-hackers-targeting-financial-employees.html",
-   "cat": "シリコンバレー最速"
+   "title": "西鉄福岡駅などで意図しない音声、YouTuberの音声を第三者が不正に流したか",
+   "path": "/articles/20260808-nishitetsu-station-broadcast-incident.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 64,
+  "used": 68,
   "limit": 200
  }
 }
