@@ -41747,5 +41747,39 @@
   "date": "2026-08-09",
   "time": "05:00",
   "path": "/articles/20260809-japan-stock-market-half-year-gains.html"
+ },
+ {
+  "title": "リクルートHD、米国ARPJ成長率35％加速と通期EBITDA初の1兆円台への上方修正を発表",
+  "lead": "リクルートホールディングスは、FY2026 Q1決算説明会を開催し、米国ARPJ成長率が35％に加速したことなどを発表しました。この発表に伴い、通期EBITDAが初の1兆円台へ上方修正されています。",
+  "summary3": [
+   "米国ARPJ成長率が35％に加速",
+   "通期EBITDA初の1兆円台へ上方修正",
+   "FY2026 Q1決算説明会を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、企業が発表した最新の財務・業績情報についてお伝えします。リクルートホールディングスは、FY2026 Q1の決算説明会を実施し、その中で事業の進捗状況と業績予想の修正を明らかにしました。",
+   "発表によると、米国のARPJ成長率が35％へと加速していることが示されました。この事業成長や足元の業績動向を背景として、同社は通期のEBITDA（利払い・税引き・償却前利益）が初めて1兆円台に到達する見通しへと上方修正を行っています。",
+   "今回の決算説明会における業績予想の上方修正や各種指標の成長は、企業の今後の動向を把握する上で注目される内容となります。詳細な数値や事業ごとの進捗については、公式の決算説明資料をご確認ください。"
+  ],
+  "tags": [
+   "リクルートHD",
+   "決算説明会",
+   "上方修正"
+  ],
+  "slug": "recruit-hd-fy2026-q1-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "リクルートホールディングス",
+    "type": "company",
+    "desc": "人材マッチングや販促プラットフォームなどの事業を展開する日本の持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TRzgtR0FSWE4xcmZRbUcwbURRd19PRGJfa2RfSVB4ZThvTVRQbDZEYU5Qd01WbFJTdVlralk3UkFfbEdvN3NqdlpqS1lEWDU1bmtDUG43enFudXN6enFj?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-09",
+  "time": "06:00",
+  "path": "/articles/20260809-recruit-hd-fy2026-q1-earnings.html"
  }
 ]
