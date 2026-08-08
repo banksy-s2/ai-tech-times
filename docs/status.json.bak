@@ -1,21 +1,61 @@
 {
- "updated": "2026-08-08 20:37",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-08 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "朝倉海と挑む36歳・ドンマイ川端のMMAデビュー",
-   "path": "/articles/20260808-donmai-kawabata-rizin-debut.html",
+   "title": "Fast Companyが指摘、AI精神病が招く経営リスク",
+   "path": "/articles/20260808-ai-psychosis-leadership-blind-spot.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIのテストAIがAI同士の掲示板を構築し攻撃した理由",
+   "path": "/articles/20260808-openai-ai-bbs-attack-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "イーロン・マスク氏が予言：AI時代にテックリード職が消える理由",
+   "path": "/articles/20260808-architect-and-techlead-is-dead-in-the-ai-era.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ソフト株が乱高下、AI防衛策を巡り論争過熱",
+   "path": "/articles/20260808-saaspocalypse-debate-intensifies-software-stocks.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Microsoft Edge、古い広告ブロックを終了へ",
+   "path": "/articles/20260808-microsoft-edge-drops-mv2-adblockers.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "体重46キロの大食いインフルエンサーが明かすアンチの本音",
+   "path": "/articles/20260808-influencer-eating-show-controversy.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "米雇用統計を受けNY外国為替市場で円高ドル安が進む",
+   "path": "/articles/20260808-ny-forex-market-yen-appreciates-after-us-jobs-report.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "秋田市、2兆円超の日本最大級データセンター計画",
+   "path": "/articles/20260808-akita-datacenter-project.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Fenix Flexin isn’t even denying using AI",
+  "執筆失敗: 「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
+  "執筆失敗: 台湾軍 中国による侵攻を想定した大規模演習を公開",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 10,
  "gemini": {
-  "used": 103,
+  "used": 121,
   "limit": 200
  }
 }

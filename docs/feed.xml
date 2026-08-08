@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>熊本地震、10年前と隣り合う領域で発生か</title>
+<link>https://ai-tech-times.web.app/articles/20260809-kumamoto-earthquake-fault-analysis.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-kumamoto-earthquake-fault-analysis.html</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>7月28日に発生した最大震度7の地震について、専門家の分析結果が明らかになりました。10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動いたとみられています。</description>
+</item>
+<item>
+<title>韓国サッカー協会が外国人審判員に性的接待、一連の騒動を謝罪</title>
+<link>https://ai-tech-times.web.app/articles/20260809-korea-football-association-scandal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-korea-football-association-scandal.html</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>韓国のサッカー協会が代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが報じました。これを受けて協会は8日、組織運営への批判が高まっていることなどを含めて一連の騒動を謝罪しました。</description>
+</item>
+<item>
 <title>Fast Companyが指摘、AI精神病が招く経営リスク</title>
 <link>https://ai-tech-times.web.app/articles/20260808-ai-psychosis-leadership-blind-spot.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260808-ai-psychosis-leadership-blind-spot.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 08 Aug 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。</description>
-</item>
-<item>
-<title>Cloudflare、AI専用ブラウザ「Kitesurf」公開</title>
-<link>https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html</guid>
-<pubDate>Sat, 08 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。</description>
-</item>
-<item>
-<title>OpenAI、新型AIモデル「Astra」の開発を一時停止</title>
-<link>https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html</guid>
-<pubDate>Sat, 08 Aug 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが新開発のAIモデル「Astra」の内部活動を一時停止すると発表しました。新しいセキュリティ基準を満たしていないためとしています。</description>
 </item>
 </channel></rss>
