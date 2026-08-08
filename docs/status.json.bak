@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-08 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-08 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ大統領、新たな「出生地主義」制限の大統領令に署名",
-   "path": "/articles/20260808-trump-birthright-citizenship-order.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "サウジ・トルコ・パキスタン防衛協定、なぜ今結ばれたのか",
-   "path": "/articles/20260808-saudi-turkey-pakistan-defence-pact.html",
-   "cat": "時事・世界"
+   "title": "東証上場企業の4～6月期、最終益71%増の理由",
+   "path": "/articles/20260808-tosei-4-6-net-profit-increase.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 95,
+  "used": 98,
   "limit": 200
  }
 }

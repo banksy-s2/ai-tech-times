@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [GPIFの4〜6月期運用、過去最高の24兆円超黒字](https://ai-tech-times.web.app/articles/20260808-gpif-record-surplus-quarterly.html) — 2026-08-08 15:00: 公的年金の積立金を運用するGPIFは、ことし4月から6月までの運用実績が24兆円余りの黒字となり、四半期として過去最高になったと発表しました。
 - [東証上場企業の4～6月期、最終益71%増の理由](https://ai-tech-times.web.app/articles/20260808-tosei-4-6-net-profit-increase.html) — 2026-08-08 14:00: 東証上場企業の4～6月期決算において、最終利益が前年同期比で71%増となったことが明らかになりました。
 - [トランプ大統領、新たな「出生地主義」制限の大統領令に署名](https://ai-tech-times.web.app/articles/20260808-trump-birthright-citizenship-order.html) — 2026-08-08 13:00: アメリカのトランプ大統領は、アメリカで生まれた子どもに国籍を与える「出生地主義」について、制限を設ける新たな大統領令に署名しました。
 - [サウジ・トルコ・パキスタン防衛協定、なぜ今結ばれたのか](https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defence-pact.html) — 2026-08-08 13:00: サウジアラビア、トルコ、パキスタンの3カ国が新たに防衛協定を締結し、中東情勢に大きな影響を与えています。
@@ -41,14 +42,13 @@
 - [OpenAI、ChatGPT有料版にSol導入なぜ](https://ai-tech-times.web.app/articles/20260808-openai-chatgpt-default-model-update.html) — 2026-08-08 09:00: OpenAIは、ChatGPTのデフォルトモデルの変更を発表しました。有料版や無料版でそれぞれ新しいモデルが導入され、機能が刷新されます。
 - [Google マップの新機能「マップに相談」を日本で提供開始](https://ai-tech-times.web.app/articles/20260808-google-maps-ask-maps-japan.html) — 2026-08-08 09:00: Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。
 - [Cloudflare、AI専用ブラウザ「Kitesurf」公開](https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html) — 2026-08-08 08:00: CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。
-- [OpenAI、新型AIモデル「Astra」の開発を一時停止](https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html) — 2026-08-08 07:02: OpenAIが新開発のAIモデル「Astra」の内部活動を一時停止すると発表しました。新しいセキュリティ基準を満たしていないためとしています。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 - 3位: [Primetime | Official Trailer HD | A24](https://www.youtube.com/watch?v=5fHXyqQOKL8)
 
-## AI用語事典 (全817語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全818語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
