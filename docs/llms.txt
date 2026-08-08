@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [東証上場企業の4～6月期、最終益71%増の理由](https://ai-tech-times.web.app/articles/20260808-tosei-4-6-net-profit-increase.html) — 2026-08-08 14:00: 東証上場企業の4～6月期決算において、最終利益が前年同期比で71%増となったことが明らかになりました。
 - [トランプ大統領、新たな「出生地主義」制限の大統領令に署名](https://ai-tech-times.web.app/articles/20260808-trump-birthright-citizenship-order.html) — 2026-08-08 13:00: アメリカのトランプ大統領は、アメリカで生まれた子どもに国籍を与える「出生地主義」について、制限を設ける新たな大統領令に署名しました。
 - [サウジ・トルコ・パキスタン防衛協定、なぜ今結ばれたのか](https://ai-tech-times.web.app/articles/20260808-saudi-turkey-pakistan-defence-pact.html) — 2026-08-08 13:00: サウジアラビア、トルコ、パキスタンの3カ国が新たに防衛協定を締結し、中東情勢に大きな影響を与えています。
 - [OracleがOpenJDKでAI生成コードを全面禁止へ](https://ai-tech-times.web.app/articles/20260808-oracle-bans-ai-generated-code-from-openjdk.html) — 2026-08-08 12:03: IT大手のOracleが、開発するOpenJDKにおいてAI生成コードの使用を禁止していることが明らかになりました。エリソン氏の発言とは裏腹に、なぜこのような方針をとっているのでしょうか。
@@ -41,7 +42,6 @@
 - [Google マップの新機能「マップに相談」を日本で提供開始](https://ai-tech-times.web.app/articles/20260808-google-maps-ask-maps-japan.html) — 2026-08-08 09:00: Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。
 - [Cloudflare、AI専用ブラウザ「Kitesurf」公開](https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html) — 2026-08-08 08:00: CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。
 - [OpenAI、新型AIモデル「Astra」の開発を一時停止](https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html) — 2026-08-08 07:02: OpenAIが新開発のAIモデル「Astra」の内部活動を一時停止すると発表しました。新しいセキュリティ基準を満たしていないためとしています。
-- [Ripplingが巨額投資後にAI投資のROI追跡ツールを開発した理由](https://ai-tech-times.web.app/articles/20260808-rippling-ai-spend-console-roi.html) — 2026-08-08 07:02: 多くの企業がAI導入を進める中、Ripplingが自社の巨額なAI支出の反省から、従業員のAI利用コストを追跡する新ツールを開発しました。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
