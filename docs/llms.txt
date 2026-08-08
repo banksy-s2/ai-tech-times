@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-08 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、ChatGPT有料版にSol導入なぜ](https://ai-tech-times.web.app/articles/20260808-openai-chatgpt-default-model-update.html) — 2026-08-08 09:00: OpenAIは、ChatGPTのデフォルトモデルの変更を発表しました。有料版や無料版でそれぞれ新しいモデルが導入され、機能が刷新されます。
+- [Google マップの新機能「マップに相談」を日本で提供開始](https://ai-tech-times.web.app/articles/20260808-google-maps-ask-maps-japan.html) — 2026-08-08 09:00: Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。
 - [Cloudflare、AI専用ブラウザ「Kitesurf」公開](https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html) — 2026-08-08 08:00: CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。
 - [OpenAI、新型AIモデル「Astra」の開発を一時停止](https://ai-tech-times.web.app/articles/20260808-openai-pauses-astra-ai-model.html) — 2026-08-08 07:02: OpenAIが新開発のAIモデル「Astra」の内部活動を一時停止すると発表しました。新しいセキュリティ基準を満たしていないためとしています。
 - [Ripplingが巨額投資後にAI投資のROI追跡ツールを開発した理由](https://ai-tech-times.web.app/articles/20260808-rippling-ai-spend-console-roi.html) — 2026-08-08 07:02: 多くの企業がAI導入を進める中、Ripplingが自社の巨額なAI支出の反省から、従業員のAI利用コストを追跡する新ツールを開発しました。
@@ -40,8 +42,6 @@
 - [トランプ政権、RWEに12億ドル支払い風力発電を中止へ](https://ai-tech-times.web.app/articles/20260808-trump-admin-pay-rwe-wind-projects.html) — 2026-08-08 04:00: BBC Worldによると、トランプ政権はドイツのエネルギー企業RWEに対し、米国での風力発電プロジェクトを中止するため12億ドルを支払うことになりました。
 - [Whatnot、評価額200億ドルに到達したライブコマースの今](https://ai-tech-times.web.app/articles/20260808-whatnot-live-shopping-valuation-20-billion.html) — 2026-08-08 02:00: ライブコマースプラットフォームのWhatnotが、人気拡大を背景に評価額を200億ドルへと引き上げました。成長を続ける市場の最新動向をお伝えします。
 - [SpaceX株、初の下落圧力か？内部保有株のロック解除で](https://ai-tech-times.web.app/articles/20260808-spacex-shares-unlock-pressure.html) — 2026-08-08 02:00: SpaceXのインサイダーが保有する株式の最初のトランシェ（部分）がロック解除を迎え、株価に下落圧力がかかる可能性が浮上しました。
-- [法務省、「声の無断利用」は権利侵害と見解明示](https://ai-tech-times.web.app/articles/20260808-ministry-of-justice-voice-ai-infringement.html) — 2026-08-08 01:00: 法務省は、生成AIの普及に伴う声優などの声が無断利用されている問題について、声も既存の権利で法的に保護できるとの見解を明示しました。
-- [自宅隣にデータセンター計画、規制の隙間で住環境悪化](https://ai-tech-times.web.app/articles/20260808-data-center-regulation-gap.html) — 2026-08-08 01:00: 技術の進歩に伴い都市部でデータセンターの建設が相次ぐ中、規制が追いついていない現状と近隣住民との軋轢について専門家が指摘しています。
 
 ## 世界のバズ動画TOP3 (2026-08-08)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
@@ -62,16 +62,16 @@
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高度な対話型AIモデル。自然な文章生成や優れた推論能力を特徴としています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
-- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
+- [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業で、スタートアップや新製品の情報などを専門に報じる。
+- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
-- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した、テキストや画像などのマルチモーダル処理に対応する大規模言語モデルおよびAI製品。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリの開発・製造を手掛ける日本の大手半導体企業。旧東芝メモリ。
 - [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にDRAMなどのメモリー半導体で高いシェアを持ちます。

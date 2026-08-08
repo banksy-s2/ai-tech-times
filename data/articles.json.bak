@@ -40582,5 +40582,44 @@
   "date": "2026-08-08",
   "time": "07:02",
   "path": "/articles/20260808-sumco-fy2026-q2-results.html"
+ },
+ {
+  "title": "Cloudflare、AI専用ブラウザ「Kitesurf」公開",
+  "lead": "CloudflareがAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を発表しました。開発者がより効率的にブラウザベースのAIエージェントを構築できるよう支援します。",
+  "summary3": [
+   "CloudflareがAI専用ブラウザを発表",
+   "Chromiumより少ない電力で自動化タスクを実行",
+   "開発者が効率的なAIエージェントを構築可能"
+  ],
+  "body": [
+   "米国のネットワーク・セキュリティ企業であるCloudflareは、人間ではなくAIエージェントのために設計されたクラウドホステッドブラウザ「Kitesurf」を新たに公開しました。",
+   "このブラウザは、一般的な自動化タスクにおいて従来のChromiumよりも少ないコンピューティングパワーで動作するように設計されているのが特徴です。",
+   "開発者にとって、より効率的にブラウザベースのAIエージェントを構築するための新しい手段となります。"
+  ],
+  "tags": [
+   "Cloudflare",
+   "Kitesurf",
+   "AIエージェント"
+  ],
+  "slug": "cloudflare-launches-kitesurf-browser-for-ai-agents",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cloudflare",
+    "type": "company",
+    "desc": "アメリカに本社を置き、CDNやセキュリティサービスなどのインターネットインフラを提供する企業です。"
+   },
+   {
+    "name": "Kitesurf",
+    "type": "ai",
+    "desc": "Cloudflareが開発した、AIエージェント専用に設計されたクラウドホステッドブラウザです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+  "category": "ai",
+  "date": "2026-08-08",
+  "time": "08:00",
+  "path": "/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html"
  }
 ]

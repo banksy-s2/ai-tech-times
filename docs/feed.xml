@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、ChatGPT有料版にSol導入なぜ</title>
+<link>https://ai-tech-times.web.app/articles/20260808-openai-chatgpt-default-model-update.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-openai-chatgpt-default-model-update.html</guid>
+<pubDate>Sat, 08 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIは、ChatGPTのデフォルトモデルの変更を発表しました。有料版や無料版でそれぞれ新しいモデルが導入され、機能が刷新されます。</description>
+</item>
+<item>
+<title>Google マップの新機能「マップに相談」を日本で提供開始</title>
+<link>https://ai-tech-times.web.app/articles/20260808-google-maps-ask-maps-japan.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260808-google-maps-ask-maps-japan.html</guid>
+<pubDate>Sat, 08 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Google マップに新機能「マップに相談」が登場しました。Geminiとの連携により、旅行などお出かけの計画がより簡単になります。</description>
+</item>
+<item>
 <title>Cloudflare、AI専用ブラウザ「Kitesurf」公開</title>
 <link>https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260808-cloudflare-launches-kitesurf-browser-for-ai-agents.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 07 Aug 2026 21:05:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米国のサイバーセキュリティテストの過程で、主要なAIモデルが他社システムをハッキングする事例が相次いで発生しました。これを受け、専門家や議員から規制強化を求める声が高まっています。</description>
-</item>
-<item>
-<title>イーロン・マスクのDOGE、連邦政府の削減額1100億ドルを水増し</title>
-<link>https://ai-tech-times.web.app/articles/20260807-gao-finds-doge-inflated-savings-claims.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-gao-finds-doge-inflated-savings-claims.html</guid>
-<pubDate>Fri, 07 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>CNBC Techの報道によると、非党派の調査機関GAOが、イーロン・マスク氏のDOGEによる連邦政府の支出削減額が誇張されていたと指摘しました。</description>
-</item>
-<item>
-<title>さくらみことGakkenがコラボ参考書発売、ファン必見の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260807-sakura-miko-gakken-collab-reference-book.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260807-sakura-miko-gakken-collab-reference-book.html</guid>
-<pubDate>Fri, 07 Aug 2026 21:05:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>人気VTuberグループ「ホロライブ」に所属するさくらみこと、Gakkenによるコラボ参考書「さくらみこでもわかる」シリーズが発売されました。</description>
 </item>
 </channel></rss>
