@@ -2188,7 +2188,7 @@
    "id": "BZ4UzthYTss",
    "title": "Stray Kids \"This & That\" M/V",
    "channel": "JYP Entertainment",
-   "views": 24813582,
+   "views": 25183689,
    "url": "https://www.youtube.com/watch?v=BZ4UzthYTss",
    "thumb": "https://i.ytimg.com/vi/BZ4UzthYTss/hqdefault.jpg",
    "regions": [
@@ -2204,7 +2204,7 @@
    "id": "G5hWlD5zfhw",
    "title": "Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
    "channel": "KVN PRODUCTIONS",
-   "views": 16637575,
+   "views": 17393797,
    "url": "https://www.youtube.com/watch?v=G5hWlD5zfhw",
    "thumb": "https://i.ytimg.com/vi/G5hWlD5zfhw/hqdefault.jpg",
    "regions": [
@@ -2219,7 +2219,7 @@
    "id": "MLmJY7SeISw",
    "title": "MINECRAFT HARDCORE ALL BOSSES DAY 2 🍄🔨🧟‍♂️ft. KaiCenat (Part 2)",
    "channel": "IShowSpeed",
-   "views": 6332391,
+   "views": 6387418,
    "url": "https://www.youtube.com/watch?v=MLmJY7SeISw",
    "thumb": "https://i.ytimg.com/vi/MLmJY7SeISw/hqdefault.jpg",
    "regions": [
@@ -2233,7 +2233,7 @@
    "id": "_hoA-2ZyUhs",
    "title": "KAI X SPEED MINECRAFT MARATHON BEATING ALL BOSSES *HARDCORE* DAY 2 PART 1",
    "channel": "Kai Cenat Live",
-   "views": 2232281,
+   "views": 2243430,
    "url": "https://www.youtube.com/watch?v=_hoA-2ZyUhs",
    "thumb": "https://i.ytimg.com/vi/_hoA-2ZyUhs/hqdefault.jpg",
    "regions": [
@@ -2247,7 +2247,7 @@
    "id": "i7jVfG-wB78",
    "title": "Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)",
    "channel": "Euphoric Brothers",
-   "views": 1757164,
+   "views": 1769175,
    "url": "https://www.youtube.com/watch?v=i7jVfG-wB78",
    "thumb": "https://i.ytimg.com/vi/i7jVfG-wB78/hqdefault.jpg",
    "regions": [
@@ -2261,7 +2261,7 @@
    "id": "anhQ3fC1_hY",
    "title": "The Verity Band - Be My Friend (official song)",
    "channel": "Horror Skunx",
-   "views": 1628330,
+   "views": 1661516,
    "url": "https://www.youtube.com/watch?v=anhQ3fC1_hY",
    "thumb": "https://i.ytimg.com/vi/anhQ3fC1_hY/hqdefault.jpg",
    "regions": [
@@ -2275,7 +2275,7 @@
    "id": "XckReAEvYvE",
    "title": "D.Mon | New Hero Gameplay Trailer | Overwatch",
    "channel": "PlayOverwatch",
-   "views": 1355000,
+   "views": 1359424,
    "url": "https://www.youtube.com/watch?v=XckReAEvYvE",
    "thumb": "https://i.ytimg.com/vi/XckReAEvYvE/hqdefault.jpg",
    "regions": [
@@ -2289,7 +2289,7 @@
    "id": "IAGaOmXLLHI",
    "title": "Toxic Trailer REVIEW | Deeksha Sharma",
    "channel": "Filmi Indian",
-   "views": 766227,
+   "views": 787720,
    "url": "https://www.youtube.com/watch?v=IAGaOmXLLHI",
    "thumb": "https://i.ytimg.com/vi/IAGaOmXLLHI/hqdefault.jpg",
    "regions": [
@@ -2300,24 +2300,10 @@
   },
   {
    "rank": 9,
-   "id": "VnTRgEfCzUk",
-   "title": "OpTic GAMING vs FAZE!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 4",
-   "channel": "Scump",
-   "views": 637456,
-   "url": "https://www.youtube.com/watch?v=VnTRgEfCzUk",
-   "thumb": "https://i.ytimg.com/vi/VnTRgEfCzUk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "スカンプによるeスポーツワールドカップのウォッチパーティ配信のようです。"
-  },
-  {
-   "rank": 10,
    "id": "zjaUMZL17OY",
    "title": "I Played 100% of Green Hell",
    "channel": "Floydson",
-   "views": 616123,
+   "views": 655536,
    "url": "https://www.youtube.com/watch?v=zjaUMZL17OY",
    "thumb": "https://i.ytimg.com/vi/zjaUMZL17OY/hqdefault.jpg",
    "regions": [
@@ -2325,6 +2311,20 @@
     "GB"
    ],
    "comment": "過酷なサバイバルゲームを100%やり込んだ様子。"
+  },
+  {
+   "rank": 10,
+   "id": "VnTRgEfCzUk",
+   "title": "OpTic GAMING vs FAZE!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 4",
+   "channel": "Scump",
+   "views": 639239,
+   "url": "https://www.youtube.com/watch?v=VnTRgEfCzUk",
+   "thumb": "https://i.ytimg.com/vi/VnTRgEfCzUk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "スカンプによるeスポーツワールドカップのウォッチパーティ配信のようです。"
   }
  ]
 }
