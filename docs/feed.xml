@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのClaude Code、自動モードが標準に</title>
+<link>https://ai-tech-times.web.app/articles/20260810-anthropic-claude-code-auto-mode.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-anthropic-claude-code-auto-mode.html</guid>
+<pubDate>Mon, 10 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Anthropicが提供するプログラミング支援ツール「Claude Code」において、自動モードがデフォルトで有効化されることが明らかになりました。</description>
+</item>
+<item>
 <title>シチュエーショナル・アウェアネス、チップ新興企業に4億ドル投資の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260810-situational-awareness-invests-400m-in-source-foundry.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260810-situational-awareness-invests-400m-in-source-foundry.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 19:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。</description>
-</item>
-<item>
-<title>DeepMindのAI、低解像度でも正確なハリケーン予測を実現できた理由</title>
-<link>https://ai-tech-times.web.app/articles/20260809-deepminds-hurricane-breakthrough.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-deepminds-hurricane-breakthrough.html</guid>
-<pubDate>Sun, 09 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Google傘下のAI研究所DeepMindが開発したオープンソースの天候予測モデル「WeatherNext」が、気象科学者たちを驚かせています。</description>
 </item>
 </channel></rss>

@@ -1277,11 +1277,10 @@
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk82Y29saklxVGYwblJsRHFwZXJ1SExyeVg3ZGFKa2RVSXdpbFAyMENWQkZYOE5PSVU4cjA4d3lFVFJ2aEFwX3VkekYzcGxVbjNySHNqV3JHTjQ4YTB4cXNKQUtNWk9TYWRfX2FsWm5vZzlsOW9laGJzQjY0LUd1YXJpc0RTaTNCRm1lbEVB?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260809de43024",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pREotMmNtdWw0NWxhVWx6aktEdXh1c0lnT25Zekw1NWxQT3E1S05fLVAwa3JPQ0dtY1dITXlJbFhlTDdoeEdOX0RoZTR4YWtTLWY0?oc=5",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02S0dreUpHTEwwQk1iLTZBYUpGTzkwMmplMVEtSXRfMkc5UldEZ2U3Vmh3TnpSUVNQTmZNVlJ2aGU5TDNicUEtb0JsdEV4OTZtOHc?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02S0dreUpHTEwwQk1iLTZBYUpGTzkwMmplMVEtSXRfMkc5UldEZ2U3Vmh3TnpSUVNQTmZNVlJ2aGU5TDNicUEtb0JsdEV4OTZtOHc?oc=5",
+  "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
  ],
  "titles": [
-  "野村アセット・石黒英之氏が語る、2040年の日経平均が24万円になる根拠",
-  "日立、純利益8000億円で最高益。時価総額22兆円へ変身できた理由",
   "SkyDrive、タイで空飛ぶクルマの事業化へ",
   "カイアDLT財団とfinojectが業務提携、日本で事業推進",
   "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
@@ -3279,6 +3278,8 @@
   "ホロライブEN所属VTuber、『メイドインアビス』新作劇場版の主題歌に起用なぜ？",
   "イスラエル首相 ネタニヤフ氏が和平工程表を拒否",
   "コマツ慎重見通し裏切る上方修正、株価一段高の背景",
-  "上場企業サラリーマン、母が株500万円分購入で顔面蒼白"
+  "上場企業サラリーマン、母が株500万円分購入で顔面蒼白",
+  "Anthropic is turning Claude Code’s auto mode on by default",
+  "AnthropicのClaude Code、自動モードが標準に"
  ]
 }
