@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-09 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-09 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "ANAPとサイバーステップ、41億円資金還流M＆Aの実態",
-   "path": "/articles/20260809-anap-cyberstep-funds-flow-m-and-a.html",
-   "cat": "株式投資(日本)"
+   "title": "車・電機、大幅増益…中東情勢リスクの行方",
+   "path": "/articles/20260809-earnings-car-electronics-middle-east.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 108,
+ "pv_today": 125,
  "gemini": {
-  "used": 79,
+  "used": 82,
   "limit": 200
  }
 }
