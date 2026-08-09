@@ -1257,13 +1257,11 @@
   "https://www.asahi.com/articles/ASV841F49V84ULLI007M.html",
   "https://news.web.nhk/newsweb/na/nd-20260809de42888",
   "https://news.web.nhk/newsweb/na/nd-20260809de42889",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNV9XY2Vya2ktLUg1MmFoVW9yMk5mZjI4ZkNXeWtuSnA2MlBwbmt2SUluMF92OVYzcTI3ZUw3WWFPbDExRGlvVnlBQjZvTWQ5Q1E?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNV9XY2Vya2ktLUg1MmFoVW9yMk5mZjI4ZkNXeWtuSnA2MlBwbmt2SUluMF92OVYzcTI3ZUw3WWFPbDExRGlvVnlBQjZvTWQ5Q1E?oc=5",
+  "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
-  "米当局が摘発強化、見せかけAI投資で訴訟急増なぜ",
-  "ITmedia AI+：「AI疲れ」の正体と対策",
-  "Nvidia、SKハイニックスからメモリ確保へ",
-  "YouTuber闇のクマさん、猫組長氏らを提訴なぜ",
   "5日連続40度超えの酷暑日、熱中症対策はなぜ必要か",
   "中国の王毅外相「日本の再武装を許さない」",
   "アドバンテストなど2銘柄で約784円押し下げ、日経平均は大幅反落",
@@ -3259,6 +3257,10 @@
   "推し活で借金150万円、優越感を買い続けた男の結末",
   "トランプ大統領指名のブランチ氏、新司法長官に就任決定",
   "ゼレンスキー大統領セルビア初訪問のねらい",
-  "楽天グループや東京海上など今週の決算発表予定企業"
+  "楽天グループや東京海上など今週の決算発表予定企業",
+  "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+  "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+  "イスラエル・ネタニヤフ首相、ガザ撤退を拒否した理由",
+  "オマーンが明かすホルムズ協議の進展、合意で貿易はどう変わるか"
  ]
 }
