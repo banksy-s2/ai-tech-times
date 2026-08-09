@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-09 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-09 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "SNSで広がる「原爆はデマ」、生成AI動画の実態",
-   "path": "/articles/20260809-atomic-bomb-fake-news-ai-video.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AIを全員に配った組織で生産性が落ちる理由",
-   "path": "/articles/20260809-ai-organization-flow.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、2027年末に10GW構築で年3000億ドル規模へ",
+   "path": "/articles/20260809-spacex-10gw-compute-capacity-2027.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
- "pv_today": 92,
+ "notes": [
+  "執筆失敗: Hugging Face hack marks start of dangero"
+ ],
+ "pv_today": 95,
  "gemini": {
-  "used": 41,
+  "used": 45,
   "limit": 200
  }
 }

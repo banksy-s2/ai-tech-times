@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-09 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-09 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Fenix Flexin、AI楽曲使用を認めた理由",
-   "path": "/articles/20260809-fenix-flexin-rubberz-ai-song.html",
-   "cat": "AI(海外)"
+   "title": "SNSで広がる「原爆はデマ」、生成AI動画の実態",
+   "path": "/articles/20260809-atomic-bomb-fake-news-ai-video.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "ジル・レポール氏が暴くシリコンバレーのSF読解力",
-   "path": "/articles/20260809-jill-lepore-artificial-state-silicon-valley.html",
-   "cat": "AI(海外)"
+   "title": "AIを全員に配った組織で生産性が落ちる理由",
+   "path": "/articles/20260809-ai-organization-flow.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 87,
+ "pv_today": 92,
  "gemini": {
-  "used": 38,
+  "used": 41,
   "limit": 200
  }
 }
