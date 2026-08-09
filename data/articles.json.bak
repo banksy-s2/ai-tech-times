@@ -43040,5 +43040,44 @@
   "date": "2026-08-09",
   "time": "17:03",
   "path": "/articles/20260809-japan-stock-earnings-outlook.html"
+ },
+ {
+  "title": "AnthropicのClaude Code、権限確認の自動化がデフォルトに",
+  "lead": "Anthropicは、AIコーディングツール「Claude Code」において、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表しました。",
+  "summary3": [
+   "Claude Codeがauto modeへ",
+   "8月14日からデフォルト化を適用",
+   "分類器が危険なコマンドを自動ブロック"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米国のAI開発企業であるAnthropicは、AIコーディングツール「Claude Code」において、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表しました。適用は8月14日からとなります。",
+   "これまでの仕組みでは、コマンド実行時の確認作業が形骸化してしまう懸念がありましたが、今後は分類器が危険なコマンドを自動でブロックする仕組みへと移行します。実験では、人間の拒否率を大きく上回る検出精度が示されており、作業効率の向上も確認されています。",
+   "今回のデフォルト化により、開発現場における安全性と効率性の両立がさらに進むことが期待されます。"
+  ],
+  "tags": [
+   "Claude Code",
+   "Anthropic",
+   "AI開発"
+  ],
+  "slug": "claude-code-auto-mode-default",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国のAI開発企業であり、安全性に配慮した大規模言語モデルなどの開発を手がけています。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが提供するAIコーディングツールであり、開発作業の効率化を支援します。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+  "category": "ai_jp",
+  "date": "2026-08-09",
+  "time": "18:00",
+  "path": "/articles/20260809-claude-code-auto-mode-default.html"
  }
 ]

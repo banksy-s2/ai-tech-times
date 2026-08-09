@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、Astraの開発を遅らせた理由とは</title>
+<link>https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html</guid>
+<pubDate>Sun, 09 Aug 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。</description>
+</item>
+<item>
+<title>DeepMindのAI、低解像度でも正確なハリケーン予測を実現できた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260809-deepminds-hurricane-breakthrough.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-deepminds-hurricane-breakthrough.html</guid>
+<pubDate>Sun, 09 Aug 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Google傘下のAI研究所DeepMindが開発したオープンソースの天候予測モデル「WeatherNext」が、気象科学者たちを驚かせています。</description>
+</item>
+<item>
 <title>AnthropicのClaude Code、権限確認の自動化がデフォルトに</title>
 <link>https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>歴史学者のジル・レポール氏が、テック企業が新政府の形成かのような大言壮語を用いて自社製品を説明する理論について語りました。</description>
-</item>
-<item>
-<title>Claudeが提案したオフィスでの紛失スマホ探し</title>
-<link>https://ai-tech-times.web.app/articles/20260809-claude-suggests-tracking-bluetooth-signal-strength.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-claude-suggests-tracking-bluetooth-signal-strength.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>オフィス内でスマートフォンを紛失した際、対話型AI「Claude」の提案を活用して発見に至った事例が話題を集めています。</description>
-</item>
-<item>
-<title>Gentooバグzilla閉鎖、AIボットの過負荷でなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260809-gentoo-bugzilla-closed-ai-bot-scraper.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-gentoo-bugzilla-closed-ai-bot-scraper.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Gentooのバグ追跡システムが、AIボットスクレイパーによる過負荷のために閉鎖される事態となりました。開発やサポートへの影響が懸念されています。</description>
 </item>
 </channel></rss>

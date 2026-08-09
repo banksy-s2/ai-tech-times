@@ -1247,13 +1247,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260809de42950",
   "https://news.web.nhk/newsweb/na/nd-20260809de42962",
   "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJWVNtSlVMX0RpeXBzaGpqcjZMd3Z5cEd2SFhvVDBCNVFBdk9GVFFJMXVFWXU2VHVsclNQWXFvdTV3QWZnWkI4?oc=5",
-  "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/"
+  "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+  "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+  "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
  ],
  "titles": [
-  "日本コムシンク、空飛ぶクルマのデジタル基盤へ",
-  "JPYC、AZ-COM丸和HDと資本業務提携を発表",
-  "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-  "Midjourney acquired the astrology app Co-Star",
   "MoonshotのKimiが米ウォール街を動揺させた理由",
   "Midjourneyがホロスコープアプリ「Co-Star」を買収した理由",
   "You can’t ignore Google Zero anymore",
@@ -3249,6 +3247,10 @@
   "中国の7月消費者物価指数0.5%上昇、デフレ懸念続く家計への影響は",
   "主力企業の決算発表が一巡、今後の選別物色の行方",
   "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに　8月14日から",
-  "AnthropicのClaude Code、権限確認の自動化がデフォルトに"
+  "AnthropicのClaude Code、権限確認の自動化がデフォルトに",
+  "OpenAI says it slowed Astra model development over security concerns",
+  "DeepMind’s hurricane breakthrough has surprised weather scientists",
+  "OpenAI、Astraの開発を遅らせた理由とは",
+  "DeepMindのAI、低解像度でも正確なハリケーン予測を実現できた理由"
  ]
 }

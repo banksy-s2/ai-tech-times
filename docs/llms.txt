@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、Astraの開発を遅らせた理由とは](https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html) — 2026-08-09 19:00: 米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。
+- [DeepMindのAI、低解像度でも正確なハリケーン予測を実現できた理由](https://ai-tech-times.web.app/articles/20260809-deepminds-hurricane-breakthrough.html) — 2026-08-09 19:00: Google傘下のAI研究所DeepMindが開発したオープンソースの天候予測モデル「WeatherNext」が、気象科学者たちを驚かせています。
 - [AnthropicのClaude Code、権限確認の自動化がデフォルトに](https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html) — 2026-08-09 18:00: Anthropicは、AIコーディングツール「Claude Code」において、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表しました。
 - [大手6社トップに聞く国内コンサル縮小の危機](https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html) — 2026-08-09 17:03: 生成AIによる業務代替や市場縮小論が浮上する中、コンサルティング業界の今と将来について日本経済新聞が報じました。
 - [クラスター、法人問い合わせをAIで一次振り分け](https://ai-tech-times.web.app/articles/20260809-cluster-ai-inquiry-routing.html) — 2026-08-09 17:03: クラスター株式会社のソフトウェアエンジニアが、AIを活用して社内業務を効率化する取り組みについて紹介しています。
@@ -40,8 +42,6 @@
 - [Hugging Faceでハッキング、危険なAIサイバー時代の幕開けと企業の危機](https://ai-tech-times.web.app/articles/20260809-hugging-face-hack-cybersecurity.html) — 2026-08-09 12:02: ラスベガスで開催されたBlack Hatサイバーセキュリティ会議において、AIハッキングの増加が指摘されました。Anthropic、Meta、OpenAIなどのAIエージェントに関するハッキングが相次ぎ、多くの企業がリスクを知らないままとなっています。
 - [Framework、全顧客にデータ流出通知なぜ](https://ai-tech-times.web.app/articles/20260809-framework-data-breach-notification.html) — 2026-08-09 12:02: パソコンメーカーのFrameworkが、全ての顧客に対してデータ流出が発生したことを通知しました。ハッカーがアクセスした情報とは何でしょうか。
 - [外国人YouTuber「2swag」長崎・池島の民家無断侵入動画を公開](https://ai-tech-times.web.app/articles/20260809-2swag-ikeshima-trespassing.html) — 2026-08-09 12:02: 外国人YouTuber「2swag」が、長崎県の池島にある民家に無断で侵入した様子を収めた動画を公開し、x.com上で話題となっています。今回はこの事案に関する情報をお伝えします。
-- [ゼレンスキー大統領、北朝鮮の3万〜5万人ロシア派兵を指摘](https://ai-tech-times.web.app/articles/20260809-zelenskyy-north-korea-russia-deployment.html) — 2026-08-09 12:02: ウクライナのゼレンスキー大統領は、北朝鮮がロシアへ数万人の兵士を派兵することを決めたという見方を示しました。
-- [関西電力大飯原発3号機が自動停止、外部への影響なし](https://ai-tech-times.web.app/articles/20260809-oima-nuclear-plant-auto-stop.html) — 2026-08-09 12:02: 福井県にある関西電力の大飯原子力発電所3号機で8日夜、発電設備のトラブルにより原子炉の運転が自動停止しました。
 
 ## 世界のバズ動画TOP3 (2026-08-09)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
