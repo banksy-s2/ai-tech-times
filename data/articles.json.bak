@@ -43079,5 +43079,73 @@
   "date": "2026-08-09",
   "time": "18:00",
   "path": "/articles/20260809-claude-code-auto-mode-default.html"
+ },
+ {
+  "title": "OpenAI、Astraの開発を遅らせた理由とは",
+  "lead": "米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。",
+  "summary3": [
+   "OpenAIがAstraの開発を遅らせた",
+   "サイバーセキュリティの閾値に到達",
+   "攻撃を単独で行う能力が判明した"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米国の人工知能企業であるOpenAIは、現在も開発を進めている「Astra」モデルについて、その開発ペースを意図的に遅らせたと発表しました。背景にはセキュリティ上の深刻な懸念があったとしています。",
+   "発表の中で同社は、Astraモデルが「重大なサイバーセキュリティの閾値」に到達したと説明しました。これは、従来であれば厳重に保護されている実世界のシステムに対して、同モデルが自立的にサイバー攻撃を識別し、実行する能力を備えてしまったことを意味しています。",
+   "高度なAI技術が持つリスクが現実のものとなる中、安全性を最優先する企業の姿勢が改めて浮き彫りになりました。開発の遅延が今後のスケジュールや製品展開にどのような影響を与えるのか、業界内外から高い関心が寄せられています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Astra",
+   "サイバーセキュリティ"
+  ],
+  "slug": "openai-slows-astra-model-development",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発する、アメリカの人工知能研究企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "19:00",
+  "path": "/articles/20260809-openai-slows-astra-model-development.html"
+ },
+ {
+  "title": "DeepMindのAI、低解像度でも正確なハリケーン予測を実現できた理由",
+  "lead": "Google傘下のAI研究所DeepMindが開発したオープンソースの天候予測モデル「WeatherNext」が、気象科学者たちを驚かせています。",
+  "summary3": [
+   "DeepMindが新モデルを公開",
+   "低解像度データで正確な予測",
+   "気象科学者に大きな驚きを与える"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、Google傘下のAI研究所であるDeepMindが開発したオープンソースの天候予測モデル「WeatherNext」が、気象科学者たちの間で大きな話題となっています。",
+   "従来の気象予測では高解像度のデータが不可欠とされていましたが、WeatherNextはより低解像度の気象データを使用しながらも、正確な予測を行う能力を備えていることが明らかになりました。",
+   "この成果は、今後の気象予測の精度向上や効率化に大きく貢献する可能性を秘めており、専門家からも高い関心を集めています。オープンソースとして公開されているため、今後のさらなる活用や発展が期待されます。"
+  ],
+  "tags": [
+   "DeepMind",
+   "AI",
+   "気象予測"
+  ],
+  "slug": "deepminds-hurricane-breakthrough",
+  "people": [],
+  "terms": [
+   {
+    "name": "DeepMind",
+    "type": "company",
+    "desc": "イギリス・ロンドンを拠点とする、Google傘下の世界的な人工知能開発企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "19:00",
+  "path": "/articles/20260809-deepminds-hurricane-breakthrough.html"
  }
 ]
