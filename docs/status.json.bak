@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-09 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-09 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "長野・安曇野で土石流が発生、約390人が取り残されたか",
-   "path": "/articles/20260809-azumino-debris-flow-nagano.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "コロンビア新政権に10億ドル提示、新大統領の宣誓初日に",
-   "path": "/articles/20260809-colombia-us-1bn-offer-new-president.html",
-   "cat": "時事・世界"
+   "title": "ANAPとサイバーステップ、41億円資金還流M＆Aの実態",
+   "path": "/articles/20260809-anap-cyberstep-funds-flow-m-and-a.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 107,
+ "pv_today": 108,
  "gemini": {
-  "used": 75,
+  "used": 79,
   "limit": 200
  }
 }
