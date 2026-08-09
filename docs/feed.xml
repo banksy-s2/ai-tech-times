@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのClaude Code、権限確認の自動化がデフォルトに</title>
+<link>https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html</guid>
+<pubDate>Sun, 09 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Anthropicは、AIコーディングツール「Claude Code」において、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表しました。</description>
+</item>
+<item>
 <title>大手6社トップに聞く国内コンサル縮小の危機</title>
 <link>https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Gentooのバグ追跡システムが、AIボットスクレイパーによる過負荷のために閉鎖される事態となりました。開発やサポートへの影響が懸念されています。</description>
-</item>
-<item>
-<title>オープンAI、新型AIアストラ開発中断のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260809-openai-astora-development-paused.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-openai-astora-development-paused.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>アメリカのオープンAIは、AIモデル「アストラ」の開発一時中断を発表しました。AI自身がサイバー攻撃を実行するおそれが理由とされています。</description>
 </item>
 </channel></rss>

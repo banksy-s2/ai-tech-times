@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 17:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AnthropicのClaude Code、権限確認の自動化がデフォルトに](https://ai-tech-times.web.app/articles/20260809-claude-code-auto-mode-default.html) — 2026-08-09 18:00: Anthropicは、AIコーディングツール「Claude Code」において、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表しました。
 - [大手6社トップに聞く国内コンサル縮小の危機](https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html) — 2026-08-09 17:03: 生成AIによる業務代替や市場縮小論が浮上する中、コンサルティング業界の今と将来について日本経済新聞が報じました。
 - [クラスター、法人問い合わせをAIで一次振り分け](https://ai-tech-times.web.app/articles/20260809-cluster-ai-inquiry-routing.html) — 2026-08-09 17:03: クラスター株式会社のソフトウェアエンジニアが、AIを活用して社内業務を効率化する取り組みについて紹介しています。
 - [X、収益化プログラムを終了し新報酬制度へ移行](https://ai-tech-times.web.app/articles/20260809-x-replaces-revenue-sharing-program.html) — 2026-08-09 17:03: SNSプラットフォームのXが、既存の収益分配プログラムを終了し、新たな報酬制度を導入することが明らかになりました。
@@ -41,7 +42,6 @@
 - [外国人YouTuber「2swag」長崎・池島の民家無断侵入動画を公開](https://ai-tech-times.web.app/articles/20260809-2swag-ikeshima-trespassing.html) — 2026-08-09 12:02: 外国人YouTuber「2swag」が、長崎県の池島にある民家に無断で侵入した様子を収めた動画を公開し、x.com上で話題となっています。今回はこの事案に関する情報をお伝えします。
 - [ゼレンスキー大統領、北朝鮮の3万〜5万人ロシア派兵を指摘](https://ai-tech-times.web.app/articles/20260809-zelenskyy-north-korea-russia-deployment.html) — 2026-08-09 12:02: ウクライナのゼレンスキー大統領は、北朝鮮がロシアへ数万人の兵士を派兵することを決めたという見方を示しました。
 - [関西電力大飯原発3号機が自動停止、外部への影響なし](https://ai-tech-times.web.app/articles/20260809-oima-nuclear-plant-auto-stop.html) — 2026-08-09 12:02: 福井県にある関西電力の大飯原子力発電所3号機で8日夜、発電設備のトラブルにより原子炉の運転が自動停止しました。
-- [坂口孝則氏が解説、痩せ薬の流行が食品・酒類株に与えた影響](https://ai-tech-times.web.app/articles/20260809-diet-drug-impact-on-stocks.html) — 2026-08-09 12:02: 痩せ薬の流行が食品・酒類の株価を暴落させたと、専門家の坂口孝則氏が解説しています。市場への影響について事実をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-08-09)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
@@ -71,6 +71,7 @@
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
@@ -78,7 +79,6 @@
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリの開発・製造を手掛ける日本の大手半導体企業。旧東芝メモリ。
 - [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にDRAMなどのメモリー半導体で高いシェアを持ちます。
 - [BigGo ファイナンスとは](https://ai-tech-times.web.app/term/BigGo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9.html): 経済や金融に関する情報をはじめ、各種決算や市場の動向などを配信している情報メディア。
-- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

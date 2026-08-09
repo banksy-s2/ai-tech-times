@@ -1,46 +1,11 @@
 {
- "updated": "2026-08-09 17:03",
- "mode": "フル便",
+ "updated": "2026-08-09 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "大手6社トップに聞く国内コンサル縮小の危機",
-   "path": "/articles/20260809-consulting-market-shrinkage-ai.html",
+   "title": "AnthropicのClaude Code、権限確認の自動化がデフォルトに",
+   "path": "/articles/20260809-claude-code-auto-mode-default.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "クラスター、法人問い合わせをAIで一次振り分け",
-   "path": "/articles/20260809-cluster-ai-inquiry-routing.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "X、収益化プログラムを終了し新報酬制度へ移行",
-   "path": "/articles/20260809-x-replaces-revenue-sharing-program.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Myspace再起へ、SNS疲れの救世主になれるか",
-   "path": "/articles/20260809-myspace-eying-comeback-social-media-fatigue.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "インスタDMで100万円超の被害、YouTuberが語る巧妙な案件詐欺の手口とは",
-   "path": "/articles/20260809-youtuber-instagram-dm-fraud.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "熊本県で災害関連死の疑い含め39人死亡、避難所には6332人避難",
-   "path": "/articles/20260809-kumamoto-earthquake-update.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中国の7月消費者物価指数0.5%上昇、デフレ懸念続く家計への影響は",
-   "path": "/articles/20260809-china-cpi-july-deflation-concerns.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "主力企業の決算発表が一巡、今後の選別物色の行方",
-   "path": "/articles/20260809-japan-stock-earnings-outlook.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -48,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [
-  "執筆失敗: 「日経平均4〜5万円台」に逆戻りの可能性も･･･テンバガー投資家が警戒する“高市",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: ＜8/24新刊＞『AIリスク教本　改訂新版』"
  ],
  "pv_today": 127,
  "gemini": {
-  "used": 99,
+  "used": 102,
   "limit": 200
  }
 }

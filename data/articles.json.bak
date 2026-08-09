@@ -42780,5 +42780,265 @@
   "date": "2026-08-09",
   "time": "15:00",
   "path": "/articles/20260809-earnings-car-electronics-middle-east.html"
+ },
+ {
+  "title": "大手6社トップに聞く国内コンサル縮小の危機",
+  "lead": "生成AIによる業務代替や市場縮小論が浮上する中、コンサルティング業界の今と将来について日本経済新聞が報じました。",
+  "summary3": [
+   "国内大手の人員が10万人超えへ",
+   "大手6社のうち半数が市場縮小を予測",
+   "生成AIの業務代替に4社が危機感"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。生成AI（人工知能）による業務代替や市場縮小をめぐり、コンサルティング業界の動向が注目を集めています。現在、コンサルティング業界は膨張を続けており、国内大手の人員は2026年度中にも10万人を超える見通しとなっています。",
+   "このような急速な拡大の一方で、「市場はバブルか」という疑問の声も上がっています。日本経済新聞が大手6社のトップに取材を実施したところ、市場がバブルであると認めたのは3社、将来的な市場縮小を予測したのは2社という結果が出ました。",
+   "さらに、生成AIによる業務代替に対しては4社のトップが危機感を示しており、「コンサルタント数は過剰」との指摘も出ています。AI関連システムの導入支援などの旺盛な需要を受ける一方で、業界内では今後の先行きに対する警戒感が強まっています。"
+  ],
+  "tags": [
+   "コンサルティング",
+   "生成AI",
+   "ビジネス"
+  ],
+  "slug": "consulting-market-shrinkage-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する経済を中心とした日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
+  "category": "ai_jp",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-consulting-market-shrinkage-ai.html"
+ },
+ {
+  "title": "クラスター、法人問い合わせをAIで一次振り分け",
+  "lead": "クラスター株式会社のソフトウェアエンジニアが、AIを活用して社内業務を効率化する取り組みについて紹介しています。",
+  "summary3": [
+   "クラスターが社内業務を効率化",
+   "法人問い合わせをAIで一次振り分け",
+   "業務フローのヒアリングから改善"
+  ],
+  "body": [
+   "クラスター株式会社のソフトウェアエンジニアであるid:shiba_uu36氏は、最近プロダクト開発とともに、AIを活用した社内業務の効率化に取り組んでいます。",
+   "同社には、法人のお客様からの問い合わせが日々届いており、社内の業務フローをヒアリングしたところ、AIで改善できそうなポイントが見つかりました。",
+   "その結果、法人問い合わせの一次振り分けをAIに任せる仕組みを取り入れ、社内業務の効率化を進めています。"
+  ],
+  "tags": [
+   "AI",
+   "業務効率化",
+   "クラスター"
+  ],
+  "slug": "cluster-ai-inquiry-routing",
+  "people": [],
+  "terms": [
+   {
+    "name": "クラスター株式会社",
+    "type": "company",
+    "desc": "メタバースプラットフォーム「cluster」を運営する日本の企業。バーチャル空間の開発などを行う。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://tech-blog.cluster.mu/entry/2026/08/07",
+  "category": "ai_jp",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-cluster-ai-inquiry-routing.html"
+ },
+ {
+  "title": "X、収益化プログラムを終了し新報酬制度へ移行",
+  "lead": "SNSプラットフォームのXが、既存の収益分配プログラムを終了し、新たな報酬制度を導入することが明らかになりました。",
+  "summary3": [
+   "Xが既存の収益分配制度を終了",
+   "新しい報酬制度へと移行を実施",
+   "仕組みの変更により報酬が変わる"
+  ],
+  "body": [
+   "海外メディアのTechCrunchは2026年8月8日、Xが「不適合」と判断した既存の収益分配プログラムを段階的に終了させていると報じました。",
+   "同プラットフォームでは現在、これまでの収益プログラムに代わる新たな仕組みとして、オリジナルコンテンツを対象とした報酬制度が展開されています。",
+   "今回の変更により、クリエイターへの報酬がどのように支払われるのか、新たな制度の詳細や今後の運用方針に関心が集まっています。"
+  ],
+  "tags": [
+   "X",
+   "SNS",
+   "テクノロジー"
+  ],
+  "slug": "x-replaces-revenue-sharing-program",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー分野のニュースおよびメディア企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-x-replaces-revenue-sharing-program.html"
+ },
+ {
+  "title": "Myspace再起へ、SNS疲れの救世主になれるか",
+  "lead": "かつて一世を風靡したMyspaceが、現代のSNS疲れに対する「解毒剤」としての復活を目指していることが明らかになりました。",
+  "summary3": [
+   "Myspaceが再起を計画している",
+   "SNS疲れの解毒剤として期待",
+   "アルゴリズム支配への反発が背景"
+  ],
+  "body": [
+   "CNBC Techの報道によると、Myspaceの再起計画が浮上している。アルゴリズムが私たちの生活を過剰に支配する現代において、よりアナログだった時代へのノスタルジーが、今回のリローンチに対する期待感を高めているという。",
+   "あるアナリストはCNBCの取材に対し、「Myspaceの再起に対する興奮は、アルゴリズムの支配が現在ほど強くなかったアナログな時代へのノスタルジーを反映している」と指摘している。しかし、現在の巨大SNSが主流を占める中での復活は、容易ではない道のりになるかもしれないとも見られている。",
+   "過度なアルゴリズムによるおすすめ表示や情報過多に疲れたユーザー層に対し、Myspaceがどのような独自の価値を提供できるのか。今後の動向に注目が集まっている。"
+  ],
+  "tags": [
+   "Myspace",
+   "SNS",
+   "ソーシャルメディア"
+  ],
+  "slug": "myspace-eying-comeback-social-media-fatigue",
+  "people": [],
+  "terms": [
+   {
+    "name": "Myspace",
+    "type": "company",
+    "desc": "かつて世界的な人気を集めたアメリカ発のソーシャル・ネットワーキング・サービス"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-myspace-eying-comeback-social-media-fatigue.html"
+ },
+ {
+  "title": "インスタDMで100万円超の被害、YouTuberが語る巧妙な案件詐欺の手口とは",
+  "lead": "YouTuberがInstagramのダイレクトメッセージを悪用した「案件詐欺」により、100万円超の被害に遭いほぼ全財産を失ったと告白しました。巧妙な手口の実態が注目を集めています。",
+  "summary3": [
+   "YouTuberがインスタDM詐欺で被害",
+   "ほぼ全財産を失い100万円超の損失",
+   "巧妙な手口の詳細が明らかに"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする今回のニュースでは、あるYouTuberが告白したInstagramでの詐欺被害が取り上げられています。",
+   "報道によると、このYouTuberはInstagramのダイレクトメッセージ（DM）を通じて巧妙な「案件詐欺」に遭い、100万円を超える被害を受けて「ほぼ全財産を失った」と明かしました。",
+   "SNSを通じたビジネスの勧誘や案件を持ちかける手口は近年増加傾向にあります。今回の事例でも、巧妙に仕組まれたメッセージによって多額の金銭を騙し取られる結果となりました。SNSを利用する際は、不審なDMや甘い話に対して十分な警戒と注意が必要です。"
+  ],
+  "tags": [
+   "詐欺被害",
+   "YouTuber",
+   "Instagram"
+  ],
+  "slug": "youtuber-instagram-dm-fraud",
+  "people": [],
+  "terms": [
+   {
+    "name": "Instagram",
+    "type": "company",
+    "desc": "Metaが提供する、写真や動画を共有できる世界的に人気のSNSプラットフォーム。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wTEtTb093ZDZGSng4bHlxN2VSbEtmTGhtZUFvTmM1RlBFZ0dmbFI5WkZHbndfaXBoZzlZeE05ZThCbFIxSlJMMHhVYjI3eFFKN0twLUx4eUs3WmZ4Sl9jX3RqYzJyY1E5MVdjRmktWlhHMUVnQVZRdm1mQVZfYUE?oc=5",
+  "category": "influencer",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-youtuber-instagram-dm-fraud.html"
+ },
+ {
+  "title": "熊本県で災害関連死の疑い含め39人死亡、避難所には6332人避難",
+  "lead": "熊本県内における地震の被害状況について、NHK主要ニュースが最新の数字を伝えています。",
+  "summary3": [
+   "熊本県内の地震で39人が死亡",
+   "災害関連死の疑いなども含む",
+   "避難所には6332人が避難"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、NHK主要ニュースは、熊本県内での地震による被害状況を発表しました。9日午前7時半の時点における情報として、災害関連死の疑いがある人などを含めて39人が死亡したことが確認されています。",
+   "また、自宅に戻ることができない多くの被災者への対応も続いており、避難所には6332人が身を寄せている状況です。県内では引き続き、今後の安全確保や避難生活への支援が重要な課題となっています。",
+   "今回の地震による死者数や避難状況について、関係機関が詳細な情報の把握と対応にあたっています。現時点で判明している被害の状況について、正確な情報の確認が求められています。"
+  ],
+  "tags": [
+   "熊本地震",
+   "災害関連死",
+   "避難所"
+  ],
+  "slug": "kumamoto-earthquake-update",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de42950",
+  "category": "world",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-kumamoto-earthquake-update.html"
+ },
+ {
+  "title": "中国の7月消費者物価指数0.5%上昇、デフレ懸念続く家計への影響は",
+  "lead": "中国で発表された7月の消費者物価指数は前年同月比0.5％の上昇となりました。上昇率が1％を下回るのは6か月ぶりであり、デフレへの懸念が続いています。",
+  "summary3": [
+   "中国の7月消費者物価指数は0.5%上昇",
+   "上昇率が1%を下回るのは6か月ぶり",
+   "デフレへの懸念が依然として続く状況"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、NHK国際の出展による中国の7月の消費者物価指数は、去年の同じ月と比べて0.5％の上昇となりました。",
+   "この消費者物価指数が前年同月比で1％を下回るのは6か月ぶりとなります。物価の上昇が鈍化していることから、現地ではデフレへの懸念が続いています。",
+   "私たちの生活や財布事情にも影響を与える可能性のある経済動向として、今後の物価の推移や当局の対応に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "中国経済",
+   "消費者物価指数",
+   "デフレ"
+  ],
+  "slug": "china-cpi-july-deflation-concerns",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de42962",
+  "category": "world",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-china-cpi-july-deflation-concerns.html"
+ },
+ {
+  "title": "主力企業の決算発表が一巡、今後の選別物色の行方",
+  "lead": "マネーポストWEBが報じた日本株の週間見通しによると、主力企業の決算発表が大方一巡したことが明らかになりました。",
+  "summary3": [
+   "主力企業の決算発表が大方一巡",
+   "今後は決算を吟味する動きへ",
+   "選別物色の動きが強まる公算"
+  ],
+  "body": [
+   "マネーポストWEBによると、日本株の週間見通しにおいて、主力企業の決算発表が大方一巡したことが伝えられています。",
+   "今後は発表された決算内容を丁寧に吟味し、投資対象を慎重に選別していく動きが強まっていく公算が大きいとされています。",
+   "市場参加者は個別企業の業績を見極めながら、新たな売買判断を行っていく局面を迎えています。"
+  ],
+  "tags": [
+   "日本株",
+   "決算発表",
+   "株式市場"
+  ],
+  "slug": "japan-stock-earnings-outlook",
+  "people": [],
+  "terms": [
+   {
+    "name": "マネーポストWEB",
+    "type": "company",
+    "desc": "マネーに関する情報やニュースを発信する日本のウェブメディア媒体です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJWVNtSlVMX0RpeXBzaGpqcjZMd3Z5cEd2SFhvVDBCNVFBdk9GVFFJMXVFWXU2VHVsclNQWXFvdTV3QWZnWkI4?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-09",
+  "time": "17:03",
+  "path": "/articles/20260809-japan-stock-earnings-outlook.html"
  }
 ]
