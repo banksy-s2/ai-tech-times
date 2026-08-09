@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-09 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-09 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イスラエル・ネタニヤフ首相、ガザ撤退を拒否した理由",
-   "path": "/articles/20260809-israel-rejects-trumps-gaza-plan.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "オマーンが明かすホルムズ協議の進展、合意で貿易はどう変わるか",
-   "path": "/articles/20260809-hormuz-strait-talks-oman-iran.html",
-   "cat": "時事・世界"
+   "title": "猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加",
+   "path": "/articles/20260809-severe-heat-economic-impact.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 142,
+ "pv_today": 144,
  "gemini": {
-  "used": 126,
+  "used": 128,
   "limit": 200
  }
 }

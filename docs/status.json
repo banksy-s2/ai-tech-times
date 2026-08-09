@@ -1,21 +1,15 @@
 {
- "updated": "2026-08-09 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加",
-   "path": "/articles/20260809-severe-heat-economic-impact.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-10 00:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
  "notes": [],
- "pv_today": 144,
+ "pv_today": null,
  "gemini": {
-  "used": 128,
+  "used": 1,
   "limit": 200
  }
 }
