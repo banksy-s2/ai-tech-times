@@ -1,69 +1,26 @@
 {
- "updated": "2026-08-09 07:03",
- "mode": "フル便",
+ "updated": "2026-08-09 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Claudeが提案したオフィスでの紛失スマホ探し",
-   "path": "/articles/20260809-claude-suggests-tracking-bluetooth-signal-strength.html",
+   "title": "Fenix Flexin、AI楽曲使用を認めた理由",
+   "path": "/articles/20260809-fenix-flexin-rubberz-ai-song.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Gentooバグzilla閉鎖、AIボットの過負荷でなぜ",
-   "path": "/articles/20260809-gentoo-bugzilla-closed-ai-bot-scraper.html",
+   "title": "ジル・レポール氏が暴くシリコンバレーのSF読解力",
+   "path": "/articles/20260809-jill-lepore-artificial-state-silicon-valley.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "オープンAI、新型AIアストラ開発中断のなぜ",
-   "path": "/articles/20260809-openai-astora-development-paused.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Zbtlink製ルータ20機種にバックドア、世界10万台超の危険",
-   "path": "/articles/20260809-zbtlink-router-backdoor.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Meta、若者の精神衛生被害で5億6,700万ドルの支払いを命じられる",
-   "path": "/articles/20260809-meta-ordered-to-pay-567m-youth-mental-health.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "鳥刺しの加熱不足で車いす生活に？ギラン・バレー症候群のリスクとは",
-   "path": "/articles/20260809-chicken-sashimi-guillain-barre-syndrome.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "台風13号の高波・強風に警戒、15号の進路にも注意を",
-   "path": "/articles/20260809-typhoon-13-and-15-warning.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "イラン、ホルムズ海峡の通航再開に米国の補償を要求",
-   "path": "/articles/20260809-iran-hormuz-strait-us-compensation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "S&P最高値、雇用統計軟調で利上げ観測後退",
-   "path": "/articles/20260809-sp-high-employment-data.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "シャープ、最終利益40％余り減へ。イラン情勢と円安が直撃",
-   "path": "/articles/20260809-sharp-revises-earnings-forecast.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [
-  "執筆失敗: Analysis: SpaceX is on track to build ~1",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 84,
+ "notes": [],
+ "pv_today": 87,
  "gemini": {
-  "used": 34,
+  "used": 38,
   "limit": 200
  }
 }
