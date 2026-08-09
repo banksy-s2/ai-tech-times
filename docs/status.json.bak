@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-10 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-10 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "アップル最新決算、AIブームの副作用でメモリー価格急騰",
-   "path": "/articles/20260810-apple-latest-financial-results-ai-memory-prices.html",
-   "cat": "株式投資(日本)"
+   "title": "リコージャパン、ナレッジワークと資本業務提携へ",
+   "path": "/articles/20260810-ricoh-japan-knowledge-work-capital-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=vo_qsb635u0"
  },
  "notes": [],
- "pv_today": 2,
+ "pv_today": 5,
  "gemini": {
-  "used": 18,
+  "used": 20,
   "limit": 200
  }
 }

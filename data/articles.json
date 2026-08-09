@@ -43798,5 +43798,309 @@
   "date": "2026-08-10",
   "time": "06:00",
   "path": "/articles/20260810-ricoh-japan-knowledge-work-capital-alliance.html"
+ },
+ {
+  "title": "シチュエーショナル・アウェアネス、チップ新興企業に4億ドル投資の理由",
+  "lead": "AI特化型ヘッジファンドのシチュエーショナル・アウェアネスが、逆境の中にある中でチップスタートアップのソース・ファウンドリーに4億ドルの大型投資を実行しました。",
+  "summary3": [
+   "AI特化ファンドが大型投資を実行",
+   "チップ新興企業に4億ドルを拠出",
+   "逆境の中でも続く積極的な動き"
+  ],
+  "body": [
+   "AIに焦点を当てたヘッジファンドであるシチュエーショナル・アウェアネスは、困難な状況に直面しながらも、依然として大規模な投資を続けています。",
+   "同ファンドはこのほど、チップ開発を手がける新興企業のソース・ファウンドリーに対し、4億ドルという巨額の資金を投資しました。",
+   "AI分野における半導体の重要性が増す中、苦境にあるとされる同ファンドがなぜこのタイミングで大型投資に踏み切ったのか、その動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI投資",
+   "半導体",
+   "ベンチャーキャピタル"
+  ],
+  "slug": "situational-awareness-invests-400m-in-source-foundry",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソース・ファウンドリー",
+    "type": "company",
+    "desc": "AI向けなどの半導体チップ開発を手がける新興企業。シチュエーショナル・アウェアネスから4億ドルの投資を受けた。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+  "category": "ai",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-situational-awareness-invests-400m-in-source-foundry.html"
+ },
+ {
+  "title": "シャープ、2026年9月にAIサーバ事業を開始へ",
+  "lead": "シャープは2026年度第1四半期の決算説明会において、新規事業であるAIサーバ事業の受注活動を2026年9月に開始すると発表しました。",
+  "summary3": [
+   "シャープがAIサーバ事業を開始",
+   "受注活動は2026年9月に開始予定",
+   "2026年度業績は円安で下方修正"
+  ],
+  "body": [
+   "シャープは、2026年度第1四半期の決算説明会を。「AI TECH TIMES」の取材により、新規事業となるAIサーバ事業の受注活動を2026年9月に開催予定の同事業の説明会に合わせて開始すると発表したことが明らかになりました。",
+   "今回の発表では、新規事業への参入時期が示された一方で、2026年度の業績については円安の影響を受けて下方修正されることことも併せて明らかにされています。",
+   "シャープが新たに参入するAIサーバ事業が、今後の業績や事業ポートフォリオにどのような影響を与えるのか、2026年9月の説明会と受注活動の開始に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "シャープ",
+   "AIサーバ",
+   "決算"
+  ],
+  "slug": "sharp-ai-server-business-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "シャープ",
+    "type": "company",
+    "desc": "大阪府堺市に本社を置く日本の大手電機メーカー。液晶テレビやスマートフォンなどの製造・販売を手がける。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-sharp-ai-server-business-2026.html"
+ },
+ {
+  "title": "マネーフォワードAPIとClaude Desktopで経理業務を完全自動化",
+  "lead": "業務効率化のために便利なSaaSやExcelを導入したものの、人間の手間に悩まされていませんか？Claude DesktopとマネーフォワードAPIを活用し、経費精算アプリやExcelを使わずに経理を完全自動化した話題をご紹介します。",
+  "summary3": [
+   "Claude DesktopとマネーフォワードAPIを活用",
+   "経費精算アプリやExcelを使わずに経理を自動化",
+   "データ転記などの人間の手間をなくす業務効率化"
+  ],
+  "body": [
+   "業務効率化のために「便利なSaaS」や「Excelのマクロ」を導入したものの、結局データを転記したり確認したりする「人間の手間」が残っていませんか？日々の業務の中で、こうした手作業に課題を感じる現場は少なくありません。",
+   "ある開発者は、以前はマネーフォワードクラウドを中心に業務を行っていました。しかし、Claude Desktop（MCP）とマネーフォワードAPIを組み合わせることで、経費精算アプリもExcelも捨てる形での経理の完全自動化を実現しました。",
+   "SaaSやマクロを導入しても残りがちだったデータの転記や確認作業をどのように解消したのか。従来のツールに頼らない新しい経理の自動化手法として、多くの注目を集めているアプローチです。"
+  ],
+  "tags": [
+   "Claude Desktop",
+   "マネーフォワードAPI",
+   "経理自動化"
+  ],
+  "slug": "claude-desktop-moneyforward-accounting-automation",
+  "people": [],
+  "terms": [
+   {
+    "name": "マネーフォワードAPI",
+    "type": "ai",
+    "desc": "マネーフォワードが提供する外部システム連携用のAPI"
+   },
+   {
+    "name": "Claude Desktop",
+    "type": "ai",
+    "desc": "Anthropicが開発するデスクトップ向けAIアシスタントツール"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-claude-desktop-moneyforward-accounting-automation.html"
+ },
+ {
+  "title": "Situational Awareness、チップ新興企業Source Foundryに4億ドル投資した理由",
+  "lead": "AI特化型ヘッジファンドのSituational Awarenessが、半導体スタートアップのSource Foundryに対して4億ドルの大型投資を実施したことが明らかになりました。",
+  "summary3": [
+   "Situational Awarenessが4億ドル投資",
+   "投資先は半導体スタートアップのSource Foundry",
+   "逆境にあるAI特化型ファンドが大規模な賭けに出る"
+  ],
+  "body": [
+   "AI分野に特化していることで知られるヘッジファンドのSituational Awarenessは、逆風が吹く状況下でありながらも、大規模な投資を継続しています。今回はチップ開発を手がける新興企業であるSource Foundryに対し、4億ドルという巨額の資金を投じることを決定しました。",
+   "Source FoundryはAI分野において重要性を増しているチップ（半導体）の開発を進めているスタートアップ企業です。今回の出資により、同社の開発体制や事業展開がどのように加速していくのか、業界関係者の注目が集まっています。",
+   "厳しい環境に置かれているとされるヘッジファンドが、あえてAI関連のハードウェア領域である半導体企業へ大型投資を行った背景には、AI市場の将来性に対する強い期待が存在していると見られます。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "AI",
+   "半導体",
+   "投資"
+  ],
+  "slug": "situational-awareness-invests-400m-in-source-foundry",
+  "people": [],
+  "terms": [
+   {
+    "name": "Situational Awareness",
+    "type": "company",
+    "desc": "AI分野に特化して大規模な投資を行っていることで知られるヘッジファンド。"
+   },
+   {
+    "name": "Source Foundry",
+    "type": "company",
+    "desc": "AI向けのチップ開発を手がけている半導体スタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-situational-awareness-invests-400m-in-source-foundry-2.html"
+ },
+ {
+  "title": "TechCrunch報道：監視カメラのAI検出を回避する新パターン",
+  "lead": "セキュリティ研究者が、監視カメラによる人物や車両の検出を防ぐコンピューター生成パターンを開発しました。",
+  "summary3": [
+   "監視カメラの検出を防ぐパターンを開発",
+   "人物や顔、車両を隠すことが可能",
+   "セキュリティ研究者がアルゴリズムを設計"
+  ],
+  "body": [
+   "海外メディアのTechCrunchは、セキュリティ研究者が監視カメラからの検出を回避するアルゴリズムを設計したと報じました。",
+   "このアルゴリズムは、コンピューター生成のパターンを活用し、人物や顔、さらには車両に至るまで監視カメラによる検出から隠すことができます。",
+   "プライバシー保護やセキュリティの観点から注目される技術であり、今後の動向が期待されています。"
+  ],
+  "tags": [
+   "セキュリティ",
+   "監視カメラ",
+   "プライバシー"
+  ],
+  "slug": "adversarial-pattern-surveillance-cameras",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー系ニュースサイトで、新興企業やIT業界の動向を専門に報じています。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-adversarial-pattern-surveillance-cameras.html"
+ },
+ {
+  "title": "ホロライブEN所属VTuber、『メイドインアビス』新作劇場版の主題歌に起用なぜ？",
+  "lead": "人気VTuberグループ「ホロライブEN」に所属するタレントが、人気アニメ『メイドインアビス』新作劇場版の主題歌アーティストに抜擢されました。",
+  "summary3": [
+   "ホロライブEN所属VTuberが起用",
+   "新作劇場版の主題歌アーティストに抜擢",
+   "過去作携わった作曲家も参画"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。ホロライブENに所属するVTuberが、人気作品『メイドインアビス』の新作劇場版における主題歌アーティストに抜擢されたことが明らかになりました。",
+   "今回の新作劇場版では、主題歌のアーティストとしてホロライブENのメンバーが選ばれただけでなく、過去のシリーズ作品に携わった作曲家も制作に参画することが発表されています。",
+   "VTuberとしての活動領域がさらに広がる今回のタイアップは、多くのファンや音楽業界からも注目を集める話題となっています。今後の続報や楽曲の詳細は、公式からの発表をお待ちください。"
+  ],
+  "tags": [
+   "VTuber",
+   "ホロライブEN",
+   "メイドインアビス"
+  ],
+  "slug": "hololive-en-made-in-abyss-theme-song",
+  "people": [],
+  "terms": [
+   {
+    "name": "ホロライブEN",
+    "type": "company",
+    "desc": "カバー株式会社が運営する、英語圏を中心に活動するバーチャルユーチューバーグループの総称です。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk82Y29saklxVGYwblJsRHFwZXJ1SExyeVg3ZGFKa2RVSXdpbFAyMENWQkZYOE5PSVU4cjA4d3lFVFJ2aEFwX3VkekYzcGxVbjNySHNqV3JHTjQ4YTB4cXNKQUtNWk9TYWRfX2FsWm5vZzlsOW9laGJzQjY0LUd1YXJpc0RTaTNCRm1lbEVB?oc=5",
+  "category": "influencer",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-hololive-en-made-in-abyss-theme-song.html"
+ },
+ {
+  "title": "イスラエル首相 ネタニヤフ氏が和平工程表を拒否",
+  "lead": "パレスチナのガザ地区をめぐり、イスラエルのネタニヤフ首相がアメリカ主導の和平計画に基づく工程表を拒否すると表明しました。",
+  "summary3": [
+   "ネタニヤフ首相が和平工程表を拒否",
+   "アメリカ主導の和平計画に基づく",
+   "和平の実現は見通せない状況続く"
+  ],
+  "body": [
+   "パレスチナのガザ地区をめぐり、イスラエルのネタニヤフ首相は、アメリカ主導の和平計画に基づいて示されたイスラム組織ハマスの武装解除などに向けた工程表を拒否すると表明しました。",
+   "この工程表では、イスラム組織ハマスの武装解除などが盛り込まれていましたが、イスラエル側がこれを拒否した形となります。",
+   "今回の表明により、ガザ地区における和平の実現は見通せない状況が続いており、今後の動向が懸念されています。"
+  ],
+  "tags": [
+   "イスラエル",
+   "ガザ地区",
+   "国際ニュース"
+  ],
+  "slug": "israel-gaza-peace-plan-rejected",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de43024",
+  "category": "world",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-israel-gaza-peace-plan-rejected.html"
+ },
+ {
+  "title": "コマツ慎重見通し裏切る上方修正、株価一段高の背景",
+  "lead": "コマツ【6301】が、事前の慎重な見通しを裏切る上方修正を発表し、株価が一段高となっています。",
+  "summary3": [
+   "コマツが慎重見通しを裏切り上方修正",
+   "上方修正を受けて株価は一段高に推移",
+   "中東リスクや米国関税の影響も指摘"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今日の株式市場ニュースです。建機大手のコマツ【6301】が、事前の慎重な見通しを裏切る形で上方修正を発表し、市場の注目を集めています。この発表を受けて、同社の株価は一段高の展開を見せています。",
+   "一方で、市場環境においては中東リスクや米国関税の影響などが影を落とす場面も見られます。そのような外部要因が存在する中での業績修正となりました。",
+   "今回の発表をめぐっては、従来の建機巨頭から「フィジカルAI」銘柄への変貌を指摘する声も上がっており、今後の動向に関心が集まっています。"
+  ],
+  "tags": [
+   "コマツ",
+   "日本株",
+   "上方修正"
+  ],
+  "slug": "komatsu-earnings-revision",
+  "people": [],
+  "terms": [
+   {
+    "name": "コマツ",
+    "type": "company",
+    "desc": "建設機械や鉱山機械の製造・販売を手がける日本の大手機械メーカー。世界各地で事業を展開する。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pREotMmNtdWw0NWxhVWx6aktEdXh1c0lnT25Zekw1NWxQT3E1S05fLVAwa3JPQ0dtY1dITXlJbFhlTDdoeEdOX0RoZTR4YWtTLWY0?oc=5",
+  "category": "stock",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-komatsu-earnings-revision.html"
+ },
+ {
+  "title": "上場企業サラリーマン、母が株500万円分購入で顔面蒼白",
+  "lead": "お盆の帰省中、38歳の上場企業サラリーマンの息子が、母親から「あなたの会社の株を500万円分買った」と告げられ、顔面蒼白になる出来事があった。1級ファイナンシャル・プランナー（FP）が警告を発している。",
+  "summary3": [
+   "お盆の帰省で母親が爆弾発言",
+   "息子の勤め先株を500万円購入",
+   "1級FPがこの事態に警告を発す"
+  ],
+  "body": [
+   "お盆の帰省という穏やかな場面で、38歳の上場企業に勤める男性サラリーマンにとって予期せぬ事態が発生しました。実家の母親から「あんたの会社の株、500万円分買ったわよ」と告げられたのです。",
+   "この突然の爆弾発言により、息子は一気に顔面蒼白になりました。上場企業の社員にとって、身内による自社株の大量購入は、インサイダー取引規制や倫理的な観点からさまざまな懸念やリスクを伴うためです。",
+   "本件について、お金の専門家である1級ファイナンシャル・プランナー（FP）が警告を発しています。家族間であっても、上場企業の株式売買や保有を巡っては適切な理解と注意が必要であることが浮き彫りになりました。"
+  ],
+  "tags": [
+   "上場企業",
+   "株式",
+   "ファイナンシャルプランナー"
+  ],
+  "slug": "mother-buys-company-shares",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02S0dreUpHTEwwQk1iLTZBYUpGTzkwMmplMVEtSXRfMkc5UldEZ2U3Vmh3TnpSUVNQTmZNVlJ2aGU5TDNicUEtb0JsdEV4OTZtOHc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-10",
+  "time": "07:01",
+  "path": "/articles/20260810-mother-buys-company-shares.html"
  }
 ]

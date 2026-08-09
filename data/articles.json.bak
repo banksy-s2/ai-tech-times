@@ -43759,5 +43759,44 @@
   "date": "2026-08-10",
   "time": "05:00",
   "path": "/articles/20260810-apple-latest-financial-results-ai-memory-prices.html"
+ },
+ {
+  "title": "リコージャパン、ナレッジワークと資本業務提携へ",
+  "lead": "リコージャパンは、ナレッジワークと資本業務提携を締結し、AIを活用した営業DXを加速させる方針を発表しました。",
+  "summary3": [
+   "リコージャパンが資本業務提携を発表",
+   "提携先はナレッジワーク",
+   "AI活用により営業DXを加速へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。リコージャパン株式会社は、株式会社ナレッジワークとの間で資本業務提携を締結したことを明らかにしました。今回の提携は、両社の協力関係を強化し、営業活動におけるデジタルトランスフォーメーション（DX）を一層加速させることを目的としています。",
+   "近年、多くの企業において業務効率化や生産性向上のためのデジタル技術導入が急務となっています。中でもAI技術の活用は、営業プロセスの最適化や提案力の強化に欠かせない要素として注目を集めています。今回の提携を通じて、リコージャパンは最先端の知見やシステムを取り入れる構えです。",
+   "両社による今後の具体的な取り組みや、営業現場へのAI導入の進展状況については、引き続き動向が注目されます。企業のDX推進において、こうした資本業務提携を通じた協業の動きは今後も広がりを見せそうです。"
+  ],
+  "tags": [
+   "リコージャパン",
+   "ナレッジワーク",
+   "営業DX"
+  ],
+  "slug": "ricoh-japan-knowledge-work-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "リコージャパン",
+    "type": "company",
+    "desc": "リコーグループの国内販売会社で、複合機やプリンターなどの事務機器からITソリューションまで幅広く提供する企業。"
+   },
+   {
+    "name": "ナレッジワーク",
+    "type": "company",
+    "desc": "企業の営業活動を支援するクラウドサービスなどを展開し、営業のナレッジ共有や効率化をサポートする企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkZ0xEaU1yNkFjaTlPY0E4YklGUjRXZkE4SktXVC1maDllWXJ4R25LbElkUUdhUXA2dVRfcVlxeTRwUm1ZT2RCXzJfeXE4dHpDQ1E?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-10",
+  "time": "06:00",
+  "path": "/articles/20260810-ricoh-japan-knowledge-work-capital-alliance.html"
  }
 ]

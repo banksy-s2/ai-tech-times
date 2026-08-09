@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 07:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [シチュエーショナル・アウェアネス、チップ新興企業に4億ドル投資の理由](https://ai-tech-times.web.app/articles/20260810-situational-awareness-invests-400m-in-source-foundry.html) — 2026-08-10 07:01: AI特化型ヘッジファンドのシチュエーショナル・アウェアネスが、逆境の中にある中でチップスタートアップのソース・ファウンドリーに4億ドルの大型投資を実行しました。
+- [シャープ、2026年9月にAIサーバ事業を開始へ](https://ai-tech-times.web.app/articles/20260810-sharp-ai-server-business-2026.html) — 2026-08-10 07:01: シャープは2026年度第1四半期の決算説明会において、新規事業であるAIサーバ事業の受注活動を2026年9月に開始すると発表しました。
+- [マネーフォワードAPIとClaude Desktopで経理業務を完全自動化](https://ai-tech-times.web.app/articles/20260810-claude-desktop-moneyforward-accounting-automation.html) — 2026-08-10 07:01: 業務効率化のために便利なSaaSやExcelを導入したものの、人間の手間に悩まされていませんか？Claude DesktopとマネーフォワードAPIを活用し、経費精算アプリやExcelを使わずに経理を完全自動化した話題をご紹介します。
+- [Situational Awareness、チップ新興企業Source Foundryに4億ドル投資した理由](https://ai-tech-times.web.app/articles/20260810-situational-awareness-invests-400m-in-source-foundry-2.html) — 2026-08-10 07:01: AI特化型ヘッジファンドのSituational Awarenessが、半導体スタートアップのSource Foundryに対して4億ドルの大型投資を実施したことが明らかになりました。
+- [TechCrunch報道：監視カメラのAI検出を回避する新パターン](https://ai-tech-times.web.app/articles/20260810-adversarial-pattern-surveillance-cameras.html) — 2026-08-10 07:01: セキュリティ研究者が、監視カメラによる人物や車両の検出を防ぐコンピューター生成パターンを開発しました。
+- [ホロライブEN所属VTuber、『メイドインアビス』新作劇場版の主題歌に起用なぜ？](https://ai-tech-times.web.app/articles/20260810-hololive-en-made-in-abyss-theme-song.html) — 2026-08-10 07:01: 人気VTuberグループ「ホロライブEN」に所属するタレントが、人気アニメ『メイドインアビス』新作劇場版の主題歌アーティストに抜擢されました。
+- [イスラエル首相 ネタニヤフ氏が和平工程表を拒否](https://ai-tech-times.web.app/articles/20260810-israel-gaza-peace-plan-rejected.html) — 2026-08-10 07:01: パレスチナのガザ地区をめぐり、イスラエルのネタニヤフ首相がアメリカ主導の和平計画に基づく工程表を拒否すると表明しました。
+- [コマツ慎重見通し裏切る上方修正、株価一段高の背景](https://ai-tech-times.web.app/articles/20260810-komatsu-earnings-revision.html) — 2026-08-10 07:01: コマツ【6301】が、事前の慎重な見通しを裏切る上方修正を発表し、株価が一段高となっています。
+- [上場企業サラリーマン、母が株500万円分購入で顔面蒼白](https://ai-tech-times.web.app/articles/20260810-mother-buys-company-shares.html) — 2026-08-10 07:01: お盆の帰省中、38歳の上場企業サラリーマンの息子が、母親から「あなたの会社の株を500万円分買った」と告げられ、顔面蒼白になる出来事があった。1級ファイナンシャル・プランナー（FP）が警告を発している。
 - [リコージャパン、ナレッジワークと資本業務提携へ](https://ai-tech-times.web.app/articles/20260810-ricoh-japan-knowledge-work-capital-alliance.html) — 2026-08-10 06:00: リコージャパンは、ナレッジワークと資本業務提携を締結し、AIを活用した営業DXを加速させる方針を発表しました。
 - [アップル最新決算、AIブームの副作用でメモリー価格急騰](https://ai-tech-times.web.app/articles/20260810-apple-latest-financial-results-ai-memory-prices.html) — 2026-08-10 05:00: 米アップルが記録的な好決算を発表しました。iPhoneなど主力製品が成長する一方、AIブームの副作用としてメモリー価格の急騰が明らかになっています。
 - [NHK報道の被災者写真がAI加工か、SNSで拡散](https://ai-tech-times.web.app/articles/20260810-ai-fake-image-kumamoto-earthquake.html) — 2026-08-10 04:00: 7月に発生した地震で自宅が全壊した男性を取材した新聞社の写真について、AIで加工されたとみられる偽画像がSNSで拡散していることが分かりました。
@@ -33,22 +42,13 @@
 - [猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加](https://ai-tech-times.web.app/articles/20260809-severe-heat-economic-impact.html) — 2026-08-09 23:00: 厳しい猛暑が経済活動に影響を与えており、ビールなどの消費鈍化や「巣ごもり」の増加が伝えられています。こうした状況が株価の下押し圧力につながるのではないかと懸念されています。
 - [イスラエル・ネタニヤフ首相、ガザ撤退を拒否した理由](https://ai-tech-times.web.app/articles/20260809-israel-rejects-trumps-gaza-plan.html) — 2026-08-09 22:00: イスラエルのネタニヤフ首相は、ハマスが完全に武装解除されるまで軍の撤退を行わない方針を示しました。BBC Worldの報道によると、トランプ氏が提示したガザに関する15項目の計画を拒否したとのことです。
 - [オマーンが明かすホルムズ協議の進展、合意で貿易はどう変わるか](https://ai-tech-times.web.app/articles/20260809-hormuz-strait-talks-oman-iran.html) — 2026-08-09 22:00: オマーンは、ホルムズ海峡の新しい航路に関する協議において双方に進展の兆しが見られると発表しました。しかし、イラン側は合意によって海峡が開かれるわけではないと警告しており、事態の先行きは依然として不透明なままとなっています。
-- [AI時代のMarkdown負債、エンジニアが直面する新課題](https://ai-tech-times.web.app/articles/20260809-ai-markdown-legacy-debt.html) — 2026-08-09 21:03: AIテクノロジーの劇的な進化に伴い、開発現場のナレッジ管理やチーム編成が大きな転換期を迎えています。エンジニアのドキュメント文化を支えてきたMarkdownに関する課題やレガシー脱却の壁に注目が集まっています。
-- [Googleハッカーハンターが明かす、攻撃グループにコードネームをつける理由](https://ai-tech-times.web.app/articles/20260809-google-hacker-hunter-codenames.html) — 2026-08-09 21:03: Googleがハッキンググループの呼称や命名方法を変更しました。世界的な追跡の専門家が、企業がコードネームを付与する意図について解説しています。
-- [火星探査車パーサヴィアランス、自律走行の距離が90%に達した理由](https://ai-tech-times.web.app/articles/20260809-perseverance-mars-autonomous-driving.html) — 2026-08-09 21:03: Ars Technicaの報道によると、火星で活動する探査車パーサヴィアランスの走行距離の約90%が自律走行によるものであることが判明しました。初の火星の自動運転車として、大成功を収めています。
-- [推し活で借金150万円、優越感を買い続けた男の結末](https://ai-tech-times.web.app/articles/20260809-oshi-katsu-debt-15-million-yen.html) — 2026-08-09 21:03: 東京都の40代男性が、女性地下アイドルへの推し活が原因で150万円もの借金を抱えた実態が報じられました。
-- [トランプ大統領指名のブランチ氏、新司法長官に就任決定](https://ai-tech-times.web.app/articles/20260809-us-senate-confirms-blanch-attorney-general.html) — 2026-08-09 21:03: アメリカの議会上院は、トランプ大統領が新たな司法長官として指名したブランチ氏を承認し、就任が正式に決まりました。
-- [ゼレンスキー大統領セルビア初訪問のねらい](https://ai-tech-times.web.app/articles/20260809-zelenskyy-visits-serbia-for-the-first-time.html) — 2026-08-09 21:03: ウクライナのゼレンスキー大統領がセルビアを初めて訪問し、ブチッチ大統領と会談を行いました。ロシアと結びつきが深い国への訪問は、ロシア側をけん制するねらいもあるとみられています。
-- [楽天グループや東京海上など今週の決算発表予定企業](https://ai-tech-times.web.app/articles/20260809-earnings-announcement-schedule-august.html) — 2026-08-09 21:03: AI TECH TIMESは、株探の情報に基づき、今週予定されている企業の決算発表スケジュールをお伝えします。
-- [メキシコ、SNS生配信中のインフルエンサー銃殺事件の背景](https://ai-tech-times.web.app/articles/20260809-influencer-shot-during-live-stream-mexico.html) — 2026-08-09 20:00: メキシコにおいて、インフルエンサーがSNSの生配信中に銃殺される事件が発生しました。背景には麻薬組織の内部抗争があると報じられています。
-- [OpenAI、Astraの開発を遅らせた理由とは](https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html) — 2026-08-09 19:00: 米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。
 
 ## 世界のバズ動画TOP3 (2026-08-10)
 - 1位: [Stray Kids "This & That" Dance Practice Video](https://www.youtube.com/watch?v=vo_qsb635u0)
 - 2位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
-- 3位: [Jurassic World Evolution 3 | Crocodilia Coast - Species Trailer](https://www.youtube.com/watch?v=eqPQkOwOym0)
+- 3位: [Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations](https://www.youtube.com/watch?v=G5hWlD5zfhw)
 
-## AI用語事典 (全851語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全858語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
