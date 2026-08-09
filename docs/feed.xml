@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ZooxとUberから見る自動運転の未来</title>
+<link>https://ai-tech-times.web.app/articles/20260810-techcrunch-mobility-zoox-ubers-av-empire.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-techcrunch-mobility-zoox-ubers-av-empire.html</guid>
+<pubDate>Mon, 10 Aug 2026 02:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>TechCrunch Mobilityが、自動運転車の開発を進めるZooxの準備状況と、Uberが築く自動運転の帝国について報じました。</description>
+</item>
+<item>
+<title>Buc-ee’s、人気司会者の挑発を無視して小規模店を提訴へ</title>
+<link>https://ai-tech-times.web.app/articles/20260810-buc-ees-john-oliver-lawsuit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-buc-ees-john-oliver-lawsuit.html</guid>
+<pubDate>Mon, 10 Aug 2026 02:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>人気を集めるガソリンスタンドチェーンのBuc-ee’sが、小規模な競合店に対する相次ぐ訴訟で再び注目を集めています。テレビ番組での公開の挑発には応じず、別の小規模事業者を提訴しました。</description>
+</item>
+<item>
 <title>OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由</title>
 <link>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 12:02:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>Googleは、Webブラウザ「Google Chrome」向けのAI新機能「Skills in Chrome」を発表しました。AIプロンプトの入力の手間を省く機能として注目を集めています。</description>
-</item>
-<item>
-<title>SunoがAI生成楽曲の音声透かし導入、どう模倣を防ぐのか</title>
-<link>https://ai-tech-times.web.app/articles/20260809-suno-audio-watermarking-tools.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-suno-audio-watermarking-tools.html</guid>
-<pubDate>Sun, 09 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し模倣楽曲を防止する新ツールを発表しました。</description>
-</item>
-<item>
-<title>Hugging Faceでハッキング、危険なAIサイバー時代の幕開けと企業の危機</title>
-<link>https://ai-tech-times.web.app/articles/20260809-hugging-face-hack-cybersecurity.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-hugging-face-hack-cybersecurity.html</guid>
-<pubDate>Sun, 09 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ラスベガスで開催されたBlack Hatサイバーセキュリティ会議において、AIハッキングの増加が指摘されました。Anthropic、Meta、OpenAIなどのAIエージェントに関するハッキングが相次ぎ、多くの企業がリスクを知らないままとなっています。</description>
 </item>
 </channel></rss>

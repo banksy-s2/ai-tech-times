@@ -43558,5 +43558,83 @@
   "date": "2026-08-10",
   "time": "01:00",
   "path": "/articles/20260810-openai-hugging-face-incident-ai-agent-board.html"
+ },
+ {
+  "title": "ZooxとUberから見る自動運転の未来",
+  "lead": "TechCrunch Mobilityが、自動運転車の開発を進めるZooxの準備状況と、Uberが築く自動運転の帝国について報じました。",
+  "summary3": [
+   "Zooxがローンチに向けて準備を進行中",
+   "Uberが築く自動運転の帝国に迫る",
+   "交通の未来とAIの役割を深く解説"
+  ],
+  "body": [
+   "「TechCrunch Mobility」は、交通の未来や、そこにAIが果たす役割に焦点を当てた情報ハブです。今回の配信では、ローンチに向けて準備を進めるZooxの動向と、Uberが展開する自動運転車の状況について取り上げられています。",
+   "自動運転分野において、各社は技術開発とサービス開始に向けた準備を急ピッチで進めています。Uberなどの大手プラットフォームも、自動運転車を取り入れた新たな輸送の仕組みづくりに力を入れており、業界全体の動きが注目されています。",
+   "交通の未来を描く上で、AI技術の活用はますます重要性を増しています。今回の報道は、自動運転の普及に向けた各社の現在の立ち位置や、今後の展開を理解するための重要な情報となっています。"
+  ],
+  "tags": [
+   "TechCrunch",
+   "Zoox",
+   "Uber"
+  ],
+  "slug": "techcrunch-mobility-zoox-ubers-av-empire",
+  "people": [],
+  "terms": [
+   {
+    "name": "Zoox",
+    "type": "company",
+    "desc": "アメリカの自動運転車開発企業で、現在はAmazonの子会社としてロボタクシーの商用化を進めている。"
+   },
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界中で配車サービスやフードデリバリープラットフォームを展開する企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "02:00",
+  "path": "/articles/20260810-techcrunch-mobility-zoox-ubers-av-empire.html"
+ },
+ {
+  "title": "Buc-ee’s、人気司会者の挑発を無視して小規模店を提訴へ",
+  "lead": "人気を集めるガソリンスタンドチェーンのBuc-ee’sが、小規模な競合店に対する相次ぐ訴訟で再び注目を集めています。テレビ番組での公開の挑発には応じず、別の小規模事業者を提訴しました。",
+  "summary3": [
+   "Buc-ee’sが小規模事業者を提訴",
+   "テレビ番組で司会者が提訴を要求",
+   "看板ビーバーのマスコットが話題に"
+  ],
+  "body": [
+   "海外のニュースサイト「The Verge」の報道によると、ガソリンスタンドやコンビニエンスストアを展開するBuc-ee’sが、新たに小規模事業者を相手取った訴訟を起こしました。同社は過去にも小規模な同業他社に対して同様の訴訟を重ねてきた歴史があり、その強硬な姿勢が問題視されています。",
+   "先日放送されたテレビ番組「Last Week Tonight」では、司会を務めるジョン・オリバー氏が、自番組のマスコットであるリスのキャラクターを使ったグッズの販売を行いました。同氏は、ビーバーのマスコットロゴに似せたデザインを用いて、あえてBuc-ee’s側から訴訟を起こすよう公開で挑発していました。",
+   "しかし、Buc-ee’sはその挑発を無視するかのように、別の小規模ビジネスをターゲットにして訴訟に踏み切りました。ワールドカップ期間中にはバイラル的な人気を獲得した同社ですが、その一方で小規模店に対する法的措置の歴史が改めて浮き彫りとなっています。"
+  ],
+  "tags": [
+   "Buc-ee’s",
+   "John Oliver",
+   "The Verge"
+  ],
+  "slug": "buc-ees-john-oliver-lawsuit",
+  "people": [
+   {
+    "name": "ジョン・オリバー氏",
+    "bio": "テレビ番組「Last Week Tonight」で司会を務める著名なコメディアン・テレビ司会者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Buc-ee’s",
+    "type": "company",
+    "desc": "アメリカでガソリンスタンドや大型コンビニエンスストアを展開する人気の商業チェーン。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "02:00",
+  "path": "/articles/20260810-buc-ees-john-oliver-lawsuit.html"
  }
 ]
