@@ -5,6 +5,70 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>大手6社トップに聞く国内コンサル縮小の危機</title>
+<link>https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-consulting-market-shrinkage-ai.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIによる業務代替や市場縮小論が浮上する中、コンサルティング業界の今と将来について日本経済新聞が報じました。</description>
+</item>
+<item>
+<title>クラスター、法人問い合わせをAIで一次振り分け</title>
+<link>https://ai-tech-times.web.app/articles/20260809-cluster-ai-inquiry-routing.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-cluster-ai-inquiry-routing.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>クラスター株式会社のソフトウェアエンジニアが、AIを活用して社内業務を効率化する取り組みについて紹介しています。</description>
+</item>
+<item>
+<title>X、収益化プログラムを終了し新報酬制度へ移行</title>
+<link>https://ai-tech-times.web.app/articles/20260809-x-replaces-revenue-sharing-program.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-x-replaces-revenue-sharing-program.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>SNSプラットフォームのXが、既存の収益分配プログラムを終了し、新たな報酬制度を導入することが明らかになりました。</description>
+</item>
+<item>
+<title>Myspace再起へ、SNS疲れの救世主になれるか</title>
+<link>https://ai-tech-times.web.app/articles/20260809-myspace-eying-comeback-social-media-fatigue.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-myspace-eying-comeback-social-media-fatigue.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>かつて一世を風靡したMyspaceが、現代のSNS疲れに対する「解毒剤」としての復活を目指していることが明らかになりました。</description>
+</item>
+<item>
+<title>インスタDMで100万円超の被害、YouTuberが語る巧妙な案件詐欺の手口とは</title>
+<link>https://ai-tech-times.web.app/articles/20260809-youtuber-instagram-dm-fraud.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-youtuber-instagram-dm-fraud.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>YouTuberがInstagramのダイレクトメッセージを悪用した「案件詐欺」により、100万円超の被害に遭いほぼ全財産を失ったと告白しました。巧妙な手口の実態が注目を集めています。</description>
+</item>
+<item>
+<title>熊本県で災害関連死の疑い含め39人死亡、避難所には6332人避難</title>
+<link>https://ai-tech-times.web.app/articles/20260809-kumamoto-earthquake-update.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-kumamoto-earthquake-update.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>熊本県内における地震の被害状況について、NHK主要ニュースが最新の数字を伝えています。</description>
+</item>
+<item>
+<title>中国の7月消費者物価指数0.5%上昇、デフレ懸念続く家計への影響は</title>
+<link>https://ai-tech-times.web.app/articles/20260809-china-cpi-july-deflation-concerns.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-china-cpi-july-deflation-concerns.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>中国で発表された7月の消費者物価指数は前年同月比0.5％の上昇となりました。上昇率が1％を下回るのは6か月ぶりであり、デフレへの懸念が続いています。</description>
+</item>
+<item>
+<title>主力企業の決算発表が一巡、今後の選別物色の行方</title>
+<link>https://ai-tech-times.web.app/articles/20260809-japan-stock-earnings-outlook.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260809-japan-stock-earnings-outlook.html</guid>
+<pubDate>Sun, 09 Aug 2026 17:03:00 +0900</pubDate>
+<category>日本企業</category>
+<description>マネーポストWEBが報じた日本株の週間見通しによると、主力企業の決算発表が大方一巡したことが明らかになりました。</description>
+</item>
+<item>
 <title>車・電機、大幅増益…中東情勢リスクの行方</title>
 <link>https://ai-tech-times.web.app/articles/20260809-earnings-car-electronics-middle-east.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260809-earnings-car-electronics-middle-east.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>アメリカのオープンAIは、AIモデル「アストラ」の開発一時中断を発表しました。AI自身がサイバー攻撃を実行するおそれが理由とされています。</description>
-</item>
-<item>
-<title>Zbtlink製ルータ20機種にバックドア、世界10万台超の危険</title>
-<link>https://ai-tech-times.web.app/articles/20260809-zbtlink-router-backdoor.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-zbtlink-router-backdoor.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米サイバーセキュリティ企業の発表により、中国製ルータ20機種に外部からroot権限で操作できるバックドアが組み込まれていることが判明しました。世界で少なくとも10万台が展開済みとみられ、影響が広がっています。</description>
-</item>
-<item>
-<title>Meta、若者の精神衛生被害で5億6,700万ドルの支払いを命じられる</title>
-<link>https://ai-tech-times.web.app/articles/20260809-meta-ordered-to-pay-567m-youth-mental-health.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-meta-ordered-to-pay-567m-youth-mental-health.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米ニューメキシコの裁判所は、Metaが若者のメンタルヘルス危機を引き起こしたとして、治療基金への拠出を命じました。</description>
-</item>
-<item>
-<title>鳥刺しの加熱不足で車いす生活に？ギラン・バレー症候群のリスクとは</title>
-<link>https://ai-tech-times.web.app/articles/20260809-chicken-sashimi-guillain-barre-syndrome.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-chicken-sashimi-guillain-barre-syndrome.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>南九州の名物として知られる鶏肉の生食「鳥刺し」。しかし、加熱不足の鶏肉を食べたことでギラン・バレー症候群を発症し、車いす生活を送る男性の事例が注目を集めています。</description>
-</item>
-<item>
-<title>台風13号の高波・強風に警戒、15号の進路にも注意を</title>
-<link>https://ai-tech-times.web.app/articles/20260809-typhoon-13-and-15-warning.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-typhoon-13-and-15-warning.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>大型で非常に強い台風13号の影響や、今後の台風15号の動向について気象庁が注意を呼びかけています。</description>
-</item>
-<item>
-<title>イラン、ホルムズ海峡の通航再開に米国の補償を要求</title>
-<link>https://ai-tech-times.web.app/articles/20260809-iran-hormuz-strait-us-compensation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-iran-hormuz-strait-us-compensation.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>中東のホルムズ海峡をめぐり、イランのアラグチ外相が通航再開の条件としてアメリカからの補償を挙げていることが明らかになりました。</description>
-</item>
-<item>
-<title>S&amp;P最高値、雇用統計軟調で利上げ観測後退</title>
-<link>https://ai-tech-times.web.app/articles/20260809-sp-high-employment-data.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-sp-high-employment-data.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>米国株式市場において、S&amp;Pが最高値を更新しました。背景には雇用統計の軟調な結果があり、利上げ観測が後退したことが挙げられます。</description>
-</item>
-<item>
-<title>シャープ、最終利益40％余り減へ。イラン情勢と円安が直撃</title>
-<link>https://ai-tech-times.web.app/articles/20260809-sharp-revises-earnings-forecast.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-sharp-revises-earnings-forecast.html</guid>
-<pubDate>Sun, 09 Aug 2026 07:03:00 +0900</pubDate>
-<category>日本企業</category>
-<description>大手電機メーカーの「シャープ」は、イラン情勢や円安の影響による原材料・燃料価格の高騰を受け、今年度の業績予想を下方修正しました。</description>
-</item>
-<item>
-<title>リクルートHD、米国ARPJ成長率35％加速と通期EBITDA初の1兆円台への上方修正を発表</title>
-<link>https://ai-tech-times.web.app/articles/20260809-recruit-hd-fy2026-q1-earnings.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-recruit-hd-fy2026-q1-earnings.html</guid>
-<pubDate>Sun, 09 Aug 2026 06:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>リクルートホールディングスは、FY2026 Q1決算説明会を開催し、米国ARPJ成長率が35％に加速したことなどを発表しました。この発表に伴い、通期EBITDAが初の1兆円台へ上方修正されています。</description>
 </item>
 </channel></rss>
