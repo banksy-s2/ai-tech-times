@@ -42318,5 +42318,333 @@
   "date": "2026-08-09",
   "time": "11:00",
   "path": "/articles/20260809-hikakin-second-child-born.html"
+ },
+ {
+  "title": "Google Chrome、AIプロンプト手打ち不要にする新機能",
+  "lead": "Googleは、Webブラウザ「Google Chrome」向けのAI新機能「Skills in Chrome」を発表しました。AIプロンプトの入力の手間を省く機能として注目を集めています。",
+  "summary3": [
+   "Google Chromeの新機能が発表",
+   "AIプロンプトを保存して再利用可能に",
+   "毎回の手打ち作業が不要になる仕組み"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、GoogleはChrome向けのAI新機能「Skills in Chrome」を発表しました。この機能は、これまで毎回手打ちで入力していたAIプロンプトを保存できるようにするものです。",
+   "保存したプロンプトはワンクリックで再利用することが可能になります。これにより、ブラウザ上でAIを活用する際の入力作業が大幅に効率化されることになります。",
+   "日常的にAIプロンプトを使用するユーザーにとって、作業の手間を減らす便利な機能として活用が期待されます。"
+  ],
+  "tags": [
+   "Google",
+   "Chrome",
+   "AI"
+  ],
+  "slug": "google-chrome-skills-feature",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "米国の巨大IT企業であり、検索エンジンをはじめ多様なソフトウェアやハードウェアサービスを展開している。"
+   },
+   {
+    "name": "Google Chrome",
+    "type": "ai",
+    "desc": "Googleが開発・提供している、世界的に広く利用されている高速で安全なWebブラウザ製品。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
+  "category": "ai_jp",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-google-chrome-skills-feature.html"
+ },
+ {
+  "title": "SunoがAI生成楽曲の音声透かし導入、どう模倣を防ぐのか",
+  "lead": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し模倣楽曲を防止する新ツールを発表しました。",
+  "summary3": [
+   "Sunoが音声透かしを導入へ",
+   "プラットフォーム上で作成した楽曲を識別",
+   "模倣楽曲の防止とダウンロード制限を実施"
+  ],
+  "body": [
+   "AI音楽生成サービスの「Suno」は、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。",
+   "今回の新ツールの導入により、AIによって生成された音楽の管理体制が強化されることになります。音声透かし技術を活用することで、作成された楽曲の識別や模倣の防止が可能となります。",
+   "AI技術の急速な発展に伴い、生成されたコンテンツの識別や著作権に関する課題への対応が進められています。Sunoの新たな取り組みは、今後のAI音楽生成プラットフォームにおける標準的な対策となっていくことが期待されます。"
+  ],
+  "tags": [
+   "Suno",
+   "AI音楽",
+   "音声透かし"
+  ],
+  "slug": "suno-audio-watermarking-tools",
+  "people": [],
+  "terms": [
+   {
+    "name": "Suno",
+    "type": "company",
+    "desc": "テキストプロンプトから高品質な楽曲を自動生成できる人気のAI音楽生成サービスを手がける企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
+  "category": "ai_jp",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-suno-audio-watermarking-tools.html"
+ },
+ {
+  "title": "Hugging Faceでハッキング、危険なAIサイバー時代の幕開けと企業の危機",
+  "lead": "ラスベガスで開催されたBlack Hatサイバーセキュリティ会議において、AIハッキングの増加が指摘されました。Anthropic、Meta、OpenAIなどのAIエージェントに関するハッキングが相次ぎ、多くの企業がリスクを知らないままとなっています。",
+  "summary3": [
+   "Hugging Faceがハッキング被害",
+   "危険なAIサイバー時代の幕開け",
+   "多くの企業がリスクを知らず"
+  ],
+  "body": [
+   "CNBC Techによると、ラスベガスで開催されたBlack Hatサイバーセキュリティ会議のタイミングに合わせて、AIエージェントのハッキング被害が相次いで報告されました。Anthropic、Meta、OpenAIなどの先進的なAIシステムが標的となっており、AI技術の普及に伴うセキュリティ上の懸念が急激に高まっています。",
+   "中でもHugging Faceへのハッキングは、多くの企業にとって危険なAIサイバー時代の幕開けを告げる象徴的な出来事となりました。しかし、専門家らは、こうした深刻な脅威が存在しているにもかかわらず、多くの企業がその現実を「まったく把握していない」と警鐘を鳴らしています。",
+   "企業におけるAIの導入が進む一方で、サイバーセキュリティ対策は十分に追いついていないのが現状です。今回のハッキング事例は、AI関連の脆弱性が実ビジネスに直結するリスクを浮き彫りにしており、各企業による早急なセキュリティ体制の見直しが求められています。"
+  ],
+  "tags": [
+   "AI",
+   "サイバーセキュリティ",
+   "Hugging Face"
+  ],
+  "slug": "hugging-face-hack-cybersecurity",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "アメリカの企業で、機械学習モデルを共有するプラットフォームを運営しAI開発者を支援する。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、安全性を重視した対話型AIモデル「Claude」などを手掛ける。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "アメリカのIT企業で、SNSの運営や大規模言語モデル「Llama」などのAI開発を行う。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AIサービス「ChatGPT」などを提供し業界をリードする。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-hugging-face-hack-cybersecurity.html"
+ },
+ {
+  "title": "Framework、全顧客にデータ流出通知なぜ",
+  "lead": "パソコンメーカーのFrameworkが、全ての顧客に対してデータ流出が発生したことを通知しました。ハッカーがアクセスした情報とは何でしょうか。",
+  "summary3": [
+   "Frameworkが全顧客へ通知",
+   "ハッカーが個人情報を不正アクセス",
+   "氏名や住所などの流出が判明"
+  ],
+  "body": [
+   "海外メディアのTechCrunchによると、パソコンメーカーのFrameworkは、同社の「全て」の顧客に対してデータ流出が発生したことを通知しました。今回のセキュリティインシデントにより、顧客の個人情報がハッカーにアクセスされたことが明らかになっています。",
+   "ハッカーが悪意あるアクセスによって取得したのは、顧客の氏名、メールアドレス、電話番号、そして物理的な住所です。個人情報の広範囲な流出が含まれており、利用者は自身の情報がどのように扱われたのか確認を迫られています。",
+   "Frameworkはモジュール式で修理しやすいノートパソコンなどで知られる米国の企業です。今回のデータ流出を受けた同社の今後の対応やセキュリティ強化策が注目されています。"
+  ],
+  "tags": [
+   "Framework",
+   "データ流出",
+   "セキュリティ"
+  ],
+  "slug": "framework-data-breach-notification",
+  "people": [],
+  "terms": [
+   {
+    "name": "Framework",
+    "type": "company",
+    "desc": "モジュール式で修理しやすいノートパソコンなどを開発・販売している米国発のパソコンメーカー"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+  "category": "silicon",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-framework-data-breach-notification.html"
+ },
+ {
+  "title": "外国人YouTuber「2swag」長崎・池島の民家無断侵入動画を公開",
+  "lead": "外国人YouTuber「2swag」が、長崎県の池島にある民家に無断で侵入した様子を収めた動画を公開し、x.com上で話題となっています。今回はこの事案に関する情報をお伝えします。",
+  "summary3": [
+   "外国人YouTuberが動画公開",
+   "長崎・池島の民家へ無断侵入",
+   "x.com上で拡散し問題に"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、外国人YouTuberとして知られる「2swag」が、長崎県の池島にある民家に無断で侵入したとする動画を公開しました。この動画はx.comを通じて広く知られることとなり、ネット上で大きな注目を集めています。",
+   "公開された動画では、許可を得ずに民家へと立ち入る様子が撮影されており、プライバシーの侵害やモラルに関する懸念の声が上がっています。SNS上では、こうした行為に対する批判的な意見や、今後の対応を懸念する投稿が相次いでいる状況です。",
+   "現時点において、動画の詳しい背景や関係機関による対応などの詳細な情報は公開されていません。インターネット上に投稿されるコンテンツのあり方や、撮影マナーについての議論が改めて求められる事例となっています。"
+  ],
+  "tags": [
+   "YouTuber",
+   "無断侵入",
+   "長崎"
+  ],
+  "slug": "2swag-ikeshima-trespassing",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GaWpnZk5kWGdnVEhRZmRIR3pTUV9HNnFPZVlOcHJLTFpRdi1JOUV4YzRDX05tdnlBRUdYSzRoWms1Ny1mclRuZERQRUx2NTNPeHdGdURhWQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-2swag-ikeshima-trespassing.html"
+ },
+ {
+  "title": "ゼレンスキー大統領、北朝鮮の3万〜5万人ロシア派兵を指摘",
+  "lead": "ウクライナのゼレンスキー大統領は、北朝鮮がロシアへ数万人の兵士を派兵することを決めたという見方を示しました。",
+  "summary3": [
+   "北朝鮮の3万〜5万人派兵が明らかに",
+   "ロシアから装備を受け取る見通し",
+   "ウクライナへの支援が必要とされる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。ウクライナのゼレンスキー大統領は、北朝鮮が3万人から5万人の兵士をロシアに派兵することを決めたという見方を示しました。",
+   "同大統領によると、こうした動きに伴い、北朝鮮は今後、ロシアからあらゆる種類の装備を受け取ることになるとしています。",
+   "戦局に大きな影響を与える可能性のある動きであり、今後のロシアと北朝鮮の関係性やウクライナへの支援のあり方に注目が集まっています。"
+  ],
+  "tags": [
+   "ウクライナ",
+   "ロシア",
+   "北朝鮮"
+  ],
+  "slug": "zelenskyy-north-korea-russia-deployment",
+  "people": [
+   {
+    "name": "ゼレンスキー大統領",
+    "bio": "ウクライナの大統領。ロシアによる侵攻を受ける中で国家を率い、各国への支援を求めている。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de42945",
+  "category": "world",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-zelenskyy-north-korea-russia-deployment.html"
+ },
+ {
+  "title": "関西電力大飯原発3号機が自動停止、外部への影響なし",
+  "lead": "福井県にある関西電力の大飯原子力発電所3号機で8日夜、発電設備のトラブルにより原子炉の運転が自動停止しました。",
+  "summary3": [
+   "大飯原発3号機が自動停止",
+   "原因は発電設備のトラブル",
+   "外部への影響はなし"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によりますと、福井県に位置する関西電力の大飯原子力発電所3号機において、8日夜に発電設備のトラブルが発生しました。",
+   "このトラブルの影響により、同原発の原子炉の運転が自動的に停止する事態となりました。",
+   "関西電力によると、現時点において外部への影響はないということで、同社では詳しい状況の調査を進めています。"
+  ],
+  "tags": [
+   "大飯原発",
+   "関西電力",
+   "原子力発電所"
+  ],
+  "slug": "oima-nuclear-plant-auto-stop",
+  "people": [],
+  "terms": [
+   {
+    "name": "関西電力",
+    "type": "company",
+    "desc": "大阪府に本拠を置き、電力供給事業などを手掛ける日本の電気事業者です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de42912",
+  "category": "world",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-oima-nuclear-plant-auto-stop.html"
+ },
+ {
+  "title": "坂口孝則氏が解説、痩せ薬の流行が食品・酒類株に与えた影響",
+  "lead": "痩せ薬の流行が食品・酒類の株価を暴落させたと、専門家の坂口孝則氏が解説しています。市場への影響について事実をお伝えします。",
+  "summary3": [
+   "痩せ薬の流行が株価に影響",
+   "食品や酒類の銘柄が暴落",
+   "坂口孝則氏が詳細を解説"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によれば、近年の痩せ薬の流行が、食品および酒類関連の株価を暴落させる事態を引き起こしています。この市場の動きについて、専門家である坂口孝則氏がエキスパート記事で分析と解説を行っています。",
+   "痩せ薬の普及によって消費者の食生活や嗜好に変化が生じ、それが関連企業の業績や株価に直接的な影響を及ぼしている模様です。食品メーカーや酒造メーカーなどの株価下落が市場関係者の注目を集めています。",
+   "株式市場においては、医療分野のトレンドが全く異なる業界の企業業績を左右する事例として議論されています。今後の市場動向や各企業の対応について、引き続き正確な事実に基づいた情報発信を行ってまいります。"
+  ],
+  "tags": [
+   "株式市場",
+   "食品・酒類",
+   "健康・医療"
+  ],
+  "slug": "diet-drug-impact-on-stocks",
+  "people": [
+   {
+    "name": "坂口孝則氏",
+    "bio": "調達・購買業務コンサルタント、経営評論家として幅広く執筆や講演活動を行っている専門家。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTB6VFBHQjgxemNWdWQwZmlidkJnZndWQ1NzUUFSSy1OSjVtMkhTWmkxRnU0ajVxbkFnbHpsSVhVR0JNeC1CSUhDRGNlWmRHRHhDMWFTa3kxancyVzBwSXFlS29XRDNYbWVIbjlFRUlFWlhLS3FzbDlOVXFIaTRrYmtRTFBiZFhO?oc=5",
+  "category": "stock",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-diet-drug-impact-on-stocks.html"
+ },
+ {
+  "title": "キオクシア、村田製、イビデンが対象に：決算プラス・インパクト銘柄を発表",
+  "lead": "株探は、東証プライム上場企業を対象とした「決算プラス・インパクト銘柄」を発表しました。7月31日から8月6日までに発表された決算に基づく銘柄が取り上げられています。",
+  "summary3": [
+   "東証プライムの決算銘柄を発表",
+   "キオクシアや村田製などが対象",
+   "7月31日〜8月6日発表分が対象"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が伝えた株探の情報によると、東証プライム市場における決算プラス・インパクト銘柄が公開されました。対象となったのは、7月31日から8月6日までに決算を発表した企業群です。",
+   "今回の発表では、キオクシア、村田製、イビデンなどの企業名が挙げられています。それぞれの企業における直近の決算発表内容が、市場にどのような影響を与えたのかが注目されています。",
+   "株式市場における決算情報の動向を把握する上で、発表された銘柄の顔ぶれは投資家やビジネスパーソンにとって重要な参考情報となります。詳細は株探の元記事にて確認することができます。"
+  ],
+  "tags": [
+   "決算",
+   "東証プライム",
+   "株式市場"
+  ],
+  "slug": "earnings-impact-stocks-prime-market",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を手がける日本の半導体企業です。"
+   },
+   {
+    "name": "村田製",
+    "type": "company",
+    "desc": "電子部品の製造・販売を行う、京都府に本社を置く大手電子部品メーカーです。"
+   },
+   {
+    "name": "イビデン",
+    "type": "company",
+    "desc": "岐阜県大垣市に本社を置き、電子事業やセラミック事業などを展開する大手メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmMlN2Q2s2eE1vcnp2b0paMmNfZldTWkZIcERudzJ1Qk5BbkxiLUNFcW45TjFlSlBKN2F0Z3JYQjZGTFlqUWVlSmVJYzZObWRkcm5kWU55V2pONHp1NEhObQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-09",
+  "time": "12:02",
+  "path": "/articles/20260809-earnings-impact-stocks-prime-market.html"
  }
 ]

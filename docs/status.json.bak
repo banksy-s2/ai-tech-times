@@ -1,21 +1,65 @@
 {
- "updated": "2026-08-09 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-09 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "HIKAKIN、第2子男児誕生を公表し家族4人に",
-   "path": "/articles/20260809-hikakin-second-child-born.html",
+   "title": "Google Chrome、AIプロンプト手打ち不要にする新機能",
+   "path": "/articles/20260809-google-chrome-skills-feature.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "SunoがAI生成楽曲の音声透かし導入、どう模倣を防ぐのか",
+   "path": "/articles/20260809-suno-audio-watermarking-tools.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Hugging Faceでハッキング、危険なAIサイバー時代の幕開けと企業の危機",
+   "path": "/articles/20260809-hugging-face-hack-cybersecurity.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Framework、全顧客にデータ流出通知なぜ",
+   "path": "/articles/20260809-framework-data-breach-notification.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "外国人YouTuber「2swag」長崎・池島の民家無断侵入動画を公開",
+   "path": "/articles/20260809-2swag-ikeshima-trespassing.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "ゼレンスキー大統領、北朝鮮の3万〜5万人ロシア派兵を指摘",
+   "path": "/articles/20260809-zelenskyy-north-korea-russia-deployment.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "関西電力大飯原発3号機が自動停止、外部への影響なし",
+   "path": "/articles/20260809-oima-nuclear-plant-auto-stop.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "坂口孝則氏が解説、痩せ薬の流行が食品・酒類株に与えた影響",
+   "path": "/articles/20260809-diet-drug-impact-on-stocks.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "キオクシア、村田製、イビデンが対象に：決算プラス・インパクト銘柄を発表",
+   "path": "/articles/20260809-earnings-impact-stocks-prime-market.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
- "pv_today": 100,
+ "notes": [
+  "執筆失敗: Watching Roku’s AI channel is like eatin",
+  "執筆失敗: TutorMoments: Do AI tutors know when to ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 104,
  "gemini": {
-  "used": 47,
+  "used": 71,
   "limit": 200
  }
 }
