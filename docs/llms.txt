@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-09 12:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Google Chrome、AIプロンプト手打ち不要にする新機能](https://ai-tech-times.web.app/articles/20260809-google-chrome-skills-feature.html) — 2026-08-09 12:02: Googleは、Webブラウザ「Google Chrome」向けのAI新機能「Skills in Chrome」を発表しました。AIプロンプトの入力の手間を省く機能として注目を集めています。
+- [SunoがAI生成楽曲の音声透かし導入、どう模倣を防ぐのか](https://ai-tech-times.web.app/articles/20260809-suno-audio-watermarking-tools.html) — 2026-08-09 12:02: AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し模倣楽曲を防止する新ツールを発表しました。
+- [Hugging Faceでハッキング、危険なAIサイバー時代の幕開けと企業の危機](https://ai-tech-times.web.app/articles/20260809-hugging-face-hack-cybersecurity.html) — 2026-08-09 12:02: ラスベガスで開催されたBlack Hatサイバーセキュリティ会議において、AIハッキングの増加が指摘されました。Anthropic、Meta、OpenAIなどのAIエージェントに関するハッキングが相次ぎ、多くの企業がリスクを知らないままとなっています。
+- [Framework、全顧客にデータ流出通知なぜ](https://ai-tech-times.web.app/articles/20260809-framework-data-breach-notification.html) — 2026-08-09 12:02: パソコンメーカーのFrameworkが、全ての顧客に対してデータ流出が発生したことを通知しました。ハッカーがアクセスした情報とは何でしょうか。
+- [外国人YouTuber「2swag」長崎・池島の民家無断侵入動画を公開](https://ai-tech-times.web.app/articles/20260809-2swag-ikeshima-trespassing.html) — 2026-08-09 12:02: 外国人YouTuber「2swag」が、長崎県の池島にある民家に無断で侵入した様子を収めた動画を公開し、x.com上で話題となっています。今回はこの事案に関する情報をお伝えします。
+- [ゼレンスキー大統領、北朝鮮の3万〜5万人ロシア派兵を指摘](https://ai-tech-times.web.app/articles/20260809-zelenskyy-north-korea-russia-deployment.html) — 2026-08-09 12:02: ウクライナのゼレンスキー大統領は、北朝鮮がロシアへ数万人の兵士を派兵することを決めたという見方を示しました。
+- [関西電力大飯原発3号機が自動停止、外部への影響なし](https://ai-tech-times.web.app/articles/20260809-oima-nuclear-plant-auto-stop.html) — 2026-08-09 12:02: 福井県にある関西電力の大飯原子力発電所3号機で8日夜、発電設備のトラブルにより原子炉の運転が自動停止しました。
+- [坂口孝則氏が解説、痩せ薬の流行が食品・酒類株に与えた影響](https://ai-tech-times.web.app/articles/20260809-diet-drug-impact-on-stocks.html) — 2026-08-09 12:02: 痩せ薬の流行が食品・酒類の株価を暴落させたと、専門家の坂口孝則氏が解説しています。市場への影響について事実をお伝えします。
+- [キオクシア、村田製、イビデンが対象に：決算プラス・インパクト銘柄を発表](https://ai-tech-times.web.app/articles/20260809-earnings-impact-stocks-prime-market.html) — 2026-08-09 12:02: 株探は、東証プライム上場企業を対象とした「決算プラス・インパクト銘柄」を発表しました。7月31日から8月6日までに発表された決算に基づく銘柄が取り上げられています。
 - [HIKAKIN、第2子男児誕生を公表し家族4人に](https://ai-tech-times.web.app/articles/20260809-hikakin-second-child-born.html) — 2026-08-09 11:00: 人気ユーチューバーのHIKAKINさんが第2子男児の誕生を公表し、家族4人で新たな生活を歩んでいく意気込みを語りました。
 - [SpaceX、2027年末に10GW構築で年3000億ドル規模へ](https://ai-tech-times.web.app/articles/20260809-spacex-10gw-compute-capacity-2027.html) — 2026-08-09 10:00: テックメディアのSemiAnalysisによる最新の分析で、宇宙企業のSpaceXが2027年末までに約10GWのコンピュート容量を構築する見込みであることが明らかになりました。
 - [SNSで広がる「原爆はデマ」、生成AI動画の実態](https://ai-tech-times.web.app/articles/20260809-atomic-bomb-fake-news-ai-video.html) — 2026-08-09 09:00: 戦後81年を迎えるなか、SNS上で「原爆はデマ」といった荒唐無稽な偽情報が拡散されています。生成AIを用いた動画も登場し、被爆の実相との乖離が懸念されています。
@@ -33,22 +42,13 @@
 - [オープンAI、新型AIアストラ開発中断のなぜ](https://ai-tech-times.web.app/articles/20260809-openai-astora-development-paused.html) — 2026-08-09 07:03: アメリカのオープンAIは、AIモデル「アストラ」の開発一時中断を発表しました。AI自身がサイバー攻撃を実行するおそれが理由とされています。
 - [Zbtlink製ルータ20機種にバックドア、世界10万台超の危険](https://ai-tech-times.web.app/articles/20260809-zbtlink-router-backdoor.html) — 2026-08-09 07:03: 米サイバーセキュリティ企業の発表により、中国製ルータ20機種に外部からroot権限で操作できるバックドアが組み込まれていることが判明しました。世界で少なくとも10万台が展開済みとみられ、影響が広がっています。
 - [Meta、若者の精神衛生被害で5億6,700万ドルの支払いを命じられる](https://ai-tech-times.web.app/articles/20260809-meta-ordered-to-pay-567m-youth-mental-health.html) — 2026-08-09 07:03: 米ニューメキシコの裁判所は、Metaが若者のメンタルヘルス危機を引き起こしたとして、治療基金への拠出を命じました。
-- [鳥刺しの加熱不足で車いす生活に？ギラン・バレー症候群のリスクとは](https://ai-tech-times.web.app/articles/20260809-chicken-sashimi-guillain-barre-syndrome.html) — 2026-08-09 07:03: 南九州の名物として知られる鶏肉の生食「鳥刺し」。しかし、加熱不足の鶏肉を食べたことでギラン・バレー症候群を発症し、車いす生活を送る男性の事例が注目を集めています。
-- [台風13号の高波・強風に警戒、15号の進路にも注意を](https://ai-tech-times.web.app/articles/20260809-typhoon-13-and-15-warning.html) — 2026-08-09 07:03: 大型で非常に強い台風13号の影響や、今後の台風15号の動向について気象庁が注意を呼びかけています。
-- [イラン、ホルムズ海峡の通航再開に米国の補償を要求](https://ai-tech-times.web.app/articles/20260809-iran-hormuz-strait-us-compensation.html) — 2026-08-09 07:03: 中東のホルムズ海峡をめぐり、イランのアラグチ外相が通航再開の条件としてアメリカからの補償を挙げていることが明らかになりました。
-- [S&P最高値、雇用統計軟調で利上げ観測後退](https://ai-tech-times.web.app/articles/20260809-sp-high-employment-data.html) — 2026-08-09 07:03: 米国株式市場において、S&Pが最高値を更新しました。背景には雇用統計の軟調な結果があり、利上げ観測が後退したことが挙げられます。
-- [シャープ、最終利益40％余り減へ。イラン情勢と円安が直撃](https://ai-tech-times.web.app/articles/20260809-sharp-revises-earnings-forecast.html) — 2026-08-09 07:03: 大手電機メーカーの「シャープ」は、イラン情勢や円安の影響による原材料・燃料価格の高騰を受け、今年度の業績予想を下方修正しました。
-- [リクルートHD、米国ARPJ成長率35％加速と通期EBITDA初の1兆円台への上方修正を発表](https://ai-tech-times.web.app/articles/20260809-recruit-hd-fy2026-q1-earnings.html) — 2026-08-09 06:00: リクルートホールディングスは、FY2026 Q1決算説明会を開催し、米国ARPJ成長率が35％に加速したことなどを発表しました。この発表に伴い、通期EBITDAが初の1兆円台へ上方修正されています。
-- [日経平均株価「39％」上昇の一方でTOPIX「12％」のカラクリ](https://ai-tech-times.web.app/articles/20260809-japan-stock-market-half-year-gains.html) — 2026-08-09 05:00: 日本株の上半期における上昇幅について、日経平均株価とTOPIXの間で大きな違いが見られたことが報じられました。
-- [トッド・ブランシュ氏、米司法長官に就任 共和党一部の異例反発を乗り越え](https://ai-tech-times.web.app/articles/20260809-todd-blanche-us-attorney-general-confirmed.html) — 2026-08-09 04:59: 米国時間、ドナルド・トランプ前大統領の元刑事弁護士であるトッド・ブランシュ氏が、米国司法長官に承認されました。一部の共和党員からの異例の反発があったにもかかわらず、投票によって国の最高法執行官としての地位を確固たるものにしました。
-- [BBCが報じるドイツ空港ドローン事件、ロシア関与の可能性](https://ai-tech-times.web.app/articles/20260809-german-airport-drone-bomb.html) — 2026-08-09 04:59: ドイツの空港で発生したドローン爆弾事件をめぐり、BBCがロシア関連の代理組織による関与を示す証拠を入手したことが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-09)
 - 1位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 2位: [Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations](https://www.youtube.com/watch?v=G5hWlD5zfhw)
 - 3位: [Garten of Banban: Last Ticket to the Abyss - Official Teaser Trailer (Delvers)](https://www.youtube.com/watch?v=i7jVfG-wB78)
 
-## AI用語事典 (全828語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全833語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,13 +56,13 @@
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
-- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): 米国のAnthropic社が開発した、高度な自然言語処理能力を持つ対話型のAIモデルおよびアシスタント。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発・製造を手がける日本の大手半導体企業。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。

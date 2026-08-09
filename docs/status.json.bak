@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-09 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-09 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "SpaceX、2027年末に10GW構築で年3000億ドル規模へ",
-   "path": "/articles/20260809-spacex-10gw-compute-capacity-2027.html",
-   "cat": "シリコンバレー最速"
+   "title": "HIKAKIN、第2子男児誕生を公表し家族4人に",
+   "path": "/articles/20260809-hikakin-second-child-born.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [
-  "執筆失敗: Hugging Face hack marks start of dangero"
- ],
- "pv_today": 95,
+ "notes": [],
+ "pv_today": 100,
  "gemini": {
-  "used": 45,
+  "used": 47,
   "limit": 200
  }
 }
