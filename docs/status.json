@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-10 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-10 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "NHK報道の被災者写真がAI加工か、SNSで拡散",
-   "path": "/articles/20260810-ai-fake-image-kumamoto-earthquake.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "イラン、ホルムズ海峡開放へ米国に海上封鎖解除を要求",
-   "path": "/articles/20260810-iran-hormuz-strait-conditions.html",
-   "cat": "時事・世界"
+   "title": "アップル最新決算、AIブームの副作用でメモリー価格急騰",
+   "path": "/articles/20260810-apple-latest-financial-results-ai-memory-prices.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 15,
+  "used": 18,
   "limit": 200
  }
 }

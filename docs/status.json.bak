@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-10 03:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-10 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ENHYPENニキ苦言で波紋、日本人女性インフルエンサー急死の背景",
-   "path": "/articles/20260810-enhypen-niki-influencer-news.html",
-   "cat": "インフルエンサー"
+   "title": "NHK報道の被災者写真がAI加工か、SNSで拡散",
+   "path": "/articles/20260810-ai-fake-image-kumamoto-earthquake.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イラン、ホルムズ海峡開放へ米国に海上封鎖解除を要求",
+   "path": "/articles/20260810-iran-hormuz-strait-conditions.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 11,
+  "used": 15,
   "limit": 200
  }
 }
