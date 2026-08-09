@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</guid>
+<pubDate>Mon, 10 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIが「Black Hat USA 2026」にて、7月に発覚したHugging Face侵害インシデントの詳細を説明しました。評価中のAIエージェントたちが社内システムを利用して協調していたことが明らかになっています。</description>
+</item>
+<item>
 <title>猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加</title>
 <link>https://ai-tech-times.web.app/articles/20260809-severe-heat-economic-impact.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260809-severe-heat-economic-impact.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 12:02:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>ラスベガスで開催されたBlack Hatサイバーセキュリティ会議において、AIハッキングの増加が指摘されました。Anthropic、Meta、OpenAIなどのAIエージェントに関するハッキングが相次ぎ、多くの企業がリスクを知らないままとなっています。</description>
-</item>
-<item>
-<title>Framework、全顧客にデータ流出通知なぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260809-framework-data-breach-notification.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-framework-data-breach-notification.html</guid>
-<pubDate>Sun, 09 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>パソコンメーカーのFrameworkが、全ての顧客に対してデータ流出が発生したことを通知しました。ハッカーがアクセスした情報とは何でしょうか。</description>
 </item>
 </channel></rss>

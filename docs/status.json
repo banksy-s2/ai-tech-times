@@ -1,15 +1,23 @@
 {
- "updated": "2026-08-10 00:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-10 01:00",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由",
+   "path": "/articles/20260810-openai-hugging-face-incident-ai-agent-board.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" M/V",
   "url": "https://www.youtube.com/watch?v=BZ4UzthYTss"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: AI絵が嫌なのは、「AIだから」ではない｜k.a.256"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 1,
+  "used": 5,
   "limit": 200
  }
 }
