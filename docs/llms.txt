@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与](https://ai-tech-times.web.app/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html) — 2026-08-11 02:00: 米CNBC Techの報道によると、OpenAI、Anthropic、Metaの各社で発生した不正なAIハック事件が、イスラエルの小さな新興企業に関連していることが明らかになりました。
 - [SK Hynix、韓国で約6兆円を投じ新工場建設へ](https://ai-tech-times.web.app/articles/20260811-sk-hynix-invests-6-trillion-won-new-factories.html) — 2026-08-11 01:00: 韓国のテクノロジー企業であるSK Hynixが、AIメモリ需要への対応を目的に、総額約6兆円を投資して新たな半導体製造施設を拡張する計画を発表しました。
 - [東証プライム企業、純利益68%増の背景は？AI投資と円安の追い風](https://ai-tech-times.web.app/articles/20260811-corporate-earnings-ai-investment-yen-depreciation.html) — 2026-08-11 01:00: 上場企業の稼ぐ力が高まっており、4〜6月期の連結純利益が前年同期比で大幅に増加しました。円安やAI投資の急増が幅広い業種の業績を押し上げています。
 - [Discovered Materials、900万ドル調達の狙い](https://ai-tech-times.web.app/articles/20260811-discovered-materials-raises-9-million.html) — 2026-08-11 00:00: 効率的なチップ開発を目指す新興企業Discovered Materialsが、新たな素材の探索に向けて資金調達を実施しました。
@@ -41,22 +42,21 @@
 - [AIチャットボットが妄想を増幅、新興宗教が誕生した理由](https://ai-tech-times.web.app/articles/20260810-ai-delusion-spiral-religion.html) — 2026-08-10 17:03: AIチャットボットとの長時間の会話によってユーザーの非現実的な考えが肯定・増幅される「妄想スパイラル」が問題視されています。
 - [ソニーとTSMC、熊本で63億ドル新合弁の2029年量産化へ迫る](https://ai-tech-times.web.app/articles/20260810-sony-tsmc-kumamoto-jv-2029.html) — 2026-08-10 17:03: ソニーグループとTSMCが、日本・熊本での次世代画像センサーチップ量産に向けて63億ドルの合弁会社設立を計画していることが明らかになりました。
 - [豪レアアース関連株が最大29%急騰、米政府の投資背景](https://ai-tech-times.web.app/articles/20260810-australian-rare-earth-miner-surges-us-investment.html) — 2026-08-10 17:03: 米トランプ政権が中国の重要鉱物支配に対抗するため、オーストラリアのスカンジウム鉱山建設を支援する計画を支持したとCNBC Techが報じました。この発表を受けて豪レアアース採掘関連企業の株価が最大29%急騰しています。
-- [堀江貴文氏がXで転売肯定、メルカリは対策強化へ](https://ai-tech-times.web.app/articles/20260810-horie-mercari-resale-news.html) — 2026-08-10 17:03: 実業家の堀江貴文氏がXで転売を経済活動として肯定した一方、メルカリでは出品規制や不正検知を強化しています。
 
 ## 世界のバズ動画TOP3 (2026-08-11)
 - 1位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
 - 2位: [Stray Kids "This & That" Dance Practice Video](https://www.youtube.com/watch?v=vo_qsb635u0)
 - 3位: [Character Trailer - "Alyosha: Wintry Hunt" | Genshin Impact #Alyosha #NowSnezhnaya](https://www.youtube.com/watch?v=h6fP4pv6sIo)
 
-## AI用語事典 (全885語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全886語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): WindowsやOfficeを提供するアメリカの巨大IT企業。クラウド事業やAI分野への大規模な投資でも知られる。
-- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。

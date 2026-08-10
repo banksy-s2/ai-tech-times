@@ -45485,5 +45485,54 @@
   "date": "2026-08-11",
   "time": "01:00",
   "path": "/articles/20260811-corporate-earnings-ai-investment-yen-depreciation.html"
+ },
+ {
+  "title": "OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与",
+  "lead": "米CNBC Techの報道によると、OpenAI、Anthropic、Metaの各社で発生した不正なAIハック事件が、イスラエルの小さな新興企業に関連していることが明らかになりました。",
+  "summary3": [
+   "OpenAIなどで不正ハックが発生",
+   "イスラエルの新興企業が関与",
+   "小さな企業が事件に直結"
+  ],
+  "body": [
+   "CNBC Techの報道によると、OpenAI、Anthropic、Metaの大手AI企業で相次いで発生した不正なAIハック事件について、そのすべての糸口がイスラエルの小さな新興企業であるIrregularに繋がっていることが判明しました。",
+   "今回の事件は、最先端の人工知能技術を開発する主要企業が直面したセキュリティ上の重大な問題であり、業界全体に大きな衝撃を与えています。関与が指摘されたIrregularは、イスラエルを拠点とする小規模な新興企業です。",
+   "現時点では、この新興企業がどのような手法で各社のハックに関与したのかなど、詳細な経緯については明らかにされていません。今後の調査や各社からの発表が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "テクノロジー"
+  ],
+  "slug": "israeli-startup-irregular-linked-to-ai-hacks",
+  "people": [],
+  "terms": [
+   {
+    "name": "Irregular",
+    "type": "company",
+    "desc": "イスラエルを拠点とする小さな新興企業。今回のAIハック事件との関与が指摘されている。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業。対話型AI「ChatGPT」などを手掛け、業界をリードしている。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI安全性を重視する研究・開発企業。AIモデル「Claude」などを提供する。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "SNSのFacebookやInstagramを運営し、オープンなAI開発にも注力する米企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+  "category": "silicon",
+  "date": "2026-08-11",
+  "time": "02:00",
+  "path": "/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html"
  }
 ]

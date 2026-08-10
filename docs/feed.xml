@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与</title>
+<link>https://ai-tech-times.web.app/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html</guid>
+<pubDate>Tue, 11 Aug 2026 02:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米CNBC Techの報道によると、OpenAI、Anthropic、Metaの各社で発生した不正なAIハック事件が、イスラエルの小さな新興企業に関連していることが明らかになりました。</description>
+</item>
+<item>
 <title>SK Hynix、韓国で約6兆円を投じ新工場建設へ</title>
 <link>https://ai-tech-times.web.app/articles/20260811-sk-hynix-invests-6-trillion-won-new-factories.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260811-sk-hynix-invests-6-trillion-won-new-factories.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 10 Aug 2026 12:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>人工知能（AI）によっていずれ消えると予想されていた営業職ですが、直近では正反対の現象が起きています。富士通が大幅な人員増に踏み切った背景には、営業に伴走するAIサービスの登場がありました。</description>
-</item>
-<item>
-<title>中国MiniMaxの動画AI「MiniMax H3」が無料で使える理由</title>
-<link>https://ai-tech-times.web.app/articles/20260810-minimax-h3-video-ai-free.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-minimax-h3-video-ai-free.html</guid>
-<pubDate>Mon, 10 Aug 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>中国のMiniMaxが新たに公開した動画生成AIモデル「MiniMax H3」は、無料で試し放題かつ高性能なモデルとして注目を集めています。ByteDanceの「Seedance 2.0」に匹敵する性能を持つとされ、その実力を検証する動きが広がっています。</description>
 </item>
 </channel></rss>
