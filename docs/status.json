@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-10 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-10 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "高市首相、オマーン国王と会談へ",
-   "path": "/articles/20260810-takaichi-oman-phone-talk.html",
-   "cat": "時事・世界"
+   "title": "セイコーG株価36年ぶり高値、27年3月期上方修正のなぜ",
+   "path": "/articles/20260810-seiko-group-stock-price-high.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "執筆失敗: 台風15号 交通機関への影響は（鉄道 高速道路 空の便）"
- ],
+ "notes": [],
  "pv_today": 11,
  "gemini": {
-  "used": 148,
+  "used": 152,
   "limit": 200
  }
 }

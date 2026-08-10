@@ -45345,5 +45345,39 @@
   "date": "2026-08-10",
   "time": "22:00",
   "path": "/articles/20260810-takaichi-oman-phone-talk.html"
+ },
+ {
+  "title": "セイコーG株価36年ぶり高値、27年3月期上方修正のなぜ",
+  "lead": "セイコーグループの株価が36年ぶりの高値をつけました。2027年3月期の上方修正と好調な時計需要を背景に、市場で買いが広がっています。",
+  "summary3": [
+   "セイコーG株価が36年ぶり高値を記録",
+   "27年3月期上方修正を発表",
+   "時計需要の好調が業績を牽引"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。セイコーグループの株価が、およそ36年ぶりとなる高値を更新しました。長年の歴史を持つ時計事業を中心に、足元の市場で強い値動きを見せています。",
+   "今回の株価上昇を支えているのは、2027年3月期の業績予想の上方修正です。主力の時計需要が引き続き好調を維持しており、業績の押し上げ要因となっていることが発表されました。",
+   "詳細な業績修正の内容や、好調な時計需要の背景にある市場の動きについては、今後の企業発表や各社の動向に注目が集まります。"
+  ],
+  "tags": [
+   "セイコーG",
+   "株価",
+   "市場"
+  ],
+  "slug": "seiko-group-stock-price-high",
+  "people": [],
+  "terms": [
+   {
+    "name": "セイコーグループ",
+    "type": "company",
+    "desc": "日本の老舗時計メーカーであり、腕時計やクロックなどを中心に展開する持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LMU9QNk81Rzd0X0ppT0VnYmRCR25sNWFXVlQtVmNHc3JMYi1xU05PSG5vbGdxbU5pb21pUC0tb2JEOEpXLWNhSnRPZnI0RjNXclNqVWp3NFRncVdYeDZsTzJNU0NhWXBHX0g2WQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-10",
+  "time": "23:00",
+  "path": "/articles/20260810-seiko-group-stock-price-high.html"
  }
 ]

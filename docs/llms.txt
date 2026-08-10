@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [セイコーG株価36年ぶり高値、27年3月期上方修正のなぜ](https://ai-tech-times.web.app/articles/20260810-seiko-group-stock-price-high.html) — 2026-08-10 23:00: セイコーグループの株価が36年ぶりの高値をつけました。2027年3月期の上方修正と好調な時計需要を背景に、市場で買いが広がっています。
 - [高市首相、オマーン国王と会談へ](https://ai-tech-times.web.app/articles/20260810-takaichi-oman-phone-talk.html) — 2026-08-10 22:00: イラン情勢をめぐり、高市総理大臣はオマーンのハイサム国王と電話で会談を行いました。
 - [Meta、ローカル稼働するマルチモーダルAI「Muse Glimmer」公開](https://ai-tech-times.web.app/articles/20260810-meta-muse-glimmer.html) — 2026-08-10 21:05: Metaは、ローカル環境で動作し、エージェント機能を持つオープンソースのマルチモーダルAIモデル「Muse Glimmer」を発表しました。
 - [アルバート・マイケルソンが指摘した科学の限界、AIに必要なのはデータか](https://ai-tech-times.web.app/articles/20260810-ai-for-science-needs-reasoning.html) — 2026-08-10 21:05: 科学の終焉が語られてきた歴史の中で、人工知能の登場により新たな議論が生まれています。AIが科学の発展に真に必要な要素とは何でしょうか。
@@ -41,14 +42,13 @@
 - [台風15号が東北・関東に接近、暴風と大雨への備えは](https://ai-tech-times.web.app/articles/20260810-typhoon-number-15-approaching.html) — 2026-08-10 17:03: 台風15号が11日に東北や関東甲信へかなり近づく見込みです。気象庁は土砂災害や暴風などに警戒を呼びかけています。
 - [東京地検特捜部の違法捜査巡り、取り調べ映像を法廷で再生](https://ai-tech-times.web.app/articles/20260810-tokyo-district-public-prosecutors-office-trial.html) — 2026-08-10 17:03: 東京地検特捜部の取り調べを受けた太陽光発電関連会社の社長が国に賠償を求めている裁判で、検察側の録音・録画データが法廷で再生されました。
 - [日経平均1363円高、米利上げ観測後退で25日移動平均突破](https://ai-tech-times.web.app/articles/20260810-nikkei-average-gains-1363-yen.html) — 2026-08-10 17:03: 日本経済新聞の報道によると、日経平均株価の終値が1363円高を記録しました。米国の利上げ観測後退が背景にあり、25日移動平均線を突破する展開となっています。
-- [スシローが京樽をSRSHDへ譲渡、回転ずしへ資源集中](https://ai-tech-times.web.app/articles/20260810-sushiro-transfers-kyotaru-to-srs.html) — 2026-08-10 17:03: 回転ずし大手「スシロー」などを展開するフード＆ライフカンパニーズは、テイクアウト専門店「京樽」を運営する子会社を譲渡すると発表しました。回転ずし事業への経営資源集中が背景にあります。
 
 ## 世界のバズ動画TOP3 (2026-08-10)
 - 1位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
 - 2位: [Stray Kids "This & That" Dance Practice Video](https://www.youtube.com/watch?v=vo_qsb635u0)
 - 3位: [Character Trailer - "Alyosha: Wintry Hunt" | Genshin Impact #Alyosha #NowSnezhnaya](https://www.youtube.com/watch?v=h6fP4pv6sIo)
 
-## AI用語事典 (全882語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全883語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
