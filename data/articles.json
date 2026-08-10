@@ -44185,5 +44185,33 @@
   "date": "2026-08-10",
   "time": "09:00",
   "path": "/articles/20260810-agent-plugins-100-announced.html"
+ },
+ {
+  "title": "ロシアが米MAGA派インフルエンサーを介し独選挙に干渉した理由",
+  "lead": "ロシアが米国のMAGA派インフルエンサーを介して偽情報を拡散し、ドイツの選挙に干渉していることが日本経済新聞の報道で明らかになりました。",
+  "summary3": [
+   "ロシアがドイツ選挙に干渉",
+   "米MAGA派を活用",
+   "偽情報を拡散"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ロシアが米国のMAGA派インフルエンサーを介して偽情報を拡散し、ドイツの選挙に干渉していることが分かりました。",
+   "この情報は日本経済新聞によって伝えられたものであり、海外の政治や選挙プロセスにおけるインフルエンサーの影響力と、情報戦の実態を示す事例として注目を集めています。",
+   "偽情報の拡散手法が国境を越えてどのように展開されているのか、今後の動向や詳細な事実関係について引き続き慎重な確認が求められます。"
+  ],
+  "tags": [
+   "ロシア",
+   "選挙干渉",
+   "偽情報"
+  ],
+  "slug": "russia-maga-influencers-germany-election",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQmw3dlNWRFBWVUN6QW5BZDI5Zy1xcFhMZlQyV3phVnBBSkQzTjVUTnM3czE2ZzlSOW10TC11UFZHcnBOY2k2LWlLZkxNR0Rwd2h3M3ZVZjVhT3N3cXlub1FZek1DYWhJaHpUOWw0dV8wcGVOOWdB?oc=5",
+  "category": "influencer",
+  "date": "2026-08-10",
+  "time": "11:00",
+  "path": "/articles/20260810-russia-maga-influencers-germany-election.html"
  }
 ]
