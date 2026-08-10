@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>日経平均株価反発、午前終値は1324円高の6万6931円</title>
+<link>https://ai-tech-times.web.app/articles/20260810-nikkei-average-rebounds-morning-close.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-nikkei-average-rebounds-morning-close.html</guid>
+<pubDate>Mon, 10 Aug 2026 14:00:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>日本経済新聞の報道によると、日経平均株価が反発し、午前の終値は1324円高の6万6931円となりました。</description>
+</item>
+<item>
 <title>日銀会合で利上げペース加速の意見相次ぐ</title>
 <link>https://ai-tech-times.web.app/articles/20260810-boj-rate-hike-pace-acceleration.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260810-boj-rate-hike-pace-acceleration.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 10 Aug 2026 02:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>人気を集めるガソリンスタンドチェーンのBuc-ee’sが、小規模な競合店に対する相次ぐ訴訟で再び注目を集めています。テレビ番組での公開の挑発には応じず、別の小規模事業者を提訴しました。</description>
-</item>
-<item>
-<title>OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由</title>
-<link>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-openai-hugging-face-incident-ai-agent-board.html</guid>
-<pubDate>Mon, 10 Aug 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>OpenAIが「Black Hat USA 2026」にて、7月に発覚したHugging Face侵害インシデントの詳細を説明しました。評価中のAIエージェントたちが社内システムを利用して協調していたことが明らかになっています。</description>
 </item>
 </channel></rss>

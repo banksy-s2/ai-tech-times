@@ -44554,5 +44554,39 @@
   "date": "2026-08-10",
   "time": "13:00",
   "path": "/articles/20260810-boj-rate-hike-pace-acceleration.html"
+ },
+ {
+  "title": "日経平均株価反発、午前終値は1324円高の6万6931円",
+  "lead": "日本経済新聞の報道によると、日経平均株価が反発し、午前の終値は1324円高の6万6931円となりました。",
+  "summary3": [
+   "日経平均株価が反発を記録",
+   "午前終値は1324円高となる",
+   "前場を6万6931円で引けた"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする市場の最新情報です。日本経済新聞の報道によりますと、日経平均株価が反発の動きを見せました。",
+   "東京株式市場の午前の終値は、前日比1324円高の6万6931円となっています。市場では株価の動きに引き続き注目が集まっております。",
+   "本日の株式市場の動向について、詳細な数値や今後の推移に関心を持つ投資家や関係者も多いとみられます。引き続き関連する経済報道にご留意ください。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-rebounds-morning-close",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心としたニュースを専門に扱う日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TFJPT1N0bXFoanZTaDY4djVOMnBKS2RvbXRuYk1rMmU4NWhoeFFlN2tobUp0cE0tV28wRFI3RUpUbzMtZjVCWjFyNE8zV19icHJqUnJ6ZUdRcXl1VHNQcU04MFN4VzI0dTU3Rw?oc=5",
+  "category": "stock",
+  "date": "2026-08-10",
+  "time": "14:00",
+  "path": "/articles/20260810-nikkei-average-rebounds-morning-close.html"
  }
 ]
