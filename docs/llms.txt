@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ](https://ai-tech-times.web.app/articles/20260810-aucnet-fy2026-q2-earnings.html) — 2026-08-10 15:00: オークネットはFY2026 Q2 決算説明会において、M&A予算35億円を特別配当に充当し、年間82円配当とすることを発表しました。これに伴い、通期営業利益を120億円に上方修正しています。
 - [日経平均株価反発、午前終値は1324円高の6万6931円](https://ai-tech-times.web.app/articles/20260810-nikkei-average-rebounds-morning-close.html) — 2026-08-10 14:00: 日本経済新聞の報道によると、日経平均株価が反発し、午前の終値は1324円高の6万6931円となりました。
 - [日銀会合で利上げペース加速の意見相次ぐ](https://ai-tech-times.web.app/articles/20260810-boj-rate-hike-pace-acceleration.html) — 2026-08-10 13:00: 日銀が先月の金融政策決定会合における主な意見を公表し、物価の上振れに警戒が必要だとして利上げのペース加速を検討すべきだという意見が相次いだことがわかりました。
 - [富士通が営業職を増員する理由、AIで消える予想から一転して人気職種になったワケ](https://ai-tech-times.web.app/articles/20260810-fujitsu-sales-ai-trend.html) — 2026-08-10 12:01: 人工知能（AI）によっていずれ消えると予想されていた営業職ですが、直近では正反対の現象が起きています。富士通が大幅な人員増に踏み切った背景には、営業に伴走するAIサービスの登場がありました。
@@ -41,14 +42,13 @@
 - [マネーフォワードAPIとClaude Desktopで経理業務を完全自動化](https://ai-tech-times.web.app/articles/20260810-claude-desktop-moneyforward-accounting-automation.html) — 2026-08-10 07:01: 業務効率化のために便利なSaaSやExcelを導入したものの、人間の手間に悩まされていませんか？Claude DesktopとマネーフォワードAPIを活用し、経費精算アプリやExcelを使わずに経理を完全自動化した話題をご紹介します。
 - [Situational Awareness、チップ新興企業Source Foundryに4億ドル投資した理由](https://ai-tech-times.web.app/articles/20260810-situational-awareness-invests-400m-in-source-foundry-2.html) — 2026-08-10 07:01: AI特化型ヘッジファンドのSituational Awarenessが、半導体スタートアップのSource Foundryに対して4億ドルの大型投資を実施したことが明らかになりました。
 - [TechCrunch報道：監視カメラのAI検出を回避する新パターン](https://ai-tech-times.web.app/articles/20260810-adversarial-pattern-surveillance-cameras.html) — 2026-08-10 07:01: セキュリティ研究者が、監視カメラによる人物や車両の検出を防ぐコンピューター生成パターンを開発しました。
-- [ホロライブEN所属VTuber、『メイドインアビス』新作劇場版の主題歌に起用なぜ？](https://ai-tech-times.web.app/articles/20260810-hololive-en-made-in-abyss-theme-song.html) — 2026-08-10 07:01: 人気VTuberグループ「ホロライブEN」に所属するタレントが、人気アニメ『メイドインアビス』新作劇場版の主題歌アーティストに抜擢されました。
 
 ## 世界のバズ動画TOP3 (2026-08-10)
 - 1位: [Stray Kids "This & That" Dance Practice Video](https://www.youtube.com/watch?v=vo_qsb635u0)
 - 2位: [Stray Kids "This & That" M/V](https://www.youtube.com/watch?v=BZ4UzthYTss)
 - 3位: [Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations](https://www.youtube.com/watch?v=G5hWlD5zfhw)
 
-## AI用語事典 (全864語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全865語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
