@@ -44996,5 +44996,318 @@
   "date": "2026-08-10",
   "time": "19:01",
   "path": "/articles/20260810-verizon-mobile-service-restored.html"
+ },
+ {
+  "title": "Meta、ローカル稼働するマルチモーダルAI「Muse Glimmer」公開",
+  "lead": "Metaは、ローカル環境で動作し、エージェント機能を持つオープンソースのマルチモーダルAIモデル「Muse Glimmer」を発表しました。",
+  "summary3": [
+   "Metaが新AI「Muse Glimmer」を発表",
+   "ローカル環境で動作しエージェント機能を持つ",
+   "オープンソースのマルチモーダルモデルとして公開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米Metaは、新たなAIモデル「Muse Glimmer」を公開しました。Hugging Face Blogなどの情報によると、本モデルはローカル環境での稼働に対応しており、エージェントとしての機能も備えています。",
+   "さらに、テキストだけでなく複数の情報を同時に処理できるマルチモーダルな性質を持ち、オープンソースとして提供される点が大きな特徴です。ユーザーは自身の環境で柔軟にAIを活用できるようになります。",
+   "オープンソースのAIモデルの選択肢が広がることで、今後の開発やローカル環境での活用方法にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Meta",
+   "Muse Glimmer",
+   "AI"
+  ],
+  "slug": "meta-muse-glimmer",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "Facebookなどを運営するアメリカの大手ソーシャルメディア企業。"
+   }
+  ],
+  "source": "Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/muse-glimmer",
+  "category": "ai",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-meta-muse-glimmer.html"
+ },
+ {
+  "title": "アルバート・マイケルソンが指摘した科学の限界、AIに必要なのはデータか",
+  "lead": "科学の終焉が語られてきた歴史の中で、人工知能の登場により新たな議論が生まれています。AIが科学の発展に真に必要な要素とは何でしょうか。",
+  "summary3": [
+   "科学の終焉は過去にも繰り返し議論されてきた",
+   "アルバート・マイケルソンらは物理学の完成を予測",
+   "人工知能の時代において科学に必要な要素を考察"
+  ],
+  "body": [
+   "数十年ごとに、誰かが科学は終わりを迎えたと発表してきました。1903年には、物理学者のアルバート・マイケルソンが「物理学の事実はすべて発見された」と記しました。さらに1980年代には、スティーヴン・ホーキングが理論物理学は今世紀末までに終わるかもしれないと予測しています。",
+   "このように科学の限界が叫ばれてきた歴史がある中、人工知能が爆発的な勢いで到来しました。AI技術の急激な発展は、これまでの科学のあり方を大きく変える可能性を秘めています。",
+   "しかし、科学の分野でAIを活用するためには、単なるデータ量だけではなく推論能力が重要であるという議論が浮上しています。今後の科学の進展において、AIがどのような役割を果たすのか注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "科学",
+   "テクノロジー"
+  ],
+  "slug": "ai-for-science-needs-reasoning",
+  "people": [
+   {
+    "name": "アルバート・マイケルソン",
+    "bio": "アメリカの物理学者で、光速の精密測定などで知られノーベル物理学賞を受賞した。"
+   },
+   {
+    "name": "スティーヴン・ホーキング",
+    "bio": "イギリスの理論物理学者で、ブラックホールの特異点定理などで世界的に著名。"
+   }
+  ],
+  "terms": [],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+  "category": "ai",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-ai-for-science-needs-reasoning.html"
+ },
+ {
+  "title": "Gigazine報道：DDR4メモリが2年で10倍に高騰、その背景とは",
+  "lead": "AIブームに伴うデータセンター向けメモリの需要増加により、個人向けPC用メモリにも値上げの波が広がっています。",
+  "summary3": [
+   "AI向けHBMの需要増加が波及",
+   "DDR4の1GB単価が約10倍に",
+   "旧世代や現行DDR5も値上がり"
+  ],
+  "body": [
+   "AI向けデータセンターで使われる高帯域幅メモリ「High Bandwidth Memory(HBM)」の需要増加を背景に、個人向けのPC用メモリにも値上げの波が広がっています。",
+   "現行世代のDDR5メモリだけでなく、旧世代のDDR4メモリについても1GB当たりの価格が2年で約10倍に上昇したことが報告されています。",
+   "AIブームの拡大が、私たちのPC購入やパーツ交換のコストに直接的な影響を与えている状況が浮き彫りになっています。"
+  ],
+  "tags": [
+   "AI",
+   "ハードウェア",
+   "メモリ"
+  ],
+  "slug": "ai-ram-price-surge",
+  "people": [],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260810-ai-ram-price/",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-ai-ram-price-surge.html"
+ },
+ {
+  "title": "GoogleのPlayストアに初の競合アプリストアが登場、その背景とは",
+  "lead": "GoogleとEpicの法的闘争の新たな展開を受け、米国のAndroidユーザー向けにGoogleのPlayストアからサードパーティ製ストアのダウンロードが可能になりました。記念すべき最初のストアとして、ゲームに特化した「Aptoide」が利用できるようになっています。",
+  "summary3": [
+   "米国のPlayストアで初の競合ストアが登場",
+   "GoogleとEpicの法的な争いが背景にある",
+   "ゲーム特化の「Aptoide」が利用可能に"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、GoogleとEpicの法的な争いにおける最新の展開にともない、米国のAndroidユーザーはGoogleのPlayストアを開いて、独自のアプリセレクションを持つサードパーティ製のデジタルストアをダウンロードできるようになりました。",
+   "これによって利用可能となった最初のサードパーティ製ストアとして、モバイルゲームに特化した「Aptoide」が登場しています。サードパーティ製のアプリストア自体はこれまでもAndroidにおいて常に利用可能でしたが、今回の動きにより公式のPlayストア経由での入手が可能になったという点が大きな変化となります。",
+   "今回の展開は、Googleの法的な戦いの結果として実現したものであり、今後のモバイルアプリエコシステムやユーザーの選択肢にどのような影響を与えるのか、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "Google",
+   "Android",
+   "アプリストア"
+  ],
+  "slug": "first-rival-android-app-store-play-store",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、Android OSや多様なインターネットサービスを展開するアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "Epic",
+    "type": "company",
+    "desc": "人気ゲーム「フォートナイト」などを開発し、プラットフォームの流通手数料を巡りGoogleやAppleと法廷闘争を行うアメリカの企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-first-rival-android-app-store-play-store.html"
+ },
+ {
+  "title": "米民主党、OpenAIらに議会証言要求 なぜ",
+  "lead": "米下院の民主党議員グループが、最近発生したハッキング事態をめぐり、AnthropicやOpenAIなどのAI企業トップに議会での証言を求めていることが分かりました。",
+  "summary3": [
+   "米下院民主党がAI企業に証言要求",
+   "最近のハッキング事態が安全への脅威",
+   "AnthropicやOpenAIなどが対象に"
+  ],
+  "body": [
+   "CNBC Techの報道によると、米下院の民主党議員グループが、AnthropicやOpenAIをはじめとする主要なAI企業のリーダーたちに対し、最近発生したハッキング事態について議会で証言するよう求めていることが明らかになりました。",
+   "議員らは今回のハッキング事態について、安全性に対する明確なリスクであると指摘しています。最先端のAI技術を開発・提供する企業において、サイバー攻撃や不正アクセスのリスクがどのように管理されているのか、その責任と対策が厳しく問われることになりそうです。",
+   "現時点で、各AI企業のリーダーたちがいつ議会に出席して証言を行うのか、具体的な日程などは伝えられていません。今後の動向や、議会とAI企業の間でどのような協議が進められるのかに注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "OpenAI",
+   "Anthropic",
+   "セキュリティ",
+   "米国議会"
+  ],
+  "slug": "democrats-call-for-ai-testimony",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究企業で、対話型AI「ChatGPT」などを開発し世界的に広く知られています。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能安全研究・開発企業で、対話型AIアシスタント「Claude」などを提供しています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-democrats-call-for-ai-testimony.html"
+ },
+ {
+  "title": "ベントレー追突で韓国籍インフルエンサー逮捕、3度目のトラブルの真相",
+  "lead": "高級車のベントレーが追突事故を起こし、韓国籍のインフルエンサーである刺青の男が逮捕されました。男は対立集団に追われていたと供述していますが、追尾車両は確認されていません。",
+  "summary3": [
+   "ベントレー追突事故で男が逮捕される",
+   "対立集団に追われていたと供述する",
+   "追尾車両は確認されず3度目の逮捕"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、最新のニュースをお伝えいたします。高級車ベントレーが追突事故を起こした件をめぐり、韓国籍のインフルエンサーである刺青の男が逮捕されました。",
+   "報道によれば、逮捕された男は調べに対して「対立集団に追われていた」と供述しているとのことです。しかしながら、現場周辺において追尾していた車両は確認されておらず、主張の裏付けは取れていない状況です。",
+   "今回の逮捕により、過去のアメ車を購入した際のパーツをめぐるトラブル歴など、これまでの経緯にも再び注目が集まっています。本件は3度目の逮捕となっており、今後の捜査の行方が注目されます。"
+  ],
+  "tags": [
+   "ベントレー",
+   "インフルエンサー",
+   "事件"
+  ],
+  "slug": "bentley-collision-influencer-arrest",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LVGh6VmhRTEtFVzRRQl9FZk1JNl9XMldVczFva1NGY1RCZTNKVUE5dXY0bTVtdHNzcnc5ME1uSjJ4NDJvazBFdUluUkFFZTN0ZmEzOWs4dXdtTVpwbE1uUDZEVDJkeUxOeWVwbFZ0ZllYS005SUVwX3NnTdIBgAFBVV95cUxQdEViekdkenFvY1RLYlRzbElLYTYzZXVNTF91aUl3TktMcUVXLTc3WUZpb2JBVWhkZGFZd1loNTBUM0lRbG55QmdtWEh3OTFlN3pOZHIzc29NcWo5UnZoTmdUeTk2Wl9fTGdBRmVhcXJkUFhwVGtncmpISUVsR0dzYQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-bentley-collision-influencer-arrest.html"
+ },
+ {
+  "title": "高市内閣支持率53％、前回から5ポイント下落の理由",
+  "lead": "NHKが実施した最新の世論調査によると、高市内閣の支持率は53％となり、前回の7月調査から下降しました。",
+  "summary3": [
+   "高市内閣支持率は53％に下落",
+   "不支持率は6ポイント上昇の33％",
+   "NHKの世論調査結果が明らかに"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の政治動向です。NHKの世論調査によりますと、高市内閣を「支持する」と答えた人は53％でした。これは7月の調査から5ポイント下がった数字となっています。",
+   "一方で、内閣を「支持しない」と答えた人は33％という結果になりました。こちらは前回の調査から6ポイント上がっており、不支持の割合が増加する形となりました。",
+   "今回の調査結果は、今後の政権運営や政策決定に少なからず影響を与えるものとみられます。引き続き、世論の動向や各党の反応に注目が集まりそうです。"
+  ],
+  "tags": [
+   "高市内閣",
+   "世論調査",
+   "政治"
+  ],
+  "slug": "takaichi-cabinet-approval-rating-nhk-poll",
+  "people": [
+   {
+    "name": "高市",
+    "bio": "日本の内閣総理大臣であり、高市内閣を率いる政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260810de43053",
+  "category": "world",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-takaichi-cabinet-approval-rating-nhk-poll.html"
+ },
+ {
+  "title": "シスメックス松井社長「株価低調でIR反省」事業見直しへ",
+  "lead": "医療機器大手のシスメックスは、低調な株価を受けてIR活動を反省し、投資集中に向けた事業の見直し方針を明らかにしました。",
+  "summary3": [
+   "シスメックスの松井社長が株価低調でIR反省",
+   "投資集中へ向けた事業見直しを進める方針",
+   "日本経済新聞の報道で詳細が明らかにされた"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする企業の最新動向です。医療検査機器大手のシスメックスを率いる松井社長が、低調な株価をめぐってこれまでのIR（投資家向け広報）活動を反省する意向を示しました。日本経済新聞の報道によると、今後は投資の集中に向けて事業の大幅な見直しを進める方針とのことです。",
+   "株式市場における同社の株価推移が軟調に経過する中、経営陣は市場との対話姿勢や情報発信のあり方を見つめ直す必要があると判断しました。企業価値の向上と投資家からの信頼回復を目指し、限られた経営資源や資金を成長分野へ集中的に投下するための戦略的な事業再編が検討されています。",
+   "市場関係者の間では、今後の具体的な事業見直しの内容や、投資集中による業績への影響に注目が集まっています。シスメックスがどのようなIR改善策と事業再編を実行していくのか、引き続き動向が注視される状況となっています。"
+  ],
+  "tags": [
+   "シスメックス",
+   "株式市場",
+   "IR"
+  ],
+  "slug": "sysmex-matsui-ir-review",
+  "people": [
+   {
+    "name": "松井社長",
+    "bio": "医療検査機器大手シスメックスの代表取締役社長。経営トップとして企業のかじ取りを行う。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "シスメックス",
+    "type": "company",
+    "desc": "兵庫県神戸市に本社を置く、検体検査を中心に医療用機器や試薬の開発・製造・販売を行うグローバル企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0dnNaLU5jZjRqckplaG1DaXJuRTZpdVVDaVRQWmc0QldVeG9yMnZUYVVIYWR2X3VxcXlqaXRHSjVGVFp2SFJ1MGVxbTdjSEZEQlRPRWtjTk9zRWJEdzJrTkZBaHpod3B3Vk55NQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-sysmex-matsui-ir-review.html"
+ },
+ {
+  "title": "キリンHD上期純利益1017億円、純利益92.5%増の背景",
+  "lead": "AI TECH TIMESがお届けする企業ニュース。キリンHDの2026年Q2決算説明会が開催され、上期純利益が92.5%増の1017億円を記録しました。",
+  "summary3": [
+   "キリンHDの上期純利益が1017億円",
+   "前年同期比で純利益が92.5%増を記録",
+   "Jamieson Wellnessを買収予定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。キリンHD（キリンホールディングス）の【2503.T FY2026 Q2 決算説明会】に関する最新情報をお伝えします。今回の発表によると、キリンHDの上期純利益は前年同期比92.5%増となる1017億円を記録し、事業利益についても36%増と好調な結果となりました。",
+   "さらに、今回の決算説明会では北米ヘルスサイエンスへの本格的な参入に向けた動きも明らかになりました。キリンHDは「Jamieson Wellness」を2183億円で買収することを発表しており、今後の事業展開における大きな飛躍を見据えた戦略として注目を集めています。",
+   "今回の決算発表および大型買収により、キリンHDの今後の北米市場におけるヘルスサイエンス事業の展開と、財務・業績への影響について引き続き関心が集まる見通しです。詳細な数値や事業別の詳細については、企業の公式発表資料をご確認ください。"
+  ],
+  "tags": [
+   "キリンHD",
+   "決算",
+   "M&A"
+  ],
+  "slug": "kirin-hd-fy2026-q2-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "キリンHD",
+    "type": "company",
+    "desc": "日本の大手ビール・飲料メーカーであり、酒類事業のほか医薬やヘルスサイエンス事業も展開する持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UdVA0MUxGejJ6M3BDQ3gtWDNqb0xXd0tSYXlCeFZjN1RXRkZfdEg0dXlCdnJRVkNJX1BFODNHWG5Sa0J2NGhKVHl3V0d5S0x5NXc3dlRtSF9XREZjeGJV?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-10",
+  "time": "21:05",
+  "path": "/articles/20260810-kirin-hd-fy2026-q2-results.html"
  }
 ]
