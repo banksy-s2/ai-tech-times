@@ -45379,5 +45379,39 @@
   "date": "2026-08-10",
   "time": "23:00",
   "path": "/articles/20260810-seiko-group-stock-price-high.html"
+ },
+ {
+  "title": "Discovered Materials、900万ドル調達の狙い",
+  "lead": "効率的なチップ開発を目指す新興企業Discovered Materialsが、新たな素材の探索に向けて資金調達を実施しました。",
+  "summary3": [
+   "Discovered Materialsが資金調達を実施",
+   "効率的なチップ開発のための素材探索",
+   "900万ドルの資金を新素材の発見に活用"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunch AIの報道からお伝えします。効率的な半導体チップの開発に向け、新しい素材の探索を進めているDiscovered Materialsが、このほど900万ドルの資金調達を実施したことが明らかになりました。",
+   "同社は、より優れた性能を持つチップを実現するための新素材のハンティングに、AI技術を活用しながら取り組んでいます。今回の資金調達により、さらなる素材探索の研究開発を加速させる方針です。",
+   "次世代のコンピュータやAIの処理を支えるハードウェアの進化において、素材レベルからのアプローチは極めて重要です。Discovered Materialsの今後の動向に、業界からの注目が集まっています。"
+  ],
+  "tags": [
+   "半導体",
+   "AI",
+   "資金調達"
+  ],
+  "slug": "discovered-materials-raises-9-million",
+  "people": [],
+  "terms": [
+   {
+    "name": "Discovered Materials",
+    "type": "company",
+    "desc": "効率的なチップ開発のための新素材の探索を行っている企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+  "category": "ai",
+  "date": "2026-08-11",
+  "time": "00:00",
+  "path": "/articles/20260811-discovered-materials-raises-9-million.html"
  }
 ]
