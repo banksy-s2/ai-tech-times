@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-10 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-10 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ",
-   "path": "/articles/20260810-aucnet-fy2026-q2-earnings.html",
-   "cat": "日本企業"
+   "title": "SAPが採用と出張を凍結、AIの高騰するコストの影響とは",
+   "path": "/articles/20260810-sap-stops-travel-hiring-ai-cost.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=vo_qsb635u0"
  },
  "notes": [],
- "pv_today": 6,
+ "pv_today": 8,
  "gemini": {
-  "used": 91,
+  "used": 95,
   "limit": 200
  }
 }

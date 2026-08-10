@@ -44622,5 +44622,39 @@
   "date": "2026-08-10",
   "time": "15:00",
   "path": "/articles/20260810-aucnet-fy2026-q2-earnings.html"
+ },
+ {
+  "title": "SAPが採用と出張を凍結、AIの高騰するコストの影響とは",
+  "lead": "ソフトウェア大手のSAPが、AI関連コストの高騰を背景に、大部分の採用と出張を停止する措置をとったことが明らかになりました。",
+  "summary3": [
+   "ソフトウェア大手のSAPが採用と出張を凍結",
+   "AI導入に伴うコストの高騰が主な原因",
+   "海外メディアの報道で今回の対応が判明"
+  ],
+  "body": [
+   "海外メディアの報道によると、ソフトウェア大手のSAPが、AI関連のコスト急増を背景にして、大半の採用と出張を停止する決定を下しました。",
+   "AI技術の活用が進む一方で、その導入や運用にかかる費用が企業経営に重くのしかかっている現状が浮き彫りとなっています。",
+   "今回の措置により、同社の今後の事業展開やAI投資のあり方にどのような影響が出るのか注目が集まっています。"
+  ],
+  "tags": [
+   "SAP",
+   "AIコスト",
+   "IT業界"
+  ],
+  "slug": "sap-stops-travel-hiring-ai-cost",
+  "people": [],
+  "terms": [
+   {
+    "name": "SAP",
+    "type": "company",
+    "desc": "ドイツに本拠を置き、企業向けソフトウェアの開発を手がける世界的な大企業です。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+  "category": "ai",
+  "date": "2026-08-10",
+  "time": "16:01",
+  "path": "/articles/20260810-sap-stops-travel-hiring-ai-cost.html"
  }
 ]
