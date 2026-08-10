@@ -1,21 +1,63 @@
 {
- "updated": "2026-08-10 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-10 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ロシアが米MAGA派インフルエンサーを介し独選挙に干渉した理由",
-   "path": "/articles/20260810-russia-maga-influencers-germany-election.html",
+   "title": "富士通が営業職を増員する理由、AIで消える予想から一転して人気職種になったワケ",
+   "path": "/articles/20260810-fujitsu-sales-ai-trend.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "中国MiniMaxの動画AI「MiniMax H3」が無料で使える理由",
+   "path": "/articles/20260810-minimax-h3-video-ai-free.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ロンドン・キングスクロスが世界トップ級のAIハブに変貌した理由",
+   "path": "/articles/20260810-kings-cross-ai-hub.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon Kindle Scribe Colorsoftは楽しいが買いか",
+   "path": "/articles/20260810-kindle-scribe-colorsoft-review.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "JFAが日本人審判員4人を調査、結果公表へ",
+   "path": "/articles/20260810-jfa-investigates-japanese-referees.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "中国のタングステン輸出規制、国内製造業への影響と価格高騰なぜ",
+   "path": "/articles/20260810-tungsten-export-control-china.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "財務省発表：1〜6月経常収支17兆4292億円黒字、なぜ過去最大に？",
+   "path": "/articles/20260810-current-account-surplus-jan-jun.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東京株式市場・前引け：半導体株押し上げで反発、一時6万7000円回復",
+   "path": "/articles/20260810-tokyo-stock-market-morning-close.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "リクルートがストップ高、好決算発表で市場予想を大幅超過",
+   "path": "/articles/20260810-recruit-stock-price-surge.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" Dance Practice Video",
   "url": "https://www.youtube.com/watch?v=vo_qsb635u0"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 6,
  "gemini": {
-  "used": 60,
+  "used": 81,
   "limit": 200
  }
 }

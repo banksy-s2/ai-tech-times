@@ -44213,5 +44213,312 @@
   "date": "2026-08-10",
   "time": "11:00",
   "path": "/articles/20260810-russia-maga-influencers-germany-election.html"
+ },
+ {
+  "title": "富士通が営業職を増員する理由、AIで消える予想から一転して人気職種になったワケ",
+  "lead": "人工知能（AI）によっていずれ消えると予想されていた営業職ですが、直近では正反対の現象が起きています。富士通が大幅な人員増に踏み切った背景には、営業に伴走するAIサービスの登場がありました。",
+  "summary3": [
+   "AIで消えるとされた営業職が人気職種へ",
+   "営業伴走AIで腕利きを短期間育成",
+   "富士通など大幅な人員増で組織を強化"
+  ],
+  "body": [
+   "人工知能（AI）の台頭により、いずれ消える職種の一つとして挙げられていた「営業職」。しかし、ビジネスの現場では直近において、それとは正反対の現象が起きていることが分かりました。AIの進化が、かつての予想を大きく覆す結果を生み出しています。",
+   "その背景にあるのが、営業活動に寄り添い、伴走するAIサービスの次々な誕生です。これらのサービスによって短期間で腕利きのセールスパーソンを育成できる環境が整い、営業職を取り巻く状況が一変しました。",
+   "こうした環境の変化を受け、富士通のように大幅な人員増を図り、組織の強化へと動き出す企業も現れています。AIの活用が、消えると言われた職種を人気の花形へと押し上げる原動力となっています。"
+  ],
+  "tags": [
+   "AI",
+   "営業職",
+   "富士通"
+  ],
+  "slug": "fujitsu-sales-ai-trend",
+  "people": [],
+  "terms": [
+   {
+    "name": "富士通",
+    "type": "company",
+    "desc": "日本を代表する総合エレクトロニクスメーカーであり、ITサービスや通信システムなどを広く手掛ける企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-fujitsu-sales-ai-trend.html"
+ },
+ {
+  "title": "中国MiniMaxの動画AI「MiniMax H3」が無料で使える理由",
+  "lead": "中国のMiniMaxが新たに公開した動画生成AIモデル「MiniMax H3」は、無料で試し放題かつ高性能なモデルとして注目を集めています。ByteDanceの「Seedance 2.0」に匹敵する性能を持つとされ、その実力を検証する動きが広がっています。",
+  "summary3": [
+   "中国MiniMaxが新動画AIを公開",
+   "Seedance 2.0に匹敵する性能",
+   "無料で試せて工夫次第で活用可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、話題を集めているオープンモデルの動画生成AI「MiniMax H3」に関する情報をお伝えします。中国のMiniMaxが2日に公開したこのモデルは、現在の動画AI業界でシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持っていることが明らかになりました。",
+   "最大の特徴は、多数の画像を活用できる点にあります。使い方をうまく工夫することによって、OpenAIの「Sora2」を超えたような使い方ができそうなモデルとして設計されており、無料ですべて試し放題という手軽さも大きな魅力となっています。",
+   "動画生成AIの分野において新たな選択肢となるこのモデルの登場により、今後のクリエイティブな制作活動や活用方法の幅がどのように広がっていくのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "MiniMax H3",
+   "動画生成AI",
+   "AI TECH TIMES"
+  ],
+  "slug": "minimax-h3-video-ai-free",
+  "people": [],
+  "terms": [
+   {
+    "name": "MiniMax",
+    "type": "company",
+    "desc": "中国のAI開発企業であり、新たな動画生成AIモデルなどを公開している。"
+   },
+   {
+    "name": "ByteDance",
+    "type": "company",
+    "desc": "TikTokなどを運営する中国の巨大テクノロジー企業で、動画AI分野でもシェアを持つ。"
+   },
+   {
+    "name": "MiniMax H3",
+    "type": "ai",
+    "desc": "中国MiniMaxが公開したオープンモデルの動画生成AIで、無料で試し放題とされる。"
+   },
+   {
+    "name": "Seedance 2.0",
+    "type": "ai",
+    "desc": "ByteDanceが開発したとされる、現在の動画AI市場でシェアトップクラスのモデル。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://ascii.jp/elem/000/004/426/4426043/",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-minimax-h3-video-ai-free.html"
+ },
+ {
+  "title": "ロンドン・キングスクロスが世界トップ級のAIハブに変貌した理由",
+  "lead": "かつてロンドン有数の治安の悪い地区だったキングスクロスが、世界をリードするAI拠点のひとつへと生まれ変わりました。",
+  "summary3": [
+   "キングスクロスは治安の悪い地区だった",
+   "現在は世界トップ級のAIハブに変貌",
+   "20年以上の歳月を経て新しい姿へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回のニュースは、イギリス・ロンドンのキングスクロスに関する話題です。20年以上前、このキングスクロスはロンドンの中でも最も治安が悪い地域のひとつとして広く知られていました。",
+   "しかし現在、そのかつての赤線地区は大きく様変わりしています。かつての面影を残さないほどに再開発が進み、現在は世界トップクラスのAIハブとして新たな産業や技術が次々と芽吹く場所へと成長を遂げました。",
+   "かつての不穏なイメージを払拭し、世界の最先端技術が集まる一大拠点へと進化を遂げたキングスクロス。都市再生とテクノロジーの融合を示す象徴的な事例として、今後も世界中から大きな注目を集め続けることになりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "ロンドン",
+   "テクノロジー"
+  ],
+  "slug": "kings-cross-ai-hub",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-kings-cross-ai-hub.html"
+ },
+ {
+  "title": "Amazon Kindle Scribe Colorsoftは楽しいが買いか",
+  "lead": "TechCrunchが報じた新端末「Kindle Scribe Colorsoft」の評価をお届けします。魅力的な本体ですが、その実力と価格は見合うのでしょうか。",
+  "summary3": [
+   "美しく軽量な本体デザイン",
+   "高価格とサイズが課題に",
+   "日常使いには必須ではない"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。米メディアのTechCrunchが、Amazonの最新端末「Kindle Scribe Colorsoft」についてのレビュー記事を公開しました。",
+   "この記事によると、同デバイスは見た目が美しく、かつ軽量な設計となっており、操作していて非常に楽しい製品に仕上がっています。",
+   "しかし一方で、高額な価格設定やサイズ感を考慮すると、一般のユーザーにとって必ずしも購入が必須となるアイテムではないと指摘されています。"
+  ],
+  "tags": [
+   "Kindle",
+   "TechCrunch",
+   "ガジェット"
+  ],
+  "slug": "kindle-scribe-colorsoft-review",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大手の総合オンラインストアやクラウドサービスを展開する企業です。"
+   },
+   {
+    "name": "Kindle Scribe Colorsoft",
+    "type": "ai",
+    "desc": "美しく軽量な設計を特徴とする、Amazonが提供する注目の電子書籍リーダー端末です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+  "category": "silicon",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-kindle-scribe-colorsoft-review.html"
+ },
+ {
+  "title": "JFAが日本人審判員4人を調査、結果公表へ",
+  "lead": "韓国サッカー協会の性接待疑惑をめぐり、日本サッカー協会が4人の日本人審判員を調査していることが明らかになりました。",
+  "summary3": [
+   "韓国協会の性接待疑惑が浮上",
+   "JFAが日本人審判員4人を調査",
+   "調査終了後に結果公表の意向"
+  ],
+  "body": [
+   "韓国サッカー協会が過去に外国人審判員に性接待をしたとの疑惑を同国メディアが報じた問題で、日本サッカー協会（JFA）が4人の日本人審判員を調査していることが9日、分かりました。調査を行った後に結果を公表する意向を示しています。",
+   "報道によると、問題とされているのは2011年から2012年にかけて同国で開催されたサッカー・ワールドカップ予選など、計7試合を担当した外国人審判員に関するものです。",
+   "今回の調査対象となった4人の日本人審判員について、JFAがどのような事実関係を確認し、どのような結果を公表するのかに注目が集まっています。"
+  ],
+  "tags": [
+   "日本サッカー協会",
+   "サッカー",
+   "スポーツニュース"
+  ],
+  "slug": "jfa-investigates-japanese-referees",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本サッカー協会",
+    "type": "company",
+    "desc": "日本のサッカー界を統括し、代表チームの強化や大会運営を行う公益財団法人です。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.sankei.com/article/20260809-ZPXGOGWGJZIJNLFG6GR3FEOQCU/",
+  "category": "influencer",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-jfa-investigates-japanese-referees.html"
+ },
+ {
+  "title": "中国のタングステン輸出規制、国内製造業への影響と価格高騰なぜ",
+  "lead": "レアメタルの一種であるタングステンについて、中国が輸出規制を強化したことで、日本国内の製造業に影響が出ています。",
+  "summary3": [
+   "中国がタングステンの輸出規制を強化",
+   "国内の製造業で製品の値上がりが進行",
+   "調達難が発生し影響が深刻化"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたNHK主要ニュースによると、レアメタルの一種である「タングステン」について、中国が輸出規制を強化していることが分かりました。",
+   "この中国による輸出規制の強化に伴い、日本国内の製造業では、タングステンを使用した製品が値上がりする動きが出ています。さらに、原材料が調達しづらくなるなどの影響も広がっており、関係者の間で懸念が強まっています。",
+   "製造業の現場において、不可欠な素材の調達難や価格高騰は経営や生産活動に直結する問題です。今後の動向や供給網の混乱がどのように推移するのか、引き続き慎重な注視が必要とされています。"
+  ],
+  "tags": [
+   "タングステン",
+   "中国",
+   "輸出規制"
+  ],
+  "slug": "tungsten-export-control-china",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260809de43011",
+  "category": "world",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-tungsten-export-control-china.html"
+ },
+ {
+  "title": "財務省発表：1〜6月経常収支17兆4292億円黒字、なぜ過去最大に？",
+  "lead": "財務省が発表した今年1月から6月までの国際収支によると、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字となりました。比較可能な1985年以降で上半期として過去最大の規模となっています。",
+  "summary3": [
+   "1〜6月の経常収支は17兆4292億円の黒字",
+   "比較可能な1985年以降で上半期として過去最大",
+   "海外からの配当が増えたことが主な要因"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が財務省の発表をまとめたところによると、今年1月から6月までの日本の国際収支において、海外との貿易や投資の稼ぎを示す経常収支が17兆4292億円の黒字を記録しました。この数字は、比較可能な1985年以降において上半期としては過去最大の大きさとなります。",
+   "今回の大きな黒字の背景には、海外からの配当が増加したことがあるとされています。日本企業や投資家が海外で行ってきた投資などが、しっかりと利益を生み出して国内に戻ってきている形と言えそうです。",
+   "グローバルな経済環境や海外投資の動向が私たちの生活や国内の経済にどのような影響を与えていくのか、今後の統計データにも引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "経済",
+   "財務省",
+   "国際収支"
+  ],
+  "slug": "current-account-surplus-jan-jun",
+  "people": [],
+  "terms": [
+   {
+    "name": "財務省",
+    "type": "company",
+    "desc": "日本の国家財政や税制、通貨、国際収支などを所管する中央省庁。国の予算案作成などを担う。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260810de43048",
+  "category": "world",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-current-account-surplus-jan-jun.html"
+ },
+ {
+  "title": "東京株式市場・前引け：半導体株押し上げで反発、一時6万7000円回復",
+  "lead": "東京株式市場の前引けは反発となり、一時6万7000円を回復しました。半導体関連株が相場を押し上げる展開となっています。",
+  "summary3": [
+   "東京株式市場の前引けは反発",
+   "一時6万7000円を回復",
+   "半導体関連株が相場を押し上げ"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、東京株式市場の前引けは反発となりました。市場では半導体株が買い優勢となり、相場全体を力強く押し上げる展開が見られています。",
+   "取引時間中には一時6万7000円を回復する場面もあり、投資家の関心を集めました。今後の動向についても引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "東京株式市場",
+   "半導体株",
+   "株式市況"
+  ],
+  "slug": "tokyo-stock-market-morning-close",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXk0dmRGU3FsTnFUWWVVSWRON2R0TXV0aTZlYU9IZjhSUGEyZFR0M2FXWkhnYzBoMkRxak5VN3VRQk1nQkVMdFJjSjl3NnEwS0RlUFAycl9NQXFDbzlyTlo3OFpEbldma1ZWUHpFS1J5akJ1c3Z1MjJSZ0xnYmZXTA?oc=5",
+  "category": "stock",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-tokyo-stock-market-morning-close.html"
+ },
+ {
+  "title": "リクルートがストップ高、好決算発表で市場予想を大幅超過",
+  "lead": "リクルートの株式がストップ高となりました。コンセンサスを大幅に上回る好決算の発表が好感されています。",
+  "summary3": [
+   "リクルートの株式がストップ高",
+   "コンセンサスを大幅に上回る",
+   "好決算発表を受けての動き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする株式市場のニュースです。リクルートに関連して、市場の注目を集める動きがありました。",
+   "今回の値動きの背景には、同社が発表した好決算があります。市場のコンセンサスを大幅に上回る内容であったことから買いが集まり、ストップ高をつける展開となりました。",
+   "企業の業績発表が市場に与える影響の大きさを改めて示す形となりました。今後の動向や詳細な数値については、引き続き各所の発表に注目が集まっています。"
+  ],
+  "tags": [
+   "リクルート",
+   "株式市場",
+   "好決算"
+  ],
+  "slug": "recruit-stock-price-surge",
+  "people": [],
+  "terms": [
+   {
+    "name": "リクルート",
+    "type": "company",
+    "desc": "人材や販促などの情報メディア事業を展開する日本の企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTRSeks0d0pvOWtQN2tHc3E3TWJ2YzBfZ21FbjV2eHZ5anF2YlNlekRrMGQ2ZkRBS3BTTnpiMllGVzZkN2p3d1dOSHUtcl9VaXZBeTRZTUIyUGo1OXYyc3JTS2c4OFRFcEpTOHZfZ3Q1V1FjVFdTREtETGlDNXM0TnJkbmZTbkHSAYwBQVVfeXFMTWdnOWFFTk1FODlvek1RQ0xVTzUtTWNFcE9KZG85YzBZZlVtWXBaNS1VNXBLX2xnNnVldGMwNFFSVkxybDNUc0JhUlhSYVBzU1FjbnoxWHQ1V3g0aWdBT19GYkwySGFra0EtWjBra0lkeU5XZVNGQ3F5Zm5JLU5CTFhELW8tSGw1MkFMODk?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-10",
+  "time": "12:01",
+  "path": "/articles/20260810-recruit-stock-price-surge.html"
  }
 ]
