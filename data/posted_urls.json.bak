@@ -1319,13 +1319,11 @@
   "https://gigazine.net/news/20260810-sk-hynix-38b/",
   "https://www.nikkei.com/article/DGXZQOUB049080U6A800C2000000/",
   "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yOEVwTTdseTFmZU9HNmpTeHJLZlpRR3lmY1B3bnl2SzBtdEVYTWVCS3RVa21neDJWMGdoaGRMMlcyTDA?oc=5"
+  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yOEVwTTdseTFmZU9HNmpTeHJLZlpRR3lmY1B3bnl2SzBtdEVYTWVCS3RVa21neDJWMGdoaGRMMlcyTDA?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260810de43054",
+  "https://news.web.nhk/newsweb/na/nd-20260810de43045"
  ],
  "titles": [
-  "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを解説",
-  "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-  "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-  "“米は迎撃ミサイル枯渇懸念しイラン攻撃強化を保留か”報道",
   "高盛、東証指数目標を4500に引き上げ 円安による日本企業の収益押し上げを予想 - BigGo ファイナンス",
   "新NISAで積み立て投資 年始に一括240万円vs月20万円を12回分割 日経平均連動銘柄なら勝ち組はどっち？【FPが解説】 - Yahoo!ニュース",
   "「中長期の企業価値向上」に重点、上場企業の統治指針５年ぶり改定…成長へ「攻めのガバナンス」強く後押し - Yahoo!ニュース",
@@ -3321,6 +3319,10 @@
   "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
   "OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与",
   "【速レポ】＜LuckyFes’26＞宝鐘マリン＆ハコス・ベールズ、WING STAGEの3日目トリに降臨。VTuber初出演の＜LuckyFes＞に刻みつけた鮮やかなパフォーマンス - BARKS",
-  "宝鐘マリン＆ハコス・ベールズがLuckyFes’26のWING STAGEトリに降臨"
+  "宝鐘マリン＆ハコス・ベールズがLuckyFes’26のWING STAGEトリに降臨",
+  "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
+  "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+  "自民党支持率35.0％、NHKの8月世論調査で判明",
+  "トランプ大統領、核合意なしで幕引き模索か"
  ]
 }
