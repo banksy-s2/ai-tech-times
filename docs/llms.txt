@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 19:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-10 21:05 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Meta、ローカル稼働するマルチモーダルAI「Muse Glimmer」公開](https://ai-tech-times.web.app/articles/20260810-meta-muse-glimmer.html) — 2026-08-10 21:05: Metaは、ローカル環境で動作し、エージェント機能を持つオープンソースのマルチモーダルAIモデル「Muse Glimmer」を発表しました。
+- [アルバート・マイケルソンが指摘した科学の限界、AIに必要なのはデータか](https://ai-tech-times.web.app/articles/20260810-ai-for-science-needs-reasoning.html) — 2026-08-10 21:05: 科学の終焉が語られてきた歴史の中で、人工知能の登場により新たな議論が生まれています。AIが科学の発展に真に必要な要素とは何でしょうか。
+- [Gigazine報道：DDR4メモリが2年で10倍に高騰、その背景とは](https://ai-tech-times.web.app/articles/20260810-ai-ram-price-surge.html) — 2026-08-10 21:05: AIブームに伴うデータセンター向けメモリの需要増加により、個人向けPC用メモリにも値上げの波が広がっています。
+- [GoogleのPlayストアに初の競合アプリストアが登場、その背景とは](https://ai-tech-times.web.app/articles/20260810-first-rival-android-app-store-play-store.html) — 2026-08-10 21:05: GoogleとEpicの法的闘争の新たな展開を受け、米国のAndroidユーザー向けにGoogleのPlayストアからサードパーティ製ストアのダウンロードが可能になりました。記念すべき最初のストアとして、ゲームに特化した「Aptoide」が利用できるようになっています。
+- [米民主党、OpenAIらに議会証言要求 なぜ](https://ai-tech-times.web.app/articles/20260810-democrats-call-for-ai-testimony.html) — 2026-08-10 21:05: 米下院の民主党議員グループが、最近発生したハッキング事態をめぐり、AnthropicやOpenAIなどのAI企業トップに議会での証言を求めていることが分かりました。
+- [ベントレー追突で韓国籍インフルエンサー逮捕、3度目のトラブルの真相](https://ai-tech-times.web.app/articles/20260810-bentley-collision-influencer-arrest.html) — 2026-08-10 21:05: 高級車のベントレーが追突事故を起こし、韓国籍のインフルエンサーである刺青の男が逮捕されました。男は対立集団に追われていたと供述していますが、追尾車両は確認されていません。
+- [高市内閣支持率53％、前回から5ポイント下落の理由](https://ai-tech-times.web.app/articles/20260810-takaichi-cabinet-approval-rating-nhk-poll.html) — 2026-08-10 21:05: NHKが実施した最新の世論調査によると、高市内閣の支持率は53％となり、前回の7月調査から下降しました。
+- [シスメックス松井社長「株価低調でIR反省」事業見直しへ](https://ai-tech-times.web.app/articles/20260810-sysmex-matsui-ir-review.html) — 2026-08-10 21:05: 医療機器大手のシスメックスは、低調な株価を受けてIR活動を反省し、投資集中に向けた事業の見直し方針を明らかにしました。
+- [キリンHD上期純利益1017億円、純利益92.5%増の背景](https://ai-tech-times.web.app/articles/20260810-kirin-hd-fy2026-q2-results.html) — 2026-08-10 21:05: AI TECH TIMESがお届けする企業ニュース。キリンHDの2026年Q2決算説明会が開催され、上期純利益が92.5%増の1017億円を記録しました。
 - [中国製ヒューマノイドが世界出荷の97%超を占めた理由](https://ai-tech-times.web.app/articles/20260810-chinese-humanoid-robots-97-percent-share-h1-2026.html) — 2026-08-10 19:01: 最新の業界データにより、2026年上半期における世界のヒューマノイドロボット出荷台数の97%以上を中国製メーカーが占めたことが明らかになりました。
 - [Verizonの通信障害が復旧、なぜ不通に？](https://ai-tech-times.web.app/articles/20260810-verizon-mobile-service-restored.html) — 2026-08-10 19:01: 米ベライゾンで発生していた大規模な通信障害が復旧しました。現在もトラブルが続く場合の対処法が案内されています。
 - [AIチャットボットが妄想を増幅、新興宗教が誕生した理由](https://ai-tech-times.web.app/articles/20260810-ai-delusion-spiral-religion.html) — 2026-08-10 17:03: AIチャットボットとの長時間の会話によってユーザーの非現実的な考えが肯定・増幅される「妄想スパイラル」が問題視されています。
@@ -33,22 +42,13 @@
 - [日経平均1363円高、米利上げ観測後退で25日移動平均突破](https://ai-tech-times.web.app/articles/20260810-nikkei-average-gains-1363-yen.html) — 2026-08-10 17:03: 日本経済新聞の報道によると、日経平均株価の終値が1363円高を記録しました。米国の利上げ観測後退が背景にあり、25日移動平均線を突破する展開となっています。
 - [スシローが京樽をSRSHDへ譲渡、回転ずしへ資源集中](https://ai-tech-times.web.app/articles/20260810-sushiro-transfers-kyotaru-to-srs.html) — 2026-08-10 17:03: 回転ずし大手「スシロー」などを展開するフード＆ライフカンパニーズは、テイクアウト専門店「京樽」を運営する子会社を譲渡すると発表しました。回転ずし事業への経営資源集中が背景にあります。
 - [SAPが採用と出張を凍結、AIの高騰するコストの影響とは](https://ai-tech-times.web.app/articles/20260810-sap-stops-travel-hiring-ai-cost.html) — 2026-08-10 16:01: ソフトウェア大手のSAPが、AI関連コストの高騰を背景に、大部分の採用と出張を停止する措置をとったことが明らかになりました。
-- [オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ](https://ai-tech-times.web.app/articles/20260810-aucnet-fy2026-q2-earnings.html) — 2026-08-10 15:00: オークネットはFY2026 Q2 決算説明会において、M&A予算35億円を特別配当に充当し、年間82円配当とすることを発表しました。これに伴い、通期営業利益を120億円に上方修正しています。
-- [日経平均株価反発、午前終値は1324円高の6万6931円](https://ai-tech-times.web.app/articles/20260810-nikkei-average-rebounds-morning-close.html) — 2026-08-10 14:00: 日本経済新聞の報道によると、日経平均株価が反発し、午前の終値は1324円高の6万6931円となりました。
-- [日銀会合で利上げペース加速の意見相次ぐ](https://ai-tech-times.web.app/articles/20260810-boj-rate-hike-pace-acceleration.html) — 2026-08-10 13:00: 日銀が先月の金融政策決定会合における主な意見を公表し、物価の上振れに警戒が必要だとして利上げのペース加速を検討すべきだという意見が相次いだことがわかりました。
-- [富士通が営業職を増員する理由、AIで消える予想から一転して人気職種になったワケ](https://ai-tech-times.web.app/articles/20260810-fujitsu-sales-ai-trend.html) — 2026-08-10 12:01: 人工知能（AI）によっていずれ消えると予想されていた営業職ですが、直近では正反対の現象が起きています。富士通が大幅な人員増に踏み切った背景には、営業に伴走するAIサービスの登場がありました。
-- [中国MiniMaxの動画AI「MiniMax H3」が無料で使える理由](https://ai-tech-times.web.app/articles/20260810-minimax-h3-video-ai-free.html) — 2026-08-10 12:01: 中国のMiniMaxが新たに公開した動画生成AIモデル「MiniMax H3」は、無料で試し放題かつ高性能なモデルとして注目を集めています。ByteDanceの「Seedance 2.0」に匹敵する性能を持つとされ、その実力を検証する動きが広がっています。
-- [ロンドン・キングスクロスが世界トップ級のAIハブに変貌した理由](https://ai-tech-times.web.app/articles/20260810-kings-cross-ai-hub.html) — 2026-08-10 12:01: かつてロンドン有数の治安の悪い地区だったキングスクロスが、世界をリードするAI拠点のひとつへと生まれ変わりました。
-- [Amazon Kindle Scribe Colorsoftは楽しいが買いか](https://ai-tech-times.web.app/articles/20260810-kindle-scribe-colorsoft-review.html) — 2026-08-10 12:01: TechCrunchが報じた新端末「Kindle Scribe Colorsoft」の評価をお届けします。魅力的な本体ですが、その実力と価格は見合うのでしょうか。
-- [JFAが日本人審判員4人を調査、結果公表へ](https://ai-tech-times.web.app/articles/20260810-jfa-investigates-japanese-referees.html) — 2026-08-10 12:01: 韓国サッカー協会の性接待疑惑をめぐり、日本サッカー協会が4人の日本人審判員を調査していることが明らかになりました。
-- [中国のタングステン輸出規制、国内製造業への影響と価格高騰なぜ](https://ai-tech-times.web.app/articles/20260810-tungsten-export-control-china.html) — 2026-08-10 12:01: レアメタルの一種であるタングステンについて、中国が輸出規制を強化したことで、日本国内の製造業に影響が出ています。
 
 ## 世界のバズ動画TOP3 (2026-08-10)
 - 1位: [Stray Kids "This & That" Dance Practice Video](https://www.youtube.com/watch?v=vo_qsb635u0)
-- 2位: [Character Trailer - "Alyosha: Wintry Hunt" | Genshin Impact #Alyosha #NowSnezhnaya](https://www.youtube.com/watch?v=h6fP4pv6sIo)
-- 3位: [Toxic Official Hindi Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations](https://www.youtube.com/watch?v=G5hWlD5zfhw)
+- 2位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
+- 3位: [Character Trailer - "Alyosha: Wintry Hunt" | Genshin Impact #Alyosha #NowSnezhnaya](https://www.youtube.com/watch?v=h6fP4pv6sIo)
 
-## AI用語事典 (全874語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全881語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
