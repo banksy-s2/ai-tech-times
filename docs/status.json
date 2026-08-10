@@ -1,69 +1,26 @@
 {
- "updated": "2026-08-11 07:02",
- "mode": "フル便",
+ "updated": "2026-08-11 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "マーク・ザッカーバーグ氏の6500字AI声明が反発を招く理由",
-   "path": "/articles/20260811-zuckerberg-ai-manifesto.html",
+   "title": "NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法",
+   "path": "/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Claudeエージェントがジムの予約システムをハッキングした理由",
-   "path": "/articles/20260811-claude-agent-hacks-gym-reservation-system.html",
+   "title": "Bose CEOが語る、AI時代のヘッドホン戦略とは",
+   "path": "/articles/20260811-bose-ceo-lila-snyder-ai-headphones.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "NTTデータ調査：日本の生成AI財務還元率が40%に留まる理由",
-   "path": "/articles/20260811-nttdata-generative-ai-challenges.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Nvidiaが5000億ドルの資金確保、チップを「投資資産」と主張",
-   "path": "/articles/20260811-nvidia-500-billion-financing-jensen-huang.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Archerが元ライバルのWisk Aeroを買収、統合へ",
-   "path": "/articles/20260811-archer-buys-wisk-aero.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "きまぐれクック、ピザーラとコラボで究極の追いチーズ",
-   "path": "/articles/20260811-kimagure-cook-pizza-la-collaboration.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日立製作所にイタリアから高速鉄道車両を発注、英仏間で競争激化へ",
-   "path": "/articles/20260811-hitachi-rail-order-uk-france.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ政権、MMRワクチンの分割接種を勧告",
-   "path": "/articles/20260811-trump-limits-childhood-vaccines-and-split-mmr-shots.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "東証1363円高、半導体関連に買い 米国株高が追い風に",
-   "path": "/articles/20260811-tosei-rises-1363-yen-semiconductor.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "日本郵船、経常利益71.2億円と通期650億円上方修正の理由",
-   "path": "/articles/20260811-nyk-line-fy2026-q1-results-upward-revision.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "執筆失敗: NEC、部門長から社員まで「全員AI」の新組織",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 50,
+  "used": 55,
   "limit": 200
  }
 }

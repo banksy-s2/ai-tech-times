@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法</title>
+<link>https://ai-tech-times.web.app/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html</guid>
+<pubDate>Tue, 11 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Hugging Face Blogにて、NVIDIA Magpie TTSを活用した低遅延で多言語対応の音声エージェント構築に関する情報が公開されました。</description>
+</item>
+<item>
+<title>Bose CEOが語る、AI時代のヘッドホン戦略とは</title>
+<link>https://ai-tech-times.web.app/articles/20260811-bose-ceo-lila-snyder-ai-headphones.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-bose-ceo-lila-snyder-ai-headphones.html</guid>
+<pubDate>Tue, 11 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>老舗オーディオブランドBoseの最高経営責任者が、ヘッドホンとAI技術の融合について語りました。</description>
+</item>
+<item>
 <title>マーク・ザッカーバーグ氏の6500字AI声明が反発を招く理由</title>
 <link>https://ai-tech-times.web.app/articles/20260811-zuckerberg-ai-manifesto.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260811-zuckerberg-ai-manifesto.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>NHKが実施した最新の世論調査によると、高市内閣の支持率は53％となり、前回の7月調査から下降しました。</description>
-</item>
-<item>
-<title>シスメックス松井社長「株価低調でIR反省」事業見直しへ</title>
-<link>https://ai-tech-times.web.app/articles/20260810-sysmex-matsui-ir-review.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-sysmex-matsui-ir-review.html</guid>
-<pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>医療機器大手のシスメックスは、低調な株価を受けてIR活動を反省し、投資集中に向けた事業の見直し方針を明らかにしました。</description>
-</item>
-<item>
-<title>キリンHD上期純利益1017億円、純利益92.5%増の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260810-kirin-hd-fy2026-q2-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-kirin-hd-fy2026-q2-results.html</guid>
-<pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
-<category>日本企業</category>
-<description>AI TECH TIMESがお届けする企業ニュース。キリンHDの2026年Q2決算説明会が開催され、上期純利益が92.5%増の1017億円を記録しました。</description>
 </item>
 </channel></rss>
