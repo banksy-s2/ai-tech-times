@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-11 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-11 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与",
-   "path": "/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html",
-   "cat": "シリコンバレー最速"
+   "title": "宝鐘マリン＆ハコス・ベールズがLuckyFes’26のWING STAGEトリに降臨",
+   "path": "/articles/20260811-luckyfes26-marine-hakos.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "執筆失敗: Sila lands $1.4B Pentagon loan as milita"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
