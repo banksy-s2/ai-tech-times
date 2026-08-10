@@ -44588,5 +44588,39 @@
   "date": "2026-08-10",
   "time": "14:00",
   "path": "/articles/20260810-nikkei-average-rebounds-morning-close.html"
+ },
+ {
+  "title": "オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ",
+  "lead": "オークネットはFY2026 Q2 決算説明会において、M&A予算35億円を特別配当に充当し、年間82円配当とすることを発表しました。これに伴い、通期営業利益を120億円に上方修正しています。",
+  "summary3": [
+   "M&A予算35億円を特別配当に充当",
+   "年間82円配当へ変更することを発表",
+   "通期営業利益を120億円に上方修正"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする企業の最新決算情報です。オークネットは、FY2026 Q2の決算説明会を開催し、今後の資本政策や業績予想に関する重要な修正を発表しました。",
+   "今回の発表によると、これまで計上していたM&A予算35億円を特別配当に充当することを決定しました。これにより、年間配当は82円へと変更される見込みです。",
+   "さらに、こうした業績および財務方針の変更を背景に、通期の営業利益予想を120億円に上方修正することも明らかにされました。詳細な財務状況や今後の動向については、同社の決算説明会資料等をご確認ください。"
+  ],
+  "tags": [
+   "オークネット",
+   "決算",
+   "配当"
+  ],
+  "slug": "aucnet-fy2026-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "オークネット",
+    "type": "company",
+    "desc": "情報流通の多角的な事業を展開する日本の企業であり、BtoBオークションなどのサービスを提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UdWo2TFJMNF80alZUOTVnMHkyTm0wSFZROU5jRWU3MmJ3VElxbDVJUUg2MkJuMThBTzhXcEZXcTJ3Ul9NTGVJOGxfTzN0enczRU5RV3lhbzNmYklQcEtj?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-10",
+  "time": "15:00",
+  "path": "/articles/20260810-aucnet-fy2026-q2-earnings.html"
  }
 ]

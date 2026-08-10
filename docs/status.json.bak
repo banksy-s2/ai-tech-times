@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-10 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-10 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均株価反発、午前終値は1324円高の6万6931円",
-   "path": "/articles/20260810-nikkei-average-rebounds-morning-close.html",
-   "cat": "株式投資(日本)"
+   "title": "オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ",
+   "path": "/articles/20260810-aucnet-fy2026-q2-earnings.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 6,
  "gemini": {
-  "used": 88,
+  "used": 91,
   "limit": 200
  }
 }
