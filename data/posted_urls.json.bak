@@ -1279,11 +1279,10 @@
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pREotMmNtdWw0NWxhVWx6aktEdXh1c0lnT25Zekw1NWxQT3E1S05fLVAwa3JPQ0dtY1dITXlJbFhlTDdoeEdOX0RoZTR4YWtTLWY0?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02S0dreUpHTEwwQk1iLTZBYUpGTzkwMmplMVEtSXRfMkc5UldEZ2U3Vmh3TnpSUVNQTmZNVlJ2aGU5TDNicUEtb0JsdEV4OTZtOHc?oc=5",
   "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-  "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html"
+  "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQmw3dlNWRFBWVUN6QW5BZDI5Zy1xcFhMZlQyV3phVnBBSkQzTjVUTnM3czE2ZzlSOW10TC11UFZHcnBOY2k2LWlLZkxNR0Rwd2h3M3ZVZjVhT3N3cXlub1FZek1DYWhJaHpUOWw0dV8wcGVOOWdB?oc=5"
  ],
  "titles": [
-  "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
-  "米トランプ政権の追加関税 米企業2社が措置取り消し求め提訴",
   "韓国大統領府、米韓で155兆円規模のAI半導体協力へ",
   "米トランプ政権の追加関税、米企業2社が提訴",
   "日経平均、2200円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
@@ -3281,6 +3280,8 @@
   "Anthropic is turning Claude Code’s auto mode on by default",
   "AnthropicのClaude Code、自動モードが標準に",
   "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-  "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表"
+  "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表",
+  "ロシア、米MAGA派インフルエンサー介し偽情報拡散 独選挙に干渉 - 日本経済新聞",
+  "ロシアが米MAGA派インフルエンサーを介し独選挙に干渉した理由"
  ]
 }
