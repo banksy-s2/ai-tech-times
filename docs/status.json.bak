@@ -1,21 +1,59 @@
 {
- "updated": "2026-08-10 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-10 17:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "SAPが採用と出張を凍結、AIの高騰するコストの影響とは",
-   "path": "/articles/20260810-sap-stops-travel-hiring-ai-cost.html",
-   "cat": "AI(海外)"
+   "title": "AIチャットボットが妄想を増幅、新興宗教が誕生した理由",
+   "path": "/articles/20260810-ai-delusion-spiral-religion.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ソニーとTSMC、熊本で63億ドル新合弁の2029年量産化へ迫る",
+   "path": "/articles/20260810-sony-tsmc-kumamoto-jv-2029.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "豪レアアース関連株が最大29%急騰、米政府の投資背景",
+   "path": "/articles/20260810-australian-rare-earth-miner-surges-us-investment.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "堀江貴文氏がXで転売肯定、メルカリは対策強化へ",
+   "path": "/articles/20260810-horie-mercari-resale-news.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "台風15号が東北・関東に接近、暴風と大雨への備えは",
+   "path": "/articles/20260810-typhoon-number-15-approaching.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東京地検特捜部の違法捜査巡り、取り調べ映像を法廷で再生",
+   "path": "/articles/20260810-tokyo-district-public-prosecutors-office-trial.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均1363円高、米利上げ観測後退で25日移動平均突破",
+   "path": "/articles/20260810-nikkei-average-gains-1363-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "スシローが京樽をSRSHDへ譲渡、回転ずしへ資源集中",
+   "path": "/articles/20260810-sushiro-transfers-kyotaru-to-srs.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"This & That\" Dance Practice Video",
   "url": "https://www.youtube.com/watch?v=vo_qsb635u0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: NEC、部門長から社員まで「全員AI」の新組織",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 8,
  "gemini": {
-  "used": 95,
+  "used": 110,
   "limit": 200
  }
 }
