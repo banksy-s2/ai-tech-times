@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-11 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-11 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均株価は1363円高の6万6970円、3日ぶり大幅反発",
-   "path": "/articles/20260811-nikkei-average-rebounds-sharply-feb-10.html",
-   "cat": "株式投資(日本)"
+   "title": "楽天グループ中間決算、売上過去最高でも赤字の理由は",
+   "path": "/articles/20260811-rakuten-group-interim-financial-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
  "notes": [],
- "pv_today": 4,
+ "pv_today": 5,
  "gemini": {
-  "used": 23,
+  "used": 26,
   "limit": 200
  }
 }

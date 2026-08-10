@@ -45623,5 +45623,39 @@
   "date": "2026-08-11",
   "time": "04:00",
   "path": "/articles/20260811-trump-iran-strait-of-ormuz.html"
+ },
+ {
+  "title": "日経平均株価は1363円高の6万6970円、3日ぶり大幅反発",
+  "lead": "10日大引けの日経平均株価は、前日比1363円51銭高の6万6970円22銭となり、3日ぶりに大幅反発しました。",
+  "summary3": [
+   "日経平均株価は3日ぶりに大幅反発",
+   "前日比1363円51銭高を記録",
+   "終値は6万6970円22銭となる"
+  ],
+  "body": [
+   "10日大引けの日経平均株価は、前日比1363円51銭高の6万6970円22銭となり、3日ぶりに大幅反発しました。",
+   "ウエルスアドバイザーの配信情報によると、当日の株式市場では幅広い銘柄で買いが優勢となり、指数を大きく押し上げる展開となりました。",
+   "市場参加者の間では、今後の動向を引き続き注視する姿勢が見られております。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-rebounds-sharply-feb-10",
+  "people": [],
+  "terms": [
+   {
+    "name": "ウエルスアドバイザー",
+    "type": "company",
+    "desc": "資産運用や金融・投資に関する情報やニュースを提供する日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFFVTVNrOVJLcXBlU0hVVFpvMXJLaTBrUFFfV3lFMUw0MF9ORk5JeUdwOU9IMkNydjQ2dGQyQXV6S3lYTUdTWFlFOFlvdlBtSzg1YlZDbFdVRUpsQXdabGEtY3I3ZkZ5aTM1dEZDZS1Od3hTVnd0WWFKUlRMTkNvRGotby0tVlk?oc=5",
+  "category": "stock",
+  "date": "2026-08-11",
+  "time": "05:00",
+  "path": "/articles/20260811-nikkei-average-rebounds-sharply-feb-10.html"
  }
 ]
