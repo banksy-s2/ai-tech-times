@@ -44141,5 +44141,49 @@
   "date": "2026-08-10",
   "time": "08:00",
   "path": "/articles/20260810-anthropic-claude-code-auto-mode.html"
+ },
+ {
+  "title": "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表",
+  "lead": "マイクロソフトやOpenAIなどの各社が、異なるAIエージェント間でスキルやMCPサーバの設定を共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。開発現場の効率化にどう影響するのでしょうか。",
+  "summary3": [
+   "Agent Plugins 1.0.0が発表",
+   "異なるAIエージェント間でスキル共有",
+   "マイクロソフトやOpenAIらがサポート"
+  ],
+  "body": [
+   "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。",
+   "これまでのAIエージェント開発では、使用するツールやエージェントの種類ごとに設定やスキルを個別に構築し直す手間が発生していました。今回の新しい共通化仕様の登場により、開発や連携のハードルが下がることが期待されます。",
+   "今後は主要なテクノロジー企業やプラットフォームによるサポートが進むことで、さまざまなAIエージェント同士の相互運用性が高まり、開発現場での利便性がさらに向上していくと見られています。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "マイクロソフト",
+   "OpenAI"
+  ],
+  "slug": "agent-plugins-100-announced",
+  "people": [],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "ウィンドウズなどを開発・展開する世界最大の米国ソフトウェア企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発し、AI業界をリードする米国の企業です。"
+   },
+   {
+    "name": "AWS",
+    "type": "company",
+    "desc": "アマゾン・ドット・コムが提供する、世界最大規模のクラウドコンピューティングサービスです。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+  "category": "ai_jp",
+  "date": "2026-08-10",
+  "time": "09:00",
+  "path": "/articles/20260810-agent-plugins-100-announced.html"
  }
 ]

@@ -1278,11 +1278,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260809de43024",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pREotMmNtdWw0NWxhVWx6aktEdXh1c0lnT25Zekw1NWxQT3E1S05fLVAwa3JPQ0dtY1dITXlJbFhlTDdoeEdOX0RoZTR4YWtTLWY0?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02S0dreUpHTEwwQk1iLTZBYUpGTzkwMmplMVEtSXRfMkc5UldEZ2U3Vmh3TnpSUVNQTmZNVlJ2aGU5TDNicUEtb0JsdEV4OTZtOHc?oc=5",
-  "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+  "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+  "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html"
  ],
  "titles": [
-  "SkyDrive、タイで空飛ぶクルマの事業化へ",
-  "カイアDLT財団とfinojectが業務提携、日本で事業推進",
   "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
   "米トランプ政権の追加関税 米企業2社が措置取り消し求め提訴",
   "韓国大統領府、米韓で155兆円規模のAI半導体協力へ",
@@ -3280,6 +3279,8 @@
   "コマツ慎重見通し裏切る上方修正、株価一段高の背景",
   "上場企業サラリーマン、母が株500万円分購入で顔面蒼白",
   "Anthropic is turning Claude Code’s auto mode on by default",
-  "AnthropicのClaude Code、自動モードが標準に"
+  "AnthropicのClaude Code、自動モードが標準に",
+  "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+  "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表"
  ]
 }

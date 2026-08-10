@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260810-agent-plugins-100-announced.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260810-agent-plugins-100-announced.html</guid>
+<pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>マイクロソフトやOpenAIなどの各社が、異なるAIエージェント間でスキルやMCPサーバの設定を共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。開発現場の効率化にどう影響するのでしょうか。</description>
+</item>
+<item>
 <title>AnthropicのClaude Code、自動モードが標準に</title>
 <link>https://ai-tech-times.web.app/articles/20260810-anthropic-claude-code-auto-mode.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260810-anthropic-claude-code-auto-mode.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 09 Aug 2026 20:00:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>メキシコにおいて、インフルエンサーがSNSの生配信中に銃殺される事件が発生しました。背景には麻薬組織の内部抗争があると報じられています。</description>
-</item>
-<item>
-<title>OpenAI、Astraの開発を遅らせた理由とは</title>
-<link>https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260809-openai-slows-astra-model-development.html</guid>
-<pubDate>Sun, 09 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米国のAI開発企業であるOpenAIが、開発中のモデル「Astra」の進行を一時的に遅らせたことを明らかにしました。</description>
 </item>
 </channel></rss>
