@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-11 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-12 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均10％下落でも投信へ2兆6956億円流入の背景",
-   "path": "/articles/20260811-nikkei-fund-inflow-2026-07.html",
-   "cat": "株式投資(日本)"
+   "title": "SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか",
+   "path": "/articles/20260812-spotify-ai-persona-labels-recommendations.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Anthropic、AI生成テキストに電子透かしを導入する理由",
+   "path": "/articles/20260812-anthropic-watermark-text-ai-models.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
  "notes": [],
- "pv_today": 30,
+ "pv_today": 1,
  "gemini": {
-  "used": 161,
+  "used": 5,
   "limit": 200
  }
 }

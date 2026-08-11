@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI、サイバー防御Daybreak発表なぜ拡張？</title>
+<link>https://ai-tech-times.web.app/articles/20260812-openai-daybreak-cyber-defense.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260812-openai-daybreak-cyber-defense.html</guid>
+<pubDate>Wed, 12 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIは、サイバー防御者向けイニシアチブ「Daybreak」の拡張と特化型モデル「GPT-5.6-Cyber」の投入を発表しました。セキュリティ研究における過度な拒否動作を抑制し、高度な防御タスクを支援します。</description>
+</item>
+<item>
+<title>DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化</title>
+<link>https://ai-tech-times.web.app/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html</guid>
+<pubDate>Wed, 12 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>クラスメソッドの森茂氏が、284Bの「DeepSeek V4 Flash-0731」をDGX Spark 2台で動かした検証結果を公開しました。</description>
+</item>
+<item>
 <title>SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか</title>
 <link>https://ai-tech-times.web.app/articles/20260812-spotify-ai-persona-labels-recommendations.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260812-spotify-ai-persona-labels-recommendations.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 11 Aug 2026 14:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>東京株式市場で日経平均株価が反発し、前日比1363円高の大幅な上昇を記録しました。米株高を背景に半導体関連銘柄へ買い注文が広がっています。</description>
-</item>
-<item>
-<title>イオンモール熊本爆発、避難後の一時入館を認めたと発表</title>
-<link>https://ai-tech-times.web.app/articles/20260811-aeon-mall-kumamoto-explosion-update.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-aeon-mall-kumamoto-explosion-update.html</guid>
-<pubDate>Tue, 11 Aug 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>イオンモール熊本での爆発事故をめぐり、イオンは従業員への聞き取りの結果、避難したあとに一時入館を認めた事実があったと発表しました。</description>
-</item>
-<item>
-<title>ロシア中部で無人機攻撃、13人死亡なぜ？石油施設狙う</title>
-<link>https://ai-tech-times.web.app/articles/20260811-russia-drone-attack-13-deaths.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-russia-drone-attack-13-deaths.html</guid>
-<pubDate>Tue, 11 Aug 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>ロシアでウクライナによる無人機攻撃が相次ぎ、石油関連施設が狙われた10日の事件で13人が死亡しました。</description>
 </item>
 </channel></rss>
