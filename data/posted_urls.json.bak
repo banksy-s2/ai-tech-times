@@ -1337,13 +1337,11 @@
   "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
   "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
   "https://gigazine.net/news/20260810-apple-tests-cxmt/",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html"
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
+  "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+  "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html"
  ],
  "titles": [
-  "Hugging Face CEO、OpenAIハッカーステートメント",
-  "メタやTikTokはなぜ欧州の研究者に法的データを出さないのか",
-  "共産党「大谷翔平、あまりに愚か」ANTIFA「大谷翔平ボイコットするわ」しばき隊系活動家「大谷翔平馬鹿野郎」",
-  "大谷翔平選手、トランプ大統領の投稿巡り共産党議員らが批判",
   "Would you pay $58.5m to live in this iconic New York building?",
   "名所フラットアイアンビル、5850万ドルの改修を経て迎える次の段階",
   "伊藤園を悩ます抹茶ブーム 茶葉高騰でも値上げ進まず、株価も渋く - 日本経済新聞",
@@ -3339,6 +3337,10 @@
   "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
   "Claude Code運用を一元化する「Claude apps gateway」発表　企業利用をどう管理？",
   "Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ",
-  "AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか"
+  "AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか",
+  "Jeff Bezos might finally get his hands on a sports team",
+  "Intel plans $15 billion stock offering as AI demand accelerates",
+  "ジェフ・ベゾス氏、名門リバプールFC買収へ",
+  "インテル、150億ドルの株式発行計画なぜ"
  ]
 }
