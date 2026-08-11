@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-11 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-11 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イオンモール熊本爆発、避難後の一時入館を認めたと発表",
-   "path": "/articles/20260811-aeon-mall-kumamoto-explosion-update.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ロシア中部で無人機攻撃、13人死亡なぜ？石油施設狙う",
-   "path": "/articles/20260811-russia-drone-attack-13-deaths.html",
-   "cat": "時事・世界"
+   "title": "東証反発、1363円高で一時6万7000円回復の理由",
+   "path": "/articles/20260811-tse-rebounds-1363-yen-high.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 8,
  "gemini": {
-  "used": 98,
+  "used": 102,
   "limit": 200
  }
 }
