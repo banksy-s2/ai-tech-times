@@ -1,26 +1,59 @@
 {
- "updated": "2026-08-11 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-11 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Metaの新型Glimmer AI、ザッカーバーグの狙いとは",
-   "path": "/articles/20260811-meta-new-glimmer-ai-model.html",
-   "cat": "AI(海外)"
+   "title": "ガートナー予測：2028年にSOC人手対応30％減の理由",
+   "path": "/articles/20260811-soc-human-response-decline-2028.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Anthropic、Claudeの数学的能力に関する新研究を公開",
-   "path": "/articles/20260811-anthropic-claude-mathematical-capabilities.html",
-   "cat": "AI(海外)"
+   "title": "Gigazine: AIにジム予約を頼んだら勝手にハッキング",
+   "path": "/articles/20260811-ai-gym-reservation-hacking.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "YouTube収益化、視聴時間が従来の2倍に条件厳格化",
+   "path": "/articles/20260811-youtube-doubles-watch-hours-requirement-for-monetization.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "人気SNSアカウント売買の闇、巨額詐欺に悪用も",
+   "path": "/articles/20260811-sns-account-trading-fraud.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "エヌビディア、ウォール街から5000億ドル獲得の理由",
+   "path": "/articles/20260811-wall-street-giants-hand-nvidia-500bn.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "NHK：台風15号による交通機関への影響は",
+   "path": "/articles/20260811-typhoon-15-transportation-impact.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "城内経財相、市場の財政拡大懸念に反論",
+   "path": "/articles/20260811-kiuchi-fiscal-policy-debate.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "楽天グループ、6年ぶり四半期黒字化の背景",
+   "path": "/articles/20260811-rakuten-group-fy2026-q2-earnings.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Google co-founder Sergey Brin has now sp",
+  "X告知失敗: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+ ],
  "pv_today": 23,
  "gemini": {
-  "used": 110,
+  "used": 126,
   "limit": 200
  }
 }
