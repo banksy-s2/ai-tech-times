@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-11 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-11 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法",
-   "path": "/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html",
-   "cat": "AI(海外)"
+   "title": "Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ",
+   "path": "/articles/20260811-apple-tests-cxmt-memory-restrictions.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Bose CEOが語る、AI時代のヘッドホン戦略とは",
-   "path": "/articles/20260811-bose-ceo-lila-snyder-ai-headphones.html",
-   "cat": "AI(海外)"
+   "title": "AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか",
+   "path": "/articles/20260811-anthropic-claude-apps-gateway.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 55,
+  "used": 60,
   "limit": 200
  }
 }

@@ -1333,13 +1333,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260811de43213",
   "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11dWVSQ05zcHlmNUdhTHUzSm13YWV6cXl2bW8yR29VZzNEUmtmQ2ZYOHFiTERZZWExQlR2VUdhM29XYjB2TDBMekRFYU9ON2NnMTYzZS1oanJPQ2k2bEE?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWW8tbUQ5aUE3c09fRThObEowalZjaUIwcVVFQmJuM1FnODhpUGNzNXdDU0ZHQUV5WnRzRUtRSWJvbXVwVC14SzYtaGdNdHR4bThRVFBfZ3ZPeUpCMksw?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWW8tbUQ5aUE3c09fRThObEowalZjaUIwcVVFQmJuM1FnODhpUGNzNXdDU0ZHQUV5WnRzRUtRSWJvbXVwVC14SzYtaGdNdHR4bThRVFBfZ3ZPeUpCMksw?oc=5",
+  "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
  ],
  "titles": [
-  "スタンフォード大学政策研究所が明かすAIと雇用の真実",
-  "8ドルのマイコンで2890万パラメータのLLMを動かす方法",
-  "理解を手放さない - Shin x Blog",
-  "『みいちゃんと山田さん』反対運動への所見｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
   "AIコーディングで人間の理解を手放すとどうなるか",
   "郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由",
   "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
@@ -3335,6 +3333,10 @@
   "日立製作所にイタリアから高速鉄道車両を発注、英仏間で競争激化へ",
   "トランプ政権、MMRワクチンの分割接種を勧告",
   "東証1363円高、半導体関連に買い 米国株高が追い風に",
-  "日本郵船、経常利益71.2億円と通期650億円上方修正の理由"
+  "日本郵船、経常利益71.2億円と通期650億円上方修正の理由",
+  "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+  "What happens to Bose when headphones become AI?",
+  "NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法",
+  "Bose CEOが語る、AI時代のヘッドホン戦略とは"
  ]
 }

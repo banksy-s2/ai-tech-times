@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ</title>
+<link>https://ai-tech-times.web.app/articles/20260811-apple-tests-cxmt-memory-restrictions.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-apple-tests-cxmt-memory-restrictions.html</guid>
+<pubDate>Tue, 11 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>世界的なメモリ不足を改善するため、Appleが中国の半導体メーカーであるCXMTのメモリチップをテストしていると報じられました。しかし、アメリカの規制によりカスタムチップの製造が行えていない可能性が指摘されています。</description>
+</item>
+<item>
+<title>AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260811-anthropic-claude-apps-gateway.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-anthropic-claude-apps-gateway.html</guid>
+<pubDate>Tue, 11 Aug 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Anthropicは企業がAIコーディングエージェントを運用するための管理基盤を発表しました。クラウドでの利用管理をどのように変えるのでしょうか。</description>
+</item>
+<item>
 <title>NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法</title>
 <link>https://ai-tech-times.web.app/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米下院の民主党議員グループが、最近発生したハッキング事態をめぐり、AnthropicやOpenAIなどのAI企業トップに議会での証言を求めていることが分かりました。</description>
-</item>
-<item>
-<title>ベントレー追突で韓国籍インフルエンサー逮捕、3度目のトラブルの真相</title>
-<link>https://ai-tech-times.web.app/articles/20260810-bentley-collision-influencer-arrest.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-bentley-collision-influencer-arrest.html</guid>
-<pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>高級車のベントレーが追突事故を起こし、韓国籍のインフルエンサーである刺青の男が逮捕されました。男は対立集団に追われていたと供述していますが、追尾車両は確認されていません。</description>
-</item>
-<item>
-<title>高市内閣支持率53％、前回から5ポイント下落の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260810-takaichi-cabinet-approval-rating-nhk-poll.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260810-takaichi-cabinet-approval-rating-nhk-poll.html</guid>
-<pubDate>Mon, 10 Aug 2026 21:05:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>NHKが実施した最新の世論調査によると、高市内閣の支持率は53％となり、前回の7月調査から下降しました。</description>
 </item>
 </channel></rss>

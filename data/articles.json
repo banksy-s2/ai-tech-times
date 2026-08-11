@@ -46113,5 +46113,93 @@
   "date": "2026-08-11",
   "time": "08:00",
   "path": "/articles/20260811-bose-ceo-lila-snyder-ai-headphones.html"
+ },
+ {
+  "title": "Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ",
+  "lead": "世界的なメモリ不足を改善するため、Appleが中国の半導体メーカーであるCXMTのメモリチップをテストしていると報じられました。しかし、アメリカの規制によりカスタムチップの製造が行えていない可能性が指摘されています。",
+  "summary3": [
+   "Appleが中国CXMTのメモリをテスト中",
+   "国防総省の規制によりカスタム発注が困難",
+   "世界的なメモリ不足の改善が課題に"
+  ],
+  "body": [
+   "アメリカの国防総省は、中国のテクノロジー企業など300社以上を「中国人民解放軍を支援する企業のリスト」に追加しました。これにより、政府の承認なしに製品やソフトウェアの輸出入が禁止される措置が取られています。",
+   "こうした状況の中、Appleは世界的なメモリ不足を改善するため、DRAMの世界第4位メーカーに成長している中国の半導体メーカー・ChangXin Memory Technologies（CXMT）のメモリチップをテストしていると報じられました。",
+   "しかし、アメリカ国防総省による規制が影響し、Apple用のカスタムチップを製造するための発注が行えていない可能性が指摘されています。PCメーカーが中国の成長中メモリメーカーの利用を始めている一方で、Appleは対応に苦慮するピンチを迎えています。"
+  ],
+  "tags": [
+   "Apple",
+   "CXMT",
+   "半導体"
+  ],
+  "slug": "apple-tests-cxmt-memory-restrictions",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを手掛け、世界的に高いシェアを持つアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "ChangXin Memory Technologies",
+    "type": "company",
+    "desc": "DRAM分野で世界第4位のメーカーに成長している中国の主要な半導体製造企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260810-apple-tests-cxmt/",
+  "category": "ai_jp",
+  "date": "2026-08-11",
+  "time": "09:00",
+  "path": "/articles/20260811-apple-tests-cxmt-memory-restrictions.html"
+ },
+ {
+  "title": "AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか",
+  "lead": "Anthropicは企業がAIコーディングエージェントを運用するための管理基盤を発表しました。クラウドでの利用管理をどのように変えるのでしょうか。",
+  "summary3": [
+   "Anthropicが管理基盤を発表",
+   "Claude Codeの運用を一元化",
+   "Amazon Bedrock等に対応"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Anthropicは2026年6月29日（米国時間）、企業がAIコーディングエージェント「Claude Code」を「Amazon Bedrock」や「Google Cloud」で運用するための管理基盤「Claude apps gateway」（Claudeアプリゲートウェイ）を発表しました。",
+   "従来、Amazon BedrockやGoogle CloudでClaude Codeを利用するには、開発者ごとにクラウド認……といった運用上の課題がありました。今回発表された管理基盤により、企業利用における管理や運用の一元化がどのように進められるのか、今後の動向が注目されます。",
+   "企業でのAI導入が進む中、こうした開発支援ツールの運用管理基盤の整備は重要な要素となります。さらなる詳細や今後の展開については、引き続き続報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude Code",
+   "AI開発"
+  ],
+  "slug": "anthropic-claude-apps-gateway",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AIアシスタントなどを手掛ける"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが提供するAIコーディングエージェント製品"
+   },
+   {
+    "name": "Amazon Bedrock",
+    "type": "ai",
+    "desc": "アマゾンが提供する、生成AIモデルを利用できるクラウドサービス"
+   },
+   {
+    "name": "Google Cloud",
+    "type": "company",
+    "desc": "グーグルが提供するクラウドコンピューティングサービス群"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
+  "category": "ai_jp",
+  "date": "2026-08-11",
+  "time": "09:00",
+  "path": "/articles/20260811-anthropic-claude-apps-gateway.html"
  }
 ]
