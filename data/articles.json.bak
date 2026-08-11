@@ -47982,5 +47982,39 @@
   "date": "2026-08-12",
   "time": "05:00",
   "path": "/articles/20260812-zensho-hd-1q-earnings-up.html"
+ },
+ {
+  "title": "ファナック受注36.9%増も先行発注警戒、通期売上高を過去最高に上方修正",
+  "lead": "ファナックはFY2026 Q1決算説明会を開催し、受注が36.9%急増したことを発表しました。一方で先行発注に対する警戒感も示しつつ、通期売上高は過去最高の9481億円へ上方修正しています。",
+  "summary3": [
+   "ファナックのQ1受注が36.9%急増",
+   "先行発注への警戒感を示す",
+   "通期売上高を9481億円へ上方修正"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の企業ニュースです。ファナックはFY2026 Q1（第1四半期）の決算説明会を実施し、当期の業績動向について詳細を明らかにしました。",
+   "発表によると、同社の受注は前年同期比で36.9%の大幅な急増を記録しました。しかし、この急増については「先行発注」である可能性も考慮され、同社では今後の動向に対して慎重な警戒感も示されています。",
+   "こうした受注状況を踏まえつつも、ファナックは通期の売上高予想を過去最高となる9481億円へと上方修正することを発表しました。今後の市場環境や受注の持続性が注目されます。"
+  ],
+  "tags": [
+   "ファナック",
+   "決算",
+   "上方修正"
+  ],
+  "slug": "fanuc-fy2026-q1-results-upward-revision",
+  "people": [],
+  "terms": [
+   {
+    "name": "ファナック",
+    "type": "company",
+    "desc": "山梨県忍野村に本拠を置き、FAやロボットなどの産業用機械で世界をリードする大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zYllFMEliS1hqMHVYT0pkaXVzc2dLR0o0UXBsVnMyLTZWU25wTlFUbEdqSi1Ubl81MHYwb0tXYmRrVFVrRVFtOHlyUUlKZ01kdkUxd011cEstWWNOZ0lF?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-12",
+  "time": "06:00",
+  "path": "/articles/20260812-fanuc-fy2026-q1-results-upward-revision.html"
  }
 ]
