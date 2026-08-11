@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-12 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-12 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "ゼンショーHD、1Q営業利益58%増の背景とは",
-   "path": "/articles/20260812-zensho-hd-1q-earnings-up.html",
-   "cat": "株式投資(日本)"
+   "title": "ファナック受注36.9%増も先行発注警戒、通期売上高を過去最高に上方修正",
+   "path": "/articles/20260812-fanuc-fy2026-q1-results-upward-revision.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 7,
  "gemini": {
-  "used": 23,
+  "used": 27,
   "limit": 200
  }
 }
