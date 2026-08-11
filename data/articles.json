@@ -47273,5 +47273,329 @@
   "date": "2026-08-11",
   "time": "20:01",
   "path": "/articles/20260811-hikakin-misokin-shinshu-ramen-haku-2026.html"
+ },
+ {
+  "title": "Metaマーク・ザッカーバーグCEO、AIと人類の未来を語る",
+  "lead": "Metaのマーク・ザッカーバーグCEOが、AIと人類の共生に関する6,500字超のエッセイを公開しました。",
+  "summary3": [
+   "Meta最高経営責任者がAIの未来を語る",
+   "6,500字を超える長文エッセイを公開",
+   "人工知能と人類の共生について明かす"
+  ],
+  "body": [
+   "米Metaのマーク・ザッカーバーグCEOは、人工知能（AI）と人類が共生する理想的な未来についての考えをまとめたエッセイを新たに公開しました。同氏が発表したエッセイは6,500字を超える非常に大がかりな内容となっています。",
+   "月曜日に公開されたこの長文のマニフェストは「The Future is for Everyone」と題されており、AIと人間社会の関わり方や、同氏が思い描く未来像について幅広い信念が述べられています。",
+   "今回の発表により、大手テクノロジー企業のトップが人工知能の発展と未来の社会像に対してどのようなビジョンを持っているのか、その詳細な考え方が示されることになりました。"
+  ],
+  "tags": [
+   "Meta",
+   "マーク・ザッカーバーグ",
+   "人工知能"
+  ],
+  "slug": "meta-mark-zuckerberg-ai-manifesto",
+  "people": [
+   {
+    "name": "マーク・ザッカーバーグCEO",
+    "bio": "SNS最大手MetaのCEOであり、同社の創業者の一人として広く知られる実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、FacebookやInstagramなどを運営する大手IT企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+  "category": "ai",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-meta-mark-zuckerberg-ai-manifesto.html"
+ },
+ {
+  "title": "シリコンバレー特異なAIバブル、崩壊で庶民に火傷する理由",
+  "lead": "AIバブルはシリコンバレーのテック企業の間だけで完結していると指摘されています。個人投資家が蚊帳の外にあるこの巨大バブルが崩壊したとき、なぜ普通の人々も深刻な痛手を免れないのか、米誌がその理由を分析しています。",
+  "summary3": [
+   "AIバブルはシリコンバレー間で完結",
+   "一般の個人投資家は蚊帳の外に置かれる",
+   "崩壊時は普通の人々も深刻な痛手を負う"
+  ],
+  "body": [
+   "人工知能をめぐる市場動向について、米誌がその危険性を分析しています。現在のAIバブルはシリコンバレーのテック企業の間だけで完結しているという、その特異な「閉鎖性」が指摘されています。",
+   "このような状況から、一般の個人投資家たちは市場の「蚊帳の外」に置かれているわけですが、この巨大バブルが崩壊したとき、投資をしていない普通の人々も深刻な痛手を免れない理由があるとされています。",
+   "市場関係者の間では不安が広がっており、米国の株式市場における人工知能関連の動向や、バブルが崩壊した際に過去最大級の危機になり得るワケについて、詳細な分析に関心が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "経済",
+   "テック企業"
+  ],
+  "slug": "ai-bubble-silicon-valley-risk",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://courrier.jp/news/archives/455535/",
+  "category": "ai_jp",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-ai-bubble-silicon-valley-risk.html"
+ },
+ {
+  "title": "米シカゴ大学調査：親が子にAIを使わせる理由は「遅れ」？",
+  "lead": "米シカゴ大学などに所属する研究者らが、親が子どもに生成AIを使わせる判断の背景に関する調査結果を発表しました。",
+  "summary3": [
+   "米シカゴ大学などがAI利用調査を発表",
+   "親が子にAIを使わせる背景を研究",
+   "勉強目的以外の理由が明らかに"
+  ],
+  "body": [
+   "米シカゴ大学などに所属する研究者らは、学術誌PNASにおいて、親が子どもに生成AIを使わせる判断の背景を調査した研究報告を発表しました。",
+   "この研究は「Social dynamics of AI adoption in parents’ educational decisions」と題されたもので、教育現場における生成AIの普及と、それに対する親の意思決定のメカニズムに焦点を当てています。",
+   "子どもを持つ親がどのような動機や考えに基づいて生成AIの利用を容認あるいは推奨しているのか、その社会的ダイナミクスが明らかにされています。"
+  ],
+  "tags": [
+   "生成AI",
+   "教育",
+   "シカゴ大学"
+  ],
+  "slug": "parents-ai-adoption-research",
+  "people": [],
+  "terms": [
+   {
+    "name": "シカゴ大学",
+    "type": "company",
+    "desc": "アメリカ・イリノイ州シカゴにある世界的な名門私立大学で、多くのノーベル賞受賞者を輩出しています。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
+  "category": "ai_jp",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-parents-ai-adoption-research.html"
+ },
+ {
+  "title": "グーグルの創業者セルゲイ・ブリン氏、資産家課税の反対運動に1億ドルを投じた理由",
+  "lead": "米グーグルの共同創業者であるセルゲイ・ブリン氏が、州の富裕層を対象とした課税案に反対するため、これまでに1億ドルを費やしたことが明らかになりました。",
+  "summary3": [
+   "カリフォルニア州の課税案に反対",
+   "創業者ブリン氏が1億ドルを支出",
+   "州の資産家に一時5%の課税"
+  ],
+  "body": [
+   "テックニュースサイト「TechCrunch」の報道によると、カリフォルニア州で浮上している「Prop 40」は、同州の資産家を対象に、純資産の5%を一度限りの税として課すというものです。",
+   "この課税案の成立を阻止するため、グーグルの共同創業者であるセルゲイ・ブリン氏がこれまでに合計1億ドルもの資金を投じていることが判明しました。",
+   "巨額の資産を持つ人々にとって直接的な負担増につながるこの法案に対し、IT業界の大物がどのように影響力を行使し続けるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "税金",
+   "経済"
+  ],
+  "slug": "sergey-brin-billionaire-tax-100-million",
+  "people": [
+   {
+    "name": "セルゲイ・ブリン氏",
+    "bio": "米グーグルの共同創業者であり、世界有数の資産家として知られる技術者・実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "グーグル",
+    "type": "company",
+    "desc": "アメリカ合衆国を本拠地とし、検索エンジンをはじめとする多様なインターネット関連サービスを展開する巨大テック企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+  "category": "silicon",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-sergey-brin-billionaire-tax-100-million.html"
+ },
+ {
+  "title": "MetaやTikTokなど、ユーザー依存訴訟の棄却で続く法的闘争の行方",
+  "lead": "MetaやTikTokなどのソーシャルメディアプラットフォームが、ユーザーの依存症をめぐる数千件の訴訟に直面しています。控訴が失敗に終わり、長期化する法廷闘争の行方に注目が集まっています。",
+  "summary3": [
+   "MetaやTikTokなどが依存症訴訟に直面",
+   "プラットフォーム側の控訴が失敗に終わる",
+   "今後も長期間の法廷闘争が続く見通し"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Meta、TikTok、Snapchat、Googleといった主要なソーシャルメディアプラットフォームは、ユーザー依存に関する数千件もの訴訟に直面しています。",
+   "これらのプラットフォーム側による控訴が失敗に終わったため、今後はさらに長きにわたる法廷闘争の道のりが待ち受けている状況です。",
+   "今回の法的トラブルは、各プラットフォームが提供するサービスの設計やユーザーへの影響力をめぐり、引き続き大きな課題となっています。"
+  ],
+  "tags": [
+   "Meta",
+   "TikTok",
+   "訴訟"
+  ],
+  "slug": "social-media-addiction-lawsuits-continue",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "TikTok",
+    "type": "company",
+    "desc": "ショート動画共有プラットフォームを提供し、世界的に人気を集める中国発のサービスです。"
+   },
+   {
+    "name": "Snapchat",
+    "type": "company",
+    "desc": "消去型の写真や動画の共有を特徴とするメッセージングアプリを運営するアメリカの企業です。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力とし、多様なソフトウェアやハードウェアを手がけるアメリカの企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+  "category": "silicon",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-social-media-addiction-lawsuits-continue.html"
+ },
+ {
+  "title": "BYD新型軽EV「ラッコ」受注1000台超、8割が最上級グレードを選ぶ理由とは",
+  "lead": "BYDの新型軽バッテリEV「ラッコ」が、発売から2週間で受注1000台を突破しました。購入者の8割が最上級グレードを選択しています。",
+  "summary3": [
+   "BYDの新型軽EVラッコが発売2週間で1000台超を受注",
+   "購入者の8割が最上級グレードを選択する人気ぶり",
+   "はてなブックマークエンタメで話題のニュース"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の自動車ニュースです。はてなブックマークエンタメの情報によると、BYDが発売した新型軽バッテリEV「ラッコ」が、発売後わずか2週間で受注1000台を超える好調な滑り出しを見せていることが分かりました。",
+   "今回の好調な受注の中でも特に注目を集めているのは、そのグレード選択の傾向です。購入者のうち実に8割という大部分の方が、最上級グレードを選択していることが明らかになりました。",
+   "電気自動車の普及が進む中、軽バッテリEVという新たな選択肢がどのようにユーザーに受け入れられているのか、今後の動向からますます目が離せません。"
+  ],
+  "tags": [
+   "BYD",
+   "電気自動車",
+   "軽EV"
+  ],
+  "slug": "byd-rakko-orders-exceed-1000",
+  "people": [],
+  "terms": [
+   {
+    "name": "BYD",
+    "type": "company",
+    "desc": "中国を拠点とし、電気自動車やプラグインハイブリッド車などの新エネルギー車を世界的に展開する大手自動車メーカー。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://car.watch.impress.co.jp/docs/news/2132017.html",
+  "category": "influencer",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-byd-rakko-orders-exceed-1000.html"
+ },
+ {
+  "title": "ゼレンスキー大統領、ロシアの北朝鮮製ミサイル使用を明かす",
+  "lead": "ウクライナのゼレンスキー大統領は、ザポリージャへの攻撃にロシアの同盟国である北朝鮮の弾道ミサイルが使用されたと発表しました。",
+  "summary3": [
+   "ザポリージャで攻撃により死傷者が発生",
+   "ロシアが北朝鮮製ミサイルを使用と表明",
+   "ウクライナ大統領が被害と状況を報告"
+  ],
+  "body": [
+   "ウクライナのゼレンスキー大統領は、ザポリージャで行われた攻撃について、ロシアの同盟国である北朝鮮製の弾道ミサイルが関与していたことを明らかにしました。",
+   "今回のザポリージャへの攻撃では、少なくとも6人が死亡し、さらに19人が負傷する被害が出ています。ウクライナ側はこの攻撃に対して強い懸念を示しています。",
+   "BBC Worldが報じたところによると、ロシア軍によるウクライナ攻撃において、北朝鮮製兵器の使用が深刻な被害をもたらしている実態が改めて浮き彫りとなりました。"
+  ],
+  "tags": [
+   "ウクライナ",
+   "ロシア",
+   "北朝鮮"
+  ],
+  "slug": "russia-north-korean-missiles-ukraine",
+  "people": [
+   {
+    "name": "ゼレンスキー大統領",
+    "bio": "ウクライナの大統領として、ロシアによる軍事侵攻が続く中で国家を率い、国際社会へ支援を訴えている。"
+   }
+  ],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-russia-north-korean-missiles-ukraine.html"
+ },
+ {
+  "title": "NYダウ最高値更新が日経平均に示す影響とは",
+  "lead": "米国のNYダウが最高値を更新したことが、日経平均株価の今後の展開にどのような可能性を示すのか、楽天証券のメディア「media.rakuten-sec.net」が報じました。",
+  "summary3": [
+   "NYダウが最高値を更新",
+   "日経平均への影響に注目",
+   "メディアが可能性を報道"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。Googleニュースの日本株・市場に関する情報をお伝えします。楽天証券が運営する投資情報メディア「media.rakuten-sec.net」において、NYダウの最高値更新が日経平均株価に及ぼす影響についての記事が公開されました。",
+   "記事では、米国市場におけるNYダウの最高値更新が、日本の株式市場を代表する日経平均株価に対してどのような可能性を示唆しているのかについて触れられています。海外市場の動向が国内市場に与える影響は、投資家にとって常に重要な関心事の一つとなっています。",
+   "具体的な数値や将来の予測に関する詳細については、元記事である「media.rakuten-sec.net」の該当ページをご確認ください。市場環境の変化に伴う動向について、引き続き最新のニュースに注目が集まっています。"
+  ],
+  "tags": [
+   "NYダウ",
+   "日経平均",
+   "株式市場"
+  ],
+  "slug": "ny-dow-nikkei-average-possibility",
+  "people": [],
+  "terms": [
+   {
+    "name": "楽天証券",
+    "type": "company",
+    "desc": "日本の大手ネット証券会社の一つで、個人投資家向けに多様な金融商品や投資情報メディアを提供している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45WHNLWVdTN1dkTm1BM2oxR05xdXFYaU5Fa0FOQVNKVlYxcDV0X21CNDc3V01XOUlDc0tkNUI3bFlvQ1JrLXA5TzljRnZnbVVQU1Q5UE16S0hFUQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-ny-dow-nikkei-average-possibility.html"
+ },
+ {
+  "title": "ライオン、上期事業利益21%増の一方で下期原料高50億円をどう乗り切るのか",
+  "lead": "「AI TECH TIMES」がお伝えする企業の最新動向。ライオンのFY2026 Q2決算説明会が開催され、上期事業利益が21%増となったことが発表されました。",
+  "summary3": [
+   "ライオンの上期事業利益が21%増",
+   "海外事業は66%の急伸を記録",
+   "下期の原料高50億円は値上げで対応"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。ライオンのFY2026 Q2決算説明会に関する情報をお伝えします。発表によると、上期の事業利益は21%増と好調な結果となりました。",
+   "地域別の動向では、海外事業が66%の急伸を記録し、全体の業績を大きく牽引する結果となっています。グローバル展開における成長が数字となって現れた形です。",
+   "一方で、下期には50億円の原料高が見込まれています。ライオンはこの原料高に対し、値上げを実施することで打ち返していく方針を示しており、今後の事業運営に注目が集まっています。"
+  ],
+  "tags": [
+   "ライオン",
+   "決算",
+   "経済"
+  ],
+  "slug": "lion-fy2026-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "ライオン",
+    "type": "company",
+    "desc": "ハミガキや洗剤などの日用品を中心に製造・販売を手がける日本の大手生活用品メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vLTB4WVc3Q3lJX2FHc3ZUWDdOaFh6OFZFMEpFeUNWbVNRTjBLLXFTbVRiR1ZqQk9HT2RSTDRLOXh4dTRxLUJpTWZmSm9IcE1teHRja0VoX0JQcXdJZ0tv?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-11",
+  "time": "21:08",
+  "path": "/articles/20260811-lion-fy2026-q2-earnings.html"
  }
 ]
