@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-12 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-12 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Cファンド、新規商品登録停止の3カ月処分へ",
-   "path": "/articles/20260812-china-fund-style-deviation-influencer-issue.html",
-   "cat": "インフルエンサー"
+   "title": "奥田碩氏が93歳で死去、トヨタ社長や経団連会長を歴任",
+   "path": "/articles/20260812-okuda-hiroshi-passed-away.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トランプ大統領、子ども向けワクチン接種縮小へ",
+   "path": "/articles/20260812-trump-signs-child-vaccine-order.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
  "notes": [],
- "pv_today": 5,
+ "pv_today": 6,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }
