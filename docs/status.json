@@ -1,69 +1,26 @@
 {
- "updated": "2026-08-12 07:02",
- "mode": "フル便",
+ "updated": "2026-08-12 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "創業2ヶ月のRiver AI、11億ドルを調達した理由は？",
-   "path": "/articles/20260812-river-ai-raises-1-1b-general-catalyst.html",
+   "title": "グーグル「Gemini」、月間10億人が利用する巨大AIへ成長した理由",
+   "path": "/articles/20260812-gemini-chatgpt-1-billion-users.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Metaのマーク・ザッカーバーグ氏が「閉鎖的」なAI競合を批判",
-   "path": "/articles/20260812-meta-zuckerberg-attacks-closed-ai-rivals.html",
+   "title": "Anthropicの未公開AI、難問の Riemann予想で前進",
+   "path": "/articles/20260812-anthropic-model-math-progress.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Gigazine：AI不正撲滅へデンマーク高校生に口頭試問義務化",
-   "path": "/articles/20260812-denmark-requires-oral-defenses-students-ai.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "中国のAI開発、米国規制の次は「中国語データ不足」が壁に",
-   "path": "/articles/20260812-china-ai-chinese-training-data.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "CoreWeave売上高112%増の25.8億ドル、なぜ株価が急騰したのか",
-   "path": "/articles/20260812-coreweave-reports-q2-revenue-up-112-percent.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Riot Platforms、Anthropicと90億ドルの巨額契約を締結",
-   "path": "/articles/20260812-riot-platforms-anthropic-deal.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "YouTube、収益化の条件を8000時間に引き上げへ",
-   "path": "/articles/20260812-youtube-ypp-requirement-update.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "コロンビア地震で死者180人超、被害把握に時間も",
-   "path": "/articles/20260812-colombia-earthquake-casualty-update.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アドバンテスト利益1945億円上振れ、4〜6月期決算の真実",
-   "path": "/articles/20260812-advantest-earnings-july-2024.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "東京海上など205社が8月12日に決算発表",
-   "path": "/articles/20260812-earnings-announcement-august-12.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [
-  "執筆失敗: “トランプ大統領 7月 秘密裏に専用機から乗り換え”米有力紙",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 9,
  "gemini": {
-  "used": 50,
+  "used": 54,
   "limit": 200
  }
 }

@@ -48363,5 +48363,84 @@
   "date": "2026-08-12",
   "time": "07:02",
   "path": "/articles/20260812-earnings-announcement-august-12.html"
+ },
+ {
+  "title": "グーグル「Gemini」、月間10億人が利用する巨大AIへ成長した理由",
+  "lead": "AI TECH TIMESの調査によると、グーグルが提供する生成AI「Gemini」の月間利用者が10億人を突破しました。グーグル製品として14例目の快挙となります。",
+  "summary3": [
+   "Geminiの月間利用者が10億人を突破",
+   "グーグル製品史上最速での達成を記録",
+   "OpenAIのChatGPTに続く大台へ"
+  ],
+  "body": [
+   "AI TECH TIMESが伝えるところによれば、グーグルのスンダー・ピチャイCEOが自身のX（旧ツイッター）にて、生成AI「Gemini」の月間アクティブユーザー数が10億人に達したことを明らかにしました。",
+   "今回の記録は、グーグルがこれまでに展開してきた製品の中でも過去最速のスピードでの達成となります。10億人という数字は巨大なマイルストーンですが、AIアプリとしてこの規模に到達したのは同社が初めてではありません。",
+   "すでにOpenAIの「ChatGPT」が10億人規模のユーザーを獲得しており、AI市場における激しい普及競争の中で、「Gemini」もそれに肩を並べる形で大台を突破する結果となりました。"
+  ],
+  "tags": [
+   "Gemini",
+   "ChatGPT",
+   "Google",
+   "AI"
+  ],
+  "slug": "gemini-chatgpt-1-billion-users",
+  "people": [
+   {
+    "name": "スンダー・ピチャイ",
+    "bio": "米グーグルおよび親会社アルファベットの最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "グーグルが開発した最先端のAIモデルおよび生成AIサービス。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発し、世界的な普及を見せている対話型の生成AIサービス。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "08:00",
+  "path": "/articles/20260812-gemini-chatgpt-1-billion-users.html"
+ },
+ {
+  "title": "Anthropicの未公開AI、難問の Riemann予想で前進",
+  "lead": "AI TECH TIMESがお伝えする最新ニュース。Anthropicの未公開AIモデルが、数学の未解決問題において予想外の進展を見せました。",
+  "summary3": [
+   "Riemann予想の解決へ向けて前進",
+   "Anthropicの未公開モデルが成果",
+   "150年以上の難問でAIが実力を発揮"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。150年以上にわたり数学界の大きな未解決問題として存在し続けているRiemann予想に対し、AI技術がアプローチを見せました。数学の歴史において非常に重要なこの難問について、Anthropicの未公開モデルが予想以上の成果を挙げています。",
+   "今回の件に関して、Anthropicが完全にこの問題を解決したわけではありません。しかし、同社のモデルはこれまでの数学的常識や予想を上回る進展を記録しており、AIの科学・数学分野への応用において新たな可能性を示唆する事例となっています。",
+   "数学の難問に対するAIのアプローチは、今後の技術発展や研究の加速において重要な役割を果たす可能性があります。未公開モデルの詳細な仕組みや今後の展開については、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "Anthropic",
+   "数学",
+   "AI"
+  ],
+  "slug": "anthropic-model-math-progress",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、安全性に配慮した大規模言語モデルなどを手掛けています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "08:00",
+  "path": "/articles/20260812-anthropic-model-math-progress.html"
  }
 ]

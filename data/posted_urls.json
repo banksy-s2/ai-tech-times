@@ -1400,13 +1400,11 @@
   "https://news.yahoo.co.jp/articles/71ec8348e038d8f0b2ac5b7948aaeb0deea14edf",
   "https://news.web.nhk/newsweb/na/nd-20260812de43334",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVUFxNVVmeUVBczVGYnFXcDRxaDBSZXNlZlpLTzhlV0hwZGRlY2xKSGZ6NXA5RlhGakloeXE5c3l3b082Zi03UTFwNlM3TW9iLVRmTDNsa0U0OTVXRDcwWjFPSWwwTDZZdGZwaQ?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEVGLXNhYnh1bU9ZVFJ5WTEtLVdfWHdpUzMwb0tLR3ZXOC1nN25QcnNpdTZtN2NLd3R5bktWdzN4YVliRGxmVmtwSmRhSTVOSDEzVXZKQ0MzRlJJSm5FN25KMm9YYlR6anpDVWFZQ0V0dGxMT2NPWHE3Q3lVRjJ2eEc0amVoQUU?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEVGLXNhYnh1bU9ZVFJ5WTEtLVdfWHdpUzMwb0tLR3ZXOC1nN25QcnNpdTZtN2NLd3R5bktWdzN4YVliRGxmVmtwSmRhSTVOSDEzVXZKQ0MzRlJJSm5FN25KMm9YYlR6anpDVWFZQ0V0dGxMT2NPWHE3Q3lVRjJ2eEc0amVoQUU?oc=5",
+  "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+  "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
  ],
  "titles": [
-  "不適切関係疑いの元特捜部検事を裁判の証人として出廷求める",
-  "声にも無断使用されない権利 法務省検討会が報告書案",
-  "東京地検特捜部の元検事、不適切関係疑惑で裁判の証人出廷を求められる",
-  "法務省検討会、声にも無断使用されない権利を報告書案に明記",
   "２７日大引けの日経平均株価＝３２０円０４銭高の６万４９３１円１９銭と反発(ウエルスアドバイザー) - Yahoo!ファイナンス",
   "キオクシア株価一時10%安、2カ月ぶり安値 米半導体メモリー株安 - 日本経済新聞",
   "日経平均株価は320円04銭高の6万4931円19銭と反発",
@@ -3402,6 +3400,10 @@
   "YouTube、収益化の条件を8000時間に引き上げへ",
   "コロンビア地震で死者180人超、被害把握に時間も",
   "アドバンテスト利益1945億円上振れ、4〜6月期決算の真実",
-  "東京海上など205社が8月12日に決算発表"
+  "東京海上など205社が8月12日に決算発表",
+  "ChatGPT and Gemini both just passed 1 billion users",
+  "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+  "グーグル「Gemini」、月間10億人が利用する巨大AIへ成長した理由",
+  "Anthropicの未公開AI、難問の Riemann予想で前進"
  ]
 }

@@ -48016,5 +48016,352 @@
   "date": "2026-08-12",
   "time": "06:00",
   "path": "/articles/20260812-fanuc-fy2026-q1-results-upward-revision.html"
+ },
+ {
+  "title": "創業2ヶ月のRiver AI、11億ドルを調達した理由は？",
+  "lead": "xAIの共同創業者によって設立されたばかりのAIスタートアップが、大型の資金調達に成功しました。個人向けエージェント開発の行方に注目が集まっています。",
+  "summary3": [
+   "創業2ヶ月のRiver AIが11億ドル調達",
+   "General Catalystが資金調達を主導",
+   "個人向けエージェントの開発に注力する"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。xAIの共同創業者であるイーゴリ・バブシュキン氏によって設立されたばかりのAIスタートアップ「River AI」が、創業からわずか2ヶ月という異例のスピードで巨額の資金調達を達成しました。",
+   "今回のラウンドは、著名なベンチャーキャピタルであるGeneral Catalystが主導し、総額11億ドル（約1,600億円規模）という大規模な資金を集めました。設立間もない企業へのこれほどの大型投資は、AI業界における強い期待感を物語っています。",
+   "River AIは、個人向けのエージェントにおいて非常に魅力的で革新的なビジョンを掲げています。設立直後からこれほどの規模の資金を獲得した同社が、今後どのような個人向けエージェントを開発し、市場に展開していくのか、その動向から目が離せません。"
+  ],
+  "tags": [
+   "River AI",
+   "General Catalyst",
+   "資金調達"
+  ],
+  "slug": "river-ai-raises-1-1b-general-catalyst",
+  "people": [
+   {
+    "name": "イーゴリ・バブシュキン氏",
+    "bio": "xAIの共同創業者であり、AI分野で数々の重要な開発や実績を残している研究者・エンジニア。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "River AI",
+    "type": "company",
+    "desc": "xAIの共同創業者が設立した、個人向けエージェントの開発を目指すAIスタートアップ企業。"
+   },
+   {
+    "name": "General Catalyst",
+    "type": "company",
+    "desc": "革新的なテクノロジー企業やスタートアップへの投資を多数手がける、米国の大手ベンチャーキャピタル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-river-ai-raises-1-1b-general-catalyst.html"
+ },
+ {
+  "title": "Metaのマーク・ザッカーバーグ氏が「閉鎖的」なAI競合を批判",
+  "lead": "Metaの最高経営責任者であるマーク・ザッカーバーグ氏が、オープンなAIモデルへの回帰を進める中で、競合他社の「閉鎖的」な姿勢を批判しました。",
+  "summary3": [
+   "MetaがオープンなAIモデルへ回帰",
+   "ザッカーバーグ氏が閉鎖的競合を批判",
+   "オープンAIモデルの動向が注目を集める"
+  ],
+  "body": [
+   "Metaのマーク・ザッカーバーグ氏は、オープンモデルへの回帰を進める方針を示し、その中で「閉鎖的」なAI開発を行う競合他社を厳しく批判しました。近年、AI業界ではオープンソースやオープンなアプローチを採用する企業と、クローズドなエコシステムを構築する企業の間で議論が続いています。",
+   "同社は「thefutureisforeveryone」などのキャンペーンを通じて、AI技術の開放性や誰にでも開かれた未来の重要性を訴えてきました。ザッカーバーグ氏の発言は、AIのオープン化を巡る業界の競争がさらに激化している現状を浮き彫りにしています。",
+   "今回のMetaの動きは、オープンモデルを支持する開発者やユーザーの間で大きな話題となっており、国内外のニュースサイトやHacker Newsなどの技術コミュニティでも活発な議論が交わされています。"
+  ],
+  "tags": [
+   "Meta",
+   "AI",
+   "オープンソース"
+  ],
+  "slug": "meta-zuckerberg-attacks-closed-ai-rivals",
+  "people": [
+   {
+    "name": "マーク・ザッカーバーグ",
+    "bio": "SNS最大手Metaの共同創業者であり、同社の最高経営責任者を務める米国の実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどを運営し、メタバースやAI開発にも注力する米国のIT企業。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-meta-zuckerberg-attacks-closed-ai-rivals.html"
+ },
+ {
+  "title": "Gigazine：AI不正撲滅へデンマーク高校生に口頭試問義務化",
+  "lead": "生成AIの普及により学業不正が問題視される中、デンマークでは提出した筆記課題についての口頭試問が高校生に義務づけられました。",
+  "summary3": [
+   "AIによる学業不正が世界で問題化",
+   "デンマークで口頭試問が義務化",
+   "本来の学力育成を目指す対策"
+  ],
+  "body": [
+   "近年、生成AIは仕事や研究に役立つ便利なツールとして広く使われるようになりましたが、同時に子どもや学生たちが宿題やレポート課題にAIを利用するケースが増えています。その結果、真面目に自力で勉強している学生よりもAIを使う学生の方がいい成績を取ってしまうという不公平が生じています。",
+   "さらに、成績は良くても本来身につけるべき学力や知識が身につかないという深刻な問題も発生しており、教育現場での対応が急務となっていました。こうした状況を受け、デンマークではAIによる学業不正を完全に撲滅するため、高校生に対して新たな対策が導入されました。",
+   "同国では、生徒が提出した筆記課題について口頭試問を行うことが義務づけられました。これにより、本当に自身の力で課題を理解し知識を習得したのかを確認し、AIに依存した不正を防ぐ狙いがあります。"
+  ],
+  "tags": [
+   "生成AI",
+   "教育",
+   "デンマーク"
+  ],
+  "slug": "denmark-requires-oral-defenses-students-ai",
+  "people": [],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-denmark-requires-oral-defenses-students-ai.html"
+ },
+ {
+  "title": "中国のAI開発、米国規制の次は「中国語データ不足」が壁に",
+  "lead": "高度なAIモデルの性能向上に不可欠な訓練データにおいて、中国のAI開発が新たなボトルネックに直面していることが専門家の警告で明らかになりました。",
+  "summary3": [
+   "AI開発には質の高い訓練データが必要",
+   "米国の輸出規制に続き新たな問題が浮上",
+   "中国語データの不足が成長の壁に"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。高度なAIモデルの性能を伸ばすには、大量の質の高い訓練データが欠かせません。これまで中国のAI開発を阻む最大の問題としては、アメリカによる先端AIチップの輸出規制が大きな注目を集めてきました。",
+   "しかし、中国のAI専門家は、それにとどまらない新たな懸念を示しています。それは、中国語の訓練データ不足が次の大きなボトルネックになりうるという警告です。",
+   "質の高いデータが不足すれば、今後のAIモデルの性能向上に影響を与える可能性は避けられません。先端チップの規制に加え、データ面という新たな課題が中国のAI開発の行方を左右することになりそうです。"
+  ],
+  "tags": [
+   "AI開発",
+   "中国",
+   "Gigazine"
+  ],
+  "slug": "china-ai-chinese-training-data",
+  "people": [],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-china-ai-chinese-training-data.html"
+ },
+ {
+  "title": "CoreWeave売上高112%増の25.8億ドル、なぜ株価が急騰したのか",
+  "lead": "AIインフラプロバイダーのCoreWeaveが発表した第2四半期決算は、売上高が前年同期比112%増の25.8億ドルと市場予想を上回り、時間外取引で株価が急上昇しました。",
+  "summary3": [
+   "Q2売上高が112%増の25.8億ドル",
+   "売上高バックログは1040億ドル規模",
+   "時間外取引で株価が9%超上昇"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。AIインフラプロバイダーのCoreWeaveは、現地時間の火曜日に第2四半期決算を発表しました。その結果、売上高は前年同期比112%増の25.8億ドルとなり、市場予想の25.6億ドルを上回る好決算となりました。",
+   "この発表を受けて、CoreWeaveの株式は時間外取引で9%以上、一部の報道では15%も急上昇しました。同社の好調な業績を支えているのは、巨額の受注残です。発表によれば、同社の売上高バックログは1040億ドルに達し、契約電力も1.5GWに上ることが明らかになっています。",
+   "今回の決算は、AIインフラ需要がいかに旺盛であるかを示すものとなりました。市場予想を超える売上高を記録したことで、同社の今後の事業拡大と業績の行方に投資家の高い関心が集まっています。"
+  ],
+  "tags": [
+   "CoreWeave",
+   "決算",
+   "AIインフラ"
+  ],
+  "slug": "coreweave-reports-q2-revenue-up-112-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "CoreWeave",
+    "type": "company",
+    "desc": "AIインフラストラクチャの提供を専門に行い、クラウドサービスやデータセンターを展開する企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260811/p35#a260811p35",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-coreweave-reports-q2-revenue-up-112-percent.html"
+ },
+ {
+  "title": "Riot Platforms、Anthropicと90億ドルの巨額契約を締結",
+  "lead": "ビットコイン採掘を手がけるRiot Platformsが、人工知能分野へ大きく舵を切っています。Anthropicとの間で20年間に及ぶ90億ドルの大規模な計算インフラ提供契約を結んだことが明らかになりました。",
+  "summary3": [
+   "Riot PlatformsがAnthropicと契約",
+   "契約規模は90億ドルで期間は20年間",
+   "ビットコイン採掘からAIへ移行が進む"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がCNBC Techの報道として伝えたところによると、ビットコイン採掘企業であるRiot Platformsは、AI開発を手がけるAnthropicとの間で巨額の計算インフラ提供に関する合意に達しました。",
+   "今回の契約は総額90億ドルに及び、契約期間は20年という長期にわたるものです。この大型案件は、これまで暗号資産のマイニングに特化してきた企業が、急速に拡大する人工知能のインフラ需要へとビジネスの主軸をシフトさせている大きなトレンドを裏付けるものとなっています。",
+   "暗号資産市場の変動や消費電力の観点から新たな収益源と事業転換を模索するマイニング業界において、AI分野への参入は今後の成長を左右する重要な戦略として注目を集めています。"
+  ],
+  "tags": [
+   "RiotPlatforms",
+   "Anthropic",
+   "AIインフラ"
+  ],
+  "slug": "riot-platforms-anthropic-deal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Riot Platforms",
+    "type": "company",
+    "desc": "ビットコインの採掘を主要事業として手がける企業。近年はAIインフラ分野への事業展開を進めている。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "対話型AIなどの先端的な人工知能モデルの開発を手がける米国企業。安全性に配慮したAI開発で知られる。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-riot-platforms-anthropic-deal.html"
+ },
+ {
+  "title": "YouTube、収益化の条件を8000時間に引き上げへ",
+  "lead": "YouTubeは、クリエイターが報酬を受け取れるYouTubeパートナープログラムの新規参加条件の引き上げを発表しました。今後の参加を目指すクリエイターは、新たな基準をクリアする必要があります。",
+  "summary3": [
+   "YouTubeが収益化の条件を引き上げ",
+   "新規参加は過去1年で8000時間再生へ",
+   "チャンネル登録者1000人は継続"
+  ],
+  "body": [
+   "動画投稿者であるクリエイターがコンテンツの再生状況に応じた報酬を受け取れる「YouTubeパートナープログラム（YPP）」について、YouTubeが参加条件の引き上げを発表しました。",
+   "2027年2月1日からは、このプログラムに新規参加したいクリエイターを対象に、新たな基準が適用されます。チャンネル登録者1000人以上という必須条件に加え、過去12か月の動画再生時間が8000時間以上であることが求められるようになります。",
+   "今回の仕様変更により、これから収益化を目指す新規の動画投稿者にとっては、これまでよりもハードルが引き上げられる形となります。"
+  ],
+  "tags": [
+   "YouTube",
+   "クリエイター",
+   "収益化"
+  ],
+  "slug": "youtube-ypp-requirement-update",
+  "people": [],
+  "terms": [
+   {
+    "name": "YouTube",
+    "type": "company",
+    "desc": "米国のGoogleが提供する、世界最大の動画共有プラットフォームサービスおよびその運営元。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://news.yahoo.co.jp/articles/71ec8348e038d8f0b2ac5b7948aaeb0deea14edf",
+  "category": "influencer",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-youtube-ypp-requirement-update.html"
+ },
+ {
+  "title": "コロンビア地震で死者180人超、被害把握に時間も",
+  "lead": "南米コロンビアで発生したマグニチュード7.4の地震により、これまでに180人あまりの死亡が確認されました。",
+  "summary3": [
+   "コロンビアでM7.4の地震が発生",
+   "これまでに180人以上の死亡を確認",
+   "発生から24時間以上経ち救助続く"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。南米コロンビアで10日に発生したマグニチュード7.4の地震では、これまでに180人あまりの死亡が確認されています。",
+   "地震の発生から24時間以上が経過しましたが、現地では倒壊した建物に取り残された人たちの救助活動などが続いています。",
+   "現地からの情報によると、依然として被害の全体像を把握するには時間がかかる状況となっており、今後の状況が懸念されます。"
+  ],
+  "tags": [
+   "コロンビア",
+   "地震",
+   "災害"
+  ],
+  "slug": "colombia-earthquake-casualty-update",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260812de43334",
+  "category": "world",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-colombia-earthquake-casualty-update.html"
+ },
+ {
+  "title": "アドバンテスト利益1945億円上振れ、4〜6月期決算の真実",
+  "lead": "アドバンテストの4〜6月期決算に関する情報が日本経済新聞より報じられました。利益が1945億円上振れた要因となった決算の内容をお伝えします。",
+  "summary3": [
+   "アドバンテストの利益が1945億円上振れ",
+   "4〜6月期決算の内容が株価を動かした",
+   "日本経済新聞が詳細を報じている"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部です。日本経済新聞の報道によると、アドバンテストの利益が1945億円上振れたことが明らかになりました。この大きな数字を記録した4〜6月期決算の内容が、市場の株価を動かす要因となっています。",
+   "アドバンテストは半導体製造装置などを手掛ける企業として知られており、今回の決算発表は多くの市場関係者の注目を集めました。利益の上振れという具体的な数値が、株価にどのような影響を与えたのかが関心を集めています。",
+   "今回の決算内容や利益の上振れに関する詳細は、日本経済新聞の報道元記事にてご確認ください。株式市場における企業の動向を正確に把握するための重要な情報となります。"
+  ],
+  "tags": [
+   "アドバンテスト",
+   "決算",
+   "日本経済新聞"
+  ],
+  "slug": "advantest-earnings-july-2024",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドバンテスト",
+    "type": "company",
+    "desc": "半導体テスト装置の製造を手掛ける日本の大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVUFxNVVmeUVBczVGYnFXcDRxaDBSZXNlZlpLTzhlV0hwZGRlY2xKSGZ6NXA5RlhGakloeXE5c3l3b082Zi03UTFwNlM3TW9iLVRmTDNsa0U0OTVXRDcwWjFPSWwwTDZZdGZwaQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-advantest-earnings-july-2024.html"
+ },
+ {
+  "title": "東京海上など205社が8月12日に決算発表",
+  "lead": "AI TECH TIMESのニュースをお届けします。本日の決算発表予定についてお伝えします。",
+  "summary3": [
+   "東京海上など205社が決算発表予定",
+   "発表日は8月12日を予定している",
+   "株探ニュースの情報によるもの"
+  ],
+  "body": [
+   "株探ニュースの情報によると、本日の決算発表予定企業として東京海上、ＴＯＰＰＡＮ、日本マイクロなど合計205社が挙げられています。",
+   "決算発表が予定されている日付は8月12日となります。多くの企業がこの日に業績を開示する予定です。",
+   "詳細な発表内容や各社の業績については、それぞれの公式発表や関連する株価情報サービス等をご確認ください。"
+  ],
+  "tags": [
+   "決算発表",
+   "東京海上",
+   "株式市場"
+  ],
+  "slug": "earnings-announcement-august-12",
+  "people": [],
+  "terms": [
+   {
+    "name": "東京海上",
+    "type": "company",
+    "desc": "国内最大手の損害保険事業を展開する主要な保険持株会社です。"
+   },
+   {
+    "name": "ＴＯＰＰＡＮ",
+    "type": "company",
+    "desc": "総合印刷大手であり、情報コミュニケーションや生活産業分野を展開する企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEVGLXNhYnh1bU9ZVFJ5WTEtLVdfWHdpUzMwb0tLR3ZXOC1nN25QcnNpdTZtN2NLd3R5bktWdzN4YVliRGxmVmtwSmRhSTVOSDEzVXZKQ0MzRlJJSm5FN25KMm9YYlR6anpDVWFZQ0V0dGxMT2NPWHE3Q3lVRjJ2eEc0amVoQUU?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-12",
+  "time": "07:02",
+  "path": "/articles/20260812-earnings-announcement-august-12.html"
  }
 ]

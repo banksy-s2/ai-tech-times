@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [グーグル「Gemini」、月間10億人が利用する巨大AIへ成長した理由](https://ai-tech-times.web.app/articles/20260812-gemini-chatgpt-1-billion-users.html) — 2026-08-12 08:00: AI TECH TIMESの調査によると、グーグルが提供する生成AI「Gemini」の月間利用者が10億人を突破しました。グーグル製品として14例目の快挙となります。
+- [Anthropicの未公開AI、難問の Riemann予想で前進](https://ai-tech-times.web.app/articles/20260812-anthropic-model-math-progress.html) — 2026-08-12 08:00: AI TECH TIMESがお伝えする最新ニュース。Anthropicの未公開AIモデルが、数学の未解決問題において予想外の進展を見せました。
 - [創業2ヶ月のRiver AI、11億ドルを調達した理由は？](https://ai-tech-times.web.app/articles/20260812-river-ai-raises-1-1b-general-catalyst.html) — 2026-08-12 07:02: xAIの共同創業者によって設立されたばかりのAIスタートアップが、大型の資金調達に成功しました。個人向けエージェント開発の行方に注目が集まっています。
 - [Metaのマーク・ザッカーバーグ氏が「閉鎖的」なAI競合を批判](https://ai-tech-times.web.app/articles/20260812-meta-zuckerberg-attacks-closed-ai-rivals.html) — 2026-08-12 07:02: Metaの最高経営責任者であるマーク・ザッカーバーグ氏が、オープンなAIモデルへの回帰を進める中で、競合他社の「閉鎖的」な姿勢を批判しました。
 - [Gigazine：AI不正撲滅へデンマーク高校生に口頭試問義務化](https://ai-tech-times.web.app/articles/20260812-denmark-requires-oral-defenses-students-ai.html) — 2026-08-12 07:02: 生成AIの普及により学業不正が問題視される中、デンマークでは提出した筆記課題についての口頭試問が高校生に義務づけられました。
@@ -40,15 +42,13 @@
 - [Joby Aviation、5億ドルで新防衛事業を開始](https://ai-tech-times.web.app/articles/20260812-joby-aviation-defense-business-acquisition.html) — 2026-08-12 02:00: 空飛ぶクルマを開発するJoby Aviationが、Resonant Sciencesの買収で新たな防衛事業へと進出します。
 - [Meta、2億ドルの買収断念の背景とManusの独立](https://ai-tech-times.web.app/articles/20260812-meta-manus-acquisition-china.html) — 2026-08-12 02:00: メタは昨年12月、AI戦略強化のために20億ドル規模でのマヌスの買収を計画していましたが、中国の介入により破談となりました。これによりマヌスは独立企業として再出発することになります。
 - [OpenAI、サイバー防御Daybreak発表なぜ拡張？](https://ai-tech-times.web.app/articles/20260812-openai-daybreak-cyber-defense.html) — 2026-08-12 01:00: OpenAIは、サイバー防御者向けイニシアチブ「Daybreak」の拡張と特化型モデル「GPT-5.6-Cyber」の投入を発表しました。セキュリティ研究における過度な拒否動作を抑制し、高度な防御タスクを支援します。
-- [DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化](https://ai-tech-times.web.app/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html) — 2026-08-12 01:00: クラスメソッドの森茂氏が、284Bの「DeepSeek V4 Flash-0731」をDGX Spark 2台で動かした検証結果を公開しました。
-- [SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか](https://ai-tech-times.web.app/articles/20260812-spotify-ai-persona-labels-recommendations.html) — 2026-08-12 00:00: 音楽配信大手のSpotifyは、AI生成のアイデンティティを持つアーティストのプロフィールに「AI Persona」ラベルを導入すると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-12)
 - 1位: [Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV](https://www.youtube.com/watch?v=chl0R8C4NJ8)
 - 2位: [Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept](https://www.youtube.com/watch?v=5vMWZhHPlaw)
-- 3位: [MINECRAFT HARDCORE ALL BOSSES DAY 5🍄🔨🧟‍♂️ft. KaiCenat](https://www.youtube.com/watch?v=BQoC-tPop2w)
+- 3位: [NCT 127 엔시티 127 'Piñata' Track Video](https://www.youtube.com/watch?v=s8BOZFalBI8)
 
-## AI用語事典 (全930語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全931語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -61,16 +61,16 @@
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): 米国のAnthropic社が開発した、高度な自然言語処理能力を持つ対話型のAIモデルおよびアシスタント。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
+- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 通信事業や投資事業をグローバルに展開する日本の持株会社。ビジョン・ファンドを通じた巨大テック投資で知られる。
-- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
