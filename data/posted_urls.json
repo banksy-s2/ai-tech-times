@@ -1383,13 +1383,11 @@
   "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
   "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
   "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
-  "https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-0731/"
+  "https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-0731/",
+  "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
+  "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html"
  ],
  "titles": [
-  "キオクシア株価5万円割れ寸前、決算控え売りの行方は",
-  "アイサンテクノロジー、ミックウェアと資本業務提携",
-  "MIXI、新卒エンジニア向け研修資料＆動画を無料公開　「実践的なAI活用術」を12科目で紹介",
-  "AIがレシピ考案の絶品バーガー　「調理経験なし」でも人気店に　前職はトラック運転手（テレビ朝日系（ANN）） - Yahoo!ニュース",
   "MIXIの新卒向けAI研修資料、全12科目で無料公開",
   "ChatGPTと挑む元トラック運転手のバーガー店成功術",
   "The US is charging an American citizen for wiping his phone at the border",
@@ -3385,6 +3383,10 @@
   "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
   "284B の DeepSeek V4 Flash-0731 を DGX Spark 2 台で動かしてみた | DevelopersIO",
   "OpenAI、サイバー防御Daybreak発表なぜ拡張？",
-  "DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化"
+  "DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化",
+  "Joby Aviation builds out defense business with $500M acquisition",
+  "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+  "Joby Aviation、5億ドルで新防衛事業を開始",
+  "Meta、2億ドルの買収断念の背景とManusの独立"
  ]
 }

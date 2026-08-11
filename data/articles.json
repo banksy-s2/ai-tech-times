@@ -47770,5 +47770,78 @@
   "date": "2026-08-12",
   "time": "01:00",
   "path": "/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html"
+ },
+ {
+  "title": "Joby Aviation、5億ドルで新防衛事業を開始",
+  "lead": "空飛ぶクルマを開発するJoby Aviationが、Resonant Sciencesの買収で新たな防衛事業へと進出します。",
+  "summary3": [
+   "Joby Aviationが買収合意",
+   "新防衛事業への参入を決定",
+   "Resonant Sciencesを獲得"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。TechCrunchの報道によると、Joby Aviationは新たに防衛事業を立ち上げるため、Resonant Sciencesを買収する合意に達しました。",
+   "この買収により、同社は事業領域を拡大し、防衛分野への本格的な参入を果たしていくことになります。買収にかかる金額は5億ドル規模となっています。",
+   "今後の動向や事業の詳細については、引き続き注目が集まるところです。新たな防衛事業がどのように展開されていくのか、続報が待たれます。"
+  ],
+  "tags": [
+   "Joby Aviation",
+   "防衛事業",
+   "買収"
+  ],
+  "slug": "joby-aviation-defense-business-acquisition",
+  "people": [],
+  "terms": [
+   {
+    "name": "Joby Aviation",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、電動垂直離着陸機（eVTOL）の開発を進めている航空宇宙企業です。"
+   },
+   {
+    "name": "Resonant Sciences",
+    "type": "company",
+    "desc": "防衛関連の技術や研究開発などを手がけている企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "02:00",
+  "path": "/articles/20260812-joby-aviation-defense-business-acquisition.html"
+ },
+ {
+  "title": "Meta、2億ドルの買収断念の背景とManusの独立",
+  "lead": "メタは昨年12月、AI戦略強化のために20億ドル規模でのマヌスの買収を計画していましたが、中国の介入により破談となりました。これによりマヌスは独立企業として再出発することになります。",
+  "summary3": [
+   "メタがマヌス買収を昨年12月に計画",
+   "中国の介入により20億ドルの取引が白紙に",
+   "マヌスは独立した企業として存続へ"
+  ],
+  "body": [
+   "メタ（Meta）は昨年12月、人工知能（AI）戦略を強化するための最新の取り組みとして、マヌス（Manus）を20億ドルで買収する計画を進めていました。しかし、この大規模な買収計画は中国によって阻まれることになりました。",
+   "中国政府による強制的な措置により、メタによるマヌス買収の取引は白紙に戻される結果となりました。これにより、両社が進めていた巨額の買収劇は完了することなく、計画の巻き戻しを余儀なくされた形です。",
+   "取引の破談を受け、マヌスは独立した企業として再び歩み出すことになります。今回の中国による介入と買収の白紙化は、AI業界における企業戦略や国際的なM&Aの動向に少なからず影響を与える出来事として注目されています。"
+  ],
+  "tags": [
+   "Meta",
+   "Manus",
+   "AI戦略"
+  ],
+  "slug": "meta-manus-acquisition-china",
+  "people": [],
+  "terms": [
+   {
+    "name": "マヌス",
+    "type": "company",
+    "desc": "メタによる買収対象となった企業であり、中国の介入により独立企業として再出発することになりました。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "02:00",
+  "path": "/articles/20260812-meta-manus-acquisition-china.html"
  }
 ]

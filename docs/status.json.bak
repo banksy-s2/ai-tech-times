@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-12 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-12 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか",
-   "path": "/articles/20260812-spotify-ai-persona-labels-recommendations.html",
-   "cat": "AI(海外)"
+   "title": "OpenAI、サイバー防御Daybreak発表なぜ拡張？",
+   "path": "/articles/20260812-openai-daybreak-cyber-defense.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Anthropic、AI生成テキストに電子透かしを導入する理由",
-   "path": "/articles/20260812-anthropic-watermark-text-ai-models.html",
-   "cat": "AI(海外)"
+   "title": "DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化",
+   "path": "/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 5,
+  "used": 10,
   "limit": 200
  }
 }

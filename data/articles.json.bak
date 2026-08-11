@@ -47692,5 +47692,83 @@
   "date": "2026-08-12",
   "time": "00:00",
   "path": "/articles/20260812-anthropic-watermark-text-ai-models.html"
+ },
+ {
+  "title": "OpenAI、サイバー防御Daybreak発表なぜ拡張？",
+  "lead": "OpenAIは、サイバー防御者向けイニシアチブ「Daybreak」の拡張と特化型モデル「GPT-5.6-Cyber」の投入を発表しました。セキュリティ研究における過度な拒否動作を抑制し、高度な防御タスクを支援します。",
+  "summary3": [
+   "OpenAIがDaybreakを拡張",
+   "Red向けにGPT-5.6-Cyberを投入",
+   "高度な防御タスクを支援"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えします。OpenAIは、サイバー防御者向けイニシアチブ「Daybreak」を拡張し、新たに2つのアクセス階層「Blue」「Red」を設けると発表しました。さらに、Red向けの専用モデルとして「GPT-5.6-Cyber」を投入します。",
+   "今回の拡張では、正当なセキュリティ研究におけるAIの過度な拒否動作を抑制することが図られています。未知のゼロデイ脆弱性の発見や、エクスプロイト検証といった高度な防御タスクを強力に支援する狙いがあります。",
+   "サイバーセキュリティの現場においてAIの活用が進む中、防御側がいかにして未知の脅威に対抗していくのか、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "OpenAI",
+   "サイバーセキュリティ",
+   "AI"
+  ],
+  "slug": "openai-daybreak-cyber-defense",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発・提供する、アメリカの人工知能の研究開発企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "01:00",
+  "path": "/articles/20260812-openai-daybreak-cyber-defense.html"
+ },
+ {
+  "title": "DeepSeek V4 Flash、DGX Spark 2台で284Bモデルを実用化",
+  "lead": "クラスメソッドの森茂氏が、284Bの「DeepSeek V4 Flash-0731」をDGX Spark 2台で動かした検証結果を公開しました。",
+  "summary3": [
+   "284BモデルをDGX Spark 2台で検証",
+   "llama.cppとvLLMの2構成を比較",
+   "vLLMならdecode 76 tok/sを実現"
+  ],
+  "body": [
+   "クラスメソッド製造ビジネステクノロジー部の森茂氏は、284Bのパラメータを持つ「DeepSeek V4 Flash-0731」を手元のDGX Spark 2台で動かし、その実用性を検証した記事を公開しました。",
+   "検証では、llama.cppとvLLMの2つの構成を実測で比較しています。その結果、vLLMを使用する構成では、decodeが76 tok/sというパフォーマンスを記録し、90万トークンに及ぶプロンプトも通ることが確認されました。",
+   "巨大な284Bモデルであっても、適切なローカル環境を構築することで実用的な運用が可能であることが示されており、今後のAI活用における大きな参考情報となりそうです。"
+  ],
+  "tags": [
+   "DeepSeek",
+   "vLLM",
+   "llama.cpp"
+  ],
+  "slug": "dgx-spark-2node-deepseek-v4-flash-0731",
+  "people": [
+   {
+    "name": "森茂氏",
+    "bio": "クラスメソッド製造ビジネステクノロジー部に所属し、技術検証や情報発信を行っているエンジニア。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "DeepSeek V4 Flash-0731",
+    "type": "ai",
+    "desc": "284Bのパラメータを持つ、大規模なAIモデルのバージョンの一つ。"
+   },
+   {
+    "name": "クラスメソッド",
+    "type": "company",
+    "desc": "クラウド導入支援や技術メディア「DevelopersIO」を運営する日本のIT企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://dev.classmethod.jp/articles/dgx-spark-2node-deepseek-v4-flash-0731/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "01:00",
+  "path": "/articles/20260812-dgx-spark-2node-deepseek-v4-flash-0731.html"
  }
 ]
