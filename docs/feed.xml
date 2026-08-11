@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか</title>
+<link>https://ai-tech-times.web.app/articles/20260812-spotify-ai-persona-labels-recommendations.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260812-spotify-ai-persona-labels-recommendations.html</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>音楽配信大手のSpotifyは、AI生成のアイデンティティを持つアーティストのプロフィールに「AI Persona」ラベルを導入すると発表しました。</description>
+</item>
+<item>
+<title>Anthropic、AI生成テキストに電子透かしを導入する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260812-anthropic-watermark-text-ai-models.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260812-anthropic-watermark-text-ai-models.html</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI開発を手がけるAnthropicは、自社のAIモデルが生成するテキストに電子透かしを導入する方針を明らかにしました。古いモデルに対してもサポートを拡張し、AI生成物の識別を可能にします。</description>
+</item>
+<item>
 <title>日経平均10％下落でも投信へ2兆6956億円流入の背景</title>
 <link>https://ai-tech-times.web.app/articles/20260811-nikkei-fund-inflow-2026-07.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260811-nikkei-fund-inflow-2026-07.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 11 Aug 2026 13:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>ロシアでウクライナによる無人機攻撃が相次ぎ、石油関連施設が狙われた10日の事件で13人が死亡しました。</description>
-</item>
-<item>
-<title>OpenAI、住宅市場に直結する70億ドルの影響とは</title>
-<link>https://ai-tech-times.web.app/articles/20260811-openai-housing-market-impact.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-openai-housing-market-impact.html</guid>
-<pubDate>Tue, 11 Aug 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>米サンフランシスコの住宅市場が再び問題に直面していると報じられ、AI業界の動向が地域経済にどのような波紋を広げるのか注目が集まっています。</description>
-</item>
-<item>
-<title>OpenAI、AIを活用したサイバー攻撃に対抗する新モデルを発表</title>
-<link>https://ai-tech-times.web.app/articles/20260811-openai-launches-new-cyber-model.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-openai-launches-new-cyber-model.html</guid>
-<pubDate>Tue, 11 Aug 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIによるサイバー攻撃が増加する中、OpenAIはサイバーセキュリティ防衛プログラム「Daybreak」を拡充し、新たに訓練されたサイバーAIモデルを導入しました。</description>
 </item>
 </channel></rss>

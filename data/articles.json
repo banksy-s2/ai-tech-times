@@ -47624,5 +47624,73 @@
   "date": "2026-08-11",
   "time": "23:01",
   "path": "/articles/20260811-nikkei-fund-inflow-2026-07.html"
+ },
+ {
+  "title": "SpotifyがAIアーティストにラベル付与、なぜ推奨から除外するのか",
+  "lead": "音楽配信大手のSpotifyは、AI生成のアイデンティティを持つアーティストのプロフィールに「AI Persona」ラベルを導入すると発表しました。",
+  "summary3": [
+   "SpotifyがAI製プロフに新ラベル",
+   "該当する音楽は推奨機能からデフォルト除外",
+   "編集部やアルゴリズムによる推薦を外す"
+  ],
+  "body": [
+   "オーディオストリーミングサービスを展開するSpotifyは、AIによって生成されたアイデンティティを持つアーティストのプロフィールに対し、「AI Persona」というラベルを導入することを明らかにしました。",
+   "今回の施策では、AIが生成したアーティストプロフィールによる音楽を、エディトリアル、アルゴリズム、およびパーソナライズされたおすすめ機能の対象から、デフォルトで除外する方針をとっています。",
+   "AI技術の発展により生成音楽が増加する中、プラットフォーム側はリスナーに対してAIによる表現であることを明確に示し、推奨システムとの棲み分けを図る動きを進めています。"
+  ],
+  "tags": [
+   "Spotify",
+   "AI",
+   "音楽配信"
+  ],
+  "slug": "spotify-ai-persona-labels-recommendations",
+  "people": [],
+  "terms": [
+   {
+    "name": "Spotify",
+    "type": "company",
+    "desc": "スウェーデン発祥の世界最大手オーディオストリーミングサービス企業で、音楽やポッドキャストなどを配信している。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "00:00",
+  "path": "/articles/20260812-spotify-ai-persona-labels-recommendations.html"
+ },
+ {
+  "title": "Anthropic、AI生成テキストに電子透かしを導入する理由",
+  "lead": "AI開発を手がけるAnthropicは、自社のAIモデルが生成するテキストに電子透かしを導入する方針を明らかにしました。古いモデルに対してもサポートを拡張し、AI生成物の識別を可能にします。",
+  "summary3": [
+   "AnthropicがAIテキストに透かし導入",
+   "古いモデルも含めてサポートを拡張へ",
+   "生成物の識別を強化する方針を表明"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。米国のAI企業であるAnthropicは、自社のAIモデルが生成するテキストに対して電子透かしを導入する方針を明らかにしました。この取り組みは、最新のモデルだけでなく、古いモデルに対してもサポートが拡張される予定となっています。",
+   "AI技術の急速な普及に伴い、人間が書いた文章とAIが生成したテキストの区別が難しくなる課題が存在します。今回の機能拡張により、AnthropicのAIモデルによって生成されたテキストの識別がより確実に行えるようになると期待されています。",
+   "同社はAI生成コンテンツの透明性を高めるための対策を進めており、今回のテキストへの電子透かし導入はその一環となります。今後もユーザーや開発者に向けて安全かつ信頼性の高いAI環境の提供を目指していくとみられています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI",
+   "セキュリティ"
+  ],
+  "slug": "anthropic-watermark-text-ai-models",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、対話型AIモデルの開発などを手がけていることで広く知られています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "00:00",
+  "path": "/articles/20260812-anthropic-watermark-text-ai-models.html"
  }
 ]

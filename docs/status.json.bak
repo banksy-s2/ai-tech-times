@@ -1,64 +1,21 @@
 {
- "updated": "2026-08-11 21:08",
- "mode": "フル便",
+ "updated": "2026-08-11 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "Metaマーク・ザッカーバーグCEO、AIと人類の未来を語る",
-   "path": "/articles/20260811-meta-mark-zuckerberg-ai-manifesto.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "シリコンバレー特異なAIバブル、崩壊で庶民に火傷する理由",
-   "path": "/articles/20260811-ai-bubble-silicon-valley-risk.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米シカゴ大学調査：親が子にAIを使わせる理由は「遅れ」？",
-   "path": "/articles/20260811-parents-ai-adoption-research.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "グーグルの創業者セルゲイ・ブリン氏、資産家課税の反対運動に1億ドルを投じた理由",
-   "path": "/articles/20260811-sergey-brin-billionaire-tax-100-million.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "MetaやTikTokなど、ユーザー依存訴訟の棄却で続く法的闘争の行方",
-   "path": "/articles/20260811-social-media-addiction-lawsuits-continue.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "BYD新型軽EV「ラッコ」受注1000台超、8割が最上級グレードを選ぶ理由とは",
-   "path": "/articles/20260811-byd-rakko-orders-exceed-1000.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "ゼレンスキー大統領、ロシアの北朝鮮製ミサイル使用を明かす",
-   "path": "/articles/20260811-russia-north-korean-missiles-ukraine.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "NYダウ最高値更新が日経平均に示す影響とは",
-   "path": "/articles/20260811-ny-dow-nikkei-average-possibility.html",
+   "title": "日経平均10％下落でも投信へ2兆6956億円流入の背景",
+   "path": "/articles/20260811-nikkei-fund-inflow-2026-07.html",
    "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ライオン、上期事業利益21%増の一方で下期原料高50億円をどう乗り切るのか",
-   "path": "/articles/20260811-lion-fy2026-q2-earnings.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "執筆失敗: Australia PM under fire for remarks on J",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 29,
+ "notes": [],
+ "pv_today": 30,
  "gemini": {
-  "used": 158,
+  "used": 161,
   "limit": 200
  }
 }
