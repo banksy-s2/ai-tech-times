@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Cファンド、新規商品登録停止の3カ月処分へ](https://ai-tech-times.web.app/articles/20260812-china-fund-style-deviation-influencer-issue.html) — 2026-08-12 03:00: 中国の金融市場において、主題ファンドの運用スタイル乖離と無資格インフルエンサーの起用が問題視されています。これを受け、Cファンドに対して新規商品の登録を3カ月停止する処分が下されました。
 - [Joby Aviation、5億ドルで新防衛事業を開始](https://ai-tech-times.web.app/articles/20260812-joby-aviation-defense-business-acquisition.html) — 2026-08-12 02:00: 空飛ぶクルマを開発するJoby Aviationが、Resonant Sciencesの買収で新たな防衛事業へと進出します。
 - [Meta、2億ドルの買収断念の背景とManusの独立](https://ai-tech-times.web.app/articles/20260812-meta-manus-acquisition-china.html) — 2026-08-12 02:00: メタは昨年12月、AI戦略強化のために20億ドル規模でのマヌスの買収を計画していましたが、中国の介入により破談となりました。これによりマヌスは独立企業として再出発することになります。
 - [OpenAI、サイバー防御Daybreak発表なぜ拡張？](https://ai-tech-times.web.app/articles/20260812-openai-daybreak-cyber-defense.html) — 2026-08-12 01:00: OpenAIは、サイバー防御者向けイニシアチブ「Daybreak」の拡張と特化型モデル「GPT-5.6-Cyber」の投入を発表しました。セキュリティ研究における過度な拒否動作を抑制し、高度な防御タスクを支援します。
@@ -41,14 +42,13 @@
 - [HIKAKIN氏「みそきん」が長野初出店、信州ラーメン博2026](https://ai-tech-times.web.app/articles/20260811-hikakin-misokin-shinshu-ramen-haku-2026.html) — 2026-08-11 20:01: 人気YouTuber・HIKAKIN氏が手掛ける「みそきん」が、長野県長野市で開催される『信州ラーメン博2026』にイベント初出店します。
 - [CrowdStrikeとPalo Altoが株価最高値、AI脅威の高まりで何が起きたのか](https://ai-tech-times.web.app/articles/20260811-crowdstrike-palo-alto-black-hat.html) — 2026-08-11 19:02: 業界の年間イベントであるBlack Hatカンファレンスを経て、AIを活用したサイバーセキュリティツールへの需要が再び高まっています。この動きを受け、主要企業が株式市場で最高値を記録しました。
 - [16万人が利用、AIで被災者主導の生活情報を共有](https://ai-tech-times.web.app/articles/20260811-imakokonavi-kumamoto-earthquake.html) — 2026-08-11 18:00: 熊本地震の発生直後、AIを活用して被災者どうしが生活情報をリアルタイムで共有するサイト「イマココナビ」が誕生し、好評を博しています。
-- [メタ、高性能AIを無償提供する狙いとは](https://ai-tech-times.web.app/articles/20260811-meta-free-ai-strategy.html) — 2026-08-11 18:00: 米メタは10日、高性能な人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表しました。AI利用の高額化が進む中、普及に向けた新たな戦略を打ち出しています。
 
 ## 世界のバズ動画TOP3 (2026-08-12)
 - 1位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
-- 2位: [Character Trailer - "Odette: An Elegy for Innocence" | Genshin Impact #Odette #NowSnezhnaya](https://www.youtube.com/watch?v=eMBXOgXC48M)
-- 3位: [NCT 127 엔시티 127 'Piñata' Track Video](https://www.youtube.com/watch?v=s8BOZFalBI8)
+- 2位: [NCT 127 엔시티 127 'Piñata' Track Video](https://www.youtube.com/watch?v=s8BOZFalBI8)
+- 3位: [Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept](https://www.youtube.com/watch?v=5vMWZhHPlaw)
 
-## AI用語事典 (全921語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全922語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
