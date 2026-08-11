@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ジェフ・ベゾス氏、名門リバプールFC買収へ](https://ai-tech-times.web.app/articles/20260811-jeff-bezos-liverpool-fc-acquisition.html) — 2026-08-11 10:00: アマゾン創業者として知られるジェフ・ベゾス氏が、イギリスの名門サッカークラブの株式取得に迫っていることが報じられました。
+- [インテル、150億ドルの株式発行計画なぜ](https://ai-tech-times.web.app/articles/20260811-intel-15-billion-stock-offering-ai.html) — 2026-08-11 10:00: 米インテルがAI需要の急拡大に伴うインフラ構築に対応するため、150億ドルの株式発行を計画していることが明らかになりました。
 - [Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ](https://ai-tech-times.web.app/articles/20260811-apple-tests-cxmt-memory-restrictions.html) — 2026-08-11 09:00: 世界的なメモリ不足を改善するため、Appleが中国の半導体メーカーであるCXMTのメモリチップをテストしていると報じられました。しかし、アメリカの規制によりカスタムチップの製造が行えていない可能性が指摘されています。
 - [AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか](https://ai-tech-times.web.app/articles/20260811-anthropic-claude-apps-gateway.html) — 2026-08-11 09:00: Anthropicは企業がAIコーディングエージェントを運用するための管理基盤を発表しました。クラウドでの利用管理をどのように変えるのでしょうか。
 - [NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法](https://ai-tech-times.web.app/articles/20260811-nvidia-magpie-tts-multilingual-voice-agents.html) — 2026-08-11 08:00: Hugging Face Blogにて、NVIDIA Magpie TTSを活用した低遅延で多言語対応の音声エージェント構築に関する情報が公開されました。
@@ -40,15 +42,13 @@
 - [日経平均株価は1363円高の6万6970円、3日ぶり大幅反発](https://ai-tech-times.web.app/articles/20260811-nikkei-average-rebounds-sharply-feb-10.html) — 2026-08-11 05:00: 10日大引けの日経平均株価は、前日比1363円51銭高の6万6970円22銭となり、3日ぶりに大幅反発しました。
 - [自民党支持率35.0％、NHKの8月世論調査で判明](https://ai-tech-times.web.app/articles/20260811-nhk-poll-august-party-support.html) — 2026-08-11 04:00: NHKが発表した8月の世論調査による各党の支持率が明らかになりました。自民党が35.0％を占める一方、「支持なし」も高い割合となっています。
 - [トランプ大統領、核合意なしで幕引き模索か](https://ai-tech-times.web.app/articles/20260811-trump-iran-strait-of-ormuz.html) — 2026-08-11 04:00: アメリカメディアは、トランプ大統領がイラン情勢をめぐり、ホルムズ海峡での船舶の通航再開を条件に、核開発に関する合意なしでも幕引きを図る考えを側近にほのめかしたと報じました。
-- [宝鐘マリン＆ハコス・ベールズがLuckyFes’26のWING STAGEトリに降臨](https://ai-tech-times.web.app/articles/20260811-luckyfes26-marine-hakos.html) — 2026-08-11 03:00: ＜LuckyFes’26＞のWING STAGEにて、3日目のトリを務めた宝鐘マリンとハコス・ベールズのパフォーマンスについてお伝えします。
-- [OpenAIやMetaで起きたAIハック、イスラエルの新興企業が関与](https://ai-tech-times.web.app/articles/20260811-israeli-startup-irregular-linked-to-ai-hacks.html) — 2026-08-11 02:00: 米CNBC Techの報道によると、OpenAI、Anthropic、Metaの各社で発生した不正なAIハック事件が、イスラエルの小さな新興企業に関連していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-11)
 - 1位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
 - 2位: [No Man's Sky 10th Anniversary Trailer](https://www.youtube.com/watch?v=c-KoLySxccY)
 - 3位: [MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (EXPLICIT)](https://www.youtube.com/watch?v=xDs8UT3kJ8Y)
 
-## AI用語事典 (全896語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全898語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

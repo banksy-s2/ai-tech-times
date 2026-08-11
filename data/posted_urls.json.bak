@@ -1335,13 +1335,11 @@
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11dWVSQ05zcHlmNUdhTHUzSm13YWV6cXl2bW8yR29VZzNEUmtmQ2ZYOHFiTERZZWExQlR2VUdhM29XYjB2TDBMekRFYU9ON2NnMTYzZS1oanJPQ2k2bEE?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWW8tbUQ5aUE3c09fRThObEowalZjaUIwcVVFQmJuM1FnODhpUGNzNXdDU0ZHQUV5WnRzRUtRSWJvbXVwVC14SzYtaGdNdHR4bThRVFBfZ3ZPeUpCMksw?oc=5",
   "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-  "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
+  "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+  "https://gigazine.net/news/20260810-apple-tests-cxmt/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html"
  ],
  "titles": [
-  "AIコーディングで人間の理解を手放すとどうなるか",
-  "郡司真子氏が『みいちゃんと山田さん』アニメ化反対を訴える理由",
-  "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-  "Big Tech accused of stonewalling European social media researchers",
   "Hugging Face CEO、OpenAIハッカーステートメント",
   "メタやTikTokはなぜ欧州の研究者に法的データを出さないのか",
   "共産党「大谷翔平、あまりに愚か」ANTIFA「大谷翔平ボイコットするわ」しばき隊系活動家「大谷翔平馬鹿野郎」",
@@ -3337,6 +3335,10 @@
   "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
   "What happens to Bose when headphones become AI?",
   "NVIDIAのMagpie TTSで低遅延な音声エージェントを構築する方法",
-  "Bose CEOが語る、AI時代のヘッドホン戦略とは"
+  "Bose CEOが語る、AI時代のヘッドホン戦略とは",
+  "PCメーカーが中国の成長中メモリメーカー・CXMTのメモリを使い始める、Appleもテストを行うがアメリカの規制によりApple向けのカスタムチップを製造できずピンチに",
+  "Claude Code運用を一元化する「Claude apps gateway」発表　企業利用をどう管理？",
+  "Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ",
+  "AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか"
  ]
 }
