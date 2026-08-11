@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-11 19:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [CrowdStrikeとPalo Altoが株価最高値、AI脅威の高まりで何が起きたのか](https://ai-tech-times.web.app/articles/20260811-crowdstrike-palo-alto-black-hat.html) — 2026-08-11 19:02: 業界の年間イベントであるBlack Hatカンファレンスを経て、AIを活用したサイバーセキュリティツールへの需要が再び高まっています。この動きを受け、主要企業が株式市場で最高値を記録しました。
 - [16万人が利用、AIで被災者主導の生活情報を共有](https://ai-tech-times.web.app/articles/20260811-imakokonavi-kumamoto-earthquake.html) — 2026-08-11 18:00: 熊本地震の発生直後、AIを活用して被災者どうしが生活情報をリアルタイムで共有するサイト「イマココナビ」が誕生し、好評を博しています。
 - [メタ、高性能AIを無償提供する狙いとは](https://ai-tech-times.web.app/articles/20260811-meta-free-ai-strategy.html) — 2026-08-11 18:00: 米メタは10日、高性能な人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表しました。AI利用の高額化が進む中、普及に向けた新たな戦略を打ち出しています。
 - [ガートナー予測：2028年にSOC人手対応30％減の理由](https://ai-tech-times.web.app/articles/20260811-soc-human-response-decline-2028.html) — 2026-08-11 17:06: ガートナーが発表した予測によると、2028年にはSOC（セキュリティ・オペレーション・センター）における人手による対応が30％減少することが分かりました。常態化する攻撃の中で、セキュリティリーダーはどのように対応すべきなのでしょうか。
@@ -41,14 +42,13 @@
 - [OpenAI、住宅市場に直結する70億ドルの影響とは](https://ai-tech-times.web.app/articles/20260811-openai-housing-market-impact.html) — 2026-08-11 12:01: 米サンフランシスコの住宅市場が再び問題に直面していると報じられ、AI業界の動向が地域経済にどのような波紋を広げるのか注目が集まっています。
 - [OpenAI、AIを活用したサイバー攻撃に対抗する新モデルを発表](https://ai-tech-times.web.app/articles/20260811-openai-launches-new-cyber-model.html) — 2026-08-11 12:01: AIによるサイバー攻撃が増加する中、OpenAIはサイバーセキュリティ防衛プログラム「Daybreak」を拡充し、新たに訓練されたサイバーAIモデルを導入しました。
 - [NECが「全員AI」の新組織を設立、その狙いとは](https://ai-tech-times.web.app/articles/20260811-nec-all-ai-organization.html) — 2026-08-11 12:01: NECは、部門長から社員まで「全員AI」とする新しい組織を始動させました。AIマネージャーがAI社員を生成して役割を任命する仕組みです。
-- [MicrosoftがWindows 11に誤配信、削除できないOneDriveの謎](https://ai-tech-times.web.app/articles/20260811-microsoft-windows11-onedrive-error.html) — 2026-08-11 12:01: MicrosoftがWindows 11 PCに対して、AIを搭載した新しいOneDriveアプリを誤って配信したと認めました。現時点では簡単に削除する方法がないとして混乱が生じています。
 
 ## 世界のバズ動画TOP3 (2026-08-11)
 - 1位: [KiiiKiii 키키 'Pop Off Pop Off' MV](https://www.youtube.com/watch?v=UsbRoaH6y-Q)
 - 2位: [Character Trailer - "Odette: An Elegy for Innocence" | Genshin Impact #Odette #NowSnezhnaya](https://www.youtube.com/watch?v=eMBXOgXC48M)
 - 3位: [MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (EXPLICIT)](https://www.youtube.com/watch?v=xDs8UT3kJ8Y)
 
-## AI用語事典 (全908語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全910語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

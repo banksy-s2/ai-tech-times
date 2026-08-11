@@ -1365,13 +1365,11 @@
   "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260810de43204",
   "https://toyokeizai.net/articles/-/954486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJRVFRQk5pTmx1WWNJcTFUb2VJMGx1bW1CbG5aaGppbF9hY0s5YzdDSWM1aGFINThiZDZVSlBBWkU2UWdLNDFaZjl5bXk5NnhZNmFnTEJ5LW0zaW5Yb2Mw?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJRVFRQk5pTmx1WWNJcTFUb2VJMGx1bW1CbG5aaGppbF9hY0s5YzdDSWM1aGFINThiZDZVSlBBWkU2UWdLNDFaZjl5bXk5NnhZNmFnTEJ5LW0zaW5Yb2Mw?oc=5",
+  "https://www.itmedia.co.jp/news/article/2608/10/2000000481/",
+  "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/"
  ],
  "titles": [
-  "キオクシアHD株に値動き増幅のリスク､米国から｢レバETF｣の波迫る | 政治・経済・投資 | 東洋経済オンライン",
-  "ＥＬＥＭＥＮＴＳ[5246]：2026年11月期第２四半期決算説明ログミーFinance書き起こし記事掲載のお知らせ 2026年7月27日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-  "TechCrunch AI：脳波データの活用が迫る物理AIの進化",
-  "NEC、スマホ映像から1分で3Dモデル化するAI開発",
   "脳研究とAIが融合、頭の中の音楽を復元する仕組みとは",
   "政府スパイウェア企業をハッキングしたPhineas Fisherの正体",
   "登録者数140万超YouTuberのビフォーアフター",
@@ -3367,6 +3365,10 @@
   "エヌビディア、ウォール街から5000億ドル獲得の理由",
   "NHK：台風15号による交通機関への影響は",
   "城内経財相、市場の財政拡大懸念に反論",
-  "楽天グループ、6年ぶり四半期黒字化の背景"
+  "楽天グループ、6年ぶり四半期黒字化の背景",
+  "避難所でAI使ってサービス開発「イマココナビ」　ニッチな生活情報も被災者主導で共有",
+  "メタ、AIを「数十億人に無償提供」　高性能モデルの技術を外部に開放 - 日本経済新聞",
+  "16万人が利用、AIで被災者主導の生活情報を共有",
+  "メタ、高性能AIを無償提供する狙いとは"
  ]
 }
