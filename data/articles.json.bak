@@ -47843,5 +47843,39 @@
   "date": "2026-08-12",
   "time": "02:00",
   "path": "/articles/20260812-meta-manus-acquisition-china.html"
+ },
+ {
+  "title": "Cファンド、新規商品登録停止の3カ月処分へ",
+  "lead": "中国の金融市場において、主題ファンドの運用スタイル乖離と無資格インフルエンサーの起用が問題視されています。これを受け、Cファンドに対して新規商品の登録を3カ月停止する処分が下されました。",
+  "summary3": [
+   "主題ファンドのスタイル乖離が問題に",
+   "無資格インフルエンサー起用が発覚",
+   "Cファンドが新規商品登録を3カ月停止"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、中国市場において主題ファンドの「スタイル乖離」と、無資格のインフルエンサーを起用したプロモーション手法が深刻な問題として浮上しています。投資家保護や市場の公正性を揺るがす行為として、関係当局および業界の監視が厳しさを増している状況です。",
+   "こうした不適切運営の背景を受け、Cファンドに対して新規商品の登録を3カ月間停止する厳しい処分が下されました。ファンド運用における規律の欠如や、SNS等を通じた不正確な情報発信、不法な勧誘行為に対する警戒感が強まっています。",
+   "今回の処分は、業界全体におけるコンプライアンス意識の徹底を促すものとなります。無資格者による不適切な投資助言や、掲げた方針から逸脱した運用を防ぐため、今後の動向と規制強化に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "中国",
+   "ファンド",
+   "インフルエンサー"
+  ],
+  "slug": "china-fund-style-deviation-influencer-issue",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cファンド",
+    "type": "company",
+    "desc": "中国で主題ファンドの運用や新規商品登録などを手がける金融関連の企業組織である。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lSC1JR1lyQ0FISEdIVzNKOVBSSU5QSU5YTXBpTmxGVjNTUkJOSG5EbHhmUjl5aXRkQ3hYRWs4NV9JVXQtOTRpUGtfbkVKR2I1a3lXQ3NTa05xN01UbVhBZkJuX1IxYzJkdm5yRnJLZnBGUWZt?oc=5",
+  "category": "influencer",
+  "date": "2026-08-12",
+  "time": "03:00",
+  "path": "/articles/20260812-china-fund-style-deviation-influencer-issue.html"
  }
 ]
