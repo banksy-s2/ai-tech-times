@@ -46793,5 +46793,88 @@
   "date": "2026-08-11",
   "time": "15:00",
   "path": "/articles/20260811-nippon-paint-hd-fy2026-q2-earnings.html"
+ },
+ {
+  "title": "Metaの新型Glimmer AI、ザッカーバーグの狙いとは",
+  "lead": "Metaが新たに発表したオープンウェイトの「Muse Glimmer」モデルは、同社CEOの個人用スーパーインテリジェンスのビジョンを示しています。",
+  "summary3": [
+   "Metaが新型Glimmerを発表",
+   "最高経営責任者のビジョンを反映",
+   "AIアクセスの分断が浮き彫りに"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、Metaは新しいオープンウェイトのAIモデル「Muse Glimmer」を発表しました。このモデルは、同社の最高経営責任者であるマーク・ザッカーバーグ氏が描く、個人的なスーパーインテリジェンスのビジョンを垣間見せるものとなっています。",
+   "オープンウェイトモデルとして提供されるGlimmerは、AI技術の最先端における新たな試みです。しかし同時に、ユーザーが実際に所有し、アクセスできるAIのあり方をめぐる、業界内の新たな分断をも浮き彫りにしています。",
+   "テック業界において注目を集めるこのモデルは、今後のAI開発のトレンドや、ユーザーとAIの関係性にどのような影響を与えるのでしょうか。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Meta",
+   "Glimmer",
+   "AIモデル"
+  ],
+  "slug": "meta-new-glimmer-ai-model",
+  "people": [
+   {
+    "name": "マーク・ザッカーバーグ氏",
+    "bio": "Metaの創業者であり最高経営責任者。SNSプラットフォームのFacebookを立ち上げ、現在の巨大テック企業へと成長させた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "アメリカに本拠を置くSNS大手企業。FacebookやInstagramなどを運営し、近年はAI開発にも注力している。"
+   },
+   {
+    "name": "Muse Glimmer",
+    "type": "ai",
+    "desc": "Metaが発表したオープンウェイトの新しいAIモデル。同社の先進的なAIビジョンを反映しているとされる。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+  "category": "ai",
+  "date": "2026-08-11",
+  "time": "16:01",
+  "path": "/articles/20260811-meta-new-glimmer-ai-model.html"
+ },
+ {
+  "title": "Anthropic、Claudeの数学的能力に関する新研究を公開",
+  "lead": "AI開発を手がけるAnthropicが、対話型AI「Claude」の数学的アプローチや能力に関する新たな研究成果を発表しました。",
+  "summary3": [
+   "Anthropicが新研究を公開",
+   "Claudeの数学能力を検証",
+   "Riemann zetaに関する調査"
+  ],
+  "body": [
+   "AI開発企業のAnthropicは、自社が提供するAIモデル「Claude」の数学的な能力に関する詳細な研究成果を公式サイト上で発表しました。今回の研究では、数学の難問であるリーマンゼータ関数に関連する内容などが取り上げられています。",
+   "公開された記事では、Claudeが高度な数学的推論や課題に対してどのようにアプローチし、どのようなパフォーマンスを発揮するのかについて詳しく解説されています。AIの能力向上において数学的処理の正確性は重要であり、今回の発表は多くの技術者や研究者の注目を集めています。",
+   "Hacker Newsなどのオンラインコミュニティでも取り上げられ、多くのコメントが寄せられるなど議論の的となっています。AIの進化が続く中、数学という複雑な領域でモデルがどのように活用できるのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI"
+  ],
+  "slug": "anthropic-claude-mathematical-capabilities",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AI「Claude」などを開発・提供している人工知能企業。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高度な対話や文章生成、推論を行う最先端の大規模言語モデル（AI製品）。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.anthropic.com/research/riemann-zeta",
+  "category": "ai",
+  "date": "2026-08-11",
+  "time": "16:01",
+  "path": "/articles/20260811-anthropic-claude-mathematical-capabilities.html"
  }
 ]

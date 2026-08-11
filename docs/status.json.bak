@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-11 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-11 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "東証反発、1363円高で一時6万7000円回復の理由",
-   "path": "/articles/20260811-tse-rebounds-1363-yen-high.html",
-   "cat": "株式投資(日本)"
+   "title": "日本ペイントHD、売上収益5,334億円・営業益30%増の過去最高を達成",
+   "path": "/articles/20260811-nippon-paint-hd-fy2026-q2-earnings.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
  "notes": [],
- "pv_today": 8,
+ "pv_today": 17,
  "gemini": {
-  "used": 102,
+  "used": 105,
   "limit": 200
  }
 }
