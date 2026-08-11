@@ -1,73 +1,26 @@
 {
- "updated": "2026-08-11 12:01",
- "mode": "フル便",
+ "updated": "2026-08-11 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "OpenAI、住宅市場に直結する70億ドルの影響とは",
-   "path": "/articles/20260811-openai-housing-market-impact.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI、AIを活用したサイバー攻撃に対抗する新モデルを発表",
-   "path": "/articles/20260811-openai-launches-new-cyber-model.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "NECが「全員AI」の新組織を設立、その狙いとは",
-   "path": "/articles/20260811-nec-all-ai-organization.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "MicrosoftがWindows 11に誤配信、削除できないOneDriveの謎",
-   "path": "/articles/20260811-microsoft-windows11-onedrive-error.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Sila、国防総省から14億ドルを調達した理由",
-   "path": "/articles/20260811-sila-pentagon-loan-batteries.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Amazon、AI利益追求で初のオフグリッド型データセンターを発表",
-   "path": "/articles/20260811-amazon-off-grid-data-center.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "産経ニュース報道：海水浴客が激減し、海開き見送りへ",
-   "path": "/articles/20260811-beach-season-decline-sankei.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "H3ロケットで「みちびき7号機」打ち上げ成功",
-   "path": "/articles/20260811-michibiki-7-h3-rocket-success.html",
+   "title": "イオンモール熊本爆発、避難後の一時入館を認めたと発表",
+   "path": "/articles/20260811-aeon-mall-kumamoto-explosion-update.html",
    "cat": "時事・世界"
   },
   {
-   "title": "東京メトロ半蔵門線 渋谷ー九段下で運転見合わせ",
-   "path": "/articles/20260811-tokyo-metro-hanzomon-line-suspension.html",
+   "title": "ロシア中部で無人機攻撃、13人死亡なぜ？石油施設狙う",
+   "path": "/articles/20260811-russia-drone-attack-13-deaths.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "リクルートHD株価ストップ高、純利益上方修正の理由",
-   "path": "/articles/20260811-recruit-hd-stock-upward-revision.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "全東信倒産で注目の決済代行業、売上5805億円で過去最高",
-   "path": "/articles/20260811-payment-agency-market-high-2025.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": 7,
+ "notes": [],
+ "pv_today": 8,
  "gemini": {
-  "used": 94,
+  "used": 98,
   "limit": 200
  }
 }
