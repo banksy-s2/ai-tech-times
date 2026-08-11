@@ -47201,5 +47201,44 @@
   "date": "2026-08-11",
   "time": "18:00",
   "path": "/articles/20260811-meta-free-ai-strategy.html"
+ },
+ {
+  "title": "CrowdStrikeとPalo Altoが株価最高値、AI脅威の高まりで何が起きたのか",
+  "lead": "業界の年間イベントであるBlack Hatカンファレンスを経て、AIを活用したサイバーセキュリティツールへの需要が再び高まっています。この動きを受け、主要企業が株式市場で最高値を記録しました。",
+  "summary3": [
+   "Black Hatカンファレンスが開催",
+   "AIセキュリティツールへの需要が急増",
+   "主要関連企業の株価が最高値を更新"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のサイバーセキュリティ動向です。業界の年間最大級のイベントであるBlack Hatカンファレンスが開催され、サイバーセキュリティの分野におけるAI脅威の深刻さが改めて浮き彫りとなりました。",
+   "このカンファレンスをきっかけとして、AIを活用したサイバーセキュリティツールに対する市場の需要が急速に高まっています。複雑化するサイバー攻撃に対抗するため、AIの導入が不可欠という認識が広がったことが背景にあります。",
+   "こうした市場の期待感を反映し、セキュリティ業界を牽引するCrowdStrikeとPalo Altoの株価が最高値を記録しました。企業のセキュリティ対策において、AI技術の重要性が一段と増していることが示された形です。"
+  ],
+  "tags": [
+   "サイバーセキュリティ",
+   "AI",
+   "株価"
+  ],
+  "slug": "crowdstrike-palo-alto-black-hat",
+  "people": [],
+  "terms": [
+   {
+    "name": "CrowdStrike",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、クラウドベースのサイバーセキュリティ対策やエンドポイント保護を提供する企業。"
+   },
+   {
+    "name": "Palo Alto",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、次世代ファイアウォールをはじめとする総合的なサイバーセキュリティソリューションを提供する企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+  "category": "silicon",
+  "date": "2026-08-11",
+  "time": "19:02",
+  "path": "/articles/20260811-crowdstrike-palo-alto-black-hat.html"
  }
 ]

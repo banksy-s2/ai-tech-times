@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-11 19:02",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-11 20:02",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "CrowdStrikeとPalo Altoが株価最高値、AI脅威の高まりで何が起きたのか",
-   "path": "/articles/20260811-crowdstrike-palo-alto-black-hat.html",
-   "cat": "シリコンバレー最速"
+   "title": "HIKAKIN氏「みそきん」が長野初出店、信州ラーメン博2026",
+   "path": "/articles/20260811-hikakin-misokin-shinshu-ramen-haku-2026.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [
-  "執筆失敗: SpaceX stock rebounds, closing above $13"
- ],
+ "notes": [],
  "pv_today": 25,
  "gemini": {
-  "used": 133,
+  "used": 139,
   "limit": 200
  }
 }

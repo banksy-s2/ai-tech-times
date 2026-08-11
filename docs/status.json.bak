@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-11 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-11 19:02",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "16万人が利用、AIで被災者主導の生活情報を共有",
-   "path": "/articles/20260811-imakokonavi-kumamoto-earthquake.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "メタ、高性能AIを無償提供する狙いとは",
-   "path": "/articles/20260811-meta-free-ai-strategy.html",
-   "cat": "日本のAI"
+   "title": "CrowdStrikeとPalo Altoが株価最高値、AI脅威の高まりで何が起きたのか",
+   "path": "/articles/20260811-crowdstrike-palo-alto-black-hat.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
   "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q"
  },
- "notes": [],
- "pv_today": 23,
+ "notes": [
+  "執筆失敗: SpaceX stock rebounds, closing above $13"
+ ],
+ "pv_today": 25,
  "gemini": {
-  "used": 129,
+  "used": 133,
   "limit": 200
  }
 }
