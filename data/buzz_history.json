@@ -2481,12 +2481,13 @@
    "id": "UsbRoaH6y-Q",
    "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
    "channel": "STARSHIP",
-   "views": 1665043,
+   "views": 1689693,
    "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q",
    "thumb": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
+    "JP",
     "KR",
     "BR"
    ],
@@ -2494,25 +2495,10 @@
   },
   {
    "rank": 2,
-   "id": "xDs8UT3kJ8Y",
-   "title": "MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (EXPLICIT)",
-   "channel": "Beyoncé",
-   "views": 138093,
-   "url": "https://www.youtube.com/watch?v=xDs8UT3kJ8Y",
-   "thumb": "https://i.ytimg.com/vi/xDs8UT3kJ8Y/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "comment": "ジェイ・ジをフィーチャーした楽曲のリミックス映像のようですね。"
-  },
-  {
-   "rank": 3,
    "id": "eMBXOgXC48M",
    "title": "Character Trailer - \"Odette: An Elegy for Innocence\" | Genshin Impact #Odette #NowSnezhnaya",
    "channel": "Genshin Impact",
-   "views": 124404,
+   "views": 144219,
    "url": "https://www.youtube.com/watch?v=eMBXOgXC48M",
    "thumb": "https://i.ytimg.com/vi/eMBXOgXC48M/hqdefault.jpg",
    "regions": [
@@ -2523,11 +2509,26 @@
    "comment": "原神のキャラクター「オデット」の紹介トレーラーと思われる映像です。（28文字）"
   },
   {
+   "rank": 3,
+   "id": "xDs8UT3kJ8Y",
+   "title": "MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (EXPLICIT)",
+   "channel": "Beyoncé",
+   "views": 140581,
+   "url": "https://www.youtube.com/watch?v=xDs8UT3kJ8Y",
+   "thumb": "https://i.ytimg.com/vi/xDs8UT3kJ8Y/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "comment": "ジェイ・ジをフィーチャーした楽曲のリミックス映像のようですね。"
+  },
+  {
    "rank": 4,
    "id": "GWt-JVV2ZPo",
    "title": "KAI & SPEED HARDCORE MINECRAFT MARATHON ⛏️🧱 BEATING ALL BOSSES | DAY 3 PART 2",
    "channel": "Kai Cenat Live",
-   "views": 2513605,
+   "views": 2514968,
    "url": "https://www.youtube.com/watch?v=GWt-JVV2ZPo",
    "thumb": "https://i.ytimg.com/vi/GWt-JVV2ZPo/hqdefault.jpg",
    "regions": [
@@ -2541,7 +2542,7 @@
    "id": "zFpiS0CaddA",
    "title": "Wait a minute... This DEFINITELY isn't Mario Party",
    "channel": "SMii7Y",
-   "views": 1268524,
+   "views": 1321383,
    "url": "https://www.youtube.com/watch?v=zFpiS0CaddA",
    "thumb": "https://i.ytimg.com/vi/zFpiS0CaddA/hqdefault.jpg",
    "regions": [
@@ -2555,7 +2556,7 @@
    "id": "UX-KSyPmcEo",
    "title": "A HISTORIC STREAM",
    "channel": "Jynxzi",
-   "views": 607580,
+   "views": 611318,
    "url": "https://www.youtube.com/watch?v=UX-KSyPmcEo",
    "thumb": "https://i.ytimg.com/vi/UX-KSyPmcEo/hqdefault.jpg",
    "regions": [
@@ -2569,7 +2570,7 @@
    "id": "DiIquLrEqC4",
    "title": "Season 4: Heroes of Busan Official Trailer | Overwatch",
    "channel": "PlayOverwatch",
-   "views": 445970,
+   "views": 449015,
    "url": "https://www.youtube.com/watch?v=DiIquLrEqC4",
    "thumb": "https://i.ytimg.com/vi/DiIquLrEqC4/hqdefault.jpg",
    "regions": [
@@ -2583,7 +2584,7 @@
    "id": "c-KoLySxccY",
    "title": "No Man's Sky 10th Anniversary Trailer",
    "channel": "HelloGamesTube",
-   "views": 434518,
+   "views": 442088,
    "url": "https://www.youtube.com/watch?v=c-KoLySxccY",
    "thumb": "https://i.ytimg.com/vi/c-KoLySxccY/hqdefault.jpg",
    "regions": [
@@ -2594,10 +2595,24 @@
   },
   {
    "rank": 9,
+   "id": "bfQ0eLJNWiw",
+   "title": "WayV 威神V '鸢 (Vision Wings)' MV",
+   "channel": "SMTOWN",
+   "views": 359205,
+   "url": "https://www.youtube.com/watch?v=bfQ0eLJNWiw",
+   "thumb": "https://i.ytimg.com/vi/bfQ0eLJNWiw/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP"
+   ],
+   "comment": "WayVの新曲「Vision Wings」のMVのようですね。"
+  },
+  {
+   "rank": 10,
    "id": "ZgIBPKnfMB8",
    "title": "Deep Glow Crystal",
    "channel": "Oliver Wells - Topic",
-   "views": 324405,
+   "views": 331757,
    "url": "https://www.youtube.com/watch?v=ZgIBPKnfMB8",
    "thumb": "https://i.ytimg.com/vi/ZgIBPKnfMB8/hqdefault.jpg",
    "regions": [
@@ -2605,20 +2620,6 @@
     "GB"
    ],
    "comment": "Oliver Wellsの楽曲「Deep Glow Crystal」の音源のようです。"
-  },
-  {
-   "rank": 10,
-   "id": "ldCb77jXIsM",
-   "title": "Paper Tiger - Official Teaser Trailer - In Theaters November",
-   "channel": "NEON",
-   "views": 317198,
-   "url": "https://www.youtube.com/watch?v=ldCb77jXIsM",
-   "thumb": "https://i.ytimg.com/vi/ldCb77jXIsM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "映画『Paper Tiger』の公式ティーザー予告編のようです。（26文字）"
   }
  ]
 }

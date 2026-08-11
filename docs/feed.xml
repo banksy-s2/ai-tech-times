@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>16万人が利用、AIで被災者主導の生活情報を共有</title>
+<link>https://ai-tech-times.web.app/articles/20260811-imakokonavi-kumamoto-earthquake.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-imakokonavi-kumamoto-earthquake.html</guid>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>熊本地震の発生直後、AIを活用して被災者どうしが生活情報をリアルタイムで共有するサイト「イマココナビ」が誕生し、好評を博しています。</description>
+</item>
+<item>
+<title>メタ、高性能AIを無償提供する狙いとは</title>
+<link>https://ai-tech-times.web.app/articles/20260811-meta-free-ai-strategy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260811-meta-free-ai-strategy.html</guid>
+<pubDate>Tue, 11 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米メタは10日、高性能な人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表しました。AI利用の高額化が進む中、普及に向けた新たな戦略を打ち出しています。</description>
+</item>
+<item>
 <title>ガートナー予測：2028年にSOC人手対応30％減の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260811-soc-human-response-decline-2028.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260811-soc-human-response-decline-2028.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 11 Aug 2026 10:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米インテルがAI需要の急拡大に伴うインフラ構築に対応するため、150億ドルの株式発行を計画していることが明らかになりました。</description>
-</item>
-<item>
-<title>Appleが中国CXMTのメモリをテストも規制でカスタム発注できずピンチ</title>
-<link>https://ai-tech-times.web.app/articles/20260811-apple-tests-cxmt-memory-restrictions.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-apple-tests-cxmt-memory-restrictions.html</guid>
-<pubDate>Tue, 11 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>世界的なメモリ不足を改善するため、Appleが中国の半導体メーカーであるCXMTのメモリチップをテストしていると報じられました。しかし、アメリカの規制によりカスタムチップの製造が行えていない可能性が指摘されています。</description>
-</item>
-<item>
-<title>AnthropicがClaude apps gateway発表、企業利用の課題はどう解決されるのか</title>
-<link>https://ai-tech-times.web.app/articles/20260811-anthropic-claude-apps-gateway.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260811-anthropic-claude-apps-gateway.html</guid>
-<pubDate>Tue, 11 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Anthropicは企業がAIコーディングエージェントを運用するための管理基盤を発表しました。クラウドでの利用管理をどのように変えるのでしょうか。</description>
 </item>
 </channel></rss>
