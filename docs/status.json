@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-12 19:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-12 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "トランプ・メディア、暗号資産下落で2億3800万ドルの損失",
-   "path": "/articles/20260812-trump-media-posts-238-million-loss.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "GoogleのGemini、10億ユーザー突破。成長の裏にある疑問",
-   "path": "/articles/20260812-google-gemini-hits-1b-users.html",
-   "cat": "シリコンバレー最速"
+   "title": "藤井サチがペットビジネス参入へ、「息をするだけで稼ぎたい」の真意",
+   "path": "/articles/20260812-fujii-sachi-pet-business.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 25,
  "gemini": {
-  "used": 131,
+  "used": 134,
   "limit": 200
  }
 }
