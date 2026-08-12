@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-13 02:01",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "テスラ、テキサス州に100億ドルの巨大ソーラー工場構想",
-   "path": "/articles/20260813-tesla-solar-factory-texas.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
-   "path": "/articles/20260813-google-pixel-11-gemini-ai-apple.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-13 03:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 『ドリフに大挑戦』HIKAKINがコント出演も指摘された“ミスマッチ” YouT"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 17,
+  "used": 19,
   "limit": 200
  }
 }
