@@ -48476,5 +48476,78 @@
   "date": "2026-08-12",
   "time": "09:00",
   "path": "/articles/20260812-twostone-ai-content-survey.html"
+ },
+ {
+  "title": "Super MicroのQ4売上高93%増、株価が時間外で9%超上昇した理由",
+  "lead": "Super Micro Computer Inc.が発表した第4四半期決算は、売上高が前年同期比93%増の111億ドルとなりました。市場予想には届かなかったものの、好調な見通しを背景に時間外取引で株価が急上昇しています。",
+  "summary3": [
+   "Q4売上高は前年同期比93%増の111億ドル",
+   "当期および2027年度の売上高予想を上方修正",
+   "好調な見通しを受け株価が時間外で9%超上昇"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新のマーケット情報です。サーバー開発を手がけるSuper Micro Computer Inc.が、第4四半期（Q4）の決算を発表しました。注目の売上高は前年同期比93%増の111億ドルを記録し、市場予想の113億ドルにはわずかに届かなかったものの、高い成長率を維持しています。",
+   "同社が発表した当期の売上高予測は、市場のアナリスト予想を上回る水準となりました。さらに2027年度の売上高予想についても予想を上回る見通しを示しており、人工知能分野における旺盛な需要が引き続き業績を牽引していることが伺えます。",
+   "この強気な業績見通しが投資家に好感され、発表後の時間外取引でSuper Micro Computer Inc.の株価は9%を超える大幅な上昇を記録しました。今後のAI市場の動向とあわせて、同社の成長スピードがどこまで続くのか市場の注目が集まっています。"
+  ],
+  "tags": [
+   "Super Micro",
+   "決算",
+   "AI"
+  ],
+  "slug": "super-micro-q4-revenue-jumps-93-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "Super Micro Computer Inc.",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、高性能サーバーやストレージシステムなどを開発・提供している企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260811/p34#a260811p34",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "10:00",
+  "path": "/articles/20260812-super-micro-q4-revenue-jumps-93-percent.html"
+ },
+ {
+  "title": "OpenAI幹部ブラッド・ライトキャップ氏が退社へ",
+  "lead": "OpenAIの長年の幹部であるブラッド・ライトキャップ氏が火曜日に退社を発表しました。同社では最近、経営陣の刷新が相次いで続いています。",
+  "summary3": [
+   "OpenAIの長年幹部が退社を発表",
+   "同社では経営陣の刷新が相次ぐ",
+   "火曜日に退社が明らかにされた"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米CNBC Techの報道によると、人工知能分野をリードするOpenAIで長年にわたり幹部を務めてきたブラッド・ライトキャップ氏が、火曜日に自身の退社を発表しました。",
+   "今回の退社は、同社において最近相次いでいる一連の経営陣の刷新における最新の動きとなります。OpenAIでは組織体制の変更や幹部の異動が続いており、今回のライトキャップ氏の去就にも注目が集まっています。",
+   "同氏は長年、中核メンバーとして組織を支えてきましたが、今後の動向や後任体制についての詳細は現時点で発表されていません。AI業界を牽引する主要企業での相次ぐ人事の変化は、今後の開発や事業戦略にも影響を与える可能性があります。当サイトでは引き続き、最新の情報を報じてまいります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ブラッド・ライトキャップ",
+   "人事"
+  ],
+  "slug": "openai-executive-brad-lightcap-leaves",
+  "people": [
+   {
+    "name": "ブラッド・ライトキャップ氏",
+    "bio": "米OpenAIで長年にわたり幹部を務め、組織の成長を支えた主要人物の一人。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカを拠点とし、最先端の人工知能や大規模言語モデルの開発を手がける企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "10:00",
+  "path": "/articles/20260812-openai-executive-brad-lightcap-leaves.html"
  }
 ]
