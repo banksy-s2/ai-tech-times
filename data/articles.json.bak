@@ -48954,5 +48954,79 @@
   "date": "2026-08-12",
   "time": "15:00",
   "path": "/articles/20260812-gree-financial-results-reality-vtuber.html"
+ },
+ {
+  "title": "AnthropicのClaude、テキストと画像に不可視ウォーターマーク導入なぜ",
+  "lead": "Anthropicは、AIが生成したテキストと画像に機械読み取り可能なデータを埋め込むウォーターマークの導入を発表しました。",
+  "summary3": [
+   "Claudeがテキストと画像に透かし導入",
+   "欧州のAI透明性ルール遵守が目的",
+   "人間には見えない仕様でデータを保護"
+  ],
+  "body": [
+   "米国のAI企業Anthropicは、対話型AI「Claude」が生成するテキストと画像に対して、機械読み取り可能なデータを埋め込むウォーターマーク（透かし）の導入を決定しました。これは、欧州連合が定めるAIの透明性に関するルールに準拠するための取り組みの一環となります。",
+   "新たなClaudeのサポートページによると、生成されたテキストには埋め込みウォーターマークが適用されます。さらに、対応しているファイル形式では、デジタル署名された出所のメタデータも含まれる仕様になると説明されています。",
+   "これらの変更点や新機能によるウォーターマークやメタデータは、人間からは目に見えない形で処理されます。AIが生成したコンテンツの識別や透明性確保に向けた具体的な対策として、今後の運用が注目されます。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AI透明性"
+  ],
+  "slug": "anthropic-claude-watermarks-text-images",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、安全性に配慮した対話型AIモデルの開発を手がけています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能な対話型AIモデルであり、テキスト生成や画像認識などの機能を提供します。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "16:01",
+  "path": "/articles/20260812-anthropic-claude-watermarks-text-images.html"
+ },
+ {
+  "title": "Zoom、AIで20未満のプロンプトを活用し発見された重大脆弱性を修正",
+  "lead": "Zoomは、AIモデルを活用したプロンプトで発見された、会議中のデバイス乗っ取りを可能にする重大なセキュリティ脆弱性を修正しました。",
+  "summary3": [
+   "Zoomの会議中にデバイスが乗っ取りされる脆弱性が判明",
+   "20未満のAIプロンプトを使用して脆弱性を発見",
+   "研究チームの指摘を受け、Zoom側ですでにパッチを適用"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米国の通信・ビデオ会議サービスを提供するZoomは、会議中に任意のデバイスが乗っ取りされる可能性のある重大なセキュリティ脆弱性を修正したことを明らかにしました。この脆弱性は、会議中のアノテーション機能に関連するものでした。",
+   "火曜日に公開されたブログ記事の中で、セキュリティ企業A Securityの研究者らは、公開されているAIモデルに対して20未満のプロンプトを用いることで、この脆弱性を発見したと明らかにしました。この内容は、海外メディアのWiredによっても先行して報じられていました。",
+   "Zoomはすでにこの問題に対するパッチ適用などの対応を行っています。AIモデルの活用方法によっては、これまで想定されていなかったセキュリティ上のリスクが短時間で発見される事例が示されており、今後のセキュリティ対策に大きな影響を与えそうです。"
+  ],
+  "tags": [
+   "Zoom",
+   "セキュリティ",
+   "脆弱性",
+   "AI"
+  ],
+  "slug": "zoom-vulnerability-ai-attack",
+  "people": [],
+  "terms": [
+   {
+    "name": "Zoom",
+    "type": "company",
+    "desc": "アメリカ合衆国に拠点を置き、ビデオ会議サービスやオンライン通信プラットフォームを提供している企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "16:01",
+  "path": "/articles/20260812-zoom-vulnerability-ai-attack.html"
  }
 ]

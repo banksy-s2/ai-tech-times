@@ -1417,13 +1417,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260811de43298",
   "https://news.web.nhk/newsweb/na/nd-20260812de43385",
   "https://toyokeizai.net/articles/-/954595?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DczFaajJ3VlNqX0VLV1dPeWtHM2tvdnJOVU9TdDk1R2RlRXgtZ1MtakFNOXF2RGdsRjh1ZldxemhCMDZhX1d4c0FNS0h1YURCRE9kamRmVWoySzVJRWQwckJmTWhPMW9iRE9fay1TX1Rza05xVmc?oc=5"
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DczFaajJ3VlNqX0VLV1dPeWtHM2tvdnJOVU9TdDk1R2RlRXgtZ1MtakFNOXF2RGdsRjh1ZldxemhCMDZhX1d4c0FNS0h1YURCRE9kamRmVWoySzVJRWQwckJmTWhPMW9iRE9fay1TX1Rza05xVmc?oc=5",
+  "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+  "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"
  ],
  "titles": [
-  "西武がインド出身選手とプロ野球史上初の契約　柔道で全国準V経験も：朝日新聞",
-  "作家 東野圭吾さん死去 読者や関係者から悼む声",
-  "トランプ大統領 “金利引き下げられるべき” FRB会合前に圧力",
-  "松井証、米国株「23時間取引」へ 12月6日から日本で日中売買可能に - 日本経済新聞",
   "信越化学工業株価一時6%安 27年3月期利益計画が市場予想下回る - 日本経済新聞",
   "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
   "AnthropicのClaude共有チャットがGoogleにインデックスか",
@@ -3419,6 +3417,10 @@
   "｢カツカレー指数｣で適正為替水準を分析すると1ドルはわずか62円18銭…｢ビッグマック指数｣の場合は1ドル=80円30銭 | 政治・経済・投資 | 東洋経済オンライン",
   "BNYメロン分析、カツカレー指数で1ドル62円18銭",
   "グリーが決算発表、REALITYが過去最高の営業利益、VTuberプロダクションも好調 - Mogura VR",
-  "グリー決算：REALITYが過去最高益"
+  "グリー決算：REALITYが過去最高益",
+  "Claude will apply invisible watermarks to AI text and images",
+  "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+  "AnthropicのClaude、テキストと画像に不可視ウォーターマーク導入なぜ",
+  "Zoom、AIで20未満のプロンプトを活用し発見された重大脆弱性を修正"
  ]
 }
