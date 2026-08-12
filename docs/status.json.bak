@@ -1,21 +1,64 @@
 {
- "updated": "2026-08-12 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-12 21:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "藤井サチがペットビジネス参入へ、「息をするだけで稼ぎたい」の真意",
-   "path": "/articles/20260812-fujii-sachi-pet-business.html",
-   "cat": "インフルエンサー"
+   "title": "OpenAI、Linux向けChatGPT専用アプリを提供開始なぜ",
+   "path": "/articles/20260812-openai-launches-chatgpt-desktop-app-for-linux.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "iPhone 18 Proの部品コスト約38％増、価格上昇へ",
+   "path": "/articles/20260812-iphone-18-pro-cost-surge-memory.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPTの暗号化された思考を読み取る新手法が開発された理由",
+   "path": "/articles/20260812-ai-encrypted-thoughts-stolen.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "CoreWeave売上高が2倍増、時間外で18%急騰した理由",
+   "path": "/articles/20260812-coreweave-q2-earnings-ai-demand.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Blacksmithが4500万ドル調達、評価額5億5000万ドルに",
+   "path": "/articles/20260812-blacksmith-raises-45m-series-b.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "プーチン大統領が北方領土で日本けん制の理由",
+   "path": "/articles/20260812-putin-northern-territories-japan.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "中国の新車輸出80%増の100万台超、EV需要で高まるガソリン高の影",
+   "path": "/articles/20260812-china-ev-exports-exceed-one-million.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "食料品価格が最大20%高騰へ、スーパーエルニーニョの脅威",
+   "path": "/articles/20260812-super-el-nino-food-inflation-2026.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "エア・ウォーター、26年4〜6月期決算発表を延期",
+   "path": "/articles/20260812-air-water-earnings-postponed.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 『ドリフに大挑戦』HIKAKINがコント出演も指摘された“ミスマッチ” YouT",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 25,
  "gemini": {
-  "used": 134,
+  "used": 157,
   "limit": 200
  }
 }
