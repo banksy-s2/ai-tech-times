@@ -48577,5 +48577,242 @@
   "date": "2026-08-12",
   "time": "11:00",
   "path": "/articles/20260812-side-business-youtuber-monetization-hurdle.html"
+ },
+ {
+  "title": "Saber、ChatGPTでライター解雇を否定",
+  "lead": "ゲーム開発をめぐり、AIに置き換えられたと主張する元リードライターと、それを完全否定する最高経営責任者（CEO）の間で意見が対立しています。",
+  "summary3": [
+   "ライターがAI置換を主張",
+   "SaberのCEOが否定",
+   "ゲーム開発のAI利用で議論"
+  ],
+  "body": [
+   "海外メディア「The Verge AI」の報道によると、Saber社が開発するゲーム「Rideshare Stimulator」において、ライターがChatGPTに置き換えられたかどうかが大きな話題となっています。発端となったのは、同作の元リードライターを務めたステラ・サッコ氏による告発でした。",
+   "サッコ氏は自身のBlueskyアカウントにおいて、「この作品のリードライターだったが、ChatGPTに置き換えられた」と強く主張しました。この投稿により、ゲーム業界における生成AIの活用と、クリエイターの雇用をめぐる懸念が広がることになりました。",
+   "しかし、Saber社の最高経営責任者（CEO）であるマシュー・カース氏は、この主張を全面的に否定しています。「SaberもUnigineも、ライターをAIに置き換えたことは一切ない」と述べ、開発体制に関する疑惑を強く否定しました。真相をめぐり、双方の主張は平行線をたどっています。"
+  ],
+  "tags": [
+   "Saber",
+   "ChatGPT",
+   "AI"
+  ],
+  "slug": "saber-denies-chatgpt-writer-replacement",
+  "people": [
+   {
+    "name": "マシュー・カース氏",
+    "bio": "Saber社の最高経営責任者（CEO）を務める人物。"
+   },
+   {
+    "name": "ステラ・サッコ氏",
+    "bio": "Rideshare Stimulatorの元リードライター。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Saber",
+    "type": "company",
+    "desc": "ゲームの開発やパブリッシングを手がけるアメリカの企業。"
+   },
+   {
+    "name": "Unigine",
+    "type": "company",
+    "desc": "ゲームエンジンや3Dグラフィックス技術などを開発する企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-saber-denies-chatgpt-writer-replacement.html"
+ },
+ {
+  "title": "Google検索が衰退する中、消えゆくインターネットの記憶とは",
+  "lead": "AIがウェブ上の情報を急速に飲み込んでいく現代、インターネットが持つ集合的な記憶が消えつつあると指摘されています。情報の海に何が起きているのでしょうか。",
+  "summary3": [
+   "AIがウェブ情報を急速に消費",
+   "インターネットの記憶が消滅危機",
+   "検索システムの変容が与える影響"
+  ],
+  "body": [
+   "AI技術が急速に普及し、インターネット上のデータを大量に読み込むようになるにつれて、ウェブのあり方が大きく変わりつつあります。私たちが日常的に利用してきた検索エンジンやウェブサイトの環境には、新たな変化が訪れています。",
+   "かつては多くの人がアクセスし、共有されていた情報や過去の記録が、AIによる情報の処理と収集の過程で、これまでにないスピードで変質または消失しているという懸念が示されています。インターネットが長年かけて蓄積してきた集合的な記憶が、今まさに失われようとしているのです。",
+   "この問題は、私たちが日常的に頼る検索体験の未来や、ウェブ上の情報がどのように保存・継承されていくのかという点において、大きな問いを投げかけています。今後のインターネット環境の変化から目が離せません。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "インターネット"
+  ],
+  "slug": "google-search-and-collective-memory",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://thewalrus.ca/google-search-is-dying/",
+  "category": "ai",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-google-search-and-collective-memory.html"
+ },
+ {
+  "title": "Gartner予測：37兆円のSaaS支出が消える理由",
+  "lead": "Gartnerは、企業向けソフトウェアの支出のうち最大2340億ドル（約37兆円）がエージェント型AIの影響で消えると予測を発表しました。",
+  "summary3": [
+   "Gartnerがエージェント型AIの予測を発表",
+   "約37兆円のSaaS支出が消える可能性",
+   "従来型SaaSのシート課金モデルが崩れる"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、Gartnerは企業向けソフトウェアの支出のうち最大2340億ドル（約37兆円）が、エージェント型AIの影響にさらされるとの予測を発表しました。",
+   "この変化により、従来型SaaSで主流となっていたシート課金モデルが崩れることになります。その結果、ユーザー数の増加と収益の増加が連動しなくなると指摘されています。",
+   "エージェント型AIの普及が進むことで、企業のソフトウェア支出やビジネスモデルに大きな影響を及ぼす破壊力を持つことが示されています。"
+  ],
+  "tags": [
+   "AI",
+   "SaaS",
+   "Gartner"
+  ],
+  "slug": "gartner-saas-spending-agent-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Gartner",
+    "type": "company",
+    "desc": "世界有数のITリサーチおよびアドバイザリー企業で、米国を本拠地とし市場分析や助言を提供している。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-gartner-saas-spending-agent-ai.html"
+ },
+ {
+  "title": "YouTubeパートナープログラムに過去1年で8000時間の新条件",
+  "lead": "YouTubeは、パートナープログラムの新規登録において新たな条件の追加を発表しました。積極的なクリエイターに有意義な報酬を還元するための変更となります。",
+  "summary3": [
+   "YouTubeパートナープログラムが大きく変更へ",
+   "過去1年間の動画視聴時間8000時間が必要に",
+   "過去90日間のショート動画再生2000万回も"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。300万人以上のクリエイターが参加しているというYouTubeパートナープログラム（YPP）において、2018年以来となる大きな変更が加えられることになりました。",
+   "今回の変更は、積極的なクリエイターに対してより有意義な報酬を与えることを目的として実施されます。新たな新規登録条件として、「過去1年間の動画視聴時間が8000時間」または「過去90日間のショート動画再生回数が2000万回」のいずれかが必要となります。",
+   "世界中の多くの動画投稿者に影響を与える今回のアップデートにより、プラットフォーム全体のクリエイターエコノミーがどのように変化していくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "YouTube",
+   "クリエイター",
+   "動画配信"
+  ],
+  "slug": "youtube-partner-program-update-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "YouTube",
+    "type": "company",
+    "desc": "アメリカのGoogleが提供する、世界最大の動画共有プラットフォームおよびその運営企業。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://gigazine.net/news/20260811-youtube-partner-program/",
+  "category": "influencer",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-youtube-partner-program-update-2026.html"
+ },
+ {
+  "title": "防衛省「北朝鮮から弾道ミサイル発射」日本のEEZ外側に落下か",
+  "lead": "防衛省は12日朝、北朝鮮から少なくとも1発の弾道ミサイルが発射され、日本のEEZ＝排他的経済水域の外側に落下したとみられると発表しました。",
+  "summary3": [
+   "防衛省がミサイル発射を発表",
+   "日本のEEZ外側に落下か",
+   "引き続き警戒と監視を継続"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じるところによると、防衛省は12日朝、北朝鮮から少なくとも1発の弾道ミサイルが発射されたことを明らかにしました。",
+   "発射されたミサイルは、日本のEEZ＝排他的経済水域の外側に落下したとみられています。",
+   "防衛省では、引き続き緊密な警戒と監視を続けています。"
+  ],
+  "tags": [
+   "防衛省",
+   "北朝鮮",
+   "弾道ミサイル"
+  ],
+  "slug": "mod-north-korea-missile-eez-2026",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260812de43345",
+  "category": "world",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-mod-north-korea-missile-eez-2026.html"
+ },
+ {
+  "title": "シリアのアサド前大統領に死刑判決、ロシア亡命中で引き渡しは不透明",
+  "lead": "中東のシリアの裁判所は11日、長年独裁的な統治を続けたアサド前大統領に対し、殺人や人道に対する罪などで死刑判決を言い渡しました。",
+  "summary3": [
+   "シリア裁判所がアサド前大統領に死刑判決",
+   "罪状は殺人や人道に対する罪などとされる",
+   "前大統領はロシアに亡命中で引き渡しは不透明"
+  ],
+  "body": [
+   "中東のシリアの裁判所は11日、長年、独裁的な統治を続けたアサド前大統領に対し、殺人や人道に対する罪などで死刑判決を言い渡しました。",
+   "アサド前大統領はすでにロシアに亡命しており、今後その身柄の引き渡しが実現するかどうかについては不透明な状況が続いています。"
+  ],
+  "tags": [
+   "シリア",
+   "国際ニュース",
+   "裁判"
+  ],
+  "slug": "assad-death-sentence-syria",
+  "people": [
+   {
+    "name": "アサド前大統領",
+    "bio": "中東のシリアで長年にわたり独裁的な統治を続け、現在はロシアに亡命している政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260811de43316",
+  "category": "world",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-assad-death-sentence-syria.html"
+ },
+ {
+  "title": "横浜ゴムが急騰、決算説明会を好感され成長余地大きいとアナリストコメント",
+  "lead": "横浜ゴムの株式が急騰しています。決算説明会が好感され、成長余地が大きいというアナリストコメントが伝えられています。",
+  "summary3": [
+   "横浜ゴムの株価が急騰しました",
+   "決算説明会が好感されました",
+   "成長余地が大きいと評価されました"
+  ],
+  "body": [
+   "横浜ゴムの株価が急騰しています。今回の値上がりは、開催された決算説明会が市場で好感されたことによるものです。",
+   "市場では、同社に対して成長余地が大きいとするアナリストからのコメントが伝えられており、投資家からの注目を集める要因となっています。"
+  ],
+  "tags": [
+   "横浜ゴム",
+   "株価急騰",
+   "決算説明会"
+  ],
+  "slug": "yokohama-rubber-stock-surge",
+  "people": [],
+  "terms": [
+   {
+    "name": "横浜ゴム",
+    "type": "company",
+    "desc": "東京都に本社を置く、タイヤ製造などを主力とする大手ゴム製品メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNk0zN0tDb3FvRDhtaGwtdUhoZjZzZTE1SmFfUUQtWnIxTmRzQktuc0cwM0pJQ1JYS1c2M24yS0NWTHVNT0x0aGJ4Ri1Ybm9vLTJLT05oOVROZ29EYXBRRjlYUjdwSFJMVDg1TVI5UE5vbnFuOGkzaFlnU1NnZEFEdnlKUnpybk0?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-12",
+  "time": "12:04",
+  "path": "/articles/20260812-yokohama-rubber-stock-surge.html"
  }
 ]

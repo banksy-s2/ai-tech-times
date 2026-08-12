@@ -1,21 +1,57 @@
 {
- "updated": "2026-08-12 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-12 12:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "副業YouTuberは収益化ハードル倍増でどうなる？",
-   "path": "/articles/20260812-side-business-youtuber-monetization-hurdle.html",
+   "title": "Saber、ChatGPTでライター解雇を否定",
+   "path": "/articles/20260812-saber-denies-chatgpt-writer-replacement.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Google検索が衰退する中、消えゆくインターネットの記憶とは",
+   "path": "/articles/20260812-google-search-and-collective-memory.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Gartner予測：37兆円のSaaS支出が消える理由",
+   "path": "/articles/20260812-gartner-saas-spending-agent-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "YouTubeパートナープログラムに過去1年で8000時間の新条件",
+   "path": "/articles/20260812-youtube-partner-program-update-2026.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "防衛省「北朝鮮から弾道ミサイル発射」日本のEEZ外側に落下か",
+   "path": "/articles/20260812-mod-north-korea-missile-eez-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "シリアのアサド前大統領に死刑判決、ロシア亡命中で引き渡しは不透明",
+   "path": "/articles/20260812-assad-death-sentence-syria.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "横浜ゴムが急騰、決算説明会を好感され成長余地大きいとアナリストコメント",
+   "path": "/articles/20260812-yokohama-rubber-stock-surge.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [],
- "pv_today": 16,
+ "notes": [
+  "執筆失敗: なぜAIで作業を効率化しても、給料が上がらないのか？",
+  "執筆失敗: What’s Scaleup Europe, the $5.7B fund th",
+  "執筆失敗: FlightAware sues Kalshi over flight canc",
+  "執筆失敗: 楽天グループ株価が大幅続落 1〜6月の営業損益、市場予想下回る - 日本経済新聞",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 17,
  "gemini": {
-  "used": 65,
+  "used": 90,
   "limit": 200
  }
 }
