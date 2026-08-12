@@ -1,21 +1,17 @@
 {
- "updated": "2026-08-13 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "野村證券、日経平均株価を2026年末70,000円に上方修正",
-   "path": "/articles/20260813-nikkei-average-forecast-nomura-2026.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-13 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash",
   "url": "https://www.youtube.com/watch?v=CSXhb2zhfLc"
  },
- "notes": [],
+ "notes": [
+  "日本企業の選定失敗: Unterminated string starting at: line 1 column 26 (char 25)"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 27,
+  "used": 29,
   "limit": 200
  }
 }

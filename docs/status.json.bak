@@ -1,26 +1,21 @@
 {
- "updated": "2026-08-13 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-13 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "旧統一教会元幹部ら3人在宅起訴、130人余に違法献金か",
-   "path": "/articles/20260813-unification-church-illegal-donations.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "高市首相、イラン大統領と電話会談しホルムズ海峡の安全航行を要求",
-   "path": "/articles/20260813-takaichi-iran-president-phone-talk.html",
-   "cat": "時事・世界"
+   "title": "野村證券、日経平均株価を2026年末70,000円に上方修正",
+   "path": "/articles/20260813-nikkei-average-forecast-nomura-2026.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept",
-  "url": "https://www.youtube.com/watch?v=5vMWZhHPlaw"
+  "title": "Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash",
+  "url": "https://www.youtube.com/watch?v=CSXhb2zhfLc"
  },
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 24,
+  "used": 27,
   "limit": 200
  }
 }
