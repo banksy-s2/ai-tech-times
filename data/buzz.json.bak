@@ -2,26 +2,10 @@
  "date": "2026-08-13",
  "videos": [
   {
-   "id": "chl0R8C4NJ8",
-   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
-   "channel": "SMTOWN",
-   "views": 1812465,
-   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8",
-   "thumb": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "KR"
-   ],
-   "rank": 1,
-   "comment": "Hearts2Heartsの新曲「ICONIC HEART」のMVです。(24文字)"
-  },
-  {
    "id": "5vMWZhHPlaw",
    "title": "Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept",
    "channel": "Excel Movies",
-   "views": 17531644,
+   "views": 18119382,
    "url": "https://www.youtube.com/watch?v=5vMWZhHPlaw",
    "thumb": "https://i.ytimg.com/vi/5vMWZhHPlaw/hqdefault.jpg",
    "regions": [
@@ -29,14 +13,29 @@
     "GB",
     "IN"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "映画ミルザプールの公式ヒンディー語予告編が公開されたようです。"
+  },
+  {
+   "id": "chl0R8C4NJ8",
+   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
+   "channel": "SMTOWN",
+   "views": 1853581,
+   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8",
+   "thumb": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
+   "regions": [
+    "US",
+    "JP",
+    "KR"
+   ],
+   "rank": 2,
+   "comment": "Hearts2Heartsの新曲「ICONIC HEART」のMVです。(24文字)"
   },
   {
    "id": "CSXhb2zhfLc",
    "title": "Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash",
    "channel": "Mythri Movie Makers",
-   "views": 1441332,
+   "views": 1798198,
    "url": "https://www.youtube.com/watch?v=CSXhb2zhfLc",
    "thumb": "https://i.ytimg.com/vi/CSXhb2zhfLc/hqdefault.jpg",
    "regions": [
@@ -51,7 +50,7 @@
    "id": "UdoR4R_5El0",
    "title": "KATSEYE - Animal (Celebrity Substitute Version)",
    "channel": "KATSEYE",
-   "views": 875373,
+   "views": 922990,
    "url": "https://www.youtube.com/watch?v=UdoR4R_5El0",
    "thumb": "https://i.ytimg.com/vi/UdoR4R_5El0/hqdefault.jpg",
    "regions": [
@@ -63,80 +62,81 @@
    "comment": "KATSEYEの「Animal」別バージョン映像のようです。"
   },
   {
+   "id": "FVvIl7-X1cA",
+   "title": "Goo Goo Dolls - Iris (Sub. Español + Lyrics)",
+   "channel": "Marinosaurio",
+   "views": 78607,
+   "url": "https://www.youtube.com/watch?v=FVvIl7-X1cA",
+   "thumb": "https://i.ytimg.com/vi/FVvIl7-X1cA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 5,
+   "comment": "グー・グー・ドールズの名曲「Iris」のスペイン語字幕と歌詞付き動画のようです。"
+  },
+  {
    "id": "-F-XHYgxy9A",
    "title": "MINECRAFT HARDCORE ALL BOSSES DAY 5🍄🔨🧟‍♂️ft. KaiCenat (Part 2)",
    "channel": "IShowSpeed",
-   "views": 7075985,
+   "views": 7092743,
    "url": "https://www.youtube.com/watch?v=-F-XHYgxy9A",
    "thumb": "https://i.ytimg.com/vi/-F-XHYgxy9A/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 6,
    "comment": "KaiCenatを迎えたマインクラフトハードコアのボス討伐配信の様子"
   },
   {
    "id": "xdPMKhjMSFs",
    "title": "Verity | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 3402906,
+   "views": 3471365,
    "url": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
    "thumb": "https://i.ytimg.com/vi/xdPMKhjMSFs/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 7,
    "comment": "Amazon MGM Studiosによる「Verity」の公式予告編です。(28文字)"
   },
   {
    "id": "ys7l2Rr9r1c",
    "title": "KAI & SPEED HARDCORE MINECRAFT MARATHON ⛏️🧱 BEATING ALL BOSSES | DAY 5 PART 1",
    "channel": "Kai Cenat Live",
-   "views": 2679407,
+   "views": 2682652,
    "url": "https://www.youtube.com/watch?v=ys7l2Rr9r1c",
    "thumb": "https://i.ytimg.com/vi/ys7l2Rr9r1c/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 8,
    "comment": "KaiとSpeedによるマインクラフトハードコアのマラソン配信の様子"
   },
   {
    "id": "hlfz1ep8IL4",
    "title": "Haiwaan Official Teaser | Akshay Kumar, Saif Ali Khan | Priyadarshan | KVN Productions",
    "channel": "KVN PRODUCTIONS",
-   "views": 1394266,
+   "views": 1538612,
    "url": "https://www.youtube.com/watch?v=hlfz1ep8IL4",
    "thumb": "https://i.ytimg.com/vi/hlfz1ep8IL4/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 8,
-   "comment": "Akshay Kumarらが出演する映画の公式ティーザー映像のようですね。"
-  },
-  {
-   "id": "dIw76C3-xYU",
-   "title": "A BEAUTIFUL STREAM",
-   "channel": "Jynxzi",
-   "views": 807668,
-   "url": "https://www.youtube.com/watch?v=dIw76C3-xYU",
-   "thumb": "https://i.ytimg.com/vi/dIw76C3-xYU/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 9,
-   "comment": "Jynxziによる美しいストリーミング配信の様子かもしれない。"
+   "comment": "Akshay Kumarらが出演する映画の公式ティーザー映像のようですね。"
   },
   {
    "id": "1EgS0othQe4",
    "title": "I Built Minecraft's Most Advanced Civilization",
    "channel": "Parrot",
-   "views": 732975,
+   "views": 934145,
    "url": "https://www.youtube.com/watch?v=1EgS0othQe4",
    "thumb": "https://i.ytimg.com/vi/1EgS0othQe4/hqdefault.jpg",
    "regions": [
@@ -156,7 +156,6 @@
   "IN"
  ],
  "comment_cache": {
-  "A7lyvgnDuDE": "ジョニー・デップらが出演する2026年公開予定の映画予告編のようです。",
   "AYJkq-UlkYM": "キーボードのエスケープゲームでロバックスだけを使い最初からやり直す動画のようです。(29字)",
   "7UIBOsuUwc4": "HBO Maxの新ドラマ「Lanterns」の公式予告編のようです。",
   "1RlTT-f_cIw": "「Marvel's Wolverine」の公式ストーリートレーラーが公開されたようです。",
@@ -455,6 +454,7 @@
   "CSXhb2zhfLc": "ラヴィ・テジャ出演のテルグ語映画『Irumudi』公式予告編。（24字）",
   "2J23QOUN9Es": "コララ・マーンとR・ナイトによる新曲の公式ミュージックビデオ。（27字）",
   "1EgS0othQe4": "マインクラフトで最も進んだ文明を構築した様子を紹介しているようです。(29字)",
-  "hlfz1ep8IL4": "Akshay Kumarらが出演する映画の公式ティーザー映像のようですね。"
+  "hlfz1ep8IL4": "Akshay Kumarらが出演する映画の公式ティーザー映像のようですね。",
+  "FVvIl7-X1cA": "グー・グー・ドールズの名曲「Iris」のスペイン語字幕と歌詞付き動画のようです。"
  }
 }
