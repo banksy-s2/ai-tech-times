@@ -1,17 +1,61 @@
 {
- "updated": "2026-08-13 06:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-08-13 07:01",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "Amazon、Twitch配信者のコンテンツをデフォルトでAI学習へ",
+   "path": "/articles/20260813-amazon-twitch-content-ai-training-default.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Thrive Holdingsが20億ドル調達、AI企業化の行方は",
+   "path": "/articles/20260813-thrive-holdings-raises-2b.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "メルカリがClaude Code導入の裏でシャドーAI対策を進める仕組み",
+   "path": "/articles/20260813-mercari-claude-code-governance.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AppleのiPhone 18、標準モデルは来年発売へ",
+   "path": "/articles/20260813-apple-iphone-18-launch-schedule.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "MetaとNvidiaが中国勢追う理由",
+   "path": "/articles/20260813-meta-nvidia-open-weight-ai-china.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "中東情勢の不透明感で円安、あなたの財布への影響は",
+   "path": "/articles/20260813-yen-exchange-rate-decline-middle-east.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均553円高、6万7000円回復しTOPIX最高値更新",
+   "path": "/articles/20260813-nikkei-average-gains-553-yen-topix-record.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "上場企業の配当総額23兆円、5割弱が増配 家計所得を押し上げ",
+   "path": "/articles/20260813-listed-companies-dividend-total-23-trillion-yen.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash",
   "url": "https://www.youtube.com/watch?v=CSXhb2zhfLc"
  },
  "notes": [
-  "日本企業の選定失敗: Unterminated string starting at: line 1 column 26 (char 25)"
+  "執筆失敗: 同僚女性教諭の水着画像をAIで生成　男性教諭を懲戒　神奈川県教委：朝日新聞",
+  "執筆失敗: 新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
+  "執筆失敗: ドイツ 情報機関の権限を大幅に強化する法案を閣議決定",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 1,
  "gemini": {
-  "used": 29,
+  "used": 53,
   "limit": 200
  }
 }

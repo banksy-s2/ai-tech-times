@@ -50263,5 +50263,39 @@
   "date": "2026-08-13",
   "time": "04:00",
   "path": "/articles/20260813-takaichi-iran-president-phone-talk.html"
+ },
+ {
+  "title": "野村證券、日経平均株価を2026年末70,000円に上方修正",
+  "lead": "野村證券のストラテジストが、日経平均株価の見通しを2026年末70,000円に上方修正しました。",
+  "summary3": [
+   "野村證券が日経平均見通しを修正",
+   "2026年末に70,000円を想定",
+   "堅調な需給環境を反映して解説"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、野村證券のストラテジストが日経平均株価の見通しを上方修正し、2026年末に70,000円に達するとの見解を示しました。",
+   "今回の見通し上方修正の背景には、堅調な需給環境があることが挙げられています。",
+   "同社のストラテジストによる解説では、現在の市場におけるさまざまな要因が分析されています。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "野村證券",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-forecast-nomura-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "野村證券",
+    "type": "company",
+    "desc": "日本の大手証券会社であり、国内外で幅広い金融サービスを提供している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uZlNWMzJhQWQtbTBSdVJJLUpZZFUxNldnaW9FSW1PaWM3NjVJcjZjaXJTaVFHVy1TU0NjNllOdERBWkZQT3Y2dV93OFR2SkRtb2xmb3pNVlJwbzFVX0Qw?oc=5",
+  "category": "stock",
+  "date": "2026-08-13",
+  "time": "05:00",
+  "path": "/articles/20260813-nikkei-average-forecast-nomura-2026.html"
  }
 ]
