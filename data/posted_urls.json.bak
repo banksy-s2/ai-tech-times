@@ -1449,13 +1449,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260812de43517",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wWW5tcDBxZE14MUM1N0t6V2ExbDl3WUdDdjVlOGNFX2Rka2RSX3J6YVBUeHdSUnFHSFZvOURuY0hTRG5GdkxIVHhrbjBXRGVkWVJKRFNwUUNvcEx0X1BrZEc0RTJzdFk2aUZnTg?oc=5",
   "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-  "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
+  "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+  "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+  "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/"
  ],
  "titles": [
-  "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
-  "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-  "日経平均株価が大幅反落、終値2566円安の6万2364円 - 日本経済新聞",
-  "キオクシアHD再びストップ安､巨額投資や中国懸念でAI･半導体株急落 | 政治・経済・投資 | 東洋経済オンライン",
   "フジ・メディアHDとSBIが戦略的業務提携に向けた協議を開始、その狙いはどこにある？ - @DIME アットダイム",
   "キヤノン Q2決算発表 年内にレンズ交換式展開の可能性高まる - ミラーレスカメラ情報",
   "TechCrunch Disrupt 2026、AIインフラの課題に迫るステージ公開",
@@ -3451,6 +3449,10 @@
   "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
   "AI is removing the middle class of software engineering",
   "GoogleがMade by Google '26でPixel 11や新型タグを発表した理由",
-  "AIはソフトウェアエンジニアの「中流層」をなぜ奪うのか"
+  "AIはソフトウェアエンジニアの「中流層」をなぜ奪うのか",
+  "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
+  "Claudeの生成した文章に「目に見えない透かし」を埋め込むとAnthropicが発表、日本を含めた全世界で適用される予定",
+  "Googleの新スマホPixel 11、8月20日発売の理由",
+  "Anthropic、Claude生成文章に目に見えない透かしを導入へ"
  ]
 }

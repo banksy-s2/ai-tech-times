@@ -50120,5 +50120,83 @@
   "date": "2026-08-13",
   "time": "01:00",
   "path": "/articles/20260813-anthropic-claude-digital-watermark.html"
+ },
+ {
+  "title": "テスラ、テキサス州に100億ドルの巨大ソーラー工場構想",
+  "lead": "テスラがテキサス州に100億ドル規模の巨大な太陽光パネル工場を建設する計画を進めていることが明らかになりました。ただし、着工には州側からのコスト負担を求めています。",
+  "summary3": [
+   "テスラがテキサス州に工場を計画",
+   "建設費用は100億ドル規模に達する",
+   "州側に対してコスト支援を要請"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じた最新情報によると、電気自動車（EV）などで知られるテスラが、テキサス州において大規模な太陽光発電関連の工場を新設する計画を持っていることが判明しました。このプロジェクトにおける推定費用は100億ドル規模にのぼるとされています。",
+   "しかし、この巨額な投資を伴う計画を進めるにあたり、同社はテキサス州に対して初期費用の負担や財政的な支援を求めている状況です。州側がこの要請に応じるかどうかが、プロジェクトの今後の行方を大きく左右することになります。",
+   "太陽光エネルギー分野へのさらなる展開を目指す同社の動きは、今後の再生可能エネルギー市場にも影響を与える可能性があります。州政府とテスラの間でどのような協議が行われるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "テスラ",
+   "太陽光発電",
+   "テキサス州"
+  ],
+  "slug": "tesla-solar-factory-texas",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、電気自動車や太陽光発電事業などを展開する大手企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+  "category": "silicon",
+  "date": "2026-08-13",
+  "time": "02:00",
+  "path": "/articles/20260813-tesla-solar-factory-texas.html"
+ },
+ {
+  "title": "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
+  "lead": "米CNBC Techによると、GoogleはAppleのSiri刷新の数週間前に新スマートフォン「Pixel 11」シリーズを投入し、AIスマホ市場での競争を優位に進めようとしています。",
+  "summary3": [
+   "GoogleがPixel 11を発売へ",
+   "Appleの新Siriに対抗する構え",
+   "Gemini AIモデルを前面に配置"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によれば、米Googleは新型スマートフォン「Pixel 11」のラインナップを投入する計画を進めています。この発売のタイミングは、競合であるAppleがGemini AIモデルを基盤として再構築された「Siri」を展開する数週間前に行われる予定です。",
+   "Googleの今回の動きは、AIスマートフォン市場における主導権争いでAppleに対抗するための重要な一手となっています。最新のPixel 11では、中核となるAI機能としてGeminiが前面に押し出されており、デバイスの中央に位置づけられる形です。",
+   "Appleも自社の音声アシスタントにGemini AIモデルを組み込む予定であり、両社による本格的なAIスマホの覇権争いが激化することは必至です。ユーザーの体験を左右する次世代AI機能の搭載を巡り、両大手の動向から今後も目が離せません。"
+  ],
+  "tags": [
+   "Google",
+   "Pixel 11",
+   "Gemini"
+  ],
+  "slug": "google-pixel-11-gemini-ai-apple",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、OSやクラウド、ハードウェアまで幅広く手がけるアメリカの巨大IT企業"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどのハードウェアからソフトウェアまで開発・販売するアメリカの巨大IT企業"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などを高度に処理できる先進的なマルチモーダルAIモデル"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+  "category": "silicon",
+  "date": "2026-08-13",
+  "time": "02:00",
+  "path": "/articles/20260813-google-pixel-11-gemini-ai-apple.html"
  }
 ]

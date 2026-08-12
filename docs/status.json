@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-13 01:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-13 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Googleの新スマホPixel 11、8月20日発売の理由",
-   "path": "/articles/20260813-google-pixel-11-release.html",
-   "cat": "日本のAI"
+   "title": "テスラ、テキサス州に100億ドルの巨大ソーラー工場構想",
+   "path": "/articles/20260813-tesla-solar-factory-texas.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Anthropic、Claude生成文章に目に見えない透かしを導入へ",
-   "path": "/articles/20260813-anthropic-claude-digital-watermark.html",
-   "cat": "日本のAI"
+   "title": "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
+   "path": "/articles/20260813-google-pixel-11-gemini-ai-apple.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -18,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 11,
+  "used": 17,
   "limit": 200
  }
 }
