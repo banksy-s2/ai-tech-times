@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-12 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-12 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ大統領、7月に専用機から軍用機へ乗り換え",
-   "path": "/articles/20260812-trump-secret-plane-switch.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "イラン、米に海上封鎖終了を要求なぜこう着続くのか",
-   "path": "/articles/20260812-hormuz-strait-us-iran-standoff.html",
-   "cat": "時事・世界"
+   "title": "BNYメロン分析、カツカレー指数で1ドル62円18銭",
+   "path": "/articles/20260812-katsu-curry-index-exchange-rate.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
  "notes": [],
- "pv_today": 21,
+ "pv_today": 22,
  "gemini": {
-  "used": 94,
+  "used": 97,
   "limit": 200
  }
 }
