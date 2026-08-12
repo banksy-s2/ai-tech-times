@@ -49481,5 +49481,78 @@
   "date": "2026-08-12",
   "time": "18:00",
   "path": "/articles/20260812-alibaba-qwen-revenue-sharing.html"
+ },
+ {
+  "title": "トランプ・メディア、暗号資産下落で2億3800万ドルの損失",
+  "lead": "トランプ・メディア・アンド・テクノロジー・グループが発表した第2四半期決算は、暗号資産の下落などが影響し2億3800万ドルの損失となりました。",
+  "summary3": [
+   "第2四半期決算で2億3800万ドルの損失を計上",
+   "暗号資産の下落が業績に影響を与えた",
+   "Truth APIの顧客契約数が10件超に拡大"
+  ],
+  "body": [
+   "米CNBC Techによると、ドナルド・トランプ米大統領に関連する企業であるトランプ・メディア・アンド・テクノロジー・グループ（TMTG）は、暗号資産の下落などを背景として、第2四半期に2億3800万ドルの損失を計上したことを発表しました。",
+   "同社は業績が発表される中、大統領の投稿へより迅速にアクセスできるサービス「Truth API」について、これまでに10件を超える顧客契約を締結したことを明らかにしています。",
+   "今回の決算は暗号資産市場の動向が大きく影響した結果であり、同社が提供する各種サービスの展開や今後の収益化の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "TMTG",
+   "暗号資産",
+   "決算"
+  ],
+  "slug": "trump-media-posts-238-million-loss",
+  "people": [
+   {
+    "name": "ドナルド・トランプ",
+    "bio": "米国の政治家であり、実業家としても知られる第45代および第47代アメリカ合衆国大統領。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "トランプ・メディア・アンド・テクノロジー・グループ",
+    "type": "company",
+    "desc": "米国のメディア企業であり、SNSプラットフォームのTruth Socialなどを運営している。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "19:00",
+  "path": "/articles/20260812-trump-media-posts-238-million-loss.html"
+ },
+ {
+  "title": "GoogleのGemini、10億ユーザー突破。成長の裏にある疑問",
+  "lead": "米GoogleのAI「Gemini」が、同社の歴史上最も早いスピードで10億ユーザーに到達しました。しかし、今後のモデルリリースの減速が懸念されています。",
+  "summary3": [
+   "GoogleのGeminiが10億ユーザーに到達",
+   "同社製品の中で史上最速のスピードを記録",
+   "今後のモデルリリース減速への懸念が残る"
+  ],
+  "body": [
+   "米Googleの提供する「Gemini」が、同社のプロダクトとして史上最速で10億ユーザーに到達したことが明らかになりました。米テックメディアのArs Technicaなどが報じています。",
+   "Geminiは急速な普及を見せており、数々のGoogle製品の中でも特異な成長スピードを記録しました。AI分野におけるユーザー獲得競争において、極めて大きなマイルストーンを達成した形となります。",
+   "一方で、今後のモデルリリースのスローダウンに直面した際、この急成長の勢いを維持して生き残り続けることができるのかどうかという疑問の声も上がっています。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "google-gemini-hits-1b-users",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカ合衆国を本拠地とし、検索エンジンをはじめとする多様なインターネット関連のサービスや製品を展開する巨大テック企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+  "category": "silicon",
+  "date": "2026-08-12",
+  "time": "19:00",
+  "path": "/articles/20260812-google-gemini-hits-1b-users.html"
  }
 ]

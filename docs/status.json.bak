@@ -1,73 +1,26 @@
 {
- "updated": "2026-08-12 17:05",
- "mode": "フル便",
+ "updated": "2026-08-12 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Accel、5.5億ドルのインド向けファンドを数週間で結成",
-   "path": "/articles/20260812-accel-closes-oversubscribed-550m-india-fund.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Amazon注文メールが激変、具体的な商品名が消えた理由",
-   "path": "/articles/20260812-amazon-order-confirmation-emails-changed.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "AIで作業量が3倍でも給料が上がらないのはなぜか",
-   "path": "/articles/20260812-ai-productivity-and-salary.html",
+   "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」を公開した理由",
+   "path": "/articles/20260812-spacexai-grok-bot-release.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Meta買収のManusが独立に戻る理由",
-   "path": "/articles/20260812-manus-return-to-independent-operation.html",
+   "title": "アリババ、Qwen3.8-Max大口商用利用で収益分配を義務化",
+   "path": "/articles/20260812-alibaba-qwen-revenue-sharing.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "世界最大級のファンド、過去最高の1,840億ドル利益を達成",
-   "path": "/articles/20260812-world-largest-sovereign-wealth-fund-profit-spacex.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Phoebe GatesらのPhiaに不正疑惑、数か月前から把握か",
-   "path": "/articles/20260812-phia-cookie-stuffing-controversy.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "『映画ちいかわ』が16億円超えで首位奪還したのに世界が困惑する理由",
-   "path": "/articles/20260812-chiikawa-box-office-number-one.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "イオンモール熊本爆発事故、イオンが遺族へ補償する方向で調整",
-   "path": "/articles/20260812-aeon-mall-kumamoto-explosion-compensation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中国とインドネシア海軍、台湾東の海域で合同訓練へ",
-   "path": "/articles/20260812-china-indonesia-navy-training-taiwan.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均続伸、米市場の流れを受け553円高の6万7524円",
-   "path": "/articles/20260812-nikkei-average-gains-553-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "コングレがアバター遠隔接客導入、渋谷で8月中旬開始",
-   "path": "/articles/20260812-congres-avatar-remote-customer-service-shibuya.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 24,
  "gemini": {
-  "used": 125,
+  "used": 128,
   "limit": 200
  }
 }

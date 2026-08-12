@@ -49403,5 +49403,83 @@
   "date": "2026-08-12",
   "time": "17:05",
   "path": "/articles/20260812-congres-avatar-remote-customer-service-shibuya.html"
+ },
+ {
+  "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」を公開した理由",
+  "lead": "SpaceXAIは、ユーザーに代わってウェブサイトやアプリを操作し仕事をこなす「Grok Bot」の早期ベータ版を2026年8月11日にリリースしました。PCを離れている間も作業を続けられる仕組みとなっています。",
+  "summary3": [
+   "24時間働くAIエージェントが公開",
+   "エージェントごとに専用クラウドPC",
+   "特定プラン加入者向けに提供される"
+  ],
+  "body": [
+   "AI TECH TIMES編集部：SpaceXAIは、ユーザーに代わってウェブサイトや各種アプリを操作して仕事をこなすAIエージェント「Grok Bot」の早期ベータ版を2026年8月11日にリリースしました。",
+   "Grok Botは、1体ごとに専用のクラウドコンピューターを持っている点が大きな特徴です。これにより、ユーザーがPCを離れている間も作業を継続して続けることが可能となります。",
+   "なお、今回の「Grok Bot」の提供対象は、SuperGrok Heavy、Cursor Ultra、Cursor Teams Premiumの加入者向けに限定されています。"
+  ],
+  "tags": [
+   "SpaceXAI",
+   "Grok Bot",
+   "AIエージェント"
+  ],
+  "slug": "spacexai-grok-bot-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceXAI",
+    "type": "company",
+    "desc": "最先端の人工知能技術や宇宙関連のサービスなどを開発・提供している企業です。"
+   },
+   {
+    "name": "Grok Bot",
+    "type": "ai",
+    "desc": "ユーザーの代わりにウェブサイトや各種アプリを操作して仕事を進めるAIエージェントです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260812-spacexai-grok-bot/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "18:00",
+  "path": "/articles/20260812-spacexai-grok-bot-release.html"
+ },
+ {
+  "title": "アリババ、Qwen3.8-Max大口商用利用で収益分配を義務化",
+  "lead": "中国のAI大手・アリババが、オープンモデル化を発表している「Qwen3.8-Max」の運用をめぐり、大口商用ユーザーを対象にした新たな方針を明らかにしました。",
+  "summary3": [
+   "アリババがAIで新方針を発表",
+   "Qwen3.8-Maxが対象",
+   "大口商用ユーザーに収益分配"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、中国のAI大手であるアリババ（阿里巴巴）が提供するオープンモデル「Qwen3.8-Max」において、大口の商用ユーザーに対して収益の一部をアリババと分配することを義務付ける方針であることが明らかになりました。",
+   "オープンモデルとして展開されている「Qwen3.8-Max」ですが、今回の決定により、大規模な商用利用を行うユーザーにとってはコスト構造や運用面での影響が避けられないものとみられています。",
+   "今後の詳細な分配スキームや適用基準についての追加情報は発表されておらず、商用利用を検討する企業の間で動向が注目されています。"
+  ],
+  "tags": [
+   "アリババ",
+   "Qwen3.8-Max",
+   "AI"
+  ],
+  "slug": "alibaba-qwen-revenue-sharing",
+  "people": [],
+  "terms": [
+   {
+    "name": "アリババ",
+    "type": "company",
+    "desc": "中国に本拠を置き、Eコマースやクラウドコンピューティング、AI開発など幅広く事業を展開する大手テクノロジー企業。"
+   },
+   {
+    "name": "Qwen3.8-Max",
+    "type": "ai",
+    "desc": "アリババが開発・提供を行っている、オープンモデル化が発表されている大規模言語モデルおよびAIモデル。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "18:00",
+  "path": "/articles/20260812-alibaba-qwen-revenue-sharing.html"
  }
 ]

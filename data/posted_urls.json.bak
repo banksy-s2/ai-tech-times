@@ -1430,13 +1430,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260812de43440",
   "https://news.web.nhk/newsweb/na/nd-20260812de43333",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hRXgwV3lndHNZNV9ZN2tFVWJaWFZiTlBoWWxhVEMwUU9CQXU5YlNwd3lhM3JBRTQ2cnJvZXNzbGY5dnMtWV9LM2V1S1RsVHZKZDZoZ0FXY25KRFYwLV9IdVVKSEQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1REhsTGZTMTVoRkNEZjF2UnRuM0dPV3lQRnRKWFJrQ25najZDSHh3V1dTZWpiUmhORXB6ZmR4V3d4NXBrRl9id0ZmUnFHeFZO?oc=5"
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1REhsTGZTMTVoRkNEZjF2UnRuM0dPV3lQRnRKWFJrQ25najZDSHh3V1dTZWpiUmhORXB6ZmR4V3d4NXBrRl9id0ZmUnFHeFZO?oc=5",
+  "https://gigazine.net/news/20260812-spacexai-grok-bot/",
+  "https://gigazine.net/news/20260812-alibaba-charge-qwen/"
  ],
  "titles": [
-  "「夫は小児性愛者」暴露した米有名女性インフルエンサー、夫に殺害される（中央日報日本語版） - Yahoo!ニュース",
-  "米有名女性インフルエンサー、夫に殺害される",
-  "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-  "【Copilot神アプデ】Excelの地味な手間が消える「新機能3選」、自分たち仕様に超進化",
   "中国国営企業が半導体生産に必要なDUV露光装置の製造を開始したとの報道",
   "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
   "Apple ends day as world's most valuable company, passing Nvidia",
@@ -3432,6 +3430,10 @@
   "イオンモール熊本爆発事故、イオンが遺族へ補償する方向で調整",
   "中国とインドネシア海軍、台湾東の海域で合同訓練へ",
   "日経平均続伸、米市場の流れを受け553円高の6万7524円",
-  "コングレがアバター遠隔接客導入、渋谷で8月中旬開始"
+  "コングレがアバター遠隔接客導入、渋谷で8月中旬開始",
+  "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作",
+  "AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ",
+  "SpaceXAIが24時間働くAIエージェント「Grok Bot」を公開した理由",
+  "アリババ、Qwen3.8-Max大口商用利用で収益分配を義務化"
  ]
 }
