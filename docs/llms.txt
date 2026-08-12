@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-12 21:07 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、Linux向けChatGPT専用アプリを提供開始なぜ](https://ai-tech-times.web.app/articles/20260812-openai-launches-chatgpt-desktop-app-for-linux.html) — 2026-08-12 21:07: AI TECH TIMESの調査によると、OpenAIはLinuxオペレーティングシステム向けに、専用のChatGPTデスクトップアプリを新たに提供開始しました。
+- [iPhone 18 Proの部品コスト約38％増、価格上昇へ](https://ai-tech-times.web.app/articles/20260812-iphone-18-pro-cost-surge-memory.html) — 2026-08-12 21:07: 近年続くAI需要の増加によるメモリ価格の高騰が、次世代のスマートフォン市場にも深刻な影響を与えようとしています。
+- [ChatGPTの暗号化された思考を読み取る新手法が開発された理由](https://ai-tech-times.web.app/articles/20260812-ai-encrypted-thoughts-stolen.html) — 2026-08-12 21:07: ChatGPTなどのAIが回答前に実行する暗号化された思考内容を盗み見る手法が、AI研究者たちによって開発されました。
+- [CoreWeave売上高が2倍増、時間外で18%急騰した理由](https://ai-tech-times.web.app/articles/20260812-coreweave-q2-earnings-ai-demand.html) — 2026-08-12 21:07: AIクラウド大手のCoreWeaveが第2四半期決算を発表し、売上高が倍増したことで時間外取引で株価が18%急騰しました。
+- [Blacksmithが4500万ドル調達、評価額5億5000万ドルに](https://ai-tech-times.web.app/articles/20260812-blacksmith-raises-45m-series-b.html) — 2026-08-12 21:07: AIによるコード生成の高速化に伴いテスト需要が高まる中、AIコードテストのBlacksmithがシリーズBラウンドで4500万ドルを調達しました。
+- [プーチン大統領が北方領土で日本けん制の理由](https://ai-tech-times.web.app/articles/20260812-putin-northern-territories-japan.html) — 2026-08-12 21:07: ロシアのプーチン大統領が太平洋艦隊の演習を視察し、北方領土問題をめぐって日本を強くけん制しました。第2次世界大戦の結果に基づくと主張した背景には何があるのでしょうか。
+- [中国の新車輸出80%増の100万台超、EV需要で高まるガソリン高の影](https://ai-tech-times.web.app/articles/20260812-china-ev-exports-exceed-one-million.html) — 2026-08-12 21:07: 先月の中国からの新車輸出台数が、去年の同じ月より80%余り増えて2か月連続で100万台を超えました。世界的なガソリン価格の高騰が背景にあります。
+- [食料品価格が最大20%高騰へ、スーパーエルニーニョの脅威](https://ai-tech-times.web.app/articles/20260812-super-el-nino-food-inflation-2026.html) — 2026-08-12 21:07: 2026年に過去最大級のスーパーエルニーニョ現象が発生する懸念が高まっており、世界的な異常気象や原油高、円安と相まって私たちの生活に大きな影響を及ぼそうとしています。
+- [エア・ウォーター、26年4〜6月期決算発表を延期](https://ai-tech-times.web.app/articles/20260812-air-water-earnings-postponed.html) — 2026-08-12 21:07: エア・ウォーターは、26年4〜6月期決算の発表延期を明らかにしました。不正会計影響によるものとしています。
 - [藤井サチがペットビジネス参入へ、「息をするだけで稼ぎたい」の真意](https://ai-tech-times.web.app/articles/20260812-fujii-sachi-pet-business.html) — 2026-08-12 20:00: 人気インフルエンサーの藤井サチがペットビジネスに参入することが、『CELEB SECRET』最終回にて明らかになりました。「息をするだけで稼ぎたい」と語った挑戦の全貌とは。
 - [トランプ・メディア、暗号資産下落で2億3800万ドルの損失](https://ai-tech-times.web.app/articles/20260812-trump-media-posts-238-million-loss.html) — 2026-08-12 19:00: トランプ・メディア・アンド・テクノロジー・グループが発表した第2四半期決算は、暗号資産の下落などが影響し2億3800万ドルの損失となりました。
 - [GoogleのGemini、10億ユーザー突破。成長の裏にある疑問](https://ai-tech-times.web.app/articles/20260812-google-gemini-hits-1b-users.html) — 2026-08-12 19:00: 米GoogleのAI「Gemini」が、同社の歴史上最も早いスピードで10億ユーザーに到達しました。しかし、今後のモデルリリースの減速が懸念されています。
@@ -33,22 +42,13 @@
 - [Meta買収のManusが独立に戻る理由](https://ai-tech-times.web.app/articles/20260812-manus-return-to-independent-operation.html) — 2026-08-12 17:05: 2025年12月にMetaによる買収が発表されたAIスタートアップのManusが、まもなく再び独立企業に戻ることを表明しました。中国政府の介入が影響したとみられています。
 - [世界最大級のファンド、過去最高の1,840億ドル利益を達成](https://ai-tech-times.web.app/articles/20260812-world-largest-sovereign-wealth-fund-profit-spacex.html) — 2026-08-12 17:05: 世界最大の政府系ファンドが、過去最高となる1,840億ドルの利益を記録し、その中でスペースXへの出資を初めて明らかにしました。
 - [Phoebe GatesらのPhiaに不正疑惑、数か月前から把握か](https://ai-tech-times.web.app/articles/20260812-phia-cookie-stuffing-controversy.html) — 2026-08-12 17:05: フィービー・ゲイツ氏らが共同創業したショッピングスタートアップのPhiaを巡り、新たな疑惑が浮上しています。同社は数か月前から問題のある手法を知っていたと報じられています。
-- [『映画ちいかわ』が16億円超えで首位奪還したのに世界が困惑する理由](https://ai-tech-times.web.app/articles/20260812-chiikawa-box-office-number-one.html) — 2026-08-12 17:05: 興行通信社が8月10日に発表した全国映画動員ランキングで、『映画ちいかわ 人魚の島のひみつ』が首位を奪還しました。
-- [イオンモール熊本爆発事故、イオンが遺族へ補償する方向で調整](https://ai-tech-times.web.app/articles/20260812-aeon-mall-kumamoto-explosion-compensation.html) — 2026-08-12 17:05: 熊本県嘉島町の「イオンモール熊本」で発生した大規模な爆発事故について、イオンは遺族に対して補償する方向で調整を進めていることが明らかになりました。
-- [中国とインドネシア海軍、台湾東の海域で合同訓練へ](https://ai-tech-times.web.app/articles/20260812-china-indonesia-navy-training-taiwan.html) — 2026-08-12 17:05: 中国国防省は、中国とインドネシアの海軍が今月中旬に台湾の東の海域で航行訓練を合同で実施すると発表しました。中国による管轄権の主張を強めるねらいがみられる中、台湾当局からは反発の声が上がっています。
-- [日経平均続伸、米市場の流れを受け553円高の6万7524円](https://ai-tech-times.web.app/articles/20260812-nikkei-average-gains-553-yen.html) — 2026-08-12 17:05: 東京株式市場で日経平均株価は続伸し、終値は前日比553円高の6万7524円となりました。米国市場の流れを引き継ぎ、AIや半導体関連株が上昇を牽引しています。
-- [コングレがアバター遠隔接客導入、渋谷で8月中旬開始](https://ai-tech-times.web.app/articles/20260812-congres-avatar-remote-customer-service-shibuya.html) — 2026-08-12 17:05: コングレは、AVITAやSMBCグループと業務提携し、アバターを活用した遠隔接客の導入に挑むと発表しました。渋谷の施設にて8月中旬から初期運用が開始されます。
-- [AnthropicのClaude、テキストと画像に不可視ウォーターマーク導入なぜ](https://ai-tech-times.web.app/articles/20260812-anthropic-claude-watermarks-text-images.html) — 2026-08-12 16:01: Anthropicは、AIが生成したテキストと画像に機械読み取り可能なデータを埋め込むウォーターマークの導入を発表しました。
-- [Zoom、AIで20未満のプロンプトを活用し発見された重大脆弱性を修正](https://ai-tech-times.web.app/articles/20260812-zoom-vulnerability-ai-attack.html) — 2026-08-12 16:01: Zoomは、AIモデルを活用したプロンプトで発見された、会議中のデバイス乗っ取りを可能にする重大なセキュリティ脆弱性を修正しました。
-- [グリー決算：REALITYが過去最高益](https://ai-tech-times.web.app/articles/20260812-gree-financial-results-reality-vtuber.html) — 2026-08-12 15:00: グリーが決算を発表し、子会社であるREALITYの営業利益が過去最高を記録したことが明らかになりました。
-- [BNYメロン分析、カツカレー指数で1ドル62円18銭](https://ai-tech-times.web.app/articles/20260812-katsu-curry-index-exchange-rate.html) — 2026-08-12 14:00: BNYメロンのストラテジストが「カツカレー指数」と「ビッグマック指数」を用いて円の価値を測定しました。適正為替水準を分析した結果が明らかになっています。
 
 ## 世界のバズ動画TOP3 (2026-08-12)
 - 1位: [Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV](https://www.youtube.com/watch?v=chl0R8C4NJ8)
 - 2位: [Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept](https://www.youtube.com/watch?v=5vMWZhHPlaw)
 - 3位: [KATSEYE - Animal (Celebrity Substitute Version)](https://www.youtube.com/watch?v=UdoR4R_5El0)
 
-## AI用語事典 (全959語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全962語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -60,8 +60,8 @@
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIモデルであり、テキスト生成や画像認識などの機能を提供します。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した、自然な対話や文章生成を行うことができる最先端のAIチャットボットサービスです。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
