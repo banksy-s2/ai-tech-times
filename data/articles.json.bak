@@ -48442,5 +48442,39 @@
   "date": "2026-08-12",
   "time": "08:00",
   "path": "/articles/20260812-anthropic-model-math-progress.html"
+ },
+ {
+  "title": "TWOSTONE＆Sons調査：約9割がAIっぽさで問合停止",
+  "lead": "TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査を発表しました。AI生成コンテンツに対する企業のリアルな評価が明らかになっています。",
+  "summary3": [
+   "TWOSTONE＆Sonsが意識調査を発表",
+   "約9割がAIっぽさを感じた経験あり",
+   "問い合わせをやめた割合が明らかに"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査の結果を発表しました。「AI生成コンテンツ、実は嫌いではない」としつつも、ビジネスの現場では深刻な課題が生じていることが示されています。",
+   "調査では、約9割の担当者がコンテンツに「AIっぽさ」を感じた経験があると回答しました。さらに、その違和感を覚えた後に問い合わせや資料請求を取りやめたと回答する割合も示されており、コンテンツの質が商談の機会損失に直結している実態が浮き彫りになっています。",
+   "ビジネスにおけるAIの活用が進む一方で、受け手側である発注担当者への影響について改めて考えさせられる結果となりました。今後のコンテンツ制作においては、単なる効率化だけでなく、信頼性や人間らしさのバランスがより重要になりそうです。"
+  ],
+  "tags": [
+   "AI生成コンテンツ",
+   "BtoB",
+   "調査"
+  ],
+  "slug": "twostone-ai-content-survey",
+  "people": [],
+  "terms": [
+   {
+    "name": "TWOSTONE＆Sons",
+    "type": "company",
+    "desc": "BtoBの比較検討・発注担当者を対象とした意識調査の結果を発表した企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html",
+  "category": "ai_jp",
+  "date": "2026-08-12",
+  "time": "09:00",
+  "path": "/articles/20260812-twostone-ai-content-survey.html"
  }
 ]

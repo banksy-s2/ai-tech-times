@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-12 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-12 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "グーグル「Gemini」、月間10億人が利用する巨大AIへ成長した理由",
-   "path": "/articles/20260812-gemini-chatgpt-1-billion-users.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Anthropicの未公開AI、難問の Riemann予想で前進",
-   "path": "/articles/20260812-anthropic-model-math-progress.html",
-   "cat": "AI(海外)"
+   "title": "TWOSTONE＆Sons調査：約9割がAIっぽさで問合停止",
+   "path": "/articles/20260812-twostone-ai-content-survey.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
- "notes": [],
- "pv_today": 9,
+ "notes": [
+  "執筆失敗: 37兆円のSaaS支出が2030年までに「消える」　Gartnerが予測するエー"
+ ],
+ "pv_today": 10,
  "gemini": {
-  "used": 54,
+  "used": 58,
   "limit": 200
  }
 }

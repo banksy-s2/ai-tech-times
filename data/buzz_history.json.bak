@@ -2627,7 +2627,7 @@
    "id": "chl0R8C4NJ8",
    "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
    "channel": "SMTOWN",
-   "views": 535763,
+   "views": 592378,
    "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8",
    "thumb": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
    "regions": [
@@ -2644,7 +2644,7 @@
    "id": "5vMWZhHPlaw",
    "title": "Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept",
    "channel": "Excel Movies",
-   "views": 11228434,
+   "views": 11360909,
    "url": "https://www.youtube.com/watch?v=5vMWZhHPlaw",
    "thumb": "https://i.ytimg.com/vi/5vMWZhHPlaw/hqdefault.jpg",
    "regions": [
@@ -2659,7 +2659,7 @@
    "id": "s8BOZFalBI8",
    "title": "NCT 127 엔시티 127 'Piñata' Track Video",
    "channel": "NCT 127",
-   "views": 332851,
+   "views": 345335,
    "url": "https://www.youtube.com/watch?v=s8BOZFalBI8",
    "thumb": "https://i.ytimg.com/vi/s8BOZFalBI8/hqdefault.jpg",
    "regions": [
@@ -2674,7 +2674,7 @@
    "id": "7SyCqDyMS-Q",
    "title": "Shakira, Burna Boy - The Making of 'Dai Dai' | Vevo Footnotes",
    "channel": "shakiraVEVO",
-   "views": 297758,
+   "views": 342058,
    "url": "https://www.youtube.com/watch?v=7SyCqDyMS-Q",
    "thumb": "https://i.ytimg.com/vi/7SyCqDyMS-Q/hqdefault.jpg",
    "regions": [
@@ -2689,7 +2689,7 @@
    "id": "aoGra6zw4fI",
    "title": "KAI & SPEED HARDCORE MINECRAFT MARATHON ⛏️🧱 BEATING ALL BOSSES | DAY 4 PART 2",
    "channel": "Kai Cenat Live",
-   "views": 2067645,
+   "views": 2153239,
    "url": "https://www.youtube.com/watch?v=aoGra6zw4fI",
    "thumb": "https://i.ytimg.com/vi/aoGra6zw4fI/hqdefault.jpg",
    "regions": [
@@ -2703,7 +2703,7 @@
    "id": "UsbRoaH6y-Q",
    "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
    "channel": "STARSHIP",
-   "views": 1991527,
+   "views": 2003234,
    "url": "https://www.youtube.com/watch?v=UsbRoaH6y-Q",
    "thumb": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg",
    "regions": [
@@ -2717,7 +2717,7 @@
    "id": "zFpiS0CaddA",
    "title": "Wait a minute... This DEFINITELY isn't Mario Party",
    "channel": "SMii7Y",
-   "views": 1913586,
+   "views": 1950518,
    "url": "https://www.youtube.com/watch?v=zFpiS0CaddA",
    "thumb": "https://i.ytimg.com/vi/zFpiS0CaddA/hqdefault.jpg",
    "regions": [
@@ -2731,7 +2731,7 @@
    "id": "xdPMKhjMSFs",
    "title": "Verity | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 1570185,
+   "views": 1848986,
    "url": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
    "thumb": "https://i.ytimg.com/vi/xdPMKhjMSFs/hqdefault.jpg",
    "regions": [
@@ -2742,24 +2742,10 @@
   },
   {
    "rank": 9,
-   "id": "dLLS7fb12kY",
-   "title": "ROBLOX HOME ALONE..",
-   "channel": "Foltyn",
-   "views": 890828,
-   "url": "https://www.youtube.com/watch?v=dLLS7fb12kY",
-   "thumb": "https://i.ytimg.com/vi/dLLS7fb12kY/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ROBLOXでホームアローンを再現しているようです。"
-  },
-  {
-   "rank": 10,
    "id": "O6c0O5M46Cw",
    "title": "Ramba Oorvasi Menaka Teaser | Allari Naresh | Surbhi| Chandra Mohan| Annapurna Studios| Hasya Movies",
    "channel": "Annapurna Studios",
-   "views": 885937,
+   "views": 904041,
    "url": "https://www.youtube.com/watch?v=O6c0O5M46Cw",
    "thumb": "https://i.ytimg.com/vi/O6c0O5M46Cw/hqdefault.jpg",
    "regions": [
@@ -2767,6 +2753,20 @@
     "IN"
    ],
    "comment": "新映画の魅力的なティザー映像が公開されているようです"
+  },
+  {
+   "rank": 10,
+   "id": "eMBXOgXC48M",
+   "title": "Character Trailer - \"Odette: An Elegy for Innocence\" | Genshin Impact #Odette #NowSnezhnaya",
+   "channel": "Genshin Impact",
+   "views": 374182,
+   "url": "https://www.youtube.com/watch?v=eMBXOgXC48M",
+   "thumb": "https://i.ytimg.com/vi/eMBXOgXC48M/hqdefault.jpg",
+   "regions": [
+    "US",
+    "BR"
+   ],
+   "comment": "原神のキャラクター「オデット」の紹介トレーラーと思われる映像です。（28文字）"
   }
  ]
 }
