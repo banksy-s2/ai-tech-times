@@ -50047,5 +50047,78 @@
   "date": "2026-08-13",
   "time": "00:00",
   "path": "/articles/20260813-ai-removing-middle-class-software-engineering.html"
+ },
+ {
+  "title": "Googleの新スマホPixel 11、8月20日発売の理由",
+  "lead": "米Googleは8月12日、新スマホ「Pixel 11」シリーズを発表しました。新チップとAI機能を進化させ、8月20日に発売予定です。",
+  "summary3": [
+   "Pixel 11シリーズ3機種を発表",
+   "新チップとAI機能の搭載が目玉",
+   "8月20日に発売を予定"
+  ],
+  "body": [
+   "ITmedia AI+によると、米Googleは8月12日、「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」の3モデルを正式に発表しました。新チップ「Google Tensor G6」を搭載し、カメラ機能も刷新されているのが大きな特徴です。",
+   "さらに、Proモデルには通知を光で知らせる新機能「HiLight」が追加されました。機能の中核には、AI機能である「Gemini Intelligence」が据えられており、AIの活用に向けた設計となっています。",
+   "今回発表された新シリーズは、8月20日に発売される予定です。最新のAI技術やカメラ性能を求めるユーザーにとって、注目の新端末となりそうです。"
+  ],
+  "tags": [
+   "Google",
+   "Pixel 11",
+   "スマートフォン"
+  ],
+  "slug": "google-pixel-11-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力とし、Android OSやPixel端末などを手がける米国の巨大IT企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+  "category": "ai_jp",
+  "date": "2026-08-13",
+  "time": "01:00",
+  "path": "/articles/20260813-google-pixel-11-release.html"
+ },
+ {
+  "title": "Anthropic、Claude生成文章に目に見えない透かしを導入へ",
+  "lead": "AI企業のAnthropicは、AIチャットボット「Claude」が生成した文章に人間の目には見えない透かしを埋め込む方針を発表しました。",
+  "summary3": [
+   "Anthropicが新方針を発表",
+   "Claudeの文章に目に見えない透かし",
+   "日本を含む全世界で適用予定"
+  ],
+  "body": [
+   "AI企業のAnthropicは、AIチャットボット「Claude」が生成した文章に「人間の目には見えない透かし」を埋め込む方針を発表しました。この取り組みは日本を含めた全世界で適用される予定となっています。",
+   "今回の対応では、文章だけでなく画像などのファイルに対してもコンテンツの来歴を示すC2PA準拠のメタデータが付加されます。これにより、Claudeが生成および処理したコンテンツを機械的に判別できるようになります。",
+   "AIによって生成されたコンテンツの識別技術が進むことで、情報の信頼性確保や偽情報対策への活用が期待されます。Anthropicによる今回の全世界での適用開始により、今後のAI利用のあり方に大きな影響を与えそうです。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI"
+  ],
+  "slug": "anthropic-claude-digital-watermark",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI企業であり、対話型AIチャットボット「Claude」シリーズの開発を手がけています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能なAIチャットボットであり、自然な文章の生成や処理を行います。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/",
+  "category": "ai_jp",
+  "date": "2026-08-13",
+  "time": "01:00",
+  "path": "/articles/20260813-anthropic-claude-digital-watermark.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-13 00:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-13 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Googleの新スマホPixel 11、8月20日発売の理由](https://ai-tech-times.web.app/articles/20260813-google-pixel-11-release.html) — 2026-08-13 01:00: 米Googleは8月12日、新スマホ「Pixel 11」シリーズを発表しました。新チップとAI機能を進化させ、8月20日に発売予定です。
+- [Anthropic、Claude生成文章に目に見えない透かしを導入へ](https://ai-tech-times.web.app/articles/20260813-anthropic-claude-digital-watermark.html) — 2026-08-13 01:00: AI企業のAnthropicは、AIチャットボット「Claude」が生成した文章に人間の目には見えない透かしを埋め込む方針を発表しました。
 - [GoogleがMade by Google '26でPixel 11や新型タグを発表した理由](https://ai-tech-times.web.app/articles/20260813-made-by-google-2026-announcements.html) — 2026-08-13 00:00: TechCrunch AIによると、Googleは「Made by Google 2026」イベントにおいて、Pixel 11シリーズやAppleのAirTagに対抗する新製品などを発表しました。
 - [AIはソフトウェアエンジニアの「中流層」をなぜ奪うのか](https://ai-tech-times.web.app/articles/20260813-ai-removing-middle-class-software-engineering.html) — 2026-08-13 00:00: AIの普及によって、ソフトウェアエンジニアの雇用構造に変化が生じています。プログラミングの自動化が進行する中で、中間層のエンジニアがどのような影響を受けるのかが議論されています。
 - [ネット証券大手5社、米国株の23時間取引開始に対応へ](https://ai-tech-times.web.app/articles/20260812-net-brokerages-us-stocks-daytime-trading.html) — 2026-08-12 23:00: ネット証券大手5社が、米国株を日中も売買できるよう新たな取引時間に対応する方針を明らかにしました。米国株の23時間取引開始に合わせた動きとなります。
@@ -40,13 +42,11 @@
 - [トランプ・メディア、暗号資産下落で2億3800万ドルの損失](https://ai-tech-times.web.app/articles/20260812-trump-media-posts-238-million-loss.html) — 2026-08-12 19:00: トランプ・メディア・アンド・テクノロジー・グループが発表した第2四半期決算は、暗号資産の下落などが影響し2億3800万ドルの損失となりました。
 - [GoogleのGemini、10億ユーザー突破。成長の裏にある疑問](https://ai-tech-times.web.app/articles/20260812-google-gemini-hits-1b-users.html) — 2026-08-12 19:00: 米GoogleのAI「Gemini」が、同社の歴史上最も早いスピードで10億ユーザーに到達しました。しかし、今後のモデルリリースの減速が懸念されています。
 - [SpaceXAIが24時間働くAIエージェント「Grok Bot」を公開した理由](https://ai-tech-times.web.app/articles/20260812-spacexai-grok-bot-release.html) — 2026-08-12 18:00: SpaceXAIは、ユーザーに代わってウェブサイトやアプリを操作し仕事をこなす「Grok Bot」の早期ベータ版を2026年8月11日にリリースしました。PCを離れている間も作業を続けられる仕組みとなっています。
-- [アリババ、Qwen3.8-Max大口商用利用で収益分配を義務化](https://ai-tech-times.web.app/articles/20260812-alibaba-qwen-revenue-sharing.html) — 2026-08-12 18:00: 中国のAI大手・アリババが、オープンモデル化を発表している「Qwen3.8-Max」の運用をめぐり、大口商用ユーザーを対象にした新たな方針を明らかにしました。
-- [Accel、5.5億ドルのインド向けファンドを数週間で結成](https://ai-tech-times.web.app/articles/20260812-accel-closes-oversubscribed-550m-india-fund.html) — 2026-08-12 17:05: 米国のベンチャーキャピタルであるAccelが、新たなインド向けファンドを数週間という異例の早さでクローズしました。
 
 ## 世界のバズ動画TOP3 (2026-08-13)
 - 1位: [Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV](https://www.youtube.com/watch?v=chl0R8C4NJ8)
 - 2位: [Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept](https://www.youtube.com/watch?v=5vMWZhHPlaw)
-- 3位: [KATSEYE - Animal (Celebrity Substitute Version)](https://www.youtube.com/watch?v=UdoR4R_5El0)
+- 3位: [Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash](https://www.youtube.com/watch?v=CSXhb2zhfLc)
 
 ## AI用語事典 (全962語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
