@@ -49985,5 +49985,67 @@
   "date": "2026-08-12",
   "time": "23:00",
   "path": "/articles/20260812-net-brokerages-us-stocks-daytime-trading.html"
+ },
+ {
+  "title": "GoogleがMade by Google '26でPixel 11や新型タグを発表した理由",
+  "lead": "TechCrunch AIによると、Googleは「Made by Google 2026」イベントにおいて、Pixel 11シリーズやAppleのAirTagに対抗する新製品などを発表しました。",
+  "summary3": [
+   "Pixel 11シリーズが発表される",
+   "AppleのAirTagの競合が登場",
+   "多数のGemini機能が明らかに"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、TechCrunch AIが伝えた「Made by Google 2026」イベントの全貌が明らかになりました。今回のイベントでは、最新のPixel 11シリーズをはじめとする多くの新ハードウェアと機能が発表されています。",
+   "中でも注目を集めているのは、AppleのAirTagに対抗するブランド初の新型タグ製品の登場です。これにより、紛失防止タグ市場における競争がさらに激化することが予想されます。",
+   "さらに、ハードウェアだけでなく、多数のGemini関連機能も同時に発表されました。これにより、GoogleのAIエコシステムがどのように日常のデバイス体験を向上させるのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "Pixel 11",
+   "Gemini"
+  ],
+  "slug": "made-by-google-2026-announcements",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "米国の巨大テクノロジー企業で、検索エンジンやAndroid OS、AI技術の開発を主導しています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+  "category": "ai",
+  "date": "2026-08-13",
+  "time": "00:00",
+  "path": "/articles/20260813-made-by-google-2026-announcements.html"
+ },
+ {
+  "title": "AIはソフトウェアエンジニアの「中流層」をなぜ奪うのか",
+  "lead": "AIの普及によって、ソフトウェアエンジニアの雇用構造に変化が生じています。プログラミングの自動化が進行する中で、中間層のエンジニアがどのような影響を受けるのかが議論されています。",
+  "summary3": [
+   "AIがソフトウェアの仕事に変化を与えている",
+   "エンジニアの中流層への影響が議論される",
+   "技術の進展で開発の構造が変わる"
+  ],
+  "body": [
+   "「AI TECH TIMES」のニュースをお届けします。近年、ソフトウェア開発の分野において、AI技術の発展が業界の構造に大きな影響を与えつつあります。特にプログラミング業務の自動化や効率化が進むにつれて、ソフトウェアエンジニアの雇用や役割分担に変化が生じているという指摘がなされています。",
+   "インターネット上では、この変化によってエンジニアの中流層がどのような影響を受けるのかについて活発な議論が行われています。AIが多くの作業を代替できるようになることで、これまで中心的な役割を担ってきた層の仕事の性質や必要性が問われ始めている状況です。",
+   "技術の急速な進化が続く中、エンジニア自身も新たなスキルや働き方への適応を迫られています。今後のソフトウェア開発業界がどのように変化していくのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "ソフトウェアエンジニア",
+   "開発環境"
+  ],
+  "slug": "ai-removing-middle-class-software-engineering",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+  "category": "ai",
+  "date": "2026-08-13",
+  "time": "00:00",
+  "path": "/articles/20260813-ai-removing-middle-class-software-engineering.html"
  }
 ]

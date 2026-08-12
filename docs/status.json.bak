@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-12 22:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-12 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "全日空、国際線燃油サーチャージ引き下げへ 9月発券分",
-   "path": "/articles/20260812-ana-fuel-surcharge-reduction-september.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米消費者物価3.4％上昇、早期利上げ観測が後退か",
-   "path": "/articles/20260812-us-cpi-inflation-rate-3-4-percent.html",
-   "cat": "時事・世界"
+   "title": "ネット証券大手5社、米国株の23時間取引開始に対応へ",
+   "path": "/articles/20260812-net-brokerages-us-stocks-daytime-trading.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -18,9 +13,9 @@
   "url": "https://www.youtube.com/watch?v=chl0R8C4NJ8"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 25,
  "gemini": {
-  "used": 162,
+  "used": 165,
   "limit": 200
  }
 }

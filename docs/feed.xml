@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>GoogleがMade by Google &#x27;26でPixel 11や新型タグを発表した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260813-made-by-google-2026-announcements.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260813-made-by-google-2026-announcements.html</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>TechCrunch AIによると、Googleは「Made by Google 2026」イベントにおいて、Pixel 11シリーズやAppleのAirTagに対抗する新製品などを発表しました。</description>
+</item>
+<item>
+<title>AIはソフトウェアエンジニアの「中流層」をなぜ奪うのか</title>
+<link>https://ai-tech-times.web.app/articles/20260813-ai-removing-middle-class-software-engineering.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260813-ai-removing-middle-class-software-engineering.html</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIの普及によって、ソフトウェアエンジニアの雇用構造に変化が生じています。プログラミングの自動化が進行する中で、中間層のエンジニアがどのような影響を受けるのかが議論されています。</description>
+</item>
+<item>
 <title>ネット証券大手5社、米国株の23時間取引開始に対応へ</title>
 <link>https://ai-tech-times.web.app/articles/20260812-net-brokerages-us-stocks-daytime-trading.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260812-net-brokerages-us-stocks-daytime-trading.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 12 Aug 2026 17:05:00 +0900</pubDate>
 <category>日本企業</category>
 <description>コングレは、AVITAやSMBCグループと業務提携し、アバターを活用した遠隔接客の導入に挑むと発表しました。渋谷の施設にて8月中旬から初期運用が開始されます。</description>
-</item>
-<item>
-<title>AnthropicのClaude、テキストと画像に不可視ウォーターマーク導入なぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260812-anthropic-claude-watermarks-text-images.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260812-anthropic-claude-watermarks-text-images.html</guid>
-<pubDate>Wed, 12 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Anthropicは、AIが生成したテキストと画像に機械読み取り可能なデータを埋め込むウォーターマークの導入を発表しました。</description>
-</item>
-<item>
-<title>Zoom、AIで20未満のプロンプトを活用し発見された重大脆弱性を修正</title>
-<link>https://ai-tech-times.web.app/articles/20260812-zoom-vulnerability-ai-attack.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260812-zoom-vulnerability-ai-attack.html</guid>
-<pubDate>Wed, 12 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Zoomは、AIモデルを活用したプロンプトで発見された、会議中のデバイス乗っ取りを可能にする重大なセキュリティ脆弱性を修正しました。</description>
 </item>
 </channel></rss>
