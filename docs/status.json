@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-12 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-12 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "グリー決算：REALITYが過去最高益",
-   "path": "/articles/20260812-gree-financial-results-reality-vtuber.html",
-   "cat": "日本企業"
+   "title": "AnthropicのClaude、テキストと画像に不可視ウォーターマーク導入なぜ",
+   "path": "/articles/20260812-anthropic-claude-watermarks-text-images.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Zoom、AIで20未満のプロンプトを活用し発見された重大脆弱性を修正",
+   "path": "/articles/20260812-zoom-vulnerability-ai-attack.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 24,
  "gemini": {
-  "used": 101,
+  "used": 107,
   "limit": 200
  }
 }
