@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-18 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-18 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか",
-   "path": "/articles/20260818-anthropic-revenue-reaches-65b.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Nvidia、SpaceXに210億ドル出資の理由",
-   "path": "/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html",
-   "cat": "シリコンバレー最速"
+   "title": "慶大生逮捕にゴルフインフルエンサー怒り",
+   "path": "/articles/20260818-keio-student-arrest-influencer-anger.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 27,
+  "used": 30,
   "limit": 200
  }
 }

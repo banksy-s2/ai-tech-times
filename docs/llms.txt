@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 19:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 20:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [慶大生逮捕にゴルフインフルエンサー怒り](https://ai-tech-times.web.app/articles/20260818-keio-student-arrest-influencer-anger.html) — 2026-08-18 20:01: 慶大生の逮捕を受け、ゴルフインフルエンサーが怒りをあらわにし、盗難クレジットカードの日常使いの実態を公開しました。
 - [Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか](https://ai-tech-times.web.app/articles/20260818-anthropic-revenue-reaches-65b.html) — 2026-08-18 19:00: AI開発を手がけるAnthropicの売上高ランレートが、2025年7月の40億ドルから急拡大し、直近の7月末時点で650億ドルに達したことが関係者の話で明らかになりました。
 - [Nvidia、SpaceXに210億ドル出資の理由](https://ai-tech-times.web.app/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html) — 2026-08-18 19:00: 半導体大手のNvidiaが、宇宙開発企業SpaceXに210億ドルを出資していることが明らかになりました。イーロン・マスク氏によるデータセンター整備の排他的な発表に続く動きです。
 - [さくらインターネットとSakana AIが語るソブリンAIの現実解とは](https://ai-tech-times.web.app/articles/20260818-sovereign-ai-sakura-and-sakana.html) — 2026-08-18 18:00: 一国の判断で主要なAIサービスの提供が止まる時代において、日本企業はどのようにAI主権を守るべきか。さくらインターネットの田中邦裕社長とSakana AIの石井順也氏に、それぞれの考えを聞いた。
@@ -41,14 +42,13 @@
 - [AppleのiPhone 18、標準モデルは来年発売へ](https://ai-tech-times.web.app/articles/20260813-apple-iphone-18-launch-schedule.html) — 2026-08-13 07:01: Appleの「iPhone 18」シリーズを巡り、今年の秋ではなく来年第1四半期の発売になるというサプライヤーの情報が伝えられました。
 - [MetaとNvidiaが中国勢追う理由](https://ai-tech-times.web.app/articles/20260813-meta-nvidia-open-weight-ai-china.html) — 2026-08-13 07:01: オープンウェイトAIモデルの市場で中国勢が大きくリードする中、MetaとNvidiaがアメリカの存在感を示すため動き出しています。
 - [中東情勢の不透明感で円安、あなたの財布への影響は](https://ai-tech-times.web.app/articles/20260813-yen-exchange-rate-decline-middle-east.html) — 2026-08-13 07:01: 12日の東京外国為替市場で、円相場が値下がりしました。中東情勢の先行きに対する不透明感が背景にあります。
-- [日経平均553円高、6万7000円回復しTOPIX最高値更新](https://ai-tech-times.web.app/articles/20260813-nikkei-average-gains-553-yen-topix-record.html) — 2026-08-13 07:01: 12日後場の東京株式市場で、日経平均株価が553円高となり、1カ月ぶりに6万7000円を回復しました。東証株価指数（TOPIX）も最高値を更新しています。
 
 ## 世界のバズ動画TOP3 (2026-08-18)
 - 1位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
 - 2位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
 - 3位: [Stray Kids "그날 (Back Then)" Video (SONG by VER.)](https://www.youtube.com/watch?v=MCLX7anEh5s)
 
-## AI用語事典 (全972語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全973語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

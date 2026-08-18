@@ -1475,13 +1475,11 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wOVYyRkN6SHhENmdCVm5vY1BSTTJPeEFjVkZMdFljcTJsMklSbWQtTEpnc3RRY2xSdHhMajdsZnBfdXNKbm1mNUFUVUlCemM2TUluMEp0YlBFbXFqdWVGZnQ2RkthWHNibVdubEdJZ2pGTHFWVWN4TVUyd3FzMVk?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260817de44669",
   "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news044.html"
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news044.html",
+  "https://www.techmeme.com/260817/p31#a260817p31",
+  "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
  ],
  "titles": [
-  "日経平均が2566円安、2か月ぶり6万3000円割れ",
-  "キオクシア株価が一時5万円割れ、18%下落の背景",
-  "Samsung’s chip workers are jumping ship to rival SK Hynix",
-  "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
   "サムスン半導体エンジニアがSKハイニックスへ移籍する理由",
   "Apple、AIバブル崩壊時に直面するリスクとは",
   "生成AIや過去画像による偽・誤情報に注意を　熊本県の地震受け、ファクトチェック団体が呼び掛け",
@@ -3477,6 +3475,10 @@
   "なぜ「純国産AIは無理」なのか？　さくらとSakana AIが示す「ソブリンAI」の現実解",
   "業務効率に「不満」6割　なのに最も効くのは「生成AI」でも「ツール」でもなかった",
   "さくらインターネットとSakana AIが語るソブリンAIの現実解とは",
-  "業務効率に不満6割、改善に最も効くのは生成AIではない"
+  "業務効率に不満6割、改善に最も効くのは生成AIではない",
+  "Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May, $19B in March, $9B in December 2025, and $4B in July 2025 (Bloomberg)",
+  "Nvidia discloses $21B stake in SpaceX",
+  "Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか",
+  "Nvidia、SpaceXに210億ドル出資の理由"
  ]
 }
