@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-18 23:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-08-19 00:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "Groq、3.5億ドル調達の狙いとは",
+   "path": "/articles/20260819-groq-raises-350m-neocloud-pivot.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能",
+   "path": "/articles/20260819-chatgpts-computer-history-tracks-clicks.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
  },
- "notes": [
-  "執筆失敗: 長期金利 2.945％に上昇 インフレ加速か 国債売る動き強まる"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 3,
   "limit": 200
  }
 }

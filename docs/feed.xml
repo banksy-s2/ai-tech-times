@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Groq、3.5億ドル調達の狙いとは</title>
+<link>https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>元AIチップメーカーのGroqが、企業価値35億ドルで3億5000万ドルを資金調達しました。同社はネオクラウド事業への事業転換を進めています。</description>
+</item>
+<item>
+<title>OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能</title>
+<link>https://ai-tech-times.web.app/articles/20260819-chatgpts-computer-history-tracks-clicks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-chatgpts-computer-history-tracks-clicks.html</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESの記者として、The Verge AIの報道を基に新しい機能についてお伝えします。</description>
+</item>
+<item>
 <title>太平洋クロマグロ、大型魚の漁獲枠25%増で合意</title>
 <link>https://ai-tech-times.web.app/articles/20260818-pacific-bluefin-tuna-quota-increase.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260818-pacific-bluefin-tuna-quota-increase.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>「AIを使わない選択自体がビジネスリスク」と断言するメルカリが、強力なAIツールの全社展開とガバナンスを両立させる仕組みを明かしました。</description>
-</item>
-<item>
-<title>AppleのiPhone 18、標準モデルは来年発売へ</title>
-<link>https://ai-tech-times.web.app/articles/20260813-apple-iphone-18-launch-schedule.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260813-apple-iphone-18-launch-schedule.html</guid>
-<pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Appleの「iPhone 18」シリーズを巡り、今年の秋ではなく来年第1四半期の発売になるというサプライヤーの情報が伝えられました。</description>
-</item>
-<item>
-<title>MetaとNvidiaが中国勢追う理由</title>
-<link>https://ai-tech-times.web.app/articles/20260813-meta-nvidia-open-weight-ai-china.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260813-meta-nvidia-open-weight-ai-china.html</guid>
-<pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>オープンウェイトAIモデルの市場で中国勢が大きくリードする中、MetaとNvidiaがアメリカの存在感を示すため動き出しています。</description>
 </item>
 </channel></rss>

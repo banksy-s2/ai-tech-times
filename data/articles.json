@@ -51472,5 +51472,83 @@
   "date": "2026-08-18",
   "time": "22:00",
   "path": "/articles/20260818-trump-us-rok-military-exercise-reduction.html"
+ },
+ {
+  "title": "Groq、3.5億ドル調達の狙いとは",
+  "lead": "元AIチップメーカーのGroqが、企業価値35億ドルで3億5000万ドルを資金調達しました。同社はネオクラウド事業への事業転換を進めています。",
+  "summary3": [
+   "Groqが3.5億ドルを資金調達",
+   "企業価値は3.5億ドルに到達",
+   "ネオクラウド事業へ事業転換"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。AIチップメーカーとして知られていたGroqが、新たに3億5000万ドルの資金調達を実施しました。今回の資金調達における企業価値は35億ドルに達しています。",
+   "今回の資金調達は、同社がAIチップの製造からネオクラウド事業へと大きく舵を切るためのものです。Nvidia製技術を活用したデータセンターの展開エリア拡大も、この事業転換の重要な柱となっています。",
+   "AIインフラ市場の勢力図が変化する中、同社の新たな挑戦がどのように業界に影響を与えるのか、今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "Groq",
+   "ネオクラウド",
+   "資金調達"
+  ],
+  "slug": "groq-raises-350m-neocloud-pivot",
+  "people": [],
+  "terms": [
+   {
+    "name": "Groq",
+    "type": "company",
+    "desc": "AIチップ開発からネオクラウド事業への転換を進めている企業"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "00:00",
+  "path": "/articles/20260819-groq-raises-350m-neocloud-pivot.html"
+ },
+ {
+  "title": "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能",
+  "lead": "AI TECH TIMESの記者として、The Verge AIの報道を基に新しい機能についてお伝えします。",
+  "summary3": [
+   "macOS版アプリに新機能を追加",
+   "クリックや操作を自動で学習する",
+   "作業のタイムラインを生成する"
+  ],
+  "body": [
+   "OpenAIが提供するChatGPTのmacOS版デスクトップアプリに、「Computer History」という新しい機能が追加されました。この機能は、ユーザーのクリックやキーストロークなどの操作を記録し、トレーニングデータとして活用するものです。",
+   "Computer Historyは、ユーザーがどのように作業しているかを学習し、自動化の提案を行ったり、途中で中断したタスクを引き継いだりすることができます。日々のパソコン操作から活動のタイムラインを構築し、ユーザーがリクエストを行った際にChatGPTやCodexが参照できるように設計されています。",
+   "私たちの日常的な作業の仕方をAIがどのように学習し、サポートしていくのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "macOS",
+   "AI"
+  ],
+  "slug": "chatgpts-computer-history-tracks-clicks",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ・サンフランシスコを拠点とする、対話型AIなどの開発を手がけるAI研究開発企業。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話や文章生成を行う人工知能を搭載したチャットサービス。"
+   },
+   {
+    "name": "Codex",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然言語からコードの生成や補完を行うプログラミング特化型のAIモデル。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "00:00",
+  "path": "/articles/20260819-chatgpts-computer-history-tracks-clicks.html"
  }
 ]
