@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-19 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-19 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "「牛来」興収350倍超に！AI生成よりひどいと話題の中国アニメがヒットした理由",
-   "path": "/articles/20260819-chinese-animation-niulai-box-office-surge.html",
-   "cat": "インフルエンサー"
+   "title": "千葉豪雨で死者13人に、浸水2314棟の被害なぜ拡大",
+   "path": "/articles/20260819-chiba-heavy-rain-damage-update.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米トランプ政権、ICC赤根智子所長を制裁対象に指定",
+   "path": "/articles/20260819-trump-administration-icc-akane-sanctions.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 19,
+  "used": 24,
   "limit": 200
  }
 }

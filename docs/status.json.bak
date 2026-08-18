@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-19 02:04",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-19 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "欧州中央銀行：AIが迫る市場調整になぜ警鐘を鳴らすのか",
-   "path": "/articles/20260819-ai-market-correction-ecb-warning.html",
-   "cat": "シリコンバレー最速"
+   "title": "「牛来」興収350倍超に！AI生成よりひどいと話題の中国アニメがヒットした理由",
+   "path": "/articles/20260819-chinese-animation-niulai-box-office-surge.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [
-  "執筆失敗: Einride strikes deal to add 500 Tesla Se"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 16,
+  "used": 19,
   "limit": 200
  }
 }
