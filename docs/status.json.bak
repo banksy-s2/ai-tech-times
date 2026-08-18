@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-19 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-19 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "長期金利が2.945％に上昇、インフレ加速か",
-   "path": "/articles/20260819-long-term-interest-rates-rise-2-945-percent.html",
-   "cat": "株式投資(日本)"
+   "title": "太陽誘電、通期営業益を150億円上方修正",
+   "path": "/articles/20260819-taiyo-yuden-fy2027-q1-earnings-revision.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 28,
+  "used": 32,
   "limit": 200
  }
 }
