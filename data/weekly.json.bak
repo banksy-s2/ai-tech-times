@@ -1,66 +1,66 @@
 {
- "week_of": "2026-08-03",
- "range": "2026-07-27 〜 2026-08-03",
+ "week_of": "2026-08-10",
+ "range": "2026-08-03 〜 2026-08-10",
  "items": [
   {
-   "path": "/articles/20260728-kumamoto-earthquake-tsunami-warning.html",
-   "title": "熊本・宇城市と氷川町で震度7、有明・八代海に津波注意報",
+   "path": "/articles/20260803-yen-exchange-rate-155-yen-level.html",
+   "title": "円相場が一時155円台に値上がり、片山財務大臣が協調介入を表明",
    "cat": "時事・世界",
-   "comment": "熊本地震で最大震度7を観測、有明海等に津波注意報。"
+   "comment": "日米の協調介入により、円相場は一時1ドル＝155円台へと値上がりした。"
   },
   {
-   "path": "/articles/20260730-takaichi-food-consumption-tax-reduction-2.html",
-   "title": "高市首相、食料品消費税を来年4月から2年間1％へ引き下げ方針",
-   "cat": "時事・世界",
-   "comment": "高市首相が来年4月から食料品消費税を2年間1%へ引き下げ表明。"
-  },
-  {
-   "path": "/articles/20260802-us-japan-joint-intervention-yen.html",
-   "title": "円安是正へ日米が異例の協調介入、3日に声明発表へ",
-   "cat": "時事・世界",
-   "comment": "歴史的円安を受け、日米当局が異例の協調介入を実施。"
-  },
-  {
-   "path": "/articles/20260801-kioxia-earnings-fy2025.html",
-   "title": "キオクシア4〜6月最終利益、前年比およそ46倍の8400億円超",
+   "path": "/articles/20260806-nikkei-average-gains-66300.html",
+   "title": "日経平均株価、続伸して終値2342円高の6万6300円に",
    "cat": "株式投資(日本)",
-   "comment": "キオクシアの4〜6月期最終利益が前年比約46倍の8400億円超。"
+   "comment": "日経平均株価は続伸し、終値で2342円高の6万6300円を記録した。"
   },
   {
-   "path": "/articles/20260731-boj-maintains-interest-rate.html",
-   "title": "日銀、政策金利を1%程度に据え置き決定",
+   "path": "/articles/20260803-kumamoto-earthquake-gekijin-saigai.html",
+   "title": "高市首相、熊本地震を激甚災害指定へ方針表明",
    "cat": "時事・世界",
-   "comment": "日銀が金融政策決定会合で政策金利を1%程度に据え置き決定。"
+   "comment": "高市総理大臣は今回の熊本地震について激甚災害に指定する方針を表明した。"
   },
   {
-   "path": "/articles/20260731-microsoft-shares-surge-market-cap-increase.html",
-   "title": "Microsoft株価一時17%急騰、時価総額が史上最大の72兆円増",
-   "cat": "株式投資(日本)",
-   "comment": "米マイクロソフトの好決算を受け、株価が一時17%急騰。"
+   "path": "/articles/20260806-food-consumption-tax-reduction-policy.html",
+   "title": "食料品の消費税1%へ、政府が来年4月から2年間で調整",
+   "cat": "時事・世界",
+   "comment": "政府は食料品の消費税率を来年4月から2年間1％に引き下げる方針を決定した。"
   },
   {
-   "path": "/articles/20260731-seven-and-i-paypay-capital-business-alliance.html",
-   "title": "セブン＆アイとPayPay、総額3000億円提携で7iD統合",
-   "cat": "日本企業",
-   "comment": "セブン＆アイとPayPayらが総額3000億円の資本業務提携を発表。"
-  },
-  {
-   "path": "/articles/20260801-eu-ai-regulation-identification-obligation.html",
-   "title": "EU、AI生成物に識別表示義務と制裁金63億円を適用へ",
+   "path": "/articles/20260804-eu-ai-act-transparency-rules-2.html",
+   "title": "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
    "cat": "日本のAI",
-   "comment": "EUがAI生成物への識別表示義務と高額制裁金を適用開始。"
+   "comment": "欧州委員会はEU AI Act第50条に基づく透明性ルールの適用を開始した。"
   },
   {
-   "path": "/articles/20260801-ohtani-returns-with-hr.html",
-   "title": "大谷翔平、左ひざ痛から復帰戦で24号HR含む長打2本",
-   "cat": "時事・世界",
-   "comment": "大谷翔平選手が左ひざ痛からの復帰戦で24号本塁打を記録。"
+   "path": "/articles/20260806-akita-ai-data-center-2-trillion-yen.html",
+   "title": "秋田に2兆円のAIデータセンター、UAE投資へ",
+   "cat": "日本のAI",
+   "comment": "秋田市に日本最大級のAI向けデータセンターを建設する計画が明らかになった。"
   },
   {
-   "path": "/articles/20260727-keigo-higashino-passes-away-at-68.html",
-   "title": "東野圭吾さん68歳で死去、直木賞作家が残した数々の名作",
+   "path": "/articles/20260807-north-korea-missile-launch-eez.html",
+   "title": "小泉防衛相：北朝鮮ミサイル発射、EEZ外に落下",
    "cat": "時事・世界",
-   "comment": "直木賞作家の東野圭吾さんが大腸がんのため68歳で死去。"
+   "comment": "防衛省は北朝鮮が少なくとも1発の弾道ミサイルを発射しEEZ外に落下したと発表した"
+  },
+  {
+   "path": "/articles/20260809-oima-nuclear-plant-auto-stop.html",
+   "title": "関西電力大飯原発3号機が自動停止、外部への影響なし",
+   "cat": "時事・世界",
+   "comment": "関西電力大飯原発3号機で発電設備のトラブルにより原子炉が自動停止した。"
+  },
+  {
+   "path": "/articles/20260804-toyota-raises-full-year-earnings-forecast.html",
+   "title": "トヨタ、営業利益3兆4000億円へ上方修正　見通し変更の背景",
+   "cat": "日本企業",
+   "comment": "トヨタ自動車は今年度1年間の通期業績見通しについて営業利益を上方修正した。"
+  },
+  {
+   "path": "/articles/20260808-gpif-record-surplus-quarterly.html",
+   "title": "GPIFの4〜6月期運用、過去最高の24兆円超黒字",
+   "cat": "日本企業",
+   "comment": "GPIFは4月から6月までの運用実績が24兆円余りの黒字となり過去最高を更新した"
   }
  ]
 }

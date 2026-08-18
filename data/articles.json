@@ -50582,5 +50582,317 @@
   "date": "2026-08-13",
   "time": "07:01",
   "path": "/articles/20260813-listed-companies-dividend-total-23-trillion-yen.html"
+ },
+ {
+  "title": "Nvidia、ソフトバンク系データセンターに15億ドル投資",
+  "lead": "Nvidiaがソフトバンクのデータセンター開発企業へ15億ドルの投資を行いました。この投資により、 OpenAIのプロジェクトを支える施設へのチップ供給が確実になります。",
+  "summary3": [
+   "Nvidiaがソフトバンク系企業に投資",
+   "投資額は1.5億ドルではなく15億ドル",
+   "OpenAIのデータセンターへチップ供給"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のニュースです。半導体大手のエヌビディア（Nvidia）が、ソフトバンクグループ傘下のデータセンター開発企業に対して、15億ドルの巨額投資を実行することが明らかになりました。海外メディアのTechCrunch AIが報じています。",
+   "今回の投資には明確な狙いがあります。ソフトバンクが背後で進めているOpenAI関連のプロジェクトにおいて、Nvidia製チップが確実に採用され、データセンターの心臓部を動かすことが保証される仕組みです。AI開発に不可欠な計算資源を巡る動きとして、業界の注目を集めています。",
+   "急速に拡大するAI需要に対応するため、ハードウェアとインフラストラクチャーをめぐる大手企業同士の提携や投資はさらに加速する見通しです。今後のプロジェクトの進展や、両社によるさらなるインフラ整備の動向から目が離せません。"
+  ],
+  "tags": [
+   "Nvidia",
+   "SoftBank",
+   "OpenAI"
+  ],
+  "slug": "nvidia-investing-1-5b-in-softbank-data-center",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く半導体メーカーで、AI開発に不可欠なGPU市場で高いシェアを持つ企業です。"
+   },
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "日本に本拠を置く通信・投資事業を手がける持株会社で、AI分野への大型投資を積極的に行っています。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに本拠を置くAI開発企業で、対話型AI「ChatGPT」などを開発し業界をリードしています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+  "category": "ai",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html"
+ },
+ {
+  "title": "元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由",
+  "lead": "かつて本をオンラインで販売することからスタートしたアマゾンが、AIモデルのトレーニングのために貴重なテキストを破壊していることが明らかになりました。",
+  "summary3": [
+   "アマゾンが希少な書籍を破棄",
+   "目的は大規模言語モデルの訓練",
+   "既存のネットデータ不足が背景"
+  ],
+  "body": [
+   "オンライン書店として創業したアマゾンが、人工知能（AI）モデルのトレーニングを目的として、希少な書籍を破壊していることが分かりました。テクノロジーメディアのTechCrunch AIが報じています。",
+   "現在、大規模言語モデル（LLM）の開発において、データの確保が重要な課題となっています。モデルはすでにインターネット上で入手可能なあらゆるデータを用いて訓練されているため、新たな学習データとして希少な書籍が非常に価値を持つようになっています。",
+   "インターネット上のテキストデータが枯渇しつつある中、AIの開発企業は高度な学習を実現するためのリソース確保に奔走しています。今回の動向は、AIの進化が物理的な資料の消費を伴うという新たな側面を浮き彫りにしています。"
+  ],
+  "tags": [
+   "Amazon",
+   "AI",
+   "LLM"
+  ],
+  "slug": "amazon-destroying-rare-texts-to-train-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、世界最大級の総合オンラインストアやクラウドサービスなどを手掛ける企業。"
+   },
+   {
+    "name": "大規模言語モデル",
+    "type": "ai",
+    "desc": "膨大なテキストデータを用いて学習し、人間のような自然な文章生成や対話を行うAIモデルのこと。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+  "category": "ai",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-amazon-destroying-rare-texts-to-train-ai.html"
+ },
+ {
+  "title": "MicrosoftよりGoogleで6億円削減も？舞鶴市と千代田区の成功法則",
+  "lead": "ITツールやAIの導入における現場への定着や運用負担の課題に対し、京都市舞鶴市と東京千代田区がどのように解消し、成果につなげたのかが明らかになりました。",
+  "summary3": [
+   "舞鶴市と千代田区のIT刷新成功法則",
+   "現場の定着や運用負担の課題を解消",
+   "ITツールやAIの活用で成果を実現"
+  ],
+  "body": [
+   "ITツールやAIの導入において、多くの組織が現場への定着や運用負担の課題に直面しています。こうした中、京都市の舞鶴市と東京の千代田区が、どのようにその課題を解消し、成果につなげたのかが注目を集めています。",
+   "ITmedia AI+の報道によると、両自治体はIT刷新とAI活用の成功法則を明かしており、「MicrosoftよりGoogle」で6億円削減につながる可能性など、具体的な取り組みやその背景にある工夫が語られています。",
+   "自治体における先進的なIT・AI活用の事例として、今後の動向や他の自治体への展開にも大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "舞鶴市",
+   "千代田区",
+   "AI活用"
+  ],
+  "slug": "maizuru-chiyoda-it-ai-success",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界的なソフトウェア開発・IT企業。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点に、検索エンジンやクラウドサービスなどを提供する大手IT企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news028.html",
+  "category": "ai_jp",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-maizuru-chiyoda-it-ai-success.html"
+ },
+ {
+  "title": "味の素、公式Xの画像生成AI加工で謝罪",
+  "lead": "味の素は、公式Xに投稿した画像に生成AIによる加工を使用し、商品のラベルが乱れていたとして謝罪しました。",
+  "summary3": [
+   "味の素が公式Xの投稿画像で謝罪",
+   "原因は生成AIによる加工と説明",
+   "商品のラベルや文字が乱れていた"
+  ],
+  "body": [
+   "味の素は8月16日、レシピサイト「味の素パーク」の公式X（旧Twitter）で14日に投稿した画像について謝罪しました。",
+   "謝罪の理由は、投稿された画像が生成AIによる加工によるものであり、商品のラベルや文字の一部が乱れていたためとしています。",
+   "今回の件は、SNSにおける生成AIの活用方法や画像確認の重要性を示す事例となりました。"
+  ],
+  "tags": [
+   "味の素",
+   "生成AI",
+   "X"
+  ],
+  "slug": "ajinomoto-apologizes-for-ai-image",
+  "people": [],
+  "terms": [
+   {
+    "name": "味の素",
+    "type": "company",
+    "desc": "調味料や食品を製造・販売する日本の大手食品メーカーです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/",
+  "category": "ai_jp",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-ajinomoto-apologizes-for-ai-image.html"
+ },
+ {
+  "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ",
+  "lead": "決済大手のStripeが、AIゲートウェイを手がけるスタートアップOpenRouterを70億ドル以上の規模で買収するとの報道が浮上しました。",
+  "summary3": [
+   "StripeがOpenRouterを買収へ",
+   "買収額は70億ドルを超える見込み",
+   "OpenRouterはAI版Stripeとも称される"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が得た情報によると、決済サービス大手として知られるStripeが、AIゲートウェイ分野のスタートアップであるOpenRouterを買収する方向で動いており、その買収額は70億ドルを超える規模になると報じられています。この買収劇は、AI関連技術の統合とビジネス展開を急ぐ決済業界の動きを象徴するものとして注目を集めています。",
+   "買収対象となるOpenRouterについて、同社のCEOは最近、自社のスタートアップを「AIのためのStripe」であると表現していました。AIモデルへの接続や管理を効率化するゲートウェイ機能を提供する同社が、決済プラットフォームの巨人とどのようなシナジーを生み出すのか、今後の動向に関心が集まっています。",
+   "現時点で買収に関する詳細なスケジュールや統合後の具体的なサービス展開については明らかにされていませんが、AI技術のインフラ化が進む中で、今回の大型買収は業界全体に大きな影響を与える可能性があります。さらなる続報が入り次第、随時お伝えしてまいります。"
+  ],
+  "tags": [
+   "Stripe",
+   "OpenRouter",
+   "買収"
+  ],
+  "slug": "stripe-to-acquire-openrouter-for-7b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Stripe",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、オンライン決済処理プラットフォームを提供する世界的な大企業です。"
+   },
+   {
+    "name": "OpenRouter",
+    "type": "company",
+    "desc": "多様なAIモデルへのアクセスを統合管理するAIゲートウェイサービスを提供するスタートアップ企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+  "category": "silicon",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-stripe-to-acquire-openrouter-for-7b.html"
+ },
+ {
+  "title": "米30年債利回り19年ぶり高水準、インフレ再加速へ警戒感",
+  "lead": "17日のニューヨーク原油市場でWTI先物価格が一時1バレル＝85ドル台まで上昇しました。原油高を受け、市場ではインフレ再加速への警戒感が強まっています。",
+  "summary3": [
+   "米30年債利回りが19年ぶりの高水準に",
+   "WTI先物が一時1バレル＝85ドル台に上昇",
+   "イラン情勢の長期化懸念が背景に"
+  ],
+  "body": [
+   "17日のニューヨーク原油市場では、イラン情勢がさらに長期化するとの懸念を背景に、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝85ドル台まで上昇しました。",
+   "こうした原油高を受けてインフレが再加速するのではないかという警戒感が市場で強まっています。",
+   "今後の金融市場の動向やエネルギー価格の推移に対し、引き続き慎重な見方が広がっています。"
+  ],
+  "tags": [
+   "原油価格",
+   "インフレ",
+   "債券利回り"
+  ],
+  "slug": "us-30yr-yield-19yr-high",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260818de44672",
+  "category": "world",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-us-30yr-yield-19yr-high.html"
+ },
+ {
+  "title": "ANAとJALが初のダイヤ調整！競合が手を組んだ理由は",
+  "lead": "全日空と日本航空が、燃料費高騰などによる国内線維持のため、初のダイヤ調整を正式に発表しました。",
+  "summary3": [
+   "ANAとJALが初のダイヤ調整を発表",
+   "羽田と岡山を結ぶ路線が対象となる",
+   "同じ時間帯の便重複を避ける取り組み"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今日のニュースです。燃料費の高騰などで苦境が続く国内線の維持に向け、全日空と日本航空は18日、初めてダイヤの調整を行ったと正式に発表しました。",
+   "今回のダイヤ調整の対象となったのは、羽田空港と岡山空港を結ぶ路線です。同じ時間帯に両社の便が重複しないように工夫することで、効率的な運航を目指すとしています。",
+   "ライバル関係にある両社が協力し、路線維持に向けた新たな試みに踏み出した今回の発表は、今後の国内線運用における大きな転換点となりそうです。"
+  ],
+  "tags": [
+   "ANA",
+   "JAL",
+   "航空業界"
+  ],
+  "slug": "ana-and-jal-first-schedule-adjustment",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260818de44794",
+  "category": "world",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-ana-and-jal-first-schedule-adjustment.html"
+ },
+ {
+  "title": "日経平均6営業日ぶり下落、終値1759円安の6万7460円",
+  "lead": "日経平均株価が6営業日ぶりに下落し、長期金利の上昇に対する懸念から終値で1759円安の6万7460円となりました。",
+  "summary3": [
+   "日経平均が6営業日ぶりに下落しました",
+   "終値は1759円安の6万7460円です",
+   "長期金利上昇による懸念が背景にあります"
+  ],
+  "body": [
+   "読売新聞オンラインの報道によると、日経平均株価は6営業日ぶりに下落する展開となりました。終値は前日比1759円安の6万7460円を記録しています。",
+   "今回の下落の背景には、長期金利の上昇に対する市場の懸念が存在しているとのことです。金融市場における金利の動きが、株価に影響を与える形となりました。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "長期金利"
+  ],
+  "slug": "nikkei-average-falls-6th-day",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wOVYyRkN6SHhENmdCVm5vY1BSTTJPeEFjVkZMdFljcTJsMklSbWQtTEpnc3RRY2xSdHhMajdsZnBfdXNKbm1mNUFUVUlCemM2TUluMEp0YlBFbXFqdWVGZnQ2RkthWHNibVdubEdJZ2pGTHFWVWN4TVUyd3FzMVk?oc=5",
+  "category": "stock",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-nikkei-average-falls-6th-day.html"
+ },
+ {
+  "title": "楽天グループ、ドイツ新興企業と提携し防衛需要へ",
+  "lead": "楽天グループが、AIを搭載した迎撃ドローンの開発を手がけるドイツのスタートアップ企業と提携しました。陸上自衛隊への導入を支援し、防衛産業の需要を取り込む方針です。",
+  "summary3": [
+   "楽天グループが独企業と提携",
+   "AI搭載の迎撃ドローンを開発",
+   "陸上自衛隊への導入を支援"
+  ],
+  "body": [
+   "楽天グループは、AIを搭載した迎撃ドローンの開発を手がけるドイツのスタートアップ企業と新たに提携したことを明らかにしました。今回の提携により、同社は防衛産業における新たな需要の取り込みをめざします。",
+   "具体的な取り組みとして、開発されたAI搭載の迎撃ドローンについて、陸上自衛隊への導入に向けた支援を行っていく計画です。最先端の技術を活用した防衛分野での展開が注目されます。",
+   "防衛産業への参入や需要獲得に向けた動きが活発化する中、異業種からのアプローチとして今後の展開がどのように進むのか、引き続き動向が注視されます。"
+  ],
+  "tags": [
+   "楽天グループ",
+   "防衛産業",
+   "ドローン"
+  ],
+  "slug": "rakuten-group-drone-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "楽天グループ",
+    "type": "company",
+    "desc": "日本を拠点にインターネットサービスや通信事業などを幅広く展開する大手企業です。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260817de44669",
+  "category": "jp_corp",
+  "date": "2026-08-18",
+  "time": "17:05",
+  "path": "/articles/20260818-rakuten-group-drone-partnership.html"
  }
 ]

@@ -1,66 +1,66 @@
 {
- "week_of": "2026-08-10",
- "range": "2026-08-03 〜 2026-08-10",
+ "week_of": "2026-08-18",
+ "range": "2026-08-11 〜 2026-08-18",
  "items": [
   {
-   "path": "/articles/20260803-yen-exchange-rate-155-yen-level.html",
-   "title": "円相場が一時155円台に値上がり、片山財務大臣が協調介入を表明",
-   "cat": "時事・世界",
-   "comment": "日米の協調介入により、円相場は一時1ドル＝155円台へと値上がりした。"
-  },
-  {
-   "path": "/articles/20260806-nikkei-average-gains-66300.html",
-   "title": "日経平均株価、続伸して終値2342円高の6万6300円に",
+   "path": "/articles/20260811-nikkei-average-rebounds-sharply-feb-10.html",
+   "title": "日経平均株価は1363円高の6万6970円、3日ぶり大幅反発",
    "cat": "株式投資(日本)",
-   "comment": "日経平均株価は続伸し、終値で2342円高の6万6300円を記録した。"
+   "comment": "日経平均株価は前日比1363円高となり、3日ぶりに大幅反発を記録しました。"
   },
   {
-   "path": "/articles/20260803-kumamoto-earthquake-gekijin-saigai.html",
-   "title": "高市首相、熊本地震を激甚災害指定へ方針表明",
-   "cat": "時事・世界",
-   "comment": "高市総理大臣は今回の熊本地震について激甚災害に指定する方針を表明した。"
-  },
-  {
-   "path": "/articles/20260806-food-consumption-tax-reduction-policy.html",
-   "title": "食料品の消費税1%へ、政府が来年4月から2年間で調整",
-   "cat": "時事・世界",
-   "comment": "政府は食料品の消費税率を来年4月から2年間1％に引き下げる方針を決定した。"
-  },
-  {
-   "path": "/articles/20260804-eu-ai-act-transparency-rules-2.html",
-   "title": "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
+   "path": "/articles/20260811-sk-hynix-invests-6-trillion-won-new-factories.html",
+   "title": "SK Hynix、韓国で約6兆円を投じ新工場建設へ",
    "cat": "日本のAI",
-   "comment": "欧州委員会はEU AI Act第50条に基づく透明性ルールの適用を開始した。"
+   "comment": "SK HynixがAIメモリ需要に対応するため、韓国で約6兆円を投じ新工場を建設"
   },
   {
-   "path": "/articles/20260806-akita-ai-data-center-2-trillion-yen.html",
-   "title": "秋田に2兆円のAIデータセンター、UAE投資へ",
-   "cat": "日本のAI",
-   "comment": "秋田市に日本最大級のAI向けデータセンターを建設する計画が明らかになった。"
-  },
-  {
-   "path": "/articles/20260807-north-korea-missile-launch-eez.html",
-   "title": "小泉防衛相：北朝鮮ミサイル発射、EEZ外に落下",
+   "path": "/articles/20260811-michibiki-7-h3-rocket-success.html",
+   "title": "H3ロケットで「みちびき7号機」打ち上げ成功",
    "cat": "時事・世界",
-   "comment": "防衛省は北朝鮮が少なくとも1発の弾道ミサイルを発射しEEZ外に落下したと発表した"
+   "comment": "日本版GPS衛星「みちびき」7号機がH3ロケット9号機により打ち上げ成功しました"
   },
   {
-   "path": "/articles/20260809-oima-nuclear-plant-auto-stop.html",
-   "title": "関西電力大飯原発3号機が自動停止、外部への影響なし",
+   "path": "/articles/20260811-russia-drone-attack-13-deaths.html",
+   "title": "ロシア中部で無人機攻撃、13人死亡なぜ？石油施設狙う",
    "cat": "時事・世界",
-   "comment": "関西電力大飯原発3号機で発電設備のトラブルにより原子炉が自動停止した。"
+   "comment": "ロシア中部でウクライナの無人機による石油施設攻撃があり、13人が死亡しました。"
   },
   {
-   "path": "/articles/20260804-toyota-raises-full-year-earnings-forecast.html",
-   "title": "トヨタ、営業利益3兆4000億円へ上方修正　見通し変更の背景",
+   "path": "/articles/20260811-rakuten-group-fy2026-q2-earnings.html",
+   "title": "楽天グループ、6年ぶり四半期黒字化の背景",
    "cat": "日本企業",
-   "comment": "トヨタ自動車は今年度1年間の通期業績見通しについて営業利益を上方修正した。"
+   "comment": "楽天グループのFY2026 Q2決算説明会で、6年ぶりとなる四半期黒字化が発表さ"
   },
   {
-   "path": "/articles/20260808-gpif-record-surplus-quarterly.html",
-   "title": "GPIFの4〜6月期運用、過去最高の24兆円超黒字",
-   "cat": "日本企業",
-   "comment": "GPIFは4月から6月までの運用実績が24兆円余りの黒字となり過去最高を更新した"
+   "path": "/articles/20260812-mod-north-korea-missile-eez-2026.html",
+   "title": "防衛省「北朝鮮から弾道ミサイル発射」日本のEEZ外側に落下か",
+   "cat": "時事・世界",
+   "comment": "防衛省は北朝鮮から弾道ミサイルが発射され、日本のEEZ外側に落下したと発表しまし"
+  },
+  {
+   "path": "/articles/20260813-google-pixel-11-gemini-ai-apple.html",
+   "title": "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
+   "cat": "シリコンバレー最速",
+   "comment": "米Googleは新スマートフォン「Pixel 11」を発表し、Gemini AI"
+  },
+  {
+   "path": "/articles/20260812-okuda-hiroshi-passed-away.html",
+   "title": "奥田碩氏が93歳で死去、トヨタ社長や経団連会長を歴任",
+   "cat": "時事・世界",
+   "comment": "トヨタ自動車の社長や経団連会長を務めた奥田碩氏が93歳で亡くなりました。"
+  },
+  {
+   "path": "/articles/20260818-stripe-to-acquire-openrouter-for-7b.html",
+   "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ",
+   "cat": "シリコンバレー最速",
+   "comment": "決済大手のStripeが、AIゲートウェイを手がけるOpenRouterの買収を"
+  },
+  {
+   "path": "/articles/20260813-takaichi-iran-president-phone-talk.html",
+   "title": "高市首相、イラン大統領と電話会談しホルムズ海峡の安全航行を要求",
+   "cat": "時事・世界",
+   "comment": "高市総理大臣がイラン大統領と電話会談し、ホルムズ海峡の安全航行を要求しました。"
   }
  ]
 }
