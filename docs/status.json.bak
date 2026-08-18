@@ -1,61 +1,65 @@
 {
- "updated": "2026-08-13 07:01",
+ "updated": "2026-08-18 17:06",
  "mode": "フル便",
  "articles": [
   {
-   "title": "Amazon、Twitch配信者のコンテンツをデフォルトでAI学習へ",
-   "path": "/articles/20260813-amazon-twitch-content-ai-training-default.html",
+   "title": "Nvidia、ソフトバンク系データセンターに15億ドル投資",
+   "path": "/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Thrive Holdingsが20億ドル調達、AI企業化の行方は",
-   "path": "/articles/20260813-thrive-holdings-raises-2b.html",
+   "title": "元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由",
+   "path": "/articles/20260818-amazon-destroying-rare-texts-to-train-ai.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "メルカリがClaude Code導入の裏でシャドーAI対策を進める仕組み",
-   "path": "/articles/20260813-mercari-claude-code-governance.html",
+   "title": "MicrosoftよりGoogleで6億円削減も？舞鶴市と千代田区の成功法則",
+   "path": "/articles/20260818-maizuru-chiyoda-it-ai-success.html",
    "cat": "日本のAI"
   },
   {
-   "title": "AppleのiPhone 18、標準モデルは来年発売へ",
-   "path": "/articles/20260813-apple-iphone-18-launch-schedule.html",
+   "title": "味の素、公式Xの画像生成AI加工で謝罪",
+   "path": "/articles/20260818-ajinomoto-apologizes-for-ai-image.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ",
+   "path": "/articles/20260818-stripe-to-acquire-openrouter-for-7b.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "MetaとNvidiaが中国勢追う理由",
-   "path": "/articles/20260813-meta-nvidia-open-weight-ai-china.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "中東情勢の不透明感で円安、あなたの財布への影響は",
-   "path": "/articles/20260813-yen-exchange-rate-decline-middle-east.html",
+   "title": "米30年債利回り19年ぶり高水準、インフレ再加速へ警戒感",
+   "path": "/articles/20260818-us-30yr-yield-19yr-high.html",
    "cat": "時事・世界"
   },
   {
-   "title": "日経平均553円高、6万7000円回復しTOPIX最高値更新",
-   "path": "/articles/20260813-nikkei-average-gains-553-yen-topix-record.html",
+   "title": "ANAとJALが初のダイヤ調整！競合が手を組んだ理由は",
+   "path": "/articles/20260818-ana-and-jal-first-schedule-adjustment.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均6営業日ぶり下落、終値1759円安の6万7460円",
+   "path": "/articles/20260818-nikkei-average-falls-6th-day.html",
    "cat": "株式投資(日本)"
   },
   {
-   "title": "上場企業の配当総額23兆円、5割弱が増配 家計所得を押し上げ",
-   "path": "/articles/20260813-listed-companies-dividend-total-23-trillion-yen.html",
+   "title": "楽天グループ、ドイツ新興企業と提携し防衛需要へ",
+   "path": "/articles/20260818-rakuten-group-drone-partnership.html",
    "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Irumudi Official Telugu Trailer | Ravi Teja | Priya Bhavani Shankar | Shiva Nirvana | G V Prakash",
-  "url": "https://www.youtube.com/watch?v=CSXhb2zhfLc"
+  "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
+  "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
  },
  "notes": [
-  "執筆失敗: 同僚女性教諭の水着画像をAIで生成　男性教諭を懲戒　神奈川県教委：朝日新聞",
-  "執筆失敗: 新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、",
-  "執筆失敗: ドイツ 情報機関の権限を大幅に強化する法案を閣議決定",
+  "執筆失敗: Meta faces ‘astronomical’ consequences a",
+  "執筆失敗: VTuber事務所「ホロライブ」運営のカバー、営業利益3割減の衝撃　新作ゲーム「",
   "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
- "pv_today": 1,
+ "pv_today": null,
  "gemini": {
-  "used": 53,
+  "used": 21,
   "limit": 200
  }
 }

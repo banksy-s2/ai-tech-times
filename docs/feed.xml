@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>さくらインターネットとSakana AIが語るソブリンAIの現実解とは</title>
+<link>https://ai-tech-times.web.app/articles/20260818-sovereign-ai-sakura-and-sakana.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260818-sovereign-ai-sakura-and-sakana.html</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>一国の判断で主要なAIサービスの提供が止まる時代において、日本企業はどのようにAI主権を守るべきか。さくらインターネットの田中邦裕社長とSakana AIの石井順也氏に、それぞれの考えを聞いた。</description>
+</item>
+<item>
+<title>業務効率に不満6割、改善に最も効くのは生成AIではない</title>
+<link>https://ai-tech-times.web.app/articles/20260818-business-efficiency-survey-2026.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260818-business-efficiency-survey-2026.html</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>アスノシステムが「仕事の生産性向上・業務改善に関する実態調査2026」の結果を発表しました。勤務先の業務効率に6割が不満を抱く中、改善を阻む要因などが明らかになっています。</description>
+</item>
+<item>
 <title>Nvidia、ソフトバンク系データセンターに15億ドル投資</title>
 <link>https://ai-tech-times.web.app/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 12 Aug 2026 22:01:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>全日空は、国際線の運賃に上乗せする燃油サーチャージを来月の発券分から引き下げることを明らかにしました。家計の負担に影響する今後の動向に注目が集まります。</description>
-</item>
-<item>
-<title>米消費者物価3.4％上昇、早期利上げ観測が後退か</title>
-<link>https://ai-tech-times.web.app/articles/20260812-us-cpi-inflation-rate-3-4-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260812-us-cpi-inflation-rate-3-4-percent.html</guid>
-<pubDate>Wed, 12 Aug 2026 22:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月の物価上昇率は去年の同じ月と比べて3.4％となりました。</description>
-</item>
-<item>
-<title>OpenAI、Linux向けChatGPT専用アプリを提供開始なぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260812-openai-launches-chatgpt-desktop-app-for-linux.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260812-openai-launches-chatgpt-desktop-app-for-linux.html</guid>
-<pubDate>Wed, 12 Aug 2026 21:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの調査によると、OpenAIはLinuxオペレーティングシステム向けに、専用のChatGPTデスクトップアプリを新たに提供開始しました。</description>
 </item>
 </channel></rss>

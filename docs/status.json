@@ -1,65 +1,26 @@
 {
- "updated": "2026-08-18 17:06",
- "mode": "フル便",
+ "updated": "2026-08-18 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Nvidia、ソフトバンク系データセンターに15億ドル投資",
-   "path": "/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由",
-   "path": "/articles/20260818-amazon-destroying-rare-texts-to-train-ai.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "MicrosoftよりGoogleで6億円削減も？舞鶴市と千代田区の成功法則",
-   "path": "/articles/20260818-maizuru-chiyoda-it-ai-success.html",
+   "title": "さくらインターネットとSakana AIが語るソブリンAIの現実解とは",
+   "path": "/articles/20260818-sovereign-ai-sakura-and-sakana.html",
    "cat": "日本のAI"
   },
   {
-   "title": "味の素、公式Xの画像生成AI加工で謝罪",
-   "path": "/articles/20260818-ajinomoto-apologizes-for-ai-image.html",
+   "title": "業務効率に不満6割、改善に最も効くのは生成AIではない",
+   "path": "/articles/20260818-business-efficiency-survey-2026.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ",
-   "path": "/articles/20260818-stripe-to-acquire-openrouter-for-7b.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "米30年債利回り19年ぶり高水準、インフレ再加速へ警戒感",
-   "path": "/articles/20260818-us-30yr-yield-19yr-high.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ANAとJALが初のダイヤ調整！競合が手を組んだ理由は",
-   "path": "/articles/20260818-ana-and-jal-first-schedule-adjustment.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均6営業日ぶり下落、終値1759円安の6万7460円",
-   "path": "/articles/20260818-nikkei-average-falls-6th-day.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "楽天グループ、ドイツ新興企業と提携し防衛需要へ",
-   "path": "/articles/20260818-rakuten-group-drone-partnership.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
  },
- "notes": [
-  "執筆失敗: Meta faces ‘astronomical’ consequences a",
-  "執筆失敗: VTuber事務所「ホロライブ」運営のカバー、営業利益3割減の衝撃　新作ゲーム「",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 24,
   "limit": 200
  }
 }
