@@ -51757,5 +51757,33 @@
   "date": "2026-08-19",
   "time": "04:00",
   "path": "/articles/20260819-trump-administration-icc-akane-sanctions.html"
+ },
+ {
+  "title": "長期金利が2.945％に上昇、インフレ加速か",
+  "lead": "18日の債券市場で、長期金利の代表的な指標である10年もの国債の利回りが一時2.945％に上昇しました。",
+  "summary3": [
+   "18日の債券市場で長期金利が上昇",
+   "10年もの国債利回りが一時2.945％に",
+   "イラン情勢の収束見えず国債売る動き"
+  ],
+  "body": [
+   "18日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.945％まで上昇しました。",
+   "今回の長期金利の上昇は、イラン情勢の収束が見えないことが背景にあります。",
+   "今後インフレが加速するという見方などから、国債を売る動きが強まる展開となりました。"
+  ],
+  "tags": [
+   "長期金利",
+   "国債",
+   "インフレ"
+  ],
+  "slug": "long-term-interest-rates-rise-2-945-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260818de44679",
+  "category": "stock",
+  "date": "2026-08-19",
+  "time": "05:00",
+  "path": "/articles/20260819-long-term-interest-rates-rise-2-945-percent.html"
  }
 ]

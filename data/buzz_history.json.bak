@@ -3063,7 +3063,7 @@
    "id": "W4LhfsQTi5E",
    "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
    "channel": "KATSEYEVEVO",
-   "views": 750635,
+   "views": 791865,
    "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E",
    "thumb": "https://i.ytimg.com/vi/W4LhfsQTi5E/hqdefault.jpg",
    "regions": [
@@ -3078,7 +3078,7 @@
    "id": "X1aFkAkFASk",
    "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 29486612,
+   "views": 29576289,
    "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
    "thumb": "https://i.ytimg.com/vi/X1aFkAkFASk/hqdefault.jpg",
    "regions": [
@@ -3092,7 +3092,7 @@
    "id": "1OYU38dGlBI",
    "title": "I Can't Believe They Streamed This",
    "channel": "penguinz0",
-   "views": 2945474,
+   "views": 3032675,
    "url": "https://www.youtube.com/watch?v=1OYU38dGlBI",
    "thumb": "https://i.ytimg.com/vi/1OYU38dGlBI/hqdefault.jpg",
    "regions": [
@@ -3106,7 +3106,7 @@
    "id": "ZyZb2dFYqQs",
    "title": "If This Balloon Touches The Ground You DIE",
    "channel": "SMii7Y",
-   "views": 1669700,
+   "views": 1712397,
    "url": "https://www.youtube.com/watch?v=ZyZb2dFYqQs",
    "thumb": "https://i.ytimg.com/vi/ZyZb2dFYqQs/hqdefault.jpg",
    "regions": [
@@ -3120,7 +3120,7 @@
    "id": "rkV7--wYUJ8",
    "title": "Toh Phir Aao (Dobara) | Lyric Video | Awarapan 2 | Emraan, Disha | Mithoon, Mustafa, Sayeed, Subodhh",
    "channel": "Sony Music India",
-   "views": 1259721,
+   "views": 1340136,
    "url": "https://www.youtube.com/watch?v=rkV7--wYUJ8",
    "thumb": "https://i.ytimg.com/vi/rkV7--wYUJ8/hqdefault.jpg",
    "regions": [
@@ -3131,24 +3131,10 @@
   },
   {
    "rank": 6,
-   "id": "39xPz1L-aEY",
-   "title": "Using Guns to Cheat in Hide and Seek",
-   "channel": "Cash",
-   "views": 619908,
-   "url": "https://www.youtube.com/watch?v=39xPz1L-aEY",
-   "thumb": "https://i.ytimg.com/vi/39xPz1L-aEY/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "かくれんぼで銃を使ってズルをする企画のようです。"
-  },
-  {
-   "rank": 7,
    "id": "ntLoF0LnAwY",
    "title": "BOYNEXTDOOR (보이넥스트도어) 'Boom Boom Boom' Official MV",
    "channel": "HYBE LABELS",
-   "views": 613083,
+   "views": 624141,
    "url": "https://www.youtube.com/watch?v=ntLoF0LnAwY",
    "thumb": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg",
    "regions": [
@@ -3158,11 +3144,11 @@
    "comment": "BOYNEXTDOORの新曲公式MVのようです。"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "id": "GpQz4aY_mQ4",
    "title": "EXTREMELY SATISFYING | Restory",
    "channel": "jacksepticeye",
-   "views": 591603,
+   "views": 610130,
    "url": "https://www.youtube.com/watch?v=GpQz4aY_mQ4",
    "thumb": "https://i.ytimg.com/vi/GpQz4aY_mQ4/hqdefault.jpg",
    "regions": [
@@ -3172,25 +3158,11 @@
    "comment": "非常に満足感のある修復作業の様子をお届けしているようです。"
   },
   {
-   "rank": 9,
-   "id": "MCLX7anEh5s",
-   "title": "Stray Kids \"그날 (Back Then)\" Video (SONG by VER.)",
-   "channel": "Stray Kids",
-   "views": 567724,
-   "url": "https://www.youtube.com/watch?v=MCLX7anEh5s",
-   "thumb": "https://i.ytimg.com/vi/MCLX7anEh5s/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Stray Kidsの「그날 (Back Then)」のビデオのようです。"
-  },
-  {
-   "rank": 10,
+   "rank": 8,
    "id": "kzI4R1DwXb0",
    "title": "VISIONQUEST TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
    "channel": "New Rockstars",
-   "views": 304517,
+   "views": 321509,
    "url": "https://www.youtube.com/watch?v=kzI4R1DwXb0",
    "thumb": "https://i.ytimg.com/vi/kzI4R1DwXb0/hqdefault.jpg",
    "regions": [
@@ -3198,6 +3170,34 @@
     "GB"
    ],
    "comment": "予告編に隠されたイースターエッグなどを解説しているようです。"
+  },
+  {
+   "rank": 9,
+   "id": "AxAgeglgSeA",
+   "title": "Star Wars Zero Company | Official Final Trailer",
+   "channel": "EA Star Wars",
+   "views": 224546,
+   "url": "https://www.youtube.com/watch?v=AxAgeglgSeA",
+   "thumb": "https://i.ytimg.com/vi/AxAgeglgSeA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "『Star Wars Zero Company』の公式最終トレーラー映像のようだ"
+  },
+  {
+   "rank": 10,
+   "id": "qJ-87EEUN5g",
+   "title": "Lanterns Episode 2 Trailer: WTF Really Happend To Hal Jordan?!",
+   "channel": "Emergency Awesome",
+   "views": 214040,
+   "url": "https://www.youtube.com/watch?v=qJ-87EEUN5g",
+   "thumb": "https://i.ytimg.com/vi/qJ-87EEUN5g/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "『Lanterns』第2話のトレーラーとハル・ジョーダンに関する考察のようす"
   }
  ]
 }
