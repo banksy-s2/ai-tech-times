@@ -50976,5 +50976,83 @@
   "date": "2026-08-18",
   "time": "18:00",
   "path": "/articles/20260818-business-efficiency-survey-2026.html"
+ },
+ {
+  "title": "Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか",
+  "lead": "AI開発を手がけるAnthropicの売上高ランレートが、2025年7月の40億ドルから急拡大し、直近の7月末時点で650億ドルに達したことが関係者の話で明らかになりました。",
+  "summary3": [
+   "Anthropicの売上高が650億ドルに到達",
+   "2025年7月の40億ドルから急激な拡大を記録",
+   "関係者への取材により現在の実績ベースで判明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がBloombergの報道に基づいて得た情報によると、米国の人工知能企業Anthropic PBCの売上高ランレート（年間換算売上高）が、2025年7月末の時点で650億ドルに達していることが関係者の話で分かりました。",
+   "同社の売上高は短期間で異例の急成長を遂げており、2025年7月時点の40億ドルから、同年12月には90億ドルに増加しました。さらに、2026年に入ってからも急拡大が続き、3月には190億ドル、5月には470億ドルへと急ピッチで伸びていました。",
+   "現在のパフォーマンスに基づく今回の発表では、同社が今後さらに巨額の年間収益を生み出す軌道に乗っていることが示されています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "生成AI",
+   "ビジネス"
+  ],
+  "slug": "anthropic-revenue-reaches-65b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国を拠点とし、対話型AIモデルの開発などを手がける最先端の人工知能企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260817/p31#a260817p31",
+  "category": "silicon",
+  "date": "2026-08-18",
+  "time": "19:00",
+  "path": "/articles/20260818-anthropic-revenue-reaches-65b.html"
+ },
+ {
+  "title": "Nvidia、SpaceXに210億ドル出資の理由",
+  "lead": "半導体大手のNvidiaが、宇宙開発企業SpaceXに210億ドルを出資していることが明らかになりました。イーロン・マスク氏によるデータセンター整備の排他的な発表に続く動きです。",
+  "summary3": [
+   "NvidiaがSpaceXへ210億ドル出資",
+   "イーロン・マスク氏の発表に続く開示",
+   "データセンター整備での排他的な動き"
+  ],
+  "body": [
+   "米Ars Technicaなどの報道によると、Nvidiaが宇宙開発企業SpaceXに対して210億ドルの出資を行っていることが、公開された書類から判明しました。この多額の出資は、業界内で大きな注目を集めています。",
+   "今回の出資に関する情報は、イーロン・マスク氏がデータセンターの整備に関して排他的な取り決めを発表したことに続いて明らかにされました。両社の協力関係がどのように展開していくのか、今後の動向に関心が集まっています。",
+   "AI技術の急速な発展に伴い、データセンターの重要性はますます高まっています。今回のNvidiaによるSpaceXへの巨額の出資が、今後のインフラ整備やAI業界全体にどのような影響を与えるのか、引き続き詳細が注目されます。"
+  ],
+  "tags": [
+   "Nvidia",
+   "SpaceX",
+   "出資"
+  ],
+  "slug": "nvidia-discloses-21b-stake-in-spacex",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "米SpaceXやテスラなどの最高経営責任者を務め、宇宙開発や電気自動車分野を牽引する著名な実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体を製造・販売する世界的なテクノロジー企業。"
+   },
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、ロケットの製造や宇宙輸送、衛星通信サービスなどを手がける宇宙開発企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+  "category": "silicon",
+  "date": "2026-08-18",
+  "time": "19:00",
+  "path": "/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html"
  }
 ]

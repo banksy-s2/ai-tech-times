@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-18 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-18 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "さくらインターネットとSakana AIが語るソブリンAIの現実解とは",
-   "path": "/articles/20260818-sovereign-ai-sakura-and-sakana.html",
-   "cat": "日本のAI"
+   "title": "Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか",
+   "path": "/articles/20260818-anthropic-revenue-reaches-65b.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "業務効率に不満6割、改善に最も効くのは生成AIではない",
-   "path": "/articles/20260818-business-efficiency-survey-2026.html",
-   "cat": "日本のAI"
+   "title": "Nvidia、SpaceXに210億ドル出資の理由",
+   "path": "/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 24,
+  "used": 27,
   "limit": 200
  }
 }

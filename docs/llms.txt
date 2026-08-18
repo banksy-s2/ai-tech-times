@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic売上高が650億ドルに急増、なぜ短期間で拡大したのか](https://ai-tech-times.web.app/articles/20260818-anthropic-revenue-reaches-65b.html) — 2026-08-18 19:00: AI開発を手がけるAnthropicの売上高ランレートが、2025年7月の40億ドルから急拡大し、直近の7月末時点で650億ドルに達したことが関係者の話で明らかになりました。
+- [Nvidia、SpaceXに210億ドル出資の理由](https://ai-tech-times.web.app/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html) — 2026-08-18 19:00: 半導体大手のNvidiaが、宇宙開発企業SpaceXに210億ドルを出資していることが明らかになりました。イーロン・マスク氏によるデータセンター整備の排他的な発表に続く動きです。
 - [さくらインターネットとSakana AIが語るソブリンAIの現実解とは](https://ai-tech-times.web.app/articles/20260818-sovereign-ai-sakura-and-sakana.html) — 2026-08-18 18:00: 一国の判断で主要なAIサービスの提供が止まる時代において、日本企業はどのようにAI主権を守るべきか。さくらインターネットの田中邦裕社長とSakana AIの石井順也氏に、それぞれの考えを聞いた。
 - [業務効率に不満6割、改善に最も効くのは生成AIではない](https://ai-tech-times.web.app/articles/20260818-business-efficiency-survey-2026.html) — 2026-08-18 18:00: アスノシステムが「仕事の生産性向上・業務改善に関する実態調査2026」の結果を発表しました。勤務先の業務効率に6割が不満を抱く中、改善を阻む要因などが明らかになっています。
 - [Nvidia、ソフトバンク系データセンターに15億ドル投資](https://ai-tech-times.web.app/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html) — 2026-08-18 17:05: Nvidiaがソフトバンクのデータセンター開発企業へ15億ドルの投資を行いました。この投資により、 OpenAIのプロジェクトを支える施設へのチップ供給が確実になります。
@@ -40,8 +42,6 @@
 - [MetaとNvidiaが中国勢追う理由](https://ai-tech-times.web.app/articles/20260813-meta-nvidia-open-weight-ai-china.html) — 2026-08-13 07:01: オープンウェイトAIモデルの市場で中国勢が大きくリードする中、MetaとNvidiaがアメリカの存在感を示すため動き出しています。
 - [中東情勢の不透明感で円安、あなたの財布への影響は](https://ai-tech-times.web.app/articles/20260813-yen-exchange-rate-decline-middle-east.html) — 2026-08-13 07:01: 12日の東京外国為替市場で、円相場が値下がりしました。中東情勢の先行きに対する不透明感が背景にあります。
 - [日経平均553円高、6万7000円回復しTOPIX最高値更新](https://ai-tech-times.web.app/articles/20260813-nikkei-average-gains-553-yen-topix-record.html) — 2026-08-13 07:01: 12日後場の東京株式市場で、日経平均株価が553円高となり、1カ月ぶりに6万7000円を回復しました。東証株価指数（TOPIX）も最高値を更新しています。
-- [上場企業の配当総額23兆円、5割弱が増配 家計所得を押し上げ](https://ai-tech-times.web.app/articles/20260813-listed-companies-dividend-total-23-trillion-yen.html) — 2026-08-13 07:01: 上場企業の配当総額が23兆円に達し、5割弱が増配となったことが日本経済新聞の報道で明らかになりました。家計所得の押し上げにつながる動きとして注目されています。
-- [野村證券、日経平均株価を2026年末70,000円に上方修正](https://ai-tech-times.web.app/articles/20260813-nikkei-average-forecast-nomura-2026.html) — 2026-08-13 05:00: 野村證券のストラテジストが、日経平均株価の見通しを2026年末70,000円に上方修正しました。
 
 ## 世界のバズ動画TOP3 (2026-08-18)
 - 1位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
