@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 21:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-18 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [太平洋クロマグロ、大型魚の漁獲枠25%増で合意](https://ai-tech-times.web.app/articles/20260818-pacific-bluefin-tuna-quota-increase.html) — 2026-08-18 22:00: 太平洋クロマグロの資源管理をめぐる国際会議の再交渉が行われ、2027年から2年間、大型魚の漁獲枠を25％増やす案で合意しました。
+- [トランプ米大統領、米韓合同軍事演習の縮小を指示](https://ai-tech-times.web.app/articles/20260818-trump-us-rok-military-exercise-reduction.html) — 2026-08-18 22:00: トランプ米大統領は、17日から始まった米韓合同軍事演習について、北朝鮮への配慮から規模の大幅な縮小を指示しました。
 - [OpenAIのGPT-5.6 Sol、価格が50%オフに](https://ai-tech-times.web.app/articles/20260818-gpt-5-6-sol-pricing-cut-by-50-percent.html) — 2026-08-18 21:06: OpenAIが提供するAIモデル「GPT-5.6 Sol」の価格が50%引き下げられました。コスト削減をお考えのユーザーにとって見逃せないニュースです。
 - [Preferred Networksが「国産AI」をゼロから作る理由](https://ai-tech-times.web.app/articles/20260818-pfn-domestic-ai-development.html) — 2026-08-18 21:06: 「国産」をうたうAIモデルをゼロから開発するPreferred Networks。なぜフルスクラッチにこだわるのか、その理由を担当者に聞きました。
 - [マネーフォワードがAI利用コスト一元管理ツールを無料提供](https://ai-tech-times.web.app/articles/20260818-money-forward-ai-token-management.html) — 2026-08-18 21:06: マネーフォワードは、ChatGPTやClaudeなどのAIサービスの利用量とコストを一元管理できる法人向けの新サービス「マネーフォワード クラウドAIトークン管理」の提供を開始しました。
@@ -40,8 +42,6 @@
 - [元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由](https://ai-tech-times.web.app/articles/20260818-amazon-destroying-rare-texts-to-train-ai.html) — 2026-08-18 17:05: かつて本をオンラインで販売することからスタートしたアマゾンが、AIモデルのトレーニングのために貴重なテキストを破壊していることが明らかになりました。
 - [MicrosoftよりGoogleで6億円削減も？舞鶴市と千代田区の成功法則](https://ai-tech-times.web.app/articles/20260818-maizuru-chiyoda-it-ai-success.html) — 2026-08-18 17:05: ITツールやAIの導入における現場への定着や運用負担の課題に対し、京都市舞鶴市と東京千代田区がどのように解消し、成果につなげたのかが明らかになりました。
 - [味の素、公式Xの画像生成AI加工で謝罪](https://ai-tech-times.web.app/articles/20260818-ajinomoto-apologizes-for-ai-image.html) — 2026-08-18 17:05: 味の素は、公式Xに投稿した画像に生成AIによる加工を使用し、商品のラベルが乱れていたとして謝罪しました。
-- [Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ](https://ai-tech-times.web.app/articles/20260818-stripe-to-acquire-openrouter-for-7b.html) — 2026-08-18 17:05: 決済大手のStripeが、AIゲートウェイを手がけるスタートアップOpenRouterを70億ドル以上の規模で買収するとの報道が浮上しました。
-- [米30年債利回り19年ぶり高水準、インフレ再加速へ警戒感](https://ai-tech-times.web.app/articles/20260818-us-30yr-yield-19yr-high.html) — 2026-08-18 17:05: 17日のニューヨーク原油市場でWTI先物価格が一時1バレル＝85ドル台まで上昇しました。原油高を受け、市場ではインフレ再加速への警戒感が強まっています。
 
 ## 世界のバズ動画TOP3 (2026-08-18)
 - 1位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
@@ -52,8 +52,8 @@
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
-- [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
+- [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
