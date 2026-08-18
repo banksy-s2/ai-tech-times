@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-19 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-19 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "千葉豪雨で死者13人に、浸水2314棟の被害なぜ拡大",
-   "path": "/articles/20260819-chiba-heavy-rain-damage-update.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米トランプ政権、ICC赤根智子所長を制裁対象に指定",
-   "path": "/articles/20260819-trump-administration-icc-akane-sanctions.html",
-   "cat": "時事・世界"
+   "title": "長期金利が2.945％に上昇、インフレ加速か",
+   "path": "/articles/20260819-long-term-interest-rates-rise-2-945-percent.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 24,
+  "used": 28,
   "limit": 200
  }
 }

@@ -3063,7 +3063,7 @@
    "id": "W4LhfsQTi5E",
    "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
    "channel": "KATSEYEVEVO",
-   "views": 822531,
+   "views": 847326,
    "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E",
    "thumb": "https://i.ytimg.com/vi/W4LhfsQTi5E/hqdefault.jpg",
    "regions": [
@@ -3078,7 +3078,7 @@
    "id": "1OYU38dGlBI",
    "title": "I Can't Believe They Streamed This",
    "channel": "penguinz0",
-   "views": 3092903,
+   "views": 3130418,
    "url": "https://www.youtube.com/watch?v=1OYU38dGlBI",
    "thumb": "https://i.ytimg.com/vi/1OYU38dGlBI/hqdefault.jpg",
    "regions": [
@@ -3092,7 +3092,7 @@
    "id": "ZyZb2dFYqQs",
    "title": "If This Balloon Touches The Ground You DIE",
    "channel": "SMii7Y",
-   "views": 1743551,
+   "views": 1768811,
    "url": "https://www.youtube.com/watch?v=ZyZb2dFYqQs",
    "thumb": "https://i.ytimg.com/vi/ZyZb2dFYqQs/hqdefault.jpg",
    "regions": [
@@ -3106,7 +3106,7 @@
    "id": "ntLoF0LnAwY",
    "title": "BOYNEXTDOOR (보이넥스트도어) 'Boom Boom Boom' Official MV",
    "channel": "HYBE LABELS",
-   "views": 630945,
+   "views": 635175,
    "url": "https://www.youtube.com/watch?v=ntLoF0LnAwY",
    "thumb": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg",
    "regions": [
@@ -3120,7 +3120,7 @@
    "id": "bnoCNzqpfgw",
    "title": "Jynxzi CaseOh & Joe Bart 3v3 vs EVERY Rank in Rainbow Six Siege",
    "channel": "Jynxzi",
-   "views": 559546,
+   "views": 581264,
    "url": "https://www.youtube.com/watch?v=bnoCNzqpfgw",
    "thumb": "https://i.ytimg.com/vi/bnoCNzqpfgw/hqdefault.jpg",
    "regions": [
@@ -3134,7 +3134,7 @@
    "id": "mZbJxpYHLuI",
    "title": "Slow Horses — Season 6 Official Trailer | Apple TV",
    "channel": "Apple TV",
-   "views": 358492,
+   "views": 392364,
    "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI",
    "thumb": "https://i.ytimg.com/vi/mZbJxpYHLuI/hqdefault.jpg",
    "regions": [
@@ -3148,7 +3148,7 @@
    "id": "kzI4R1DwXb0",
    "title": "VISIONQUEST TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
    "channel": "New Rockstars",
-   "views": 333358,
+   "views": 341449,
    "url": "https://www.youtube.com/watch?v=kzI4R1DwXb0",
    "thumb": "https://i.ytimg.com/vi/kzI4R1DwXb0/hqdefault.jpg",
    "regions": [
@@ -3159,24 +3159,10 @@
   },
   {
    "rank": 8,
-   "id": "43k02wh03jM",
-   "title": "IT: Welcome to Derry Season 2 Teaser | '1935'",
-   "channel": "Rotten Tomatoes TV",
-   "views": 138381,
-   "url": "https://www.youtube.com/watch?v=43k02wh03jM",
-   "thumb": "https://i.ytimg.com/vi/43k02wh03jM/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "BR"
-   ],
-   "comment": "「IT」のドラマシリーズ「Welcome to Derry」シーズン2のティザー映像か。(32字)"
-  },
-  {
-   "rank": 9,
    "id": "pqX21F0c_w0",
    "title": "Among Us: New Judge Role Trailer ⚖️ Out Now!",
    "channel": "Innersloth",
-   "views": 102982,
+   "views": 178416,
    "url": "https://www.youtube.com/watch?v=pqX21F0c_w0",
    "thumb": "https://i.ytimg.com/vi/pqX21F0c_w0/hqdefault.jpg",
    "regions": [
@@ -3186,11 +3172,11 @@
    "comment": "Among Usの新役職「ジャッジ」の登場を告げるトレイラーのよう。(27字)"
   },
   {
-   "rank": 10,
+   "rank": 9,
    "id": "xXTTroKCTz8",
    "title": "The Funniest Horror Game I've Ever Played [Skin Stapler]",
    "channel": "Joe Bart Games",
-   "views": 86204,
+   "views": 103350,
    "url": "https://www.youtube.com/watch?v=xXTTroKCTz8",
    "thumb": "https://i.ytimg.com/vi/xXTTroKCTz8/hqdefault.jpg",
    "regions": [
@@ -3198,6 +3184,20 @@
     "GB"
    ],
    "comment": "Joe Bart Games氏がホラーゲーム「Skin Stapler」を遊ぶ動画らしい。(30字)"
+  },
+  {
+   "rank": 10,
+   "id": "yx8NV9j1fKg",
+   "title": "Honest Trailers | Supergirl (2026)",
+   "channel": "Screen Junkies",
+   "views": 94243,
+   "url": "https://www.youtube.com/watch?v=yx8NV9j1fKg",
+   "thumb": "https://i.ytimg.com/vi/yx8NV9j1fKg/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "2026年公開予定のスーパーガールを辛口でいじっているようです"
   }
  ]
 }

@@ -51785,5 +51785,39 @@
   "date": "2026-08-19",
   "time": "05:00",
   "path": "/articles/20260819-long-term-interest-rates-rise-2-945-percent.html"
+ },
+ {
+  "title": "太陽誘電、通期営業益を150億円上方修正",
+  "lead": "太陽誘電は、FY2027第1四半期の決算説明会において、通期の営業利益予想を150億円上方修正したと発表しました。AIサーバー向けの需要が想定を上回る形となっています。",
+  "summary3": [
+   "太陽誘電が通期営業益を上方修正",
+   "修正額は150億円の大幅な引き上げ",
+   "AIサーバー向けMLCCが想定超え"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業決算ニュースです。電子部品大手の太陽誘電は、動画配信で行われたFY2027 Q1（第1四半期）決算説明会において、通期の営業利益予想を150億円上方修正すると発表しました。",
+   "今回の業績上方修正の主な要因は、AIサーバー向けのMLCC（積層セラミックコンデンサ）における大容量化や員数の増加が、当初の想定を大きく上回って推移していることによるものです。",
+   "同社が手がけるAIサーバー向けの電子部品需要は堅調な伸びを見せており、今後の市場動向や決算内容に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "太陽誘電",
+   "決算",
+   "AIサーバー"
+  ],
+  "slug": "taiyo-yuden-fy2027-q1-earnings-revision",
+  "people": [],
+  "terms": [
+   {
+    "name": "太陽誘電",
+    "type": "company",
+    "desc": "東京都に本社を置く、コンデンサなどの電子部品製造を手がける大手電気機器メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45cGEyT09UYVdCb0p6NVBzUFJuM1d4OGRzZTNZa3pkYkExYk84U0NzOE52NzJEdFFBQmQ1NjFESTNhaG1GMDNVc2ZPWnRzSU9mT2ZlN1Jta2VzMXQ4NjZz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-19",
+  "time": "06:00",
+  "path": "/articles/20260819-taiyo-yuden-fy2027-q1-earnings-revision.html"
  }
 ]
