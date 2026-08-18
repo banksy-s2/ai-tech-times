@@ -51088,5 +51088,329 @@
   "date": "2026-08-18",
   "time": "20:01",
   "path": "/articles/20260818-keio-student-arrest-influencer-anger.html"
+ },
+ {
+  "title": "OpenAIのGPT-5.6 Sol、価格が50%オフに",
+  "lead": "OpenAIが提供するAIモデル「GPT-5.6 Sol」の価格が50%引き下げられました。コスト削減をお考えのユーザーにとって見逃せないニュースです。",
+  "summary3": [
+   "GPT-5.6 Solの価格が50%引き下げられた",
+   "OpenAIの最新モデルに関する話題として注目",
+   "オープンルーター経由などで詳細が確認可能"
+  ],
+  "body": [
+   "AI/LLM分野の話題として、「OpenAI」の「GPT-5.6 Sol」の価格が50%引き下げられたことが明らかになりました。",
+   "この情報は「OpenAI」が提供する「GPT-5.6 Sol」のページなどで確認されており、Hacker Newsなどのコミュニティでも多くのポイントやコメントを集めて議論されています。",
+   "AIの利用コストに関わる重要な変更であり、コストパフォーマンスを重視する開発者や企業にとって今後の活用方法に影響を与える可能性があります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "GPT-5.6-Sol",
+   "AI-LLM"
+  ],
+  "slug": "gpt-5-6-sol-pricing-cut-by-50-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国のAI開発企業で、大規模言語モデルなど最先端の人工知能技術を多数発表している。"
+   },
+   {
+    "name": "GPT-5.6 Sol",
+    "type": "ai",
+    "desc": "OpenAIが提供するAIモデルの一つであり、今回の価格改定の対象となった。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+  "category": "ai",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-gpt-5-6-sol-pricing-cut-by-50-percent.html"
+ },
+ {
+  "title": "Preferred Networksが「国産AI」をゼロから作る理由",
+  "lead": "「国産」をうたうAIモデルをゼロから開発するPreferred Networks。なぜフルスクラッチにこだわるのか、その理由を担当者に聞きました。",
+  "summary3": [
+   "Preferred Networksが国産AIを開発",
+   "ゼロからのフルスクラッチにこだわる",
+   "担当者に自家製ならではの利点を直撃"
+  ],
+  "body": [
+   "「国産」をうたうAIモデルをゼロから開発しているPreferred Networks。日本のAI技術や開発体制のあり方に注目が集まる中、同社がなぜフルスクラッチにこだわるのか、その背景に関心が寄せられています。",
+   "海外製のモデルが広く普及する現代において、あえてゼロから独自にAIを作り上げるアプローチには、どのような背景や狙いがあるのでしょうか。",
+   "今回は、その「自家製ならではの利点」に迫るべく、開発を担当した関係者に直撃取材を実施しました。国産AI開発の核心に迫るインタビューをお届けします。"
+  ],
+  "tags": [
+   "Preferred Networks",
+   "国産AI",
+   "ITmedia AI+"
+  ],
+  "slug": "pfn-domestic-ai-development",
+  "people": [],
+  "terms": [
+   {
+    "name": "Preferred Networks",
+    "type": "company",
+    "desc": "ディープラーニングなどの先端技術を実用化する、日本発のAI開発企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
+  "category": "ai_jp",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-pfn-domestic-ai-development.html"
+ },
+ {
+  "title": "マネーフォワードがAI利用コスト一元管理ツールを無料提供",
+  "lead": "マネーフォワードは、ChatGPTやClaudeなどのAIサービスの利用量とコストを一元管理できる法人向けの新サービス「マネーフォワード クラウドAIトークン管理」の提供を開始しました。",
+  "summary3": [
+   "AIコスト管理の新サービスを提供開始",
+   "ChatGPTやClaudeに対応する",
+   "共通ID取得で無料での利用が可能"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回のニュースは、企業のAI導入におけるコスト管理に関する話題です。株式会社マネーフォワードは、ChatGPTやClaudeの利用量とコストを一元管理できる法人向けの新サービス「マネーフォワード クラウドAIトークン管理」の提供を始めました。",
+   "昨今、業務効率化のために様々な生成AIサービスを導入する企業が増加していますが、複数のツールを横断して利用状況を把握することが課題となっていました。今回登場したサービスを活用することで、こうしたAIサービスの利用量やコストをまとめて管理できるようになります。",
+   "利用にあたっては、同社サービスの共通IDである「マネーフォワードID」を取得すれば無料で使える点が大きな特徴となっています。コストを抑えつつ社内のAI活用を最適化したい法人にとって、注目のツールとなりそうです。"
+  ],
+  "tags": [
+   "マネーフォワード",
+   "ChatGPT",
+   "Claude",
+   "生成AI"
+  ],
+  "slug": "money-forward-ai-token-management",
+  "people": [],
+  "terms": [
+   {
+    "name": "マネーフォワード",
+    "type": "company",
+    "desc": "お金のプラットフォームを提供する日本の企業。クラウド型会計ソフトなどを開発・運営している。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した対話型AIモデル。自然な言語処理能力を持ち、幅広い用途で活用されている。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "米Anthropicが開発した高性能な対話型AIモデル。長文の処理や安全性の高さに特徴がある。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
+  "category": "ai_jp",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-money-forward-ai-token-management.html"
+ },
+ {
+  "title": "Meta、子供の安全めぐる連邦裁判で巨大な代償の危機",
+  "lead": "米CNBCによると、Metaが子供の安全に関する主張をめぐり、カリフォルニア州での連邦裁判に直面しています。この裁判により、巨額の金銭的ペナルティや主要サービスの変更がもたらされる可能性があります。",
+  "summary3": [
+   "Metaが子供の安全をめぐる連邦裁判に直面",
+   "巨額の金銭的ペナルティが科される可能性",
+   "Facebook等の変更につながる恐れ"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米CNBCの報道によると、米国のIT大手Metaが、子供の安全に関する主張をめぐってカリフォルニア州で連邦裁判に直面しています。この法的な争いは現在、非常に重要な局面に達しており、同社にとって『天文的』とも言える結果をもたらす可能性があります。",
+   "今回の裁判では、子供の安全管理に関する責任が大きな争点となっています。裁判の結果次第では、Metaに対して巨額の金銭的ペナルティが科されるだけでなく、同社が運営する主要なプラットフォームであるFacebookやInstagramの仕組みに大きな変更が迫られる可能性があります。",
+   "SNSの安全性や子供への影響をめぐる規制当局との対立は、IT業界全体にとっても重要な意味を持ちます。今後の裁判の行方や、サービス設計への具体的な影響について、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Meta",
+   "SNS",
+   "裁判"
+  ],
+  "slug": "meta-federal-trial-child-safety-california",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどの主要SNSを運営するアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Facebook",
+    "type": "company",
+    "desc": "Metaが運営する、世界最大級の利用者を持つソーシャル・ネットワーキング・サービス。"
+   },
+   {
+    "name": "Instagram",
+    "type": "company",
+    "desc": "Metaが提供する、写真や動画の共有を中心に据えた世界的なSNSプラットフォーム。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+  "category": "silicon",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-meta-federal-trial-child-safety-california.html"
+ },
+ {
+  "title": "Appleユーザーに異例の数、スパイウェア警告が届いた理由",
+  "lead": "サイバーセキュリティ専門家によると、Appleから最近届いた脅威通知を受け取った人の数が、通常ではないほど多水準に達していることが分かりました。",
+  "summary3": [
+   "Appleから脅威通知を受信",
+   "専門家が異例の多さと指摘",
+   "スパイウェア攻撃を調査中"
+  ],
+  "body": [
+   "スパイウェア攻撃を調査しているサイバーセキュリティの専門家らによると、Appleから最近脅威通知を受け取った人の数が、通常では考えられないほど非常に多いことが明らかになりました。"
+  ],
+  "tags": [
+   "Apple",
+   "セキュリティ",
+   "スパイウェア"
+  ],
+  "slug": "apple-users-spyware-alert",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、iPhoneやMacなどのハードウェアやソフトウェアを開発・販売する世界的なテクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+  "category": "silicon",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-apple-users-spyware-alert.html"
+ },
+ {
+  "title": "宇城市の震度7、現行耐震基準でも倒壊の恐れか",
+  "lead": "先月28日に発生した熊本地震の揺れについて、専門家による分析結果が明らかになりました。熊本県宇城市で観測された震度7の揺れは、現在の耐震基準を満たす建物であっても倒壊するほどの強さだった可能性があるということです。",
+  "summary3": [
+   "先月28日の熊本地震の揺れを専門家が分析",
+   "宇城市の震度7は現行基準でも倒壊の恐れ",
+   "現在の耐震基準を満たす建物への影響が判明"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によれば、先月28日に発生した熊本地震の揺れについて専門家が分析を行いました。その結果、熊本県宇城市で観測された震度7の揺れについて、現在の耐震基準を満たしている建物であっても倒壊するほどの強さであった可能性のあることが判明しました。",
+   "今回の分析結果は、これまでの耐震基準に対する見方や、今後の防災対策に大きな影響を与える可能性があります。専門家によるさらなる調査や詳細な分析の進展が注目されます。",
+   "詳細な情報はNHK主要ニュースなどの関連報道もご参照ください。日々の備えや建物の耐震性について改めて確認することが重要となります。"
+  ],
+  "tags": [
+   "熊本地震",
+   "耐震基準",
+   "地震"
+  ],
+  "slug": "kumamoto-earthquake-seismic-intensity",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260818de44700",
+  "category": "world",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-kumamoto-earthquake-seismic-intensity.html"
+ },
+ {
+  "title": "トランプ氏、イラン問題でオマーン爆撃の脅威を示唆",
+  "lead": "トランプ氏が、イランと独自の和平交渉を行ってきたアメリカの同盟国オマーンに対し、妨害すれば爆撃すると警告しました。",
+  "summary3": [
+   "トランプ氏がオマーンに爆撃の警告",
+   "平和交渉の60日間の期限が切れる",
+   "オマーンはホルムズ海峡で独自交渉"
+  ],
+  "body": [
+   "イギリスのBBC Worldによると、アメリカの同盟国であるオマーンに対し、トランプ氏が爆撃の脅威を示唆したことが明らかになりました。オマーンは、ホルムズ海峡を再開させるためにイランと独自の交渉を進めていました。",
+   "今回のトランプ氏による脅威は、平和交渉に向け設定されていた60日間の期限が切れるタイミングで発せられました。オマーンが交渉の「邪魔をするなら」という理由で、このような強硬な姿勢を示した形となります。",
+   "イランとの間で行われてきたホルムズ海峡をめぐる交渉や、平和交渉の今後の行方に国際的な注目が集まっています。期限切れに伴い、さらなる動向が懸念される状況となっています。"
+  ],
+  "tags": [
+   "トランプ",
+   "オマーン",
+   "イラン",
+   "BBC"
+  ],
+  "slug": "trump-threatens-oman-iran",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "アメリカの政治家であり、過去に同国の政権を率いた有力な人物です。"
+   }
+  ],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-trump-threatens-oman-iran.html"
+ },
+ {
+  "title": "朝日新聞：長期金利3％の節目うかがう中、なぜ株価は大幅安となったのか",
+  "lead": "長期金利が3％の節目をうかがう展開となる中、利上げ観測や海外金利の高止まりを背景として、株価が大幅安となる値動きが伝えられました。",
+  "summary3": [
+   "長期金利が3％の節目をうかがう",
+   "利上げ観測と海外金利高が進行",
+   "市場では株価が大幅安を記録"
+  ],
+  "body": [
+   "朝日新聞の報道によると、金融市場において長期金利が3％の節目をうかがう動きを見せています。これは国内外の経済情勢や金融政策に対する見方が影響しているものとみられています。",
+   "市場では、今後の利上げ観測に加え、海外金利の上昇傾向が意識される展開となりました。金利の上昇は債券市場だけでなく株式市場への影響も避けられず、投資家心理を冷え込ませる要因となっています。",
+   "こうした金利環境の変化を背景として、この日の株式市場では株価が大幅安を記録しました。今後の金利の動向や市場の反応について、引き続き関係者の注目が集まっています。"
+  ],
+  "tags": [
+   "長期金利",
+   "株価",
+   "金融市場"
+  ],
+  "slug": "long-term-interest-rate-3-percent-stocks-decline",
+  "people": [],
+  "terms": [
+   {
+    "name": "朝日新聞",
+    "type": "company",
+    "desc": "朝日新聞社が発行する日本の日刊新聞であり、全国ニュースや経済情報を広く報じるメディアです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNk9Tc0ZOeDZUY2xpNXZHNG02RS04dnJ3UkVkNTRkTUh6UGNjNHpWY3F3T2JpekFGTzZPWjlWYWhwMzBOaXI0TjVWcHdqdUd0SHRQbHF0MVBNakc3QTBaV0N3RnZnRk0?oc=5",
+  "category": "stock",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-long-term-interest-rate-3-percent-stocks-decline.html"
+ },
+ {
+  "title": "シチズン時計、4-6月期営業利益110.9%増の99億円",
+  "lead": "シチズン時計は、2026年3月期第1四半期（4-6月期）の決算説明会を実施し、営業利益が前年同期比110.9%増の99億円となったことを発表しました。",
+  "summary3": [
+   "シチズン時計が4-6月期決算を発表",
+   "営業利益は110.9%増の99億円を記録",
+   "通期予想の大幅な上方修正を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする企業の最新決算情報です。シチズン時計は、2026年3月期第1四半期（4-6月期）の決算説明会を開催し、好調な業績結果を明らかにしました。",
+   "発表によると、当四半期の営業利益は前年同期比110.9%増となる99億円に達しました。時計事業をはじめとする各事業が堅調に推移したことが、大幅な利益成長を牽引した形です。",
+   "この好決算を受け、同社は通期業績予想の大幅な上方修正もあわせて発表しました。今後の業績動向にも引き続き注目が集まります。"
+  ],
+  "tags": [
+   "シチズン時計",
+   "決算",
+   "業績上方修正"
+  ],
+  "slug": "citizen-watch-fy2026-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "シチズン時計",
+    "type": "company",
+    "desc": "日本を代表する時計および工作機械の製造・販売を手がける大手精密機器メーカーです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-18",
+  "time": "21:06",
+  "path": "/articles/20260818-citizen-watch-fy2026-q1-results.html"
  }
 ]
