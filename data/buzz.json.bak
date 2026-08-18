@@ -2,25 +2,10 @@
  "date": "2026-08-19",
  "videos": [
   {
-   "id": "X1aFkAkFASk",
-   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
-   "channel": "Marvel Entertainment",
-   "views": 29259081,
-   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
-   "thumb": "https://i.ytimg.com/vi/X1aFkAkFASk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "IN"
-   ],
-   "rank": 1,
-   "comment": "アベンジャーズ新作のスペシャル映像が公開されたようです。"
-  },
-  {
    "id": "W4LhfsQTi5E",
    "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
    "channel": "KATSEYEVEVO",
-   "views": 647276,
+   "views": 684531,
    "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E",
    "thumb": "https://i.ytimg.com/vi/W4LhfsQTi5E/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,28 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "KATSEYEによるToday Showでのライブ映像のようです。"
+  },
+  {
+   "id": "X1aFkAkFASk",
+   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
+   "channel": "Marvel Entertainment",
+   "views": 29338745,
+   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
+   "thumb": "https://i.ytimg.com/vi/X1aFkAkFASk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 2,
+   "comment": "アベンジャーズ新作のスペシャル映像が公開されたようです。"
   },
   {
    "id": "1OYU38dGlBI",
    "title": "I Can't Believe They Streamed This",
    "channel": "penguinz0",
-   "views": 2686721,
+   "views": 2774679,
    "url": "https://www.youtube.com/watch?v=1OYU38dGlBI",
    "thumb": "https://i.ytimg.com/vi/1OYU38dGlBI/hqdefault.jpg",
    "regions": [
@@ -49,7 +48,7 @@
    "id": "ZyZb2dFYqQs",
    "title": "If This Balloon Touches The Ground You DIE",
    "channel": "SMii7Y",
-   "views": 1549856,
+   "views": 1593426,
    "url": "https://www.youtube.com/watch?v=ZyZb2dFYqQs",
    "thumb": "https://i.ytimg.com/vi/ZyZb2dFYqQs/hqdefault.jpg",
    "regions": [
@@ -63,7 +62,7 @@
    "id": "rkV7--wYUJ8",
    "title": "Toh Phir Aao (Dobara) | Lyric Video | Awarapan 2 | Emraan, Disha | Mithoon, Mustafa, Sayeed, Subodhh",
    "channel": "Sony Music India",
-   "views": 1045783,
+   "views": 1119999,
    "url": "https://www.youtube.com/watch?v=rkV7--wYUJ8",
    "thumb": "https://i.ytimg.com/vi/rkV7--wYUJ8/hqdefault.jpg",
    "regions": [
@@ -77,7 +76,7 @@
    "id": "39xPz1L-aEY",
    "title": "Using Guns to Cheat in Hide and Seek",
    "channel": "Cash",
-   "views": 578422,
+   "views": 593958,
    "url": "https://www.youtube.com/watch?v=39xPz1L-aEY",
    "thumb": "https://i.ytimg.com/vi/39xPz1L-aEY/hqdefault.jpg",
    "regions": [
@@ -91,7 +90,7 @@
    "id": "ntLoF0LnAwY",
    "title": "BOYNEXTDOOR (보이넥스트도어) 'Boom Boom Boom' Official MV",
    "channel": "HYBE LABELS",
-   "views": 559225,
+   "views": 580438,
    "url": "https://www.youtube.com/watch?v=ntLoF0LnAwY",
    "thumb": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg",
    "regions": [
@@ -105,7 +104,7 @@
    "id": "GpQz4aY_mQ4",
    "title": "EXTREMELY SATISFYING | Restory",
    "channel": "jacksepticeye",
-   "views": 540135,
+   "views": 557274,
    "url": "https://www.youtube.com/watch?v=GpQz4aY_mQ4",
    "thumb": "https://i.ytimg.com/vi/GpQz4aY_mQ4/hqdefault.jpg",
    "regions": [
@@ -119,7 +118,7 @@
    "id": "MCLX7anEh5s",
    "title": "Stray Kids \"그날 (Back Then)\" Video (SONG by VER.)",
    "channel": "Stray Kids",
-   "views": 537987,
+   "views": 549429,
    "url": "https://www.youtube.com/watch?v=MCLX7anEh5s",
    "thumb": "https://i.ytimg.com/vi/MCLX7anEh5s/hqdefault.jpg",
    "regions": [
@@ -133,7 +132,7 @@
    "id": "kzI4R1DwXb0",
    "title": "VISIONQUEST TRAILER BREAKDOWN! Every Easter Egg & Detail You Missed!",
    "channel": "New Rockstars",
-   "views": 261101,
+   "views": 276515,
    "url": "https://www.youtube.com/watch?v=kzI4R1DwXb0",
    "thumb": "https://i.ytimg.com/vi/kzI4R1DwXb0/hqdefault.jpg",
    "regions": [
