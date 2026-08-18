@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 00:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 01:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ソフトバンクG、1兆円の個人向け社債発行へ](https://ai-tech-times.web.app/articles/20260819-softbank-group-bond-1-trillion-yen.html) — 2026-08-19 01:01: ソフトバンクグループが、個人投資家向けに過去最大規模となる1兆円の社債発行を準備していることが分かりました。世界的なAI投資競争を背景に、資金調達の狙いに迫ります。
+- [Googleがスピリット航空の社内データ約16億円で購入へ](https://ai-tech-times.web.app/articles/20260819-google-buy-spirit-airlines-data.html) — 2026-08-19 01:01: 経営破綻した格安航空会社の膨大な社内データを、Googleが取得する見通しであることが分かりました。
 - [Groq、3.5億ドル調達の狙いとは](https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html) — 2026-08-19 00:00: 元AIチップメーカーのGroqが、企業価値35億ドルで3億5000万ドルを資金調達しました。同社はネオクラウド事業への事業転換を進めています。
 - [OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能](https://ai-tech-times.web.app/articles/20260819-chatgpts-computer-history-tracks-clicks.html) — 2026-08-19 00:00: AI TECH TIMESの記者として、The Verge AIの報道を基に新しい機能についてお伝えします。
 - [太平洋クロマグロ、大型魚の漁獲枠25%増で合意](https://ai-tech-times.web.app/articles/20260818-pacific-bluefin-tuna-quota-increase.html) — 2026-08-18 22:00: 太平洋クロマグロの資源管理をめぐる国際会議の再交渉が行われ、2027年から2年間、大型魚の漁獲枠を25％増やす案で合意しました。
@@ -40,15 +42,13 @@
 - [Nvidia、SpaceXに210億ドル出資の理由](https://ai-tech-times.web.app/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html) — 2026-08-18 19:00: 半導体大手のNvidiaが、宇宙開発企業SpaceXに210億ドルを出資していることが明らかになりました。イーロン・マスク氏によるデータセンター整備の排他的な発表に続く動きです。
 - [さくらインターネットとSakana AIが語るソブリンAIの現実解とは](https://ai-tech-times.web.app/articles/20260818-sovereign-ai-sakura-and-sakana.html) — 2026-08-18 18:00: 一国の判断で主要なAIサービスの提供が止まる時代において、日本企業はどのようにAI主権を守るべきか。さくらインターネットの田中邦裕社長とSakana AIの石井順也氏に、それぞれの考えを聞いた。
 - [業務効率に不満6割、改善に最も効くのは生成AIではない](https://ai-tech-times.web.app/articles/20260818-business-efficiency-survey-2026.html) — 2026-08-18 18:00: アスノシステムが「仕事の生産性向上・業務改善に関する実態調査2026」の結果を発表しました。勤務先の業務効率に6割が不満を抱く中、改善を阻む要因などが明らかになっています。
-- [Nvidia、ソフトバンク系データセンターに15億ドル投資](https://ai-tech-times.web.app/articles/20260818-nvidia-investing-1-5b-in-softbank-data-center.html) — 2026-08-18 17:05: Nvidiaがソフトバンクのデータセンター開発企業へ15億ドルの投資を行いました。この投資により、 OpenAIのプロジェクトを支える施設へのチップ供給が確実になります。
-- [元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由](https://ai-tech-times.web.app/articles/20260818-amazon-destroying-rare-texts-to-train-ai.html) — 2026-08-18 17:05: かつて本をオンラインで販売することからスタートしたアマゾンが、AIモデルのトレーニングのために貴重なテキストを破壊していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
-- 1位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
-- 2位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
+- 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
+- 2位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
 - 3位: [I Can't Believe They Streamed This](https://www.youtube.com/watch?v=1OYU38dGlBI)
 
-## AI用語事典 (全977語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全979語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -71,9 +71,9 @@
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
+- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
-- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカのイーロン・マスク氏が率いる民間宇宙企業で、ロケット開発や衛星通信サービスなどを手掛ける。

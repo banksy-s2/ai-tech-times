@@ -1491,13 +1491,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260818de44751",
   "https://news.web.nhk/newsweb/na/nd-20260816de44424",
   "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-  "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+  "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+  "https://www.nikkei.com/article/DGXZQOUB0752I0X00C26A8000000/",
+  "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/"
  ],
  "titles": [
-  "伊豆諸島南部 線状降水帯発生のおそれ 直前予測を発表",
-  "午前の日経平均は急落、半導体株売りで4％超安 中国勢台頭を警戒 - ロイター",
-  "｢海外部門ROEを10％以上に引き上げる｣…三井住友FG中島社長が語るその道筋と預貸バランス､セキュリティー対策まで | ビジネス | 東洋経済オンライン",
-  "4～6月期業績発表29日から 中国地方の上場企業49社 中国電力が7月31日、マツダが8月4日 - 中国新聞デジタル",
   "アドテスト、東エレクなど半導体製造装置関連が安い、決算発表を目前に売り止まらず - 株探",
   "Google、AI投資を最大205億ドルに引き上げで株価への影響は",
   "Insight Partners、ボット対策Spurに2億ドル出資",
@@ -3493,6 +3491,10 @@
   "Groq raises $350M to fuel its pivot from AI chips to neocloud",
   "ChatGPT’s Computer History tracks your clicks and keystrokes",
   "Groq、3.5億ドル調達の狙いとは",
-  "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能"
+  "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能",
+  "ソフトバンクGが個人向け社債1兆円　過去最大、AI投資へ預金に照準 - 日本経済新聞",
+  "Googleが倒産したスピリット航空のメール1億件・Teamsチャット5億件を約16億円で購入へ、AIモデルの学習などに利用",
+  "ソフトバンクG、1兆円の個人向け社債発行へ",
+  "Googleがスピリット航空の社内データ約16億円で購入へ"
  ]
 }

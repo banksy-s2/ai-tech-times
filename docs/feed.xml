@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ソフトバンクG、1兆円の個人向け社債発行へ</title>
+<link>https://ai-tech-times.web.app/articles/20260819-softbank-group-bond-1-trillion-yen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-softbank-group-bond-1-trillion-yen.html</guid>
+<pubDate>Wed, 19 Aug 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ソフトバンクグループが、個人投資家向けに過去最大規模となる1兆円の社債発行を準備していることが分かりました。世界的なAI投資競争を背景に、資金調達の狙いに迫ります。</description>
+</item>
+<item>
+<title>Googleがスピリット航空の社内データ約16億円で購入へ</title>
+<link>https://ai-tech-times.web.app/articles/20260819-google-buy-spirit-airlines-data.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-google-buy-spirit-airlines-data.html</guid>
+<pubDate>Wed, 19 Aug 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>経営破綻した格安航空会社の膨大な社内データを、Googleが取得する見通しであることが分かりました。</description>
+</item>
+<item>
 <title>Groq、3.5億ドル調達の狙いとは</title>
 <link>https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Amazonが運営するライブ配信サービス「Twitch」において、配信者のコンテンツがAIの学習にデフォルトで利用されることが分かりました。拒否設定をしない限り、自動的にトレーニング素材として使用されます。</description>
-</item>
-<item>
-<title>Thrive Holdingsが20億ドル調達、AI企業化の行方は</title>
-<link>https://ai-tech-times.web.app/articles/20260813-thrive-holdings-raises-2b.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260813-thrive-holdings-raises-2b.html</guid>
-<pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAI支援を受けるThrive Holdingsが、新たに20億ドルの資金調達を実施しました。評価額は120億ドルに達しています。</description>
-</item>
-<item>
-<title>メルカリがClaude Code導入の裏でシャドーAI対策を進める仕組み</title>
-<link>https://ai-tech-times.web.app/articles/20260813-mercari-claude-code-governance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260813-mercari-claude-code-governance.html</guid>
-<pubDate>Thu, 13 Aug 2026 07:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>「AIを使わない選択自体がビジネスリスク」と断言するメルカリが、強力なAIツールの全社展開とガバナンスを両立させる仕組みを明かしました。</description>
 </item>
 </channel></rss>

@@ -1489,13 +1489,11 @@
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNk9Tc0ZOeDZUY2xpNXZHNG02RS04dnJ3UkVkNTRkTUh6UGNjNHpWY3F3T2JpekFGTzZPWjlWYWhwMzBOaXI0TjVWcHdqdUd0SHRQbHF0MVBNakc3QTBaV0N3RnZnRk0?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260818de44751",
-  "https://news.web.nhk/newsweb/na/nd-20260816de44424"
+  "https://news.web.nhk/newsweb/na/nd-20260816de44424",
+  "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+  "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
  ],
  "titles": [
-  "自分の顔をAIにレンタルする行為が中国で流行",
-  "「すし職人をAI開発の輪に入れろ」──オードリー・タンに聞く、米中AI競争で日本が勝つ道",
-  "Apple touches $5 trillion market cap for first time",
-  "MCP startup Runlayer accuses Rippling of stealing its product idea",
   "伊豆諸島南部 線状降水帯発生のおそれ 直前予測を発表",
   "午前の日経平均は急落、半導体株売りで4％超安 中国勢台頭を警戒 - ロイター",
   "｢海外部門ROEを10％以上に引き上げる｣…三井住友FG中島社長が語るその道筋と預貸バランス､セキュリティー対策まで | ビジネス | 東洋経済オンライン",
@@ -3491,6 +3489,10 @@
   "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意",
   "トランプ大統領 米韓合同軍事演習“縮小を指示”",
   "太平洋クロマグロ、大型魚の漁獲枠25%増で合意",
-  "トランプ米大統領、米韓合同軍事演習の縮小を指示"
+  "トランプ米大統領、米韓合同軍事演習の縮小を指示",
+  "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+  "ChatGPT’s Computer History tracks your clicks and keystrokes",
+  "Groq、3.5億ドル調達の狙いとは",
+  "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能"
  ]
 }

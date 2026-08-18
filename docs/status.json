@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-19 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-19 01:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Groq、3.5億ドル調達の狙いとは",
-   "path": "/articles/20260819-groq-raises-350m-neocloud-pivot.html",
-   "cat": "AI(海外)"
+   "title": "ソフトバンクG、1兆円の個人向け社債発行へ",
+   "path": "/articles/20260819-softbank-group-bond-1-trillion-yen.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能",
-   "path": "/articles/20260819-chatgpts-computer-history-tracks-clicks.html",
-   "cat": "AI(海外)"
+   "title": "Googleがスピリット航空の社内データ約16億円で購入へ",
+   "path": "/articles/20260819-google-buy-spirit-airlines-data.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
-  "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
+  "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
+  "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 3,
+  "used": 8,
   "limit": 200
  }
 }
