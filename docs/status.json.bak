@@ -1,65 +1,26 @@
 {
- "updated": "2026-08-18 21:06",
- "mode": "フル便",
+ "updated": "2026-08-18 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "OpenAIのGPT-5.6 Sol、価格が50%オフに",
-   "path": "/articles/20260818-gpt-5-6-sol-pricing-cut-by-50-percent.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Preferred Networksが「国産AI」をゼロから作る理由",
-   "path": "/articles/20260818-pfn-domestic-ai-development.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "マネーフォワードがAI利用コスト一元管理ツールを無料提供",
-   "path": "/articles/20260818-money-forward-ai-token-management.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Meta、子供の安全めぐる連邦裁判で巨大な代償の危機",
-   "path": "/articles/20260818-meta-federal-trial-child-safety-california.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Appleユーザーに異例の数、スパイウェア警告が届いた理由",
-   "path": "/articles/20260818-apple-users-spyware-alert.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "宇城市の震度7、現行耐震基準でも倒壊の恐れか",
-   "path": "/articles/20260818-kumamoto-earthquake-seismic-intensity.html",
+   "title": "太平洋クロマグロ、大型魚の漁獲枠25%増で合意",
+   "path": "/articles/20260818-pacific-bluefin-tuna-quota-increase.html",
    "cat": "時事・世界"
   },
   {
-   "title": "トランプ氏、イラン問題でオマーン爆撃の脅威を示唆",
-   "path": "/articles/20260818-trump-threatens-oman-iran.html",
+   "title": "トランプ米大統領、米韓合同軍事演習の縮小を指示",
+   "path": "/articles/20260818-trump-us-rok-military-exercise-reduction.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "朝日新聞：長期金利3％の節目うかがう中、なぜ株価は大幅安となったのか",
-   "path": "/articles/20260818-long-term-interest-rate-3-percent-stocks-decline.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "シチズン時計、4-6月期営業利益110.9%増の99億円",
-   "path": "/articles/20260818-citizen-watch-fy2026-q1-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
  },
- "notes": [
-  "執筆失敗: Groq raises $350M to fuel its pivot from",
-  "執筆失敗: VTuber事務所「ホロライブ」運営のカバー、営業利益3割減の衝撃　新作ゲーム「",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 51,
+  "used": 55,
   "limit": 200
  }
 }

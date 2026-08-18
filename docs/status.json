@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-18 22:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "太平洋クロマグロ、大型魚の漁獲枠25%増で合意",
-   "path": "/articles/20260818-pacific-bluefin-tuna-quota-increase.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ米大統領、米韓合同軍事演習の縮小を指示",
-   "path": "/articles/20260818-trump-us-rok-military-exercise-reduction.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-08-18 23:01",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "Avengers: Doomsday | Special Look | In Theaters December 18",
   "url": "https://www.youtube.com/watch?v=X1aFkAkFASk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 長期金利 2.945％に上昇 インフレ加速か 国債売る動き強まる"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 55,
+  "used": 57,
   "limit": 200
  }
 }
