@@ -1,18 +1,21 @@
 {
- "updated": "2026-08-19 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [],
+ "updated": "2026-08-19 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "DOVA-SYNDROMEがOpenTracksへ改名、利用者の影響は？",
+   "path": "/articles/20260819-dova-syndrome-opentracks-rename.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [
-  "執筆失敗: Disney sues FCC and its chair, escalatin",
-  "執筆失敗: Einride strikes deal to add 500 Tesla Se"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 73,
+  "used": 76,
   "limit": 200
  }
 }
