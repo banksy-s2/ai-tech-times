@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-19 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-19 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "大谷翔平、ドジャースで6年連続30号！なぜこのペースなのか",
-   "path": "/articles/20260819-ohtani-30th-home-run-dodgers.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "世界的な金利上昇、なぜ起きる？インフレとIT巨額社債の影響",
-   "path": "/articles/20260819-global-interest-rate-rise-inflation-tech-bonds.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価が2300円超の下落、東京株式市場の動向",
+   "path": "/articles/20260819-nikkei-average-drops-over-2300-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 106,
+  "used": 109,
   "limit": 200
  }
 }
