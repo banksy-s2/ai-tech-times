@@ -1,65 +1,26 @@
 {
- "updated": "2026-08-19 07:01",
- "mode": "フル便",
+ "updated": "2026-08-19 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Wisprが2.8億ドル調達、企業評価20億ドルの行方",
-   "path": "/articles/20260819-wispr-raises-280m-at-2b-valuation.html",
+   "title": "CursorがGitHubの対抗馬となるコードホスティング提供へ",
+   "path": "/articles/20260819-cursor-launches-rival-hosting-platform.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAI、AIによるハッキング受けて新セキュリティ対策へ",
-   "path": "/articles/20260819-openai-security-changes-hugging-face.html",
+   "title": "GoogleのChromeチームへ、AI自動化のRelayが合流する理由",
+   "path": "/articles/20260819-relay-shuts-down-google-chrome.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Cursor、コードホスティング機能「Origin」β版提供開始",
-   "path": "/articles/20260819-cursor-origin-beta-release.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Apple、アリババ支援で中国専用AI作成へ",
-   "path": "/articles/20260819-apple-alibaba-china-ai-model.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Apple、EUで手数料5%に改定し代替ストア緩和",
-   "path": "/articles/20260819-apple-overhauls-eu-app-store-fees.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "にじさんじ3SKM、Weverseに初登場",
-   "path": "/articles/20260819-nijisanji-3skm-weverse-debut.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "コロンビア地震で1.5兆円被害、シャキーラさん支援表明",
-   "path": "/articles/20260819-colombia-earthquake-shakira-losses.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "BBCへの100億ドル名誉毀損訴訟、フロリダ連邦裁判所の新任判事に変更",
-   "path": "/articles/20260819-judge-swapped-in-trumps-defamation-case-against-bbc.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均1759円安、金利高で不動産に売り",
-   "path": "/articles/20260819-nikkei-average-drops-1759-yen.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [
-  "執筆失敗: Einride strikes deal to add 500 Tesla Se",
-  "執筆失敗: 「平均年収は2000万円超」不動産大手ヒューリックが“東大受験”の登竜門・鉄緑会",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
- "pv_today": null,
+ "notes": [],
+ "pv_today": 1,
  "gemini": {
-  "used": 58,
+  "used": 63,
   "limit": 200
  }
 }

@@ -1,26 +1,23 @@
 {
- "updated": "2026-08-19 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-19 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "CursorがGitHubの対抗馬となるコードホスティング提供へ",
-   "path": "/articles/20260819-cursor-launches-rival-hosting-platform.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "GoogleのChromeチームへ、AI自動化のRelayが合流する理由",
-   "path": "/articles/20260819-relay-shuts-down-google-chrome.html",
-   "cat": "AI(海外)"
+   "title": "Anthropicの年換算収益が10兆円超え、約7カ月で7倍に急拡大した理由",
+   "path": "/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 T"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 63,
+  "used": 68,
   "limit": 200
  }
 }

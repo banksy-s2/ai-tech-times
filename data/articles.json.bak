@@ -52132,5 +52132,93 @@
   "date": "2026-08-19",
   "time": "07:01",
   "path": "/articles/20260819-nikkei-average-drops-1759-yen.html"
+ },
+ {
+  "title": "CursorがGitHubの対抗馬となるコードホスティング提供へ",
+  "lead": "AIコードエディターとして知られるCursorが、GitHubの対抗となる新しいコードホスティングプラットフォームを立ち上げました。開発者の間で高まる不満を背景に、どのような展開を見せるのでしょうか。",
+  "summary3": [
+   "Cursorが新たなコードホスティングを開始",
+   "開発者に好まれるGitHubの対抗馬を目指す",
+   "GitHubへの不満を背景に提供される新機能"
+  ],
+  "body": [
+   "AIコードエディターとして広く知られているCursorは、開発者の間で長年親しまれてきたGitHubに対抗するため、新しいコードホスティングプラットフォームを立ち上げました。この動きは、既存のプラットフォームに対する開発者の不満を背景に行われています。",
+   "GitHubはこれまで多くの開発者に愛用されてきましたが、近年のフラストレーションを解消する選択肢として、Cursorの新プラットフォームが注目を集めています。AIを活用した開発環境を提供する同社が、コードホスティングの領域でどのような新しい体験をもたらすのか関心が寄せられています。",
+   "新プラットフォームの詳細は順次明らかにされる見通しです。開発者のワークフローにどのような変化をもたらすのか、今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "Cursor",
+   "GitHub",
+   "AIコードエディター"
+  ],
+  "slug": "cursor-launches-rival-hosting-platform",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cursor",
+    "type": "company",
+    "desc": "AI技術を活用したコードエディターを提供し、開発者向けツールの領域で注目を集めている企業。"
+   },
+   {
+    "name": "GitHub",
+    "type": "company",
+    "desc": "世界中の開発者がソースコードの管理や共有、共同開発を行うために利用している最大のプラットフォーム。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "08:00",
+  "path": "/articles/20260819-cursor-launches-rival-hosting-platform.html"
+ },
+ {
+  "title": "GoogleのChromeチームへ、AI自動化のRelayが合流する理由",
+  "lead": "AI自動化スタートアップのRelayが事業を終了し、スタッフがGoogleのChromeチームに参加することが明らかになりました。",
+  "summary3": [
+   "AI自動化のRelayが事業終了",
+   "スタッフはGoogleのチームへ合流",
+   "ChromeでのAI活用を計画"
+  ],
+  "body": [
+   "AI自動化を手がけるスタートアップ企業であるRelayが事業を終了し、そのスタッフ全員がGoogleのChromeチームに加わることになりました。",
+   "Relayの創業者兼CEOであるジェイコブ・バンク氏は、「私たちは、ChromeでAIを活用して物事を進めるための非常に野心的な計画を持っており、これについて近くさらに多くのことを共有する予定です」と述べています。",
+   "今回のチーム合流により、Googleのブラウザ環境におけるAIを活用した作業効率化や自動化機能の発展に向けて、どのような取り組みが展開されていくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "Chrome",
+   "AI"
+  ],
+  "slug": "relay-shuts-down-google-chrome",
+  "people": [
+   {
+    "name": "ジェイコブ・バンク氏",
+    "bio": "AI自動化スタートアップであるRelayの創業者兼CEOを務め、事業終了後にGoogleのChromeチームへ合流した。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、検索エンジンをはじめオンライン広告やソフトウェア開発などを手掛ける世界的なテクノロジー企業。"
+   },
+   {
+    "name": "Chrome",
+    "type": "ai",
+    "desc": "Googleが開発・提供する、世界中で広く利用されている高速で安全なウェブブラウザおよび関連ソフトウェア。"
+   },
+   {
+    "name": "Relay",
+    "type": "company",
+    "desc": "AIを活用した自動化技術の開発に取り組んでいたスタートアップ企業で、事業終了に伴いスタッフがGoogleに加入した。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "08:00",
+  "path": "/articles/20260819-relay-shuts-down-google-chrome.html"
  }
 ]

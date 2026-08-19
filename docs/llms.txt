@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropicの年換算収益が10兆円超え、約7カ月で7倍に急拡大した理由](https://ai-tech-times.web.app/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html) — 2026-08-19 09:00: AIアシスタント「Claude」を手がけるAnthropicの年換算収益が650億ドル（約10兆円）を突破しました。わずか約7カ月という短期間で約7倍に急拡大した実績が明らかになっています。
 - [CursorがGitHubの対抗馬となるコードホスティング提供へ](https://ai-tech-times.web.app/articles/20260819-cursor-launches-rival-hosting-platform.html) — 2026-08-19 08:00: AIコードエディターとして知られるCursorが、GitHubの対抗となる新しいコードホスティングプラットフォームを立ち上げました。開発者の間で高まる不満を背景に、どのような展開を見せるのでしょうか。
 - [GoogleのChromeチームへ、AI自動化のRelayが合流する理由](https://ai-tech-times.web.app/articles/20260819-relay-shuts-down-google-chrome.html) — 2026-08-19 08:00: AI自動化スタートアップのRelayが事業を終了し、スタッフがGoogleのChromeチームに参加することが明らかになりました。
 - [Wisprが2.8億ドル調達、企業評価20億ドルの行方](https://ai-tech-times.web.app/articles/20260819-wispr-raises-280m-at-2b-valuation.html) — 2026-08-19 07:01: 音声入力ツールを展開するWisprが、新たに2億8000万ドルを資金調達し、企業評価額が20億ドルに達したことが明らかになりました。
@@ -41,11 +42,10 @@
 - [欧州中央銀行：AIが迫る市場調整になぜ警鐘を鳴らすのか](https://ai-tech-times.web.app/articles/20260819-ai-market-correction-ecb-warning.html) — 2026-08-19 02:04: 欧州中央銀行（ECB）の経済学者による分析から、AIブームがもたらす市場の急落リスクが明らかになりました。変革の力を反映した株価であっても歴史的背景から調整が避けられないと指摘されています。
 - [ソフトバンクG、1兆円の個人向け社債発行へ](https://ai-tech-times.web.app/articles/20260819-softbank-group-bond-1-trillion-yen.html) — 2026-08-19 01:01: ソフトバンクグループが、個人投資家向けに過去最大規模となる1兆円の社債発行を準備していることが分かりました。世界的なAI投資競争を背景に、資金調達の狙いに迫ります。
 - [Googleがスピリット航空の社内データ約16億円で購入へ](https://ai-tech-times.web.app/articles/20260819-google-buy-spirit-airlines-data.html) — 2026-08-19 01:01: 経営破綻した格安航空会社の膨大な社内データを、Googleが取得する見通しであることが分かりました。
-- [Groq、3.5億ドル調達の狙いとは](https://ai-tech-times.web.app/articles/20260819-groq-raises-350m-neocloud-pivot.html) — 2026-08-19 00:00: 元AIチップメーカーのGroqが、企業価値35億ドルで3億5000万ドルを資金調達しました。同社はネオクラウド事業への事業転換を進めています。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
 - 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
-- 2位: [Among Us: New Judge Role Trailer ⚖️ Out Now!](https://www.youtube.com/watch?v=pqX21F0c_w0)
+- 2位: [Avengers: Doomsday | Special Look | In Theaters December 18](https://www.youtube.com/watch?v=X1aFkAkFASk)
 - 3位: [I Can't Believe They Streamed This](https://www.youtube.com/watch?v=1OYU38dGlBI)
 
 ## AI用語事典 (全986語 / https://ai-tech-times.web.app/term/)
@@ -58,7 +58,7 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置き、AI開発に不可欠なGPUなどの半導体やコンピュータ機器を製造・販売する大手テクノロジー企業。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIモデルであり、テキスト生成や画像認識などの機能を提供します。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する高性能な対話型AIアシスタントであり、ビジネスや日常業務で広く活用されている。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
