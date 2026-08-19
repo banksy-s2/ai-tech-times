@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 21:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [大阪のIT企業、不正アクセスで136万件流出の恐れ](https://ai-tech-times.web.app/articles/20260819-osaka-it-company-data-leak.html) — 2026-08-19 22:00: データセンターなどを運営する大阪市のIT企業が、顧客情報管理システムへの不正アクセスを受け、大量の個人情報が漏えいした可能性があると発表しました。関係者の間で警戒が広がっています。
+- [トランプ政権、カナダへ50%追加関税を3日間猶予](https://ai-tech-times.web.app/articles/20260819-trump-admin-delays-canada-tariff.html) — 2026-08-19 22:00: アメリカのトランプ政権は、日本時間の19日午後1時すぎに発動を予定していたカナダへの50%の追加関税について、3日間の猶予を発表しました。
 - [AnthropicやOpenAIのAI利用データ、検証不能と研究者が指摘](https://ai-tech-times.web.app/articles/20260819-unknown-ai-usage-data.html) — 2026-08-19 21:05: AI企業が発表する製品の利用実態データについて、独立した検証ソースが存在しないという懸念が示されています。
 - [国立情報学研究所、332億パラメータの「LLM-jp-4 33B」公開](https://ai-tech-times.web.app/articles/20260819-llm-jp-4-33b-released.html) — 2026-08-19 21:05: 国立情報学研究所（NII）は、オープンな国産LLM（大規模言語モデル）の新バージョン「LLM-jp-4 33B」を公開したと発表しました。約332億パラメータを持つDense型モデルで、各種ベンチマークで高い性能を示しています。
 - [ChatGPTの反論で道徳的判断の3割超が覆る理由](https://ai-tech-times.web.app/articles/20260819-chatgpt-moral-judgment-kobe-univ.html) — 2026-08-19 21:05: 生成AIの反論によって、正解のない道徳的な判断の3割超が覆ることが神戸大学の研究で分かりました。高齢者が説得されやすい傾向も明らかになっています。
@@ -40,8 +42,6 @@
 - [ITmedia AI+調査：6割のエンジニアが実感するAI格差とは](https://ai-tech-times.web.app/articles/20260819-ai-skills-gap-itmedia.html) — 2026-08-19 17:05: ITmedia AI+が実施したエンジニアへの調査から、AIの活用スキルが仕事やキャリアに影響を与えている実態が明らかになりました。
 - [TikTok、DMでの個人間送金を検討か](https://ai-tech-times.web.app/articles/20260819-tiktok-explores-p2p-payments-via-dms.html) — 2026-08-19 17:05: TechCrunchの報道によると、TikTokはダイレクトメッセージ（DM）を通じた個人間送金機能の導入を検討していることが明らかになりました。
 - [勃起不全治療薬を万能長寿薬として宣伝、その理由は](https://ai-tech-times.web.app/articles/20260819-erectile-dysfunction-drug-as-longevity-drug.html) — 2026-08-19 17:05: 勃起不全治療薬が心血管系や脳に効果がある「万能長寿薬」として宣伝されていることが分かりました。インフルエンサーやオンラインクリニックがどのようにアピールしているのか、その背景に迫ります。
-- [避難所の7割にエアコンなし、真夏は生死に関わる問題へ](https://ai-tech-times.web.app/articles/20260819-shelters-lack-air-conditioning.html) — 2026-08-19 17:05: 文部科学省の調査により、避難所に指定されている全国の公立小中学校の体育館などの7割にエアコンがないことが明らかになりました。
-- [Meta裁判開始、子供のSNS依存をめぐる攻防](https://ai-tech-times.web.app/articles/20260819-meta-sued-over-child-addiction.html) — 2026-08-19 17:05: 米国の複数州がMetaを訴えた大規模な裁判が始まり、同社が主張した「依存は存在しない」という見解をめぐり法廷で議論が交わされています。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
 - 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>大阪のIT企業、不正アクセスで136万件流出の恐れ</title>
+<link>https://ai-tech-times.web.app/articles/20260819-osaka-it-company-data-leak.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-osaka-it-company-data-leak.html</guid>
+<pubDate>Wed, 19 Aug 2026 22:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>データセンターなどを運営する大阪市のIT企業が、顧客情報管理システムへの不正アクセスを受け、大量の個人情報が漏えいした可能性があると発表しました。関係者の間で警戒が広がっています。</description>
+</item>
+<item>
+<title>トランプ政権、カナダへ50%追加関税を3日間猶予</title>
+<link>https://ai-tech-times.web.app/articles/20260819-trump-admin-delays-canada-tariff.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-trump-admin-delays-canada-tariff.html</guid>
+<pubDate>Wed, 19 Aug 2026 22:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ政権は、日本時間の19日午後1時すぎに発動を予定していたカナダへの50%の追加関税について、3日間の猶予を発表しました。</description>
+</item>
+<item>
 <title>AnthropicやOpenAIのAI利用データ、検証不能と研究者が指摘</title>
 <link>https://ai-tech-times.web.app/articles/20260819-unknown-ai-usage-data.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260819-unknown-ai-usage-data.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>故ロビン・ウィリアムズの子供たちが、AIによる肖像の無断利用への懸念から、父親のInstagramアカウントを直接管理し運用を引き継ぐことを発表しました。</description>
-</item>
-<item>
-<title>OpenAI、ChatGPTに未成年向けの新モードを導入する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-openai-chatgpt-teen-mode.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-openai-chatgpt-teen-mode.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESは、OpenAIが発表した未成年向けの新モードに関する最新情報をお届けします。</description>
-</item>
-<item>
-<title>Anthropic、Claude Codeの週次制限を50％増枠で8月31日まで延長</title>
-<link>https://ai-tech-times.web.app/articles/20260819-claude-code-limit-extension-august-31.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-claude-code-limit-extension-august-31.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表しました。</description>
 </item>
 </channel></rss>
