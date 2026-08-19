@@ -1,21 +1,17 @@
 {
- "updated": "2026-08-19 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日経平均株価が2300円超の下落、東京株式市場の動向",
-   "path": "/articles/20260819-nikkei-average-drops-over-2300-yen.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-19 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 上場企業の4〜6月、純利益率9.1%で過去最高 価格転嫁が浸透 - 日本経済新聞"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 109,
+  "used": 112,
   "limit": 200
  }
 }

@@ -52792,5 +52792,78 @@
   "date": "2026-08-19",
   "time": "14:00",
   "path": "/articles/20260819-nikkei-average-drops-over-2300-yen.html"
+ },
+ {
+  "title": "PalantirがFAAの混乱を立て直す、1100便超に影響した理由",
+  "lead": "米連邦航空局（FAA）が管理する空域で大規模な障害が発生し、1,100便を超えるフライトが混乱に巻き込まれました。その立て直しにPalantirが乗り出しています。",
+  "summary3": [
+   "FAAの管制センターで通信障害が発生",
+   "9州にわたる空域で1100便超が影響",
+   "Palantirが事態の立て直しを担当"
+  ],
+  "body": [
+   "8月6日、ミネアポリス航空路交通管制センターにおいて、レーダーと通信が約2時間にわたって失われるトラブルが発生しました。この障害により、同センターが管轄する330,000平方マイル、9州にわたる空域において、1,100便以上のフライトに大きな影響が及ぶ事態となりました。",
+   "そのわずか2日前である8月4日には、ドナルド・トランプ大統領がホワイトハウスからマリーン・ワン軍用ヘリコプターで出発するという動きもありました。連邦航空局を巡る状況が慌ただしくなる中、事態の立て直しを担うことになったのがパランティア・テクノロジーズです。",
+   "今回の障害は、空の安全と運行管理を支えるインフラストラクチャの重要性を改めて浮き彫りにしました。混乱した現場において、パランティア・テクノロジーズがどのようにシステムやデータの立て直しを進めていくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "FAA",
+   "Palantir",
+   "航空"
+  ],
+  "slug": "palantir-faa-air-traffic-outage",
+  "people": [
+   {
+    "name": "ドナルド・トランプ",
+    "bio": "アメリカ合衆国の第45代および第47代大統領を務めた政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "パランティア・テクノロジーズ",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、ビッグデータ解析プラットフォームを提供するソフトウェア企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "16:01",
+  "path": "/articles/20260819-palantir-faa-air-traffic-outage.html"
+ },
+ {
+  "title": "Appleのカメラ付きAirPods、流出動画で判明した機能",
+  "lead": "Appleが開発していると噂されるカメラ搭載型AirPodsの動画が、macOSのリリース候補版から発見されました。",
+  "summary3": [
+   "Appleのカメラ付きAirPodsの動画が流出",
+   "macOSのリリース候補版からMacRumorsが発見",
+   "ビジュアルインテリジェンス機能の活用が明らかに"
+  ],
+  "body": [
+   "テクノロジーメディアのThe Verge AIによると、Appleの噂されているカメラ付きAirPodsについて、初めてその姿が捉えられた可能性があります。これはMacRumorsがmacOS Tahoe 26.7のリリース候補版から発見した動画によるものです。",
+   "公開された短い動画クリップでは、新しいAirPodsを装着した男性が登場します。彼は表紙が見えるように本を手に持っており、ビジュアルインテリジェンスがそれを認識できるようにしている様子が確認できます。",
+   "今回の流出によって、次世代のAirPodsに搭載されるとみられる新機能の具体的な活用シーンが明らかになりました。今後のAppleからの正式発表やさらなる詳細情報の公開に注目が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "AirPods",
+   "リーク"
+  ],
+  "slug": "apple-airpods-camera-leaked-video",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカルフォルニア州に本拠地を置く、iPhoneやMacなどを開発・販売する世界的なテクノロジー企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "16:01",
+  "path": "/articles/20260819-apple-airpods-camera-leaked-video.html"
  }
 ]
