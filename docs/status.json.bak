@@ -1,73 +1,26 @@
 {
- "updated": "2026-08-19 12:02",
- "mode": "フル便",
+ "updated": "2026-08-19 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ロビン・ウィリアムズのInstagram、AI乱用への対抗で家族が管理へ",
-   "path": "/articles/20260819-robin-williams-instagram-ai-abuse.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI、ChatGPTに未成年向けの新モードを導入する理由",
-   "path": "/articles/20260819-openai-chatgpt-teen-mode.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Anthropic、Claude Codeの週次制限を50％増枠で8月31日まで延長",
-   "path": "/articles/20260819-claude-code-limit-extension-august-31.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は",
-   "path": "/articles/20260819-qwen3-8-27b-performance.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "テスラ、アインライドにセミ500台提供の理由",
-   "path": "/articles/20260819-einride-adds-500-tesla-semis.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "DisneyがFCCと委員長を提訴、なぜトランプの検閲に反発するか",
-   "path": "/articles/20260819-disney-sues-fcc-and-chair.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "芸人・ヒロシさん、焚き火台制作巡り会社とトラブル",
-   "path": "/articles/20260819-hiroshi-takibi-trouble.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日経平均一時2100円超安、半導体関連に売り",
-   "path": "/articles/20260819-tokyo-stock-market-plunge-2026-0819.html",
+   "title": "大谷翔平、ドジャースで6年連続30号！なぜこのペースなのか",
+   "path": "/articles/20260819-ohtani-30th-home-run-dodgers.html",
    "cat": "時事・世界"
   },
   {
-   "title": "米ABCテレビ、トランプ政権を提訴した理由",
-   "path": "/articles/20260819-abc-tv-sues-trump-administration.html",
+   "title": "世界的な金利上昇、なぜ起きる？インフレとIT巨額社債の影響",
+   "path": "/articles/20260819-global-interest-rate-rise-inflation-tech-bonds.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均株価、一時2100円超値下がり なぜ半導体銘柄に売り注文",
-   "path": "/articles/20260819-nikkei-average-drops-over-2100-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "平均年収2000万円超のヒューリック、鉄緑会を買収へ",
-   "path": "/articles/20260819-hulric-acquires-tetsuryokukai.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 102,
+  "used": 106,
   "limit": 200
  }
 }
