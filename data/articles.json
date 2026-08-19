@@ -53230,5 +53230,72 @@
   "date": "2026-08-19",
   "time": "18:01",
   "path": "/articles/20260819-samsung-claude-code-design-shortened.html"
+ },
+ {
+  "title": "サムスン、先進4nm・5nm半導体を最大15%値上げの背景",
+  "lead": "サムスン電子がAI需要と競合の逼迫を背景に、先端半導体製造の新規受注で最大15%の値上げを実施したことが明らかになりました。",
+  "summary3": [
+   "サムスンが先端4nm・5nmを最大15%値上げ",
+   "7月の新規受注分から適用された",
+   "AI需要の拡大とTSMCの生産逼迫が要因"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が得た情報によると、韓国の総合電機メーカーであるサムスン電子（Samsung Electronics）は、先端の4nmおよび5nmプロセスによる半導体受託製造（ファウンドリ）サービスについて、価格を最大15%引き上げました。対象となるのは、7月以降に受け付けた新規受注分です。",
+   "今回の価格引き上げは、世界的なAI需要の急増と、業界最大手であるTSMCの製造能力が逼迫している状況が主な要因となっています。AI向けチップの生産ニーズが高まる中で、受託製造の市場環境に変化が生じているもようです。"
+  ],
+  "tags": [
+   "サムスン",
+   "半導体",
+   "AI"
+  ],
+  "slug": "samsung-raises-chipmaking-prices-15-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "サムスン電子",
+    "type": "company",
+    "desc": "韓国を代表する世界最大級の総合家電・電子部品メーカーで、半導体やスマートフォンなどを手掛ける。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260819/p9#a260819p9",
+  "category": "silicon",
+  "date": "2026-08-19",
+  "time": "19:02",
+  "path": "/articles/20260819-samsung-raises-chipmaking-prices-15-percent.html"
+ },
+ {
+  "title": "Comcast、ルーターを動体検知器にする新機能を無料提供",
+  "lead": "米通信大手Comcastは、既存のルーターを動体検知器に変える新機能の提供を開始しました。追加料金なしで利用できるアップデートの内容をお伝えします。",
+  "summary3": [
+   "Comcastがルーターの動体検知機能を開始",
+   "Xfinityアプリの更新で追加料金なしで利用可能",
+   "新しいXfinity Shieldサービスの一部として発表"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。米通信大手Comcastは、顧客の自宅ですでに稼働している数百万台のルーターを動体検知器へと変える機能の提供を開始しました。これにより、Wi-Fiルーターが活動モニターとしても機能するようになります。",
+   "現地時間8月18日に配信が開始された「Xfinity Internet」アプリの新しいアップデートにより、対応する同社製ルーターでこの機能が有効になります。追加料金は発生せず、利用者はそのまま機能を使い始めることが可能です。",
+   "今回の機能追加は、同社が新たに発表した「Xfinity Shield」サービスの一環として行われました。既存のハードウェアを活用しながら、ホームネットワークに新たな監視機能が追加される形となります。"
+  ],
+  "tags": [
+   "Comcast",
+   "Wi-Fi",
+   "スマートホーム"
+  ],
+  "slug": "comcast-routers-into-motion-detectors",
+  "people": [],
+  "terms": [
+   {
+    "name": "Comcast",
+    "type": "company",
+    "desc": "アメリカ合衆国を本拠地とする、ケーブルテレビやブロードバンドインターネットを手がける大手通信企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+  "category": "silicon",
+  "date": "2026-08-19",
+  "time": "19:02",
+  "path": "/articles/20260819-comcast-routers-into-motion-detectors.html"
  }
 ]

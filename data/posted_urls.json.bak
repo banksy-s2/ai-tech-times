@@ -1537,13 +1537,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260819de44948",
   "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tY2Z5OUwta3pZSUM5M1ZqbEtOcG5iOUFRelh3N3RBOGxVX3pkV2hfMUpfRWgwVGxRbWJqWXFaS2RJU2tKc0NWbHQ4dHB3Sk5hVzFob1A0WnphaGpNMVpsSDBEWFVGZE1LaU8xOA?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2608/19/news067.html"
+  "https://www.itmedia.co.jp/business/articles/2608/19/news067.html",
+  "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+  "https://gigazine.net/news/20260819-samsung-claude-code/"
  ],
  "titles": [
-  "TSMC熊本工場、地震で一時中断も通常操業へ",
-  "デジタル庁、生成AI「源内」を被災自治体に緊急提供",
-  "eBay、5600万ドルで和解：批判的な執筆者への嫌がらせ事件の結末",
-  "イーロン・マスク氏のX Money始動、主要市場の除外でどうなる",
   "日本製紙八代工場で煙突倒壊、5人死亡の被害",
   "米トランプ政権、中国製の人型ロボットを禁止",
   "日経平均、２か月ぶり一時６万１０００円割れ…１５００円超下落の理由とは",
@@ -3539,6 +3537,10 @@
   "避難所の7割にエアコンなし、真夏は生死に関わる問題へ",
   "Meta裁判開始、子供のSNS依存をめぐる攻防",
   "ソフトバンクG株価一時7.7%安、オープンAI成長鈍化の懸念",
-  "通販生活が楽天市場から撤退、その理由は"
+  "通販生活が楽天市場から撤退、その理由は",
+  "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+  "SamsungがClaude Codeを導入し「1カ月かかる設計を2日に短縮した」と報告",
+  "ITmedia AI+が報じるAI営業電話の自衛策",
+  "SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮"
  ]
 }

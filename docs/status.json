@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-19 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-19 19:02",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+が報じるAI営業電話の自衛策",
-   "path": "/articles/20260819-ai-sales-phone-self-defense.html",
-   "cat": "日本のAI"
+   "title": "サムスン、先進4nm・5nm半導体を最大15%値上げの背景",
+   "path": "/articles/20260819-samsung-raises-chipmaking-prices-15-percent.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮",
-   "path": "/articles/20260819-samsung-claude-code-design-shortened.html",
-   "cat": "日本のAI"
+   "title": "Comcast、ルーターを動体検知器にする新機能を無料提供",
+   "path": "/articles/20260819-comcast-routers-into-motion-detectors.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 139,
+  "used": 144,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 18:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 19:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [サムスン、先進4nm・5nm半導体を最大15%値上げの背景](https://ai-tech-times.web.app/articles/20260819-samsung-raises-chipmaking-prices-15-percent.html) — 2026-08-19 19:02: サムスン電子がAI需要と競合の逼迫を背景に、先端半導体製造の新規受注で最大15%の値上げを実施したことが明らかになりました。
+- [Comcast、ルーターを動体検知器にする新機能を無料提供](https://ai-tech-times.web.app/articles/20260819-comcast-routers-into-motion-detectors.html) — 2026-08-19 19:02: 米通信大手Comcastは、既存のルーターを動体検知器に変える新機能の提供を開始しました。追加料金なしで利用できるアップデートの内容をお伝えします。
 - [ITmedia AI+が報じるAI営業電話の自衛策](https://ai-tech-times.web.app/articles/20260819-ai-sales-phone-self-defense.html) — 2026-08-19 18:01: AI営業電話による迷惑被害が相次ぎ、SNS上で大きな問題となっています。今すぐ取れる自衛策についてお届けします。
 - [SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮](https://ai-tech-times.web.app/articles/20260819-samsung-claude-code-design-shortened.html) — 2026-08-19 18:01: SamsungがAnthropicのAIコーディングツール「Claude Code」を導入し、半導体設計・検証作業の期間を大幅に短縮したことが分かりました。
 - [MIT Tech Review: AIの自己改善はすぐには来ない？](https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html) — 2026-08-19 17:05: AI業界で期待される再帰的自己改善について、MIT Tech Review AIがその実現には時間がかかる可能性を報じています。
@@ -40,15 +42,13 @@
 - [世界的な金利上昇、なぜ起きる？インフレとIT巨額社債の影響](https://ai-tech-times.web.app/articles/20260819-global-interest-rate-rise-inflation-tech-bonds.html) — 2026-08-19 13:00: 原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。私たちの家計や経済にどのような影響があるのでしょうか。
 - [ロビン・ウィリアムズのInstagram、AI乱用への対抗で家族が管理へ](https://ai-tech-times.web.app/articles/20260819-robin-williams-instagram-ai-abuse.html) — 2026-08-19 12:02: 故ロビン・ウィリアムズの子供たちが、AIによる肖像の無断利用への懸念から、父親のInstagramアカウントを直接管理し運用を引き継ぐことを発表しました。
 - [OpenAI、ChatGPTに未成年向けの新モードを導入する理由](https://ai-tech-times.web.app/articles/20260819-openai-chatgpt-teen-mode.html) — 2026-08-19 12:02: AI TECH TIMESは、OpenAIが発表した未成年向けの新モードに関する最新情報をお届けします。
-- [Anthropic、Claude Codeの週次制限を50％増枠で8月31日まで延長](https://ai-tech-times.web.app/articles/20260819-claude-code-limit-extension-august-31.html) — 2026-08-19 12:02: 米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表しました。
-- [AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は](https://ai-tech-times.web.app/articles/20260819-qwen3-8-27b-performance.html) — 2026-08-19 12:02: 中国企業のAlibabaが公開したローカル実行可能なAIモデル「Qwen3.8 27B」について、第三者機関が性能分析結果を公開しました。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
 - 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
 - 2位: [Among Us: New Judge Role Trailer ⚖️ Out Now!](https://www.youtube.com/watch?v=pqX21F0c_w0)
 - 3位: [YE & Don Toliver - OK](https://www.youtube.com/watch?v=kSx7OL5-w2E)
 
-## AI用語事典 (全997語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全998語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
