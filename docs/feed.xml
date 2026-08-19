@@ -5,6 +5,70 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicやOpenAIのAI利用データ、検証不能と研究者が指摘</title>
+<link>https://ai-tech-times.web.app/articles/20260819-unknown-ai-usage-data.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-unknown-ai-usage-data.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI企業が発表する製品の利用実態データについて、独立した検証ソースが存在しないという懸念が示されています。</description>
+</item>
+<item>
+<title>国立情報学研究所、332億パラメータの「LLM-jp-4 33B」公開</title>
+<link>https://ai-tech-times.web.app/articles/20260819-llm-jp-4-33b-released.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-llm-jp-4-33b-released.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>国立情報学研究所（NII）は、オープンな国産LLM（大規模言語モデル）の新バージョン「LLM-jp-4 33B」を公開したと発表しました。約332億パラメータを持つDense型モデルで、各種ベンチマークで高い性能を示しています。</description>
+</item>
+<item>
+<title>ChatGPTの反論で道徳的判断の3割超が覆る理由</title>
+<link>https://ai-tech-times.web.app/articles/20260819-chatgpt-moral-judgment-kobe-univ.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-chatgpt-moral-judgment-kobe-univ.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIの反論によって、正解のない道徳的な判断の3割超が覆ることが神戸大学の研究で分かりました。高齢者が説得されやすい傾向も明らかになっています。</description>
+</item>
+<item>
+<title>Nvidia製チップの中国流出防ぐか、米国が隠れた抜け穴を塞ぐ理由</title>
+<link>https://ai-tech-times.web.app/articles/20260819-us-nvidia-chips-china-export-controls.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-us-nvidia-chips-china-export-controls.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国の輸出規制をすり抜け、中国のAI企業が海外で高度なエヌビディア製チップの演算能力にアクセスしていることが明らかになりました。議員らは新たな対策の検討を進めています。</description>
+</item>
+<item>
+<title>Amazon、ドローン配達を約500都市へ拡大する計画</title>
+<link>https://ai-tech-times.web.app/articles/20260819-amazon-drone-service-expansion.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-amazon-drone-service-expansion.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米ネット通販大手のAmazonが、ドローンによる配送サービスを約500都市へ拡大する計画を進めていることが明らかになりました。今年100万件の配達を目標に掲げています。</description>
+</item>
+<item>
+<title>メタリカがAdoに感謝した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260819-metallica-thanks-ado.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-metallica-thanks-ado.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>人気ボーカリストのAdoに対して、世界的ロックバンドのメタリカが感謝を表明しました。Adoのこれまでの歩みと活動の軌跡を振り返ります。</description>
+</item>
+<item>
+<title>訪日客数344万人余り、0.1％増に4か月ぶり転換の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260819-july-foreign-visitors-increase.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-july-foreign-visitors-increase.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>7月に日本を訪れた外国人の旅行者数が、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの大幅な減少が続く中での増加の背景をお伝えします。</description>
+</item>
+<item>
+<title>KDDI子会社の「menu」来月末で終了、競争激化で撤退相次ぐ</title>
+<link>https://ai-tech-times.web.app/articles/20260819-kddi-menu-service-end.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-kddi-menu-service-end.html</guid>
+<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+<category>日本企業</category>
+<description>KDDIは、料理などの宅配を手がける子会社の「menu」が、来月末でサービスを終了すると発表しました。コロナ禍のあとの需要伸び悩みによる撤退が相次いでいます。</description>
+</item>
+<item>
 <title>楽天のAI戦争ビジネス加担に、ヴィッセル神戸サポーターが懸念を示す理由</title>
 <link>https://ai-tech-times.web.app/articles/20260819-rakuten-war-business-vissel-kobe.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260819-rakuten-war-business-vissel-kobe.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表しました。</description>
-</item>
-<item>
-<title>AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は</title>
-<link>https://ai-tech-times.web.app/articles/20260819-qwen3-8-27b-performance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-qwen3-8-27b-performance.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>中国企業のAlibabaが公開したローカル実行可能なAIモデル「Qwen3.8 27B」について、第三者機関が性能分析結果を公開しました。</description>
-</item>
-<item>
-<title>テスラ、アインライドにセミ500台提供の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-einride-adds-500-tesla-semis.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-einride-adds-500-tesla-semis.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>テッククランチによると、アインライドはテスラの大型電気トラック「テスラ セミ」500台を追加する契約を締結しました。この導入によってフリート規模は3倍に拡大します。</description>
-</item>
-<item>
-<title>DisneyがFCCと委員長を提訴、なぜトランプの検閲に反発するか</title>
-<link>https://ai-tech-times.web.app/articles/20260819-disney-sues-fcc-and-chair.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-disney-sues-fcc-and-chair.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米メディア大手のDisneyが連邦通信委員会（FCC）と委員長を相手取り、訴訟を起こしました。FCCによる検閲キャンペーンへの対決姿勢を強めています。</description>
-</item>
-<item>
-<title>芸人・ヒロシさん、焚き火台制作巡り会社とトラブル</title>
-<link>https://ai-tech-times.web.app/articles/20260819-hiroshi-takibi-trouble.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-hiroshi-takibi-trouble.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>人気芸人のヒロシさんが、オリジナル焚き火台の制作を依頼した会社との間で起きたトラブルを報告し、波紋を呼んでいます。</description>
-</item>
-<item>
-<title>日経平均一時2100円超安、半導体関連に売り</title>
-<link>https://ai-tech-times.web.app/articles/20260819-tokyo-stock-market-plunge-2026-0819.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-tokyo-stock-market-plunge-2026-0819.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>19日の東京株式市場で、日経平均株価の下落幅が朝方一時2100円を超えました。原油先物や長期金利の上昇を受けた企業業績への懸念から、半導体関連銘柄を中心に売り注文が広がっています。</description>
-</item>
-<item>
-<title>米ABCテレビ、トランプ政権を提訴した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-abc-tv-sues-trump-administration.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-abc-tv-sues-trump-administration.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのABCテレビは、トランプ政権が放送免許更新の審査を前倒しで実施し、放送内容への影響力を高めようとしているとして、審査の差し止めを求める訴えを起こしました。</description>
-</item>
-<item>
-<title>日経平均株価、一時2100円超値下がり なぜ半導体銘柄に売り注文</title>
-<link>https://ai-tech-times.web.app/articles/20260819-nikkei-average-drops-over-2100-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-nikkei-average-drops-over-2100-yen.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>19日の東京株式市場で、日経平均株価の下落幅が朝方一時2100円を超えました。原油先物価格や長期金利の上昇が背景にあります。</description>
-</item>
-<item>
-<title>平均年収2000万円超のヒューリック、鉄緑会を買収へ</title>
-<link>https://ai-tech-times.web.app/articles/20260819-hulric-acquires-tetsuryokukai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-hulric-acquires-tetsuryokukai.html</guid>
-<pubDate>Wed, 19 Aug 2026 12:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>不動産大手ヒューリックが、“東大受験”の登竜門として知られる鉄緑会を買収する方針であることが明らかになりました。</description>
 </item>
 </channel></rss>

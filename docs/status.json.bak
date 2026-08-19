@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-19 19:02",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-19 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "サムスン、先進4nm・5nm半導体を最大15%値上げの背景",
-   "path": "/articles/20260819-samsung-raises-chipmaking-prices-15-percent.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Comcast、ルーターを動体検知器にする新機能を無料提供",
-   "path": "/articles/20260819-comcast-routers-into-motion-detectors.html",
-   "cat": "シリコンバレー最速"
+   "title": "楽天のAI戦争ビジネス加担に、ヴィッセル神戸サポーターが懸念を示す理由",
+   "path": "/articles/20260819-rakuten-war-business-vissel-kobe.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 144,
+  "used": 147,
   "limit": 200
  }
 }

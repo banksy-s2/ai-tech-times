@@ -1,21 +1,61 @@
 {
- "updated": "2026-08-19 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-19 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "楽天のAI戦争ビジネス加担に、ヴィッセル神戸サポーターが懸念を示す理由",
-   "path": "/articles/20260819-rakuten-war-business-vissel-kobe.html",
+   "title": "AnthropicやOpenAIのAI利用データ、検証不能と研究者が指摘",
+   "path": "/articles/20260819-unknown-ai-usage-data.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "国立情報学研究所、332億パラメータの「LLM-jp-4 33B」公開",
+   "path": "/articles/20260819-llm-jp-4-33b-released.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPTの反論で道徳的判断の3割超が覆る理由",
+   "path": "/articles/20260819-chatgpt-moral-judgment-kobe-univ.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Nvidia製チップの中国流出防ぐか、米国が隠れた抜け穴を塞ぐ理由",
+   "path": "/articles/20260819-us-nvidia-chips-china-export-controls.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon、ドローン配達を約500都市へ拡大する計画",
+   "path": "/articles/20260819-amazon-drone-service-expansion.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "メタリカがAdoに感謝した理由",
+   "path": "/articles/20260819-metallica-thanks-ado.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "訪日客数344万人余り、0.1％増に4か月ぶり転換の理由",
+   "path": "/articles/20260819-july-foreign-visitors-increase.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "KDDI子会社の「menu」来月末で終了、競争激化で撤退相次ぐ",
+   "path": "/articles/20260819-kddi-menu-service-end.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Perplexity’s free AI offer left it with ",
+  "執筆失敗: 【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報",
+  "執筆失敗: SKハイニックス、4兆5000億円規模の自社株買いへ 韓国で最大規模 - 日本経",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 147,
+  "used": 171,
   "limit": 200
  }
 }
