@@ -52865,5 +52865,303 @@
   "date": "2026-08-19",
   "time": "16:01",
   "path": "/articles/20260819-apple-airpods-camera-leaked-video.html"
+ },
+ {
+  "title": "MIT Tech Review: AIの自己改善はすぐには来ない？",
+  "lead": "AI業界で期待される再帰的自己改善について、MIT Tech Review AIがその実現には時間がかかる可能性を報じています。",
+  "summary3": [
+   "AIが自ら改善する再帰的自己改善が注目",
+   "LLMは既にコード執筆や最適化を実施",
+   "爆発的なAIの進歩はすぐには来ない可能性"
+  ],
+  "body": [
+   "AI業界における最大の約束の一つは、AIが人間の監視をほとんど必要とせず、まもなく自らを改善するというものです。大規模言語モデル（LLM）は、すでにコードの記述、トレーニング用の合成データの生成、稼働するコンピュータチップの最適化を行っています。",
+   "こうした状況から、研究者が再帰的自己改善と呼ぶ現象が地平線上にあり、爆発的なAIの進歩をもたらすという予測が立てられています。しかし、MIT Tech Review AIの報道によると、AIによる再帰的自己改善は私たちが期待するほどすぐにはやってこないかもしれません。",
+   "AIが自律的に進化を続ける未来は多くの予測で語られていますが、その実現のスピードやプロセスについては慎重な見方も存在します。今後の技術開発がどのような軌跡を辿るのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "テクノロジー",
+   "MIT Tech Review"
+  ],
+  "slug": "ai-recursive-self-improvement",
+  "people": [],
+  "terms": [
+   {
+    "name": "MIT Tech Review AI",
+    "type": "company",
+    "desc": "マサチューセッツ工科大学が発行する歴史あるテクノロジーメディアのAI専門部門。"
+   }
+  ],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+  "category": "ai",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-ai-recursive-self-improvement.html"
+ },
+ {
+  "title": "エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念",
+  "lead": "AI関連株の急落が続く中、市場で懸念されるリスクについて専門家の見解が伝えられています。",
+  "summary3": [
+   "キオクシア株が11万円から4万円割れ",
+   "KOSPIも9000から5000台へ急落",
+   "AIバブル崩壊への懸念が高まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新の経済ニュースです。人工知能（AI）関連株の今後について、市場関係者の間で動揺が広がっています。直近の動向として、キオクシアホールディングスの株価が6月下旬の11万円台から7月下旬には一時4万円割れまで急落する事態となりました。",
+   "さらに、海外の市場にも同様の急落が見られます。韓国総合株価指数（KOSPI）も、6月の9000ポイント台からわずか1カ月で一時5000ポイント台へと急落しました。こうした急速な下落は市場に大きな影を落としています。",
+   "メモリー価格の高騰を材料として盛り上がりを見せていた相場は、一旦崩壊したと指摘されています。今後のAI関連株の動向や市場全体の安定について、さらなる警戒が必要とされる状況となっています。"
+  ],
+  "tags": [
+   "AIバブル",
+   "キオクシア",
+   "株式市場"
+  ],
+  "slug": "ai-bubble-lehman-crash-concern",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシアホールディングス",
+    "type": "company",
+    "desc": "フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUB178SR0X10C26A8000000/",
+  "category": "ai_jp",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-ai-bubble-lehman-crash-concern.html"
+ },
+ {
+  "title": "ITmedia AI+調査：6割のエンジニアが実感するAI格差とは",
+  "lead": "ITmedia AI+が実施したエンジニアへの調査から、AIの活用スキルが仕事やキャリアに影響を与えている実態が明らかになりました。",
+  "summary3": [
+   "ITエンジニア572人を対象に調査を実施",
+   "6割がAIの活用による仕事の格差を実感",
+   "スキルの差がキャリアに影響を与える現状"
+  ],
+  "body": [
+   "AIを使うかどうかだけでなく、どの程度使いこなせるかも問われる現代において、活用スキルの差が業務効率だけではなく、仕事やキャリアにも影響し始めていることが分かりました。ITmedia AI+の調査によると、何が起きているのでしょうか。",
+   "ITエンジニア572人を対象に行った調査では、6割のエンジニアが「AIを使える人か、使えない人か」による仕事や評価の差を実感していることが示されています。AI技術の急速な普及に伴い、単に導入する段階から、いかに深く使いこなせるかが重要視されるフェーズへと移行しています。",
+   "こうしたスキルの差は、日々の業務効率にとどまらず、個人の評価や今後のキャリアパスにも直結する問題として顕在化しています。エンジニアたちは現場でどのような変化を感じているのか、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "エンジニア",
+   "キャリア"
+  ],
+  "slug": "ai-skills-gap-itmedia",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news047.html",
+  "category": "ai_jp",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-ai-skills-gap-itmedia.html"
+ },
+ {
+  "title": "TikTok、DMでの個人間送金を検討か",
+  "lead": "TechCrunchの報道によると、TikTokはダイレクトメッセージ（DM）を通じた個人間送金機能の導入を検討していることが明らかになりました。",
+  "summary3": [
+   "TikTokがDMでの送金機能を検討",
+   "実現すればTikTok Payを活用",
+   "東南アジアですでに展開中の決済"
+  ],
+  "body": [
+   "TechCrunchの報道によれば、人気動画投稿サービスのTikTokにおいて、ダイレクトメッセージ（DM）機能を利用した個人間送金機能の導入が検討されていることが分かりました。",
+   "もしこの新機能が正式に導入されることになった場合、同社の提供する「TikTok Pay」という決済サービスが活用される見通しです。",
+   "このTikTok Pay自体は、すでに東南アジア地域におけるTikTok Shopでの購入決済手段として提供されている実績があります。"
+  ],
+  "tags": [
+   "TikTok",
+   "決済",
+   "テクノロジー"
+  ],
+  "slug": "tiktok-explores-p2p-payments-via-dms",
+  "people": [],
+  "terms": [
+   {
+    "name": "TikTok",
+    "type": "company",
+    "desc": "中国のByteDanceが運営する、世界的に人気のショート動画共有プラットフォーム。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする、ITやスタートアップ企業に関するニュースを専門に扱うメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+  "category": "silicon",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-tiktok-explores-p2p-payments-via-dms.html"
+ },
+ {
+  "title": "勃起不全治療薬を万能長寿薬として宣伝、その理由は",
+  "lead": "勃起不全治療薬が心血管系や脳に効果がある「万能長寿薬」として宣伝されていることが分かりました。インフルエンサーやオンラインクリニックがどのようにアピールしているのか、その背景に迫ります。",
+  "summary3": [
+   "勃起不全治療薬が万能長寿薬として宣伝",
+   "心血管系や脳に効果があると主張",
+   "インフルエンサーやクリニックが拡散"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。近年の健康や医療に関する情報発信において、新たなトレンドが見られるようになりました。一部のインフルエンサーやオンラインクリニックの間で、本来の用途とは異なる文脈での宣伝活動が行われています。",
+   "元記事の情報によれば、勃起不全治療薬が心血管系や脳に対して効果をもたらす「万能長寿薬」であるかのように宣伝されているとのことです。本来の医薬品としての使用目的を超えた効果がうたわれており、SNSなどを中心に注目を集めています。",
+   "こうした宣伝手法は、健康意識の高い人々の関心を引く一方で、医学的な妥当性や安全性をめぐる議論を呼ぶ可能性があります。正確な情報の見極めがますます重要になっており、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "医療",
+   "健康",
+   "インフルエンサー"
+  ],
+  "slug": "erectile-dysfunction-drug-as-longevity-drug",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUJaQXFRRExjb0JFWW9Eck02QkZDSmczNTlZWl9uQkhVVXREX2hqX1pOWWtZVDVURGRfQ3VTNDgwUnl0T2o4b19ZbUhtM0tNSlIxX2JKd2NJcDB5V1BkS1ZIdTB5eG5yN2p5R09leFh1cTNITVZVMjdGcDlCakVyMU1hSWw?oc=5",
+  "category": "influencer",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-erectile-dysfunction-drug-as-longevity-drug.html"
+ },
+ {
+  "title": "避難所の7割にエアコンなし、真夏は生死に関わる問題へ",
+  "lead": "文部科学省の調査により、避難所に指定されている全国の公立小中学校の体育館などの7割にエアコンがないことが明らかになりました。",
+  "summary3": [
+   "公立小中学校の避難所の7割にエアコンなし",
+   "ことし5月時点の文部科学省の調査で判明",
+   "専門家は真夏の避難所環境が生死に関わると指摘"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。真夏に発生した熊本地震では避難所のあり方が大きな課題となりましたが、災害時の暑さ対策はいまだ十分ではない現状が浮き彫りになっています。",
+   "文部科学省がことし5月に行った調査によると、避難所に指定されている全国の公立の小中学校の体育館などのうち、実に7割にエアコンが設置されていないことが明らかになりました。",
+   "これについて専門家からは「真夏の避難所における暑さは生死に関わる問題である」と強い懸念が示されています。災害時の過酷な環境から命を守るため、今後はインフラ整備の加速が急務となっています。"
+  ],
+  "tags": [
+   "避難所",
+   "エアコン",
+   "防災"
+  ],
+  "slug": "shelters-lack-air-conditioning",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260819de44948",
+  "category": "world",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-shelters-lack-air-conditioning.html"
+ },
+ {
+  "title": "Meta裁判開始、子供のSNS依存をめぐる攻防",
+  "lead": "米国の複数州がMetaを訴えた大規模な裁判が始まり、同社が主張した「依存は存在しない」という見解をめぐり法廷で議論が交わされています。",
+  "summary3": [
+   "Metaを訴えた大規模な裁判が開始",
+   "MetaはSNS依存の存在を否定",
+   "子供への影響をめぐり法廷で議論"
+  ],
+  "body": [
+   "米国の複数の州が提起した大規模な訴訟において、裁判が開始されました。この裁判では、Metaが提供するサービスが子供たちを夢中にさせ、依存状態に陥らせてきたかどうかが争点となっています。",
+   "BBC Worldの報道によると、裁判の開始にあたりMeta側は、ソーシャルメディアの依存症というものは存在しないという主張を展開しました。子供たちの利用実態や企業の責任をめぐり、法廷での議論が本格化しています。",
+   "今回の裁判は、大手IT企業が提供するサービスとユーザーへの影響について、今後の法的判断に大きな影響を与える可能性があります。引き続き、双方の主張や審理の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "Meta",
+   "SNS",
+   "裁判"
+  ],
+  "slug": "meta-sued-over-child-addiction",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-meta-sued-over-child-addiction.html"
+ },
+ {
+  "title": "ソフトバンクG株価一時7.7%安、オープンAI成長鈍化の懸念",
+  "lead": "ソフトバンクグループの株価が一時7.7%下落しました。背景には米オープンAIの成長鈍化に対する懸念があると報じられています。",
+  "summary3": [
+   "ソフトバンクG株が一時7.7%安",
+   "米オープンAIの成長鈍化を懸念",
+   "日本経済新聞が報じたもの"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、日本経済新聞の報道に基づき市場の動きをお伝えします。ソフトバンクグループの株価が、一時的に前日比7.7%安を記録しました。",
+   "今回の株価下落の背景には、出資先や提携先としても注目を集める米オープンAIにおける成長鈍化への懸念があると言われています。市場参加者の間で警戒感が広がった形です。",
+   "株式市場における動向や各企業の今後の発表については、引き続き最新の情報を確認していく必要があります。"
+  ],
+  "tags": [
+   "ソフトバンクグループ",
+   "オープンAI",
+   "株式市場"
+  ],
+  "slug": "softbank-group-stock-decline-openai",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "日本を拠点とする持株会社であり、テクノロジー分野を中心に大型投資ファンドを運営する世界的企業。"
+   },
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業であり、生成AI技術などで世界をリードする先端テクノロジー企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tY2Z5OUwta3pZSUM5M1ZqbEtOcG5iOUFRelh3N3RBOGxVX3pkV2hfMUpfRWgwVGxRbWJqWXFaS2RJU2tKc0NWbHQ4dHB3Sk5hVzFob1A0WnphaGpNMVpsSDBEWFVGZE1LaU8xOA?oc=5",
+  "category": "stock",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-softbank-group-stock-decline-openai.html"
+ },
+ {
+  "title": "通販生活が楽天市場から撤退、その理由は",
+  "lead": "カタログハウスは18日、通信販売カタログ「通販生活」について、楽天グループのネット通販モール「楽天市場」への出店を取りやめたと発表しました。",
+  "summary3": [
+   "通販生活が楽天市場から撤退を発表",
+   "カタログハウスが18日に公表",
+   "ネット通販モールへの出店を取りやめ"
+  ],
+  "body": [
+   "カタログハウスは18日、展開している通信販売カタログ「通販生活」について、楽天グループのネット通販モール「楽天市場」への出店を取りやめたと発表しました。",
+   "今回の発表では、「楽天市場」からの撤退に関する情報が明らかにされましたが、詳細な経緯などについては今回の発表に含まれていません。",
+   "通信販売業界において広く知られる「通販生活」の今後の展開や、今回の出店取りやめによる影響については、引き続き動向が注目されるところです。"
+  ],
+  "tags": [
+   "通販生活",
+   "楽天市場",
+   "カタログハウス"
+  ],
+  "slug": "tsuhan-seikatsu-rakuten-withdrawal",
+  "people": [],
+  "terms": [
+   {
+    "name": "楽天グループ",
+    "type": "company",
+    "desc": "インターネットモール「楽天市場」などを運営する日本の大手IT企業で、Eコマースや金融事業を展開しています。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2608/19/news067.html",
+  "category": "jp_corp",
+  "date": "2026-08-19",
+  "time": "17:05",
+  "path": "/articles/20260819-tsuhan-seikatsu-rakuten-withdrawal.html"
  }
 ]

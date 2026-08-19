@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 17:05 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [MIT Tech Review: AIの自己改善はすぐには来ない？](https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html) — 2026-08-19 17:05: AI業界で期待される再帰的自己改善について、MIT Tech Review AIがその実現には時間がかかる可能性を報じています。
+- [エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念](https://ai-tech-times.web.app/articles/20260819-ai-bubble-lehman-crash-concern.html) — 2026-08-19 17:05: AI関連株の急落が続く中、市場で懸念されるリスクについて専門家の見解が伝えられています。
+- [ITmedia AI+調査：6割のエンジニアが実感するAI格差とは](https://ai-tech-times.web.app/articles/20260819-ai-skills-gap-itmedia.html) — 2026-08-19 17:05: ITmedia AI+が実施したエンジニアへの調査から、AIの活用スキルが仕事やキャリアに影響を与えている実態が明らかになりました。
+- [TikTok、DMでの個人間送金を検討か](https://ai-tech-times.web.app/articles/20260819-tiktok-explores-p2p-payments-via-dms.html) — 2026-08-19 17:05: TechCrunchの報道によると、TikTokはダイレクトメッセージ（DM）を通じた個人間送金機能の導入を検討していることが明らかになりました。
+- [勃起不全治療薬を万能長寿薬として宣伝、その理由は](https://ai-tech-times.web.app/articles/20260819-erectile-dysfunction-drug-as-longevity-drug.html) — 2026-08-19 17:05: 勃起不全治療薬が心血管系や脳に効果がある「万能長寿薬」として宣伝されていることが分かりました。インフルエンサーやオンラインクリニックがどのようにアピールしているのか、その背景に迫ります。
+- [避難所の7割にエアコンなし、真夏は生死に関わる問題へ](https://ai-tech-times.web.app/articles/20260819-shelters-lack-air-conditioning.html) — 2026-08-19 17:05: 文部科学省の調査により、避難所に指定されている全国の公立小中学校の体育館などの7割にエアコンがないことが明らかになりました。
+- [Meta裁判開始、子供のSNS依存をめぐる攻防](https://ai-tech-times.web.app/articles/20260819-meta-sued-over-child-addiction.html) — 2026-08-19 17:05: 米国の複数州がMetaを訴えた大規模な裁判が始まり、同社が主張した「依存は存在しない」という見解をめぐり法廷で議論が交わされています。
+- [ソフトバンクG株価一時7.7%安、オープンAI成長鈍化の懸念](https://ai-tech-times.web.app/articles/20260819-softbank-group-stock-decline-openai.html) — 2026-08-19 17:05: ソフトバンクグループの株価が一時7.7%下落しました。背景には米オープンAIの成長鈍化に対する懸念があると報じられています。
+- [通販生活が楽天市場から撤退、その理由は](https://ai-tech-times.web.app/articles/20260819-tsuhan-seikatsu-rakuten-withdrawal.html) — 2026-08-19 17:05: カタログハウスは18日、通信販売カタログ「通販生活」について、楽天グループのネット通販モール「楽天市場」への出店を取りやめたと発表しました。
 - [PalantirがFAAの混乱を立て直す、1100便超に影響した理由](https://ai-tech-times.web.app/articles/20260819-palantir-faa-air-traffic-outage.html) — 2026-08-19 16:01: 米連邦航空局（FAA）が管理する空域で大規模な障害が発生し、1,100便を超えるフライトが混乱に巻き込まれました。その立て直しにPalantirが乗り出しています。
 - [Appleのカメラ付きAirPods、流出動画で判明した機能](https://ai-tech-times.web.app/articles/20260819-apple-airpods-camera-leaked-video.html) — 2026-08-19 16:01: Appleが開発していると噂されるカメラ搭載型AirPodsの動画が、macOSのリリース候補版から発見されました。
 - [日経平均株価が2300円超の下落、東京株式市場の動向](https://ai-tech-times.web.app/articles/20260819-nikkei-average-drops-over-2300-yen.html) — 2026-08-19 14:00: 東京株式市場において、日経平均株価が2300円を超える大幅な下落を記録したことが時事通信の報道で明らかになりました。
@@ -33,15 +42,6 @@
 - [AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は](https://ai-tech-times.web.app/articles/20260819-qwen3-8-27b-performance.html) — 2026-08-19 12:02: 中国企業のAlibabaが公開したローカル実行可能なAIモデル「Qwen3.8 27B」について、第三者機関が性能分析結果を公開しました。
 - [テスラ、アインライドにセミ500台提供の理由](https://ai-tech-times.web.app/articles/20260819-einride-adds-500-tesla-semis.html) — 2026-08-19 12:02: テッククランチによると、アインライドはテスラの大型電気トラック「テスラ セミ」500台を追加する契約を締結しました。この導入によってフリート規模は3倍に拡大します。
 - [DisneyがFCCと委員長を提訴、なぜトランプの検閲に反発するか](https://ai-tech-times.web.app/articles/20260819-disney-sues-fcc-and-chair.html) — 2026-08-19 12:02: 米メディア大手のDisneyが連邦通信委員会（FCC）と委員長を相手取り、訴訟を起こしました。FCCによる検閲キャンペーンへの対決姿勢を強めています。
-- [芸人・ヒロシさん、焚き火台制作巡り会社とトラブル](https://ai-tech-times.web.app/articles/20260819-hiroshi-takibi-trouble.html) — 2026-08-19 12:02: 人気芸人のヒロシさんが、オリジナル焚き火台の制作を依頼した会社との間で起きたトラブルを報告し、波紋を呼んでいます。
-- [日経平均一時2100円超安、半導体関連に売り](https://ai-tech-times.web.app/articles/20260819-tokyo-stock-market-plunge-2026-0819.html) — 2026-08-19 12:02: 19日の東京株式市場で、日経平均株価の下落幅が朝方一時2100円を超えました。原油先物や長期金利の上昇を受けた企業業績への懸念から、半導体関連銘柄を中心に売り注文が広がっています。
-- [米ABCテレビ、トランプ政権を提訴した理由](https://ai-tech-times.web.app/articles/20260819-abc-tv-sues-trump-administration.html) — 2026-08-19 12:02: アメリカのABCテレビは、トランプ政権が放送免許更新の審査を前倒しで実施し、放送内容への影響力を高めようとしているとして、審査の差し止めを求める訴えを起こしました。
-- [日経平均株価、一時2100円超値下がり なぜ半導体銘柄に売り注文](https://ai-tech-times.web.app/articles/20260819-nikkei-average-drops-over-2100-yen.html) — 2026-08-19 12:02: 19日の東京株式市場で、日経平均株価の下落幅が朝方一時2100円を超えました。原油先物価格や長期金利の上昇が背景にあります。
-- [平均年収2000万円超のヒューリック、鉄緑会を買収へ](https://ai-tech-times.web.app/articles/20260819-hulric-acquires-tetsuryokukai.html) — 2026-08-19 12:02: 不動産大手ヒューリックが、“東大受験”の登竜門として知られる鉄緑会を買収する方針であることが明らかになりました。
-- [DOVA-SYNDROMEがOpenTracksへ改名、利用者の影響は？](https://ai-tech-times.web.app/articles/20260819-dova-syndrome-opentracks-rename.html) — 2026-08-19 11:00: 有名フリーBGMサイト「DOVA-SYNDROME」が9月15日にサービス名を「OpenTracks」に変更すると発表しました。音源利用者に影響はあるのでしょうか。
-- [Anthropicの年換算収益が10兆円超え、約7カ月で7倍に急拡大した理由](https://ai-tech-times.web.app/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html) — 2026-08-19 09:00: AIアシスタント「Claude」を手がけるAnthropicの年換算収益が650億ドル（約10兆円）を突破しました。わずか約7カ月という短期間で約7倍に急拡大した実績が明らかになっています。
-- [CursorがGitHubの対抗馬となるコードホスティング提供へ](https://ai-tech-times.web.app/articles/20260819-cursor-launches-rival-hosting-platform.html) — 2026-08-19 08:00: AIコードエディターとして知られるCursorが、GitHubの対抗となる新しいコードホスティングプラットフォームを立ち上げました。開発者の間で高まる不満を背景に、どのような展開を見せるのでしょうか。
-- [GoogleのChromeチームへ、AI自動化のRelayが合流する理由](https://ai-tech-times.web.app/articles/20260819-relay-shuts-down-google-chrome.html) — 2026-08-19 08:00: AI自動化スタートアップのRelayが事業を終了し、スタッフがGoogleのChromeチームに参加することが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
 - 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
@@ -64,8 +64,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
-- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
+- [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
@@ -73,12 +73,12 @@
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカのイーロン・マスク氏が率いる民間宇宙企業で、ロケット開発や衛星通信サービスなどを手掛ける。
 - [マーク・ザッカーバーグとは](https://ai-tech-times.web.app/term/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0.html): Metaの創業者であり最高経営責任者。SNSプラットフォームのFacebookを立ち上げ、現在の巨大テック企業へと成長させた。
-- [アドバンテストとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88.html): 半導体試験装置（テスター）の大手メーカーであり、世界トップクラスのシェアを誇る日本の電機企業。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
