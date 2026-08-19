@@ -1,65 +1,26 @@
 {
- "updated": "2026-08-19 17:05",
- "mode": "フル便",
+ "updated": "2026-08-19 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MIT Tech Review: AIの自己改善はすぐには来ない？",
-   "path": "/articles/20260819-ai-recursive-self-improvement.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念",
-   "path": "/articles/20260819-ai-bubble-lehman-crash-concern.html",
+   "title": "ITmedia AI+が報じるAI営業電話の自衛策",
+   "path": "/articles/20260819-ai-sales-phone-self-defense.html",
    "cat": "日本のAI"
   },
   {
-   "title": "ITmedia AI+調査：6割のエンジニアが実感するAI格差とは",
-   "path": "/articles/20260819-ai-skills-gap-itmedia.html",
+   "title": "SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮",
+   "path": "/articles/20260819-samsung-claude-code-design-shortened.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "TikTok、DMでの個人間送金を検討か",
-   "path": "/articles/20260819-tiktok-explores-p2p-payments-via-dms.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "勃起不全治療薬を万能長寿薬として宣伝、その理由は",
-   "path": "/articles/20260819-erectile-dysfunction-drug-as-longevity-drug.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "避難所の7割にエアコンなし、真夏は生死に関わる問題へ",
-   "path": "/articles/20260819-shelters-lack-air-conditioning.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "Meta裁判開始、子供のSNS依存をめぐる攻防",
-   "path": "/articles/20260819-meta-sued-over-child-addiction.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ソフトバンクG株価一時7.7%安、オープンAI成長鈍化の懸念",
-   "path": "/articles/20260819-softbank-group-stock-decline-openai.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "通販生活が楽天市場から撤退、その理由は",
-   "path": "/articles/20260819-tsuhan-seikatsu-rakuten-withdrawal.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
  },
- "notes": [
-  "執筆失敗: Perplexity’s free AI offer left it with ",
-  "執筆失敗: DOJ’s probe into Andreessen Horowitz ove",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 136,
+  "used": 139,
   "limit": 200
  }
 }

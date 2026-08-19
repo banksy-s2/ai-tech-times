@@ -53163,5 +53163,72 @@
   "date": "2026-08-19",
   "time": "17:05",
   "path": "/articles/20260819-tsuhan-seikatsu-rakuten-withdrawal.html"
+ },
+ {
+  "title": "ITmedia AI+が報じるAI営業電話の自衛策",
+  "lead": "AI営業電話による迷惑被害が相次ぎ、SNS上で大きな問題となっています。今すぐ取れる自衛策についてお届けします。",
+  "summary3": [
+   "AI営業電話による迷惑被害が続出",
+   "SNSでは批判的な声が集まる",
+   "今すぐ取れる自衛策が求められる"
+  ],
+  "body": [
+   "近年、AI技術の発展に伴い、自動で発信や会話を行うAI営業電話を利用した迷惑行為が増加しています。これによって多くの人々が予期せぬ電話対応に悩まされており、日々の生活や業務において少なからず支障をきたすケースが見受けられます。",
+   "SNS上では、こうしたAI営業電話に対して「害悪すぎる」「バカ迷惑」といった批判や困惑の声が数多く投稿されています。人間ではなくAIが相手となるため、機械的なやり取りに不快感を覚えるユーザーや、業務を中断させられることへの不満が広がっている状況です。",
+   "こうした状況の中、被害を最小限に抑えるための自衛策に関心が集まっています。ITmedia AI+の報道によると、現在でも個人や企業レベルで取り組める対策が存在しており、迷惑電話への迅速な対処が呼びかけられています。"
+  ],
+  "tags": [
+   "AI営業電話",
+   "迷惑電話",
+   "ITmedia"
+  ],
+  "slug": "ai-sales-phone-self-defense",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+  "category": "ai_jp",
+  "date": "2026-08-19",
+  "time": "18:01",
+  "path": "/articles/20260819-ai-sales-phone-self-defense.html"
+ },
+ {
+  "title": "SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮",
+  "lead": "SamsungがAnthropicのAIコーディングツール「Claude Code」を導入し、半導体設計・検証作業の期間を大幅に短縮したことが分かりました。",
+  "summary3": [
+   "SamsungがClaude Codeを導入",
+   "半導体設計と検証の期間を大幅短縮",
+   "1カ月かかる設計が2日になった"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。ニュースサイト「Gigazine」の報道によると、SamsungがAnthropicのAIコーディングツール「Claude Code」を導入し、一部の半導体設計・検証作業の期間を大幅に短縮したことが明らかになりました。",
+   "今回の導入により、通常では1カ月ほどかかる設計作業が、わずか2日へと驚異的なスピードに短縮されたと報告されています。AI技術の活用が、半導体の開発現場においてどれほどの効率化をもたらすのかを示す具体的な事例として注目を集めています。",
+   "SamsungによるAIコーディングツールの活用は、今後のハードウェア開発や設計プロセスのあり方に大きな影響を与える可能性があります。さらなる業務効率化や開発スピードの向上に向けた企業の動きから、今後も目が離せません。"
+  ],
+  "tags": [
+   "Samsung",
+   "Claude Code",
+   "半導体設計"
+  ],
+  "slug": "samsung-claude-code-design-shortened",
+  "people": [],
+  "terms": [
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国を代表する総合家電・電子部品メーカーであり、半導体製造などでも世界的に広く知られています。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260819-samsung-claude-code/",
+  "category": "ai_jp",
+  "date": "2026-08-19",
+  "time": "18:01",
+  "path": "/articles/20260819-samsung-claude-code-design-shortened.html"
  }
 ]

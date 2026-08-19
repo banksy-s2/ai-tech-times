@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ITmedia AI+が報じるAI営業電話の自衛策</title>
+<link>https://ai-tech-times.web.app/articles/20260819-ai-sales-phone-self-defense.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-ai-sales-phone-self-defense.html</guid>
+<pubDate>Wed, 19 Aug 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI営業電話による迷惑被害が相次ぎ、SNS上で大きな問題となっています。今すぐ取れる自衛策についてお届けします。</description>
+</item>
+<item>
+<title>SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮</title>
+<link>https://ai-tech-times.web.app/articles/20260819-samsung-claude-code-design-shortened.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260819-samsung-claude-code-design-shortened.html</guid>
+<pubDate>Wed, 19 Aug 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>SamsungがAnthropicのAIコーディングツール「Claude Code」を導入し、半導体設計・検証作業の期間を大幅に短縮したことが分かりました。</description>
+</item>
+<item>
 <title>MIT Tech Review: AIの自己改善はすぐには来ない？</title>
 <link>https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 19 Aug 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AIコードエディターとして知られるCursorが、GitHubの対抗となる新しいコードホスティングプラットフォームを立ち上げました。開発者の間で高まる不満を背景に、どのような展開を見せるのでしょうか。</description>
-</item>
-<item>
-<title>GoogleのChromeチームへ、AI自動化のRelayが合流する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-relay-shuts-down-google-chrome.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-relay-shuts-down-google-chrome.html</guid>
-<pubDate>Wed, 19 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI自動化スタートアップのRelayが事業を終了し、スタッフがGoogleのChromeチームに参加することが明らかになりました。</description>
-</item>
-<item>
-<title>Wisprが2.8億ドル調達、企業評価20億ドルの行方</title>
-<link>https://ai-tech-times.web.app/articles/20260819-wispr-raises-280m-at-2b-valuation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-wispr-raises-280m-at-2b-valuation.html</guid>
-<pubDate>Wed, 19 Aug 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>音声入力ツールを展開するWisprが、新たに2億8000万ドルを資金調達し、企業評価額が20億ドルに達したことが明らかになりました。</description>
 </item>
 </channel></rss>

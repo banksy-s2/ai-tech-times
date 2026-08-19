@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 17:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 18:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ITmedia AI+が報じるAI営業電話の自衛策](https://ai-tech-times.web.app/articles/20260819-ai-sales-phone-self-defense.html) — 2026-08-19 18:01: AI営業電話による迷惑被害が相次ぎ、SNS上で大きな問題となっています。今すぐ取れる自衛策についてお届けします。
+- [SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮](https://ai-tech-times.web.app/articles/20260819-samsung-claude-code-design-shortened.html) — 2026-08-19 18:01: SamsungがAnthropicのAIコーディングツール「Claude Code」を導入し、半導体設計・検証作業の期間を大幅に短縮したことが分かりました。
 - [MIT Tech Review: AIの自己改善はすぐには来ない？](https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html) — 2026-08-19 17:05: AI業界で期待される再帰的自己改善について、MIT Tech Review AIがその実現には時間がかかる可能性を報じています。
 - [エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念](https://ai-tech-times.web.app/articles/20260819-ai-bubble-lehman-crash-concern.html) — 2026-08-19 17:05: AI関連株の急落が続く中、市場で懸念されるリスクについて専門家の見解が伝えられています。
 - [ITmedia AI+調査：6割のエンジニアが実感するAI格差とは](https://ai-tech-times.web.app/articles/20260819-ai-skills-gap-itmedia.html) — 2026-08-19 17:05: ITmedia AI+が実施したエンジニアへの調査から、AIの活用スキルが仕事やキャリアに影響を与えている実態が明らかになりました。
@@ -40,8 +42,6 @@
 - [OpenAI、ChatGPTに未成年向けの新モードを導入する理由](https://ai-tech-times.web.app/articles/20260819-openai-chatgpt-teen-mode.html) — 2026-08-19 12:02: AI TECH TIMESは、OpenAIが発表した未成年向けの新モードに関する最新情報をお届けします。
 - [Anthropic、Claude Codeの週次制限を50％増枠で8月31日まで延長](https://ai-tech-times.web.app/articles/20260819-claude-code-limit-extension-august-31.html) — 2026-08-19 12:02: 米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表しました。
 - [AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は](https://ai-tech-times.web.app/articles/20260819-qwen3-8-27b-performance.html) — 2026-08-19 12:02: 中国企業のAlibabaが公開したローカル実行可能なAIモデル「Qwen3.8 27B」について、第三者機関が性能分析結果を公開しました。
-- [テスラ、アインライドにセミ500台提供の理由](https://ai-tech-times.web.app/articles/20260819-einride-adds-500-tesla-semis.html) — 2026-08-19 12:02: テッククランチによると、アインライドはテスラの大型電気トラック「テスラ セミ」500台を追加する契約を締結しました。この導入によってフリート規模は3倍に拡大します。
-- [DisneyがFCCと委員長を提訴、なぜトランプの検閲に反発するか](https://ai-tech-times.web.app/articles/20260819-disney-sues-fcc-and-chair.html) — 2026-08-19 12:02: 米メディア大手のDisneyが連邦通信委員会（FCC）と委員長を相手取り、訴訟を起こしました。FCCによる検閲キャンペーンへの対決姿勢を強めています。
 
 ## 世界のバズ動画TOP3 (2026-08-19)
 - 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
@@ -66,7 +66,7 @@
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
-- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、コマンドラインから操作してコーディングを支援するAIエージェントツール。
+- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
