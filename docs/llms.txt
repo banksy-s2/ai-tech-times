@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-19 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-20 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Airtelの無料提供終了後もPerplexityインドの売上が約60%増](https://ai-tech-times.web.app/articles/20260820-perplexity-india-revenue-growth-after-airtel-offer.html) — 2026-08-20 00:01: AI検索を展開するPerplexityのインド市場における動向が明らかになりました。Airtelによる無料提供の終了後、新規ユーザー向け施策が終了したにもかかわらず、売上が約60%増加したことが報じられています。
 - [日経平均2134円安、AI・半導体株総崩れの理由](https://ai-tech-times.web.app/articles/20260819-nikkei-average-drops-2134-yen.html) — 2026-08-19 23:00: 日経平均株価の終値が2134円安となり、AI・半導体関連株が総崩れとなりました。中東不安が拭えない相場の状況をお伝えします。
 - [大阪のIT企業、不正アクセスで136万件流出の恐れ](https://ai-tech-times.web.app/articles/20260819-osaka-it-company-data-leak.html) — 2026-08-19 22:00: データセンターなどを運営する大阪市のIT企業が、顧客情報管理システムへの不正アクセスを受け、大量の個人情報が漏えいした可能性があると発表しました。関係者の間で警戒が広がっています。
 - [トランプ政権、カナダへ50%追加関税を3日間猶予](https://ai-tech-times.web.app/articles/20260819-trump-admin-delays-canada-tariff.html) — 2026-08-19 22:00: アメリカのトランプ政権は、日本時間の19日午後1時すぎに発動を予定していたカナダへの50%の追加関税について、3日間の猶予を発表しました。
@@ -41,14 +42,13 @@
 - [MIT Tech Review: AIの自己改善はすぐには来ない？](https://ai-tech-times.web.app/articles/20260819-ai-recursive-self-improvement.html) — 2026-08-19 17:05: AI業界で期待される再帰的自己改善について、MIT Tech Review AIがその実現には時間がかかる可能性を報じています。
 - [エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念](https://ai-tech-times.web.app/articles/20260819-ai-bubble-lehman-crash-concern.html) — 2026-08-19 17:05: AI関連株の急落が続く中、市場で懸念されるリスクについて専門家の見解が伝えられています。
 - [ITmedia AI+調査：6割のエンジニアが実感するAI格差とは](https://ai-tech-times.web.app/articles/20260819-ai-skills-gap-itmedia.html) — 2026-08-19 17:05: ITmedia AI+が実施したエンジニアへの調査から、AIの活用スキルが仕事やキャリアに影響を与えている実態が明らかになりました。
-- [TikTok、DMでの個人間送金を検討か](https://ai-tech-times.web.app/articles/20260819-tiktok-explores-p2p-payments-via-dms.html) — 2026-08-19 17:05: TechCrunchの報道によると、TikTokはダイレクトメッセージ（DM）を通じた個人間送金機能の導入を検討していることが明らかになりました。
 
-## 世界のバズ動画TOP3 (2026-08-19)
-- 1位: [KATSEYE - PINKY UP (Live From The Today Show/2026)](https://www.youtube.com/watch?v=W4LhfsQTi5E)
-- 2位: [YE & Don Toliver - OK](https://www.youtube.com/watch?v=kSx7OL5-w2E)
-- 3位: [I Can't Believe They Streamed This](https://www.youtube.com/watch?v=1OYU38dGlBI)
+## 世界のバズ動画TOP3 (2026-08-20)
+- 1位: [BIGBANG - ‘BiiiG’ M/V](https://www.youtube.com/watch?v=L8ZnXgbyUuc)
+- 2位: [Call of Duty: Modern Warfare 4 | Multiplayer Trailer](https://www.youtube.com/watch?v=qeFVhw4YNbM)
+- 3位: [Slow Horses — Season 6 Official Trailer | Apple TV](https://www.youtube.com/watch?v=mZbJxpYHLuI)
 
-## AI用語事典 (全1003語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1004語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

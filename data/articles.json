@@ -53705,5 +53705,44 @@
   "date": "2026-08-19",
   "time": "23:00",
   "path": "/articles/20260819-nikkei-average-drops-2134-yen.html"
+ },
+ {
+  "title": "Airtelの無料提供終了後もPerplexityインドの売上が約60%増",
+  "lead": "AI検索を展開するPerplexityのインド市場における動向が明らかになりました。Airtelによる無料提供の終了後、新規ユーザー向け施策が終了したにもかかわらず、売上が約60%増加したことが報じられています。",
+  "summary3": [
+   "Airtelの無料提供が終了",
+   "インド市場の売上が約60%増",
+   "ダウンロード数は減少傾向に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新のAI業界ニュースです。TechCrunch AIの報道によると、AI検索エンジンを手がけるPerplexityのインドにおける収益が、約60%増加したことが分かりました。",
+   "この売上増加は、通信大手Airtelによる無料AIオファーが新規ユーザー向けに終了した後に記録されたものです。新規ユーザー向けの無料提供期間が終了し、アプリのダウンロード数自体は減少に転じたものの、実際の収益は大きく伸びる結果となりました。",
+   "無料提供期間を通じて獲得された数百万規模のユーザーがそのまま定着し、有料プランの利用やマネタイズにつながったとみられています。インド市場における今後のさらなる展開やユーザーの動向に、引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "Perplexity",
+   "Airtel",
+   "インド市場"
+  ],
+  "slug": "perplexity-india-revenue-growth-after-airtel-offer",
+  "people": [],
+  "terms": [
+   {
+    "name": "Perplexity",
+    "type": "company",
+    "desc": "対話型のAI検索エンジンを提供し、インターネット上の情報を元にした正確な回答や引用元の提示を行う米国の企業。"
+   },
+   {
+    "name": "Airtel",
+    "type": "company",
+    "desc": "インドを拠点に、アジアやアフリカなどで広く通信サービスやモバイル事業を展開する大手通信事業者。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+  "category": "ai",
+  "date": "2026-08-20",
+  "time": "00:01",
+  "path": "/articles/20260820-perplexity-india-revenue-growth-after-airtel-offer.html"
  }
 ]

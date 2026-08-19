@@ -1,111 +1,113 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-20",
  "videos": [
   {
-   "id": "W4LhfsQTi5E",
-   "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
-   "channel": "KATSEYEVEVO",
-   "views": 1109693,
-   "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E",
-   "thumb": "https://i.ytimg.com/vi/W4LhfsQTi5E/hqdefault.jpg",
+   "id": "L8ZnXgbyUuc",
+   "title": "BIGBANG - ‘BiiiG’ M/V",
+   "channel": "BIGBANG",
+   "views": 2119387,
+   "url": "https://www.youtube.com/watch?v=L8ZnXgbyUuc",
+   "thumb": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
+    "JP",
+    "KR",
     "BR"
    ],
    "rank": 1,
-   "comment": "KATSEYEによるToday Showでのライブ映像のようです。"
+   "comment": "BIGBANGの新曲と思われるMV映像です。"
   },
   {
-   "id": "kSx7OL5-w2E",
-   "title": "YE & Don Toliver - OK",
-   "channel": "Kanye West",
-   "views": 703148,
-   "url": "https://www.youtube.com/watch?v=kSx7OL5-w2E",
-   "thumb": "https://i.ytimg.com/vi/kSx7OL5-w2E/hqdefault.jpg",
+   "id": "qeFVhw4YNbM",
+   "title": "Call of Duty: Modern Warfare 4 | Multiplayer Trailer",
+   "channel": "Call of Duty",
+   "views": 116654,
+   "url": "https://www.youtube.com/watch?v=qeFVhw4YNbM",
+   "thumb": "https://i.ytimg.com/vi/qeFVhw4YNbM/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "BR"
    ],
    "rank": 2,
-   "comment": "カニエ・ウェストとドン・トリバーによる楽曲のようです。"
-  },
-  {
-   "id": "1OYU38dGlBI",
-   "title": "I Can't Believe They Streamed This",
-   "channel": "penguinz0",
-   "views": 3492656,
-   "url": "https://www.youtube.com/watch?v=1OYU38dGlBI",
-   "thumb": "https://i.ytimg.com/vi/1OYU38dGlBI/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 3,
-   "comment": "何かの配信に関する驚きの内容を扱っているようです。"
-  },
-  {
-   "id": "ZyZb2dFYqQs",
-   "title": "If This Balloon Touches The Ground You DIE",
-   "channel": "SMii7Y",
-   "views": 2109756,
-   "url": "https://www.youtube.com/watch?v=ZyZb2dFYqQs",
-   "thumb": "https://i.ytimg.com/vi/ZyZb2dFYqQs/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 4,
-   "comment": "風船が地面に触れると死ぬというゲームの企画のようです。"
+   "comment": "CoDシリーズのマルチプレイヤー紹介トレーラーのようです。"
   },
   {
    "id": "mZbJxpYHLuI",
    "title": "Slow Horses — Season 6 Official Trailer | Apple TV",
    "channel": "Apple TV",
-   "views": 1130033,
+   "views": 1203684,
    "url": "https://www.youtube.com/watch?v=mZbJxpYHLuI",
    "thumb": "https://i.ytimg.com/vi/mZbJxpYHLuI/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 3,
    "comment": "Apple TVのドラマ「Slow Horses」シーズン6の公式予告編のようだ。(30字)"
   },
   {
    "id": "bnoCNzqpfgw",
    "title": "Jynxzi CaseOh & Joe Bart 3v3 vs EVERY Rank in Rainbow Six Siege",
    "channel": "Jynxzi",
-   "views": 927736,
+   "views": 942385,
    "url": "https://www.youtube.com/watch?v=bnoCNzqpfgw",
    "thumb": "https://i.ytimg.com/vi/bnoCNzqpfgw/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 4,
    "comment": "Jynxzi氏らによるレインボーシックスシージの3対3対戦の様子かもしれない。(28字)"
   },
   {
-   "id": "ntLoF0LnAwY",
-   "title": "BOYNEXTDOOR (보이넥스트도어) 'Boom Boom Boom' Official MV",
-   "channel": "HYBE LABELS",
-   "views": 749290,
-   "url": "https://www.youtube.com/watch?v=ntLoF0LnAwY",
-   "thumb": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg",
+   "id": "p4s7iPXlGlI",
+   "title": "She Ain’t Easy (Official Video) Navaan Sandhu | RXTRO | New Punjabi Songs 2026",
+   "channel": "Navaan Sandhu",
+   "views": 772214,
+   "url": "https://www.youtube.com/watch?v=p4s7iPXlGlI",
+   "thumb": "https://i.ytimg.com/vi/p4s7iPXlGlI/hqdefault.jpg",
    "regions": [
-    "JP",
-    "KR"
+    "GB",
+    "IN"
+   ],
+   "rank": 5,
+   "comment": "Navaan Sandhuによる新しいパンジャビソングのMVです。"
+  },
+  {
+   "id": "kSx7OL5-w2E",
+   "title": "YE & Don Toliver - OK",
+   "channel": "Kanye West",
+   "views": 750529,
+   "url": "https://www.youtube.com/watch?v=kSx7OL5-w2E",
+   "thumb": "https://i.ytimg.com/vi/kSx7OL5-w2E/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 6,
+   "comment": "カニエ・ウェストとドン・トリバーによる楽曲のようです。"
+  },
+  {
+   "id": "4gWmv_hFsig",
+   "title": "EYR - Mercy (Original Music)",
+   "channel": "EYR Music",
+   "views": 589674,
+   "url": "https://www.youtube.com/watch?v=4gWmv_hFsig",
+   "thumb": "https://i.ytimg.com/vi/4gWmv_hFsig/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "BR"
    ],
    "rank": 7,
-   "comment": "BOYNEXTDOORの新曲公式MVのようです。"
+   "comment": "EYRによるオリジナルの楽曲作品のようです。"
   },
   {
    "id": "yx8NV9j1fKg",
    "title": "Honest Trailers | Supergirl (2026)",
    "channel": "Screen Junkies",
-   "views": 441782,
+   "views": 456181,
    "url": "https://www.youtube.com/watch?v=yx8NV9j1fKg",
    "thumb": "https://i.ytimg.com/vi/yx8NV9j1fKg/hqdefault.jpg",
    "regions": [
@@ -116,32 +118,32 @@
    "comment": "2026年公開予定のスーパーガールを辛口でいじっているようです"
   },
   {
-   "id": "u_WmgC9E4xA",
-   "title": "DUNE 3 Official NEW Teaser Trailer (2026) Timothée Chalamet",
-   "channel": "KinoCheck.com",
-   "views": 315162,
-   "url": "https://www.youtube.com/watch?v=u_WmgC9E4xA",
-   "thumb": "https://i.ytimg.com/vi/u_WmgC9E4xA/hqdefault.jpg",
+   "id": "cbJPrdM8tOk",
+   "title": "THE BOYS GO ON A BIG WALK",
+   "channel": "The Boys Gaming",
+   "views": 260344,
+   "url": "https://www.youtube.com/watch?v=cbJPrdM8tOk",
+   "thumb": "https://i.ytimg.com/vi/cbJPrdM8tOk/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 9,
-   "comment": "ティモシー・シャラメ出演の新作映画の予告編のようです"
+   "comment": "The Boysのメンバーたちが大きな散歩に出かけるゲーム動画のようです。"
   },
   {
-   "id": "ikKBcZg9jUc",
-   "title": "Marianne",
-   "channel": "Fontaines D.C. - Topic",
-   "views": 220533,
-   "url": "https://www.youtube.com/watch?v=ikKBcZg9jUc",
-   "thumb": "https://i.ytimg.com/vi/ikKBcZg9jUc/hqdefault.jpg",
+   "id": "Xtr-oPCp2GQ",
+   "title": "The Grand Tour | Official Trailer | Prime Video",
+   "channel": "Amazon Prime Video UK & IE",
+   "views": 26382,
+   "url": "https://www.youtube.com/watch?v=Xtr-oPCp2GQ",
+   "thumb": "https://i.ytimg.com/vi/Xtr-oPCp2GQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 10,
-   "comment": "フォンテインズD.C.の楽曲に関連するトピック動画のようです"
+   "comment": "Amazon Prime Videoによる『The Grand Tour』公式トレーラーのようです。"
   }
  ],
  "covered": [
@@ -153,12 +155,6 @@
   "IN"
  ],
  "comment_cache": {
-  "GfWDs2ZCMes": "Robloxの人気プレイ動画がランクインしています。(23字)",
-  "6AFrjp_-ODA": "悪役たちが集結するアニメ風トレーラーの第2弾かもしれません。",
-  "HeFsNVSAdtw": "アベンジャーズ新作のSDCC予告編やホールH映像を解説しているようです。",
-  "86OOvAHW424": "動物病院でスライムの感染が発生するゲーム実況のようです。",
-  "hPZcZpNn3KY": "マヒラ・シャルマらが出演する新曲MVのようです",
-  "XuovA-AdDP8": "クラッシュ・ロワイヤル公式チャンネルの新しい動画のようです。",
   "SHt8pAd3vCM": "GTA5のファイナルヘイストに向けた準備を進めているようです。",
   "AMLCbpM1fRQ": "A24が手掛ける新作映画『Onslaught』の公式予告編第2弾のようです。",
   "Vstf1W5mA7c": "2026年公開予定のスパイダーマン新作に関するコンセプトトレイラーのようです。",
@@ -452,6 +448,12 @@
   "LE5KwzUTUQw": "セキュリティカメラに恐ろしい存在が映り込んだようです",
   "aqmHBxmIAnI": "ゲーム内で最も難しいとされるハードなヌードロックに挑戦した動画のようです。",
   "u_WmgC9E4xA": "ティモシー・シャラメ出演の新作映画の予告編のようです",
-  "ikKBcZg9jUc": "フォンテインズD.C.の楽曲に関連するトピック動画のようです"
+  "ikKBcZg9jUc": "フォンテインズD.C.の楽曲に関連するトピック動画のようです",
+  "L8ZnXgbyUuc": "BIGBANGの新曲と思われるMV映像です。",
+  "qeFVhw4YNbM": "CoDシリーズのマルチプレイヤー紹介トレーラーのようです。",
+  "p4s7iPXlGlI": "Navaan Sandhuによる新しいパンジャビソングのMVです。",
+  "4gWmv_hFsig": "EYRによるオリジナルの楽曲作品のようです。",
+  "cbJPrdM8tOk": "The Boysのメンバーたちが大きな散歩に出かけるゲーム動画のようです。",
+  "Xtr-oPCp2GQ": "Amazon Prime Videoによる『The Grand Tour』公式トレーラーのようです。"
  }
 }
