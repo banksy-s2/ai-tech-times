@@ -52259,5 +52259,38 @@
   "date": "2026-08-19",
   "time": "09:00",
   "path": "/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html"
+ },
+ {
+  "title": "DOVA-SYNDROMEがOpenTracksへ改名、利用者の影響は？",
+  "lead": "有名フリーBGMサイト「DOVA-SYNDROME」が9月15日にサービス名を「OpenTracks」に変更すると発表しました。音源利用者に影響はあるのでしょうか。",
+  "summary3": [
+   "DOVA-SYNDROMEが改名へ",
+   "9月15日にOpenTracksに変更",
+   "音源はこれまで通り全て無料"
+  ],
+  "body": [
+   "フリーBGMサイト「DOVA-SYNDROME」を運営するTRACKSは8月18日、9月15日にサービス名を「OpenTracks」（オープントラックス）に変更すると発表しました。同時に、サイトのURLも新名称に合わせて刷新される予定です。",
+   "今回の変更はサービス名称とURLに関わるもののみとなっています。利用者が気になる音源の利用については、これまで通り全て無料で利用できるとしています。"
+  ],
+  "tags": [
+   "DOVA-SYNDROME",
+   "OpenTracks",
+   "フリーBGM"
+  ],
+  "slug": "dova-syndrome-opentracks-rename",
+  "people": [],
+  "terms": [
+   {
+    "name": "TRACKS",
+    "type": "company",
+    "desc": "東京都千代田区に所在し、フリーBGMサイト「DOVA-SYNDROME」を運営する企業。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/18/2000000595/",
+  "category": "influencer",
+  "date": "2026-08-19",
+  "time": "11:00",
+  "path": "/articles/20260819-dova-syndrome-opentracks-rename.html"
  }
 ]

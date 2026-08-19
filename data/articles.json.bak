@@ -52220,5 +52220,44 @@
   "date": "2026-08-19",
   "time": "08:00",
   "path": "/articles/20260819-relay-shuts-down-google-chrome.html"
+ },
+ {
+  "title": "Anthropicの年換算収益が10兆円超え、約7カ月で7倍に急拡大した理由",
+  "lead": "AIアシスタント「Claude」を手がけるAnthropicの年換算収益が650億ドル（約10兆円）を突破しました。わずか約7カ月という短期間で約7倍に急拡大した実績が明らかになっています。",
+  "summary3": [
+   "Anthropicの年換算収益が10兆円超え",
+   "2025年末の約1兆4400億円から約7倍に拡大",
+   "四半期売上高は前年同期比で14倍以上に成長"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。AIアシスタント「Claude」を開発するAnthropicの年換算収益が、650億ドル（約10兆円）を突破したことがわかりました。2025年末時点では約90億ドル（約1兆4400億円）であったため、わずか7カ月ほどで約7倍にまで拡大した計算になります。",
+   "同社は四半期売上高においても前年同期比で14倍以上を記録するなど、極めて急激な事業成長を遂げています。今回の発表では、AI市場における収益化のスピードが一段と加速している実態が浮き彫りとなりました。",
+   "短期間でこれほどの規模に達した背景には、主力製品であるClaudeの利用拡大や企業の需要急増があるとみられます。今後のさらなる収益動向や市場への影響に、引き続き高い関心が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI収益"
+  ],
+  "slug": "anthropic-revenue-run-rate-10-trillion-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、安全性を重視したAIアシスタント「Claude」シリーズを提供している。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発・提供する高性能な対話型AIアシスタントであり、ビジネスや日常業務で広く活用されている。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260818-anthropic-revenue-run-rate/",
+  "category": "ai_jp",
+  "date": "2026-08-19",
+  "time": "09:00",
+  "path": "/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html"
  }
 ]
