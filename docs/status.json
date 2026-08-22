@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-22 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-23 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "金融庁:20代のNISA買い付け額が14年比17倍に",
-   "path": "/articles/20260822-nisa-20s-investment-growth-2025.html",
-   "cat": "株式投資(日本)"
+   "title": "米司法省がa16zを調査、ベンチャーキャピタルへの影響は",
+   "path": "/articles/20260823-doj-investigates-a16z-vc-impact.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAI、GPT-5.6 Solを20%値下げの理由",
+   "path": "/articles/20260823-openai-gpt-56-sol-price-reduction.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": null,
  "gemini": {
-  "used": 3,
+  "used": 5,
   "limit": 200
  }
 }
