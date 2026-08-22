@@ -1559,13 +1559,11 @@
   "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
   "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
   "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000684/",
-  "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide"
+  "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
+  "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
+  "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html"
  ],
  "titles": [
-  "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
-  "Qualcomm is raising phone chip prices starting September 1st",
-  "Meta reports Q2 revenue up 28% YoY to $60.8B and family daily active people up 3% to 3.6B on average for June 2026; META drops 10%+ after hours (Meta)",
-  "《独自》水原一平、“大学詐称”はおろか高校も卒業していなかった…！　高校はHPの「卒業者紹介」欄から削除…深まる「大谷翔平とエンゼルスはなぜ気づかなかったのか」の謎",
   "高市首相 食料品の消費税率 1％に引き下げる方針表明の見通し",
   "【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止",
   "日経平均930円安 AI銘柄に相次ぐ「半値割れ」 - 日本経済新聞",
@@ -3561,6 +3559,10 @@
   "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」　note記事作成の“苦労”明かす",
   "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
   "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」",
-  "AIで生産性3倍のチームが直面した分断"
+  "AIで生産性3倍のチームが直面した分断",
+  "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
+  "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+  "テスラ、中国で300万台を自主リコールの理由",
+  "Broadcom、チップ資金調達で700億ドル超の負債交渉へ"
  ]
 }

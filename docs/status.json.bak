@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23 01:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-23 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」",
-   "path": "/articles/20260823-avex-matsuura-ai-note-difficulty.html",
-   "cat": "日本のAI"
+   "title": "テスラ、中国で300万台を自主リコールの理由",
+   "path": "/articles/20260823-tesla-recalls-3-million-vehicles-in-china.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "AIで生産性3倍のチームが直面した分断",
-   "path": "/articles/20260823-ai-productivity-team-divide.html",
-   "cat": "日本のAI"
+   "title": "Broadcom、チップ資金調達で700億ドル超の負債交渉へ",
+   "path": "/articles/20260823-broadcom-debt-deal-70-billion.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }

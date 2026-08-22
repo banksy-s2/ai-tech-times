@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-23 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "テスラ、中国で300万台を自主リコールの理由",
-   "path": "/articles/20260823-tesla-recalls-3-million-vehicles-in-china.html",
-   "cat": "シリコンバレー最速"
+   "title": "東京都江東区で水道管破裂の通報、消防隊が出動",
+   "path": "/articles/20260823-water-pipe-burst-koto-ward.html",
+   "cat": "時事・世界"
   },
   {
-   "title": "Broadcom、チップ資金調達で700億ドル超の負債交渉へ",
-   "path": "/articles/20260823-broadcom-debt-deal-70-billion.html",
-   "cat": "シリコンバレー最速"
+   "title": "TikTok司法省に636億円支払い和解、なぜ",
+   "path": "/articles/20260823-tiktok-justice-department-settlement-636-billion-yen.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 17,
   "limit": 200
  }
 }
