@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-23 01:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "米司法省がa16zを調査、ベンチャーキャピタルへの影響は",
-   "path": "/articles/20260823-doj-investigates-a16z-vc-impact.html",
-   "cat": "AI(海外)"
+   "title": "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」",
+   "path": "/articles/20260823-avex-matsuura-ai-note-difficulty.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAI、GPT-5.6 Solを20%値下げの理由",
-   "path": "/articles/20260823-openai-gpt-56-sol-price-reduction.html",
-   "cat": "AI(海外)"
+   "title": "AIで生産性3倍のチームが直面した分断",
+   "path": "/articles/20260823-ai-productivity-team-divide.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }

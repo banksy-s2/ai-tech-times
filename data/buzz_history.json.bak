@@ -3498,7 +3498,7 @@
    "id": "MT-4Bk1Lw8g",
    "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
    "channel": "HYBE LABELS",
-   "views": 8418138,
+   "views": 8831572,
    "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g",
    "thumb": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/hqdefault.jpg",
    "regions": [
@@ -3515,7 +3515,7 @@
    "id": "tCT017S36hc",
    "title": "VIBE - Official Teaser | In Cinemas - September 18 | Kunal Kemmu | Preity Zinta | Sparsh Shrivastava",
    "channel": "Amazon MGM Studios India",
-   "views": 2340017,
+   "views": 2387009,
    "url": "https://www.youtube.com/watch?v=tCT017S36hc",
    "thumb": "https://i.ytimg.com/vi/tCT017S36hc/hqdefault.jpg",
    "regions": [
@@ -3529,7 +3529,7 @@
    "id": "G_SCHL5QGi4",
    "title": "That Ain't Me M'Lord",
    "channel": "SMii7Y",
-   "views": 1301823,
+   "views": 1342392,
    "url": "https://www.youtube.com/watch?v=G_SCHL5QGi4",
    "thumb": "https://i.ytimg.com/vi/G_SCHL5QGi4/hqdefault.jpg",
    "regions": [
@@ -3543,7 +3543,7 @@
    "id": "lyGfeumEUHs",
    "title": "Kidnapped by a SHARK GIRL in Minecraft!",
    "channel": "Cash",
-   "views": 808638,
+   "views": 832067,
    "url": "https://www.youtube.com/watch?v=lyGfeumEUHs",
    "thumb": "https://i.ytimg.com/vi/lyGfeumEUHs/hqdefault.jpg",
    "regions": [
@@ -3557,7 +3557,7 @@
    "id": "SyeHKMfswHk",
    "title": "Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix",
    "channel": "Netflix",
-   "views": 799833,
+   "views": 808220,
    "url": "https://www.youtube.com/watch?v=SyeHKMfswHk",
    "thumb": "https://i.ytimg.com/vi/SyeHKMfswHk/hqdefault.jpg",
    "regions": [
@@ -3571,7 +3571,7 @@
    "id": "y5Gbgx50FCc",
    "title": "Can You Keep a PARASITE as a Pet?",
    "channel": "EYstreem",
-   "views": 597409,
+   "views": 644891,
    "url": "https://www.youtube.com/watch?v=y5Gbgx50FCc",
    "thumb": "https://i.ytimg.com/vi/y5Gbgx50FCc/hqdefault.jpg",
    "regions": [
@@ -3585,7 +3585,7 @@
    "id": "TsFvYJ8fQh4",
    "title": "Let’s Finally Talk About the Avengers Doomsday (Reported) Opening Scene",
    "channel": "New Rockstars",
-   "views": 573818,
+   "views": 578231,
    "url": "https://www.youtube.com/watch?v=TsFvYJ8fQh4",
    "thumb": "https://i.ytimg.com/vi/TsFvYJ8fQh4/hqdefault.jpg",
    "regions": [
@@ -3596,6 +3596,20 @@
   },
   {
    "rank": 8,
+   "id": "ozsKU77OWpE",
+   "title": "Tom Cruise vs Evel Knievel. Epic Rap Battles Of History",
+   "channel": "ERB",
+   "views": 514578,
+   "url": "https://www.youtube.com/watch?v=ozsKU77OWpE",
+   "thumb": "https://i.ytimg.com/vi/ozsKU77OWpE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "トム・クルーズとイーブル・ニーベルのラップバトル動画のようです。"
+  },
+  {
+   "rank": 9,
    "id": "IBTK8PGe_Oo",
    "title": "Cyberpunk: Edgerunners 2 | Premiere Date Teaser Trailer",
    "channel": "Cyberpunk 2077",
@@ -3609,25 +3623,11 @@
    "comment": "『サイバーパンク エッジランナーズ2』の配信日告知トレーラーのようです。"
   },
   {
-   "rank": 9,
-   "id": "ozsKU77OWpE",
-   "title": "Tom Cruise vs Evel Knievel. Epic Rap Battles Of History",
-   "channel": "ERB",
-   "views": 500269,
-   "url": "https://www.youtube.com/watch?v=ozsKU77OWpE",
-   "thumb": "https://i.ytimg.com/vi/ozsKU77OWpE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "トム・クルーズとイーブル・ニーベルのラップバトル動画のようです。"
-  },
-  {
    "rank": 10,
    "id": "UoqaVRAF3H4",
    "title": "NETTSPEND - sober",
    "channel": "Nettspend",
-   "views": 203972,
+   "views": 209785,
    "url": "https://www.youtube.com/watch?v=UoqaVRAF3H4",
    "thumb": "https://i.ytimg.com/vi/UoqaVRAF3H4/hqdefault.jpg",
    "regions": [
