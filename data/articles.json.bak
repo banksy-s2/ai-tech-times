@@ -53778,5 +53778,92 @@
   "date": "2026-08-22",
   "time": "23:00",
   "path": "/articles/20260822-nisa-20s-investment-growth-2025.html"
+ },
+ {
+  "title": "米司法省がa16zを調査、ベンチャーキャピタルへの影響は",
+  "lead": "米司法省が著名ベンチャーキャピタルのAndreessen Horowitz（a16z）に対する調査を約1年間にわたり進めていることが報じられました。112年前の独占禁止法が適用される可能性があり、業界に波紋を広げています。",
+  "summary3": [
+   "米司法省がa16zを約1年調査",
+   "競合企業への取締役派遣が焦点に",
+   "112年前の独禁法が適用される事態"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。米国の著名ベンチャーキャピタルであるAndreessen Horowitz（a16z）に対し、アメリカ司法省が調査を行っていることが明らかになりました。約1年間にわたり、同社のパートナーによる取締役会の兼任問題が調べられています。",
+   "問題視されているのは、a16zのパートナーであるベン・ホロウィッツ氏がDatabricksの、マーティン・カサド氏がFivetranの取締役をそれぞれ務めている点です。現在、これら2社は競合関係にあたります。",
+   "表面的には大きなスキャンダルに見えないこの状況ですが、司法省は普段ベンチャーキャピタルに対して使われることの少ない、112年前の独占禁止法を持ち出して調査を行っています。今回の調査が今後のベンチャーキャピタル業界の運営や取締役会のあり方にどのような意味を持つのか、注目が集まっています。"
+  ],
+  "tags": [
+   "a16z",
+   "DOJ",
+   "ベンチャーキャピタル"
+  ],
+  "slug": "doj-investigates-a16z-vc-impact",
+  "people": [
+   {
+    "name": "ベン・ホロウィッツ",
+    "bio": "著名ベンチャーキャピタルであるAndreessen Horowitzの共同創業者兼パートナー。"
+   },
+   {
+    "name": "マーティン・カサド",
+    "bio": "著名ベンチャーキャピタルであるAndreessen Horowitzのゼネラルパートナー。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "company",
+    "desc": "アメリカ・カリフォルニア州を拠点とする、IT・テクノロジー分野を中心に投資を行う世界的なベンチャーキャピタル。"
+   },
+   {
+    "name": "Databricks",
+    "type": "company",
+    "desc": "アメリカを拠点とし、データプラットフォームやAI・データ分析ソリューションを提供する企業。"
+   },
+   {
+    "name": "Fivetran",
+    "type": "company",
+    "desc": "アメリカを拠点とし、データ統合やデータパイプラインの自動化サービスを提供する企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "00:01",
+  "path": "/articles/20260823-doj-investigates-a16z-vc-impact.html"
+ },
+ {
+  "title": "OpenAI、GPT-5.6 Solを20%値下げの理由",
+  "lead": "AI TECH TIMESの記者として、OpenAIのモデル価格改定に関する最新情報をお伝えします。",
+  "summary3": [
+   "OpenAIがモデルの価格を改定",
+   "GPT-5.6 Solが20%値下げ",
+   "開発者向けドキュメントで公開"
+  ],
+  "body": [
+   "AI TECH TIMESの編集部です。OpenAIは、提供するモデルの価格改定に関する情報を公開しました。",
+   "今回の発表によると、GPT-5.6 Solの価格が20%引き下げられることになります。",
+   "詳細については、公式の開発者向けドキュメントページをご確認ください。"
+  ],
+  "tags": [
+   "OpenAI",
+   "AI",
+   "価格改定"
+  ],
+  "slug": "openai-gpt-56-sol-price-reduction",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、最先端の人工知能技術を研究・提供していることで知られています。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "00:01",
+  "path": "/articles/20260823-openai-gpt-56-sol-price-reduction.html"
  }
 ]
