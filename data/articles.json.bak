@@ -54072,5 +54072,39 @@
   "date": "2026-08-23",
   "time": "04:00",
   "path": "/articles/20260823-tiktok-justice-department-settlement-636-billion-yen.html"
+ },
+ {
+  "title": "円相場が160円視野、日米中銀幹部講演と日経平均の動き",
+  "lead": "円相場が再び160円を視野に入れる展開となる中、日米の中央銀行幹部による講演が予定されており、市場の注目を集めています。",
+  "summary3": [
+   "円相場が再び160円を視野に推移",
+   "日米の中央銀行幹部の講演を予定",
+   "日経平均株価は上値が重い展開"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、外国為替市場の円相場は再び160円を視野に入れた動きとなっています。足元では円安基調が意識される展開が続いており、市場参加者の間では今後の動向に対する警戒感が強まっています。",
+   "こうした中、日米の中央銀行幹部による講演が予定されています。金融政策の先行きや為替動向に関する発言内容によっては、市場に大きな影響を与える可能性があるため、発言内容やその解釈に高い関心が寄せられています。",
+   "また、株式市場では日経平均株価の上値が重い状況となっています。円相場の動向や日米の中銀幹部による講演を前に、積極的な買いを手控える動きや様子見姿勢が広がっている模様です。"
+  ],
+  "tags": [
+   "為替",
+   "日経平均",
+   "中央銀行"
+  ],
+  "slug": "yen-rate-160-nikkei-average",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済や金融を中心としたニュースを専門に扱う日刊の全国紙。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53Y2tzYjRrMUpkNHJ1bE02SVphdWt3R3VTUmhEX0RJOFJEaHlZR3Y1UnhaQWR3c3A3Rlc3WFB2UlFBTl9pZWJBb1VXX215UHZHTUVPVFdCakpwM0U1c182QklRZXd0MjcxTmVZcg?oc=5",
+  "category": "stock",
+  "date": "2026-08-23",
+  "time": "05:00",
+  "path": "/articles/20260823-yen-rate-160-nikkei-average.html"
  }
 ]
