@@ -1572,13 +1572,11 @@
   "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
   "https://news.web.nhk/newsweb/na/nd-20260821de45530",
   "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-  "https://news.web.nhk/newsweb/na/nd-20260821de45596"
+  "https://news.web.nhk/newsweb/na/nd-20260821de45596",
+  "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
  ],
  "titles": [
-  "米政府、中国製人型ロボットの輸入禁止へ 安保リスクとは",
-  "GMO Flatt Securityが指摘するRails緊急脆弱性CVE-2026-66066の対応指針",
-  "ジョージアで連絡不通のタイ人旅行YouTuber「Hlun Solo」さん、死亡確認 - タイランドハイパーリンクス",
-  "ジョージアで連絡不通のHlun Soloさん、死亡確認",
   "Document-borne AI worms can self-propagate through Copilot for Word",
   "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
   "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
@@ -3574,6 +3572,10 @@
   "Meta裁判敗訴でSNSは終わるのか、1990年代の巨大タバコ訴訟と比較される理由",
   "韓鶴子総裁とキム・ゴニ夫人、政党法違反の初公判で否認",
   "ウサイン・ボルト氏の100m記録をヒューマノイドロボットが9.39秒で破った理由",
-  "ラピダスへ1500億円要求、経産省が3度目の出資へ"
+  "ラピダスへ1500億円要求、経産省が3度目の出資へ",
+  "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "Nvidia just showed that the harness, not the AI model, is now the real hero",
+  "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
+  "Nvidia研究：AIの性能よりハーネスが成果を左右する理由"
  ]
 }

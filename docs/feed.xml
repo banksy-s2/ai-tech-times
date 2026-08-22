@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>フロンティアAI研究所、暴走モデルの封じ込め策を公開せず</title>
+<link>https://ai-tech-times.web.app/articles/20260823-frontier-ai-labs-containment-plans.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-frontier-ai-labs-containment-plans.html</guid>
+<pubDate>Sun, 23 Aug 2026 08:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>主要なAI研究所が、暴走するAIモデルを封じ込めるための公開された計画をほとんど持っていないことが新たな調査で明らかになりました。</description>
+</item>
+<item>
+<title>Nvidia研究：AIの性能よりハーネスが成果を左右する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260823-nvidia-harness-ai-model-hero.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-nvidia-harness-ai-model-hero.html</guid>
+<pubDate>Sun, 23 Aug 2026 08:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Nvidiaの研究により、AIモデル自体の性能が高くなくても、適切なチューニングを施したハーネスを使えば、AIエージェントが優れた成果を出せることが明らかになりました。</description>
+</item>
+<item>
 <title>OpenAI、カリフォルニア州のAI法案強化を訴える理由</title>
 <link>https://ai-tech-times.web.app/articles/20260823-openai-says-california-should-strengthen-its-ai-safety-bill.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260823-openai-says-california-should-strengthen-its-ai-safety-bill.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>人気ボーカリストのAdoに対して、世界的ロックバンドのメタリカが感謝を表明しました。Adoのこれまでの歩みと活動の軌跡を振り返ります。</description>
-</item>
-<item>
-<title>訪日客数344万人余り、0.1％増に4か月ぶり転換の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-july-foreign-visitors-increase.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-july-foreign-visitors-increase.html</guid>
-<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>7月に日本を訪れた外国人の旅行者数が、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの大幅な減少が続く中での増加の背景をお伝えします。</description>
-</item>
-<item>
-<title>KDDI子会社の「menu」来月末で終了、競争激化で撤退相次ぐ</title>
-<link>https://ai-tech-times.web.app/articles/20260819-kddi-menu-service-end.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-kddi-menu-service-end.html</guid>
-<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
-<category>日本企業</category>
-<description>KDDIは、料理などの宅配を手がける子会社の「menu」が、来月末でサービスを終了すると発表しました。コロナ禍のあとの需要伸び悩みによる撤退が相次いでいます。</description>
 </item>
 </channel></rss>

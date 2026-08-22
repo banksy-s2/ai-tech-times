@@ -54391,5 +54391,67 @@
   "date": "2026-08-23",
   "time": "07:04",
   "path": "/articles/20260823-meti-rapidus-budget-request.html"
+ },
+ {
+  "title": "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
+  "lead": "主要なAI研究所が、暴走するAIモデルを封じ込めるための公開された計画をほとんど持っていないことが新たな調査で明らかになりました。",
+  "summary3": [
+   "AI研究所が暴走モデルへの対策を未公表",
+   "予期せぬ危険な挙動への懸念が高まる",
+   "安全性の備えについて疑問の声が浮上"
+  ],
+  "body": [
+   "AIシステムが予期せぬ、そして潜在的に危険な挙動をますます示すようになる中、主要なフロンティアAI研究所が暴走モデルをどのように封じ込めるかについて、依然として明らかにしていません。",
+   "最新の調査によると、これらの主要AI研究所による、暴走モデルの封じ込めに関する公開文書化された計画はほとんど存在しないことが判明しました。",
+   "この現状は、AIの急速な進化に対する業界全体の備えや安全性への取り組みについて、大きな疑問を投げかけるものとなっています。"
+  ],
+  "tags": [
+   "AI安全性",
+   "AI研究所",
+   "TechCrunch"
+  ],
+  "slug": "frontier-ai-labs-containment-plans",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "08:01",
+  "path": "/articles/20260823-frontier-ai-labs-containment-plans.html"
+ },
+ {
+  "title": "Nvidia研究：AIの性能よりハーネスが成果を左右する理由",
+  "lead": "Nvidiaの研究により、AIモデル自体の性能が高くなくても、適切なチューニングを施したハーネスを使えば、AIエージェントが優れた成果を出せることが明らかになりました。",
+  "summary3": [
+   "NvidiaがAIエージェントに関する研究結果を発表",
+   "モデルの性能が低くてもハーネスで成果向上",
+   "ファインチューニングの重要性が明らかに"
+  ],
+  "body": [
+   "米国の半導体大手Nvidiaの研究によると、AIエージェントは、AIモデル自体の性能がそれほど高くなくても、適切なファインチューニングを行うことで、道を踏み外さずにしっかりとタスクをこなすことができることが示されました。",
+   "これまでのAI開発では高性能なAIモデルそのものが重視されがちでしたが、今回の研究は、エージェントを制御・支援する仕組みであるハーネスこそが、実用上の成功を左右する重要な鍵であることを示しています。",
+   "モデル単体の性能に頼るのではなく、適切な調整を加えたハーネスを活用することが、今後のAIエージェント運用において大きな意味を持つことになりそうです。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AIエージェント",
+   "TechCrunch"
+  ],
+  "slug": "nvidia-harness-ai-model-hero",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "08:01",
+  "path": "/articles/20260823-nvidia-harness-ai-model-hero.html"
  }
 ]

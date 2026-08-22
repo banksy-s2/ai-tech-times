@@ -1,61 +1,26 @@
 {
- "updated": "2026-08-23 07:04",
- "mode": "フル便",
+ "updated": "2026-08-23 08:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "OpenAI、カリフォルニア州のAI法案強化を訴える理由",
-   "path": "/articles/20260823-openai-says-california-should-strengthen-its-ai-safety-bill.html",
+   "title": "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
+   "path": "/articles/20260823-frontier-ai-labs-containment-plans.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "グッドパッチ執行役員が明かす、AIにハーネスを設計する守りの設計図",
-   "path": "/articles/20260823-goodpatch-ai-safety-design.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AIエージェント担当者の6つの役割と必要スキルとは",
-   "path": "/articles/20260823-ai-agent-role-skills.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Nvidia、AIサーバーの15%超値上げを顧客に警告か",
-   "path": "/articles/20260823-nvidia-warns-ai-server-price-hikes.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Meta裁判敗訴でSNSは終わるのか、1990年代の巨大タバコ訴訟と比較される理由",
-   "path": "/articles/20260823-meta-social-media-lawsuit-trial.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "韓鶴子総裁とキム・ゴニ夫人、政党法違反の初公判で否認",
-   "path": "/articles/20260823-unification-church-trial-korea.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ウサイン・ボルト氏の100m記録をヒューマノイドロボットが9.39秒で破った理由",
-   "path": "/articles/20260823-humanoid-robot-beats-bolt-record.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ラピダスへ1500億円要求、経産省が3度目の出資へ",
-   "path": "/articles/20260823-meti-rapidus-budget-request.html",
-   "cat": "日本企業"
+   "title": "Nvidia研究：AIの性能よりハーネスが成果を左右する理由",
+   "path": "/articles/20260823-nvidia-harness-ai-model-hero.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [
-  "執筆失敗: Over 1 million people have clicked Linke",
-  "執筆失敗: メッシに謝罪！身長イジリ→大炎上→「世界でバズる価値観」と反論の19歳YouTu",
-  "執筆失敗: 東証プライムの売買代金、3カ月半ぶり8兆円割れ NVIDIA決算控え様子見 - ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 41,
+  "used": 45,
   "limit": 200
  }
 }
