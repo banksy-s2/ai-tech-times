@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-19 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-20 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均2134円安、AI・半導体株総崩れの理由",
-   "path": "/articles/20260819-nikkei-average-drops-2134-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "Airtelの無料提供終了後もPerplexityインドの売上が約60%増",
+   "path": "/articles/20260820-perplexity-india-revenue-growth-after-airtel-offer.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
-  "title": "KATSEYE - PINKY UP (Live From The Today Show/2026)",
-  "url": "https://www.youtube.com/watch?v=W4LhfsQTi5E"
+  "title": "BIGBANG - ‘BiiiG’ M/V",
+  "url": "https://www.youtube.com/watch?v=L8ZnXgbyUuc"
  },
- "notes": [],
- "pv_today": 1,
+ "notes": [
+  "執筆失敗: Warp’s new system is an out-of-the-box s"
+ ],
+ "pv_today": null,
  "gemini": {
-  "used": 178,
+  "used": 6,
   "limit": 200
  }
 }
