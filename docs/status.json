@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-23 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-23 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "東京都江東区で水道管破裂の通報、消防隊が出動",
-   "path": "/articles/20260823-water-pipe-burst-koto-ward.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "TikTok司法省に636億円支払い和解、なぜ",
-   "path": "/articles/20260823-tiktok-justice-department-settlement-636-billion-yen.html",
-   "cat": "時事・世界"
+   "title": "円相場が160円視野、日米中銀幹部講演と日経平均の動き",
+   "path": "/articles/20260823-yen-rate-160-nikkei-average.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 17,
+  "used": 20,
   "limit": 200
  }
 }

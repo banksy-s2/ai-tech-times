@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [円相場が160円視野、日米中銀幹部講演と日経平均の動き](https://ai-tech-times.web.app/articles/20260823-yen-rate-160-nikkei-average.html) — 2026-08-23 05:00: 円相場が再び160円を視野に入れる展開となる中、日米の中央銀行幹部による講演が予定されており、市場の注目を集めています。
 - [東京都江東区で水道管破裂の通報、消防隊が出動](https://ai-tech-times.web.app/articles/20260823-water-pipe-burst-koto-ward.html) — 2026-08-23 04:00: 東京消防庁によると、東京都江東区清澄で水道管が破裂したという通報が寄せられました。地震との関係は現在分かっていません。
 - [TikTok司法省に636億円支払い和解、なぜ](https://ai-tech-times.web.app/articles/20260823-tiktok-justice-department-settlement-636-billion-yen.html) — 2026-08-23 04:00: 中国系の動画共有アプリ「TikTok」が子どもの個人情報を親の同意なく収集していたとされる裁判で、アメリカ司法省は21日、TikTok側が日本円でおよそ636億円を支払うことで和解したと発表しました。
 - [テスラ、中国で300万台を自主リコールの理由](https://ai-tech-times.web.app/articles/20260823-tesla-recalls-3-million-vehicles-in-china.html) — 2026-08-23 02:00: 米電気自動車大手のテスラが、中国市場において約300万台の車両を対象とした自主リコールを実施することが明らかになりました。ドアハンドルに関する安全性と、ドライバーの監視システムに懸念があるためです。
@@ -41,12 +42,11 @@
 - [Nvidia製チップの中国流出防ぐか、米国が隠れた抜け穴を塞ぐ理由](https://ai-tech-times.web.app/articles/20260819-us-nvidia-chips-china-export-controls.html) — 2026-08-19 21:05: 米国の輸出規制をすり抜け、中国のAI企業が海外で高度なエヌビディア製チップの演算能力にアクセスしていることが明らかになりました。議員らは新たな対策の検討を進めています。
 - [Amazon、ドローン配達を約500都市へ拡大する計画](https://ai-tech-times.web.app/articles/20260819-amazon-drone-service-expansion.html) — 2026-08-19 21:05: 米ネット通販大手のAmazonが、ドローンによる配送サービスを約500都市へ拡大する計画を進めていることが明らかになりました。今年100万件の配達を目標に掲げています。
 - [メタリカがAdoに感謝した理由](https://ai-tech-times.web.app/articles/20260819-metallica-thanks-ado.html) — 2026-08-19 21:05: 人気ボーカリストのAdoに対して、世界的ロックバンドのメタリカが感謝を表明しました。Adoのこれまでの歩みと活動の軌跡を振り返ります。
-- [訪日客数344万人余り、0.1％増に4か月ぶり転換の理由](https://ai-tech-times.web.app/articles/20260819-july-foreign-visitors-increase.html) — 2026-08-19 21:05: 7月に日本を訪れた外国人の旅行者数が、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの大幅な減少が続く中での増加の背景をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
-- 2位: [That Ain't Me M'Lord](https://www.youtube.com/watch?v=G_SCHL5QGi4)
-- 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
+- 2位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
+- 3位: [Can You Keep a PARASITE as a Pet?](https://www.youtube.com/watch?v=y5Gbgx50FCc)
 
 ## AI用語事典 (全1013語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
@@ -67,9 +67,9 @@
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
+- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
