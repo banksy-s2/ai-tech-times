@@ -54453,5 +54453,72 @@
   "date": "2026-08-23",
   "time": "08:01",
   "path": "/articles/20260823-nvidia-harness-ai-model-hero.html"
+ },
+ {
+  "title": "OpenAIがChatGPTの医療アドバイスで提訴された理由",
+  "lead": "肺塞栓症の男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答により治療が遅れたとして、開発元のOpenAIを訴えたことが明らかになりました。",
+  "summary3": [
+   "肺塞栓症の男性がChatGPTを利用",
+   "不正確な回答で治療が遅れたと主張",
+   "開発元のOpenAIが提訴された"
+  ],
+  "body": [
+   "肺塞栓症を患っていた男性が、医療アドバイスを求めてChatGPTを利用しました。その際、病気の牧師に対して「神はあなたの体が永遠に壊れ続けるようには設計していない」といった助言を含む回答がなされたことが分かっています。",
+   "しかし、提供された回答は不正確なものであり、その結果として男性の治療が遅れてしまう事態につながりました。この対応を問題視した男性は、ChatGPTの開発元であるOpenAIを相手取って訴訟を提起しました。",
+   "AIによる医療分野での助言やその正確性については、今回の提訴を通じて改めて大きな議論を呼ぶことになりそうです。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "医療アドバイス"
+  ],
+  "slug": "openai-sued-over-chatgpt-medical-advice",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業であり、対話型AI「ChatGPT」などを開発・提供していることで知られています。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した大規模言語モデルを用いた対話型のAIサービスであり、様々な質問や相談に対応します。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+  "category": "ai_jp",
+  "date": "2026-08-23",
+  "time": "09:00",
+  "path": "/articles/20260823-openai-sued-over-chatgpt-medical-advice.html"
+ },
+ {
+  "title": "「救急の日」ポスターがAI生成？背景や配置を巡り議論",
+  "lead": "「救急の日」のポスターがAI生成で作られているとして投稿された違和感が、ネット上で大きな議論を呼んでいます。",
+  "summary3": [
+   "「救急の日」ポスターに違和感",
+   "背景や配置の巧妙さが話題に",
+   "視点により感じ方が分かれる"
+  ],
+  "body": [
+   "「救急の日」のポスターがAI生成で作られていることに対して、ポスト主が気持ち悪さを感じたと投稿し、話題となっています。",
+   "しかし、ポスターの背景や配置がよく考えられているとして、AIには見えないという意見も多数集まりました。",
+   "このように、見る人の視点によって感じ方が大きく異なることから、ネット上でさまざまな議論が巻き起こっています。"
+  ],
+  "tags": [
+   "AI生成",
+   "救急の日",
+   "ポスター"
+  ],
+  "slug": "kyukyu-day-ai-poster",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://togetter.com/li/2736062",
+  "category": "ai_jp",
+  "date": "2026-08-23",
+  "time": "09:00",
+  "path": "/articles/20260823-kyukyu-day-ai-poster.html"
  }
 ]

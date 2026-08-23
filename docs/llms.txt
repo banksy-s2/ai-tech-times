@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 08:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIがChatGPTの医療アドバイスで提訴された理由](https://ai-tech-times.web.app/articles/20260823-openai-sued-over-chatgpt-medical-advice.html) — 2026-08-23 09:00: 肺塞栓症の男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答により治療が遅れたとして、開発元のOpenAIを訴えたことが明らかになりました。
+- [「救急の日」ポスターがAI生成？背景や配置を巡り議論](https://ai-tech-times.web.app/articles/20260823-kyukyu-day-ai-poster.html) — 2026-08-23 09:00: 「救急の日」のポスターがAI生成で作られているとして投稿された違和感が、ネット上で大きな議論を呼んでいます。
 - [フロンティアAI研究所、暴走モデルの封じ込め策を公開せず](https://ai-tech-times.web.app/articles/20260823-frontier-ai-labs-containment-plans.html) — 2026-08-23 08:01: 主要なAI研究所が、暴走するAIモデルを封じ込めるための公開された計画をほとんど持っていないことが新たな調査で明らかになりました。
 - [Nvidia研究：AIの性能よりハーネスが成果を左右する理由](https://ai-tech-times.web.app/articles/20260823-nvidia-harness-ai-model-hero.html) — 2026-08-23 08:01: Nvidiaの研究により、AIモデル自体の性能が高くなくても、適切なチューニングを施したハーネスを使えば、AIエージェントが優れた成果を出せることが明らかになりました。
 - [OpenAI、カリフォルニア州のAI法案強化を訴える理由](https://ai-tech-times.web.app/articles/20260823-openai-says-california-should-strengthen-its-ai-safety-bill.html) — 2026-08-23 07:04: AI開発を手がけるOpenAIが、かつて反対していたカリフォルニア州のAI安全法案について、強化を求める姿勢を示しました。
@@ -40,8 +42,6 @@
 - [エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」](https://ai-tech-times.web.app/articles/20260823-avex-matsuura-ai-note-difficulty.html) — 2026-08-23 01:01: エイベックスの松浦勝人会長が、自身のXアカウントでAIを活用したnote記事制作の一端を明かし、「仕事が楽になると思ってたけど、真逆」と苦労を語りました。
 - [AIで生産性3倍のチームが直面した分断](https://ai-tech-times.web.app/articles/20260823-ai-productivity-team-divide.html) — 2026-08-23 01:01: AIを活用して生産性を3倍に高めたチームが、周囲との間に生み出してしまった意外な溝とは何か。週次報告会での出来事から見えてきた、現場の課題をお伝えします。
 - [米司法省がa16zを調査、ベンチャーキャピタルへの影響は](https://ai-tech-times.web.app/articles/20260823-doj-investigates-a16z-vc-impact.html) — 2026-08-23 00:01: 米司法省が著名ベンチャーキャピタルのAndreessen Horowitz（a16z）に対する調査を約1年間にわたり進めていることが報じられました。112年前の独占禁止法が適用される可能性があり、業界に波紋を広げています。
-- [OpenAI、GPT-5.6 Solを20%値下げの理由](https://ai-tech-times.web.app/articles/20260823-openai-gpt-56-sol-price-reduction.html) — 2026-08-23 00:01: AI TECH TIMESの記者として、OpenAIのモデル価格改定に関する最新情報をお伝えします。
-- [金融庁:20代のNISA買い付け額が14年比17倍に](https://ai-tech-times.web.app/articles/20260822-nisa-20s-investment-growth-2025.html) — 2026-08-22 23:00: 金融庁のまとめにより、20代の少額投資非課税制度（NISA）を使った年間の買い付け額が2025年に1兆2648億円に達することが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
@@ -58,8 +58,8 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国に本拠を置く、画像処理半導体（GPU）やAI向けチップの開発・供給で世界をリードする大手半導体企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する高性能な対話型AIアシスタントであり、ビジネスや日常業務で広く活用されている。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する高性能な対話型AIアシスタントであり、ビジネスや日常業務で広く活用されている。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
