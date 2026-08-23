@@ -1,61 +1,21 @@
 {
- "updated": "2026-08-24 07:02",
- "mode": "フル便",
+ "updated": "2026-08-24 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "謎の新型AI「Ox Alpha」登場、その開発元はどこなのか",
-   "path": "/articles/20260824-ox-alpha-stealth-model.html",
+   "title": "テック系メディア報じる、著作物AI学習は合法か",
+   "path": "/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Slack、開発チームの議論から自動コーディングする「Slack Code」登場",
-   "path": "/articles/20260824-slack-code-ai-agent.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "大阪大学とNEC、1TBを90秒で送る基盤構築",
-   "path": "/articles/20260824-osaka-u-nec-red-onion.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは",
-   "path": "/articles/20260824-uber-faces-fine-automated-suspensions.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "謎のAIモデル「Ox Alpha」の正体は誰なのか",
-   "path": "/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "経産省、ベビーシッター利用で税制優遇要望へ",
-   "path": "/articles/20260824-meti-tax-incentive-housework-babysitter.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "分子科学研究所、新方式の国産初量子コンピューターが稼働開始",
-   "path": "/articles/20260824-national-neutral-atom-quantum-computer-launched.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "キッコーマン、現金収入1000億円が見えてきた理由",
-   "path": "/articles/20260824-kikkoman-financial-results-cash-flow.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"After You\" Video",
   "url": "https://www.youtube.com/watch?v=thHxtnJf9HA"
  },
- "notes": [
-  "執筆失敗: Is it legal to train AI models on copyri",
-  "執筆失敗: 「800万円あった資産が200万円まで減ってしまった」34歳男性がインフルエンサ",
-  "執筆失敗: ドンキで年間2.4億円売れる“1キロ超え”弁当　「多いだけでガッカリ」にしない工",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 52,
+  "used": 55,
   "limit": 200
  }
 }

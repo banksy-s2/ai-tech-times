@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [テック系メディア報じる、著作物AI学習は合法か](https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html) — 2026-08-24 08:00: 多くの作家が無断で自身の著作物をAI開発に利用されている現状について、テック系メディアのTechCrunch AIが報じました。
 - [謎の新型AI「Ox Alpha」登場、その開発元はどこなのか](https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html) — 2026-08-24 07:01: インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。
 - [Slack、開発チームの議論から自動コーディングする「Slack Code」登場](https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html) — 2026-08-24 07:01: Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。
 - [大阪大学とNEC、1TBを90秒で送る基盤構築](https://ai-tech-times.web.app/articles/20260824-osaka-u-nec-red-onion.html) — 2026-08-24 07:01: 大阪大学とNECは、次世代データ転送基盤「RED-ONION」を構築し、1TBのデータを約90秒で転送することに成功しました。
@@ -41,12 +42,11 @@
 - [AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表](https://ai-tech-times.web.app/articles/20260824-gemma-4-benchmark-alpha-sense.html) — 2026-08-24 01:00: 次々に新たなAIモデルが登場する中、AIを活用した文書管理サービスを開発するAlphaSenseが、財務タスクにおけるテスト結果を公開しました。
 - [大分で40度予想、西・東日本で猛烈な暑さ](https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html) — 2026-08-23 22:01: 東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も西日本と東日本の各地で猛烈な暑さが予想されています。
 - [ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及](https://ai-tech-times.web.app/articles/20260823-ukraine-former-minister-corruption-election.html) — 2026-08-23 22:01: BBCの報道によると、ウクライナの前国防相が政府内の汚職についてゼレンスキー大統領が何を把握していたのか問われるべきだと主張し、戦時中の選挙実施も求めている。
-- [ハーバード大の699ドル起業塾、指導者のAIアバターを採用](https://ai-tech-times.web.app/articles/20260823-harvards-startup-bootcamp-ai-avatars.html) — 2026-08-23 21:03: ハーバード大学のスタートアップ向けプログラム「HBS Foundry」において、指導者たちのAIアバターが導入されました。模擬ピッチや取締役会でのフィードバックを提供します。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 2位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
-- 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
+- 3位: [PACK IT UP](https://www.youtube.com/watch?v=Eg4-vCHc7eQ)
 
 ## AI用語事典 (全1055語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
@@ -77,8 +77,8 @@
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): 米国の著名なテクノロジー専門ニュースメディアであり、最新のAI動向やスタートアップ情報を報じています。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
-- [BBC Worldとは](https://ai-tech-times.web.app/term/bbc-world.html): 英国放送協会（BBC）が運営する国際的なニュース報道メディアで、世界中の最新情報を伝えています。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

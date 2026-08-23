@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>テック系メディア報じる、著作物AI学習は合法か</title>
+<link>https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html</guid>
+<pubDate>Mon, 24 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>多くの作家が無断で自身の著作物をAI開発に利用されている現状について、テック系メディアのTechCrunch AIが報じました。</description>
+</item>
+<item>
 <title>謎の新型AI「Ox Alpha」登場、その開発元はどこなのか</title>
 <link>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 23 Aug 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AI時代を迎える中、企業による体育会系に所属する学生の採用活動が活発化しています。コンサルティング業界なども注目する、その対人能力の評価とは何でしょうか。</description>
-</item>
-<item>
-<title>アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減</title>
-<link>https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html</guid>
-<pubDate>Sun, 23 Aug 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。</description>
 </item>
 </channel></rss>

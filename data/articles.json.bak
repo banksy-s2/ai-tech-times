@@ -55988,5 +55988,291 @@
   "date": "2026-08-24",
   "time": "06:00",
   "path": "/articles/20260824-nagano-listed-companies-female-managers.html"
+ },
+ {
+  "title": "謎の新型AI「Ox Alpha」登場、その開発元はどこなのか",
+  "lead": "インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。",
+  "summary3": [
+   "謎の新型AIOx Alphaが登場",
+   "ネット上で開発元を巡り憶測",
+   "正体は現在も明らかにされず"
+  ],
+  "body": [
+   "「Ox Alpha」と呼ばれる謎の新しいAIモデルが、インターネットの一部で大きな話題となっています。突如としてその存在が浮上したことで、オンライン上では熱狂的な憶測の嵐が巻き起こっています。",
+   "テック分野の情報を伝えるTechCrunch AIによると、このモデルに関しては多くの議論が交わされているものの、現時点で誰が開発の背後にいるのかなど、その詳細な情報は明らかにされていません。",
+   "人工知能の分野では、突然現れる謎のモデルや非公開の開発プロジェクトが注目を集めることが少なくありません。今回のOx Alphaも、その正体や目的を巡り、多くの人々の関心を引きつけています。"
+  ],
+  "tags": [
+   "Ox Alpha",
+   "AI",
+   "TechCrunch AI"
+  ],
+  "slug": "ox-alpha-stealth-model",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "米国の著名なテクノロジー専門ニュースメディアであり、最新のAI動向やスタートアップ情報を報じています。"
+   },
+   {
+    "name": "Ox Alpha",
+    "type": "ai",
+    "desc": "インターネット上で突如として話題となった謎の新型AIモデルであり、開発元や詳細は一切伏せられています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+  "category": "ai",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-ox-alpha-stealth-model.html"
+ },
+ {
+  "title": "Slack、開発チームの議論から自動コーディングする「Slack Code」登場",
+  "lead": "Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。",
+  "summary3": [
+   "Slack社が新機能Slack Codeを発表",
+   "AIエージェントがチームの議論を把握",
+   "自動でコーディングや文書作成を実行"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。Salesforce傘下のチャットサービス「Slack」を提供するSlack社は、開発チームの作業を強力にサポートする新機能「Slack Code」の提供を開始したと発表しました。",
+   "「Slack Code」の最大の特徴は、開発チームの一員としてAIエージェントがチャットスペースに加わる点です。これにより、AIがそれまでのチーム内の議論や文脈を正確に把握し、そのままコーディング作業を遂行します。",
+   "さらに、コードの作成だけでなく、開発に必要なドキュメント作成も自動で行うことが可能です。日々のチャットのやりとりからAIが直接開発実務をサポートすることで、チームの生産性向上に貢献する機能として注目されています。"
+  ],
+  "tags": [
+   "Slack",
+   "AIエージェント",
+   "コーディング"
+  ],
+  "slug": "slack-code-ai-agent",
+  "people": [],
+  "terms": [
+   {
+    "name": "Slack",
+    "type": "company",
+    "desc": "ビジネス向けのチャットサービスを提供するアメリカの企業、および同社のサービス名。"
+   },
+   {
+    "name": "Salesforce",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、世界的なクラウド型CRM（顧客管理）サービスを提供する企業。"
+   },
+   {
+    "name": "Slack Code",
+    "type": "ai",
+    "desc": "Slackの新機能で、チャットの議論を把握してコーディングやドキュメント作成を行うAIエージェント。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-slack-code-ai-agent.html"
+ },
+ {
+  "title": "大阪大学とNEC、1TBを90秒で送る基盤構築",
+  "lead": "大阪大学とNECは、次世代データ転送基盤「RED-ONION」を構築し、1TBのデータを約90秒で転送することに成功しました。",
+  "summary3": [
+   "大阪大学とNECが次世代基盤を構築",
+   "1TBの膨大なデータを約90秒で転送",
+   "研究のデータ爆発に対応する仕組み"
+  ],
+  "body": [
+   "最先端の科学研究において、実験装置や計測機器の進化、AI技術の発展により、取り扱うデータ量が爆発的に増加しています。",
+   "しかし、多くの大学や研究機関では、大容量データを日々生成する「実験室」と、高度なデータ分析やシミュレーションを行う「高性能計算システム」が物理的・組織的に離れて設置されているケースが多く存在しています。",
+   "このような背景の中、大阪大学とNECは次世代データ転送基盤「RED-ONION」を構築しました。これにより、1TBを約90秒で転送することが可能となっています。"
+  ],
+  "tags": [
+   "大阪大学",
+   "NEC",
+   "データ転送"
+  ],
+  "slug": "osaka-u-nec-red-onion",
+  "people": [],
+  "terms": [
+   {
+    "name": "NEC",
+    "type": "company",
+    "desc": "東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。"
+   },
+   {
+    "name": "大阪大学",
+    "type": "company",
+    "desc": "大阪府吹田市などにキャンパスを置く、日本の代表的な国立総合大学の一つであり、最先端の研究を行う。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://japan.zdnet.com/article/35251815/",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-osaka-u-nec-red-onion.html"
+ },
+ {
+  "title": "Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは",
+  "lead": "配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。",
+  "summary3": [
+   "Uberに約10億ドル規模の罰金処分",
+   "自動的なドライバー停止が問題視",
+   "GDPRに基づく過去2番目の高額"
+  ],
+  "body": [
+   "海外メディアのTechCrunchによると、オランダのデータ保護機関は、配車サービスを展開するUberに対し、8億2500万ユーロの罰金を科すことを発表しました。この処分は、欧州の厳格な個人情報保護規則であるGDPR（一般データ保護規則）に基づくもので、同規則における罰金としては史上2番目に高額なものとなります。",
+   "今回のペナルティの主な理由は、Uberが実施した自動的なドライバーの停止処分に関連しています。人間の判断を介さずにシステムによってアカウント停止などが行われたことが、データ保護の観点から問題視されました。",
+   "巨額の罰金は企業の財務や今後の運営方針に大きな影響を与える可能性があります。欧州におけるプラットフォーム企業の自動化された管理体制に対しては、今後さらに厳しい目が向けられることになりそうです。"
+  ],
+  "tags": [
+   "Uber",
+   "GDPR",
+   "TechCrunch"
+  ],
+  "slug": "uber-faces-fine-automated-suspensions",
+  "people": [],
+  "terms": [
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカを本拠地とし、世界中で配車サービスやフードデリバリーなどを展開する大手IT企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+  "category": "silicon",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-uber-faces-fine-automated-suspensions.html"
+ },
+ {
+  "title": "謎のAIモデル「Ox Alpha」の正体は誰なのか",
+  "lead": "インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。",
+  "summary3": [
+   "謎の新しいAIモデルOx Alphaが登場",
+   "インターネット上で大きな憶測を呼ぶ",
+   "モデルの開発者が誰なのかに関心が集中"
+  ],
+  "body": [
+   "「Ox Alpha」と呼ばれる謎に包まれた新しいAIモデルが、インターネットの一部で大きな憶測の渦を巻き起こしています。",
+   "現時点では、この新しいモデルの背後にいったい誰が存在しているのかについて、多くの人々が様々な議論や予想を繰り広げている状況です。",
+   "詳細な情報や開発元の公式な発表が待たれる中、今後の動向にさらなる注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "Ox Alpha",
+   "TechCrunch"
+  ],
+  "slug": "whos-behind-the-new-stealth-model-ox-alpha",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+  "category": "silicon",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html"
+ },
+ {
+  "title": "経産省、ベビーシッター利用で税制優遇要望へ",
+  "lead": "経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。",
+  "summary3": [
+   "経産省などが税制優遇を要望へ",
+   "家事支援やシッター利用が対象",
+   "仕事と子育て・介護の両立支援"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによれば、経済産業省などは、仕事と子育てや介護などの両立を後押ししようと、来年度の税制改正に向けて新たな方針を固めたことが明らかになりました。",
+   "今回の動きでは、家事支援サービスやベビーシッターの利用者が、税制上の優遇措置を受けられるようにするための要望を出す方針となっています。",
+   "詳細は今後さらに詰められる見通しであり、今後の税制改正の議論の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "経済産業省",
+   "税制改正",
+   "子育て支援"
+  ],
+  "slug": "meti-tax-incentive-housework-babysitter",
+  "people": [],
+  "terms": [
+   {
+    "name": "経済産業省",
+    "type": "company",
+    "desc": "日本の行政機関の一つで、経済や産業の発展などを所管しています。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260823de45888",
+  "category": "world",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-meti-tax-incentive-housework-babysitter.html"
+ },
+ {
+  "title": "分子科学研究所、新方式の国産初量子コンピューターが稼働開始",
+  "lead": "開発競争が続く量子コンピューターをめぐり、「中性原子」と呼ばれる国産初の方式を採用したシステムが愛知県内で稼働を始めました。",
+  "summary3": [
+   "分子科学研究所で量子コンピューターが稼働",
+   "国産初となる「中性原子」方式を採用",
+   "愛知県内で新たに稼働を開始した"
+  ],
+  "body": [
+   "AI TECH TIMESの調べによれば、開発競争が進む量子コンピューターをめぐり、新たな方式を採用した国産初のシステムが愛知県内で稼働を始めたことがわかりました。",
+   "今回稼働を開始したのは、従来の方式とは異なる「中性原子」と呼ばれる技術を取り入れた量子コンピューターです。このシステムは分子科学研究所において導入され、実際の運用に向けた動きが本格化しています。",
+   "量子コンピューターは今後の技術革新を担う重要な分野として世界中で開発が急ピッチで進められており、今回の国産初となる中性原子方式の稼働開始は、国内の技術動向において注目される展開となります。"
+  ],
+  "tags": [
+   "量子コンピューター",
+   "分子科学研究所",
+   "中性原子"
+  ],
+  "slug": "national-neutral-atom-quantum-computer-launched",
+  "people": [],
+  "terms": [
+   {
+    "name": "分子科学研究所",
+    "type": "company",
+    "desc": "愛知県にある自然科学研究機構を構成する機関の一つで、分子科学に関する研究を行う日本の代表的な研究機関です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+  "category": "world",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-national-neutral-atom-quantum-computer-launched.html"
+ },
+ {
+  "title": "キッコーマン、現金収入1000億円が見えてきた理由",
+  "lead": "キッコーマンの決算において、現金収入1000億円が見えてきたことが日本経済新聞の報道で明らかになりました。",
+  "summary3": [
+   "キッコーマンの決算内容を報道",
+   "現金収入1000億円が見えてきた",
+   "海外での価格支配力の高さが要因"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。日本経済新聞の報道によると、キッコーマンの決算において、現金収入が1000億円規模に達する見通しが見えてきたことが分かりました。",
+   "今回の決算では、同社が海外市場において高い価格支配力を持っていることがその背景として示されています。海外での堅調な事業展開が、潤滑なキャッシュフローの創出に寄与している形です。",
+   "具体的な決算数値や今後の業績に関する詳細については、引き続き各所の発表や報道に注目が集まっています。海外市場での展開力と価格設定の強さが改めて浮き彫りになる内容となっています。"
+  ],
+  "tags": [
+   "キッコーマン",
+   "決算",
+   "海外市場"
+  ],
+  "slug": "kikkoman-financial-results-cash-flow",
+  "people": [],
+  "terms": [
+   {
+    "name": "キッコーマン",
+    "type": "company",
+    "desc": "醤油などの調味料の製造・販売を手がける日本の食品大手企業。海外でも広く事業を展開している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Q1puYVFKZGdBajc4Wm1TZWlralhNekFzdHZVeEVfX2FvM05vbW5QNUdVaDBoQWtJbWlaMUlCQ1o3QXdaMTVXX1hjMHh2MmVyNEY1NnhxN19KZk5VbXc4bnJMTkZLQXBqeTdxWQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-24",
+  "time": "07:01",
+  "path": "/articles/20260824-kikkoman-financial-results-cash-flow.html"
  }
 ]

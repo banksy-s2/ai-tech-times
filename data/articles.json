@@ -56274,5 +56274,39 @@
   "date": "2026-08-24",
   "time": "07:01",
   "path": "/articles/20260824-kikkoman-financial-results-cash-flow.html"
+ },
+ {
+  "title": "テック系メディア報じる、著作物AI学習は合法か",
+  "lead": "多くの作家が無断で自身の著作物をAI開発に利用されている現状について、テック系メディアのTechCrunch AIが報じました。",
+  "summary3": [
+   "著作者の同意なくAI学習に著作物が使用されている",
+   "自身の生計を脅かすAIの発展に貢献する構造がある",
+   "著作物のAI学習の是非について複雑な問題が浮上"
+  ],
+  "body": [
+   "海外メディアのTechCrunch AIによると、多くの出版された作家たちが、自身の知識や同意なしにAIツールの開発に貢献させられている現状があります。作家たちは、自らの生計を脅かす可能性のある技術の構築に、意図せず組み込まれている状況です。",
+   "このような実態に対して、多くの人々が「これは違法ではないのか」という疑問を抱いています。しかし、著作物のAI学習における法的な扱いは非常に複雑であり、単純に違法と断定できない難しさがあります。",
+   "AI開発における著作権侵害の有無や、クリエイターへの影響を巡る議論は今後も続きそうです。法整備や業界のルール作りが追いついていない中、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "著作権",
+   "テック"
+  ],
+  "slug": "is-it-legal-to-train-ai-models-on-copyrighted-books",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "最新のテクノロジーやAI分野のニュースを専門に報じる海外の著名なメディア媒体です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "category": "ai",
+  "date": "2026-08-24",
+  "time": "08:00",
+  "path": "/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html"
  }
 ]
