@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 16:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [LinkedInの「AI低品質」ボタン、100万人超が利用](https://ai-tech-times.web.app/articles/20260823-linkedin-ai-slop-button-one-million.html) — 2026-08-23 16:00: ビジネス向けSNSのLinkedInで導入された「AI低品質」ボタンが、公開から短期間で多くのユーザーに使われています。
+- [AnthropicのClaude Code、仕様変更の狙いは](https://ai-tech-times.web.app/articles/20260823-anthropic-claude-code-ab-testing.html) — 2026-08-23 16:00: Anthropicが提供するClaude Codeにおいて、仕様の変更に関する検証が行われていることが分かりました。実際のユーザーの間で議論が広がっています。
 - [日経平均7万円台はバブルか？業績が裏付ける株高の実態](https://ai-tech-times.web.app/articles/20260823-nikkei-average-bubble-analysis.html) — 2026-08-23 14:00: 日経平均株価が7万円台に達する可能性について、実際の企業業績が裏付ける株高の実態をTBS NEWS DIGが報じました。
 - [茨城などで震度5弱の地震発生、今後1週間の注意点とは](https://ai-tech-times.web.app/articles/20260823-ibaraki-earthquake-magnitude-5-9.html) — 2026-08-23 13:00: 23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生し、各地で強い揺れが観測されました。気象庁は今後1週間程度の注意を呼びかけています。
 - [Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか](https://ai-tech-times.web.app/articles/20260823-major-youtube-creators-facing-backlash-for-accepting-ai-mone.html) — 2026-08-23 12:02: 著名な映像クリエイターらがAIプラットフォームのPR動画を公開し、批判に直面しています。動画制作の未来を謳う技術の導入に、なぜこれほどの反発が起きているのでしょうか。
@@ -40,15 +42,13 @@
 - [OpenAI、カリフォルニア州のAI法案強化を訴える理由](https://ai-tech-times.web.app/articles/20260823-openai-says-california-should-strengthen-its-ai-safety-bill.html) — 2026-08-23 07:04: AI開発を手がけるOpenAIが、かつて反対していたカリフォルニア州のAI安全法案について、強化を求める姿勢を示しました。
 - [グッドパッチ執行役員が明かす、AIにハーネスを設計する守りの設計図](https://ai-tech-times.web.app/articles/20260823-goodpatch-ai-safety-design.html) — 2026-08-23 07:04: デザイン会社のグッドパッチで執行役員を務める坂口友紀氏が、バックオフィスにおける管理部のAI活用と「守りのAI設計図」について明かしました。
 - [AIエージェント担当者の6つの役割と必要スキルとは](https://ai-tech-times.web.app/articles/20260823-ai-agent-role-skills.html) — 2026-08-23 07:04: AIエージェント担当者における業務の設計や役割について、AINOWが報じています。
-- [Nvidia、AIサーバーの15%超値上げを顧客に警告か](https://ai-tech-times.web.app/articles/20260823-nvidia-warns-ai-server-price-hikes.html) — 2026-08-23 07:04: 米半導体大手Nvidiaが、一部の大口顧客に対してAIチップを搭載するサーバーの価格が15%以上上昇する可能性があると伝えたことが報じられました。
-- [Meta裁判敗訴でSNSは終わるのか、1990年代の巨大タバコ訴訟と比較される理由](https://ai-tech-times.web.app/articles/20260823-meta-social-media-lawsuit-trial.html) — 2026-08-23 07:04: CNBC Techの報道によると、Metaの裁判の行方が、かつての巨大タバコ訴訟のようになるとアナリストが指摘しています。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
 
-## AI用語事典 (全1026語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1027語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

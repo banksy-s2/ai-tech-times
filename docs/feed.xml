@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>LinkedInの「AI低品質」ボタン、100万人超が利用</title>
+<link>https://ai-tech-times.web.app/articles/20260823-linkedin-ai-slop-button-one-million.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-linkedin-ai-slop-button-one-million.html</guid>
+<pubDate>Sun, 23 Aug 2026 16:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ビジネス向けSNSのLinkedInで導入された「AI低品質」ボタンが、公開から短期間で多くのユーザーに使われています。</description>
+</item>
+<item>
+<title>AnthropicのClaude Code、仕様変更の狙いは</title>
+<link>https://ai-tech-times.web.app/articles/20260823-anthropic-claude-code-ab-testing.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-anthropic-claude-code-ab-testing.html</guid>
+<pubDate>Sun, 23 Aug 2026 16:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Anthropicが提供するClaude Codeにおいて、仕様の変更に関する検証が行われていることが分かりました。実際のユーザーの間で議論が広がっています。</description>
+</item>
+<item>
 <title>日経平均7万円台はバブルか？業績が裏付ける株高の実態</title>
 <link>https://ai-tech-times.web.app/articles/20260823-nikkei-average-bubble-analysis.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260823-nikkei-average-bubble-analysis.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 23 Aug 2026 02:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>半導体大手ブロードコムが、チップ資金調達のために700億〜800億ドル規模の負債調達に向けた交渉を進めていることが明らかになりました。</description>
-</item>
-<item>
-<title>エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」</title>
-<link>https://ai-tech-times.web.app/articles/20260823-avex-matsuura-ai-note-difficulty.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-avex-matsuura-ai-note-difficulty.html</guid>
-<pubDate>Sun, 23 Aug 2026 01:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>エイベックスの松浦勝人会長が、自身のXアカウントでAIを活用したnote記事制作の一端を明かし、「仕事が楽になると思ってたけど、真逆」と苦労を語りました。</description>
-</item>
-<item>
-<title>AIで生産性3倍のチームが直面した分断</title>
-<link>https://ai-tech-times.web.app/articles/20260823-ai-productivity-team-divide.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-ai-productivity-team-divide.html</guid>
-<pubDate>Sun, 23 Aug 2026 01:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIを活用して生産性を3倍に高めたチームが、周囲との間に生み出してしまった意外な溝とは何か。週次報告会での出来事から見えてきた、現場の課題をお伝えします。</description>
 </item>
 </channel></rss>

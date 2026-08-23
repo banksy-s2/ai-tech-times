@@ -1,21 +1,17 @@
 {
- "updated": "2026-08-23 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日経平均7万円台はバブルか？業績が裏付ける株高の実態",
-   "path": "/articles/20260823-nikkei-average-bubble-analysis.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-08-23 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 84,
+  "used": 88,
   "limit": 200
  }
 }
