@@ -1,21 +1,26 @@
 {
- "updated": "2026-08-24 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-24 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "現役VTuberが明かす教育虐待とひきこもり",
-   "path": "/articles/20260824-vtuber-education-abuse-hikikomori.html",
-   "cat": "インフルエンサー"
+   "title": "東武鉄道の作業員4人死亡事故、当日3本の列車はなぜ通過できたのか",
+   "path": "/articles/20260824-tobu-railway-accident-investigation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ゼレンスキー大統領の出身地で商業施設が無人機攻撃され16人死亡",
+   "path": "/articles/20260824-ukraine-commercial-facility-drone-attack.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "UPDATE 30 TEASER | Blox Fruits",
-  "url": "https://www.youtube.com/watch?v=ZeiCK3sNCRo"
+  "title": "Stray Kids \"After You\" Video",
+  "url": "https://www.youtube.com/watch?v=thHxtnJf9HA"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 12,
+  "used": 17,
   "limit": 200
  }
 }

@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-24 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-24 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "東武鉄道の作業員4人死亡事故、当日3本の列車はなぜ通過できたのか",
-   "path": "/articles/20260824-tobu-railway-accident-investigation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ゼレンスキー大統領の出身地で商業施設が無人機攻撃され16人死亡",
-   "path": "/articles/20260824-ukraine-commercial-facility-drone-attack.html",
-   "cat": "時事・世界"
+   "title": "イーライリリー肥満症薬、米国で月50ドルに",
+   "path": "/articles/20260824-eli-lilly-obesity-drug-market-us.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 17,
+  "used": 21,
   "limit": 200
  }
 }
