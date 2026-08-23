@@ -1,61 +1,26 @@
 {
- "updated": "2026-08-23 17:03",
- "mode": "フル便",
+ "updated": "2026-08-23 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "ローカルLLMが「バカ」に感じる理由とは？その正体に迫る",
-   "path": "/articles/20260823-why-your-local-llm-feels-dumber.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "中島聡氏がAI要約記事を公開、「情報に著作権はない」と物議",
-   "path": "/articles/20260823-nakajima-ai-summary-controversy.html",
+   "title": "日本経済新聞：AI時代にあえて体育会系学生が注目される理由",
+   "path": "/articles/20260823-taiikukai-hiring-ai-era.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか",
-   "path": "/articles/20260823-rillet-raises-100m-unicorn-48-hours.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "EXO ベクヒョン、チャ・ガウォン代表から630億ウォン規模の詐欺か",
-   "path": "/articles/20260823-exo-baekhyun-fraud-allegation.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "TikTok、米国で4億ドル支払いの理由",
-   "path": "/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故",
-   "path": "/articles/20260823-tobu-railway-search-investigation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均株価、2027年8月までの値動き予測が浮上",
-   "path": "/articles/20260823-nikkei-average-forecast-2027.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "上場企業の平均年収778万円、5年連続超えの理由",
-   "path": "/articles/20260823-listed-companies-average-salary-778-man-yen.html",
-   "cat": "日本企業"
+   "title": "アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減",
+   "path": "/articles/20260823-apple-apfs-file-system-linux-migration.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [
-  "執筆失敗: Harvard’s $699 startup bootcamp offers A",
-  "執筆失敗: 新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
-  "執筆失敗: Michael Polansky is training an AI model",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 109,
+  "used": 112,
   "limit": 200
  }
 }
