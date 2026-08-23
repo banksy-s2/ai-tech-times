@@ -54593,5 +54593,238 @@
   "date": "2026-08-23",
   "time": "10:00",
   "path": "/articles/20260823-apple-cuts-jobs-siri-vision-pro.html"
+ },
+ {
+  "title": "Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか",
+  "lead": "著名な映像クリエイターらがAIプラットフォームのPR動画を公開し、批判に直面しています。動画制作の未来を謳う技術の導入に、なぜこれほどの反発が起きているのでしょうか。",
+  "summary3": [
+   "著名クリエイターがAI動画のPRで批判",
+   "Higgsfieldの機能を未来の技術と紹介",
+   "映像制作におけるAI起用の是非が議論に"
+  ],
+  "body": [
+   "ここ数日間、Matti HaapojaやSam \"Kold\" Kolderといった著名な映像制作系コンテンツクリエイターたちが、自身のチャンネルに動画を投稿しました。彼らはその中で、AIプラットフォームであるHiggsfieldを活用して何が実現できるのかを実際にデモンストレーション形式で紹介しています。",
+   "公開された動画では、Higgsfieldが最近追加した機能である「Seedance 2.5」にスポットライトが当てられました。クリエイターたちは、こうした最先端の技術こそが今後の動画制作の未来を切り拓くものであると視聴者に向けて積極的にアピールしていました。",
+   "しかし、こうしたAIプラットフォーム側からの資金提供を受けて制作されたとみられるプロモーション動画の投稿に対し、ネット上では多くのユーザーから批判的な声が寄せられています。映像業界におけるAI技術の急激な台頭と、インフルエンサーによるその宣伝活動のあり方をめぐり、現在激しい議論が巻き起こっています。"
+  ],
+  "tags": [
+   "AI",
+   "YouTube",
+   "クリエイター"
+  ],
+  "slug": "major-youtube-creators-facing-backlash-for-accepting-ai-mone",
+  "people": [
+   {
+    "name": "Matti Haapoja",
+    "bio": "映像制作やカメラに関する情報を発信し、世界的な人気を集めるYouTubeの著名な映画制作系コンテンツクリエイター。"
+   },
+   {
+    "name": "Sam \"Kold\" Kolder",
+    "bio": "旅や映像美をテーマにしたトラベル動画などで知られる、世界的に広く知られている著名な映像系コンテンツクリエイター。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Higgsfield",
+    "type": "company",
+    "desc": "動画制作の分野などで活用される最先端の機能を提供し、近年注目を集めている話題のAIプラットフォーム開発企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-major-youtube-creators-facing-backlash-for-accepting-ai-mone.html"
+ },
+ {
+  "title": "ChatGPT、Codex利用2000万人突破記念でリセット権配布",
+  "lead": "ChatGPTを提供するオープンAIは、開発者向けツールであるCodexの利用者が2,000万人を突破したことを記念し、使用量リセット権の配布を実施しました。",
+  "summary3": [
+   "Codexの利用者が2000万人突破",
+   "記念として使用量リセット権を配布",
+   "ChatGPTユーザーの利便性が向上"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、はてなブックマークITにおいて、ChatGPTに関する新たなニュースが注目を集めています。オープンAIが提供する開発者向けツール「Codex」の利用者が、世界中で2,000万人を突破したことが明らかになりました。",
+   "この記念すべき節目を祝うため、同社はユーザーに向けて「使用量リセット権」の配布を行いました。普段ChatGPTを利用する中で利用制限を気にしているユーザーにとって、今回の措置は非常に実用的な内容となっています。",
+   "今回の記念施策により、多くのユーザーが制限を気にせずにより快適にサービスを利用できるようになります。オープンAIの今後のさらなる展開や、利用者数の増加に向けた動きから目が離せません。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "Codex",
+   "AIニュース"
+  ],
+  "slug": "chatgpt-codex-reset-right",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した、自然な対話が可能な大規模言語モデルを活用した生成AIサービス。"
+   },
+   {
+    "name": "Codex",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然言語からプログラミングコードを生成するAIモデルおよびツール。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://pc.watch.impress.co.jp/docs/news/2134782.html",
+  "category": "ai_jp",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-chatgpt-codex-reset-right.html"
+ },
+ {
+  "title": "古いAndroid端末をRaspberry Pi代わりに",
+  "lead": "AIデータセンター需要によるRAMやストレージの価格高騰でRaspberry Piの入手が困難になる中、使わなくなった古い端末の活用法が注目を集めています。",
+  "summary3": [
+   "AIデータセンター需要でRAMが高騰",
+   "Raspberry Piの価格が大幅に上昇",
+   "古いAndroid端末の代用が話題に"
+  ],
+  "body": [
+   "AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しています。この影響により、「Raspberry Pi」の購入者も強い影響を受けており、シングルボードコンピューターの価格は跳ね上がっています。",
+   "その価格高騰の度合いは非常に大きく、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどに達しています。",
+   "こうした厳しい価格高騰の状況下において、コストを抑える代替手段として、使わなくなった古い「Android」端末を「Raspberry Pi」の代わりにする方法に関心が集まっています。"
+  ],
+  "tags": [
+   "Android",
+   "Raspberry Pi",
+   "AI TECH TIMES"
+  ],
+  "slug": "android-as-raspberry-pi-alternative",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://japan.zdnet.com/article/35251631/",
+  "category": "ai_jp",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-android-as-raspberry-pi-alternative.html"
+ },
+ {
+  "title": "米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか",
+  "lead": "電気自動車（EV）向けの優遇策が削減され苦境に立たされていた米国の電池スタートアップに対し、エネルギー省から5億ドルの補助金が支給されました。",
+  "summary3": [
+   "EV優遇策削減で電池業界が苦境に",
+   "エネルギー省が5億ドルの補助金支給",
+   "防衛分野が業界の新たな救命綱に"
+  ],
+  "body": [
+   "米国の電池スタートアップ企業が、エネルギー省からの5億ドルの補助金によって窮地を脱しました。電気自動車（EV）向けのインセンティブが大幅に削減されたことで、当時の電池業界は経営が脅かされるほどの深刻な打撃を受けていました。",
+   "しかし、今回の多額の資金提供は、防衛分野という新たな領域が業界にとっての命綱となり得ることを示しています。EV市場の減速風が吹く中で、防衛関連の需要や支援が、苦境にあえぐスタートアップ企業にとって強力な支えとなっているのです。",
+   "今回の5億ドルの補助金交付は、厳しい市場環境が続く電池業界の勢力図や、新たな資金源としての防衛分野の重要性を改めて浮き彫りにするニュースと言えます。"
+  ],
+  "tags": [
+   "バッテリー",
+   "スタートアップ",
+   "エネルギー省"
+  ],
+  "slug": "us-battery-startups-lifeline-defense",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+  "category": "silicon",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-us-battery-startups-lifeline-defense.html"
+ },
+ {
+  "title": "ロジクール、最大25%の値上げを巡り関税返還訴訟に直面",
+  "lead": "周辺機器大手のロジクールが昨年実施した最大25%の値上げについて、顧客へ関税の返還を求める訴訟が提起されました。",
+  "summary3": [
+   "ロジクールが最大25%の値上げを実施",
+   "値上げを巡り関税返還を求める訴訟に発展",
+   "顧客に返還を行うべきだとする要求が浮上"
+  ],
+  "body": [
+   "海外メディア「Ars Technica」の報道によると、周辺機器メーカーのロジクールに対して、顧客に関税の返還を求める訴訟が提起されたことが明らかになりました。",
+   "ロジクールは昨年、製品の価格を最大25%引き上げる値上げを実施していました。今回の訴訟では、その価格引き上げに伴う関税の返還を同社に求めています。",
+   "今後の動向や裁判の行方について、消費者の財布事情に直結する問題として関心が集まっています。"
+  ],
+  "tags": [
+   "ロジクール",
+   "訴訟",
+   "関税"
+  ],
+  "slug": "lawsuit-demands-logitech-tariff-refunds",
+  "people": [],
+  "terms": [
+   {
+    "name": "ロジクール",
+    "type": "company",
+    "desc": "スイスに本拠を置き、マウスやキーボードなどのパソコン周辺機器を広く展開する世界的なメーカー。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+  "category": "silicon",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html"
+ },
+ {
+  "title": "カナダ首相、米の50%関税に対抗発動へ",
+  "lead": "アメリカによる追加関税への対抗措置として、カナダ政府が9月8日から関税を課す方針を明らかにしました。",
+  "summary3": [
+   "米がカナダ産品に50%追加関税を発動",
+   "カナダ首相が来月8日に対抗関税を表明",
+   "鉄鋼製品などを対象に関税を課す方針"
+  ],
+  "body": [
+   "アメリカのトランプ政権がカナダからの幅広い輸入品に対して50％の追加関税を発動したことを受けて、カナダの動向に注目が集まっています。",
+   "こうした事態を受け、カナダのカーニー首相は対抗措置として、来月8日からアメリカの鉄鋼製品などを対象に関税を課すと明らかにしました。",
+   "今後の両国間の貿易関係や、私たちの財布事情への影響にも関心が寄せられる展開となっています。"
+  ],
+  "tags": [
+   "カナダ",
+   "アメリカ",
+   "関税"
+  ],
+  "slug": "canada-tariffs-against-us",
+  "people": [
+   {
+    "name": "カーニー首相",
+    "bio": "カナダの首相として国の政策や外交を率いる最高責任者。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260823de45819",
+  "category": "world",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-canada-tariffs-against-us.html"
+ },
+ {
+  "title": "TOPIX最高値更新とNT倍率16倍、日経平均下落の裏で起きたこと",
+  "lead": "日経平均株価の下落が伝えられる一方で、TOPIXが最高値を更新しました。その背景にあるNT倍率「16倍」が意味するものについて、ニューズウィーク日本版が報じています。",
+  "summary3": [
+   "日経平均下落の一方でTOPIX最高値更新",
+   "NT倍率が「16倍」を記録",
+   "市場の動向とその意味に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の株式・市場ニュースです。ニューズウィーク日本版の報道によると、日経平均株価が下落する動きが見られる裏で、TOPIX（東証株価指数）は最高値を更新する展開となりました。",
+   "このような市場の動きにおいて注目されているのが、日経平均株価とTOPIXの比率を示す「NT倍率」です。今回の報道では、このNT倍率が「16倍」に達していることが示されており、市場関係者の間でその意味するところに関心が集まっています。",
+   "株式市場の動向や指標の変化は、個別の銘柄やセクターへの資金の流出入を反映しています。日経平均とTOPIXの動きの乖離や、NT倍率の数値が示す市場構造の変化について、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "日経平均",
+   "TOPIX",
+   "NT倍率"
+  ],
+  "slug": "nikkei-topix-nt-ratio-16",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJSzJEXzMzNzFrMUE0ZWZiZ0dtTWVlQko4b05BTTRZSzAyREJkSHVSSGYxUW0zZzUxbk1OY0VwX0l1bXZoNnZ3RlpINDNUMkZ5Sm9MOVlVMA?oc=5",
+  "category": "stock",
+  "date": "2026-08-23",
+  "time": "12:02",
+  "path": "/articles/20260823-nikkei-topix-nt-ratio-16.html"
  }
 ]

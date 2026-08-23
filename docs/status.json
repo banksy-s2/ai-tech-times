@@ -1,41 +1,11 @@
 {
- "updated": "2026-08-23 12:02",
- "mode": "フル便",
+ "updated": "2026-08-23 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか",
-   "path": "/articles/20260823-major-youtube-creators-facing-backlash-for-accepting-ai-mone.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ChatGPT、Codex利用2000万人突破記念でリセット権配布",
-   "path": "/articles/20260823-chatgpt-codex-reset-right.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "古いAndroid端末をRaspberry Pi代わりに",
-   "path": "/articles/20260823-android-as-raspberry-pi-alternative.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか",
-   "path": "/articles/20260823-us-battery-startups-lifeline-defense.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ロジクール、最大25%の値上げを巡り関税返還訴訟に直面",
-   "path": "/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "カナダ首相、米の50%関税に対抗発動へ",
-   "path": "/articles/20260823-canada-tariffs-against-us.html",
+   "title": "茨城などで震度5弱の地震発生、今後1週間の注意点とは",
+   "path": "/articles/20260823-ibaraki-earthquake-magnitude-5-9.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "TOPIX最高値更新とNT倍率16倍、日経平均下落の裏で起きたこと",
-   "path": "/articles/20260823-nikkei-topix-nt-ratio-16.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -43,15 +13,11 @@
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
  "notes": [
-  "執筆失敗: Over 1 million people have clicked Linke",
-  "執筆失敗: りくりゅう木原さん&三浦さん婚約 - Yahoo!ニュース",
-  "執筆失敗: ウクライナの商業施設に無人機攻撃 16人死亡 100人以上けが",
-  "執筆失敗: 「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: トランプ大統領 経済制裁強化しイラン側の対応見極める考え"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 75,
+  "used": 80,
   "limit": 200
  }
 }
