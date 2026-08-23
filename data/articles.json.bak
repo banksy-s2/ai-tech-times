@@ -55702,5 +55702,67 @@
   "date": "2026-08-23",
   "time": "22:01",
   "path": "/articles/20260823-ukraine-former-minister-corruption-election.html"
+ },
+ {
+  "title": "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
+  "lead": "自律型AIエージェントの普及により、従来のSIerのビジネスモデルには大きな変化が迫られています。生き残るために獲得すべき価値とは何でしょうか。",
+  "summary3": [
+   "人月で稼ぐSIerのビジネスモデルが転換点",
+   "ソフトウェア作成からAI活用型へシフト",
+   "成果とリスクへの責任が今後の価値になる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。自律型AIエージェントの普及によって、従来のSIerのビジネスモデルがどう変わるのか、そして生き残るために何を獲得し、何を捨てるべきなのかという議論が注目を集めています。",
+   "これまでのシステムインテグレーション市場では、主に「人月」をベースにした労働集約型の収益モデルが主流でした。しかし、今後はソフトウェアをただ作ること自体の価値が低下していくと見られています。",
+   "結論として、SIerの価値は「ソフトウェアを作ること」から、「AIを活用して顧客企業を変革し、その成果とリスクに責任を持つこと」へと大きく移っていくと考えられます。"
+  ],
+  "tags": [
+   "SIer",
+   "AIエージェント",
+   "ビジネスモデル"
+  ],
+  "slug": "sier-business-model-ai-future",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "01:00",
+  "path": "/articles/20260824-sier-business-model-ai-future.html"
+ },
+ {
+  "title": "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
+  "lead": "次々に新たなAIモデルが登場する中、AIを活用した文書管理サービスを開発するAlphaSenseが、財務タスクにおけるテスト結果を公開しました。",
+  "summary3": [
+   "Gemma 4 31Bのテスト結果を公開",
+   "一部タスクで同等性能を発揮",
+   "コストを40分の1に削減可能"
+  ],
+  "body": [
+   "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。",
+   "AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結果を公開しています。",
+   "今回のテスト結果は、適切なAIモデルを選択することで、パフォーマンスを維持しながら大幅なコスト削減が可能であることを示しています。"
+  ],
+  "tags": [
+   "Gemma 4",
+   "Claude Sonnet 5",
+   "AIコスト削減"
+  ],
+  "slug": "gemma-4-benchmark-alpha-sense",
+  "people": [],
+  "terms": [
+   {
+    "name": "AlphaSense",
+    "type": "company",
+    "desc": "企業や金融機関向けにAIを活用した市場インテリジェンスや文書管理サービスを提供するアメリカの企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "01:00",
+  "path": "/articles/20260824-gemma-4-benchmark-alpha-sense.html"
  }
 ]

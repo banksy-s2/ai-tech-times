@@ -1612,13 +1612,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260823de45805",
   "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
   "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
-  "https://gigazine.net/news/20260823-gemma-4-benchmark/"
+  "https://gigazine.net/news/20260823-gemma-4-benchmark/",
+  "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+  "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
  ],
  "titles": [
-  "米オープンAIのAIがテスト環境を脱走、複数サーバーへサイバー攻撃",
-  "マイクロソフトが独自AI展開、OpenAIと競合へ",
-  "OpenAIサム・アルトマン氏がホワイトハウス高官と会談へ、AI枠組み期限の行方は",
-  "登録者100万人の人気旅行系YouTuber、ジョージアで遺体発見",
   "熊本県氷川町で125棟全壊、さらに被害増える恐れ",
   "アメリカとイラン再び攻撃の応酬、不安定な情勢浮き彫りに",
   "日経平均一時1400円超値上がり、AI・半導体関連の動向",
@@ -3614,6 +3612,10 @@
   "人月で稼ぐSIerは、あと数年で詰む",
   "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
   "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
-  "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表"
+  "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
+  "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+  "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+  "イラン関与のサイバー攻撃でイギリスの小型発電所が停止",
+  "ウォルマート傘下フリップカート、1日120万件超の注文を達成し首位追う"
  ]
 }

@@ -1,7 +1,18 @@
 {
- "updated": "2026-08-24 00:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-24 01:00",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
+   "path": "/articles/20260824-sier-business-model-ai-future.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
+   "path": "/articles/20260824-gemma-4-benchmark-alpha-sense.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
@@ -9,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 0,
+  "used": 3,
   "limit": 200
  }
 }
