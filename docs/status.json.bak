@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-23 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-23 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "茨城などで震度5弱の地震発生、今後1週間の注意点とは",
-   "path": "/articles/20260823-ibaraki-earthquake-magnitude-5-9.html",
-   "cat": "時事・世界"
+   "title": "日経平均7万円台はバブルか？業績が裏付ける株高の実態",
+   "path": "/articles/20260823-nikkei-average-bubble-analysis.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [
-  "執筆失敗: トランプ大統領 経済制裁強化しイラン側の対応見極める考え"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 80,
+  "used": 84,
   "limit": 200
  }
 }
