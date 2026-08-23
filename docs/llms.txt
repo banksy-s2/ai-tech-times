@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 21:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 22:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [大分で40度予想、西・東日本で猛烈な暑さ](https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html) — 2026-08-23 22:01: 東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も西日本と東日本の各地で猛烈な暑さが予想されています。
+- [ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及](https://ai-tech-times.web.app/articles/20260823-ukraine-former-minister-corruption-election.html) — 2026-08-23 22:01: BBCの報道によると、ウクライナの前国防相が政府内の汚職についてゼレンスキー大統領が何を把握していたのか問われるべきだと主張し、戦時中の選挙実施も求めている。
 - [ハーバード大の699ドル起業塾、指導者のAIアバターを採用](https://ai-tech-times.web.app/articles/20260823-harvards-startup-bootcamp-ai-avatars.html) — 2026-08-23 21:03: ハーバード大学のスタートアップ向けプログラム「HBS Foundry」において、指導者たちのAIアバターが導入されました。模擬ピッチや取締役会でのフィードバックを提供します。
 - [Hubble.md：AIが直接操作する無料のメモ帳](https://ai-tech-times.web.app/articles/20260823-hubble-md-ai-notepad.html) — 2026-08-23 21:03: Markdown形式のメモをAIエージェントに直接編集させることができる無料のオープンソースのメモ帳アプリ「Hubble.md」が公開されました。AIがファイルを扱うことを前提に設計されているのが特徴です。
 - [マイケル・ポランスキー氏、生きた皮膚でAI訓練の理由](https://ai-tech-times.web.app/articles/20260823-michael-polansky-ai-skin-startup.html) — 2026-08-23 21:03: レディー・ガガのパートナーとして知られるマイケル・ポランスキー氏が、体外で生かし続けた人間の皮膚を使ってAIモデルを訓練するスタートアップを創業していたことが明らかになりました。
@@ -40,8 +42,6 @@
 - [TikTok、米国で4億ドル支払いの理由](https://ai-tech-times.web.app/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html) — 2026-08-23 17:03: 人気動画投稿アプリ「TikTok」と親会社が、13歳未満のユーザーのデータ収集を巡る訴訟で巨額の和解金支払いに合意しました。
 - [東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故](https://ai-tech-times.web.app/articles/20260823-tobu-railway-search-investigation.html) — 2026-08-23 17:03: 栃木県鹿沼市の東武日光線で発生した作業員4人の死亡事故をめぐり、警察は業務上過失致死の疑いで東武鉄道の子会社を捜索しました。
 - [日経平均株価、2027年8月までの値動き予測が浮上](https://ai-tech-times.web.app/articles/20260823-nikkei-average-forecast-2027.html) — 2026-08-23 17:03: ダイヤモンド・オンラインの報道によると、日経平均株価の2027年8月までの値動きに関する予測が示されました。
-- [上場企業の平均年収778万円、5年連続超えの理由](https://ai-tech-times.web.app/articles/20260823-listed-companies-average-salary-778-man-yen.html) — 2026-08-23 17:03: テレビ朝日系（ANN）の報道によると、上場企業の平均年収が778万円となり、5年連続で前年度を超えたことが明らかになりました。
-- [LinkedInの「AI低品質」ボタン、100万人超が利用](https://ai-tech-times.web.app/articles/20260823-linkedin-ai-slop-button-one-million.html) — 2026-08-23 16:00: ビジネス向けSNSのLinkedInで導入された「AI低品質」ボタンが、公開から短期間で多くのユーザーに使われています。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
@@ -73,12 +73,12 @@
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領として、ロシアによる軍事侵攻が続く中で国家を率い、国際社会へ支援を訴えている。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
 - [BBC Worldとは](https://ai-tech-times.web.app/term/bbc-world.html): 英国放送協会（BBC）が運営する国際的なニュース報道メディアで、世界中の最新情報を伝えています。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
-- [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカのイーロン・マスク氏が率いる民間宇宙企業で、ロケット開発や衛星通信サービスなどを手掛ける。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
