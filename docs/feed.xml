@@ -5,6 +5,70 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>謎の新型AI「Ox Alpha」登場、その開発元はどこなのか</title>
+<link>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。</description>
+</item>
+<item>
+<title>Slack、開発チームの議論から自動コーディングする「Slack Code」登場</title>
+<link>https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。</description>
+</item>
+<item>
+<title>大阪大学とNEC、1TBを90秒で送る基盤構築</title>
+<link>https://ai-tech-times.web.app/articles/20260824-osaka-u-nec-red-onion.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-osaka-u-nec-red-onion.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>大阪大学とNECは、次世代データ転送基盤「RED-ONION」を構築し、1TBのデータを約90秒で転送することに成功しました。</description>
+</item>
+<item>
+<title>Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは</title>
+<link>https://ai-tech-times.web.app/articles/20260824-uber-faces-fine-automated-suspensions.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-uber-faces-fine-automated-suspensions.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。</description>
+</item>
+<item>
+<title>謎のAIモデル「Ox Alpha」の正体は誰なのか</title>
+<link>https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。</description>
+</item>
+<item>
+<title>経産省、ベビーシッター利用で税制優遇要望へ</title>
+<link>https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。</description>
+</item>
+<item>
+<title>分子科学研究所、新方式の国産初量子コンピューターが稼働開始</title>
+<link>https://ai-tech-times.web.app/articles/20260824-national-neutral-atom-quantum-computer-launched.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-national-neutral-atom-quantum-computer-launched.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>開発競争が続く量子コンピューターをめぐり、「中性原子」と呼ばれる国産初の方式を採用したシステムが愛知県内で稼働を始めました。</description>
+</item>
+<item>
+<title>キッコーマン、現金収入1000億円が見えてきた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260824-kikkoman-financial-results-cash-flow.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-kikkoman-financial-results-cash-flow.html</guid>
+<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>キッコーマンの決算において、現金収入1000億円が見えてきたことが日本経済新聞の報道で明らかになりました。</description>
+</item>
+<item>
 <title>長野県上場企業の77％、女性管理職1割未満の現状とは</title>
 <link>https://ai-tech-times.web.app/articles/20260824-nagano-listed-companies-female-managers.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260824-nagano-listed-companies-female-managers.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Sun, 23 Aug 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。</description>
-</item>
-<item>
-<title>ローカルLLMが「バカ」に感じる理由とは？その正体に迫る</title>
-<link>https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>手元で動かすローカルLLMが期待よりも賢く感じられない現象について、技術フォーラムで議論が交わされています。その背景にある要因と実態を解説します。</description>
-</item>
-<item>
-<title>中島聡氏がAI要約記事を公開、「情報に著作権はない」と物議</title>
-<link>https://ai-tech-times.web.app/articles/20260823-nakajima-ai-summary-controversy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-nakajima-ai-summary-controversy.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIを使って他人の記事を要約し、自分の記事として公開する手法をめぐり、プログラマーの中島聡氏のnote記事が議論を呼んでいます。</description>
-</item>
-<item>
-<title>Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか</title>
-<link>https://ai-tech-times.web.app/articles/20260823-rillet-raises-100m-unicorn-48-hours.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-rillet-raises-100m-unicorn-48-hours.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AI会計スタートアップのRilletが、取締役会での成長数値の共有をきっかけに、わずか48時間で1億ドルを調達してユニコーン企業となりました。</description>
-</item>
-<item>
-<title>EXO ベクヒョン、チャ・ガウォン代表から630億ウォン規模の詐欺か</title>
-<link>https://ai-tech-times.web.app/articles/20260823-exo-baekhyun-fraud-allegation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-exo-baekhyun-fraud-allegation.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>EXOのベクヒョンが、チャ・ガウォン代表から630億ウォン規模の深刻な被害を受けているとYouTuberが主張しました。イ・スンギを超える被害規模として注目を集めています。</description>
-</item>
-<item>
-<title>TikTok、米国で4億ドル支払いの理由</title>
-<link>https://ai-tech-times.web.app/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>人気動画投稿アプリ「TikTok」と親会社が、13歳未満のユーザーのデータ収集を巡る訴訟で巨額の和解金支払いに合意しました。</description>
-</item>
-<item>
-<title>東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故</title>
-<link>https://ai-tech-times.web.app/articles/20260823-tobu-railway-search-investigation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-tobu-railway-search-investigation.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>栃木県鹿沼市の東武日光線で発生した作業員4人の死亡事故をめぐり、警察は業務上過失致死の疑いで東武鉄道の子会社を捜索しました。</description>
-</item>
-<item>
-<title>日経平均株価、2027年8月までの値動き予測が浮上</title>
-<link>https://ai-tech-times.web.app/articles/20260823-nikkei-average-forecast-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-nikkei-average-forecast-2027.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>ダイヤモンド・オンラインの報道によると、日経平均株価の2027年8月までの値動きに関する予測が示されました。</description>
-</item>
-<item>
-<title>上場企業の平均年収778万円、5年連続超えの理由</title>
-<link>https://ai-tech-times.web.app/articles/20260823-listed-companies-average-salary-778-man-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-listed-companies-average-salary-778-man-yen.html</guid>
-<pubDate>Sun, 23 Aug 2026 17:03:00 +0900</pubDate>
-<category>日本企業</category>
-<description>テレビ朝日系（ANN）の報道によると、上場企業の平均年収が778万円となり、5年連続で前年度を超えたことが明らかになりました。</description>
 </item>
 </channel></rss>

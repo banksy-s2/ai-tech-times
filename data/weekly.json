@@ -1,66 +1,66 @@
 {
- "week_of": "2026-08-18",
- "range": "2026-08-11 〜 2026-08-18",
+ "week_of": "2026-08-24",
+ "range": "2026-08-17 〜 2026-08-24",
  "items": [
   {
-   "path": "/articles/20260811-nikkei-average-rebounds-sharply-feb-10.html",
-   "title": "日経平均株価は1363円高の6万6970円、3日ぶり大幅反発",
+   "path": "/articles/20260818-nikkei-average-falls-6th-day.html",
+   "title": "日経平均6営業日ぶり下落、終値1759円安の6万7460円",
    "cat": "株式投資(日本)",
-   "comment": "日経平均株価は前日比1363円高となり、3日ぶりに大幅反発を記録しました。"
+   "comment": "日経平均株価が長期金利上昇への懸念から終値で1759円安となった。"
   },
   {
-   "path": "/articles/20260811-sk-hynix-invests-6-trillion-won-new-factories.html",
-   "title": "SK Hynix、韓国で約6兆円を投じ新工場建設へ",
+   "path": "/articles/20260819-tokyo-stock-market-plunge-2026-0819.html",
+   "title": "日経平均一時2100円超安、半導体関連に売り",
+   "cat": "時事・世界",
+   "comment": "東京株式市場で日経平均株価の下落幅が朝方一時2100円を超えた。"
+  },
+  {
+   "path": "/articles/20260819-anthropic-revenue-run-rate-10-trillion-yen.html",
+   "title": "Anthropicの年換算収益が10兆円超え、約7カ月で7倍に急拡大した理由",
    "cat": "日本のAI",
-   "comment": "SK HynixがAIメモリ需要に対応するため、韓国で約6兆円を投じ新工場を建設"
+   "comment": "Anthropicの年換算収益が650億ドルを突破し急拡大した。"
   },
   {
-   "path": "/articles/20260811-michibiki-7-h3-rocket-success.html",
-   "title": "H3ロケットで「みちびき7号機」打ち上げ成功",
-   "cat": "時事・世界",
-   "comment": "日本版GPS衛星「みちびき」7号機がH3ロケット9号機により打ち上げ成功しました"
-  },
-  {
-   "path": "/articles/20260811-russia-drone-attack-13-deaths.html",
-   "title": "ロシア中部で無人機攻撃、13人死亡なぜ？石油施設狙う",
-   "cat": "時事・世界",
-   "comment": "ロシア中部でウクライナの無人機による石油施設攻撃があり、13人が死亡しました。"
-  },
-  {
-   "path": "/articles/20260811-rakuten-group-fy2026-q2-earnings.html",
-   "title": "楽天グループ、6年ぶり四半期黒字化の背景",
-   "cat": "日本企業",
-   "comment": "楽天グループのFY2026 Q2決算説明会で、6年ぶりとなる四半期黒字化が発表さ"
-  },
-  {
-   "path": "/articles/20260812-mod-north-korea-missile-eez-2026.html",
-   "title": "防衛省「北朝鮮から弾道ミサイル発射」日本のEEZ外側に落下か",
-   "cat": "時事・世界",
-   "comment": "防衛省は北朝鮮から弾道ミサイルが発射され、日本のEEZ外側に落下したと発表しまし"
-  },
-  {
-   "path": "/articles/20260813-google-pixel-11-gemini-ai-apple.html",
-   "title": "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
+   "path": "/articles/20260818-nvidia-discloses-21b-stake-in-spacex.html",
+   "title": "Nvidia、SpaceXに210億ドル出資の理由",
    "cat": "シリコンバレー最速",
-   "comment": "米Googleは新スマートフォン「Pixel 11」を発表し、Gemini AI"
-  },
-  {
-   "path": "/articles/20260812-okuda-hiroshi-passed-away.html",
-   "title": "奥田碩氏が93歳で死去、トヨタ社長や経団連会長を歴任",
-   "cat": "時事・世界",
-   "comment": "トヨタ自動車の社長や経団連会長を務めた奥田碩氏が93歳で亡くなりました。"
+   "comment": "半導体大手Nvidiaが宇宙開発企業SpaceXに210億ドルを出資した。"
   },
   {
    "path": "/articles/20260818-stripe-to-acquire-openrouter-for-7b.html",
    "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収へ",
    "cat": "シリコンバレー最速",
-   "comment": "決済大手のStripeが、AIゲートウェイを手がけるOpenRouterの買収を"
+   "comment": "StripeがAIゲートウェイを手がけるOpenRouterを買収へ。"
   },
   {
-   "path": "/articles/20260813-takaichi-iran-president-phone-talk.html",
-   "title": "高市首相、イラン大統領と電話会談しホルムズ海峡の安全航行を要求",
+   "path": "/articles/20260819-trump-administration-icc-akane-sanctions.html",
+   "title": "米トランプ政権、ICC赤根智子所長を制裁対象に指定",
    "cat": "時事・世界",
-   "comment": "高市総理大臣がイラン大統領と電話会談し、ホルムズ海峡の安全航行を要求しました。"
+   "comment": "米トランプ政権がICCの赤根智子所長らを制裁対象に指定した。"
+  },
+  {
+   "path": "/articles/20260819-chiba-heavy-rain-damage-update.html",
+   "title": "千葉豪雨で死者13人に、浸水2314棟の被害なぜ拡大",
+   "cat": "時事・世界",
+   "comment": "千葉県の記録的な豪雨により、死者が13人に確認された。"
+  },
+  {
+   "path": "/articles/20260824-national-neutral-atom-quantum-computer-launched.html",
+   "title": "分子科学研究所、新方式の国産初量子コンピューターが稼働開始",
+   "cat": "時事・世界",
+   "comment": "分子科学研究所は中性原子方式を採用した国産初量子コンピュータが稼働。"
+  },
+  {
+   "path": "/articles/20260824-osaka-u-nec-red-onion.html",
+   "title": "大阪大学とNEC、1TBを90秒で送る基盤構築",
+   "cat": "日本のAI",
+   "comment": "大阪大学とNECが次世代データ転送基盤で1TBを90秒で転送した。"
+  },
+  {
+   "path": "/articles/20260819-ohtani-30th-home-run-dodgers.html",
+   "title": "大谷翔平、ドジャースで6年連続30号！なぜこのペースなのか",
+   "cat": "時事・世界",
+   "comment": "ドジャースの大谷翔平選手がロッキーズ戦で6年連続30号を放った。"
   }
  ]
 }

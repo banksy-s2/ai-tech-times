@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 07:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [謎の新型AI「Ox Alpha」登場、その開発元はどこなのか](https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html) — 2026-08-24 07:01: インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。
+- [Slack、開発チームの議論から自動コーディングする「Slack Code」登場](https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html) — 2026-08-24 07:01: Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。
+- [大阪大学とNEC、1TBを90秒で送る基盤構築](https://ai-tech-times.web.app/articles/20260824-osaka-u-nec-red-onion.html) — 2026-08-24 07:01: 大阪大学とNECは、次世代データ転送基盤「RED-ONION」を構築し、1TBのデータを約90秒で転送することに成功しました。
+- [Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは](https://ai-tech-times.web.app/articles/20260824-uber-faces-fine-automated-suspensions.html) — 2026-08-24 07:01: 配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。
+- [謎のAIモデル「Ox Alpha」の正体は誰なのか](https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html) — 2026-08-24 07:01: インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。
+- [経産省、ベビーシッター利用で税制優遇要望へ](https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html) — 2026-08-24 07:01: 経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。
+- [分子科学研究所、新方式の国産初量子コンピューターが稼働開始](https://ai-tech-times.web.app/articles/20260824-national-neutral-atom-quantum-computer-launched.html) — 2026-08-24 07:01: 開発競争が続く量子コンピューターをめぐり、「中性原子」と呼ばれる国産初の方式を採用したシステムが愛知県内で稼働を始めました。
+- [キッコーマン、現金収入1000億円が見えてきた理由](https://ai-tech-times.web.app/articles/20260824-kikkoman-financial-results-cash-flow.html) — 2026-08-24 07:01: キッコーマンの決算において、現金収入1000億円が見えてきたことが日本経済新聞の報道で明らかになりました。
 - [長野県上場企業の77％、女性管理職1割未満の現状とは](https://ai-tech-times.web.app/articles/20260824-nagano-listed-companies-female-managers.html) — 2026-08-24 06:00: 信濃毎日新聞デジタルの報道によると、長野県関係の上場企業において、女性管理職の割合が1割に満たない企業が77％に達することが明らかになりました。
 - [イーライリリー肥満症薬、米国で月50ドルに](https://ai-tech-times.web.app/articles/20260824-eli-lilly-obesity-drug-market-us.html) — 2026-08-24 05:00: 減量薬ブームの終息という見方を覆し、製薬大手イーライリリーの決算から新たな動きが明らかになりました。アメリカ政府が肥満症薬を月50ドルで解禁する方針です。
 - [東武鉄道の作業員4人死亡事故、当日3本の列車はなぜ通過できたのか](https://ai-tech-times.web.app/articles/20260824-tobu-railway-accident-investigation.html) — 2026-08-24 04:00: 栃木県鹿沼市の東武日光線で作業員4人が死亡した特急列車の事故で、事故当日は作業を始めてから3本の列車が問題なく現場を通過していたことが分かりました。
@@ -34,21 +42,13 @@
 - [大分で40度予想、西・東日本で猛烈な暑さ](https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html) — 2026-08-23 22:01: 東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も西日本と東日本の各地で猛烈な暑さが予想されています。
 - [ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及](https://ai-tech-times.web.app/articles/20260823-ukraine-former-minister-corruption-election.html) — 2026-08-23 22:01: BBCの報道によると、ウクライナの前国防相が政府内の汚職についてゼレンスキー大統領が何を把握していたのか問われるべきだと主張し、戦時中の選挙実施も求めている。
 - [ハーバード大の699ドル起業塾、指導者のAIアバターを採用](https://ai-tech-times.web.app/articles/20260823-harvards-startup-bootcamp-ai-avatars.html) — 2026-08-23 21:03: ハーバード大学のスタートアップ向けプログラム「HBS Foundry」において、指導者たちのAIアバターが導入されました。模擬ピッチや取締役会でのフィードバックを提供します。
-- [Hubble.md：AIが直接操作する無料のメモ帳](https://ai-tech-times.web.app/articles/20260823-hubble-md-ai-notepad.html) — 2026-08-23 21:03: Markdown形式のメモをAIエージェントに直接編集させることができる無料のオープンソースのメモ帳アプリ「Hubble.md」が公開されました。AIがファイルを扱うことを前提に設計されているのが特徴です。
-- [マイケル・ポランスキー氏、生きた皮膚でAI訓練の理由](https://ai-tech-times.web.app/articles/20260823-michael-polansky-ai-skin-startup.html) — 2026-08-23 21:03: レディー・ガガのパートナーとして知られるマイケル・ポランスキー氏が、体外で生かし続けた人間の皮膚を使ってAIモデルを訓練するスタートアップを創業していたことが明らかになりました。
-- [Metaの未来を左右する大型訴訟、敏腕判事の手腕](https://ai-tech-times.web.app/articles/20260823-yvonne-gonzalez-rogers-meta-lawsuit.html) — 2026-08-23 21:03: 数々の重要なハイテク裁判を担当してきたイヴォンヌ・ゴンザレス・ロジャース判事が、新たにMetaの未来に大きな影響を及ぼす裁判を監督することになりました。
-- [うつ病や自己破産を経験した20代女性を再生させた全員VTuberの職場とは](https://ai-tech-times.web.app/articles/20260823-vtuber-workplace-recovers-young-woman.html) — 2026-08-23 21:03: うつ病や発達障害、自己破産など困難を経験した20代女性が、全員がVTuberとして働く職場によって再生を果たしました。集英社オンラインが報じています。
-- [沖縄の先島諸島で大雨、台風18号も接近へ](https://ai-tech-times.web.app/articles/20260823-typhoon-info-okinawa-amami.html) — 2026-08-23 21:03: 台風20号の影響で沖縄県の先島諸島では大雨となりました。さらに非常に強い台風18号が接近する見込みです。
-- [ウサイン・ボルト氏の記録超えも！北京で人型ロボット運動会が開幕](https://ai-tech-times.web.app/articles/20260823-beijing-humanoid-robot-sports-meet.html) — 2026-08-23 21:03: 中国政府が人型ロボットの開発に力を入れる中、北京で2回目となる人型ロボットの運動会が開催されました。陸上の100メートル競技では世界記録を上回る性能を見せています。
-- [荏原やアシックスの決算、マイナス影響銘柄に](https://ai-tech-times.web.app/articles/20260823-earnings-negative-impact-stocks-prime.html) — 2026-08-23 21:03: 8月14日から20日に発表された決算において、東証プライム上場の複数の銘柄がマイナス・インパクトを受けたことが分かりました。
-- [りくりゅう木原龍一選手と三浦璃来選手が婚約を発表](https://ai-tech-times.web.app/articles/20260823-rikuryu-engagement-announcement.html) — 2026-08-23 20:00: 今年２月のミラノ・コルティナ五輪フィギュアスケートペアで日本勢史上初の金メダルを獲得した“りくりゅうペア”が、インスタグラムで婚約を発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 2位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
 - 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
 
-## AI用語事典 (全1048語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1055語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -77,8 +77,8 @@
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
+- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
 - [BBC Worldとは](https://ai-tech-times.web.app/term/bbc-world.html): 英国放送協会（BBC）が運営する国際的なニュース報道メディアで、世界中の最新情報を伝えています。
-- [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
