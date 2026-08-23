@@ -1,21 +1,60 @@
 {
- "updated": "2026-08-23 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-23 21:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "りくりゅう木原龍一選手と三浦璃来選手が婚約を発表",
-   "path": "/articles/20260823-rikuryu-engagement-announcement.html",
+   "title": "ハーバード大の699ドル起業塾、指導者のAIアバターを採用",
+   "path": "/articles/20260823-harvards-startup-bootcamp-ai-avatars.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Hubble.md：AIが直接操作する無料のメモ帳",
+   "path": "/articles/20260823-hubble-md-ai-notepad.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "マイケル・ポランスキー氏、生きた皮膚でAI訓練の理由",
+   "path": "/articles/20260823-michael-polansky-ai-skin-startup.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Metaの未来を左右する大型訴訟、敏腕判事の手腕",
+   "path": "/articles/20260823-yvonne-gonzalez-rogers-meta-lawsuit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "うつ病や自己破産を経験した20代女性を再生させた全員VTuberの職場とは",
+   "path": "/articles/20260823-vtuber-workplace-recovers-young-woman.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "沖縄の先島諸島で大雨、台風18号も接近へ",
+   "path": "/articles/20260823-typhoon-info-okinawa-amami.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ウサイン・ボルト氏の記録超えも！北京で人型ロボット運動会が開幕",
+   "path": "/articles/20260823-beijing-humanoid-robot-sports-meet.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "荏原やアシックスの決算、マイナス影響銘柄に",
+   "path": "/articles/20260823-earnings-negative-impact-stocks-prime.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: GoogleのAIエージェント「Antigravity」が別デバイスからのリモー",
+  "執筆失敗: 国内株式市場見通し：ジャクソンホール会議とエヌビディア決算が二大イベントに - ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 117,
+  "used": 134,
   "limit": 200
  }
 }

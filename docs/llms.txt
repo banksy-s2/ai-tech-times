@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 21:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ハーバード大の699ドル起業塾、指導者のAIアバターを採用](https://ai-tech-times.web.app/articles/20260823-harvards-startup-bootcamp-ai-avatars.html) — 2026-08-23 21:03: ハーバード大学のスタートアップ向けプログラム「HBS Foundry」において、指導者たちのAIアバターが導入されました。模擬ピッチや取締役会でのフィードバックを提供します。
+- [Hubble.md：AIが直接操作する無料のメモ帳](https://ai-tech-times.web.app/articles/20260823-hubble-md-ai-notepad.html) — 2026-08-23 21:03: Markdown形式のメモをAIエージェントに直接編集させることができる無料のオープンソースのメモ帳アプリ「Hubble.md」が公開されました。AIがファイルを扱うことを前提に設計されているのが特徴です。
+- [マイケル・ポランスキー氏、生きた皮膚でAI訓練の理由](https://ai-tech-times.web.app/articles/20260823-michael-polansky-ai-skin-startup.html) — 2026-08-23 21:03: レディー・ガガのパートナーとして知られるマイケル・ポランスキー氏が、体外で生かし続けた人間の皮膚を使ってAIモデルを訓練するスタートアップを創業していたことが明らかになりました。
+- [Metaの未来を左右する大型訴訟、敏腕判事の手腕](https://ai-tech-times.web.app/articles/20260823-yvonne-gonzalez-rogers-meta-lawsuit.html) — 2026-08-23 21:03: 数々の重要なハイテク裁判を担当してきたイヴォンヌ・ゴンザレス・ロジャース判事が、新たにMetaの未来に大きな影響を及ぼす裁判を監督することになりました。
+- [うつ病や自己破産を経験した20代女性を再生させた全員VTuberの職場とは](https://ai-tech-times.web.app/articles/20260823-vtuber-workplace-recovers-young-woman.html) — 2026-08-23 21:03: うつ病や発達障害、自己破産など困難を経験した20代女性が、全員がVTuberとして働く職場によって再生を果たしました。集英社オンラインが報じています。
+- [沖縄の先島諸島で大雨、台風18号も接近へ](https://ai-tech-times.web.app/articles/20260823-typhoon-info-okinawa-amami.html) — 2026-08-23 21:03: 台風20号の影響で沖縄県の先島諸島では大雨となりました。さらに非常に強い台風18号が接近する見込みです。
+- [ウサイン・ボルト氏の記録超えも！北京で人型ロボット運動会が開幕](https://ai-tech-times.web.app/articles/20260823-beijing-humanoid-robot-sports-meet.html) — 2026-08-23 21:03: 中国政府が人型ロボットの開発に力を入れる中、北京で2回目となる人型ロボットの運動会が開催されました。陸上の100メートル競技では世界記録を上回る性能を見せています。
+- [荏原やアシックスの決算、マイナス影響銘柄に](https://ai-tech-times.web.app/articles/20260823-earnings-negative-impact-stocks-prime.html) — 2026-08-23 21:03: 8月14日から20日に発表された決算において、東証プライム上場の複数の銘柄がマイナス・インパクトを受けたことが分かりました。
 - [りくりゅう木原龍一選手と三浦璃来選手が婚約を発表](https://ai-tech-times.web.app/articles/20260823-rikuryu-engagement-announcement.html) — 2026-08-23 20:00: 今年２月のミラノ・コルティナ五輪フィギュアスケートペアで日本勢史上初の金メダルを獲得した“りくりゅうペア”が、インスタグラムで婚約を発表しました。
 - [日本経済新聞：AI時代にあえて体育会系学生が注目される理由](https://ai-tech-times.web.app/articles/20260823-taiikukai-hiring-ai-era.html) — 2026-08-23 18:00: AI時代を迎える中、企業による体育会系に所属する学生の採用活動が活発化しています。コンサルティング業界なども注目する、その対人能力の評価とは何でしょうか。
 - [アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減](https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html) — 2026-08-23 18:00: ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。
@@ -34,21 +42,13 @@
 - [日経平均株価、2027年8月までの値動き予測が浮上](https://ai-tech-times.web.app/articles/20260823-nikkei-average-forecast-2027.html) — 2026-08-23 17:03: ダイヤモンド・オンラインの報道によると、日経平均株価の2027年8月までの値動きに関する予測が示されました。
 - [上場企業の平均年収778万円、5年連続超えの理由](https://ai-tech-times.web.app/articles/20260823-listed-companies-average-salary-778-man-yen.html) — 2026-08-23 17:03: テレビ朝日系（ANN）の報道によると、上場企業の平均年収が778万円となり、5年連続で前年度を超えたことが明らかになりました。
 - [LinkedInの「AI低品質」ボタン、100万人超が利用](https://ai-tech-times.web.app/articles/20260823-linkedin-ai-slop-button-one-million.html) — 2026-08-23 16:00: ビジネス向けSNSのLinkedInで導入された「AI低品質」ボタンが、公開から短期間で多くのユーザーに使われています。
-- [AnthropicのClaude Code、仕様変更の狙いは](https://ai-tech-times.web.app/articles/20260823-anthropic-claude-code-ab-testing.html) — 2026-08-23 16:00: Anthropicが提供するClaude Codeにおいて、仕様の変更に関する検証が行われていることが分かりました。実際のユーザーの間で議論が広がっています。
-- [日経平均7万円台はバブルか？業績が裏付ける株高の実態](https://ai-tech-times.web.app/articles/20260823-nikkei-average-bubble-analysis.html) — 2026-08-23 14:00: 日経平均株価が7万円台に達する可能性について、実際の企業業績が裏付ける株高の実態をTBS NEWS DIGが報じました。
-- [茨城などで震度5弱の地震発生、今後1週間の注意点とは](https://ai-tech-times.web.app/articles/20260823-ibaraki-earthquake-magnitude-5-9.html) — 2026-08-23 13:00: 23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生し、各地で強い揺れが観測されました。気象庁は今後1週間程度の注意を呼びかけています。
-- [Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか](https://ai-tech-times.web.app/articles/20260823-major-youtube-creators-facing-backlash-for-accepting-ai-mone.html) — 2026-08-23 12:02: 著名な映像クリエイターらがAIプラットフォームのPR動画を公開し、批判に直面しています。動画制作の未来を謳う技術の導入に、なぜこれほどの反発が起きているのでしょうか。
-- [ChatGPT、Codex利用2000万人突破記念でリセット権配布](https://ai-tech-times.web.app/articles/20260823-chatgpt-codex-reset-right.html) — 2026-08-23 12:02: ChatGPTを提供するオープンAIは、開発者向けツールであるCodexの利用者が2,000万人を突破したことを記念し、使用量リセット権の配布を実施しました。
-- [古いAndroid端末をRaspberry Pi代わりに](https://ai-tech-times.web.app/articles/20260823-android-as-raspberry-pi-alternative.html) — 2026-08-23 12:02: AIデータセンター需要によるRAMやストレージの価格高騰でRaspberry Piの入手が困難になる中、使わなくなった古い端末の活用法が注目を集めています。
-- [米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか](https://ai-tech-times.web.app/articles/20260823-us-battery-startups-lifeline-defense.html) — 2026-08-23 12:02: 電気自動車（EV）向けの優遇策が削減され苦境に立たされていた米国の電池スタートアップに対し、エネルギー省から5億ドルの補助金が支給されました。
-- [ロジクール、最大25%の値上げを巡り関税返還訴訟に直面](https://ai-tech-times.web.app/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html) — 2026-08-23 12:02: 周辺機器大手のロジクールが昨年実施した最大25%の値上げについて、顧客へ関税の返還を求める訴訟が提起されました。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
-- 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
+- 3位: [UPDATE 30 TEASER | Blox Fruits](https://www.youtube.com/watch?v=ZeiCK3sNCRo)
 
-## AI用語事典 (全1038語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1044語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

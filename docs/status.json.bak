@@ -1,18 +1,21 @@
 {
- "updated": "2026-08-23 19:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [],
+ "updated": "2026-08-23 20:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "りくりゅう木原龍一選手と三浦璃来選手が婚約を発表",
+   "path": "/articles/20260823-rikuryu-engagement-announcement.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [
-  "執筆失敗: Meta is the latest tech giant to land in",
-  "執筆失敗: Michael Polansky is training an AI model"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 115,
+  "used": 117,
   "limit": 200
  }
 }
