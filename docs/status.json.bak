@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-23 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAIがChatGPTの医療アドバイスで提訴された理由",
-   "path": "/articles/20260823-openai-sued-over-chatgpt-medical-advice.html",
-   "cat": "日本のAI"
+   "title": "AnthropicのIPO申請、AIへの社会的反発がリスク要因に浮上",
+   "path": "/articles/20260823-anthropic-ipo-filing-ai-backlash.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "「救急の日」ポスターがAI生成？背景や配置を巡り議論",
-   "path": "/articles/20260823-kyukyu-day-ai-poster.html",
-   "cat": "日本のAI"
+   "title": "Apple、SiriとVision Pro部門で数百人の人員削減に踏み切った理由",
+   "path": "/articles/20260823-apple-cuts-jobs-siri-vision-pro.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 49,
+  "used": 52,
   "limit": 200
  }
 }

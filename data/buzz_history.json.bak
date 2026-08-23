@@ -3498,7 +3498,7 @@
    "id": "MT-4Bk1Lw8g",
    "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
    "channel": "HYBE LABELS",
-   "views": 10396380,
+   "views": 10521830,
    "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g",
    "thumb": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/hqdefault.jpg",
    "regions": [
@@ -3514,7 +3514,7 @@
    "id": "Ytm8WiQLNZA",
    "title": "How I Destroyed an Entire Minecraft Civilization",
    "channel": "Wemmbu",
-   "views": 1912081,
+   "views": 2034228,
    "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
    "thumb": "https://i.ytimg.com/vi/Ytm8WiQLNZA/hqdefault.jpg",
    "regions": [
@@ -3528,7 +3528,7 @@
    "id": "ozsKU77OWpE",
    "title": "Tom Cruise vs Evel Knievel. Epic Rap Battles Of History",
    "channel": "ERB",
-   "views": 667310,
+   "views": 683041,
    "url": "https://www.youtube.com/watch?v=ozsKU77OWpE",
    "thumb": "https://i.ytimg.com/vi/ozsKU77OWpE/hqdefault.jpg",
    "regions": [
@@ -3542,7 +3542,7 @@
    "id": "PNyFcnrR000",
    "title": "@SaiAbhyankkar - Radhimaa (Promo) | Bhagyashri Borse | Think Indie",
    "channel": "Think Music India",
-   "views": 450230,
+   "views": 465600,
    "url": "https://www.youtube.com/watch?v=PNyFcnrR000",
    "thumb": "https://i.ytimg.com/vi/PNyFcnrR000/hqdefault.jpg",
    "regions": [
@@ -3556,7 +3556,7 @@
    "id": "iF8DrX_R5Wk",
    "title": "JYNXZI CUP #2",
    "channel": "Jynxzi",
-   "views": 373197,
+   "views": 428700,
    "url": "https://www.youtube.com/watch?v=iF8DrX_R5Wk",
    "thumb": "https://i.ytimg.com/vi/iF8DrX_R5Wk/hqdefault.jpg",
    "regions": [
@@ -3570,7 +3570,7 @@
    "id": "pzXDoKYxq40",
    "title": "BOYS vs GIRLS Military Battle! (Minecraft)",
    "channel": "Cash",
-   "views": 327720,
+   "views": 351145,
    "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
    "thumb": "https://i.ytimg.com/vi/pzXDoKYxq40/hqdefault.jpg",
    "regions": [
@@ -3584,7 +3584,7 @@
    "id": "R4ofLpMwFro",
    "title": "I Tried Becoming A Voice Actor.. [Choicer Voicer]",
    "channel": "Joe Bart Games",
-   "views": 293830,
+   "views": 313906,
    "url": "https://www.youtube.com/watch?v=R4ofLpMwFro",
    "thumb": "https://i.ytimg.com/vi/R4ofLpMwFro/hqdefault.jpg",
    "regions": [
@@ -3598,7 +3598,7 @@
    "id": "-gkDGDEfznU",
    "title": "Lee Know - 처음 느낌 그대로 (김광진 Cover) | [kNOw맘대로(The kNOw Way)] Ep.06",
    "channel": "Stray Kids",
-   "views": 286421,
+   "views": 295510,
    "url": "https://www.youtube.com/watch?v=-gkDGDEfznU",
    "thumb": "https://i.ytimg.com/vi/-gkDGDEfznU/hqdefault.jpg",
    "regions": [
@@ -3609,24 +3609,10 @@
   },
   {
    "rank": 9,
-   "id": "6ZmMUn5bQCw",
-   "title": "The Huge Detail We Missed In The Avengers Doomsday Trailer!",
-   "channel": "Emergency Awesome",
-   "views": 206531,
-   "url": "https://www.youtube.com/watch?v=6ZmMUn5bQCw",
-   "thumb": "https://i.ytimg.com/vi/6ZmMUn5bQCw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "アベンジャーズの予告編の隠された詳細を解説しているようです"
-  },
-  {
-   "rank": 10,
    "id": "zPf4c6SQ_sk",
    "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
    "channel": "Mumbo Jumbo",
-   "views": 189511,
+   "views": 223313,
    "url": "https://www.youtube.com/watch?v=zPf4c6SQ_sk",
    "thumb": "https://i.ytimg.com/vi/zPf4c6SQ_sk/hqdefault.jpg",
    "regions": [
@@ -3634,6 +3620,20 @@
     "GB"
    ],
    "comment": "Mumbo Jumboによるマイクラ実況シリーズのグランドオープン回のようです。"
+  },
+  {
+   "rank": 10,
+   "id": "6ZmMUn5bQCw",
+   "title": "The Huge Detail We Missed In The Avengers Doomsday Trailer!",
+   "channel": "Emergency Awesome",
+   "views": 209014,
+   "url": "https://www.youtube.com/watch?v=6ZmMUn5bQCw",
+   "thumb": "https://i.ytimg.com/vi/6ZmMUn5bQCw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "アベンジャーズの予告編の隠された詳細を解説しているようです"
   }
  ]
 }
