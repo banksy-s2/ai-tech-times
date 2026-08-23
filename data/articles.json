@@ -54853,5 +54853,39 @@
   "date": "2026-08-23",
   "time": "13:00",
   "path": "/articles/20260823-ibaraki-earthquake-magnitude-5-9.html"
+ },
+ {
+  "title": "日経平均7万円台はバブルか？業績が裏付ける株高の実態",
+  "lead": "日経平均株価が7万円台に達する可能性について、実際の企業業績が裏付ける株高の実態をTBS NEWS DIGが報じました。",
+  "summary3": [
+   "日経平均7万円台はバブルか検証",
+   "企業の実際の業績が裏付ける株高",
+   "現在の市場における実態を解説"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする今日の株式市場ニュースです。TBS NEWS DIGの報道によると、日経平均株価が7万円台に到達する可能性について、それが果たして「バブル」なのかどうかを検証する議論が注目を集めています。",
+   "株式市場においては、株価の上昇が実態を伴っているのか、それとも過熱感によるものなのかが常に議論の的となります。今回の報道では、単なる期待感だけでなく、企業の実際の業績がこの株高をどのように裏付けているのか、その実態に迫っています。",
+   "投資家や市場関係者の間では、今後の動向を見極める上で企業の収益力が重要な判断材料となっています。市場の現状を冷静に分析し、今後の経済活動や企業業績の推移に引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "企業業績"
+  ],
+  "slug": "nikkei-average-bubble-analysis",
+  "people": [],
+  "terms": [
+   {
+    "name": "TBS NEWS DIG",
+    "type": "company",
+    "desc": "JNN各局が制作するニュースを配信する総合ニュースサイトで、TBSテレビが運営しています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XVldXOWFvaTVpay1SRVBjemR5dzhEajJ0VzJnSWo4NTdjZ0tMYWVrNzdwcVZRVHpXNkkxZXU1UEZlaW5GT0F1V29fV2pTSHhvblhfeEk3YlpMcWg2cHNnYVMxTEhsVGc?oc=5",
+  "category": "stock",
+  "date": "2026-08-23",
+  "time": "14:00",
+  "path": "/articles/20260823-nikkei-average-bubble-analysis.html"
  }
 ]
