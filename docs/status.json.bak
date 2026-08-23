@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-23 22:01",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "大分で40度予想、西・東日本で猛烈な暑さ",
-   "path": "/articles/20260823-extreme-heat-forecast-japan-2026.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及",
-   "path": "/articles/20260823-ukraine-former-minister-corruption-election.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-08-23 23:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 国内株式市場見通し：ジャクソンホール会議とエヌビディア決算が二大イベントに - "
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 138,
+  "used": 140,
   "limit": 200
  }
 }
