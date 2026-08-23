@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>日本経済新聞：AI時代にあえて体育会系学生が注目される理由</title>
+<link>https://ai-tech-times.web.app/articles/20260823-taiikukai-hiring-ai-era.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-taiikukai-hiring-ai-era.html</guid>
+<pubDate>Sun, 23 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI時代を迎える中、企業による体育会系に所属する学生の採用活動が活発化しています。コンサルティング業界なども注目する、その対人能力の評価とは何でしょうか。</description>
+</item>
+<item>
+<title>アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減</title>
+<link>https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html</guid>
+<pubDate>Sun, 23 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。</description>
+</item>
+<item>
 <title>ローカルLLMが「バカ」に感じる理由とは？その正体に迫る</title>
 <link>https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 23 Aug 2026 07:04:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AIエージェント担当者における業務の設計や役割について、AINOWが報じています。</description>
-</item>
-<item>
-<title>Nvidia、AIサーバーの15%超値上げを顧客に警告か</title>
-<link>https://ai-tech-times.web.app/articles/20260823-nvidia-warns-ai-server-price-hikes.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-nvidia-warns-ai-server-price-hikes.html</guid>
-<pubDate>Sun, 23 Aug 2026 07:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米半導体大手Nvidiaが、一部の大口顧客に対してAIチップを搭載するサーバーの価格が15%以上上昇する可能性があると伝えたことが報じられました。</description>
-</item>
-<item>
-<title>Meta裁判敗訴でSNSは終わるのか、1990年代の巨大タバコ訴訟と比較される理由</title>
-<link>https://ai-tech-times.web.app/articles/20260823-meta-social-media-lawsuit-trial.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-meta-social-media-lawsuit-trial.html</guid>
-<pubDate>Sun, 23 Aug 2026 07:04:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>CNBC Techの報道によると、Metaの裁判の行方が、かつての巨大タバコ訴訟のようになるとアナリストが指摘しています。</description>
 </item>
 </channel></rss>

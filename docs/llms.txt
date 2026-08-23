@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 17:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日本経済新聞：AI時代にあえて体育会系学生が注目される理由](https://ai-tech-times.web.app/articles/20260823-taiikukai-hiring-ai-era.html) — 2026-08-23 18:00: AI時代を迎える中、企業による体育会系に所属する学生の採用活動が活発化しています。コンサルティング業界なども注目する、その対人能力の評価とは何でしょうか。
+- [アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減](https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html) — 2026-08-23 18:00: ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。
 - [ローカルLLMが「バカ」に感じる理由とは？その正体に迫る](https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html) — 2026-08-23 17:03: 手元で動かすローカルLLMが期待よりも賢く感じられない現象について、技術フォーラムで議論が交わされています。その背景にある要因と実態を解説します。
 - [中島聡氏がAI要約記事を公開、「情報に著作権はない」と物議](https://ai-tech-times.web.app/articles/20260823-nakajima-ai-summary-controversy.html) — 2026-08-23 17:03: 生成AIを使って他人の記事を要約し、自分の記事として公開する手法をめぐり、プログラマーの中島聡氏のnote記事が議論を呼んでいます。
 - [Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか](https://ai-tech-times.web.app/articles/20260823-rillet-raises-100m-unicorn-48-hours.html) — 2026-08-23 17:03: AI会計スタートアップのRilletが、取締役会での成長数値の共有をきっかけに、わずか48時間で1億ドルを調達してユニコーン企業となりました。
@@ -40,15 +42,13 @@
 - [米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか](https://ai-tech-times.web.app/articles/20260823-us-battery-startups-lifeline-defense.html) — 2026-08-23 12:02: 電気自動車（EV）向けの優遇策が削減され苦境に立たされていた米国の電池スタートアップに対し、エネルギー省から5億ドルの補助金が支給されました。
 - [ロジクール、最大25%の値上げを巡り関税返還訴訟に直面](https://ai-tech-times.web.app/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html) — 2026-08-23 12:02: 周辺機器大手のロジクールが昨年実施した最大25%の値上げについて、顧客へ関税の返還を求める訴訟が提起されました。
 - [カナダ首相、米の50%関税に対抗発動へ](https://ai-tech-times.web.app/articles/20260823-canada-tariffs-against-us.html) — 2026-08-23 12:02: アメリカによる追加関税への対抗措置として、カナダ政府が9月8日から関税を課す方針を明らかにしました。
-- [TOPIX最高値更新とNT倍率16倍、日経平均下落の裏で起きたこと](https://ai-tech-times.web.app/articles/20260823-nikkei-topix-nt-ratio-16.html) — 2026-08-23 12:02: 日経平均株価の下落が伝えられる一方で、TOPIXが最高値を更新しました。その背景にあるNT倍率「16倍」が意味するものについて、ニューズウィーク日本版が報じています。
-- [AnthropicのIPO申請、AIへの社会的反発がリスク要因に浮上](https://ai-tech-times.web.app/articles/20260823-anthropic-ipo-filing-ai-backlash.html) — 2026-08-23 10:00: Anthropicが株式市場への上場を準備する中、データセンターへの反発や雇用の喪失に対する不安といったAIへの逆風が、重要なリスク要因として目論見書に示される見通しであることが分かりました。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
 
-## AI用語事典 (全1034語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1036語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
