@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのIPO申請、AIへの社会的反発がリスク要因に浮上</title>
+<link>https://ai-tech-times.web.app/articles/20260823-anthropic-ipo-filing-ai-backlash.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-anthropic-ipo-filing-ai-backlash.html</guid>
+<pubDate>Sun, 23 Aug 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Anthropicが株式市場への上場を準備する中、データセンターへの反発や雇用の喪失に対する不安といったAIへの逆風が、重要なリスク要因として目論見書に示される見通しであることが分かりました。</description>
+</item>
+<item>
+<title>Apple、SiriとVision Pro部門で数百人の人員削減に踏み切った理由</title>
+<link>https://ai-tech-times.web.app/articles/20260823-apple-cuts-jobs-siri-vision-pro.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260823-apple-cuts-jobs-siri-vision-pro.html</guid>
+<pubDate>Sun, 23 Aug 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AppleがSiriおよびVision Proの開発チームから数百人の従業員を削減していることが明らかになりました。戦略の変更に伴い、一部の役割が影響を受けていることを同社が認めています。</description>
+</item>
+<item>
 <title>OpenAIがChatGPTの医療アドバイスで提訴された理由</title>
 <link>https://ai-tech-times.web.app/articles/20260823-openai-sued-over-chatgpt-medical-advice.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260823-openai-sued-over-chatgpt-medical-advice.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>国立情報学研究所（NII）は、オープンな国産LLM（大規模言語モデル）の新バージョン「LLM-jp-4 33B」を公開したと発表しました。約332億パラメータを持つDense型モデルで、各種ベンチマークで高い性能を示しています。</description>
-</item>
-<item>
-<title>ChatGPTの反論で道徳的判断の3割超が覆る理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-chatgpt-moral-judgment-kobe-univ.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-chatgpt-moral-judgment-kobe-univ.html</guid>
-<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの反論によって、正解のない道徳的な判断の3割超が覆ることが神戸大学の研究で分かりました。高齢者が説得されやすい傾向も明らかになっています。</description>
-</item>
-<item>
-<title>Nvidia製チップの中国流出防ぐか、米国が隠れた抜け穴を塞ぐ理由</title>
-<link>https://ai-tech-times.web.app/articles/20260819-us-nvidia-chips-china-export-controls.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260819-us-nvidia-chips-china-export-controls.html</guid>
-<pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米国の輸出規制をすり抜け、中国のAI企業が海外で高度なエヌビディア製チップの演算能力にアクセスしていることが明らかになりました。議員らは新たな対策の検討を進めています。</description>
 </item>
 </channel></rss>

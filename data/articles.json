@@ -54520,5 +54520,78 @@
   "date": "2026-08-23",
   "time": "09:00",
   "path": "/articles/20260823-kyukyu-day-ai-poster.html"
+ },
+ {
+  "title": "AnthropicのIPO申請、AIへの社会的反発がリスク要因に浮上",
+  "lead": "Anthropicが株式市場への上場を準備する中、データセンターへの反発や雇用の喪失に対する不安といったAIへの逆風が、重要なリスク要因として目論見書に示される見通しであることが分かりました。",
+  "summary3": [
+   "Anthropicが株式市場への上場を準備中",
+   "IPOの申請書類でAIへの反発がリスクに",
+   "データセンターや雇用への懸念が背景"
+  ],
+  "body": [
+   "米CNBC Techによると、人工知能（AI）開発を手がけるAnthropicが株式公開（IPO）を準備しており、その申請書類においてAIに対する世間の強い反発がリスク要因として明記される見通しです。情報筋の話として報じられました。",
+   "現在、一般市民の間では、大規模な電力や土地を消費するデータセンターに対する不満が次第に高まっています。さらに、AIの普及によって自身の職が奪われるのではないかという恐怖感も広がっている状況です。",
+   "今回のIPOは、こうした社会的な逆風や懸念がビジネス上のリスクとしてどのように評価されるのかが示される重要な機会となりそうです。AI技術の急速な発展と世論の受け止め方のギャップに注目が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "AI技術"
+  ],
+  "slug": "anthropic-ipo-filing-ai-backlash",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "安全性を重視したAIの開発を行う、アメリカの著名な人工知能スタートアップ企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+  "category": "silicon",
+  "date": "2026-08-23",
+  "time": "10:00",
+  "path": "/articles/20260823-anthropic-ipo-filing-ai-backlash.html"
+ },
+ {
+  "title": "Apple、SiriとVision Pro部門で数百人の人員削減に踏み切った理由",
+  "lead": "AppleがSiriおよびVision Proの開発チームから数百人の従業員を削減していることが明らかになりました。戦略の変更に伴い、一部の役割が影響を受けていることを同社が認めています。",
+  "summary3": [
+   "AppleがSiriとVision Proチームで数百人を削",
+   "一部の取り組みからフォーカスを移行させる方針",
+   "戦略的変更により特定の役割が影響を受けると認める"
+  ],
+  "body": [
+   "ニュースサイト「TechCrunch」の報道によると、AppleはSiriおよびVision Proを手がけるチームから数百人の人員を削減していることが分かりました。特定の取り組みからフォーカスを移行させる方針をとっており、それに伴って一部の役割が影響を受けていると、同社自身も認めています。",
+   "今回の動きは、同社がリソースの配分を見直し、重点を置く分野を変化させている中で発生しました。具体的な削減規模や対象となる詳細な部署については言及されていませんが、主力製品や次世代技術に関わるチームが直接的な影響を受けることになります。",
+   "企業が注力する分野を転換する際によく見られる動きではあるものの、SiriやVision Proといった主要なプロジェクトに関わる人員削減は、今後の開発体制や製品展開にどのような影響を与えるのか、業界内外から注目を集めています。"
+  ],
+  "tags": [
+   "Apple",
+   "Siri",
+   "Vision Pro"
+  ],
+  "slug": "apple-cuts-jobs-siri-vision-pro",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業。世界中に多くのユーザーを持つ。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー系ニュースメディア。スタートアップやIT業界の最新動向を報じる。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+  "category": "silicon",
+  "date": "2026-08-23",
+  "time": "10:00",
+  "path": "/articles/20260823-apple-cuts-jobs-siri-vision-pro.html"
  }
 ]

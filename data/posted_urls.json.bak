@@ -1574,13 +1574,11 @@
   "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260821de45596",
   "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+  "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+  "https://togetter.com/li/2736062"
  ],
  "titles": [
-  "Document-borne AI worms can self-propagate through Copilot for Word",
-  "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-  "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
-  "AIによるヌード化を禁止する法案にxAIが反対表明、定義が曖昧でトランプ大統領の水着画像も罰金対象になるとして",
   "Meta reports free cash flow of $784M in Q2, down 91% YoY, and now expects 2026 capex to be $130B-$145B, compared with its prior forecast of $125B-$145B (Reuters)",
   "熊本地震 関連調査中含め死者28人に【現地からの映像も】",
   "アメリカ中央軍 イランへの攻撃を完了したと発表",
@@ -3576,6 +3574,10 @@
   "Frontier AI labs still won’t say how they’d contain a rogue model",
   "Nvidia just showed that the harness, not the AI model, is now the real hero",
   "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
-  "Nvidia研究：AIの性能よりハーネスが成果を左右する理由"
+  "Nvidia研究：AIの性能よりハーネスが成果を左右する理由",
+  "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+  "「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う",
+  "OpenAIがChatGPTの医療アドバイスで提訴された理由",
+  "「救急の日」ポスターがAI生成？背景や配置を巡り議論"
  ]
 }

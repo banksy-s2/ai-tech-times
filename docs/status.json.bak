@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23 08:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-23 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
-   "path": "/articles/20260823-frontier-ai-labs-containment-plans.html",
-   "cat": "AI(海外)"
+   "title": "OpenAIがChatGPTの医療アドバイスで提訴された理由",
+   "path": "/articles/20260823-openai-sued-over-chatgpt-medical-advice.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Nvidia研究：AIの性能よりハーネスが成果を左右する理由",
-   "path": "/articles/20260823-nvidia-harness-ai-model-hero.html",
-   "cat": "AI(海外)"
+   "title": "「救急の日」ポスターがAI生成？背景や配置を巡り議論",
+   "path": "/articles/20260823-kyukyu-day-ai-poster.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 45,
+  "used": 49,
   "limit": 200
  }
 }
