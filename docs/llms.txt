@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 20:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [りくりゅう木原龍一選手と三浦璃来選手が婚約を発表](https://ai-tech-times.web.app/articles/20260823-rikuryu-engagement-announcement.html) — 2026-08-23 20:00: 今年２月のミラノ・コルティナ五輪フィギュアスケートペアで日本勢史上初の金メダルを獲得した“りくりゅうペア”が、インスタグラムで婚約を発表しました。
 - [日本経済新聞：AI時代にあえて体育会系学生が注目される理由](https://ai-tech-times.web.app/articles/20260823-taiikukai-hiring-ai-era.html) — 2026-08-23 18:00: AI時代を迎える中、企業による体育会系に所属する学生の採用活動が活発化しています。コンサルティング業界なども注目する、その対人能力の評価とは何でしょうか。
 - [アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減](https://ai-tech-times.web.app/articles/20260823-apple-apfs-file-system-linux-migration.html) — 2026-08-23 18:00: ソフトウェア開発者のテオ氏が、自身のポッドキャストでアップルのファイルシステムを徹底批判し、話題となっています。
 - [ローカルLLMが「バカ」に感じる理由とは？その正体に迫る](https://ai-tech-times.web.app/articles/20260823-why-your-local-llm-feels-dumber.html) — 2026-08-23 17:03: 手元で動かすローカルLLMが期待よりも賢く感じられない現象について、技術フォーラムで議論が交わされています。その背景にある要因と実態を解説します。
@@ -41,14 +42,13 @@
 - [古いAndroid端末をRaspberry Pi代わりに](https://ai-tech-times.web.app/articles/20260823-android-as-raspberry-pi-alternative.html) — 2026-08-23 12:02: AIデータセンター需要によるRAMやストレージの価格高騰でRaspberry Piの入手が困難になる中、使わなくなった古い端末の活用法が注目を集めています。
 - [米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか](https://ai-tech-times.web.app/articles/20260823-us-battery-startups-lifeline-defense.html) — 2026-08-23 12:02: 電気自動車（EV）向けの優遇策が削減され苦境に立たされていた米国の電池スタートアップに対し、エネルギー省から5億ドルの補助金が支給されました。
 - [ロジクール、最大25%の値上げを巡り関税返還訴訟に直面](https://ai-tech-times.web.app/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html) — 2026-08-23 12:02: 周辺機器大手のロジクールが昨年実施した最大25%の値上げについて、顧客へ関税の返還を求める訴訟が提起されました。
-- [カナダ首相、米の50%関税に対抗発動へ](https://ai-tech-times.web.app/articles/20260823-canada-tariffs-against-us.html) — 2026-08-23 12:02: アメリカによる追加関税への対抗措置として、カナダ政府が9月8日から関税を課す方針を明らかにしました。
 
 ## 世界のバズ動画TOP3 (2026-08-23)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 3位: [How I Destroyed an Entire Minecraft Civilization](https://www.youtube.com/watch?v=Ytm8WiQLNZA)
 
-## AI用語事典 (全1036語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1038語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
