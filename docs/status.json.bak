@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-24 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-24 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "イラン関与のサイバー攻撃でイギリスの小型発電所が停止",
-   "path": "/articles/20260824-uk-power-plant-cyberattack-iran.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ウォルマート傘下フリップカート、1日120万件超の注文を達成し首位追う",
-   "path": "/articles/20260824-flipkart-closing-in-on-india-quick-commerce.html",
-   "cat": "シリコンバレー最速"
+   "title": "現役VTuberが明かす教育虐待とひきこもり",
+   "path": "/articles/20260824-vtuber-education-abuse-hikikomori.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 12,
   "limit": 200
  }
 }
