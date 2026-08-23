@@ -54887,5 +54887,83 @@
   "date": "2026-08-23",
   "time": "14:00",
   "path": "/articles/20260823-nikkei-average-bubble-analysis.html"
+ },
+ {
+  "title": "LinkedInの「AI低品質」ボタン、100万人超が利用",
+  "lead": "ビジネス向けSNSのLinkedInで導入された「AI低品質」ボタンが、公開から短期間で多くのユーザーに使われています。",
+  "summary3": [
+   "LinkedInが新機能ボタンを発表",
+   "利用者が100万人を突破した",
+   "最高製品責任者がSNSで発表"
+  ],
+  "body": [
+   "米国のビジネス向けSNS「LinkedIn」が7月30日に発表した「Seems like AI slop」ボタンについて、同社の最高製品責任者であるハリ・スリニバサン氏が木曜日の投稿で明らかにしました。",
+   "このボタンは、投稿の右上にある3点リーダーのメニューからアクセスできる機能です。",
+   "ハリ・スリニバサン氏によれば、すでに「100万人を超える人々」がこのボタンをクリックして利用しているということです。"
+  ],
+  "tags": [
+   "LinkedIn",
+   "AI",
+   "SNS"
+  ],
+  "slug": "linkedin-ai-slop-button-one-million",
+  "people": [
+   {
+    "name": "ハリ・スリニバサン氏",
+    "bio": "ビジネス向けSNS「LinkedIn」の最高製品責任者を務める人物です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "LinkedIn",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、ビジネス特化型の人脈構築・求人プラットフォームを運営する企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "16:00",
+  "path": "/articles/20260823-linkedin-ai-slop-button-one-million.html"
+ },
+ {
+  "title": "AnthropicのClaude Code、仕様変更の狙いは",
+  "lead": "Anthropicが提供するClaude Codeにおいて、仕様の変更に関する検証が行われていることが分かりました。実際のユーザーの間で議論が広がっています。",
+  "summary3": [
+   "AnthropicがClaude Codeを検証中",
+   "労力レベルの削減をテストしているもよう",
+   "Hacker Newsなどで議論に"
+  ],
+  "body": [
+   "AI技術の動向を伝えるニュースサイト「AI TECH TIMES」の編集部に入った情報によると、米国の人工知能企業Anthropicが提供する開発者向けツール「Claude Code」において、新たな検証が行われている模様です。",
+   "海外のソーシャルニュースサイト「Hacker News」などの情報によれば、同ツールにおいて努力レベルの削減に関するA/Bテストが実施されている様子が報告されました。",
+   "この検証の背景や、今後の正式な仕様変更の有無などについては言及されておらず、実際の開発現場やユーザーへの影響について関心が高まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude Code",
+   "AI開発"
+  ],
+  "slug": "anthropic-claude-code-ab-testing",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能企業。安全性に配慮した対話型AIモデルの開発などで知られています。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが提供する、開発作業を支援するためのプログラミング向けAIツールです。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://twitter.com/argofowl/status/2091150597374537729",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "16:00",
+  "path": "/articles/20260823-anthropic-claude-code-ab-testing.html"
  }
 ]

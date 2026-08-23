@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-23 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-08-23 16:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "LinkedInの「AI低品質」ボタン、100万人超が利用",
+   "path": "/articles/20260823-linkedin-ai-slop-button-one-million.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AnthropicのClaude Code、仕様変更の狙いは",
+   "path": "/articles/20260823-anthropic-claude-code-ab-testing.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
   "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
  },
- "notes": [
-  "執筆失敗: 「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 88,
+  "used": 91,
   "limit": 200
  }
 }

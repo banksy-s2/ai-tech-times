@@ -54965,5 +54965,293 @@
   "date": "2026-08-23",
   "time": "16:00",
   "path": "/articles/20260823-anthropic-claude-code-ab-testing.html"
+ },
+ {
+  "title": "ローカルLLMが「バカ」に感じる理由とは？その正体に迫る",
+  "lead": "手元で動かすローカルLLMが期待よりも賢く感じられない現象について、技術フォーラムで議論が交わされています。その背景にある要因と実態を解説します。",
+  "summary3": [
+   "ローカルLLMが賢く感じられない疑問",
+   "技術フォーラムで議論が活発化",
+   "実際の性能と体感のギャップに注目"
+  ],
+  "body": [
+   "AI技術の発展にともない、自分のパソコンなどの手元で大規模言語モデル（LLM）を動かす「ローカルLLM」に関心を持つ人が増えています。しかし、実際に利用してみると「なんだか思ったよりも賢くない」「性能が低いのではないか」と感じてしまうことは少なくありません。",
+   "海外の技術情報フォーラム「Level1Techs」に立てられたスレッドでは、この「ローカルLLMが実際以上にバカに感じられてしまう理由」について議論が行われました。Hacker Newsなどでも話題となり、多くのコメントが寄せられています。",
+   "記事では、ローカル環境で動かすモデルが本来持つ能力を発揮できていないように感じられる原因や、ユーザーの体感と実際の性能のギャップについて触れられています。手元の環境でのLLM運用における課題を知る手がかりとなりそうです。"
+  ],
+  "tags": [
+   "AI TECH TIMES",
+   "LLM",
+   "ローカルLLM"
+  ],
+  "slug": "why-your-local-llm-feels-dumber",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "category": "ai",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-why-your-local-llm-feels-dumber.html"
+ },
+ {
+  "title": "中島聡氏がAI要約記事を公開、「情報に著作権はない」と物議",
+  "lead": "生成AIを使って他人の記事を要約し、自分の記事として公開する手法をめぐり、プログラマーの中島聡氏のnote記事が議論を呼んでいます。",
+  "summary3": [
+   "中島聡氏のnote記事が議論を呼んでいる",
+   "生成AIで他人の記事を要約し公開した",
+   "情報に著作権はないと主張し逆ギレ"
+  ],
+  "body": [
+   "生成AIを活用して他人の記事を要約し、それを自分の記事として公開する発信のあり方をめぐり、議論が巻き起こっています。問題の発端となったのは、プログラマーの中島聡氏がnoteに投稿した記事です。",
+   "中島氏が投稿したのは、キオクシアの光SSD技術を紹介する内容でした。しかし、この記事の元となったのは専門家による技術解説であり、他人の記事を生成AIで要約したものでした。",
+   "こうした手法による発信に対し、「情報に著作権はない」と主張する姿勢も含めて批判や議論が集まっています。生成AI時代の情報発信と著作権のあり方に改めて注目が集まっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "著作権",
+   "note"
+  ],
+  "slug": "nakajima-ai-summary-controversy",
+  "people": [
+   {
+    "name": "中島聡氏",
+    "bio": "米マイクロソフトでのWindows開発などで知られるプログラマー・起業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "日本のフラッシュメモリ開発・製造を手がける大手半導体企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://agora-web.jp/archives/260821194719.html",
+  "category": "ai_jp",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-nakajima-ai-summary-controversy.html"
+ },
+ {
+  "title": "Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか",
+  "lead": "AI会計スタートアップのRilletが、取締役会での成長数値の共有をきっかけに、わずか48時間で1億ドルを調達してユニコーン企業となりました。",
+  "summary3": [
+   "Rilletが48時間で1億ドルを調達した",
+   "取締役会での成長数値共有が発端となった",
+   "IconiqやSequoiaなどが資金調達に参加した"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道に基づきお伝えします。AIを活用した会計分野を手がけるスタートアップ企業であるRilletは、意図せずして異例のスピードで巨額の資金調達に成功しました。",
+   "事の発端は、同社のCEOを務めるニコラス・コップ氏が取締役会において成長に関する数値を共有したことです。この報告をきっかけとして、IconiqやSequoiaといった著名なベンチャーキャピタルなどによる資金調達の熱狂が巻き起こりました。",
+   "特筆すべきは、Rillet側が特に積極的に動くことなく、この大規模な資金集めが引き起こされた点です。結果として、同社はわずか48時間という驚異的な短期間で1億ドルを調達し、ユニコーン企業の仲間入りを果たしました。"
+  ],
+  "tags": [
+   "AIスタートアップ",
+   "資金調達",
+   "ユニコーン企業"
+  ],
+  "slug": "rillet-raises-100m-unicorn-48-hours",
+  "people": [
+   {
+    "name": "ニコラス・コップ氏",
+    "bio": "AI会計スタートアップであるRilletの最高経営責任者(CEO)を務める人物です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Rillet",
+    "type": "company",
+    "desc": "AIを活用した会計分野のサービスやシステムを提供する注目のスタートアップ企業です。"
+   },
+   {
+    "name": "Iconiq",
+    "type": "company",
+    "desc": "多くのテック企業への投資実績で知られる、アメリカの大手ベンチャーキャピタルです。"
+   },
+   {
+    "name": "Sequoia",
+    "type": "company",
+    "desc": "数々の著名なIT企業を初期から支援してきた、世界有数の大手ベンチャーキャピタルです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+  "category": "silicon",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-rillet-raises-100m-unicorn-48-hours.html"
+ },
+ {
+  "title": "EXO ベクヒョン、チャ・ガウォン代表から630億ウォン規模の詐欺か",
+  "lead": "EXOのベクヒョンが、チャ・ガウォン代表から630億ウォン規模の深刻な被害を受けているとYouTuberが主張しました。イ・スンギを超える被害規模として注目を集めています。",
+  "summary3": [
+   "EXOベクヒョンが詐欺被害か",
+   "チャ・ガウォン代表からと主張",
+   "被害規模は630億ウォン規模"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする本日の最新情報です。音楽グループEXOのメンバーであるベクヒョンが、チャ・ガウォン代表から630億ウォン規模の深刻な被害を受けているのではないかという疑惑が浮上しました。",
+   "これはあるYouTuberが主張したものであり、歌手のイ・スンギよりも深刻な被害ではないかと大きな話題になっています。記事執筆時点において、この主張に関する詳細な経緯や双方の立場についての続報が注目されています。",
+   "ファンや音楽業界の間でも大きな懸念が広がっており、今後の動向から目が離せない状況です。正確な事実関係の公表が待たれるところであり、当サイトでも引き続き最新情報を追っていきます。"
+  ],
+  "tags": [
+   "EXO",
+   "ベクヒョン",
+   "チャ・ガウォン"
+  ],
+  "slug": "exo-baekhyun-fraud-allegation",
+  "people": [
+   {
+    "name": "ベクヒョン",
+    "bio": "韓国の人気音楽グループEXOのメンバーとして活動する歌手。"
+   },
+   {
+    "name": "イ・スンギ",
+    "bio": "韓国で歌手、俳優、タレントとして多方面で活躍する著名人。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc2thc0tvdjJNQzlicUtYbEExY1Bkc1djQXRfYXdfQ2J3UDEzclJ5dnJ0TEJ4R1BjTWNkSlR3eDg0ajNLTmJnUXNSSTBsRzJhREowU0RXOUx4VXdiZnVsTzYtVDM0VVRiSG04M1B6SjE2THNkdHNwUk1wNEw0N0k?oc=5",
+  "category": "influencer",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-exo-baekhyun-fraud-allegation.html"
+ },
+ {
+  "title": "TikTok、米国で4億ドル支払いの理由",
+  "lead": "人気動画投稿アプリ「TikTok」と親会社が、13歳未満のユーザーのデータ収集を巡る訴訟で巨額の和解金支払いに合意しました。",
+  "summary3": [
+   "TikTokが米国で4億ドルを支払いへ",
+   "13歳未満の大量データ収集が原因",
+   "2024年の訴訟から和解に至る"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、人気動画投稿アプリ「TikTok」およびその親会社であるByteDanceは、米国において4億ドルを支払うことで和解に至りました。これは児童のプライバシー保護に関する和解としては最大級のものとなります。",
+   "今回の合意は、2024年に提起された訴訟に端を発しています。この訴訟では、TikTokおよび親会社が13歳未満の何百万人ものユーザーに関する「膨大な量のデータ」を収集していたと主張されていました。",
+   "児童のプライバシーに関する大規模なデータ収集問題として注目を集めたこの案件は、多額の金銭的解決によって決着を迎えることになりました。"
+  ],
+  "tags": [
+   "TikTok",
+   "プライバシー",
+   "海外ニュース"
+  ],
+  "slug": "tiktok-to-pay-400m-to-us-privacy-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "TikTok",
+    "type": "company",
+    "desc": "世界中で広く利用されている、ショート動画を中心に配信・共有する人気のソーシャルメディアプラットフォーム。"
+   },
+   {
+    "name": "ByteDance",
+    "type": "company",
+    "desc": "中国を拠点に置き、動画共有アプリ「TikTok」などを傘下に持つ世界的なテクノロジー企業グループ。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html"
+ },
+ {
+  "title": "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故",
+  "lead": "栃木県鹿沼市の東武日光線で発生した作業員4人の死亡事故をめぐり、警察は業務上過失致死の疑いで東武鉄道の子会社を捜索しました。",
+  "summary3": [
+   "東武鉄道子会社を業務上過失致死容疑で捜索",
+   "栃木県鹿沼市の東武日光線で除草作業中に事故",
+   "作業員4人が死亡し警察が押収資料を分析中"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、栃木県鹿沼市の東武日光線で線路の除草作業を行っていた作業員4人が死亡した列車事故に関連し、警察は23日に動きを見せました。",
+   "警察は業務上過失致死の疑いにより、当該の作業を受注していた東武鉄道の子会社に対して捜索を実施しました。",
+   "今後は今回の捜索によって押収された各種資料の分析を進め、事故原因の究明に向けた捜査を続ける方針とみられます。"
+  ],
+  "tags": [
+   "東武鉄道",
+   "事故",
+   "事件"
+  ],
+  "slug": "tobu-railway-search-investigation",
+  "people": [],
+  "terms": [
+   {
+    "name": "東武鉄道",
+    "type": "company",
+    "desc": "東京都墨田区に本社を置く大手私鉄。鉄道事業を中心に不動産や流通など多角的な事業を展開する企業。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260823de45737",
+  "category": "world",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-tobu-railway-search-investigation.html"
+ },
+ {
+  "title": "日経平均株価、2027年8月までの値動き予測が浮上",
+  "lead": "ダイヤモンド・オンラインの報道によると、日経平均株価の2027年8月までの値動きに関する予測が示されました。",
+  "summary3": [
+   "日経平均株価の動向予測が浮上",
+   "2026年秋まで調整が継続",
+   "2027年には9万円到達の見方も"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、ダイヤモンド・オンラインにおいて日経平均株価の「2027年8月まで」の値動きに関する予測が発表されました。",
+   "記事によれば、日経平均株価は2026年秋まで調整が継続する見込みであるとされています。",
+   "一方で、AIや半導体関連の株が牽引役となり、上昇基調へと戻ることで、2027年には「9万円到達」とする見方もあることが伝えられています。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "AI・半導体"
+  ],
+  "slug": "nikkei-average-forecast-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "ダイヤモンド・オンライン",
+    "type": "company",
+    "desc": "株式会社ダイヤモンド社が運営する、ビジネスパーソン向けの総合経済オンラインメディアです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RTTlBU0J2U1FOZUM4aVFKck91Z3F4bnhEY24wUnc3UWFmZTNiRGxMOXdRbGN2Qy1KZnhncm5CdlVHV3JGMV9OTFlOU3dBeUxTWFY0?oc=5",
+  "category": "stock",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-nikkei-average-forecast-2027.html"
+ },
+ {
+  "title": "上場企業の平均年収778万円、5年連続超えの理由",
+  "lead": "テレビ朝日系（ANN）の報道によると、上場企業の平均年収が778万円となり、5年連続で前年度を超えたことが明らかになりました。",
+  "summary3": [
+   "上場企業の平均年収は778万円",
+   "5年連続で前年度を超える結果に",
+   "不動産や商社などが上位にランクイン"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式・企業ニュースです。テレビ朝日系（ANN）の報道によると、上場企業の平均年収が778万円となり、5年連続で前年度を超えたことが分かりました。",
+   "業界別の動向としては、不動産や商社などが上位に位置しているとのことです。企業の給与水準や雇用環境の変化を示す重要なデータとして注目されます。",
+   "今回の発表は、上場企業全体の平均値が継続して上昇している現状を示しています。今後の動向や各業界の推移についても引き続き情報を伝えてまいります。"
+  ],
+  "tags": [
+   "上場企業",
+   "平均年収",
+   "ビジネス"
+  ],
+  "slug": "listed-companies-average-salary-778-man-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sQmZRekZDV3FWUHNrbUc1a1JfQkJXUjN1VkliWDk0bkVINm9RcHJ3ZEdQWFpMVGJLSlc4R1FDWmhGV2NzOHV2cWZNYk9uN0RDMEZ4MVd1cEJBSXZWWVlHWlVkT3p2ZVEwRmpvek10RGJDNG1rbkFUSWNSZFFxVDg?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-23",
+  "time": "17:03",
+  "path": "/articles/20260823-listed-companies-average-salary-778-man-yen.html"
  }
 ]

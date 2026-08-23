@@ -3498,7 +3498,7 @@
    "id": "MT-4Bk1Lw8g",
    "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
    "channel": "HYBE LABELS",
-   "views": 12505194,
+   "views": 12831020,
    "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g",
    "thumb": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/hqdefault.jpg",
    "regions": [
@@ -3514,11 +3514,12 @@
    "id": "thHxtnJf9HA",
    "title": "Stray Kids \"After You\" Video",
    "channel": "Stray Kids",
-   "views": 283524,
+   "views": 329416,
    "url": "https://www.youtube.com/watch?v=thHxtnJf9HA",
    "thumb": "https://i.ytimg.com/vi/thHxtnJf9HA/hqdefault.jpg",
    "regions": [
     "US",
+    "GB",
     "JP",
     "BR"
    ],
@@ -3529,7 +3530,7 @@
    "id": "Ytm8WiQLNZA",
    "title": "How I Destroyed an Entire Minecraft Civilization",
    "channel": "Wemmbu",
-   "views": 2703071,
+   "views": 2812943,
    "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
    "thumb": "https://i.ytimg.com/vi/Ytm8WiQLNZA/hqdefault.jpg",
    "regions": [
@@ -3543,7 +3544,7 @@
    "id": "ZeiCK3sNCRo",
    "title": "UPDATE 30 TEASER | Blox Fruits",
    "channel": "Gamer Robot",
-   "views": 900510,
+   "views": 1037415,
    "url": "https://www.youtube.com/watch?v=ZeiCK3sNCRo",
    "thumb": "https://i.ytimg.com/vi/ZeiCK3sNCRo/hqdefault.jpg",
    "regions": [
@@ -3554,38 +3555,10 @@
   },
   {
    "rank": 5,
-   "id": "PNyFcnrR000",
-   "title": "@SaiAbhyankkar - Radhimaa (Promo) | Bhagyashri Borse | Think Indie",
-   "channel": "Think Music India",
-   "views": 803549,
-   "url": "https://www.youtube.com/watch?v=PNyFcnrR000",
-   "thumb": "https://i.ytimg.com/vi/PNyFcnrR000/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "comment": "サイ・アビヤンカールによる新曲プロモ映像のようですね (28文字)"
-  },
-  {
-   "rank": 6,
-   "id": "ozsKU77OWpE",
-   "title": "Tom Cruise vs Evel Knievel. Epic Rap Battles Of History",
-   "channel": "ERB",
-   "views": 757192,
-   "url": "https://www.youtube.com/watch?v=ozsKU77OWpE",
-   "thumb": "https://i.ytimg.com/vi/ozsKU77OWpE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "トム・クルーズとイーブル・ニーベルのラップバトル動画のようです。"
-  },
-  {
-   "rank": 7,
    "id": "aMZDKcIFFSM",
    "title": "GTA 6 Leak Situation Got Even Crazier",
    "channel": "penguinz0",
-   "views": 756493,
+   "views": 875796,
    "url": "https://www.youtube.com/watch?v=aMZDKcIFFSM",
    "thumb": "https://i.ytimg.com/vi/aMZDKcIFFSM/hqdefault.jpg",
    "regions": [
@@ -3595,11 +3568,39 @@
    "comment": "GTA6のリークを巡る状況について語る動画のようです。(27文字)"
   },
   {
+   "rank": 6,
+   "id": "PNyFcnrR000",
+   "title": "@SaiAbhyankkar - Radhimaa (Promo) | Bhagyashri Borse | Think Indie",
+   "channel": "Think Music India",
+   "views": 871118,
+   "url": "https://www.youtube.com/watch?v=PNyFcnrR000",
+   "thumb": "https://i.ytimg.com/vi/PNyFcnrR000/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "comment": "サイ・アビヤンカールによる新曲プロモ映像のようですね (28文字)"
+  },
+  {
+   "rank": 7,
+   "id": "ozsKU77OWpE",
+   "title": "Tom Cruise vs Evel Knievel. Epic Rap Battles Of History",
+   "channel": "ERB",
+   "views": 766861,
+   "url": "https://www.youtube.com/watch?v=ozsKU77OWpE",
+   "thumb": "https://i.ytimg.com/vi/ozsKU77OWpE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "トム・クルーズとイーブル・ニーベルのラップバトル動画のようです。"
+  },
+  {
    "rank": 8,
    "id": "R4ofLpMwFro",
    "title": "I Tried Becoming A Voice Actor.. [Choicer Voicer]",
    "channel": "Joe Bart Games",
-   "views": 434713,
+   "views": 454718,
    "url": "https://www.youtube.com/watch?v=R4ofLpMwFro",
    "thumb": "https://i.ytimg.com/vi/R4ofLpMwFro/hqdefault.jpg",
    "regions": [
@@ -3613,7 +3614,7 @@
    "id": "zPf4c6SQ_sk",
    "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
    "channel": "Mumbo Jumbo",
-   "views": 365211,
+   "views": 382096,
    "url": "https://www.youtube.com/watch?v=zPf4c6SQ_sk",
    "thumb": "https://i.ytimg.com/vi/zPf4c6SQ_sk/hqdefault.jpg",
    "regions": [
@@ -3624,17 +3625,17 @@
   },
   {
    "rank": 10,
-   "id": "-gkDGDEfznU",
-   "title": "Lee Know - 처음 느낌 그대로 (김광진 Cover) | [kNOw맘대로(The kNOw Way)] Ep.06",
-   "channel": "Stray Kids",
-   "views": 344874,
-   "url": "https://www.youtube.com/watch?v=-gkDGDEfznU",
-   "thumb": "https://i.ytimg.com/vi/-gkDGDEfznU/hqdefault.jpg",
+   "id": "6ZmMUn5bQCw",
+   "title": "The Huge Detail We Missed In The Avengers Doomsday Trailer!",
+   "channel": "Emergency Awesome",
+   "views": 224312,
+   "url": "https://www.youtube.com/watch?v=6ZmMUn5bQCw",
+   "thumb": "https://i.ytimg.com/vi/6ZmMUn5bQCw/hqdefault.jpg",
    "regions": [
-    "GB",
-    "KR"
+    "US",
+    "GB"
    ],
-   "comment": "キム・グァン진の曲をカバーしている歌唱動画のようです"
+   "comment": "アベンジャーズの予告編の隠された詳細を解説しているようです"
   }
  ]
 }
