@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-24 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-24 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "イーライリリー肥満症薬、米国で月50ドルに",
-   "path": "/articles/20260824-eli-lilly-obesity-drug-market-us.html",
-   "cat": "株式投資(日本)"
+   "title": "長野県上場企業の77％、女性管理職1割未満の現状とは",
+   "path": "/articles/20260824-nagano-listed-companies-female-managers.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 25,
   "limit": 200
  }
 }
