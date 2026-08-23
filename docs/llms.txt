@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-23 22:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [人月ビジネスの終焉、SIerはなぜ数年で詰むのか](https://ai-tech-times.web.app/articles/20260824-sier-business-model-ai-future.html) — 2026-08-24 01:00: 自律型AIエージェントの普及により、従来のSIerのビジネスモデルには大きな変化が迫られています。生き残るために獲得すべき価値とは何でしょうか。
+- [AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表](https://ai-tech-times.web.app/articles/20260824-gemma-4-benchmark-alpha-sense.html) — 2026-08-24 01:00: 次々に新たなAIモデルが登場する中、AIを活用した文書管理サービスを開発するAlphaSenseが、財務タスクにおけるテスト結果を公開しました。
 - [大分で40度予想、西・東日本で猛烈な暑さ](https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html) — 2026-08-23 22:01: 東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も西日本と東日本の各地で猛烈な暑さが予想されています。
 - [ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及](https://ai-tech-times.web.app/articles/20260823-ukraine-former-minister-corruption-election.html) — 2026-08-23 22:01: BBCの報道によると、ウクライナの前国防相が政府内の汚職についてゼレンスキー大統領が何を把握していたのか問われるべきだと主張し、戦時中の選挙実施も求めている。
 - [ハーバード大の699ドル起業塾、指導者のAIアバターを採用](https://ai-tech-times.web.app/articles/20260823-harvards-startup-bootcamp-ai-avatars.html) — 2026-08-23 21:03: ハーバード大学のスタートアップ向けプログラム「HBS Foundry」において、指導者たちのAIアバターが導入されました。模擬ピッチや取締役会でのフィードバックを提供します。
@@ -40,15 +42,13 @@
 - [Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか](https://ai-tech-times.web.app/articles/20260823-rillet-raises-100m-unicorn-48-hours.html) — 2026-08-23 17:03: AI会計スタートアップのRilletが、取締役会での成長数値の共有をきっかけに、わずか48時間で1億ドルを調達してユニコーン企業となりました。
 - [EXO ベクヒョン、チャ・ガウォン代表から630億ウォン規模の詐欺か](https://ai-tech-times.web.app/articles/20260823-exo-baekhyun-fraud-allegation.html) — 2026-08-23 17:03: EXOのベクヒョンが、チャ・ガウォン代表から630億ウォン規模の深刻な被害を受けているとYouTuberが主張しました。イ・スンギを超える被害規模として注目を集めています。
 - [TikTok、米国で4億ドル支払いの理由](https://ai-tech-times.web.app/articles/20260823-tiktok-to-pay-400m-to-us-privacy-settlement.html) — 2026-08-23 17:03: 人気動画投稿アプリ「TikTok」と親会社が、13歳未満のユーザーのデータ収集を巡る訴訟で巨額の和解金支払いに合意しました。
-- [東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故](https://ai-tech-times.web.app/articles/20260823-tobu-railway-search-investigation.html) — 2026-08-23 17:03: 栃木県鹿沼市の東武日光線で発生した作業員4人の死亡事故をめぐり、警察は業務上過失致死の疑いで東武鉄道の子会社を捜索しました。
-- [日経平均株価、2027年8月までの値動き予測が浮上](https://ai-tech-times.web.app/articles/20260823-nikkei-average-forecast-2027.html) — 2026-08-23 17:03: ダイヤモンド・オンラインの報道によると、日経平均株価の2027年8月までの値動きに関する予測が示されました。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV](https://www.youtube.com/watch?v=MT-4Bk1Lw8g)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 3位: [UPDATE 30 TEASER | Blox Fruits](https://www.youtube.com/watch?v=ZeiCK3sNCRo)
 
-## AI用語事典 (全1044語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1045語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

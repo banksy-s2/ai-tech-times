@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>人月ビジネスの終焉、SIerはなぜ数年で詰むのか</title>
+<link>https://ai-tech-times.web.app/articles/20260824-sier-business-model-ai-future.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-sier-business-model-ai-future.html</guid>
+<pubDate>Mon, 24 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>自律型AIエージェントの普及により、従来のSIerのビジネスモデルには大きな変化が迫られています。生き残るために獲得すべき価値とは何でしょうか。</description>
+</item>
+<item>
+<title>AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表</title>
+<link>https://ai-tech-times.web.app/articles/20260824-gemma-4-benchmark-alpha-sense.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-gemma-4-benchmark-alpha-sense.html</guid>
+<pubDate>Mon, 24 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>次々に新たなAIモデルが登場する中、AIを活用した文書管理サービスを開発するAlphaSenseが、財務タスクにおけるテスト結果を公開しました。</description>
+</item>
+<item>
 <title>大分で40度予想、西・東日本で猛烈な暑さ</title>
 <link>https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 23 Aug 2026 12:02:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AIデータセンター需要によるRAMやストレージの価格高騰でRaspberry Piの入手が困難になる中、使わなくなった古い端末の活用法が注目を集めています。</description>
-</item>
-<item>
-<title>米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか</title>
-<link>https://ai-tech-times.web.app/articles/20260823-us-battery-startups-lifeline-defense.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-us-battery-startups-lifeline-defense.html</guid>
-<pubDate>Sun, 23 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>電気自動車（EV）向けの優遇策が削減され苦境に立たされていた米国の電池スタートアップに対し、エネルギー省から5億ドルの補助金が支給されました。</description>
-</item>
-<item>
-<title>ロジクール、最大25%の値上げを巡り関税返還訴訟に直面</title>
-<link>https://ai-tech-times.web.app/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260823-lawsuit-demands-logitech-tariff-refunds.html</guid>
-<pubDate>Sun, 23 Aug 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>周辺機器大手のロジクールが昨年実施した最大25%の値上げについて、顧客へ関税の返還を求める訴訟が提起されました。</description>
 </item>
 </channel></rss>
