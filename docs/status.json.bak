@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-24 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-24 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
-   "path": "/articles/20260824-sier-business-model-ai-future.html",
-   "cat": "日本のAI"
+   "title": "イラン関与のサイバー攻撃でイギリスの小型発電所が停止",
+   "path": "/articles/20260824-uk-power-plant-cyberattack-iran.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
-   "path": "/articles/20260824-gemma-4-benchmark-alpha-sense.html",
-   "cat": "日本のAI"
+   "title": "ウォルマート傘下フリップカート、1日120万件超の注文を達成し首位追う",
+   "path": "/articles/20260824-flipkart-closing-in-on-india-quick-commerce.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official MV",
-  "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g"
+  "title": "UPDATE 30 TEASER | Blox Fruits",
+  "url": "https://www.youtube.com/watch?v=ZeiCK3sNCRo"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 3,
+  "used": 8,
   "limit": 200
  }
 }
