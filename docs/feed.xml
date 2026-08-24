@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NVIDIAがAI関連製品を15％以上値上げ、その影響とは</title>
+<link>https://ai-tech-times.web.app/articles/20260824-nvidia-price-hike-ai-related-products.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-nvidia-price-hike-ai-related-products.html</guid>
+<pubDate>Mon, 24 Aug 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>NVIDIAが大手顧客に対して、AI関連製品を15％以上値上げすると通知したことが明らかになりました。「Vera Rubin」や「Grace Blackwell」などのAIチップ搭載サーバーが対象となります。</description>
+</item>
+<item>
+<title>トランプ政権のAIインフラ計画に共和党支持層が反発</title>
+<link>https://ai-tech-times.web.app/articles/20260824-trump-ai-infrastructure-backlash.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-trump-ai-infrastructure-backlash.html</guid>
+<pubDate>Mon, 24 Aug 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI覇権を掲げるトランプ政権が進めるデータセンター建設に対し、共和党支持層から反発が広がっています。この動きは中間選挙の新たな火種となっています。</description>
+</item>
+<item>
 <title>SHIFT、440人の採用ストップとAI活用で10年分スキルを習得へ</title>
 <link>https://ai-tech-times.web.app/articles/20260824-shift-stops-hiring-and-adopts-ai.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260824-shift-stops-hiring-and-adopts-ai.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。</description>
-</item>
-<item>
-<title>謎のAIモデル「Ox Alpha」の正体は誰なのか</title>
-<link>https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html</guid>
-<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。</description>
-</item>
-<item>
-<title>経産省、ベビーシッター利用で税制優遇要望へ</title>
-<link>https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html</guid>
-<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。</description>
 </item>
 </channel></rss>

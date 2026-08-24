@@ -57120,5 +57120,67 @@
   "date": "2026-08-24",
   "time": "17:04",
   "path": "/articles/20260824-andpad-capital-business-alliance-construction-ai.html"
+ },
+ {
+  "title": "NVIDIAがAI関連製品を15％以上値上げ、その影響とは",
+  "lead": "NVIDIAが大手顧客に対して、AI関連製品を15％以上値上げすると通知したことが明らかになりました。「Vera Rubin」や「Grace Blackwell」などのAIチップ搭載サーバーが対象となります。",
+  "summary3": [
+   "NVIDIAがAI製品の15％以上値上げを通知",
+   "Vera RubinやGrace Blackwellが対象",
+   "2027年出荷分からの適用が見込まれる"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によると、半導体大手のNVIDIAが一部の大手顧客に対して、AI関連製品の価格を15％以上引き上げると通知したことがわかりました。",
+   "今回の値上げの対象には、「Vera Rubin」や「Grace Blackwell」といった最先端のAIチップを搭載したサーバーが含まれている模様です。",
+   "新価格の適用は2027年出荷分からとなる見通しであり、今後のAI関連市場や顧客企業の調達コストにどのような影響を与えるのか注目されています。"
+  ],
+  "tags": [
+   "NVIDIA",
+   "AI",
+   "ハードウェア"
+  ],
+  "slug": "nvidia-price-hike-ai-related-products",
+  "people": [],
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "18:01",
+  "path": "/articles/20260824-nvidia-price-hike-ai-related-products.html"
+ },
+ {
+  "title": "トランプ政権のAIインフラ計画に共和党支持層が反発",
+  "lead": "AI覇権を掲げるトランプ政権が進めるデータセンター建設に対し、共和党支持層から反発が広がっています。この動きは中間選挙の新たな火種となっています。",
+  "summary3": [
+   "トランプ政権がAIインフラ計画を推進",
+   "データセンター建設に支持層が反発",
+   "中間選挙の新たな火種に浮上"
+  ],
+  "body": [
+   "AI覇権を掲げるトランプ政権が積極的に進めているデータセンター建設に対し、共和党支持層の間で反発が広がっていることが明らかになりました。",
+   "政権が推進する大規模なAIインフラ整備計画は、地域の環境や生活への影響などを巡り、与党であるはずの支持基盤からも懸念や反対の声が上がる事態となっています。",
+   "こうした政権の方針と支持層の思惑のズレは、迫る中間選挙において新たな政治的火種となっており、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "トランプ政権",
+   "AIインフラ",
+   "データセンター"
+  ],
+  "slug": "trump-ai-infrastructure-backlash",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260818de44706",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "18:01",
+  "path": "/articles/20260824-trump-ai-infrastructure-backlash.html"
  }
 ]

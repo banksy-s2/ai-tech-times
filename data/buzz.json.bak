@@ -2,26 +2,10 @@
  "date": "2026-08-24",
  "videos": [
   {
-   "id": "thHxtnJf9HA",
-   "title": "Stray Kids \"After You\" Video",
-   "channel": "Stray Kids",
-   "views": 1334508,
-   "url": "https://www.youtube.com/watch?v=thHxtnJf9HA",
-   "thumb": "https://i.ytimg.com/vi/thHxtnJf9HA/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "Stray Kidsの「After You」の映像が公開されたようです。"
-  },
-  {
    "id": "OhdvNHmJDsw",
    "title": "CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer",
    "channel": "HYBE LABELS",
-   "views": 1310073,
+   "views": 1379662,
    "url": "https://www.youtube.com/watch?v=OhdvNHmJDsw",
    "thumb": "https://i.ytimg.com/vi/OhdvNHmJDsw/hqdefault.jpg",
    "regions": [
@@ -30,14 +14,30 @@
     "KR",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "HYBE LABELSから公開されたCORTISのビジュアライザー動画です。(24字)"
+  },
+  {
+   "id": "thHxtnJf9HA",
+   "title": "Stray Kids \"After You\" Video",
+   "channel": "Stray Kids",
+   "views": 1350592,
+   "url": "https://www.youtube.com/watch?v=thHxtnJf9HA",
+   "thumb": "https://i.ytimg.com/vi/thHxtnJf9HA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "rank": 2,
+   "comment": "Stray Kidsの「After You」の映像が公開されたようです。"
   },
   {
    "id": "Eg4-vCHc7eQ",
    "title": "PACK IT UP",
    "channel": "CORTIS - Topic",
-   "views": 367550,
+   "views": 392955,
    "url": "https://www.youtube.com/watch?v=Eg4-vCHc7eQ",
    "thumb": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/hqdefault.jpg",
    "regions": [
@@ -52,7 +52,7 @@
    "id": "Ytm8WiQLNZA",
    "title": "How I Destroyed an Entire Minecraft Civilization",
    "channel": "Wemmbu",
-   "views": 4094115,
+   "views": 4120983,
    "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
    "thumb": "https://i.ytimg.com/vi/Ytm8WiQLNZA/hqdefault.jpg",
    "regions": [
@@ -66,7 +66,7 @@
    "id": "9gkBujJAkCk",
    "title": "Huge GTA 6 Build Leak Threat Was Fake",
    "channel": "penguinz0",
-   "views": 1289990,
+   "views": 1321509,
    "url": "https://www.youtube.com/watch?v=9gkBujJAkCk",
    "thumb": "https://i.ytimg.com/vi/9gkBujJAkCk/hqdefault.jpg",
    "regions": [
@@ -80,7 +80,7 @@
    "id": "rlxik54rjs8",
    "title": "FOOD TSUNAMI vs Doomsday Bunker!",
    "channel": "Cash",
-   "views": 573889,
+   "views": 590676,
    "url": "https://www.youtube.com/watch?v=rlxik54rjs8",
    "thumb": "https://i.ytimg.com/vi/rlxik54rjs8/hqdefault.jpg",
    "regions": [
@@ -94,7 +94,7 @@
    "id": "HQsV4gTkgyY",
    "title": "FREDDY CAN TELEPORT IN HELLO NEIGHBOR..",
    "channel": "Aimin",
-   "views": 549674,
+   "views": 573727,
    "url": "https://www.youtube.com/watch?v=HQsV4gTkgyY",
    "thumb": "https://i.ytimg.com/vi/HQsV4gTkgyY/hqdefault.jpg",
    "regions": [
@@ -105,38 +105,38 @@
    "comment": "フレディがテレポートするハローネイ邻のゲーム実況動画のようです。"
   },
   {
-   "id": "PJPBx7dYJDc",
-   "title": "ULTIMATE GAMING GAUNTLET",
-   "channel": "Jynxzi",
-   "views": 543858,
-   "url": "https://www.youtube.com/watch?v=PJPBx7dYJDc",
-   "thumb": "https://i.ytimg.com/vi/PJPBx7dYJDc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 8,
-   "comment": "Jynxziによる白熱のゲーム挑戦企画の模様。(23字)"
-  },
-  {
    "id": "ENw2utUihbA",
    "title": "3 SCARY GAMES #113",
    "channel": "Markiplier",
-   "views": 530804,
+   "views": 561297,
    "url": "https://www.youtube.com/watch?v=ENw2utUihbA",
    "thumb": "https://i.ytimg.com/vi/ENw2utUihbA/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 8,
    "comment": "恐怖のゲーム3本の実況プレイ動画シリーズ第113弾のようです。"
+  },
+  {
+   "id": "PJPBx7dYJDc",
+   "title": "ULTIMATE GAMING GAUNTLET",
+   "channel": "Jynxzi",
+   "views": 548115,
+   "url": "https://www.youtube.com/watch?v=PJPBx7dYJDc",
+   "thumb": "https://i.ytimg.com/vi/PJPBx7dYJDc/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 9,
+   "comment": "Jynxziによる白熱のゲーム挑戦企画の模様。(23字)"
   },
   {
    "id": "BrqQxCEyhas",
    "title": "I Found LIZ'S SECRET HOUSE in ANIMAL HOSPITAL!",
    "channel": "Lana's Life",
-   "views": 367602,
+   "views": 379806,
    "url": "https://www.youtube.com/watch?v=BrqQxCEyhas",
    "thumb": "https://i.ytimg.com/vi/BrqQxCEyhas/hqdefault.jpg",
    "regions": [
