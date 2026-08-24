@@ -1,21 +1,59 @@
 {
- "updated": "2026-08-24 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-24 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "800万円が200万円に減った34歳男性の米国株",
-   "path": "/articles/20260824-us-stocks-investment-loss.html",
+   "title": "Claude CodeがGitHub Copilotを逆転し約2倍差の1位、プロ開発者の90％が週1回以上利用する理由",
+   "path": "/articles/20260824-claude-code-overtakes-github-copilot.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "カインズ、AIの口コミ代筆で直面した「ユーザーの声」の壁",
+   "path": "/articles/20260824-cainz-ai-review-feature.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "債券市場の利回り上昇が株式市場を揺らす中、AI株とリテール株はどうなるのか",
+   "path": "/articles/20260824-rising-yields-ai-retail-stocks.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "CNBC Tech：企業が模索する労働者との信頼関係",
+   "path": "/articles/20260824-americas-ai-backlash-worker-trust.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "りくりゅうペア婚約発表、ファンから祝福の声",
+   "path": "/articles/20260824-rikuryu-engagement-announcement.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "ウクライナのゼレンスキー大統領、ロシアの年間1300発ミサイル増産に警戒",
+   "path": "/articles/20260824-zelenskyy-warns-russian-missile-production.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ドトールとコメダが売上高・最終利益過去最高を更新、なぜ両社は好調なのか",
+   "path": "/articles/20260824-doutor-and-komeda-financial-results.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ドンキ年間2.4億円売れる1キロ超え弁当、多いだけでガッカリさせない工夫とは",
+   "path": "/articles/20260824-donki-bento-sales.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Stray Kids \"After You\" Video",
   "url": "https://www.youtube.com/watch?v=thHxtnJf9HA"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: NASA 次世代宇宙望遠鏡打ち上げへ 視野は従来型の100倍超え",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 68,
+  "used": 91,
   "limit": 200
  }
 }

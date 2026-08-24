@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 12:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Claude CodeがGitHub Copilotを逆転し約2倍差の1位、プロ開発者の90％が週1回以上利用する理由](https://ai-tech-times.web.app/articles/20260824-claude-code-overtakes-github-copilot.html) — 2026-08-24 12:01: JetBrains Researchが発表した調査結果によると、プロの開発者の90％がAIコーディングエージェントを週1回以上利用していることが明らかになりました。中でもClaude Codeが急上昇し、GitHub Copilotを逆転して約2倍差の1位となっています。
+- [カインズ、AIの口コミ代筆で直面した「ユーザーの声」の壁](https://ai-tech-times.web.app/articles/20260824-cainz-ai-review-feature.html) — 2026-08-24 12:01: カインズはユーザーによる口コミ投稿の作文をAIでサポートする機能を開発しました。「AI代筆の文章はユーザーの声なのか」という問いにどう向き合ったのでしょうか。
+- [債券市場の利回り上昇が株式市場を揺らす中、AI株とリテール株はどうなるのか](https://ai-tech-times.web.app/articles/20260824-rising-yields-ai-retail-stocks.html) — 2026-08-24 12:01: 今週の株式市場は債券市場の動向に大きく影響を受けました。市場が動揺する中でも、注目のAI株とリテール株に対する投資姿勢についてCNBC Techが報じています。
+- [CNBC Tech：企業が模索する労働者との信頼関係](https://ai-tech-times.web.app/articles/20260824-americas-ai-backlash-worker-trust.html) — 2026-08-24 12:01: 米CNBC Techより、企業内におけるAI導入と労働者の信頼維持の動きに関する最新の動向が伝えられました。AIを活用する企業文化の変革において、信頼関係の構築がどのように進化しているのかが注目されています。
+- [りくりゅうペア婚約発表、ファンから祝福の声](https://ai-tech-times.web.app/articles/20260824-rikuryu-engagement-announcement.html) — 2026-08-24 12:01: 今年2月のミラノ・コルティナ五輪で金メダルを獲得した“りくりゅうペア”の木原龍一氏と三浦璃来さんが、インスタグラムで婚約を発表しました。
+- [ウクライナのゼレンスキー大統領、ロシアの年間1300発ミサイル増産に警戒](https://ai-tech-times.web.app/articles/20260824-zelenskyy-warns-russian-missile-production.html) — 2026-08-24 12:01: ウクライナのゼレンスキー大統領は、ロシアが今後、弾道ミサイルを年間最大1300発規模で生産する可能性があるとして強い警戒感を示しました。これを受け、各国に対して迎撃ミサイルの迅速な供与を強く呼びかけています。
+- [ドトールとコメダが売上高・最終利益過去最高を更新、なぜ両社は好調なのか](https://ai-tech-times.web.app/articles/20260824-doutor-and-komeda-financial-results.html) — 2026-08-24 12:01: 日本を代表する2大カフェチェーンのドトールコーヒーショップとコメダ珈琲店が激しい競争を繰り広げ、両社ともに業績が好調です。運営元の連結決算における動向についてお伝えします。
+- [ドンキ年間2.4億円売れる1キロ超え弁当、多いだけでガッカリさせない工夫とは](https://ai-tech-times.web.app/articles/20260824-donki-bento-sales.html) — 2026-08-24 12:01: ドン・キホーテの大容量弁当シリーズ「衝撃の一食」が好調を維持し、年間売上が2億4000万円を突破しました。単なる大盛りとは異なる開発の背景に迫ります。
 - [800万円が200万円に減った34歳男性の米国株](https://ai-tech-times.web.app/articles/20260824-us-stocks-investment-loss.html) — 2026-08-24 11:00: SNSなどの情報を頼りに投資を行い、大きな損失を出してしまうケースが後を絶ちません。今回は、インフルエンサーの発言を信じて米国株を購入し、資産が大幅に目減りしてしまった34歳男性の事例についてお伝えします。
 - [Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い](https://ai-tech-times.web.app/articles/20260824-techcrunch-mobility-waymo-robotaxi.html) — 2026-08-24 10:00: 「TechCrunch Mobility」の最新情報をお届けします。モビリティ業界の未来に迫るニュースとインサイトをご紹介します。
 - [Flock SafetyのCEO、監視技術への反発に妥協を訴え](https://ai-tech-times.web.app/articles/20260824-flock-ceo-calls-for-compromise.html) — 2026-08-24 10:00: 監視技術を提供するFlock Safetyが、技術の悪用を懸念する声の高まりに直面し、CEOが妥協を呼びかけています。
@@ -34,21 +42,13 @@
 - [Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは](https://ai-tech-times.web.app/articles/20260824-uber-faces-fine-automated-suspensions.html) — 2026-08-24 07:01: 配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。
 - [謎のAIモデル「Ox Alpha」の正体は誰なのか](https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html) — 2026-08-24 07:01: インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。
 - [経産省、ベビーシッター利用で税制優遇要望へ](https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html) — 2026-08-24 07:01: 経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。
-- [分子科学研究所、新方式の国産初量子コンピューターが稼働開始](https://ai-tech-times.web.app/articles/20260824-national-neutral-atom-quantum-computer-launched.html) — 2026-08-24 07:01: 開発競争が続く量子コンピューターをめぐり、「中性原子」と呼ばれる国産初の方式を採用したシステムが愛知県内で稼働を始めました。
-- [キッコーマン、現金収入1000億円が見えてきた理由](https://ai-tech-times.web.app/articles/20260824-kikkoman-financial-results-cash-flow.html) — 2026-08-24 07:01: キッコーマンの決算において、現金収入1000億円が見えてきたことが日本経済新聞の報道で明らかになりました。
-- [長野県上場企業の77％、女性管理職1割未満の現状とは](https://ai-tech-times.web.app/articles/20260824-nagano-listed-companies-female-managers.html) — 2026-08-24 06:00: 信濃毎日新聞デジタルの報道によると、長野県関係の上場企業において、女性管理職の割合が1割に満たない企業が77％に達することが明らかになりました。
-- [イーライリリー肥満症薬、米国で月50ドルに](https://ai-tech-times.web.app/articles/20260824-eli-lilly-obesity-drug-market-us.html) — 2026-08-24 05:00: 減量薬ブームの終息という見方を覆し、製薬大手イーライリリーの決算から新たな動きが明らかになりました。アメリカ政府が肥満症薬を月50ドルで解禁する方針です。
-- [東武鉄道の作業員4人死亡事故、当日3本の列車はなぜ通過できたのか](https://ai-tech-times.web.app/articles/20260824-tobu-railway-accident-investigation.html) — 2026-08-24 04:00: 栃木県鹿沼市の東武日光線で作業員4人が死亡した特急列車の事故で、事故当日は作業を始めてから3本の列車が問題なく現場を通過していたことが分かりました。
-- [ゼレンスキー大統領の出身地で商業施設が無人機攻撃され16人死亡](https://ai-tech-times.web.app/articles/20260824-ukraine-commercial-facility-drone-attack.html) — 2026-08-24 04:00: ウクライナのゼレンスキー大統領の出身地にある大型の商業施設がロシアの無人機による攻撃を受けました。この攻撃により、これまでに16人が死亡、100人以上がけがをする被害が出ています。
-- [現役VTuberが明かす教育虐待とひきこもり](https://ai-tech-times.web.app/articles/20260824-vtuber-education-abuse-hikikomori.html) — 2026-08-24 03:00: 現役VTuberが、過去に経験した教育虐待やいじめ、ひきこもりについて赤裸々に語り話題となっています。
-- [イラン関与のサイバー攻撃でイギリスの小型発電所が停止](https://ai-tech-times.web.app/articles/20260824-uk-power-plant-cyberattack-iran.html) — 2026-08-24 02:00: イギリスでイランに関連するとされるサイバー攻撃により、小型発電所が一時停止に追い込まれました。政府はエネルギーシステムへのリスクはないとしています。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 2位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
 - 3位: [PACK IT UP](https://www.youtube.com/watch?v=Eg4-vCHc7eQ)
 
-## AI用語事典 (全1058語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1062語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -71,8 +71,8 @@
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
-- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
+- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。

@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-24 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-24 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い",
-   "path": "/articles/20260824-techcrunch-mobility-waymo-robotaxi.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Flock SafetyのCEO、監視技術への反発に妥協を訴え",
-   "path": "/articles/20260824-flock-ceo-calls-for-compromise.html",
-   "cat": "シリコンバレー最速"
+   "title": "800万円が200万円に減った34歳男性の米国株",
+   "path": "/articles/20260824-us-stocks-investment-loss.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 65,
+  "used": 68,
   "limit": 200
  }
 }
