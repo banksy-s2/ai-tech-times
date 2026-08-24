@@ -1,17 +1,21 @@
 {
- "updated": "2026-08-24 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-08-24 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "スズキ初の軽乗用車EV公開、今後の普及は",
+   "path": "/articles/20260824-suzuki-kei-ev-release.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Stray Kids \"After You\" Video",
   "url": "https://www.youtube.com/watch?v=thHxtnJf9HA"
  },
- "notes": [
-  "執筆失敗: 個人向け国債「変動10年」　金利上昇に強く、元本割れなし - 日本経済新聞"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 98,
+  "used": 102,
   "limit": 200
  }
 }
