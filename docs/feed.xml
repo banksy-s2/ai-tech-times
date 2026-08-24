@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AmazonとTwitchがAI学習で配信者に訴えられる</title>
+<link>https://ai-tech-times.web.app/articles/20260825-twitch-and-amazon-sued-over-ai-training.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-twitch-and-amazon-sued-over-ai-training.html</guid>
+<pubDate>Tue, 25 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ライブ配信サービスのTwitchとその親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。自身の動画が勝手にAIのトレーニングに使われたことが問題視されています。</description>
+</item>
+<item>
+<title>ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか</title>
+<link>https://ai-tech-times.web.app/articles/20260825-nora-ai-security-countermeasures.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-nora-ai-security-countermeasures.html</guid>
+<pubDate>Tue, 25 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>社内の誰がどのAIを使っているのか正確に把握できず、問題が事後に発覚するケースが相次いでいます。約500社の商談分析から、野良AIの実態と現実的な付き合い方を探ります。</description>
+</item>
+<item>
 <title>木原官房長官、ICC赤根所長へ必要な支援行う方針</title>
 <link>https://ai-tech-times.web.app/articles/20260824-kihara-icc-akane-support.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260824-kihara-icc-akane-support.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 24 Aug 2026 12:01:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>今年2月のミラノ・コルティナ五輪で金メダルを獲得した“りくりゅうペア”の木原龍一氏と三浦璃来さんが、インスタグラムで婚約を発表しました。</description>
-</item>
-<item>
-<title>ウクライナのゼレンスキー大統領、ロシアの年間1300発ミサイル増産に警戒</title>
-<link>https://ai-tech-times.web.app/articles/20260824-zelenskyy-warns-russian-missile-production.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-zelenskyy-warns-russian-missile-production.html</guid>
-<pubDate>Mon, 24 Aug 2026 12:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>ウクライナのゼレンスキー大統領は、ロシアが今後、弾道ミサイルを年間最大1300発規模で生産する可能性があるとして強い警戒感を示しました。これを受け、各国に対して迎撃ミサイルの迅速な供与を強く呼びかけています。</description>
-</item>
-<item>
-<title>ドトールとコメダが売上高・最終利益過去最高を更新、なぜ両社は好調なのか</title>
-<link>https://ai-tech-times.web.app/articles/20260824-doutor-and-komeda-financial-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-doutor-and-komeda-financial-results.html</guid>
-<pubDate>Mon, 24 Aug 2026 12:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本を代表する2大カフェチェーンのドトールコーヒーショップとコメダ珈琲店が激しい競争を繰り広げ、両社ともに業績が好調です。運営元の連結決算における動向についてお伝えします。</description>
 </item>
 </channel></rss>

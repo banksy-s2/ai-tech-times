@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AmazonとTwitchがAI学習で配信者に訴えられる](https://ai-tech-times.web.app/articles/20260825-twitch-and-amazon-sued-over-ai-training.html) — 2026-08-25 01:00: ライブ配信サービスのTwitchとその親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。自身の動画が勝手にAIのトレーニングに使われたことが問題視されています。
+- [ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか](https://ai-tech-times.web.app/articles/20260825-nora-ai-security-countermeasures.html) — 2026-08-25 01:00: 社内の誰がどのAIを使っているのか正確に把握できず、問題が事後に発覚するケースが相次いでいます。約500社の商談分析から、野良AIの実態と現実的な付き合い方を探ります。
 - [木原官房長官、ICC赤根所長へ必要な支援行う方針](https://ai-tech-times.web.app/articles/20260824-kihara-icc-akane-support.html) — 2026-08-24 22:00: アメリカのトランプ政権がICCの赤根智子所長を制裁対象に加えると発表したことを受け、木原官房長官は緊密に意思疎通を図り必要な支援を行うと表明しました。
 - [米財務長官、イランへ史上最大の経済制裁を示唆](https://ai-tech-times.web.app/articles/20260824-us-treasury-secretary-iran-financial-offensive.html) — 2026-08-24 22:00: アメリカのスコット・ベッセント財務長官は、イランに対してこれまでで最大規模の金融攻勢を展開すると明らかにしました。経済的な結びつきを断ち切る方針を示しています。
 - [Linux創始者Linus TorvaldsがAIと挑んだ難解バグ](https://ai-tech-times.web.app/articles/20260824-linus-torvalds-ai-debugging-session.html) — 2026-08-24 21:03: Linuxカーネルの生みの親であるLinus Torvaldsが、AIを相棒にしてIntel Xeグラフィックスドライバのバグ修正に挑んだ全記録が公開されました。
@@ -40,15 +42,13 @@
 - [Linkdazeスマートカレンダー、AI献立作成が無料の理由](https://ai-tech-times.web.app/articles/20260824-linkdaze-smart-calendar-household.html) — 2026-08-24 17:04: TechCrunchの報道によると、家庭の管理に特化したLinkdazeのスマートデジタルカレンダーが注目を集めています。有料壁を設けず、AIによる献立作成ツールなどの機能を提供しているのが特徴です。
 - [VTuber天鬼ぷるるのコラボPC、GALLERIAから発売](https://ai-tech-times.web.app/articles/20260824-amak-pururu-galleria-collab-pc.html) — 2026-08-24 17:04: VTuberの天鬼ぷるるさんとコラボレーションしたパソコンが、GALLERIAから発売されることが発表されました。録り下ろしシステムボイスも付属します。
 - [消費者庁、SNSチャット勧誘にクーリング・オフ拡大案](https://ai-tech-times.web.app/articles/20260824-consumer-agency-cooling-off-sns-chat.html) — 2026-08-24 17:04: インターネットでの悪質な勧誘によるトラブルが相次いでいることを受け、消費者庁の有識者検討会は、消費者の保護に向けた対策を盛り込んだ中間まとめの検討を進めています。
-- [SBG株価が“SON”で揺れる、エヌビディア決算の行方](https://ai-tech-times.web.app/articles/20260824-sbg-nvidia-earnings-son.html) — 2026-08-24 17:04: 日経CNBC onlineの報道によると、迫るエヌビディア決算を背景に、“SON”で揺れるソフトバンクグループ（SBG）の株価動向が注目されています。
-- [アンドパッド、東京ガスら3社と資本業務提携で建設AI拡大](https://ai-tech-times.web.app/articles/20260824-andpad-capital-business-alliance-construction-ai.html) — 2026-08-24 17:04: 「AI TECH TIMES」がお伝えする企業の最新動向。アンドパッドが東京ガス、ダイキン、カインズの3社と資本業務提携を締結し、建設バーティカルAIの拡大を目指すと発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
-- 1位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
-- 2位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
+- 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
+- 2位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
 - 3位: [BIGBANG - ‘BiiiG’ DANCE PRACTICE](https://www.youtube.com/watch?v=B5u8JiGVI_k)
 
-## AI用語事典 (全1079語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1080語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

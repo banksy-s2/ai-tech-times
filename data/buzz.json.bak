@@ -1,11 +1,11 @@
 {
- "date": "2026-08-24",
+ "date": "2026-08-25",
  "videos": [
   {
    "id": "BjFX1eugZ-Y",
    "title": "NCT 127 엔시티 127 'Blingy' MV",
    "channel": "SMTOWN",
-   "views": 389811,
+   "views": 440889,
    "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y",
    "thumb": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg",
    "regions": [
@@ -22,7 +22,7 @@
    "id": "46h0LvDHgIs",
    "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
    "channel": "HYBE LABELS",
-   "views": 457002,
+   "views": 539306,
    "url": "https://www.youtube.com/watch?v=46h0LvDHgIs",
    "thumb": "https://i.ytimg.com/vi/46h0LvDHgIs/hqdefault.jpg",
    "regions": [
@@ -38,7 +38,7 @@
    "id": "B5u8JiGVI_k",
    "title": "BIGBANG - ‘BiiiG’ DANCE PRACTICE",
    "channel": "BIGBANG",
-   "views": 540765,
+   "views": 609987,
    "url": "https://www.youtube.com/watch?v=B5u8JiGVI_k",
    "thumb": "https://i.ytimg.com/vi/B5u8JiGVI_k/hqdefault.jpg",
    "regions": [
@@ -53,7 +53,7 @@
    "id": "_8Ioys36yFA",
    "title": "Tones And I - Dance Monkey (Lyrics)",
    "channel": "Lost Panda",
-   "views": 271756,
+   "views": 299907,
    "url": "https://www.youtube.com/watch?v=_8Ioys36yFA",
    "thumb": "https://i.ytimg.com/vi/_8Ioys36yFA/hqdefault.jpg",
    "regions": [
@@ -65,52 +65,53 @@
    "comment": "有名な「Dance Monkey」の歌詞付き動画のようです。(27文字)"
   },
   {
+   "id": "xp3mBhXY8Y8",
+   "title": "Ramba Oorvasi Menaka Trailer | Allari Naresh | Surbhi | Chandra Mohan | Annapurna Studios",
+   "channel": "Annapurna Studios",
+   "views": 188364,
+   "url": "https://www.youtube.com/watch?v=xp3mBhXY8Y8",
+   "thumb": "https://i.ytimg.com/vi/xp3mBhXY8Y8/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "rank": 5,
+   "comment": "アラリ・ナレシュらが出演する映画の予告編映像のようだ。"
+  },
+  {
    "id": "9gkBujJAkCk",
    "title": "Huge GTA 6 Build Leak Threat Was Fake",
    "channel": "penguinz0",
-   "views": 1434069,
+   "views": 1448837,
    "url": "https://www.youtube.com/watch?v=9gkBujJAkCk",
    "thumb": "https://i.ytimg.com/vi/9gkBujJAkCk/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 6,
    "comment": "GTA 6の巨大ビルリーク脅威は嘘だったようだ"
   },
   {
    "id": "rlxik54rjs8",
    "title": "FOOD TSUNAMI vs Doomsday Bunker!",
    "channel": "Cash",
-   "views": 716089,
+   "views": 735522,
    "url": "https://www.youtube.com/watch?v=rlxik54rjs8",
    "thumb": "https://i.ytimg.com/vi/rlxik54rjs8/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
-   "comment": "フード・ツナミとドームシェルターの対決を描いた動画のようです。(28字)"
-  },
-  {
-   "id": "PJPBx7dYJDc",
-   "title": "ULTIMATE GAMING GAUNTLET",
-   "channel": "Jynxzi",
-   "views": 564295,
-   "url": "https://www.youtube.com/watch?v=PJPBx7dYJDc",
-   "thumb": "https://i.ytimg.com/vi/PJPBx7dYJDc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 7,
-   "comment": "Jynxziによる白熱のゲーム挑戦企画の模様。(23字)"
+   "comment": "フード・ツナミとドームシェルターの対決を描いた動画のようです。(28字)"
   },
   {
    "id": "07S60wsY4SM",
    "title": "Speedrunning Minecraft Skyfactory was a TERRIBLE Mistake",
    "channel": "martincitopants",
-   "views": 548644,
+   "views": 625247,
    "url": "https://www.youtube.com/watch?v=07S60wsY4SM",
    "thumb": "https://i.ytimg.com/vi/07S60wsY4SM/hqdefault.jpg",
    "regions": [
@@ -121,32 +122,32 @@
    "comment": "マインクラフトのスカイファクトリーRTAに関する動画のようです"
   },
   {
+   "id": "PJPBx7dYJDc",
+   "title": "ULTIMATE GAMING GAUNTLET",
+   "channel": "Jynxzi",
+   "views": 566491,
+   "url": "https://www.youtube.com/watch?v=PJPBx7dYJDc",
+   "thumb": "https://i.ytimg.com/vi/PJPBx7dYJDc/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 9,
+   "comment": "Jynxziによる白熱のゲーム挑戦企画の模様。(23字)"
+  },
+  {
    "id": "Eg4-vCHc7eQ",
    "title": "PACK IT UP",
    "channel": "CORTIS - Topic",
-   "views": 515191,
+   "views": 528672,
    "url": "https://www.youtube.com/watch?v=Eg4-vCHc7eQ",
    "thumb": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/hqdefault.jpg",
    "regions": [
     "US",
     "KR"
    ],
-   "rank": 9,
-   "comment": "CORTISの「PACK IT UP」という楽曲のようです。"
-  },
-  {
-   "id": "g9Q58A_k-HU",
-   "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
-   "channel": "ALPHA DRIVE ONE",
-   "views": 237794,
-   "url": "https://www.youtube.com/watch?v=g9Q58A_k-HU",
-   "thumb": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg",
-   "regions": [
-    "JP",
-    "KR"
-   ],
    "rank": 10,
-   "comment": "ALPHA DRIVE ONEの新曲「BORN DIRE」のMVのようです。"
+   "comment": "CORTISの「PACK IT UP」という楽曲のようです。"
   }
  ],
  "covered": [
@@ -158,7 +159,6 @@
   "IN"
  ],
  "comment_cache": {
-  "h-j-SpRxhHo": "HELLDIVERS 2とウォーハンマー40,000のコラボトレイラーか",
   "oNPOtou-Seg": "ランビール・カプールら出演作の予告編を徹底解説しているようです。",
   "ukHLJ06ecH0": "動物病院の11の秘密を暴く内容のようだ",
   "cmawSe1PkPg": "Gears of War: E-Dayのマルチプレイヤー映像かもしれない公式公開動画です。(28字)",
@@ -457,6 +457,7 @@
   "B5u8JiGVI_k": "BIGBANGの「BiiiG」ダンスプラクティス映像のようです",
   "BjFX1eugZ-Y": "NCT 127の新曲「Blingy」のMVが公開されたようです",
   "07S60wsY4SM": "マインクラフトのスカイファクトリーRTAに関する動画のようです",
-  "g9Q58A_k-HU": "ALPHA DRIVE ONEの新曲「BORN DIRE」のMVのようです。"
+  "g9Q58A_k-HU": "ALPHA DRIVE ONEの新曲「BORN DIRE」のMVのようです。",
+  "xp3mBhXY8Y8": "アラリ・ナレシュらが出演する映画の予告編映像のようだ。"
  }
 }
