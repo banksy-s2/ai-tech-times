@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 12:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [SHEIN、香港上場へ約27億ドルの評価額](https://ai-tech-times.web.app/articles/20260824-shein-hong-kong-stock-market-debut.html) — 2026-08-24 13:00: ファストファッション大手のSHEINが、香港での株式公開に向けて約27億ドルの評価額を目指していることが明らかになりました。株取引の開始日は9月1日に予定されています。
+- [NASA、従来型超えの次世代宇宙望遠鏡を打ち上げへ](https://ai-tech-times.web.app/articles/20260824-nasa-next-gen-space-telescope.html) — 2026-08-24 13:00: NASA＝アメリカ航空宇宙局は、今月すえにも従来の100倍余り広い視野を持つ次世代の宇宙望遠鏡を打ち上げます。
 - [Claude CodeがGitHub Copilotを逆転し約2倍差の1位、プロ開発者の90％が週1回以上利用する理由](https://ai-tech-times.web.app/articles/20260824-claude-code-overtakes-github-copilot.html) — 2026-08-24 12:01: JetBrains Researchが発表した調査結果によると、プロの開発者の90％がAIコーディングエージェントを週1回以上利用していることが明らかになりました。中でもClaude Codeが急上昇し、GitHub Copilotを逆転して約2倍差の1位となっています。
 - [カインズ、AIの口コミ代筆で直面した「ユーザーの声」の壁](https://ai-tech-times.web.app/articles/20260824-cainz-ai-review-feature.html) — 2026-08-24 12:01: カインズはユーザーによる口コミ投稿の作文をAIでサポートする機能を開発しました。「AI代筆の文章はユーザーの声なのか」という問いにどう向き合ったのでしょうか。
 - [債券市場の利回り上昇が株式市場を揺らす中、AI株とリテール株はどうなるのか](https://ai-tech-times.web.app/articles/20260824-rising-yields-ai-retail-stocks.html) — 2026-08-24 12:01: 今週の株式市場は債券市場の動向に大きく影響を受けました。市場が動揺する中でも、注目のAI株とリテール株に対する投資姿勢についてCNBC Techが報じています。
@@ -40,15 +42,13 @@
 - [Slack、開発チームの議論から自動コーディングする「Slack Code」登場](https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html) — 2026-08-24 07:01: Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。
 - [大阪大学とNEC、1TBを90秒で送る基盤構築](https://ai-tech-times.web.app/articles/20260824-osaka-u-nec-red-onion.html) — 2026-08-24 07:01: 大阪大学とNECは、次世代データ転送基盤「RED-ONION」を構築し、1TBのデータを約90秒で転送することに成功しました。
 - [Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは](https://ai-tech-times.web.app/articles/20260824-uber-faces-fine-automated-suspensions.html) — 2026-08-24 07:01: 配車サービス大手のUberに対し、オランダのデータ保護機関が自動的なドライバー停止処分を巡り、約10億ドルに迫る巨額の罰金を科しました。
-- [謎のAIモデル「Ox Alpha」の正体は誰なのか](https://ai-tech-times.web.app/articles/20260824-whos-behind-the-new-stealth-model-ox-alpha.html) — 2026-08-24 07:01: インターネットの一部で熱狂的な憶測を呼んでいる謎の新しいAIモデル「Ox Alpha」について、テッククランチが報じています。
-- [経産省、ベビーシッター利用で税制優遇要望へ](https://ai-tech-times.web.app/articles/20260824-meti-tax-incentive-housework-babysitter.html) — 2026-08-24 07:01: 経済産業省などは、仕事と子育てや介護の両立を後押しするため、来年度の税制改正に向けて新たな支援策の方針を固めました。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 2位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
 - 3位: [PACK IT UP](https://www.youtube.com/watch?v=Eg4-vCHc7eQ)
 
-## AI用語事典 (全1062語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1064語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
