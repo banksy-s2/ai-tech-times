@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アクセンチュア調査：日本企業のAI投資で成果13％の壁](https://ai-tech-times.web.app/articles/20260824-accenture-ai-investment-japan.html) — 2026-08-24 09:00: アクセンチュアの調査によれば、日本企業の78％がAI投資拡大に意欲を示す一方、全社的な成果を実感する企業は13％にとどまることが分かりました。
+- [ニトリ、「社内用語」の壁を破るAI分析の仕組み](https://ai-tech-times.web.app/articles/20260824-nitori-ai-analysis-internal-terms.html) — 2026-08-24 09:00: AIによるデータ分析を阻む「社内用語」の壁に対し、ニトリが地道な作業の積み重ねで誰もが使いやすい基盤を作り上げました。
 - [テック系メディア報じる、著作物AI学習は合法か](https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html) — 2026-08-24 08:00: 多くの作家が無断で自身の著作物をAI開発に利用されている現状について、テック系メディアのTechCrunch AIが報じました。
 - [謎の新型AI「Ox Alpha」登場、その開発元はどこなのか](https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html) — 2026-08-24 07:01: インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。
 - [Slack、開発チームの議論から自動コーディングする「Slack Code」登場](https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html) — 2026-08-24 07:01: Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。
@@ -40,15 +42,13 @@
 - [ウォルマート傘下フリップカート、1日120万件超の注文を達成し首位追う](https://ai-tech-times.web.app/articles/20260824-flipkart-closing-in-on-india-quick-commerce.html) — 2026-08-24 02:00: ウォルマート傘下のフリップカートが展開するクイックコマース事業が、11月時点の約3倍となる日量110万〜120万件の注文を記録し、インドの市場リーダーを急追しています。
 - [人月ビジネスの終焉、SIerはなぜ数年で詰むのか](https://ai-tech-times.web.app/articles/20260824-sier-business-model-ai-future.html) — 2026-08-24 01:00: 自律型AIエージェントの普及により、従来のSIerのビジネスモデルには大きな変化が迫られています。生き残るために獲得すべき価値とは何でしょうか。
 - [AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表](https://ai-tech-times.web.app/articles/20260824-gemma-4-benchmark-alpha-sense.html) — 2026-08-24 01:00: 次々に新たなAIモデルが登場する中、AIを活用した文書管理サービスを開発するAlphaSenseが、財務タスクにおけるテスト結果を公開しました。
-- [大分で40度予想、西・東日本で猛烈な暑さ](https://ai-tech-times.web.app/articles/20260823-extreme-heat-forecast-japan-2026.html) — 2026-08-23 22:01: 東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も西日本と東日本の各地で猛烈な暑さが予想されています。
-- [ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及](https://ai-tech-times.web.app/articles/20260823-ukraine-former-minister-corruption-election.html) — 2026-08-23 22:01: BBCの報道によると、ウクライナの前国防相が政府内の汚職についてゼレンスキー大統領が何を把握していたのか問われるべきだと主張し、戦時中の選挙実施も求めている。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
 - 1位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
 - 2位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
 - 3位: [PACK IT UP](https://www.youtube.com/watch?v=Eg4-vCHc7eQ)
 
-## AI用語事典 (全1055語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1057語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
