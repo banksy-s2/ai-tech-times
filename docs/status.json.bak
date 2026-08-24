@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-25 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-25 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Hugging Faceが130億ドル規模の買収交渉か、売却の行方は",
-   "path": "/articles/20260825-hugging-face-acquisition-talks-13b.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ゴールドマン・サックスが警告、AIが将来の銀行員の思考力を奪う巨大な危険性",
-   "path": "/articles/20260825-goldman-sachs-ai-partner-danger-skills.html",
-   "cat": "シリコンバレー最速"
+   "title": "乃木坂46、落雷で避難の客が戻る前に公演開始した理由",
+   "path": "/articles/20260825-nogizaka46-tour-lightning-incident.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 13,
   "limit": 200
  }
 }
