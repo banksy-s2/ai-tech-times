@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-24 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-24 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NVIDIAがAI関連製品を15％以上値上げ、その影響とは",
-   "path": "/articles/20260824-nvidia-price-hike-ai-related-products.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "トランプ政権のAIインフラ計画に共和党支持層が反発",
-   "path": "/articles/20260824-trump-ai-infrastructure-backlash.html",
-   "cat": "日本のAI"
+   "title": "アリババ、AI投資へ102億ドル株発行で株価10%急落",
+   "path": "/articles/20260824-alibaba-share-placement-drop-ai.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 131,
+  "used": 135,
   "limit": 200
  }
 }

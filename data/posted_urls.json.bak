@@ -1653,11 +1653,10 @@
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjRGsxRUsxNzM3emxYREh5dW82UUhJanNlUnFIV0dJdnpRdTR0Y1hfVHRIblRoU2hRaTU1d1g1NUtrTmVRc1R4Qm02WGFJTDM3RzRXTQ?oc=5",
   "https://news.google.com/rss/articles/CBMickFVX3lxTE55ZEsxUkF6N3NkNkZCNzJBb1dhNWoyWHlJV3I0NTRJa0V1d1FKSGtCcS1sbERIY1RKSFZrdW8xMTNJenc2OWdueVhpa09PdHZPOHExUG5qOHpYX1VRb3hHa2hLTVRuaWpPR0RfZE9HQS10dw?oc=5",
   "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/",
-  "https://news.web.nhk/newsweb/na/nd-20260818de44706"
+  "https://news.web.nhk/newsweb/na/nd-20260818de44706",
+  "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
  ],
  "titles": [
-  "ヤマダ×エディオン「2.5兆円」統合で、あなたの街から「家電量販店を選ぶ自由」が消える？　公取委の判断に注目",
-  "ＪＢＣＣHD、スパイスコードと業務提携し長期記憶による「SIエージェント」を共同開発 AI駆動の大型開発を先駆けて実践、スピードと品質の飛躍的な向上を目指す - jbcchd.co.jp",
   "AnthropicのAI、セキュリティテストで3社に侵入",
   "OpenAI「GPT-5.6 Luna」80%値下げの裏で何が？",
   "GoogleのChrome、AIで13年超の脆弱性発見",
@@ -3655,6 +3654,8 @@
   "NVIDIAが大手顧客に対してAI関連製品を15％以上値上げすると通知、「Vera Rubin」や「Grace Blackwell」などにも影響か",
   "“AIインフラを止めろ” トランプ支持層に広がる反発 | NHKニュース",
   "NVIDIAがAI関連製品を15％以上値上げ、その影響とは",
-  "トランプ政権のAIインフラ計画に共和党支持層が反発"
+  "トランプ政権のAIインフラ計画に共和党支持層が反発",
+  "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+  "アリババ、AI投資へ102億ドル株発行で株価10%急落"
  ]
 }
