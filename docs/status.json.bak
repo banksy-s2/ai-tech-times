@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-24 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-24 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "テック系メディア報じる、著作物AI学習は合法か",
-   "path": "/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html",
-   "cat": "AI(海外)"
+   "title": "アクセンチュア調査：日本企業のAI投資で成果13％の壁",
+   "path": "/articles/20260824-accenture-ai-investment-japan.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ニトリ、「社内用語」の壁を破るAI分析の仕組み",
+   "path": "/articles/20260824-nitori-ai-analysis-internal-terms.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 55,
+  "used": 60,
   "limit": 200
  }
 }

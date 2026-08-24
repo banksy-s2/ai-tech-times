@@ -1628,13 +1628,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260823de45888",
   "https://news.web.nhk/newsweb/na/nd-20260823de45895",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Q1puYVFKZGdBajc4Wm1TZWlralhNekFzdHZVeEVfX2FvM05vbW5QNUdVaDBoQWtJbWlaMUlCQ1o3QXdaMTVXX1hjMHh2MmVyNEY1NnhxN19KZk5VbXc4bnJMTkZLQXBqeTdxWQ?oc=5",
-  "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+  "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
+  "https://www.itmedia.co.jp/business/articles/2608/24/news058.html"
  ],
  "titles": [
-  "アドテスト好決算で433円高、AI期待復活",
-  "神戸電鉄、大株主となった神戸市とトップ会談の狙い",
-  "【8035.T FY2027 Q1 決算説明会】AI投資が追い風、四半期売上高7323億円で過去最高 上期予想も大幅上方修正 - BigGo ファイナンス",
-  "【沖電気工業 FY2026 Q1 決算説明会】防衛システムが9割増益、豪フリゲート艦ソナー契約を正式締結 - BigGo ファイナンス",
   "8035.T、売上高7323億円で過去最高を更新",
   "沖電気工業FY2026 Q1決算防衛システム9割増益",
   "Okta buys AI security startup Permiso — source says for about $200M",
@@ -3630,6 +3628,10 @@
   "分子科学研究所、新方式の国産初量子コンピューターが稼働開始",
   "キッコーマン、現金収入1000億円が見えてきた理由",
   "Is it legal to train AI models on copyrighted books? It’s complicated",
-  "テック系メディア報じる、著作物AI学習は合法か"
+  "テック系メディア報じる、著作物AI学習は合法か",
+  "日本企業のAI投資「成果あり」はわずか13％　アクセンチュアが指摘する“人任せ”の限界",
+  "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
+  "アクセンチュア調査：日本企業のAI投資で成果13％の壁",
+  "ニトリ、「社内用語」の壁を破るAI分析の仕組み"
  ]
 }

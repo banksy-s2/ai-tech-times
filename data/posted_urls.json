@@ -1630,13 +1630,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Q1puYVFKZGdBajc4Wm1TZWlralhNekFzdHZVeEVfX2FvM05vbW5QNUdVaDBoQWtJbWlaMUlCQ1o3QXdaMTVXX1hjMHh2MmVyNEY1NnhxN19KZk5VbXc4bnJMTkZLQXBqeTdxWQ?oc=5",
   "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
   "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
-  "https://www.itmedia.co.jp/business/articles/2608/24/news058.html"
+  "https://www.itmedia.co.jp/business/articles/2608/24/news058.html",
+  "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+  "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
  ],
  "titles": [
-  "8035.T、売上高7323億円で過去最高を更新",
-  "沖電気工業FY2026 Q1決算防衛システム9割増益",
-  "Okta buys AI security startup Permiso — source says for about $200M",
-  "Google DeepMind’s new AI model can control a robot’s entire body",
   "KADOKAWAとはてな、AIで小説執筆を支援　新サービス「RIKU」、テスター募集開始",
   "Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B, vs. $19.6B estimated (Apple)",
   "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
@@ -3632,6 +3630,10 @@
   "日本企業のAI投資「成果あり」はわずか13％　アクセンチュアが指摘する“人任せ”の限界",
   "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
   "アクセンチュア調査：日本企業のAI投資で成果13％の壁",
-  "ニトリ、「社内用語」の壁を破るAI分析の仕組み"
+  "ニトリ、「社内用語」の壁を破るAI分析の仕組み",
+  "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+  "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+  "Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い",
+  "Flock SafetyのCEO、監視技術への反発に妥協を訴え"
  ]
 }

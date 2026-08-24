@@ -56376,5 +56376,73 @@
   "date": "2026-08-24",
   "time": "09:00",
   "path": "/articles/20260824-nitori-ai-analysis-internal-terms.html"
+ },
+ {
+  "title": "Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い",
+  "lead": "「TechCrunch Mobility」の最新情報をお届けします。モビリティ業界の未来に迫るニュースとインサイトをご紹介します。",
+  "summary3": [
+   "TechCrunch Mobilityの最新情報",
+   "次世代のモビリティと交通の未来を解説",
+   "Waymoのロボタクシー戦略に迫る"
+  ],
+  "body": [
+   "「TechCrunch Mobility」へようこそ。ここは、交通とモビリティの未来に関するニュースやインサイトをお届けする中心的なハブです。",
+   "今回の注目トピックは、Waymoが推進するロボタクシー事業と、それを支えるカスタムチップの戦略についてです。自動運転技術の開発競争が激化する中、専用のハードウェアがどのような役割を果たすのかが解説されています。",
+   "次世代の交通システムや自動運転の動向について、今後も最新のトレンドや詳細なインサイトを発信していきます。"
+  ],
+  "tags": [
+   "Waymo",
+   "ロボタクシー",
+   "TechCrunch"
+  ],
+  "slug": "techcrunch-mobility-waymo-robotaxi",
+  "people": [],
+  "terms": [
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカのAlphabet傘下にある自動運転技術開発企業。完全自動運転のロボタクシーなどを手掛ける。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+  "category": "silicon",
+  "date": "2026-08-24",
+  "time": "10:00",
+  "path": "/articles/20260824-techcrunch-mobility-waymo-robotaxi.html"
+ },
+ {
+  "title": "Flock SafetyのCEO、監視技術への反発に妥協を訴え",
+  "lead": "監視技術を提供するFlock Safetyが、技術の悪用を懸念する声の高まりに直面し、CEOが妥協を呼びかけています。",
+  "summary3": [
+   "監視技術に対する批判が拡大中",
+   "CEOが妥協を求める姿勢を示す",
+   "悪用を懸念する声への対応苦慮"
+  ],
+  "body": [
+   "監視技術を手がけるFlock Safetyに対して、その技術が悪用されるのではないかという懸念から、一般市民などからの批判が急速に高まっています。同社の製品は防犯や安全性向上に利用される一方で、プライバシー侵害につながるという不安が根強く存在しています。",
+   "こうした状況を受けて、Flock SafetyのCEOは事態の収拾を図るべく、「妥協」の必要性を訴え始めました。批判的な意見を持つステークホルダーとの対話を通じて、懸念を和らげる道を探る狙いがあるとみられます。",
+   "今後は、セキュリティの確保とプライバシー保護のバランスをどのように取るのかが大きな焦点となります。監視テクノロジーをめぐる社会的議論は、今後さらに激しさを増していくことが予想されます。"
+  ],
+  "tags": [
+   "FlockSafety",
+   "監視技術",
+   "プライバシー"
+  ],
+  "slug": "flock-ceo-calls-for-compromise",
+  "people": [],
+  "terms": [
+   {
+    "name": "Flock Safety",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、防犯カメラや監視技術の開発・提供を行う企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+  "category": "silicon",
+  "date": "2026-08-24",
+  "time": "10:00",
+  "path": "/articles/20260824-flock-ceo-calls-for-compromise.html"
  }
 ]

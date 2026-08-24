@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-24 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-24 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "アクセンチュア調査：日本企業のAI投資で成果13％の壁",
-   "path": "/articles/20260824-accenture-ai-investment-japan.html",
-   "cat": "日本のAI"
+   "title": "Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い",
+   "path": "/articles/20260824-techcrunch-mobility-waymo-robotaxi.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ニトリ、「社内用語」の壁を破るAI分析の仕組み",
-   "path": "/articles/20260824-nitori-ai-analysis-internal-terms.html",
-   "cat": "日本のAI"
+   "title": "Flock SafetyのCEO、監視技術への反発に妥協を訴え",
+   "path": "/articles/20260824-flock-ceo-calls-for-compromise.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 60,
+  "used": 65,
   "limit": 200
  }
 }
