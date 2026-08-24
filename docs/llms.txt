@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [乃木坂46、落雷で避難の客が戻る前に公演開始した理由](https://ai-tech-times.web.app/articles/20260825-nogizaka46-tour-lightning-incident.html) — 2026-08-25 03:00: アイドルグループ「乃木坂46」は、明治神宮野球場での全国ツアー中に落雷の影響で一時入場を制限した際、観客の入場前に公演を開始したことを謝罪しました。
 - [Hugging Faceが130億ドル規模の買収交渉か、売却の行方は](https://ai-tech-times.web.app/articles/20260825-hugging-face-acquisition-talks-13b.html) — 2026-08-25 02:00: AI開発プラットフォームとして知られるHugging Faceが、約130億ドルの評価額での買収提案を受けていることが報じられました。
 - [ゴールドマン・サックスが警告、AIが将来の銀行員の思考力を奪う巨大な危険性](https://ai-tech-times.web.app/articles/20260825-goldman-sachs-ai-partner-danger-skills.html) — 2026-08-25 02:00: 米金融大手のゴールドマン・サックスがAIの積極的な導入を進める中、同社のシニアテックリーダーが、将来の銀行員の推論スキルを弱めるという思わぬリスクについて警告を発しました。
 - [AmazonとTwitchがAI学習で配信者に訴えられる](https://ai-tech-times.web.app/articles/20260825-twitch-and-amazon-sued-over-ai-training.html) — 2026-08-25 01:00: ライブ配信サービスのTwitchとその親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。自身の動画が勝手にAIのトレーニングに使われたことが問題視されています。
@@ -41,14 +42,13 @@
 - [トランプ政権のAIインフラ計画に共和党支持層が反発](https://ai-tech-times.web.app/articles/20260824-trump-ai-infrastructure-backlash.html) — 2026-08-24 18:01: AI覇権を掲げるトランプ政権が進めるデータセンター建設に対し、共和党支持層から反発が広がっています。この動きは中間選挙の新たな火種となっています。
 - [SHIFT、440人の採用ストップとAI活用で10年分スキルを習得へ](https://ai-tech-times.web.app/articles/20260824-shift-stops-hiring-and-adopts-ai.html) — 2026-08-24 17:04: ソフトウエアテストを主力事業としてきたSHIFTが、AIの普及に伴う事業構造の転換を迫られ、440人の採用ストップと人材ポートフォリオの総見直しに動き出しました。
 - [Sakana AI、防衛省の「情報分析」支援で契約締結](https://ai-tech-times.web.app/articles/20260824-sakana-ai-defense-ministry-contract.html) — 2026-08-24 17:04: AIベンチャーのSakana AIが、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表しました。自衛隊の指揮統制システム高度化に続く取り組みとなります。
-- [Linkdazeスマートカレンダー、AI献立作成が無料の理由](https://ai-tech-times.web.app/articles/20260824-linkdaze-smart-calendar-household.html) — 2026-08-24 17:04: TechCrunchの報道によると、家庭の管理に特化したLinkdazeのスマートデジタルカレンダーが注目を集めています。有料壁を設けず、AIによる献立作成ツールなどの機能を提供しているのが特徴です。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
 - 2位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
-- 3位: [Tones And I - Dance Monkey (Lyrics)](https://www.youtube.com/watch?v=_8Ioys36yFA)
+- 3位: [ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice](https://www.youtube.com/watch?v=bPjrHu60278)
 
-## AI用語事典 (全1081語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1082語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
