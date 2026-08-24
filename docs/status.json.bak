@@ -1,55 +1,26 @@
 {
- "updated": "2026-08-24 21:03",
- "mode": "フル便",
+ "updated": "2026-08-24 22:03",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Linux創始者Linus TorvaldsがAIと挑んだ難解バグ",
-   "path": "/articles/20260824-linus-torvalds-ai-debugging-session.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "立命館・上原教授が警告：中古PC購入の“亡霊”リスク",
-   "path": "/articles/20260824-used-pc-risk-uehara.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Rockstar GamesのGTA VI、発売日が11月19日に再延期",
-   "path": "/articles/20260824-gta-6-release-date-delayed.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "損保ジャパン、来年1月に自動車保険料平均5％引き上げへ",
-   "path": "/articles/20260824-sompo-japan-auto-insurance-rate-hike.html",
+   "title": "木原官房長官、ICC赤根所長へ必要な支援行う方針",
+   "path": "/articles/20260824-kihara-icc-akane-support.html",
    "cat": "時事・世界"
   },
   {
-   "title": "トランプ政権のICC制裁、超党派議連が即時撤回要求",
-   "path": "/articles/20260824-icc-sanctions-bipartisan-statement.html",
+   "title": "米財務長官、イランへ史上最大の経済制裁を示唆",
+   "path": "/articles/20260824-us-treasury-secretary-iran-financial-offensive.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "ソフトバンクG株5000円割れ、英アーム株安が波及",
-   "path": "/articles/20260824-softbankg-arm-stock-price-drop.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "サンリオ、GENDAと業務提携 北米市場シェア10％獲得へタッグ",
-   "path": "/articles/20260824-sanrio-genda-business-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
-  "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
+  "title": "NCT 127 엔시티 127 'Blingy' MV",
+  "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y"
  },
- "notes": [
-  "執筆失敗: Alibaba launches Wan3.0, a video generat",
-  "執筆失敗: 韓国・元警察幹部を収賄罪などで起訴…有名インフルエンサーの詐欺事件を「もみ消し」",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 159,
+  "used": 164,
   "limit": 200
  }
 }
