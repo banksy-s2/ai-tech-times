@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [General Intuition、ロボット分野展開で60億ドル評価へ](https://ai-tech-times.web.app/articles/20260825-general-intuition-6b-valuation-robotics.html) — 2026-08-25 07:02: AIエージェントの空間移動を学習させる基盤モデルを開発するGeneral Intuitionが、新規投資家らと60億ドルの事前評価額での資金調達に向けた協議を進めていることが明らかになりました。
+- [OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか](https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html) — 2026-08-25 07:02: OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。
+- [Bun 1.4正式リリース、Rust移植でPlaywright動作](https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html) — 2026-08-25 07:02: サーバサイドJavaScriptランタイムの最新版「Bun 1.4」が正式リリースされました。Rustへの移植により、Node.jsとの互換性が向上しています。
+- [アンソロピック、Claude Academyを日本語対応にした理由は](https://ai-tech-times.web.app/articles/20260825-anthropic-claude-academy-japanese.html) — 2026-08-25 07:02: アンソロピックは、AIの使い方を学べる「Claude Academy」の日本語対応を発表しました。業務での活用法はどう変わるのでしょうか。
+- [Amazonがハードウェア価格を60%値上げ、メモリー不足の影響](https://ai-tech-times.web.app/articles/20260825-amazon-hikes-hardware-prices-60-percent.html) — 2026-08-25 07:02: 世界的なメモリー不足の影響を受け、Amazonがハードウェア製品の価格を60%引き上げる方針を発表しました。消費者の財布にも直接関わる値上げの背景とは何でしょうか。
+- [Nvidia社員が中国へのAIサーバー密輸に関与して起訴](https://ai-tech-times.web.app/articles/20260825-nvidia-manager-linked-to-supermicro-smuggling-scheme.html) — 2026-08-25 07:02: Nvidiaのシニアマネージャーが、SupermicroのAIサーバーを中国へ不正に密輸するスキームに関与していたとして起訴されました。
+- [カノックスター、美人妻と2人で1週間5キロ超減](https://ai-tech-times.web.app/articles/20260825-kanoxstar-diet-report.html) — 2026-08-25 07:02: 登録者数225万人を誇る人気YouTuberのカノックスターが、顔出し美人妻と共に激太りしたことを報告し、1週間で2人で計5キロ超の減量に成功したことを明かしました。
+- [トランプ大統領、カナダ自動車追加関税50％への引き上げを表明](https://ai-tech-times.web.app/articles/20260825-trump-canada-auto-tariff-50-percent.html) — 2026-08-25 07:02: アメリカのトランプ大統領は24日、カナダからの輸入車などに対する追加関税を来年1月から50％に引き上げると表明しました。
+- [イオンモール爆発事故、運営会社が遺族に事実と異なる説明をした理由](https://ai-tech-times.web.app/articles/20260825-aeon-mall-explosion-incident.html) — 2026-08-25 07:02: 「イオンモール熊本」で起きた爆発事故をめぐり、雑貨店の運営会社が遺族に対して事実とは異なる説明を行っていたことが分かりました。なぜこのような説明がなされたのか、その経緯が注目されています。
+- [プライム上場企業、男性の社内取締役が初の半数割れ](https://ai-tech-times.web.app/articles/20260825-prime-listed-companies-board-directors.html) — 2026-08-25 07:02: プライム上場企業において、男性の社内取締役の割合が初めて半数を割ったことが明らかになりました。一方で、女性の社外取締役は最多を更新しています。
 - [ＧＥＮＤＡ、サンリオと業務提携](https://ai-tech-times.web.app/articles/20260825-genda-sanrio-business-alliance.html) — 2026-08-25 06:00: ＧＥＮＤＡは、サンリオとの間で業務提携を締結したと発表しました。
 - [EU、ウクライナ支援1兆円承認の理由](https://ai-tech-times.web.app/articles/20260825-eu-ukraine-support-1-trillion-yen.html) — 2026-08-25 04:00: ロシアによるウクライナへの軍事侵攻から4年半となった24日、ヨーロッパの国々が相次いで軍事支援を表明しました。
 - [ニュージーランド、16歳未満のSNS禁止法案提出へ](https://ai-tech-times.web.app/articles/20260825-nz-under-16s-social-media-ban.html) — 2026-08-25 04:00: ニュージーランド政府は、16歳未満を対象としたSNSの利用禁止法案を導入する方針を示しました。しかし、議会内からは実効性を疑問視する反対意見も出ています。
@@ -32,23 +42,13 @@
 - [ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか](https://ai-tech-times.web.app/articles/20260825-nora-ai-security-countermeasures.html) — 2026-08-25 01:00: 社内の誰がどのAIを使っているのか正確に把握できず、問題が事後に発覚するケースが相次いでいます。約500社の商談分析から、野良AIの実態と現実的な付き合い方を探ります。
 - [木原官房長官、ICC赤根所長へ必要な支援行う方針](https://ai-tech-times.web.app/articles/20260824-kihara-icc-akane-support.html) — 2026-08-24 22:00: アメリカのトランプ政権がICCの赤根智子所長を制裁対象に加えると発表したことを受け、木原官房長官は緊密に意思疎通を図り必要な支援を行うと表明しました。
 - [米財務長官、イランへ史上最大の経済制裁を示唆](https://ai-tech-times.web.app/articles/20260824-us-treasury-secretary-iran-financial-offensive.html) — 2026-08-24 22:00: アメリカのスコット・ベッセント財務長官は、イランに対してこれまでで最大規模の金融攻勢を展開すると明らかにしました。経済的な結びつきを断ち切る方針を示しています。
-- [Linux創始者Linus TorvaldsがAIと挑んだ難解バグ](https://ai-tech-times.web.app/articles/20260824-linus-torvalds-ai-debugging-session.html) — 2026-08-24 21:03: Linuxカーネルの生みの親であるLinus Torvaldsが、AIを相棒にしてIntel Xeグラフィックスドライバのバグ修正に挑んだ全記録が公開されました。
-- [立命館・上原教授が警告：中古PC購入の“亡霊”リスク](https://ai-tech-times.web.app/articles/20260824-used-pc-risk-uehara.html) — 2026-08-24 21:03: PC価格の値上がりにより中古PCの活用が注目されていますが、そこには「前の持ち主の亡霊」とも言えるリスクが潜んでいると専門家が指摘しています。
-- [Rockstar GamesのGTA VI、発売日が11月19日に再延期](https://ai-tech-times.web.app/articles/20260824-gta-6-release-date-delayed.html) — 2026-08-24 21:03: 「GTA V」の発売から10年以上が経過し、続編となる「GTA VI」の開発が進められていますが、開発元による発売日の再延期が発表されました。
-- [損保ジャパン、来年1月に自動車保険料平均5％引き上げへ](https://ai-tech-times.web.app/articles/20260824-sompo-japan-auto-insurance-rate-hike.html) — 2026-08-24 21:03: AI TECH TIMESの報道によれば、損害保険大手の損害保険ジャパンは、来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。
-- [トランプ政権のICC制裁、超党派議連が即時撤回要求](https://ai-tech-times.web.app/articles/20260824-icc-sanctions-bipartisan-statement.html) — 2026-08-24 21:03: アメリカのトランプ政権が国際刑事裁判所（ICC）の赤根智子所長を制裁対象に加えたことを受け、超党派の議員連盟が日本政府による明確な抗議と制裁の即時撤回を求める非難声明を議決しました。
-- [ソフトバンクG株5000円割れ、英アーム株安が波及](https://ai-tech-times.web.app/articles/20260824-softbankg-arm-stock-price-drop.html) — 2026-08-24 21:03: 24日の株式市場において、ソフトバンクグループの株価が5000円を割り込みました。英アームの株安が波及した形です。
-- [サンリオ、GENDAと業務提携 北米市場シェア10％獲得へタッグ](https://ai-tech-times.web.app/articles/20260824-sanrio-genda-business-alliance.html) — 2026-08-24 21:03: サンリオは、GENDAと業務提携を発表しました。両社は北米市場シェア10％の獲得を目指してタッグを組みます。
-- [LuppetXが無料化、商用利用制限なしで使える理由とは](https://ai-tech-times.web.app/articles/20260824-luppetx-free-commercial-use.html) — 2026-08-24 20:01: VTuber向けトラッキングシステム「LuppetX」が無料化され、商用利用の制限もなくなりました。Mogura VRが報じています。
-- [アリババ、AI投資へ102億ドル株発行で株価10%急落](https://ai-tech-times.web.app/articles/20260824-alibaba-share-placement-drop-ai.html) — 2026-08-24 19:01: 中国の巨大テック企業アリババが、成長するAI投資の資金を調達するために102億ドルの株式発行を発表し、株価が10%急落しました。
-- [NVIDIAがAI関連製品を15％以上値上げ、その影響とは](https://ai-tech-times.web.app/articles/20260824-nvidia-price-hike-ai-related-products.html) — 2026-08-24 18:01: NVIDIAが大手顧客に対して、AI関連製品を15％以上値上げすると通知したことが明らかになりました。「Vera Rubin」や「Grace Blackwell」などのAIチップ搭載サーバーが対象となります。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
-- 2位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
-- 3位: [LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18](https://www.youtube.com/watch?v=e4-Xhgm8qCw)
+- 2位: [LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18](https://www.youtube.com/watch?v=e4-Xhgm8qCw)
+- 3位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
 
-## AI用語事典 (全1082語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1088語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,17 +56,17 @@
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカ合衆国に本拠を置く、画像処理半導体（GPU）やAI向けチップの開発・供給で世界をリードする大手半導体企業。
-- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
+- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発・提供する高性能な対話型AIアシスタントであり、ビジネスや日常業務で広く活用されている。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
+- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
-- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
@@ -78,7 +78,7 @@
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
-- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): 米国の著名なテクノロジー専門ニュースメディアであり、最新のAI動向やスタートアップ情報を報じています。
+- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

@@ -1,17 +1,21 @@
 {
- "updated": "2026-08-25 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-08-25 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "ＧＥＮＤＡ、サンリオと業務提携",
+   "path": "/articles/20260825-genda-sanrio-business-alliance.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
- "notes": [
-  "執筆失敗: 日経平均488円安 NVIDIA決算控えAI小休止、狙い目はコンテンツ株 - 日"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 26,
   "limit": 200
  }
 }

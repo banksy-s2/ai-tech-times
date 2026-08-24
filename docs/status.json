@@ -1,10 +1,55 @@
 {
- "updated": "2026-08-25 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-25 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ＧＥＮＤＡ、サンリオと業務提携",
-   "path": "/articles/20260825-genda-sanrio-business-alliance.html",
+   "title": "General Intuition、ロボット分野展開で60億ドル評価へ",
+   "path": "/articles/20260825-general-intuition-6b-valuation-robotics.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか",
+   "path": "/articles/20260825-openai-ai-agents-for-everything.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Bun 1.4正式リリース、Rust移植でPlaywright動作",
+   "path": "/articles/20260825-bun-1-4-rust-release.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アンソロピック、Claude Academyを日本語対応にした理由は",
+   "path": "/articles/20260825-anthropic-claude-academy-japanese.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Amazonがハードウェア価格を60%値上げ、メモリー不足の影響",
+   "path": "/articles/20260825-amazon-hikes-hardware-prices-60-percent.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Nvidia社員が中国へのAIサーバー密輸に関与して起訴",
+   "path": "/articles/20260825-nvidia-manager-linked-to-supermicro-smuggling-scheme.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "カノックスター、美人妻と2人で1週間5キロ超減",
+   "path": "/articles/20260825-kanoxstar-diet-report.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "トランプ大統領、カナダ自動車追加関税50％への引き上げを表明",
+   "path": "/articles/20260825-trump-canada-auto-tariff-50-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イオンモール爆発事故、運営会社が遺族に事実と異なる説明をした理由",
+   "path": "/articles/20260825-aeon-mall-explosion-incident.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "プライム上場企業、男性の社内取締役が初の半数割れ",
+   "path": "/articles/20260825-prime-listed-companies-board-directors.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +57,13 @@
   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 東証大引け 日経平均は続落、488円安 日米金利上昇と韓国株安で - 日本経済新",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 26,
+  "used": 51,
   "limit": 200
  }
 }
