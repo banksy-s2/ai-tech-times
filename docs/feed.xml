@@ -5,6 +5,62 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Linux創始者Linus TorvaldsがAIと挑んだ難解バグ</title>
+<link>https://ai-tech-times.web.app/articles/20260824-linus-torvalds-ai-debugging-session.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-linus-torvalds-ai-debugging-session.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Linuxカーネルの生みの親であるLinus Torvaldsが、AIを相棒にしてIntel Xeグラフィックスドライバのバグ修正に挑んだ全記録が公開されました。</description>
+</item>
+<item>
+<title>立命館・上原教授が警告：中古PC購入の“亡霊”リスク</title>
+<link>https://ai-tech-times.web.app/articles/20260824-used-pc-risk-uehara.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-used-pc-risk-uehara.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>PC価格の値上がりにより中古PCの活用が注目されていますが、そこには「前の持ち主の亡霊」とも言えるリスクが潜んでいると専門家が指摘しています。</description>
+</item>
+<item>
+<title>Rockstar GamesのGTA VI、発売日が11月19日に再延期</title>
+<link>https://ai-tech-times.web.app/articles/20260824-gta-6-release-date-delayed.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-gta-6-release-date-delayed.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>「GTA V」の発売から10年以上が経過し、続編となる「GTA VI」の開発が進められていますが、開発元による発売日の再延期が発表されました。</description>
+</item>
+<item>
+<title>損保ジャパン、来年1月に自動車保険料平均5％引き上げへ</title>
+<link>https://ai-tech-times.web.app/articles/20260824-sompo-japan-auto-insurance-rate-hike.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-sompo-japan-auto-insurance-rate-hike.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>AI TECH TIMESの報道によれば、損害保険大手の損害保険ジャパンは、来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。</description>
+</item>
+<item>
+<title>トランプ政権のICC制裁、超党派議連が即時撤回要求</title>
+<link>https://ai-tech-times.web.app/articles/20260824-icc-sanctions-bipartisan-statement.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-icc-sanctions-bipartisan-statement.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのトランプ政権が国際刑事裁判所（ICC）の赤根智子所長を制裁対象に加えたことを受け、超党派の議員連盟が日本政府による明確な抗議と制裁の即時撤回を求める非難声明を議決しました。</description>
+</item>
+<item>
+<title>ソフトバンクG株5000円割れ、英アーム株安が波及</title>
+<link>https://ai-tech-times.web.app/articles/20260824-softbankg-arm-stock-price-drop.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-softbankg-arm-stock-price-drop.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>24日の株式市場において、ソフトバンクグループの株価が5000円を割り込みました。英アームの株安が波及した形です。</description>
+</item>
+<item>
+<title>サンリオ、GENDAと業務提携 北米市場シェア10％獲得へタッグ</title>
+<link>https://ai-tech-times.web.app/articles/20260824-sanrio-genda-business-alliance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260824-sanrio-genda-business-alliance.html</guid>
+<pubDate>Mon, 24 Aug 2026 21:03:00 +0900</pubDate>
+<category>日本企業</category>
+<description>サンリオは、GENDAと業務提携を発表しました。両社は北米市場シェア10％の獲得を目指してタッグを組みます。</description>
+</item>
+<item>
 <title>LuppetXが無料化、商用利用制限なしで使える理由とは</title>
 <link>https://ai-tech-times.web.app/articles/20260824-luppetx-free-commercial-use.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260824-luppetx-free-commercial-use.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Mon, 24 Aug 2026 11:00:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>SNSなどの情報を頼りに投資を行い、大きな損失を出してしまうケースが後を絶ちません。今回は、インフルエンサーの発言を信じて米国株を購入し、資産が大幅に目減りしてしまった34歳男性の事例についてお伝えします。</description>
-</item>
-<item>
-<title>Waymo、ロボタクシーの未来を加速させる独自チップ開発の狙い</title>
-<link>https://ai-tech-times.web.app/articles/20260824-techcrunch-mobility-waymo-robotaxi.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-techcrunch-mobility-waymo-robotaxi.html</guid>
-<pubDate>Mon, 24 Aug 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>「TechCrunch Mobility」の最新情報をお届けします。モビリティ業界の未来に迫るニュースとインサイトをご紹介します。</description>
-</item>
-<item>
-<title>Flock SafetyのCEO、監視技術への反発に妥協を訴え</title>
-<link>https://ai-tech-times.web.app/articles/20260824-flock-ceo-calls-for-compromise.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-flock-ceo-calls-for-compromise.html</guid>
-<pubDate>Mon, 24 Aug 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>監視技術を提供するFlock Safetyが、技術の悪用を懸念する声の高まりに直面し、CEOが妥協を呼びかけています。</description>
-</item>
-<item>
-<title>アクセンチュア調査：日本企業のAI投資で成果13％の壁</title>
-<link>https://ai-tech-times.web.app/articles/20260824-accenture-ai-investment-japan.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-accenture-ai-investment-japan.html</guid>
-<pubDate>Mon, 24 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>アクセンチュアの調査によれば、日本企業の78％がAI投資拡大に意欲を示す一方、全社的な成果を実感する企業は13％にとどまることが分かりました。</description>
-</item>
-<item>
-<title>ニトリ、「社内用語」の壁を破るAI分析の仕組み</title>
-<link>https://ai-tech-times.web.app/articles/20260824-nitori-ai-analysis-internal-terms.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-nitori-ai-analysis-internal-terms.html</guid>
-<pubDate>Mon, 24 Aug 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIによるデータ分析を阻む「社内用語」の壁に対し、ニトリが地道な作業の積み重ねで誰もが使いやすい基盤を作り上げました。</description>
-</item>
-<item>
-<title>テック系メディア報じる、著作物AI学習は合法か</title>
-<link>https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-is-it-legal-to-train-ai-models-on-copyrighted-books.html</guid>
-<pubDate>Mon, 24 Aug 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>多くの作家が無断で自身の著作物をAI開発に利用されている現状について、テック系メディアのTechCrunch AIが報じました。</description>
-</item>
-<item>
-<title>謎の新型AI「Ox Alpha」登場、その開発元はどこなのか</title>
-<link>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-ox-alpha-stealth-model.html</guid>
-<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>インターネットの一部で大きな話題となっている謎の新型AIモデル「Ox Alpha」。突如として現れたこのモデルの裏で、誰が開発に関わっているのか憶測が飛び交っています。</description>
-</item>
-<item>
-<title>Slack、開発チームの議論から自動コーディングする「Slack Code」登場</title>
-<link>https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260824-slack-code-ai-agent.html</guid>
-<pubDate>Mon, 24 Aug 2026 07:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Salesforce傘下のSlack社は、開発チームの一員としてAIエージェントがチャットに参加し、議論を把握してコーディングやドキュメント作成を行う新機能「Slack Code」の提供を開始しました。</description>
 </item>
 </channel></rss>

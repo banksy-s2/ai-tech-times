@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-24 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-24 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "アリババ、AI投資へ102億ドル株発行で株価10%急落",
-   "path": "/articles/20260824-alibaba-share-placement-drop-ai.html",
-   "cat": "シリコンバレー最速"
+   "title": "LuppetXが無料化、商用利用制限なしで使える理由とは",
+   "path": "/articles/20260824-luppetx-free-commercial-use.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 135,
+  "used": 138,
   "limit": 200
  }
 }

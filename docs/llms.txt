@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 20:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-24 21:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Linux創始者Linus TorvaldsがAIと挑んだ難解バグ](https://ai-tech-times.web.app/articles/20260824-linus-torvalds-ai-debugging-session.html) — 2026-08-24 21:03: Linuxカーネルの生みの親であるLinus Torvaldsが、AIを相棒にしてIntel Xeグラフィックスドライバのバグ修正に挑んだ全記録が公開されました。
+- [立命館・上原教授が警告：中古PC購入の“亡霊”リスク](https://ai-tech-times.web.app/articles/20260824-used-pc-risk-uehara.html) — 2026-08-24 21:03: PC価格の値上がりにより中古PCの活用が注目されていますが、そこには「前の持ち主の亡霊」とも言えるリスクが潜んでいると専門家が指摘しています。
+- [Rockstar GamesのGTA VI、発売日が11月19日に再延期](https://ai-tech-times.web.app/articles/20260824-gta-6-release-date-delayed.html) — 2026-08-24 21:03: 「GTA V」の発売から10年以上が経過し、続編となる「GTA VI」の開発が進められていますが、開発元による発売日の再延期が発表されました。
+- [損保ジャパン、来年1月に自動車保険料平均5％引き上げへ](https://ai-tech-times.web.app/articles/20260824-sompo-japan-auto-insurance-rate-hike.html) — 2026-08-24 21:03: AI TECH TIMESの報道によれば、損害保険大手の損害保険ジャパンは、来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。
+- [トランプ政権のICC制裁、超党派議連が即時撤回要求](https://ai-tech-times.web.app/articles/20260824-icc-sanctions-bipartisan-statement.html) — 2026-08-24 21:03: アメリカのトランプ政権が国際刑事裁判所（ICC）の赤根智子所長を制裁対象に加えたことを受け、超党派の議員連盟が日本政府による明確な抗議と制裁の即時撤回を求める非難声明を議決しました。
+- [ソフトバンクG株5000円割れ、英アーム株安が波及](https://ai-tech-times.web.app/articles/20260824-softbankg-arm-stock-price-drop.html) — 2026-08-24 21:03: 24日の株式市場において、ソフトバンクグループの株価が5000円を割り込みました。英アームの株安が波及した形です。
+- [サンリオ、GENDAと業務提携 北米市場シェア10％獲得へタッグ](https://ai-tech-times.web.app/articles/20260824-sanrio-genda-business-alliance.html) — 2026-08-24 21:03: サンリオは、GENDAと業務提携を発表しました。両社は北米市場シェア10％の獲得を目指してタッグを組みます。
 - [LuppetXが無料化、商用利用制限なしで使える理由とは](https://ai-tech-times.web.app/articles/20260824-luppetx-free-commercial-use.html) — 2026-08-24 20:01: VTuber向けトラッキングシステム「LuppetX」が無料化され、商用利用の制限もなくなりました。Mogura VRが報じています。
 - [アリババ、AI投資へ102億ドル株発行で株価10%急落](https://ai-tech-times.web.app/articles/20260824-alibaba-share-placement-drop-ai.html) — 2026-08-24 19:01: 中国の巨大テック企業アリババが、成長するAI投資の資金を調達するために102億ドルの株式発行を発表し、株価が10%急落しました。
 - [NVIDIAがAI関連製品を15％以上値上げ、その影響とは](https://ai-tech-times.web.app/articles/20260824-nvidia-price-hike-ai-related-products.html) — 2026-08-24 18:01: NVIDIAが大手顧客に対して、AI関連製品を15％以上値上げすると通知したことが明らかになりました。「Vera Rubin」や「Grace Blackwell」などのAIチップ搭載サーバーが対象となります。
@@ -35,20 +42,13 @@
 - [アンドパッド、東京ガスら3社と資本業務提携で建設AI拡大](https://ai-tech-times.web.app/articles/20260824-andpad-capital-business-alliance-construction-ai.html) — 2026-08-24 17:04: 「AI TECH TIMES」がお伝えする企業の最新動向。アンドパッドが東京ガス、ダイキン、カインズの3社と資本業務提携を締結し、建設バーティカルAIの拡大を目指すと発表しました。
 - [スズキ初の軽乗用車EV公開、今後の普及は](https://ai-tech-times.web.app/articles/20260824-suzuki-kei-ev-release.html) — 2026-08-24 15:00: 大手自動車メーカーのスズキが、会社として初となる軽乗用車のEVを公開しました。この秋にも発売する方針ですが、今後の市場での普及はどうなるのでしょうか。
 - [SHEIN、香港上場へ約27億ドルの評価額](https://ai-tech-times.web.app/articles/20260824-shein-hong-kong-stock-market-debut.html) — 2026-08-24 13:00: ファストファッション大手のSHEINが、香港での株式公開に向けて約27億ドルの評価額を目指していることが明らかになりました。株取引の開始日は9月1日に予定されています。
-- [NASA、従来型超えの次世代宇宙望遠鏡を打ち上げへ](https://ai-tech-times.web.app/articles/20260824-nasa-next-gen-space-telescope.html) — 2026-08-24 13:00: NASA＝アメリカ航空宇宙局は、今月すえにも従来の100倍余り広い視野を持つ次世代の宇宙望遠鏡を打ち上げます。
-- [Claude CodeがGitHub Copilotを逆転し約2倍差の1位、プロ開発者の90％が週1回以上利用する理由](https://ai-tech-times.web.app/articles/20260824-claude-code-overtakes-github-copilot.html) — 2026-08-24 12:01: JetBrains Researchが発表した調査結果によると、プロの開発者の90％がAIコーディングエージェントを週1回以上利用していることが明らかになりました。中でもClaude Codeが急上昇し、GitHub Copilotを逆転して約2倍差の1位となっています。
-- [カインズ、AIの口コミ代筆で直面した「ユーザーの声」の壁](https://ai-tech-times.web.app/articles/20260824-cainz-ai-review-feature.html) — 2026-08-24 12:01: カインズはユーザーによる口コミ投稿の作文をAIでサポートする機能を開発しました。「AI代筆の文章はユーザーの声なのか」という問いにどう向き合ったのでしょうか。
-- [債券市場の利回り上昇が株式市場を揺らす中、AI株とリテール株はどうなるのか](https://ai-tech-times.web.app/articles/20260824-rising-yields-ai-retail-stocks.html) — 2026-08-24 12:01: 今週の株式市場は債券市場の動向に大きく影響を受けました。市場が動揺する中でも、注目のAI株とリテール株に対する投資姿勢についてCNBC Techが報じています。
-- [CNBC Tech：企業が模索する労働者との信頼関係](https://ai-tech-times.web.app/articles/20260824-americas-ai-backlash-worker-trust.html) — 2026-08-24 12:01: 米CNBC Techより、企業内におけるAI導入と労働者の信頼維持の動きに関する最新の動向が伝えられました。AIを活用する企業文化の変革において、信頼関係の構築がどのように進化しているのかが注目されています。
-- [りくりゅうペア婚約発表、ファンから祝福の声](https://ai-tech-times.web.app/articles/20260824-rikuryu-engagement-announcement.html) — 2026-08-24 12:01: 今年2月のミラノ・コルティナ五輪で金メダルを獲得した“りくりゅうペア”の木原龍一氏と三浦璃来さんが、インスタグラムで婚約を発表しました。
-- [ウクライナのゼレンスキー大統領、ロシアの年間1300発ミサイル増産に警戒](https://ai-tech-times.web.app/articles/20260824-zelenskyy-warns-russian-missile-production.html) — 2026-08-24 12:01: ウクライナのゼレンスキー大統領は、ロシアが今後、弾道ミサイルを年間最大1300発規模で生産する可能性があるとして強い警戒感を示しました。これを受け、各国に対して迎撃ミサイルの迅速な供与を強く呼びかけています。
 
 ## 世界のバズ動画TOP3 (2026-08-24)
-- 1位: [CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer](https://www.youtube.com/watch?v=OhdvNHmJDsw)
+- 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
 - 2位: [Stray Kids "After You" Video](https://www.youtube.com/watch?v=thHxtnJf9HA)
-- 3位: [PACK IT UP](https://www.youtube.com/watch?v=Eg4-vCHc7eQ)
+- 3位: [BIGBANG - ‘BiiiG’ DANCE PRACTICE](https://www.youtube.com/watch?v=B5u8JiGVI_k)
 
-## AI用語事典 (全1072語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1079語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -68,9 +68,9 @@
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
+- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 日本の東京都に本社を置く、世界的規模の投資事業などを展開する持株会社。多くの先端企業を傘下に持つ。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
