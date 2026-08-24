@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-25 04:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "EU、ウクライナ支援1兆円承認の理由",
-   "path": "/articles/20260825-eu-ukraine-support-1-trillion-yen.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ニュージーランド、16歳未満のSNS禁止法案提出へ",
-   "path": "/articles/20260825-nz-under-16s-social-media-ban.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-08-25 05:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 日経平均488円安 NVIDIA決算控えAI小休止、狙い目はコンテンツ株 - 日"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 18,
+  "used": 22,
   "limit": 200
  }
 }

@@ -57807,5 +57807,44 @@
   "date": "2026-08-25",
   "time": "04:00",
   "path": "/articles/20260825-nz-under-16s-social-media-ban.html"
+ },
+ {
+  "title": "ＧＥＮＤＡ、サンリオと業務提携",
+  "lead": "ＧＥＮＤＡは、サンリオとの間で業務提携を締結したと発表しました。",
+  "summary3": [
+   "ＧＥＮＤＡがサンリオと業務提携",
+   "詳細な提携内容は発表を参照",
+   "今後の事業展開に注目が集まる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。ＧＥＮＤＡは、サンリオと業務提携を行うことを明らかにしました。",
+   "今回の業務提携に関する詳細な情報については、ウエルスアドバイザーおよびYahoo!ファイナンスの配信記事にて公開されています。",
+   "企業間の新たな連携として、今後の事業展開や両社の取り組みに注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "ＧＥＮＤＡ",
+   "サンリオ",
+   "業務提携"
+  ],
+  "slug": "genda-sanrio-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ＧＥＮＤＡ",
+    "type": "company",
+    "desc": "国内外でエンターテインメント事業などを展開する企業です。"
+   },
+   {
+    "name": "サンリオ",
+    "type": "company",
+    "desc": "ハローキティなどのキャラクターグッズの企画・販売を行う企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjV2TGh3XzkzcUFJZTlybDF0NVY5T2g1RDg1QXhBV0VGNVVmNlpjc1hBS0dDY1Q2YkNfRWp3WnFOMHFPLWZzd0JPYURxWFNsRTlqRmlzN2hvTmFlMUdmekZXWmFVb21CSmhqSW1ycE9EVzRWUFZqbWlIcTIzQ1ExQUljVVdGTmM?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-25",
+  "time": "06:00",
+  "path": "/articles/20260825-genda-sanrio-business-alliance.html"
  }
 ]

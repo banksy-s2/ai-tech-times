@@ -3794,7 +3794,7 @@
    "id": "46h0LvDHgIs",
    "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
    "channel": "HYBE LABELS",
-   "views": 925721,
+   "views": 983810,
    "url": "https://www.youtube.com/watch?v=46h0LvDHgIs",
    "thumb": "https://i.ytimg.com/vi/46h0LvDHgIs/hqdefault.jpg",
    "regions": [
@@ -3811,7 +3811,7 @@
    "id": "BjFX1eugZ-Y",
    "title": "NCT 127 엔시티 127 'Blingy' MV",
    "channel": "SMTOWN",
-   "views": 631562,
+   "views": 662560,
    "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y",
    "thumb": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg",
    "regions": [
@@ -3825,26 +3825,10 @@
   },
   {
    "rank": 3,
-   "id": "bPjrHu60278",
-   "title": "ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice",
-   "channel": "ENHYPEN",
-   "views": 294467,
-   "url": "https://www.youtube.com/watch?v=bPjrHu60278",
-   "thumb": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "JP",
-    "KR",
-    "BR"
-   ],
-   "comment": "ENHYPENによる「Bloody Paradise」のダンス練習映像のようですね"
-  },
-  {
-   "rank": 4,
    "id": "e4-Xhgm8qCw",
    "title": "LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18",
    "channel": "Marvel Entertainment",
-   "views": 520751,
+   "views": 671922,
    "url": "https://www.youtube.com/watch?v=e4-Xhgm8qCw",
    "thumb": "https://i.ytimg.com/vi/e4-Xhgm8qCw/hqdefault.jpg",
    "regions": [
@@ -3855,11 +3839,26 @@
    "comment": "アベンジャーズ新作予告のレゴ版再現映像のようですね"
   },
   {
+   "rank": 4,
+   "id": "xp3mBhXY8Y8",
+   "title": "Ramba Oorvasi Menaka Trailer | Allari Naresh | Surbhi | Chandra Mohan | Annapurna Studios",
+   "channel": "Annapurna Studios",
+   "views": 478966,
+   "url": "https://www.youtube.com/watch?v=xp3mBhXY8Y8",
+   "thumb": "https://i.ytimg.com/vi/xp3mBhXY8Y8/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "comment": "アラリ・ナレシュらが出演する映画の予告編映像のようだ。"
+  },
+  {
    "rank": 5,
    "id": "_8Ioys36yFA",
    "title": "Tones And I - Dance Monkey (Lyrics)",
    "channel": "Lost Panda",
-   "views": 438221,
+   "views": 473450,
    "url": "https://www.youtube.com/watch?v=_8Ioys36yFA",
    "thumb": "https://i.ytimg.com/vi/_8Ioys36yFA/hqdefault.jpg",
    "regions": [
@@ -3871,10 +3870,25 @@
   },
   {
    "rank": 6,
+   "id": "bPjrHu60278",
+   "title": "ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice",
+   "channel": "ENHYPEN",
+   "views": 319151,
+   "url": "https://www.youtube.com/watch?v=bPjrHu60278",
+   "thumb": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP",
+    "KR"
+   ],
+   "comment": "ENHYPENによる「Bloody Paradise」のダンス練習映像のようですね"
+  },
+  {
+   "rank": 7,
    "id": "NI0rodDL-U8",
    "title": "Olivia Rodrigo - serena joy (Audio)",
    "channel": "OliviaRodrigoVEVO",
-   "views": 102241,
+   "views": 126462,
    "url": "https://www.youtube.com/watch?v=NI0rodDL-U8",
    "thumb": "https://i.ytimg.com/vi/NI0rodDL-U8/hqdefault.jpg",
    "regions": [
@@ -3885,25 +3899,11 @@
    "comment": "オリビア・ロドリゴの新曲音源が公開されているようです"
   },
   {
-   "rank": 7,
-   "id": "9gkBujJAkCk",
-   "title": "Huge GTA 6 Build Leak Threat Was Fake",
-   "channel": "penguinz0",
-   "views": 1503337,
-   "url": "https://www.youtube.com/watch?v=9gkBujJAkCk",
-   "thumb": "https://i.ytimg.com/vi/9gkBujJAkCk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "GTA 6の巨大ビルリーク脅威は嘘だったようだ"
-  },
-  {
    "rank": 8,
    "id": "BmRX2g6-iQI",
    "title": "Radhimaa (From \"Think Indie\")",
    "channel": "Sai Abhyankkar - Topic",
-   "views": 1060856,
+   "views": 1138489,
    "url": "https://www.youtube.com/watch?v=BmRX2g6-iQI",
    "thumb": "https://i.ytimg.com/vi/BmRX2g6-iQI/hqdefault.jpg",
    "regions": [
@@ -3914,10 +3914,24 @@
   },
   {
    "rank": 9,
+   "id": "jR3rWCBeO6M",
+   "title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Thejo Bharathwaj | Think Indie",
+   "channel": "Think Music India",
+   "views": 1040921,
+   "url": "https://www.youtube.com/watch?v=jR3rWCBeO6M",
+   "thumb": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "comment": "新曲「Radhimaa」のミュージックビデオが公開されたようです。"
+  },
+  {
+   "rank": 10,
    "id": "g9Q58A_k-HU",
    "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
    "channel": "ALPHA DRIVE ONE",
-   "views": 994936,
+   "views": 1017816,
    "url": "https://www.youtube.com/watch?v=g9Q58A_k-HU",
    "thumb": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg",
    "regions": [
@@ -3925,20 +3939,6 @@
     "KR"
    ],
    "comment": "ALPHA DRIVE ONEの新曲「BORN DIRE」のMVのようです。"
-  },
-  {
-   "rank": 10,
-   "id": "07S60wsY4SM",
-   "title": "Speedrunning Minecraft Skyfactory was a TERRIBLE Mistake",
-   "channel": "martincitopants",
-   "views": 915136,
-   "url": "https://www.youtube.com/watch?v=07S60wsY4SM",
-   "thumb": "https://i.ytimg.com/vi/07S60wsY4SM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "マインクラフトのスカイファクトリーRTAに関する動画のようです"
   }
  ]
 }
