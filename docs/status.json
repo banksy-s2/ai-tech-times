@@ -1,15 +1,55 @@
 {
- "updated": "2026-08-24 16:01",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-24 17:05",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "SHIFT、440人の採用ストップとAI活用で10年分スキルを習得へ",
+   "path": "/articles/20260824-shift-stops-hiring-and-adopts-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Sakana AI、防衛省の「情報分析」支援で契約締結",
+   "path": "/articles/20260824-sakana-ai-defense-ministry-contract.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Linkdazeスマートカレンダー、AI献立作成が無料の理由",
+   "path": "/articles/20260824-linkdaze-smart-calendar-household.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "VTuber天鬼ぷるるのコラボPC、GALLERIAから発売",
+   "path": "/articles/20260824-amak-pururu-galleria-collab-pc.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "消費者庁、SNSチャット勧誘にクーリング・オフ拡大案",
+   "path": "/articles/20260824-consumer-agency-cooling-off-sns-chat.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "SBG株価が“SON”で揺れる、エヌビディア決算の行方",
+   "path": "/articles/20260824-sbg-nvidia-earnings-son.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "アンドパッド、東京ガスら3社と資本業務提携で建設AI拡大",
+   "path": "/articles/20260824-andpad-capital-business-alliance-construction-ai.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
-  "title": "Stray Kids \"After You\" Video",
-  "url": "https://www.youtube.com/watch?v=thHxtnJf9HA"
+  "title": "CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer",
+  "url": "https://www.youtube.com/watch?v=OhdvNHmJDsw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Alibaba plunges after announcing $10.2 b",
+  "執筆失敗: Trump Mobile promoted a 'Made in the USA",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 105,
+  "used": 125,
   "limit": 200
  }
 }

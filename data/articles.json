@@ -56853,5 +56853,272 @@
   "date": "2026-08-24",
   "time": "15:00",
   "path": "/articles/20260824-suzuki-kei-ev-release.html"
+ },
+ {
+  "title": "SHIFT、440人の採用ストップとAI活用で10年分スキルを習得へ",
+  "lead": "ソフトウエアテストを主力事業としてきたSHIFTが、AIの普及に伴う事業構造の転換を迫られ、440人の採用ストップと人材ポートフォリオの総見直しに動き出しました。",
+  "summary3": [
+   "SHIFTが440人の採用をストップ",
+   "AI活用で10年分のスキルを1年で習得",
+   "テスト事業不要の懸念から構造改革へ"
+  ],
+  "body": [
+   "人工知能（AI）は、コーディングや不具合の検知まで担うようになってきました。ソフトウエアテストを主力事業としてきたSHIFTでは、「テスト事業は不要になるのではないか」という懸念が株式市場で広がっています。",
+   "こうした状況の中、同社はこれまでの成長モデルを自ら壊しに動き始めました。AI前提の事業構造へ舵を切り、人材ポートフォリオを総見直しすることになります。",
+   "今回の動きでは、440人の採用ストップという大きな判断が下されました。一方で、新卒はAIの活用により10年分のスキルを1年で習得するとしており、株価の下落を背景に新たな挑戦が進められています。"
+  ],
+  "tags": [
+   "SHIFT",
+   "AI",
+   "採用"
+  ],
+  "slug": "shift-stops-hiring-and-adopts-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "SHIFT",
+    "type": "company",
+    "desc": "ソフトウエアテストを主力事業として展開している企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://news.yahoo.co.jp/articles/a70d2624ce796056299a175b169d29d72a71b684",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-shift-stops-hiring-and-adopts-ai.html"
+ },
+ {
+  "title": "Sakana AI、防衛省の「情報分析」支援で契約締結",
+  "lead": "AIベンチャーのSakana AIが、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表しました。自衛隊の指揮統制システム高度化に続く取り組みとなります。",
+  "summary3": [
+   "Sakana AIが防衛省と契約締結",
+   "情報の分析業務を支援するAI開発",
+   "自衛隊の指揮統制システム高度化に続く"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Sakana AIは防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表しました。今回の発表は、自衛隊の指揮統制システム高度化に続く動きとなります。",
+   "防衛省では、増大する情報の迅速かつ的確な処理が求められています。先端的な技術を持つ外部企業との連携を通じて、情報分析の効率化や高度化を図る狙いがあるとみられます。",
+   "詳細な契約内容や開発スケジュールについては明らかにされていませんが、防衛分野におけるAI活用の動向として注目を集めそうです。AI TECH TIMESでは今後も関連する情報を伝えていきます。"
+  ],
+  "tags": [
+   "Sakana AI",
+   "防衛省",
+   "AI"
+  ],
+  "slug": "sakana-ai-defense-ministry-contract",
+  "people": [],
+  "terms": [
+   {
+    "name": "Sakana AI",
+    "type": "company",
+    "desc": "独自の自然言語処理技術や生成AIの研究開発を行う日本のAI関連企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
+  "category": "ai_jp",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-sakana-ai-defense-ministry-contract.html"
+ },
+ {
+  "title": "Linkdazeスマートカレンダー、AI献立作成が無料の理由",
+  "lead": "TechCrunchの報道によると、家庭の管理に特化したLinkdazeのスマートデジタルカレンダーが注目を集めています。有料壁を設けず、AIによる献立作成ツールなどの機能を提供しているのが特徴です。",
+  "summary3": [
+   "家庭運営向けのスマートカレンダー",
+   "主要機能やAI献立ツールが無料",
+   "TechCrunchがその特徴を報じた"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が海外メディアの報道を翻訳してお伝えします。米テックメディアのTechCrunchは、家庭の管理に特化したLinkdazeのスマートデジタルカレンダーに関する記事を報じました。",
+   "一般的なスケジュール管理ツールとは異なり、この製品は家庭全体を運営するための機能を備えている点が大きな特徴です。日々の予定を把握するだけでなく、家事や日々の生活をスムーズにするための設計がなされています。",
+   "さらに、多くのスマート家電やデジタルツールで有料プランに制限されがちな機能について、LinkdazeではAIを活用した献立作成ツールなどの便利な機能がペイウォール（有料壁）の背後に隠されることなく提供されています。追加費用を気にせずに高度な機能を利用できる点が、多くの家庭にとって魅力的な選択肢となりそうです。"
+  ],
+  "tags": [
+   "スマートカレンダー",
+   "AI",
+   "家事効率化"
+  ],
+  "slug": "linkdaze-smart-calendar-household",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、ITやスタートアップ企業、新技術に関するニュースを専門に報じる有力メディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+  "category": "silicon",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-linkdaze-smart-calendar-household.html"
+ },
+ {
+  "title": "VTuber天鬼ぷるるのコラボPC、GALLERIAから発売",
+  "lead": "VTuberの天鬼ぷるるさんとコラボレーションしたパソコンが、GALLERIAから発売されることが発表されました。録り下ろしシステムボイスも付属します。",
+  "summary3": [
+   "天鬼ぷるるのコラボPCが発売決定",
+   "ブランドはGALLERIAを展開",
+   "録り下ろしシステムボイスが付属"
+  ],
+  "body": [
+   "VTuber天鬼ぷるるさんのコラボレーションPCが、GALLERIAから発売されることが明らかになりました。ファン注目のアイテムとなっています。",
+   "今回のコラボPCには、録り下ろしシステムボイスが付属する仕様となっています。詳細はKAI-YOUなどの報道で伝えられています。"
+  ],
+  "tags": [
+   "天鬼ぷるる",
+   "GALLERIA",
+   "VTuber"
+  ],
+  "slug": "amak-pururu-galleria-collab-pc",
+  "people": [
+   {
+    "name": "天鬼ぷるる",
+    "bio": "YouTubeなどで活動を行っている人気VTuber。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "GALLERIA",
+    "type": "company",
+    "desc": "サードウェーブが展開するゲーミングPCブランドの名称。"
+   },
+   {
+    "name": "KAI-YOU",
+    "type": "company",
+    "desc": "ポップカルチャーに関する情報を発信する日本のメディア運営会社。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4MEhfTVhUN1ZZeWI1d3BfejFkbGZuMWwtMERyODgyZTN6VDh0LVFITUpRZlpEODdDQzZ5SVJQcTBqb3pnNFRKUA?oc=5",
+  "category": "influencer",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-amak-pururu-galleria-collab-pc.html"
+ },
+ {
+  "title": "消費者庁、SNSチャット勧誘にクーリング・オフ拡大案",
+  "lead": "インターネットでの悪質な勧誘によるトラブルが相次いでいることを受け、消費者庁の有識者検討会は、消費者の保護に向けた対策を盛り込んだ中間まとめの検討を進めています。",
+  "summary3": [
+   "インターネットでの悪質勧誘が相次ぐ",
+   "消費者庁検討会が対策を検討",
+   "SNSチャット勧誘へ拡大案"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。近年、インターネットを通じた悪質な勧誘による消費者トラブルが相次いで発生しており、大きな社会問題となっています。こうした状況に対応するため、消費者庁の有識者検討会では、消費者をしっかりと保護するための具体的な対策について議論が重ねられてきました。",
+   "今回の検討会では、これまでの規制を見直し、クーリング・オフの対象を新たにSNSのチャットでの勧誘にも拡大する案が浮上しています。近年はメッセージアプリなどのチャット機能を用いた巧妙な勧誘手法が増えており、被害を防ぐための実効性のあるルールの整備が急務となっています。",
+   "消費者庁は、こうした対策を盛り込んだ中間まとめに向けた検討を進めており、今後の動向に注目が集まっています。インターネットやSNSを利用した取引における消費者保護のあり方は、私たちの財布や生活を守るうえでも重要なテーマです。さらなる詳細や正式な決定事項については、今後の発表を引き続き確認していく必要があります。"
+  ],
+  "tags": [
+   "消費者庁",
+   "クーリングオフ",
+   "SNS"
+  ],
+  "slug": "consumer-agency-cooling-off-sns-chat",
+  "people": [],
+  "terms": [
+   {
+    "name": "消費者庁",
+    "type": "company",
+    "desc": "内閣府の外局として消費者利益の擁護や 独立行政法人などの行政事務を行う日本の行政機関。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260824de46006",
+  "category": "world",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-consumer-agency-cooling-off-sns-chat.html"
+ },
+ {
+  "title": "SBG株価が“SON”で揺れる、エヌビディア決算の行方",
+  "lead": "日経CNBC onlineの報道によると、迫るエヌビディア決算を背景に、“SON”で揺れるソフトバンクグループ（SBG）の株価動向が注目されています。",
+  "summary3": [
+   "迫るエヌビディア決算",
+   "“SON”で揺れるSBG株価",
+   "日経CNBC online報道"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日経CNBC onlineにおいて、迫るエヌビディア決算と、“SON”で揺れるソフトバンクグループ（SBG）の株価についての情報が伝えられています。",
+   "市場ではエヌビディアの決算発表が間近に迫っており、その動向が関連銘柄や株式市場全体にどのような影響を与えるのかに関心が集まっています。",
+   "また、同時に“SON”に関連する要因によってソフトバンクグループ（SBG）の株価が揺れ動く展開となっており、今後の推移が注目されています。"
+  ],
+  "tags": [
+   "SBG",
+   "エヌビディア",
+   "株式市場"
+  ],
+  "slug": "sbg-nvidia-earnings-son",
+  "people": [],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカの半導体大手企業であり、AI向けGPUで世界的なシェアを持つことで知られています。"
+   },
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "東京都に本社を置く、国内外のテクノロジー企業への投資を中心に行う持株会社です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjRGsxRUsxNzM3emxYREh5dW82UUhJanNlUnFIV0dJdnpRdTR0Y1hfVHRIblRoU2hRaTU1d1g1NUtrTmVRc1R4Qm02WGFJTDM3RzRXTQ?oc=5",
+  "category": "stock",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-sbg-nvidia-earnings-son.html"
+ },
+ {
+  "title": "アンドパッド、東京ガスら3社と資本業務提携で建設AI拡大",
+  "lead": "「AI TECH TIMES」がお伝えする企業の最新動向。アンドパッドが東京ガス、ダイキン、カインズの3社と資本業務提携を締結し、建設バーティカルAIの拡大を目指すと発表しました。",
+  "summary3": [
+   "アンドパッドが3社と資本業務提携",
+   "東京ガス・ダイキン・カインズが参画",
+   "建設バーティカルAIの拡大を図る"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じる最新の企業ニュースです。アンドパッドは、東京ガス、ダイキン工業、カインズの3社との間で資本業務提携を締結したことを明らかにしました。",
+   "今回の提携は、建設業界におけるバーティカルAI領域の拡大を目的として進められるものです。大手企業各社との連携により、どのような事業展開がなされるのか業界内でも注目を集めています。",
+   "建設分野特化型のAI活用が進む中、今回の資本業務提携によってアンドパッドが推進する建設バーティカルAIの取り組みがどのように加速していくのか、今後の動向に引き続き関心が集まりそうです。"
+  ],
+  "tags": [
+   "アンドパッド",
+   "資本業務提携",
+   "建設AI"
+  ],
+  "slug": "andpad-capital-business-alliance-construction-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "アンドパッド",
+    "type": "company",
+    "desc": "建設業界・建築業界向けのクラウド施工管理サービスなどを提供している日本の企業です。"
+   },
+   {
+    "name": "東京ガス",
+    "type": "company",
+    "desc": "日本最大手の都市ガス事業者であり、エネルギー供給や関連サービスを展開する企業です。"
+   },
+   {
+    "name": "ダイキン",
+    "type": "company",
+    "desc": "世界的なシェアを持つ日本の大手空調・フッ素化学メーカーです。"
+   },
+   {
+    "name": "カインズ",
+    "type": "company",
+    "desc": "日本全国で大型ホームセンターを展開する小売企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55ZEsxUkF6N3NkNkZCNzJBb1dhNWoyWHlJV3I0NTRJa0V1d1FKSGtCcS1sbERIY1RKSFZrdW8xMTNJenc2OWdueVhpa09PdHZPOHExUG5qOHpYX1VRb3hHa2hLTVRuaWpPR0RfZE9HQS10dw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-24",
+  "time": "17:04",
+  "path": "/articles/20260824-andpad-capital-business-alliance-construction-ai.html"
  }
 ]
