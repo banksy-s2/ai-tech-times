@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-25 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-25 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "乃木坂46、落雷で避難の客が戻る前に公演開始した理由",
-   "path": "/articles/20260825-nogizaka46-tour-lightning-incident.html",
-   "cat": "インフルエンサー"
+   "title": "EU、ウクライナ支援1兆円承認の理由",
+   "path": "/articles/20260825-eu-ukraine-support-1-trillion-yen.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ニュージーランド、16歳未満のSNS禁止法案提出へ",
+   "path": "/articles/20260825-nz-under-16s-social-media-ban.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 18,
   "limit": 200
  }
 }
