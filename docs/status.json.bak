@@ -1,55 +1,26 @@
 {
- "updated": "2026-08-24 17:05",
- "mode": "フル便",
+ "updated": "2026-08-24 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "SHIFT、440人の採用ストップとAI活用で10年分スキルを習得へ",
-   "path": "/articles/20260824-shift-stops-hiring-and-adopts-ai.html",
+   "title": "NVIDIAがAI関連製品を15％以上値上げ、その影響とは",
+   "path": "/articles/20260824-nvidia-price-hike-ai-related-products.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Sakana AI、防衛省の「情報分析」支援で契約締結",
-   "path": "/articles/20260824-sakana-ai-defense-ministry-contract.html",
+   "title": "トランプ政権のAIインフラ計画に共和党支持層が反発",
+   "path": "/articles/20260824-trump-ai-infrastructure-backlash.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Linkdazeスマートカレンダー、AI献立作成が無料の理由",
-   "path": "/articles/20260824-linkdaze-smart-calendar-household.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "VTuber天鬼ぷるるのコラボPC、GALLERIAから発売",
-   "path": "/articles/20260824-amak-pururu-galleria-collab-pc.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "消費者庁、SNSチャット勧誘にクーリング・オフ拡大案",
-   "path": "/articles/20260824-consumer-agency-cooling-off-sns-chat.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "SBG株価が“SON”で揺れる、エヌビディア決算の行方",
-   "path": "/articles/20260824-sbg-nvidia-earnings-son.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "アンドパッド、東京ガスら3社と資本業務提携で建設AI拡大",
-   "path": "/articles/20260824-andpad-capital-business-alliance-construction-ai.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "CORTIS (코르티스) ‘MONEYMONEYMONEY’ Official Visualizer",
   "url": "https://www.youtube.com/watch?v=OhdvNHmJDsw"
  },
- "notes": [
-  "執筆失敗: Alibaba plunges after announcing $10.2 b",
-  "執筆失敗: Trump Mobile promoted a 'Made in the USA",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 125,
+  "used": 131,
   "limit": 200
  }
 }
