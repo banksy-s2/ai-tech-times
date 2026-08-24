@@ -1,15 +1,26 @@
 {
- "updated": "2026-08-25 00:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-25 01:01",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "AmazonとTwitchがAI学習で配信者に訴えられる",
+   "path": "/articles/20260825-twitch-and-amazon-sued-over-ai-training.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか",
+   "path": "/articles/20260825-nora-ai-security-countermeasures.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
-  "title": "NCT 127 엔시티 127 'Blingy' MV",
-  "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y"
+  "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
+  "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 1,
+  "used": 5,
   "limit": 200
  }
 }

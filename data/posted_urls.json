@@ -1666,13 +1666,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260824de45976",
   "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
   "https://gigazine.net/news/20260824-twitch-sued-streamer-ai-training/",
-  "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html"
+  "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
+  "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+  "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html"
  ],
  "titles": [
-  "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-  "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-  "研究者10万人にOpenAI「最上位モデル」無料提供へ　日本でも東大、京大など15大学が対象",
-  "AmazonでAIのコストが壊滅的なレベルでかさんで予算を860％も超過した事例が報告される、Amazonは「小規模なケースだし2億円は誤差」と反論",
   "Sources: SoftBank gave $50M to Trump's library; Apple, Microsoft, and Amazon gave $25M, $10M, and $5M to his WH ballroom; Meta gave $10M to a pro-Trump group (Wall Street Journal)",
   "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
   "日銀 政策金利を1％程度に据え置き決定",
@@ -3668,6 +3666,10 @@
   "TwitchとAmazonがストリーマーのコンテンツをAIに学習させたとして訴えられる",
   "こんなところに野良AIが？　事例で解説、実際にあった2つの発覚パターンと防衛策",
   "AmazonとTwitchがAI学習で配信者に訴えられる",
-  "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか"
+  "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか",
+  "Hugging Face reportedly in talks to be acquired for $13B",
+  "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+  "Hugging Faceが130億ドル規模の買収交渉か、売却の行方は",
+  "ゴールドマン・サックスが警告、AIが将来の銀行員の思考力を奪う巨大な危険性"
  ]
 }

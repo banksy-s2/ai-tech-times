@@ -57570,5 +57570,77 @@
   "date": "2026-08-24",
   "time": "22:00",
   "path": "/articles/20260824-us-treasury-secretary-iran-financial-offensive.html"
+ },
+ {
+  "title": "AmazonとTwitchがAI学習で配信者に訴えられる",
+  "lead": "ライブ配信サービスのTwitchとその親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。自身の動画が勝手にAIのトレーニングに使われたことが問題視されています。",
+  "summary3": [
+   "TwitchとAmazonが配信者に訴えられる",
+   "動画が無断でAIのトレーニングに使用された",
+   "配信者のウォーレン・パンディシア氏が提訴"
+  ],
+  "body": [
+   "ライブ配信サービスの「Twitch」と、その親会社である「Amazon」に対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしたことが明らかになりました。パンディシア氏は、自身の動画が勝手にAIのトレーニングに使用されたことを問題視しています。",
+   "近年、AI開発におけるデータ収集を巡る著作権やプライバシーの問題が注目を集めています。今回の訴訟は、プラットフォーム側が配信者のコンテンツをどのように扱うべきかという点において、大きな波紋を呼ぶ可能性があります。",
+   "AI TECH TIMESでは、今後の裁判の行方や、両社からの公式な見解が発表され次第、引き続き詳細を報じていきます。"
+  ],
+  "tags": [
+   "Twitch",
+   "Amazon",
+   "AI"
+  ],
+  "slug": "twitch-and-amazon-sued-over-ai-training",
+  "people": [
+   {
+    "name": "ウォーレン・パンディシア氏",
+    "bio": "ライブ配信サービスのTwitchに対し集団訴訟を起こした配信者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Twitch",
+    "type": "company",
+    "desc": "アメリカのライブストリーミング配信プラットフォーム。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く世界最大手の総合オンライン小売企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260824-twitch-sued-streamer-ai-training/",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "01:00",
+  "path": "/articles/20260825-twitch-and-amazon-sued-over-ai-training.html"
+ },
+ {
+  "title": "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか",
+  "lead": "社内の誰がどのAIを使っているのか正確に把握できず、問題が事後に発覚するケースが相次いでいます。約500社の商談分析から、野良AIの実態と現実的な付き合い方を探ります。",
+  "summary3": [
+   "社内のAI利用状況を把握できている企業は少ない",
+   "野良AIの問題はたいてい事後に発覚する",
+   "約500社の商談分析から防衛策を解説する"
+  ],
+  "body": [
+   "社内の誰がどのAIを使っているのか、正確に把握できている企業は多くありません。生成AIの普及が進む一方で、管理が追いつかずにいわゆる「野良AI」が社内で使われる事例が発生しています。",
+   "しかもこうした問題は、たいてい事が起きた後の事後に発覚することが特徴です。約500社の商談分析と複数の実例を通じて、野良AIがいかにして見つかるのか、その具体的な2つの発覚パターンが浮かび上がってきました。",
+   "企業におけるAIの利活用が進む現代において、野良AIの存在はセキュリティやガバナンス上の大きな課題となります。実際の事例を参考にしながら、企業が取るべき現実的な防衛策を確認していく必要があります。"
+  ],
+  "tags": [
+   "生成AI",
+   "セキュリティ",
+   "ITmedia AI+"
+  ],
+  "slug": "nora-ai-security-countermeasures",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "01:00",
+  "path": "/articles/20260825-nora-ai-security-countermeasures.html"
  }
 ]
