@@ -58198,5 +58198,44 @@
   "date": "2026-08-25",
   "time": "07:02",
   "path": "/articles/20260825-prime-listed-companies-board-directors.html"
+ },
+ {
+  "title": "Samsungの本拠地で半導体予備校が大盛況の理由",
+  "lead": "世界最大級の半導体メーカーが拠点を置く韓国で、業界を目指す若者向けの予備校が盛況となっています。",
+  "summary3": [
+   "韓国で半導体予備校が大盛況",
+   "大手企業の好業績が背景に",
+   "イギリスの経済紙が報道"
+  ],
+  "body": [
+   "世界最大級の半導体メーカーであるSamsungやSK Hynixが本拠を置く韓国において、半導体業界への就職を目指す若者向けの「半導体予備校」が大盛況となっています。",
+   "この半導体予備校の内部の様子については、イギリスの経済紙であるフィナンシャル・タイムズによって報じられています。",
+   "SamsungとSK Hynixの記録的な業績や、魅力的な従業員ボーナスが、若者たちの半導体業界への関心を後押ししている形です。"
+  ],
+  "tags": [
+   "Samsung",
+   "SK Hynix",
+   "半導体"
+  ],
+  "slug": "korea-semiconductor-cram-schools",
+  "people": [],
+  "terms": [
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国を代表する世界最大級の総合家電・電子部品メーカーで、半導体事業でも知られています。"
+   },
+   {
+    "name": "SK Hynix",
+    "type": "company",
+    "desc": "韓国に本拠を置く世界的な大手半導体メーカーで、メモリ半導体の分野で高いシェアを誇ります。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260824-chipmaking-cram-schools/",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "09:01",
+  "path": "/articles/20260825-korea-semiconductor-cram-schools.html"
  }
 ]

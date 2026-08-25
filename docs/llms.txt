@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 09:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Samsungの本拠地で半導体予備校が大盛況の理由](https://ai-tech-times.web.app/articles/20260825-korea-semiconductor-cram-schools.html) — 2026-08-25 09:01: 世界最大級の半導体メーカーが拠点を置く韓国で、業界を目指す若者向けの予備校が盛況となっています。
 - [General Intuition、ロボット分野展開で60億ドル評価へ](https://ai-tech-times.web.app/articles/20260825-general-intuition-6b-valuation-robotics.html) — 2026-08-25 07:02: AIエージェントの空間移動を学習させる基盤モデルを開発するGeneral Intuitionが、新規投資家らと60億ドルの事前評価額での資金調達に向けた協議を進めていることが明らかになりました。
 - [OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか](https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html) — 2026-08-25 07:02: OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。
 - [Bun 1.4正式リリース、Rust移植でPlaywright動作](https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html) — 2026-08-25 07:02: サーバサイドJavaScriptランタイムの最新版「Bun 1.4」が正式リリースされました。Rustへの移植により、Node.jsとの互換性が向上しています。
@@ -41,7 +42,6 @@
 - [AmazonとTwitchがAI学習で配信者に訴えられる](https://ai-tech-times.web.app/articles/20260825-twitch-and-amazon-sued-over-ai-training.html) — 2026-08-25 01:00: ライブ配信サービスのTwitchとその親会社であるAmazonに対し、配信者のウォーレン・パンディシア氏が集団訴訟を起こしました。自身の動画が勝手にAIのトレーニングに使われたことが問題視されています。
 - [ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか](https://ai-tech-times.web.app/articles/20260825-nora-ai-security-countermeasures.html) — 2026-08-25 01:00: 社内の誰がどのAIを使っているのか正確に把握できず、問題が事後に発覚するケースが相次いでいます。約500社の商談分析から、野良AIの実態と現実的な付き合い方を探ります。
 - [木原官房長官、ICC赤根所長へ必要な支援行う方針](https://ai-tech-times.web.app/articles/20260824-kihara-icc-akane-support.html) — 2026-08-24 22:00: アメリカのトランプ政権がICCの赤根智子所長を制裁対象に加えると発表したことを受け、木原官房長官は緊密に意思疎通を図り必要な支援を行うと表明しました。
-- [米財務長官、イランへ史上最大の経済制裁を示唆](https://ai-tech-times.web.app/articles/20260824-us-treasury-secretary-iran-financial-offensive.html) — 2026-08-24 22:00: アメリカのスコット・ベッセント財務長官は、イランに対してこれまでで最大規模の金融攻勢を展開すると明らかにしました。経済的な結びつきを断ち切る方針を示しています。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)

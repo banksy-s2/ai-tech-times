@@ -1,15 +1,23 @@
 {
- "updated": "2026-08-25 08:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-08-25 09:01",
+ "mode": "軽量便(日本のAI)",
+ "articles": [
+  {
+   "title": "Samsungの本拠地で半導体予備校が大盛況の理由",
+   "path": "/articles/20260825-korea-semiconductor-cram-schools.html",
+   "cat": "日本のAI"
+  }
+ ],
  "buzz_top": {
   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 建築業でも「Claudeの有料導入」が急増　AI導入レベルが上がった企業を悩ます"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 51,
+  "used": 56,
   "limit": 200
  }
 }
