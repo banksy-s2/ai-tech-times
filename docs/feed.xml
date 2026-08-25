@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Hugging Faceが公開したGradioのAIワークフロー構築術</title>
+<link>https://ai-tech-times.web.app/articles/20260825-gradio-workflow-guide.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-gradio-workflow-guide.html</guid>
+<pubDate>Tue, 25 Aug 2026 16:22:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIプラットフォームを展開するHugging Faceが、Gradioを活用したAIワークフローの構築とデプロイに関する解説ブログを公開しました。</description>
+</item>
+<item>
 <title>Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上</title>
 <link>https://ai-tech-times.web.app/articles/20260825-instincts-ai-assistant-privacy-concerns.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260825-instincts-ai-assistant-privacy-concerns.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Tue, 25 Aug 2026 06:00:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ＧＥＮＤＡは、サンリオとの間で業務提携を締結したと発表しました。</description>
-</item>
-<item>
-<title>EU、ウクライナ支援1兆円承認の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260825-eu-ukraine-support-1-trillion-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-eu-ukraine-support-1-trillion-yen.html</guid>
-<pubDate>Tue, 25 Aug 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>ロシアによるウクライナへの軍事侵攻から4年半となった24日、ヨーロッパの国々が相次いで軍事支援を表明しました。</description>
 </item>
 </channel></rss>

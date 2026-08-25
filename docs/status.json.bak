@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-25 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-25 16:17",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類",
-   "path": "/articles/20260825-openai-anthropic-ipo-sec.html",
-   "cat": "株式投資(日本)"
+   "title": "Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上",
+   "path": "/articles/20260825-instincts-ai-assistant-privacy-concerns.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AI依存でプログラミングの専門性が崩壊する危機",
+   "path": "/articles/20260825-coding-expertise-collapse-ai-reliance.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 96,
+  "used": 100,
   "limit": 200
  }
 }

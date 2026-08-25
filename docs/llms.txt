@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 16:16 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 16:22 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Hugging Faceが公開したGradioのAIワークフロー構築術](https://ai-tech-times.web.app/articles/20260825-gradio-workflow-guide.html) — 2026-08-25 16:22: AIプラットフォームを展開するHugging Faceが、Gradioを活用したAIワークフローの構築とデプロイに関する解説ブログを公開しました。
 - [Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上](https://ai-tech-times.web.app/articles/20260825-instincts-ai-assistant-privacy-concerns.html) — 2026-08-25 16:16: TechCrunch AIの報道によると、初期テスターから高く評価されている強力なAIアシスタント「Instinct」について、プライバシーやセキュリティ上の懸念が指摘されています。
 - [AI依存でプログラミングの専門性が崩壊する危機](https://ai-tech-times.web.app/articles/20260825-coding-expertise-collapse-ai-reliance.html) — 2026-08-25 16:16: AIによるコーディング支援の普及により、エンジニアの専門的なスキルがどのように失われていくのかを指摘した記事が注目を集めています。開発現場の未来にどのような影響があるのか、議論が活発に行われています。
 - [オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類](https://ai-tech-times.web.app/articles/20260825-openai-anthropic-ipo-sec.html) — 2026-08-25 14:00: アメリカの巨大テック企業がIPO（新規株式公開）の準備を進めており、6月にオープンAIとアンソロピックが申請書類を提出しました。
@@ -41,14 +42,13 @@
 - [Oura、9月IPOへ評価額160億ドル超の行方](https://ai-tech-times.web.app/articles/20260825-oura-september-ipo-16b.html) — 2026-08-25 10:00: スマートリングを手がけるOuraが9月に新規株式公開（IPO）を検討しており、その評価額が160億ドルを超える可能性があることが報じられました。
 - [Samsungの本拠地で半導体予備校が大盛況の理由](https://ai-tech-times.web.app/articles/20260825-korea-semiconductor-cram-schools.html) — 2026-08-25 09:01: 世界最大級の半導体メーカーが拠点を置く韓国で、業界を目指す若者向けの予備校が盛況となっています。
 - [General Intuition、ロボット分野展開で60億ドル評価へ](https://ai-tech-times.web.app/articles/20260825-general-intuition-6b-valuation-robotics.html) — 2026-08-25 07:02: AIエージェントの空間移動を学習させる基盤モデルを開発するGeneral Intuitionが、新規投資家らと60億ドルの事前評価額での資金調達に向けた協議を進めていることが明らかになりました。
-- [OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか](https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html) — 2026-08-25 07:02: OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
 - 2位: [LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18](https://www.youtube.com/watch?v=e4-Xhgm8qCw)
 - 3位: [NCT 127 엔시티 127 'Blingy' MV](https://www.youtube.com/watch?v=BjFX1eugZ-Y)
 
-## AI用語事典 (全1093語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1094語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AIアシスタント「Claude」シリーズの開発元として知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
