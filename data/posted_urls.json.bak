@@ -1700,11 +1700,10 @@
   "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/955644?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-  "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+  "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+  "https://huggingface.co/blog/gradio-workflow-guide"
  ],
  "titles": [
-  "YouTuberヒカキンが大阪・天王寺に、「どんなにつらい時でも…」ラーメン愛＆兄セイキンとの思い出を語る - Lmaga.jp",
-  "YouTuberヒカキン大阪・天王寺でラーメン愛と兄セイキンとの思い出語る",
   "自転車の交通違反 「青切符」導入3か月で全国7000件交付",
   "東シナ海で中国による新構造物設置の動き確認 日本政府が抗議",
   "自転車の交通違反、青切符導入3か月で全国7000件超え",
@@ -3702,6 +3701,8 @@
   "Instinct’s powerful AI assistant is raising privacy and security concerns",
   "Coding expertise is going to collapse from AI reliance",
   "Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上",
-  "AI依存でプログラミングの専門性が崩壊する危機"
+  "AI依存でプログラミングの専門性が崩壊する危機",
+  "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "Hugging Faceが公開したGradioのAIワークフロー構築術"
  ]
 }

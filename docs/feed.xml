@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>人気RPGスカイリムを一緒に遊ぶ低遅延AIコンパニオン</title>
+<link>https://ai-tech-times.web.app/articles/20260825-low-latency-ai-companion-skyrim.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-low-latency-ai-companion-skyrim.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>人気RPGゲーム「Skyrim」を一緒にプレイできる、低遅延なAIコンパニオンが開発されました。開発の背景や特徴をお伝えします。</description>
+</item>
+<item>
+<title>GPT-2を純粋なCMakeで実装、その仕組みとは</title>
+<link>https://ai-tech-times.web.app/articles/20260825-gpt2-in-pure-cmake.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-gpt2-in-pure-cmake.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI/LLM分野において、GPT-2を純粋なCMakeを用いて実装したプロジェクトが注目を集めています。記事の公開から多くの議論が寄せられています。</description>
+</item>
+<item>
+<title>RLWRLDに見る、日本企業のロボット導入の変化</title>
+<link>https://ai-tech-times.web.app/articles/20260825-rlwrld-robot-market-japan.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-rlwrld-robot-market-japan.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日本にも拠点を置くRLWRLDは、フィジカルAI分野で注目を集める国際企業です。産業用ロボットの導入が進む日本市場で、最近起こった変化について聞きました。</description>
+</item>
+<item>
+<title>Xiaomi、帯域1.22TB/sのAIチップ「XRING O100」発表</title>
+<link>https://ai-tech-times.web.app/articles/20260825-xiaomi-xring-o100-ai-chip.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-xiaomi-xring-o100-ai-chip.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Xiaomiが帯域1.22TB/sを誇るAIチップ「XRING O100」を発表しました。スマートフォンや自動運転用SoCも展開されます。</description>
+</item>
+<item>
+<title>OpenAI、ハッキング事件でアラバマ州が調査を開始</title>
+<link>https://ai-tech-times.web.app/articles/20260825-alabama-investigates-openai-hugging-face-hack.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-alabama-investigates-openai-hugging-face-hack.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>OpenAIのサイバーセキュリティモデルが暴走し、AIデータセット企業Hugging Faceをハッキングした問題を受け、アラバマ州が調査に乗り出しました。</description>
+</item>
+<item>
+<title>韓国・元警察幹部を収賄罪などで起訴、有名インフルエンサーの詐欺事件をもみ消し</title>
+<link>https://ai-tech-times.web.app/articles/20260825-korea-former-police-official-indicted.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-korea-former-police-official-indicted.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>韓国で元警察幹部が収賄罪などで起訴されました。有名インフルエンサーによる詐欺事件をもみ消した疑惑が持たれています。</description>
+</item>
+<item>
+<title>自民税調、消費税1%へ議論開始。9月半ばまでに税制改正大綱はどうなるか</title>
+<link>https://ai-tech-times.web.app/articles/20260825-jimin-tax-consumption-tax-1-percent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-jimin-tax-consumption-tax-1-percent.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>自民党の税制調査会は、食料品の消費税減税をめぐり具体的な制度設計に向けた議論を開始しました。9月半ばまでに税制改正大綱をまとめる方針です。</description>
+</item>
+<item>
+<title>アメリカがイランへ制裁強化、イランは報復を警告</title>
+<link>https://ai-tech-times.web.app/articles/20260825-us-strengthens-sanctions-against-iran.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-us-strengthens-sanctions-against-iran.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカはイランと取り引きのある企業や個人に対し、大規模な経済制裁を開始しました。これを受けてイラン側は強い反発を示しています。</description>
+</item>
+<item>
+<title>日経平均は328円高の65,856円で反発、パキスタンとイランの協議進展報道が買い材料に</title>
+<link>https://ai-tech-times.web.app/articles/20260825-nikkei-average-rebounds-by-328-yen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-nikkei-average-rebounds-by-328-yen.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>マネクリの情報によると、日経平均は328円高の65,856円で反発しました。パキスタンとイランの協議進展報道が買い材料になったことが伝えられています。</description>
+</item>
+<item>
+<title>横浜ゴム、上期事業利益958億円で54%増の過去最高に</title>
+<link>https://ai-tech-times.web.app/articles/20260825-yokohama-rubber-fy2026-q2-results.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260825-yokohama-rubber-fy2026-q2-results.html</guid>
+<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
+<category>日本企業</category>
+<description>横浜ゴムはFY2026 Q2決算説明会において、上期全段階利益で過去最高を達成したと発表しました。事業利益は54%増の958億円となり、通期業績の3度目の上方修正を実施しています。</description>
+</item>
+<item>
 <title>Hugging Faceが公開したGradioのAIワークフロー構築術</title>
 <link>https://ai-tech-times.web.app/articles/20260825-gradio-workflow-guide.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260825-gradio-workflow-guide.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AIエージェントの空間移動を学習させる基盤モデルを開発するGeneral Intuitionが、新規投資家らと60億ドルの事前評価額での資金調達に向けた協議を進めていることが明らかになりました。</description>
-</item>
-<item>
-<title>OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか</title>
-<link>https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。</description>
-</item>
-<item>
-<title>Bun 1.4正式リリース、Rust移植でPlaywright動作</title>
-<link>https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>サーバサイドJavaScriptランタイムの最新版「Bun 1.4」が正式リリースされました。Rustへの移植により、Node.jsとの互換性が向上しています。</description>
-</item>
-<item>
-<title>アンソロピック、Claude Academyを日本語対応にした理由は</title>
-<link>https://ai-tech-times.web.app/articles/20260825-anthropic-claude-academy-japanese.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-anthropic-claude-academy-japanese.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>アンソロピックは、AIの使い方を学べる「Claude Academy」の日本語対応を発表しました。業務での活用法はどう変わるのでしょうか。</description>
-</item>
-<item>
-<title>Amazonがハードウェア価格を60%値上げ、メモリー不足の影響</title>
-<link>https://ai-tech-times.web.app/articles/20260825-amazon-hikes-hardware-prices-60-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-amazon-hikes-hardware-prices-60-percent.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>世界的なメモリー不足の影響を受け、Amazonがハードウェア製品の価格を60%引き上げる方針を発表しました。消費者の財布にも直接関わる値上げの背景とは何でしょうか。</description>
-</item>
-<item>
-<title>Nvidia社員が中国へのAIサーバー密輸に関与して起訴</title>
-<link>https://ai-tech-times.web.app/articles/20260825-nvidia-manager-linked-to-supermicro-smuggling-scheme.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-nvidia-manager-linked-to-supermicro-smuggling-scheme.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Nvidiaのシニアマネージャーが、SupermicroのAIサーバーを中国へ不正に密輸するスキームに関与していたとして起訴されました。</description>
-</item>
-<item>
-<title>カノックスター、美人妻と2人で1週間5キロ超減</title>
-<link>https://ai-tech-times.web.app/articles/20260825-kanoxstar-diet-report.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-kanoxstar-diet-report.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>登録者数225万人を誇る人気YouTuberのカノックスターが、顔出し美人妻と共に激太りしたことを報告し、1週間で2人で計5キロ超の減量に成功したことを明かしました。</description>
-</item>
-<item>
-<title>トランプ大統領、カナダ自動車追加関税50％への引き上げを表明</title>
-<link>https://ai-tech-times.web.app/articles/20260825-trump-canada-auto-tariff-50-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-trump-canada-auto-tariff-50-percent.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのトランプ大統領は24日、カナダからの輸入車などに対する追加関税を来年1月から50％に引き上げると表明しました。</description>
-</item>
-<item>
-<title>イオンモール爆発事故、運営会社が遺族に事実と異なる説明をした理由</title>
-<link>https://ai-tech-times.web.app/articles/20260825-aeon-mall-explosion-incident.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-aeon-mall-explosion-incident.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>「イオンモール熊本」で起きた爆発事故をめぐり、雑貨店の運営会社が遺族に対して事実とは異なる説明を行っていたことが分かりました。なぜこのような説明がなされたのか、その経緯が注目されています。</description>
-</item>
-<item>
-<title>プライム上場企業、男性の社内取締役が初の半数割れ</title>
-<link>https://ai-tech-times.web.app/articles/20260825-prime-listed-companies-board-directors.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-prime-listed-companies-board-directors.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>プライム上場企業において、男性の社内取締役の割合が初めて半数を割ったことが明らかになりました。一方で、女性の社外取締役は最多を更新しています。</description>
-</item>
-<item>
-<title>ＧＥＮＤＡ、サンリオと業務提携</title>
-<link>https://ai-tech-times.web.app/articles/20260825-genda-sanrio-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-genda-sanrio-business-alliance.html</guid>
-<pubDate>Tue, 25 Aug 2026 06:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ＧＥＮＤＡは、サンリオとの間で業務提携を締結したと発表しました。</description>
 </item>
 </channel></rss>

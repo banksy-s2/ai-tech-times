@@ -58807,5 +58807,44 @@
   "date": "2026-08-25",
   "time": "16:16",
   "path": "/articles/20260825-coding-expertise-collapse-ai-reliance.html"
+ },
+ {
+  "title": "Hugging Faceが公開したGradioのAIワークフロー構築術",
+  "lead": "AIプラットフォームを展開するHugging Faceが、Gradioを活用したAIワークフローの構築とデプロイに関する解説ブログを公開しました。",
+  "summary3": [
+   "Hugging FaceがGradioの解説を公開",
+   "AIワークフローの構築とデプロイを網羅",
+   "実際の開発プロセスを分かりやすく解説"
+  ],
+  "body": [
+   "AIコミュニティプラットフォームを提供するHugging Faceは、ブログ記事「Wire It, Run It, Deploy It: AI Workflows in Gradio」を公開しました。この記事では、機械学習モデルのデプロイやWebアプリケーション作成に広く使われるツールであるGradioを活用したAIワークフローの構築方法について詳しく解説されています。",
+   "記事では、AIモデルの配線から実行、そして実際のデプロイに至るまでのプロセスが体系的に紹介されています。開発者は、複雑なインターフェースの構築やワークフローの管理を効率的に行い、自身のAIアプリケーションをスムーズに公開できるようになります。",
+   "Gradioを用いた開発効率の向上に関心を持つエンジニアや研究者にとって、今回の解説ガイドは実践的な参考資料となります。AI技術の実用化を加速させるための具体的な手法として、今後の活用が期待されます。"
+  ],
+  "tags": [
+   "Hugging Face",
+   "Gradio",
+   "AI Workflows"
+  ],
+  "slug": "gradio-workflow-guide",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、機械学習やデータサイエンスのプラットフォームを提供する企業"
+   },
+   {
+    "name": "Gradio",
+    "type": "ai",
+    "desc": "機械学習モデルのWebデモを簡単に作成できるオープンソースのPythonライブラリ"
+   }
+  ],
+  "source": "Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "category": "ai",
+  "date": "2026-08-25",
+  "time": "16:22",
+  "path": "/articles/20260825-gradio-workflow-guide.html"
  }
 ]
