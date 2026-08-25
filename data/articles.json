@@ -58237,5 +58237,39 @@
   "date": "2026-08-25",
   "time": "09:01",
   "path": "/articles/20260825-korea-semiconductor-cram-schools.html"
+ },
+ {
+  "title": "Oura、9月IPOへ評価額160億ドル超の行方",
+  "lead": "スマートリングを手がけるOuraが9月に新規株式公開（IPO）を検討しており、その評価額が160億ドルを超える可能性があることが報じられました。",
+  "summary3": [
+   "Ouraが9月のIPOを検討している",
+   "想定される評価額は160億ドル超",
+   "予想されていた動きだが評価額に注目"
+  ],
+  "body": [
+   "スマートリングの開発で知られるOuraが、今年9月の新規株式公開（IPO）に向けて動き出していることが明らかになりました。以前から上場の噂や予想は囁かれていましたが、今回の報道で浮上した予想評価額の規模には驚きの声が上がっています。",
+   "関係者によると、今回のIPOにおける企業評価額は160億ドル（約2兆円規模）を超える可能性が指摘されています。ウェアラブルデバイス市場における同社の高い存在感と成長期待が、この巨額の評価額を裏付ける要因となっている模様です。",
+   "健康管理や睡眠トラッキングの分野で世界的にユーザーを拡大してきたOuraですが、今後は株式市場への上場によってさらなる資金調達と事業拡大を目指すことになります。9月のIPO実現に向けて、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Oura",
+   "IPO",
+   "ウェアラブル"
+  ],
+  "slug": "oura-september-ipo-16b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Oura",
+    "type": "company",
+    "desc": "睡眠や健康状態を追跡するスマートリング「Oura Ring」を開発・販売するフィンランド発のウェアラブル端末メーカー。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+  "category": "silicon",
+  "date": "2026-08-25",
+  "time": "10:00",
+  "path": "/articles/20260825-oura-september-ipo-16b.html"
  }
 ]
