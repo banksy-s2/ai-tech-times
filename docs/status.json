@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-25 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-25 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ZOZO流、複数チームでClaude Codeプラグインを育てる手法",
-   "path": "/articles/20260825-zozo-claude-code-plugin-marketplace.html",
-   "cat": "日本のAI"
+   "title": "Shein香港IPOで1.77億ドル調達へ、なぜ評価額は2022年から激減したのか",
+   "path": "/articles/20260825-shein-hong-kong-ipo-valuation.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
  "notes": [
-  "執筆失敗: 【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27"
+  "執筆失敗: Trump bought SpaceX shares two weeks aft"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 132,
+  "used": 137,
   "limit": 200
  }
 }

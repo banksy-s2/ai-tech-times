@@ -1,56 +1,11 @@
 {
- "updated": "2026-08-25 17:07",
- "mode": "フル便",
+ "updated": "2026-08-25 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "人気RPGスカイリムを一緒に遊ぶ低遅延AIコンパニオン",
-   "path": "/articles/20260825-low-latency-ai-companion-skyrim.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "GPT-2を純粋なCMakeで実装、その仕組みとは",
-   "path": "/articles/20260825-gpt2-in-pure-cmake.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "RLWRLDに見る、日本企業のロボット導入の変化",
-   "path": "/articles/20260825-rlwrld-robot-market-japan.html",
+   "title": "ZOZO流、複数チームでClaude Codeプラグインを育てる手法",
+   "path": "/articles/20260825-zozo-claude-code-plugin-marketplace.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Xiaomi、帯域1.22TB/sのAIチップ「XRING O100」発表",
-   "path": "/articles/20260825-xiaomi-xring-o100-ai-chip.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "OpenAI、ハッキング事件でアラバマ州が調査を開始",
-   "path": "/articles/20260825-alabama-investigates-openai-hugging-face-hack.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "韓国・元警察幹部を収賄罪などで起訴、有名インフルエンサーの詐欺事件をもみ消し",
-   "path": "/articles/20260825-korea-former-police-official-indicted.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "自民税調、消費税1%へ議論開始。9月半ばまでに税制改正大綱はどうなるか",
-   "path": "/articles/20260825-jimin-tax-consumption-tax-1-percent.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アメリカがイランへ制裁強化、イランは報復を警告",
-   "path": "/articles/20260825-us-strengthens-sanctions-against-iran.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均は328円高の65,856円で反発、パキスタンとイランの協議進展報道が買い材料に",
-   "path": "/articles/20260825-nikkei-average-rebounds-by-328-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "横浜ゴム、上期事業利益958億円で54%増の過去最高に",
-   "path": "/articles/20260825-yokohama-rubber-fy2026-q2-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -58,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
  "notes": [
-  "執筆失敗: Shein targets $27 billion Hong Kong IPO ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 127,
+  "used": 132,
   "limit": 200
  }
 }

@@ -59172,5 +59172,44 @@
   "date": "2026-08-25",
   "time": "17:07",
   "path": "/articles/20260825-yokohama-rubber-fy2026-q2-results.html"
+ },
+ {
+  "title": "ZOZO流、複数チームでClaude Codeプラグインを育てる手法",
+  "lead": "ZOZOでは、数百名の社員がClaude CodeなどのAI開発ツールを活用しています。複数チームによる共同運用で直面した5つの課題と対策が公開されました。",
+  "summary3": [
+   "数百名規模でClaude Codeを活用",
+   "複数チームでのプラグイン共同運用",
+   "直面した5つの課題と対策を公開"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。ファッション通販サイトを運営するZOZOのテックブログにて、複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる取り組みが紹介されました。",
+   "ZOZOでは2025年7月より、Claude Codeをはじめとする各種AI開発ツールを利用できる制度を開始しました。現在ではこの制度のもと、数百名にのぼる社員が日々の業務でClaude Codeを活用しています。",
+   "多くの社員がAI開発ツールを活用する中で、複数チームによる共同運用体制の構築が進められています。今回の記事では、1つのプラグインマーケットプレイスを共同で育てる過程において、どのような5つの課題に直面し、それに対してどのような対策を行ったのかが明かされています。"
+  ],
+  "tags": [
+   "ZOZO",
+   "Claude Code",
+   "MLOps"
+  ],
+  "slug": "zozo-claude-code-plugin-marketplace",
+  "people": [],
+  "terms": [
+   {
+    "name": "ZOZO",
+    "type": "company",
+    "desc": "日本国内でファッション通販サイト「ZOZOTOWN」を運営する、千葉県に本社を置く企業。"
+   },
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "ターミナル上で動作し、コードベースの理解や編集を支援するAnthropic社のAI開発ツール。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "18:01",
+  "path": "/articles/20260825-zozo-claude-code-plugin-marketplace.html"
  }
 ]
