@@ -58305,5 +58305,351 @@
   "date": "2026-08-25",
   "time": "11:00",
   "path": "/articles/20260825-totsukuou-nijisanji-watch-party.html"
+ },
+ {
+  "title": "Situational Awareness、SECがAIヘッジファンドを調査へ",
+  "lead": "ウォール街で大きな注目を集めたAIヘッジファンド「Situational Awareness」が、連邦政府の召喚状を受ける事態となり、SEC（米証券取引委員会）による調査対象となっていることが明らかになりました。",
+  "summary3": [
+   "AIヘッジファンドがSECの調査対象に",
+   "ウォール街で話題から一転して召喚状",
+   "崩壊寸前だったファンドに連邦の捜査"
+  ],
+  "body": [
+   "AI技術を活用した運用でウォール街の話題の中心となったAIヘッジファンド「Situational Awareness」ですが、現在は連邦政府からの召喚状を受ける事態に発展しています。かつては市場の注目を集めて急速に台頭したものの、崩壊しかけた末に米証券取引委員会（SEC）による調査を受けることになりました。",
+   "同ファンドを巡っては、ポートフォリオの多様化を語る間もなく急速に状況が悪化し、現在は連邦レベルでの調査という深刻な局面を迎えています。金融市場におけるAIの活用とリスク管理のあり方について、再び厳しい目が向けられる契機となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "金融",
+   "ヘッジファンド"
+  ],
+  "slug": "situational-awareness-sec-probe",
+  "people": [],
+  "terms": [
+   {
+    "name": "Situational Awareness",
+    "type": "company",
+    "desc": "ウォール街で話題となった、AIを活用する話題のヘッジファンド"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+  "category": "ai",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-situational-awareness-sec-probe.html"
+ },
+ {
+  "title": "建築業でClaude導入68.5%増、新たな壁の正体",
+  "lead": "建築AI経営研究会が公開した調査により、特定部署以上でAIを活用する企業が68.5％に達したことが分かりました。導入が進む一方で、企業は新たな課題に直面しています。",
+  "summary3": [
+   "建築業で特定部署以上のAI活用が68.5%に",
+   "導入企業の課題が試行錯誤から新たな壁へシフト",
+   "建築AI経営研究会が実態調査の結果を公開した"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。建築AI経営研究会は、「建築AI経営実態調査」の結果を公開しました。今回の調査によって、建築業におけるAI導入の水準が大きく向上していることが浮き彫りとなっています。",
+   "特筆すべきは、特定部署以上でAIを活用する企業の割合が68.5％に達したという点です。これは多くの企業で日常業務へのAI定着が進んでいることを示していますが、導入初期の試行錯誤とは異なる「新たな壁」が企業を悩ませ始めていることが判明しています。",
+   "AIの導入レベルが上がった企業が直面するこの新たな壁をどのように乗り越えるのか、今後の動向から目が離せません。現場での本格活用が進む中、建築業界におけるAI活用の次なる展開に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "建築業",
+   "Claude"
+  ],
+  "slug": "construction-ai-survey-claude",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-construction-ai-survey-claude.html"
+ },
+ {
+  "title": "MetaやNVIDIAが30Bクラスを公開、今このサイズが熱い理由",
+  "lead": "MetaやNVIDIA、Alibabaなどが30Bクラスのオープンモデルを相次ぎ公開しました。なぜ今このサイズが注目されているのでしょうか。",
+  "summary3": [
+   "MetaやNVIDIAなどが30B級モデルを公開",
+   "国産のLLM-jp-4 33Bも登場",
+   "30Bクラスのモデルが熱い理由と留意点を考察"
+  ],
+  "body": [
+   "近年、AI業界において大規模言語モデルの開発競争が激化しています。そのような中、MetaとNVIDIA、Alibabaといった主要企業が、30Bクラスのオープンモデルを相次ぎ公開しました。さらに、国産モデルである「LLM-jp-4 33B」も新たに登場するなど、この規模のモデルに対する関心が急激に高まっています。",
+   "一部の検証では「27BパラメータでOpus 4.6超え」を達成したとされるケースもあり、性能面での進化が目覚ましい状況です。パラメータ数が極端に大きすぎず、かといって小さすぎないこの30Bクラスのサイズ感が、実用性と効率性のバランスに優れているとして開発者の間で熱い視線を浴びています。",
+   "一方で、オープンモデルを活用する際には、それぞれのモデルが持つ特性やライセンス、利用時の留意点をしっかりと把握することが重要です。今なぜ30Bクラスがこれほど支持を集めているのか、その背景と注意点を整理しながら、今後のAI活用の可能性を探ります。"
+  ],
+  "tags": [
+   "AI",
+   "大規模言語モデル",
+   "Meta"
+  ],
+  "slug": "30b-open-models-getting-hot",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "Facebookなどを運営するアメリカの巨大IT企業。AIの研究開発にも力を入れている。"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカの半導体メーカー。AI開発に不可欠なGPU市場で圧倒的なシェアを持つ。"
+   },
+   {
+    "name": "Alibaba",
+    "type": "company",
+    "desc": "中国を代表する世界最大級のEコマースおよびテクノロジー企業グループ。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
+  "category": "ai_jp",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-30b-open-models-getting-hot.html"
+ },
+ {
+  "title": "Nvidia、200億ドル買収のGroq製ラックを今年稼働へ",
+  "lead": "Nvidiaは、200億ドルでの買収を経てGroqのチップを搭載したラックを今年中にオンラインで提供開始すると発表しました。",
+  "summary3": [
+   "NvidiaがGroqを買収へ",
+   "200億ドルの巨額取引",
+   "今年中にラックが稼働予定"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、NvidiaがGroqのチップを製造し顧客に提供する競争は、AI分野における低レイテンシ推論の重要性が高まっていることを浮き彫りにしています。",
+   "今回の動きは、200億ドルの買収を受けたものであり、Groqのラックは今年中にオンラインで稼働する予定となっています。",
+   "Nvidiaによるこの取り組みは、AIの処理速度と効率性を求める市場の強い需要に応えるものとして注目を集めています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "Groq",
+   "AIチップ"
+  ],
+  "slug": "nvidia-says-groq-racks-will-be-online-this-year",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、AI開発などに欠かせない高性能なGPUなどの半導体製品を広く提供する大手テクノロジー企業。"
+   },
+   {
+    "name": "Groq",
+    "type": "company",
+    "desc": "AIや機械学習の処理に特化した独自の半導体チップやハードウェアシステムを開発し、高速な推論処理を提供する企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
+  "category": "silicon",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-nvidia-says-groq-racks-will-be-online-this-year.html"
+ },
+ {
+  "title": "スタンフォード大研究：AI影響分野の若年雇用19%減、その背景",
+  "lead": "スタンフォード大学の新たな研究により、AIの影響を受ける分野において、若年層の雇用がAI耐性のある職業と比較して19%減少していることが明らかになりました。",
+  "summary3": [
+   "スタンフォード大学がAIと雇用に関する研究を発表",
+   "AI影響分野で若年層の雇用が19%減少",
+   "AI耐性のある職業と比較して深刻な影響が判明"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米国の有名教育機関であるスタンフォード大学が実施した最新の研究により、人工知能（AI）技術の導入が進む分野において、若年層の雇用が深刻な打撃を受けていることが判明しました。",
+   "今回の調査によると、AIの影響を強く受ける分野における若年層の雇用は、AIの影響を受けにくいAI耐性のある職業と比較して、19%も減少していることが分かりました。この結果は、AI技術が特に経験の浅いエントリーレベルの職に就く労働者に最も大きな影響を与えていることを示しています。",
+   "専門家の間では、定型的な業務や初期段階の作業がAIに代替されつつある現状が、若年層の雇用減少を加速させているとの見方が強まっています。今後、AIを活用する職場環境において若手人材がどのようにキャリアを築いていくべきか、大きな課題となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "雇用",
+   "スタンフォード大学"
+  ],
+  "slug": "stanford-study-ai-entry-level-jobs",
+  "people": [],
+  "terms": [
+   {
+    "name": "スタンフォード大学",
+    "type": "company",
+    "desc": "アメリカ・カリフォルニア州にある世界屈指の名門私立大学。数多くの研究成果を生み出している。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+  "category": "silicon",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-stanford-study-ai-entry-level-jobs.html"
+ },
+ {
+  "title": "VTuber儒烏風亭らでん「Forbes 30 UNDER 30」選出の理由とは",
+  "lead": "VTuberの儒烏風亭らでんが「Forbes 30 UNDER 30」に選出され、インタビューが掲載されました。",
+  "summary3": [
+   "儒烏風亭らでんが選出",
+   "インタビューが掲載",
+   "バーチャル美少女ねむが推薦"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、VTuberとして活躍する儒烏風亭らでんに関する最新の情報が入ってまいりましたのでお伝えいたします。",
+   "この度、儒烏風亭らでんが「Forbes 30 UNDER 30」に選出され、同時にインタビューが掲載されることが明らかになりました。今回の選出にあたっては、バーチャル美少女ねむによる推薦が行われていたことも判明しております。",
+   "詳細なインタビュー内容や今後の展開については、noteにて公開されている情報をご確認ください。"
+  ],
+  "tags": [
+   "VTuber",
+   "儒烏風亭らでん",
+   "Forbes 30 UNDER 30"
+  ],
+  "slug": "jutusei-raden-forbes-30-under-30",
+  "people": [
+   {
+    "name": "バーチャル美少女ねむ",
+    "bio": "日本のバーチャルタレント、作家、研究者として活動し、VRカルチャーに関する発信を行う。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TN2t3OWtkQXJPR2JNc1RKU0VnUWJ2OW11WndORzZjd19MeDVZaDdEMWFEZ3Q0ZXFyR2hiWXBNcFNxeldSSlRUX2lJYkRVZXh4Y0ozMDBtSQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-jutusei-raden-forbes-30-under-30.html"
+ },
+ {
+  "title": "沖縄・大東島地方に台風18号接近、厳重警戒へ",
+  "lead": "台風18号が沖縄県の大東島地方に最も接近し、非常に強い風が吹いています。気象情報や今後の進路に厳重な警戒が必要です。",
+  "summary3": [
+   "台風18号が大東島地方に最接近中",
+   "沖縄本島や奄美地方にも近づく予想",
+   "一部住宅倒壊の恐れがある猛烈な風"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。台風18号はこの時間、沖縄県の大東島地方に最も接近しており、現地では非常に強い風が吹いています。最新の気象情報に注意し、安全を最優先に行動してください。",
+   "台風はこのあとも西寄りに進み、沖縄本島地方や鹿児島県の奄美地方に近づく見込みです。26日にかけては、一部の住宅が倒壊するような猛烈な風が吹くおそれがあるため、早めの備えと厳重な警戒が求められます。",
+   "今後の台風の進路や気象庁が発表する最新の情報をこまめに確認し、不要不急の外出を控えるなど、十分にご注意ください。"
+  ],
+  "tags": [
+   "台風18号",
+   "沖縄",
+   "大東島地方"
+  ],
+  "slug": "typhoon-no18-approaches-daito-islands",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
+  "category": "world",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-typhoon-no18-approaches-daito-islands.html"
+ },
+ {
+  "title": "ロシア大手通販オゾン、南部倉庫がウクライナの攻撃を受けた理由",
+  "lead": "ロシア第2位のオンライン小売業者であるオゾンが、ウクライナからの夜間攻撃により南部地域の倉庫が被害を受けました。",
+  "summary3": [
+   "ロシア第2位の小売オゾンが標的に",
+   "ダゲスタンやクラスノダールが被災",
+   "ウクライナによる夜間攻撃で発生"
+  ],
+  "body": [
+   "BBC Worldの報道によると、ロシア第2位のオンライン小売業者であるオゾンが、ウクライナによる夜間攻撃の標的となりました。",
+   "同社の発表によれば、ダゲスタン共和国やクラスノダール地方など、ロシア南部に位置する複数の倉庫が攻撃を受けたということです。",
+   "今回の夜間攻撃による被害の詳細や、今後の事業への影響については引き続き確認が進められています。"
+  ],
+  "tags": [
+   "ロシア",
+   "ウクライナ",
+   "EC"
+  ],
+  "slug": "ozon-warehouses-targeted-in-ukrainian-strikes",
+  "people": [],
+  "terms": [
+   {
+    "name": "オゾン",
+    "type": "company",
+    "desc": "ロシア国内で第2位の規模を誇る、主要なオンライン小売・Eコマース企業です。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-ozon-warehouses-targeted-in-ukrainian-strikes.html"
+ },
+ {
+  "title": "日本経済新聞：株主総会資料の書面交付廃止へ、企業負担軽減と単元株撤廃の布石",
+  "lead": "日本経済新聞の報道によると、企業負担の軽減や単元株撤廃への布石として、株主総会資料の書面交付廃止に向けた動きが進められています。",
+  "summary3": [
+   "株主総会資料の書面交付廃止へ",
+   "企業の負担軽減を図る方針",
+   "単元株撤廃への布石となる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の株式・企業ニュースです。日本経済新聞の報道によれば、株主総会資料の書面交付を廃止する方向で検討が進められていることが明らかになりました。",
+   "この取り組みは、企業側の事務負担やコストを軽減することを主な目的としています。さらに、将来的な単元株撤廃に向けた布石としての役割も持たれていると伝えられています。",
+   "今後の制度変更や詳細なスケジュールについては、引き続き関連動向に注目が集まるところです。企業運営の効率化や株主とのコミュニケーションのあり方にどのような変化をもたらすか、今後の発表が待たれます。"
+  ],
+  "tags": [
+   "株主総会",
+   "日本経済新聞",
+   "企業負担"
+  ],
+  "slug": "shareholder-meeting-documents-abolition",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした総合日刊新聞およびそのメディア企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Rml4azc5NmUtOUE1dUVubHExcm5qSlBxaVRvcV9URVRqaVBySDdtOHFlRUpnZUtxdWtfeDlRMzhIU3FTV1ROMHhodmwxdWo5ZWtkS21KZm9IRWJ3Q3J0Uks1RWlNYTFfcUN0UA?oc=5",
+  "category": "stock",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-shareholder-meeting-documents-abolition.html"
+ },
+ {
+  "title": "「いきなり！ステーキ」黒字転換も株価40分の1、ブロンコビリー最高益の明暗",
+  "lead": "「いきなり！ステーキ」と「ブロンコビリー」の業績を比較し、インフレ下での外食経営の明暗を分析します。",
+  "summary3": [
+   "いきなり！ステーキは黒字転換も株価40分の1に",
+   "ブロンコビリーは体験価値などで最高益を維持",
+   "インフレ下の外食経営における明暗を分析する"
+  ],
+  "body": [
+   "「いきなり！ステーキ」と「ブロンコビリー」の業績を比較した最新の分析が注目を集めています。「いきなり！ステーキ」は黒字転換を果たしたものの、株価は40分の1という厳しい状況が続いています。安さと急拡大を武器に展開してきましたが、「記憶の割高感」で苦戦を強いられる結果となりました。",
+   "一方で、「ブロンコビリー」は最高益を記録するなど対照的な歩みを見せています。体験価値を重視し、直営方式や内製化を進めることで高い収益性を保っているのが特徴です。インフレが進行する現在の外食市場において、両者の経営戦略の何が違いを生んだのかが浮き彫りになっています。",
+   "今回の分析は、物価高が続く外食産業において、単なる安さの追求ではなく、顧客が感じる体験価値や収益構造の構築がいかに重要であるかを示しています。今後の各社の戦略や市場の動向から目が離せません。"
+  ],
+  "tags": [
+   "外食",
+   "ビジネス",
+   "業績"
+  ],
+  "slug": "steak-restaurant-business-comparison",
+  "people": [],
+  "terms": [
+   {
+    "name": "いきなり！ステーキ",
+    "type": "company",
+    "desc": "ペッパーフードサービスが展開する立ち食いスタイルを特徴としたステーキチェーン店。"
+   },
+   {
+    "name": "ブロンコビリー",
+    "type": "company",
+    "desc": "郊外を中心にステーキやハンバーグレストランを展開し、サラダバーなどが人気の外食企業。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2608/25/news035.html",
+  "category": "jp_corp",
+  "date": "2026-08-25",
+  "time": "12:02",
+  "path": "/articles/20260825-steak-restaurant-business-comparison.html"
  }
 ]
