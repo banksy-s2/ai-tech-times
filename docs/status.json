@@ -1,23 +1,21 @@
 {
- "updated": "2026-08-25 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-25 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Oura、9月IPOへ評価額160億ドル超の行方",
-   "path": "/articles/20260825-oura-september-ipo-16b.html",
-   "cat": "シリコンバレー最速"
+   "title": "にじさんじVTuber2名出演、『盗掘王』同時視聴会の開催が決定",
+   "path": "/articles/20260825-totsukuou-nijisanji-watch-party.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
- "notes": [
-  "執筆失敗: Shein targets $27 billion Hong Kong IPO "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 60,
+  "used": 64,
   "limit": 200
  }
 }

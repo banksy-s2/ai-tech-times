@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-25 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-25 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Samsungの本拠地で半導体予備校が大盛況の理由",
-   "path": "/articles/20260825-korea-semiconductor-cram-schools.html",
-   "cat": "日本のAI"
+   "title": "Oura、9月IPOへ評価額160億ドル超の行方",
+   "path": "/articles/20260825-oura-september-ipo-16b.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
  },
  "notes": [
-  "執筆失敗: 建築業でも「Claudeの有料導入」が急増　AI導入レベルが上がった企業を悩ます"
+  "執筆失敗: Shein targets $27 billion Hong Kong IPO "
  ],
  "pv_today": null,
  "gemini": {
-  "used": 56,
+  "used": 60,
   "limit": 200
  }
 }
