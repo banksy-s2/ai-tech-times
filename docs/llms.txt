@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類](https://ai-tech-times.web.app/articles/20260825-openai-anthropic-ipo-sec.html) — 2026-08-25 14:00: アメリカの巨大テック企業がIPO（新規株式公開）の準備を進めており、6月にオープンAIとアンソロピックが申請書類を提出しました。
 - [消費税減税の総額表示、事業者の負担軽減へ特例検討](https://ai-tech-times.web.app/articles/20260825-consumption-tax-reduction-total-price-display.html) — 2026-08-25 13:00: 食料品の消費税減税をめぐり、政府は法律で義務づけられている総額表示について特例の検討に入りました。
 - [米国に依存するカナダ、通商摩擦でどう反撃するのか](https://ai-tech-times.web.app/articles/20260825-canada-us-trade-dispute-trump.html) — 2026-08-25 13:00: 商品のおよそ7割をアメリカに販売しているカナダが、このエスカレートする通商摩擦の中でどのような影響力を持っているのか、その手段に注目が集まっています。
 - [Situational Awareness、SECがAIヘッジファンドを調査へ](https://ai-tech-times.web.app/articles/20260825-situational-awareness-sec-probe.html) — 2026-08-25 12:02: ウォール街で大きな注目を集めたAIヘッジファンド「Situational Awareness」が、連邦政府の召喚状を受ける事態となり、SEC（米証券取引委員会）による調査対象となっていることが明らかになりました。
@@ -41,7 +42,6 @@
 - [OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか](https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html) — 2026-08-25 07:02: OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。
 - [Bun 1.4正式リリース、Rust移植でPlaywright動作](https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html) — 2026-08-25 07:02: サーバサイドJavaScriptランタイムの最新版「Bun 1.4」が正式リリースされました。Rustへの移植により、Node.jsとの互換性が向上しています。
 - [アンソロピック、Claude Academyを日本語対応にした理由は](https://ai-tech-times.web.app/articles/20260825-anthropic-claude-academy-japanese.html) — 2026-08-25 07:02: アンソロピックは、AIの使い方を学べる「Claude Academy」の日本語対応を発表しました。業務での活用法はどう変わるのでしょうか。
-- [Amazonがハードウェア価格を60%値上げ、メモリー不足の影響](https://ai-tech-times.web.app/articles/20260825-amazon-hikes-hardware-prices-60-percent.html) — 2026-08-25 07:02: 世界的なメモリー不足の影響を受け、Amazonがハードウェア製品の価格を60%引き上げる方針を発表しました。消費者の財布にも直接関わる値上げの背景とは何でしょうか。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
@@ -74,11 +74,11 @@
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [BBC Worldとは](https://ai-tech-times.web.app/term/bbc-world.html): 英国放送協会（BBC）が運営する国際的なニュース報道メディアで、世界中の最新情報を伝えています。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [Moonshot AIとは](https://ai-tech-times.web.app/term/moonshot-ai.html): 中国のAI開発企業であり、高性能なAIモデルを次々と発表して注目を集めている新進気鋭の企業です。
-- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

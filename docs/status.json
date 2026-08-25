@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-25 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-25 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "消費税減税の総額表示、事業者の負担軽減へ特例検討",
-   "path": "/articles/20260825-consumption-tax-reduction-total-price-display.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米国に依存するカナダ、通商摩擦でどう反撃するのか",
-   "path": "/articles/20260825-canada-us-trade-dispute-trump.html",
-   "cat": "時事・世界"
+   "title": "オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類",
+   "path": "/articles/20260825-openai-anthropic-ipo-sec.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 93,
+  "used": 96,
   "limit": 200
  }
 }
