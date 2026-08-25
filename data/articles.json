@@ -58751,5 +58751,61 @@
   "date": "2026-08-25",
   "time": "14:00",
   "path": "/articles/20260825-openai-anthropic-ipo-sec.html"
+ },
+ {
+  "title": "Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上",
+  "lead": "TechCrunch AIの報道によると、初期テスターから高く評価されている強力なAIアシスタント「Instinct」について、プライバシーやセキュリティ上の懸念が指摘されています。",
+  "summary3": [
+   "Instinctの能力はテスターに好評",
+   "広範なアクセス権と利用規約に懸念",
+   "ユーザーの代理行動に不都合な側面も"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、初期テスターの間で「Instinct」の高度な機能が非常に高く評価されていることが分かりました。",
+   "しかし一方で、このAIアシスタントが持つ広範なアクセス権限や、包括的な利用規約、さらにはユーザーの代理として行動する能力について、一部からは懸念の声が上がっています。",
+   "高い利便性を提供する一方で、プライバシーやセキュリティの観点から、ユーザーが受け入れるべき「不都合なトレードオフ」が存在すると指摘されています。"
+  ],
+  "tags": [
+   "AI",
+   "プライバシー",
+   "セキュリティ"
+  ],
+  "slug": "instincts-ai-assistant-privacy-concerns",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+  "category": "ai",
+  "date": "2026-08-25",
+  "time": "16:16",
+  "path": "/articles/20260825-instincts-ai-assistant-privacy-concerns.html"
+ },
+ {
+  "title": "AI依存でプログラミングの専門性が崩壊する危機",
+  "lead": "AIによるコーディング支援の普及により、エンジニアの専門的なスキルがどのように失われていくのかを指摘した記事が注目を集めています。開発現場の未来にどのような影響があるのか、議論が活発に行われています。",
+  "summary3": [
+   "AI依存がプログラミングの専門性を奪うと指摘",
+   "Hacker Newsで500以上のポイントを獲得",
+   "コード生成技術の普及による影響が議論に"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の編集部が報じたところによると、AIコーディングツールへの過度な依存が、将来的なプログラミングの専門性を崩壊させる危険性があるという議論が話題となっています。",
+   "元の記事では、AIがコード作成を代行することで、人間が自ら深く考える機会や技術を習得するプロセスが失われる懸念が示されています。これにより、長期的な開発力の低下につながるという見解が示されました。",
+   "この話題はソーシャルニュースサイトのHacker News上で多くの関心を集め、500を超えるポイントと多数のコメントが寄せられ、AI時代における技術習得のあり方について活発な意見交換が行われています。"
+  ],
+  "tags": [
+   "AI",
+   "プログラミング",
+   "ソフトウェア開発"
+  ],
+  "slug": "coding-expertise-collapse-ai-reliance",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+  "category": "ai",
+  "date": "2026-08-25",
+  "time": "16:16",
+  "path": "/articles/20260825-coding-expertise-collapse-ai-reliance.html"
  }
 ]

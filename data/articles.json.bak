@@ -58712,5 +58712,44 @@
   "date": "2026-08-25",
   "time": "13:00",
   "path": "/articles/20260825-canada-us-trade-dispute-trump.html"
+ },
+ {
+  "title": "オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類",
+  "lead": "アメリカの巨大テック企業がIPO（新規株式公開）の準備を進めており、6月にオープンAIとアンソロピックが申請書類を提出しました。",
+  "summary3": [
+   "オープンAIがSECに申請書類提出",
+   "アンソロピックも申請の動きを見せる",
+   "両社の株式評価額は100兆円にのぼる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。アメリカの巨大テック企業がIPO（新規株式公開）の準備を着々と進めていることが明らかになりました。",
+   "6月に入り、対話型AIなどを手掛けるオープンAIとアンソロピックの2社が、IPOに向けた申請書類を証券取引委員会（SEC）に提出したことが分かっています。",
+   "今回の動きの中で特に注目を集めているのが、その規模の大きさです。両社ともに株式評価額は100兆円に達するとされており、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "IPO",
+   "オープンAI",
+   "アンソロピック"
+  ],
+  "slug": "openai-anthropic-ipo-sec",
+  "people": [],
+  "terms": [
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業。高度な対話型AIモデルなどを手掛け、世界的に高い注目を集めている。"
+   },
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "アメリカのAI開発企業。安全性に配慮した最先端のAIモデルの研究開発を主要事業としている。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/955644?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-08-25",
+  "time": "14:00",
+  "path": "/articles/20260825-openai-anthropic-ipo-sec.html"
  }
 ]

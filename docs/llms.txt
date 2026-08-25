@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-25 16:16 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Instinctの強力なAIアシスタント、プライバシーとセキュリティの懸念が浮上](https://ai-tech-times.web.app/articles/20260825-instincts-ai-assistant-privacy-concerns.html) — 2026-08-25 16:16: TechCrunch AIの報道によると、初期テスターから高く評価されている強力なAIアシスタント「Instinct」について、プライバシーやセキュリティ上の懸念が指摘されています。
+- [AI依存でプログラミングの専門性が崩壊する危機](https://ai-tech-times.web.app/articles/20260825-coding-expertise-collapse-ai-reliance.html) — 2026-08-25 16:16: AIによるコーディング支援の普及により、エンジニアの専門的なスキルがどのように失われていくのかを指摘した記事が注目を集めています。開発現場の未来にどのような影響があるのか、議論が活発に行われています。
 - [オープンAIとアンソロピック、証券取引所に100兆円規模のIPO申請書類](https://ai-tech-times.web.app/articles/20260825-openai-anthropic-ipo-sec.html) — 2026-08-25 14:00: アメリカの巨大テック企業がIPO（新規株式公開）の準備を進めており、6月にオープンAIとアンソロピックが申請書類を提出しました。
 - [消費税減税の総額表示、事業者の負担軽減へ特例検討](https://ai-tech-times.web.app/articles/20260825-consumption-tax-reduction-total-price-display.html) — 2026-08-25 13:00: 食料品の消費税減税をめぐり、政府は法律で義務づけられている総額表示について特例の検討に入りました。
 - [米国に依存するカナダ、通商摩擦でどう反撃するのか](https://ai-tech-times.web.app/articles/20260825-canada-us-trade-dispute-trump.html) — 2026-08-25 13:00: 商品のおよそ7割をアメリカに販売しているカナダが、このエスカレートする通商摩擦の中でどのような影響力を持っているのか、その手段に注目が集まっています。
@@ -40,8 +42,6 @@
 - [Samsungの本拠地で半導体予備校が大盛況の理由](https://ai-tech-times.web.app/articles/20260825-korea-semiconductor-cram-schools.html) — 2026-08-25 09:01: 世界最大級の半導体メーカーが拠点を置く韓国で、業界を目指す若者向けの予備校が盛況となっています。
 - [General Intuition、ロボット分野展開で60億ドル評価へ](https://ai-tech-times.web.app/articles/20260825-general-intuition-6b-valuation-robotics.html) — 2026-08-25 07:02: AIエージェントの空間移動を学習させる基盤モデルを開発するGeneral Intuitionが、新規投資家らと60億ドルの事前評価額での資金調達に向けた協議を進めていることが明らかになりました。
 - [OpenAIが全自動AIエージェント開発、一般ユーザーの生活はどう変わるのか](https://ai-tech-times.web.app/articles/20260825-openai-ai-agents-for-everything.html) — 2026-08-25 07:02: OpenAIが、ソフトウェアエンジニア向けから一般大衆向けへとAIエージェントの提供を拡大する動きを進めています。誰もがAIエージェントを使う未来は訪れるのでしょうか。
-- [Bun 1.4正式リリース、Rust移植でPlaywright動作](https://ai-tech-times.web.app/articles/20260825-bun-1-4-rust-release.html) — 2026-08-25 07:02: サーバサイドJavaScriptランタイムの最新版「Bun 1.4」が正式リリースされました。Rustへの移植により、Node.jsとの互換性が向上しています。
-- [アンソロピック、Claude Academyを日本語対応にした理由は](https://ai-tech-times.web.app/articles/20260825-anthropic-claude-academy-japanese.html) — 2026-08-25 07:02: アンソロピックは、AIの使い方を学べる「Claude Academy」の日本語対応を発表しました。業務での活用法はどう変わるのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-08-25)
 - 1位: [TUIDE (튜이드) ‘SUN KISS’ Official MV](https://www.youtube.com/watch?v=46h0LvDHgIs)
