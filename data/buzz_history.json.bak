@@ -4093,26 +4093,10 @@
  "2026-08-27": [
   {
    "rank": 1,
-   "id": "eFxvsyUoFi0",
-   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
-   "channel": "Brawl Stars",
-   "views": 2627234,
-   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0",
-   "thumb": "https://i.ytimg.com/vi/eFxvsyUoFi0/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "BR"
-   ],
-   "comment": "バトル・スターズのアニメーションによる最終決戦の映像のようですね。（30字）"
-  },
-  {
-   "rank": 2,
    "id": "IGk17XQ7IrQ",
    "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
    "channel": "The Witcher",
-   "views": 2034474,
+   "views": 2115478,
    "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ",
    "thumb": "https://i.ytimg.com/vi/IGk17XQ7IrQ/hqdefault.jpg",
    "regions": [
@@ -4124,11 +4108,11 @@
    "comment": "ウィッチャー3の「リマスター版」公式発表トレイラーみたいです。（28字）"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "id": "L2NAh3CIdig",
    "title": "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
    "channel": "Marvel Entertainment",
-   "views": 7661921,
+   "views": 7875503,
    "url": "https://www.youtube.com/watch?v=L2NAh3CIdig",
    "thumb": "https://i.ytimg.com/vi/L2NAh3CIdig/hqdefault.jpg",
    "regions": [
@@ -4139,11 +4123,26 @@
    "comment": "アベンジャーズ/エンドゲームの再上映公式トレイラーのようです。（27字）"
   },
   {
+   "rank": 3,
+   "id": "eFxvsyUoFi0",
+   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
+   "channel": "Brawl Stars",
+   "views": 2736791,
+   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0",
+   "thumb": "https://i.ytimg.com/vi/eFxvsyUoFi0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "JP",
+    "BR"
+   ],
+   "comment": "バトル・スターズのアニメーションによる最終決戦の映像のようですね。（30字）"
+  },
+  {
    "rank": 4,
    "id": "6t7C4qaHihE",
    "title": "Ali G: Who Iz I? | Official Trailer",
    "channel": "Amazon MGM Studios",
-   "views": 3698676,
+   "views": 3744920,
    "url": "https://www.youtube.com/watch?v=6t7C4qaHihE",
    "thumb": "https://i.ytimg.com/vi/6t7C4qaHihE/hqdefault.jpg",
    "regions": [
@@ -4157,7 +4156,7 @@
    "id": "_9jaJtmraXA",
    "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
    "channel": "Taylor Swift",
-   "views": 2468480,
+   "views": 2488541,
    "url": "https://www.youtube.com/watch?v=_9jaJtmraXA",
    "thumb": "https://i.ytimg.com/vi/_9jaJtmraXA/hqdefault.jpg",
    "regions": [
@@ -4171,7 +4170,7 @@
    "id": "2mNCKDXA1O4",
    "title": "WHO IS THE BEST GAMER? ft. JYNXZI",
    "channel": "IShowSpeed",
-   "views": 2363604,
+   "views": 2375020,
    "url": "https://www.youtube.com/watch?v=2mNCKDXA1O4",
    "thumb": "https://i.ytimg.com/vi/2mNCKDXA1O4/hqdefault.jpg",
    "regions": [
@@ -4185,7 +4184,7 @@
    "id": "Zzvzt3IjNik",
    "title": "gamescom Opening Night Live 2026",
    "channel": "gamescom",
-   "views": 891233,
+   "views": 897644,
    "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik",
    "thumb": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
    "regions": [
@@ -4199,7 +4198,7 @@
    "id": "OJah543aqOY",
    "title": "Kidnapped By VAMPIRE GIRLS in Minecraft..",
    "channel": "Cash",
-   "views": 739132,
+   "views": 758306,
    "url": "https://www.youtube.com/watch?v=OJah543aqOY",
    "thumb": "https://i.ytimg.com/vi/OJah543aqOY/hqdefault.jpg",
    "regions": [
@@ -4210,24 +4209,10 @@
   },
   {
    "rank": 9,
-   "id": "R1_AVfrexH4",
-   "title": "gamescom 2026 just dropped a nuke",
-   "channel": "Asmongold TV  ",
-   "views": 712984,
-   "url": "https://www.youtube.com/watch?v=R1_AVfrexH4",
-   "thumb": "https://i.ytimg.com/vi/R1_AVfrexH4/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "gamescom 2026に関する大きな発表について語っているようです。"
-  },
-  {
-   "rank": 10,
    "id": "oQwzYdMEPvI",
    "title": "How to Watch the Trailer for Grand Theft Auto VI",
    "channel": "videogamedunkey",
-   "views": 684195,
+   "views": 699659,
    "url": "https://www.youtube.com/watch?v=oQwzYdMEPvI",
    "thumb": "https://i.ytimg.com/vi/oQwzYdMEPvI/hqdefault.jpg",
    "regions": [
@@ -4235,6 +4220,20 @@
     "GB"
    ],
    "comment": "話題の『GTA 6』のトレイラーを見る方法を紹介しているようです。"
+  },
+  {
+   "rank": 10,
+   "id": "c5-8FXNmyJs",
+   "title": "Crimson Desert Enhanced  - Official Announcement Trailer | gamescom ONL 2026",
+   "channel": "Crimson Desert",
+   "views": 453117,
+   "url": "https://www.youtube.com/watch?v=c5-8FXNmyJs",
+   "thumb": "https://i.ytimg.com/vi/c5-8FXNmyJs/hqdefault.jpg",
+   "regions": [
+    "KR",
+    "BR"
+   ],
+   "comment": "クリムゾン・デザートの拡張版公式発表トレイラーのようです。（26字）"
   }
  ]
 }
