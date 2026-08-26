@@ -1,17 +1,26 @@
 {
- "updated": "2026-08-27 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-08-27 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "ネパール・中国国境地帯の土石流で日本人5人と連絡取れず",
+   "path": "/articles/20260827-nepal-china-border-landslide-missing-japanese.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "石川県の加賀と能登で線状降水帯発生、厳重な警戒を",
+   "path": "/articles/20260827-heavy-rain-ishikawa-senjokosuitai.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
   "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
  },
- "notes": [
-  "執筆失敗: 9月1日より生活道路の法定速度を60km/hから30km/hへ引き下げ 警察庁公"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 17,
+  "used": 22,
   "limit": 200
  }
 }

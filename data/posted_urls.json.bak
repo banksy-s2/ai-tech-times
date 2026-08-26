@@ -1765,13 +1765,11 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zakdmZzhNY0lvdnMwY3ZlWGpDR1FIenpSTWlUd3gzcXdNOU95UGZxOE1CWjQ2cW5kYjRPb2FhTVRybk4zNDhpX3hjUjlaNWhTZ1N2dk10NVViTzgtM1NRQ0dPS2xQYlNVU3lTNDc0b2JTdzFfTDVhckVtOVhmU1E?oc=5",
   "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
   "https://forbesjapan.com/articles/detail/103605",
-  "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/"
+  "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/",
+  "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+  "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/"
  ],
  "titles": [
-  "中国進出の日系企業「輸出規制強化の中 税関審査が長期化」",
-  "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-  "中国進出日系企業のおよそ6割が満足、なぜ税関審査長期化か",
-  "キーウで9人死亡、モスクワの弾道ミサイル攻撃激化のなぜ",
   "連日の為替介入か、一時１ドル＝１５７円２０銭台に…米財務省は異例の「為替介入を行う可能性」通知",
   "米財務省通知と連日介入か、円相場157円20銭台に",
   "宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
@@ -3767,6 +3765,10 @@
   "新型Mac Studioで月3万円の「AIサブスク代を節約」できるか、損益分岐点を検証 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
   "Stability AIが約370億円を新CEOの下で資金調達したと報告、ソニーミュージックやユニバーサルミュージックなどが出資",
   "アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか",
-  "Stability AI、新CEO下で約370億円調達の理由"
+  "Stability AI、新CEO下で約370億円調達の理由",
+  "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+  "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+  "OpenAIのハラペーニョ、エヌビディアを効率で凌駕",
+  "Metaが180億ドルで和解、29州の子供への影響訴訟"
  ]
 }

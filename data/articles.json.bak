@@ -61058,5 +61058,88 @@
   "date": "2026-08-27",
   "time": "01:00",
   "path": "/articles/20260827-stability-ai-secures-370m-funding.html"
+ },
+ {
+  "title": "OpenAIのハラペーニョ、エヌビディアを効率で凌駕",
+  "lead": "カスタムAIシリコンの開発を進めるOpenAIの新チップ「Jalapeño（ハラペーニョ）」が、主要な推論効率テストでNvidiaのシステムを上回る結果を出しました。",
+  "summary3": [
+   "OpenAIのJalapeñoチップが効率テストで勝利",
+   "NvidiaのBlackwellシステムを上回る成果",
+   "カスタムAIシリコンが主要企業の間で台頭"
+  ],
+  "body": [
+   "CNBC Techの報道によると、AI開発をリードするOpenAIが手掛ける独自のAIチップ「Jalapeño」が、主要な推論効率テストにおいてNvidiaのBlackwellシステムを打ち負かしました。",
+   "近年、大手テクノロジー企業の間では自社向けのカスタムAIシリコンの開発が急速に進んでおり、今回の成果はそのトレンドがさらに勢いを増していることを示しています。",
+   "AI処理を支えるハードウェア市場において、独自のカスタムチップがこれまでの業界標準であるNvidia製品の優位性を脅かす新たな存在となりつつあります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Nvidia",
+   "AIチップ"
+  ],
+  "slug": "openai-jalapeno-ai-chip-nvidia",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AIなどの先端的な人工知能を開発する企業です。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、AI開発やグラフィックス処理に不可欠なGPU市場で世界をリードしています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+  "category": "silicon",
+  "date": "2026-08-27",
+  "time": "02:00",
+  "path": "/articles/20260827-openai-jalapeno-ai-chip-nvidia.html"
+ },
+ {
+  "title": "Metaが180億ドルで和解、29州の子供への影響訴訟",
+  "lead": "米Metaが、InstagramやFacebookなどが子供に悪影響を与えたとする訴訟で、29州との間で180億ドルを支払い和解に至りました。",
+  "summary3": [
+   "Metaが29州との訴訟で180億ドルで和解",
+   "Instagramなどの設計が争点となった",
+   "子供への悪影響を知りつつ中毒性を狙った"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、米MetaがInstagramやFacebookといったプラットフォームを巡り、29州から提訴されていた訴訟において180億ドルで和解したことが明らかになりました。",
+   "今回の訴訟は、同社が若いユーザーに対してプラットフォームがもたらす害悪性を認識していながら、子供たちを中毒させるように意図してプラットフォームを設計したと主張する内容でした。",
+   "テック業界ではプラットフォームが青少年のメンタルヘルスに与える影響への懸念が高まっており、今回の巨額の和解金は、ソーシャルメディア企業に対する法的責任の行方として大きな注目を集めています。"
+  ],
+  "tags": [
+   "Meta",
+   "SNS",
+   "訴訟"
+  ],
+  "slug": "meta-settles-for-18-billion-lawsuit",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。"
+   },
+   {
+    "name": "Instagram",
+    "type": "company",
+    "desc": "Metaが提供する、写真や動画の共有を中心とした世界的なソーシャルメディアプラットフォーム。"
+   },
+   {
+    "name": "Facebook",
+    "type": "company",
+    "desc": "Metaが運営する、世界最大級の登録ユーザー数を持つソーシャル・ネットワーキング・サービス。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+  "category": "silicon",
+  "date": "2026-08-27",
+  "time": "02:00",
+  "path": "/articles/20260827-meta-settles-for-18-billion-lawsuit.html"
  }
 ]

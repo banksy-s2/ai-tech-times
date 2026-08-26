@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-27 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "OpenAIのハラペーニョ、エヌビディアを効率で凌駕",
-   "path": "/articles/20260827-openai-jalapeno-ai-chip-nvidia.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Metaが180億ドルで和解、29州の子供への影響訴訟",
-   "path": "/articles/20260827-meta-settles-for-18-billion-lawsuit.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-27 03:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
   "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 9月1日より生活道路の法定速度を60km/hから30km/hへ引き下げ 警察庁公"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 17,
   "limit": 200
  }
 }
