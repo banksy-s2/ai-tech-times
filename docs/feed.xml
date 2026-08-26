@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ビル・ゲイツが語る「AIの危険なしきい値」</title>
+<link>https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。</description>
+</item>
+<item>
+<title>Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開</title>
+<link>https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。</description>
+</item>
+<item>
+<title>Confluent調査：AIエージェント本番運用中の日本企業が17％にとどまる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260826-ai-agent-production-japan-confluent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-ai-agent-production-japan-confluent.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Confluentの調査により、AIエージェントなどの自律型AIを本番運用している日本企業が17％にとどまることが分かりました。PoC止まりとなる課題やその解決策についてお伝えします。</description>
+</item>
+<item>
+<title>AppleがM6とM5 Ultraを発表、最大512GBメモリでAIはどう変わるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260826-apple-announces-m6-and-m5-ultra.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-apple-announces-m6-and-m5-ultra.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Appleは現地時間の2026年8月25日、新型のAppleシリコン「M6」および「M5 Ultra」を発表しました。最大512GBのユニファイドメモリを搭載し、大型AIモデルのローカル実行を可能にします。</description>
+</item>
+<item>
+<title>米HPが制裁中の華為技術と提携、WiFi技術のライセンス契約を結んだ理由</title>
+<link>https://ai-tech-times.web.app/articles/20260826-hp-partners-with-huawei-wifi-tech.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-hp-partners-with-huawei-wifi-tech.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米HPが、アメリカから取引制限を受けている中国の華為技術とWiFi技術のライセンス契約を結んだことが分かりました。米国の規制下にある企業との提携は、中国外での技術採用の動向を示しています。</description>
+</item>
+<item>
+<title>OpenAI、ロシア発の隠れた世論工作アカウントをブロック</title>
+<link>https://ai-tech-times.web.app/articles/20260826-openai-russia-chatgpt-influence-campaign.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-openai-russia-chatgpt-influence-campaign.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>OpenAIは、ロシアの活動主体がChatGPTを悪用した隠れた誤情報キャンペーンを展開していたとして、関連するアカウントをブロックしたと発表しました。</description>
+</item>
+<item>
+<title>福岡県で40度以上の酷暑日、各地で危険な暑さに厳重警戒</title>
+<link>https://ai-tech-times.web.app/articles/20260826-fukuoka-extreme-heat-40-degrees.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-fukuoka-extreme-heat-40-degrees.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>26日は西日本や東日本の広い範囲で気温が上がり、福岡県では40度以上の「酷暑日」となりました。各地で危険な暑さが続いており、熱中症への厳重な警戒とできるかぎりの対策が求められています。</description>
+</item>
+<item>
+<title>サウジ資金でパリ近郊に日本漫画テーマパーク建設へ</title>
+<link>https://ai-tech-times.web.app/articles/20260826-manga-theme-park-paris-saudi.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-manga-theme-park-paris-saudi.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>フランスのパリ近郊に、日本の漫画を扱ったテーマパークが建設されることになりました。サウジアラビアの資金が投入されます。</description>
+</item>
+<item>
+<title>東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分</title>
+<link>https://ai-tech-times.web.app/articles/20260826-tokyo-marine-hd-shareholder-benefit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-tokyo-marine-hd-shareholder-benefit.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>東京海上ホールディングスは、新たに株主優待制度を新設することを発表しました。条件を満たした株主を対象に、電子マネーなどが贈呈されます。</description>
+</item>
+<item>
+<title>JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設</title>
+<link>https://ai-tech-times.web.app/articles/20260826-jfe-kawasaki-cold-storage-facility.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-jfe-kawasaki-cold-storage-facility.html</guid>
+<pubDate>Wed, 26 Aug 2026 17:05:00 +0900</pubDate>
+<category>日本企業</category>
+<description>JFEホールディングスなどは、神奈川県川崎市にある製鉄所の高炉などの跡地を、冷凍した生鮮食品などの保管倉庫として活用する方針を明らかにしました。</description>
+</item>
+<item>
 <title>OpenAI製品責任者が語るAIエージェントの現在地</title>
 <link>https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AIブームに伴う半導体需要の急増は、アメリカ・アイダホ州ボイシにあるMicronの本拠地周辺に大きな変化をもたらしています。雇用増加や新たな億万長者の誕生の一方で、交通渋滞や住宅価格の高騰といった深刻な影響も現れています。</description>
-</item>
-<item>
-<title>月間問い合わせ4倍に、エリア特化リフォーム会社がAI検索を攻略した方法</title>
-<link>https://ai-tech-times.web.app/articles/20260826-ai-search-renovation-success-case.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-ai-search-renovation-success-case.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AI TECH TIMESは、エリア特化型のリフォーム会社がAI検索を攻略し、月間問い合わせ数を4倍、受注率50%を実現した事例について報じます。</description>
-</item>
-<item>
-<title>Appleのジョン・ターナス次期CEO、9月1日の就任後に待ち受ける3つの課題とは</title>
-<link>https://ai-tech-times.web.app/articles/20260826-apples-next-chapter-john-ternus-ceo.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-apples-next-chapter-john-ternus-ceo.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>CNBC Techの報道によると、Appleの次期CEOにジョン・ターナス氏が9月1日付で就任し、重要な転換期を迎える同社を率いることになります。</description>
-</item>
-<item>
-<title>米国土安全保障省、H-1Bビザに10万3000ドル超の手数料を導入へ</title>
-<link>https://ai-tech-times.web.app/articles/20260826-trump-h1b-fee-asylum-legal-immigration.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-trump-h1b-fee-asylum-legal-immigration.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米国土安全保障省が、IT業界などで利用されるH-1Bビザに対して10万3000ドルを超える高額な手数料を課す方針を明らかにしました。</description>
-</item>
-<item>
-<title>インフルエンサーを狙う前払い13万円の詐欺手口</title>
-<link>https://ai-tech-times.web.app/articles/20260826-influencer-fraud-130000-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-influencer-fraud-130000-yen.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>インフルエンサーを狙ったSNSでの詐欺被害が急増しています。20代の被害女性が語る巧妙な手口とはどのようなものなのでしょうか。</description>
-</item>
-<item>
-<title>カナダが米国に最大50%の報復関税、なぜ発動へ</title>
-<link>https://ai-tech-times.web.app/articles/20260826-canada-announces-retaliatory-tariffs-on-us.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-canada-announces-retaliatory-tariffs-on-us.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>カナダは米国に対し、最大50%に達する「ドル対ドル」の報復関税を発表しました。両国間の貿易戦争が激しさを増しています。</description>
-</item>
-<item>
-<title>WTI原油が5%超下落の80ドル台、ホルムズ海峡の協議で</title>
-<link>https://ai-tech-times.web.app/articles/20260826-ny-crude-oil-drops-to-80-dollars.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-ny-crude-oil-drops-to-80-dollars.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>25日のニューヨーク原油市場で、WTI先物価格が一時1バレル＝80ドル台まで下落しました。前日比5％を超える大幅な下落となり、約10日ぶりの安値水準となっています。</description>
-</item>
-<item>
-<title>政府・日銀、国債や株の即時決済へ</title>
-<link>https://ai-tech-times.web.app/articles/20260826-government-boj-blockchain-settlement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-government-boj-blockchain-settlement.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>政府および日本銀行が、国債や株式などの決済を即座に行うためのブロックチェーン基盤の整備に向けて始動しました。</description>
-</item>
-<item>
-<title>三菱鉛筆、営業利益28.6%増の61.7億円 海外比率は59.1%に上昇</title>
-<link>https://ai-tech-times.web.app/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>日本企業</category>
-<description>三菱鉛筆がFY2026 Q2の決算説明会を実施し、営業利益が前年同期比28.6%増の61.7億円となったことを発表しました。</description>
-</item>
-<item>
-<title>Shein香港IPOで1.77億ドル調達へ、なぜ評価額は2022年から激減したのか</title>
-<link>https://ai-tech-times.web.app/articles/20260825-shein-hong-kong-ipo-valuation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-shein-hong-kong-ipo-valuation.html</guid>
-<pubDate>Tue, 25 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>CNBC Techの報道によると、月曜日に提出された申請書類から、Sheinが香港での新規株式公開（IPO）で最大1.77億ドルを調達する計画であることが明らかになりました。かつての評価額から大きく下がる中、その資金調達の行方に注目が集まっています。</description>
-</item>
-<item>
-<title>ZOZO流、複数チームでClaude Codeプラグインを育てる手法</title>
-<link>https://ai-tech-times.web.app/articles/20260825-zozo-claude-code-plugin-marketplace.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-zozo-claude-code-plugin-marketplace.html</guid>
-<pubDate>Tue, 25 Aug 2026 18:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>ZOZOでは、数百名の社員がClaude CodeなどのAI開発ツールを活用しています。複数チームによる共同運用で直面した5つの課題と対策が公開されました。</description>
 </item>
 </channel></rss>

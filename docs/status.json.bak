@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-26 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-26 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "伊藤忠商事、スイッチメディアと資本業務提携を発表",
-   "path": "/articles/20260826-itochu-switch-media-capital-alliance.html",
-   "cat": "日本企業"
+   "title": "OpenAI製品責任者が語るAIエージェントの現在地",
+   "path": "/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由",
+   "path": "/articles/20260826-ringg-raises-10-million-from-peak-xv.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 57,
+  "used": 63,
   "limit": 200
  }
 }

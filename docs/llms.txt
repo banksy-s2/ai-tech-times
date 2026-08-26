@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 17:05 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ビル・ゲイツが語る「AIの危険なしきい値」](https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html) — 2026-08-26 17:05: ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。
+- [Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開](https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html) — 2026-08-26 17:05: Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。
+- [Confluent調査：AIエージェント本番運用中の日本企業が17％にとどまる理由](https://ai-tech-times.web.app/articles/20260826-ai-agent-production-japan-confluent.html) — 2026-08-26 17:05: Confluentの調査により、AIエージェントなどの自律型AIを本番運用している日本企業が17％にとどまることが分かりました。PoC止まりとなる課題やその解決策についてお伝えします。
+- [AppleがM6とM5 Ultraを発表、最大512GBメモリでAIはどう変わるのか](https://ai-tech-times.web.app/articles/20260826-apple-announces-m6-and-m5-ultra.html) — 2026-08-26 17:05: Appleは現地時間の2026年8月25日、新型のAppleシリコン「M6」および「M5 Ultra」を発表しました。最大512GBのユニファイドメモリを搭載し、大型AIモデルのローカル実行を可能にします。
+- [米HPが制裁中の華為技術と提携、WiFi技術のライセンス契約を結んだ理由](https://ai-tech-times.web.app/articles/20260826-hp-partners-with-huawei-wifi-tech.html) — 2026-08-26 17:05: 米HPが、アメリカから取引制限を受けている中国の華為技術とWiFi技術のライセンス契約を結んだことが分かりました。米国の規制下にある企業との提携は、中国外での技術採用の動向を示しています。
+- [OpenAI、ロシア発の隠れた世論工作アカウントをブロック](https://ai-tech-times.web.app/articles/20260826-openai-russia-chatgpt-influence-campaign.html) — 2026-08-26 17:05: OpenAIは、ロシアの活動主体がChatGPTを悪用した隠れた誤情報キャンペーンを展開していたとして、関連するアカウントをブロックしたと発表しました。
+- [福岡県で40度以上の酷暑日、各地で危険な暑さに厳重警戒](https://ai-tech-times.web.app/articles/20260826-fukuoka-extreme-heat-40-degrees.html) — 2026-08-26 17:05: 26日は西日本や東日本の広い範囲で気温が上がり、福岡県では40度以上の「酷暑日」となりました。各地で危険な暑さが続いており、熱中症への厳重な警戒とできるかぎりの対策が求められています。
+- [サウジ資金でパリ近郊に日本漫画テーマパーク建設へ](https://ai-tech-times.web.app/articles/20260826-manga-theme-park-paris-saudi.html) — 2026-08-26 17:05: フランスのパリ近郊に、日本の漫画を扱ったテーマパークが建設されることになりました。サウジアラビアの資金が投入されます。
+- [東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分](https://ai-tech-times.web.app/articles/20260826-tokyo-marine-hd-shareholder-benefit.html) — 2026-08-26 17:05: 東京海上ホールディングスは、新たに株主優待制度を新設することを発表しました。条件を満たした株主を対象に、電子マネーなどが贈呈されます。
+- [JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設](https://ai-tech-times.web.app/articles/20260826-jfe-kawasaki-cold-storage-facility.html) — 2026-08-26 17:05: JFEホールディングスなどは、神奈川県川崎市にある製鉄所の高炉などの跡地を、冷凍した生鮮食品などの保管倉庫として活用する方針を明らかにしました。
 - [OpenAI製品責任者が語るAIエージェントの現在地](https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html) — 2026-08-26 16:01: OpenAIの製品責任者がTechCrunchのインタビューに応じ、AIエージェントやユーザーエクスペリエンス、そしてグレッグ・ブロックマン氏への報告体制について語りました。
 - [Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由](https://ai-tech-times.web.app/articles/20260826-ringg-raises-10-million-from-peak-xv.html) — 2026-08-26 16:01: 音声AIを手がけるRinggが、シリーズAエクステンションラウンドでPeak XVから1,000万ドルを調達しました。電話の枠を超えた音声AIの活用を進めています。
 - [伊藤忠商事、スイッチメディアと資本業務提携を発表](https://ai-tech-times.web.app/articles/20260826-itochu-switch-media-capital-alliance.html) — 2026-08-26 15:00: 伊藤忠商事に関する最新の企業動向として、スイッチメディアとの資本業務提携が報じられました。
@@ -32,23 +42,13 @@
 - [Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅](https://ai-tech-times.web.app/articles/20260826-keenable-indexing-web-for-ai-agents.html) — 2026-08-26 12:42: AIエージェント向けの大規模なウェブ検索インデックスを構築してきたKeenableが、ステルスモードを解除し、2600万ドルのシードラウンドで資金調達を行ったことを明らかにしました。
 - [AppleのMac Studio新モデル登場、M5 UltraでAI性能最大4.3倍に](https://ai-tech-times.web.app/articles/20260826-mac-studio-m5-ultra-release.html) — 2026-08-26 12:42: 米Appleは8月25日（現地時間）、デスクトップPC「Mac Studio」の新モデルを発表しました。新チップを搭載し、価格は41万9800円からとなります。
 - [OpenRouterで米企業が中国モデルに58％流す理由](https://ai-tech-times.web.app/articles/20260826-chinese-ai-models-api-usage.html) — 2026-08-26 12:42: あなたが日常的に使っているAIサービスの「中身」で、いま大きな変化が起きています。米企業のAPI利用において、中国モデルが占める比率が58％に達していることが明らかになりました。
-- [SpaceX、ルイジアナ州に1,000億ドルの新拠点を作る理由](https://ai-tech-times.web.app/articles/20260826-spacex-louisiana-starbase-spaceport.html) — 2026-08-26 12:42: 宇宙開発を手がけるSpaceXは、ルイジアナ州に総額1,000億ドルを投じて第2の宇宙港「スターベース」を建設すると発表しました。
-- [Gatikが2億ドル調達、ペプシコ案件後の背景とは](https://ai-tech-times.web.app/articles/20260826-gatik-raises-200m-following-pepsico-deal.html) — 2026-08-26 12:42: 自動運転トラックを手がけるスタートアップのGatikが、巨額の資金調達を実施しました。ペプシコとの取引に続く今回の資金調達の詳細は以下の通りです。
-- [彫師YouTuber、自宅敷地内へ3人組に不法侵入され警察沙汰に](https://ai-tech-times.web.app/articles/20260826-tattoo-youtuber-home-trespass.html) — 2026-08-26 12:42: 「タトゥー入れてる奴は全員バカ」と主張する人気の彫師YouTuberが、3人組に自宅敷地内へ不法侵入されたことを明かしました。現場での様子やその後の対応が注目を集めています。
-- [熊本県、農林水産業被害が約1102億円に（8月25日時点）](https://ai-tech-times.web.app/articles/20260826-kumamoto-earthquake-agriculture-damage.html) — 2026-08-26 12:42: AI TECH TIMESがお伝えする令和8年熊本地震の最新情報です。熊本県内の農林水産業の被害額が、8月25日時点の速報値で1000億円を超えたことが分かりました。県は被害額がさらに増える見込みとしています。
-- [高市首相、トランプ政権のICC赤根所長制裁に懸念](https://ai-tech-times.web.app/articles/20260826-takaichi-icc-sanctions-akane.html) — 2026-08-26 12:42: アメリカのトランプ政権がICC＝国際刑事裁判所の赤根智子所長を制裁対象に加えたことを受け、高市総理大臣が言及しました。
-- [Abalanceが9月26日付で上場廃止へ 東証の判断](https://ai-tech-times.web.app/articles/20260826-abalance-delisting-september-26.html) — 2026-08-26 12:42: 東京証券取引所は、Abalanceについて改善を見込めないとして、9月26日付で上場廃止とすることを明らかにしました。
-- [大豊建設とUNICONHDが資本業務提携、PPP・PFI共同参画の狙いとは](https://ai-tech-times.web.app/articles/20260826-taisei-kensetsu-uniconhd-capital-alliance.html) — 2026-08-26 12:42: 大豊建設とUNICONHDが資本業務提携を締結しました。両社はPPPやPFI事業への共同参画も視野に入れています。
-- [OpenAI幹部退職が続く中、インフラ部門を再編へ](https://ai-tech-times.web.app/articles/20260826-openai-loses-top-data-center-exec.html) — 2026-08-26 12:39: AI開発を牽引するOpenAIで高名な幹部の退職が相次ぐ中、同社はインフラストラクチャ部門の組織再編に踏み切りました。
-- [OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新](https://ai-tech-times.web.app/articles/20260826-openai-jalapeno-chip-benchmarks.html) — 2026-08-26 12:39: OpenAIが開発した新型チップ「Jalapeño」が、ベンチマークテストにおいて既存の最先端技術を上回る優れた推論性能を記録したことが明らかになりました。
-- [Micron本社周辺で起きる地価高騰と雇用の光景](https://ai-tech-times.web.app/articles/20260826-micron-boise-impact-ai-boom.html) — 2026-08-26 12:39: AIブームに伴う半導体需要の急増は、アメリカ・アイダホ州ボイシにあるMicronの本拠地周辺に大きな変化をもたらしています。雇用増加や新たな億万長者の誕生の一方で、交通渋滞や住宅価格の高騰といった深刻な影響も現れています。
 
 ## 世界のバズ動画TOP3 (2026-08-26)
 - 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 2位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
 - 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 
-## AI用語事典 (全1113語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1118語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,10 +56,10 @@
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠地を置き、AI開発などに欠かせない高性能なGPUなどの半導体製品を広く提供する大手テクノロジー企業。
-- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
+- [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
