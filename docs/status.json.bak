@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-27 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-27 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均405円高、銀行・保険株に買い",
-   "path": "/articles/20260827-bank-insurance-stocks-buy-nikkei-405-yen-up.html",
-   "cat": "株式投資(日本)"
+   "title": "セレス上期営業益57%増、ビットバンク売却で配当1.5倍増配へ",
+   "path": "/articles/20260827-ceres-fy2026-q2-earnings.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 29,
   "limit": 200
  }
 }

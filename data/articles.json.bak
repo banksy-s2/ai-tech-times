@@ -61225,5 +61225,39 @@
   "date": "2026-08-27",
   "time": "05:00",
   "path": "/articles/20260827-bank-insurance-stocks-buy-nikkei-405-yen-up.html"
+ },
+ {
+  "title": "セレス上期営業益57%増、ビットバンク売却で配当1.5倍増配へ",
+  "lead": "セレスのFY2026 Q2決算説明会が開催され、ポイント事業がけん引して上期営業利益が23億円、57%増となったことが発表されました。",
+  "summary3": [
+   "上期営業利益は23億円で57%増",
+   "ポイント事業が業績をけん引",
+   "ビットバンク売却で1.5倍増配へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、セレスのFY2026 Q2決算説明会に関する発表内容について報じます。",
+   "今回の発表によると、同社はポイント事業がけん引役となり、上期営業利益が23億円を記録し、前年同期比で57%増という大幅な増益を達成しました。",
+   "さらに、ビットバンクの売却に伴い、配当を1.5倍に増配する方針であることも明らかになっています。"
+  ],
+  "tags": [
+   "セレス",
+   "決算",
+   "配当"
+  ],
+  "slug": "ceres-fy2026-q2-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "セレス",
+    "type": "company",
+    "desc": "日本のインターネット企業で、ポイント事業などを主要な展開事業として手掛けています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdlhTdWprR3kzS0VOTndPcWlqZG81RmQ1ZElzSi1iNDFqcjR4akdfMkZBZHk4dXluTjYxcE90LURpUGJNNzNna0RPWkkzNU9EUmhyNHJ1T3ZKSVA1cjBZ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-27",
+  "time": "06:00",
+  "path": "/articles/20260827-ceres-fy2026-q2-earnings.html"
  }
 ]
