@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 21:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [moomoo証券に東証と大証が戒告処分](https://ai-tech-times.web.app/articles/20260826-tse-ose-reprimand-moomoo-sec.html) — 2026-08-26 23:00: 東京証券取引所と大阪取引所は、moomoo証券に対して戒告処分を行いました。市場関係者の間で注目を集めています。
 - [SKハイニックスの宮城県工場浮上、村井知事はどう動く？](https://ai-tech-times.web.app/articles/20260826-sk-hynix-miyagi-factory-plan.html) — 2026-08-26 21:05: 韓国の半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことを受け、宮城県の村井嘉浩知事が定例記者会見で言及しました。
 - [政府、生成AI事業者向け知財保護ルールを策定した狙い](https://ai-tech-times.web.app/articles/20260826-government-ip-protection-rules-for-ai.html) — 2026-08-26 21:05: 政府は生成AI事業者向けに、透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定しました。対象範囲や運用方針に注目が集まっています。
 - [X、プライバシー重視のオープンソース「Nitter」に閉鎖要求](https://ai-tech-times.web.app/articles/20260826-x-sends-cease-and-desist-to-nitter.html) — 2026-08-26 21:05: Xは、プライバシー重視のX用フロントエンドとして知られるオープンソースプロジェクト「Nitter」に対し、スクレイピングを理由としてインスタンスやコードリポジトリの削除を求める停止通告書を送付しました。
@@ -41,14 +42,13 @@
 - [福岡県で40度以上の酷暑日、各地で危険な暑さに厳重警戒](https://ai-tech-times.web.app/articles/20260826-fukuoka-extreme-heat-40-degrees.html) — 2026-08-26 17:05: 26日は西日本や東日本の広い範囲で気温が上がり、福岡県では40度以上の「酷暑日」となりました。各地で危険な暑さが続いており、熱中症への厳重な警戒とできるかぎりの対策が求められています。
 - [サウジ資金でパリ近郊に日本漫画テーマパーク建設へ](https://ai-tech-times.web.app/articles/20260826-manga-theme-park-paris-saudi.html) — 2026-08-26 17:05: フランスのパリ近郊に、日本の漫画を扱ったテーマパークが建設されることになりました。サウジアラビアの資金が投入されます。
 - [東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分](https://ai-tech-times.web.app/articles/20260826-tokyo-marine-hd-shareholder-benefit.html) — 2026-08-26 17:05: 東京海上ホールディングスは、新たに株主優待制度を新設することを発表しました。条件を満たした株主を対象に、電子マネーなどが贈呈されます。
-- [JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設](https://ai-tech-times.web.app/articles/20260826-jfe-kawasaki-cold-storage-facility.html) — 2026-08-26 17:05: JFEホールディングスなどは、神奈川県川崎市にある製鉄所の高炉などの跡地を、冷凍した生鮮食品などの保管倉庫として活用する方針を明らかにしました。
 
 ## 世界のバズ動画TOP3 (2026-08-26)
 - 1位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
 - 2位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 
-## AI用語事典 (全1125語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1126語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

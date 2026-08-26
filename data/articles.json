@@ -60907,5 +60907,39 @@
   "date": "2026-08-26",
   "time": "21:05",
   "path": "/articles/20260826-dnp-austriacard-tender-offer-results.html"
+ },
+ {
+  "title": "moomoo証券に東証と大証が戒告処分",
+  "lead": "東京証券取引所と大阪取引所は、moomoo証券に対して戒告処分を行いました。市場関係者の間で注目を集めています。",
+  "summary3": [
+   "東証と大証が処分を実施",
+   "対象はmoomoo証券",
+   "処分の内容は戒告処分"
+  ],
+  "body": [
+   "東京証券取引所と大阪取引所は、moomoo証券に対して戒告処分を行ったことを明らかにしました。今回の処分に関する詳細は今後の対応を含めて注目されています。",
+   "moomoo証券は、株式取引などのサービスを提供する証券会社として知られています。取引所からの処分を受けたことで、今後の動向に関心が集まっています。",
+   "市場の公正性や規律を維持するため、取引所による処分が行われることがあります。今回の戒告処分についても、関係各所での確認が進められています。"
+  ],
+  "tags": [
+   "東証",
+   "大証",
+   "moomoo証券"
+  ],
+  "slug": "tse-ose-reprimand-moomoo-sec",
+  "people": [],
+  "terms": [
+   {
+    "name": "moomoo証券",
+    "type": "company",
+    "desc": "投資情報アプリなどを提供し、国内外の株式取引サービスを展開している証券会社です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zakdmZzhNY0lvdnMwY3ZlWGpDR1FIenpSTWlUd3gzcXdNOU95UGZxOE1CWjQ2cW5kYjRPb2FhTVRybk4zNDhpX3hjUjlaNWhTZ1N2dk10NVViTzgtM1NRQ0dPS2xQYlNVU3lTNDc0b2JTdzFfTDVhckVtOVhmU1E?oc=5",
+  "category": "stock",
+  "date": "2026-08-26",
+  "time": "23:00",
+  "path": "/articles/20260826-tse-ose-reprimand-moomoo-sec.html"
  }
 ]

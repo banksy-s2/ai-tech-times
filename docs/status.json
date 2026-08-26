@@ -1,17 +1,21 @@
 {
- "updated": "2026-08-26 22:04",
- "mode": "軽量便(時事・世界)",
- "articles": [],
+ "updated": "2026-08-26 23:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [
+  {
+   "title": "moomoo証券に東証と大証が戒告処分",
+   "path": "/articles/20260826-tse-ose-reprimand-moomoo-sec.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
- "notes": [
-  "時事・世界の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
- ],
+ "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 127,
+  "used": 130,
   "limit": 200
  }
 }

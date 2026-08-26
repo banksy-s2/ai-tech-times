@@ -60671,5 +60671,241 @@
   "date": "2026-08-26",
   "time": "19:00",
   "path": "/articles/20260826-openai-data-center-chief-chris-malone-exits.html"
+ },
+ {
+  "title": "SKハイニックスの宮城県工場浮上、村井知事はどう動く？",
+  "lead": "韓国の半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことを受け、宮城県の村井嘉浩知事が定例記者会見で言及しました。",
+  "summary3": [
+   "SKハイニックスの工場計画が浮上",
+   "宮城県の村井知事が会見で言及",
+   "県として知り得ている情報はない"
+  ],
+  "body": [
+   "韓国半導体大手のSKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことについて、宮城県の村井嘉浩知事は26日の定例記者会見で、「いろんな半導体関連企業にアプローチしたのは事実だが、今回の件で県として何か知り得ているものはない」と述べました。",
+   "今回の計画浮上に対し、県としては現時点で具体的な情報を把握していないことが明らかになりました。村井知事は、今後についても動向を注視していく考えを示しています。",
+   "半導体関連企業へのアプローチを続けてきた宮城県ですが、今回のSKハイニックスを巡る動きに対しては慎重に情報を収集しつつ、今後の展開を見守る姿勢を見せています。"
+  ],
+  "tags": [
+   "SKハイニックス",
+   "宮城県",
+   "半導体"
+  ],
+  "slug": "sk-hynix-miyagi-factory-plan",
+  "people": [
+   {
+    "name": "村井嘉浩知事",
+    "bio": "宮城県知事を務める日本の政治家。県の経済振興や企業誘致などに積極的に取り組んでいる。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "SKハイニックス",
+    "type": "company",
+    "desc": "韓国の本拠を置く世界的な半導体大手企業。主にDRAMなどのメモリー半導体の製造を手がける。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-sk-hynix-miyagi-factory-plan.html"
+ },
+ {
+  "title": "政府、生成AI事業者向け知財保護ルールを策定した狙い",
+  "lead": "政府は生成AI事業者向けに、透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定しました。対象範囲や運用方針に注目が集まっています。",
+  "summary3": [
+   "政府が生成AI事業者向けルールを策定",
+   "透明性の確保と知的財産権の保護を促進",
+   "プリンシプル・コードの運用方針が焦点"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、政府は生成AI事業者向けに透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を新たに策定しました。",
+   "今回の策定により、生成AIの開発や運用において、著作権をはじめとする知財保護のあり方や、事業者が遵守すべき透明性確保の具体的なルール整備が進められることになります。",
+   "急速に普及が進む生成AI技術において、権利者保護と技術発展のバランスをどのように取るのか、今後の運用方針や対象範囲の詳細は事業者だけでなく多くの関係者から関心を持たれています。"
+  ],
+  "tags": [
+   "生成AI",
+   "知的財産権",
+   "政府"
+  ],
+  "slug": "government-ip-protection-rules-for-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "生成AI",
+    "type": "ai",
+    "desc": "テキストや画像などのコンテンツを自律的に生成することができる人工知能技術のことです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-government-ip-protection-rules-for-ai.html"
+ },
+ {
+  "title": "X、プライバシー重視のオープンソース「Nitter」に閉鎖要求",
+  "lead": "Xは、プライバシー重視のX用フロントエンドとして知られるオープンソースプロジェクト「Nitter」に対し、スクレイピングを理由としてインスタンスやコードリポジトリの削除を求める停止通告書を送付しました。",
+  "summary3": [
+   "XがNitterに停止通告書を送付",
+   "スクレイピングが理由で削除を要求",
+   "オープンソースのコードも対象に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。Xは、プライバシーに配慮したXのフロントエンドを提供するオープンソースプロジェクト「Nitter」に対し、停止通告書を送付したことが明らかになりました。Nitterが提供するインスタンスやコードリポジトリの即座の削除を求めています。",
+   "今回の通告における主な理由は、プラットフォームにおける不正なデータ収集とされるスクレイピング問題です。Nitterはこれまで、ログイン不要でXの投稿内容を閲覧できるプライバシー重視の代替手段として利用されてきましたが、公式側からの厳しい法的措置に直面する形となりました。",
+   "オープンソースプロジェクトとして開発されてきたNitterの今後や、プライバシー重視の閲覧手段に対するXの姿勢に、テック業界やオープンソースコミュニティからの注目が集まっています。"
+  ],
+  "tags": [
+   "X",
+   "Nitter",
+   "スクレイピング"
+  ],
+  "slug": "x-sends-cease-and-desist-to-nitter",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+  "category": "silicon",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-x-sends-cease-and-desist-to-nitter.html"
+ },
+ {
+  "title": "ガミックス、ATEEZのSANに謝罪した理由",
+  "lead": "日本人YouTuberのガミックスが、韓国のグループ「ATEEZ」のメンバーであるSANに対して謝罪しました。ダンス動画でのある動作が炎上したためです。",
+  "summary3": [
+   "日本人YouTuberガミックスが謝罪",
+   "ATEEZのSANに対する動作が原因",
+   "ダンス動画での目を吊り上げる行為"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によると、日本人YouTuberのガミックスが、韓国のボーイズグループ「ATEEZ」のメンバーであるSANに対して謝罪を行いました。",
+   "今回の謝罪の背景には、ガミックスが公開したダンス動画が関係しています。その動画内で、目を吊り上げる動作を行ったことがインターネット上で問題視され、大きな炎上に発展していました。",
+   "ファンの間やネット上で批判の声が高まる中、ガミックスは今回の騒動を受けてSANに対する謝罪の意思を表明することとなりました。SNS上での表現や他者への配慮について、改めて注目が集まる事例となっています。"
+  ],
+  "tags": [
+   "ガミックス",
+   "ATEEZ",
+   "炎上"
+  ],
+  "slug": "gamix-apologizes-to-ateez-san",
+  "people": [
+   {
+    "name": "SAN",
+    "bio": "韓国の人気ボーイズグループ「ATEEZ」のメンバーとして活動するアーティスト。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DQ0t3ZFh5SzlDMHNUMzROdGl2TFRNVjZVcGgzc0RJZWh0Q0g0cUI1Rk5DQjgybDBiNm5ZOTdOLWQ0ZW1tNWFrQWpTMF9xeC1PR2psTzNTdjFoTDJs?oc=5",
+  "category": "influencer",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-gamix-apologizes-to-ateez-san.html"
+ },
+ {
+  "title": "自民党税調が会合、食料品の消費税減税で農家や漁業者へ給付金検討",
+  "lead": "食料品の消費税減税をめぐり、自民党の税制調査会は会合を開き、政府が農家や漁業者への給付金支給などの支援策を説明しました。",
+  "summary3": [
+   "自民党の税制調査会が会合を開催",
+   "食料品の消費税減税議論が進む",
+   "農家や漁業者への給付金を検討"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。食料品の消費税減税をめぐり、自民党の税制調査会の会合が開かれました。",
+   "この会合において、政府は消費税率の引き下げによって影響を受ける農家や漁業者に対し、給付金を支給するなどとした具体的な支援策を説明しました。",
+   "出席した議員などからは、消費税率の引き下げに伴う負担軽減に万全を期すよう求める声が上がっており、今後の議論の行方が注目されます。"
+  ],
+  "tags": [
+   "消費税減税",
+   "自民党",
+   "税制調査会"
+  ],
+  "slug": "tax-reduction-nogyo-gyogyo",
+  "people": [],
+  "terms": [
+   {
+    "name": "自民党",
+    "type": "company",
+    "desc": "日本の中道右派政党であり、現在の日本の政権を担う主要な政党の一つです。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260826de46477",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-tax-reduction-nogyo-gyogyo.html"
+ },
+ {
+  "title": "総務省、郵便事業の持続可能なサービス検討",
+  "lead": "郵便事業の赤字が続いている問題を受け、持続可能なサービスのあり方などを検討する総務省の委員会の初会合が開かれました。",
+  "summary3": [
+   "郵便事業の赤字が続く",
+   "総務省で委員会初会合",
+   "全国一律の水準が焦点"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする「AI TECH TIMES」のニュースです。郵便事業の赤字が続いていることから、持続可能なサービスのあり方などを検討する総務省の委員会の初会合が開かれました。",
+   "今回の委員会では、全国一律の郵便サービスの水準がどの程度見直されるかが議論の焦点となります。",
+   "私たちの生活に身近な郵便サービスの今後の行方に、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "郵便事業",
+   "総務省",
+   "社会"
+  ],
+  "slug": "postal-service-sustainability-review",
+  "people": [],
+  "terms": [
+   {
+    "name": "総務省",
+    "type": "company",
+    "desc": "行政事務などを担当し、地方自治や情報通信などを広く所管する日本の国の行政機関です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260826de46414",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-postal-service-sustainability-review.html"
+ },
+ {
+  "title": "大日本印刷、AUSTRIACARDの公開買付け結果を発表",
+  "lead": "大日本印刷は、オーストリアの上場企業であるAUSTRIACARD HOLDINGS AGの株式に関する公開買付けの結果を発表しました。",
+  "summary3": [
+   "大日本印刷が適時開示を実施",
+   "対象はAUSTRIACARD",
+   "株式の公開買付け結果を公表"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。大日本印刷[7912]は、2026年8月26日に適時開示情報を発表しました。",
+   "今回の発表内容は、オーストリアの上場企業である「AUSTRIACARD HOLDINGS AG」の株式に関する公開買付けの結果についてとなっています。",
+   "詳細な結果や今後の動向については、日経会社情報DIGITALなどの関連情報をご確認ください。"
+  ],
+  "tags": [
+   "大日本印刷",
+   "AUSTRIACARD",
+   "M&A"
+  ],
+  "slug": "dnp-austriacard-tender-offer-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "大日本印刷",
+    "type": "company",
+    "desc": "日本の大手印刷会社であり、出版印刷から情報コミュニケーションや包装資材など幅広い事業を展開する企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRURzd0FGZ2dqc2lTXzZXU0w3eWpYLVBEYUdoeW1ZaEhUMHJ1Sm5nYXVJUG9JQVdfOWRJSlQ3bFZXV3lpWGc5bUVGaG5YMVhzN2FzVHBoQ0g3YnBNY3R0c3czd1M0eF9OUkE?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-26",
+  "time": "21:05",
+  "path": "/articles/20260826-dnp-austriacard-tender-offer-results.html"
  }
 ]
