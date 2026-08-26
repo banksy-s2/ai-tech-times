@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [セレス上期営業益57%増、ビットバンク売却で配当1.5倍増配へ](https://ai-tech-times.web.app/articles/20260827-ceres-fy2026-q2-earnings.html) — 2026-08-27 06:00: セレスのFY2026 Q2決算説明会が開催され、ポイント事業がけん引して上期営業利益が23億円、57%増となったことが発表されました。
 - [日経平均405円高、銀行・保険株に買い](https://ai-tech-times.web.app/articles/20260827-bank-insurance-stocks-buy-nikkei-405-yen-up.html) — 2026-08-27 05:00: 日本経済新聞の報道によると、銀行や保険株に買い注文が入り、日経平均株価が405円高となりました。市場では利上げ観測が強まっています。
 - [ネパール・中国国境地帯の土石流で日本人5人と連絡取れず](https://ai-tech-times.web.app/articles/20260827-nepal-china-border-landslide-missing-japanese.html) — 2026-08-27 04:00: ネパールと中国の国境地帯で発生した大規模な土石流により、観光ツアーに参加していたとみられる日本人5人と連絡が取れなくなっていることが分かりました。
 - [石川県の加賀と能登で線状降水帯発生、厳重な警戒を](https://ai-tech-times.web.app/articles/20260827-heavy-rain-ishikawa-senjokosuitai.html) — 2026-08-27 04:00: 気象庁は27日午前3時8分、石川県の加賀と能登に「線状降水帯発生」の気象防災速報を発表しました。大雨に対する厳重な警戒が呼びかけられています。
@@ -41,14 +42,13 @@
 - [Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ](https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html) — 2026-08-26 19:00: 米アマゾンが、人間には簡単でコンピューターには難しい作業を外部委託する仕組みとして2005年に開始したサービスを終了することが分かりました。
 - [OpenAIデータセンター責任者の退社が判明、組織再編の行方](https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html) — 2026-08-26 19:00: AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。
 - [Okta Japan：2社に1社が複数AIを併用する理由](https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html) — 2026-08-26 18:00: Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。
-- [ビル・ゲイツが語る「AIの危険なしきい値」](https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html) — 2026-08-26 17:05: ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-08-27)
 - 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 2位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 - 3位: [Ali G: Who Iz I? | Official Trailer](https://www.youtube.com/watch?v=6t7C4qaHihE)
 
-## AI用語事典 (全1129語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1130語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
