@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均405円高、銀行・保険株に買い](https://ai-tech-times.web.app/articles/20260827-bank-insurance-stocks-buy-nikkei-405-yen-up.html) — 2026-08-27 05:00: 日本経済新聞の報道によると、銀行や保険株に買い注文が入り、日経平均株価が405円高となりました。市場では利上げ観測が強まっています。
 - [ネパール・中国国境地帯の土石流で日本人5人と連絡取れず](https://ai-tech-times.web.app/articles/20260827-nepal-china-border-landslide-missing-japanese.html) — 2026-08-27 04:00: ネパールと中国の国境地帯で発生した大規模な土石流により、観光ツアーに参加していたとみられる日本人5人と連絡が取れなくなっていることが分かりました。
 - [石川県の加賀と能登で線状降水帯発生、厳重な警戒を](https://ai-tech-times.web.app/articles/20260827-heavy-rain-ishikawa-senjokosuitai.html) — 2026-08-27 04:00: 気象庁は27日午前3時8分、石川県の加賀と能登に「線状降水帯発生」の気象防災速報を発表しました。大雨に対する厳重な警戒が呼びかけられています。
 - [OpenAIのハラペーニョ、エヌビディアを効率で凌駕](https://ai-tech-times.web.app/articles/20260827-openai-jalapeno-ai-chip-nvidia.html) — 2026-08-27 02:00: カスタムAIシリコンの開発を進めるOpenAIの新チップ「Jalapeño（ハラペーニョ）」が、主要な推論効率テストでNvidiaのシステムを上回る結果を出しました。
@@ -41,7 +42,6 @@
 - [OpenAIデータセンター責任者の退社が判明、組織再編の行方](https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html) — 2026-08-26 19:00: AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。
 - [Okta Japan：2社に1社が複数AIを併用する理由](https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html) — 2026-08-26 18:00: Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。
 - [ビル・ゲイツが語る「AIの危険なしきい値」](https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html) — 2026-08-26 17:05: ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。
-- [Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開](https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html) — 2026-08-26 17:05: Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。
 
 ## 世界のバズ動画TOP3 (2026-08-27)
 - 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)

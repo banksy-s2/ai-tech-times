@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-27 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-27 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ネパール・中国国境地帯の土石流で日本人5人と連絡取れず",
-   "path": "/articles/20260827-nepal-china-border-landslide-missing-japanese.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "石川県の加賀と能登で線状降水帯発生、厳重な警戒を",
-   "path": "/articles/20260827-heavy-rain-ishikawa-senjokosuitai.html",
-   "cat": "時事・世界"
+   "title": "日経平均405円高、銀行・保険株に買い",
+   "path": "/articles/20260827-bank-insurance-stocks-buy-nikkei-405-yen-up.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 25,
   "limit": 200
  }
 }
