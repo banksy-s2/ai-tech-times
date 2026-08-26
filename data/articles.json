@@ -59600,5 +59600,394 @@
   "date": "2026-08-26",
   "time": "12:39",
   "path": "/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html"
+ },
+ {
+  "title": "AnthropicのClaude、チャットとCoworkで記憶を共有可能に",
+  "lead": "AI開発企業Anthropicは、Claudeのチャット機能とCowork機能の間で記憶の共有を開始しました。プロジェクトや好みの再入力の手間が省けるようになります。",
+  "summary3": [
+   "Claudeの記憶がチャットとCoworkで共有可能に",
+   "プロジェクトや好みの再入力を繰り返す必要が消える",
+   "ユーザーは同じ文脈を何度もAIに説明せずに済む"
+  ],
+  "body": [
+   "AI開発を手がけるAnthropicは、提供するAIアシスタント「Claude」において、チャットとCoworkの間で記憶を共有する機能を導入しました。これにより、ユーザーはプロジェクトの詳細や自身の好み、その他の文脈をアプリ内で繰り返し説明する手間から解放されます。",
+   "これまで、異なる機能やセッションの間でAIがこれまでのやり取りを忘れてしまうことがあり、その都度コンテキストを再構築する必要がありました。今回のアップデートにより、一連の作業や会話を通じてAIが情報を保持し続けるため、よりスムーズな連携が可能になります。",
+   "日々の業務でAIを活用するユーザーにとって、事前の指示出しや設定を何度も繰り返す負担が軽減されることは大きなメリットです。Anthropicは、ユーザーの利便性を高めるための機能改善を継続的に進めています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI"
+  ],
+  "slug": "claude-cowork-shared-memory",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-claude-cowork-shared-memory.html"
+ },
+ {
+  "title": "Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅",
+  "lead": "AIエージェント向けの大規模なウェブ検索インデックスを構築してきたKeenableが、ステルスモードを解除し、2600万ドルのシードラウンドで資金調達を行ったことを明らかにしました。",
+  "summary3": [
+   "Keenableがステルスモードを解除",
+   "2600万ドルのシードラウンドを実施",
+   "AIエージェント向けの検索インデックス構築"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunch AIの報道より得た情報によると、AIエージェント向けの巨大なウェブ検索インデックスを開発してきたKeenableが、ついにステルスモードを解除しました。今回の発表に合わせて、総額2600万ドルのシードラウンドによる資金調達を完了したことも明らかにされています。",
+   "同社はこれまで公に詳細な事業内容を明かしていませんでしたが、AIエージェントが効率的に情報を取得し活用するための基盤となるウェブ検索インデックスの構築に注力してきました。AIエージェントの高度化に伴い、網羅的なデータ検索への需要が急速に高まる中での公式な市場参入となります。",
+   "今回獲得した2600万ドルの豊富な資金をもとに、Keenableは開発体制をさらに強化し、AIエージェント向けの検索インデックス事業を本格的に展開していく見通しです。今後のAI開発における基盤インフラとして、同社の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Keenable",
+   "AIエージェント",
+   "資金調達"
+  ],
+  "slug": "keenable-indexing-web-for-ai-agents",
+  "people": [],
+  "terms": [
+   {
+    "name": "Keenable",
+    "type": "company",
+    "desc": "AIエージェント向けの大規模なウェブ検索インデックスを構築している企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-keenable-indexing-web-for-ai-agents.html"
+ },
+ {
+  "title": "AppleのMac Studio新モデル登場、M5 UltraでAI性能最大4.3倍に",
+  "lead": "米Appleは8月25日（現地時間）、デスクトップPC「Mac Studio」の新モデルを発表しました。新チップを搭載し、価格は41万9800円からとなります。",
+  "summary3": [
+   "Mac Studioの新モデルが発表される",
+   "M5 UltraでAI性能が最大4.3倍に向上",
+   "M5 Max搭載は41万9800円からで9月22日発売"
+  ],
+  "body": [
+   "米Appleは8月25日（現地時間）、デスクトップPC「Mac Studio」の新モデルを発表しました。同日より予約注文の受け付けを開始しており、9月22日に発売する予定です。",
+   "新モデルでは、新チップとなる「M5 Ultra」または「M5 Max」を搭載しています。「M5 Ultra」を搭載することで、AI性能は最大4.3倍に向上するのが大きな特徴です。さらに、ユニファイドメモリは最大512GBまで選択することが可能となっています。",
+   "気になる価格は、M5 Max搭載モデルが41万9800円から、M5 Ultra搭載モデルが94万9800円からの設定となっています。待望の新モデルとして、プロユースの作業環境に大きな進化をもたらす注目の製品となりそうです。"
+  ],
+  "tags": [
+   "Apple",
+   "Mac Studio",
+   "M5 Ultra"
+  ],
+  "slug": "mac-studio-m5-ultra-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国の世界的なテクノロジー企業で、iPhoneやMacシリーズなどを開発・販売する。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2608/26/2000000778/",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-mac-studio-m5-ultra-release.html"
+ },
+ {
+  "title": "OpenRouterで米企業が中国モデルに58％流す理由",
+  "lead": "あなたが日常的に使っているAIサービスの「中身」で、いま大きな変化が起きています。米企業のAPI利用において、中国モデルが占める比率が58％に達していることが明らかになりました。",
+  "summary3": [
+   "コーディング性能上位20の8つが中国発",
+   "米企業が中国モデルに流すトークンは58%",
+   "利用者には見えないAIの中身を追う"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がITmedia AI+の報道を元にお伝えします。いま、私たちが何気なく使っているAIサービスの内部で、中国製モデルの存在感が急速に高まっています。",
+   "Arena AIの公開しているコーディング性能ランキングでは、上位20モデルのうち8つを中国発のモデルが占めるという結果が出ています。技術的な実力において、中国発のAIモデルが世界的な水準に達していることが示されています。",
+   "さらに、AIモデルの中継サービスであるOpenRouterのデータでは、米国の企業が利用するトークンの比率のうち、実に58％が中国モデルへと流れていることが分かりました。利用者からは見えないAIの「中身」において、中国モデルの活用が広く浸透している現実が浮き彫りになっています。"
+  ],
+  "tags": [
+   "AI",
+   "中国モデル",
+   "OpenRouter"
+  ],
+  "slug": "chinese-ai-models-api-usage",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenRouter",
+    "type": "ai",
+    "desc": "多様なAIモデルへ簡単にアクセスできる中継サービスを提供するプラットフォーム"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-chinese-ai-models-api-usage.html"
+ },
+ {
+  "title": "SpaceX、ルイジアナ州に1,000億ドルの新拠点を作る理由",
+  "lead": "宇宙開発を手がけるSpaceXは、ルイジアナ州に総額1,000億ドルを投じて第2の宇宙港「スターベース」を建設すると発表しました。",
+  "summary3": [
+   "SpaceXが新宇宙港を建設",
+   "ルイジアナ州で2027年着工",
+   "2029年にロケット飛行の計画"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がTechCrunchの報道に基づきお伝えします。米宇宙開発企業SpaceXは、ルイジアナ州に第2の「スターベース」となる宇宙港を建設すると発表しました。",
+   "今回のプロジェクト規模は1,000億ドルにのぼるとされています。同社によれば、建設工事は2027年に開始される予定です。",
+   "さらに、早ければ2029年にも新型ロケット「Starship」が同地から飛び立つ可能性があるということです。"
+  ],
+  "tags": [
+   "SpaceX",
+   "宇宙開発",
+   "ロケット"
+  ],
+  "slug": "spacex-louisiana-starbase-spaceport",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカ合衆国カリフォルニア州に本拠を置く、民間宇宙飛行企業。ロケットの開発や宇宙輸送を行っている。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+  "category": "silicon",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-spacex-louisiana-starbase-spaceport.html"
+ },
+ {
+  "title": "Gatikが2億ドル調達、ペプシコ案件後の背景とは",
+  "lead": "自動運転トラックを手がけるスタートアップのGatikが、巨額の資金調達を実施しました。ペプシコとの取引に続く今回の資金調達の詳細は以下の通りです。",
+  "summary3": [
+   "自動運転トラックのGatikが資金調達",
+   "調達額は同社これまでで最大規模の2億ドル",
+   "カタール投資庁などが資金調達を主導"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道に基づきお伝えします。自動運転トラックを手がけるスタートアップ企業のGatikは、新たな資金調達ラウンドにおいて2億ドルを調達したことを発表しました。",
+   "今回の資金調達は、Gatikにとってこれまでで最大規模の金額となります。ラウンドを主導したのは、カタール投資庁およびKoch Disruptive Technologiesの2者です。",
+   "今回の巨額の資金調達は、大手飲料・食品メーカーであるペプシコとの取引に続く形で行われました。自動運転技術の実用化と事業展開を進める同社の今後の動きに注目が集まっています。"
+  ],
+  "tags": [
+   "自動運転",
+   "資金調達",
+   "AI TECH TIMES"
+  ],
+  "slug": "gatik-raises-200m-following-pepsico-deal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Gatik",
+    "type": "company",
+    "desc": "B2B向けの中距離物流に特化した自動運転トラックの開発を手がけるスタートアップ企業。"
+   },
+   {
+    "name": "ペプシコ",
+    "type": "company",
+    "desc": "米国に本拠地を置き、世界的な飲料やスナックなどの食品事業を展開する大手企業。"
+   },
+   {
+    "name": "カタール投資庁",
+    "type": "company",
+    "desc": "カタールの政府系ファンドであり、国内外の幅広い企業やプロジェクトへの投資を行う。"
+   },
+   {
+    "name": "Koch Disruptive Technologies",
+    "type": "company",
+    "desc": "米国の巨大コングロマリットであるコック・インダストリーズ傘下のベンチャーキャピタル。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+  "category": "silicon",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-gatik-raises-200m-following-pepsico-deal.html"
+ },
+ {
+  "title": "彫師YouTuber、自宅敷地内へ3人組に不法侵入され警察沙汰に",
+  "lead": "「タトゥー入れてる奴は全員バカ」と主張する人気の彫師YouTuberが、3人組に自宅敷地内へ不法侵入されたことを明かしました。現場での様子やその後の対応が注目を集めています。",
+  "summary3": [
+   "人気の彫師が自宅への侵入被害を明かす",
+   "3人組からしつこくインタビュー要求",
+   "警察が到着し全員警察署へ連行された"
+  ],
+  "body": [
+   "「タトゥー入れてる奴は全員バカ」と主張する人気の彫師YouTuberが、2026年8月25日までに自身のSNSや情報発信を通じて、3人組に自宅敷地内へ不法侵入されたことを明らかにしました。",
+   "発表によると、事件は同月23日に発生しました。彫師が好奇心から外に出たところ、待ち構えていた3人組からしつこくインタビューを要求されたということです。予期せぬ訪問と執拗な要求に、現場は緊迫した雰囲気に包まれました。",
+   "その後、ほどなくして警察が現場に到着し、事態は急展開を迎えます。その場で対応にあたった警察官により、敷地内に侵入していた3人組はそのまま全員が警察署へ連行されていきました。人気配信者をめぐる思わぬトラブルと迅速な警察の対応に、多くの関心が寄せられています。"
+  ],
+  "tags": [
+   "YouTuber",
+   "事件",
+   "警察沙汰"
+  ],
+  "slug": "tattoo-youtuber-home-trespass",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://news.livedoor.com/article/detail/32156268/",
+  "category": "influencer",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-tattoo-youtuber-home-trespass.html"
+ },
+ {
+  "title": "熊本県、農林水産業被害が約1102億円に（8月25日時点）",
+  "lead": "AI TECH TIMESがお伝えする令和8年熊本地震の最新情報です。熊本県内の農林水産業の被害額が、8月25日時点の速報値で1000億円を超えたことが分かりました。県は被害額がさらに増える見込みとしています。",
+  "summary3": [
+   "熊本地震の農林水産業の被害額が判明",
+   "8月25日時点の速報値で1102億円に",
+   "県によると被害額はさらに増える見込み"
+  ],
+  "body": [
+   "令和8年熊本地震による熊本県内の農林水産業の被害額について、県のまとめで新たな状況が明らかになりました。8月25日時点の速報値によると、被害総額は約1102億円となり、1000億円を超える規模となっています。",
+   "今回の被害額の集計は県が実施したものであり、現時点での速報値に基づく数値となります。農業、林業、水産業の各分野にわたって大きな影響が出ており、地域の基幹産業への打撃が深刻な状況を示しています。",
+   "県によれば、今回の被害額はこれで確定ではなく、今後さらに増える見込みだということです。被害の全容把握や今後の復旧に向けた動向について、引き続き県の発表が注目されます。"
+  ],
+  "tags": [
+   "熊本地震",
+   "熊本県",
+   "農林水産業"
+  ],
+  "slug": "kumamoto-earthquake-agriculture-damage",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260826de46378",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-kumamoto-earthquake-agriculture-damage.html"
+ },
+ {
+  "title": "高市首相、トランプ政権のICC赤根所長制裁に懸念",
+  "lead": "アメリカのトランプ政権がICC＝国際刑事裁判所の赤根智子所長を制裁対象に加えたことを受け、高市総理大臣が言及しました。",
+  "summary3": [
+   "トランプ政権がICC所長を制裁",
+   "高市首相が日本の立場と不一致と表明",
+   "事態を大変深刻に受け止めていると発言"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、アメリカのトランプ政権がICC＝国際刑事裁判所の赤根智子所長を制裁対象に加えたことが明らかになりました。",
+   "このアメリカの措置に対して、高市総理大臣は「日本の立場と相いれるものではなく、大変深刻に受け止めている」と述べ、政府としての懸念を表明しました。",
+   "そのうえで、日本政府としての今後の対応や立場について、引き続き慎重に対応していく方針を示しています。"
+  ],
+  "tags": [
+   "国際政治",
+   "ICC",
+   "高市首相"
+  ],
+  "slug": "takaichi-icc-sanctions-akane",
+  "people": [
+   {
+    "name": "高市総理大臣",
+    "bio": "日本の内閣総理大臣を務め、国の政治をリードする政治家です。"
+   },
+   {
+    "name": "赤根智子所長",
+    "bio": "日本人として初めてICC＝国際刑事裁判所の所長に就任した人物です。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260825de46290",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-takaichi-icc-sanctions-akane.html"
+ },
+ {
+  "title": "Abalanceが9月26日付で上場廃止へ 東証の判断",
+  "lead": "東京証券取引所は、Abalanceについて改善を見込めないとして、9月26日付で上場廃止とすることを明らかにしました。",
+  "summary3": [
+   "Abalanceが9月26日付で上場廃止へ",
+   "東証が改善を見込めないと判断",
+   "朝日新聞が報じたもの"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Abalanceは9月26日付で上場廃止になる見通しとなりました。東京証券取引所が改善を見込めないと判断したことによるものです。",
+   "この情報は朝日新聞によって報じられました。上場廃止日や今後の対応については、各所からの発表に注目が集まっております。投資家の皆様におかれましては、公式情報を冷静にご確認いただくことが重要となります。"
+  ],
+  "tags": [
+   "Abalance",
+   "上場廃止",
+   "東証"
+  ],
+  "slug": "abalance-delisting-september-26",
+  "people": [],
+  "terms": [
+   {
+    "name": "Abalance",
+    "type": "company",
+    "desc": "東京証券取引所において上場廃止が決定された企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6YWJLTG5JQ0NLMG9uVTNtYjlhajA1ZWZGSnJEU2dFVFN5WXpjdUxKN2Y4cjFsa3lyVVpBZHduWnNZcjhEcWtXcWluNFFxajJUSnExQzV6UENlQnVZNUpvMVJCSTRwSTg?oc=5",
+  "category": "stock",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-abalance-delisting-september-26.html"
+ },
+ {
+  "title": "大豊建設とUNICONHDが資本業務提携、PPP・PFI共同参画の狙いとは",
+  "lead": "大豊建設とUNICONHDが資本業務提携を締結しました。両社はPPPやPFI事業への共同参画も視野に入れています。",
+  "summary3": [
+   "大豊建設とUNICONHDが資本業務提携",
+   "PPP・PFI事業への共同参画も視野に",
+   "日刊建設工業新聞が報じる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする企業の最新動向です。大豊建設とUNICONHDは、資本業務提携を締結したことを発表しました。日刊建設工業新聞の報道によると、両社はこの提携を通じて関係を強化し、今後の事業展開を推進していく方針です。",
+   "今回の提携における重要な取り組みの一つとして、PPP（パブリック・プライベート・パートナーシップ）およびPFI（プライベート・ファイナンス・イニシアティブ）への共同参画も視野に入れていることが挙げられます。官民連携の手法を活用したインフラ整備や公共事業などへの共同アプローチが期待されています。",
+   "建設業界における事業環境が変化する中、両社がどのような形でシナジーを生み出し、具体的なプロジェクトに結びつけていくのか、今後の展開に注目が集まります。"
+  ],
+  "tags": [
+   "大豊建設",
+   "UNICONHD",
+   "資本業務提携"
+  ],
+  "slug": "taisei-kensetsu-uniconhd-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "大豊建設",
+    "type": "company",
+    "desc": "土木工事や建築工事を手掛ける日本の総合建設会社（ゼネコン）であり、長年の実績を持つ。"
+   },
+   {
+    "name": "UNICONHD",
+    "type": "company",
+    "desc": "建設・不動産分野などに関連する事業を展開し、グループ経営を行う持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BRnBLVElCeXJCMzU3dDYycy1qM2dHWTI2YTQyNTZrZUdQc2ZsdnBJaFBPSjN6UkNMMmhYdy1uY3ItUFota2JJ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-26",
+  "time": "12:42",
+  "path": "/articles/20260826-taisei-kensetsu-uniconhd-capital-alliance.html"
  }
 ]

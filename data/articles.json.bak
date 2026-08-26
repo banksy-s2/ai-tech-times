@@ -59245,5 +59245,360 @@
   "date": "2026-08-25",
   "time": "19:00",
   "path": "/articles/20260825-shein-hong-kong-ipo-valuation.html"
+ },
+ {
+  "title": "OpenAI幹部退職が続く中、インフラ部門を再編へ",
+  "lead": "AI開発を牽引するOpenAIで高名な幹部の退職が相次ぐ中、同社はインフラストラクチャ部門の組織再編に踏み切りました。",
+  "summary3": [
+   "OpenAIで高名な幹部の退職が続く",
+   "マローン氏の離職前に組織を再編した",
+   "カッティ氏がインフラ部門を統括する"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする本日のニュースです。人工知能の開発で世界をリードするOpenAIにおいて、またしても高名な幹部の退職が明らかになりました。相次ぐ人材の流出は、業界内外で大きな注目を集めています。",
+   "マローン氏が同社を離れる前、OpenAIはすでにインフラストラクチャ組織の大幅な再編を進めていました。この再編により、マローン氏の報告ラインはグレッグ・ブロックマン社長から外されることになりました。",
+   "組織の変更に伴い、今後はサチン・カッティ副社長がインフラストラクチャグループの責任者としてグループを率いる体制へと移行しています。今後の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "人事",
+   "AIインフラ"
+  ],
+  "slug": "openai-loses-top-data-center-exec",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ・サンフランシスコに拠点を置き、対話型AIなどを開発する企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-openai-loses-top-data-center-exec.html"
+ },
+ {
+  "title": "OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新",
+  "lead": "OpenAIが開発した新型チップ「Jalapeño」が、ベンチマークテストにおいて既存の最先端技術を上回る優れた推論性能を記録したことが明らかになりました。",
+  "summary3": [
+   "OpenAIの新チップJalapeñoをテスト",
+   "より多くのトークンと電力効率を実現",
+   "既存の最先端技術をベンチマークで上回る"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。TechCrunch AIの報道によると、OpenAIが手がける新しいチップ「Jalapeño」について、その優れた性能を示すベンチマーク結果が公開されました。",
+   "SemiAnalysisが実施した「InferenceX」ベンチマークによるテストでは、Jalapeñoはユーザーあたりのトークン処理数、およびキロワットあたりのスループットの双方が、現在利用可能な最先端技術の数値を上回る結果を記録しました。",
+   "大規模な運用環境における高速な推論処理を目的として構築された本チップの動向は、今後のAIインフラ技術の進化において注目を集めることになりそうです。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Jalapeño",
+   "AIチップ"
+  ],
+  "slug": "openai-jalapeno-chip-benchmarks",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究機関であり、対話型AI「ChatGPT」などを開発・提供する世界的な企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-openai-jalapeno-chip-benchmarks.html"
+ },
+ {
+  "title": "Micron本社周辺で起きる地価高騰と雇用の光景",
+  "lead": "AIブームに伴う半導体需要の急増は、アメリカ・アイダホ州ボイシにあるMicronの本拠地周辺に大きな変化をもたらしています。雇用増加や新たな億万長者の誕生の一方で、交通渋滞や住宅価格の高騰といった深刻な影響も現れています。",
+  "summary3": [
+   "AIブームで半導体企業の本拠地が変化",
+   "雇用増加や億万長者誕生の一方で渋滞も",
+   "日本でも熊本などで地価や賃料が上昇"
+  ],
+  "body": [
+   "AIブームにより、世界各地でAI開発に必要なデータセンターや発電施設、部品の製造工場が建設され始めています。こうした施設周辺では急速な開発が進んでおり、その影響は地域社会のあり方を大きく変えつつあります。",
+   "海外メディアのCNBCは、アメリカ・アイダホ州ボイシに拠点を置く半導体製造企業Micronの事例を取り上げました。現地では新たな億万長者の誕生や雇用の増加がみられる一方で、交通渋滞の増加や住宅価格の高騰といった問題も発生しています。",
+   "同様の現象は日本国内でも起きています。例えばTSMCが熊本県菊陽町に半導体工場を建設した事例では、内閣府のまとめにより工場周辺の地価や賃料が大きく上昇していることが分かっており、半導体ブームが地域経済や住民生活に与える影響に関心が集まっています。"
+  ],
+  "tags": [
+   "Micron",
+   "半導体",
+   "AIブーム"
+  ],
+  "slug": "micron-boise-impact-ai-boom",
+  "people": [],
+  "terms": [
+   {
+    "name": "Micron",
+    "type": "company",
+    "desc": "アメリカ・アイダホ州ボイシに本拠地を置く大手半導体製造企業。"
+   },
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "台湾に本拠地を置く世界最大の半導体受託製造企業（ファウンドリ）。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260825-micron-boise-impact/",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-micron-boise-impact-ai-boom.html"
+ },
+ {
+  "title": "月間問い合わせ4倍に、エリア特化リフォーム会社がAI検索を攻略した方法",
+  "lead": "AI TECH TIMESは、エリア特化型のリフォーム会社がAI検索を攻略し、月間問い合わせ数を4倍、受注率50%を実現した事例について報じます。",
+  "summary3": [
+   "エリア特化リフォーム会社がAI検索を攻略",
+   "目標としたプロンプトの表示順位で1位を獲得",
+   "月間問い合わせ4倍・受注率50%を実現"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、エリア特化のリフォーム会社がAI検索を攻略した事例について、公開された情報をもとにその成果をお伝えします。",
+   "今回の事例では、目標としたプロンプトの表示順位において顕著な成果が確認されています。「◯◯市で◯◯住宅の外壁塗装に強いおすすめの会社を教えて」や「◯◯で◯◯住宅の外壁塗装に強いおすすめの会社を教えて」という検索では、圏外から1位へと順位を大きく伸ばしました。さらに「◯◯市で外壁塗装に強いおすすめの会社を教えて」という検索でも、従来の4位から1位を獲得しています。",
+   "※特定につながる一部表現は◯◯に変換されており、成果数値は中立的な環境から計測が行われています。AI検索での上位表示を達成した結果、月間問い合わせは4倍に増加し、受注率は50%を実現するという大きな成果につながりました。"
+  ],
+  "tags": [
+   "AI検索",
+   "リフォーム会社",
+   "外壁塗装",
+   "SEO"
+  ],
+  "slug": "ai-search-renovation-success-case",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://lucy.ne.jp/bazubu/result/renovation-seminar",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-ai-search-renovation-success-case.html"
+ },
+ {
+  "title": "Appleのジョン・ターナス次期CEO、9月1日の就任後に待ち受ける3つの課題とは",
+  "lead": "CNBC Techの報道によると、Appleの次期CEOにジョン・ターナス氏が9月1日付で就任し、重要な転換期を迎える同社を率いることになります。",
+  "summary3": [
+   "ジョン・ターナス氏が9月1日にCEO就任",
+   "転換期にある巨大テック企業を継承",
+   "次期トップが直面する3つの課題とは"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、Appleの次期CEOにジョン・ターナス氏が就任することが明らかになりました。就任日は9月1日を予定しており、巨大テック企業である同社にとって重要な転換期での引き継ぎとなります。",
+   "ジョン・ターナス氏は、数々の製品開発を支えてきた重要な人物として知られており、新たなリーダーとしてどのような手腕を発揮するのか注目が集まっています。同氏の率いる次期経営陣の前には、いくつかの重大な課題が待ち受けていると伝えられています。",
+   "公開された情報では、次期CEOが直面する具体的な課題として3つの重要なポイントが存在し、今後の舵取りがどのように行われるのかが世界中で注目されています。Appleの新たな章がどのように幕を開けるのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Apple",
+   "人事",
+   "ビジネス"
+  ],
+  "slug": "apples-next-chapter-john-ternus-ceo",
+  "people": [
+   {
+    "name": "ジョン・ターナス氏",
+    "bio": "米Appleの次期CEOに内定し、2026年9月1日付で就任予定の同社幹部。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを手掛け、世界的なシェアを持つアメリカの巨大テクノロジー企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/25/apples-next-chapter-3-pressing-challenges-facing-tim-cooks-successor-as-ceo.html",
+  "category": "silicon",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-apples-next-chapter-john-ternus-ceo.html"
+ },
+ {
+  "title": "米国土安全保障省、H-1Bビザに10万3000ドル超の手数料を導入へ",
+  "lead": "米国土安全保障省が、IT業界などで利用されるH-1Bビザに対して10万3000ドルを超える高額な手数料を課す方針を明らかにしました。",
+  "summary3": [
+   "米国土安全保障省がH-1Bビザ手数料を発表",
+   "金額は10万3000ドルを超える設定となる",
+   "国務省は最大20万人のビザ取り消しも計画"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米国のThe Vergeが報じたところによると、月曜日のわずか数時間の間に、米国の移民政策に関する重要な発表が相次ぎました。米国土安全保障省は、ビッグテック企業などで広く利用されているH-1Bビザに対して、10万3000ドルを超える手数料を導入する方針を明らかにしました。",
+   "H-1Bビザは、専門職の外国人を雇用するために多くの企業が活用してきた制度であり、今回の巨額な手数料の導入は、ビザを利用する企業や計画に大きな影響を与える可能性があります。",
+   "さらに同日には、国務省が最大20万人の亡命希望者のビザを取り消す計画を進めていることも明らかになりました。AP通信によると、これらの政策変更は米国の移民政策における重要な転換点となるとみられています。"
+  ],
+  "tags": [
+   "H-1Bビザ",
+   "米国土安全保障省",
+   "移民政策"
+  ],
+  "slug": "trump-h1b-fee-asylum-legal-immigration",
+  "people": [],
+  "terms": [],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+  "category": "silicon",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-trump-h1b-fee-asylum-legal-immigration.html"
+ },
+ {
+  "title": "インフルエンサーを狙う前払い13万円の詐欺手口",
+  "lead": "インフルエンサーを狙ったSNSでの詐欺被害が急増しています。20代の被害女性が語る巧妙な手口とはどのようなものなのでしょうか。",
+  "summary3": [
+   "インフルエンサー狙う詐欺が急増",
+   "SNSに仕事依頼を装った連絡",
+   "前払い報酬13万円の罠に注意"
+  ],
+  "body": [
+   "近年、SNSを活用するインフルエンサーを狙った詐欺被害が増加しています。今回は、実際に被害に遭った20代の女性が語った巧妙な手口について、FNNプライムオンラインの報道を基に詳しくお伝えします。",
+   "被害に遭った女性のもとには、SNSを通じて仕事の依頼を装った不審な連絡が届きました。その手口の一つとして「前払い報酬13万円」という魅力的な条件を持ちかけられ、言葉巧みに誘導される罠が仕掛けられていたとのことです。",
+   "SNSでのビジネスや仕事の依頼は日常茶飯事になりつつありますが、見知らぬ相手からの甘い誘いには十分な警戒が必要です。金銭を要求されたり、不審な手続きを案内されたりした場合は、安易に応じないよう注意しましょう。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "SNS詐欺",
+   "被害"
+  ],
+  "slug": "influencer-fraud-130000-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pTV9BSHIxRWowckdRUWdZd3RLOUFOQXppbmp2YmNxbFNVaXMzSm5LRmplYkhET3VKUHdIOTRvU2FlTV9SUGQxVEgwaVpxQQ?oc=5",
+  "category": "influencer",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-influencer-fraud-130000-yen.html"
+ },
+ {
+  "title": "カナダが米国に最大50%の報復関税、なぜ発動へ",
+  "lead": "カナダは米国に対し、最大50%に達する「ドル対ドル」の報復関税を発表しました。両国間の貿易戦争が激しさを増しています。",
+  "summary3": [
+   "カナダが米国へ最大50%の関税を発表",
+   "鋼鉄から家具やマグロまでが対象に",
+   "両国間の貿易戦争がさらに激化する"
+  ],
+  "body": [
+   "カナダは米国に対し、最大50%に達する「ドル対ドル」の報復関税を発表しました。これは、現在続いている米国とカナダの間の貿易戦争における最新のエスカレーションとなります。",
+   "今回の新たな課税の対象には、鋼鉄から家具、生鮮マグロ、メイクアップ用品に至るまで、幅広い商品が含まれることになります。",
+   "両国の貿易関係における今回の動きは、今後の経済や流通にも影響を与える可能性があり、さらなる展開が注目されています。"
+  ],
+  "tags": [
+   "カナダ",
+   "米国",
+   "関税"
+  ],
+  "slug": "canada-announces-retaliatory-tariffs-on-us",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-canada-announces-retaliatory-tariffs-on-us.html"
+ },
+ {
+  "title": "WTI原油が5%超下落の80ドル台、ホルムズ海峡の協議で",
+  "lead": "25日のニューヨーク原油市場で、WTI先物価格が一時1バレル＝80ドル台まで下落しました。前日比5％を超える大幅な下落となり、約10日ぶりの安値水準となっています。",
+  "summary3": [
+   "WTI先物価格が一時80ドル台に下落",
+   "前日比5%超の大幅な下落を記録",
+   "約10日ぶりの安値水準となる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする25日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝80ドル台まで下落しました。",
+   "前日と比べると5％を超える大幅な下落となり、およそ10日ぶりの安値水準となっています。この価格変動は、ホルムズ海峡の航路協議を受けて発生した動きとなります。",
+   "今後の原油市場の動向や価格の行方については、引き続き関係者の協議や国際情勢の変化が注目されるところです。"
+  ],
+  "tags": [
+   "原油価格",
+   "WTI",
+   "経済ニュース"
+  ],
+  "slug": "ny-crude-oil-drops-to-80-dollars",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260826de46356",
+  "category": "world",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-ny-crude-oil-drops-to-80-dollars.html"
+ },
+ {
+  "title": "政府・日銀、国債や株の即時決済へ",
+  "lead": "政府および日本銀行が、国債や株式などの決済を即座に行うためのブロックチェーン基盤の整備に向けて始動しました。",
+  "summary3": [
+   "政府・日銀がブロックチェーン整備へ",
+   "国債や株の即時決済が可能になる見通し",
+   "市場の利便性向上に向けた動きが本格化"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の市場ニュースです。日本経済新聞の報道によると、政府および日本銀行が、国債や株式などの金融商品を即座に決済できる仕組みの整備に向けて動き出したことが明らかになりました。",
+   "今回の取り組みでは、ブロックチェーン技術を活用することで、これまで取引の完了までに一定の時間がかかっていた国債や株式の決済プロセスを大幅に効率化し、即時決済を実現することを目指しています。",
+   "金融市場における決済の迅速化は、取引の流動性向上やリスク軽減につながる重要な施策です。今後の具体的な整備スケジュールや運用体制の詳細について、政府や日銀の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "ブロックチェーン",
+   "日銀",
+   "日本株"
+  ],
+  "slug": "government-boj-blockchain-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本銀行",
+    "type": "company",
+    "desc": "日本の通貨を発行し、金融政策を行う中央銀行です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BMFhtVHRNSURJejdJNVBDV3c5QW5NZnZzN1FKZzRSNktkcXNKVkpTbjhaSWRTWng0dmU0dTh2TzNINEI0Rm81RVQ2S3BqUnZDVTJUREMwRFVXLWQwX1JqVUN4MGtucXlURTl0RA?oc=5",
+  "category": "stock",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-government-boj-blockchain-settlement.html"
+ },
+ {
+  "title": "三菱鉛筆、営業利益28.6%増の61.7億円 海外比率は59.1%に上昇",
+  "lead": "三菱鉛筆がFY2026 Q2の決算説明会を実施し、営業利益が前年同期比28.6%増の61.7億円となったことを発表しました。",
+  "summary3": [
+   "営業利益は28.6%増の61.7億円",
+   "通期予想上方修正と年間配当57円",
+   "海外比率は59.1%に上昇"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。三菱鉛筆は、FY2026 Q2（第2四半期）の決算説明会を開催しました。",
+   "今回の発表によると、当期の営業利益は前年同期比28.6%増の61.7億円を記録しました。また、好調な業績を背景に通期予想を上方修正し、年間配当を57円とする方針も明らかにされています。",
+   "さらに、事業のグローバル化も進展しており、海外比率は59.1%へと上昇しました。国内外での展開が着実に成果を上げる形となっています。"
+  ],
+  "tags": [
+   "三菱鉛筆",
+   "決算",
+   "ビジネス"
+  ],
+  "slug": "mitsubishi-pencil-fy2026-q2-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱鉛筆",
+    "type": "company",
+    "desc": "東京都に本社を置く、鉛筆やボールペンなどの筆記具製造を中心とする日本の大手文具メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00RGROc3R4eE03a0M2U041bG9JNkpHQXE1Wk90ZTdwUWl2RDFHZDRDOV9uMlJpb3JTRDB2UXYtTXZMQmQtQmF4Qk9XaE92NXhzd2tBb2xlQVRBaFVRbHRz?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-26",
+  "time": "12:39",
+  "path": "/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html"
  }
 ]
