@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Z.aiの「Ox Alpha」、間もなく公開される理由とは</title>
+<link>https://ai-tech-times.web.app/articles/20260827-z-ai-ox-alpha-model-revealed.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260827-z-ai-ox-alpha-model-revealed.html</guid>
+<pubDate>Thu, 27 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>各種ベンチマークやリーダーボードで上位に君臨していた謎のオープンAIモデル「Ox Alpha」の正体が、Z.aiの手によるものであることが確認されました。</description>
+</item>
+<item>
+<title>エヌビディア、四半期売上高1080億ドル予測の背景</title>
+<link>https://ai-tech-times.web.app/articles/20260827-nvidia-hundred-billion-dollar-quarterly-revenue.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260827-nvidia-hundred-billion-dollar-quarterly-revenue.html</guid>
+<pubDate>Thu, 27 Aug 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIブームを牽引するNvidiaが、四半期売上高で100億ドル規模の大台突破を予測しています。巨額の収益を生み出す同社の最新動向をお伝えします。</description>
+</item>
+<item>
 <title>AnthropicがNscaleと450億ドルの巨額契約を締結した理由</title>
 <link>https://ai-tech-times.web.app/articles/20260827-anthropic-nscale-45-billion-deal.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260827-anthropic-nscale-45-billion-deal.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 21:05:00 +0900</pubDate>
 <category>日本企業</category>
 <description>大日本印刷は、オーストリアの上場企業であるAUSTRIACARD HOLDINGS AGの株式に関する公開買付けの結果を発表しました。</description>
-</item>
-<item>
-<title>Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ</title>
-<link>https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html</guid>
-<pubDate>Wed, 26 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米アマゾンが、人間には簡単でコンピューターには難しい作業を外部委託する仕組みとして2005年に開始したサービスを終了することが分かりました。</description>
-</item>
-<item>
-<title>OpenAIデータセンター責任者の退社が判明、組織再編の行方</title>
-<link>https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html</guid>
-<pubDate>Wed, 26 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。</description>
 </item>
 </channel></rss>
