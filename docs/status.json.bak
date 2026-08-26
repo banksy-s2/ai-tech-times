@@ -1,21 +1,23 @@
 {
- "updated": "2026-08-26 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-27 00:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "moomoo証券に東証と大証が戒告処分",
-   "path": "/articles/20260826-tse-ose-reprimand-moomoo-sec.html",
-   "cat": "株式投資(日本)"
+   "title": "ビル・ゲイツ氏がAIの害を和らげるロボット税を提案",
+   "path": "/articles/20260827-bill-gates-robot-tax-ai-harms.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
- "notes": [],
- "pv_today": 2,
+ "notes": [
+  "執筆失敗: OpenAI says its Jalapeño chip can power "
+ ],
+ "pv_today": null,
  "gemini": {
-  "used": 130,
+  "used": 6,
   "limit": 200
  }
 }

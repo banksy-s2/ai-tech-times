@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-27 00:02",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-27 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "ビル・ゲイツ氏がAIの害を和らげるロボット税を提案",
-   "path": "/articles/20260827-bill-gates-robot-tax-ai-harms.html",
-   "cat": "AI(海外)"
+   "title": "アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか",
+   "path": "/articles/20260827-mac-studio-ai-subscription-saving.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Stability AI、新CEO下で約370億円調達の理由",
+   "path": "/articles/20260827-stability-ai-secures-370m-funding.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
- "notes": [
-  "執筆失敗: OpenAI says its Jalapeño chip can power "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 6,
+  "used": 10,
   "limit": 200
  }
 }

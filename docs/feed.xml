@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか</title>
+<link>https://ai-tech-times.web.app/articles/20260827-mac-studio-ai-subscription-saving.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260827-mac-studio-ai-subscription-saving.html</guid>
+<pubDate>Thu, 27 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>アップルが新型のMac miniとMac Studioを発表しました。デバイス上でAIを動かすことで、毎月の利用料を節約できるとして注目を集めています。</description>
+</item>
+<item>
+<title>Stability AI、新CEO下で約370億円調達の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260827-stability-ai-secures-370m-funding.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260827-stability-ai-secures-370m-funding.html</guid>
+<pubDate>Thu, 27 Aug 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Stable Diffusionの開発元であるStability AIが、新たな資金調達の実施を発表しました。ソニーミュージックやユニバーサルミュージックなどが出資しています。</description>
+</item>
+<item>
 <title>ビル・ゲイツ氏がAIの害を和らげるロボット税を提案</title>
 <link>https://ai-tech-times.web.app/articles/20260827-bill-gates-robot-tax-ai-harms.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260827-bill-gates-robot-tax-ai-harms.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 13:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>25日、東京・中野区の商業施設に入る時計店で、海外製の高級腕時計4本あわせておよそ2億円相当が盗まれる事件が発生しました。犯行に使われたとみられるハンマーが現場に残されていたことが分かりました。</description>
-</item>
-<item>
-<title>AnthropicのClaude、チャットとCoworkで記憶を共有可能に</title>
-<link>https://ai-tech-times.web.app/articles/20260826-claude-cowork-shared-memory.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-claude-cowork-shared-memory.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:42:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発企業Anthropicは、Claudeのチャット機能とCowork機能の間で記憶の共有を開始しました。プロジェクトや好みの再入力の手間が省けるようになります。</description>
-</item>
-<item>
-<title>Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅</title>
-<link>https://ai-tech-times.web.app/articles/20260826-keenable-indexing-web-for-ai-agents.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-keenable-indexing-web-for-ai-agents.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:42:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIエージェント向けの大規模なウェブ検索インデックスを構築してきたKeenableが、ステルスモードを解除し、2600万ドルのシードラウンドで資金調達を行ったことを明らかにしました。</description>
 </item>
 </channel></rss>
