@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-27 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-27 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか",
-   "path": "/articles/20260827-mac-studio-ai-subscription-saving.html",
-   "cat": "日本のAI"
+   "title": "OpenAIのハラペーニョ、エヌビディアを効率で凌駕",
+   "path": "/articles/20260827-openai-jalapeno-ai-chip-nvidia.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Stability AI、新CEO下で約370億円調達の理由",
-   "path": "/articles/20260827-stability-ai-secures-370m-funding.html",
-   "cat": "日本のAI"
+   "title": "Metaが180億ドルで和解、29州の子供への影響訴訟",
+   "path": "/articles/20260827-meta-settles-for-18-billion-lawsuit.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
-  "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
+  "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
+  "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 14,
   "limit": 200
  }
 }

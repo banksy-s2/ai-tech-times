@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIのハラペーニョ、エヌビディアを効率で凌駕](https://ai-tech-times.web.app/articles/20260827-openai-jalapeno-ai-chip-nvidia.html) — 2026-08-27 02:00: カスタムAIシリコンの開発を進めるOpenAIの新チップ「Jalapeño（ハラペーニョ）」が、主要な推論効率テストでNvidiaのシステムを上回る結果を出しました。
+- [Metaが180億ドルで和解、29州の子供への影響訴訟](https://ai-tech-times.web.app/articles/20260827-meta-settles-for-18-billion-lawsuit.html) — 2026-08-27 02:00: 米Metaが、InstagramやFacebookなどが子供に悪影響を与えたとする訴訟で、29州との間で180億ドルを支払い和解に至りました。
 - [アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか](https://ai-tech-times.web.app/articles/20260827-mac-studio-ai-subscription-saving.html) — 2026-08-27 01:00: アップルが新型のMac miniとMac Studioを発表しました。デバイス上でAIを動かすことで、毎月の利用料を節約できるとして注目を集めています。
 - [Stability AI、新CEO下で約370億円調達の理由](https://ai-tech-times.web.app/articles/20260827-stability-ai-secures-370m-funding.html) — 2026-08-27 01:00: Stable Diffusionの開発元であるStability AIが、新たな資金調達の実施を発表しました。ソニーミュージックやユニバーサルミュージックなどが出資しています。
 - [ビル・ゲイツ氏がAIの害を和らげるロボット税を提案](https://ai-tech-times.web.app/articles/20260827-bill-gates-robot-tax-ai-harms.html) — 2026-08-27 00:02: マイクロソフト創業者であるビル・ゲイツ氏が、AIの急速な普及に伴う悪影響を軽減するため、新たな規制や対策案を提唱しました。責任あるAIの活用に向けたユニークなアイデアが注目を集めています。
@@ -40,13 +42,11 @@
 - [Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開](https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html) — 2026-08-26 17:05: Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。
 - [Confluent調査：AIエージェント本番運用中の日本企業が17％にとどまる理由](https://ai-tech-times.web.app/articles/20260826-ai-agent-production-japan-confluent.html) — 2026-08-26 17:05: Confluentの調査により、AIエージェントなどの自律型AIを本番運用している日本企業が17％にとどまることが分かりました。PoC止まりとなる課題やその解決策についてお伝えします。
 - [AppleがM6とM5 Ultraを発表、最大512GBメモリでAIはどう変わるのか](https://ai-tech-times.web.app/articles/20260826-apple-announces-m6-and-m5-ultra.html) — 2026-08-26 17:05: Appleは現地時間の2026年8月25日、新型のAppleシリコン「M6」および「M5 Ultra」を発表しました。最大512GBのユニファイドメモリを搭載し、大型AIモデルのローカル実行を可能にします。
-- [米HPが制裁中の華為技術と提携、WiFi技術のライセンス契約を結んだ理由](https://ai-tech-times.web.app/articles/20260826-hp-partners-with-huawei-wifi-tech.html) — 2026-08-26 17:05: 米HPが、アメリカから取引制限を受けている中国の華為技術とWiFi技術のライセンス契約を結んだことが分かりました。米国の規制下にある企業との提携は、中国外での技術採用の動向を示しています。
-- [OpenAI、ロシア発の隠れた世論工作アカウントをブロック](https://ai-tech-times.web.app/articles/20260826-openai-russia-chatgpt-influence-campaign.html) — 2026-08-26 17:05: OpenAIは、ロシアの活動主体がChatGPTを悪用した隠れた誤情報キャンペーンを展開していたとして、関連するアカウントをブロックしたと発表しました。
 
 ## 世界のバズ動画TOP3 (2026-08-27)
-- 1位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
-- 2位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
-- 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
+- 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
+- 2位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
+- 3位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
 
 ## AI用語事典 (全1129語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
@@ -54,8 +54,8 @@
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
-- [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠地を置き、AI開発などに欠かせない高性能なGPUなどの半導体製品を広く提供する大手テクノロジー企業。
+- [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。

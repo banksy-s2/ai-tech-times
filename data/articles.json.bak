@@ -60980,5 +60980,83 @@
   "date": "2026-08-27",
   "time": "00:02",
   "path": "/articles/20260827-bill-gates-robot-tax-ai-harms.html"
+ },
+ {
+  "title": "アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか",
+  "lead": "アップルが新型のMac miniとMac Studioを発表しました。デバイス上でAIを動かすことで、毎月の利用料を節約できるとして注目を集めています。",
+  "summary3": [
+   "アップルが新型Macを発表した",
+   "毎月のAI利用料の節約に役立つ",
+   "損益分岐点やコスト削減を検証"
+  ],
+  "body": [
+   "アップルは、新型および改良版のMac miniとMac Studioを発表しました。今回は、毎月払い続けているAIの利用料である「LLM税」の節約に役立つと、はっきりと打ち出している点が大きな特徴となっています。",
+   "M5 Ultraを紹介するニュースルームの文章には、Mac Studioではトークンを気にしたり、クラウドコストの上昇を心配したりすることなく、デバイス上で完全に処理できることが紹介されています。",
+   "クラウドサービスに依存せず、手元のデバイスでAIを運用することで、毎月発生するコストをどのように抑えられるのか、その実用性や損益分岐点に関心が集まっています。"
+  ],
+  "tags": [
+   "アップル",
+   "Mac Studio",
+   "AI"
+  ],
+  "slug": "mac-studio-ai-subscription-saving",
+  "people": [],
+  "terms": [
+   {
+    "name": "アップル",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本社を置く、iPhoneやMacなどを開発・販売する世界的な大手テクノロジー企業。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forbesjapan.com/articles/detail/103605",
+  "category": "ai_jp",
+  "date": "2026-08-27",
+  "time": "01:00",
+  "path": "/articles/20260827-mac-studio-ai-subscription-saving.html"
+ },
+ {
+  "title": "Stability AI、新CEO下で約370億円調達の理由",
+  "lead": "Stable Diffusionの開発元であるStability AIが、新たな資金調達の実施を発表しました。ソニーミュージックやユニバーサルミュージックなどが出資しています。",
+  "summary3": [
+   "シリーズBで120億円を新規調達",
+   "新CEO下での調達総額が370億円に",
+   "ソニーミュージックなどが出資"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。現地時間の2026年8月25日、画像生成AI「Stable Diffusion」の開発元として知られるAI企業のStability AIが、シリーズBで7600万ドル（約120億円）の新規資金調達を実施したと発表しました。",
+   "今回の発表により、2024年6月に同社のCEOに就任したプレム・アッカラジュ氏の下での資金調達総額は、2億3200万ドル（約370億円）に到達したことになります。新体制となってからの積極的な資金集めが注目を集めています。",
+   "今回の資金調達には、ソニーミュージックやユニバーサルミュージックなど、音楽業界を代表する企業も出資に名を連ねています。AI技術と音楽・エンターテインメント分野の関わりにおいて、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Stability AI",
+   "Stable Diffusion",
+   "資金調達"
+  ],
+  "slug": "stability-ai-secures-370m-funding",
+  "people": [
+   {
+    "name": "プレム・アッカラジュ氏",
+    "bio": "2024年6月にStability AIのCEOに就任した実業家です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Stability AI",
+    "type": "company",
+    "desc": "画像生成AIモデルなどを開発・提供しているイギリスのAI企業です。"
+   },
+   {
+    "name": "Stable Diffusion",
+    "type": "ai",
+    "desc": "Stability AIが開発した、テキストから画像を生成できる有名なAIモデルです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/",
+  "category": "ai_jp",
+  "date": "2026-08-27",
+  "time": "01:00",
+  "path": "/articles/20260827-stability-ai-secures-370m-funding.html"
  }
 ]
