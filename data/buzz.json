@@ -1,13 +1,13 @@
 {
- "date": "2026-08-25",
+ "date": "2026-08-26",
  "videos": [
   {
-   "id": "46h0LvDHgIs",
-   "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
-   "channel": "HYBE LABELS",
-   "views": 1523578,
-   "url": "https://www.youtube.com/watch?v=46h0LvDHgIs",
-   "thumb": "https://i.ytimg.com/vi/46h0LvDHgIs/hqdefault.jpg",
+   "id": "IGk17XQ7IrQ",
+   "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
+   "channel": "The Witcher",
+   "views": 996635,
+   "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ",
+   "thumb": "https://i.ytimg.com/vi/IGk17XQ7IrQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
@@ -16,142 +16,137 @@
     "BR"
    ],
    "rank": 1,
-   "comment": "TUIDEの新曲「SUN KISS」の公式MVのようです"
+   "comment": "ウィッチャー3の「リマスター版」公式発表トレイラーみたいです。（28字）"
   },
   {
-   "id": "e4-Xhgm8qCw",
-   "title": "LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18",
-   "channel": "Marvel Entertainment",
-   "views": 2480483,
-   "url": "https://www.youtube.com/watch?v=e4-Xhgm8qCw",
-   "thumb": "https://i.ytimg.com/vi/e4-Xhgm8qCw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR",
-    "IN"
-   ],
-   "rank": 2,
-   "comment": "アベンジャーズ新作予告のレゴ版再現映像のようですね"
-  },
-  {
-   "id": "BjFX1eugZ-Y",
-   "title": "NCT 127 엔시티 127 'Blingy' MV",
-   "channel": "SMTOWN",
-   "views": 1642967,
-   "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y",
-   "thumb": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg",
+   "id": "eFxvsyUoFi0",
+   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
+   "channel": "Brawl Stars",
+   "views": 1300692,
+   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0",
+   "thumb": "https://i.ytimg.com/vi/eFxvsyUoFi0/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "JP",
-    "KR"
+    "BR"
    ],
-   "rank": 3,
-   "comment": "NCT 127の新曲「Blingy」のMVが公開されたようです"
+   "rank": 2,
+   "comment": "バトル・スターズのアニメーションによる最終決戦の映像のようですね。（30字）"
   },
   {
-   "id": "jR3rWCBeO6M",
-   "title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Thejo Bharathwaj | Think Indie",
-   "channel": "Think Music India",
-   "views": 2713636,
-   "url": "https://www.youtube.com/watch?v=jR3rWCBeO6M",
-   "thumb": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
+   "id": "L2NAh3CIdig",
+   "title": "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
+   "channel": "Marvel Entertainment",
+   "views": 4504361,
+   "url": "https://www.youtube.com/watch?v=L2NAh3CIdig",
+   "thumb": "https://i.ytimg.com/vi/L2NAh3CIdig/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "IN"
    ],
+   "rank": 3,
+   "comment": "アベンジャーズ/エンドゲームの再上映公式トレイラーのようです。（27字）"
+  },
+  {
+   "id": "c5-8FXNmyJs",
+   "title": "Crimson Desert Enhanced  - Official Announcement Trailer | gamescom ONL 2026",
+   "channel": "Crimson Desert",
+   "views": 313877,
+   "url": "https://www.youtube.com/watch?v=c5-8FXNmyJs",
+   "thumb": "https://i.ytimg.com/vi/c5-8FXNmyJs/hqdefault.jpg",
+   "regions": [
+    "JP",
+    "KR",
+    "BR"
+   ],
    "rank": 4,
+   "comment": "クリムゾン・デザートの拡張版公式発表トレイラーのようです。（26字）"
+  },
+  {
+   "id": "jR3rWCBeO6M",
+   "title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Vivek | Thejo Bharathwaj | Think Indie",
+   "channel": "Think Music India",
+   "views": 4348223,
+   "url": "https://www.youtube.com/watch?v=jR3rWCBeO6M",
+   "thumb": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 5,
    "comment": "新曲「Radhimaa」のミュージックビデオが公開されたようです。"
+  },
+  {
+   "id": "Bm5S7ZKk6K8",
+   "title": "Haiwaan - Official Trailer | Akshay Kumar, Saif Ali Khan, Boman, Shriya, Saiyami | Priyadarshan",
+   "channel": "Zee Music Company",
+   "views": 3261228,
+   "url": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8",
+   "thumb": "https://i.ytimg.com/vi/Bm5S7ZKk6K8/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 6,
+   "comment": "出演者たちが登場するインド映画の公式トレイラーのようです。（26字）"
   },
   {
    "id": "_9jaJtmraXA",
    "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
    "channel": "Taylor Swift",
-   "views": 1365131,
+   "views": 2234943,
    "url": "https://www.youtube.com/watch?v=_9jaJtmraXA",
    "thumb": "https://i.ytimg.com/vi/_9jaJtmraXA/hqdefault.jpg",
    "regions": [
     "US",
-    "GB",
-    "BR"
+    "GB"
    ],
-   "rank": 5,
+   "rank": 7,
    "comment": "テイラー・スウィフトによるグラミー・ミュージアムでの貴重なパフォーマンス映像のようですね。"
   },
   {
-   "id": "bPjrHu60278",
-   "title": "ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice",
-   "channel": "ENHYPEN",
-   "views": 545134,
-   "url": "https://www.youtube.com/watch?v=bPjrHu60278",
-   "thumb": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "JP",
-    "KR"
-   ],
-   "rank": 6,
-   "comment": "ENHYPENによる「Bloody Paradise」のダンス練習映像のようですね"
-  },
-  {
-   "id": "BeE3eF7i4Ro",
-   "title": "Lanterns | Episode 3 Promo | HBO Max",
-   "channel": "TeaserCon",
-   "views": 139379,
-   "url": "https://www.youtube.com/watch?v=BeE3eF7i4Ro",
-   "thumb": "https://i.ytimg.com/vi/BeE3eF7i4Ro/hqdefault.jpg",
+   "id": "2mNCKDXA1O4",
+   "title": "WHO IS THE BEST GAMER? ft. JYNXZI",
+   "channel": "IShowSpeed",
+   "views": 2213135,
+   "url": "https://www.youtube.com/watch?v=2mNCKDXA1O4",
+   "thumb": "https://i.ytimg.com/vi/2mNCKDXA1O4/hqdefault.jpg",
    "regions": [
     "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 7,
-   "comment": "HBO Maxのドラマ『ランタンズ』第3話のプロモ映像と思われる動画です。"
-  },
-  {
-   "id": "hpqKHn0yS7I",
-   "title": "Robin • Summeretto Character Trailer: \"Chasing the Wind\" | Honkai: Star Rail",
-   "channel": "Honkai: Star Rail",
-   "views": 122998,
-   "url": "https://www.youtube.com/watch?v=hpqKHn0yS7I",
-   "thumb": "https://i.ytimg.com/vi/hpqKHn0yS7I/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
+    "GB"
    ],
    "rank": 8,
-   "comment": "『崩壊：スターレイル』のロビンとサメレットのキャラクター予告編かも (27文字)"
+   "comment": "人気配信者たちが「誰が最高のゲーマーか」競う動画のようです。（27字)"
   },
   {
-   "id": "g9Q58A_k-HU",
-   "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
-   "channel": "ALPHA DRIVE ONE",
-   "views": 2545540,
-   "url": "https://www.youtube.com/watch?v=g9Q58A_k-HU",
-   "thumb": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg",
+   "id": "6t7C4qaHihE",
+   "title": "Ali G: Who Iz I? | Official Trailer",
+   "channel": "Amazon MGM Studios",
+   "views": 1881814,
+   "url": "https://www.youtube.com/watch?v=6t7C4qaHihE",
+   "thumb": "https://i.ytimg.com/vi/6t7C4qaHihE/hqdefault.jpg",
    "regions": [
-    "JP",
-    "KR"
+    "US",
+    "GB"
    ],
    "rank": 9,
-   "comment": "ALPHA DRIVE ONEの新曲「BORN DIRE」のMVのようです。"
+   "comment": "アリ・Gの新作に関する公式トレイラーの映像のようですね。（26字）"
   },
   {
-   "id": "07S60wsY4SM",
-   "title": "Speedrunning Minecraft Skyfactory was a TERRIBLE Mistake",
-   "channel": "martincitopants",
-   "views": 1697347,
-   "url": "https://www.youtube.com/watch?v=07S60wsY4SM",
-   "thumb": "https://i.ytimg.com/vi/07S60wsY4SM/hqdefault.jpg",
+   "id": "Zzvzt3IjNik",
+   "title": "gamescom Opening Night Live 2026",
+   "channel": "gamescom",
+   "views": 774337,
+   "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik",
+   "thumb": "https://i.ytimg.com/vi/Zzvzt3IjNik/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 10,
-   "comment": "マインクラフトのスカイファクトリーRTAに関する動画のようです"
+   "comment": "ゲームの最新情報が発表されるイベントの配信映像のようです。（26字）"
   }
  ],
  "covered": [
@@ -163,14 +158,6 @@
   "IN"
  ],
  "comment_cache": {
-  "1yMOZlYqsnY": "『World of Warcraft』等の公式発表予告のようです。",
-  "pjVMQ4TdPFc": "オリヴィア・コールマン出演作『WICKER』の予告編のようです。",
-  "afSgBNwmZrQ": "アリアナ・グランデの新曲「petal」公式ミュージックビデオのようです。",
-  "e6iAAAObz3c": "KATSEYEによるダンスフロアでの「Animal」パフォーマンス映像のようです。",
-  "9kYDgXfmGRY": "Robloxのゲームプレイ映像を楽しめる動画のようです。",
-  "65mrBBZbSbo": "カーティら出演の映画「Sardar 2」の公式ティーザー映像のようです。",
-  "Wms577MmvuI": "Cashによる「悲しい物語」をテーマにした動画のようです。",
-  "Cv1AXnX8DjU": "人気ゲーム関連の新作楽曲が公開されているようです。(25字)",
   "XBmyzLcaDaI": "驚きの展開を迎えるゲーム実況系の映像のようです。(24字)",
   "y8TieBZEcbE": "誰かの衝撃的な人生について語るリアクション動画のようです。(27字)",
   "Eo5w2S-h5dI": "ゲーム市場の変化について考察している動画のようです。",
@@ -462,6 +449,14 @@
   "jR3rWCBeO6M": "新曲「Radhimaa」のミュージックビデオが公開されたようです。",
   "BeE3eF7i4Ro": "HBO Maxのドラマ『ランタンズ』第3話のプロモ映像と思われる動画です。",
   "_9jaJtmraXA": "テイラー・スウィフトによるグラミー・ミュージアムでの貴重なパフォーマンス映像のようですね。",
-  "hpqKHn0yS7I": "『崩壊：スターレイル』のロビンとサメレットのキャラクター予告編かも (27文字)"
+  "hpqKHn0yS7I": "『崩壊：スターレイル』のロビンとサメレットのキャラクター予告編かも (27文字)",
+  "IGk17XQ7IrQ": "ウィッチャー3の「リマスター版」公式発表トレイラーみたいです。（28字）",
+  "eFxvsyUoFi0": "バトル・スターズのアニメーションによる最終決戦の映像のようですね。（30字）",
+  "L2NAh3CIdig": "アベンジャーズ/エンドゲームの再上映公式トレイラーのようです。（27字）",
+  "c5-8FXNmyJs": "クリムゾン・デザートの拡張版公式発表トレイラーのようです。（26字）",
+  "Bm5S7ZKk6K8": "出演者たちが登場するインド映画の公式トレイラーのようです。（26字）",
+  "2mNCKDXA1O4": "人気配信者たちが「誰が最高のゲーマーか」競う動画のようです。（27字)",
+  "6t7C4qaHihE": "アリ・Gの新作に関する公式トレイラーの映像のようですね。（26字）",
+  "Zzvzt3IjNik": "ゲームの最新情報が発表されるイベントの配信映像のようです。（26字）"
  }
 }

@@ -1,23 +1,73 @@
 {
- "updated": "2026-08-25 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-26 12:39",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Shein香港IPOで1.77億ドル調達へ、なぜ評価額は2022年から激減したのか",
-   "path": "/articles/20260825-shein-hong-kong-ipo-valuation.html",
+   "title": "OpenAI幹部退職が続く中、インフラ部門を再編へ",
+   "path": "/articles/20260826-openai-loses-top-data-center-exec.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新",
+   "path": "/articles/20260826-openai-jalapeno-chip-benchmarks.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Micron本社周辺で起きる地価高騰と雇用の光景",
+   "path": "/articles/20260826-micron-boise-impact-ai-boom.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "月間問い合わせ4倍に、エリア特化リフォーム会社がAI検索を攻略した方法",
+   "path": "/articles/20260826-ai-search-renovation-success-case.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleのジョン・ターナス次期CEO、9月1日の就任後に待ち受ける3つの課題とは",
+   "path": "/articles/20260826-apples-next-chapter-john-ternus-ceo.html",
    "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "米国土安全保障省、H-1Bビザに10万3000ドル超の手数料を導入へ",
+   "path": "/articles/20260826-trump-h1b-fee-asylum-legal-immigration.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "インフルエンサーを狙う前払い13万円の詐欺手口",
+   "path": "/articles/20260826-influencer-fraud-130000-yen.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "カナダが米国に最大50%の報復関税、なぜ発動へ",
+   "path": "/articles/20260826-canada-announces-retaliatory-tariffs-on-us.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "WTI原油が5%超下落の80ドル台、ホルムズ海峡の協議で",
+   "path": "/articles/20260826-ny-crude-oil-drops-to-80-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "政府・日銀、国債や株の即時決済へ",
+   "path": "/articles/20260826-government-boj-blockchain-settlement.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "三菱鉛筆、営業利益28.6%増の61.7億円 海外比率は59.1%に上昇",
+   "path": "/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
-  "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
+  "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
+  "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
  },
  "notes": [
-  "執筆失敗: Trump bought SpaceX shares two weeks aft"
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 137,
+  "used": 22,
   "limit": 200
  }
 }
