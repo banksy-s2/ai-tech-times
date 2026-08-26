@@ -1,60 +1,60 @@
 {
- "updated": "2026-08-26 12:39",
+ "updated": "2026-08-26 12:42",
  "mode": "フル便",
  "articles": [
   {
-   "title": "OpenAI幹部退職が続く中、インフラ部門を再編へ",
-   "path": "/articles/20260826-openai-loses-top-data-center-exec.html",
+   "title": "AnthropicのClaude、チャットとCoworkで記憶を共有可能に",
+   "path": "/articles/20260826-claude-cowork-shared-memory.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新",
-   "path": "/articles/20260826-openai-jalapeno-chip-benchmarks.html",
+   "title": "Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅",
+   "path": "/articles/20260826-keenable-indexing-web-for-ai-agents.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Micron本社周辺で起きる地価高騰と雇用の光景",
-   "path": "/articles/20260826-micron-boise-impact-ai-boom.html",
+   "title": "AppleのMac Studio新モデル登場、M5 UltraでAI性能最大4.3倍に",
+   "path": "/articles/20260826-mac-studio-m5-ultra-release.html",
    "cat": "日本のAI"
   },
   {
-   "title": "月間問い合わせ4倍に、エリア特化リフォーム会社がAI検索を攻略した方法",
-   "path": "/articles/20260826-ai-search-renovation-success-case.html",
+   "title": "OpenRouterで米企業が中国モデルに58％流す理由",
+   "path": "/articles/20260826-chinese-ai-models-api-usage.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Appleのジョン・ターナス次期CEO、9月1日の就任後に待ち受ける3つの課題とは",
-   "path": "/articles/20260826-apples-next-chapter-john-ternus-ceo.html",
+   "title": "SpaceX、ルイジアナ州に1,000億ドルの新拠点を作る理由",
+   "path": "/articles/20260826-spacex-louisiana-starbase-spaceport.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "米国土安全保障省、H-1Bビザに10万3000ドル超の手数料を導入へ",
-   "path": "/articles/20260826-trump-h1b-fee-asylum-legal-immigration.html",
+   "title": "Gatikが2億ドル調達、ペプシコ案件後の背景とは",
+   "path": "/articles/20260826-gatik-raises-200m-following-pepsico-deal.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "インフルエンサーを狙う前払い13万円の詐欺手口",
-   "path": "/articles/20260826-influencer-fraud-130000-yen.html",
+   "title": "彫師YouTuber、自宅敷地内へ3人組に不法侵入され警察沙汰に",
+   "path": "/articles/20260826-tattoo-youtuber-home-trespass.html",
    "cat": "インフルエンサー"
   },
   {
-   "title": "カナダが米国に最大50%の報復関税、なぜ発動へ",
-   "path": "/articles/20260826-canada-announces-retaliatory-tariffs-on-us.html",
+   "title": "熊本県、農林水産業被害が約1102億円に（8月25日時点）",
+   "path": "/articles/20260826-kumamoto-earthquake-agriculture-damage.html",
    "cat": "時事・世界"
   },
   {
-   "title": "WTI原油が5%超下落の80ドル台、ホルムズ海峡の協議で",
-   "path": "/articles/20260826-ny-crude-oil-drops-to-80-dollars.html",
+   "title": "高市首相、トランプ政権のICC赤根所長制裁に懸念",
+   "path": "/articles/20260826-takaichi-icc-sanctions-akane.html",
    "cat": "時事・世界"
   },
   {
-   "title": "政府・日銀、国債や株の即時決済へ",
-   "path": "/articles/20260826-government-boj-blockchain-settlement.html",
+   "title": "Abalanceが9月26日付で上場廃止へ 東証の判断",
+   "path": "/articles/20260826-abalance-delisting-september-26.html",
    "cat": "株式投資(日本)"
   },
   {
-   "title": "三菱鉛筆、営業利益28.6%増の61.7億円 海外比率は59.1%に上昇",
-   "path": "/articles/20260826-mitsubishi-pencil-fy2026-q2-results.html",
+   "title": "大豊建設とUNICONHDが資本業務提携、PPP・PFI共同参画の狙いとは",
+   "path": "/articles/20260826-taisei-kensetsu-uniconhd-capital-alliance.html",
    "cat": "日本企業"
   }
  ],
@@ -67,7 +67,7 @@
  ],
  "pv_today": 1,
  "gemini": {
-  "used": 22,
+  "used": 47,
   "limit": 200
  }
 }
