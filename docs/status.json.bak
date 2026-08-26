@@ -1,69 +1,23 @@
 {
- "updated": "2026-08-26 17:05",
- "mode": "フル便",
+ "updated": "2026-08-26 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "ビル・ゲイツが語る「AIの危険なしきい値」",
-   "path": "/articles/20260826-bill-gates-ai-danger-threshold.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開",
-   "path": "/articles/20260826-granite-4-2-llms-how-they-re-built.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Confluent調査：AIエージェント本番運用中の日本企業が17％にとどまる理由",
-   "path": "/articles/20260826-ai-agent-production-japan-confluent.html",
+   "title": "Okta Japan：2社に1社が複数AIを併用する理由",
+   "path": "/articles/20260826-okta-japan-multi-ai-report.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "AppleがM6とM5 Ultraを発表、最大512GBメモリでAIはどう変わるのか",
-   "path": "/articles/20260826-apple-announces-m6-and-m5-ultra.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米HPが制裁中の華為技術と提携、WiFi技術のライセンス契約を結んだ理由",
-   "path": "/articles/20260826-hp-partners-with-huawei-wifi-tech.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAI、ロシア発の隠れた世論工作アカウントをブロック",
-   "path": "/articles/20260826-openai-russia-chatgpt-influence-campaign.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "福岡県で40度以上の酷暑日、各地で危険な暑さに厳重警戒",
-   "path": "/articles/20260826-fukuoka-extreme-heat-40-degrees.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "サウジ資金でパリ近郊に日本漫画テーマパーク建設へ",
-   "path": "/articles/20260826-manga-theme-park-paris-saudi.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分",
-   "path": "/articles/20260826-tokyo-marine-hd-shareholder-benefit.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設",
-   "path": "/articles/20260826-jfe-kawasaki-cold-storage-facility.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
-  "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
+  "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
+  "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
  "notes": [
-  "執筆失敗: 日本人YouTuberガミックス、ATEEZのSANに謝罪…ダンス動画で目を吊り",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 政府、AI事業者向け「知財保護ルール」策定　対象範囲・運用方針は？"
  ],
  "pv_today": 2,
  "gemini": {
-  "used": 83,
+  "used": 88,
   "limit": 200
  }
 }

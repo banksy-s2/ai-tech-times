@@ -1751,11 +1751,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260826de46337",
   "https://news.web.nhk/newsweb/na/nd-20260825de46311",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdWVoTklSclN0UjVGeGsxRU5Xb1JiLTZ2UThCdGplb25icGtxMTdHa1drSXZHaHVlVjFSMlBNeG40emJFc09HTWluOHZhaTFlVEpZ?oc=5",
-  "https://news.web.nhk/newsweb/na/nd-20260825de46223"
+  "https://news.web.nhk/newsweb/na/nd-20260825de46223",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html"
  ],
  "titles": [
-  "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
-  "米Amazon、単純なコーディング作業でClaudeの使い方を誤り予算の8倍超を使ってしまう | Gadget Gate",
   "香港メディアが報じる日本のロボット産業が後退した背景",
   "米Amazon、Claudeの誤用で予算の8倍超を請求された理由",
   "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
@@ -3753,6 +3752,8 @@
   "福岡県で40度以上の酷暑日、各地で危険な暑さに厳重警戒",
   "サウジ資金でパリ近郊に日本漫画テーマパーク建設へ",
   "東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分",
-  "JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設"
+  "JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設",
+  "「取りあえずChatGPT」はもう古い？　2社に1社が複数AIを併用、企業はどう管理すべきか",
+  "Okta Japan：2社に1社が複数AIを併用する理由"
  ]
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ</title>
+<link>https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html</guid>
+<pubDate>Wed, 26 Aug 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米アマゾンが、人間には簡単でコンピューターには難しい作業を外部委託する仕組みとして2005年に開始したサービスを終了することが分かりました。</description>
+</item>
+<item>
+<title>OpenAIデータセンター責任者の退社が判明、組織再編の行方</title>
+<link>https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html</guid>
+<pubDate>Wed, 26 Aug 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。</description>
+</item>
+<item>
 <title>Okta Japan：2社に1社が複数AIを併用する理由</title>
 <link>https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 12:42:00 +0900</pubDate>
 <category>日本企業</category>
 <description>大豊建設とUNICONHDが資本業務提携を締結しました。両社はPPPやPFI事業への共同参画も視野に入れています。</description>
-</item>
-<item>
-<title>OpenAI幹部退職が続く中、インフラ部門を再編へ</title>
-<link>https://ai-tech-times.web.app/articles/20260826-openai-loses-top-data-center-exec.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-openai-loses-top-data-center-exec.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発を牽引するOpenAIで高名な幹部の退職が相次ぐ中、同社はインフラストラクチャ部門の組織再編に踏み切りました。</description>
-</item>
-<item>
-<title>OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新</title>
-<link>https://ai-tech-times.web.app/articles/20260826-openai-jalapeno-chip-benchmarks.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-openai-jalapeno-chip-benchmarks.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが開発した新型チップ「Jalapeño」が、ベンチマークテストにおいて既存の最先端技術を上回る優れた推論性能を記録したことが明らかになりました。</description>
 </item>
 </channel></rss>

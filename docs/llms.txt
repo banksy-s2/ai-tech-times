@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ](https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html) — 2026-08-26 19:00: 米アマゾンが、人間には簡単でコンピューターには難しい作業を外部委託する仕組みとして2005年に開始したサービスを終了することが分かりました。
+- [OpenAIデータセンター責任者の退社が判明、組織再編の行方](https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html) — 2026-08-26 19:00: AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。
 - [Okta Japan：2社に1社が複数AIを併用する理由](https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html) — 2026-08-26 18:00: Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。
 - [ビル・ゲイツが語る「AIの危険なしきい値」](https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html) — 2026-08-26 17:05: ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。
 - [Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開](https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html) — 2026-08-26 17:05: Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。
@@ -40,15 +42,13 @@
 - [トランプ大統領、オンタリオ湖の「アメリカ湖」改称を検討](https://ai-tech-times.web.app/articles/20260826-trump-considers-renaming-lake-ontario.html) — 2026-08-26 13:00: アメリカのトランプ大統領は25日、五大湖の1つであるオンタリオ湖の名称変更について言及しました。カナダとの対立が激化する中での動きとなっています。
 - [中野区の時計店で高級腕時計4本約2億円相当が盗難、ハンマー残し逃走か](https://ai-tech-times.web.app/articles/20260826-luxury-watch-theft-nakano-2-hundred-million-yen.html) — 2026-08-26 13:00: 25日、東京・中野区の商業施設に入る時計店で、海外製の高級腕時計4本あわせておよそ2億円相当が盗まれる事件が発生しました。犯行に使われたとみられるハンマーが現場に残されていたことが分かりました。
 - [AnthropicのClaude、チャットとCoworkで記憶を共有可能に](https://ai-tech-times.web.app/articles/20260826-claude-cowork-shared-memory.html) — 2026-08-26 12:42: AI開発企業Anthropicは、Claudeのチャット機能とCowork機能の間で記憶の共有を開始しました。プロジェクトや好みの再入力の手間が省けるようになります。
-- [Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅](https://ai-tech-times.web.app/articles/20260826-keenable-indexing-web-for-ai-agents.html) — 2026-08-26 12:42: AIエージェント向けの大規模なウェブ検索インデックスを構築してきたKeenableが、ステルスモードを解除し、2600万ドルのシードラウンドで資金調達を行ったことを明らかにしました。
-- [AppleのMac Studio新モデル登場、M5 UltraでAI性能最大4.3倍に](https://ai-tech-times.web.app/articles/20260826-mac-studio-m5-ultra-release.html) — 2026-08-26 12:42: 米Appleは8月25日（現地時間）、デスクトップPC「Mac Studio」の新モデルを発表しました。新チップを搭載し、価格は41万9800円からとなります。
 
 ## 世界のバズ動画TOP3 (2026-08-26)
 - 1位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
 - 2位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 
-## AI用語事典 (全1119語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1120語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,8 +56,8 @@
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): 米国のテクノロジー企業。FacebookやInstagramなどのSNSを運営し、近年はAI開発やメタバース事業に注力している。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠地を置き、AI開発などに欠かせない高性能なGPUなどの半導体製品を広く提供する大手テクノロジー企業。
-- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): 世界最大級のECサイトを運営し、クラウドコンピューティング事業でも市場をリードするアメリカのテック企業。
+- [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。

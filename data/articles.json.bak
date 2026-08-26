@@ -60554,5 +60554,44 @@
   "date": "2026-08-26",
   "time": "17:05",
   "path": "/articles/20260826-jfe-kawasaki-cold-storage-facility.html"
+ },
+ {
+  "title": "Okta Japan：2社に1社が複数AIを併用する理由",
+  "lead": "Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。",
+  "summary3": [
+   "Okta JapanがAI利用実態を発表",
+   "2社に1社が複数AIを併用する傾向",
+   "企業における適切な管理が課題に"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Okta Japanは企業におけるAIツールの利用実態をまとめたレポートを発表しました。",
+   "このレポートは、Okta Platformの2万以上の組織における4年間の匿名化されたアクセスデータを分析して作成されたものです。",
+   "「取りあえずChatGPT」という従来の利用スタイルから変化が見られ、2社に1社が複数のAIを併用する状況となっています。今後は企業としての管理体制がどのように求められるのか、注目が集まっています。"
+  ],
+  "tags": [
+   "Okta Japan",
+   "ChatGPT",
+   "AI活用"
+  ],
+  "slug": "okta-japan-multi-ai-report",
+  "people": [],
+  "terms": [
+   {
+    "name": "Okta Japan",
+    "type": "company",
+    "desc": "アイデンティティ管理サービスを提供する米Oktaの日本法人で、企業の認証やセキュリティ基盤を支える。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した対話型の生成AIモデルであり、自然な言語処理による文章生成や質問応答が得意。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
+  "category": "ai_jp",
+  "date": "2026-08-26",
+  "time": "18:00",
+  "path": "/articles/20260826-okta-japan-multi-ai-report.html"
  }
 ]
