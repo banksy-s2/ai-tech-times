@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 19:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 21:05 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [SKハイニックスの宮城県工場浮上、村井知事はどう動く？](https://ai-tech-times.web.app/articles/20260826-sk-hynix-miyagi-factory-plan.html) — 2026-08-26 21:05: 韓国の半導体大手SKハイニックスが宮城県にメモリー工場を建設する計画が浮上したことを受け、宮城県の村井嘉浩知事が定例記者会見で言及しました。
+- [政府、生成AI事業者向け知財保護ルールを策定した狙い](https://ai-tech-times.web.app/articles/20260826-government-ip-protection-rules-for-ai.html) — 2026-08-26 21:05: 政府は生成AI事業者向けに、透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定しました。対象範囲や運用方針に注目が集まっています。
+- [X、プライバシー重視のオープンソース「Nitter」に閉鎖要求](https://ai-tech-times.web.app/articles/20260826-x-sends-cease-and-desist-to-nitter.html) — 2026-08-26 21:05: Xは、プライバシー重視のX用フロントエンドとして知られるオープンソースプロジェクト「Nitter」に対し、スクレイピングを理由としてインスタンスやコードリポジトリの削除を求める停止通告書を送付しました。
+- [ガミックス、ATEEZのSANに謝罪した理由](https://ai-tech-times.web.app/articles/20260826-gamix-apologizes-to-ateez-san.html) — 2026-08-26 21:05: 日本人YouTuberのガミックスが、韓国のグループ「ATEEZ」のメンバーであるSANに対して謝罪しました。ダンス動画でのある動作が炎上したためです。
+- [自民党税調が会合、食料品の消費税減税で農家や漁業者へ給付金検討](https://ai-tech-times.web.app/articles/20260826-tax-reduction-nogyo-gyogyo.html) — 2026-08-26 21:05: 食料品の消費税減税をめぐり、自民党の税制調査会は会合を開き、政府が農家や漁業者への給付金支給などの支援策を説明しました。
+- [総務省、郵便事業の持続可能なサービス検討](https://ai-tech-times.web.app/articles/20260826-postal-service-sustainability-review.html) — 2026-08-26 21:05: 郵便事業の赤字が続いている問題を受け、持続可能なサービスのあり方などを検討する総務省の委員会の初会合が開かれました。
+- [大日本印刷、AUSTRIACARDの公開買付け結果を発表](https://ai-tech-times.web.app/articles/20260826-dnp-austriacard-tender-offer-results.html) — 2026-08-26 21:05: 大日本印刷は、オーストリアの上場企業であるAUSTRIACARD HOLDINGS AGの株式に関する公開買付けの結果を発表しました。
 - [Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ](https://ai-tech-times.web.app/articles/20260826-amazon-mechanical-turk-shutting-down.html) — 2026-08-26 19:00: 米アマゾンが、人間には簡単でコンピューターには難しい作業を外部委託する仕組みとして2005年に開始したサービスを終了することが分かりました。
 - [OpenAIデータセンター責任者の退社が判明、組織再編の行方](https://ai-tech-times.web.app/articles/20260826-openai-data-center-chief-chris-malone-exits.html) — 2026-08-26 19:00: AI開発を牽引するOpenAIで、データセンター部門の責任者を務めていたクリス・マローン氏が同社を去ったことが明らかになりました。相次ぐ幹部の退社が続く中、インフラ部門の組織再編に注目が集まっています。
 - [Okta Japan：2社に1社が複数AIを併用する理由](https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html) — 2026-08-26 18:00: Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。
@@ -35,20 +42,13 @@
 - [サウジ資金でパリ近郊に日本漫画テーマパーク建設へ](https://ai-tech-times.web.app/articles/20260826-manga-theme-park-paris-saudi.html) — 2026-08-26 17:05: フランスのパリ近郊に、日本の漫画を扱ったテーマパークが建設されることになりました。サウジアラビアの資金が投入されます。
 - [東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分](https://ai-tech-times.web.app/articles/20260826-tokyo-marine-hd-shareholder-benefit.html) — 2026-08-26 17:05: 東京海上ホールディングスは、新たに株主優待制度を新設することを発表しました。条件を満たした株主を対象に、電子マネーなどが贈呈されます。
 - [JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設](https://ai-tech-times.web.app/articles/20260826-jfe-kawasaki-cold-storage-facility.html) — 2026-08-26 17:05: JFEホールディングスなどは、神奈川県川崎市にある製鉄所の高炉などの跡地を、冷凍した生鮮食品などの保管倉庫として活用する方針を明らかにしました。
-- [OpenAI製品責任者が語るAIエージェントの現在地](https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html) — 2026-08-26 16:01: OpenAIの製品責任者がTechCrunchのインタビューに応じ、AIエージェントやユーザーエクスペリエンス、そしてグレッグ・ブロックマン氏への報告体制について語りました。
-- [Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由](https://ai-tech-times.web.app/articles/20260826-ringg-raises-10-million-from-peak-xv.html) — 2026-08-26 16:01: 音声AIを手がけるRinggが、シリーズAエクステンションラウンドでPeak XVから1,000万ドルを調達しました。電話の枠を超えた音声AIの活用を進めています。
-- [伊藤忠商事、スイッチメディアと資本業務提携を発表](https://ai-tech-times.web.app/articles/20260826-itochu-switch-media-capital-alliance.html) — 2026-08-26 15:00: 伊藤忠商事に関する最新の企業動向として、スイッチメディアとの資本業務提携が報じられました。
-- [財務省、来年度予算案の国債費36兆円余りを要求へ](https://ai-tech-times.web.app/articles/20260826-mof-kokusaihi-36-trillion-yen.html) — 2026-08-26 14:00: 財務省は来年度予算案の概算要求において、国債費として過去最大となる36兆円余りを要求する方針を固めました。
-- [トランプ大統領、オンタリオ湖の「アメリカ湖」改称を検討](https://ai-tech-times.web.app/articles/20260826-trump-considers-renaming-lake-ontario.html) — 2026-08-26 13:00: アメリカのトランプ大統領は25日、五大湖の1つであるオンタリオ湖の名称変更について言及しました。カナダとの対立が激化する中での動きとなっています。
-- [中野区の時計店で高級腕時計4本約2億円相当が盗難、ハンマー残し逃走か](https://ai-tech-times.web.app/articles/20260826-luxury-watch-theft-nakano-2-hundred-million-yen.html) — 2026-08-26 13:00: 25日、東京・中野区の商業施設に入る時計店で、海外製の高級腕時計4本あわせておよそ2億円相当が盗まれる事件が発生しました。犯行に使われたとみられるハンマーが現場に残されていたことが分かりました。
-- [AnthropicのClaude、チャットとCoworkで記憶を共有可能に](https://ai-tech-times.web.app/articles/20260826-claude-cowork-shared-memory.html) — 2026-08-26 12:42: AI開発企業Anthropicは、Claudeのチャット機能とCowork機能の間で記憶の共有を開始しました。プロジェクトや好みの再入力の手間が省けるようになります。
 
 ## 世界のバズ動画TOP3 (2026-08-26)
 - 1位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
 - 2位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 
-## AI用語事典 (全1120語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1125語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -74,11 +74,11 @@
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [SKハイニックスとは](https://ai-tech-times.web.app/term/SK%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.html): 韓国に本拠を置く世界的な半導体製造企業で、特にDRAMなどのメモリー半導体で高いシェアを持ちます。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [BBC Worldとは](https://ai-tech-times.web.app/term/bbc-world.html): 英国放送協会（BBC）が運営する国際的なニュース報道メディアで、世界中の最新情報を伝えています。
 - [キオクシアホールディングスとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9.html): フラッシュメモリなどの半導体製品を開発・製造する日本の大手半導体企業です。
-- [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

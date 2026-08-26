@@ -1752,13 +1752,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260825de46311",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdWVoTklSclN0UjVGeGsxRU5Xb1JiLTZ2UThCdGplb25icGtxMTdHa1drSXZHaHVlVjFSMlBNeG40emJFc09HTWluOHZhaTFlVEpZ?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260825de46223",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html"
+  "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news044.html",
+  "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+  "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html"
  ],
  "titles": [
-  "香港メディアが報じる日本のロボット産業が後退した背景",
-  "米Amazon、Claudeの誤用で予算の8倍超を請求された理由",
-  "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-  "Appleティム・クック最後の決算、iPhone好調の一方で価格高騰の懸念",
   "YouTuber告白「案件詐欺で、ほぼ全財産失った...」日本は詐欺天国?巧妙な手口とは - ABEMA",
   "ABEMA番組でYouTuberが告白、案件詐欺の手口",
   "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
@@ -3754,6 +3752,10 @@
   "東京海上HD、株主優待を新設！100株保有で電子マネーなど最大7500円分",
   "JFE、川崎市の製鉄所跡地に冷凍食品の大型保管施設",
   "「取りあえずChatGPT」はもう古い？　2社に1社が複数AIを併用、企業はどう管理すべきか",
-  "Okta Japan：2社に1社が複数AIを併用する理由"
+  "Okta Japan：2社に1社が複数AIを併用する理由",
+  "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+  "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
+  "Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ",
+  "OpenAIデータセンター責任者の退社が判明、組織再編の行方"
  ]
 }

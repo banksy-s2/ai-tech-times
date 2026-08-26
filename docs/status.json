@@ -1,17 +1,56 @@
 {
- "updated": "2026-08-26 20:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-08-26 21:05",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "SKハイニックスの宮城県工場浮上、村井知事はどう動く？",
+   "path": "/articles/20260826-sk-hynix-miyagi-factory-plan.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "政府、生成AI事業者向け知財保護ルールを策定した狙い",
+   "path": "/articles/20260826-government-ip-protection-rules-for-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "X、プライバシー重視のオープンソース「Nitter」に閉鎖要求",
+   "path": "/articles/20260826-x-sends-cease-and-desist-to-nitter.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ガミックス、ATEEZのSANに謝罪した理由",
+   "path": "/articles/20260826-gamix-apologizes-to-ateez-san.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "自民党税調が会合、食料品の消費税減税で農家や漁業者へ給付金検討",
+   "path": "/articles/20260826-tax-reduction-nogyo-gyogyo.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "総務省、郵便事業の持続可能なサービス検討",
+   "path": "/articles/20260826-postal-service-sustainability-review.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "大日本印刷、AUSTRIACARDの公開買付け結果を発表",
+   "path": "/articles/20260826-dnp-austriacard-tender-offer-results.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
  "notes": [
-  "執筆失敗: 登録者数世界一のYouTuber「MrBeast」のローカライズ戦略が凄まじすぎ"
+  "執筆失敗: OpenAI says its Jalapeño chip can power ",
+  "執筆失敗: Nvidia’s dependence on hyperscalers face",
+  "執筆失敗: 東京海上が株式分割＆株主優待を導入、テラドローンはストップ高/日経平均続伸【今日",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 2,
  "gemini": {
-  "used": 97,
+  "used": 122,
   "limit": 200
  }
 }

@@ -1,26 +1,17 @@
 {
- "updated": "2026-08-26 19:01",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ",
-   "path": "/articles/20260826-amazon-mechanical-turk-shutting-down.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAIデータセンター責任者の退社が判明、組織再編の行方",
-   "path": "/articles/20260826-openai-data-center-chief-chris-malone-exits.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-08-26 20:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 登録者数世界一のYouTuber「MrBeast」のローカライズ戦略が凄まじすぎ"
+ ],
  "pv_today": 2,
  "gemini": {
-  "used": 93,
+  "used": 97,
   "limit": 200
  }
 }
