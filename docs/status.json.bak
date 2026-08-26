@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-26 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-26 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ大統領、オンタリオ湖の「アメリカ湖」改称を検討",
-   "path": "/articles/20260826-trump-considers-renaming-lake-ontario.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中野区の時計店で高級腕時計4本約2億円相当が盗難、ハンマー残し逃走か",
-   "path": "/articles/20260826-luxury-watch-theft-nakano-2-hundred-million-yen.html",
-   "cat": "時事・世界"
+   "title": "財務省、来年度予算案の国債費36兆円余りを要求へ",
+   "path": "/articles/20260826-mof-kokusaihi-36-trillion-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 51,
+  "used": 54,
   "limit": 200
  }
 }

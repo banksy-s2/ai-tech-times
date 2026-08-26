@@ -60084,5 +60084,44 @@
   "date": "2026-08-26",
   "time": "14:00",
   "path": "/articles/20260826-mof-kokusaihi-36-trillion-yen.html"
+ },
+ {
+  "title": "伊藤忠商事、スイッチメディアと資本業務提携を発表",
+  "lead": "伊藤忠商事に関する最新の企業動向として、スイッチメディアとの資本業務提携が報じられました。",
+  "summary3": [
+   "伊藤忠商事が5日続伸の展開",
+   "スイッチメディアと資本業務提携",
+   "詳細な動向がYahoo!ファイナンスに掲載"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。伊藤忠商事に関連する株式市場および企業ニュースとして、同社がスイッチメディアと資本業務提携を締結したことが伝えられました。",
+   "今回の発表では、伊藤忠商事が5日続伸となっている状況もあわせて報じられています。具体的な提携内容の詳細については、提供された元記事情報に基づく範囲内での発表となっています。",
+   "企業の動向や市場での動きに関する情報は、投資家やビジネスパーソンにとって重要な関心事の一つです。当サイトでは今後も関連する事実に基づいて正確な情報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "伊藤忠商事",
+   "スイッチメディア",
+   "資本業務提携"
+  ],
+  "slug": "itochu-switch-media-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "伊藤忠商事",
+    "type": "company",
+    "desc": "大阪府・東京都に本社を置く日本の大手総合商社であり、繊維や機械など幅広い分野で事業を展開する。"
+   },
+   {
+    "name": "スイッチメディア",
+    "type": "company",
+    "desc": "テレビ視聴データ分析サービスなどを手がけ、マーケティング支援やデータ活用事業を展開する企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnR2Y0RpZzE2MURvTzlRZGdCOTR0T1c4TnVWLUxSMVNtbDdySlN5cV9jNU9nZVVRTEd0WVhiOC1IekxmWFM0UnQtekZEQ2hEWm4zTUFwbzdpNjVxbHItOXEwTk40ZnNtWUY0enlrOFpDZXczdlRRRXZwdDZnaE9YUGRadHZCVWs?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-26",
+  "time": "15:00",
+  "path": "/articles/20260826-itochu-switch-media-capital-alliance.html"
  }
 ]
