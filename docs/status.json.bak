@@ -1,23 +1,26 @@
 {
- "updated": "2026-08-26 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-26 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Okta Japan：2社に1社が複数AIを併用する理由",
-   "path": "/articles/20260826-okta-japan-multi-ai-report.html",
-   "cat": "日本のAI"
+   "title": "Amazon、ジェフ・ベゾスが「人工的なAI」と呼んだサービスを終了へ",
+   "path": "/articles/20260826-amazon-mechanical-turk-shutting-down.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "OpenAIデータセンター責任者の退社が判明、組織再編の行方",
+   "path": "/articles/20260826-openai-data-center-chief-chris-malone-exits.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)",
   "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0"
  },
- "notes": [
-  "執筆失敗: 政府、AI事業者向け「知財保護ルール」策定　対象範囲・運用方針は？"
- ],
+ "notes": [],
  "pv_today": 2,
  "gemini": {
-  "used": 88,
+  "used": 93,
   "limit": 200
  }
 }
