@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAI製品責任者が語るAIエージェントの現在地</title>
+<link>https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html</guid>
+<pubDate>Wed, 26 Aug 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIの製品責任者がTechCrunchのインタビューに応じ、AIエージェントやユーザーエクスペリエンス、そしてグレッグ・ブロックマン氏への報告体制について語りました。</description>
+</item>
+<item>
+<title>Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260826-ringg-raises-10-million-from-peak-xv.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-ringg-raises-10-million-from-peak-xv.html</guid>
+<pubDate>Wed, 26 Aug 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>音声AIを手がけるRinggが、シリーズAエクステンションラウンドでPeak XVから1,000万ドルを調達しました。電話の枠を超えた音声AIの活用を進めています。</description>
+</item>
+<item>
 <title>伊藤忠商事、スイッチメディアと資本業務提携を発表</title>
 <link>https://ai-tech-times.web.app/articles/20260826-itochu-switch-media-capital-alliance.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260826-itochu-switch-media-capital-alliance.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 25 Aug 2026 18:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>ZOZOでは、数百名の社員がClaude CodeなどのAI開発ツールを活用しています。複数チームによる共同運用で直面した5つの課題と対策が公開されました。</description>
-</item>
-<item>
-<title>人気RPGスカイリムを一緒に遊ぶ低遅延AIコンパニオン</title>
-<link>https://ai-tech-times.web.app/articles/20260825-low-latency-ai-companion-skyrim.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-low-latency-ai-companion-skyrim.html</guid>
-<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>人気RPGゲーム「Skyrim」を一緒にプレイできる、低遅延なAIコンパニオンが開発されました。開発の背景や特徴をお伝えします。</description>
-</item>
-<item>
-<title>GPT-2を純粋なCMakeで実装、その仕組みとは</title>
-<link>https://ai-tech-times.web.app/articles/20260825-gpt2-in-pure-cmake.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260825-gpt2-in-pure-cmake.html</guid>
-<pubDate>Tue, 25 Aug 2026 17:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI/LLM分野において、GPT-2を純粋なCMakeを用いて実装したプロジェクトが注目を集めています。記事の公開から多くの議論が寄せられています。</description>
 </item>
 </channel></rss>

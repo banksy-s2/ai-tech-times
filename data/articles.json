@@ -60123,5 +60123,93 @@
   "date": "2026-08-26",
   "time": "15:00",
   "path": "/articles/20260826-itochu-switch-media-capital-alliance.html"
+ },
+ {
+  "title": "OpenAI製品責任者が語るAIエージェントの現在地",
+  "lead": "OpenAIの製品責任者がTechCrunchのインタビューに応じ、AIエージェントやユーザーエクスペリエンス、そしてグレッグ・ブロックマン氏への報告体制について語りました。",
+  "summary3": [
+   "OpenAI製品責任者が取材に応じる",
+   "エージェントやUXについて言及",
+   "ブロックマン氏への報告体制を語る"
+  ],
+  "body": [
+   "AI TECH TIMESの編集部です。米メディアのTechCrunch AIは、人工知能開発を手がけるOpenAIの製品責任者であるティボー・ソティアウ氏に対するインタビュー記事を公開しました。",
+   "今回のインタビューでは、今後のAI活用において重要となるエージェント技術や、ユーザーエクスペリエンス（UX）のあり方について議論が交わされました。",
+   "さらに、同社の主要な開発を牽引するグレッグ・ブロックマン氏への報告体制についても言及されており、最前線の動向が明らかになっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "TechCrunch",
+   "AIエージェント"
+  ],
+  "slug": "openai-head-of-product-thibault-sottiaux-interview",
+  "people": [
+   {
+    "name": "グレッグ・ブロックマン氏",
+    "bio": "OpenAIの共同創業者であり、同社の技術開発を長年牽引している主要人物の一人です。"
+   },
+   {
+    "name": "ティボー・ソティアウ氏",
+    "bio": "OpenAIで製品部門の責任者を務め、プロダクト戦略や開発を統括しています。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ・サンフランシスコを拠点とする人工知能の研究・開発企業です。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー分野のニュースおよびメディアサイトです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "16:01",
+  "path": "/articles/20260826-openai-head-of-product-thibault-sottiaux-interview.html"
+ },
+ {
+  "title": "Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由",
+  "lead": "音声AIを手がけるRinggが、シリーズAエクステンションラウンドでPeak XVから1,000万ドルを調達しました。電話の枠を超えた音声AIの活用を進めています。",
+  "summary3": [
+   "RinggがシリーズAで1000万ドルを調達",
+   "出資元は著名投資会社のPeak XV",
+   "電話の枠を超える音声AIの展開を推進"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、音声AIを手がけるRinggは、シリーズAエクステンションラウンドにおいて、Peak XVから1,000万ドルの資金調達を実施しました。",
+   "今回の資金調達は、同社が推進する音声AI技術を従来の電話の枠組みを超えてさらに拡張させるためのものであり、今後の事業展開に向けた重要なステップとなります。",
+   "Ringgがどのような新たなユースケースやプロダクトを打ち出していくのか、AI業界からの注目が集まっています。"
+  ],
+  "tags": [
+   "音声AI",
+   "資金調達",
+   "Ringg",
+   "Peak XV"
+  ],
+  "slug": "ringg-raises-10-million-from-peak-xv",
+  "people": [],
+  "terms": [
+   {
+    "name": "Peak XV",
+    "type": "company",
+    "desc": "インドおよび東南アジア地域を中心に多くのスタートアップへ投資を行う著名なベンチャーキャピタル。"
+   },
+   {
+    "name": "Ringg",
+    "type": "company",
+    "desc": "音声AI技術を活用したコミュニケーションや関連ソリューションの開発を手がける企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+  "category": "ai",
+  "date": "2026-08-26",
+  "time": "16:01",
+  "path": "/articles/20260826-ringg-raises-10-million-from-peak-xv.html"
  }
 ]
