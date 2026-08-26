@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 17:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-26 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Okta Japan：2社に1社が複数AIを併用する理由](https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html) — 2026-08-26 18:00: Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。
 - [ビル・ゲイツが語る「AIの危険なしきい値」](https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html) — 2026-08-26 17:05: ビル・ゲイツ氏が、AIの危険なしきい値をすでに超えたと語りました。この状況において、私たちは次にどう向き合うべきなのでしょうか。
 - [Hugging Faceが「Granite 4.2 LLMs」の構築手法を公開](https://ai-tech-times.web.app/articles/20260826-granite-4-2-llms-how-they-re-built.html) — 2026-08-26 17:05: Hugging Face Blogにて、Granite 4.2 LLMsの開発および構築に関する詳細が公開されました。
 - [Confluent調査：AIエージェント本番運用中の日本企業が17％にとどまる理由](https://ai-tech-times.web.app/articles/20260826-ai-agent-production-japan-confluent.html) — 2026-08-26 17:05: Confluentの調査により、AIエージェントなどの自律型AIを本番運用している日本企業が17％にとどまることが分かりました。PoC止まりとなる課題やその解決策についてお伝えします。
@@ -41,14 +42,13 @@
 - [AnthropicのClaude、チャットとCoworkで記憶を共有可能に](https://ai-tech-times.web.app/articles/20260826-claude-cowork-shared-memory.html) — 2026-08-26 12:42: AI開発企業Anthropicは、Claudeのチャット機能とCowork機能の間で記憶の共有を開始しました。プロジェクトや好みの再入力の手間が省けるようになります。
 - [Accel支援のKeenable、AIエージェント向けに2600万ドルでウェブ網羅](https://ai-tech-times.web.app/articles/20260826-keenable-indexing-web-for-ai-agents.html) — 2026-08-26 12:42: AIエージェント向けの大規模なウェブ検索インデックスを構築してきたKeenableが、ステルスモードを解除し、2600万ドルのシードラウンドで資金調達を行ったことを明らかにしました。
 - [AppleのMac Studio新モデル登場、M5 UltraでAI性能最大4.3倍に](https://ai-tech-times.web.app/articles/20260826-mac-studio-m5-ultra-release.html) — 2026-08-26 12:42: 米Appleは8月25日（現地時間）、デスクトップPC「Mac Studio」の新モデルを発表しました。新チップを搭載し、価格は41万9800円からとなります。
-- [OpenRouterで米企業が中国モデルに58％流す理由](https://ai-tech-times.web.app/articles/20260826-chinese-ai-models-api-usage.html) — 2026-08-26 12:42: あなたが日常的に使っているAIサービスの「中身」で、いま大きな変化が起きています。米企業のAPI利用において、中国モデルが占める比率が58％に達していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-08-26)
-- 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
-- 2位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
+- 1位: [THE FINAL BATTLE OF KATANA KINGDOM (Brawl Stars Animation)](https://www.youtube.com/watch?v=eFxvsyUoFi0)
+- 2位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)
 - 3位: [Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25](https://www.youtube.com/watch?v=L2NAh3CIdig)
 
-## AI用語事典 (全1118語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1119語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

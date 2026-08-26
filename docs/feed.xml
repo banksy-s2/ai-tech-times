@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Okta Japan：2社に1社が複数AIを併用する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260826-okta-japan-multi-ai-report.html</guid>
+<pubDate>Wed, 26 Aug 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Okta Japanが企業のAIツール利用実態に関するレポートを発表しました。複数AIの併用が進む中、企業はどのように管理すべきかが問われています。</description>
+</item>
+<item>
 <title>ビル・ゲイツが語る「AIの危険なしきい値」</title>
 <link>https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260826-bill-gates-ai-danger-threshold.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>OpenAIが開発した新型チップ「Jalapeño」が、ベンチマークテストにおいて既存の最先端技術を上回る優れた推論性能を記録したことが明らかになりました。</description>
-</item>
-<item>
-<title>Micron本社周辺で起きる地価高騰と雇用の光景</title>
-<link>https://ai-tech-times.web.app/articles/20260826-micron-boise-impact-ai-boom.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-micron-boise-impact-ai-boom.html</guid>
-<pubDate>Wed, 26 Aug 2026 12:39:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIブームに伴う半導体需要の急増は、アメリカ・アイダホ州ボイシにあるMicronの本拠地周辺に大きな変化をもたらしています。雇用増加や新たな億万長者の誕生の一方で、交通渋滞や住宅価格の高騰といった深刻な影響も現れています。</description>
 </item>
 </channel></rss>
