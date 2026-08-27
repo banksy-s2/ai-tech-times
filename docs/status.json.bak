@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-27 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-27 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "NVIDIA製GPUを200万基追加、アマゾンが需要急増で発注を3倍に拡大した理由",
-   "path": "/articles/20260827-amazon-triples-nvidia-chip-orders.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "任天堂Switch 2が50ドル値上げへ、来週9月1日から499.99ドルに",
-   "path": "/articles/20260827-switch-2-price-increase-september.html",
-   "cat": "シリコンバレー最速"
+   "title": "警察庁発表：マイナ免許証保有者数が378万700人に到達",
+   "path": "/articles/20260827-myena-drivers-license-holders.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 71,
+  "used": 74,
   "limit": 200
  }
 }
