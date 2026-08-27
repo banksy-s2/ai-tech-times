@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>警察庁発表：マイナ免許証保有者数が378万700人に到達</title>
+<link>https://ai-tech-times.web.app/articles/20260827-myena-drivers-license-holders.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260827-myena-drivers-license-holders.html</guid>
+<pubDate>Thu, 27 Aug 2026 11:00:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>警察庁は2026年7月末時点における「マイナ免許証」の保有者数を発表しました。現在の保有者数は378万700人となっています。</description>
+</item>
+<item>
 <title>NVIDIA製GPUを200万基追加、アマゾンが需要急増で発注を3倍に拡大した理由</title>
 <link>https://ai-tech-times.web.app/articles/20260827-amazon-triples-nvidia-chip-orders.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260827-amazon-triples-nvidia-chip-orders.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Wed, 26 Aug 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>政府は生成AI事業者向けに、透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定しました。対象範囲や運用方針に注目が集まっています。</description>
-</item>
-<item>
-<title>X、プライバシー重視のオープンソース「Nitter」に閉鎖要求</title>
-<link>https://ai-tech-times.web.app/articles/20260826-x-sends-cease-and-desist-to-nitter.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260826-x-sends-cease-and-desist-to-nitter.html</guid>
-<pubDate>Wed, 26 Aug 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Xは、プライバシー重視のX用フロントエンドとして知られるオープンソースプロジェクト「Nitter」に対し、スクレイピングを理由としてインスタンスやコードリポジトリの削除を求める停止通告書を送付しました。</description>
 </item>
 </channel></rss>

@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-27 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-27 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ChatGPTに会社の情報を入力して大丈夫？",
-   "path": "/articles/20260827-chatgpt-company-info-risk.html",
-   "cat": "日本のAI"
+   "title": "NVIDIA製GPUを200万基追加、アマゾンが需要急増で発注を3倍に拡大した理由",
+   "path": "/articles/20260827-amazon-triples-nvidia-chip-orders.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "スタンフォード大学が判明させたAI雇用の影響",
-   "path": "/articles/20260827-ai-employment-impact-stanford.html",
-   "cat": "日本のAI"
+   "title": "任天堂Switch 2が50ドル値上げへ、来週9月1日から499.99ドルに",
+   "path": "/articles/20260827-switch-2-price-increase-september.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 66,
+  "used": 71,
   "limit": 200
  }
 }
