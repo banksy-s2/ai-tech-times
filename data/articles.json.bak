@@ -61900,5 +61900,376 @@
   "date": "2026-08-27",
   "time": "11:00",
   "path": "/articles/20260827-myena-drivers-license-holders.html"
+ },
+ {
+  "title": "Instinctが3億5000万ドル調達、急成長AIの謎",
+  "lead": "設立からわずか1年のAIスタートアップ「Instinct」が、巨額の資金調達を実施しました。莫大な注目を集める一方で、プライバシーに関する懸念も浮上しています。",
+  "summary3": [
+   "Instinctが3億5000万ドルを調達",
+   "企業価値は25億ドルに到達",
+   "設立1年で巨額の資金と懸念"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunch AIの報道から伝えたところによると、設立わずか1年のAIスタートアップ企業であるInstinctが、新たに3億5000万ドルの資金調達を行いました。今回の資金調達により、同社の企業価値は25億ドルに達しています。",
+   "Instinctは短期間の間に莫大な量のハイパードライブ（誇大な期待や熱狂）と資金を生み出す一方で、同時にプライバシーに関する深刻な懸念をも引き起こしています。設立から1年という異例のスピードでこれほどの規模の資金を集めた背景には、世界的なAIブームと独自の技術への期待があると考えられます。",
+   "しかし、急速な普及と巨額の資金集めの一方で、個人情報の取り扱いやプライバシーを守るための仕組みについては、今後さらに厳しい目が向けられることになりそうです。この急成長するAIスタートアップがこの先どのように信頼を獲得していくのか、業界全体から大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Instinct",
+   "資金調達",
+   "AIスタートアップ"
+  ],
+  "slug": "instinct-raises-350-million",
+  "people": [],
+  "terms": [
+   {
+    "name": "Instinct",
+    "type": "company",
+    "desc": "設立から1年で巨額の資金を集め、企業価値が25億ドルに達した話題のAIスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+  "category": "ai",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-instinct-raises-350-million.html"
+ },
+ {
+  "title": "イスラエル資金の偽シンクタンク、AIで世論工作を図る",
+  "lead": "イスラエルが資金を提供して設立した偽の米シンクタンクが、AIを活用してプロパガンダを仕掛けようとしていたことがガーディアン紙の報道で明らかになりました。",
+  "summary3": [
+   "イスラエル資金の偽シンクタンクが発覚",
+   "AIを活用したプロパガンダ工作を企図",
+   "ガーディアン紙が詳細を報じる"
+  ],
+  "body": [
+   "海外メディア「ガーディアン」の報道によると、イスラエルによって設立および資金提供が行われた偽の米シンクタンクが存在することが判明しました。",
+   "この偽組織は、人工知能（AI）技術を利用してプロパガンダを展開し、世論工作を行うことを目的として活動していたとされています。",
+   "AIを用いた情報戦の手法や工作の実態について、現在詳細な調査と議論が続けられています。"
+  ],
+  "tags": [
+   "AI",
+   "プロパガンダ",
+   "セキュリティ"
+  ],
+  "slug": "israel-fake-thinktank-ai-propaganda",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+  "category": "ai",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-israel-fake-thinktank-ai-propaganda.html"
+ },
+ {
+  "title": "MetaがMeta Glassesを50600円から日本発売、なぜ今展開するのか",
+  "lead": "MetaのAIグラス「Meta Glasses」が日本で発売されました。価格は50600円からです。",
+  "summary3": [
+   "Meta Glassesが日本で発売される",
+   "価格は50600円からとなる",
+   "IT分野の最新製品として注目を集める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、Metaが展開するAIグラス「Meta Glasses」が日本国内において発売開始されたという情報を入手いたしました。本製品は、日常の中でAI技術を身近に体験できる最先端のデバイスとして、多くのテックファンから高い関心を集めております。",
+   "気になる価格設定につきましては、50600円からとなっております。手に取りやすい価格帯から用意されていることで、今後の日本市場におけるスマートグラスの普及や、新たな生活スタイルの提案につながるかどうかが注目されるポイントとなります。",
+   "詳細な機能や販売チャネルについては、今後の続報や公式情報を確認する必要があります。日本での正式展開が始まったことで、日常の利便性やエンターテインメントの体験がどのように変化していくのか、引き続きAI TECH TIMESでは最新動向を追ってまいります。"
+  ],
+  "tags": [
+   "Meta",
+   "AIグラス",
+   "ガジェット"
+  ],
+  "slug": "meta-glasses-japan-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどのSNSを運営するアメリカの大手IT企業です。"
+   },
+   {
+    "name": "Meta Glasses",
+    "type": "ai",
+    "desc": "Metaが開発・展開する、AI技術を搭載したスマートグラス製品です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://av.watch.impress.co.jp/docs/news/2135673.html",
+  "category": "ai_jp",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-meta-glasses-japan-release.html"
+ },
+ {
+  "title": "JetBrainsのJunie Local、Mac上で27Bモデルが動く理由",
+  "lead": "JetBrainsが、AIコーディングエージェント「Junie」をMac上で完全にローカル動作させる「Junie Local」を発表しました。クラウド上のAIモデルを利用しないため、トークン料金は発生しません。",
+  "summary3": [
+   "JetBrainsがJunie Localを発表",
+   "Mac上で27Bモデルを完全ローカル実行",
+   "利用時のトークン料金は発生しない仕組み"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。開発ツールなどで知られるJetBrainsは、AIコーディングエージェント「Junie」をMac上で完全にローカル動作させる新展開として、「Junie Local」を発表しました。",
+   "最大の特徴は、クラウド上のAIモデルを利用せず、Mac内でコード生成などの処理を完結させる点にあります。これにより、AI利用時に発生するトークン料金がかからないというメリットが生じます。",
+   "一方で、このシステムを動作させるためには条件があります。Apple Siliconを搭載したMacと、64GB以上のメモリが必要になるため、利用を検討する際は事前の環境確認が不可欠です。"
+  ],
+  "tags": [
+   "JetBrains",
+   "AIコーディング",
+   "Mac"
+  ],
+  "slug": "jetbrains-announces-junie-local",
+  "people": [],
+  "terms": [
+   {
+    "name": "JetBrains",
+    "type": "company",
+    "desc": "チェコに本拠を置き、ソフトウェア開発者向けの統合開発環境（IDE）などを多数提供している企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://corriente.jp/jetbrains-announced-junie-local/",
+  "category": "ai_jp",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-jetbrains-announces-junie-local.html"
+ },
+ {
+  "title": "Nvidia、Hugging Faceを129億ドルで買収合意",
+  "lead": "NvidiaがオープンソースAIモデルのプラットフォーム「Hugging Face」を買収することで合意したことが明らかになりました。買収総額は129億ドルにのぼるとされています。",
+  "summary3": [
+   "NvidiaがHugging Face買収に合意",
+   "買収額は129億ドル規模に達する見込み",
+   "オープンソースAIの動向に大きな影響"
+  ],
+  "body": [
+   "AITECH TIMESの報道によると、Nvidiaが「Hugging Face」を買収することで合意しました。この情報は、合意内容に詳しい関係者からの証言として「The Information」が伝えたものです。",
+   "Hugging Faceは、GitHubのようにオープンソースのAIモデルを共有できるリポジトリとして広く知られている企業です。今回の買収により、Nvidiaはこの主要なAIプラットフォームを率いることになります。",
+   "人工知能の開発において重要な位置を占める両社の統合は、今後のAI業界エコシステムに大きな影響を与える可能性があります。買収金額は129億ドルという巨額にのぼり、今後の動向に注目が集まります。"
+  ],
+  "tags": [
+   "Nvidia",
+   "Hugging Face",
+   "買収"
+  ],
+  "slug": "nvidia-acquires-hugging-face-12-9b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。"
+   },
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "オープンソースのAIや機械学習モデルを共有するプラットフォームを運営するアメリカの企業です。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260826/p65#a260826p65",
+  "category": "silicon",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-nvidia-acquires-hugging-face-12-9b.html"
+ },
+ {
+  "title": "CrowdStrike、Q2売上高が26%増の1.47億ドルに",
+  "lead": "サイバーセキュリティ大手のCrowdStrikeが第2四半期決算を発表し、売上高が前年同期比26%増の1.47億ドルとなりました。市場予想を上回る好決算を受け、時間外取引で株価が9%以上急騰しています。",
+  "summary3": [
+   "Q2売上高は1.47億ドルで予想超過",
+   "前年同期比26%増と堅調な成長維持",
+   "時間外取引で株価が9%以上上昇"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。サイバーセキュリティを手がけるCrowdStrike Holdings Inc.が発表した第2四半期決算によると、売上高は前年同期比26%増の1.47億ドルとなり、市場予想の1.44億ドルを上回りました。",
+   "同社はあわせて、2027年度の通期売上高予想についてもアナリストの事前予想を超える見通しを示しました。この力強い業績見通しが投資家に好感され、発表後の時間外取引において同社の株価（CRWD）は9%以上急騰する展開となっています。",
+   "今回の決算と将来予測は、同社の堅実な事業成長と市場からの高い期待を改めて裏付けるものとなりました。今後の株価の動向や市場全体の反応にも引き続き注目が集まりそうです。"
+  ],
+  "tags": [
+   "CrowdStrike",
+   "決算",
+   "サイバーセキュリティ"
+  ],
+  "slug": "crowdstrike-reports-q2-revenue-up-26-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "CrowdStrike Holdings Inc.",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、クラウドベースのサイバーセキュリティやエンドポイント保護を提供する企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260826/p56#a260826p56",
+  "category": "silicon",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-crowdstrike-reports-q2-revenue-up-26-percent.html"
+ },
+ {
+  "title": "Dreamtonicsが開発、Instrument X爆誕",
+  "lead": "DTMの常識を覆す全く新たな超高性能音源「Instrument X」が、Synthesizer Vを手がけるDreamtonicsにより開発されました。",
+  "summary3": [
+   "Synthesizer Vの開発元が新音源を発表",
+   "従来のサンプル音源とは異なる方式",
+   "弦楽器や管楽器の打ち込みに新風"
+  ],
+  "body": [
+   "DTMで弦楽器や管楽器の演奏を打ち込む際、多くの人がまず思い浮かべるのは大容量のサンプル音源を使った方法だと思います。プロの演奏を細かく収録し、それを組み合わせて再生するというこの方式は、長らくオーケストラ音源やソロ楽器音源のスタンダードであり続けてきました。",
+   "そんな中、2026年8月26日に株式会社AHSか...から、DTMの常識を覆す全く新たな超高性能音源「Instrument X」が発表されました。これはSynthesizer Vの開発元であるDreamtonicsが開発を手がけたものです。",
+   "これまでの大容量サンプル音源とは異なるアプローチを持つとされる「Instrument X」が、今後の音楽制作やDTMのワークフローにどのような影響を与えるのか、多くのクリエイターから注目を集めています。"
+  ],
+  "tags": [
+   "DTM",
+   "Instrument X",
+   "Synthesizer V"
+  ],
+  "slug": "instrument-x-dreamtonics-dtm",
+  "people": [],
+  "terms": [
+   {
+    "name": "Dreamtonics",
+    "type": "company",
+    "desc": "音声合成ソフトウェア「Synthesizer V」などを開発している企業です。"
+   },
+   {
+    "name": "株式会社AHS",
+    "type": "company",
+    "desc": "各種音声創作ソフトやユーティリティソフトの販売・開発を行う日本の企業です。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.dtmstation.com/archives/79202.html",
+  "category": "influencer",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-instrument-x-dreamtonics-dtm.html"
+ },
+ {
+  "title": "エヌビディア最終利益2.2倍、AI向け半導体好調",
+  "lead": "アメリカのエヌビディアが発表した7月下旬までの3か月間の決算で、最終的な利益が去年の同じ時期の2.2倍となりました。AI向け半導体の好調が大きく影響しています。",
+  "summary3": [
+   "エヌビディアの最終利益が2.2倍に",
+   "7月下旬までの3か月間の決算で発表",
+   "AI向け半導体の開発が好調を維持"
+  ],
+  "body": [
+   "AI向け半導体の開発を手がけるアメリカのエヌビディアは、直近の決算を発表しました。対象となったのは7月下旬までの3か月間で、最終的な利益は去年の同じ時期と比べて2.2倍に増加しています。",
+   "今回の決算を牽引したのは、世界中で需要が高まっているAI向けの半導体事業です。人工知能の開発や運用に欠かせない半導体の需要が引き続き非常に高い水準で推移しており、業績の急拡大につながりました。",
+   "人工知能の活用が進む現代のテクノロジー業界において、同社の半導体は中核を担う存在となっています。今回の好決算は、AI市場全体の活況を改めて示す形となりました。"
+  ],
+  "tags": [
+   "エヌビディア",
+   "決算",
+   "AI半導体"
+  ],
+  "slug": "nvidia-financial-results-2-2-times",
+  "people": [],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、AI向け半導体の開発などを手がける大手テクノロジー企業。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260827de46624",
+  "category": "world",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-nvidia-financial-results-2-2-times.html"
+ },
+ {
+  "title": "BBC報道：致死率の高い膵臓がんに新薬承認のなぜ",
+  "lead": "米国の医薬品当局が、世界で最も致死率が高いがんの一つである膵臓がんに向けた画期的な新治療薬を承認しました。専門家らがゲームチェンジャーと称賛するこの新薬は、治療の選択肢を変えるのか、注目を集めています。",
+  "summary3": [
+   "米国の医薬品当局が新薬を承認",
+   "世界で最も致死率が高いがんに対応",
+   "専門家からゲームチェンジャーと評価"
+  ],
+  "body": [
+   "米国の医薬品当局が、膵臓がんに対する画期的な新治療薬の承認を発表しました。対象となるのは世界で最も致死率が高いとされるがんであり、多くの患者や医療関係者にとって重要な一歩となります。",
+   "今回承認された新薬の名前はダラクソラスイブ（daraxonrasib）です。専門家らの間では、これまでの治療のあり方を大きく変えるゲームチェンジャーとして高く評価されています。",
+   "難治性がんとして知られる膵臓がんの治療において、この新しい薬剤がどのように臨床現場で活用され、患者の治療に貢献していくのか、今後の展開に大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "膵臓がん",
+   "医療",
+   "新薬承認"
+  ],
+  "slug": "us-drug-agency-approves-pancreatic-cancer-treatment",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-us-drug-agency-approves-pancreatic-cancer-treatment.html"
+ },
+ {
+  "title": "全国17信用金庫が赤字、金利上昇で何が起きているのか",
+  "lead": "日本経済新聞の集計によると、全国の信用金庫のうち17信金が最終赤字となったことが分かりました。金利上昇に伴う保有債券の価値下落が影響しています。",
+  "summary3": [
+   "全国17信金が最終赤字に転落",
+   "金利上昇で債券含み損が拡大",
+   "約半数が減益で純利益が減少"
+  ],
+  "body": [
+   "地域の中小・零細企業などの資金を支える信用金庫が苦境に陥っています。日本経済新聞が全国254信金の開示資料を集計したところ、2026年3月期は全国で17信金が最終赤字となり、前の期の5信金から急増しました。",
+   "赤字急増の背景には金利上昇があります。金利の上昇によって保有している債券の価値が下がり、売却損や含み損が膨らんでいる状況です。",
+   "また、約半数の信金が減益となっており、純利益の合計は2424億円と前の期から減少しています。中小・零細企業を支える地域金融機関への逆風が強まっています。"
+  ],
+  "tags": [
+   "信用金庫",
+   "経済",
+   "金融"
+  ],
+  "slug": "shinyokinko-deficit-interest-rates",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマーク 経済",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUB052H10V00C26A8000000/",
+  "category": "stock",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-shinyokinko-deficit-interest-rates.html"
+ },
+ {
+  "title": "ヒューリック2295万円トップ、上場企業平均778万円",
+  "lead": "上場企業の平均年収に関する調査結果が発表されました。全体平均は778万円となり、1000万円以上を支給する企業は139社にのぼることが明らかになっています。",
+  "summary3": [
+   "上場企業の平均年収は778万円",
+   "年収1000万円以上は139社",
+   "トップはヒューリックの2295万円"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、上場企業の平均年収に関する最新の情報を取得しました。発表によると、上場企業全体の平均年収は778万円という結果になっています。",
+   "今回の調査では、従業員の平均年収が1000万円を超える企業が139社存在することが確認されました。その中で最も高い平均年収を記録したトップ企業はヒューリックとなっており、金額は2295万円に達しています。",
+   "上場企業における報酬水準の実態を示すデータとして、各社の給与事情に関心が集まる内容となっています。詳細なランキングや企業の傾向については、各種報道や関連情報もあわせてご参照ください。"
+  ],
+  "tags": [
+   "上場企業",
+   "平均年収",
+   "ヒューリック"
+  ],
+  "slug": "listed-companies-average-salary-778-man-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "ヒューリック",
+    "type": "company",
+    "desc": "日本の不動産会社であり、東京都を中心にビル賃貸事業や不動産開発などを幅広く展開している上場企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QMlp2cHo0Rzd0Tmd1aGdEQkM1b0FJYWR3LWVBclUzLTZ3NUVNTDIxTEJvTWZxTVV2c1AzaE9WOFpXdnhCTFJjY05VbXRleGpndXJ2ZVRWeXhya0hQM2pNZzEzbWdvWWRYeV9ITU9lSmswcGdZSXFSSzgxbUVmdWc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-27",
+  "time": "12:01",
+  "path": "/articles/20260827-listed-companies-average-salary-778-man-yen.html"
  }
 ]

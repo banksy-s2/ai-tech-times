@@ -1,21 +1,73 @@
 {
- "updated": "2026-08-27 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-08-27 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "警察庁発表：マイナ免許証保有者数が378万700人に到達",
-   "path": "/articles/20260827-myena-drivers-license-holders.html",
+   "title": "Instinctが3億5000万ドル調達、急成長AIの謎",
+   "path": "/articles/20260827-instinct-raises-350-million.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "イスラエル資金の偽シンクタンク、AIで世論工作を図る",
+   "path": "/articles/20260827-israel-fake-thinktank-ai-propaganda.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "MetaがMeta Glassesを50600円から日本発売、なぜ今展開するのか",
+   "path": "/articles/20260827-meta-glasses-japan-release.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "JetBrainsのJunie Local、Mac上で27Bモデルが動く理由",
+   "path": "/articles/20260827-jetbrains-announces-junie-local.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Nvidia、Hugging Faceを129億ドルで買収合意",
+   "path": "/articles/20260827-nvidia-acquires-hugging-face-12-9b.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "CrowdStrike、Q2売上高が26%増の1.47億ドルに",
+   "path": "/articles/20260827-crowdstrike-reports-q2-revenue-up-26-percent.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Dreamtonicsが開発、Instrument X爆誕",
+   "path": "/articles/20260827-instrument-x-dreamtonics-dtm.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "エヌビディア最終利益2.2倍、AI向け半導体好調",
+   "path": "/articles/20260827-nvidia-financial-results-2-2-times.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "BBC報道：致死率の高い膵臓がんに新薬承認のなぜ",
+   "path": "/articles/20260827-us-drug-agency-approves-pancreatic-cancer-treatment.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "全国17信用金庫が赤字、金利上昇で何が起きているのか",
+   "path": "/articles/20260827-shinyokinko-deficit-interest-rates.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ヒューリック2295万円トップ、上場企業平均778万円",
+   "path": "/articles/20260827-listed-companies-average-salary-778-man-yen.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
   "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 74,
+  "used": 101,
   "limit": 200
  }
 }
