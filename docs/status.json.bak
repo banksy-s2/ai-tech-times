@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-27 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-27 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Z.aiの「Ox Alpha」、間もなく公開される理由とは",
-   "path": "/articles/20260827-z-ai-ox-alpha-model-revealed.html",
-   "cat": "AI(海外)"
+   "title": "ChatGPTに会社の情報を入力して大丈夫？",
+   "path": "/articles/20260827-chatgpt-company-info-risk.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "エヌビディア、四半期売上高1080億ドル予測の背景",
-   "path": "/articles/20260827-nvidia-hundred-billion-dollar-quarterly-revenue.html",
-   "cat": "AI(海外)"
+   "title": "スタンフォード大学が判明させたAI雇用の影響",
+   "path": "/articles/20260827-ai-employment-impact-stanford.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 61,
+  "used": 66,
   "limit": 200
  }
 }
