@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-27 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ChatGPTに会社の情報を入力して大丈夫？](https://ai-tech-times.web.app/articles/20260827-chatgpt-company-info-risk.html) — 2026-08-27 09:00: 生活や仕事で欠かせない存在となりつつある生成AIですが、使い方を誤るとと思わぬリスクにつながる可能性があります。
+- [スタンフォード大学が判明させたAI雇用の影響](https://ai-tech-times.web.app/articles/20260827-ai-employment-impact-stanford.html) — 2026-08-27 09:00: AIが人間の仕事を奪うとの懸念が高まる中、労働市場全体ではなく特定の層に影響が集中していることが研究チームの分析で明らかになりました。
 - [Z.aiの「Ox Alpha」、間もなく公開される理由とは](https://ai-tech-times.web.app/articles/20260827-z-ai-ox-alpha-model-revealed.html) — 2026-08-27 08:00: 各種ベンチマークやリーダーボードで上位に君臨していた謎のオープンAIモデル「Ox Alpha」の正体が、Z.aiの手によるものであることが確認されました。
 - [エヌビディア、四半期売上高1080億ドル予測の背景](https://ai-tech-times.web.app/articles/20260827-nvidia-hundred-billion-dollar-quarterly-revenue.html) — 2026-08-27 08:00: AIブームを牽引するNvidiaが、四半期売上高で100億ドル規模の大台突破を予測しています。巨額の収益を生み出す同社の最新動向をお伝えします。
 - [AnthropicがNscaleと450億ドルの巨額契約を締結した理由](https://ai-tech-times.web.app/articles/20260827-anthropic-nscale-45-billion-deal.html) — 2026-08-27 07:01: AI開発を手がけるAnthropicが、インフラストラクチャプロバイダーのNscaleと450億ドル規模の契約を結びました。計算資源の獲得を加速させるその背景とは何でしょうか。
@@ -40,8 +42,6 @@
 - [ネパール・中国国境地帯の土石流で日本人5人と連絡取れず](https://ai-tech-times.web.app/articles/20260827-nepal-china-border-landslide-missing-japanese.html) — 2026-08-27 04:00: ネパールと中国の国境地帯で発生した大規模な土石流により、観光ツアーに参加していたとみられる日本人5人と連絡が取れなくなっていることが分かりました。
 - [石川県の加賀と能登で線状降水帯発生、厳重な警戒を](https://ai-tech-times.web.app/articles/20260827-heavy-rain-ishikawa-senjokosuitai.html) — 2026-08-27 04:00: 気象庁は27日午前3時8分、石川県の加賀と能登に「線状降水帯発生」の気象防災速報を発表しました。大雨に対する厳重な警戒が呼びかけられています。
 - [OpenAIのハラペーニョ、エヌビディアを効率で凌駕](https://ai-tech-times.web.app/articles/20260827-openai-jalapeno-ai-chip-nvidia.html) — 2026-08-27 02:00: カスタムAIシリコンの開発を進めるOpenAIの新チップ「Jalapeño（ハラペーニョ）」が、主要な推論効率テストでNvidiaのシステムを上回る結果を出しました。
-- [Metaが180億ドルで和解、29州の子供への影響訴訟](https://ai-tech-times.web.app/articles/20260827-meta-settles-for-18-billion-lawsuit.html) — 2026-08-27 02:00: 米Metaが、InstagramやFacebookなどが子供に悪影響を与えたとする訴訟で、29州との間で180億ドルを支払い和解に至りました。
-- [アップル新型Mac Studio、月3万円のAIサブスク代を節約できるか](https://ai-tech-times.web.app/articles/20260827-mac-studio-ai-subscription-saving.html) — 2026-08-27 01:00: アップルが新型のMac miniとMac Studioを発表しました。デバイス上でAIを動かすことで、毎月の利用料を節約できるとして注目を集めています。
 
 ## 世界のバズ動画TOP3 (2026-08-27)
 - 1位: [The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer](https://www.youtube.com/watch?v=IGk17XQ7IrQ)

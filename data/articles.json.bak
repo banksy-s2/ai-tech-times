@@ -61654,5 +61654,83 @@
   "date": "2026-08-27",
   "time": "07:01",
   "path": "/articles/20260827-tsuburaya-stock-price-increase.html"
+ },
+ {
+  "title": "Z.aiの「Ox Alpha」、間もなく公開される理由とは",
+  "lead": "各種ベンチマークやリーダーボードで上位に君臨していた謎のオープンAIモデル「Ox Alpha」の正体が、Z.aiの手によるものであることが確認されました。",
+  "summary3": [
+   "謎のAIモデルの正体が判明",
+   "開発元はZ.aiと確認される",
+   "モデルの重みも間もなく公開へ"
+  ],
+  "body": [
+   "テック系メディア「TechCrunch AI」によると、多くのベンチマークやリーダーボードで上位にランクインし、注目を集めていた謎のオープンAIモデル「Ox Alpha」。その開発元がZ.aiであることが正式に確認されました。",
+   "これまで詳細がベールに包まれていたOx Alphaですが、今後はそのモデルの重みが間もなくリリースされる予定となっています。",
+   "AI業界で高い評価を得ているモデルの全貌が明らかになりつつある中、まもなく公開される予定の重みデータに、多くの開発者や研究者の注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "Ox Alpha",
+   "Z.ai"
+  ],
+  "slug": "z-ai-ox-alpha-model-revealed",
+  "people": [],
+  "terms": [
+   {
+    "name": "Z.ai",
+    "type": "company",
+    "desc": "謎のオープンAIモデル「Ox Alpha」の開発を手がけたことが確認されたAIラボ。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+  "category": "ai",
+  "date": "2026-08-27",
+  "time": "08:00",
+  "path": "/articles/20260827-z-ai-ox-alpha-model-revealed.html"
+ },
+ {
+  "title": "エヌビディア、四半期売上高1080億ドル予測の背景",
+  "lead": "AIブームを牽引するNvidiaが、四半期売上高で100億ドル規模の大台突破を予測しています。巨額の収益を生み出す同社の最新動向をお伝えします。",
+  "summary3": [
+   "Nvidiaが四半期売上高108億ドルを予測",
+   "過去にはアマゾンやアップルなどが達成",
+   "最新報告では過去最高の96.2億ドルを記録"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Nvidiaはわずか数ヶ月以内に108億ドルの売上高を記録すると予測しています。四半期売上高で100億ドルを超える企業は同社が初めてではなく、これまでにもアマゾンやアップル、アルファベットなどが繰り返しこの偉業を達成してきました。",
+   "Nvidiaが発表した最新の決算報告によると、同社はすでに過去最高となる96.2億ドルの売上高を記録しています。AI技術の急速な普及と需要の高まりに伴い、企業の業績はかつてないほどの規模へと急成長を遂げています。",
+   "今回予想されている108億ドルという驚異的な売上高の達成は、巨大テック企業における新たなマイルストーンとなります。今後のさらなる市場の動向や、同社のビジネス展開から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AI",
+   "ビジネス"
+  ],
+  "slug": "nvidia-hundred-billion-dollar-quarterly-revenue",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、AI開発に不可欠なGPU市場で圧倒的なシェアを誇る世界的なテクノロジー企業です。"
+   },
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "アメリカに本拠を置く世界最大級のEコマースおよびクラウドコンピューティング事業を手がける巨大テクノロジー企業です。"
+   },
+   {
+    "name": "アップル",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、iPhoneやMacなどのハードウェアや関連ソフトウェアを開発・販売する世界的な企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+  "category": "ai",
+  "date": "2026-08-27",
+  "time": "08:00",
+  "path": "/articles/20260827-nvidia-hundred-billion-dollar-quarterly-revenue.html"
  }
 ]
