@@ -64787,5 +64787,39 @@
   "date": "2026-08-31",
   "time": "14:00",
   "path": "/articles/20260831-sbi-base-capital-business-alliance.html"
+ },
+ {
+  "title": "日経平均午前1043円安、AI半導体崩れFRB発言が冷や水",
+  "lead": "日本経済新聞の報道によると、午前の株式市場で日経平均株価が1043円安と急落しました。AI半導体の下落やFRBのタカ派的発言が相場の重しとなっています。",
+  "summary3": [
+   "日経平均株価が前場に1043円安を記録",
+   "AI半導体関連の銘柄が崩れる展開に",
+   "FRBのタカ派的発言が冷や水となる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式市場の最新ニュースです。日本経済新聞の報道によれば、午前の東京株式市場で日経平均株価が大幅な下落となり、下げ幅は一時1043円安に達しました。",
+   "市場ではこれまで相場をけん引してきたAI半導体関連の銘柄が崩れる動きが見られ、投資家心理を冷え込ませる要因となっています。",
+   "さらに、アメリカの中央銀行にあたるFRB（連邦準備制度理事会）によるタカ派的な発言も市場に冷や水を浴びせる形となり、売りが広がる展開となりました。"
+  ],
+  "tags": [
+   "日経平均",
+   "AI半導体",
+   "FRB"
+  ],
+  "slug": "nikkei-average-drops-1043-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "FRB",
+    "type": "company",
+    "desc": "アメリカの金融政策を決定する中央銀行制度であり、金利調整などを通じて経済や市場に大きな影響を与えます。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzd2JBZlRzVmFaM1pjVzVidFpPck10RzlzeTRlOEhtTmxZRVc1bmFES01PMUM5THpERGs5NW4tQ09fbEhiOUlIR3Q5a3FqWVREbnZqT1lRRG5pQWFQTFZlNVNIS3FpOUxRT0syOA?oc=5",
+  "category": "stock",
+  "date": "2026-08-31",
+  "time": "14:01",
+  "path": "/articles/20260831-nikkei-average-drops-1043-yen.html"
  }
 ]

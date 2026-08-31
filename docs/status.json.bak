@@ -1,65 +1,21 @@
 {
- "updated": "2026-08-31 14:00",
- "mode": "フル便",
+ "updated": "2026-08-31 14:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ",
-   "path": "/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "パナソニックHDがAI・ロボティクス新本部、なぜトップに榊原氏？",
-   "path": "/articles/20260831-panasonic-hd-ai-robotics-hq.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "参議院ホームページが17年ぶり刷新、30万未満の案件に",
-   "path": "/articles/20260831-sangiin-website-renewal.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "イーロン・マスク氏の新型タービン製造、公害問題が浮上",
-   "path": "/articles/20260831-musk-gas-turbines-pollution-problem.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "マイク・ムーア氏が巨大タバコに勝った手法、MetaとSNSにも通用するのか",
-   "path": "/articles/20260831-mike-moore-meta-social-media-big-tobacco.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "日本ハムの2軍拠点移転、恵庭へなぜ？タダ見から推し活の聖地へ",
-   "path": "/articles/20260831-npb-farm-team-investment-hokkaido.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "9月の食品値上げ4900品目超、家計の負担はどうなる？",
-   "path": "/articles/20260831-food-price-hikes-september.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米財務長官「植田総裁は正しいことをする」G20前に何を語ったか",
-   "path": "/articles/20260831-us-treasury-secretary-on-ueda-g20.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "SBI、BASEに80億円で20%出資し資本業務提携",
-   "path": "/articles/20260831-sbi-base-capital-business-alliance.html",
-   "cat": "日本企業"
+   "title": "日経平均午前1043円安、AI半導体崩れFRB発言が冷や水",
+   "path": "/articles/20260831-nikkei-average-drops-1043-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits",
   "url": "https://www.youtube.com/watch?v=1tffqhaqxRI"
  },
- "notes": [
-  "執筆失敗: Nvidia’s AI advantage is moving beyond t",
-  "執筆失敗: 【速報】日経平均、一時1500円超値下がり 米利上げ観測高まりで28日NY市場の",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 35,
+  "used": 38,
   "limit": 200
  }
 }
