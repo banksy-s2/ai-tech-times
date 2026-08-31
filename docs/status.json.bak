@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-31 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-08-31 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "LINEヤフー、全社横断でAIエージェント量産へ",
-   "path": "/articles/20260831-line-yahoo-ai-agent-mass-production.html",
-   "cat": "日本のAI"
+   "title": "ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由",
+   "path": "/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "仮想経営幹部チームを作れるAI「Open Executive」公開",
-   "path": "/articles/20260831-open-executive-ai-virtual-executive-team.html",
-   "cat": "日本のAI"
+   "title": "Chess.comが無料のオンラインポーカーサイトを開設した理由",
+   "path": "/articles/20260831-chess-com-launches-poker-site-gambit.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 74,
+  "used": 80,
   "limit": 200
  }
 }
