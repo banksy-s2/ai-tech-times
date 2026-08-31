@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [伊藤忠が電通総研に2152億円払う理由](https://ai-tech-times.web.app/articles/20260901-itochu-dentsu-secures-partnership.html) — 2026-09-01 06:00: 伊藤忠商事など4社がITサービスとリテールメディア領域での戦略的提携を発表しました。巨額の資金を投じて手に入れたかったものとは何でしょうか。
 - [日経平均一時1500円超下落、米利上げ観測でNY安受け](https://ai-tech-times.web.app/articles/20260901-nikkei-average-drops-over-1500-yen-ny-decline.html) — 2026-09-01 05:00: 28日のニューヨーク市場の下落を受け、東京株式市場の日経平均株価は一時1500円を超える大幅な値下がりとなりました。
 - [不破湊が男性VTuber初の日本武道館ワンマン開催](https://ai-tech-times.web.app/articles/20260901-fuwa-minato-budokan-live-vortex.html) — 2026-09-01 03:00: 人気グループ「にじさんじ」に所属する不破湊が、男性VTuber史上初となる日本武道館ワンマンライブ“VORTEX”を開催することが決定しました。
 - [Nvidia、MediaTekに35億ドルを投資する狙い](https://ai-tech-times.web.app/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html) — 2026-09-01 02:00: Nvidiaが台湾の半導体大手MediaTekに35億ドルを投資したことが明らかになりました。大手テック企業による独自AIチップ開発が進む中、Nvidiaのインフラにおける立ち位置を維持する戦略が浮き彫りになっています。
@@ -41,14 +42,13 @@
 - [ハン・ハクチャ総裁に懲役2年の判決、政治資金法違反など](https://ai-tech-times.web.app/articles/20260831-han-hak-ja-sentenced-to-2-years.html) — 2026-08-31 21:02: 韓国で政治資金法違反などの罪に問われていた旧統一教会のトップ、ハン・ハクチャ総裁に対し、裁判所から実刑判決が言い渡されました。
 - [壱番屋株がストップ高気配、ハウス食品Gが売却検討](https://ai-tech-times.web.app/articles/20260831-ichibanya-stock-surge-house-foods-group.html) — 2026-08-31 21:02: 日本経済新聞の報道により、壱番屋の株価がストップ高気配となっていることが明らかになりました。ハウス食品グループによる売却検討が報じられています。
 - [三菱UFJ、預金3000万円でプラチナカード無料の狙い](https://ai-tech-times.web.app/articles/20260831-mufg-platinum-card-strategy.html) — 2026-08-31 21:02: 三菱UFJ銀行は、預かり資産3000万円以上の顧客を対象とした年会費無料のプラチナカードを提供する新会員組織を発表しました。「金利のある世界」における戦略の背景に迫ります。
-- [ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕](https://ai-tech-times.web.app/articles/20260831-sony-music-vee-project-ends.html) — 2026-08-31 20:00: ソニーミュージックが展開してきたVTuberプロジェクト「VEE」の終了が発表されました。事業継続が困難となり、5年の歴史に幕を下ろします。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
-- 2位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
+- 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 - 3位: [DAAYRA Official Trailer | Meghna Gulzar | Kareena Kapoor Khan | Prithviraj Sukumaran | 18 Sep ](https://www.youtube.com/watch?v=khru4exyahg)
 
-## AI用語事典 (全1192語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1193語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
