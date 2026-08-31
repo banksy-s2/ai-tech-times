@@ -1,59 +1,26 @@
 {
- "updated": "2026-08-31 21:02",
- "mode": "フル便",
+ "updated": "2026-08-31 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ソニーとワーナーがAnthropicを提訴、楽曲利用の真相",
-   "path": "/articles/20260831-sony-warner-sue-anthropic-2.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Kasperskyが警告、社内のAI乗っ取り攻撃とは",
-   "path": "/articles/20260831-kaspersky-ai-agent-vulnerability.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "英蘭銀行総裁が警告、最先端AIが金融システムを脅かす理由",
-   "path": "/articles/20260831-bank-of-england-ai-financial-stability-risk.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ソニーミュージック運営のVTuber事務所が終了なぜ、所属21人中20人は活動継続へ",
-   "path": "/articles/20260831-sony-music-vtuber-office-closing.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "大阪市教委:ネパール土石流の行方不明者は市内在住の家族か",
-   "path": "/articles/20260831-nepal-mudslide-missing-japanese-osaka.html",
+   "title": "ネパール土石流で797人死亡、住民孤立と支援態勢の行方",
+   "path": "/articles/20260831-nepal-landslide-797-dead.html",
    "cat": "時事・世界"
   },
   {
-   "title": "ハン・ハクチャ総裁に懲役2年の判決、政治資金法違反など",
-   "path": "/articles/20260831-han-hak-ja-sentenced-to-2-years.html",
+   "title": "習主席とプーチン大統領、31日夜にキルギスで会談へ",
+   "path": "/articles/20260831-shanghai-cooperation-organisation-summit-kyrgyzstan.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "壱番屋株がストップ高気配、ハウス食品Gが売却検討",
-   "path": "/articles/20260831-ichibanya-stock-surge-house-foods-group.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "三菱UFJ、預金3000万円でプラチナカード無料の狙い",
-   "path": "/articles/20260831-mufg-platinum-card-strategy.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela",
   "url": "https://www.youtube.com/watch?v=JqFzhcWo3EU"
  },
- "notes": [
-  "執筆失敗: Coupang dispute fuels new U.S. tariff pr",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 106,
+  "used": 111,
   "limit": 200
  }
 }
