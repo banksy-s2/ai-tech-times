@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Nvidia、MediaTekに35億ドルを投資する狙い](https://ai-tech-times.web.app/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html) — 2026-09-01 02:00: Nvidiaが台湾の半導体大手MediaTekに35億ドルを投資したことが明らかになりました。大手テック企業による独自AIチップ開発が進む中、Nvidiaのインフラにおける立ち位置を維持する戦略が浮き彫りになっています。
+- [MarkiplierがGoProの筆頭株主に、8.5%を取得した理由](https://ai-tech-times.web.app/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html) — 2026-09-01 02:00: 人気YouTuberのMarkiplier氏が、アクションカメラで知られるGoProの株式の8.5%を取得し、単体の筆頭株主になったことが明らかになりました。
 - [AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由](https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html) — 2026-09-01 01:00: Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。
 - [Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは](https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html) — 2026-09-01 01:00: 配車サービス大手のUberにおけるAIエージェントの運用実態とコスト効果について、深津貴之氏がnoteで言及しました。利用数が急増する中での取り組みが注目を集めています。
 - [OpenAIのChatGPT、EUで規制強化へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html) — 2026-09-01 00:00: AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。
@@ -40,20 +42,18 @@
 - [ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕](https://ai-tech-times.web.app/articles/20260831-sony-music-vee-project-ends.html) — 2026-08-31 20:00: ソニーミュージックが展開してきたVTuberプロジェクト「VEE」の終了が発表されました。事業継続が困難となり、5年の歴史に幕を下ろします。
 - [ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由](https://ai-tech-times.web.app/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html) — 2026-08-31 19:00: PCゲームプラットフォームのSteamにおいて、2003年から2013年までにアップロードされた全ゲームのビルドを含む12テラバイトを超えるデータが流出しました。未発表のアセットなどがすでに発見されています。
 - [Chess.comが無料のオンラインポーカーサイトを開設した理由](https://ai-tech-times.web.app/articles/20260831-chess-com-launches-poker-site-gambit.html) — 2026-08-31 19:00: オンラインチェスの最大手が、チェス以外の領域へ事業を拡大しています。一体なぜ、ポーカーサイトを新たに開設したのでしょうか。
-- [LINEヤフー、全社横断でAIエージェント量産へ](https://ai-tech-times.web.app/articles/20260831-line-yahoo-ai-agent-mass-production.html) — 2026-08-31 18:00: LINEヤフーは、全社を横断してAIエージェントの量産体制を構築すると発表しました。
-- [仮想経営幹部チームを作れるAI「Open Executive」公開](https://ai-tech-times.web.app/articles/20260831-open-executive-ai-virtual-executive-team.html) — 2026-08-31 18:00: AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されました。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
 - 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1188語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1191語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
-- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠地を置き、AI開発などに欠かせない高性能なGPUなどの半導体製品を広く提供する大手テクノロジー企業。
+- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
