@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-01 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-01 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Nvidia、MediaTekに35億ドルを投資する狙い",
-   "path": "/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "MarkiplierがGoProの筆頭株主に、8.5%を取得した理由",
-   "path": "/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html",
-   "cat": "シリコンバレー最速"
+   "title": "不破湊が男性VTuber初の日本武道館ワンマン開催",
+   "path": "/articles/20260901-fuwa-minato-budokan-live-vortex.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }
