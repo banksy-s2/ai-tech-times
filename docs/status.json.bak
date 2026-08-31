@@ -1,21 +1,68 @@
 {
- "updated": "2026-08-31 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-08-31 17:08",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明",
-   "path": "/articles/20260831-claude-code-session-url-appended.html",
+   "title": "Caterpillar、遠隔鉱山自動化の経験をAI展開に応用へ",
+   "path": "/articles/20260831-caterpillar-ai-deployment.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIが数万台のMacを買い占めた理由",
+   "path": "/articles/20260831-openai-buys-tens-of-thousands-of-macs.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "こども家庭庁が明かす待機児童問題の行方",
+   "path": "/articles/20260831-administrative-dx-and-childcare-issue.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "中国製ドローン排除の米、中国の規模に阻まれる理由",
+   "path": "/articles/20260831-us-china-drones-robots-competition.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "BYD利益増なのに株価下落、中国の激しい競争が影響",
+   "path": "/articles/20260831-byd-shares-slide-competition-earnings.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ミスタービースト、登録者5億人超えで挑むマインクラフト地球化の理由",
+   "path": "/articles/20260831-mrbeast-minecraft-earth-project.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が",
+   "path": "/articles/20260831-us-iran-direct-attacks-hormuz.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "タイ政府、最大500万人が生成AIを無料化、なぜ費用を負担するのか",
+   "path": "/articles/20260831-thailand-generative-ai-free-project.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "長期金利一時2.95％上昇、29年10か月ぶり高水準",
+   "path": "/articles/20260831-long-term-interest-rate-rises.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "はてな事件で発覚、残業203時間の経理と11億円送金の無関心",
+   "path": "/articles/20260831-hatena-incident-governance-report.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits",
   "url": "https://www.youtube.com/watch?v=1tffqhaqxRI"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 46,
+  "used": 70,
   "limit": 200
  }
 }
