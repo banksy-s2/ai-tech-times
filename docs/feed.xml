@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い</title>
+<link>https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html</guid>
+<pubDate>Tue, 01 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>警察官向けの専門AIツールを開発するBlue Voiceが、600万ドルを資金調達したことが明らかになりました。一般的なAIがアクセスできない地域特有の法律やプロトコルに対応します。</description>
+</item>
+<item>
+<title>Debian、AIコード容認の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260901-debian-wont-ban-ai-code.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-debian-wont-ban-ai-code.html</guid>
+<pubDate>Tue, 01 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>主要なLinuxディストリビューションであるDebianが、開発における生成AIツールの利用を公式に許可する新方針を決定しました。</description>
+</item>
+<item>
 <title>米国防総省、ChatGPTとGrokを採用。次はどう動くのか</title>
 <link>https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 31 Aug 2026 21:02:00 +0900</pubDate>
 <category>日本企業</category>
 <description>三菱UFJ銀行は、預かり資産3000万円以上の顧客を対象とした年会費無料のプラチナカードを提供する新会員組織を発表しました。「金利のある世界」における戦略の背景に迫ります。</description>
-</item>
-<item>
-<title>ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕</title>
-<link>https://ai-tech-times.web.app/articles/20260831-sony-music-vee-project-ends.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-sony-music-vee-project-ends.html</guid>
-<pubDate>Mon, 31 Aug 2026 20:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>ソニーミュージックが展開してきたVTuberプロジェクト「VEE」の終了が発表されました。事業継続が困難となり、5年の歴史に幕を下ろします。</description>
-</item>
-<item>
-<title>ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由</title>
-<link>https://ai-tech-times.web.app/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html</guid>
-<pubDate>Mon, 31 Aug 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>PCゲームプラットフォームのSteamにおいて、2003年から2013年までにアップロードされた全ゲームのビルドを含む12テラバイトを超えるデータが流出しました。未発表のアセットなどがすでに発見されています。</description>
 </item>
 </channel></rss>

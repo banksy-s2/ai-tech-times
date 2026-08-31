@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い](https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html) — 2026-09-01 08:00: 警察官向けの専門AIツールを開発するBlue Voiceが、600万ドルを資金調達したことが明らかになりました。一般的なAIがアクセスできない地域特有の法律やプロトコルに対応します。
+- [Debian、AIコード容認の理由](https://ai-tech-times.web.app/articles/20260901-debian-wont-ban-ai-code.html) — 2026-09-01 08:00: 主要なLinuxディストリビューションであるDebianが、開発における生成AIツールの利用を公式に許可する新方針を決定しました。
 - [米国防総省、ChatGPTとGrokを採用。次はどう動くのか](https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html) — 2026-09-01 07:02: 米国の国防総省が、新たにOpenAIのChatGPTとSpaceXAIのGrokを中央ポータルに導入しました。GoogleのGeminiに続くAIの採用は、今後の防衛戦略にどう影響するのでしょうか。
 - [Cliptoが評価額250丸億ドル到達、AI動画検索の勝因](https://ai-tech-times.web.app/articles/20260901-clipto-reaches-250m-valuation.html) — 2026-09-01 07:02: AIを活用してテラバイト級の動画検索を可能にするスタートアップ企業のCliptoが、企業評価額250百万ドルに達しました。
 - [OpenAI、ChatGPT Businessで利用量の多い社員を5倍に割り当て可能へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-business-premium-seats.html) — 2026-09-01 07:02: OpenAIがChatGPT BusinessでPremiumシートの提供を開始しました。主要な企業向けAIで、AIをよく使う社員に上位シートを割り当てられる仕組みがそろい、企業のAI本格運用が加速します。
@@ -40,15 +42,13 @@
 - [OpenAIのChatGPT、EUで規制強化へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html) — 2026-09-01 00:00: AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。
 - [Instagram、本物そっくりなAIアカウント対策へ](https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html) — 2026-09-01 00:00: Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。
 - [三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ](https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html) — 2026-08-31 23:01: 三菱UFJ銀行と三井住友銀行は、9月から変動型の住宅ローン金利を引き上げると発表しました。家計への影響が注視されています。
-- [ネパール土石流で797人死亡、住民孤立と支援態勢の行方](https://ai-tech-times.web.app/articles/20260831-nepal-landslide-797-dead.html) — 2026-08-31 22:00: ネパールと中国の国境地帯で発生した大規模な土石流により、これまでに両国であわせて797人が死亡しました。道路や橋の損壊で多くの住民が孤立し、支援態勢の構築が急務となっています。
-- [習主席とプーチン大統領、31日夜にキルギスで会談へ](https://ai-tech-times.web.app/articles/20260831-shanghai-cooperation-organisation-summit-kyrgyzstan.html) — 2026-08-31 22:00: 中国とロシアが主導する上海協力機構の首脳会議が31日から中央アジアのキルギスで始まります。会議にあわせて両国首脳の会談が行われる予定です。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
-- 3位: [DAAYRA Official Trailer | Meghna Gulzar | Kareena Kapoor Khan | Prithviraj Sukumaran | 18 Sep ](https://www.youtube.com/watch?v=khru4exyahg)
+- 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1197語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1199語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

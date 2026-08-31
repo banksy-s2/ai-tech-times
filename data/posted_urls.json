@@ -1917,13 +1917,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260901de47526",
   "https://news.web.nhk/newsweb/na/nd-20260901de47541",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MeDdkbTUzM3d6TWdXSWQtNVRDaFN4SU5WMWQ0cG9aM184VVJrc0sycXRqcF9qTHFYUmFRdVlHN1VqNGVYQ0htNWo1U2pyZDVNOENESFVOTUtYdHdBOEhQRmlPM3Y?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVN1N1lneXd3VEdYc3lnX3hPazh5bkpvTUZrU3JjWnhDWGtYTzRFU0xXbzhyclkzRVh0blFFaHVIR2tOQ21tQ2REWWVqLTdHODRwaFY3UEdjdjJuTVBvQXViRzlZekJMa1ZPS1MtM19OUHdmczhCSUhfUzNHT3Y1WEN6N0doZG8?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVN1N1lneXd3VEdYc3lnX3hPazh5bkpvTUZrU3JjWnhDWGtYTzRFU0xXbzhyclkzRVh0blFFaHVIR2tOQ21tQ2REWWVqLTdHODRwaFY3UEdjdjJuTVBvQXViRzlZekJMa1ZPS1MtM19OUHdmczhCSUhfUzNHT3Y1WEN6N0doZG8?oc=5",
+  "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+  "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
  ],
  "titles": [
-  "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
-  "日経平均、800円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-  "トランプ氏、円安阻止の協調介入「日本を常に支援する」 - 日本経済新聞",
-  "決算プラス・インパクト銘柄 【東証プライム】寄付 … ラインヤフー、日製鋼、ＪＡＬ (8月3日発表分) - 株探",
   "アイダエンジニアリングに不正アクセス、アジア拠点における決算手続に遅延 - ScanNetSecurity",
   "EU、AI製コンテンツの表示義務化ルールを開始",
   "塩野義製薬、生成AIの正答率を50％から90％に高めた手法",
@@ -3919,6 +3917,10 @@
   "メッシ選手がアルゼンチン代表引退をSNSで表明",
   "G20財務相会議が開幕 初日は世界経済を議論",
   "日経平均株価、一時1500円超下落…6万4800円台で推移",
-  "ガンホー、ソニーミュージックと資本業務提携を発表"
+  "ガンホー、ソニーミュージックと資本業務提携を発表",
+  "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+  "Debian won&#8217;t ban AI code from its Linux distribution",
+  "Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い",
+  "Debian、AIコード容認の理由"
  ]
 }

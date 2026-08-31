@@ -1,61 +1,26 @@
 {
- "updated": "2026-09-01 07:02",
- "mode": "フル便",
+ "updated": "2026-09-01 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "米国防総省、ChatGPTとGrokを採用。次はどう動くのか",
-   "path": "/articles/20260901-pentagon-adds-chatgpt-and-grok.html",
+   "title": "Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い",
+   "path": "/articles/20260901-blue-voice-raises-6m-for-police-ai.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Cliptoが評価額250丸億ドル到達、AI動画検索の勝因",
-   "path": "/articles/20260901-clipto-reaches-250m-valuation.html",
+   "title": "Debian、AIコード容認の理由",
+   "path": "/articles/20260901-debian-wont-ban-ai-code.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI、ChatGPT Businessで利用量の多い社員を5倍に割り当て可能へ",
-   "path": "/articles/20260901-openai-chatgpt-business-premium-seats.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "不破湊がNew Single発売と武道館2ndライブ決定",
-   "path": "/articles/20260901-fuwa-minato-eclipse-single-budokan-live.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "メッシ選手がアルゼンチン代表引退をSNSで表明",
-   "path": "/articles/20260901-messi-retires-from-argentina-national-team.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "G20財務相会議が開幕 初日は世界経済を議論",
-   "path": "/articles/20260901-g20-finance-ministers-meeting-2026.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均株価、一時1500円超下落…6万4800円台で推移",
-   "path": "/articles/20260901-nikkei-average-drops-over-1500-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ガンホー、ソニーミュージックと資本業務提携を発表",
-   "path": "/articles/20260901-gungho-sony-music-capital-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [
-  "執筆失敗: TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-",
-  "執筆失敗: Apple’s top App Store exec, Phil Schille",
-  "執筆失敗: FTC sues Amazon, accusing the e-commerce",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 55,
+  "used": 59,
   "limit": 200
  }
 }
