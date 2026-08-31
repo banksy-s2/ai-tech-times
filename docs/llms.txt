@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 23:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 00:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIのChatGPT、EUで規制強化へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html) — 2026-09-01 00:00: AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。
+- [Instagram、本物そっくりなAIアカウント対策へ](https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html) — 2026-09-01 00:00: Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。
 - [三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ](https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html) — 2026-08-31 23:01: 三菱UFJ銀行と三井住友銀行は、9月から変動型の住宅ローン金利を引き上げると発表しました。家計への影響が注視されています。
 - [ネパール土石流で797人死亡、住民孤立と支援態勢の行方](https://ai-tech-times.web.app/articles/20260831-nepal-landslide-797-dead.html) — 2026-08-31 22:00: ネパールと中国の国境地帯で発生した大規模な土石流により、これまでに両国であわせて797人が死亡しました。道路や橋の損壊で多くの住民が孤立し、支援態勢の構築が急務となっています。
 - [習主席とプーチン大統領、31日夜にキルギスで会談へ](https://ai-tech-times.web.app/articles/20260831-shanghai-cooperation-organisation-summit-kyrgyzstan.html) — 2026-08-31 22:00: 中国とロシアが主導する上海協力機構の首脳会議が31日から中央アジアのキルギスで始まります。会議にあわせて両国首脳の会談が行われる予定です。
@@ -40,16 +42,14 @@
 - [仮想経営幹部チームを作れるAI「Open Executive」公開](https://ai-tech-times.web.app/articles/20260831-open-executive-ai-virtual-executive-team.html) — 2026-08-31 18:00: AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されました。
 - [Caterpillar、遠隔鉱山自動化の経験をAI展開に応用へ](https://ai-tech-times.web.app/articles/20260831-caterpillar-ai-deployment.html) — 2026-08-31 17:07: 建設・鉱山機械大手のCaterpillarが、遠隔鉱山での自動化技術の経験を、新たなAI展開に活かそうとしています。
 - [OpenAIが数万台のMacを買い占めた理由](https://ai-tech-times.web.app/articles/20260831-openai-buys-tens-of-thousands-of-macs.html) — 2026-08-31 17:07: メモリ不足で一般市場が冷え込む中、AI企業のOpenAIがAppleの高性能マシンを大量購入していることが明らかになりました。
-- [こども家庭庁が明かす待機児童問題の行方](https://ai-tech-times.web.app/articles/20260831-administrative-dx-and-childcare-issue.html) — 2026-08-31 17:07: 全国1741自治体で待機児童解消の施策が加速する中、AIを活用した行政DXの取り組みが注目を集めています。
-- [中国製ドローン排除の米、中国の規模に阻まれる理由](https://ai-tech-times.web.app/articles/20260831-us-china-drones-robots-competition.html) — 2026-08-31 17:07: アメリカが外国製のドローンやロボットの排除を進める中、中国の圧倒的な規模により、グローバルな競争が別の市場へと移行する可能性が指摘されています。
 
-## 世界のバズ動画TOP3 (2026-08-31)
+## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
 - 2位: [World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g)
 - 3位: [UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)
 
 ## AI用語事典 (全1187語 / https://ai-tech-times.web.app/term/)
-- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
+- [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

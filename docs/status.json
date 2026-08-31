@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-31 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-01 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ",
-   "path": "/articles/20260831-housing-loan-variable-rate-september.html",
-   "cat": "株式投資(日本)"
+   "title": "OpenAIのChatGPT、EUで規制強化へ",
+   "path": "/articles/20260901-openai-chatgpt-eu-regulation.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Instagram、本物そっくりなAIアカウント対策へ",
+   "path": "/articles/20260901-instagram-cracks-down-on-ai-accounts.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 115,
+  "used": 5,
   "limit": 200
  }
 }

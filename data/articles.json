@@ -65774,5 +65774,79 @@
   "date": "2026-08-31",
   "time": "23:01",
   "path": "/articles/20260831-housing-loan-variable-rate-september.html"
+ },
+ {
+  "title": "OpenAIのChatGPT、EUで規制強化へ",
+  "lead": "AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。",
+  "summary3": [
+   "ChatGPTがEUの規制対象に",
+   "未成年保護や違法コンテンツ対策",
+   "デジタルサービス法に基づく指定"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、OpenAIが提供する対話型AI「ChatGPT」は、間もなく欧州連合（EU）において、より厳しい規制の対象として責任を問われることになります。",
+   "この背景には、ChatGPTがEUの「デジタルサービス法（DSA）」における「超大型オンライン検索エンジン」と見なされるようになったことがあります。デジタルサービス法は、主要なオンラインサービスを規制するための一連の法律です。",
+   "これによりOpenAIは、EU域内において、未成年者への影響、ユーザーのメンタルヘルス、そして違法コンテンツの拡散に関連するリスクを軽減する義務を負うことになります。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "EU"
+  ],
+  "slug": "openai-chatgpt-eu-regulation",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話を行うことができる人気の生成AIモデルおよびサービスです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "00:00",
+  "path": "/articles/20260901-openai-chatgpt-eu-regulation.html"
+ },
+ {
+  "title": "Instagram、本物そっくりなAIアカウント対策へ",
+  "lead": "Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。",
+  "summary3": [
+   "Instagramが偽AIアカウント対策を強化",
+   "AIクリエイターのラベル名称を変更へ",
+   "実在しない人物であることを明確に"
+  ],
+  "body": [
+   "Instagramは、見分けがつきにくくなっている偽のAIインフルエンサーアカウントの増加に対応するため、対策を講じ始めています。",
+   "今回の取り組みの一環として、これまでの「AIクリエイター」というラベルの名称を「AI生成プロフィール」へと変更する予定です。",
+   "これにより、プロフィールに登場する人物が実在の人間ではないAIによって生成されたものであることを、ユーザーにより分かりやすく明確に示します。",
+   "同プラットフォームでは、ユーザーから実在しない人物のプロフィールを見ることに対する懸念の声が寄せられていたことを明らかにしています。"
+  ],
+  "tags": [
+   "Instagram",
+   "AI",
+   "SNS"
+  ],
+  "slug": "instagram-cracks-down-on-ai-accounts",
+  "people": [],
+  "terms": [
+   {
+    "name": "Instagram",
+    "type": "company",
+    "desc": "Metaが提供する、写真や動画を共有するための人気のソーシャル・ネットワーキング・サービス。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "00:00",
+  "path": "/articles/20260901-instagram-cracks-down-on-ai-accounts.html"
  }
 ]

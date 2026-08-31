@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIのChatGPT、EUで規制強化へ</title>
+<link>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。</description>
+</item>
+<item>
+<title>Instagram、本物そっくりなAIアカウント対策へ</title>
+<link>https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。</description>
+</item>
+<item>
 <title>三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ</title>
 <link>https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 31 Aug 2026 15:00:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ガンホーが続伸し、ソニーグループとの資本・業務提携を好感した動きがYahoo!ファイナンスなどで伝えられました。</description>
-</item>
-<item>
-<title>日経平均午前1043円安、AI半導体崩れFRB発言が冷や水</title>
-<link>https://ai-tech-times.web.app/articles/20260831-nikkei-average-drops-1043-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-nikkei-average-drops-1043-yen.html</guid>
-<pubDate>Mon, 31 Aug 2026 14:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道によると、午前の株式市場で日経平均株価が1043円安と急落しました。AI半導体の下落やFRBのタカ派的発言が相場の重しとなっています。</description>
-</item>
-<item>
-<title>テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ</title>
-<link>https://ai-tech-times.web.app/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html</guid>
-<pubDate>Mon, 31 Aug 2026 14:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>テキサス州のグレッグ・アボット知事が、AI監視カメラに対する反発が高まる中で州の予算凍結を決定しました。保険契約に付加された料金から3000万ドル以上が使われていたことが明らかになっています。</description>
 </item>
 </channel></rss>
