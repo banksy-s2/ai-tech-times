@@ -64821,5 +64821,44 @@
   "date": "2026-08-31",
   "time": "14:01",
   "path": "/articles/20260831-nikkei-average-drops-1043-yen.html"
+ },
+ {
+  "title": "ガンホー続伸、ソニーGとの提携を好感",
+  "lead": "ガンホーが続伸し、ソニーグループとの資本・業務提携を好感した動きがYahoo!ファイナンスなどで伝えられました。",
+  "summary3": [
+   "ガンホーが株式市場で続伸しました",
+   "ソニーGとの資本・業務提携を好感",
+   "ウエルスアドバイザーが報じました"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、ガンホーが続伸していることが明らかになりました。今回の株価上昇は、ソニーグループとの資本・業務提携が市場で好感されたことによるものと報じられています。",
+   "詳細な情報はウエルスアドバイザーなどの媒体を通じてYahoo!ファイナンス等で配信されており、投資家の注目を集める展開となっています。",
+   "企業間の新たな連携がどのように事業展開に影響していくのか、今後の動向にも関心が寄せられる状況です。"
+  ],
+  "tags": [
+   "ガンホー",
+   "ソニーグループ",
+   "株式市場"
+  ],
+  "slug": "gungho-sony-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ガンホー",
+    "type": "company",
+    "desc": "オンラインゲームの企画・開発・運営などを主力の事業として展開している日本の企業です。"
+   },
+   {
+    "name": "ソニーグループ",
+    "type": "company",
+    "desc": "ゲームや音楽、映画、エレクトロニクスなど多彩な事業を手がける日本の総合電機・エンターテインメント企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdTUzeGZsTFJQNTZieEwzaktsUjlwSUhhVTJyWkpDNnhGbGZqbUJvTGM5UWFxSkt1M3FZSVZpejBuWm1jWWNGNnFkaldya1FPalVhMU1hM1ZpaU5pQkpSZUllZnlrS0Fyd1NYNG93UmtsX0J5TmRMbGR0NDhNZ1J5a0U2STNBbFU?oc=5",
+  "category": "jp_corp",
+  "date": "2026-08-31",
+  "time": "15:00",
+  "path": "/articles/20260831-gungho-sony-capital-business-alliance.html"
  }
 ]

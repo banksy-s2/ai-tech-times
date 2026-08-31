@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 16:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明](https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html) — 2026-08-31 16:01: Anthropicが開発する「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやPRの記述に追加される仕様が話題となっています。
 - [ガンホー続伸、ソニーGとの提携を好感](https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html) — 2026-08-31 15:00: ガンホーが続伸し、ソニーグループとの資本・業務提携を好感した動きがYahoo!ファイナンスなどで伝えられました。
 - [日経平均午前1043円安、AI半導体崩れFRB発言が冷や水](https://ai-tech-times.web.app/articles/20260831-nikkei-average-drops-1043-yen.html) — 2026-08-31 14:01: 日本経済新聞の報道によると、午前の株式市場で日経平均株価が1043円安と急落しました。AI半導体の下落やFRBのタカ派的発言が相場の重しとなっています。
 - [テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ](https://ai-tech-times.web.app/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html) — 2026-08-31 14:00: テキサス州のグレッグ・アボット知事が、AI監視カメラに対する反発が高まる中で州の予算凍結を決定しました。保険契約に付加された料金から3000万ドル以上が使われていたことが明らかになっています。
@@ -41,7 +42,6 @@
 - [常陸大宮市に核のごみ文献調査申し入れへ](https://ai-tech-times.web.app/articles/20260831-nuclear-waste-survey-hitachiomiya.html) — 2026-08-31 13:59: 経済産業省が、茨城県の常陸大宮市に対し、高レベル放射性廃棄物の最終処分場選定に向けた調査を申し入れる方向で最終調整に入りました。
 - [片山財務相とベッセント財務長官の日米会談へ、G20会議の焦点](https://ai-tech-times.web.app/articles/20260831-g20-finance-ministers-meeting-us-japan.html) — 2026-08-31 13:59: G20＝主要20か国の財務相・中央銀行総裁会議が日本時間の31日夜からアメリカで開幕します。期間中に行われる日米財務相会談が大きな焦点となっています。
 - [TOPIX大改革で始まる日本株投資の大転換](https://ai-tech-times.web.app/articles/20260831-topix-reform-japan-stock-investment.html) — 2026-08-31 13:59: 日経平均より「安心して買える指数」が誕生するとして、現代ビジネスがTOPIXの大改革について伝えています。
-- [ソニーミュージックとワーナー、アンソロピックを提訴](https://ai-tech-times.web.app/articles/20260831-sony-warner-sue-anthropic.html) — 2026-08-31 07:20: ソニーミュージックとワーナーが、AI開発企業のアンソロピックを提訴しました。知的財産の不正使用をめぐる大規模な法的闘争に発展しています。
 
 ## 世界のバズ動画TOP3 (2026-08-31)
 - 1位: [UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)

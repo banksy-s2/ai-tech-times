@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明</title>
+<link>https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html</guid>
+<pubDate>Mon, 31 Aug 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Anthropicが開発する「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやPRの記述に追加される仕様が話題となっています。</description>
+</item>
+<item>
 <title>ガンホー続伸、ソニーGとの提携を好感</title>
 <link>https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 31 Aug 2026 07:20:00 +0900</pubDate>
 <category>日本企業</category>
 <description>上場企業の平均年収に関するデータが公開されました。気になる東証プライム上場企業の平均値についても注目が集まっています。</description>
-</item>
-<item>
-<title>Neocloud Lambda、10億ドル調達の裏で急増するAIの莫大なコスト</title>
-<link>https://ai-tech-times.web.app/articles/20260830-neocloud-lambda-secures-1b-debt.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260830-neocloud-lambda-secures-1b-debt.html</guid>
-<pubDate>Sun, 30 Aug 2026 21:21:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Neocloud Lambdaは、NvidiaのAIチップを購入しマイクロソフトにリースするため、10億ドルの民間負債による資金調達を実施しました。</description>
 </item>
 </channel></rss>

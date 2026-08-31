@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-31 14:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-08-31 15:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均午前1043円安、AI半導体崩れFRB発言が冷や水",
-   "path": "/articles/20260831-nikkei-average-drops-1043-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "ガンホー続伸、ソニーGとの提携を好感",
+   "path": "/articles/20260831-gungho-sony-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 38,
+  "used": 42,
   "limit": 200
  }
 }

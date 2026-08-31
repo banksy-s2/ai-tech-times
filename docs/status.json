@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-31 15:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-08-31 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ガンホー続伸、ソニーGとの提携を好感",
-   "path": "/articles/20260831-gungho-sony-capital-business-alliance.html",
-   "cat": "日本企業"
+   "title": "AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明",
+   "path": "/articles/20260831-claude-code-session-url-appended.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 42,
+  "used": 46,
   "limit": 200
  }
 }
