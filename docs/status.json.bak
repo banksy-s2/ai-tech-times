@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-01 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-01 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由",
-   "path": "/articles/20260901-m5-max-macbook-pro-power-drain.html",
-   "cat": "日本のAI"
+   "title": "Nvidia、MediaTekに35億ドルを投資する狙い",
+   "path": "/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは",
-   "path": "/articles/20260901-uber-ai-agent-operation-cost.html",
-   "cat": "日本のAI"
+   "title": "MarkiplierがGoProの筆頭株主に、8.5%を取得した理由",
+   "path": "/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 14,
   "limit": 200
  }
 }

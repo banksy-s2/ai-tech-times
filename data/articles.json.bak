@@ -65921,5 +65921,83 @@
   "date": "2026-09-01",
   "time": "01:00",
   "path": "/articles/20260901-uber-ai-agent-operation-cost.html"
+ },
+ {
+  "title": "Nvidia、MediaTekに35億ドルを投資する狙い",
+  "lead": "Nvidiaが台湾の半導体大手MediaTekに35億ドルを投資したことが明らかになりました。大手テック企業による独自AIチップ開発が進む中、Nvidiaのインフラにおける立ち位置を維持する戦略が浮き彫りになっています。",
+  "summary3": [
+   "NvidiaがMediaTekへ35億ドルを投資",
+   "ビッグテックの独自AIチップ開発に対抗する計画",
+   "AIインフラにおける必須の存在を維持する狙い"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道から得た情報によると、半導体大手のNvidiaは、台湾のチップメーカーであるMediaTekに対して35億ドルの投資を行いました。この大型投資は、業界におけるNvidiaの将来戦略を読み解く上で重要な意味を持っています。",
+   "現在、大手テック企業の間では、AI処理に向けた独自のAIチップを自社でビルドアウト（構築）する動きが活発化しています。こうした潮流の中、NvidiaがどのようにしてAIインフラ市場での優位性を保ち続けるのかが注目されていました。",
+   "今回のMediaTekへの巨額出資は、そうしたビッグテックの動きに対抗し、Nvidiaが今後もAIインフラストラクチャーにおいて不可欠な存在であり続けるための具体的な計画を示していると分析されています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "MediaTek",
+   "AI半導体"
+  ],
+  "slug": "nvidias-3-5b-mediatek-bet-reveals-its-plan",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。"
+   },
+   {
+    "name": "MediaTek",
+    "type": "company",
+    "desc": "台湾に本拠を置く、スマートフォンや通信機器向けなどのチップ開発で知られる大手半導体メーカーです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "02:00",
+  "path": "/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html"
+ },
+ {
+  "title": "MarkiplierがGoProの筆頭株主に、8.5%を取得した理由",
+  "lead": "人気YouTuberのMarkiplier氏が、アクションカメラで知られるGoProの株式の8.5%を取得し、単体の筆頭株主になったことが明らかになりました。",
+  "summary3": [
+   "MarkiplierがGoProの筆頭株主に浮上",
+   "同社株の8.5%を取得したとブルームバーグが報道",
+   "映画制作のアクセシビリティ向上を目指す投資"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が得た情報によると、人気YouTuberとして知られるMark Fischbach（マーク・フィッシュバック）氏が、カメラメーカーのGoProに大規模な投資を行い、単体の筆頭株主になったことがBloombergの報道で判明しました。",
+   "同氏が取得した株式の割合は8.5%に達しています。Bloombergの取材に対してFischbach氏は、GoProの株価について「過小評価されているように見える」との見解を示しました。",
+   "今回の投資について同氏は、自身の活動の後に続くものとして、「映画制作をよりアクセシブル（アクセスしやすく）にするための、より大きな使命の一部」であると位置づけています。"
+  ],
+  "tags": [
+   "GoPro",
+   "YouTube",
+   "ビジネス"
+  ],
+  "slug": "markiplier-becomes-gopro-largest-shareholder",
+  "people": [
+   {
+    "name": "Mark Fischbach",
+    "bio": "ゲーム実況などを中心に絶大な人気を誇る、アメリカの著名なYouTuber兼クリエイターです。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "GoPro",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、過酷な環境での撮影に特化した小型のアクションカメラなどを開発・販売する企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "02:00",
+  "path": "/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html"
  }
 ]
