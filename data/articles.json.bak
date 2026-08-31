@@ -65356,5 +65356,39 @@
   "date": "2026-08-31",
   "time": "19:00",
   "path": "/articles/20260831-chess-com-launches-poker-site-gambit.html"
+ },
+ {
+  "title": "ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕",
+  "lead": "ソニーミュージックが展開してきたVTuberプロジェクト「VEE」の終了が発表されました。事業継続が困難となり、5年の歴史に幕を下ろします。",
+  "summary3": [
+   "ソニーミュージックのVEEが終了",
+   "事業継続困難のため5年で幕",
+   "ITmediaがプロジェクト終了を報道"
+  ],
+  "body": [
+   "ITmediaの報道によると、ソニーミュージックが手がけてきたVTuberプロジェクト「VEE」が終了することが明らかになりました。事業継続が困難になったことを理由に挙げており、始動から5年という節目での幕引きとなります。",
+   "「VEE」は、ソニー・ミュージックエンタテインメントによるバーチャルタレント育成&マネジメントプロジェクトとして展開されてきました。多くのバーチャルタレントを輩出し、ファンからの注目を集めていましたが、惜しまれつつもプロジェクトの終了が決定しました。",
+   "今回のプロジェクト終了により、所属していたタレントたちの今後や、運営体制の詳細などについては順次発表される見通しです。5年間にわたって展開されてきた大規模なVTuberプロジェクトの突然の終了は、業界内外に大きな影響を与えそうです。"
+  ],
+  "tags": [
+   "ソニーミュージック",
+   "VTuber",
+   "VEE"
+  ],
+  "slug": "sony-music-vee-project-ends",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソニーミュージック",
+    "type": "company",
+    "desc": "ソニーグループの音楽系事業を統括する持株会社であり、多彩なエンタテインメント事業を展開する。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Mc2otMUpzbE1Bd3FfWnVqZFF5a3NBMUVaSDB2TEVWMncxS0ZqSjRRSGg3MnFnalZzaXpGUDZ3Q3czR2gyRTlsQnlabTRMZWd5ZjhzaHp3dzJTclVlNUxIQjdBVVl2a29JVFE?oc=5",
+  "category": "influencer",
+  "date": "2026-08-31",
+  "time": "20:00",
+  "path": "/articles/20260831-sony-music-vee-project-ends.html"
  }
 ]

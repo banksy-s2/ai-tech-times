@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-31 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-08-31 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由",
-   "path": "/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Chess.comが無料のオンラインポーカーサイトを開設した理由",
-   "path": "/articles/20260831-chess-com-launches-poker-site-gambit.html",
-   "cat": "シリコンバレー最速"
+   "title": "ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕",
+   "path": "/articles/20260831-sony-music-vee-project-ends.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 80,
+  "used": 84,
   "limit": 200
  }
 }

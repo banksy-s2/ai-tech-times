@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 21:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ソニーとワーナーがAnthropicを提訴、楽曲利用の真相](https://ai-tech-times.web.app/articles/20260831-sony-warner-sue-anthropic-2.html) — 2026-08-31 21:02: 大手音楽会社のソニー・ミュージックパブリッシングとワーナーチャペルミュージックが、対話型AI「Claude」の開発元であるAnthropicを共同で提訴しました。著作権で保護された数万曲の利用を巡り、損害賠償を求めています。
+- [Kasperskyが警告、社内のAI乗っ取り攻撃とは](https://ai-tech-times.web.app/articles/20260831-kaspersky-ai-agent-vulnerability.html) — 2026-08-31 21:02: Kasperskyは、企業環境に導入された正規のAIエージェントが攻撃者に悪用される脅威の分析結果を報告しました。
+- [英蘭銀行総裁が警告、最先端AIが金融システムを脅かす理由](https://ai-tech-times.web.app/articles/20260831-bank-of-england-ai-financial-stability-risk.html) — 2026-08-31 21:02: イングランド銀行のアンドリュー・ベイリー総裁が、最先端のAIモデルが世界の金融システムにおけるサイバーリスクを重大に高める可能性があると警告しました。
+- [ソニーミュージック運営のVTuber事務所が終了なぜ、所属21人中20人は活動継続へ](https://ai-tech-times.web.app/articles/20260831-sony-music-vtuber-office-closing.html) — 2026-08-31 21:02: ソニーミュージックが運営するVTuber事務所が9月末で終了することが分かりました。大手が参入しても持続可能な運営が困難な業界の難しさが浮き彫りとなっています。
+- [大阪市教委:ネパール土石流の行方不明者は市内在住の家族か](https://ai-tech-times.web.app/articles/20260831-nepal-mudslide-missing-japanese-osaka.html) — 2026-08-31 21:02: ネパールと中国の国境付近で発生した大規模な土石流をめぐり、大阪市教育委員会は、行方不明となっている日本人5人が市内に在住する家族とみられることを明らかにしました。
+- [ハン・ハクチャ総裁に懲役2年の判決、政治資金法違反など](https://ai-tech-times.web.app/articles/20260831-han-hak-ja-sentenced-to-2-years.html) — 2026-08-31 21:02: 韓国で政治資金法違反などの罪に問われていた旧統一教会のトップ、ハン・ハクチャ総裁に対し、裁判所から実刑判決が言い渡されました。
+- [壱番屋株がストップ高気配、ハウス食品Gが売却検討](https://ai-tech-times.web.app/articles/20260831-ichibanya-stock-surge-house-foods-group.html) — 2026-08-31 21:02: 日本経済新聞の報道により、壱番屋の株価がストップ高気配となっていることが明らかになりました。ハウス食品グループによる売却検討が報じられています。
+- [三菱UFJ、預金3000万円でプラチナカード無料の狙い](https://ai-tech-times.web.app/articles/20260831-mufg-platinum-card-strategy.html) — 2026-08-31 21:02: 三菱UFJ銀行は、預かり資産3000万円以上の顧客を対象とした年会費無料のプラチナカードを提供する新会員組織を発表しました。「金利のある世界」における戦略の背景に迫ります。
 - [ソニーミュージックのVTuberプロジェクト「VEE」終了、事業継続困難で5年の歴史に幕](https://ai-tech-times.web.app/articles/20260831-sony-music-vee-project-ends.html) — 2026-08-31 20:00: ソニーミュージックが展開してきたVTuberプロジェクト「VEE」の終了が発表されました。事業継続が困難となり、5年の歴史に幕を下ろします。
 - [ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由](https://ai-tech-times.web.app/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html) — 2026-08-31 19:00: PCゲームプラットフォームのSteamにおいて、2003年から2013年までにアップロードされた全ゲームのビルドを含む12テラバイトを超えるデータが流出しました。未発表のアセットなどがすでに発見されています。
 - [Chess.comが無料のオンラインポーカーサイトを開設した理由](https://ai-tech-times.web.app/articles/20260831-chess-com-launches-poker-site-gambit.html) — 2026-08-31 19:00: オンラインチェスの最大手が、チェス以外の領域へ事業を拡大しています。一体なぜ、ポーカーサイトを新たに開設したのでしょうか。
@@ -34,21 +42,13 @@
 - [BYD利益増なのに株価下落、中国の激しい競争が影響](https://ai-tech-times.web.app/articles/20260831-byd-shares-slide-competition-earnings.html) — 2026-08-31 17:07: CNBC Techの報道によると、中国の自動車メーカーであるBYDが最新の業績を発表しました。第2四半期の増益や海外成長があったものの、株価は下落しています。
 - [ミスタービースト、登録者5億人超えで挑むマインクラフト地球化の理由](https://ai-tech-times.web.app/articles/20260831-mrbeast-minecraft-earth-project.html) — 2026-08-31 17:07: 登録者数が5億人を超える人気YouTuberのミスタービーストが、大人気ゲーム『マインクラフト』内で実物大の地球を再現する超大型企画に挑みました。
 - [アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が](https://ai-tech-times.web.app/articles/20260831-us-iran-direct-attacks-hormuz.html) — 2026-08-31 17:07: アメリカ軍とイランの革命防衛隊が双方で攻撃を交わしたことが明らかになりました。両国間での直接的な攻撃は7月末以来となります。
-- [タイ政府、最大500万人が生成AIを無料化、なぜ費用を負担するのか](https://ai-tech-times.web.app/articles/20260831-thailand-generative-ai-free-project.html) — 2026-08-31 17:07: 世界的に生成AIの導入が進む中、タイでは政府が利用料を支払うことで、最大500万人の国民が生成AIのサービスを1年間無料で利用できるプロジェクトを始動します。
-- [長期金利一時2.95％上昇、29年10か月ぶり高水準](https://ai-tech-times.web.app/articles/20260831-long-term-interest-rate-rises.html) — 2026-08-31 17:07: 週明けの債券市場で長期金利が上昇し、代表的な指標である10年もの国債の利回りが一時2.95％を記録しました。
-- [はてな事件で発覚、残業203時間の経理と11億円送金の無関心](https://ai-tech-times.web.app/articles/20260831-hatena-incident-governance-report.html) — 2026-08-31 17:07: 4月に起きた「はてな11億円流出事件」の特別調査委員会報告書が公開され、経営陣の無関心という組織病理が明らかになりました。
-- [AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明](https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html) — 2026-08-31 16:01: Anthropicが開発する「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやPRの記述に追加される仕様が話題となっています。
-- [ガンホー続伸、ソニーGとの提携を好感](https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html) — 2026-08-31 15:00: ガンホーが続伸し、ソニーグループとの資本・業務提携を好感した動きがYahoo!ファイナンスなどで伝えられました。
-- [日経平均午前1043円安、AI半導体崩れFRB発言が冷や水](https://ai-tech-times.web.app/articles/20260831-nikkei-average-drops-1043-yen.html) — 2026-08-31 14:01: 日本経済新聞の報道によると、午前の株式市場で日経平均株価が1043円安と急落しました。AI半導体の下落やFRBのタカ派的発言が相場の重しとなっています。
-- [テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ](https://ai-tech-times.web.app/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html) — 2026-08-31 14:00: テキサス州のグレッグ・アボット知事が、AI監視カメラに対する反発が高まる中で州の予算凍結を決定しました。保険契約に付加された料金から3000万ドル以上が使われていたことが明らかになっています。
-- [パナソニックHDがAI・ロボティクス新本部、なぜトップに榊原氏？](https://ai-tech-times.web.app/articles/20260831-panasonic-hd-ai-robotics-hq.html) — 2026-08-31 14:00: パナソニック ホールディングスは技術部門の再編を発表し、AI・ロボティクス研究開発本部を新設すると明らかにしました。新本部長にはグループCAIOの榊原彰氏が就任します。
 
 ## 世界のバズ動画TOP3 (2026-08-31)
 - 1位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
 - 2位: [World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g)
 - 3位: [UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)
 
-## AI用語事典 (全1177語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1184語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -59,8 +59,8 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠を置く世界最大級のEコマースおよびクラウドコンピューティング事業を手がける巨大テクノロジー企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
