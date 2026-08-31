@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 00:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由](https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html) — 2026-09-01 01:00: Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。
+- [Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは](https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html) — 2026-09-01 01:00: 配車サービス大手のUberにおけるAIエージェントの運用実態とコスト効果について、深津貴之氏がnoteで言及しました。利用数が急増する中での取り組みが注目を集めています。
 - [OpenAIのChatGPT、EUで規制強化へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html) — 2026-09-01 00:00: AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。
 - [Instagram、本物そっくりなAIアカウント対策へ](https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html) — 2026-09-01 00:00: Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。
 - [三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ](https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html) — 2026-08-31 23:01: 三菱UFJ銀行と三井住友銀行は、9月から変動型の住宅ローン金利を引き上げると発表しました。家計への影響が注視されています。
@@ -40,15 +42,13 @@
 - [Chess.comが無料のオンラインポーカーサイトを開設した理由](https://ai-tech-times.web.app/articles/20260831-chess-com-launches-poker-site-gambit.html) — 2026-08-31 19:00: オンラインチェスの最大手が、チェス以外の領域へ事業を拡大しています。一体なぜ、ポーカーサイトを新たに開設したのでしょうか。
 - [LINEヤフー、全社横断でAIエージェント量産へ](https://ai-tech-times.web.app/articles/20260831-line-yahoo-ai-agent-mass-production.html) — 2026-08-31 18:00: LINEヤフーは、全社を横断してAIエージェントの量産体制を構築すると発表しました。
 - [仮想経営幹部チームを作れるAI「Open Executive」公開](https://ai-tech-times.web.app/articles/20260831-open-executive-ai-virtual-executive-team.html) — 2026-08-31 18:00: AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されました。
-- [Caterpillar、遠隔鉱山自動化の経験をAI展開に応用へ](https://ai-tech-times.web.app/articles/20260831-caterpillar-ai-deployment.html) — 2026-08-31 17:07: 建設・鉱山機械大手のCaterpillarが、遠隔鉱山での自動化技術の経験を、新たなAI展開に活かそうとしています。
-- [OpenAIが数万台のMacを買い占めた理由](https://ai-tech-times.web.app/articles/20260831-openai-buys-tens-of-thousands-of-macs.html) — 2026-08-31 17:07: メモリ不足で一般市場が冷え込む中、AI企業のOpenAIがAppleの高性能マシンを大量購入していることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
-- 1位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
-- 2位: [World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g)
-- 3位: [UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)
+- 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
+- 2位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
+- 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1187語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1188語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -77,8 +77,8 @@
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
+- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカのイーロン・マスク氏が率いる民間宇宙企業で、ロケット開発や衛星通信サービスなどを手掛ける。
-- [マーク・ザッカーバーグとは](https://ai-tech-times.web.app/term/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0.html): Metaの創業者であり最高経営責任者。SNSプラットフォームのFacebookを立ち上げ、現在の巨大テック企業へと成長させた。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-01 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-01 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAIのChatGPT、EUで規制強化へ",
-   "path": "/articles/20260901-openai-chatgpt-eu-regulation.html",
-   "cat": "AI(海外)"
+   "title": "AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由",
+   "path": "/articles/20260901-m5-max-macbook-pro-power-drain.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Instagram、本物そっくりなAIアカウント対策へ",
-   "path": "/articles/20260901-instagram-cracks-down-on-ai-accounts.html",
-   "cat": "AI(海外)"
+   "title": "Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは",
+   "path": "/articles/20260901-uber-ai-agent-operation-cost.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela",
-  "url": "https://www.youtube.com/watch?v=JqFzhcWo3EU"
+  "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
+  "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 10,
   "limit": 200
  }
 }

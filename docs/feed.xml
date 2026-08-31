@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html</guid>
+<pubDate>Tue, 01 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。</description>
+</item>
+<item>
+<title>Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは</title>
+<link>https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html</guid>
+<pubDate>Tue, 01 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>配車サービス大手のUberにおけるAIエージェントの運用実態とコスト効果について、深津貴之氏がnoteで言及しました。利用数が急増する中での取り組みが注目を集めています。</description>
+</item>
+<item>
 <title>OpenAIのChatGPT、EUで規制強化へ</title>
 <link>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 31 Aug 2026 17:07:00 +0900</pubDate>
 <category>日本企業</category>
 <description>4月に起きた「はてな11億円流出事件」の特別調査委員会報告書が公開され、経営陣の無関心という組織病理が明らかになりました。</description>
-</item>
-<item>
-<title>AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明</title>
-<link>https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-claude-code-session-url-appended.html</guid>
-<pubDate>Mon, 31 Aug 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Anthropicが開発する「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやPRの記述に追加される仕様が話題となっています。</description>
-</item>
-<item>
-<title>ガンホー続伸、ソニーGとの提携を好感</title>
-<link>https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-gungho-sony-capital-business-alliance.html</guid>
-<pubDate>Mon, 31 Aug 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ガンホーが続伸し、ソニーグループとの資本・業務提携を好感した動きがYahoo!ファイナンスなどで伝えられました。</description>
 </item>
 </channel></rss>
