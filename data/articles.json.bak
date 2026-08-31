@@ -65220,5 +65220,73 @@
   "date": "2026-08-31",
   "time": "17:07",
   "path": "/articles/20260831-hatena-incident-governance-report.html"
+ },
+ {
+  "title": "LINEヤフー、全社横断でAIエージェント量産へ",
+  "lead": "LINEヤフーは、全社を横断してAIエージェントの量産体制を構築すると発表しました。",
+  "summary3": [
+   "LINEヤフーが全社横断体制を構築",
+   "AIエージェントを大量生産へ",
+   "カレンダーなど新機能を追加"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によりますと、LINEヤフーは全社を横断する形でAIエージェントの量産体制を構築すると発表しました。",
+   "この取り組みの一環として、カレンダーなどの新しい「Agent i」に関する展開が進められています。",
+   "今後の業務効率化やサービス展開への影響が注目されます。"
+  ],
+  "tags": [
+   "LINEヤフー",
+   "AIエージェント",
+   "テクノロジー"
+  ],
+  "slug": "line-yahoo-ai-agent-mass-production",
+  "people": [],
+  "terms": [
+   {
+    "name": "LINEヤフー",
+    "type": "company",
+    "desc": "日本のインターネット企業で、検索やメッセージングなどのサービスを展開しています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+  "category": "ai_jp",
+  "date": "2026-08-31",
+  "time": "18:00",
+  "path": "/articles/20260831-line-yahoo-ai-agent-mass-production.html"
+ },
+ {
+  "title": "仮想経営幹部チームを作れるAI「Open Executive」公開",
+  "lead": "AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されました。",
+  "summary3": [
+   "仮想経営幹部チームを作れるAIシステムが公開",
+   "8種類の専門エージェントが企業経営を助言",
+   "会社の事業内容に合わせてカスタマイズ可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」に関する情報が入ってまいりました。",
+   "「Open Executive」では、8種類の専門エージェントが企業経営に関する助言を行います。CFO、COO、人事、法務、マーケティング責任者、広報担当などをAI幹部で置き換えることが可能となっています。",
+   "さらに、ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされる仕組みです。今後の企業の経営環境にどのような影響を与えるのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "AI",
+   "経営幹部",
+   "オープンソース"
+  ],
+  "slug": "open-executive-ai-virtual-executive-team",
+  "people": [],
+  "terms": [
+   {
+    "name": "Open Executive",
+    "type": "ai",
+    "desc": "企業経営に関する助言を行うオープンソースの仮想経営幹部AIシステム"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260831-ai-virtual-executive-team/",
+  "category": "ai_jp",
+  "date": "2026-08-31",
+  "time": "18:00",
+  "path": "/articles/20260831-open-executive-ai-virtual-executive-team.html"
  }
 ]

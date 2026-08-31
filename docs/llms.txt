@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-08-31 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ValveのSteamで12TBの大規模データ流出、幻の未発表アセットが発掘された理由](https://ai-tech-times.web.app/articles/20260831-12tb-steam-leak-half-life-2-episode-3.html) — 2026-08-31 19:00: PCゲームプラットフォームのSteamにおいて、2003年から2013年までにアップロードされた全ゲームのビルドを含む12テラバイトを超えるデータが流出しました。未発表のアセットなどがすでに発見されています。
+- [Chess.comが無料のオンラインポーカーサイトを開設した理由](https://ai-tech-times.web.app/articles/20260831-chess-com-launches-poker-site-gambit.html) — 2026-08-31 19:00: オンラインチェスの最大手が、チェス以外の領域へ事業を拡大しています。一体なぜ、ポーカーサイトを新たに開設したのでしょうか。
 - [LINEヤフー、全社横断でAIエージェント量産へ](https://ai-tech-times.web.app/articles/20260831-line-yahoo-ai-agent-mass-production.html) — 2026-08-31 18:00: LINEヤフーは、全社を横断してAIエージェントの量産体制を構築すると発表しました。
 - [仮想経営幹部チームを作れるAI「Open Executive」公開](https://ai-tech-times.web.app/articles/20260831-open-executive-ai-virtual-executive-team.html) — 2026-08-31 18:00: AIを活用して仮想経営幹部チームを作り、企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されました。
 - [Caterpillar、遠隔鉱山自動化の経験をAI展開に応用へ](https://ai-tech-times.web.app/articles/20260831-caterpillar-ai-deployment.html) — 2026-08-31 17:07: 建設・鉱山機械大手のCaterpillarが、遠隔鉱山での自動化技術の経験を、新たなAI展開に活かそうとしています。
@@ -40,15 +42,13 @@
 - [テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ](https://ai-tech-times.web.app/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html) — 2026-08-31 14:00: テキサス州のグレッグ・アボット知事が、AI監視カメラに対する反発が高まる中で州の予算凍結を決定しました。保険契約に付加された料金から3000万ドル以上が使われていたことが明らかになっています。
 - [パナソニックHDがAI・ロボティクス新本部、なぜトップに榊原氏？](https://ai-tech-times.web.app/articles/20260831-panasonic-hd-ai-robotics-hq.html) — 2026-08-31 14:00: パナソニック ホールディングスは技術部門の再編を発表し、AI・ロボティクス研究開発本部を新設すると明らかにしました。新本部長にはグループCAIOの榊原彰氏が就任します。
 - [参議院ホームページが17年ぶり刷新、30万未満の案件に](https://ai-tech-times.web.app/articles/20260831-sangiin-website-renewal.html) — 2026-08-31 14:00: 参議院のホームページがデザインリニューアルされましたが、その出来栄えを巡って困惑の声が上がっています。落札価格は30万円を切る案件でした。
-- [イーロン・マスク氏の新型タービン製造、公害問題が浮上](https://ai-tech-times.web.app/articles/20260831-musk-gas-turbines-pollution-problem.html) — 2026-08-31 14:00: テッククランチによると、イーロン・マスク氏が率いるスペースXの新たな鋳造所が、他社より18カ月早くガスタービンを確保する計画を進めていることが分かりました。しかし、燃料源をめぐる環境汚染や健康被害への懸念から訴訟も引き起こされています。
-- [マイク・ムーア氏が巨大タバコに勝った手法、MetaとSNSにも通用するのか](https://ai-tech-times.web.app/articles/20260831-mike-moore-meta-social-media-big-tobacco.html) — 2026-08-31 14:00: 巨大タバコ産業との訴訟を勝利に導いたマイク・ムーア氏の手法が、Metaなどのソーシャルメディア企業に対しても有効に働くのかが注目されています。
 
 ## 世界のバズ動画TOP3 (2026-08-31)
 - 1位: [Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela](https://www.youtube.com/watch?v=JqFzhcWo3EU)
 - 2位: [World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g)
 - 3位: [UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=1tffqhaqxRI)
 
-## AI用語事典 (全1175語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1177語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカのサンフランシスコに拠点を置く、対話型AI「ChatGPT」などを開発・提供する人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
