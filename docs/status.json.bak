@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-01 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-01 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均一時1500円超下落、米利上げ観測でNY安受け",
-   "path": "/articles/20260901-nikkei-average-drops-over-1500-yen-ny-decline.html",
-   "cat": "株式投資(日本)"
+   "title": "伊藤忠が電通総研に2152億円払う理由",
+   "path": "/articles/20260901-itochu-dentsu-secures-partnership.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 29,
   "limit": 200
  }
 }
