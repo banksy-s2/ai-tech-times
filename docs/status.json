@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-31 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-31 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ネパール土石流で797人死亡、住民孤立と支援態勢の行方",
-   "path": "/articles/20260831-nepal-landslide-797-dead.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "習主席とプーチン大統領、31日夜にキルギスで会談へ",
-   "path": "/articles/20260831-shanghai-cooperation-organisation-summit-kyrgyzstan.html",
-   "cat": "時事・世界"
+   "title": "三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ",
+   "path": "/articles/20260831-housing-loan-variable-rate-september.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 111,
+  "used": 115,
   "limit": 200
  }
 }
