@@ -64860,5 +64860,39 @@
   "date": "2026-08-31",
   "time": "15:00",
   "path": "/articles/20260831-gungho-sony-capital-business-alliance.html"
+ },
+ {
+  "title": "AnthropicのClaude Code、コミットとPRにURLが自動追加される仕様が判明",
+  "lead": "Anthropicが開発する「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやPRの記述に追加される仕様が話題となっています。",
+  "summary3": [
+   "Claude Codeの仕様が話題",
+   "コミット等にURLが自動追加",
+   "開発者の間で議論が活発化"
+  ],
+  "body": [
+   "AI TECH TIMESの編集部が報じたところによると、「Claude Code」において、セッションのURLがデフォルトでコミットメッセージやプルリクエスト（PR）の記述に追加される仕様になっていることが明らかになりました。",
+   "この仕様についてはGitHub上のissueやHacker Newsなどのコミュニティにおいて、多くのコメントやポイントが寄せられており、開発者たちの間で関心を集めています。現時点でこの動作に関する議論や意見交換が活発に行われています。",
+   "利用している開発者は、自身のコミットメッセージやPRの記述を確認する必要がありそうです。今後の仕様変更の有無や、Anthropic側の対応についても引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Claude Code",
+   "Anthropic",
+   "AI開発"
+  ],
+  "slug": "claude-code-session-url-appended",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが提供する、開発作業を支援するためのツールやシステムに関連する製品。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://github.com/anthropics/claude-code/issues/66504",
+  "category": "ai",
+  "date": "2026-08-31",
+  "time": "16:01",
+  "path": "/articles/20260831-claude-code-session-url-appended.html"
  }
 ]
