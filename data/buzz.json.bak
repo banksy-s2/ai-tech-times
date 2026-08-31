@@ -5,7 +5,7 @@
    "id": "oAwzFFEYm38",
    "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
    "channel": "SMTOWN",
-   "views": 2306469,
+   "views": 2493277,
    "url": "https://www.youtube.com/watch?v=oAwzFFEYm38",
    "thumb": "https://i.ytimg.com/vi/oAwzFFEYm38/hqdefault.jpg",
    "regions": [
@@ -22,7 +22,7 @@
    "id": "JqFzhcWo3EU",
    "title": "Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela",
    "channel": "Saregama Telugu",
-   "views": 37647108,
+   "views": 38014217,
    "url": "https://www.youtube.com/watch?v=JqFzhcWo3EU",
    "thumb": "https://i.ytimg.com/vi/JqFzhcWo3EU/hqdefault.jpg",
    "regions": [
@@ -37,7 +37,7 @@
    "id": "khru4exyahg",
    "title": "DAAYRA Official Trailer | Meghna Gulzar | Kareena Kapoor Khan | Prithviraj Sukumaran | 18 Sep ",
    "channel": "Pen Movies",
-   "views": 4999101,
+   "views": 6245404,
    "url": "https://www.youtube.com/watch?v=khru4exyahg",
    "thumb": "https://i.ytimg.com/vi/khru4exyahg/hqdefault.jpg",
    "regions": [
@@ -49,25 +49,10 @@
    "comment": "メグナー・グルザール監督、カリーナ・カプールら出演の映画予告編のようです。"
   },
   {
-   "id": "61RoQlFkYjs",
-   "title": "John Cena in Clash of Clans?!",
-   "channel": "Clash of Clans",
-   "views": 990363,
-   "url": "https://www.youtube.com/watch?v=61RoQlFkYjs",
-   "thumb": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 4,
-   "comment": "クラッシュ・オブ・クランにジョン・シナが登場する映像のようです。"
-  },
-  {
    "id": "H6_jMQ6whtQ",
    "title": "Pokémon: Wild Card | Official Teaser Trailer",
    "channel": "The Official Pokémon YouTube channel",
-   "views": 988963,
+   "views": 1042657,
    "url": "https://www.youtube.com/watch?v=H6_jMQ6whtQ",
    "thumb": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg",
    "regions": [
@@ -75,14 +60,14 @@
     "GB",
     "BR"
    ],
-   "rank": 5,
+   "rank": 4,
    "comment": "ポケモンの公式YouTubeチャンネルで公開された新作のティザートレーラーのようです。"
   },
   {
    "id": "W-D8GSXg1W8",
    "title": "ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV",
    "channel": "HYBE LABELS",
-   "views": 393908,
+   "views": 472417,
    "url": "https://www.youtube.com/watch?v=W-D8GSXg1W8",
    "thumb": "https://i.ytimg.com/vi/W-D8GSXg1W8/hqdefault.jpg",
    "regions": [
@@ -90,56 +75,70 @@
     "JP",
     "BR"
    ],
-   "rank": 6,
+   "rank": 5,
    "comment": "ENHYPENの新曲パフォーマンスMVが公開されたようです。"
   },
   {
    "id": "7yj_WVQIB4I",
    "title": "This video will teach you How To Fish",
    "channel": "SMii7Y",
-   "views": 2493232,
+   "views": 2561833,
    "url": "https://www.youtube.com/watch?v=7yj_WVQIB4I",
    "thumb": "https://i.ytimg.com/vi/7yj_WVQIB4I/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "釣りについて学べる内容となっているゲーム系動画のよう（25文字）"
   },
   {
    "id": "dVE8T-yJXak",
    "title": "PLAYING CHAINED TOGETHER w LOS & RON DAY 3",
    "channel": "Jynxzi",
-   "views": 1914612,
+   "views": 1920704,
    "url": "https://www.youtube.com/watch?v=dVE8T-yJXak",
    "thumb": "https://i.ytimg.com/vi/dVE8T-yJXak/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 7,
    "comment": "ロスやロンと協力ゲーム「Chained Together」に挑む3日目の様子（28文字）"
   },
   {
    "id": "CMXxuSmzXsk",
    "title": "GTA 6: Robberies, Economy & How Money Works Now | Exclusive Deep Dive",
    "channel": "TGG",
-   "views": 1139110,
+   "views": 1303759,
    "url": "https://www.youtube.com/watch?v=CMXxuSmzXsk",
    "thumb": "https://i.ytimg.com/vi/CMXxuSmzXsk/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 8,
    "comment": "GTA6の強盗や経済システムに関するディープな解説動画のようです。"
+  },
+  {
+   "id": "61RoQlFkYjs",
+   "title": "John Cena in Clash of Clans?!",
+   "channel": "Clash of Clans",
+   "views": 1119080,
+   "url": "https://www.youtube.com/watch?v=61RoQlFkYjs",
+   "thumb": "https://i.ytimg.com/vi/61RoQlFkYjs/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 9,
+   "comment": "クラッシュ・オブ・クランにジョン・シナが登場する映像のようです。"
   },
   {
    "id": "pVm-0kQiFxk",
    "title": "I Became BEN-10 in Minecraft!",
    "channel": "Cash",
-   "views": 1055458,
+   "views": 1074174,
    "url": "https://www.youtube.com/watch?v=pVm-0kQiFxk",
    "thumb": "https://i.ytimg.com/vi/pVm-0kQiFxk/hqdefault.jpg",
    "regions": [

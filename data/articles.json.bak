@@ -65999,5 +65999,44 @@
   "date": "2026-09-01",
   "time": "02:00",
   "path": "/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html"
+ },
+ {
+  "title": "不破湊が男性VTuber初の日本武道館ワンマン開催",
+  "lead": "人気グループ「にじさんじ」に所属する不破湊が、男性VTuber史上初となる日本武道館ワンマンライブ“VORTEX”を開催することが決定しました。",
+  "summary3": [
+   "不破湊が日本武道館ワンマン開催",
+   "男性VTuber史上初の快挙となる",
+   "New Single発売も決定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今回のニュースは、人気バーチャルライバーグループ「にじさんじ」に関する最新情報です。",
+   "「にじさんじ」所属の不破湊が、男性VTuber史上初となる日本武道館ワンマンライブ“VORTEX”を開催することが明らかになりました。記念すべき初の日本武道館公演として、多くのファンの注目を集めています。",
+   "さらに、ライブ開催の発表とあわせて、New Single『ECLIPSE』の発売も決定しました。今後の詳細や続報については、PASH! PLUSなどの関連メディアや公式情報をチェックしてみてください。"
+  ],
+  "tags": [
+   "にじさんじ",
+   "不破湊",
+   "VTuber"
+  ],
+  "slug": "fuwa-minato-budokan-live-vortex",
+  "people": [
+   {
+    "name": "不破湊",
+    "bio": "人気バーチャルライバーグループ「にじさんじ」に所属する男性VTuber。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "にじさんじ",
+    "type": "company",
+    "desc": "多数のバーチャルライバーが所属する日本国内の主要なVTuberプロジェクト。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43aE9xZlJ3ZUFzU1BqSHZETFNsbGlScDlrQlNPVk5Ra3RfMTRKd3g4NTRqcWMyUlAzZlg2T0ZYNUN4ci1OUHNJYUxaZlB2UQ?oc=5",
+  "category": "influencer",
+  "date": "2026-09-01",
+  "time": "03:00",
+  "path": "/articles/20260901-fuwa-minato-budokan-live-vortex.html"
  }
 ]

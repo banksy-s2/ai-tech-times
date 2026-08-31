@@ -66038,5 +66038,33 @@
   "date": "2026-09-01",
   "time": "03:00",
   "path": "/articles/20260901-fuwa-minato-budokan-live-vortex.html"
+ },
+ {
+  "title": "日経平均一時1500円超下落、米利上げ観測でNY安受け",
+  "lead": "28日のニューヨーク市場の下落を受け、東京株式市場の日経平均株価は一時1500円を超える大幅な値下がりとなりました。",
+  "summary3": [
+   "日経平均が一時1500円超値下がり",
+   "米国の利上げ観測の高まりが背景",
+   "28日のNY市場の下落を受けた動き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。28日のニューヨーク市場の下落を受け、東京株式市場では日経平均株価が一時1500円を超える記録的な値下がりを記録しました。",
+   "今回の株価下落の主な要因は、市場における米国の利上げ観測が高まったことにあります。前日のNY市場での軟調な値動きがそのまま東京市場にも波及する形となりました。",
+   "市場関係者の間では、今後の米国の金融政策や海外市場の動向に対する警戒感が強まっており、投資家は慎重な姿勢を示しています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "米国経済"
+  ],
+  "slug": "nikkei-average-drops-over-1500-yen-ny-decline",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5USElMUGdNX1VjZWQ2dVpzTUk3c2NnT2JNbmdKWlpyVi05T29EeWl2UHcxSmRTeGZBZ1djSUtfTXdOaFpiV19rNWxDdWZManN0?oc=5",
+  "category": "stock",
+  "date": "2026-09-01",
+  "time": "05:00",
+  "path": "/articles/20260901-nikkei-average-drops-over-1500-yen-ny-decline.html"
  }
 ]

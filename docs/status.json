@@ -1,18 +1,21 @@
 {
- "updated": "2026-09-01 04:00",
- "mode": "軽量便(時事・世界)",
- "articles": [],
+ "updated": "2026-09-01 05:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [
+  {
+   "title": "日経平均一時1500円超下落、米利上げ観測でNY安受け",
+   "path": "/articles/20260901-nikkei-average-drops-over-1500-yen-ny-decline.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [
-  "執筆失敗: サッカー メッシ アルゼンチン代表を引退 SNSで表明",
-  "執筆失敗: 茂木外相 ネパール外相と電話会談 日本人の捜索へ協力要請"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 25,
   "limit": 200
  }
 }
