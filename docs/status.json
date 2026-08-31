@@ -1,26 +1,21 @@
 {
- "updated": "2026-08-27 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-08-31 14:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "メタが約180億ドルで和解、若者のSNS依存訴訟で対策義務化へ",
-   "path": "/articles/20260827-meta-settles-lawsuit-over-sns-addiction.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中部電力、浜岡原発の廃炉費用報告書で不正改ざん",
-   "path": "/articles/20260827-chubu-denryo-hamaoka-nuclear-plant-falsification.html",
-   "cat": "時事・世界"
+   "title": "日経平均午前1043円安、AI半導体崩れFRB発言が冷や水",
+   "path": "/articles/20260831-nikkei-average-drops-1043-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
-  "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
+  "title": "UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits",
+  "url": "https://www.youtube.com/watch?v=1tffqhaqxRI"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 105,
+  "used": 38,
   "limit": 200
  }
 }

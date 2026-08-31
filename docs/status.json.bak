@@ -1,73 +1,65 @@
 {
- "updated": "2026-08-27 12:02",
+ "updated": "2026-08-31 14:00",
  "mode": "フル便",
  "articles": [
   {
-   "title": "Instinctが3億5000万ドル調達、急成長AIの謎",
-   "path": "/articles/20260827-instinct-raises-350-million.html",
+   "title": "テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ",
+   "path": "/articles/20260831-texas-governor-abbott-blocks-flock-cameras.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "イスラエル資金の偽シンクタンク、AIで世論工作を図る",
-   "path": "/articles/20260827-israel-fake-thinktank-ai-propaganda.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "MetaがMeta Glassesを50600円から日本発売、なぜ今展開するのか",
-   "path": "/articles/20260827-meta-glasses-japan-release.html",
+   "title": "パナソニックHDがAI・ロボティクス新本部、なぜトップに榊原氏？",
+   "path": "/articles/20260831-panasonic-hd-ai-robotics-hq.html",
    "cat": "日本のAI"
   },
   {
-   "title": "JetBrainsのJunie Local、Mac上で27Bモデルが動く理由",
-   "path": "/articles/20260827-jetbrains-announces-junie-local.html",
+   "title": "参議院ホームページが17年ぶり刷新、30万未満の案件に",
+   "path": "/articles/20260831-sangiin-website-renewal.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Nvidia、Hugging Faceを129億ドルで買収合意",
-   "path": "/articles/20260827-nvidia-acquires-hugging-face-12-9b.html",
+   "title": "イーロン・マスク氏の新型タービン製造、公害問題が浮上",
+   "path": "/articles/20260831-musk-gas-turbines-pollution-problem.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "CrowdStrike、Q2売上高が26%増の1.47億ドルに",
-   "path": "/articles/20260827-crowdstrike-reports-q2-revenue-up-26-percent.html",
+   "title": "マイク・ムーア氏が巨大タバコに勝った手法、MetaとSNSにも通用するのか",
+   "path": "/articles/20260831-mike-moore-meta-social-media-big-tobacco.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "Dreamtonicsが開発、Instrument X爆誕",
-   "path": "/articles/20260827-instrument-x-dreamtonics-dtm.html",
+   "title": "日本ハムの2軍拠点移転、恵庭へなぜ？タダ見から推し活の聖地へ",
+   "path": "/articles/20260831-npb-farm-team-investment-hokkaido.html",
    "cat": "インフルエンサー"
   },
   {
-   "title": "エヌビディア最終利益2.2倍、AI向け半導体好調",
-   "path": "/articles/20260827-nvidia-financial-results-2-2-times.html",
+   "title": "9月の食品値上げ4900品目超、家計の負担はどうなる？",
+   "path": "/articles/20260831-food-price-hikes-september.html",
    "cat": "時事・世界"
   },
   {
-   "title": "BBC報道：致死率の高い膵臓がんに新薬承認のなぜ",
-   "path": "/articles/20260827-us-drug-agency-approves-pancreatic-cancer-treatment.html",
+   "title": "米財務長官「植田総裁は正しいことをする」G20前に何を語ったか",
+   "path": "/articles/20260831-us-treasury-secretary-on-ueda-g20.html",
    "cat": "時事・世界"
   },
   {
-   "title": "全国17信用金庫が赤字、金利上昇で何が起きているのか",
-   "path": "/articles/20260827-shinyokinko-deficit-interest-rates.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ヒューリック2295万円トップ、上場企業平均778万円",
-   "path": "/articles/20260827-listed-companies-average-salary-778-man-yen.html",
+   "title": "SBI、BASEに80億円で20%出資し資本業務提携",
+   "path": "/articles/20260831-sbi-base-capital-business-alliance.html",
    "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
-  "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ"
+  "title": "UPDATE 30 TRAILER + MAGNET SHOWCASE | Blox Fruits",
+  "url": "https://www.youtube.com/watch?v=1tffqhaqxRI"
  },
  "notes": [
+  "執筆失敗: Nvidia’s AI advantage is moving beyond t",
+  "執筆失敗: 【速報】日経平均、一時1500円超値下がり 米利上げ観測高まりで28日NY市場の",
   "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 101,
+  "used": 35,
   "limit": 200
  }
 }
