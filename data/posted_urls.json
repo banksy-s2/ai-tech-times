@@ -1977,13 +1977,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260902de47713",
   "https://news.web.nhk/newsweb/na/nd-20260901de47702",
   "https://news.web.nhk/newsweb/na/nd-20260901de47702",
-  "https://news.web.nhk/newsweb/na/nd-20260831de47518"
+  "https://news.web.nhk/newsweb/na/nd-20260831de47518",
+  "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+  "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
  ],
  "titles": [
-  "Texas halts new data centers as governor calls for audits",
-  "Apple launches fresh legal challenge against UK encrypted data access demand",
-  "テキサス州が新規データセンターを停止、知事が監査を要求",
-  "Apple、英暗号データ要求で法的闘争へ",
   "YouTuberヒカル“立川さぎ志”、明治座で初公演→オチで告白「全部ウソです！」 「猫の皿」「芝浜」披露 「まんじゅうこわい」はYouTube界の“化かし合い”投影（オリコン） - Yahoo!ニュース",
   "YouTuberヒカル明治座で初公演、オチの告白とは",
   "Open-weight AI models are catching up to the frontier. The safety gap remains.",
@@ -3979,6 +3977,10 @@
   "アメリカ中央軍、イラン革命防衛隊への攻撃を開始",
   "日銀の政策焦点に、長期金利10年もので3%超え",
   "長期金利が約30年ぶりに3％超え、日銀の金融政策をめぐる動きが焦点に",
-  "データセンター関連買収が加速、AI拡大の裏で何が起きているのか"
+  "データセンター関連買収が加速、AI拡大の裏で何が起きているのか",
+  "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+  "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+  "AfterQueryが時価総額32億ドルで最速ユニコーンに",
+  "Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか"
  ]
 }

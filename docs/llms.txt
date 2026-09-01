@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AfterQueryが時価総額32億ドルで最速ユニコーンに](https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html) — 2026-09-02 08:00: AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。
+- [Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか](https://ai-tech-times.web.app/articles/20260902-anthropic-claude-fable-5-1-launch.html) — 2026-09-02 08:00: AI開発を手がけるAnthropicは、新モデル「Claude Fable 5.1」および「Mythos 5.1」を発表しました。価格やデータ保持、過剰なセーフガードに関する顧客からの批判に対応し、エージェント業務でのコスト削減を実現しています。
 - [OpenAIの新モデルAstra、PCハッキングが極めて得意な理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html) — 2026-09-02 07:02: OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。
 - [Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面](https://ai-tech-times.web.app/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html) — 2026-09-02 07:02: AppleがAI需要によるMac MiniとMac Studioの予想外の人気に直面していることが、海外メディアの報道で明らかになりました。
 - [花王や森永がAI最適化を急ぐ、チャット経由の買い物増になぜ対応するのか](https://ai-tech-times.web.app/articles/20260902-kao-morinaga-ai-site-optimization.html) — 2026-09-02 07:02: 花王や森永製菓などの消費財メーカーが、生成AI向けに自社サイトの商品情報を見直す動きを見せています。消費者がAIとの対話を通じてECサイトへ流入する傾向が強まっているためです。
@@ -40,15 +42,13 @@
 - [UK AI Security Instituteなどが調査：AIの助言に従う割合は約8割、でも幸福度は上がらない理由](https://ai-tech-times.web.app/articles/20260902-ai-personal-advice-well-being-study.html) — 2026-09-02 01:00: 日常的な悩みをAIに相談した際、人がその助言通りに行動するのか、またそれが精神的な健康にどう影響するのかを調査した研究結果が発表されました。
 - [NvidiaのDLSS 5が9月3日登場、必要GPUとは](https://ai-tech-times.web.app/articles/20260902-nvidia-dlss-5-launch-september-3rd.html) — 2026-09-02 00:01: Nvidiaは、議論を呼んでいたAIアップスケール技術「DLSS 5」を今週正式にリリースすると発表しました。RTX 50シリーズやGeForce Nowで利用可能となりますが、高いGPU性能が求められます。
 - [長期金利3％に上昇、約30年ぶりの高水準へ](https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-3-percent.html) — 2026-09-01 23:00: 1日の債券市場で長期金利が急ピッチに上昇し、10年もの国債利回りが約30年ぶりの高水準となる3％に達しました。
-- [キユーピー・味の素の値上げ家計直撃、なぜ続くのか](https://ai-tech-times.web.app/articles/20260901-kewpie-ajinomoto-price-hike-2026.html) — 2026-09-01 22:00: 食品メーカーのキユーピーと味の素がマヨネーズなどの値上げを発表しました。原材料や包装資材の価格上昇に伴い、値上げの動きが相次いでいます。
-- [韓国が95兆円規模の過去最大予算案を決定、原潜開発も](https://ai-tech-times.web.app/articles/20260901-south-korea-record-budget-2026.html) — 2026-09-01 22:00: 韓国政府は過去最大となる日本円で95兆円規模の予算案を閣議決定しました。半導体やAIインフラへの投資に加え、原潜開発の予算が初計上されています。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
 - 2位: [nopixel V Trailer](https://www.youtube.com/watch?v=fVCD9oKjtZs)
 - 3位: [The Cranberries - Zombie (Lyrics)](https://www.youtube.com/watch?v=eBFeRyq8_GA)
 
-## AI用語事典 (全1227語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1230語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

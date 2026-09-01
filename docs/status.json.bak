@@ -1,21 +1,69 @@
 {
- "updated": "2026-09-02 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-02 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "MTG決算発表後に7400円から9400円に急伸、業績と配当予想の上方修正を発表",
-   "path": "/articles/20260902-mtg-earnings-revision-refa.html",
+   "title": "OpenAIの新モデルAstra、PCハッキングが極めて得意な理由",
+   "path": "/articles/20260902-openai-astra-model-cybersecurity.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面",
+   "path": "/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "花王や森永がAI最適化を急ぐ、チャット経由の買い物増になぜ対応するのか",
+   "path": "/articles/20260902-kao-morinaga-ai-site-optimization.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "米国防総省が軍事向けChatGPT導入、Geminiも利用可能に",
+   "path": "/articles/20260902-us-department-of-defense-chatgpt-mil.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "デルが9%急騰、AIサーバー好調で2027年度予測を上方修正",
+   "path": "/articles/20260902-dell-surges-on-ai-server-forecast.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon、広告オークション操作で200億ドル不正利益か",
+   "path": "/articles/20260902-ftc-alleges-amazon-ad-auction-rigging.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "アメリカ中央軍、イラン革命防衛隊への攻撃を開始",
+   "path": "/articles/20260902-us-centcom-attacks-iran-revolutionary-guard.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀の政策焦点に、長期金利10年もので3%超え",
+   "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "長期金利が約30年ぶりに3％超え、日銀の金融政策をめぐる動きが焦点に",
+   "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent-2.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "データセンター関連買収が加速、AI拡大の裏で何が起きているのか",
+   "path": "/articles/20260902-data-center-acquisition-ai-expansion.html",
    "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
-  "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
+  "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
+  "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 福島大がネット動画に苦言、学歴YouTuberの“放射能いじり”念頭か 「尊厳傷",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 52,
   "limit": 200
  }
 }

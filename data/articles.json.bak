@@ -68211,5 +68211,341 @@
   "date": "2026-09-02",
   "time": "06:00",
   "path": "/articles/20260902-mtg-earnings-revision-refa.html"
+ },
+ {
+  "title": "OpenAIの新モデルAstra、PCハッキングが極めて得意な理由",
+  "lead": "OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。",
+  "summary3": [
+   "OpenAIが新LLM「Astra」のプレビューを公開",
+   "コンピュータシステムへの侵入が非常に得意な能力",
+   "リリースに向けた事前の安全対策や予防措置を提示"
+  ],
+  "body": [
+   "ニュースサイト「TechCrunch AI」の報道によると、OpenAIはサイバーセキュリティに直結する最新の大規模言語モデル（LLM）「Astra」のリリースを控え、事前に行っている安全対策について明らかにしました。",
+   "Astraはコンピュータシステムへの侵入（ハッキング）において非常に優れた能力を持っているとされており、システム開発やセキュリティの観点から注目を集めています。",
+   "同社はこうした強力な機能を持つモデルの公開に備え、悪用を防ぐための予防措置や安全対策の検証を進めており、その詳細なプレビューが示されています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Astra",
+   "AIセキュリティ"
+  ],
+  "slug": "openai-astra-model-cybersecurity",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AIなどを開発する最先端の人工知能研究企業です。"
+   },
+   {
+    "name": "Astra",
+    "type": "ai",
+    "desc": "OpenAIが開発を進める、サイバーセキュリティ分野に重大な影響を持つ最新の大規模言語モデルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-openai-astra-model-cybersecurity.html"
+ },
+ {
+  "title": "Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面",
+  "lead": "AppleがAI需要によるMac MiniとMac Studioの予想外の人気に直面していることが、海外メディアの報道で明らかになりました。",
+  "summary3": [
+   "AppleがAI需要に対応",
+   "Mac MiniとStudioが人気",
+   "予想外の需要に直面"
+  ],
+  "body": [
+   "Appleの「Mac Mini」と「Mac Studio」に対して、AI関連の需要が予想外の規模で高まっていることが報じられました。これらのコンパクトかつ高性能なデスクトップ製品は、AIの処理能力を求めるユーザーの間で急激に注目を集めています。",
+   "海外のテクノロジー関連サイトやHacker Newsなどのコミュニティにおいて、この予想を超える需要の高さや、Appleがどのように供給を調整するのかについて多くの議論が交わされています。AI技術の急速な普及が、ハードウェア市場に予期せぬ影響を与えている状況がうかがえます。",
+   "Appleはこの予想外のAI需要に対して公式な見解や今後の対応を示していますが、具体的な数値などは明らかにされていません。今後の動向や供給体制の変化に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "Mac Mini",
+   "Mac Studio"
+  ],
+  "slug": "apple-unexpected-mac-mini-and-studio-demand",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本社を置く、iPhoneやMacなどを開発・販売する世界的なテクノロジー企業です。"
+   },
+   {
+    "name": "Mac Mini",
+    "type": "ai",
+    "desc": "Appleが開発・販売するコンパクトなデスクトップ型パーソナルコンピュータ製品です。"
+   },
+   {
+    "name": "Mac Studio",
+    "type": "ai",
+    "desc": "Appleが提供する、プロフェッショナル向けの高パフォーマンスなデスクトップ型コンピュータ製品です。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html"
+ },
+ {
+  "title": "花王や森永がAI最適化を急ぐ、チャット経由の買い物増になぜ対応するのか",
+  "lead": "花王や森永製菓などの消費財メーカーが、生成AI向けに自社サイトの商品情報を見直す動きを見せています。消費者がAIとの対話を通じてECサイトへ流入する傾向が強まっているためです。",
+  "summary3": [
+   "花王や森永などがAI向け対応へ",
+   "チャット経由の買い物が増加傾向",
+   "AI推薦が新たな競争軸に浮上"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、花王や森永製菓など複数の消費財メーカーが、生成AI向けに自社サイトの商品情報を見直す動きに出てきました。",
+   "この背景には、消費者が生成AIとの対話を通して電子商取引（EC）サイトへ流入する傾向が強まっているという実態があります。",
+   "今後は、生成AIに推薦される商品やブランドづくりを行うことが、新たな競争軸になりつつあると指摘されています。英調査会社ユーロモニターが日本や欧米など44カ国を対象に調査を行いました。"
+  ],
+  "tags": [
+   "AI",
+   "EC",
+   "マーケティング"
+  ],
+  "slug": "kao-morinaga-ai-site-optimization",
+  "people": [],
+  "terms": [
+   {
+    "name": "森永製菓",
+    "type": "company",
+    "desc": "菓子や食品などを製造・販売する日本の大手食品メーカー"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC069TH0W6A800C2000000/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-kao-morinaga-ai-site-optimization.html"
+ },
+ {
+  "title": "米国防総省が軍事向けChatGPT導入、Geminiも利用可能に",
+  "lead": "米国防総省は、OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」の導入を発表しました。さらに、「Gemini」や「Grok」の計3モデルが利用可能になります。",
+  "summary3": [
+   "米国防総省が軍事向けChatGPTを導入",
+   "Geminiなど計3モデルが利用可能に",
+   "ITmedia AI+が報じた"
+  ],
+  "body": [
+   "ニュースサイト「ITmedia AI+」によると、米国防総省は米OpenAIが提供する「ChatGPT」のカスタマイズ版である「ChatGPT Mil」を導入したと発表しました。",
+   "今回の導入により、「ChatGPT Mil」に加えて「Gemini」や「Grok」といった計3つのモデルが利用可能になることが明らかになっています。",
+   "AI技術の活用が広がる中、米国防総省における最新AIモデルの導入動向として注目を集めています。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "米国防総省",
+   "AI"
+  ],
+  "slug": "us-department-of-defense-chatgpt-mil",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した対話型AIモデルで、自然な言語処理による応答が特徴。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "米Googleが開発した、マルチモーダル対応の先進的な大規模言語モデル。"
+   },
+   {
+    "name": "Grok",
+    "type": "ai",
+    "desc": "米xAIが開発した、リアルタイムの情報アクセスを特徴とする対話型AI。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-us-department-of-defense-chatgpt-mil.html"
+ },
+ {
+  "title": "デルが9%急騰、AIサーバー好調で2027年度予測を上方修正",
+  "lead": "米CNBC Techによると、デルはAIサーバーの好調を背景に、2027年度の業績予測を上方修正しました。",
+  "summary3": [
+   "デルの株価が9%急騰",
+   "2027年度のAIサーバー売上高予想",
+   "従来予想から大幅な上方修正を実施"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、米CNBC Techは、デルの株価が9%急騰したと伝えています。この株価上昇は、AIサーバーの好調を受けて2027年度の予測を上方修正したことが要因となっています。",
+   "デルは、2027年度のAIサーバーの売上高が3倍になると見込んでいます。これは、わずか6ヶ月前には売上高が2倍になると見込んでいた時点から、さらに期待値を引き上げたものとなります。",
+   "AIサーバー需要の強さが、同社の業績見通しを大きく引き上げる原動力となっていることが示されています。今後のサーバー市場における同社の動向に、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "デル",
+   "AIサーバー",
+   "株価急騰"
+  ],
+  "slug": "dell-surges-on-ai-server-forecast",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-dell-surges-on-ai-server-forecast.html"
+ },
+ {
+  "title": "Amazon、広告オークション操作で200億ドル不正利益か",
+  "lead": "米連邦取引委員会（FTC）は、アマゾンが広告オークションの結果を不正に操作し、巨額の利益を違法に得たと指摘しました。",
+  "summary3": [
+   "FTCがアマゾンを提訴",
+   "広告オークション結果を操作",
+   "不正利益は200億ドル規模"
+  ],
+  "body": [
+   "海外メディアのArs Technicaの報道によると、米連邦取引委員会（FTC）は、巨大テック企業のアマゾンが広告オークションを不正に操作し、巨額の利益を違法に得たと主張しています。アマゾンは電子商取引（EC）やクラウドサービスなどを手掛け、世界中で広く知られている企業です。",
+   "FTCの発表では、アマゾンは実際の広告オークションの結果を「アマゾン自身が設定したより高額な価格」に置き換えていたとされています。この不正な仕組みにより、同社は数多くの広告オークションを通じて総額200億ドルもの金額を違法に稼ぎ出したと指摘されています。",
+   "今回の告発により、同社の広告ビジネスにおける透明性や公正性を巡る議論がさらに活発化することが予想されます。今後の司法手続きや、同社による反論などの動向に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Amazon",
+   "FTC",
+   "広告"
+  ],
+  "slug": "ftc-alleges-amazon-ad-auction-rigging",
+  "people": [],
+  "terms": [
+   {
+    "name": "アマゾン",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを展開する主要なIT企業である。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-ftc-alleges-amazon-ad-auction-rigging.html"
+ },
+ {
+  "title": "アメリカ中央軍、イラン革命防衛隊への攻撃を開始",
+  "lead": "中東地域を管轄するアメリカ中央軍は、イランの革命防衛隊に関連する目標への攻撃を開始したと発表しました。",
+  "summary3": [
+   "アメリカ中央軍が攻撃を発表",
+   "イランの革命防衛隊が対象",
+   "東部時間1日正午に開始"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。中東地域を管轄するアメリカ中央軍は、SNSへの投稿において、アメリカ東部時間の1日正午、日本時間の2日午前1時にイランの革命防衛隊に関連する目標への攻撃を開始したと発表しました。",
+   "今回の発表によると、攻撃の対象となったのはイランの革命防衛隊に関連する目標とされています。アメリカ中央軍による発表の詳細や今後の展開については、引き続き現地の状況を確認してまいります。"
+  ],
+  "tags": [
+   "アメリカ中央軍",
+   "イラン革命防衛隊",
+   "国際ニュース"
+  ],
+  "slug": "us-centcom-attacks-iran-revolutionary-guard",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260902de47713",
+  "category": "world",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-us-centcom-attacks-iran-revolutionary-guard.html"
+ },
+ {
+  "title": "日銀の政策焦点に、長期金利10年もので3%超え",
+  "lead": "9月1日の債券市場で長期金利が大幅に上昇し、代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超えました。",
+  "summary3": [
+   "9月1日の債券市場で長期金利が大幅上昇",
+   "10年国債の利回りが約30年ぶりに3%超え",
+   "日銀の金融政策や財政の動きが大きな焦点に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の経済ニュースです。9月1日の債券市場において、長期金利が大幅に上昇する展開となりました。",
+   "市場の代表的な指標である10年ものの国債の利回りは、およそ30年ぶりとなる3％を超える水準を記録しました。",
+   "今回の記録的な金利上昇を受けて、今後は日銀の金融政策や財政をめぐる動向により一層の注目が集まる見通しです。"
+  ],
+  "tags": [
+   "金融",
+   "金利",
+   "日銀"
+  ],
+  "slug": "long-term-interest-rates-exceed-3-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260901de47702",
+  "category": "world",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent.html"
+ },
+ {
+  "title": "長期金利が約30年ぶりに3％超え、日銀の金融政策をめぐる動きが焦点に",
+  "lead": "9月1日の債券市場で長期金利が大幅に上昇し、代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超えました。今後の金融政策や財政をめぐる動きが市場の焦点となっています。",
+  "summary3": [
+   "長期金利が大幅に上昇し3％超え",
+   "10年もの国債利回りは約30年ぶり",
+   "日銀の金融政策や財政が焦点に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする市場ニュースです。9月1日の債券市場において、長期金利が大幅に上昇する展開となりました。",
+   "市場の代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超える水準を記録し、関係者の間で大きな話題となっています。",
+   "今後は日本銀行の金融政策や、財政をめぐるさまざまな動きが今後の市場の大きな焦点として注目を集めています。"
+  ],
+  "tags": [
+   "長期金利",
+   "日銀",
+   "国債"
+  ],
+  "slug": "long-term-interest-rates-exceed-3-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260901de47702",
+  "category": "stock",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent-2.html"
+ },
+ {
+  "title": "データセンター関連買収が加速、AI拡大の裏で何が起きているのか",
+  "lead": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーが関連事業の拡大に向けて相次いで企業買収に乗り出しています。",
+  "summary3": [
+   "AI拡大でデータセンター建設が世界中で進行中",
+   "日本の大手電機が関連企業の買収を相次いで実施",
+   "データセンター関連事業のさらなる拡大を図る"
+  ],
+  "body": [
+   "AIの利用拡大に伴い、世界中でデータセンターの建設が急速に進められています。こうした動きを背景に、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて、関連企業の買収に相次いで乗り出していることが明らかになりました。",
+   "データセンターはAIの運用や膨大なデータの処理において不可欠なインフラとなっており、世界的な需要の増加に対応するため、各社の動きが活発化しています。日本の電機大手も、この巨大な市場を取り込むべく、関連技術や事業基盤を持つ企業の買収を進める方針です。",
+   "AI市場の拡大が続く現在、関連するインフラ整備の重要性はますます高まっています。大手電機メーカーによる今回の相次ぐ買収劇は、今後の事業展開や市場での競争力を左右する重要な動きとして注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "電機メーカー",
+   "企業買収",
+   "経済ニュース"
+  ],
+  "slug": "data-center-acquisition-ai-expansion",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260831de47518",
+  "category": "jp_corp",
+  "date": "2026-09-02",
+  "time": "07:02",
+  "path": "/articles/20260902-data-center-acquisition-ai-expansion.html"
  }
 ]

@@ -68547,5 +68547,83 @@
   "date": "2026-09-02",
   "time": "07:02",
   "path": "/articles/20260902-data-center-acquisition-ai-expansion.html"
+ },
+ {
+  "title": "AfterQueryが時価総額32億ドルで最速ユニコーンに",
+  "lead": "AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。",
+  "summary3": [
+   "AfterQueryが時価総額32億ドルに到達",
+   "4月の評価額からわずか5か月で急成長を記録",
+   "Y Combinator出身企業として最速のユニコーンに"
+  ],
+  "body": [
+   "AI Tech Timesの報道によると、AIモデルの学習を支援するスタートアップであるAfterQueryが、新たな資金調達ラウンドを実施し、時価総額が32億ドル（約4600億円）に達したことが明らかになりました。",
+   "特筆すべきは、その驚異的なスピードです。同社は今年4月に3000万ドルのシリーズAラウンドを発表したばかりで、当時の評価額は3億ドルでした。それからわずか5か月という短期間で企業価値を急激に高め、関係者によればY Combinatorの歴史上最速でのユニコーン企業誕生となりました。",
+   "今回の大型調達により、AIモデル学習市場における同社の存在感はさらに増すことになります。短期間での急成長を成し遂げたAfterQueryが、今後どのように事業を拡大していくのか、業界からの注目がさらに集まりそうです。"
+  ],
+  "tags": [
+   "AfterQuery",
+   "Y Combinator",
+   "AIスタートアップ"
+  ],
+  "slug": "afterquery-fastest-unicorn-3-2b",
+  "people": [],
+  "terms": [
+   {
+    "name": "AfterQuery",
+    "type": "company",
+    "desc": "AIモデルの学習支援を手がける注目のスタートアップ企業。"
+   },
+   {
+    "name": "Y Combinator",
+    "type": "company",
+    "desc": "米国の著名なスタートアップ支援・アクセラレータープログラム。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "08:00",
+  "path": "/articles/20260902-afterquery-fastest-unicorn-3-2b.html"
+ },
+ {
+  "title": "Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか",
+  "lead": "AI開発を手がけるAnthropicは、新モデル「Claude Fable 5.1」および「Mythos 5.1」を発表しました。価格やデータ保持、過剰なセーフガードに関する顧客からの批判に対応し、エージェント業務でのコスト削減を実現しています。",
+  "summary3": [
+   "新AIモデルFable 5.1などを発表",
+   "エージェント業務の費用を最大45%削減",
+   "価格やデータ保持の批判に対応"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。Anthropicは、顧客からの価格、データ保持、過剰なセーフガードに関する批判に対処するため、最新のAIモデル「Claude Fable 5.1」および「Mythos 5.1」を発表しました。ユーザーの要望にきめ細かく応える姿勢を示しています。",
+   "同社によると、新登場の「Claude Fable 5.1」は、従来の「Fable 5」と比較してより強力なパフォーマンスを提供します。通常時のコストは約25%削減され、さらに複雑なエージェントタスクにおいては値下げの効果により最大45%も安くなりました。",
+   "企業のAI導入においてコスト面の課題は重要視されてきましたが、今回の価格引き下げにより、複雑な作業を効率よく進めるための負担が大きく軽減されることになります。新モデルの展開が今後のビジネス利用にどのような変化をもたらすのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI"
+  ],
+  "slug": "anthropic-claude-fable-5-1-launch",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能企業であり、対話型AIアシスタントのClaudeシリーズなどを開発・提供している。"
+   },
+   {
+    "name": "Claude Fable 5.1",
+    "type": "ai",
+    "desc": "Anthropicが開発した最新のAIモデルの一つで、エージェント業務などで高い性能を発揮する。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "08:00",
+  "path": "/articles/20260902-anthropic-claude-fable-5-1-launch.html"
  }
 ]
