@@ -67463,5 +67463,92 @@
   "date": "2026-09-01",
   "time": "18:01",
   "path": "/articles/20260901-mitsubishi-chemical-new-material.html"
+ },
+ {
+  "title": "MediaTek株が10%急騰、Nvidiaと35億ドルのAIチップ協業の背景",
+  "lead": "Qualcommのライバル企業であるMediaTekが、Nvidiaとの巨額なAIチップ協業を発表し、株式市場で株価が10%急騰しました。",
+  "summary3": [
+   "MediaTek株が10%急騰を記録",
+   "Nvidiaと35億ドルのAI協業",
+   "PCや車載分野への統合を進める"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、台湾の半導体大手MediaTekの株価が急上昇しました。Nvidiaとの間で35億ドル規模のAIチップに関する契約を締結したことが好感され、株価は10%の上昇を記録しています。",
+   "両社は今後、Nvidiaの先端技術をMediaTekのカスタムAIチップ事業に統合する作業を進める方針です。さらに、PCや自動車といった多様な領域においても連携を深めていく計画となっています。"
+  ],
+  "tags": [
+   "MediaTek",
+   "Nvidia",
+   "AIチップ"
+  ],
+  "slug": "mediatek-nvidia-ai-deal-shares",
+  "people": [],
+  "terms": [
+   {
+    "name": "MediaTek",
+    "type": "company",
+    "desc": "台湾に本社を置くファブレス半導体企業で、スマートフォン向けチップなどで広く知られています。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、AI開発に不可欠なGPU市場で世界的なシェアを誇る企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "19:00",
+  "path": "/articles/20260901-mediatek-nvidia-ai-deal-shares.html"
+ },
+ {
+  "title": "Polymarket、ドナルド・トランプ・ジュニア氏のファンドから3億ドル調達",
+  "lead": "予測市場プラットフォームを手がけるPolymarketが、ドナルド・トランプ・ジュニア氏の投資ファンドから3億ドルを調達したことが報じられました。",
+  "summary3": [
+   "Polymarketが3億ドルを調達",
+   "トランプ・ジュニア氏のファンドが主導",
+   "総額約10億ドル規模になる見込み"
+  ],
+  "body": [
+   "海外メディアのTechCrunchは2026年8月31日、予測市場を手がけるPolymarketが、ドナルド・トランプ・ジュニア氏の投資ファンド「1789 Capital」から3億ドルを調達したと報じました。",
+   "今回の資金調達ラウンドは1789 Capitalが主導したものであり、報道によると、今回のラウンドによる総額は約10億ドル規模に達する見込みとされています。",
+   "Polymarketは世界的な注目を集める予測市場プラットフォームであり、今回の大型調達によってさらなる事業展開や体制強化が進められるとみられています。"
+  ],
+  "tags": [
+   "Polymarket",
+   "1789 Capital",
+   "資金調達"
+  ],
+  "slug": "polymarket-raises-300-million",
+  "people": [
+   {
+    "name": "ドナルド・トランプ・ジュニア氏",
+    "bio": "米国の実業家であり、ドナルド・トランプ米大統領の長男として広く知られています。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Polymarket",
+    "type": "company",
+    "desc": "現実の出来事の予測に対して暗号資産などで賭けを行うことができる、世界的な予測市場プラットフォームです。"
+   },
+   {
+    "name": "1789 Capital",
+    "type": "company",
+    "desc": "ドナルド・トランプ・ジュニア氏らが関与する、アメリカの投資ファンドです。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "スタートアップ企業やテクノロジー業界のニュースを中心に報じる、アメリカの著名なテック系メディアです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "19:00",
+  "path": "/articles/20260901-polymarket-raises-300-million.html"
  }
 ]
