@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 11:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [『24時間テレビ』で450人YouTuberがマラソン乱入、なぜ発生したのか](https://ai-tech-times.web.app/articles/20260901-24htv-marathon-ranuny.html) — 2026-09-01 11:00: 『24時間テレビ』のゴール直前、登録者数450人の男性がマラソンコースに乱入するトラブルが発生しました。自身のチャンネルで動画を公開し、波紋を呼んでいます。
 - [OpenAI、広告事業が年換算10億ドル規模に急成長した理由](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-ads-revenue-growth.html) — 2026-09-01 10:00: AI開発を手がけるOpenAIが今年開始したChatGPTでの広告事業が、急速な成長を見せ、年間換算売上高ランレートで10億ドルに達したことが明らかになりました。
 - [Apple、元従業員による不正データの隠滅証拠を公開](https://ai-tech-times.web.app/articles/20260901-apple-shares-evidence-against-former-employee.html) — 2026-09-01 10:00: Appleは、OpenAIへ企業の機密データを盗んだとされる元従業員が、調査の発覚後に証拠を隠滅していたとする新たな証拠を明らかにしました。
 - [ITmedia AI+：「AIが勝手にやった」が通用しない理由](https://ai-tech-times.web.app/articles/20260901-ai-agent-id-and-power-of-attorney.html) — 2026-09-01 09:01: AIエージェントの業務利用が広がる中で、AI向けの「社員証」や「委任状」に注目が集まっています。これらはどのような仕組みで事故を防ぐのでしょうか。
@@ -41,12 +42,11 @@
 - [不破湊が男性VTuber初の日本武道館ワンマン開催](https://ai-tech-times.web.app/articles/20260901-fuwa-minato-budokan-live-vortex.html) — 2026-09-01 03:00: 人気グループ「にじさんじ」に所属する不破湊が、男性VTuber史上初となる日本武道館ワンマンライブ“VORTEX”を開催することが決定しました。
 - [Nvidia、MediaTekに35億ドルを投資する狙い](https://ai-tech-times.web.app/articles/20260901-nvidias-3-5b-mediatek-bet-reveals-its-plan.html) — 2026-09-01 02:00: Nvidiaが台湾の半導体大手MediaTekに35億ドルを投資したことが明らかになりました。大手テック企業による独自AIチップ開発が進む中、Nvidiaのインフラにおける立ち位置を維持する戦略が浮き彫りになっています。
 - [MarkiplierがGoProの筆頭株主に、8.5%を取得した理由](https://ai-tech-times.web.app/articles/20260901-markiplier-becomes-gopro-largest-shareholder.html) — 2026-09-01 02:00: 人気YouTuberのMarkiplier氏が、アクションカメラで知られるGoProの株式の8.5%を取得し、単体の筆頭株主になったことが明らかになりました。
-- [AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由](https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html) — 2026-09-01 01:00: Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
-- 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
-- 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
+- 2位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
+- 3位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 
 ## AI用語事典 (全1200語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-01 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-01 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "OpenAI、広告事業が年換算10億ドル規模に急成長した理由",
-   "path": "/articles/20260901-openai-chatgpt-ads-revenue-growth.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Apple、元従業員による不正データの隠滅証拠を公開",
-   "path": "/articles/20260901-apple-shares-evidence-against-former-employee.html",
-   "cat": "シリコンバレー最速"
+   "title": "『24時間テレビ』で450人YouTuberがマラソン乱入、なぜ発生したのか",
+   "path": "/articles/20260901-24htv-marathon-ranuny.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 67,
+  "used": 71,
   "limit": 200
  }
 }

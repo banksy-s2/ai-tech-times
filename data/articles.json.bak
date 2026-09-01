@@ -66545,5 +66545,88 @@
   "date": "2026-09-01",
   "time": "09:01",
   "path": "/articles/20260901-anthropic-claud-bill-pylon.html"
+ },
+ {
+  "title": "OpenAI、広告事業が年換算10億ドル規模に急成長した理由",
+  "lead": "AI開発を手がけるOpenAIが今年開始したChatGPTでの広告事業が、急速な成長を見せ、年間換算売上高ランレートで10億ドルに達したことが明らかになりました。",
+  "summary3": [
+   "OpenAIの広告事業が年換算10億ドル規模に到達",
+   "今年開始したChatGPTでの広告配信が急成長",
+   "競合のアンスロピックがスーパーボウルで嘲笑"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、OpenAIが今年からChatGPT上で展開している広告事業が目覚ましい成長を記録し、年間換算の売上高ランレートが10億ドル（約1,450億円規模）に達しました。AIサービスにおける新たな収益源として、広告モデルが急速に存在感を高めています。",
+   "しかし、この急進的なマネタイズの動きは業界内でも波紋を呼んでいます。今年初め、ChatGPTでの広告配信開始という方針に対しては、主要な競合企業であるアンスロピック社がスーパーボウルでのコマーシャルを通じてこれを公然と嘲笑するなど、激しいライバル関係の構図が浮き彫りになっていました。",
+   "競合からの批判や皮肉を受けながらも、結果として巨額の収益基盤を築き上げることに成功したOpenAI。AIチャットボットにおける広告ビジネスの是非が議論を呼ぶ中、同社の取り組みは今後の業界全体における収益化モデルのトレンドを大きく左右する転換点となりそうです。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "広告ビジネス"
+  ],
+  "slug": "openai-chatgpt-ads-revenue-growth",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能の研究開発企業。対話型AI「ChatGPT」などを開発し、AI業界を牽引する。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、人間のような自然な対話が可能な生成AIチャットボットサービス。"
+   },
+   {
+    "name": "アンスロピック",
+    "type": "company",
+    "desc": "米国のAI安全性を重視する人工知能スタートアップ企業。対話型AI「Claude」などを開発する。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "10:00",
+  "path": "/articles/20260901-openai-chatgpt-ads-revenue-growth.html"
+ },
+ {
+  "title": "Apple、元従業員による不正データの隠滅証拠を公開",
+  "lead": "Appleは、OpenAIへ企業の機密データを盗んだとされる元従業員が、調査の発覚後に証拠を隠滅していたとする新たな証拠を明らかにしました。",
+  "summary3": [
+   "Appleが元従業員の不正を指摘",
+   "OpenAIへデータ提供の疑惑",
+   "調査発覚後に証拠隠滅の経緯"
+  ],
+  "body": [
+   "海外メディアのTechCrunchの報道によると、Appleは、同社の元従業員が社内データを盗み出したとされる事件をめぐり、新たな証拠を提出しました。この元従業員は、OpenAIへ向けて会社のデータを不正に持ち出した疑いが持たれています。",
+   "Apple側の主張によれば、当該の元従業員は自分が社内調査の対象となっていることを知った後、データ盗用の証拠を自ら破壊していたとのことです。同社はこの行動を裏付ける「ショッキングな証拠」であるとして、法的手続きの中でその詳細を明らかにしました。",
+   "今回の発表により、AI開発をめぐる企業間の競争や機密情報の取り扱いにおける安全管理の重要性が改めて浮き彫りとなっています。今後の法的な判断や両社の動向に、業界内外からの高い関心が寄せられています。"
+  ],
+  "tags": [
+   "Apple",
+   "OpenAI",
+   "セキュリティ"
+  ],
+  "slug": "apple-shares-evidence-against-former-employee",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売する、アメリカを代表する世界的テクノロジー企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発し、最先端の人工知能技術をリードするアメリカの企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "10:00",
+  "path": "/articles/20260901-apple-shares-evidence-against-former-employee.html"
  }
 ]
