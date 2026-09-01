@@ -68177,5 +68177,39 @@
   "date": "2026-09-02",
   "time": "03:00",
   "path": "/articles/20260902-anycolor-fuwa-minato-budokan.html"
+ },
+ {
+  "title": "MTG決算発表後に7400円から9400円に急伸、業績と配当予想の上方修正を発表",
+  "lead": "「ReFa」を展開するMTGが、決算発表を受けて株価が急伸しました。通期業績予想および配当予想の上方修正を発表しています。",
+  "summary3": [
+   "MTGの株価が決算発表後に急伸",
+   "通期業績予想と配当予想を上方修正",
+   "稼ぎ頭の事業や株主優待に注目が集まる"
+  ],
+  "body": [
+   "「ReFa」などのブランドを展開するMTGの決算発表に関連し、市場で大きな動きが見られました。発表前後の株価は7,400円から9,400円へと急伸し、投資家の関心を集めています。",
+   "今回の発表では、通期の業績予想および配当予想の上方修正が明らかにされました。あわせて、同社の稼ぎ頭となっている事業や、株主優待に関する詳細についても解説が行われています。",
+   "株式市場において注目を集める同社の動向について、業績予想の修正内容や今後の事業展開に関する情報が引き続き確認されています。"
+  ],
+  "tags": [
+   "MTG",
+   "決算発表",
+   "株価急伸"
+  ],
+  "slug": "mtg-earnings-revision-refa",
+  "people": [],
+  "terms": [
+   {
+    "name": "MTG",
+    "type": "company",
+    "desc": "「ReFa」などのブランドを展開し、美容機器や健康機器の開発・販売を手がける企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmgxRWw2Yi1EUldpeHZrZHFZWmpRMzVtakdXWXB3cTJ0X0lyV3pqYWctWkl6OGRQQ0lZU28yX1Q4Sk9heFo0RURSX2RUNV8xN1J1YjNTY291bzBCalFZeU9wbHdPQWIteTdsM19Fb3RqTHZiMS16QmFLVDkwQk5taEI2MkRmNTA?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-02",
+  "time": "06:00",
+  "path": "/articles/20260902-mtg-earnings-revision-refa.html"
  }
 ]

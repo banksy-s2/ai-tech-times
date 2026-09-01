@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIの新モデルAstra、PCハッキングが極めて得意な理由</title>
+<link>https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。</description>
+</item>
+<item>
+<title>Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面</title>
+<link>https://ai-tech-times.web.app/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AppleがAI需要によるMac MiniとMac Studioの予想外の人気に直面していることが、海外メディアの報道で明らかになりました。</description>
+</item>
+<item>
+<title>花王や森永がAI最適化を急ぐ、チャット経由の買い物増になぜ対応するのか</title>
+<link>https://ai-tech-times.web.app/articles/20260902-kao-morinaga-ai-site-optimization.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-kao-morinaga-ai-site-optimization.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>花王や森永製菓などの消費財メーカーが、生成AI向けに自社サイトの商品情報を見直す動きを見せています。消費者がAIとの対話を通じてECサイトへ流入する傾向が強まっているためです。</description>
+</item>
+<item>
+<title>米国防総省が軍事向けChatGPT導入、Geminiも利用可能に</title>
+<link>https://ai-tech-times.web.app/articles/20260902-us-department-of-defense-chatgpt-mil.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-us-department-of-defense-chatgpt-mil.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米国防総省は、OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」の導入を発表しました。さらに、「Gemini」や「Grok」の計3モデルが利用可能になります。</description>
+</item>
+<item>
+<title>デルが9%急騰、AIサーバー好調で2027年度予測を上方修正</title>
+<link>https://ai-tech-times.web.app/articles/20260902-dell-surges-on-ai-server-forecast.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-dell-surges-on-ai-server-forecast.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米CNBC Techによると、デルはAIサーバーの好調を背景に、2027年度の業績予測を上方修正しました。</description>
+</item>
+<item>
+<title>Amazon、広告オークション操作で200億ドル不正利益か</title>
+<link>https://ai-tech-times.web.app/articles/20260902-ftc-alleges-amazon-ad-auction-rigging.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-ftc-alleges-amazon-ad-auction-rigging.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米連邦取引委員会（FTC）は、アマゾンが広告オークションの結果を不正に操作し、巨額の利益を違法に得たと指摘しました。</description>
+</item>
+<item>
+<title>アメリカ中央軍、イラン革命防衛隊への攻撃を開始</title>
+<link>https://ai-tech-times.web.app/articles/20260902-us-centcom-attacks-iran-revolutionary-guard.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-us-centcom-attacks-iran-revolutionary-guard.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>中東地域を管轄するアメリカ中央軍は、イランの革命防衛隊に関連する目標への攻撃を開始したと発表しました。</description>
+</item>
+<item>
+<title>日銀の政策焦点に、長期金利10年もので3%超え</title>
+<link>https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-exceed-3-percent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-exceed-3-percent.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>9月1日の債券市場で長期金利が大幅に上昇し、代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超えました。</description>
+</item>
+<item>
+<title>長期金利が約30年ぶりに3％超え、日銀の金融政策をめぐる動きが焦点に</title>
+<link>https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-exceed-3-percent-2.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-exceed-3-percent-2.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>9月1日の債券市場で長期金利が大幅に上昇し、代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超えました。今後の金融政策や財政をめぐる動きが市場の焦点となっています。</description>
+</item>
+<item>
+<title>データセンター関連買収が加速、AI拡大の裏で何が起きているのか</title>
+<link>https://ai-tech-times.web.app/articles/20260902-data-center-acquisition-ai-expansion.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-data-center-acquisition-ai-expansion.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーが関連事業の拡大に向けて相次いで企業買収に乗り出しています。</description>
+</item>
+<item>
 <title>MTG決算発表後に7400円から9400円に急伸、業績と配当予想の上方修正を発表</title>
 <link>https://ai-tech-times.web.app/articles/20260902-mtg-earnings-revision-refa.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260902-mtg-earnings-revision-refa.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Tue, 01 Sep 2026 19:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>予測市場プラットフォームを手がけるPolymarketが、ドナルド・トランプ・ジュニア氏の投資ファンドから3億ドルを調達したことが報じられました。</description>
-</item>
-<item>
-<title>三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む</title>
-<link>https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html</guid>
-<pubDate>Tue, 01 Sep 2026 18:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>三菱ケミカルが半導体パッケージ向けに「温めると縮む新材料」を開発しました。AI時代の無視できない課題である熱問題を解決できるとして注目を集めています。</description>
-</item>
-<item>
-<title>ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」</title>
-<link>https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI技術やテック政策をめぐり、ニューヨーク州のキャシー・ホークル知事が番組のインタビューで強い姿勢を示しました。</description>
-</item>
-<item>
-<title>防衛省、過去最大8.8兆円の概算要求でAI導入を加速</title>
-<link>https://ai-tech-times.web.app/articles/20260901-mod-ai-budget-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-mod-ai-budget-2027.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>防衛省は8月31日に決定した令和9年度（2027年度）の予算概算要求において、過去最大となる8兆8908億円を計上しました。自衛隊の指揮統制へのAI導入や攻撃ドローンの取得などを通じて、「新しい戦い方」への対応を急ぎます。</description>
-</item>
-<item>
-<title>ビル・ゲイツが語る「開発者はいらなくなる」の先</title>
-<link>https://ai-tech-times.web.app/articles/20260901-bill-gates-ai-developers.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-bill-gates-ai-developers.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIにコードを書かせる時代が到来し、ソフトウェア開発の現場に大きな変化が起きています。ビル・ゲイツ氏が指摘する開発者の仕事の再定義とその先にある未来とは何でしょうか。</description>
-</item>
-<item>
-<title>a16z、11億ドル調達の数日後に成長基金を85億ドルに拡大した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260901-a16z-brings-growth-fund-to-8-5b.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-a16z-brings-growth-fund-to-8-5b.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>著名ベンチャーキャピタルのAndreessen Horowitzが、新たな資金調達を行い、スタートアップ投資をさらに加速させています。</description>
-</item>
-<item>
-<title>Amazon、広告費で秘密の手数料？FTC提訴の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260901-amazon-ftc-lawsuit-ad-surcharge.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-amazon-ftc-lawsuit-ad-surcharge.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米連邦取引委員会（FTC）と22の州が、Amazonを新たに提訴しました。企業に対して広告費を密かに多く請求していた疑いが持たれており、今後の動向に注目が集まっています。</description>
-</item>
-<item>
-<title>仮想通貨インフルエンサー、XRPの次なる上昇局面に言及</title>
-<link>https://ai-tech-times.web.app/articles/20260901-crypto-influencer-xrp-rally-prediction.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-crypto-influencer-xrp-rally-prediction.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>仮想通貨インフルエンサーが、XRPの次の上昇局面について言及しました。2017年から2018年にかけての歴史的急騰を上回る可能性があると指摘されています。</description>
-</item>
-<item>
-<title>フラット35金利3.46％に、家計の負担はどうなる</title>
-<link>https://ai-tech-times.web.app/articles/20260901-flat35-interest-rate-high.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-flat35-interest-rate-high.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>長期金利の上昇が続く中、長期固定型の住宅ローン「フラット35」の9月の適用金利が引き上げられ、過去最高の水準となりました。私たちの生活や住宅購入計画にどのような影響を与えるのでしょうか。</description>
-</item>
-<item>
-<title>日本企業がインドへ巨額投資のなぜ、中国リスクと国内縮小で</title>
-<link>https://ai-tech-times.web.app/articles/20260901-japan-companies-betting-big-on-india.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-japan-companies-betting-big-on-india.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldによると、日本企業がインド市場への投資を急拡大させています。国内市場の縮小や中国におけるリスクの高まりが背景にあります。</description>
-</item>
-<item>
-<title>日経平均は続落で寄り付き、中東懸念再燃</title>
-<link>https://ai-tech-times.web.app/articles/20260901-nikkei-average-falls-middle-east-concerns.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-nikkei-average-falls-middle-east-concerns.html</guid>
-<pubDate>Tue, 01 Sep 2026 17:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日経平均株価は続落しての寄り付きとなりました。原油価格の上昇や米金利の高止まりが嫌気された形です。</description>
 </item>
 </channel></rss>
