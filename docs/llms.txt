@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [NvidiaのDLSS 5が9月3日登場、必要GPUとは](https://ai-tech-times.web.app/articles/20260902-nvidia-dlss-5-launch-september-3rd.html) — 2026-09-02 00:01: Nvidiaは、議論を呼んでいたAIアップスケール技術「DLSS 5」を今週正式にリリースすると発表しました。RTX 50シリーズやGeForce Nowで利用可能となりますが、高いGPU性能が求められます。
 - [長期金利3％に上昇、約30年ぶりの高水準へ](https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-3-percent.html) — 2026-09-01 23:00: 1日の債券市場で長期金利が急ピッチに上昇し、10年もの国債利回りが約30年ぶりの高水準となる3％に達しました。
 - [キユーピー・味の素の値上げ家計直撃、なぜ続くのか](https://ai-tech-times.web.app/articles/20260901-kewpie-ajinomoto-price-hike-2026.html) — 2026-09-01 22:00: 食品メーカーのキユーピーと味の素がマヨネーズなどの値上げを発表しました。原材料や包装資材の価格上昇に伴い、値上げの動きが相次いでいます。
 - [韓国が95兆円規模の過去最大予算案を決定、原潜開発も](https://ai-tech-times.web.app/articles/20260901-south-korea-record-budget-2026.html) — 2026-09-01 22:00: 韓国政府は過去最大となる日本円で95兆円規模の予算案を閣議決定しました。半導体やAIインフラへの投資に加え、原潜開発の予算が初計上されています。
@@ -41,9 +42,8 @@
 - [ビル・ゲイツが語る「開発者はいらなくなる」の先](https://ai-tech-times.web.app/articles/20260901-bill-gates-ai-developers.html) — 2026-09-01 17:06: AIにコードを書かせる時代が到来し、ソフトウェア開発の現場に大きな変化が起きています。ビル・ゲイツ氏が指摘する開発者の仕事の再定義とその先にある未来とは何でしょうか。
 - [a16z、11億ドル調達の数日後に成長基金を85億ドルに拡大した理由](https://ai-tech-times.web.app/articles/20260901-a16z-brings-growth-fund-to-8-5b.html) — 2026-09-01 17:06: 著名ベンチャーキャピタルのAndreessen Horowitzが、新たな資金調達を行い、スタートアップ投資をさらに加速させています。
 - [Amazon、広告費で秘密の手数料？FTC提訴の理由](https://ai-tech-times.web.app/articles/20260901-amazon-ftc-lawsuit-ad-surcharge.html) — 2026-09-01 17:06: 米連邦取引委員会（FTC）と22の州が、Amazonを新たに提訴しました。企業に対して広告費を密かに多く請求していた疑いが持たれており、今後の動向に注目が集まっています。
-- [仮想通貨インフルエンサー、XRPの次なる上昇局面に言及](https://ai-tech-times.web.app/articles/20260901-crypto-influencer-xrp-rally-prediction.html) — 2026-09-01 17:06: 仮想通貨インフルエンサーが、XRPの次の上昇局面について言及しました。2017年から2018年にかけての歴史的急騰を上回る可能性があると指摘されています。
 
-## 世界のバズ動画TOP3 (2026-09-01)
+## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 - 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)

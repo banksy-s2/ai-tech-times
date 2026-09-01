@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-01 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-01 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "キユーピー・味の素の値上げ家計直撃、なぜ続くのか",
-   "path": "/articles/20260901-kewpie-ajinomoto-price-hike-2026.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "韓国が95兆円規模の過去最大予算案を決定、原潜開発も",
-   "path": "/articles/20260901-south-korea-record-budget-2026.html",
-   "cat": "時事・世界"
+   "title": "長期金利3％に上昇、約30年ぶりの高水準へ",
+   "path": "/articles/20260901-long-term-interest-rates-rise-to-3-percent.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 168,
+  "used": 172,
   "limit": 200
  }
 }

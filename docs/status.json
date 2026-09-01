@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-01 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-02 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "長期金利3％に上昇、約30年ぶりの高水準へ",
-   "path": "/articles/20260901-long-term-interest-rates-rise-to-3-percent.html",
-   "cat": "株式投資(日本)"
+   "title": "NvidiaのDLSS 5が9月3日登場、必要GPUとは",
+   "path": "/articles/20260902-nvidia-dlss-5-launch-september-3rd.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 172,
+  "used": 4,
   "limit": 200
  }
 }
