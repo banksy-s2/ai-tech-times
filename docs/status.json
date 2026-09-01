@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-01 19:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-01 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "MediaTek株が10%急騰、Nvidiaと35億ドルのAIチップ協業の背景",
-   "path": "/articles/20260901-mediatek-nvidia-ai-deal-shares.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Polymarket、ドナルド・トランプ・ジュニア氏のファンドから3億ドル調達",
-   "path": "/articles/20260901-polymarket-raises-300-million.html",
-   "cat": "シリコンバレー最速"
+   "title": "「福島大に原子力触らせたくない」発言の炎上が止まらない理由",
+   "path": "/articles/20260901-fukushima-univ-youtuber-controversy.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 140,
+  "used": 143,
   "limit": 200
  }
 }

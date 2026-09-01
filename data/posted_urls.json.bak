@@ -1947,13 +1947,11 @@
   "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxObU9LTTlBSFBaYmRXa29jdnAwTlMyYlFBUmE5c2M1SHFiU2haejhibUZ1V2M4Yi1qMkRFLUdXQTNSZ0dQUW9QTkNscGVJQkRqUE1LVGw5aExuZFZSU3ZSbmFLZ1BMSE9hOWVESFdOT2xWVGE1UElMVmNiUnMwVDZVYQ?oc=5",
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGp6bmpCRk9JQ1huWG90YWhSaVRMWFJyTTVnd3o1RFVaRHJYWkpFa01ZeHJJdUlJaXFnejZlcEdFdkxtZkRiSWotZTl2SUFoTFBYdWJnSVd3RWtUcENVczk3cmZmYjJUSS1uSVdCTmdpQUloc29DSlNfZ0tiQ25Ma2dFWnoyZw?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2609/01/news039.html"
+  "https://www.itmedia.co.jp/business/articles/2609/01/news039.html",
+  "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+  "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/"
  ],
  "titles": [
-  "EU AI Act透明性義務開始、違反に最大1500万ユーロ",
-  "Alibaba、2.4兆パラメーターのAI「Qwen3.8-Max」発表",
-  "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-  "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
   "AWS、バイブコーディングのSuperblocksをプライベートクラウドに統合",
   "SpaceX、南部ルイジアナ州で13万エーカーの湿地帯取得へ",
   "Netflixが未公開のニコラス・ケイジ主演映画を紛失したとして約160億円の損害賠償を求められる",
@@ -3949,6 +3947,10 @@
   "日経平均は続落で寄り付き、中東懸念再燃",
   "東京ガスとAIVALIXが資本業務提携、上下水道起点に協業へ",
   "三菱ケミカル、半導体向けに「温めると縮む新材料」開発　AI時代の課題に光明、何がすごいのか？",
-  "三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む"
+  "三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む",
+  "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+  "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+  "MediaTek株が10%急騰、Nvidiaと35億ドルのAIチップ協業の背景",
+  "Polymarket、ドナルド・トランプ・ジュニア氏のファンドから3億ドル調達"
  ]
 }
