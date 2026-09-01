@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む</title>
+<link>https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html</guid>
+<pubDate>Tue, 01 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>三菱ケミカルが半導体パッケージ向けに「温めると縮む新材料」を開発しました。AI時代の無視できない課題である熱問題を解決できるとして注目を集めています。</description>
+</item>
+<item>
 <title>ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」</title>
 <link>https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Tue, 01 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>主要なLinuxディストリビューションであるDebianが、開発における生成AIツールの利用を公式に許可する新方針を決定しました。</description>
-</item>
-<item>
-<title>米国防総省、ChatGPTとGrokを採用。次はどう動くのか</title>
-<link>https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html</guid>
-<pubDate>Tue, 01 Sep 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>米国の国防総省が、新たにOpenAIのChatGPTとSpaceXAIのGrokを中央ポータルに導入しました。GoogleのGeminiに続くAIの採用は、今後の防衛戦略にどう影響するのでしょうか。</description>
 </item>
 </channel></rss>

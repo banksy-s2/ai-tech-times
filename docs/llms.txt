@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 17:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 18:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む](https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html) — 2026-09-01 18:01: 三菱ケミカルが半導体パッケージ向けに「温めると縮む新材料」を開発しました。AI時代の無視できない課題である熱問題を解決できるとして注目を集めています。
 - [ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」](https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html) — 2026-09-01 17:06: AI技術やテック政策をめぐり、ニューヨーク州のキャシー・ホークル知事が番組のインタビューで強い姿勢を示しました。
 - [防衛省、過去最大8.8兆円の概算要求でAI導入を加速](https://ai-tech-times.web.app/articles/20260901-mod-ai-budget-2027.html) — 2026-09-01 17:06: 防衛省は8月31日に決定した令和9年度（2027年度）の予算概算要求において、過去最大となる8兆8908億円を計上しました。自衛隊の指揮統制へのAI導入や攻撃ドローンの取得などを通じて、「新しい戦い方」への対応を急ぎます。
 - [ビル・ゲイツが語る「開発者はいらなくなる」の先](https://ai-tech-times.web.app/articles/20260901-bill-gates-ai-developers.html) — 2026-09-01 17:06: AIにコードを書かせる時代が到来し、ソフトウェア開発の現場に大きな変化が起きています。ビル・ゲイツ氏が指摘する開発者の仕事の再定義とその先にある未来とは何でしょうか。
@@ -41,14 +42,13 @@
 - [OpenAIのChatGPT広告、売上高10億ドル突破の背景](https://ai-tech-times.web.app/articles/20260901-chatgpt-ads-reaches-1-billion-dollars.html) — 2026-09-01 12:02: OpenAIが提供する「ChatGPT」上の広告事業が、開始200日足らずで年換算売上高10億ドルに達しました。上場を控える中、広告を収益源の多様化の柱と位置付けて急成長をアピールしています。
 - [アップル、ティム・クックCEO退任に続きフィル・シラー氏も移行へ](https://ai-tech-times.web.app/articles/20260901-apple-phil-schiller-follows-wave-of-exits.html) — 2026-09-01 12:02: アップルを長年支えてきた幹部が、CEOの退任に続く形で次なる移行を迎えています。完全な離脱ではないものの、社内では引退に向けたステップと受け止められています。
 - [東京メトロ、電車へのスマホ貼り付け撮影に許可せず](https://ai-tech-times.web.app/articles/20260901-tokyo-metro-smartphone-video-incident.html) — 2026-09-01 12:02: 電車にスマートフォンをテープで貼り付けて撮影した動画がSNSで拡散した問題で、東京地下鉄が撮影の許可を出していないことが明らかになりました。
-- [鈴木農相、政府備蓄米21万トン買い戻し表明のワケ](https://ai-tech-times.web.app/articles/20260901-suzuki-rice-buyback-210000-tons.html) — 2026-09-01 12:02: 鈴木農林水産大臣は1日の閣議後会見で、去年放出した政府備蓄米21万トンを今月中に買い戻す方針を正式に明らかにしました。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 - 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1208語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1209語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
