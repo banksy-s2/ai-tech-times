@@ -1,21 +1,18 @@
 {
- "updated": "2026-09-02 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [
-  {
-   "title": "ANYCOLOR不破湊、日本武道館で2ndワンマン開催決定",
-   "path": "/articles/20260902-anycolor-fuwa-minato-budokan.html",
-   "cat": "インフルエンサー"
-  }
- ],
+ "updated": "2026-09-02 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 長期金利3％超 日銀の金融政策や財政めぐる動きが焦点",
+  "執筆失敗: アメリカ中央軍 革命防衛隊への攻撃を開始と発表"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }
