@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-02 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-02 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "AppleがOpenAI訴訟で元従業員のMacBookから見出した証拠",
-   "path": "/articles/20260902-apple-reveals-evidence-openai-suit.html",
-   "cat": "日本のAI"
+   "title": "アップル新CEOにジョン・ターナス氏、ティム・クック氏の後任として9月1日付で就任",
+   "path": "/articles/20260902-apple-john-ternus-new-ceo.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "UK AI Security Instituteなどが調査：AIの助言に従う割合は約8割、でも幸福度は上がらない理由",
-   "path": "/articles/20260902-ai-personal-advice-well-being-study.html",
-   "cat": "日本のAI"
+   "title": "Unacademyが2億600万ドルで競合upGradに売却、ピーク時より94%下落の理由",
+   "path": "/articles/20260902-unacademy-sells-to-upgrad-for-206m.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 12,
   "limit": 200
  }
 }

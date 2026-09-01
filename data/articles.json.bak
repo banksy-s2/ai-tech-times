@@ -67978,5 +67978,78 @@
   "date": "2026-09-02",
   "time": "00:01",
   "path": "/articles/20260902-nvidia-dlss-5-launch-september-3rd.html"
+ },
+ {
+  "title": "AppleがOpenAI訴訟で元従業員のMacBookから見出した証拠",
+  "lead": "Appleは、同社からOpenAIに引き抜かれた元従業員が企業秘密を盗み出したとする訴訟について、裁判所に新しい資料を提出しました。",
+  "summary3": [
+   "AppleがOpenAIと元従業員を提訴",
+   "元従業員が企業秘密ファイルを窃盗",
+   "MacBookから見つかった証拠を提出"
+  ],
+  "body": [
+   "Appleは、同社からOpenAIに引き抜かれた元従業員が企業秘密ファイルを盗み出したとして、OpenAIと元従業員を相手取り訴訟を起こしています。この法的な争いにおいて、Appleは裁判所に対して新しい資料を提出しました。",
+   "提出されたこの資料について、Apple関連メディアの9to5Macは「衝撃的な証拠」と報じています。元従業員が使用していたMacBookから、機密ファイルの持ち出しを示す証拠が発見された形です。",
+   "今回の訴訟や新しい資料の提出によって、大手テック企業間の人材引き抜きと機密情報の扱いをめぐる問題に大きな注目が集まっています。今後の裁判の行方に引き続き関心が寄せられます。"
+  ],
+  "tags": [
+   "Apple",
+   "OpenAI",
+   "裁判"
+  ],
+  "slug": "apple-reveals-evidence-openai-suit",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本拠を置く、iPhoneやMacなどを開発・販売する世界的な大手テクノロジー企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点に人工知能の開発を行う研究機関および企業で、対話型AIなどを手掛けています。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "01:00",
+  "path": "/articles/20260902-apple-reveals-evidence-openai-suit.html"
+ },
+ {
+  "title": "UK AI Security Instituteなどが調査：AIの助言に従う割合は約8割、でも幸福度は上がらない理由",
+  "lead": "日常的な悩みをAIに相談した際、人がその助言通りに行動するのか、またそれが精神的な健康にどう影響するのかを調査した研究結果が発表されました。",
+  "summary3": [
+   "AIに人生相談する人の約8割が助言通りに行動",
+   "しかし助言に従っても精神的な幸福度は向上せず",
+   "英研究機関らが6000人を対象に調査を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。英国の研究機関UK AI Security Instituteと医療系AI企業Limbic AIに所属する研究者らが、日常的な悩みをAIに相談した際の行動や影響についての研究論文を発表しました。",
+   "この研究は「People readily follow personal advice from AI but it does not improve their well-being」と題され、AIから受けた個人的な助言に人がどのように従うのか、そしてそれが精神的な健康にどう影響するのかを調査したものです。約6000人を対象とした調査の結果、AIに相談して言われた通りに行動する人の割合は約8割に達することが明らかになりました。",
+   "一方で、AIの助言通りに行動したにもかかわらず、個人の幸福度や精神的な健康は向上していなかったという結果も示されています。日常的な相談相手としてAIが広く利用されつつある中、その助言が心の健康に与える効果についてはさらなる検証が必要となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "人生相談",
+   "調査"
+  ],
+  "slug": "ai-personal-advice-well-being-study",
+  "people": [],
+  "terms": [
+   {
+    "name": "Limbic AI",
+    "type": "company",
+    "desc": "医療分野に特化したAI技術を開発している医療系AI企業"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/01/2000000987/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "01:00",
+  "path": "/articles/20260902-ai-personal-advice-well-being-study.html"
  }
 ]
