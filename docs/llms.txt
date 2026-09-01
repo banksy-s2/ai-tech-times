@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-01 09:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ITmedia AI+：「AIが勝手にやった」が通用しない理由](https://ai-tech-times.web.app/articles/20260901-ai-agent-id-and-power-of-attorney.html) — 2026-09-01 09:01: AIエージェントの業務利用が広がる中で、AI向けの「社員証」や「委任状」に注目が集まっています。これらはどのような仕組みで事故を防ぐのでしょうか。
+- [アンソロピックのAI利用料、たった数日で4000ドルに達した理由](https://ai-tech-times.web.app/articles/20260901-anthropic-claud-bill-pylon.html) — 2026-09-01 09:01: 米アンソロピックのAI「クロード」を利用したところ、たった数日で4000ドル（約64万円）の請求書が届き、CEOが驚愕しました。
 - [Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い](https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html) — 2026-09-01 08:00: 警察官向けの専門AIツールを開発するBlue Voiceが、600万ドルを資金調達したことが明らかになりました。一般的なAIがアクセスできない地域特有の法律やプロトコルに対応します。
 - [Debian、AIコード容認の理由](https://ai-tech-times.web.app/articles/20260901-debian-wont-ban-ai-code.html) — 2026-09-01 08:00: 主要なLinuxディストリビューションであるDebianが、開発における生成AIツールの利用を公式に許可する新方針を決定しました。
 - [米国防総省、ChatGPTとGrokを採用。次はどう動くのか](https://ai-tech-times.web.app/articles/20260901-pentagon-adds-chatgpt-and-grok.html) — 2026-09-01 07:02: 米国の国防総省が、新たにOpenAIのChatGPTとSpaceXAIのGrokを中央ポータルに導入しました。GoogleのGeminiに続くAIの採用は、今後の防衛戦略にどう影響するのでしょうか。
@@ -40,15 +42,13 @@
 - [AppleのM5 Max搭載MacBook Pro、140Wでも足りず毎時12%放電する理由](https://ai-tech-times.web.app/articles/20260901-m5-max-macbook-pro-power-drain.html) — 2026-09-01 01:00: Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。
 - [Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは](https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html) — 2026-09-01 01:00: 配車サービス大手のUberにおけるAIエージェントの運用実態とコスト効果について、深津貴之氏がnoteで言及しました。利用数が急増する中での取り組みが注目を集めています。
 - [OpenAIのChatGPT、EUで規制強化へ](https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html) — 2026-09-01 00:00: AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。
-- [Instagram、本物そっくりなAIアカウント対策へ](https://ai-tech-times.web.app/articles/20260901-instagram-cracks-down-on-ai-accounts.html) — 2026-09-01 00:00: Metaが運営するInstagramは、人間と見分けがつかない偽のAIインフルエンサーアカウント増加への対策を開始しました。
-- [三菱UFJ・三井住友、住宅ローン変動金利を9月引き上げ](https://ai-tech-times.web.app/articles/20260831-housing-loan-variable-rate-september.html) — 2026-08-31 23:01: 三菱UFJ銀行と三井住友銀行は、9月から変動型の住宅ローン金利を引き上げると発表しました。家計への影響が注視されています。
 
 ## 世界のバズ動画TOP3 (2026-09-01)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 - 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1199語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1200語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -72,10 +72,10 @@
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
+- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
-- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
 - [スペースXとは](https://ai-tech-times.web.app/term/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X.html): アメリカのイーロン・マスク氏が率いる民間宇宙企業で、ロケット開発や衛星通信サービスなどを手掛ける。

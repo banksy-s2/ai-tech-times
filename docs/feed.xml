@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ITmedia AI+：「AIが勝手にやった」が通用しない理由</title>
+<link>https://ai-tech-times.web.app/articles/20260901-ai-agent-id-and-power-of-attorney.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-ai-agent-id-and-power-of-attorney.html</guid>
+<pubDate>Tue, 01 Sep 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIエージェントの業務利用が広がる中で、AI向けの「社員証」や「委任状」に注目が集まっています。これらはどのような仕組みで事故を防ぐのでしょうか。</description>
+</item>
+<item>
+<title>アンソロピックのAI利用料、たった数日で4000ドルに達した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260901-anthropic-claud-bill-pylon.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-anthropic-claud-bill-pylon.html</guid>
+<pubDate>Tue, 01 Sep 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米アンソロピックのAI「クロード」を利用したところ、たった数日で4000ドル（約64万円）の請求書が届き、CEOが驚愕しました。</description>
+</item>
+<item>
 <title>Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い</title>
 <link>https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260901-blue-voice-raises-6m-for-police-ai.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 31 Aug 2026 21:02:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>韓国で政治資金法違反などの罪に問われていた旧統一教会のトップ、ハン・ハクチャ総裁に対し、裁判所から実刑判決が言い渡されました。</description>
-</item>
-<item>
-<title>壱番屋株がストップ高気配、ハウス食品Gが売却検討</title>
-<link>https://ai-tech-times.web.app/articles/20260831-ichibanya-stock-surge-house-foods-group.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-ichibanya-stock-surge-house-foods-group.html</guid>
-<pubDate>Mon, 31 Aug 2026 21:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道により、壱番屋の株価がストップ高気配となっていることが明らかになりました。ハウス食品グループによる売却検討が報じられています。</description>
-</item>
-<item>
-<title>三菱UFJ、預金3000万円でプラチナカード無料の狙い</title>
-<link>https://ai-tech-times.web.app/articles/20260831-mufg-platinum-card-strategy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260831-mufg-platinum-card-strategy.html</guid>
-<pubDate>Mon, 31 Aug 2026 21:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>三菱UFJ銀行は、預かり資産3000万円以上の顧客を対象とした年会費無料のプラチナカードを提供する新会員組織を発表しました。「金利のある世界」における戦略の背景に迫ります。</description>
 </item>
 </channel></rss>

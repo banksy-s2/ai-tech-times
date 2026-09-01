@@ -66405,5 +66405,73 @@
   "date": "2026-09-01",
   "time": "07:02",
   "path": "/articles/20260901-gungho-sony-music-capital-alliance.html"
+ },
+ {
+  "title": "Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い",
+  "lead": "警察官向けの専門AIツールを開発するBlue Voiceが、600万ドルを資金調達したことが明らかになりました。一般的なAIがアクセスできない地域特有の法律やプロトコルに対応します。",
+  "summary3": [
+   "Blue Voiceが600万ドルを調達",
+   "警察官向けAIの警察版ハーベイを開発",
+   "部署固有の法律やプロトコルに対応"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。ハーバード・ロースクールを中退した創業者率いるBlue Voiceは、警察官向けの専門AIツールを開発するため、600万ドルの資金調達を実施しました。",
+   "一般的な汎用AIツールは、インターネット上に公開されていない情報を取得することができません。しかし、Blue VoiceのAIは、各警察部門固有の法律、地域条例、プロトコル、ガイドラインに基づいてトレーニングされています。",
+   "これにより、現場の警察官が業務で必要とする非公開の専門的ルールや指針にアクセスし、迅速な参照や確認が可能となります。警察業務の効率化と正確性向上を支援する新たなAIツールとして注目を集めています。"
+  ],
+  "tags": [
+   "Blue Voice",
+   "資金調達",
+   "AI"
+  ],
+  "slug": "blue-voice-raises-6m-for-police-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Blue Voice",
+    "type": "company",
+    "desc": "警察官向けの専門AIツールを開発する企業で、部門固有の法律などを学習したシステムを提供している。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "08:00",
+  "path": "/articles/20260901-blue-voice-raises-6m-for-police-ai.html"
+ },
+ {
+  "title": "Debian、AIコード容認の理由",
+  "lead": "主要なLinuxディストリビューションであるDebianが、開発における生成AIツールの利用を公式に許可する新方針を決定しました。",
+  "summary3": [
+   "Debianが開発でのAI利用を公式に許可",
+   "責任あるAI利用で生産性向上が期待される",
+   "生成AIは既存の基準に従い特別ルールなし"
+  ],
+  "body": [
+   "ニュースサイト「The Verge AI」の報道によると、Linuxディストリビューションの一つであるDebianは、開発者によるAIツールの利用を許可することを投票で決定しました。",
+   "新方針では、開発、メンテナンス、ドキュメンテーションの作業において、AIツールを活用することが認められます。Debian側は、AIの「責任ある」利用が開発者の生産性を向上させ得ると認めています。",
+   "また、生成AIについて、既存の基準を超える特別なルールは適用されず、免除されることもないと明記されています。"
+  ],
+  "tags": [
+   "Debian",
+   "Linux",
+   "生成AI"
+  ],
+  "slug": "debian-wont-ban-ai-code",
+  "people": [],
+  "terms": [
+   {
+    "name": "Debian",
+    "type": "company",
+    "desc": "ボランティアによって開発されている、広く普及している代表的なLinuxディストリビューションの一つ。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "08:00",
+  "path": "/articles/20260901-debian-wont-ban-ai-code.html"
  }
 ]
