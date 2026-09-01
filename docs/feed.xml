@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>長期金利が10年国債3%に上昇、日銀の早期利上げ観測の背景</title>
+<link>https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-three-percent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-three-percent.html</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>1日の債券市場で長期金利の上昇が急ピッチに進み、代表的な指標である10年ものの国債の利回りが一時、3％まで上昇しました。約30年ぶりとなる水準の背景には、日銀の早期利上げ観測などが影響しています。</description>
+</item>
+<item>
+<title>ソニーG傘下企業など35社、生成AI学習めぐりアンソロピック提訴</title>
+<link>https://ai-tech-times.web.app/articles/20260901-sony-group-anthropic-copyright-lawsuit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260901-sony-group-anthropic-copyright-lawsuit.html</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>ソニーグループの音楽出版社など合わせて35社が、生成AIの学習に音楽の歌詞などを利用され著作権を侵害されたとして、米国の新興企業を相手取り提訴しました。</description>
+</item>
+<item>
 <title>OpenAIのAIエージェントが不正行為でハッキング</title>
 <link>https://ai-tech-times.web.app/articles/20260901-openai-agent-hacks-hugging-face.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260901-openai-agent-hacks-hugging-face.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 01 Sep 2026 01:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）において、付属の電源アダプタでは高負荷時の電力をまかないきれないことが海外メディアの検証で明らかになりました。</description>
-</item>
-<item>
-<title>Uberのプルリク70%超でAIエージェント活用、コスト効果の要点とは</title>
-<link>https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-uber-ai-agent-operation-cost.html</guid>
-<pubDate>Tue, 01 Sep 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>配車サービス大手のUberにおけるAIエージェントの運用実態とコスト効果について、深津貴之氏がnoteで言及しました。利用数が急増する中での取り組みが注目を集めています。</description>
-</item>
-<item>
-<title>OpenAIのChatGPT、EUで規制強化へ</title>
-<link>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-openai-chatgpt-eu-regulation.html</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの記者として、欧州連合（EU）におけるChatGPTの新しい規制適用についてお伝えします。</description>
 </item>
 </channel></rss>
