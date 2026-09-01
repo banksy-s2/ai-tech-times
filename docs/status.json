@@ -1,21 +1,55 @@
 {
- "updated": "2026-09-01 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-01 21:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "「福島大に原子力触らせたくない」発言の炎上が止まらない理由",
-   "path": "/articles/20260901-fukushima-univ-youtuber-controversy.html",
-   "cat": "インフルエンサー"
+   "title": "林芳正総務大臣、AI推進へ新組織を設立",
+   "path": "/articles/20260901-soumu-ax-strategy-office.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPTに広告表示、売上高年1600億円ペース",
+   "path": "/articles/20260901-chatgpt-ad-revenue-1-billion-dollars.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Bolt創業者ライアン・ブレスロウ氏、最大2,700万ドルの資金調達へ",
+   "path": "/articles/20260901-ryan-breslow-raising-funding-to-save-bolt.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Google TV Streamerが50ドル値上げの149ドルに、なぜ今？",
+   "path": "/articles/20260901-google-tv-streamer-price-increase.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Shein香港上場、260億ドル規模に",
+   "path": "/articles/20260901-shein-hong-kong-debut-26bn.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "メッシ、アルゼンチン代表引退を発表",
+   "path": "/articles/20260901-messi-retires-from-international-football.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日本経済新聞：長期金利3%の影響総点検",
+   "path": "/articles/20260901-long-term-interest-rate-3-percent-impact.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: GoPro株が本日80%急騰、著名YouTuberが大株主に 執筆 - Inve",
+  "執筆失敗: 【決算発表後に7,400円→9,400円に急伸】「ReFa」を展開するMTG、通",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 143,
+  "used": 164,
   "limit": 200
  }
 }
