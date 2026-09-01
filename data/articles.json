@@ -66992,5 +66992,39 @@
   "date": "2026-09-01",
   "time": "13:00",
   "path": "/articles/20260901-sony-group-anthropic-copyright-lawsuit.html"
+ },
+ {
+  "title": "日経平均午前261円安、金利3%時代の半導体売り",
+  "lead": "日本経済新聞の報道によると、東京株式市場で日経平均株価が午前に261円安となり、「金利3%時代」を意識して半導体関連株に売りが出ています。",
+  "summary3": [
+   "日経平均株価は午前に261円下落",
+   "「金利3%時代」に備える動きが広がる",
+   "市場では半導体関連銘柄に売りが出た"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする市場ニュースです。日本経済新聞の報道によれば、午前の東京株式市場において、日経平均株価は前日比261円安となりました。",
+   "今回の相場では「金利3%時代」に身構える市場の動きが意識されています。こうした市場環境の変化を背景として、主力の半導体関連銘柄を中心に売りが広がる展開となりました。",
+   "市場関係者の間では、今後の金利動向や株式市場への影響について慎重な見方が広がっています。引き続き、経済情勢や金利の変化に注目が集まる状況となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "半導体"
+  ],
+  "slug": "nikkei-average-falls-261-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済や金融を中心に報じる日刊の全国紙です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVEV0YzNWYzFyZk1LWGRiTXBmRnRvY3hHNG9ERW9MNkx0S3c1MHVkYkZ6amZXc1lQRHdoRHU4NjR4TVRsRS1ISWhVZE1yRHJUS1M1VDQtV3oxeVlLblVyR3UwbUtkTTh1UGg2Mg?oc=5",
+  "category": "stock",
+  "date": "2026-09-01",
+  "time": "14:00",
+  "path": "/articles/20260901-nikkei-average-falls-261-yen.html"
  }
 ]
