@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-01 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-01 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "伊藤忠、電通総研へのTOB発表でCTCと5年500億円の相乗効果へ",
-   "path": "/articles/20260901-itochu-dentsu-soken-tob.html",
-   "cat": "日本企業"
+   "title": "Instagram、AIインフルエンサーの表示義務化で制限開始",
+   "path": "/articles/20260901-instagram-limits-undisclosed-ai-profiles.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 107,
+  "used": 111,
   "limit": 200
  }
 }

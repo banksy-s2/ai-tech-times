@@ -1,21 +1,68 @@
 {
- "updated": "2026-09-01 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-01 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Instagram、AIインフルエンサーの表示義務化で制限開始",
-   "path": "/articles/20260901-instagram-limits-undisclosed-ai-profiles.html",
+   "title": "ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」",
+   "path": "/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "防衛省、過去最大8.8兆円の概算要求でAI導入を加速",
+   "path": "/articles/20260901-mod-ai-budget-2027.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ビル・ゲイツが語る「開発者はいらなくなる」の先",
+   "path": "/articles/20260901-bill-gates-ai-developers.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "a16z、11億ドル調達の数日後に成長基金を85億ドルに拡大した理由",
+   "path": "/articles/20260901-a16z-brings-growth-fund-to-8-5b.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon、広告費で秘密の手数料？FTC提訴の理由",
+   "path": "/articles/20260901-amazon-ftc-lawsuit-ad-surcharge.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "仮想通貨インフルエンサー、XRPの次なる上昇局面に言及",
+   "path": "/articles/20260901-crypto-influencer-xrp-rally-prediction.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "フラット35金利3.46％に、家計の負担はどうなる",
+   "path": "/articles/20260901-flat35-interest-rate-high.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日本企業がインドへ巨額投資のなぜ、中国リスクと国内縮小で",
+   "path": "/articles/20260901-japan-companies-betting-big-on-india.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均は続落で寄り付き、中東懸念再燃",
+   "path": "/articles/20260901-nikkei-average-falls-middle-east-concerns.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "東京ガスとAIVALIXが資本業務提携、上下水道起点に協業へ",
+   "path": "/articles/20260901-tokyo-gas-aivalix-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 111,
+  "used": 130,
   "limit": 200
  }
 }

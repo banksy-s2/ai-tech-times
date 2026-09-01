@@ -67103,5 +67103,331 @@
   "date": "2026-09-01",
   "time": "16:01",
   "path": "/articles/20260901-instagram-limits-undisclosed-ai-profiles.html"
+ },
+ {
+  "title": "ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」",
+  "lead": "AI技術やテック政策をめぐり、ニューヨーク州のキャシー・ホークル知事が番組のインタビューで強い姿勢を示しました。",
+  "summary3": [
+   "ニューヨーク州知事がAI政策を語る",
+   "選挙年で多くのテック政策が争点に",
+   "知事が主要なテック課題に強い姿勢"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ニューヨーク州のキャシー・ホークル知事がインタビューに応じ、AIやテック政策に関する自身の見解を語りました。現在は選挙年であり、数多くの重要なテック政策がまさに危うい状況に置かれています。",
+   "そうした中でホークル知事は、AIは「もっと悪くなくあるべきだ」という考えを示しました。知事はほぼすべての主要なテック関連の課題に対して強い姿勢を貫いており、今回のインタビューでもその方針が浮き彫りになっています。",
+   "番組では急速なスピードで議論が展開され、メタ社に関する話題なども取り上げられました。選挙を控えてテック政策への注目が集まる中、今後の州の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "AI",
+   "テック政策",
+   "ニューヨーク州"
+  ],
+  "slug": "ny-gov-kathy-hochul-ai-less-evil",
+  "people": [],
+  "terms": [
+   {
+    "name": "メタ社",
+    "type": "company",
+    "desc": "SNSのFacebookやInstagramなどを運営するアメリカの大手IT企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html"
+ },
+ {
+  "title": "防衛省、過去最大8.8兆円の概算要求でAI導入を加速",
+  "lead": "防衛省は8月31日に決定した令和9年度（2027年度）の予算概算要求において、過去最大となる8兆8908億円を計上しました。自衛隊の指揮統制へのAI導入や攻撃ドローンの取得などを通じて、「新しい戦い方」への対応を急ぎます。",
+  "summary3": [
+   "防衛省が過去最大の8.8兆円を計上",
+   "自衛隊の指揮統制へAI導入を加速",
+   "防衛装備品の製造工場国有化を検討"
+  ],
+  "body": [
+   "防衛省は8月31日、令和9年度（2027年度）の予算概算要求を決定しました。計上された額は過去最大の8兆8908億円に上ります。今回の予算要求では、自衛隊の指揮統制へのAI導入や、攻撃ドローン（無人機）の取得などを加速させることが盛り込まれました。",
+   "これは「新しい戦い方」への対応を強化するものであり、現代の戦闘トレンドに合わせたデジタル化と無人化の推進が図られています。",
+   "さらに、戦闘が長期化する事態に対応できる体制づくりも進められます。防衛装備品の製造工場を国有化した上で、民間企業に管理を委託する新たな制度創設も盛り込まれており、サプライチェーンの安定化と装備品の安定調達を目指す方針です。"
+  ],
+  "tags": [
+   "防衛省",
+   "AI",
+   "ドローン"
+  ],
+  "slug": "mod-ai-budget-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "防衛省",
+    "type": "company",
+    "desc": "日本の安全保障政策や自衛隊の運営・管理を担当する行政機関です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/01/2000001004/",
+  "category": "ai_jp",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-mod-ai-budget-2027.html"
+ },
+ {
+  "title": "ビル・ゲイツが語る「開発者はいらなくなる」の先",
+  "lead": "AIにコードを書かせる時代が到来し、ソフトウェア開発の現場に大きな変化が起きています。ビル・ゲイツ氏が指摘する開発者の仕事の再定義とその先にある未来とは何でしょうか。",
+  "summary3": [
+   "AIによるコード生成が普及する",
+   "ソフトウェア開発の変化と新需要",
+   "開発者の仕事そのものが再定義へ"
+  ],
+  "body": [
+   "AIにコードを書かせる時代が到来した今、多くの開発者の間では「自分たちの仕事が不要になるのではないか」という懸念が広がっています。こうした状況の中、マイクロソフトの創業者であるビル・ゲイツ氏が、AIによる開発現場の変化と、その先にある未来について見解を示しました。",
+   "同氏によると、ソフトウェア開発はAIによる大きな変化にさらされることになります。しかし、単に仕事が奪われるだけでなく、それにともなって新たな需要も次々と生まれてくると指摘されています。",
+   "その結果として待ち受けているのは、開発者の「仕事」そのものの再定義です。AIを活用した新しい開発のあり方に対応していくことで、エンジニアの役割や求められるスキルも変化していくことになります。"
+  ],
+  "tags": [
+   "AI",
+   "ソフトウェア開発",
+   "ビル・ゲイツ"
+  ],
+  "slug": "bill-gates-ai-developers",
+  "people": [
+   {
+    "name": "ビル・ゲイツ氏",
+    "bio": "米マイクロソフトの創業者であり、パーソナルコンピュータの普及やIT業界の発展に大きく貢献した著名な実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業であり、OSやクラウドサービスなどを提供する。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html",
+  "category": "ai_jp",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-bill-gates-ai-developers.html"
+ },
+ {
+  "title": "a16z、11億ドル調達の数日後に成長基金を85億ドルに拡大した理由",
+  "lead": "著名ベンチャーキャピタルのAndreessen Horowitzが、新たな資金調達を行い、スタートアップ投資をさらに加速させています。",
+  "summary3": [
+   "a16zが新たな資金調達を実施",
+   "成長基金の規模を85億ドルに拡大",
+   "スタートアップへの投資を強化"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米国の著名ベンチャーキャピタルであるAndreessen Horowitzは、スタートアップへの投資を目的として、新たに数十億ドル規模の資金調達を実施しました。",
+   "今回の動きは、11億ドルの新ファンドを立ち上げたわずか数日後に行われたものであり、同社の成長基金（グロースファンド）の規模は85億ドルに到達しました。",
+   "次世代の革新的な企業を支援するため、同社は巨額の資金を投じて投資活動をさらに活発化させており、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "a16z",
+   "ベンチャーキャピタル",
+   "資金調達"
+  ],
+  "slug": "a16z-brings-growth-fund-to-8-5b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "company",
+    "desc": "米国を拠点とする著名なベンチャーキャピタル企業。多くのIT・テック系スタートアップへの投資を手がける。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-a16z-brings-growth-fund-to-8-5b.html"
+ },
+ {
+  "title": "Amazon、広告費で秘密の手数料？FTC提訴の理由",
+  "lead": "米連邦取引委員会（FTC）と22の州が、Amazonを新たに提訴しました。企業に対して広告費を密かに多く請求していた疑いが持たれており、今後の動向に注目が集まっています。",
+  "summary3": [
+   "AmazonがFTCと22州から提訴される",
+   "企業へ広告費を秘密裏に過剰請求した疑い",
+   "新たな訴訟問題として大きな注目を集める"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。米連邦取引委員会（FTC）および22の州は、巨大テック企業のAmazonに対し、新たな訴訟を提起したことを明らかにしました。今回の訴訟では、同社がビジネスを展開する企業に対して、広告費を秘密裏により多く請求していたという疑惑が争点となっています。",
+   "訴えによれば、Amazonは広告掲載を希望する企業に対し、表面上は見えない形で不当な追加負担を課す「秘密の広告手数料スキーム」を運用していたとされています。多くの企業が日常的に利用するプラットフォームの裏側で、こうした不透明な課金が行われていたのではないかという懸念が強まっています。",
+   "今回の提訴により、巨大プラットフォームによる広告運用の透明性や公正性を巡る議論が一段と激しくなることは必至です。私たちのビジネスや経済活動にも大きな影響を及ぼす可能性のある問題だけに、今後の裁判の行方から目が離せません。"
+  ],
+  "tags": [
+   "Amazon",
+   "FTC",
+   "独占禁止法"
+  ],
+  "slug": "amazon-ftc-lawsuit-ad-surcharge",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界最大級のECサイト運営やクラウドサービスを手がける多国籍テクノロジー企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+  "category": "silicon",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-amazon-ftc-lawsuit-ad-surcharge.html"
+ },
+ {
+  "title": "仮想通貨インフルエンサー、XRPの次なる上昇局面に言及",
+  "lead": "仮想通貨インフルエンサーが、XRPの次の上昇局面について言及しました。2017年から2018年にかけての歴史的急騰を上回る可能性があると指摘されています。",
+  "summary3": [
+   "仮想通貨インフルエンサーがXRPに言及",
+   "次の上昇局面が過去の急騰を上回る可能性",
+   "2017〜18年の歴史的急騰を超えるとの指摘"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。仮想通貨インフルエンサーの間で、XRPの今後の値動きに関する見解が注目を集めています。",
+   "報道によれば、ある仮想通貨インフルエンサーは、XRPの次の上昇局面について、2017年から2018年に起きた歴史的な急騰を上回る可能性があると指摘しました。",
+   "過去の急騰を超える規模になるかもしれないという今回の指摘は、市場関係者の間でも関心を集める話題となっています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "仮想通貨",
+   "XRP",
+   "インフルエンサー"
+  ],
+  "slug": "crypto-influencer-xrp-rally-prediction",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PSlhuUmFEMWJ3ZXN4Zm5td1JmWTdQaWgtdzlmNmxVbWdRRWZWY3U1eWI2azFtNTBKSkNUQ2MwbVA0b2dfdmpOd2dMMjJwM25JY1FrVVh2TklvdWVEMG81Q0RzT0Fib2VPMmRxTERZWUpHSDlv?oc=5",
+  "category": "influencer",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-crypto-influencer-xrp-rally-prediction.html"
+ },
+ {
+  "title": "フラット35金利3.46％に、家計の負担はどうなる",
+  "lead": "長期金利の上昇が続く中、長期固定型の住宅ローン「フラット35」の9月の適用金利が引き上げられ、過去最高の水準となりました。私たちの生活や住宅購入計画にどのような影響を与えるのでしょうか。",
+  "summary3": [
+   "フラット35の9月金利が引き上げ",
+   "最長35年の最も低い金利は3.46％",
+   "現在の算出方法になって以降で最高"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。長期金利の上昇傾向が続いていることを受け、長期固定型の住宅ローンである「フラット35」の9月の適用金利が引き上げられました。",
+   "今回の改定により、最長35年のローンの最も低い金利は3.46％となりました。これは、現在の金利の算出方法になってからでは最も高い水準となります。",
+   "住宅ローンを検討している方や、すでに変動型から固定型への借り換えを考えている方にとっては、毎月の返済額や総返済額に直接関わる重要なニュースと言えます。今後の金利動向とあわせて、慎重な資金計画が求められる状況です。"
+  ],
+  "tags": [
+   "住宅ローン",
+   "フラット35",
+   "金利"
+  ],
+  "slug": "flat35-interest-rate-high",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260901de47606",
+  "category": "world",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-flat35-interest-rate-high.html"
+ },
+ {
+  "title": "日本企業がインドへ巨額投資のなぜ、中国リスクと国内縮小で",
+  "lead": "BBC Worldによると、日本企業がインド市場への投資を急拡大させています。国内市場の縮小や中国におけるリスクの高まりが背景にあります。",
+  "summary3": [
+   "日本企業がインド市場への投資を急拡大",
+   "国内市場の縮小が背景にある影響",
+   "中国でのリスク増大が動きを加速"
+  ],
+  "body": [
+   "近年、日本企業の間でインド市場への投資を強化する動きが急速に進んでいます。国内の市場規模が縮小していく中で、新たな成長市場を確保する狙いがあります。",
+   "同時に、中国における事業展開のリスクが高まっていることも、日本企業がインドへ傾斜する大きな要因となっています。地政学的な懸念や経営環境の変化に対応するため、投資先の分散とシフトが急ピッチで進められています。",
+   "BBC Worldの報道では、こうした要因が重なった結果として、日本企業がインド市場に対して大型の投資や事業展開の賭けに出ている現状が伝えられています。今後の動向が注目されます。"
+  ],
+  "tags": [
+   "日本企業",
+   "インド",
+   "中国リスク"
+  ],
+  "slug": "japan-companies-betting-big-on-india",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-japan-companies-betting-big-on-india.html"
+ },
+ {
+  "title": "日経平均は続落で寄り付き、中東懸念再燃",
+  "lead": "日経平均株価は続落しての寄り付きとなりました。原油価格の上昇や米金利の高止まりが嫌気された形です。",
+  "summary3": [
+   "日経平均は続落して寄り付き",
+   "原油高や米金利高を嫌気",
+   "中東情勢の懸念が再燃"
+  ],
+  "body": [
+   "東京株式市場で日経平均株価は続落して寄り付きました。市場では、原油価格の上昇や米国の金利高が嫌気される展開となっています。",
+   "背景には中東情勢をめぐる懸念の再燃があり、投資家のリスク回避姿勢が強まる要因として意識されています。",
+   "国内外の経済情勢や金融市場の動向に引き続き警戒感が示されており、今後の値動きが注目されます。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "中東情勢"
+  ],
+  "slug": "nikkei-average-falls-middle-east-concerns",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObU9LTTlBSFBaYmRXa29jdnAwTlMyYlFBUmE5c2M1SHFiU2haejhibUZ1V2M4Yi1qMkRFLUdXQTNSZ0dQUW9QTkNscGVJQkRqUE1LVGw5aExuZFZSU3ZSbmFLZ1BMSE9hOWVESFdOT2xWVGE1UElMVmNiUnMwVDZVYQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-nikkei-average-falls-middle-east-concerns.html"
+ },
+ {
+  "title": "東京ガスとAIVALIXが資本業務提携、上下水道起点に協業へ",
+  "lead": "東京ガスとインフラAI開発のAIVALIXが資本業務提携を締結し、上下水道を起点とした協業を開始すると発表しました。",
+  "summary3": [
+   "東京ガスとAIVALIXが資本業務提携",
+   "上下水道を起点として両社が協業",
+   "インフラ領域でのAI活用を推進"
+  ],
+  "body": [
+   "東京ガスとインフラAI開発を手がけるAIVALIXは、このほど資本業務提携を締結したことを明らかにしました。両社は今回の提携により、インフラ分野における新たな取り組みを共同で進めていく方針です。",
+   "具体的な協業の起点となるのは上下水道の領域です。社会インフラとして重要な上下水道の分野において、AIVALIXが持つインフラAI開発の技術や知見と、東京ガスの事業基盤を組み合わせることで、シナジー創出を目指します。",
+   "今回の資本業務提携を通じて、両社はインフラ分野における課題解決や効率化に向けた取り組みをさらに加速させていく計画です。今後の具体的な展開や進捗についても注目が集まっています。"
+  ],
+  "tags": [
+   "東京ガス",
+   "AIVALIX",
+   "資本業務提携"
+  ],
+  "slug": "tokyo-gas-aivalix-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "東京ガス",
+    "type": "company",
+    "desc": "東京都港区に本社を置く日本最大の都市ガス事業者で、エネルギー供給事業などを展開しています。"
+   },
+   {
+    "name": "AIVALIX",
+    "type": "company",
+    "desc": "インフラ分野に特化したAI開発などを手がける企業で、今回の提携により事業展開を加速させます。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGp6bmpCRk9JQ1huWG90YWhSaVRMWFJyTTVnd3o1RFVaRHJYWkpFa01ZeHJJdUlJaXFnejZlcEdFdkxtZkRiSWotZTl2SUFoTFBYdWJnSVd3RWtUcENVczk3cmZmYjJUSS1uSVdCTmdpQUloc29DSlNfZ0tiQ25Ma2dFWnoyZw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-01",
+  "time": "17:06",
+  "path": "/articles/20260901-tokyo-gas-aivalix-capital-business-alliance.html"
  }
 ]
