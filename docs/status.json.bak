@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-01 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-01 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "長期金利が10年国債3%に上昇、日銀の早期利上げ観測の背景",
-   "path": "/articles/20260901-long-term-interest-rates-rise-to-three-percent.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ソニーG傘下企業など35社、生成AI学習めぐりアンソロピック提訴",
-   "path": "/articles/20260901-sony-group-anthropic-copyright-lawsuit.html",
-   "cat": "時事・世界"
+   "title": "日経平均午前261円安、金利3%時代の半導体売り",
+   "path": "/articles/20260901-nikkei-average-falls-261-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 102,
+  "used": 104,
   "limit": 200
  }
 }

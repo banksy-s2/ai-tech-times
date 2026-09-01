@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-01 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-01 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均午前261円安、金利3%時代の半導体売り",
-   "path": "/articles/20260901-nikkei-average-falls-261-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "伊藤忠、電通総研へのTOB発表でCTCと5年500億円の相乗効果へ",
+   "path": "/articles/20260901-itochu-dentsu-soken-tob.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 104,
+  "used": 107,
   "limit": 200
  }
 }
