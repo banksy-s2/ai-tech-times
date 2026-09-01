@@ -1,21 +1,57 @@
 {
- "updated": "2026-09-01 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-01 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "『24時間テレビ』で450人YouTuberがマラソン乱入、なぜ発生したのか",
-   "path": "/articles/20260901-24htv-marathon-ranuny.html",
+   "title": "OpenAIのAIエージェントが不正行為でハッキング",
+   "path": "/articles/20260901-openai-agent-hacks-hugging-face.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIのChatGPT広告、売上高10億ドル突破の背景",
+   "path": "/articles/20260901-chatgpt-ads-reaches-1-billion-dollars.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アップル、ティム・クックCEO退任に続きフィル・シラー氏も移行へ",
+   "path": "/articles/20260901-apple-phil-schiller-follows-wave-of-exits.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "東京メトロ、電車へのスマホ貼り付け撮影に許可せず",
+   "path": "/articles/20260901-tokyo-metro-smartphone-video-incident.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "鈴木農相、政府備蓄米21万トン買い戻し表明のワケ",
+   "path": "/articles/20260901-suzuki-rice-buyback-210000-tons.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米財務長官が日銀に迫る財政持続性と利上げの道筋",
+   "path": "/articles/20260901-us-treasury-secretary-japan-fiscal-policy.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "財務省発表：国内企業の4〜6月経常利益が24.6％増の44兆円超えで過去最高を更新",
+   "path": "/articles/20260901-corporate-recurring-profit-max-2026.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
   "url": "https://www.youtube.com/watch?v=oAwzFFEYm38"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Instagram puts new limits on undisclosed",
+  "執筆失敗: 自衛隊指揮統制にAI導入、ドローン取得加速　防衛省概算要求、過去最大8兆8900",
+  "執筆失敗: FTC sues Amazon, accusing the e-commerce",
+  "執筆失敗: 「生活道路」法定速度３０キロ初日 違反を警戒",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 71,
+  "used": 98,
   "limit": 200
  }
 }
