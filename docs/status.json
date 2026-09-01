@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-02 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-02 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "NvidiaのDLSS 5が9月3日登場、必要GPUとは",
-   "path": "/articles/20260902-nvidia-dlss-5-launch-september-3rd.html",
-   "cat": "AI(海外)"
+   "title": "AppleがOpenAI訴訟で元従業員のMacBookから見出した証拠",
+   "path": "/articles/20260902-apple-reveals-evidence-openai-suit.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "UK AI Security Instituteなどが調査：AIの助言に従う割合は約8割、でも幸福度は上がらない理由",
+   "path": "/articles/20260902-ai-personal-advice-well-being-study.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }

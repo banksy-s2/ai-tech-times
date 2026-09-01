@@ -67944,5 +67944,39 @@
   "date": "2026-09-01",
   "time": "23:00",
   "path": "/articles/20260901-long-term-interest-rates-rise-to-3-percent.html"
+ },
+ {
+  "title": "NvidiaのDLSS 5が9月3日登場、必要GPUとは",
+  "lead": "Nvidiaは、議論を呼んでいたAIアップスケール技術「DLSS 5」を今週正式にリリースすると発表しました。RTX 50シリーズやGeForce Nowで利用可能となりますが、高いGPU性能が求められます。",
+  "summary3": [
+   "NvidiaがDLSS 5を今週正式にリリースへ",
+   "RTX 50シリーズおよびGeForce Nowで利用可能",
+   "利用には高いGPU性能が必須となる仕様"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。Nvidiaは今週、物議を醸していた新技術「DLSS 5」を正式にローンチすることを明らかにしました。本作の発表は3月に行われ、その際には「ビデオゲーム向けのリアルタイム生成AIフィルター」や「ビデオゲーム向けモーションスムーシングの劣化版」などと比喩されるなど、賛否両論を巻き起こしていました。",
+   "今回のDLSS 5は、RTX 50シリーズのデスクトップおよびラップトップ向けGPU、そしてGeForce Nowを通じて公式に提供される予定です。ただし、この最新技術を稼働させるためには、非常に高いGPUのパワーが必要不可欠であるとされています。",
+   "3月の発表以降、ゲーマーや業界関係者の間で大きな議論の的となっていたこの技術がいよいよ今週から展開されます。対応ハードウェアを持つユーザーにとっては、今後のゲーム体験に大きな影響を与える注目のアップデートとなりそうです。"
+  ],
+  "tags": [
+   "Nvidia",
+   "DLSS 5",
+   "GPU"
+  ],
+  "slug": "nvidia-dlss-5-launch-september-3rd",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカ合衆国の半導体メーカーで、GPUの設計・開発を手がける世界的な企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "00:01",
+  "path": "/articles/20260902-nvidia-dlss-5-launch-september-3rd.html"
  }
 ]

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AppleがOpenAI訴訟で元従業員のMacBookから見出した証拠</title>
+<link>https://ai-tech-times.web.app/articles/20260902-apple-reveals-evidence-openai-suit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-apple-reveals-evidence-openai-suit.html</guid>
+<pubDate>Wed, 02 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Appleは、同社からOpenAIに引き抜かれた元従業員が企業秘密を盗み出したとする訴訟について、裁判所に新しい資料を提出しました。</description>
+</item>
+<item>
+<title>UK AI Security Instituteなどが調査：AIの助言に従う割合は約8割、でも幸福度は上がらない理由</title>
+<link>https://ai-tech-times.web.app/articles/20260902-ai-personal-advice-well-being-study.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-ai-personal-advice-well-being-study.html</guid>
+<pubDate>Wed, 02 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日常的な悩みをAIに相談した際、人がその助言通りに行動するのか、またそれが精神的な健康にどう影響するのかを調査した研究結果が発表されました。</description>
+</item>
+<item>
 <title>NvidiaのDLSS 5が9月3日登場、必要GPUとは</title>
 <link>https://ai-tech-times.web.app/articles/20260902-nvidia-dlss-5-launch-september-3rd.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260902-nvidia-dlss-5-launch-september-3rd.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 01 Sep 2026 14:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>日本経済新聞の報道によると、東京株式市場で日経平均株価が午前に261円安となり、「金利3%時代」を意識して半導体関連株に売りが出ています。</description>
-</item>
-<item>
-<title>長期金利が10年国債3%に上昇、日銀の早期利上げ観測の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-three-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-long-term-interest-rates-rise-to-three-percent.html</guid>
-<pubDate>Tue, 01 Sep 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>1日の債券市場で長期金利の上昇が急ピッチに進み、代表的な指標である10年ものの国債の利回りが一時、3％まで上昇しました。約30年ぶりとなる水準の背景には、日銀の早期利上げ観測などが影響しています。</description>
-</item>
-<item>
-<title>ソニーG傘下企業など35社、生成AI学習めぐりアンソロピック提訴</title>
-<link>https://ai-tech-times.web.app/articles/20260901-sony-group-anthropic-copyright-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260901-sony-group-anthropic-copyright-lawsuit.html</guid>
-<pubDate>Tue, 01 Sep 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>ソニーグループの音楽出版社など合わせて35社が、生成AIの学習に音楽の歌詞などを利用され著作権を侵害されたとして、米国の新興企業を相手取り提訴しました。</description>
 </item>
 </channel></rss>
