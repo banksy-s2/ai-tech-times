@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ANYCOLOR不破湊、日本武道館で2ndワンマン開催決定](https://ai-tech-times.web.app/articles/20260902-anycolor-fuwa-minato-budokan.html) — 2026-09-02 03:00: ANYCOLORは、所属する不破湊が日本武道館で2ndワンマンライブを開催すると発表しました。男性VTuberとしては史上初となる快挙となります。
 - [アップル新CEOにジョン・ターナス氏、ティム・クック氏の後任として9月1日付で就任](https://ai-tech-times.web.app/articles/20260902-apple-john-ternus-new-ceo.html) — 2026-09-02 02:00: iPhoneやMacなどを手掛ける巨大テック企業のアップルで、新たなリーダーが誕生しました。長年ハードウェア部門を率いてきた人物が、9月1日付で最高経営責任者に就任しています。
 - [Unacademyが2億600万ドルで競合upGradに売却、ピーク時より94%下落の理由](https://ai-tech-times.web.app/articles/20260902-unacademy-sells-to-upgrad-for-206m.html) — 2026-09-02 02:00: インドの教育テック企業Unacademyが、ピーク時の評価額から約94%下落した2億600万ドルで競合のupGradに買収されることが明らかになりました。
 - [AppleがOpenAI訴訟で元従業員のMacBookから見出した証拠](https://ai-tech-times.web.app/articles/20260902-apple-reveals-evidence-openai-suit.html) — 2026-09-02 01:00: Appleは、同社からOpenAIに引き抜かれた元従業員が企業秘密を盗み出したとする訴訟について、裁判所に新しい資料を提出しました。
@@ -41,14 +42,13 @@
 - [MediaTek株が10%急騰、Nvidiaと35億ドルのAIチップ協業の背景](https://ai-tech-times.web.app/articles/20260901-mediatek-nvidia-ai-deal-shares.html) — 2026-09-01 19:00: Qualcommのライバル企業であるMediaTekが、Nvidiaとの巨額なAIチップ協業を発表し、株式市場で株価が10%急騰しました。
 - [Polymarket、ドナルド・トランプ・ジュニア氏のファンドから3億ドル調達](https://ai-tech-times.web.app/articles/20260901-polymarket-raises-300-million.html) — 2026-09-01 19:00: 予測市場プラットフォームを手がけるPolymarketが、ドナルド・トランプ・ジュニア氏の投資ファンドから3億ドルを調達したことが報じられました。
 - [三菱ケミカルが温めると縮む新材料を開発、AI時代の熱問題に挑む](https://ai-tech-times.web.app/articles/20260901-mitsubishi-chemical-new-material.html) — 2026-09-01 18:01: 三菱ケミカルが半導体パッケージ向けに「温めると縮む新材料」を開発しました。AI時代の無視できない課題である熱問題を解決できるとして注目を集めています。
-- [ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」](https://ai-tech-times.web.app/articles/20260901-ny-gov-kathy-hochul-ai-less-evil.html) — 2026-09-01 17:06: AI技術やテック政策をめぐり、ニューヨーク州のキャシー・ホークル知事が番組のインタビューで強い姿勢を示しました。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://www.youtube.com/watch?v=oAwzFFEYm38)
 - 2位: [ENHYPEN (엔하이픈) 'Bloody Paradise' Official Performance MV](https://www.youtube.com/watch?v=W-D8GSXg1W8)
 - 3位: [Pokémon: Wild Card | Official Teaser Trailer](https://www.youtube.com/watch?v=H6_jMQ6whtQ)
 
-## AI用語事典 (全1222語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1223語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカの人工知能スタートアップ企業であり、対話型AI「Claude」シリーズの開発を手がけていることで広く知られています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

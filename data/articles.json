@@ -68138,5 +68138,44 @@
   "date": "2026-09-02",
   "time": "02:00",
   "path": "/articles/20260902-unacademy-sells-to-upgrad-for-206m.html"
+ },
+ {
+  "title": "ANYCOLOR不破湊、日本武道館で2ndワンマン開催決定",
+  "lead": "ANYCOLORは、所属する不破湊が日本武道館で2ndワンマンライブを開催すると発表しました。男性VTuberとしては史上初となる快挙となります。",
+  "summary3": [
+   "ANYCOLORが発表",
+   "不破湊が日本武道館公演",
+   "男性VTuber史上初"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする本日の最新情報です。ANYCOLORは、同社に所属する人気タレントの不破湊が、日本武道館において2ndワンマンライブを開催することを正式に発表しました。",
+   "今回の日本武道館でのワンマンライブ開催は、男性VTuberとしては史上初となる記念すべき快挙となります。多くのファンや業界関係者から注目を集める一大イベントとして、今後の動向から目が離せません。",
+   "詳細な公演内容やスケジュールなどについては、今後の発表が待たれます。ANYCOLORおよび不破湊のさらなる活躍に、引き続き期待が高まっています。"
+  ],
+  "tags": [
+   "ANYCOLOR",
+   "不破湊",
+   "VTuber"
+  ],
+  "slug": "anycolor-fuwa-minato-budokan",
+  "people": [
+   {
+    "name": "不破湊",
+    "bio": "ANYCOLORに所属する男性VTuber。配信活動を中心に多くのファンから支持を集めている。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ANYCOLOR",
+    "type": "company",
+    "desc": "VTuberグループ「にじさんじ」などを運営する日本のエンターテインメント企業。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94eWxFTVBrV2RQYXB5YmdxeVhQMGhzWDBWeEFSWWlDU0djV28zTkhZeld4dEhJanZFSnBPeUo5SXN0bTB5Yk5hR1pwTVRoMW0yU29iZQ?oc=5",
+  "category": "influencer",
+  "date": "2026-09-02",
+  "time": "03:00",
+  "path": "/articles/20260902-anycolor-fuwa-minato-budokan.html"
  }
 ]
