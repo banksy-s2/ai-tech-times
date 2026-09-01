@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-01 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-01 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Blue Voiceが600万ドル調達、警察版ハーベイ開発の狙い",
-   "path": "/articles/20260901-blue-voice-raises-6m-for-police-ai.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+：「AIが勝手にやった」が通用しない理由",
+   "path": "/articles/20260901-ai-agent-id-and-power-of-attorney.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Debian、AIコード容認の理由",
-   "path": "/articles/20260901-debian-wont-ban-ai-code.html",
-   "cat": "AI(海外)"
+   "title": "アンソロピックのAI利用料、たった数日で4000ドルに達した理由",
+   "path": "/articles/20260901-anthropic-claud-bill-pylon.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 59,
+  "used": 64,
   "limit": 200
  }
 }

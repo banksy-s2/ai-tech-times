@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-01 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-01 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+：「AIが勝手にやった」が通用しない理由",
-   "path": "/articles/20260901-ai-agent-id-and-power-of-attorney.html",
-   "cat": "日本のAI"
+   "title": "OpenAI、広告事業が年換算10億ドル規模に急成長した理由",
+   "path": "/articles/20260901-openai-chatgpt-ads-revenue-growth.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "アンソロピックのAI利用料、たった数日で4000ドルに達した理由",
-   "path": "/articles/20260901-anthropic-claud-bill-pylon.html",
-   "cat": "日本のAI"
+   "title": "Apple、元従業員による不正データの隠滅証拠を公開",
+   "path": "/articles/20260901-apple-shares-evidence-against-former-employee.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 64,
+  "used": 67,
   "limit": 200
  }
 }
