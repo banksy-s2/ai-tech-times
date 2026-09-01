@@ -67069,5 +67069,39 @@
   "date": "2026-09-01",
   "time": "15:00",
   "path": "/articles/20260901-itochu-dentsu-soken-tob.html"
+ },
+ {
+  "title": "Instagram、AIインフルエンサーの表示義務化で制限開始",
+  "lead": "Instagramは、AIインフルエンサーに対する不満の高まりを受け、未開示のAIプロフィールのリーチ制限に乗り出しました。",
+  "summary3": [
+   "Instagramが未開示のAIプロフィールを制限",
+   "AIインフルエンサーに対する不満が背景に",
+   "プラットフォーム側で新しい規制の運用を開始"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。写真や動画を中心としたSNSプラットフォームを展開するInstagramにおいて、AIを活用したプロフィールに対する新しい制限措置が導入されました。",
+   "近年、本物の人間ではなくAIによって生成されたインフルエンサーが増加し、ユーザーの間ではフラストレーション（不満）が徐々に高まっていました。こうした状況を受け、同プラットフォームは対策として、人工知能によるアカウントであることを明示していないプロフィールのリーチ（表示範囲や到達度）を制限する動きに出ております。",
+   "SNS上におけるAIコンテンツの急増に伴い、利用者の信頼性を守るためのプラットフォーム側の対応は今後も注目を集めそうです。今回の制限が、今後のクリエイターエコノミーやAI活用のあり方にどのような影響を与えるのか、引き続き動向を注視していく必要があります。"
+  ],
+  "tags": [
+   "Instagram",
+   "AIインフルエンサー",
+   "SNS規制"
+  ],
+  "slug": "instagram-limits-undisclosed-ai-profiles",
+  "people": [],
+  "terms": [
+   {
+    "name": "Instagram",
+    "type": "company",
+    "desc": "Metaが所有する、写真や動画の共有をメインとした世界的なソーシャルメディアプラットフォームです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+  "category": "ai",
+  "date": "2026-09-01",
+  "time": "16:01",
+  "path": "/articles/20260901-instagram-limits-undisclosed-ai-profiles.html"
  }
 ]

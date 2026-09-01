@@ -67026,5 +67026,48 @@
   "date": "2026-09-01",
   "time": "14:00",
   "path": "/articles/20260901-nikkei-average-falls-261-yen.html"
+ },
+ {
+  "title": "伊藤忠、電通総研へのTOB発表でCTCと5年500億円の相乗効果へ",
+  "lead": "伊藤忠商事は、電通総研に対する株式公開買付（TOB）の実施を発表しました。CTCとの業務提携により、5年間で500億円の相乗効果創出を目指します。",
+  "summary3": [
+   "伊藤忠が電通総研へのTOBを発表",
+   "CTCとの業務提携をあわせて実施",
+   "5年間で500億円の相乗効果を創出へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。伊藤忠は、電通総研へのTOB（株式公開買付）を発表しました。あわせてCTCとの業務提携も明らかにしており、これらにより5年間で500億円の相乗効果を創出する計画です。",
+   "今回の発表では、電通総研に対する買収とCTCとの提携を組み合わせることで、グループ全体のシナジーを高める方針が示されています。具体的な数値目標として5年間で500億円という大規模な相乗効果が掲げられており、今後の事業展開に注目が集まります。"
+  ],
+  "tags": [
+   "伊藤忠",
+   "電通総研",
+   "TOB"
+  ],
+  "slug": "itochu-dentsu-soken-tob",
+  "people": [],
+  "terms": [
+   {
+    "name": "伊藤忠",
+    "type": "company",
+    "desc": "日本を代表する大手総合商社の一つで、繊維や機械、金属など幅広い分野で事業を展開しています。"
+   },
+   {
+    "name": "電通総研",
+    "type": "company",
+    "desc": "電通グループのシンクタンク・システムインテグレーターであり、コンサルティングやITソリューションを提供しています。"
+   },
+   {
+    "name": "CTC",
+    "type": "company",
+    "desc": "伊藤忠グループの大手IT総合サービス企業であり、企業のシステム構築や運用などを幅広く手掛けています。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtY2lxLUFtaFhBSXBmemUyZXVmMGRCRmdfTXYxaXhFclpSZ0dWNXdHOTdpbUR3ZVd5RWxIOG5ScDcyRzY5ZW9UbEdiZmpaSHBTOVFvSl9iYnVVcjdoY3h4Q09zd291ODM1OUdsM3F0bFd2LVRD?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-01",
+  "time": "15:00",
+  "path": "/articles/20260901-itochu-dentsu-soken-tob.html"
  }
 ]
