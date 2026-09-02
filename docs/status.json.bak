@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-03 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-03 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Acompany、AIの秘密を守るホワイトペーパー公開",
-   "path": "/articles/20260903-acompany-security-whitepaper-2028.html",
-   "cat": "日本のAI"
+   "title": "デルが決算で見せたAI市場の現在地とは",
+   "path": "/articles/20260903-dell-most-important-stock-ai-trade.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "GoogleがFervoから400MWの地熱発電を購入する理由",
+   "path": "/articles/20260903-google-buys-geothermal-power-from-fervo.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [
-  "執筆失敗: AIショートドラマ『非妖哉』たった2話で1億回再生を記録　中国の映像クリエイター"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }

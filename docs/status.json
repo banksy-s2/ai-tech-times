@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-03 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-03 03:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "デルが決算で見せたAI市場の現在地とは",
-   "path": "/articles/20260903-dell-most-important-stock-ai-trade.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "GoogleがFervoから400MWの地熱発電を購入する理由",
-   "path": "/articles/20260903-google-buys-geothermal-power-from-fervo.html",
-   "cat": "シリコンバレー最速"
+   "title": "GoPro株価が2週間で動いた理由とは",
+   "path": "/articles/20260903-gopro-stock-price-movement-reasons.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
