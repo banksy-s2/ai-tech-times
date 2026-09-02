@@ -5,6 +5,62 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIの新型「Astra」、安全性への懸念で発売間近に</title>
+<link>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIが開発中の最新AIモデル「Astra」を巡り、テスト中の問題から安全性に対する深刻な懸念が浮上しています。</description>
+</item>
+<item>
+<title>トランプ政権がOpenAI支持へ、NYT訴訟の行方は</title>
+<link>https://ai-tech-times.web.app/articles/20260903-trump-administration-supports-openai-lawsuit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-trump-administration-supports-openai-lawsuit.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>トランプ政権が、米ニューヨーク・タイムズによるOpenAIの著作権侵害訴訟において、OpenAIを支持する立場を表明しました。</description>
+</item>
+<item>
+<title>ヨルシカ、チケット画像にAIラベル表示された原因は</title>
+<link>https://ai-tech-times.web.app/articles/20260903-yorushika-ai-label-incident.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-yorushika-ai-label-incident.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>音楽ユニット「ヨルシカ」の公式Xが9月1日に投稿したライブ映像作品の告知用画像に、生成AIを使ったことが原因でラベルが表示された経緯を説明しました。</description>
+</item>
+<item>
+<title>茨城県鹿嶋市がClaude活用で市民対応を変えた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-kashima-city-claude-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-kashima-city-claude-ai.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>限られた職員で行政サービスを維持するため、茨城県鹿嶋市が生成AIの本格活用に乗り出しました。公式Webサイトと「Claude」を組み合わせた市民対応の改善や、内製化の取り組みについて取材しました。</description>
+</item>
+<item>
+<title>Uberが10%の人員削減を発表、3300人を対象にする理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-uber-is-laying-off-10-percent-of-staff.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-uber-is-laying-off-10-percent-of-staff.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>配車サービス大手のUberが、グローバルで従業員の約10%にあたる約3300人の人員削減を行うことを発表しました。組織の管理層をスリム化し、主要事業への投資を強化する方針です。</description>
+</item>
+<item>
+<title>EXILE・HIROのGMO系イベント関与になぜ抗議の声が上がるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260903-exile-hiro-gmo-event-protest.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-exile-hiro-gmo-event-protest.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>8月30日ごろから、X上で音楽グループ「EXILE」のメンバーであるHIRO氏が参加するGMOインターネットグループ主催のイベントに対し、抗議の声が広がっています。</description>
+</item>
+<item>
+<title>高市首相、党役員人事と内閣改造を再来週にも検討</title>
+<link>https://ai-tech-times.web.app/articles/20260903-takaichi-cabinet-reshuffle-september.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-takaichi-cabinet-reshuffle-september.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>政府・与党内で、自民党の役員人事と内閣改造をめぐる動きが活発化しています。食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。</description>
+</item>
+<item>
 <title>クールジャパン機構の誤算、540億円の赤字を生んだ理由</title>
 <link>https://ai-tech-times.web.app/articles/20260903-cool-japan-deficit-analysis.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260903-cool-japan-deficit-analysis.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。</description>
-</item>
-<item>
-<title>LLM-jpが約9Bパラメータの視覚言語モデルを公開</title>
-<link>https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>LLM-jpは、国産大規模言語モデルをマルチモーダル化した約9Bパラメータの視覚言語モデル「LLM-jp-4-VL 9B」を新たに公開しました。</description>
-</item>
-<item>
-<title>Hugging Faceで何が？AI文明が責任を曖昧にする戦場</title>
-<link>https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>開発プラットフォームのHugging Faceで発生したサイバーセキュリティインシデントをめぐり、AIの「文明」という言葉が責任の所在を揺るがしています。</description>
-</item>
-<item>
-<title>GoogleがCanva対抗AI発表、デザインせず指示で制作へ</title>
-<link>https://ai-tech-times.web.app/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Googleは、デザイン作業の代わりにプロンプト（指示）を入力するだけで制作できるAIツール「Google Pics」を発表しました。CanvaやAdobeが支配するクリエイティブソフト市場にAIファーストのアプローチで参入します。</description>
-</item>
-<item>
-<title>MUFGのAI活用、サカナAIと48人の精鋭で挑む理由</title>
-<link>https://ai-tech-times.web.app/articles/20260902-mufg-ai-strategy-sakana-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-mufg-ai-strategy-sakana-ai.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>三菱UFJフィナンシャル・グループ（MUFG）が、国内外のエキスパートと連携し、AI活用を推進する体制を磨いています。「AIネーティブ」を掲げる同グループの狙いに迫ります。</description>
-</item>
-<item>
-<title>楽天やGMOが防衛産業に接近、IT企業の関与になぜ反発の声も</title>
-<link>https://ai-tech-times.web.app/articles/20260902-rakuten-gmo-defense-industry.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-rakuten-gmo-defense-industry.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIやドローンを中心とした防衛関連産業の加速に伴い、民間IT企業が事業への関与を強めています。一方で、こうした動きには反発の声も上がっています。</description>
-</item>
-<item>
-<title>ソフトバンク傘下のSB EnergyがIPO申請、OpenAI依存の実態とは</title>
-<link>https://ai-tech-times.web.app/articles/20260902-sb-energy-ipo-openai-dependence.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-sb-energy-ipo-openai-dependence.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ソフトバンクグループのSB Energyが新規株式公開（IPO）を申請しました。しかし、データセンター事業からの収益はまだ発生していないことが明らかになっています。</description>
-</item>
-<item>
-<title>パロアルトCEO、1兆ドルの既存セキュリティーがAIに対応せず</title>
-<link>https://ai-tech-times.web.app/articles/20260902-palo-alto-ceo-cybersecurity-infrastructure-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-palo-alto-ceo-cybersecurity-infrastructure-ai.html</guid>
-<pubDate>Wed, 02 Sep 2026 17:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>パロアルトネットワークスのニケシュ・アローラCEOが、AI時代の到来により約1兆ドル規模の老朽化したサイバーセキュリティインフラストラクチャの近代化が急務であると指摘しました。</description>
 </item>
 </channel></rss>

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 07:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIの新型「Astra」、安全性への懸念で発売間近に](https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html) — 2026-09-03 07:01: OpenAIが開発中の最新AIモデル「Astra」を巡り、テスト中の問題から安全性に対する深刻な懸念が浮上しています。
+- [トランプ政権がOpenAI支持へ、NYT訴訟の行方は](https://ai-tech-times.web.app/articles/20260903-trump-administration-supports-openai-lawsuit.html) — 2026-09-03 07:01: トランプ政権が、米ニューヨーク・タイムズによるOpenAIの著作権侵害訴訟において、OpenAIを支持する立場を表明しました。
+- [ヨルシカ、チケット画像にAIラベル表示された原因は](https://ai-tech-times.web.app/articles/20260903-yorushika-ai-label-incident.html) — 2026-09-03 07:01: 音楽ユニット「ヨルシカ」の公式Xが9月1日に投稿したライブ映像作品の告知用画像に、生成AIを使ったことが原因でラベルが表示された経緯を説明しました。
+- [茨城県鹿嶋市がClaude活用で市民対応を変えた理由](https://ai-tech-times.web.app/articles/20260903-kashima-city-claude-ai.html) — 2026-09-03 07:01: 限られた職員で行政サービスを維持するため、茨城県鹿嶋市が生成AIの本格活用に乗り出しました。公式Webサイトと「Claude」を組み合わせた市民対応の改善や、内製化の取り組みについて取材しました。
+- [Uberが10%の人員削減を発表、3300人を対象にする理由](https://ai-tech-times.web.app/articles/20260903-uber-is-laying-off-10-percent-of-staff.html) — 2026-09-03 07:01: 配車サービス大手のUberが、グローバルで従業員の約10%にあたる約3300人の人員削減を行うことを発表しました。組織の管理層をスリム化し、主要事業への投資を強化する方針です。
+- [EXILE・HIROのGMO系イベント関与になぜ抗議の声が上がるのか](https://ai-tech-times.web.app/articles/20260903-exile-hiro-gmo-event-protest.html) — 2026-09-03 07:01: 8月30日ごろから、X上で音楽グループ「EXILE」のメンバーであるHIRO氏が参加するGMOインターネットグループ主催のイベントに対し、抗議の声が広がっています。
+- [高市首相、党役員人事と内閣改造を再来週にも検討](https://ai-tech-times.web.app/articles/20260903-takaichi-cabinet-reshuffle-september.html) — 2026-09-03 07:01: 政府・与党内で、自民党の役員人事と内閣改造をめぐる動きが活発化しています。食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。
 - [クールジャパン機構の誤算、540億円の赤字を生んだ理由](https://ai-tech-times.web.app/articles/20260903-cool-japan-deficit-analysis.html) — 2026-09-03 06:00: 世界でヒットを連発する韓国に対し、日本のクールジャパン機構は約540億円の累積赤字を抱える結果となりました。なぜ巨額の公金が投じられたのか、その構造的な問題に迫ります。
 - [ロシア外務省、日米豪の共同訓練に対抗措置をとると警告](https://ai-tech-times.web.app/articles/20260903-russia-warns-japan-us-australia-drills.html) — 2026-09-03 04:00: ロシア外務省は、日本大使館に対して懸念を伝え、9月に予定されている自衛隊とアメリカ軍、オーストラリア軍の共同訓練をめぐって対抗措置をとると警告しました。
 - [GoPro株価が2週間で動いた理由とは](https://ai-tech-times.web.app/articles/20260903-gopro-stock-price-movement-reasons.html) — 2026-09-03 03:01: GoProの株価が2週間で変動した背景について、筆頭株主であるYouTuberの存在や合併への動きが注目されています。
@@ -35,20 +42,13 @@
 - [陸上自衛隊が攻撃用小型無人機を初めて公開、訓練で何が？](https://ai-tech-times.web.app/articles/20260902-ground-self-defense-force-attack-drone.html) — 2026-09-02 22:01: 防衛省が無人機の大量導入を進めるなか、陸上自衛隊が侵攻してくる相手への対処に使う攻撃用の小型無人機を宮城で初めて公開しました。
 - [AIRが5000万ドル調達、企業向けAIエージェント管理の狙い](https://ai-tech-times.web.app/articles/20260902-air-raises-50m-ai-agents.html) — 2026-09-02 21:05: TechCrunch AIによると、AIRは企業内で稼働するAIエージェントのスキルやアドオンを検証するプラットフォームを提供するため、5000万ドルを調達しました。
 - [GoProが約460億円で買収され、AIインフラ分野へ進出する理由](https://ai-tech-times.web.app/articles/20260902-gopro-acquired-by-starman-optical-for-460-billion-yen.html) — 2026-09-02 21:05: アクションカメラのGoProが、非公開企業のStarman Opticalに株式の90％を2億8500万ドル（約460億円）で売却する合併契約を締結しました。
-- [Dysonの7万9800円電動歯ブラシ、その正体とは](https://ai-tech-times.web.app/articles/20260902-dyson-camerajet-79800-yen.html) — 2026-09-02 21:05: DysonがカメラとAIを搭載した新型電動歯ブラシ「Dyson CameraJet」を発表しました。日本での販売価格は7万9800円で、ブラッシングとフロスを同時に実現する注目の製品となっています。
-- [FTC、アマゾンを提訴：広告主を欺いた仕組みとは](https://ai-tech-times.web.app/articles/20260902-ftc-sues-amazon-over-advertisers.html) — 2026-09-02 21:05: 米連邦取引委員会（FTC）は、巨大EC企業のアマゾンを提訴しました。欺瞞的なオークションシステムを用いて広告主を誤導した疑いが持たれています。
-- [Waymo、自動運転タクシーを3都市へ拡大なぜ](https://ai-tech-times.web.app/articles/20260902-waymo-and-zoox-expand-robotaxi-markets.html) — 2026-09-02 21:05: ロボタクシーの競争が激化する中、Waymoが新たに3つの都市で無人運転サービスの提供を開始すると発表しました。
-- [元人気カップルYouTuberが28歳でFIRE達成、月60万円の収入](https://ai-tech-times.web.app/articles/20260902-former-youtuber-achieves-fire-at-28.html) — 2026-09-02 21:05: 元人気カップルYouTuberが28歳で「FIRE」を達成し、月60万円が寝てても入ってくる生活を手に入れたことが明らかになりました。
-- [日銀・植田総裁、9月含む毎回の会合で利上げ議論へ](https://ai-tech-times.web.app/articles/20260902-boj-ueda-rate-hike-discussion.html) — 2026-09-02 21:05: 日銀の植田総裁は訪問先のアメリカで会見し、今後の利上げについて、9月の会合も含め毎回の会合で議論していく考えを示しました。
-- [日本郵便がフリーランス保護法違反、公取委が勧告を出した背景](https://ai-tech-times.web.app/articles/20260902-japan-post-freelance-law-violation.html) — 2026-09-02 21:05: 日本郵便がフリーランスを保護する法律に違反していたとして、公正取引委員会から勧告を受けました。取引条件の明示を怠るなどの問題が指摘されています。
-- [ITmedia報道：日中の眠気による経済損失19.8兆円](https://ai-tech-times.web.app/articles/20260902-daytime-sleepiness-economic-loss.html) — 2026-09-02 21:05: 「睡眠時間は足りているはずなのに日中は頭が働かない」という問題が、企業の経営課題となっています。日中の過度な眠気による経済損失が年間約19.8兆円に上ることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 2位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 - 3位: [SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS](https://www.youtube.com/watch?v=PrrE6YwY6mo)
 
-## AI用語事典 (全1256語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1260語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -59,14 +59,14 @@
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカ合衆国に本拠地を置き、世界最大級のECサイト運営やクラウドコンピューティング事業を展開する巨大テクノロジー企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
+- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
-- [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
@@ -76,9 +76,9 @@
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
+- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
+- [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
-- [ティム・クックとは](https://ai-tech-times.web.app/term/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF.html): 米Appleの最高経営責任者（CEO）を務め、同社を世界的巨大企業へと成長させた実績を持つ著名な実業家。
-- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、ライドシェアやフードデリバリーサービスなどを展開する世界的なテクノロジー企業。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
