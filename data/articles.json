@@ -70344,5 +70344,72 @@
   "date": "2026-09-03",
   "time": "01:00",
   "path": "/articles/20260903-acompany-security-whitepaper-2028.html"
+ },
+ {
+  "title": "デルが決算で見せたAI市場の現在地とは",
+  "lead": "米CNBC Techは、デルの素晴らしい四半期決算に対する市場の反応が、AI取引の重要な温度チェックになると報じています。",
+  "summary3": [
+   "デルの四半期決算が発表された",
+   "市場の反応がAI取引の指標に",
+   "デルが市場の重要銘柄に浮上"
+  ],
+  "body": [
+   "米CNBC Techによると、デルの驚異的な四半期決算に対する市場の反応は、現在のAI取引における重要な温度チェックとなります。デルはパソコンやサーバーなどを手掛ける米国の世界的なテクノロジー企業です。",
+   "AI関連の需要や取引が活発化する中、主要企業の業績やそれに対する市場の受け止め方は、投資家や市場関係者にとって全体の動向を測る貴重な指標となっています。",
+   "今回の決算と市場の動向は、AIブームの勢いや今後の方向性を占う上で、極めて重要な意味を持つものとして注目を集めています。"
+  ],
+  "tags": [
+   "Dell",
+   "AI",
+   "CNBC"
+  ],
+  "slug": "dell-most-important-stock-ai-trade",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html",
+  "category": "silicon",
+  "date": "2026-09-03",
+  "time": "02:00",
+  "path": "/articles/20260903-dell-most-important-stock-ai-trade.html"
+ },
+ {
+  "title": "GoogleがFervoから400MWの地熱発電を購入する理由",
+  "lead": "AI TECH TIMESがお届けする最新ニュース。GoogleがFervoから400MWの地熱発電を購入した契約について、その詳細をお伝えします。",
+  "summary3": [
+   "GoogleがFervoから電力を購入",
+   "契約規模は400MWに到達",
+   "将来的に1ギガ瓦まで拡大可能"
+  ],
+  "body": [
+   "米テック大手のGoogleは、地熱発電開発を手がけるFervoとの間で、400メガワットの地熱発電電力を購入する契約を締結しました。この取り組みは、近年拡大を続けるAIデータセンターなどの電力需要を支える新たなエネルギー確保の動きとして注目されています。",
+   "今回の契約は、将来的に最大1ギガ瓦の地熱発電へと規模が拡大する可能性があります。1ギガ瓦という規模は、ユタ州にある非常に大規模なAIデータセンターを十分に供給できるほどの電力を賄える容量となります。",
+   "次世代の拡張型地熱発電システムにおいて、今回の成果は同技術のさらなる勝利を示すものとなりました。AI技術の発展に伴い電力消費が増加する中、環境負荷の低いクリーンエネルギーの確保に向けた各社の動向から今後も目が離せません。"
+  ],
+  "tags": [
+   "Google",
+   "Fervo",
+   "地熱発電"
+  ],
+  "slug": "google-buys-geothermal-power-from-fervo",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、クラウドコンピューティングやAI開発などを手がけるアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Fervo",
+    "type": "company",
+    "desc": "次世代の拡張型地熱発電システムの開発を行い、クリーンエネルギーの供給を進めるアメリカの企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+  "category": "silicon",
+  "date": "2026-09-03",
+  "time": "02:00",
+  "path": "/articles/20260903-google-buys-geothermal-power-from-fervo.html"
  }
 ]

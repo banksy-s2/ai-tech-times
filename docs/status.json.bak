@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-03 00:03",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-03 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、30件の訴訟で加担疑惑なぜ浮上",
-   "path": "/articles/20260903-openai-tumbler-ridge-lawsuit.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ニューヨーク市、高校未満のAI利用を禁止する理由",
-   "path": "/articles/20260903-nyc-ai-restrictions-in-schools.html",
-   "cat": "AI(海外)"
+   "title": "Acompany、AIの秘密を守るホワイトペーパー公開",
+   "path": "/articles/20260903-acompany-security-whitepaper-2028.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: AIショートドラマ『非妖哉』たった2話で1億回再生を記録　中国の映像クリエイター"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }

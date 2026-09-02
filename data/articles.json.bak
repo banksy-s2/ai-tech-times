@@ -70310,5 +70310,39 @@
   "date": "2026-09-03",
   "time": "00:02",
   "path": "/articles/20260903-nyc-ai-restrictions-in-schools.html"
+ },
+ {
+  "title": "Acompany、AIの秘密を守るホワイトペーパー公開",
+  "lead": "データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。",
+  "summary3": [
+   "Acompanyが提言書を公開",
+   "秘匿したままAIを利用する仕組み",
+   "28年をめどに実現を目指す方針"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。データ保護技術を手がけるAcompany（名古屋市）は、外部からデータを見られない状態で人工知能（AI）を利用できるようにする技術をまとめたホワイトペーパー（提言書）を公開しました。2028年をめどに実現したい考えを示しています。",
+   "同社は開発する秘密計算技術を基盤にして、生成AIを企業などで安全に使えるようにすることを目指しています。データを秘匿したまま処理を行うことで、情報漏洩のリスクを抑えたAI活用が可能になると期待されています。",
+   "企業における生成AIの導入が進む一方で、データ保護やセキュリティの確保は重要な課題となっています。Acompanyの取り組みが、今後のAI活用における安全性向上にどのように寄与していくのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Acompany",
+   "生成AI",
+   "セキュリティ"
+  ],
+  "slug": "acompany-security-whitepaper-2028",
+  "people": [],
+  "terms": [
+   {
+    "name": "Acompany",
+    "type": "company",
+    "desc": "データ保護技術を手がける名古屋市の企業で、秘密計算技術の開発を行っています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC316YS0R30C26A8000000/",
+  "category": "ai_jp",
+  "date": "2026-09-03",
+  "time": "01:00",
+  "path": "/articles/20260903-acompany-security-whitepaper-2028.html"
  }
 ]
