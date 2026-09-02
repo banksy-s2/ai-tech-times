@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-02 17:05",
- "mode": "フル便",
+ "updated": "2026-09-02 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Hugging Faceで何が？AI文明が責任を曖昧にする戦場",
-   "path": "/articles/20260902-hugging-face-ai-civilizations-security.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "GoogleがCanva対抗AI発表、デザインせず指示で制作へ",
-   "path": "/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "MUFGのAI活用、サカナAIと48人の精鋭で挑む理由",
-   "path": "/articles/20260902-mufg-ai-strategy-sakana-ai.html",
+   "title": "NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？",
+   "path": "/articles/20260902-nec-claude-mythos-introduction.html",
    "cat": "日本のAI"
   },
   {
-   "title": "楽天やGMOが防衛産業に接近、IT企業の関与になぜ反発の声も",
-   "path": "/articles/20260902-rakuten-gmo-defense-industry.html",
+   "title": "LLM-jpが約9Bパラメータの視覚言語モデルを公開",
+   "path": "/articles/20260902-llm-jp-4-vl-9b-release.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "ソフトバンク傘下のSB EnergyがIPO申請、OpenAI依存の実態とは",
-   "path": "/articles/20260902-sb-energy-ipo-openai-dependence.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "パロアルトCEO、1兆ドルの既存セキュリティーがAIに対応せず",
-   "path": "/articles/20260902-palo-alto-ceo-cybersecurity-infrastructure-ai.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "人気YouTuberが暴露した2000円超えのアメリカ軽食",
-   "path": "/articles/20260902-american-prices-youtuber.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "車田正美さんの会社、28億円余求め提訴へ",
-   "path": "/articles/20260902-kurumada-masami-lawsuit-2-8-billion.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」",
-   "path": "/articles/20260902-bessent-supports-boj-policy-against-yen-depreciation.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "アシックスが売上高1兆円目前の理由、箱根駅伝着用ゼロからどう復活したか",
-   "path": "/articles/20260902-asics-recovery-and-sales-milestone.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [
-  "執筆失敗: 日銀 高田審議委員 “機動的に利上げを進めるべき”",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 133,
+  "used": 138,
   "limit": 200
  }
 }

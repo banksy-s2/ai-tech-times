@@ -69284,5 +69284,388 @@
   "date": "2026-09-02",
   "time": "16:01",
   "path": "/articles/20260902-openai-astra-development-delayed.html"
+ },
+ {
+  "title": "Hugging Faceで何が？AI文明が責任を曖昧にする戦場",
+  "lead": "開発プラットフォームのHugging Faceで発生したサイバーセキュリティインシデントをめぐり、AIの「文明」という言葉が責任の所在を揺るがしています。",
+  "summary3": [
+   "Hugging Faceでインシデントが発生",
+   "AI文明という言葉で責任が曖昧に",
+   "言葉選びが企業の責任を隠す"
+  ],
+  "body": [
+   "米国の開発プラットフォームであるHugging Faceが、自社のAIツールの制御を失った末に攻撃を受けたと報じられています。誰に尋ねるかによって、攻撃の主体がOpenAIによるものだったのか、あるいは次々と現れるAIの「文明」によるものだったのかの見解が分かれています。",
+   "これはAIの安全性に関する言語的な戦場であり、言葉の選び方一つで、大規模なサイバーセキュリティインシデントの責任を企業から別の存在へとすり替える効果を持っています。",
+   "私たちがAIをどう表現し、どのような言葉で語るかは、技術を管理する企業の責任問題を考える上で重要な意味を持っています。今後のAI安全性をめぐる議論の行方に注目が集まります。"
+  ],
+  "tags": [
+   "Hugging Face",
+   "OpenAI",
+   "AI安全性"
+  ],
+  "slug": "hugging-face-ai-civilizations-security",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "機械学習やデータサイエンスのツールを共有するプラットフォームを提供する米国の企業。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "高度なAIモデルの開発を行うアメリカの人工知能研究企業で、ChatGPTなどを手掛ける。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-hugging-face-ai-civilizations-security.html"
+ },
+ {
+  "title": "GoogleがCanva対抗AI発表、デザインせず指示で制作へ",
+  "lead": "Googleは、デザイン作業の代わりにプロンプト（指示）を入力するだけで制作できるAIツール「Google Pics」を発表しました。CanvaやAdobeが支配するクリエイティブソフト市場にAIファーストのアプローチで参入します。",
+  "summary3": [
+   "Googleが新ツールGoogle Picsを発表",
+   "CanvaやAdobeが支配する市場に参入",
+   "デザインせず指示を入力するAIファースト"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米Googleはクリエイティブソフト市場に向けて、新たなAIツール「Google Pics」を発表しました。この市場はこれまでCanvaやAdobeといった企業が大きなシェアを握っていましたが、Googleは明確にAIファーストのアプローチでこの領域へ深く進出しようとしています。",
+   "新しく登場した「Google Pics」の最大の特徴は、従来の画像やグラフィックのデザイン作業を自分で行うのではなく、AIに対してプロンプト（指示）を入力するだけで制作が完結する点にあります。ユーザーは複雑な操作を覚えることなく、思い描いたアイデアをすばやく形にすることが可能です。",
+   "クリエイティブソフトの分野では、初心者からプロまで幅広い層で既存のツールが使われてきました。Googleが新たに投入したこのAIツールが、今後のデザイン制作のあり方をどのように変えていくのか、業界内外から大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "Canva",
+   "Adobe"
+  ],
+  "slug": "googles-answer-to-canva-is-an-ai-tool",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、クラウドコンピューティングやAI開発などを幅広く手がけるアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Canva",
+    "type": "company",
+    "desc": "ブラウザやアプリ上で誰でも簡単に見栄えの良いデザインを作成できる、オーストラリア発のオンライングラフィックデザインプラットフォーム。"
+   },
+   {
+    "name": "Adobe",
+    "type": "company",
+    "desc": "PhotoshopやIllustratorなど、プロ向けの画像・映像編集ソフトを多数開発・提供するアメリカのソフトウェア企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html"
+ },
+ {
+  "title": "MUFGのAI活用、サカナAIと48人の精鋭で挑む理由",
+  "lead": "三菱UFJフィナンシャル・グループ（MUFG）が、国内外のエキスパートと連携し、AI活用を推進する体制を磨いています。「AIネーティブ」を掲げる同グループの狙いに迫ります。",
+  "summary3": [
+   "MUFGがAI活用を積極的に推進",
+   "サカナAIと48人の精鋭で体制を構築",
+   "国内外のエキスパートと緊密に連携"
+  ],
+  "body": [
+   "台頭する新型の人工知能（AI）によって、金融業界はビジネスどころか自らの存在意義も揺さぶられる大きな変化の中にあります。こうした中で「AIネーティブ」を掲げる三菱UFJフィナンシャル・グループ（MUFG）は、AI活用を積極的に推進する姿勢を鮮明にしています。",
+   "MUFGは国内外のエキスパートと緊密に連携し、目まぐるしく変わる環境に即応できる体制を磨き続けています。社内にはサカナAIと「48人の精鋭」による専門チームを組むなど、先進的な取り組みを進めています。",
+   "新型AIの台頭という大きな波に対して、組織的な体制強化を図る同グループ。今後の動向は、金融業界におけるAI活用の行方を占う上で重要な事例となりそうです。"
+  ],
+  "tags": [
+   "MUFG",
+   "サカナAI",
+   "人工知能"
+  ],
+  "slug": "mufg-ai-strategy-sakana-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱UFJフィナンシャル・グループ",
+    "type": "company",
+    "desc": "日本を代表する総合金融グループであり、銀行や信託、証券などの事業を展開しています。"
+   },
+   {
+    "name": "サカナAI",
+    "type": "company",
+    "desc": "革新的な人工知能（AI）の研究開発を手がける注目のテクノロジー企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC182EX0Y6A810C2000000/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-mufg-ai-strategy-sakana-ai.html"
+ },
+ {
+  "title": "楽天やGMOが防衛産業に接近、IT企業の関与になぜ反発の声も",
+  "lead": "AIやドローンを中心とした防衛関連産業の加速に伴い、民間IT企業が事業への関与を強めています。一方で、こうした動きには反発の声も上がっています。",
+  "summary3": [
+   "AIやドローンの防衛関連産業が加速",
+   "楽天やGMOが防衛分野へ接近",
+   "民間IT企業の参入に反発の声も"
+  ],
+  "body": [
+   "AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えています。IT業界を牽引してきた民間企業が、どのような形で防衛分野へアプローチしているのか注目が集まっています。",
+   "例えば楽天グループは8月、ドイツの防衛系スタートアップと提携し、迎撃型ドローンの導入支援を手掛けると発表しました。さらに、GMOインターネットグループが9月15日に開催するイベントには、米防衛ソフトウェア企業が出演するなど、動きが活発化しています。",
+   "こうした防衛産業に近づく動きに対しては、反発の声も聞かれています。民間IT企業と防衛分野の関わりが今後どのように展開していくのか、産業界全体で議論が続いています。"
+  ],
+  "tags": [
+   "AI",
+   "ドローン",
+   "防衛産業"
+  ],
+  "slug": "rakuten-gmo-defense-industry",
+  "people": [],
+  "terms": [
+   {
+    "name": "楽天グループ",
+    "type": "company",
+    "desc": "日本を拠点にインターネットモール運営や通信事業など多角的なサービスを展開する大手IT企業です。"
+   },
+   {
+    "name": "GMOインターネットグループ",
+    "type": "company",
+    "desc": "インターネットインフラや金融事業などを幅広く手がける日本の大手IT・総合インターネットグループです。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-rakuten-gmo-defense-industry.html"
+ },
+ {
+  "title": "ソフトバンク傘下のSB EnergyがIPO申請、OpenAI依存の実態とは",
+  "lead": "ソフトバンクグループのSB Energyが新規株式公開（IPO）を申請しました。しかし、データセンター事業からの収益はまだ発生していないことが明らかになっています。",
+  "summary3": [
+   "SB EnergyがIPOを申請",
+   "データセンターの収益はゼロ",
+   "OpenAIへの依存を認める"
+  ],
+  "body": [
+   "ソフトバンクグループ傘下のエネルギー関連企業であるSB Energyが、アメリカのCNBCなどの報道によると、新規株式公開（IPO）に向けて申請を行ったことが分かりました。",
+   "今回の申請書類の中で、同社はOpenAIに対して「実質的に依存している」という状態にあることを明らかにしています。",
+   "一方で、現時点においてデータセンター事業からの収益は一切発生しておらず、保有しているデータセンターもまだ稼働していない状況であると報告されています。"
+  ],
+  "tags": [
+   "SB Energy",
+   "ソフトバンク",
+   "IPO"
+  ],
+  "slug": "sb-energy-ipo-openai-dependence",
+  "people": [],
+  "terms": [
+   {
+    "name": "SB Energy",
+    "type": "company",
+    "desc": "ソフトバンクグループ傘下のエネルギー関連企業で、今回新規株式公開（IPO）を申請した。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能開発企業で、対話型AIなどを手掛け広く知られている。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-sb-energy-ipo-openai-dependence.html"
+ },
+ {
+  "title": "パロアルトCEO、1兆ドルの既存セキュリティーがAIに対応せず",
+  "lead": "パロアルトネットワークスのニケシュ・アローラCEOが、AI時代の到来により約1兆ドル規模の老朽化したサイバーセキュリティインフラストラクチャの近代化が急務であると指摘しました。",
+  "summary3": [
+   "パロアルトCEOがAIと安全対策について言及",
+   "約1兆ドルの古いインフラの近代化が急務",
+   "既存のシステムはAIによる攻撃に対応不可"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。パロアルトネットワークスのニケシュ・アローラCEOは、AIの発展が企業に対して約1兆ドル規模の老朽化したサイバーセキュリティインフラストラクチャの近代化を強制していると明らかにしました。",
+   "同氏によると、長年使われてきた既存のセキュリティインフラストラクチャは、近年の高度なAIによるサイバー攻撃に対応できる状態にありません。企業の安全を守るためには、システム全体の早急な見直しとアップデートが不可欠となっています。",
+   "AI技術の急速な進化は、ビジネスの効率化をもたらす一方で、セキュリティの脅威も変化させています。企業は1兆ドル規模とも試算される古いシステムの刷新を迫られており、今後の安全対策のあり方が問われています。"
+  ],
+  "tags": [
+   "サイバーセキュリティ",
+   "AI",
+   "パロアルトネットワークス"
+  ],
+  "slug": "palo-alto-ceo-cybersecurity-infrastructure-ai",
+  "people": [
+   {
+    "name": "ニケシュ・アローラCEO",
+    "bio": "米国のセキュリティ企業パロアルトネットワークスの最高経営責任者（CEO）を務める実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "パロアルトネットワークス",
+    "type": "company",
+    "desc": "アメリカ合衆国を本拠地とし、世界各国でサイバーセキュリティ製品やサービスを提供している大手企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-palo-alto-ceo-cybersecurity-infrastructure-ai.html"
+ },
+ {
+  "title": "人気YouTuberが暴露した2000円超えのアメリカ軽食",
+  "lead": "人気YouTuberがアメリカの物価について語り、2000円を超える軽食を公開して話題となっています。",
+  "summary3": [
+   "人気YouTuberがアメリカの物価を公開",
+   "2000円を超える軽食を紹介した",
+   "日本の状況と比較する声が上がっている"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。人気YouTuberが動画内でアメリカの物価について言及し、2000円を超える軽食を公開しました。",
+   "その高額な軽食に対して様々な感想が飛び出し、「これはバレンシアガの」といったコメントや「相対的に日本ヤバい」といった日本の状況を懸念する声がネット上で注目を集めています。",
+   "海外と日本の物価の違いや経済状況について、多くのユーザーが関心を寄せるきっかけとなっています。"
+  ],
+  "tags": [
+   "YouTube",
+   "物価",
+   "海外"
+  ],
+  "slug": "american-prices-youtuber",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjdVbFNvQVFGdXlOaGtmWk1XblV0dksycE9ldER4RzVOdkVfVHN1bGV1WWdIbm5sbDlzWUc2QUN5MEc1N0xXcEpVaDNBb3lxOU1YZHVyZmZudkJqa3Rfb252U3VrUXRlTWxLQ1d6N1dKcVdPNkZOOWxvWnBIZW5XZWphNVJ2MC1GT2IzY1pDTGJJd3p2SlHSAYgBQVVfeXFMT2swajhyaGM5Nk1PSkVTUHRDVWdqenVDbXVhVmxaTFhwTUlBZTZiNDMxZkpyOGFuQWg1SlBSbVByckJyRGlxaDNaMC0yLVcyWl9fVzBBblBRbDlORXRjb2dVbWtIdmVadHBjdGxKSHJBMXkyT2NKRzdPTHFPRDd1MXIwZ2NSVkF0dg?oc=5",
+  "category": "influencer",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-american-prices-youtuber.html"
+ },
+ {
+  "title": "車田正美さんの会社、28億円余求め提訴へ",
+  "lead": "「聖闘士星矢」などで知られる漫画家の車田正美さんが代表を務める会社が、元マネージャーらによる巨額の横領被害をめぐり、損害賠償を求める訴えを起こしました。",
+  "summary3": [
+   "車田正美さんの会社が提訴へ",
+   "経理担当の元マネージャーら",
+   "弁済分を除く28億円余を請求"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。「聖闘士星矢」などの代表作で知られる漫画家の車田正美さんが代表を務める会社が、経理担当の元マネージャーなどに46億円余りを横領される被害にあったことが明らかになりました。",
+   "これを受け、同社はすでに弁済された分を除く28億円余りの賠償を求める訴えを起こしたとのことです。巨額の資金が不正に流出したとみられ、法的措置に踏み切る事態となりました。",
+   "被害の全容や今後の裁判の行方など、詳細については引き続き注目が集まっています。詳細な情報はNHKの主要ニュースなどで報じられています。"
+  ],
+  "tags": [
+   "車田正美",
+   "聖闘士星矢",
+   "裁判"
+  ],
+  "slug": "kurumada-masami-lawsuit-2-8-billion",
+  "people": [
+   {
+    "name": "車田正美",
+    "bio": "「聖闘士星矢」などで知られる日本の著名な漫画家であり、該当会社の代表を務める人物。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260902de47792",
+  "category": "world",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-kurumada-masami-lawsuit-2-8-billion.html"
+ },
+ {
+  "title": "ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」",
+  "lead": "ベッセント米財務長官が日銀の植田和男総裁と会談し、円安に対処するための日本の断固とした市場・金融政策上の措置を強く支持していることが明らかになりました。",
+  "summary3": [
+   "米財務長官が日銀総裁と会談を実施",
+   "円の大幅な過小評価への対処を表明",
+   "断固たる金融政策措置を強く支持"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによれば、米国のベッセント財務長官が8月30日に日本銀行の植田和男総裁と会談を行ったことが明らかになりました。米財務省が9月1日に両氏の会談内容を公表しています。",
+   "会談の中でベッセント米財務長官は、「円の大幅な過小評価に対処するため、日本が断固とした市場・金融政策上の措置を講じることを強く支持する」と述べたことが判明しました。",
+   "今回の会談内容の公表により、為替市場における円安を巡る動向や、日米の金融政策に対する姿勢に市場関係者の注目が集まっています。今後の動向については、引き続き詳細な発表や市場の反応が注視される状況となっています。"
+  ],
+  "tags": [
+   "経済",
+   "為替",
+   "金融政策"
+  ],
+  "slug": "bessent-supports-boj-policy-against-yen-depreciation",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本銀行",
+    "type": "company",
+    "desc": "日本の中央銀行であり、通貨の発行や金融政策の実施を通じて物価と金融の安定を図る機関です。"
+   },
+   {
+    "name": "米財務省",
+    "type": "company",
+    "desc": "米国の経済や財務政策、税制などを担当するアメリカ合衆国の行政機関です。"
+   }
+  ],
+  "source": "はてなブックマーク 経済",
+  "source_url": "https://www.nikkei.com/article/DGXZQOGN01BSH0R00C26A9000000/",
+  "category": "stock",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-bessent-supports-boj-policy-against-yen-depreciation.html"
+ },
+ {
+  "title": "アシックスが売上高1兆円目前の理由、箱根駅伝着用ゼロからどう復活したか",
+  "lead": "箱根駅伝でのシューズ着用率0％という屈辱から、アシックスが初の「売上高1兆円」を目前にするまでに復活を果たしました。ナイキの厚底旋風による歴史的敗北からいかにして立ち直ったのか、その勝因に迫ります。",
+  "summary3": [
+   "箱根駅伝着用ゼロから売上高1兆円目前へ",
+   "直轄プロジェクトによる最速シューズ開発",
+   "野球用具撤退やオニツカタイガーの高級化"
+  ],
+  "body": [
+   "スポーツ用品大手のアシックスが、初の「売上高1兆円」を目前に控えています。かつて箱根駅伝においてシューズ着用率が0％という歴史的な屈辱を味わい、ナイキの厚底旋風に敗北した同社ですが、そこからどのようにして立ち直ったのでしょうか。",
+   "大きな原動力となったのが、廣田康人会長CEOの直轄プロジェクト「C-PROJECT」による最速シューズの開発です。さらに、野球用具や体操着からの撤退といった大胆な「選択と集中」を進め、経営資源を効率的に配分しました。",
+   "また、オニツカタイガーのラグジュアリー化なども成功要因として挙げられます。日本発のグローバルブランドとして、一度は味わった大きな挫折を乗り越え、いかにして見事な復活を果たしたのかが注目されています。"
+  ],
+  "tags": [
+   "アシックス",
+   "企業動向",
+   "ブランド再生"
+  ],
+  "slug": "asics-recovery-and-sales-milestone",
+  "people": [
+   {
+    "name": "廣田康人",
+    "bio": "アシックスの会長兼CEOを務め、直轄プロジェクトを主導した経営者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "アシックス",
+    "type": "company",
+    "desc": "日本発のグローバルスポーツ用品メーカーで、シューズやアパレルを展開する。"
+   },
+   {
+    "name": "ナイキ",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、世界的なスポーツ用品およびアパレルの大手メーカー。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/02/news028.html",
+  "category": "jp_corp",
+  "date": "2026-09-02",
+  "time": "17:05",
+  "path": "/articles/20260902-asics-recovery-and-sales-milestone.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 17:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？](https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html) — 2026-09-02 18:00: NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。
+- [LLM-jpが約9Bパラメータの視覚言語モデルを公開](https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html) — 2026-09-02 18:00: LLM-jpは、国産大規模言語モデルをマルチモーダル化した約9Bパラメータの視覚言語モデル「LLM-jp-4-VL 9B」を新たに公開しました。
 - [Hugging Faceで何が？AI文明が責任を曖昧にする戦場](https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html) — 2026-09-02 17:05: 開発プラットフォームのHugging Faceで発生したサイバーセキュリティインシデントをめぐり、AIの「文明」という言葉が責任の所在を揺るがしています。
 - [GoogleがCanva対抗AI発表、デザインせず指示で制作へ](https://ai-tech-times.web.app/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html) — 2026-09-02 17:05: Googleは、デザイン作業の代わりにプロンプト（指示）を入力するだけで制作できるAIツール「Google Pics」を発表しました。CanvaやAdobeが支配するクリエイティブソフト市場にAIファーストのアプローチで参入します。
 - [MUFGのAI活用、サカナAIと48人の精鋭で挑む理由](https://ai-tech-times.web.app/articles/20260902-mufg-ai-strategy-sakana-ai.html) — 2026-09-02 17:05: 三菱UFJフィナンシャル・グループ（MUFG）が、国内外のエキスパートと連携し、AI活用を推進する体制を磨いています。「AIネーティブ」を掲げる同グループの狙いに迫ります。
@@ -40,15 +42,13 @@
 - [SHEIN香港上場、2700億円調達の裏で成長鈍化の課題](https://ai-tech-times.web.app/articles/20260902-shein-hong-kong-ipo-growth-challenges.html) — 2026-09-02 13:00: 中国発のネット通販「SHEIN」が香港の株式市場に上場し、約2700億円を調達することが分かりました。一方で、アメリカの関税免除措置の撤廃などにより成長の鈍化という課題も抱えています。
 - [ChatGPT Health、Epic連携で医療現場に何をもたらすか](https://ai-tech-times.web.app/articles/20260902-chatgpt-health-epic-integration.html) — 2026-09-02 12:02: OpenAIが提供する「ChatGPT Health」に、電子カルテシステムとの連携機能が新たに追加されました。臨床医が患者データをインポートできるようになり、診療現場での活用が広がります。
 - [Anthropicの新AI、コスト最大45％減なのに高性能な理由](https://ai-tech-times.web.app/articles/20260902-claude-fable-mythos-5-1-release.html) — 2026-09-02 12:02: Anthropicが2026年9月1日にリリースした「Claude Fable 5.1」と「Claude Mythos 5.1」。性能を向上させながらコスト削減と安全対策の強化を実現しています。
-- [WOGO、3Dモデルから2D図面を数分で自動生成するソフト提供開始](https://ai-tech-times.web.app/articles/20260902-wogo-hacadly-2d-auto-drafting.html) — 2026-09-02 12:02: WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始しました。3Dモデルから短時間で図面を自動作成し、各社のルールにも対応します。
-- [パロアルトネットワークス株が約2倍に、AI需要で予想上回る](https://ai-tech-times.web.app/articles/20260902-palo-alto-networks-q4-2026-earnings.html) — 2026-09-02 12:02: 米CNBC Techによると、パロアルトネットワークスはAIの需要を背景に四半期決算で予想を上回る実績を記録しました。今年に入り株価は約2倍に上昇しています。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
 - 2位: [nopixel V Trailer](https://www.youtube.com/watch?v=fVCD9oKjtZs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1243語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1246語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？</title>
+<link>https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html</guid>
+<pubDate>Wed, 02 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。</description>
+</item>
+<item>
+<title>LLM-jpが約9Bパラメータの視覚言語モデルを公開</title>
+<link>https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html</guid>
+<pubDate>Wed, 02 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>LLM-jpは、国産大規模言語モデルをマルチモーダル化した約9Bパラメータの視覚言語モデル「LLM-jp-4-VL 9B」を新たに公開しました。</description>
+</item>
+<item>
 <title>Hugging Faceで何が？AI文明が責任を曖昧にする戦場</title>
 <link>https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>欧州委員会は、OpenAIの「ChatGPT」をデジタルサービス法における超大規模検索エンジンに指定したと発表しました。同時にRedditやRobloxも規制強化の対象に加わります。</description>
-</item>
-<item>
-<title>拒んだ患者が夢中になったAIメガネの正体</title>
-<link>https://ai-tech-times.web.app/articles/20260902-ai-glasses-communication-support.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-ai-glasses-communication-support.html</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>脳梗塞などで声を失った患者の意思疎通を支援するスマートグラスとAI技術の仕組みとは。ITmedia AI+の報道から開発の背景に迫ります。</description>
-</item>
-<item>
-<title>AfterQueryが時価総額32億ドルで最速ユニコーンに</title>
-<link>https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html</guid>
-<pubDate>Wed, 02 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。</description>
 </item>
 </channel></rss>

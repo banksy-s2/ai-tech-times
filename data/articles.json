@@ -69667,5 +69667,88 @@
   "date": "2026-09-02",
   "time": "17:05",
   "path": "/articles/20260902-asics-recovery-and-sales-milestone.html"
+ },
+ {
+  "title": "NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？",
+  "lead": "NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。",
+  "summary3": [
+   "NECが先進AIの導入を発表",
+   "セキュリティ防衛連合に参画",
+   "200社以上が参加する仕組み"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。NECは、Anthropicが主導する先進AI「Claude Mythos Preview」を導入すると発表しました。",
+   "同社は、Anthropicが主導し200社以上が参画する“セキュリティ防衛連合”である「Project Glasswing」に参画しました。これにより、何ができるようになったのかが注目されています。",
+   "最先端のAI技術を活用したセキュリティ対策の動向として、今後の展開に関心が集まっています。"
+  ],
+  "tags": [
+   "NEC",
+   "AI",
+   "セキュリティ"
+  ],
+  "slug": "nec-claude-mythos-introduction",
+  "people": [],
+  "terms": [
+   {
+    "name": "NEC",
+    "type": "company",
+    "desc": "東京都港区に本社を置く、通信機器やITサービス、AI事業などを手掛ける日本の大手総合電機メーカー。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AI「Claude」などを開発・提供するAI安全・研究企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "18:00",
+  "path": "/articles/20260902-nec-claude-mythos-introduction.html"
+ },
+ {
+  "title": "LLM-jpが約9Bパラメータの視覚言語モデルを公開",
+  "lead": "LLM-jpは、国産大規模言語モデルをマルチモーダル化した約9Bパラメータの視覚言語モデル「LLM-jp-4-VL 9B」を新たに公開しました。",
+  "summary3": [
+   "LLM-jpが新モデルを公開",
+   "約9Bパラメータの視覚言語モデル",
+   "国産大規模言語モデルがベース"
+  ],
+  "body": [
+   "LLM-jpは、このたび視覚言語モデル「LLM-jp-4-VL 9B」を公開したと発表しました。開発は杉浦一瑳氏とLLM-jpマルチモーダルWGチームが担当しています。",
+   "LLM-jp-4-VL 9Bは、国産大規模言語モデルであるllm-jp-4-8b-thinkingをマルチモーダル化した約9Bパラメータの視覚言語モデルとなっています。",
+   "2026年4月に公開されたLLM-jp-4-VL 9B betaは、英語マルチモーダルデなどを特徴として展開されていました。今後の活用や展開に注目が集まります。"
+  ],
+  "tags": [
+   "LLM-jp",
+   "視覚言語モデル",
+   "AI技術"
+  ],
+  "slug": "llm-jp-4-vl-9b-release",
+  "people": [
+   {
+    "name": "杉浦一瑳",
+    "bio": "LLM-jpのメンバーとして視覚言語モデルの開発に携わる研究者です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "LLM-jp-4-VL 9B",
+    "type": "ai",
+    "desc": "LLM-jpが公開した約9Bパラメータの国産視覚言語モデルです。"
+   },
+   {
+    "name": "llm-jp-4-8b-thinking",
+    "type": "ai",
+    "desc": "LLM-jpによる国産の大規模言語モデルで、本モデルのベースとなっています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "18:00",
+  "path": "/articles/20260902-llm-jp-4-vl-9b-release.html"
  }
 ]
