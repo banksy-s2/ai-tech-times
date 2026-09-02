@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 12:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均株価 一時1900円超下落の理由](https://ai-tech-times.web.app/articles/20260902-stock-market-decline-sep-2026.html) — 2026-09-02 13:00: 2日の東京株式市場で、日経平均株価が午前中に一時1900円を超える大幅な値下がりとなりました。
+- [SHEIN香港上場、2700億円調達の裏で成長鈍化の課題](https://ai-tech-times.web.app/articles/20260902-shein-hong-kong-ipo-growth-challenges.html) — 2026-09-02 13:00: 中国発のネット通販「SHEIN」が香港の株式市場に上場し、約2700億円を調達することが分かりました。一方で、アメリカの関税免除措置の撤廃などにより成長の鈍化という課題も抱えています。
 - [ChatGPT Health、Epic連携で医療現場に何をもたらすか](https://ai-tech-times.web.app/articles/20260902-chatgpt-health-epic-integration.html) — 2026-09-02 12:02: OpenAIが提供する「ChatGPT Health」に、電子カルテシステムとの連携機能が新たに追加されました。臨床医が患者データをインポートできるようになり、診療現場での活用が広がります。
 - [Anthropicの新AI、コスト最大45％減なのに高性能な理由](https://ai-tech-times.web.app/articles/20260902-claude-fable-mythos-5-1-release.html) — 2026-09-02 12:02: Anthropicが2026年9月1日にリリースした「Claude Fable 5.1」と「Claude Mythos 5.1」。性能を向上させながらコスト削減と安全対策の強化を実現しています。
 - [WOGO、3Dモデルから2D図面を数分で自動生成するソフト提供開始](https://ai-tech-times.web.app/articles/20260902-wogo-hacadly-2d-auto-drafting.html) — 2026-09-02 12:02: WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始しました。3Dモデルから短時間で図面を自動作成し、各社のルールにも対応します。
@@ -40,8 +42,6 @@
 - [OpenAIの新モデルAstra、PCハッキングが極めて得意な理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html) — 2026-09-02 07:02: OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。
 - [Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面](https://ai-tech-times.web.app/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html) — 2026-09-02 07:02: AppleがAI需要によるMac MiniとMac Studioの予想外の人気に直面していることが、海外メディアの報道で明らかになりました。
 - [花王や森永がAI最適化を急ぐ、チャット経由の買い物増になぜ対応するのか](https://ai-tech-times.web.app/articles/20260902-kao-morinaga-ai-site-optimization.html) — 2026-09-02 07:02: 花王や森永製菓などの消費財メーカーが、生成AI向けに自社サイトの商品情報を見直す動きを見せています。消費者がAIとの対話を通じてECサイトへ流入する傾向が強まっているためです。
-- [米国防総省が軍事向けChatGPT導入、Geminiも利用可能に](https://ai-tech-times.web.app/articles/20260902-us-department-of-defense-chatgpt-mil.html) — 2026-09-02 07:02: 米国防総省は、OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」の導入を発表しました。さらに、「Gemini」や「Grok」の計3モデルが利用可能になります。
-- [デルが9%急騰、AIサーバー好調で2027年度予測を上方修正](https://ai-tech-times.web.app/articles/20260902-dell-surges-on-ai-server-forecast.html) — 2026-09-02 07:02: 米CNBC Techによると、デルはAIサーバーの好調を背景に、2027年度の業績予測を上方修正しました。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
