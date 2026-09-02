@@ -70773,5 +70773,78 @@
   "date": "2026-09-03",
   "time": "07:01",
   "path": "/articles/20260903-takaichi-cabinet-reshuffle-september.html"
+ },
+ {
+  "title": "OpenAIの新推論手法、AI安全専門家が懸念を示す理由",
+  "lead": "OpenAIが開発を進める新しい「Astra」モデルに導入される推論技術が、専門家たちの間で波紋を呼んでいます。",
+  "summary3": [
+   "OpenAIが新モデルAstraを発表",
+   "従来の逐次処理と異なる新技術を採用",
+   "AI安全専門家から懸念の声が上がる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、OpenAIの新モデル「Astra」には「リカレント・デプス（recurrent depth）」と呼ばれる新しい推論技術が採用される予定です。この技術により、モデルは従来の推論モデルの特徴である逐次的な思考プロセスの外側で動作することが可能になるとされています。",
+   "しかし、この新たなアプローチに対して、AIの安全性に関する専門家たちからは懸念の声が上がっています。従来の順序だった思考の枠組みから外れる動作をAIが行うようになることで、安全性の担保や制御の面で新たな課題が生じるのではないかと危惧されているためです。",
+   "AI技術が急速に進化する中で、推論能力の向上と安全性の両立は重要な課題となっています。今後、Astraモデルの導入や新しい推論手法の詳細が明らかになるにつれて、安全性の確保に向けた議論がさらに活発化することが予想されます。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Astra",
+   "AI安全性"
+  ],
+  "slug": "openai-new-reasoning-technique-alarms-ai-safety-experts",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究機関であり、対話型AIや最先端の機械学習モデルを開発・提供する企業。"
+   },
+   {
+    "name": "Astra",
+    "type": "ai",
+    "desc": "OpenAIが開発を進める、リカレント・デプスという新しい推論技術を導入予定のAIモデル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "08:00",
+  "path": "/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html"
+ },
+ {
+  "title": "Jio、古いPCを約11ドルでAI対応にする新サービス発表",
+  "lead": "インドの巨大通信事業者Jioが、手元にある古いパソコンをわずかな費用でAI対応PCへと変える画期的な取り組みを明らかにしました。",
+  "summary3": [
+   "古いPCをAI対応にするサービスを発表",
+   "Jioがわずか約11ドルで提供へ",
+   "2ヶ月間の利用でコストを抑える"
+  ],
+  "body": [
+   "インド最高峰の富豪が率いる通信企業Jioは、ユーザーが手元に持っている古くなったパソコンを、AI対応PCへと手軽に生まれ変わらせる新しいサービスを計画しています。長年使い続けてスペックに限界を感じているパソコンでも、買い替えることなく最新のAI技術を体験できる仕組みとして注目を集めています。",
+   "今回の発表によると、このサービスは2ヶ月間で約11ドルという非常に安価な価格設定で提供される予定です。高価な最新ハードウェアを新たに購入することなく、低コストでAI環境を手に入れたいと考えている多くのパソコンユーザーにとって、大きな選択肢の一つになり得ます。",
+   "Jioによるこの取り組みは、古いデバイスの寿命を延ばしながら、誰もが手軽にAI技術を利用できるようにすることを目指しています。詳細な提供時期や導入手順などは今後さらに明らかになると見られており、今後の展開に期待がかかっています。"
+  ],
+  "tags": [
+   "AI",
+   "PC",
+   "Jio"
+  ],
+  "slug": "jio-aging-computers-ai-ready-pcs",
+  "people": [],
+  "terms": [
+   {
+    "name": "Jio",
+    "type": "company",
+    "desc": "インドを拠点とする大手通信事業者であり、同国最大級のデジタルサービスを展開している。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "08:00",
+  "path": "/articles/20260903-jio-aging-computers-ai-ready-pcs.html"
  }
 ]

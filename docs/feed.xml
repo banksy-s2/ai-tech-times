@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIの新推論手法、AI安全専門家が懸念を示す理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html</guid>
+<pubDate>Thu, 03 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIが開発を進める新しい「Astra」モデルに導入される推論技術が、専門家たちの間で波紋を呼んでいます。</description>
+</item>
+<item>
+<title>Jio、古いPCを約11ドルでAI対応にする新サービス発表</title>
+<link>https://ai-tech-times.web.app/articles/20260903-jio-aging-computers-ai-ready-pcs.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-jio-aging-computers-ai-ready-pcs.html</guid>
+<pubDate>Thu, 03 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>インドの巨大通信事業者Jioが、手元にある古いパソコンをわずかな費用でAI対応PCへと変える画期的な取り組みを明らかにしました。</description>
+</item>
+<item>
 <title>OpenAIの新型「Astra」、安全性への懸念で発売間近に</title>
 <link>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 02 Sep 2026 19:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>Appleの新しい最高経営責任者（CEO）であるジョン・ターナス氏が初日を迎えました。iPhoneメーカーである同社にとって、AIの課題やメモリ価格の高騰が深刻化する極めて重要な局面となっています。</description>
-</item>
-<item>
-<title>PalantirのCEOがウクライナ前国防相の新防衛テックを支援する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260902-palantir-ceo-backs-ukraine-defense-startup.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-palantir-ceo-backs-ukraine-defense-startup.html</guid>
-<pubDate>Wed, 02 Sep 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>PalantirのCEOであるアレックス・カarp氏が、ウクライナの前国防相が立ち上げた新しい防衛テックスタートアップを支援することが明らかになりました。</description>
-</item>
-<item>
-<title>NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？</title>
-<link>https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html</guid>
-<pubDate>Wed, 02 Sep 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。</description>
 </item>
 </channel></rss>

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIの新推論手法、AI安全専門家が懸念を示す理由](https://ai-tech-times.web.app/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html) — 2026-09-03 08:00: OpenAIが開発を進める新しい「Astra」モデルに導入される推論技術が、専門家たちの間で波紋を呼んでいます。
+- [Jio、古いPCを約11ドルでAI対応にする新サービス発表](https://ai-tech-times.web.app/articles/20260903-jio-aging-computers-ai-ready-pcs.html) — 2026-09-03 08:00: インドの巨大通信事業者Jioが、手元にある古いパソコンをわずかな費用でAI対応PCへと変える画期的な取り組みを明らかにしました。
 - [OpenAIの新型「Astra」、安全性への懸念で発売間近に](https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html) — 2026-09-03 07:01: OpenAIが開発中の最新AIモデル「Astra」を巡り、テスト中の問題から安全性に対する深刻な懸念が浮上しています。
 - [トランプ政権がOpenAI支持へ、NYT訴訟の行方は](https://ai-tech-times.web.app/articles/20260903-trump-administration-supports-openai-lawsuit.html) — 2026-09-03 07:01: トランプ政権が、米ニューヨーク・タイムズによるOpenAIの著作権侵害訴訟において、OpenAIを支持する立場を表明しました。
 - [ヨルシカ、チケット画像にAIラベル表示された原因は](https://ai-tech-times.web.app/articles/20260903-yorushika-ai-label-incident.html) — 2026-09-03 07:01: 音楽ユニット「ヨルシカ」の公式Xが9月1日に投稿したライブ映像作品の告知用画像に、生成AIを使ったことが原因でラベルが表示された経緯を説明しました。
@@ -40,15 +42,13 @@
 - [日経平均が終値1889円安、世界金利高でよぎるうたげの終わり](https://ai-tech-times.web.app/articles/20260902-nikkei-average-drops-1889-yen.html) — 2026-09-02 23:02: 日本経済新聞の報道によると、日経平均株価の終値が1889円安となり、世界金利高を背景に「うたげの終わり」がよぎる展開となりました。
 - [三菱自動車が新型パジェロを公開、復活の狙いとは](https://ai-tech-times.web.app/articles/20260902-mitsubishi-pajero-new-model.html) — 2026-09-02 22:01: 三菱自動車工業は、ことし12月に国内で7年ぶりに復活させるかつての人気車種「パジェロ」の新型モデルを公開しました。自動車メーカー各社の国際競争への備えについてお伝えします。
 - [陸上自衛隊が攻撃用小型無人機を初めて公開、訓練で何が？](https://ai-tech-times.web.app/articles/20260902-ground-self-defense-force-attack-drone.html) — 2026-09-02 22:01: 防衛省が無人機の大量導入を進めるなか、陸上自衛隊が侵攻してくる相手への対処に使う攻撃用の小型無人機を宮城で初めて公開しました。
-- [AIRが5000万ドル調達、企業向けAIエージェント管理の狙い](https://ai-tech-times.web.app/articles/20260902-air-raises-50m-ai-agents.html) — 2026-09-02 21:05: TechCrunch AIによると、AIRは企業内で稼働するAIエージェントのスキルやアドオンを検証するプラットフォームを提供するため、5000万ドルを調達しました。
-- [GoProが約460億円で買収され、AIインフラ分野へ進出する理由](https://ai-tech-times.web.app/articles/20260902-gopro-acquired-by-starman-optical-for-460-billion-yen.html) — 2026-09-02 21:05: アクションカメラのGoProが、非公開企業のStarman Opticalに株式の90％を2億8500万ドル（約460億円）で売却する合併契約を締結しました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 2位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 - 3位: [SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS](https://www.youtube.com/watch?v=PrrE6YwY6mo)
 
-## AI用語事典 (全1260語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1261語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

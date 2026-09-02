@@ -1,21 +1,57 @@
 {
- "updated": "2026-09-03 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-03 07:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "クールジャパン機構の誤算、540億円の赤字を生んだ理由",
-   "path": "/articles/20260903-cool-japan-deficit-analysis.html",
-   "cat": "日本企業"
+   "title": "OpenAIの新型「Astra」、安全性への懸念で発売間近に",
+   "path": "/articles/20260903-openai-astra-safety-concerns.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "トランプ政権がOpenAI支持へ、NYT訴訟の行方は",
+   "path": "/articles/20260903-trump-administration-supports-openai-lawsuit.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ヨルシカ、チケット画像にAIラベル表示された原因は",
+   "path": "/articles/20260903-yorushika-ai-label-incident.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "茨城県鹿嶋市がClaude活用で市民対応を変えた理由",
+   "path": "/articles/20260903-kashima-city-claude-ai.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Uberが10%の人員削減を発表、3300人を対象にする理由",
+   "path": "/articles/20260903-uber-is-laying-off-10-percent-of-staff.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "EXILE・HIROのGMO系イベント関与になぜ抗議の声が上がるのか",
+   "path": "/articles/20260903-exile-hiro-gmo-event-protest.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "高市首相、党役員人事と内閣改造を再来週にも検討",
+   "path": "/articles/20260903-takaichi-cabinet-reshuffle-september.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Delivery Hero board backs Uber’s $15B ta",
+  "執筆失敗: 円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
+  "執筆失敗: 日経平均株価、3日続落 終値1889円安の6万4325円 - 日本経済新聞",
+  "執筆失敗: スイッチメディア、伊藤忠商事と資本業務提携。テレビCM・ファミマTV・購買データ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 28,
+  "used": 55,
   "limit": 200
  }
 }
