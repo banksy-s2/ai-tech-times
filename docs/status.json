@@ -1,23 +1,17 @@
 {
- "updated": "2026-09-03 04:01",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "ロシア外務省、日米豪の共同訓練に対抗措置をとると警告",
-   "path": "/articles/20260903-russia-warns-japan-us-australia-drills.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-03 05:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
-  "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
-  "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
+  "title": "KAROL G, Bruno Mars - Still (Official Video)",
+  "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
  "notes": [
-  "執筆失敗: 円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中"
+  "執筆失敗: 日経平均株価、3日続落 終値1889円安の6万4325円 - 日本経済新聞"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 20,
+  "used": 25,
   "limit": 200
  }
 }
