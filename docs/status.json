@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-02 22:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-02 23:02",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "三菱自動車が新型パジェロを公開、復活の狙いとは",
-   "path": "/articles/20260902-mitsubishi-pajero-new-model.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "陸上自衛隊が攻撃用小型無人機を初めて公開、訓練で何が？",
-   "path": "/articles/20260902-ground-self-defense-force-attack-drone.html",
-   "cat": "時事・世界"
+   "title": "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
+   "path": "/articles/20260902-nikkei-average-drops-1889-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 173,
+  "used": 177,
   "limit": 200
  }
 }
