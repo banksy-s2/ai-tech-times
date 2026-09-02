@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-02 23:02",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-03 00:03",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
-   "path": "/articles/20260902-nikkei-average-drops-1889-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "OpenAI、30件の訴訟で加担疑惑なぜ浮上",
+   "path": "/articles/20260903-openai-tumbler-ridge-lawsuit.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ニューヨーク市、高校未満のAI利用を禁止する理由",
+   "path": "/articles/20260903-nyc-ai-restrictions-in-schools.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 177,
+  "used": 5,
   "limit": 200
  }
 }

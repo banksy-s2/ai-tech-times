@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Acompany、AIの秘密を守るホワイトペーパー公開</title>
+<link>https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html</guid>
+<pubDate>Thu, 03 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。</description>
+</item>
+<item>
 <title>OpenAI、30件の訴訟で加担疑惑なぜ浮上</title>
 <link>https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Wed, 02 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI開発を進めるGoogleが、著作物を用いたAIモデルの訓練許可を得るため、ハリウッドの大手スタジオに接触していることが分かりました。</description>
-</item>
-<item>
-<title>OpenAI、安全性強化へ「Astra」開発延期の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260902-openai-astra-development-delayed.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260902-openai-astra-development-delayed.html</guid>
-<pubDate>Wed, 02 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIは、未発表モデルの騒動を受けて安全性作業を強化するため、別の未発表モデルスイート「Astra」の開発を遅らせると発表しました。</description>
 </item>
 </channel></rss>

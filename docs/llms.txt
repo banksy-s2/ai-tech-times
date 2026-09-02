@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 00:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Acompany、AIの秘密を守るホワイトペーパー公開](https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html) — 2026-09-03 01:00: データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。
 - [OpenAI、30件の訴訟で加担疑惑なぜ浮上](https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html) — 2026-09-03 00:02: OpenAIとサム・アルトマンCEOに対し、カナダの学校銃撃事件を巡り「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。
 - [ニューヨーク市、高校未満のAI利用を禁止する理由](https://ai-tech-times.web.app/articles/20260903-nyc-ai-restrictions-in-schools.html) — 2026-09-03 00:02: ニューヨーク市は、公立学校の生徒を対象に、高校に達するまでのAI利用を1年間禁止する新方針を発表しました。
 - [日経平均が終値1889円安、世界金利高でよぎるうたげの終わり](https://ai-tech-times.web.app/articles/20260902-nikkei-average-drops-1889-yen.html) — 2026-09-02 23:02: 日本経済新聞の報道によると、日経平均株価の終値が1889円安となり、世界金利高を背景に「うたげの終わり」がよぎる展開となりました。
@@ -41,14 +42,13 @@
 - [NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？](https://ai-tech-times.web.app/articles/20260902-nec-claude-mythos-introduction.html) — 2026-09-02 18:00: NECがAnthropicの先進AI「Claude Mythos Preview」を導入し、セキュリティ防衛連合「Project Glasswing」に参画すると発表しました。
 - [LLM-jpが約9Bパラメータの視覚言語モデルを公開](https://ai-tech-times.web.app/articles/20260902-llm-jp-4-vl-9b-release.html) — 2026-09-02 18:00: LLM-jpは、国産大規模言語モデルをマルチモーダル化した約9Bパラメータの視覚言語モデル「LLM-jp-4-VL 9B」を新たに公開しました。
 - [Hugging Faceで何が？AI文明が責任を曖昧にする戦場](https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html) — 2026-09-02 17:05: 開発プラットフォームのHugging Faceで発生したサイバーセキュリティインシデントをめぐり、AIの「文明」という言葉が責任の所在を揺るがしています。
-- [GoogleがCanva対抗AI発表、デザインせず指示で制作へ](https://ai-tech-times.web.app/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html) — 2026-09-02 17:05: Googleは、デザイン作業の代わりにプロンプト（指示）を入力するだけで制作できるAIツール「Google Pics」を発表しました。CanvaやAdobeが支配するクリエイティブソフト市場にAIファーストのアプローチで参入します。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
 - 2位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 - 3位: [SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS](https://www.youtube.com/watch?v=PrrE6YwY6mo)
 
-## AI用語事典 (全1254語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1255語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
