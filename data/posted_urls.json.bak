@@ -1996,13 +1996,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260902de47733",
   "https://news.web.nhk/newsweb/na/nd-20260901de47623",
   "https://www.nikkei.com/article/DGXZQOUA013BF0R00C26A9000000/",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DV3BSQkk3VG1sRFJrMm13QzU1NWtXSWhySlZpMDZPRlVLVU1DVXpNTkJBMFozQ0lNY1JqcTlxbWhmYy1GVlJvWEJWcWxYdXBIcEE?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DV3BSQkk3VG1sRFJrMm13QzU1NWtXSWhySlZpMDZPRlVLVU1DVXpNTkJBMFozQ0lNY1JqcTlxbWhmYy1GVlJvWEJWcWxYdXBIcEE?oc=5",
+  "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+  "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
  ],
  "titles": [
-  "「企業の中のあらゆるナレッジはいずれAIで処理される」 検索精度を最大1.8倍に高めた「GMO AI RAG」は無償のOSS版で「1社1RAG」を目指す／開発責任者にインタビュー、その先に見据えるのは「Webサービス全体のAI化」【特集・集中企画】",
-  "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
-  "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
-  "「もう音源が使えない…」STARTO社と契約満了でDOMOTOが直面する「楽曲権利問題の壁」 | FRIDAYデジタル",
   "日本製紙 地震のあと初めて社長ら記者会見",
   "'I feel like I dug my own grave': The workers caught in the AI transition",
   "〈イビデン〉ストップ高で東証プライム・上昇率1位…純利益予想「580億円→840億円」へ上方修正＆株式分割の発表【8月5日の国内株式市場概況】 - gentosha-go.com",
@@ -3998,6 +3996,10 @@
   "高市政権の政策縛る長期金利上昇、財政拡張に市場警鐘　首相の発信響かず - 日本経済新聞",
   "高市政権下で長期金利一時3%上昇、財政拡張に市場が警鐘",
   "キューデンHD、10月1日に東証プライム・福証へ上場 九州電力は完全子会社に｜NetIB-News - data-max.co.jp",
-  "キューデンHD、10月1日に東証プライム・福証へ上場"
+  "キューデンHD、10月1日に東証プライム・福証へ上場",
+  "Google needs Hollywood more than the studios need AI",
+  "OpenAI delayed its new model’s development after the Hugging Face hack",
+  "Googleがハリウッドの大手スタジオに巨額の資金でAI学習のライセンス契約を打診",
+  "OpenAI、安全性強化へ「Astra」開発延期の理由"
  ]
 }

@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-02 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-02 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "キューデンHD、10月1日に東証プライム・福証へ上場",
-   "path": "/articles/20260902-kyuden-hd-listing-october-1.html",
-   "cat": "日本企業"
+   "title": "Googleがハリウッドの大手スタジオに巨額の資金でAI学習のライセンス契約を打診",
+   "path": "/articles/20260902-google-needs-hollywood-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAI、安全性強化へ「Astra」開発延期の理由",
+   "path": "/articles/20260902-openai-astra-development-delayed.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 108,
+  "used": 113,
   "limit": 200
  }
 }

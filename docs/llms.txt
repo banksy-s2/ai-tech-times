@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 17:05 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Hugging Faceで何が？AI文明が責任を曖昧にする戦場](https://ai-tech-times.web.app/articles/20260902-hugging-face-ai-civilizations-security.html) — 2026-09-02 17:05: 開発プラットフォームのHugging Faceで発生したサイバーセキュリティインシデントをめぐり、AIの「文明」という言葉が責任の所在を揺るがしています。
+- [GoogleがCanva対抗AI発表、デザインせず指示で制作へ](https://ai-tech-times.web.app/articles/20260902-googles-answer-to-canva-is-an-ai-tool.html) — 2026-09-02 17:05: Googleは、デザイン作業の代わりにプロンプト（指示）を入力するだけで制作できるAIツール「Google Pics」を発表しました。CanvaやAdobeが支配するクリエイティブソフト市場にAIファーストのアプローチで参入します。
+- [MUFGのAI活用、サカナAIと48人の精鋭で挑む理由](https://ai-tech-times.web.app/articles/20260902-mufg-ai-strategy-sakana-ai.html) — 2026-09-02 17:05: 三菱UFJフィナンシャル・グループ（MUFG）が、国内外のエキスパートと連携し、AI活用を推進する体制を磨いています。「AIネーティブ」を掲げる同グループの狙いに迫ります。
+- [楽天やGMOが防衛産業に接近、IT企業の関与になぜ反発の声も](https://ai-tech-times.web.app/articles/20260902-rakuten-gmo-defense-industry.html) — 2026-09-02 17:05: AIやドローンを中心とした防衛関連産業の加速に伴い、民間IT企業が事業への関与を強めています。一方で、こうした動きには反発の声も上がっています。
+- [ソフトバンク傘下のSB EnergyがIPO申請、OpenAI依存の実態とは](https://ai-tech-times.web.app/articles/20260902-sb-energy-ipo-openai-dependence.html) — 2026-09-02 17:05: ソフトバンクグループのSB Energyが新規株式公開（IPO）を申請しました。しかし、データセンター事業からの収益はまだ発生していないことが明らかになっています。
+- [パロアルトCEO、1兆ドルの既存セキュリティーがAIに対応せず](https://ai-tech-times.web.app/articles/20260902-palo-alto-ceo-cybersecurity-infrastructure-ai.html) — 2026-09-02 17:05: パロアルトネットワークスのニケシュ・アローラCEOが、AI時代の到来により約1兆ドル規模の老朽化したサイバーセキュリティインフラストラクチャの近代化が急務であると指摘しました。
+- [人気YouTuberが暴露した2000円超えのアメリカ軽食](https://ai-tech-times.web.app/articles/20260902-american-prices-youtuber.html) — 2026-09-02 17:05: 人気YouTuberがアメリカの物価について語り、2000円を超える軽食を公開して話題となっています。
+- [車田正美さんの会社、28億円余求め提訴へ](https://ai-tech-times.web.app/articles/20260902-kurumada-masami-lawsuit-2-8-billion.html) — 2026-09-02 17:05: 「聖闘士星矢」などで知られる漫画家の車田正美さんが代表を務める会社が、元マネージャーらによる巨額の横領被害をめぐり、損害賠償を求める訴えを起こしました。
+- [ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」](https://ai-tech-times.web.app/articles/20260902-bessent-supports-boj-policy-against-yen-depreciation.html) — 2026-09-02 17:05: ベッセント米財務長官が日銀の植田和男総裁と会談し、円安に対処するための日本の断固とした市場・金融政策上の措置を強く支持していることが明らかになりました。
+- [アシックスが売上高1兆円目前の理由、箱根駅伝着用ゼロからどう復活したか](https://ai-tech-times.web.app/articles/20260902-asics-recovery-and-sales-milestone.html) — 2026-09-02 17:05: 箱根駅伝でのシューズ着用率0％という屈辱から、アシックスが初の「売上高1兆円」を目前にするまでに復活を果たしました。ナイキの厚底旋風による歴史的敗北からいかにして立ち直ったのか、その勝因に迫ります。
 - [Googleがハリウッドの大手スタジオに巨額の資金でAI学習のライセンス契約を打診](https://ai-tech-times.web.app/articles/20260902-google-needs-hollywood-ai.html) — 2026-09-02 16:01: AI開発を進めるGoogleが、著作物を用いたAIモデルの訓練許可を得るため、ハリウッドの大手スタジオに接触していることが分かりました。
 - [OpenAI、安全性強化へ「Astra」開発延期の理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-development-delayed.html) — 2026-09-02 16:01: OpenAIは、未発表モデルの騒動を受けて安全性作業を強化するため、別の未発表モデルスイート「Astra」の開発を遅らせると発表しました。
 - [キューデンHD、10月1日に東証プライム・福証へ上場](https://ai-tech-times.web.app/articles/20260902-kyuden-hd-listing-october-1.html) — 2026-09-02 15:00: キューデンHDが10月1日に東証プライム市場および福証へ上場することが明らかになりました。同時に九州電力は完全子会社となります。
@@ -32,23 +42,13 @@
 - [Anthropicの新AI、コスト最大45％減なのに高性能な理由](https://ai-tech-times.web.app/articles/20260902-claude-fable-mythos-5-1-release.html) — 2026-09-02 12:02: Anthropicが2026年9月1日にリリースした「Claude Fable 5.1」と「Claude Mythos 5.1」。性能を向上させながらコスト削減と安全対策の強化を実現しています。
 - [WOGO、3Dモデルから2D図面を数分で自動生成するソフト提供開始](https://ai-tech-times.web.app/articles/20260902-wogo-hacadly-2d-auto-drafting.html) — 2026-09-02 12:02: WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始しました。3Dモデルから短時間で図面を自動作成し、各社のルールにも対応します。
 - [パロアルトネットワークス株が約2倍に、AI需要で予想上回る](https://ai-tech-times.web.app/articles/20260902-palo-alto-networks-q4-2026-earnings.html) — 2026-09-02 12:02: 米CNBC Techによると、パロアルトネットワークスはAIの需要を背景に四半期決算で予想を上回る実績を記録しました。今年に入り株価は約2倍に上昇しています。
-- [福島大の動画がSNSで波紋、学長声明で何が？](https://ai-tech-times.web.app/articles/20260902-fukushima-u-youtube-controversy.html) — 2026-09-02 12:02: 学系YouTuberが投稿した福島大に関する動画が、SNS上で大きな波紋を呼んでいます。
-- [長期金利が3.015％に一時上昇、約30年ぶりの高水準へ](https://ai-tech-times.web.app/articles/20260902-long-term-interest-rate-rises-to-3-015-percent.html) — 2026-09-02 12:02: 債券市場で長期金利が上昇し、代表的な指標である10年もの国債利回りが一時3.015％に達しました。イラン情勢の緊迫化に伴うインフレ懸念が背景にあります。
-- [米イランが直接攻撃、トランプ大統領の報復は](https://ai-tech-times.web.app/articles/20260902-us-iran-direct-attack-trump-retaliation.html) — 2026-09-02 12:02: アメリカとイランの間でおよそ1か月ぶりに直接の攻撃が交わされ、トランプ大統領が報復措置をとる考えを明らかにしました。
-- [日本相互証券：長期金利が一時3.015％に上昇、1996年以来約30年ぶりの高水準](https://ai-tech-times.web.app/articles/20260902-long-term-interest-rate-rises-to-3-percent.html) — 2026-09-02 12:02: 債券市場で長期金利が上昇し、10年もの国債の利回りが一時3.015％を記録しました。これは1996年9月以来、およそ30年ぶりの高い水準となります。
-- [BASEとSBIホールディングス、コマース×金融のFintech事業共同展開へ](https://ai-tech-times.web.app/articles/20260902-base-sbi-capital-business-alliance.html) — 2026-09-02 12:02: BASEは、SBIホールディングスと資本業務提携を締結しました。両社はコマースと金融を組み合わせたFintech事業の共同展開などを推進します。
-- [石川雅規、スワローズひと筋25年で188勝の決断](https://ai-tech-times.web.app/articles/20260902-yakult-ishikawa-retirement.html) — 2026-09-02 11:00: 球界最年長のヤクルト・石川雅規投手が今季限りの現役引退を決断したことが1日、分かりました。
-- [GoPro、株価40%急騰の裏でAIデータセンターへ参入](https://ai-tech-times.web.app/articles/20260902-gopro-ai-data-centers-pivot.html) — 2026-09-02 10:00: アクションカメラで知られるGoProが、非公開のフォトニクス企業であるStarman Opticalと合併し、AIの波に乗ってデータセンター事業へ進出することを発表しました。この動きを受けて株価が40%急騰しています。
-- [EU、ChatGPTを超大規模検索エンジンに指定し規制強化へ](https://ai-tech-times.web.app/articles/20260902-eu-chatgpt-large-scale-search-engine.html) — 2026-09-02 09:00: 欧州委員会は、OpenAIの「ChatGPT」をデジタルサービス法における超大規模検索エンジンに指定したと発表しました。同時にRedditやRobloxも規制強化の対象に加わります。
-- [拒んだ患者が夢中になったAIメガネの正体](https://ai-tech-times.web.app/articles/20260902-ai-glasses-communication-support.html) — 2026-09-02 09:00: 脳梗塞などで声を失った患者の意思疎通を支援するスマートグラスとAI技術の仕組みとは。ITmedia AI+の報道から開発の背景に迫ります。
-- [AfterQueryが時価総額32億ドルで最速ユニコーンに](https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html) — 2026-09-02 08:00: AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
 - 2位: [nopixel V Trailer](https://www.youtube.com/watch?v=fVCD9oKjtZs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1236語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1243語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
