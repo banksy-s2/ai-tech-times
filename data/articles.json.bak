@@ -69750,5 +69750,83 @@
   "date": "2026-09-02",
   "time": "18:00",
   "path": "/articles/20260902-llm-jp-4-vl-9b-release.html"
+ },
+ {
+  "title": "Appleの新CEO就任、AIと価格高騰の試練",
+  "lead": "Appleの新しい最高経営責任者（CEO）であるジョン・ターナス氏が初日を迎えました。iPhoneメーカーである同社にとって、AIの課題やメモリ価格の高騰が深刻化する極めて重要な局面となっています。",
+  "summary3": [
+   "Appleの新CEOにターナス氏が就任",
+   "AIの課題とメモリ価格の高騰が迫る",
+   "iPhoneメーカーの重大な転換期"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする本日のニュースです。Appleは新たな最高経営責任者（CEO）としてジョン・ターナス氏を迎え、新体制のスタートを切りました。",
+   "しかし、この就任初日は同社にとって非常に重要な局面となっています。背景には、AI（人工知能）分野における課題が次々と浮上していること、そしてメモリ価格の高騰が激しくなっているという現実があります。",
+   "iPhoneなどの主力製品を手がけるAppleが、この困難な状況の中で新リーダーのもとどのように舵を切るのか、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "Apple",
+   "iPhone",
+   "AI"
+  ],
+  "slug": "apple-enters-ternus-era-ai-challenges",
+  "people": [
+   {
+    "name": "ジョン・ターナス氏",
+    "bio": "Appleの最高経営責任者（CEO）。同社の重要な局面で新体制を率いることとなる。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、iPhoneやMacなどを開発・販売する世界的な大手テクノロジー企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "19:00",
+  "path": "/articles/20260902-apple-enters-ternus-era-ai-challenges.html"
+ },
+ {
+  "title": "PalantirのCEOがウクライナ前国防相の新防衛テックを支援する理由",
+  "lead": "PalantirのCEOであるアレックス・カarp氏が、ウクライナの前国防相が立ち上げた新しい防衛テックスタートアップを支援することが明らかになりました。",
+  "summary3": [
+   "ウクライナ前国防相が防衛テック企業を設立",
+   "PalantirのCEOアレックス・カarp氏が支援",
+   "戦時中の経験を新たな技術開発に応用へ"
+  ],
+  "body": [
+   "米CNBC Techによると、ウクライナの前国防相であるフェドロフ氏が、新たに防衛テック企業を立ち上げました。この新しいスタートアップ企業は、戦時中におけるウクライナの実戦経験を新しい技術へと転換することを目的としています。",
+   "この取り組みに対し、ビッグデータ分析を手がける米パランティア・テクノロジーズの最高経営責任者（CEO）であるアレックス・カarp氏が支援を行うことが判明しました。ウクライナでの過酷な戦争から得られた知見や教訓が、今後の技術開発にどのように活かされるのか注目されています。",
+   "両者の協力により、ウクライナの戦時経験をベースにした最先端の防衛技術が生み出される見通しです。今後の技術革新が世界の防衛産業やセキュリティ分野にどのような影響を与えるか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "Palantir",
+   "ウクライナ",
+   "防衛テック"
+  ],
+  "slug": "palantir-ceo-backs-ukraine-defense-startup",
+  "people": [
+   {
+    "name": "アレックス・カarp氏",
+    "bio": "米国のビッグデータ分析企業パランティア・テクノロジーズの共同創業者兼最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Palantir",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、政府機関や企業向けにビッグデータ分析プラットフォームを提供するソフトウェア企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "19:00",
+  "path": "/articles/20260902-palantir-ceo-backs-ukraine-defense-startup.html"
  }
 ]
