@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-02 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-02 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "高市政権下で長期金利一時3%上昇、財政拡張に市場が警鐘",
-   "path": "/articles/20260902-long-term-interest-rates-rise-under-takaichi-administration.html",
-   "cat": "株式投資(日本)"
+   "title": "キューデンHD、10月1日に東証プライム・福証へ上場",
+   "path": "/articles/20260902-kyuden-hd-listing-october-1.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 105,
+  "used": 108,
   "limit": 200
  }
 }

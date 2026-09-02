@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [キューデンHD、10月1日に東証プライム・福証へ上場](https://ai-tech-times.web.app/articles/20260902-kyuden-hd-listing-october-1.html) — 2026-09-02 15:00: キューデンHDが10月1日に東証プライム市場および福証へ上場することが明らかになりました。同時に九州電力は完全子会社となります。
 - [高市政権下で長期金利一時3%上昇、財政拡張に市場が警鐘](https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-rise-under-takaichi-administration.html) — 2026-09-02 14:00: 長期金利の指標となる新発10年物国債利回りが一時3%まで上昇し、高市早苗政権の政策を縛る要因となっています。国債の利払いが膨らむ影響で減税や歳出拡大の余地が狭まっています。
 - [日経平均株価 一時1900円超下落の理由](https://ai-tech-times.web.app/articles/20260902-stock-market-decline-sep-2026.html) — 2026-09-02 13:00: 2日の東京株式市場で、日経平均株価が午前中に一時1900円を超える大幅な値下がりとなりました。
 - [SHEIN香港上場、2700億円調達の裏で成長鈍化の課題](https://ai-tech-times.web.app/articles/20260902-shein-hong-kong-ipo-growth-challenges.html) — 2026-09-02 13:00: 中国発のネット通販「SHEIN」が香港の株式市場に上場し、約2700億円を調達することが分かりました。一方で、アメリカの関税免除措置の撤廃などにより成長の鈍化という課題も抱えています。
@@ -41,14 +42,13 @@
 - [AfterQueryが時価総額32億ドルで最速ユニコーンに](https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html) — 2026-09-02 08:00: AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。
 - [Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか](https://ai-tech-times.web.app/articles/20260902-anthropic-claude-fable-5-1-launch.html) — 2026-09-02 08:00: AI開発を手がけるAnthropicは、新モデル「Claude Fable 5.1」および「Mythos 5.1」を発表しました。価格やデータ保持、過剰なセーフガードに関する顧客からの批判に対応し、エージェント業務でのコスト削減を実現しています。
 - [OpenAIの新モデルAstra、PCハッキングが極めて得意な理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html) — 2026-09-02 07:02: OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。
-- [Apple、AI用Mac MiniとMac Studioへの予想外の需要に直面](https://ai-tech-times.web.app/articles/20260902-apple-unexpected-mac-mini-and-studio-demand.html) — 2026-09-02 07:02: AppleがAI需要によるMac MiniとMac Studioの予想外の人気に直面していることが、海外メディアの報道で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)
 - 2位: [nopixel V Trailer](https://www.youtube.com/watch?v=fVCD9oKjtZs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1235語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1236語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
