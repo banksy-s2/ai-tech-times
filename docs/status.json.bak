@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-02 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-02 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "EU、ChatGPTを超大規模検索エンジンに指定し規制強化へ",
-   "path": "/articles/20260902-eu-chatgpt-large-scale-search-engine.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "拒んだ患者が夢中になったAIメガネの正体",
-   "path": "/articles/20260902-ai-glasses-communication-support.html",
-   "cat": "日本のAI"
+   "title": "GoPro、株価40%急騰の裏でAIデータセンターへ参入",
+   "path": "/articles/20260902-gopro-ai-data-centers-pivot.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: OpenAI says Astra AI model is its first "
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 62,
+  "used": 67,
   "limit": 200
  }
 }

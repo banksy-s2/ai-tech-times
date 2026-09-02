@@ -4972,7 +4972,7 @@
    "id": "YWsczzufh6Q",
    "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
    "channel": "Stray Kids",
-   "views": 1760634,
+   "views": 1822782,
    "url": "https://www.youtube.com/watch?v=YWsczzufh6Q",
    "thumb": "https://i.ytimg.com/vi/YWsczzufh6Q/hqdefault.jpg",
    "regions": [
@@ -4989,7 +4989,7 @@
    "id": "fVCD9oKjtZs",
    "title": "nopixel V Trailer",
    "channel": "nopixel",
-   "views": 405206,
+   "views": 423106,
    "url": "https://www.youtube.com/watch?v=fVCD9oKjtZs",
    "thumb": "https://i.ytimg.com/vi/fVCD9oKjtZs/hqdefault.jpg",
    "regions": [
@@ -5004,7 +5004,7 @@
    "id": "eBFeRyq8_GA",
    "title": "The Cranberries - Zombie (Lyrics)",
    "channel": "FirePlay",
-   "views": 251648,
+   "views": 262999,
    "url": "https://www.youtube.com/watch?v=eBFeRyq8_GA",
    "thumb": "https://i.ytimg.com/vi/eBFeRyq8_GA/hqdefault.jpg",
    "regions": [
@@ -5019,7 +5019,7 @@
    "id": "U6sbm1OaJb8",
    "title": "Street Fighter | New Trailer (2026 Movie)",
    "channel": "Paramount Pictures",
-   "views": 2742816,
+   "views": 3369378,
    "url": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
    "thumb": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
    "regions": [
@@ -5030,24 +5030,10 @@
   },
   {
    "rank": 5,
-   "id": "fX-g6XNrkiA",
-   "title": "DLSS 5 is NOT What We Expected",
-   "channel": "Linus Tech Tips",
-   "views": 1171549,
-   "url": "https://www.youtube.com/watch?v=fX-g6XNrkiA",
-   "thumb": "https://i.ytimg.com/vi/fX-g6XNrkiA/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "DLSS 5に関する予想とは異なる内容を検証しているようです。"
-  },
-  {
-   "rank": 6,
    "id": "PrrE6YwY6mo",
    "title": "SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS",
    "channel": "MoreSidemen",
-   "views": 1050488,
+   "views": 1200773,
    "url": "https://www.youtube.com/watch?v=PrrE6YwY6mo",
    "thumb": "https://i.ytimg.com/vi/PrrE6YwY6mo/hqdefault.jpg",
    "regions": [
@@ -5057,11 +5043,39 @@
    "comment": "パワーアップが購入できるAmong Usのゲームプレイ映像のようです。"
   },
   {
+   "rank": 6,
+   "id": "ts7-qWkpKYA",
+   "title": "CHUNG HA 청하 | Digital Single [México] Music Video",
+   "channel": "CHUNG HA 청하",
+   "views": 752837,
+   "url": "https://www.youtube.com/watch?v=ts7-qWkpKYA",
+   "thumb": "https://i.ytimg.com/vi/ts7-qWkpKYA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "CHUNG HAの新デジタルシングル「México」のMVのようです。"
+  },
+  {
    "rank": 7,
+   "id": "5b6PWx690zA",
+   "title": "NEW R6 SEASON",
+   "channel": "Jynxzi",
+   "views": 615517,
+   "url": "https://www.youtube.com/watch?v=5b6PWx690zA",
+   "thumb": "https://i.ytimg.com/vi/5b6PWx690zA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "新シーズンに関するゲームプレイ動画かもしれない。"
+  },
+  {
+   "rank": 8,
    "id": "hf96obsJIGU",
    "title": "Pradhama Drishtya Kuttakkar Official Teaser | Shahad | Parvathy | Vijayaragavan | Mathew Thomas",
    "channel": "BHAVANA STUDIOS",
-   "views": 592634,
+   "views": 608493,
    "url": "https://www.youtube.com/watch?v=hf96obsJIGU",
    "thumb": "https://i.ytimg.com/vi/hf96obsJIGU/hqdefault.jpg",
    "regions": [
@@ -5071,11 +5085,11 @@
    "comment": "映画「Shahad」の「Pradhama Drishtya Kuttakkar」公式ティーザーのようです。"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "id": "J6ILiEuUvM0",
    "title": "The Brain Song – “Weird Al” Yankovic",
    "channel": "alyankovic",
-   "views": 435625,
+   "views": 475237,
    "url": "https://www.youtube.com/watch?v=J6ILiEuUvM0",
    "thumb": "https://i.ytimg.com/vi/J6ILiEuUvM0/hqdefault.jpg",
    "regions": [
@@ -5085,11 +5099,11 @@
    "comment": "“Weird Al” Yankovicによる「The Brain Song」のようです。"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "id": "n2tCJGgsd6Y",
    "title": "I Beat FNAF 2 In A Bunny Costume...",
    "channel": "Joe Bart Games",
-   "views": 404173,
+   "views": 461434,
    "url": "https://www.youtube.com/watch?v=n2tCJGgsd6Y",
    "thumb": "https://i.ytimg.com/vi/n2tCJGgsd6Y/hqdefault.jpg",
    "regions": [
@@ -5097,20 +5111,6 @@
     "GB"
    ],
    "comment": "ウサギの着ぐるみを着てFNAF 2をクリアしたようです。(25文字)"
-  },
-  {
-   "rank": 10,
-   "id": "PJaRsW0H8-c",
-   "title": "Bodybuilding to Rizz SCHOOL GIRLS.. (Minecraft)",
-   "channel": "Cash",
-   "views": 403099,
-   "url": "https://www.youtube.com/watch?v=PJaRsW0H8-c",
-   "thumb": "https://i.ytimg.com/vi/PJaRsW0H8-c/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "マインクラフト内でボディビルと学校生活をテーマにした動画のようです。"
   }
  ]
 }
