@@ -68625,5 +68625,83 @@
   "date": "2026-09-02",
   "time": "08:00",
   "path": "/articles/20260902-anthropic-claude-fable-5-1-launch.html"
+ },
+ {
+  "title": "EU、ChatGPTを超大規模検索エンジンに指定し規制強化へ",
+  "lead": "欧州委員会は、OpenAIの「ChatGPT」をデジタルサービス法における超大規模検索エンジンに指定したと発表しました。同時にRedditやRobloxも規制強化の対象に加わります。",
+  "summary3": [
+   "EUがChatGPTを指定",
+   "超大規模検索エンジンへ",
+   "Reddit等も規制強化へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。EUの「内閣」にあたる行政執行機関の欧州委員会は、OpenAIのAIチャットボットである「ChatGPT」を、デジタルサービス法（DSA）における「超大規模オンライン検索エンジン」に指定したと発表しました。",
+   "今回の発表では、ChatGPTのほかにも、掲示板型ソーシャルニュースサイトの「Reddit」およびオンラインゲームプラットフォームの「Roblox」が、新たに規制強化の対象に含まれることが明らかにされました。",
+   "欧州委員会による今回の指定や規制強化の対象拡大は、デジタル市場におけるプラットフォームの責任をより厳格に問うものであり、今後の各サービスの運営や対応に注目が集まっています。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "EU",
+   "規制強化"
+  ],
+  "slug": "eu-chatgpt-large-scale-search-engine",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発・提供しているアメリカの人工知能企業です。"
+   },
+   {
+    "name": "Reddit",
+    "type": "company",
+    "desc": "アメリカ発祥の、多数の掲示板コミュニティからなるソーシャルニュースサイトです。"
+   },
+   {
+    "name": "Roblox",
+    "type": "company",
+    "desc": "ユーザーがゲームを作成し、他のユーザーと一緒に遊べるオンラインゲームプラットフォームです。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.techno-edge.net/article/2026/09/01/5448.html",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "09:00",
+  "path": "/articles/20260902-eu-chatgpt-large-scale-search-engine.html"
+ },
+ {
+  "title": "拒んだ患者が夢中になったAIメガネの正体",
+  "lead": "脳梗塞などで声を失った患者の意思疎通を支援するスマートグラスとAI技術の仕組みとは。ITmedia AI+の報道から開発の背景に迫ります。",
+  "summary3": [
+   "声を失った患者の意思疎通を支援",
+   "AI技術とスマートグラスを活用",
+   "開発元のロケットスタジオ等に取材"
+  ],
+  "body": [
+   "脳梗塞などで声を出せなくなった患者の意思疎通を支援するシステム「CommunicationBoard+AI」が注目を集めています。当初は「こんなのやっても」と拒んでいた患者が夢中になったというエピソードもあるこのシステムは、AI技術とスマートグラスを組み合わせて“話せる”仕組みを実現しています。",
+   "ITmedia AI+の報道によると、このシステムはロケットスタジオなどが開発を手掛けたものです。声を失った人々が再び円滑なコミュニケーションを行えるようにするための技術として、その具体的な仕組みや開発に至った背景、そして今後の展望について関係者への取材が行われました。",
+   "テクノロジーの進化によって、医療や福祉の現場におけるコミュニケーションの課題解決が進みつつあります。今回紹介されたAIメガネのような取り組みは、当事者の生活の質を大きく向上させる可能性を秘めており、今後の展開からも目が離せません。"
+  ],
+  "tags": [
+   "AI",
+   "スマートグラス",
+   "医療"
+  ],
+  "slug": "ai-glasses-communication-support",
+  "people": [],
+  "terms": [
+   {
+    "name": "ロケットスタジオ",
+    "type": "company",
+    "desc": "「CommunicationBoard+AI」などのシステム開発を手掛ける企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000000979/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "09:00",
+  "path": "/articles/20260902-ai-glasses-communication-support.html"
  }
 ]

@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-02 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-02 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AfterQueryが時価総額32億ドルで最速ユニコーンに",
-   "path": "/articles/20260902-afterquery-fastest-unicorn-3-2b.html",
-   "cat": "AI(海外)"
+   "title": "EU、ChatGPTを超大規模検索エンジンに指定し規制強化へ",
+   "path": "/articles/20260902-eu-chatgpt-large-scale-search-engine.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか",
-   "path": "/articles/20260902-anthropic-claude-fable-5-1-launch.html",
-   "cat": "AI(海外)"
+   "title": "拒んだ患者が夢中になったAIメガネの正体",
+   "path": "/articles/20260902-ai-glasses-communication-support.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 62,
   "limit": 200
  }
 }

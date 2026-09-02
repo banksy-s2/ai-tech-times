@@ -68703,5 +68703,39 @@
   "date": "2026-09-02",
   "time": "09:00",
   "path": "/articles/20260902-ai-glasses-communication-support.html"
+ },
+ {
+  "title": "GoPro、株価40%急騰の裏でAIデータセンターへ参入",
+  "lead": "アクションカメラで知られるGoProが、非公開のフォトニクス企業であるStarman Opticalと合併し、AIの波に乗ってデータセンター事業へ進出することを発表しました。この動きを受けて株価が40%急騰しています。",
+  "summary3": [
+   "GoProがAIデータセンターへ参入",
+   "非公開のStarman Opticalと合併",
+   "市場の好感により株価が40%急騰"
+  ],
+  "body": [
+   "アクションカメラのメーカーとして世界的に知られるGoProは、新たな事業展開としてAIの波に乗ることを明らかにしました。同社は非公開のフォトニクス企業であるStarman Opticalとの合併を進めており、データセンター分野へと大きく舵を切っています。",
+   "今回の事業転換とAI分野への参入という発表は市場で大きな話題となり、投資家の期待を集めました。その結果、同社の株価は40%も急騰するという驚異的な値上がりを見せています。",
+   "カメラ市場の枠を超えた今回のデータセンター事業への参入が、今後のGoProの業績やAI戦略にどのような影響を与えるのか、業界内外から高い注目が集まっています。"
+  ],
+  "tags": [
+   "GoPro",
+   "AI",
+   "データセンター"
+  ],
+  "slug": "gopro-ai-data-centers-pivot",
+  "people": [],
+  "terms": [
+   {
+    "name": "GoPro",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、アクションカメラの開発・販売で世界的に知られるハードウェアメーカーです。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "10:00",
+  "path": "/articles/20260902-gopro-ai-data-centers-pivot.html"
  }
 ]
