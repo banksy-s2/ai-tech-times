@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-02 19:01",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Appleの新CEO就任、AIと価格高騰の試練",
-   "path": "/articles/20260902-apple-enters-ternus-era-ai-challenges.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "PalantirのCEOがウクライナ前国防相の新防衛テックを支援する理由",
-   "path": "/articles/20260902-palantir-ceo-backs-ukraine-defense-startup.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-02 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 元人気カップルYouTuber、28歳で「FIRE」達成 月60万円が「寝てても"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 143,
+  "used": 146,
   "limit": 200
  }
 }
