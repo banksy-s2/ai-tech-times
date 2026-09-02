@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015181491000",
-  "https://news.web.nhk/newsweb/na/na-k10015181931000",
   "https://gigazine.net/news/20260721-apple-send-letter-openai-employees/",
   "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/",
   "https://gigazine.net/news/20260721-apple-genius-bar-live-note/",
@@ -1999,13 +1997,11 @@
   "https://www.itmedia.co.jp/business/articles/2609/02/news022.html",
   "https://news.web.nhk/newsweb/na/nd-20260902de47794",
   "https://news.web.nhk/newsweb/na/nd-20260902de47796",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcEZNMlE1UTh6UVRJR0s0bkVsSW10c1hpamZPWVh2c2tDdDFKTk1yaHpMa0ZsX0ZuN3RBQXY4ZGRWNDJQNnpGYWtOajZmTmpNVjNGd01OckFXX1c3RW5IRWRyUTNJNXRRNE9BSw?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcEZNMlE1UTh6UVRJR0s0bkVsSW10c1hpamZPWVh2c2tDdDFKTk1yaHpMa0ZsX0ZuN3RBQXY4ZGRWNDJQNnpGYWtOajZmTmpNVjNGd01OckFXX1c3RW5IRWRyUTNJNXRRNE9BSw?oc=5",
+  "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+  "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
  ],
  "titles": [
-  "Google just announced a major shakeup of its top AI leadership",
-  "Google、デミス・ハサビス氏らトップAI人事の大規模刷新を発表",
-  "ＹｏｕＴｕｂｅｒ・ヒカルが立川志らくの弟子“立川さぎ志”として独演会に 志らくは「いい弟子を持った」と大絶賛 ９月２３日には追加公演も（スポーツ報知） - Yahoo!ニュース",
-  "立川志らくの弟子になった立川さぎ志とは",
   "北朝鮮 キム・ヨジョン氏が護衛艦からのトマホークの実射非難",
   "キム・ヨジョン氏、海自護衛艦トマホーク実射を非難なぜ",
   "日経平均株価、続伸 終値2342円高の6万6300円 - 日本経済新聞",
@@ -4001,6 +3997,10 @@
   "三菱自動車が新型パジェロを公開、復活の狙いとは",
   "陸上自衛隊が攻撃用小型無人機を初めて公開、訓練で何が？",
   "日経平均、終値1889円安 世界金利高でよぎる「うたげの終わり」 - 日本経済新聞",
-  "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり"
+  "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
+  "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+  "NYC bans AI use for students until they reach high school",
+  "OpenAI、30件の訴訟で加担疑惑なぜ浮上",
+  "ニューヨーク市、高校未満のAI利用を禁止する理由"
  ]
 }

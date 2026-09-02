@@ -70238,5 +70238,77 @@
   "date": "2026-09-02",
   "time": "23:02",
   "path": "/articles/20260902-nikkei-average-drops-1889-yen.html"
+ },
+ {
+  "title": "OpenAI、30件の訴訟で加担疑惑なぜ浮上",
+  "lead": "OpenAIとサム・アルトマンCEOに対し、カナダの学校銃撃事件を巡り「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。",
+  "summary3": [
+   "OpenAIに30件の新たな訴訟",
+   "カナダの銃撃事件への加担疑惑",
+   "カリフォルニア州の連邦裁判所"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、米OpenAIとその最高経営責任者（CEO）であるサム・アルトマン氏に対し、カナダで発生したタムラーリッジの学校銃撃事件の容疑者に対して「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。",
+   "この新たな一連の訴訟は、水曜日にカリフォルニア州の連邦裁判所へ提出されました。原告には、同事件に関わる学生、教師、そして校長が含まれていると報じられています。",
+   "今回の訴訟が今後のAI企業の法的責任や開発における管理体制にどのような影響を与えるのか、国内外のテック業界から大きな注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "裁判",
+   "AI規制"
+  ],
+  "slug": "openai-tumbler-ridge-lawsuit",
+  "people": [
+   {
+    "name": "サム・アルトマン氏",
+    "bio": "米OpenAIの最高経営責任者（CEO）。対話型AI「ChatGPT」の開発を率いる業界の中心人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする人工知能の研究開発企業。対話型AI「ChatGPT」などを手掛ける。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "00:02",
+  "path": "/articles/20260903-openai-tumbler-ridge-lawsuit.html"
+ },
+ {
+  "title": "ニューヨーク市、高校未満のAI利用を禁止する理由",
+  "lead": "ニューヨーク市は、公立学校の生徒を対象に、高校に達するまでのAI利用を1年間禁止する新方針を発表しました。",
+  "summary3": [
+   "ニューヨーク市が学校でのAI利用を禁止",
+   "2Kから中学8年生までの約60万人が対象",
+   "2026-2027年度から1年間のモラトリアム"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。ニューヨーク市のゾフラン・マムダニ市長は本日、より若い学齢期の子供たちが教室でAIを使用することを禁止する新しい方針を発表しました。",
+   "2026-2027年度に実施されるこの1年間のモラトリアムは、2Kから中学8年生までの公立学校に通う約60万人の生徒に影響を及ぼすことになります。",
+   "この新しい方針は、デジタルデバイスに対する追加の制限とともに導入される予定となっています。"
+  ],
+  "tags": [
+   "ニューヨーク市",
+   "AI規制",
+   "教育"
+  ],
+  "slug": "nyc-ai-restrictions-in-schools",
+  "people": [
+   {
+    "name": "ゾフラン・マムダニ市長",
+    "bio": "ニューヨーク市の市長を務め、新たに学校でのAI利用禁止の方針を発表した。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "00:02",
+  "path": "/articles/20260903-nyc-ai-restrictions-in-schools.html"
  }
 ]

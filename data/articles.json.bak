@@ -70205,5 +70205,38 @@
   "date": "2026-09-02",
   "time": "22:01",
   "path": "/articles/20260902-ground-self-defense-force-attack-drone.html"
+ },
+ {
+  "title": "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
+  "lead": "日本経済新聞の報道によると、日経平均株価の終値が1889円安となり、世界金利高を背景に「うたげの終わり」がよぎる展開となりました。",
+  "summary3": [
+   "日経平均株価の終値は1889円安を記録",
+   "世界金利高が市場に大きな影響を与える",
+   "「うたげの終わり」がよぎる展開に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする本日の株式市場の動きです。日本経済新聞の報道によると、日経平均株価は終値で1889円安という大幅な下落を記録しました。市場では世界的な金利高への懸念が強まっており、株価の急落を受けて投資家の間では「うたげの終わり」がよぎる状況となっています。",
+   "今回の株価変動は世界金利高が主な要因として挙げられており、市場参加者の間では今後の動向に対する警戒感が広がっています。株価の急激な変動は、日々の経済活動や資産運用に直結する重要なニュースとして注目を集めています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "世界金利高"
+  ],
+  "slug": "nikkei-average-drops-1889-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する経済を中心としたニュースを扱う日刊の全国紙です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wcEZNMlE1UTh6UVRJR0s0bkVsSW10c1hpamZPWVh2c2tDdDFKTk1yaHpMa0ZsX0ZuN3RBQXY4ZGRWNDJQNnpGYWtOajZmTmpNVjNGd01OckFXX1c3RW5IRWRyUTNJNXRRNE9BSw?oc=5",
+  "category": "stock",
+  "date": "2026-09-02",
+  "time": "23:02",
+  "path": "/articles/20260902-nikkei-average-drops-1889-yen.html"
  }
 ]
