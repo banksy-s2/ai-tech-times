@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-02 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-02 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？",
-   "path": "/articles/20260902-nec-claude-mythos-introduction.html",
-   "cat": "日本のAI"
+   "title": "Appleの新CEO就任、AIと価格高騰の試練",
+   "path": "/articles/20260902-apple-enters-ternus-era-ai-challenges.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "LLM-jpが約9Bパラメータの視覚言語モデルを公開",
-   "path": "/articles/20260902-llm-jp-4-vl-9b-release.html",
-   "cat": "日本のAI"
+   "title": "PalantirのCEOがウクライナ前国防相の新防衛テックを支援する理由",
+   "path": "/articles/20260902-palantir-ceo-backs-ukraine-defense-startup.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 138,
+  "used": 143,
   "limit": 200
  }
 }

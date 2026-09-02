@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015181481000",
-  "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
   "https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/",
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeDNEbU9nTEpqb1NZdWNabDJoZUdvQkJsR0FiTExXb2VDbmdQWHM4M0RMUkFocjZiSm5IRGhCYk90WjlqVFVjZEpWYkFTSWtsc0xZdk9LZm1hOUJXY1lQdnktQWhmTFB6MldvRUJpbkc5dmZCZFJHdXZ0MEVtYmlUQXBSV2RWemVfYzNoMDN3?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015181591000",
@@ -1999,13 +1997,11 @@
   "https://www.nikkei.com/article/DGXZQOGN01BSH0R00C26A9000000/",
   "https://www.itmedia.co.jp/business/articles/2609/02/news028.html",
   "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
-  "https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/"
+  "https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/",
+  "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+  "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html"
  ],
  "titles": [
-  "「準国産」うたう人型ロボ登場　本体価格は500万円から　目指すは「純国産」",
-  "Gemini“ヘビーユーザー”が1年で10倍に　「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ",
-  "AMD plummets 8% in premarket trading despite beating expectations",
-  "TOHOシネマズ大井町、空調トラブルで“サウナ状態”も上映強行か、運営は「取材お断わり」問われる映画館の“安全配慮” | 週刊女性PRIME",
   "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
   "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
   "高市首相、日銀総裁に「国債買い入れ」要請　積極財政にらみ、金利抑制狙う：時事ドットコム",
@@ -4001,6 +3997,10 @@
   "NEC、先進AI「Claude Mythos」ついに導入　Anthropic主導“セキュリティ防衛連合”で、何ができる？",
   "LLM-jp-4-VL 9Bリリース - LLM-jp",
   "NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？",
-  "LLM-jpが約9Bパラメータの視覚言語モデルを公開"
+  "LLM-jpが約9Bパラメータの視覚言語モデルを公開",
+  "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+  "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
+  "Appleの新CEO就任、AIと価格高騰の試練",
+  "PalantirのCEOがウクライナ前国防相の新防衛テックを支援する理由"
  ]
 }

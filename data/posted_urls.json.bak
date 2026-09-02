@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015181561000",
-  "https://news.web.nhk/newsweb/na/na-k10015181411000",
   "https://news.web.nhk/newsweb/na/na-k10015181481000",
   "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
   "https://gigazine.net/news/20260720-netflix-paid-587-million-ben-affleck-ai-startup-interpositive/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjdVbFNvQVFGdXlOaGtmWk1XblV0dksycE9ldER4RzVOdkVfVHN1bGV1WWdIbm5sbDlzWUc2QUN5MEc1N0xXcEpVaDNBb3lxOU1YZHVyZmZudkJqa3Rfb252U3VrUXRlTWxLQ1d6N1dKcVdPNkZOOWxvWnBIZW5XZWphNVJ2MC1GT2IzY1pDTGJJd3p2SlHSAYgBQVVfeXFMT2swajhyaGM5Nk1PSkVTUHRDVWdqenVDbXVhVmxaTFhwTUlBZTZiNDMxZkpyOGFuQWg1SlBSbVByckJyRGlxaDNaMC0yLVcyWl9fVzBBblBRbDlORXRjb2dVbWtIdmVadHBjdGxKSHJBMXkyT2NKRzdPTHFPRDd1MXIwZ2NSVkF0dg?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260902de47792",
   "https://www.nikkei.com/article/DGXZQOGN01BSH0R00C26A9000000/",
-  "https://www.itmedia.co.jp/business/articles/2609/02/news028.html"
+  "https://www.itmedia.co.jp/business/articles/2609/02/news028.html",
+  "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
+  "https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/"
  ],
  "titles": [
-  "【ドカ食いダイスキ！ もちづきさん】TVアニメ製作決定！",
-  "白泉社の『ドカ食いダイスキ！ もちづきさん』がTVアニメ化決定",
-  "Google Assistant will disappear from your phone next month",
-  "AI makes weather prediction better. Can WindBorne make it lucrative?",
   "「準国産」うたう人型ロボ登場　本体価格は500万円から　目指すは「純国産」",
   "Gemini“ヘビーユーザー”が1年で10倍に　「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ",
   "AMD plummets 8% in premarket trading despite beating expectations",
@@ -4001,6 +3997,10 @@
   "人気YouTuberが暴露した2000円超えのアメリカ軽食",
   "車田正美さんの会社、28億円余求め提訴へ",
   "ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」",
-  "アシックスが売上高1兆円目前の理由、箱根駅伝着用ゼロからどう復活したか"
+  "アシックスが売上高1兆円目前の理由、箱根駅伝着用ゼロからどう復活したか",
+  "NEC、先進AI「Claude Mythos」ついに導入　Anthropic主導“セキュリティ防衛連合”で、何ができる？",
+  "LLM-jp-4-VL 9Bリリース - LLM-jp",
+  "NECが「Claude Mythos」導入、セキュリティ防衛連合で何ができる？",
+  "LLM-jpが約9Bパラメータの視覚言語モデルを公開"
  ]
 }
