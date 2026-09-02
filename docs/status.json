@@ -1,17 +1,21 @@
 {
- "updated": "2026-09-03 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-09-03 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "クールジャパン機構の誤算、540億円の赤字を生んだ理由",
+   "path": "/articles/20260903-cool-japan-deficit-analysis.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
- "notes": [
-  "執筆失敗: 日経平均株価、3日続落 終値1889円安の6万4325円 - 日本経済新聞"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 28,
   "limit": 200
  }
 }
