@@ -70411,5 +70411,39 @@
   "date": "2026-09-03",
   "time": "02:00",
   "path": "/articles/20260903-google-buys-geothermal-power-from-fervo.html"
+ },
+ {
+  "title": "GoPro株価が2週間で動いた理由とは",
+  "lead": "GoProの株価が2週間で変動した背景について、筆頭株主であるYouTuberの存在や合併への動きが注目されています。",
+  "summary3": [
+   "GoProの株価が2週間で変動した",
+   "筆頭株主がYouTuberであると報じられた",
+   "足りずに合併へと向かう動きがある"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする注目のニュースです。アクションカメラの代名詞として知られるGoProをめぐり、その株価が直近の2週間で大きく動いたことが話題となっています。",
+   "元記事の情報によると、今回の株価変動の背景には、筆頭株主がYouTuberであるという特殊な状況が存在しています。しかし、それだけでは足りずに合併へと舵を切る事態となっています。",
+   "詳細な経緯や今後の動向については引き続き報じられており、今後の市場における位置づけや企業戦略の変化に多くの関心が寄せられています。"
+  ],
+  "tags": [
+   "GoPro",
+   "株価",
+   "YouTuber"
+  ],
+  "slug": "gopro-stock-price-movement-reasons",
+  "people": [],
+  "terms": [
+   {
+    "name": "GoPro",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、アクションカメラの開発・販売を手がけることで世界的に有名な企業です。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ubTBvNHJvZjJhVGY0RVNNNmtyNHQtcDZYWWhQa21NTm1aVkZkZDNCdDFJQ1VwZ2hMWS1VQTlZQXZuNTBQalE?oc=5",
+  "category": "influencer",
+  "date": "2026-09-03",
+  "time": "03:01",
+  "path": "/articles/20260903-gopro-stock-price-movement-reasons.html"
  }
 ]

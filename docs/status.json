@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-03 03:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-03 04:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "GoPro株価が2週間で動いた理由とは",
-   "path": "/articles/20260903-gopro-stock-price-movement-reasons.html",
-   "cat": "インフルエンサー"
+   "title": "ロシア外務省、日米豪の共同訓練に対抗措置をとると警告",
+   "path": "/articles/20260903-russia-warns-japan-us-australia-drills.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 16,
+  "used": 20,
   "limit": 200
  }
 }
