@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-02 16:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Googleがハリウッドの大手スタジオに巨額の資金でAI学習のライセンス契約を打診](https://ai-tech-times.web.app/articles/20260902-google-needs-hollywood-ai.html) — 2026-09-02 16:01: AI開発を進めるGoogleが、著作物を用いたAIモデルの訓練許可を得るため、ハリウッドの大手スタジオに接触していることが分かりました。
+- [OpenAI、安全性強化へ「Astra」開発延期の理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-development-delayed.html) — 2026-09-02 16:01: OpenAIは、未発表モデルの騒動を受けて安全性作業を強化するため、別の未発表モデルスイート「Astra」の開発を遅らせると発表しました。
 - [キューデンHD、10月1日に東証プライム・福証へ上場](https://ai-tech-times.web.app/articles/20260902-kyuden-hd-listing-october-1.html) — 2026-09-02 15:00: キューデンHDが10月1日に東証プライム市場および福証へ上場することが明らかになりました。同時に九州電力は完全子会社となります。
 - [高市政権下で長期金利一時3%上昇、財政拡張に市場が警鐘](https://ai-tech-times.web.app/articles/20260902-long-term-interest-rates-rise-under-takaichi-administration.html) — 2026-09-02 14:00: 長期金利の指標となる新発10年物国債利回りが一時3%まで上昇し、高市早苗政権の政策を縛る要因となっています。国債の利払いが膨らむ影響で減税や歳出拡大の余地が狭まっています。
 - [日経平均株価 一時1900円超下落の理由](https://ai-tech-times.web.app/articles/20260902-stock-market-decline-sep-2026.html) — 2026-09-02 13:00: 2日の東京株式市場で、日経平均株価が午前中に一時1900円を超える大幅な値下がりとなりました。
@@ -40,8 +42,6 @@
 - [EU、ChatGPTを超大規模検索エンジンに指定し規制強化へ](https://ai-tech-times.web.app/articles/20260902-eu-chatgpt-large-scale-search-engine.html) — 2026-09-02 09:00: 欧州委員会は、OpenAIの「ChatGPT」をデジタルサービス法における超大規模検索エンジンに指定したと発表しました。同時にRedditやRobloxも規制強化の対象に加わります。
 - [拒んだ患者が夢中になったAIメガネの正体](https://ai-tech-times.web.app/articles/20260902-ai-glasses-communication-support.html) — 2026-09-02 09:00: 脳梗塞などで声を失った患者の意思疎通を支援するスマートグラスとAI技術の仕組みとは。ITmedia AI+の報道から開発の背景に迫ります。
 - [AfterQueryが時価総額32億ドルで最速ユニコーンに](https://ai-tech-times.web.app/articles/20260902-afterquery-fastest-unicorn-3-2b.html) — 2026-09-02 08:00: AIモデル学習を手がけるAfterQueryが、新たな資金調達ラウンドで32億ドルの評価額に達したことが報じられました。4月にシリーズAを資金調達したばかりの同社が、Y Combinatorの歴史上最速でユニコーン企業となった背景に迫ります。
-- [Anthropicの新モデルClaude Fable 5.1、エージェント業務で最大45%安くなったのはなぜか](https://ai-tech-times.web.app/articles/20260902-anthropic-claude-fable-5-1-launch.html) — 2026-09-02 08:00: AI開発を手がけるAnthropicは、新モデル「Claude Fable 5.1」および「Mythos 5.1」を発表しました。価格やデータ保持、過剰なセーフガードに関する顧客からの批判に対応し、エージェント業務でのコスト削減を実現しています。
-- [OpenAIの新モデルAstra、PCハッキングが極めて得意な理由](https://ai-tech-times.web.app/articles/20260902-openai-astra-model-cybersecurity.html) — 2026-09-02 07:02: OpenAIは、サイバーセキュリティ分野において重大な影響を持つ最新の大規模言語モデル「Astra」のリリースを控え、導入を進めている安全対策についてプレビューを公開しました。
 
 ## 世界のバズ動画TOP3 (2026-09-02)
 - 1位: [Felix "Slow It Down" | [Stray Kids : SKZ-PLAYER]](https://www.youtube.com/watch?v=YWsczzufh6Q)

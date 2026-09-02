@@ -69181,5 +69181,39 @@
   "date": "2026-09-02",
   "time": "14:00",
   "path": "/articles/20260902-long-term-interest-rates-rise-under-takaichi-administration.html"
+ },
+ {
+  "title": "キューデンHD、10月1日に東証プライム・福証へ上場",
+  "lead": "キューデンHDが10月1日に東証プライム市場および福証へ上場することが明らかになりました。同時に九州電力は完全子会社となります。",
+  "summary3": [
+   "キューデンHDが10月1日に上場へ",
+   "東京証券取引所プライム市場と福証へ上場",
+   "九州電力はキューデンHDの完全子会社に"
+  ],
+  "body": [
+   "ニュースサイト「NetIB-News」の報道によると、キューデンHDは10月1日に東証プライム市場および福証（福岡証券取引所）へ上場する予定です。",
+   "今回の組織再編に伴い、九州電力はキューデンHDの完全子会社となることが決定しています。",
+   "詳細な上場スケジュールや今後の動向については、引き続き関連情報の発表に注目が集まります。"
+  ],
+  "tags": [
+   "キューデンHD",
+   "九州電力",
+   "上場"
+  ],
+  "slug": "kyuden-hd-listing-october-1",
+  "people": [],
+  "terms": [
+   {
+    "name": "九州電力",
+    "type": "company",
+    "desc": "福岡県福岡市に本社を置く、九州地方を主な供給区域とする電力会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DV3BSQkk3VG1sRFJrMm13QzU1NWtXSWhySlZpMDZPRlVLVU1DVXpNTkJBMFozQ0lNY1JqcTlxbWhmYy1GVlJvWEJWcWxYdXBIcEE?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-02",
+  "time": "15:00",
+  "path": "/articles/20260902-kyuden-hd-listing-october-1.html"
  }
 ]
