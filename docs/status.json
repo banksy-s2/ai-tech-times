@@ -1,21 +1,65 @@
 {
- "updated": "2026-09-02 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-02 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "石川雅規、スワローズひと筋25年で188勝の決断",
-   "path": "/articles/20260902-yakult-ishikawa-retirement.html",
+   "title": "ChatGPT Health、Epic連携で医療現場に何をもたらすか",
+   "path": "/articles/20260902-chatgpt-health-epic-integration.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Anthropicの新AI、コスト最大45％減なのに高性能な理由",
+   "path": "/articles/20260902-claude-fable-mythos-5-1-release.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "WOGO、3Dモデルから2D図面を数分で自動生成するソフト提供開始",
+   "path": "/articles/20260902-wogo-hacadly-2d-auto-drafting.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "パロアルトネットワークス株が約2倍に、AI需要で予想上回る",
+   "path": "/articles/20260902-palo-alto-networks-q4-2026-earnings.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "福島大の動画がSNSで波紋、学長声明で何が？",
+   "path": "/articles/20260902-fukushima-u-youtube-controversy.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "長期金利が3.015％に一時上昇、約30年ぶりの高水準へ",
+   "path": "/articles/20260902-long-term-interest-rate-rises-to-3-015-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米イランが直接攻撃、トランプ大統領の報復は",
+   "path": "/articles/20260902-us-iran-direct-attack-trump-retaliation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日本相互証券：長期金利が一時3.015％に上昇、1996年以来約30年ぶりの高水準",
+   "path": "/articles/20260902-long-term-interest-rate-rises-to-3-percent.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "BASEとSBIホールディングス、コマース×金融のFintech事業共同展開へ",
+   "path": "/articles/20260902-base-sbi-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: OpenAI delayed its new model’s developme",
+  "執筆失敗: OpenAI says Astra AI model is its first ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 70,
+  "used": 97,
   "limit": 200
  }
 }

@@ -68765,5 +68765,327 @@
   "date": "2026-09-02",
   "time": "11:00",
   "path": "/articles/20260902-yakult-ishikawa-retirement.html"
+ },
+ {
+  "title": "ChatGPT Health、Epic連携で医療現場に何をもたらすか",
+  "lead": "OpenAIが提供する「ChatGPT Health」に、電子カルテシステムとの連携機能が新たに追加されました。臨床医が患者データをインポートできるようになり、診療現場での活用が広がります。",
+  "summary3": [
+   "ChatGPT HealthにEpic連携機能が追加",
+   "臨床医が患者データをインポート可能に",
+   "医療記録への読み取り専用アクセスを提供"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。AI開発を手がけるOpenAIは、医療分野向けの「ChatGPT Health」において、新たにEpicとの連携機能を導入したことを発表しました。",
+   "この新しい統合機能により、臨床医はシステムを通じて患者の健康記録データへアクセスできるようになります。提供されるアクセスは読み取り専用となっており、安全性を考慮した設計がなされているのが特徴です。",
+   "今回の機能追加は、医療現場におけるデータ管理や確認作業の効率化を支援するものです。日々の診療において膨大な情報を扱う臨床医にとって、確実なデータ連携がどのような変化をもたらすのか、今後の展開が注目されます。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "医療AI",
+   "OpenAI"
+  ],
+  "slug": "chatgpt-health-epic-integration",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIなどの革新的なテクノロジーを多数発表していることで知られています。"
+   },
+   {
+    "name": "ChatGPT Health",
+    "type": "ai",
+    "desc": "医療従事者や患者の健康管理をサポートするために開発された、医療分野向けのAIサービス製品です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+  "category": "ai",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-chatgpt-health-epic-integration.html"
+ },
+ {
+  "title": "Anthropicの新AI、コスト最大45％減なのに高性能な理由",
+  "lead": "Anthropicが2026年9月1日にリリースした「Claude Fable 5.1」と「Claude Mythos 5.1」。性能を向上させながらコスト削減と安全対策の強化を実現しています。",
+  "summary3": [
+   "Anthropicが新型AIをリリース",
+   "Fable 5.1は最大45%安価に",
+   "誤検出を60%削減し安全性が向上"
+  ],
+  "body": [
+   "AI開発企業のAnthropicは、現地時間の2026年9月1日に「Claude Fable 5.1」と「Claude Mythos 5.1」を新たにリリースしました。今回の発表では、コストパフォーマンスと安全性の両面における大幅なアップデートが明らかにされています。",
+   "中でも「Claude Fable 5.1」は、前世代モデルであるClaude Fable 5と比較してより高い性能を備えているにもかかわらず、コストを最大45％削減することに成功しました。これにより、ユーザーはより高性能なAIを手頃な費用で利用できるようになります。",
+   "さらに、安全対策システムもアップデートされており、誤検出が60％減少しました。コストを抑えつつ精度の高い運用が可能になったことで、今後の業務効率化やAI活用の幅がさらに広がることが期待されます。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AIニュース"
+  ],
+  "slug": "claude-fable-mythos-5-1-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。"
+   },
+   {
+    "name": "Claude Fable 5.1",
+    "type": "ai",
+    "desc": "Anthropicが2026年9月1日に発表した高性能なAIモデルです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260902-claude-fable-mythos-5-1/",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-claude-fable-mythos-5-1-release.html"
+ },
+ {
+  "title": "WOGO、3Dモデルから2D図面を数分で自動生成するソフト提供開始",
+  "lead": "WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始しました。3Dモデルから短時間で図面を自動作成し、各社のルールにも対応します。",
+  "summary3": [
+   "WOGOが新ソフトの提供を開始",
+   "3Dから2D図面を数分で自動作成",
+   "各社固有の製図ルールに対応"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始しました。",
+   "このソフトウェアは、3Dモデルから寸法、公差、注記、表題欄を含む2D図面を1図面当たり数分で自動生成できる点が特徴です。さらに、各社固有の製図ルールにも対応する機能を備えています。",
+   "設計業務の効率化を図る新たなツールとして、今後の展開が注目される製品となっています。"
+  ],
+  "tags": [
+   "AI",
+   "機械設計",
+   "自動製図"
+  ],
+  "slug": "wogo-hacadly-2d-auto-drafting",
+  "people": [],
+  "terms": [
+   {
+    "name": "WOGO",
+    "type": "company",
+    "desc": "機械設計向けのAI自動製図ソフトウェアなどを開発・提供している企業です。"
+   },
+   {
+    "name": "Hacadly 2D自動製図",
+    "type": "ai",
+    "desc": "WOGOが提供する機械設計向けAI自動製図ソフトウェアで、3Dモデルから2D図面を数分で自動生成します。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html",
+  "category": "ai_jp",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-wogo-hacadly-2d-auto-drafting.html"
+ },
+ {
+  "title": "パロアルトネットワークス株が約2倍に、AI需要で予想上回る",
+  "lead": "米CNBC Techによると、パロアルトネットワークスはAIの需要を背景に四半期決算で予想を上回る実績を記録しました。今年に入り株価は約2倍に上昇しています。",
+  "summary3": [
+   "パロアルトの四半期決算が予想超え",
+   "AIがセキュリティ検出を後押し",
+   "今年に入り株価が約2倍に上昇"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新のITニュースです。海外メディアのCNBC Techの報道によると、パロアルトネットワークスの四半期決算が市場予想を上回りました。この背景には、AIがセキュリティの検出および対応ツールの需要を強く押し上げている実態があります。",
+   "人工知能の急速な普及に伴い、企業におけるセキュリティ対策の重要性はこれまで以上に高まっています。同社が提供するセキュリティ検出・対応ツールは、多くの現場で導入が進み、業績の向上に大きく貢献していることが今回の決算から浮き彫りになりました。",
+   "こうした好調な業績とAI需要を追い風に、同社の株価は今年に入ってから約2倍にまで急上昇しています。さらに、同社は積極的な買収攻勢も継続しており、今後の動向からますます目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "AI",
+   "サイバーセキュリティ",
+   "決算"
+  ],
+  "slug": "palo-alto-networks-q4-2026-earnings",
+  "people": [],
+  "terms": [
+   {
+    "name": "パロアルトネットワークス",
+    "type": "company",
+    "desc": "米国に拠点を置き、次世代ファイアウォールなどのサイバーセキュリティ製品を提供する世界的な企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+  "category": "silicon",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-palo-alto-networks-q4-2026-earnings.html"
+ },
+ {
+  "title": "福島大の動画がSNSで波紋、学長声明で何が？",
+  "lead": "学系YouTuberが投稿した福島大に関する動画が、SNS上で大きな波紋を呼んでいます。",
+  "summary3": [
+   "学系YouTuberの動画が波紋",
+   "偏差値や被災地への影響が議論",
+   "学長が尊厳に関する声明を発表"
+  ],
+  "body": [
+   "「偏差値ネタ」なのか「被災地への無神経さ」なのかを巡り、学系YouTuberが投稿した福島大に関する動画がSNS上で大きな波紋を広げています。",
+   "ネット上では動画の内容や表現について様々な意見や議論が飛び交い、注目を集める事態となりました。",
+   "こうした状況を受け、福島大の学長が声明を発表し、尊厳を傷つけてはならないとの見解を示しています。"
+  ],
+  "tags": [
+   "福島大",
+   "YouTube",
+   "SNS"
+  ],
+  "slug": "fukushima-u-youtube-controversy",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BOUZ6M2l5Y1A5WmExaTk1Mnc0THYxQkEydGs5eHNKN1gyRWpSTnc1eGRCTGlYMWdlVHpzbWppczdaWnpZMkdDLVpWbF81d0FTQloyazlGQUJ0RnQ5OGJLaDNlV3NFUUdWVnZrTi1WczY4ampKcW8xNEgxYkVGeVE?oc=5",
+  "category": "influencer",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-fukushima-u-youtube-controversy.html"
+ },
+ {
+  "title": "長期金利が3.015％に一時上昇、約30年ぶりの高水準へ",
+  "lead": "債券市場で長期金利が上昇し、代表的な指標である10年もの国債利回りが一時3.015％に達しました。イラン情勢の緊迫化に伴うインフレ懸念が背景にあります。",
+  "summary3": [
+   "長期金利が一時3.015％に上昇しました",
+   "1996年9月以来およそ30年ぶりの高水準です",
+   "イラン情勢緊迫化によるインフレ懸念が背景です"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の市場動向です。債券市場では2日も長期金利の上昇が続き、代表的な指標である10年ものの国債の利回りが一時、3.015％まで上昇しました。",
+   "日本相互証券によりますと、この水準は1996年9月以来となり、およそ30年ぶりの高い水準を記録しています。",
+   "今回の長期金利の上昇は、イラン情勢の緊迫化に伴うインフレ懸念が意識されたことによるものです。今後の市場の動きや経済への影響について、引き続き注意深く見ていく必要があります。"
+  ],
+  "tags": [
+   "長期金利",
+   "経済ニュース",
+   "債券市場"
+  ],
+  "slug": "long-term-interest-rate-rises-to-3-015-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本相互証券",
+    "type": "company",
+    "desc": "日本の債券市場において重要な役割を担う証券会社の一つです。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260902de47751",
+  "category": "world",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-long-term-interest-rate-rises-to-3-015-percent.html"
+ },
+ {
+  "title": "米イランが直接攻撃、トランプ大統領の報復は",
+  "lead": "アメリカとイランの間でおよそ1か月ぶりに直接の攻撃が交わされ、トランプ大統領が報復措置をとる考えを明らかにしました。",
+  "summary3": [
+   "米イラン間で約1か月ぶりの直接攻撃",
+   "トランプ大統領が報復の意向を示す",
+   "ペゼシュキアン大統領は外交解決を強調"
+  ],
+  "body": [
+   "アメリカとイランの間において、およそ1か月ぶりとなる直接の攻撃が交わされたことが明らかになりました。緊迫する情勢を受け、今後の動向に世界的な注目が集まっています。",
+   "この事態を受け、アメリカのトランプ大統領はイランに対して報復措置をとる考えを明らかにしました。さらなる緊張の激化が懸念される状況となっています。",
+   "一方、イランのペゼシュキアン大統領は、外交による解決を望んでいることを強く強調しました。軍事的な衝突が続く中での今後の対応が注目されます。"
+  ],
+  "tags": [
+   "アメリカ",
+   "イラン",
+   "国際情勢"
+  ],
+  "slug": "us-iran-direct-attack-trump-retaliation",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。国内外の政策において強いリーダーシップを発揮する政治家。"
+   },
+   {
+    "name": "ペゼシュキアン大統領",
+    "bio": "イランの大統領。外交による問題解決などを掲げる同国の指導者。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260901de47536",
+  "category": "world",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-us-iran-direct-attack-trump-retaliation.html"
+ },
+ {
+  "title": "日本相互証券：長期金利が一時3.015％に上昇、1996年以来約30年ぶりの高水準",
+  "lead": "債券市場で長期金利が上昇し、10年もの国債の利回りが一時3.015％を記録しました。これは1996年9月以来、およそ30年ぶりの高い水準となります。",
+  "summary3": [
+   "長期金利が一時3.015％に上昇しました",
+   "1996年9月以来約30年ぶりの高い水準です",
+   "イラン情勢の緊迫化によるインフレ懸念が背景です"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたNHK経済のニュースによると、2日も債券市場において長期金利の上昇が続きました。代表的な指標である10年ものの国債の利回りが一時、3.015％まで上昇する展開となりました。",
+   "日本相互証券の発表によれば、この水準は1996年9月以来、およそ30年ぶりとなる高水準です。今回の金利上昇は、イラン情勢の緊迫化に伴うインフレ懸念が意識された動きとなっています。"
+  ],
+  "tags": [
+   "長期金利",
+   "国債",
+   "経済"
+  ],
+  "slug": "long-term-interest-rate-rises-to-3-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本相互証券",
+    "type": "company",
+    "desc": "日本の国債などの債券市場において、ブローカー業務を行う日本の証券会社です。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260902de47751",
+  "category": "stock",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-long-term-interest-rate-rises-to-3-percent.html"
+ },
+ {
+  "title": "BASEとSBIホールディングス、コマース×金融のFintech事業共同展開へ",
+  "lead": "BASEは、SBIホールディングスと資本業務提携を締結しました。両社はコマースと金融を組み合わせたFintech事業の共同展開などを推進します。",
+  "summary3": [
+   "BASEがSBIホールディングスと資本業務提携",
+   "コマース×金融のFintech事業を共同展開へ",
+   "両社の強みを活かした新事業の推進を狙う"
+  ],
+  "body": [
+   "ネットショップ作成サービスなどを展開するBASEは、SBIホールディングスとの間で資本業務提携を締結したと発表しました。今回の提携により、両社はコマースと金融を掛け合わせた「Fintech事業」の共同展開などを推進していく方針です。",
+   "BASEが持つEコマース領域の基盤やノウハウと、SBIホールディングスが有する幅広い金融ネットワークや知見を組み合わせることで、新たなサービスの創出や事業シナジーの最大化を図ります。",
+   "具体的な事業展開の詳細や今後のスケジュールについては順次進められる予定であり、両社の協業によってどのような金融サービスが提供されるのか、今後の動きに注目が集まっています。"
+  ],
+  "tags": [
+   "BASE",
+   "SBIホールディングス",
+   "Fintech"
+  ],
+  "slug": "base-sbi-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "BASE",
+    "type": "company",
+    "desc": "誰でも簡単にネットショップが作成できるサービスなどを運営する日本のIT企業です。"
+   },
+   {
+    "name": "SBIホールディングス",
+    "type": "company",
+    "desc": "証券や銀行などの金融事業を中心に幅広い投資・金融サービスを展開する日本の企業グループです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVEV4cWlMbWFBMXNPTzZyNDB4YmM4SHBaakxnTEdDX005TFA1SVNwUWFBVnZQZGU1Yi1EY0FQSGRsSkM2ek9hdExtZ2pCNDg?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-02",
+  "time": "12:02",
+  "path": "/articles/20260902-base-sbi-capital-business-alliance.html"
  }
 ]

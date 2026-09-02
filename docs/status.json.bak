@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-02 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-02 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "GoPro、株価40%急騰の裏でAIデータセンターへ参入",
-   "path": "/articles/20260902-gopro-ai-data-centers-pivot.html",
-   "cat": "シリコンバレー最速"
+   "title": "石川雅規、スワローズひと筋25年で188勝の決断",
+   "path": "/articles/20260902-yakult-ishikawa-retirement.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [
-  "執筆失敗: OpenAI says Astra AI model is its first "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 67,
+  "used": 70,
   "limit": 200
  }
 }
