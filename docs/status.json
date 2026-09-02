@@ -1,65 +1,26 @@
 {
- "updated": "2026-09-02 21:05",
- "mode": "フル便",
+ "updated": "2026-09-02 22:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AIRが5000万ドル調達、企業向けAIエージェント管理の狙い",
-   "path": "/articles/20260902-air-raises-50m-ai-agents.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "GoProが約460億円で買収され、AIインフラ分野へ進出する理由",
-   "path": "/articles/20260902-gopro-acquired-by-starman-optical-for-460-billion-yen.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Dysonの7万9800円電動歯ブラシ、その正体とは",
-   "path": "/articles/20260902-dyson-camerajet-79800-yen.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "FTC、アマゾンを提訴：広告主を欺いた仕組みとは",
-   "path": "/articles/20260902-ftc-sues-amazon-over-advertisers.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Waymo、自動運転タクシーを3都市へ拡大なぜ",
-   "path": "/articles/20260902-waymo-and-zoox-expand-robotaxi-markets.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "元人気カップルYouTuberが28歳でFIRE達成、月60万円の収入",
-   "path": "/articles/20260902-former-youtuber-achieves-fire-at-28.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日銀・植田総裁、9月含む毎回の会合で利上げ議論へ",
-   "path": "/articles/20260902-boj-ueda-rate-hike-discussion.html",
+   "title": "三菱自動車が新型パジェロを公開、復活の狙いとは",
+   "path": "/articles/20260902-mitsubishi-pajero-new-model.html",
    "cat": "時事・世界"
   },
   {
-   "title": "日本郵便がフリーランス保護法違反、公取委が勧告を出した背景",
-   "path": "/articles/20260902-japan-post-freelance-law-violation.html",
+   "title": "陸上自衛隊が攻撃用小型無人機を初めて公開、訓練で何が？",
+   "path": "/articles/20260902-ground-self-defense-force-attack-drone.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "ITmedia報道：日中の眠気による経済損失19.8兆円",
-   "path": "/articles/20260902-daytime-sleepiness-economic-loss.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Felix \"Slow It Down\" | [Stray Kids : SKZ-PLAYER]",
   "url": "https://www.youtube.com/watch?v=YWsczzufh6Q"
  },
- "notes": [
-  "執筆失敗: BenchMIRT: What are LLM benchmarks actua",
-  "執筆失敗: 日経平均株価、3日続落 終値1889円安の6万4325円 - 日本経済新聞",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 168,
+  "used": 173,
   "limit": 200
  }
 }
