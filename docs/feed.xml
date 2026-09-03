@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AmazonのAIが偽メールを判定する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-amazon-ai-assistant-spot-fake-emails.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-amazon-ai-assistant-spot-fake-emails.html</guid>
+<pubDate>Thu, 03 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米Amazonが提供する買い物向けAIアシスタントに、同社をかたる偽の連絡を見分けて判定する新しい機能が追加されました。</description>
+</item>
+<item>
+<title>Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html</guid>
+<pubDate>Thu, 03 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>「AI TECH TIMES」編集部がお届けする最新ニュース。TechCrunch Disrupt 2026が、デジタルと物理の融合に焦点を当てる新ステージを発表しました。</description>
+</item>
+<item>
 <title>ベッセント米財務長官、日本にリフレ政策停止を要求</title>
 <link>https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 03 Sep 2026 02:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>AI TECH TIMESがお届けする最新ニュース。GoogleがFervoから400MWの地熱発電を購入した契約について、その詳細をお伝えします。</description>
-</item>
-<item>
-<title>Acompany、AIの秘密を守るホワイトペーパー公開</title>
-<link>https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html</guid>
-<pubDate>Thu, 03 Sep 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。</description>
-</item>
-<item>
-<title>OpenAI、30件の訴訟で加担疑惑なぜ浮上</title>
-<link>https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html</guid>
-<pubDate>Thu, 03 Sep 2026 00:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIとサム・アルトマンCEOに対し、カナダの学校銃撃事件を巡り「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。</description>
 </item>
 </channel></rss>

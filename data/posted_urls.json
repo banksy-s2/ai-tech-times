@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlNlZWp2U0R4d2JzZlRYS3UzRmdmZmdlTHRkUVktWS1FWmRBLVZ6TFAyT19fak1XamN6WVdXa3hlbHlpTC0zYjdKZ0ZRdTdVZWlDWTBuNlh0b0JhUXJXTzJtdExINThJQnhZV3M5UXNiSk40UEdYRnYyU3dTRjQ?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015182261000",
   "https://news.web.nhk/newsweb/na/na-k10015182071000",
   "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260903de47900",
   "https://news.web.nhk/newsweb/na/nd-20260903de47883",
   "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-  "https://www.yomiuri.co.jp/economy/20260902-GYT1T00332/"
+  "https://www.yomiuri.co.jp/economy/20260902-GYT1T00332/",
+  "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+  "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
  ],
  "titles": [
-  "円安打開のため「大きな借り」作った日本政府、米国が求める「転換」…日銀への「利上げ圧力」高まる可能性",
-  "米財務長官のX発言で高まる日銀の利上げ圧力",
-  "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
-  "メルカリ過去最高益、エンジニア生産性7.6倍の理由",
   "Meta launches Muse Code, an AI agent for large code bases",
   "SpaceX is barely Space and mostly X",
   "Meta、巨大コードベースを処理するAIエージェント発表",
@@ -4001,6 +3997,10 @@
   "日銀利上げ観測で円高、1ドル158円台に",
   "オランダ中央銀行、金準備をロンドンへ移転した危機への備え",
   "ベッセント米財務長官、日本を名指しし「リフレ政策やめるべきだ」…積極財政見直しや利上げ求める",
-  "ベッセント米財務長官、日本にリフレ政策停止を要求"
+  "ベッセント米財務長官、日本にリフレ政策停止を要求",
+  "Amazon’s AI assistant can now spot fake emails from the company",
+  "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+  "AmazonのAIが偽メールを判定する理由",
+  "Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由"
  ]
 }
