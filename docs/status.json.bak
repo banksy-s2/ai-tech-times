@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-03 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-03 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "日銀利上げ観測で円高、1ドル158円台に",
-   "path": "/articles/20260903-yen-appreciates-to-158-per-dollar.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "オランダ中央銀行、金準備をロンドンへ移転した危機への備え",
-   "path": "/articles/20260903-netherlands-gold-reserves-london.html",
-   "cat": "時事・世界"
+   "title": "ベッセント米財務長官、日本にリフレ政策停止を要求",
+   "path": "/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 102,
+  "used": 105,
   "limit": 200
  }
 }

@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-03 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "ベッセント米財務長官、日本にリフレ政策停止を要求",
-   "path": "/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-03 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: セブンがソフトバンクと資本業務提携 PayPay経済圏で問われる相乗効果 - x"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 105,
+  "used": 108,
   "limit": 200
  }
 }
