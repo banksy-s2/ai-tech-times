@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-04 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-04 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "全国平均時給1177円へ引き上げ、中小企業への支援はどうなる",
-   "path": "/articles/20260904-minimum-wage-increase-sme-support.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米ベッセント財務長官、日銀利上げで円安改善と伝達",
-   "path": "/articles/20260904-bessent-boj-rate-hike-yen.html",
-   "cat": "時事・世界"
+   "title": "ニトリが急伸・商社株は長期保有へ、日経平均は続落",
+   "path": "/articles/20260904-stocks-market-news-september-3.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 25,
   "limit": 200
  }
 }
