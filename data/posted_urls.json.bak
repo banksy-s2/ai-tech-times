@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-  "https://www.itmedia.co.jp/mobile/articles/2607/21/news119.html",
   "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
   "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
   "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
@@ -1999,13 +1997,11 @@
   "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
   "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
   "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-  "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+  "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
+  "https://www.nikkei.com/article/DGXZQOUC26BH50W6A820C2000000/"
  ],
  "titles": [
-  "ホルムズ海峡の新航路 イラン「調整の最終段階」",
-  "イラン、ホルムズ海峡の新航路設定へオマーンと調整最終段階",
-  "「政策支援」と「投資回収」の二律背反。韓国コンテンツ振興院が読み解く、クールジャパン機構「540億円赤字」の本質 | Branc（ブラン）-Brand New Creativity-",
-  "クールジャパン機構540億円赤字、経産省が検証会議",
   "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
   "Google Maps adds agentic features, including food ordering and hotel bookings",
   "Google Cloud、Mirendilと1億ドル超の提携",
@@ -4001,6 +3997,10 @@
   "Nvidia confirms it will buy Hugging Face for $12.9 billion",
   "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
   "Nvidia、Hugging Faceを129億ドルで買収",
-  "Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産"
+  "Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産",
+  "Meta、「Muse Spark 1.3」公開　コーディングとエージェント性能を強化　「最大の飛躍」とザッカーバーグCEO",
+  "トヨタ系のAIサムライ、AIが特許網を生成　中小も技術保護しやすく - 日本経済新聞",
+  "Meta「Muse Spark 1.3」公開、コーディング性能はなぜ他社を超えたのか",
+  "AIサムライ、特許網自動生成サービスを開発なぜ中小企業も技術保護できるのか"
  ]
 }
