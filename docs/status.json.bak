@@ -1,17 +1,61 @@
 {
- "updated": "2026-09-03 11:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-03 12:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "HiddenLayerが1億ドル調達、AI展開の安全対策が急務に",
+   "path": "/articles/20260903-hiddenlayer-nabs-100m-ai-security.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "MrBeast、GoogleのAIで過酷な大自然を生き抜く理由",
+   "path": "/articles/20260903-mrbeast-google-partnership-gemini.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Google、価格据え置きで「Gemini 3.8 Flash」公開",
+   "path": "/articles/20260903-google-gemini-3-8-flash-released.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "KADOKAWAが挑むAI執筆伴走、作家は育つのか",
+   "path": "/articles/20260903-kadokawa-ai-writing-support.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Uber、Delivery Heroを150億ドルで買収へ",
+   "path": "/articles/20260903-delivery-hero-board-backs-ubers-15b-takeover-bid.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "部活のホルン修理で見積り12万円、保険適用は？",
+   "path": "/articles/20260903-horn-repair-cost-insurance.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "片山財務相、長期金利3％超えに「緊張感を持って対応」",
+   "path": "/articles/20260903-long-term-interest-rate-exceeds-three-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米軍イラン攻撃で4人死亡、トランプ大統領の今後の対応とは",
+   "path": "/articles/20260903-us-iran-conflict-news.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
  "notes": [
-  "執筆失敗: 高級車7台持ち美人YouTuber、「日産入庫拒否」騒動で“不満ぶちまけ動画”4"
+  "執筆失敗: Google spared from ad-business breakup, ",
+  "執筆失敗: ベッセント財務長官「なぜ日銀に独立性が与えられていない」不満ぶちまける　片山財務",
+  "執筆失敗: 店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益とな",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 71,
+  "used": 97,
   "limit": 200
  }
 }
