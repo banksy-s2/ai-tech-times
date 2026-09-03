@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-03 22:01",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "WMOが警告、超大型エルニーニョが世界経済を揺るがす理由",
-   "path": "/articles/20260903-un-warns-supersized-el-nino.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ氏コイン発行、100年ぶり現職大統領なぜ",
-   "path": "/articles/20260903-trump-coin-living-president.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-03 23:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 179,
+  "used": 182,
   "limit": 200
  }
 }
