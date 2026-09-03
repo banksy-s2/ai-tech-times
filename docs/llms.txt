@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 17:08 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 18:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [米司法省、OpenAIのAI学習はフェアユースと主張](https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html) — 2026-09-03 18:02: 米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。
+- [ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由](https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html) — 2026-09-03 18:02: AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。
 - [PangramCEOが警告「デッドインターネット理論」の現実](https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html) — 2026-09-03 17:08: AI生成コンテンツの急増により、インターネットの信頼性が危機に瀕しているとPangramのCEOが指摘しました。
 - [GoogleのAndroid更新、乗り物酔い対策の裏側](https://ai-tech-times.web.app/articles/20260903-googles-android-update-2026.html) — 2026-09-03 17:08: Googleは、乗り物酔い対策やアクセシビリティなどを強化する新しいAndroidアップデートを発表しました。一部機能では競合他社を追随しつつ、生成AIを活用した様々な改善も導入されています。
 - [ITmedia AI+：「社長の声」悪用で被害45億円、AI詐欺の手口](https://ai-tech-times.web.app/articles/20260903-ai-fraud--45.html) — 2026-09-03 17:08: 生成AIの進化によって業務効率化が進む一方、サイバー攻撃の手口も多様化しています。「AI TECH TIMES」では、元警視庁職員などの専門家が明かす最新のボイスフィッシングやランサムウェア攻撃への備えをお伝えします。
@@ -40,8 +42,6 @@
 - [オランダ中央銀行、金準備をロンドンへ移転した危機への備え](https://ai-tech-times.web.app/articles/20260903-netherlands-gold-reserves-london.html) — 2026-09-03 13:00: オランダの中央銀行が、高まる地政学的不安を理由に、米国とカナダに保管していた金準備の一部をロンドンへ移転したことが明らかになりました。
 - [HiddenLayerが1億ドル調達、AI展開の安全対策が急務に](https://ai-tech-times.web.app/articles/20260903-hiddenlayer-nabs-100m-ai-security.html) — 2026-09-03 12:01: セキュリティ企業のHiddenLayerが1億ドルを調達しました。企業がAI展開の安全性を急ぐ中、背景にはどのような動きがあるのでしょうか。
 - [MrBeast、GoogleのAIで過酷な大自然を生き抜く理由](https://ai-tech-times.web.app/articles/20260903-mrbeast-google-partnership-gemini.html) — 2026-09-03 12:01: 人気ユーチューバーのMrBeastが、Googleと複数年にわたる大型パートナーシップを締結しました。9月5日公開の動画から、GeminiなどのAI技術が次々と起用されます。
-- [Google、価格据え置きで「Gemini 3.8 Flash」公開](https://ai-tech-times.web.app/articles/20260903-google-gemini-3-8-flash-released.html) — 2026-09-03 12:01: Googleは、AIモデル「Gemini 3.8 Flash」とサイバー防御特化型の発表を行いました。推論とコーディング性能を大幅に向上させつつ価格は据え置かれています。
-- [KADOKAWAが挑むAI執筆伴走、作家は育つのか](https://ai-tech-times.web.app/articles/20260903-kadokawa-ai-writing-support.html) — 2026-09-03 12:01: KADOKAWAが小説執筆を支援する人工知能（AI）サービスの開発に乗り出しました。出版ビジネスの拡大に寄与するかどうかの試金石となります。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)

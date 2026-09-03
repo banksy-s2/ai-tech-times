@@ -71778,5 +71778,78 @@
   "date": "2026-09-03",
   "time": "17:08",
   "path": "/articles/20260903-yamato-hd-cargo-flight-end.html"
+ },
+ {
+  "title": "米司法省、OpenAIのAI学習はフェアユースと主張",
+  "lead": "米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。",
+  "summary3": [
+   "米司法省がOpenAIを支持",
+   "NYT訴訟でフェアユース主張",
+   "AIトレーニングは違反せず"
+  ],
+  "body": [
+   "アメリカの大手日刊紙であるニューヨーク・タイムズが、AI開発を手がけるOpenAIとMicrosoftを著作権侵害で訴えた裁判において、新たな展開がありました。アメリカの司法省が裁判所に対し、意見書を提出したことが明らかになっています。",
+   "提出された書面の中で、司法省は「AIのトレーニングで著作権保護対象の資料を使うのは著作権法違反ではない」と主張しました。この見解により、OpenAI側の主張が公的機関によって支持される形となりました。",
+   "今回の司法省による意見書の提出は、今後のAI開発における著作権の扱いや司法判断に大きな影響を与える可能性があります。AI技術の進化と権利保護のバランスを巡り、裁判の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ニューヨーク・タイムズ",
+   "著作権"
+  ],
+  "slug": "doj-supports-openai-in-nyt-lawsuit",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIなどを手掛けて世界的に広く知られています。"
+   },
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカに本拠を置く世界的な大手ソフトウェア企業で、PC向けOSやクラウド事業を展開しています。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260903-trump-administration-sides-with-openai-in-lawsuit-against-nyt/",
+  "category": "ai_jp",
+  "date": "2026-09-03",
+  "time": "18:02",
+  "path": "/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html"
+ },
+ {
+  "title": "ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由",
+  "lead": "AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。",
+  "summary3": [
+   "AI導入で仕事が楽にならない声",
+   "得られたはずの削減効果の行方",
+   "ITmedia AI+がその正体に迫る"
+  ],
+  "body": [
+   "近年、さまざまな業務へのAI活用が進められていますが、現場からは「AIを導入したのに、仕事が楽にならないんだが？」という疑問の声があがっています。",
+   "業務効率化によって得られたはずの削減時間は、いったいどこに消えてしまっているのでしょうか。その行き先や原因について注目が集まっています。",
+   "AIの導入が実際の労働負担の軽減にどう影響しているのか、今後の活用方法や仕事のあり方を見直すきっかけとなりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "業務効率化",
+   "ITmedia AI+"
+  ],
+  "slug": "ai-work-not-getting-easier",
+  "people": [],
+  "terms": [
+   {
+    "name": "ITmedia AI+",
+    "type": "company",
+    "desc": "ITmediaが運営する、AIに関する最新動向や活用事例を専門に扱うメディア媒体。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/03/2000000990/",
+  "category": "ai_jp",
+  "date": "2026-09-03",
+  "time": "18:02",
+  "path": "/articles/20260903-ai-work-not-getting-easier.html"
  }
 ]

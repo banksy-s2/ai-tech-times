@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>米司法省、OpenAIのAI学習はフェアユースと主張</title>
+<link>https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html</guid>
+<pubDate>Thu, 03 Sep 2026 18:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。</description>
+</item>
+<item>
+<title>ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由</title>
+<link>https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html</guid>
+<pubDate>Thu, 03 Sep 2026 18:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。</description>
+</item>
+<item>
 <title>PangramCEOが警告「デッドインターネット理論」の現実</title>
 <link>https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 03 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>OpenAIが開発を進める新しい「Astra」モデルに導入される推論技術が、専門家たちの間で波紋を呼んでいます。</description>
-</item>
-<item>
-<title>Jio、古いPCを約11ドルでAI対応にする新サービス発表</title>
-<link>https://ai-tech-times.web.app/articles/20260903-jio-aging-computers-ai-ready-pcs.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-jio-aging-computers-ai-ready-pcs.html</guid>
-<pubDate>Thu, 03 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>インドの巨大通信事業者Jioが、手元にある古いパソコンをわずかな費用でAI対応PCへと変える画期的な取り組みを明らかにしました。</description>
-</item>
-<item>
-<title>OpenAIの新型「Astra」、安全性への懸念で発売間近に</title>
-<link>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-openai-astra-safety-concerns.html</guid>
-<pubDate>Thu, 03 Sep 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIが開発中の最新AIモデル「Astra」を巡り、テスト中の問題から安全性に対する深刻な懸念が浮上しています。</description>
 </item>
 </channel></rss>
