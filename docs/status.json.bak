@@ -1,17 +1,26 @@
 {
- "updated": "2026-09-03 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-09-04 00:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "Nvidia、Hugging Faceを129億ドルで買収",
+   "path": "/articles/20260904-nvidia-confirms-hugging-face-acquisition.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産",
+   "path": "/articles/20260904-manufactured-sources-behind-ai-recommendations.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
- "notes": [
-  "執筆失敗: 米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 182,
+  "used": 3,
   "limit": 200
  }
 }

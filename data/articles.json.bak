@@ -72296,5 +72296,78 @@
   "date": "2026-09-03",
   "time": "22:00",
   "path": "/articles/20260903-trump-coin-living-president.html"
+ },
+ {
+  "title": "Nvidia、Hugging Faceを129億ドルで買収",
+  "lead": "AI半導体大手のエヌビディアが、AIプラットフォームのハグギング・フェイスを129億ドルで買収することを正式に確認しました。開発者への影響や今後の展開に注目が集まっています。",
+  "summary3": [
+   "NvidiaがHugging Faceを買収",
+   "買収額は129億ドルに達する",
+   "300万以上のモデルがホストされている"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、Nvidiaは2026年9月3日、Hugging Faceを129億ドルで買収することを正式に確認しました。",
+   "Nvidiaの発表によれば、Hugging Faceには300万を超えるモデルがホストされており、世界中の1,800万人を超える開発者によって利用されているという実績があります。",
+   "今回の巨額買収により、AI開発プラットフォームとハードウェア大手の連携がどのように進むのか、業界全体の動向から目が離せない状況となっています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "Hugging Face",
+   "買収"
+  ],
+  "slug": "nvidia-confirms-hugging-face-acquisition",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPUやAI向けハードウェアの開発で世界をリードする半導体企業。"
+   },
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "AIモデルやデータセットを共有・ホストする、開発者向けの主要なプラットフォーム運営企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "00:00",
+  "path": "/articles/20260904-nvidia-confirms-hugging-face-acquisition.html"
+ },
+ {
+  "title": "Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産",
+  "lead": "AI検索のPerplexityが引用する「ベストソフトウェア」関連のウェブページが、わずか3つのサイトによって21万ページ以上も大量生産されていたことが明らかになりました。",
+  "summary3": [
+   "3つのサイトが21万ページ超を量産",
+   "「ベストソフトウェア」ページが対象",
+   "Perplexityが引用したと報告"
+  ],
+  "body": [
+   "AI/LLMに関する話題として、わずか3つのサイトがAI向けの「ベストソフトウェア」ページを合計215,128ページも作成していたという調査結果が報じられました。これらのページは検索エンジンやAIでの表示を意識して作られたものとみられています。",
+   "さらに、AI検索エンジンとして知られるPerplexityが、これらの大量生産されたページを情報源として引用していることが判明しました。AIが参照する情報源の信頼性や、自動生成されたコンテンツがAIの推薦に与える影響について議論が広がっています。",
+   "ネット上の掲示板Hacker Newsでも多くのコメントが寄せられ、AI時代における情報収集のあり方や、生成されたコンテンツが検索結果やAIの回答にどう影響するのかに関心が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "Perplexity",
+   "LLM"
+  ],
+  "slug": "manufactured-sources-behind-ai-recommendations",
+  "people": [],
+  "terms": [
+   {
+    "name": "Perplexity",
+    "type": "ai",
+    "desc": "対話型のAI検索エンジンを提供する米国企業およびそのサービス。ウェブ上の情報を元に回答を生成する。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "00:00",
+  "path": "/articles/20260904-manufactured-sources-behind-ai-recommendations.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-04 00:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-04 01:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Meta「Muse Spark 1.3」公開、コーディング性能はなぜ他社を超えたのか](https://ai-tech-times.web.app/articles/20260904-meta-muse-spark-1-3-released.html) — 2026-09-04 01:01: MetaはAIモデル「Muse Spark 1.3」を発表しました。エージェント機能とコーディング性能を大きく強化し、ザッカーバーグCEOが「最大の飛躍」と評価するその詳細をお伝えします。
+- [AIサムライ、特許網自動生成サービスを開発なぜ中小企業も技術保護できるのか](https://ai-tech-times.web.app/articles/20260904-ai-samurai-patent-network.html) — 2026-09-04 01:01: 特許文書作成システムを手掛けるAI Samuraiが、AIを活用して特許網を自動生成する新サービスを開発しました。中小企業や研究機関の技術保護をどのように進めるのでしょうか。
 - [Nvidia、Hugging Faceを129億ドルで買収](https://ai-tech-times.web.app/articles/20260904-nvidia-confirms-hugging-face-acquisition.html) — 2026-09-04 00:00: AI半導体大手のエヌビディアが、AIプラットフォームのハグギング・フェイスを129億ドルで買収することを正式に確認しました。開発者への影響や今後の展開に注目が集まっています。
 - [Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産](https://ai-tech-times.web.app/articles/20260904-manufactured-sources-behind-ai-recommendations.html) — 2026-09-04 00:00: AI検索のPerplexityが引用する「ベストソフトウェア」関連のウェブページが、わずか3つのサイトによって21万ページ以上も大量生産されていたことが明らかになりました。
 - [WMOが警告、超大型エルニーニョが世界経済を揺るがす理由](https://ai-tech-times.web.app/articles/20260903-un-warns-supersized-el-nino.html) — 2026-09-03 22:00: 世界気象機関（WMO）は、自然現象であるエルニーニョについて「超大型」になるおそれがあると警告しました。この現象が世界各国にどのような混乱をもたらすのか、影響が懸念されています。
@@ -40,15 +42,13 @@
 - [ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由](https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html) — 2026-09-03 18:02: AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。
 - [PangramCEOが警告「デッドインターネット理論」の現実](https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html) — 2026-09-03 17:08: AI生成コンテンツの急増により、インターネットの信頼性が危機に瀕しているとPangramのCEOが指摘しました。
 - [GoogleのAndroid更新、乗り物酔い対策の裏側](https://ai-tech-times.web.app/articles/20260903-googles-android-update-2026.html) — 2026-09-03 17:08: Googleは、乗り物酔い対策やアクセシビリティなどを強化する新しいAndroidアップデートを発表しました。一部機能では競合他社を追随しつつ、生成AIを活用した様々な改善も導入されています。
-- [ITmedia AI+：「社長の声」悪用で被害45億円、AI詐欺の手口](https://ai-tech-times.web.app/articles/20260903-ai-fraud--45.html) — 2026-09-03 17:08: 生成AIの進化によって業務効率化が進む一方、サイバー攻撃の手口も多様化しています。「AI TECH TIMES」では、元警視庁職員などの専門家が明かす最新のボイスフィッシングやランサムウェア攻撃への備えをお伝えします。
-- [NECとAnthropicが挑むAI時代のサイバー防衛の勝ち筋とは](https://ai-tech-times.web.app/articles/20260903-nec-anthropic-cyber-defense.html) — 2026-09-03 17:08: AI時代のセキュリティを巡り、NECの幹部は「AI対AIになる」と述べました。同社が米AI企業のフロンティアAIを活用して挑む対策の全貌とは何でしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-04)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
-- 2位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
-- 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
+- 2位: [Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max](https://www.youtube.com/watch?v=1RnyZgfN-JY)
+- 3位: [One of these Animals is not like the other...](https://www.youtube.com/watch?v=Z22O7JjLZYY)
 
-## AI用語事典 (全1281語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1284語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

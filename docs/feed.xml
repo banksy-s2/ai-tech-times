@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Meta「Muse Spark 1.3」公開、コーディング性能はなぜ他社を超えたのか</title>
+<link>https://ai-tech-times.web.app/articles/20260904-meta-muse-spark-1-3-released.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-meta-muse-spark-1-3-released.html</guid>
+<pubDate>Fri, 04 Sep 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>MetaはAIモデル「Muse Spark 1.3」を発表しました。エージェント機能とコーディング性能を大きく強化し、ザッカーバーグCEOが「最大の飛躍」と評価するその詳細をお伝えします。</description>
+</item>
+<item>
+<title>AIサムライ、特許網自動生成サービスを開発なぜ中小企業も技術保護できるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260904-ai-samurai-patent-network.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-ai-samurai-patent-network.html</guid>
+<pubDate>Fri, 04 Sep 2026 01:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>特許文書作成システムを手掛けるAI Samuraiが、AIを活用して特許網を自動生成する新サービスを開発しました。中小企業や研究機関の技術保護をどのように進めるのでしょうか。</description>
+</item>
+<item>
 <title>Nvidia、Hugging Faceを129億ドルで買収</title>
 <link>https://ai-tech-times.web.app/articles/20260904-nvidia-confirms-hugging-face-acquisition.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260904-nvidia-confirms-hugging-face-acquisition.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 03 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米Amazonが提供する買い物向けAIアシスタントに、同社をかたる偽の連絡を見分けて判定する新しい機能が追加されました。</description>
-</item>
-<item>
-<title>Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html</guid>
-<pubDate>Thu, 03 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>「AI TECH TIMES」編集部がお届けする最新ニュース。TechCrunch Disrupt 2026が、デジタルと物理の融合に焦点を当てる新ステージを発表しました。</description>
-</item>
-<item>
-<title>ベッセント米財務長官、日本にリフレ政策停止を要求</title>
-<link>https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html</guid>
-<pubDate>Thu, 03 Sep 2026 14:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>ベッセント米財務長官はG20閉幕後の会見で、日本を名指ししリフレ政策や積極財政の見直しなどを求めました。</description>
 </item>
 </channel></rss>
