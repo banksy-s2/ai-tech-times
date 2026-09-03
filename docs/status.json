@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-03 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-03 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由",
-   "path": "/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Uber、全従業員の10%を削減する理由",
-   "path": "/articles/20260903-uber-cuts-10-percent-workforce.html",
-   "cat": "シリコンバレー最速"
+   "title": "芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信",
+   "path": "/articles/20260903-yakusaya-live-action-2028.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 145,
+  "used": 150,
   "limit": 200
  }
 }

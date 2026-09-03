@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 19:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 20:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信](https://ai-tech-times.web.app/articles/20260903-yakusaya-live-action-2028.html) — 2026-09-03 20:00: 人気小説『薬屋のひとりごと』が、主演・芦田愛菜で実写ドラマ化されることが決定しました。2028年よりPrime Videoにて世界独占配信されます。
 - [Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由](https://ai-tech-times.web.app/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html) — 2026-09-03 19:00: 米CNBC Techによると、Snowflakeの株価が好調な決算とAIコード生成の勢いを背景に22%急騰しました。
 - [Uber、全従業員の10%を削減する理由](https://ai-tech-times.web.app/articles/20260903-uber-cuts-10-percent-workforce.html) — 2026-09-03 19:00: 米CNBC Techによると、配車サービス大手のUberは、よりシンプルで迅速な組織を目指して全従業員の10%を削減する方針を固めました。
 - [米司法省、OpenAIのAI学習はフェアユースと主張](https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html) — 2026-09-03 18:02: 米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。
@@ -41,14 +42,13 @@
 - [Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由](https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html) — 2026-09-03 16:01: 「AI TECH TIMES」編集部がお届けする最新ニュース。TechCrunch Disrupt 2026が、デジタルと物理の融合に焦点を当てる新ステージを発表しました。
 - [ベッセント米財務長官、日本にリフレ政策停止を要求](https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html) — 2026-09-03 14:00: ベッセント米財務長官はG20閉幕後の会見で、日本を名指ししリフレ政策や積極財政の見直しなどを求めました。
 - [日銀利上げ観測で円高、1ドル158円台に](https://ai-tech-times.web.app/articles/20260903-yen-appreciates-to-158-per-dollar.html) — 2026-09-03 13:00: 2日のニューヨーク外国為替市場でドル売り・円買いが急進し、円相場は一時1ドル＝158円台前半に上昇しました。
-- [オランダ中央銀行、金準備をロンドンへ移転した危機への備え](https://ai-tech-times.web.app/articles/20260903-netherlands-gold-reserves-london.html) — 2026-09-03 13:00: オランダの中央銀行が、高まる地政学的不安を理由に、米国とカナダに保管していた金準備の一部をロンドンへ移転したことが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
 - 2位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1272語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1274語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

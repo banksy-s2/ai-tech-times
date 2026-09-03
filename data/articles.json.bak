@@ -71851,5 +71851,73 @@
   "date": "2026-09-03",
   "time": "18:02",
   "path": "/articles/20260903-ai-work-not-getting-easier.html"
+ },
+ {
+  "title": "Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由",
+  "lead": "米CNBC Techによると、Snowflakeの株価が好調な決算とAIコード生成の勢いを背景に22%急騰しました。",
+  "summary3": [
+   "Snowflakeの事業が急速に成長",
+   "AIエージェントのコード記述が貢献",
+   "好決算を背景に株価が22%急騰"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米CNBC Techの報道によると、クラウドデータプラットフォームを手がけるSnowflakeの事業が急速に成長しています。今回の好調な業績は、主に人工知能（AI）エージェントを活用してコードを記述する取り組みが採用されたことが一因となっているとのことです。",
+   "この堅調な決算とAI技術の活用によるコード生成のモメンタム（勢い）が市場で高く評価され、同社の株価は22%もの急騰を記録しました。企業のシステム開発やデータ管理の現場において、AIエージェントの導入が実際の業績や事業成長に直結している事例として注目を集めています。",
+   "AI技術の進化が企業のビジネスをどのように加速させているのか、今後の動向から目が離せません。AI TECH TIMESでは、引き続き最新のテクノロジーと市場の動きを分かりやすくお届けしてまいります。"
+  ],
+  "tags": [
+   "Snowflake",
+   "AI",
+   "決算"
+  ],
+  "slug": "snowflake-jumps-22-percent-on-ai-coding-momentum",
+  "people": [],
+  "terms": [
+   {
+    "name": "Snowflake",
+    "type": "company",
+    "desc": "クラウドベースのデータウェアハウスサービスを提供するアメリカの企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+  "category": "silicon",
+  "date": "2026-09-03",
+  "time": "19:00",
+  "path": "/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html"
+ },
+ {
+  "title": "Uber、全従業員の10%を削減する理由",
+  "lead": "米CNBC Techによると、配車サービス大手のUberは、よりシンプルで迅速な組織を目指して全従業員の10%を削減する方針を固めました。",
+  "summary3": [
+   "Uberが全従業員の10%を削減へ",
+   "小型チームはほぼ半数に縮小",
+   "約1%の従業員でリモート維持"
+  ],
+  "body": [
+   "CNBC Techの報道によると、配車サービスなどを手がけるUberは、組織をよりシンプルで迅速に動かすための取り組みの一環として、全従業員の10%を削減することを明らかにしました。",
+   "今回の組織見直しでは、小さなチームの規模が約半分にまで縮小されることになります。さらに、全体の約1%にあたる従業員については、引き続きリモートワークでの勤務が許可される方針です。",
+   "同社はこれまでも事業の効率化を進めており、今回の大幅な人員削減を通じて、さらなる組織の簡素化とスピード感を持った事業運営を目指すことになります。"
+  ],
+  "tags": [
+   "Uber",
+   "リストラ",
+   "海外テック"
+  ],
+  "slug": "uber-cuts-10-percent-workforce",
+  "people": [],
+  "terms": [
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、配車サービスやフードデリバリーなど世界規模でプラットフォームを展開する企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+  "category": "silicon",
+  "date": "2026-09-03",
+  "time": "19:00",
+  "path": "/articles/20260903-uber-cuts-10-percent-workforce.html"
  }
 ]
