@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015182041000",
-  "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
   "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
   "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
   "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
@@ -1999,13 +1997,11 @@
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
   "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
   "https://www.itmedia.co.jp/news/article/2609/01/2000001035/",
-  "https://news.web.nhk/newsweb/na/nd-20260903de47879"
+  "https://news.web.nhk/newsweb/na/nd-20260903de47879",
+  "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+  "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
  ],
  "titles": [
-  "Sandisk reports Q4 revenue up 372% YoY to $8.97B, vs. $8.48B est., and forecasts Q1 revenue below estimates; SNDK drops 5%+ after hours (Britney Nguyen/MarketWatch)",
-  "Moove raises $250M to become the backbone of the robotaxi industry",
-  "Sandiskが第4四半期増収も、第1四半期予想が市場未達で株価下落",
-  "Moove、2億5000万ドル調達でロボタクシー業界の基盤へ",
   "日本人女性インフルエンサー「急死」ENHYPENニキ苦言波紋 - ｄメニューニュース",
   "ENHYPENニキ苦言で波紋、日本人女性インフルエンサー急死",
   "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
@@ -4001,6 +3997,10 @@
   "茨城県鹿嶋市がClaude活用で市民対応を変えた理由",
   "Uberが10%の人員削減を発表、3300人を対象にする理由",
   "EXILE・HIROのGMO系イベント関与になぜ抗議の声が上がるのか",
-  "高市首相、党役員人事と内閣改造を再来週にも検討"
+  "高市首相、党役員人事と内閣改造を再来週にも検討",
+  "OpenAI’s new reasoning technique alarms AI safety experts",
+  "India’s richest man now wants to turn aging computers into AI-ready PCs",
+  "OpenAIの新推論手法、AI安全専門家が懸念を示す理由",
+  "Jio、古いPCを約11ドルでAI対応にする新サービス発表"
  ]
 }
