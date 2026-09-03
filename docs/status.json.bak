@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-04 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-04 03:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "MapQuest、トランプ氏の改称拒否で米App Store首位に浮上",
-   "path": "/articles/20260904-mapquest-no1-us-app-trump-lake-america.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Thyme Care、1億2,500万ドル調達の背景",
-   "path": "/articles/20260904-thyme-care-raises-125-million.html",
-   "cat": "シリコンバレー最速"
+   "title": "日本経済新聞：SNS乗っ取りで会社役員逮捕、100件以上か",
+   "path": "/articles/20260904-sns-account-takeover-arrest.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }

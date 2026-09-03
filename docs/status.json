@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-04 03:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-04 04:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "日本経済新聞：SNS乗っ取りで会社役員逮捕、100件以上か",
-   "path": "/articles/20260904-sns-account-takeover-arrest.html",
-   "cat": "インフルエンサー"
+   "title": "全国平均時給1177円へ引き上げ、中小企業への支援はどうなる",
+   "path": "/articles/20260904-minimum-wage-increase-sme-support.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米ベッセント財務長官、日銀利上げで円安改善と伝達",
+   "path": "/articles/20260904-bessent-boj-rate-hike-yen.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 18,
+  "used": 22,
   "limit": 200
  }
 }

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
   "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
   "https://gigazine.net/news/20260722-nvidia-vera-cpu/",
   "https://news.web.nhk/newsweb/na/na-k10015182641000",
@@ -1999,11 +1998,10 @@
   "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
   "https://www.nikkei.com/article/DGXZQOUC26BH50W6A820C2000000/",
   "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-  "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html"
+  "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BNDdCR2I4ZkNWTXZSUTNweHpMS2dYMHBXYTNMSkJnMVZGNkZDbU9MWFRWTFp2UVF4U09lYl9OdXBMLU9fcHRVM3Z5SzBaZjQtSmNKaFdEeTIwaFNZVFZEMG1CYUhXOXR6ZldtTw?oc=5"
  ],
  "titles": [
-  "AIデータセンターは「圧倒的に供給不足」――ソフトバンクG後藤CFO、“バブル疑惑”を否定",
-  "AtlassianのAI「Rovo」に文書を読ませるだけで社内データが外部送信される脆弱性が発見される",
   "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
   "Atlassian Rovoに社内データが外部送信される脆弱性",
   "SoftBank donated $50 million to Trump’s library months before federal data center deal",
@@ -4001,6 +3999,8 @@
   "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
   "Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion",
   "MapQuest、トランプ氏の改称拒否で米App Store首位に浮上",
-  "Thyme Care、1億2,500万ドル調達の背景"
+  "Thyme Care、1億2,500万ドル調達の背景",
+  "SNS乗っ取り、インフルエンサーら100件以上か 容疑の会社役員逮捕 - 日本経済新聞",
+  "日本経済新聞：SNS乗っ取りで会社役員逮捕、100件以上か"
  ]
 }

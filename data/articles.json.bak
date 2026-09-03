@@ -72525,5 +72525,39 @@
   "date": "2026-09-04",
   "time": "02:00",
   "path": "/articles/20260904-thyme-care-raises-125-million.html"
+ },
+ {
+  "title": "日本経済新聞：SNS乗っ取りで会社役員逮捕、100件以上か",
+  "lead": "SNSの乗っ取り事件をめぐり、会社役員が逮捕されたことが日本経済新聞の報道で明らかになりました。被害は100件以上にのぼる可能性があります。",
+  "summary3": [
+   "SNS乗っ取り事件で会社役員が逮捕",
+   "インフルエンサーらを狙った被害",
+   "被害総数は100件以上にのぼる可能性"
+  ],
+  "body": [
+   "SNSの乗っ取りに関与したとして、会社役員が逮捕されたことが日本経済新聞により報じられました。インフルエンサーなどを標的にした不正アクセスやアカウントの乗っ取り行為が行われていたとみられています。",
+   "今回の事件による被害は、インフルエンサーらを中心に100件以上にのぼる可能性が浮上しています。警察による捜査が進められており、詳しい手口や全容の解明が進められています。",
+   "SNSアカウントの乗っ取りは、企業や個人の活動に大きな影響を与える深刻な問題です。今後の捜査の行方や、さらなる被害実態の解明に注目が集まっています。"
+  ],
+  "tags": [
+   "SNS乗っ取り",
+   "インフルエンサー",
+   "事件"
+  ],
+  "slug": "sns-account-takeover-arrest",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する経済を中心とした日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BNDdCR2I4ZkNWTXZSUTNweHpMS2dYMHBXYTNMSkJnMVZGNkZDbU9MWFRWTFp2UVF4U09lYl9OdXBMLU9fcHRVM3Z5SzBaZjQtSmNKaFdEeTIwaFNZVFZEMG1CYUhXOXR6ZldtTw?oc=5",
+  "category": "influencer",
+  "date": "2026-09-04",
+  "time": "03:00",
+  "path": "/articles/20260904-sns-account-takeover-arrest.html"
  }
 ]
