@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 18:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由](https://ai-tech-times.web.app/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html) — 2026-09-03 19:00: 米CNBC Techによると、Snowflakeの株価が好調な決算とAIコード生成の勢いを背景に22%急騰しました。
+- [Uber、全従業員の10%を削減する理由](https://ai-tech-times.web.app/articles/20260903-uber-cuts-10-percent-workforce.html) — 2026-09-03 19:00: 米CNBC Techによると、配車サービス大手のUberは、よりシンプルで迅速な組織を目指して全従業員の10%を削減する方針を固めました。
 - [米司法省、OpenAIのAI学習はフェアユースと主張](https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html) — 2026-09-03 18:02: 米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。
 - [ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由](https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html) — 2026-09-03 18:02: AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。
 - [PangramCEOが警告「デッドインターネット理論」の現実](https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html) — 2026-09-03 17:08: AI生成コンテンツの急増により、インターネットの信頼性が危機に瀕しているとPangramのCEOが指摘しました。
@@ -40,8 +42,6 @@
 - [ベッセント米財務長官、日本にリフレ政策停止を要求](https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html) — 2026-09-03 14:00: ベッセント米財務長官はG20閉幕後の会見で、日本を名指ししリフレ政策や積極財政の見直しなどを求めました。
 - [日銀利上げ観測で円高、1ドル158円台に](https://ai-tech-times.web.app/articles/20260903-yen-appreciates-to-158-per-dollar.html) — 2026-09-03 13:00: 2日のニューヨーク外国為替市場でドル売り・円買いが急進し、円相場は一時1ドル＝158円台前半に上昇しました。
 - [オランダ中央銀行、金準備をロンドンへ移転した危機への備え](https://ai-tech-times.web.app/articles/20260903-netherlands-gold-reserves-london.html) — 2026-09-03 13:00: オランダの中央銀行が、高まる地政学的不安を理由に、米国とカナダに保管していた金準備の一部をロンドンへ移転したことが明らかになりました。
-- [HiddenLayerが1億ドル調達、AI展開の安全対策が急務に](https://ai-tech-times.web.app/articles/20260903-hiddenlayer-nabs-100m-ai-security.html) — 2026-09-03 12:01: セキュリティ企業のHiddenLayerが1億ドルを調達しました。企業がAI展開の安全性を急ぐ中、背景にはどのような動きがあるのでしょうか。
-- [MrBeast、GoogleのAIで過酷な大自然を生き抜く理由](https://ai-tech-times.web.app/articles/20260903-mrbeast-google-partnership-gemini.html) — 2026-09-03 12:01: 人気ユーチューバーのMrBeastが、Googleと複数年にわたる大型パートナーシップを締結しました。9月5日公開の動画から、GeminiなどのAI技術が次々と起用されます。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
@@ -72,8 +72,8 @@
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
+- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。

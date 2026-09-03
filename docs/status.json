@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-03 18:02",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-03 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "米司法省、OpenAIのAI学習はフェアユースと主張",
-   "path": "/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html",
-   "cat": "日本のAI"
+   "title": "Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由",
+   "path": "/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由",
-   "path": "/articles/20260903-ai-work-not-getting-easier.html",
-   "cat": "日本のAI"
+   "title": "Uber、全従業員の10%を削減する理由",
+   "path": "/articles/20260903-uber-cuts-10-percent-workforce.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 140,
+  "used": 145,
   "limit": 200
  }
 }

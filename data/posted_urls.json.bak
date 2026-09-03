@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
-  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWx2WmJNZlp3NTB0Z0VaSnJ4bnRqakRQSGtyU3BBeTVYelRDSFRXTV9RQWh3RE4zMl9qVHNHODB0OWV3TDlCUkM1bENZOHN6bDg4S1NJekd6MVFrdFAzUE11Rk5FZkUzeDVUM05NWkdlRGJfOVhhNUhxVWNzcnRBeEpwN0RGbkN1VGZCazRpbWF5Ykl1ZFUtLVFiQUlScEdHYS1LVw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015182321000",
   "https://news.web.nhk/newsweb/na/na-k10015182301000",
   "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260903de47887",
   "https://news.web.nhk/newsweb/na/nd-20260902de47719",
   "https://news.web.nhk/newsweb/na/nd-20260902de47789",
-  "https://news.web.nhk/newsweb/na/nd-20260903de47979"
+  "https://news.web.nhk/newsweb/na/nd-20260903de47979",
+  "https://gigazine.net/news/20260903-trump-administration-sides-with-openai-in-lawsuit-against-nyt/",
+  "https://www.itmedia.co.jp/news/article/2609/03/2000000990/"
  ],
  "titles": [
-  "太陽誘電10%超安、日経平均617円安の理由",
-  "ホンダが四半期最高益も、中国半減に防戦の理由",
-  "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み　英研究機関のテストで判明",
-  "アンソロピックAI、身分偽り人物欺く",
   "A look at Sequoia's revamped strategy under new stewards Alfred Lin and Pat Grady, including bold AI bets; sources: Sequoia recently closed $10B in new funding (Bloomberg)",
   "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
   "Sequoiaが100億ドル調達、AI特化の戦略転換でどう挑むのか",
@@ -4001,6 +3997,10 @@
   "日本列島で大気不安定に、土砂災害への厳重な警戒が続く理由",
   "片山財務相と日銀の植田総裁、G20終了で政策焦点はどうなる",
   "日銀の高田審議委員、機動的な利上げを主張",
-  "ヤマトHD、専用貨物機の運航を終了へ"
+  "ヤマトHD、専用貨物機の運航を終了へ",
+  "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出",
+  "「AI導入したのに、仕事が楽にならないんだが？」の正体　虚空に消えるあなたの“削減時間”、その行き先は……",
+  "米司法省、OpenAIのAI学習はフェアユースと主張",
+  "ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由"
  ]
 }
