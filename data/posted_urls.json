@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015182291000",
-  "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
   "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
   "https://www.itmedia.co.jp/mobile/articles/2607/21/news119.html",
   "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
@@ -1999,13 +1997,11 @@
   "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
   "https://www.fnn.jp/articles/-/1106701",
   "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-  "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+  "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+  "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
  ],
  "titles": [
-  "SNOW運営会社がステマ認定、消費者庁が措置命令の理由",
-  "韓国軍が竹島周辺で定例訓練、外務省が強く抗議",
-  "日経平均が1000円超安、AI・半導体売りが主導",
-  "ソフトバンクグループ、17％余の減益なぜ？英社の人員増が影響",
   "ホルムズ海峡の新航路 イラン「調整の最終段階」",
   "イラン、ホルムズ海峡の新航路設定へオマーンと調整最終段階",
   "「政策支援」と「投資回収」の二律背反。韓国コンテンツ振興院が読み解く、クールジャパン機構「540億円赤字」の本質 | Branc（ブラン）-Brand New Creativity-",
@@ -4001,6 +3997,10 @@
   "UN warns of 'supersized' El Niño as countries prepare for impact",
   "Trump $1 coin makes him first living president on US currency in a century",
   "WMOが警告、超大型エルニーニョが世界経済を揺るがす理由",
-  "トランプ氏コイン発行、100年ぶり現職大統領なぜ"
+  "トランプ氏コイン発行、100年ぶり現職大統領なぜ",
+  "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+  "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "Nvidia、Hugging Faceを129億ドルで買収",
+  "Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産"
  ]
 }

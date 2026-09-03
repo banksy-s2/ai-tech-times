@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-04 00:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Nvidia、Hugging Faceを129億ドルで買収](https://ai-tech-times.web.app/articles/20260904-nvidia-confirms-hugging-face-acquisition.html) — 2026-09-04 00:00: AI半導体大手のエヌビディアが、AIプラットフォームのハグギング・フェイスを129億ドルで買収することを正式に確認しました。開発者への影響や今後の展開に注目が集まっています。
+- [Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産](https://ai-tech-times.web.app/articles/20260904-manufactured-sources-behind-ai-recommendations.html) — 2026-09-04 00:00: AI検索のPerplexityが引用する「ベストソフトウェア」関連のウェブページが、わずか3つのサイトによって21万ページ以上も大量生産されていたことが明らかになりました。
 - [WMOが警告、超大型エルニーニョが世界経済を揺るがす理由](https://ai-tech-times.web.app/articles/20260903-un-warns-supersized-el-nino.html) — 2026-09-03 22:00: 世界気象機関（WMO）は、自然現象であるエルニーニョについて「超大型」になるおそれがあると警告しました。この現象が世界各国にどのような混乱をもたらすのか、影響が懸念されています。
 - [トランプ氏コイン発行、100年ぶり現職大統領なぜ](https://ai-tech-times.web.app/articles/20260903-trump-coin-living-president.html) — 2026-09-03 22:00: 米造幣局がトランプ氏の肖像を刻んだ特別版のコインを発表しました。存命中のアメリカ大統領が通貨に登場するのは1世紀ぶりとなります。
 - [Adobe、Slackで70種ツールが使える新機能提供開始](https://ai-tech-times.web.app/articles/20260903-adobe-for-slack-launched.html) — 2026-09-03 21:04: Adobeは、ビジネス向けチャットツール上で画像や資料を制作できる新しい連携機能の提供を開始しました。
@@ -40,10 +42,8 @@
 - [GoogleのAndroid更新、乗り物酔い対策の裏側](https://ai-tech-times.web.app/articles/20260903-googles-android-update-2026.html) — 2026-09-03 17:08: Googleは、乗り物酔い対策やアクセシビリティなどを強化する新しいAndroidアップデートを発表しました。一部機能では競合他社を追随しつつ、生成AIを活用した様々な改善も導入されています。
 - [ITmedia AI+：「社長の声」悪用で被害45億円、AI詐欺の手口](https://ai-tech-times.web.app/articles/20260903-ai-fraud--45.html) — 2026-09-03 17:08: 生成AIの進化によって業務効率化が進む一方、サイバー攻撃の手口も多様化しています。「AI TECH TIMES」では、元警視庁職員などの専門家が明かす最新のボイスフィッシングやランサムウェア攻撃への備えをお伝えします。
 - [NECとAnthropicが挑むAI時代のサイバー防衛の勝ち筋とは](https://ai-tech-times.web.app/articles/20260903-nec-anthropic-cyber-defense.html) — 2026-09-03 17:08: AI時代のセキュリティを巡り、NECの幹部は「AI対AIになる」と述べました。同社が米AI企業のフロンティアAIを活用して挑む対策の全貌とは何でしょうか。
-- [Google広告事業の分割回避、裁判所が命じた競合利益を守る変更とは](https://ai-tech-times.web.app/articles/20260903-google-spared-from-ad-business-breakup.html) — 2026-09-03 17:08: TechCrunchの報道によると、裁判所はGoogleの広告事業分割を見送る判断を下した一方で、競合他社に利益をもたらすための事業運営の変更を命じました。
-- [トランプ政権のAI安全性テスト非公開ルール、訴訟で開示の可能性](https://ai-tech-times.web.app/articles/20260903-trump-ai-safety-testing-lawsuit.html) — 2026-09-03 17:08: トランプ政権による最先端AIモデルの秘密裏の審査について、腐敗を隠しているとして訴訟が提起されました。この非公開ルールが強制的に明らかにされる可能性があります。
 
-## 世界のバズ動画TOP3 (2026-09-03)
+## 世界のバズ動画TOP3 (2026-09-04)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
 - 2位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
@@ -59,8 +59,8 @@
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカ合衆国に本拠地を置き、世界最大級のECサイト運営やクラウドコンピューティング事業を展開する巨大テクノロジー企業です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
-- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
+- [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。

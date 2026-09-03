@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE80T01LQ2hPQ3JtN2NFMGJNek1ucFZSaFV2eXd3dEp3MW93NVpvcXkwREdOVmprSkx2NFpVZ1ljc0M2dENRT3ppTEpvZlhQWkhTU2ZFVWUzTkdCTDZFSFk5Z0Z6QWpVNkZWc3A0UW9RQTRvSXBIbW5yd1ZIVDAweG8?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015182411000",
   "https://news.web.nhk/newsweb/na/na-k10015182291000",
   "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
   "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
@@ -1999,13 +1997,11 @@
   "https://www.tokyo-sports.co.jp/articles/-/401586",
   "https://news.web.nhk/newsweb/na/nd-20260903de47984",
   "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-  "https://www.fnn.jp/articles/-/1106701"
+  "https://www.fnn.jp/articles/-/1106701",
+  "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+  "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
-  "MicrosoftがAI多用する社員に忠告、なぜ？",
-  "Google、ジェフ・ディーン退任と大規模AI組織再編",
-  "SpaceXがテスラ製メガパック導入、AIデータセンターの電力源に",
-  "最高月収700万超えの夫婦YouTuber、離婚後に養育費でカフェバイト生活",
   "SNOW運営会社がステマ認定、消費者庁が措置命令の理由",
   "韓国軍が竹島周辺で定例訓練、外務省が強く抗議",
   "日経平均が1000円超安、AI・半導体売りが主導",
@@ -4001,6 +3997,10 @@
   "菅田将暉が山上被告役か、安倍元首相銃撃事件が映画化へ",
   "日銀利上げ観測で急激な円高ドル安、一時1ドル156円台前半に",
   "ロサンゼルス・クリッパーズ、報酬規則違反で3000万ドルの罰金",
-  "ニューヨーク・タイムズ報道：ベッセント財務長官が日銀独立性に不満"
+  "ニューヨーク・タイムズ報道：ベッセント財務長官が日銀独立性に不満",
+  "UN warns of 'supersized' El Niño as countries prepare for impact",
+  "Trump $1 coin makes him first living president on US currency in a century",
+  "WMOが警告、超大型エルニーニョが世界経済を揺るがす理由",
+  "トランプ氏コイン発行、100年ぶり現職大統領なぜ"
  ]
 }
