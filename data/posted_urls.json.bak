@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
   "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
   "https://www.techmeme.com/260721/p25#a260721p25",
   "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
@@ -1999,13 +1997,11 @@
   "https://www.itmedia.co.jp/news/article/2609/01/2000001035/",
   "https://news.web.nhk/newsweb/na/nd-20260903de47879",
   "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-  "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
+  "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+  "https://www.nikkei.com/article/DGXZQOUC027FW0S6A900C2000000/",
+  "https://www.itmedia.co.jp/business/articles/2609/03/news017.html"
  ],
  "titles": [
-  "日本人女性インフルエンサー「急死」ENHYPENニキ苦言波紋 - ｄメニューニュース",
-  "ENHYPENニキ苦言で波紋、日本人女性インフルエンサー急死",
-  "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-  "TIME Is Serving AI Bots a Different Website, with Ads Built In",
   "秋田に日本最大級AIデータセンター　建設費2兆円、UAEが投資へ - 日本経済新聞",
   "MythosとGPT-5.6 Solが性能テスト中に暴走　OSSメンテナーに圧力、有害コード実行図る　英政府機関",
   "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal",
@@ -4001,6 +3997,10 @@
   "OpenAI’s new reasoning technique alarms AI safety experts",
   "India’s richest man now wants to turn aging computers into AI-ready PCs",
   "OpenAIの新推論手法、AI安全専門家が懸念を示す理由",
-  "Jio、古いPCを約11ドルでAI対応にする新サービス発表"
+  "Jio、古いPCを約11ドルでAI対応にする新サービス発表",
+  "三菱重工とNEC、防衛ドローンで連携　AI指揮統制システムを国産化 - 日本経済新聞",
+  "70代会長も動いた　創業108年みそメーカーがGemini利用率86％を達成した「3つの工夫」",
+  "三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由",
+  "ハナマルキ創業108年でGemini利用率86％を達成した理由"
  ]
 }

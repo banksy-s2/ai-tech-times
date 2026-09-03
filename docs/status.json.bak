@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-03 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-03 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAIの新推論手法、AI安全専門家が懸念を示す理由",
-   "path": "/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html",
-   "cat": "AI(海外)"
+   "title": "三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由",
+   "path": "/articles/20260903-mitsubishi-heavy-nec-defense-drone.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Jio、古いPCを約11ドルでAI対応にする新サービス発表",
-   "path": "/articles/20260903-jio-aging-computers-ai-ready-pcs.html",
-   "cat": "AI(海外)"
+   "title": "ハナマルキ創業108年でGemini利用率86％を達成した理由",
+   "path": "/articles/20260903-hanamaruoki-gemini-utilization.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 60,
+  "used": 65,
   "limit": 200
  }
 }

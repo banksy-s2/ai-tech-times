@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Broadcom第3四半期、AI半導体が221%増の167億ドルで売上高86%増なのにQ4予測が未達とは](https://ai-tech-times.web.app/articles/20260903-broadcom-reports-q3-revenue-up-86-percent.html) — 2026-09-03 10:00: 米半導体大手Broadcomが発表した第3四半期決算は、AI半導体の急成長により売上高が前年同期比86%増となりました。しかし、続く第4四半期の売上高予測が市場予想を下回り、今後の動向に注目が集まっています。
 - [三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由](https://ai-tech-times.web.app/articles/20260903-mitsubishi-heavy-nec-defense-drone.html) — 2026-09-03 09:00: 三菱重工業とNECは2日、防衛分野での戦略的提携に向けた覚書を締結したと発表しました。ウクライナ戦争を機に広がる「新しい戦い方」に対応します。
 - [ハナマルキ創業108年でGemini利用率86％を達成した理由](https://ai-tech-times.web.app/articles/20260903-hanamaruoki-gemini-utilization.html) — 2026-09-03 09:00: 生成AIのアカウントを社員に付与しても使われないという課題がある中、長野県のみそメーカー、ハナマルキがGeminiの利用率86％を達成しました。導入時の工夫とは何だったのでしょうか。
 - [OpenAIの新推論手法、AI安全専門家が懸念を示す理由](https://ai-tech-times.web.app/articles/20260903-openai-new-reasoning-technique-alarms-ai-safety-experts.html) — 2026-09-03 08:00: OpenAIが開発を進める新しい「Astra」モデルに導入される推論技術が、専門家たちの間で波紋を呼んでいます。
@@ -41,12 +42,11 @@
 - [Acompany、AIの秘密を守るホワイトペーパー公開](https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html) — 2026-09-03 01:00: データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。
 - [OpenAI、30件の訴訟で加担疑惑なぜ浮上](https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html) — 2026-09-03 00:02: OpenAIとサム・アルトマンCEOに対し、カナダの学校銃撃事件を巡り「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。
 - [ニューヨーク市、高校未満のAI利用を禁止する理由](https://ai-tech-times.web.app/articles/20260903-nyc-ai-restrictions-in-schools.html) — 2026-09-03 00:02: ニューヨーク市は、公立学校の生徒を対象に、高校に達するまでのAI利用を1年間禁止する新方針を発表しました。
-- [日経平均が終値1889円安、世界金利高でよぎるうたげの終わり](https://ai-tech-times.web.app/articles/20260902-nikkei-average-drops-1889-yen.html) — 2026-09-02 23:02: 日本経済新聞の報道によると、日経平均株価の終値が1889円安となり、世界金利高を背景に「うたげの終わり」がよぎる展開となりました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
-- 2位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
-- 3位: [SIDEMEN AMONG US BUT YOU CAN BUY POWER UPS](https://www.youtube.com/watch?v=PrrE6YwY6mo)
+- 2位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
+- 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
 ## AI用語事典 (全1262語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
