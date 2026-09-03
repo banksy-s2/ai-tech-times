@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-04 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "ニトリが急伸・商社株は長期保有へ、日経平均は続落",
-   "path": "/articles/20260904-stocks-market-news-september-3.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-04 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益とな"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 29,
   "limit": 200
  }
 }
