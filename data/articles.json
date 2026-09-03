@@ -70958,5 +70958,283 @@
   "date": "2026-09-03",
   "time": "10:00",
   "path": "/articles/20260903-broadcom-reports-q3-revenue-up-86-percent.html"
+ },
+ {
+  "title": "HiddenLayerが1億ドル調達、AI展開の安全対策が急務に",
+  "lead": "セキュリティ企業のHiddenLayerが1億ドルを調達しました。企業がAI展開の安全性を急ぐ中、背景にはどのような動きがあるのでしょうか。",
+  "summary3": [
+   "HiddenLayerが1億ドルを調達しました",
+   "企業によるAI展開の安全確保が急務となっています",
+   "AIエージェントやツール監視の製品開発が急ピッチです"
+  ],
+  "body": [
+   "セキュリティ企業のHiddenLayerが、新たに1億ドルを調達したことが明らかになりました。企業がAI展開の安全性を急ぐ動きが強まる中で資金を集めています。",
+   "現在、多くの企業がAIの導入を進めていますが、それにともなってセキュリティ上の懸念も高まっています。セキュリティ企業は、AIシステムそのものだけでなく、エージェントや追加ツール、アドオンまでを監視できる製品の構築に奔走しています。",
+   "AIの活用範囲が広がるにつれて、安全性をどのように担保するのかは企業にとって重要な課題となっています。こうした背景から、監視製品を開発する企業への注目と投資が集まる状況が続いています。"
+  ],
+  "tags": [
+   "AIセキュリティ",
+   "資金調達",
+   "AI TECH TIMES"
+  ],
+  "slug": "hiddenlayer-nabs-100m-ai-security",
+  "people": [],
+  "terms": [
+   {
+    "name": "HiddenLayer",
+    "type": "company",
+    "desc": "AIおよび機械学習モデルのセキュリティ保護を専門に手掛けるセキュリティ企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-hiddenlayer-nabs-100m-ai-security.html"
+ },
+ {
+  "title": "MrBeast、GoogleのAIで過酷な大自然を生き抜く理由",
+  "lead": "人気ユーチューバーのMrBeastが、Googleと複数年にわたる大型パートナーシップを締結しました。9月5日公開の動画から、GeminiなどのAI技術が次々と起用されます。",
+  "summary3": [
+   "MrBeastがGoogleと複数年で提携",
+   "9月5日の動画でGeminiを活用し生存に挑む",
+   "今後はGoogle HealthやFitbitも登場"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。世界的クリエイターであるMrBeastが、米グーグルと複数年にわたる大規模なパートナーシップを締結したことが明らかになりました。",
+   "今回の提携の幕開けとして、2025年9月5日に公開される最新動画では、ジミー・ドナルドソン氏とクルーたちが過酷な大自然の中で生き抜くための生存アドバイスを生成AI「Gemini」に求めます。最先端のテクノロジーが、過酷なサバイバル環境でどのように活用されるのか注目が集まっています。",
+   "さらに、今後の動画コンテンツにおいてはGeminiだけでなく、「Google Health」や「Fitbit Air」といったヘルスケア関連の技術やデバイスも登場する予定です。テクノロジー大手とトップクリエイターの異色のタッグが、今後どのようなコンテンツを生み出すのか目が離せません。"
+  ],
+  "tags": [
+   "Google",
+   "MrBeast",
+   "Gemini"
+  ],
+  "slug": "mrbeast-google-partnership-gemini",
+  "people": [
+   {
+    "name": "ジミー・ドナルドソン",
+    "bio": "世界的な人気を誇るYouTubeクリエイターで、大規模な企画やチャリティー動画で知られるMrBeastとして活動。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力事業とし、多岐にわたるソフトウェアやハードウェアサービスを展開するアメリカの巨大テクノロジー企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などを高度に理解・処理できるマルチモーダル対応の先進的な人工知能モデル。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-mrbeast-google-partnership-gemini.html"
+ },
+ {
+  "title": "Google、価格据え置きで「Gemini 3.8 Flash」公開",
+  "lead": "Googleは、AIモデル「Gemini 3.8 Flash」とサイバー防御特化型の発表を行いました。推論とコーディング性能を大幅に向上させつつ価格は据え置かれています。",
+  "summary3": [
+   "GoogleがGemini 3.8 Flashを公開",
+   "推論・コーディングが向上し価格は据え置き",
+   "政府やインフラ向けのサイバー版も同時発表"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。GoogleはAIモデルの最新版となる「Gemini 3.8 Flash」および、サイバー防御に特化した「Gemini 3.8 Flash Cyber」を発表しました。前バージョンの3.7からわずか3週間という異例のスピードでの公開となります。",
+   "今回の新モデルでは、推論性能とコーディング性能が大幅に向上しているのが大きな特徴です。これだけの性能アップを果たしながらも、価格は据え置きとなっており、利用者にとってコストパフォーマンスの高い選択肢となっています。",
+   "また、同時に発表されたサイバー防御特化した「Gemini 3.8 Flash Cyber」は、政府やインフラ企業といった信頼できる防御側に限定して提供されます。脆弱性の発見やパッチの自動生成を支援し、高度なセキュリティ対策に貢献する仕様となっています。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "google-gemini-3-8-flash-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、クラウドサービスやAI開発などを幅広く手がけるアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Gemini 3.8 Flash",
+    "type": "ai",
+    "desc": "Googleが開発した最新のAIモデル。推論やコーディング性能が向上し、価格は据え置きとなっている。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/",
+  "category": "ai_jp",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-google-gemini-3-8-flash-released.html"
+ },
+ {
+  "title": "KADOKAWAが挑むAI執筆伴走、作家は育つのか",
+  "lead": "KADOKAWAが小説執筆を支援する人工知能（AI）サービスの開発に乗り出しました。出版ビジネスの拡大に寄与するかどうかの試金石となります。",
+  "summary3": [
+   "KADOKAWAが小説執筆支援AIを開発",
+   "今秋に新サービス「RIK」をリリース予定",
+   "自動生成ではなく編集者の役割を担う"
+  ],
+  "body": [
+   "総合エンターテインメント企業のKADOKAWAが、小説の執筆を支援する人工知能（AI）サービスの開発に乗り出しました。新たな才能を発掘するか、似たような作品を乱立させるだけに終わるか、出版業界で注目を集めています。",
+   "今回の取り組みは、AIが業務効率化だけでなく、出版ビジネスの拡大に寄与するかを占う試金石となります。開発にあたっては「AIによる文章の自動生成ツールではありません」としており、編集者の役割を担う執筆伴走を目指しています。",
+   "今秋には新サービス「RIK」のリリースをめざしており、AIが作家の卵をどのように育てるのか、今後の展開に期待と懸念の両面から関心が寄せられています。"
+  ],
+  "tags": [
+   "KADOKAWA",
+   "AI",
+   "出版"
+  ],
+  "slug": "kadokawa-ai-writing-support",
+  "people": [],
+  "terms": [
+   {
+    "name": "KADOKAWA",
+    "type": "company",
+    "desc": "出版や映画、アニメなどを手がける日本の総合エンターテインメント企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC264TR0W6A820C2000000/",
+  "category": "ai_jp",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-kadokawa-ai-writing-support.html"
+ },
+ {
+  "title": "Uber、Delivery Heroを150億ドルで買収へ",
+  "lead": "Uberによる総額150億ドルの買収提案について、Delivery Heroの取締役会が支持を表明しました。",
+  "summary3": [
+   "UberがDelivery Heroに150億ドルの買収提案",
+   "Delivery Hero取締役会が買収提案を支持",
+   "承認されれば世界最大級のフードデリバリーに"
+  ],
+  "body": [
+   "米国のテックメディア「TechCrunch」によると、フードデリバリー業界において大規模な買収に向けた動きが進んでいます。Uberによる総額150億ドルの買収提案に対し、Delivery Heroの取締役会が支持を表明しました。",
+   "もしこの買収が正式に承認された場合、両社が統合された企業は世界最大級のフードデリバリープラットフォームの1つになる見込みです。今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Uber",
+   "Delivery Hero",
+   "フードデリバリー"
+  ],
+  "slug": "delivery-hero-board-backs-ubers-15b-takeover-bid",
+  "people": [],
+  "terms": [
+   {
+    "name": "Uber",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、配車サービスやフードデリバリーなどをグローバルに展開する企業です。"
+   },
+   {
+    "name": "Delivery Hero",
+    "type": "company",
+    "desc": "世界各地でフードデリバリーサービスを展開し、多くの国で事業を行っているプラットフォーム運営企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+  "category": "silicon",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-delivery-hero-board-backs-ubers-15b-takeover-bid.html"
+ },
+ {
+  "title": "部活のホルン修理で見積り12万円、保険適用は？",
+  "lead": "部活動で娘がホルンを床に落としてしまい、高額な修理見積りが提示されたことが話題となっています。",
+  "summary3": [
+   "娘が部活のホルンを床に落とした",
+   "顧問から12万円の修理見積り",
+   "物損保険の適用可否が焦点に"
+  ],
+  "body": [
+   "「さくママ🍒2025N終了🍒 @sakumama2025」の投稿によると、娘が部活のホルンを床に落としてしまい、修理見積りが12万円になると顧問から電話があったということです。",
+   "顧問からは「物損の保険入っていたらそちらを…」と伝えられ、投稿者は帰宅してから調べてみるとしています。ずっと平謝りして、もちろん弁償させていただきます、と言うと、顧問の声が明らかに明るくなったとのことです。",
+   "この出来事に対して、部活時の責任の所在や個人補償保険の適用可否が焦点となっており、SNS上で様々な議論や関心が集まっています。娘に話を聞くなど、今後の対応が注目されます。"
+  ],
+  "tags": [
+   "部活動",
+   "楽器修理",
+   "保険"
+  ],
+  "slug": "horn-repair-cost-insurance",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://togetter.com/li/2740277",
+  "category": "influencer",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-horn-repair-cost-insurance.html"
+ },
+ {
+  "title": "片山財務相、長期金利3％超えに「緊張感を持って対応」",
+  "lead": "債券市場で長期金利の代表的な指標である10年ものの国債の利回りが3％を超えました。アメリカを訪問中の片山財務大臣が会見で示した姿勢をお伝えします。",
+  "summary3": [
+   "10年国債利回りが3％超え",
+   "片山財務相がアメリカで会見",
+   "緊張感を持って対応する方針"
+  ],
+  "body": [
+   "債券市場において、長期金利の代表的な指標である10年ものの国債の利回りが3％を超えたことが明らかになりました。この金利の上昇は、私たちの住宅ローンや企業の借入金利、さらには日々の経済活動や家計に大きな影響を与える可能性がある重要な動きです。",
+   "この事態を受け、アメリカを訪問中である片山財務大臣は現地での会見に応じました。会見の中で片山財務大臣は、特定の水準についてはコメントを控えるとしたものの、市場の動向に対しては緊張感を持って対応していく考えを明らかにしています。",
+   "今後の市場の変動や政府・関係機関の対応によっては、私たちの財布や生活環境にもさらなる変化が及ぶ可能性があります。AI TECH TIMESでは、引き続き金融市場の動向と政府の対応について正確な情報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "長期金利",
+   "片山財務相",
+   "経済"
+  ],
+  "slug": "long-term-interest-rate-exceeds-three-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260902de47749",
+  "category": "world",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-long-term-interest-rate-exceeds-three-percent.html"
+ },
+ {
+  "title": "米軍イラン攻撃で4人死亡、トランプ大統領の今後の対応とは",
+  "lead": "アメリカ軍がイランに対して行った攻撃により、結婚式の参加者など4人が死亡したと報じられました。イラン外務省は強く反発しています。",
+  "summary3": [
+   "米軍の攻撃で結婚式参加者ら4人死亡",
+   "イラン外務省が戦争犯罪と強く反発",
+   "トランプ大統領は攻撃は長く…と表明"
+  ],
+  "body": [
+   "アメリカ軍がイランに対して行った攻撃で、結婚式の参加者など4人が死亡したと報じられていることについて、イラン外務省は「戦争犯罪に当たる」などと強く反発しました。",
+   "今回の軍事行動をめぐっては、犠牲者が出たことで両国の緊張が高まることが懸念されています。",
+   "一方、アメリカのトランプ大統領は攻撃について長く…と言及しており、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "アメリカ",
+   "イラン",
+   "国際ニュース"
+  ],
+  "slug": "us-iran-conflict-news",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。政策や外交方針で世界に大きな影響を与えている政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260903de47900",
+  "category": "world",
+  "date": "2026-09-03",
+  "time": "12:01",
+  "path": "/articles/20260903-us-iran-conflict-news.html"
  }
 ]

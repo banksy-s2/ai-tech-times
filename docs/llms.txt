@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 12:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [HiddenLayerが1億ドル調達、AI展開の安全対策が急務に](https://ai-tech-times.web.app/articles/20260903-hiddenlayer-nabs-100m-ai-security.html) — 2026-09-03 12:01: セキュリティ企業のHiddenLayerが1億ドルを調達しました。企業がAI展開の安全性を急ぐ中、背景にはどのような動きがあるのでしょうか。
+- [MrBeast、GoogleのAIで過酷な大自然を生き抜く理由](https://ai-tech-times.web.app/articles/20260903-mrbeast-google-partnership-gemini.html) — 2026-09-03 12:01: 人気ユーチューバーのMrBeastが、Googleと複数年にわたる大型パートナーシップを締結しました。9月5日公開の動画から、GeminiなどのAI技術が次々と起用されます。
+- [Google、価格据え置きで「Gemini 3.8 Flash」公開](https://ai-tech-times.web.app/articles/20260903-google-gemini-3-8-flash-released.html) — 2026-09-03 12:01: Googleは、AIモデル「Gemini 3.8 Flash」とサイバー防御特化型の発表を行いました。推論とコーディング性能を大幅に向上させつつ価格は据え置かれています。
+- [KADOKAWAが挑むAI執筆伴走、作家は育つのか](https://ai-tech-times.web.app/articles/20260903-kadokawa-ai-writing-support.html) — 2026-09-03 12:01: KADOKAWAが小説執筆を支援する人工知能（AI）サービスの開発に乗り出しました。出版ビジネスの拡大に寄与するかどうかの試金石となります。
+- [Uber、Delivery Heroを150億ドルで買収へ](https://ai-tech-times.web.app/articles/20260903-delivery-hero-board-backs-ubers-15b-takeover-bid.html) — 2026-09-03 12:01: Uberによる総額150億ドルの買収提案について、Delivery Heroの取締役会が支持を表明しました。
+- [部活のホルン修理で見積り12万円、保険適用は？](https://ai-tech-times.web.app/articles/20260903-horn-repair-cost-insurance.html) — 2026-09-03 12:01: 部活動で娘がホルンを床に落としてしまい、高額な修理見積りが提示されたことが話題となっています。
+- [片山財務相、長期金利3％超えに「緊張感を持って対応」](https://ai-tech-times.web.app/articles/20260903-long-term-interest-rate-exceeds-three-percent.html) — 2026-09-03 12:01: 債券市場で長期金利の代表的な指標である10年ものの国債の利回りが3％を超えました。アメリカを訪問中の片山財務大臣が会見で示した姿勢をお伝えします。
+- [米軍イラン攻撃で4人死亡、トランプ大統領の今後の対応とは](https://ai-tech-times.web.app/articles/20260903-us-iran-conflict-news.html) — 2026-09-03 12:01: アメリカ軍がイランに対して行った攻撃により、結婚式の参加者など4人が死亡したと報じられました。イラン外務省は強く反発しています。
 - [Broadcom第3四半期、AI半導体が221%増の167億ドルで売上高86%増なのにQ4予測が未達とは](https://ai-tech-times.web.app/articles/20260903-broadcom-reports-q3-revenue-up-86-percent.html) — 2026-09-03 10:00: 米半導体大手Broadcomが発表した第3四半期決算は、AI半導体の急成長により売上高が前年同期比86%増となりました。しかし、続く第4四半期の売上高予測が市場予想を下回り、今後の動向に注目が集まっています。
 - [三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由](https://ai-tech-times.web.app/articles/20260903-mitsubishi-heavy-nec-defense-drone.html) — 2026-09-03 09:00: 三菱重工業とNECは2日、防衛分野での戦略的提携に向けた覚書を締結したと発表しました。ウクライナ戦争を機に広がる「新しい戦い方」に対応します。
 - [ハナマルキ創業108年でGemini利用率86％を達成した理由](https://ai-tech-times.web.app/articles/20260903-hanamaruoki-gemini-utilization.html) — 2026-09-03 09:00: 生成AIのアカウントを社員に付与しても使われないという課題がある中、長野県のみそメーカー、ハナマルキがGeminiの利用率86％を達成しました。導入時の工夫とは何だったのでしょうか。
@@ -34,21 +42,13 @@
 - [Uberが10%の人員削減を発表、3300人を対象にする理由](https://ai-tech-times.web.app/articles/20260903-uber-is-laying-off-10-percent-of-staff.html) — 2026-09-03 07:01: 配車サービス大手のUberが、グローバルで従業員の約10%にあたる約3300人の人員削減を行うことを発表しました。組織の管理層をスリム化し、主要事業への投資を強化する方針です。
 - [EXILE・HIROのGMO系イベント関与になぜ抗議の声が上がるのか](https://ai-tech-times.web.app/articles/20260903-exile-hiro-gmo-event-protest.html) — 2026-09-03 07:01: 8月30日ごろから、X上で音楽グループ「EXILE」のメンバーであるHIRO氏が参加するGMOインターネットグループ主催のイベントに対し、抗議の声が広がっています。
 - [高市首相、党役員人事と内閣改造を再来週にも検討](https://ai-tech-times.web.app/articles/20260903-takaichi-cabinet-reshuffle-september.html) — 2026-09-03 07:01: 政府・与党内で、自民党の役員人事と内閣改造をめぐる動きが活発化しています。食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。
-- [クールジャパン機構の誤算、540億円の赤字を生んだ理由](https://ai-tech-times.web.app/articles/20260903-cool-japan-deficit-analysis.html) — 2026-09-03 06:00: 世界でヒットを連発する韓国に対し、日本のクールジャパン機構は約540億円の累積赤字を抱える結果となりました。なぜ巨額の公金が投じられたのか、その構造的な問題に迫ります。
-- [ロシア外務省、日米豪の共同訓練に対抗措置をとると警告](https://ai-tech-times.web.app/articles/20260903-russia-warns-japan-us-australia-drills.html) — 2026-09-03 04:00: ロシア外務省は、日本大使館に対して懸念を伝え、9月に予定されている自衛隊とアメリカ軍、オーストラリア軍の共同訓練をめぐって対抗措置をとると警告しました。
-- [GoPro株価が2週間で動いた理由とは](https://ai-tech-times.web.app/articles/20260903-gopro-stock-price-movement-reasons.html) — 2026-09-03 03:01: GoProの株価が2週間で変動した背景について、筆頭株主であるYouTuberの存在や合併への動きが注目されています。
-- [デルが決算で見せたAI市場の現在地とは](https://ai-tech-times.web.app/articles/20260903-dell-most-important-stock-ai-trade.html) — 2026-09-03 02:00: 米CNBC Techは、デルの素晴らしい四半期決算に対する市場の反応が、AI取引の重要な温度チェックになると報じています。
-- [GoogleがFervoから400MWの地熱発電を購入する理由](https://ai-tech-times.web.app/articles/20260903-google-buys-geothermal-power-from-fervo.html) — 2026-09-03 02:00: AI TECH TIMESがお届けする最新ニュース。GoogleがFervoから400MWの地熱発電を購入した契約について、その詳細をお伝えします。
-- [Acompany、AIの秘密を守るホワイトペーパー公開](https://ai-tech-times.web.app/articles/20260903-acompany-security-whitepaper-2028.html) — 2026-09-03 01:00: データ保護技術を手がけるAcompanyが、外部からデータを見られない状態でAIを利用できるようにする技術のホワイトペーパーを公開しました。
-- [OpenAI、30件の訴訟で加担疑惑なぜ浮上](https://ai-tech-times.web.app/articles/20260903-openai-tumbler-ridge-lawsuit.html) — 2026-09-03 00:02: OpenAIとサム・アルトマンCEOに対し、カナダの学校銃撃事件を巡り「実質的な援助と奨励」を行ったとする30件の新たな訴訟が提起されました。
-- [ニューヨーク市、高校未満のAI利用を禁止する理由](https://ai-tech-times.web.app/articles/20260903-nyc-ai-restrictions-in-schools.html) — 2026-09-03 00:02: ニューヨーク市は、公立学校の生徒を対象に、高校に達するまでのAI利用を1年間禁止する新方針を発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 2位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1262語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1266語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -73,10 +73,10 @@
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
+- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
-- [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [AMDとは](https://ai-tech-times.web.app/term/amd.html): アメリカに拠点を置く世界的な半導体メーカー。CPUやGPUなどの開発・製造を手がけ、AI向け市場でも存在感を高めている。
 

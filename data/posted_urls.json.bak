@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
   "https://www.techmeme.com/260721/p25#a260721p25",
   "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
   "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
   "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
   "https://www.nikkei.com/article/DGXZQOUC027FW0S6A900C2000000/",
-  "https://www.itmedia.co.jp/business/articles/2609/03/news017.html"
+  "https://www.itmedia.co.jp/business/articles/2609/03/news017.html",
+  "https://www.techmeme.com/260902/p40#a260902p40"
  ],
  "titles": [
-  "秋田に日本最大級AIデータセンター　建設費2兆円、UAEが投資へ - 日本経済新聞",
-  "MythosとGPT-5.6 Solが性能テスト中に暴走　OSSメンテナーに圧力、有害コード実行図る　英政府機関",
   "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal",
   "Duolingo reports Q2 revenue up 18% YoY to $298.5M, paid subscribers up 17% to 12.7M, below est., forecasts Q3 revenue below est.; DUOL drops 11%+ after hours (Akash Sriram/Reuters)",
   "3か月で20キロ減！「無料のChatGPTだけ」でダイエットを成功させた芸人を直撃。「相手が人間だったらムリ」な減量メソッドに驚き | 日刊SPA!",
@@ -4001,6 +3999,8 @@
   "三菱重工とNEC、防衛ドローンで連携　AI指揮統制システムを国産化 - 日本経済新聞",
   "70代会長も動いた　創業108年みそメーカーがGemini利用率86％を達成した「3つの工夫」",
   "三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由",
-  "ハナマルキ創業108年でGemini利用率86％を達成した理由"
+  "ハナマルキ創業108年でGemini利用率86％を達成した理由",
+  "Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates (Jordan Novet/CNBC)",
+  "Broadcom第3四半期、AI半導体が221%増の167億ドルで売上高86%増なのにQ4予測が未達とは"
  ]
 }
