@@ -1,21 +1,56 @@
 {
- "updated": "2026-09-03 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-03 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信",
-   "path": "/articles/20260903-yakusaya-live-action-2028.html",
+   "title": "Adobe、Slackで70種ツールが使える新機能提供開始",
+   "path": "/articles/20260903-adobe-for-slack-launched.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "X、米クリエイター報酬の決済基盤をStripeから「X Money」へ移行",
+   "path": "/articles/20260903-x-shifts-us-creator-payouts-from-stripe-to-x-money.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "マイクロソフトが財務報告を変更、Azure収益を初公開へ",
+   "path": "/articles/20260903-microsoft-discloses-azure-revenue-financial-changes.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "菅田将暉が山上被告役か、安倍元首相銃撃事件が映画化へ",
+   "path": "/articles/20260903-abe-assassination-movie-adaptation.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "日銀利上げ観測で急激な円高ドル安、一時1ドル156円台前半に",
+   "path": "/articles/20260903-yen-gains-against-dollar-156-yen.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ロサンゼルス・クリッパーズ、報酬規則違反で3000万ドルの罰金",
+   "path": "/articles/20260903-la-clippers-fined-30m-over-leonard.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ニューヨーク・タイムズ報道：ベッセント財務長官が日銀独立性に不満",
+   "path": "/articles/20260903-bessent-boj-independence-criticism.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Pangram’s Max Spero on why AI detection ",
+  "執筆失敗: トヨタ系のAIサムライ、AIが特許網を生成　中小も技術保護しやすく - 日本経済",
+  "執筆失敗: 店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益とな",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 150,
+  "used": 175,
   "limit": 200
  }
 }

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
   "https://gigazine.net/news/20260721-kimi-k3-limit/",
   "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
   "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
@@ -1999,11 +1998,10 @@
   "https://gigazine.net/news/20260903-trump-administration-sides-with-openai-in-lawsuit-against-nyt/",
   "https://www.itmedia.co.jp/news/article/2609/03/2000000990/",
   "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-  "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html"
+  "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+  "https://www.famitsu.com/article/202609/86435"
  ],
  "titles": [
-  "韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡（朝鮮日報日本語版） - Yahoo!ニュース",
-  "韓国居住の20代女性の日本人インフルエンサー、自宅でライブ配信中に死亡",
   "Born Against, or why hobby programming communities are against LLM usage",
   "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
   "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
@@ -4001,6 +3999,8 @@
   "Snowflake spikes 22% on healthy results and AI coding momentum",
   "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
   "Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由",
-  "Uber、全従業員の10%を削減する理由"
+  "Uber、全従業員の10%を削減する理由",
+  "『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信 | ゲーム・エンタメ最新情報のファミ通.com",
+  "芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信"
  ]
 }

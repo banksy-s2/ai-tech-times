@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-03 21:04 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Adobe、Slackで70種ツールが使える新機能提供開始](https://ai-tech-times.web.app/articles/20260903-adobe-for-slack-launched.html) — 2026-09-03 21:04: Adobeは、ビジネス向けチャットツール上で画像や資料を制作できる新しい連携機能の提供を開始しました。
+- [X、米クリエイター報酬の決済基盤をStripeから「X Money」へ移行](https://ai-tech-times.web.app/articles/20260903-x-shifts-us-creator-payouts-from-stripe-to-x-money.html) — 2026-09-03 21:04: Xは、米国におけるクリエイター向けの報酬支払いを、独自の決済サービスであるX Moneyを通じて処理すると発表しました。従来のStripeを活用したシステムから切り替わる形となります。
+- [マイクロソフトが財務報告を変更、Azure収益を初公開へ](https://ai-tech-times.web.app/articles/20260903-microsoft-discloses-azure-revenue-financial-changes.html) — 2026-09-03 21:04: マイクロソフトは投資家向けの財務報告体制を大きく変更し、事業を2つのセグメントに分割すると発表しました。AIがもたらす継続的な影響を反映させるため、クラウド事業「Azure」の四半期収益が初めて開示されます。
+- [菅田将暉が山上被告役か、安倍元首相銃撃事件が映画化へ](https://ai-tech-times.web.app/articles/20260903-abe-assassination-movie-adaptation.html) — 2026-09-03 21:04: 2022年に起きた安倍晋三元首相の銃撃事件を題材にした映画製作が、極秘裏に進められていることが分かりました。
+- [日銀利上げ観測で急激な円高ドル安、一時1ドル156円台前半に](https://ai-tech-times.web.app/articles/20260903-yen-gains-against-dollar-156-yen.html) — 2026-09-03 21:04: 3日の東京外国為替市場で円高ドル安が急速に進み、夕方には一時1ドル＝156円台前半をつけました。日銀の利上げペースが速まるという見方が背景にあります。
+- [ロサンゼルス・クリッパーズ、報酬規則違反で3000万ドルの罰金](https://ai-tech-times.web.app/articles/20260903-la-clippers-fined-30m-over-leonard.html) — 2026-09-03 21:04: 米プロバスケットボール協会（NBA）は、給与規則に違反したとしてロサンゼルス・クリッパーズに対して3000万ドルの罰金を科しました。
+- [ニューヨーク・タイムズ報道：ベッセント財務長官が日銀独立性に不満](https://ai-tech-times.web.app/articles/20260903-bessent-boj-independence-criticism.html) — 2026-09-03 21:04: アメリカのベッセント財務長官が今年5月に片山財務大臣と夕食を共にした際、日本の経済政策を批判したと米紙が報じました。
 - [芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信](https://ai-tech-times.web.app/articles/20260903-yakusaya-live-action-2028.html) — 2026-09-03 20:00: 人気小説『薬屋のひとりごと』が、主演・芦田愛菜で実写ドラマ化されることが決定しました。2028年よりPrime Videoにて世界独占配信されます。
 - [Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由](https://ai-tech-times.web.app/articles/20260903-snowflake-jumps-22-percent-on-ai-coding-momentum.html) — 2026-09-03 19:00: 米CNBC Techによると、Snowflakeの株価が好調な決算とAIコード生成の勢いを背景に22%急騰しました。
 - [Uber、全従業員の10%を削減する理由](https://ai-tech-times.web.app/articles/20260903-uber-cuts-10-percent-workforce.html) — 2026-09-03 19:00: 米CNBC Techによると、配車サービス大手のUberは、よりシンプルで迅速な組織を目指して全従業員の10%を削減する方針を固めました。
@@ -35,20 +42,13 @@
 - [トランプ政権のAI安全性テスト非公開ルール、訴訟で開示の可能性](https://ai-tech-times.web.app/articles/20260903-trump-ai-safety-testing-lawsuit.html) — 2026-09-03 17:08: トランプ政権による最先端AIモデルの秘密裏の審査について、腐敗を隠しているとして訴訟が提起されました。この非公開ルールが強制的に明らかにされる可能性があります。
 - [日産、「入庫拒否」巡りユーチューバーの動画が波紋](https://ai-tech-times.web.app/articles/20260903-nissan-youtuber-controversy.html) — 2026-09-03 17:08: 高級車を複数持つYouTuberによる「日産入庫拒否」を巡る不満動画が波紋を呼んでいます。
 - [日本列島で大気不安定に、土砂災害への厳重な警戒が続く理由](https://ai-tech-times.web.app/articles/20260903-heavy-rain-typhoon-front.html) — 2026-09-03 17:08: 秋雨前線や台風24号の影響により、日本列島の広い範囲で大気の状態が非常に不安定となっています。今後の大雨に備え、土砂災害などに厳重な警戒が必要です。
-- [片山財務相と日銀の植田総裁、G20終了で政策焦点はどうなる](https://ai-tech-times.web.app/articles/20260903-g20-katayama-ueda-policy-focus.html) — 2026-09-03 17:08: アメリカで行われていたG20財務相・中央銀行総裁会議に参加した片山財務大臣と日銀の植田総裁が、現地での日程を終えました。アメリカ側との会談を踏まえた今後の政策の焦点に関心が集まっています。
-- [日銀の高田審議委員、機動的な利上げを主張](https://ai-tech-times.web.app/articles/20260903-boj-takada-rate-hike-20260902.html) — 2026-09-03 17:08: 日銀の金融政策決定に関わる高田創審議委員が札幌市で講演し、物価の上振れリスクに対応するため機動的に利上げを進めるべきだという考えを示しました。
-- [ヤマトHD、専用貨物機の運航を終了へ](https://ai-tech-times.web.app/articles/20260903-yamato-hd-cargo-flight-end.html) — 2026-09-03 17:08: 宅配大手のヤマトホールディングスが、自社専用の貨物機の運航を来年6月をめどに終了すると発表しました。航空機燃料の高騰などが背景にあるとしています。
-- [AmazonのAIが偽メールを判定する理由](https://ai-tech-times.web.app/articles/20260903-amazon-ai-assistant-spot-fake-emails.html) — 2026-09-03 16:01: 米Amazonが提供する買い物向けAIアシスタントに、同社をかたる偽の連絡を見分けて判定する新しい機能が追加されました。
-- [Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由](https://ai-tech-times.web.app/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html) — 2026-09-03 16:01: 「AI TECH TIMES」編集部がお届けする最新ニュース。TechCrunch Disrupt 2026が、デジタルと物理の融合に焦点を当てる新ステージを発表しました。
-- [ベッセント米財務長官、日本にリフレ政策停止を要求](https://ai-tech-times.web.app/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html) — 2026-09-03 14:00: ベッセント米財務長官はG20閉幕後の会見で、日本を名指ししリフレ政策や積極財政の見直しなどを求めました。
-- [日銀利上げ観測で円高、1ドル158円台に](https://ai-tech-times.web.app/articles/20260903-yen-appreciates-to-158-per-dollar.html) — 2026-09-03 13:00: 2日のニューヨーク外国為替市場でドル売り・円買いが急進し、円相場は一時1ドル＝158円台前半に上昇しました。
 
 ## 世界のバズ動画TOP3 (2026-09-03)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
 - 2位: [KAROL G, Bruno Mars - Still (Official Video)](https://www.youtube.com/watch?v=aQXq3ndLkHs)
 - 3位: [Street Fighter | New Trailer (2026 Movie)](https://www.youtube.com/watch?v=U6sbm1OaJb8)
 
-## AI用語事典 (全1274語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1279語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -57,8 +57,8 @@
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカ合衆国に本拠地を置き、世界最大級のECサイト運営やクラウドコンピューティング事業を展開する巨大テクノロジー企業です。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
