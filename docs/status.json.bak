@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-03 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-03 10:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由",
-   "path": "/articles/20260903-mitsubishi-heavy-nec-defense-drone.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ハナマルキ創業108年でGemini利用率86％を達成した理由",
-   "path": "/articles/20260903-hanamaruoki-gemini-utilization.html",
-   "cat": "日本のAI"
+   "title": "Broadcom第3四半期、AI半導体が221%増の167億ドルで売上高86%増なのにQ4予測が未達とは",
+   "path": "/articles/20260903-broadcom-reports-q3-revenue-up-86-percent.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Delivery Hero board backs Uber’s $15B ta"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 65,
+  "used": 69,
   "limit": 200
  }
 }
