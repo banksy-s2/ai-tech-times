@@ -5,6 +5,70 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIの新モデルAstra、ブラウザ操作の未来を変える理由</title>
+<link>https://ai-tech-times.web.app/articles/20260904-openai-launches-astra.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-openai-launches-astra.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIが発表した強力で議論を呼ぶ新型モデル「Astra」は、コンピュータやブラウザの利用における新たなフロンティアになると主張されています。</description>
+</item>
+<item>
+<title>Nvidia、遊休PCをつなぐ無料AIツール「PAIR」公開の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260904-nvidia-launches-free-tool-pair.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-nvidia-launches-free-tool-pair.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Nvidiaは、家庭内の使っていないパソコンを連携させ、ローカルでのAI推論タスクを可能にする無料ツール「Personal AI Router（PAIR）」を発表しました。</description>
+</item>
+<item>
+<title>ELYZA、AI業務アプリ作成で特許取得もXで議論呼ぶ</title>
+<link>https://ai-tech-times.web.app/articles/20260904-elyza-obtains-patent-for-ai-app-creation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-elyza-obtains-patent-for-ai-app-creation.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>KDDIグループのAI開発企業ELYZAは、法人向けAIツール「ELYZA Works」において業務アプリをAIで作成する仕組みの特許を取得したと発表しました。しかし、X上の一部では批判の声も上がっており、注目を集めています。</description>
+</item>
+<item>
+<title>ChatGPTなど複数AIで障害、なぜ接続できないのか</title>
+<link>https://ai-tech-times.web.app/articles/20260904-multiple-ai-services-outage-2026-09.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-multiple-ai-services-outage-2026-09.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI TECH TIMESの調査により、複数の主要AIサービスで接続しにくい障害が発生していることが明らかになりました。現在は復旧済みです。</description>
+</item>
+<item>
+<title>テスラ、ハンドルとペダルなきサイバーキャブを正式発表へ</title>
+<link>https://ai-tech-times.web.app/articles/20260904-tesla-cybercab-fork-in-the-road.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-tesla-cybercab-fork-in-the-road.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国の電気自動車大手テスラが、ステアリングホイールやペダルを一切搭載しない2人乗り車両「サイバーキャブ」を正式に発表しようとしています。</description>
+</item>
+<item>
+<title>Microsoft AIがMAI-Transcribe-2を発表、音声認識でGemini 3.5やGPT超えを主張し1時</title>
+<link>https://ai-tech-times.web.app/articles/20260904-microsoft-ai-mai-transcribe-2-released.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-microsoft-ai-mai-transcribe-2-released.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Microsoft AIが新音声認識モデル「MAI-Transcribe-2」を発表しました。主要な競合を上回る性能を持ちつつ、破格の低価格を打ち出した背景に迫ります。</description>
+</item>
+<item>
+<title>ウーバー、ロンドンで自動運転タクシー開始！東京でも年内に試験運行へ</title>
+<link>https://ai-tech-times.web.app/articles/20260904-uber-autonomous-taxi-tokyo.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-uber-autonomous-taxi-tokyo.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカの配車サービス大手「ウーバー」などがイギリスの首都ロンドンで自動運転タクシーの運行を開始しました。両社は日本の東京都内でも年内に試験運行を始める計画です。</description>
+</item>
+<item>
+<title>丸亀製麺のトリドール増収も大幅減益、店長年収2000万円の効果とは</title>
+<link>https://ai-tech-times.web.app/articles/20260904-toridoll-earnings-marugame-seimen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260904-toridoll-earnings-marugame-seimen.html</guid>
+<pubDate>Fri, 04 Sep 2026 07:02:00 +0900</pubDate>
+<category>日本企業</category>
+<description>第一四半期決算で大幅減益となったトリドールですが、業界大手の不動の地位を手に入れる可能性があると注目されています。</description>
+</item>
+<item>
 <title>ニトリが急伸・商社株は長期保有へ、日経平均は続落</title>
 <link>https://ai-tech-times.web.app/articles/20260904-stocks-market-news-september-3.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260904-stocks-market-news-september-3.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Thu, 03 Sep 2026 19:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>米CNBC Techによると、配車サービス大手のUberは、よりシンプルで迅速な組織を目指して全従業員の10%を削減する方針を固めました。</description>
-</item>
-<item>
-<title>米司法省、OpenAIのAI学習はフェアユースと主張</title>
-<link>https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-doj-supports-openai-in-nyt-lawsuit.html</guid>
-<pubDate>Thu, 03 Sep 2026 18:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米司法省が、ニューヨーク・タイムズによる著作権侵害訴訟でOpenAIを支持する意見書を提出しました。</description>
-</item>
-<item>
-<title>ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由</title>
-<link>https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-ai-work-not-getting-easier.html</guid>
-<pubDate>Thu, 03 Sep 2026 18:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIを導入したにもかかわらず「仕事が楽にならない」という声があがっています。削減されたはずの時間の行き先について、ITmedia AI+が報じています。</description>
-</item>
-<item>
-<title>PangramCEOが警告「デッドインターネット理論」の現実</title>
-<link>https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-pangram-ceo-dead-internet-theory.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI生成コンテンツの急増により、インターネットの信頼性が危機に瀕しているとPangramのCEOが指摘しました。</description>
-</item>
-<item>
-<title>GoogleのAndroid更新、乗り物酔い対策の裏側</title>
-<link>https://ai-tech-times.web.app/articles/20260903-googles-android-update-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-googles-android-update-2026.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Googleは、乗り物酔い対策やアクセシビリティなどを強化する新しいAndroidアップデートを発表しました。一部機能では競合他社を追随しつつ、生成AIを活用した様々な改善も導入されています。</description>
-</item>
-<item>
-<title>ITmedia AI+：「社長の声」悪用で被害45億円、AI詐欺の手口</title>
-<link>https://ai-tech-times.web.app/articles/20260903-ai-fraud--45.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-ai-fraud--45.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの進化によって業務効率化が進む一方、サイバー攻撃の手口も多様化しています。「AI TECH TIMES」では、元警視庁職員などの専門家が明かす最新のボイスフィッシングやランサムウェア攻撃への備えをお伝えします。</description>
-</item>
-<item>
-<title>NECとAnthropicが挑むAI時代のサイバー防衛の勝ち筋とは</title>
-<link>https://ai-tech-times.web.app/articles/20260903-nec-anthropic-cyber-defense.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-nec-anthropic-cyber-defense.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AI時代のセキュリティを巡り、NECの幹部は「AI対AIになる」と述べました。同社が米AI企業のフロンティアAIを活用して挑む対策の全貌とは何でしょうか。</description>
-</item>
-<item>
-<title>Google広告事業の分割回避、裁判所が命じた競合利益を守る変更とは</title>
-<link>https://ai-tech-times.web.app/articles/20260903-google-spared-from-ad-business-breakup.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-google-spared-from-ad-business-breakup.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>TechCrunchの報道によると、裁判所はGoogleの広告事業分割を見送る判断を下した一方で、競合他社に利益をもたらすための事業運営の変更を命じました。</description>
-</item>
-<item>
-<title>トランプ政権のAI安全性テスト非公開ルール、訴訟で開示の可能性</title>
-<link>https://ai-tech-times.web.app/articles/20260903-trump-ai-safety-testing-lawsuit.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260903-trump-ai-safety-testing-lawsuit.html</guid>
-<pubDate>Thu, 03 Sep 2026 17:08:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>トランプ政権による最先端AIモデルの秘密裏の審査について、腐敗を隠しているとして訴訟が提起されました。この非公開ルールが強制的に明らかにされる可能性があります。</description>
 </item>
 </channel></rss>

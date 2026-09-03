@@ -72663,5 +72663,291 @@
   "date": "2026-09-04",
   "time": "05:00",
   "path": "/articles/20260904-stocks-market-news-september-3.html"
+ },
+ {
+  "title": "OpenAIの新モデルAstra、ブラウザ操作の未来を変える理由",
+  "lead": "OpenAIが発表した強力で議論を呼ぶ新型モデル「Astra」は、コンピュータやブラウザの利用における新たなフロンティアになると主張されています。",
+  "summary3": [
+   "OpenAIが新モデルAstraを発表",
+   "コンピュータやブラウザ利用の新しい形",
+   "スピードと安全性を備えタスクを処理"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新ニュースです。人工知能分野をリードするOpenAIは、このほど強力でありながらも議論を呼ぶ新しいモデル「Astra」を発表しました。",
+   "同社の発表によると、Astraは「コンピュータやブラウザの利用における新たなフロンティア」を象徴する存在とのことです。日々のデジタル作業において、これまでにないスピード、正確性、そして安全性を兼ね備えて複雑なタスクを処理できるとしています。",
+   "ブラウザ操作の自動化や効率化を大きく進める可能性を秘めたAstraですが、その強力な性能ゆえに議論も呼んでいます。今後の展開や私たちのブラウザ利用にどのような変化をもたらすのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "Astra",
+   "AI"
+  ],
+  "slug": "openai-launches-astra",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AIなどを開発する最先端の人工知能研究企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-openai-launches-astra.html"
+ },
+ {
+  "title": "Nvidia、遊休PCをつなぐ無料AIツール「PAIR」公開の理由",
+  "lead": "Nvidiaは、家庭内の使っていないパソコンを連携させ、ローカルでのAI推論タスクを可能にする無料ツール「Personal AI Router（PAIR）」を発表しました。",
+  "summary3": [
+   "Nvidiaが無料のオープンソースソフトを発表",
+   "家庭内の遊休PCを連携させてローカルAIを処理",
+   "OllamaやLM Studioと組み合わせて活用可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。Nvidiaはこのほど、家庭内にある使っていないパソコン同士を同期させ、ローカル環境でのAI推論タスクを効率的に処理するための新しい無料ツール「Personal AI Router（PAIR）」を発表しました。",
+   "名称に「ルーター」と含まれていますが、誤解を避けておくと、PAIRは物理的なハードウェアのルーターではありません。OllamaやLM Studioといったツールと連携して動作する、オープンソースのソフトウェアとなっています。",
+   "自宅にある複数のPCを活用することで、ローカルでのAI処理能力をどのように高められるのか、AIユーザーの間で注目を集めています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AI",
+   "オープンソース"
+  ],
+  "slug": "nvidia-launches-free-tool-pair",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPUの開発・製造で世界をリードする半導体メーカー。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-nvidia-launches-free-tool-pair.html"
+ },
+ {
+  "title": "ELYZA、AI業務アプリ作成で特許取得もXで議論呼ぶ",
+  "lead": "KDDIグループのAI開発企業ELYZAは、法人向けAIツール「ELYZA Works」において業務アプリをAIで作成する仕組みの特許を取得したと発表しました。しかし、X上の一部では批判の声も上がっており、注目を集めています。",
+  "summary3": [
+   "ELYZAが特許を取得",
+   "対象はAI業務アプリ作成の仕組み",
+   "X上では一部で批判の声も"
+  ],
+  "body": [
+   "KDDIグループのAI開発企業であるELYZAは、法人向けAIツール「ELYZA Works」において、業務アプリをAIで作成する仕組みの特許を取得したと発表しました。企業の業務効率化を支援する機能として期待される一方で、現在のところX上の一部では批判の声も上がっている状況です。",
+   "今回の特許取得により、法人向けAIツールの活用方法や開発を巡る動きにはさらなる注目が集まっています。今後の動向や、ユーザーからの反応がどのように変化していくのかが関心事となっています。"
+  ],
+  "tags": [
+   "ELYZA",
+   "AI",
+   "特許"
+  ],
+  "slug": "elyza-obtains-patent-for-ai-app-creation",
+  "people": [],
+  "terms": [
+   {
+    "name": "ELYZA",
+    "type": "company",
+    "desc": "KDDIグループに所属し、法人の業務効率化などを支援するAI開発を手がける日本の企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/",
+  "category": "ai_jp",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-elyza-obtains-patent-for-ai-app-creation.html"
+ },
+ {
+  "title": "ChatGPTなど複数AIで障害、なぜ接続できないのか",
+  "lead": "AI TECH TIMESの調査により、複数の主要AIサービスで接続しにくい障害が発生していることが明らかになりました。現在は復旧済みです。",
+  "summary3": [
+   "ChatGPTなどで障害発生",
+   "接続困難な状態が報告される",
+   "現在はすでに復旧済み"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、日本時間の2026年9月4日午前0時30分現在、複数のAIサービスで障害が発生しました。接続しにくい、もしくは接続できない状態となり、ユーザーの利用に影響が出ています。",
+   "少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」の3つのAIサービスで障害が報告されています。",
+   "なお、これらの障害についてはすでに復旧済みであることが確認されています。日常の業務や生活でAIを利用する際には、こうした突然のサービス停止への備えも重要となります。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "Claude",
+   "Grok"
+  ],
+  "slug": "multiple-ai-services-outage-2026-09",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した対話型AIサービスで、自然な文章生成や質問への回答が得意"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "米Anthropicが開発した対話型AIアシスタントで、高度な文書処理や推論を行う"
+   },
+   {
+    "name": "Grok",
+    "type": "ai",
+    "desc": "米SpaceXAIが開発したAIモデルであり、リアルタイムの情報処理などを特徴とする"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+  "category": "ai_jp",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-multiple-ai-services-outage-2026-09.html"
+ },
+ {
+  "title": "テスラ、ハンドルとペダルなきサイバーキャブを正式発表へ",
+  "lead": "米国の電気自動車大手テスラが、ステアリングホイールやペダルを一切搭載しない2人乗り車両「サイバーキャブ」を正式に発表しようとしています。",
+  "summary3": [
+   "テスラが新型サイバーキャブを投入",
+   "ハンドルとペダルがない2人乗り仕様",
+   "企業の今後を左右する重大な転換点"
+  ],
+  "body": [
+   "海外メディアのテッククランチによると、テスラはハンドルやペダルを一切持たないゴールドの2人乗り車両「サイバーキャブ」を正式に発表する予定です。",
+   "この車両の登場は、同社の今後のあり方を永遠に変える可能性を秘めた、まさに「岐路」となる瞬間であると報じられています。",
+   "自動車の常識を覆す仕様を持つ新型車の投入により、同社がどのような未来を描くのか、世界中から大きな注目が集まっています。"
+  ],
+  "tags": [
+   "自動運転",
+   "EV",
+   "サイバーキャブ"
+  ],
+  "slug": "tesla-cybercab-fork-in-the-road",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置く、電気自動車やクリーンエネルギー製品の開発を手がける主要な自動車メーカー。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-tesla-cybercab-fork-in-the-road.html"
+ },
+ {
+  "title": "Microsoft AIがMAI-Transcribe-2を発表、音声認識でGemini 3.5やGPT超えを主張し1時",
+  "lead": "Microsoft AIが新音声認識モデル「MAI-Transcribe-2」を発表しました。主要な競合を上回る性能を持ちつつ、破格の低価格を打ち出した背景に迫ります。",
+  "summary3": [
+   "Microsoft AIが音声認識モデルの新版を発表",
+   "GeminiやGPTの認識モデルを超える性能と主張",
+   "音声1時間あたり0.10ドルの低価格を実現"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によると、Microsoft AIは新しい音声認識モデル「MAI-Transcribe-2」を発表しました。同社によれば、このモデルは「Gemini 3.5 Transcribe」や「GPT-Transcribe」といった他社の音声認識モデルを凌駕する性能を持っているということです。",
+   "特筆すべきはその価格設定にあります。MAI-Transcribe-2の利用料金は、音声1時間あたり0.10ドル（約10セント）という非常に安価な価格がつけられています。この価格は、木曜日の時点ですでに早期割引によってさらに約72%引き下げられたものとなっています。",
+   "音声認識の精度向上と大幅なコスト削減を両立させたことで、今後の音声データ処理や文字起こし市場における競争に大きな影響を与えそうです。"
+  ],
+  "tags": [
+   "Microsoft AI",
+   "音声認識",
+   "AI Tech"
+  ],
+  "slug": "microsoft-ai-mai-transcribe-2-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft AI",
+    "type": "company",
+    "desc": "米マイクロソフト社内で人工知能分野の研究開発や製品戦略を主導する先進的な専門組織である。"
+   },
+   {
+    "name": "MAI-Transcribe-2",
+    "type": "ai",
+    "desc": "Microsoft AIが開発した音声認識モデル。他社モデルを超える性能と低価格を特徴とする。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260903/p37#a260903p37",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-microsoft-ai-mai-transcribe-2-released.html"
+ },
+ {
+  "title": "ウーバー、ロンドンで自動運転タクシー開始！東京でも年内に試験運行へ",
+  "lead": "アメリカの配車サービス大手「ウーバー」などがイギリスの首都ロンドンで自動運転タクシーの運行を開始しました。両社は日本の東京都内でも年内に試験運行を始める計画です。",
+  "summary3": [
+   "ウーバーなどがロンドンで運行開始",
+   "自動運転タクシーの導入が拡大",
+   "東京都内でも年内に試験運行へ"
+  ],
+  "body": [
+   "アメリカの配車サービス大手「ウーバー」とイギリスのスタートアップ企業は、首都ロンドンにおいて初めて自動運転タクシーの運行を始めました。世界的大都市での新たな移動手段の導入として、大きな注目を集めています。",
+   "さらに両社は、イギリスでの展開にとどまらず、日本の東京都内においても年内に試験運行を始める予定であることを明らかにしました。私たちの身近な移動空間にも、自動運転技術が着実に近づきつつあります。",
+   "今後の試験運行を通じて、日本国内での安全性や実用性の検証が進められる見通しです。自動運転タクシーが私たちの日常の足としてどのように普及していくのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "自動運転",
+   "ウーバー",
+   "タクシー"
+  ],
+  "slug": "uber-autonomous-taxi-tokyo",
+  "people": [],
+  "terms": [
+   {
+    "name": "ウーバー",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、世界各国で配車サービスやフードデリバリー事業を展開する大手テクノロジー企業です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260904de48065",
+  "category": "world",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-uber-autonomous-taxi-tokyo.html"
+ },
+ {
+  "title": "丸亀製麺のトリドール増収も大幅減益、店長年収2000万円の効果とは",
+  "lead": "第一四半期決算で大幅減益となったトリドールですが、業界大手の不動の地位を手に入れる可能性があると注目されています。",
+  "summary3": [
+   "トリドールの第一四半期決算が発表された",
+   "売上は増収となるも大幅な減益となった",
+   "業界大手としての不動の地位獲得に期待"
+  ],
+  "body": [
+   "丸亀製麺などを展開するトリドールホールディングスに関する第一四半期決算が発表されました。今回の発表では増収となった一方で、大幅な減益を記録していることが明らかになっています。",
+   "その背景や業績への影響が注目される中、店長年収「最大2000万円」といった取り組みの効果についても関心が集まっています。コストや投資がどのように収益に影響を与えているのかが議論の焦点です。",
+   "利益面での減少が見られるものの、同社が業界大手の不動の地位を手に入れる可能性があるとして、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "丸亀製麺",
+   "トリドール",
+   "決算"
+  ],
+  "slug": "toridoll-earnings-marugame-seimen",
+  "people": [],
+  "terms": [
+   {
+    "name": "トリドール",
+    "type": "company",
+    "desc": "丸亀製麺などの飲食チェーンを展開する日本の外食企業グループ。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/03/news031.html",
+  "category": "jp_corp",
+  "date": "2026-09-04",
+  "time": "07:02",
+  "path": "/articles/20260904-toridoll-earnings-marugame-seimen.html"
  }
 ]

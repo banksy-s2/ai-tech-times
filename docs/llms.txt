@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-04 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-04 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIの新モデルAstra、ブラウザ操作の未来を変える理由](https://ai-tech-times.web.app/articles/20260904-openai-launches-astra.html) — 2026-09-04 07:02: OpenAIが発表した強力で議論を呼ぶ新型モデル「Astra」は、コンピュータやブラウザの利用における新たなフロンティアになると主張されています。
+- [Nvidia、遊休PCをつなぐ無料AIツール「PAIR」公開の理由](https://ai-tech-times.web.app/articles/20260904-nvidia-launches-free-tool-pair.html) — 2026-09-04 07:02: Nvidiaは、家庭内の使っていないパソコンを連携させ、ローカルでのAI推論タスクを可能にする無料ツール「Personal AI Router（PAIR）」を発表しました。
+- [ELYZA、AI業務アプリ作成で特許取得もXで議論呼ぶ](https://ai-tech-times.web.app/articles/20260904-elyza-obtains-patent-for-ai-app-creation.html) — 2026-09-04 07:02: KDDIグループのAI開発企業ELYZAは、法人向けAIツール「ELYZA Works」において業務アプリをAIで作成する仕組みの特許を取得したと発表しました。しかし、X上の一部では批判の声も上がっており、注目を集めています。
+- [ChatGPTなど複数AIで障害、なぜ接続できないのか](https://ai-tech-times.web.app/articles/20260904-multiple-ai-services-outage-2026-09.html) — 2026-09-04 07:02: AI TECH TIMESの調査により、複数の主要AIサービスで接続しにくい障害が発生していることが明らかになりました。現在は復旧済みです。
+- [テスラ、ハンドルとペダルなきサイバーキャブを正式発表へ](https://ai-tech-times.web.app/articles/20260904-tesla-cybercab-fork-in-the-road.html) — 2026-09-04 07:02: 米国の電気自動車大手テスラが、ステアリングホイールやペダルを一切搭載しない2人乗り車両「サイバーキャブ」を正式に発表しようとしています。
+- [Microsoft AIがMAI-Transcribe-2を発表、音声認識でGemini 3.5やGPT超えを主張し1時](https://ai-tech-times.web.app/articles/20260904-microsoft-ai-mai-transcribe-2-released.html) — 2026-09-04 07:02: Microsoft AIが新音声認識モデル「MAI-Transcribe-2」を発表しました。主要な競合を上回る性能を持ちつつ、破格の低価格を打ち出した背景に迫ります。
+- [ウーバー、ロンドンで自動運転タクシー開始！東京でも年内に試験運行へ](https://ai-tech-times.web.app/articles/20260904-uber-autonomous-taxi-tokyo.html) — 2026-09-04 07:02: アメリカの配車サービス大手「ウーバー」などがイギリスの首都ロンドンで自動運転タクシーの運行を開始しました。両社は日本の東京都内でも年内に試験運行を始める計画です。
+- [丸亀製麺のトリドール増収も大幅減益、店長年収2000万円の効果とは](https://ai-tech-times.web.app/articles/20260904-toridoll-earnings-marugame-seimen.html) — 2026-09-04 07:02: 第一四半期決算で大幅減益となったトリドールですが、業界大手の不動の地位を手に入れる可能性があると注目されています。
 - [ニトリが急伸・商社株は長期保有へ、日経平均は続落](https://ai-tech-times.web.app/articles/20260904-stocks-market-news-september-3.html) — 2026-09-04 05:00: 商社株に関してバークシャーが長期保有意向を示し、月次が好調なニトリが急伸する一方、日経平均は続落となりました。
 - [全国平均時給1177円へ引き上げ、中小企業への支援はどうなる](https://ai-tech-times.web.app/articles/20260904-minimum-wage-increase-sme-support.html) — 2026-09-04 04:01: 最低賃金が引き上げられ、全国平均の時給は1177円となります。賃金引き上げの影響が大きい中小企業などに対し、国は支援を充実させる方針です。
 - [米ベッセント財務長官、日銀利上げで円安改善と伝達](https://ai-tech-times.web.app/articles/20260904-bessent-boj-rate-hike-yen.html) — 2026-09-04 04:01: アメリカのベッセント財務長官がことし5月、片山財務大臣に対して日銀の利上げが行き過ぎた円安を改善させうると伝えたと、有力紙「ニューヨーク・タイムズ」が報じました。
@@ -34,21 +42,13 @@
 - [Perplexityが引用するAI向け21万「ベストソフト」ページ、3サイトが量産](https://ai-tech-times.web.app/articles/20260904-manufactured-sources-behind-ai-recommendations.html) — 2026-09-04 00:00: AI検索のPerplexityが引用する「ベストソフトウェア」関連のウェブページが、わずか3つのサイトによって21万ページ以上も大量生産されていたことが明らかになりました。
 - [WMOが警告、超大型エルニーニョが世界経済を揺るがす理由](https://ai-tech-times.web.app/articles/20260903-un-warns-supersized-el-nino.html) — 2026-09-03 22:00: 世界気象機関（WMO）は、自然現象であるエルニーニョについて「超大型」になるおそれがあると警告しました。この現象が世界各国にどのような混乱をもたらすのか、影響が懸念されています。
 - [トランプ氏コイン発行、100年ぶり現職大統領なぜ](https://ai-tech-times.web.app/articles/20260903-trump-coin-living-president.html) — 2026-09-03 22:00: 米造幣局がトランプ氏の肖像を刻んだ特別版のコインを発表しました。存命中のアメリカ大統領が通貨に登場するのは1世紀ぶりとなります。
-- [Adobe、Slackで70種ツールが使える新機能提供開始](https://ai-tech-times.web.app/articles/20260903-adobe-for-slack-launched.html) — 2026-09-03 21:04: Adobeは、ビジネス向けチャットツール上で画像や資料を制作できる新しい連携機能の提供を開始しました。
-- [X、米クリエイター報酬の決済基盤をStripeから「X Money」へ移行](https://ai-tech-times.web.app/articles/20260903-x-shifts-us-creator-payouts-from-stripe-to-x-money.html) — 2026-09-03 21:04: Xは、米国におけるクリエイター向けの報酬支払いを、独自の決済サービスであるX Moneyを通じて処理すると発表しました。従来のStripeを活用したシステムから切り替わる形となります。
-- [マイクロソフトが財務報告を変更、Azure収益を初公開へ](https://ai-tech-times.web.app/articles/20260903-microsoft-discloses-azure-revenue-financial-changes.html) — 2026-09-03 21:04: マイクロソフトは投資家向けの財務報告体制を大きく変更し、事業を2つのセグメントに分割すると発表しました。AIがもたらす継続的な影響を反映させるため、クラウド事業「Azure」の四半期収益が初めて開示されます。
-- [菅田将暉が山上被告役か、安倍元首相銃撃事件が映画化へ](https://ai-tech-times.web.app/articles/20260903-abe-assassination-movie-adaptation.html) — 2026-09-03 21:04: 2022年に起きた安倍晋三元首相の銃撃事件を題材にした映画製作が、極秘裏に進められていることが分かりました。
-- [日銀利上げ観測で急激な円高ドル安、一時1ドル156円台前半に](https://ai-tech-times.web.app/articles/20260903-yen-gains-against-dollar-156-yen.html) — 2026-09-03 21:04: 3日の東京外国為替市場で円高ドル安が急速に進み、夕方には一時1ドル＝156円台前半をつけました。日銀の利上げペースが速まるという見方が背景にあります。
-- [ロサンゼルス・クリッパーズ、報酬規則違反で3000万ドルの罰金](https://ai-tech-times.web.app/articles/20260903-la-clippers-fined-30m-over-leonard.html) — 2026-09-03 21:04: 米プロバスケットボール協会（NBA）は、給与規則に違反したとしてロサンゼルス・クリッパーズに対して3000万ドルの罰金を科しました。
-- [ニューヨーク・タイムズ報道：ベッセント財務長官が日銀独立性に不満](https://ai-tech-times.web.app/articles/20260903-bessent-boj-independence-criticism.html) — 2026-09-03 21:04: アメリカのベッセント財務長官が今年5月に片山財務大臣と夕食を共にした際、日本の経済政策を批判したと米紙が報じました。
-- [芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信](https://ai-tech-times.web.app/articles/20260903-yakusaya-live-action-2028.html) — 2026-09-03 20:00: 人気小説『薬屋のひとりごと』が、主演・芦田愛菜で実写ドラマ化されることが決定しました。2028年よりPrime Videoにて世界独占配信されます。
 
 ## 世界のバズ動画TOP3 (2026-09-04)
 - 1位: [Anime “Dragon Ball Super: Beerus” | Super Surge Trailer](https://www.youtube.com/watch?v=CFgEL7ei8VE)
 - 2位: [State of Play | September 3, 2026 [English]](https://www.youtube.com/watch?v=dcTYz_mJpkU)
 - 3位: [Monster Hunter Wilds: Ascendance - 1st Trailer](https://www.youtube.com/watch?v=ZeMKYURp_A8)
 
-## AI用語事典 (全1286語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1291語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,19 +56,19 @@
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカ合衆国に本拠地を置き、世界最大級のECサイト運営やクラウドコンピューティング事業を展開する巨大テクノロジー企業です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
-- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
+- [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
-- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
+- [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。

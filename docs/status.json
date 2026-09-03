@@ -1,17 +1,61 @@
 {
- "updated": "2026-09-04 06:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-04 07:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "OpenAIの新モデルAstra、ブラウザ操作の未来を変える理由",
+   "path": "/articles/20260904-openai-launches-astra.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Nvidia、遊休PCをつなぐ無料AIツール「PAIR」公開の理由",
+   "path": "/articles/20260904-nvidia-launches-free-tool-pair.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ELYZA、AI業務アプリ作成で特許取得もXで議論呼ぶ",
+   "path": "/articles/20260904-elyza-obtains-patent-for-ai-app-creation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPTなど複数AIで障害、なぜ接続できないのか",
+   "path": "/articles/20260904-multiple-ai-services-outage-2026-09.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "テスラ、ハンドルとペダルなきサイバーキャブを正式発表へ",
+   "path": "/articles/20260904-tesla-cybercab-fork-in-the-road.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Microsoft AIがMAI-Transcribe-2を発表、音声認識でGemini 3.5やGPT超えを主張し1時",
+   "path": "/articles/20260904-microsoft-ai-mai-transcribe-2-released.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ウーバー、ロンドンで自動運転タクシー開始！東京でも年内に試験運行へ",
+   "path": "/articles/20260904-uber-autonomous-taxi-tokyo.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "丸亀製麺のトリドール増収も大幅減益、店長年収2000万円の効果とは",
+   "path": "/articles/20260904-toridoll-earnings-marugame-seimen.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
  "notes": [
-  "執筆失敗: 店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益とな"
+  "執筆失敗: 【公式】オーイシマサヨシ - ポケモンオールスターズ1025",
+  "執筆失敗: グーグルの広告サービス独占めぐる裁判 事業分割を回避",
+  "執筆失敗: 三菱商事など商社株が高い 米バークシャーCEO「何十年も投資」（3日の株式市場）",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 29,
+  "used": 54,
   "limit": 200
  }
 }

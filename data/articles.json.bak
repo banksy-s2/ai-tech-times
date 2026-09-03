@@ -72629,5 +72629,39 @@
   "date": "2026-09-04",
   "time": "04:01",
   "path": "/articles/20260904-bessent-boj-rate-hike-yen.html"
+ },
+ {
+  "title": "ニトリが急伸・商社株は長期保有へ、日経平均は続落",
+  "lead": "商社株に関してバークシャーが長期保有意向を示し、月次が好調なニトリが急伸する一方、日経平均は続落となりました。",
+  "summary3": [
+   "商社株はバークシャーが長期保有へ",
+   "月次好調のニトリが急伸を記録",
+   "日経平均株価は続落の結果に"
+  ],
+  "body": [
+   "「デイリーZAi」9月3日号（ダイヤモンド・ザイ）の報道によると、今日の日本株市場および注目株において、商社株についてバークシャーが長期保有意向を示していることが伝えられています。",
+   "また、月次動向が好調となっているニトリが急伸する動きが見られました。その一方で、日経平均株価については続落する展開となっています。",
+   "本記事の情報は「デイリーZAi」9月3日号（ダイヤモンド・ザイ）の報道に基づくものであり、市場の動向として注目を集めています。"
+  ],
+  "tags": [
+   "日本株",
+   "ニトリ",
+   "商社株"
+  ],
+  "slug": "stocks-market-news-september-3",
+  "people": [],
+  "terms": [
+   {
+    "name": "ニトリ",
+    "type": "company",
+    "desc": "家具やインテリア用品の製造・販売を手掛ける日本の大手小売企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qQ2JIMjJZSzdnT0hOSmhJbVhMUWRjXzZXQ0RqeE9xVklzVWlGYTdnV3BKdVEwVVJlT0FPMWRHc2JxbkE1VmhaUVVqWmNRZ0VWTlZVREtSS2NaNVFRTERMYWNFeVNMbzQxTXJ0YlhqelVnc1RPcGRlWDdtdFhfblk?oc=5",
+  "category": "stock",
+  "date": "2026-09-04",
+  "time": "05:00",
+  "path": "/articles/20260904-stocks-market-news-september-3.html"
  }
 ]
