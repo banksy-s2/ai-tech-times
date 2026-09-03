@@ -72447,5 +72447,83 @@
   "date": "2026-09-04",
   "time": "01:01",
   "path": "/articles/20260904-ai-samurai-patent-network.html"
+ },
+ {
+  "title": "MapQuest、トランプ氏の改称拒否で米App Store首位に浮上",
+  "lead": "かつて圧倒的なシェアを誇ったマップアプリ「MapQuest」が、米App Storeで首位に躍り出ました。トランプ氏による名称変更の要求を拒否したことが、ダウンロード急増の背景にあります。",
+  "summary3": [
+   "MapQuestが米App Store首位に浮上",
+   "トランプ氏の名称変更要求を拒否",
+   "6日間で2026年の過半数をダウンロード"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。かつて市場を支配していたマップアプリ「MapQuest」が、Appleの米国App Storeで再びトップに君臨しました。今回の急浮上は、トランプ氏が主張した「Lake America」への名称変更を拒否したことがきっかけとなっています。",
+   "元記事によると、MapQuestはこの騒動の中で驚異的なダウンロード数を記録しました。2026年における米国での総ダウンロード数の半分以上が、わずか6日間に集中するという異例の事態となっています。",
+   "かつての定番アプリがどのようにして再びユーザーの支持を集めたのか、その動向に今後も注目が集まります。アプリ市場におけるブランドの選択とユーザーの反応を示す象徴的な出来事と言えそうです。"
+  ],
+  "tags": [
+   "MapQuest",
+   "App Store",
+   "アプリ"
+  ],
+  "slug": "mapquest-no1-us-app-trump-lake-america",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "米国の政治家であり、過去に大統領を務めた著名な人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "MapQuest",
+    "type": "company",
+    "desc": "かつて市場を支配していた歴史のある米国発の主要なマッピングアプリサービス。"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやApp Storeなどを展開する米国の世界的な巨大テクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "02:00",
+  "path": "/articles/20260904-mapquest-no1-us-app-trump-lake-america.html"
+ },
+ {
+  "title": "Thyme Care、1億2,500万ドル調達の背景",
+  "lead": "がん治療の課題解決に取り組む米国のスタートアップ企業Thyme Careが、新たに1億2,500万ドルの資金調達を実施しました。この大型資金調達により、同社の企業評価額は20億ドルを突破しています。",
+  "summary3": [
+   "Thyme Careが1億2,500万ドルを調達",
+   "がん治療分野のスタートアップ企業",
+   "企業評価額は20億ドル超に倍増"
+  ],
+  "body": [
+   "AI TECH TIMESがお届けする最新ニュースです。がん治療の重要なギャップ解消に取り組む米国の医療スタートアップ、Thyme Careが投資家から1億2,500万ドルの資金調達に成功しました。",
+   "今回の大型ディールにより、同社の企業評価額は従来の評価から約2倍へと大きく跳ね上がり、20億ドルを超える規模に到達しています。",
+   "Thyme Careはがん治療における深刻な格差や治療の空白地帯といった課題に正面から挑んでおり、今回の豊富な資金力を背景に今後のさらなる事業拡大や治療体制の強化が期待されています。"
+  ],
+  "tags": [
+   "資金調達",
+   "医療テック",
+   "がん治療"
+  ],
+  "slug": "thyme-care-raises-125-million",
+  "people": [],
+  "terms": [
+   {
+    "name": "Thyme Care",
+    "type": "company",
+    "desc": "がん治療の重要な医療格差や治療の空白地帯といった課題の解決に取り組むアメリカのスタートアップ企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "02:00",
+  "path": "/articles/20260904-thyme-care-raises-125-million.html"
  }
 ]

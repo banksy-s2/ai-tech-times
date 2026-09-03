@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
-  "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
   "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
   "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
   "https://gigazine.net/news/20260722-nvidia-vera-cpu/",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
   "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
   "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001101/",
-  "https://www.nikkei.com/article/DGXZQOUC26BH50W6A820C2000000/"
+  "https://www.nikkei.com/article/DGXZQOUC26BH50W6A820C2000000/",
+  "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+  "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html"
  ],
  "titles": [
-  "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-  "Google Maps adds agentic features, including food ordering and hotel bookings",
-  "Google Cloud、Mirendilと1億ドル超の提携",
-  "Googleマップに新機能、飲食店やホテル予約が可能に",
   "AIデータセンターは「圧倒的に供給不足」――ソフトバンクG後藤CFO、“バブル疑惑”を否定",
   "AtlassianのAI「Rovo」に文書を読ませるだけで社内データが外部送信される脆弱性が発見される",
   "ソフトバンクG後藤CFOが明言、AIデータセンター供給不足の真実",
@@ -4001,6 +3997,10 @@
   "Meta、「Muse Spark 1.3」公開　コーディングとエージェント性能を強化　「最大の飛躍」とザッカーバーグCEO",
   "トヨタ系のAIサムライ、AIが特許網を生成　中小も技術保護しやすく - 日本経済新聞",
   "Meta「Muse Spark 1.3」公開、コーディング性能はなぜ他社を超えたのか",
-  "AIサムライ、特許網自動生成サービスを開発なぜ中小企業も技術保護できるのか"
+  "AIサムライ、特許網自動生成サービスを開発なぜ中小企業も技術保護できるのか",
+  "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+  "Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion",
+  "MapQuest、トランプ氏の改称拒否で米App Store首位に浮上",
+  "Thyme Care、1億2,500万ドル調達の背景"
  ]
 }
