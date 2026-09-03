@@ -1,17 +1,26 @@
 {
- "updated": "2026-09-03 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-03 16:01",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "AmazonのAIが偽メールを判定する理由",
+   "path": "/articles/20260903-amazon-ai-assistant-spot-fake-emails.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由",
+   "path": "/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "KAROL G, Bruno Mars - Still (Official Video)",
   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
  },
- "notes": [
-  "執筆失敗: セブンがソフトバンクと資本業務提携 PayPay経済圏で問われる相乗効果 - x"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 108,
+  "used": 114,
   "limit": 200
  }
 }

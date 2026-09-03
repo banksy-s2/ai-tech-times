@@ -1,26 +1,73 @@
 {
- "updated": "2026-09-03 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-03 17:08",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "AmazonのAIが偽メールを判定する理由",
-   "path": "/articles/20260903-amazon-ai-assistant-spot-fake-emails.html",
+   "title": "PangramCEOが警告「デッドインターネット理論」の現実",
+   "path": "/articles/20260903-pangram-ceo-dead-internet-theory.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由",
-   "path": "/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html",
+   "title": "GoogleのAndroid更新、乗り物酔い対策の裏側",
+   "path": "/articles/20260903-googles-android-update-2026.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "ITmedia AI+：「社長の声」悪用で被害45億円、AI詐欺の手口",
+   "path": "/articles/20260903-ai-fraud--45.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "NECとAnthropicが挑むAI時代のサイバー防衛の勝ち筋とは",
+   "path": "/articles/20260903-nec-anthropic-cyber-defense.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Google広告事業の分割回避、裁判所が命じた競合利益を守る変更とは",
+   "path": "/articles/20260903-google-spared-from-ad-business-breakup.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "トランプ政権のAI安全性テスト非公開ルール、訴訟で開示の可能性",
+   "path": "/articles/20260903-trump-ai-safety-testing-lawsuit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "日産、「入庫拒否」巡りユーチューバーの動画が波紋",
+   "path": "/articles/20260903-nissan-youtuber-controversy.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "日本列島で大気不安定に、土砂災害への厳重な警戒が続く理由",
+   "path": "/articles/20260903-heavy-rain-typhoon-front.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "片山財務相と日銀の植田総裁、G20終了で政策焦点はどうなる",
+   "path": "/articles/20260903-g20-katayama-ueda-policy-focus.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀の高田審議委員、機動的な利上げを主張",
+   "path": "/articles/20260903-boj-takada-rate-hike-20260902.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ヤマトHD、専用貨物機の運航を終了へ",
+   "path": "/articles/20260903-yamato-hd-cargo-flight-end.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "KAROL G, Bruno Mars - Still (Official Video)",
-  "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs"
+  "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
+  "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 114,
+  "used": 136,
   "limit": 200
  }
 }

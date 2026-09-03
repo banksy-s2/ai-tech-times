@@ -71324,5 +71324,78 @@
   "date": "2026-09-03",
   "time": "14:00",
   "path": "/articles/20260903-bessent-urges-japan-to-end-reflationary-policy.html"
+ },
+ {
+  "title": "AmazonのAIが偽メールを判定する理由",
+  "lead": "米Amazonが提供する買い物向けAIアシスタントに、同社をかたる偽の連絡を見分けて判定する新しい機能が追加されました。",
+  "summary3": [
+   "Amazonが偽メール対策の新機能を導入",
+   "買い物向けAIにメッセージの真偽を質問可能",
+   "メールやSMSなどの偽装を見破る仕組み"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。世界的な巨大ネット通販企業であるAmazonは、同社を装ったなりすまし詐欺に対抗するための新しい機能の提供を開始しました。",
+   "今回のアップデートにより、ユーザーが受け取ったメールやテキストメッセージ、さらには電話などが本当に同社からのものかどうかを、AIアシスタントを使って判定できるようになります。",
+   "具体的には、受け取ったメッセージについて買い物向けのAIであるAlexaに対して質問を投げかけることで、AIが内容を比較して真偽を判断する仕組みとなっています。これにより、巧妙化する詐欺被害を防ぐための対策が強化されます。"
+  ],
+  "tags": [
+   "Amazon",
+   "AI",
+   "セキュリティ"
+  ],
+  "slug": "amazon-ai-assistant-spot-fake-emails",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大手のインターネット通販サイトやクラウドサービスを展開する企業です。"
+   },
+   {
+    "name": "Alexa",
+    "type": "ai",
+    "desc": "Amazonが開発した音声認識や対話を行う人工知能アシスタントであり、各種デバイスに搭載されています。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "16:01",
+  "path": "/articles/20260903-amazon-ai-assistant-spot-fake-emails.html"
+ },
+ {
+  "title": "Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由",
+  "lead": "「AI TECH TIMES」編集部がお届けする最新ニュース。TechCrunch Disrupt 2026が、デジタルと物理の融合に焦点を当てる新ステージを発表しました。",
+  "summary3": [
+   "TechCrunch Disrupt 2026の新ステージ発",
+   "デジタルと物理の融合に焦点を当てる構成",
+   "Nvidiaやロボット、絶滅動物が登場予定"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けします。海外メディアのTechCrunch AIによると、TechCrunch Disrupt 2026において、新たな「Real World AI Stage」が新設されることが明らかになりました。",
+   "この新しいステージでは、デジタルと物理世界の交差点にフォーカスし、両者がどのように融合し続けていくのか、その多様なアプローチに迫る予定となっています。Nvidia、ロボット、そして絶滅動物といった多彩な要素が登場する見込みです。",
+   "デジタル技術と現実世界がどのように結びついていくのか、今後の展開に大きな注目が集まっています。イベントの詳細や登壇企業による発表内容について、引き続き最新情報を追っていきます。"
+  ],
+  "tags": [
+   "TechCrunch Disrupt",
+   "Nvidia",
+   "AI"
+  ],
+  "slug": "techcrunch-disrupt-2026-real-world-ai-stage",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、GPUやAI向け半導体で世界をリードする主要なテクノロジー企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+  "category": "ai",
+  "date": "2026-09-03",
+  "time": "16:01",
+  "path": "/articles/20260903-techcrunch-disrupt-2026-real-world-ai-stage.html"
  }
 ]
