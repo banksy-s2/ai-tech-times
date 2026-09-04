@@ -2,25 +2,10 @@
  "date": "2026-09-04",
  "videos": [
   {
-   "id": "CFgEL7ei8VE",
-   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
-   "channel": "東映アニメーション公式YouTubeチャンネル",
-   "views": 2684505,
-   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE",
-   "thumb": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "ドラゴンボール超のビルスが登場するアニメのトレイラー映像のようです。(29文字)"
-  },
-  {
    "id": "ZeMKYURp_A8",
    "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
    "channel": "Monster Hunter",
-   "views": 864152,
+   "views": 1057697,
    "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8",
    "thumb": "https://i.ytimg.com/vi/ZeMKYURp_A8/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "「モンスターハンターワイルズ」の新しいトレーラー映像が公開されたようです。(31字)※少し調整：モンハンの新トレーラー映像が公開されたようです。(25字)"
   },
   {
    "id": "--rTmGtUFhI",
    "title": "XG - NO GOOD (Performance Video)",
    "channel": "XG",
-   "views": 540669,
+   "views": 571314,
    "url": "https://www.youtube.com/watch?v=--rTmGtUFhI",
    "thumb": "https://i.ytimg.com/vi/--rTmGtUFhI/hqdefault.jpg",
    "regions": [
@@ -43,70 +28,84 @@
     "GB",
     "JP"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "XGによる「NO GOOD」のパフォーマンス映像のようです。"
   },
   {
    "id": "SJVmeJaS44s",
    "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
    "channel": "Harry Potter",
-   "views": 3055490,
+   "views": 3151587,
    "url": "https://www.youtube.com/watch?v=SJVmeJaS44s",
    "thumb": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
    "regions": [
     "US",
     "KR"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "ハリー・ポッターと賢者の石の公式ティーザー予告編のようですね"
   },
   {
    "id": "aQXq3ndLkHs",
    "title": "KAROL G, Bruno Mars - Still (Official Video)",
    "channel": "KarolGVEVO",
-   "views": 2859638,
+   "views": 2957400,
    "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs",
    "thumb": "https://i.ytimg.com/vi/aQXq3ndLkHs/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 4,
    "comment": "KAROL Gとブルーノ・マーズによるコラボ曲の公式MVのようです。"
   },
   {
-   "id": "Z22O7JjLZYY",
-   "title": "One of these Animals is not like the other...",
-   "channel": "SMii7Y",
-   "views": 2502602,
-   "url": "https://www.youtube.com/watch?v=Z22O7JjLZYY",
-   "thumb": "https://i.ytimg.com/vi/Z22O7JjLZYY/hqdefault.jpg",
+   "id": "CFgEL7ei8VE",
+   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
+   "channel": "東映アニメーション公式YouTubeチャンネル",
+   "views": 2806940,
+   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE",
+   "thumb": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg",
    "regions": [
     "US",
-    "GB"
+    "BR"
    ],
-   "rank": 6,
-   "comment": "似て非なる動物を見抜くゲームの様子（29文字）"
+   "rank": 5,
+   "comment": "ドラゴンボール超のビルスが登場するアニメのトレイラー映像のようです。(29文字)"
   },
   {
    "id": "dcTYz_mJpkU",
    "title": "State of Play | September 3, 2026 [English]",
    "channel": "PlayStation",
-   "views": 2461177,
+   "views": 2714767,
    "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU",
    "thumb": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 6,
    "comment": "2026年9月開催のState of Playの英語配信動画のようです。"
+  },
+  {
+   "id": "Z22O7JjLZYY",
+   "title": "One of these Animals is not like the other...",
+   "channel": "SMii7Y",
+   "views": 2588032,
+   "url": "https://www.youtube.com/watch?v=Z22O7JjLZYY",
+   "thumb": "https://i.ytimg.com/vi/Z22O7JjLZYY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 7,
+   "comment": "似て非なる動物を見抜くゲームの様子（29文字）"
   },
   {
    "id": "91Ht98fhsI0",
    "title": "I haven’t laughed this hard in months..",
    "channel": "Asmongold TV  ",
-   "views": 509606,
+   "views": 677764,
    "url": "https://www.youtube.com/watch?v=91Ht98fhsI0",
    "thumb": "https://i.ytimg.com/vi/91Ht98fhsI0/hqdefault.jpg",
    "regions": [
@@ -117,32 +116,32 @@
    "comment": "数ヶ月ぶり一番笑ったというタイトル通りのリアクション動画みたいです"
   },
   {
+   "id": "IjLg0X59fMA",
+   "title": "Band of Brothers: Legacy Trailer | HBO Max",
+   "channel": "HBO Max",
+   "views": 508654,
+   "url": "https://www.youtube.com/watch?v=IjLg0X59fMA",
+   "thumb": "https://i.ytimg.com/vi/IjLg0X59fMA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 9,
+   "comment": "HBO Maxによる「バンド・オブ・ブラザース」関連の映像のようですね。(29字)"
+  },
+  {
    "id": "HaCtG1F_hfE",
    "title": "Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer",
    "channel": "Crimson Desert",
-   "views": 364682,
+   "views": 466507,
    "url": "https://www.youtube.com/watch?v=HaCtG1F_hfE",
    "thumb": "https://i.ytimg.com/vi/HaCtG1F_hfE/hqdefault.jpg",
    "regions": [
     "JP",
     "KR"
    ],
-   "rank": 9,
-   "comment": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)"
-  },
-  {
-   "id": "buPhYiIXMTM",
-   "title": "Mrs. GREEN APPLE - 푸름과여름 [青と夏] 🎵\"저 가수입니다🎤\" by강남 (with. ENHYPEN 제이)",
-   "channel": "동네친구 강나미 [Kangnami]",
-   "views": 294285,
-   "url": "https://www.youtube.com/watch?v=buPhYiIXMTM",
-   "thumb": "https://i.ytimg.com/vi/buPhYiIXMTM/hqdefault.jpg",
-   "regions": [
-    "JP",
-    "KR"
-   ],
    "rank": 10,
-   "comment": "カンナムのチャンネルでENHYPENのジェイと共に青と夏を歌う企画のようです"
+   "comment": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)"
   }
  ],
  "covered": [
@@ -154,7 +153,6 @@
   "IN"
  ],
  "comment_cache": {
-  "iXA7BmrBBxs": "ニューヨークで唯一のすり師を描いた映画の予告編のようです。",
   "BZ4UzthYTss": "Stray Kidsの新曲「This & That」の公式MVが公開されたようです。",
   "-TanwOtw0Bc": "タルコフのシーズン実況ライブ配信の様子(29字)",
   "HCvIZzVdeq8": "Stray Kidsの「FARMING」が公開されたようです。",
@@ -453,6 +451,7 @@
   "SJVmeJaS44s": "ハリー・ポッターと賢者の石の公式ティーザー予告編のようですね",
   "91Ht98fhsI0": "数ヶ月ぶり一番笑ったというタイトル通りのリアクション動画みたいです",
   "buPhYiIXMTM": "カンナムのチャンネルでENHYPENのジェイと共に青と夏を歌う企画のようです",
-  "HaCtG1F_hfE": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)"
+  "HaCtG1F_hfE": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)",
+  "IjLg0X59fMA": "HBO Maxによる「バンド・オブ・ブラザース」関連の映像のようですね。(29字)"
  }
 }

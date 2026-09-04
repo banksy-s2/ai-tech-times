@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015182881000",
-  "https://toyokeizai.net/articles/-/952257?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
   "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
   "https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/",
@@ -1999,13 +1997,11 @@
   "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
   "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news045.html",
-  "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001099/"
+  "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001099/",
+  "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+  "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html"
  ],
  "titles": [
-  "EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退",
-  "BBC報道：AIが設計した16のウイルス作成に成功",
-  "アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由",
-  "古河電気工業、データセンター需要で営業利益3倍・純利益4倍",
   "OpenAI is giving ChatGPT free users unlimited text chats",
   "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
   "OpenAI、ChatGPT無料版の制限撤廃へ",
@@ -4001,6 +3997,10 @@
   "10月1日「カスハラ対策」義務化　暴言をAIが検知する腕時計型デバイスが登場",
   "ブシロード、AI子会社設立へ　「定型業務をAIで支援」",
   "アイフォーカス、10月1日施行の対策向けにAI音声解析スマートウォッチ提供開始",
-  "ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由"
+  "ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由",
+  "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+  "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+  "Thinking Machines、400億ドル評価で10億ドル調達へ",
+  "アドビ新CEOにアニル・チャクラヴァルティ氏、シャンタヌ・ナラエン氏の後任へ"
  ]
 }

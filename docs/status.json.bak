@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-04 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-04 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Google、Gmailなど会話型音声操作を提供へ",
-   "path": "/articles/20260904-google-gmail-docs-keep-live-voice-modes.html",
-   "cat": "AI(海外)"
+   "title": "アイフォーカス、10月1日施行の対策向けにAI音声解析スマートウォッチ提供開始",
+   "path": "/articles/20260904-kasuhara-taisaku-watch-aifocus.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Amazonの買い物AI、詐欺メッセージ判定の新機能を追加",
-   "path": "/articles/20260904-amazons-shopping-ai-scam-detection.html",
-   "cat": "AI(海外)"
+   "title": "ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由",
+   "path": "/articles/20260904-bushiroad-ai-subsidiary.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 58,
+  "used": 63,
   "limit": 200
  }
 }

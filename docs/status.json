@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-04 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-04 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "アイフォーカス、10月1日施行の対策向けにAI音声解析スマートウォッチ提供開始",
-   "path": "/articles/20260904-kasuhara-taisaku-watch-aifocus.html",
-   "cat": "日本のAI"
+   "title": "Thinking Machines、400億ドル評価で10億ドル調達へ",
+   "path": "/articles/20260904-thinking-machines-accel-funding-40b.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由",
-   "path": "/articles/20260904-bushiroad-ai-subsidiary.html",
-   "cat": "日本のAI"
+   "title": "アドビ新CEOにアニル・チャクラヴァルティ氏、シャンタヌ・ナラエン氏の後任へ",
+   "path": "/articles/20260904-adobe-names-anil-chakravarthy-as-ceo.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
-  "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
+  "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
+  "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 63,
+  "used": 68,
   "limit": 200
  }
 }
