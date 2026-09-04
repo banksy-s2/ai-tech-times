@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXVSWWJTckFxVDhsY0l5ZUFfd2hyaXpPV0tIdVdOZ1ZmMnZ5Z2Y5aS1oVHU3ME1lc0ZVMGJQUFBFcWN6bHpETDFBZjJPSkZzUlNCLWxuTkhzMFNmdVhXeFRrd3hQU292cDdMQ1VTYnJYc2kydndyZmZ4U3BkaXhhNFB4RE9yekE?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015182881000",
   "https://toyokeizai.net/articles/-/952257?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260904de48065",
   "https://www.itmedia.co.jp/business/articles/2609/03/news031.html",
   "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-  "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
+  "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news045.html",
+  "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001099/"
  ],
  "titles": [
-  "Gmail、他社メアド送信機能など2027年1月終了へ",
-  "Anthropicが数百万冊をスキャン・破棄した理由",
-  "Anthropicが独自ハードウェア開発へ、Nvidia依存軽減の狙い",
-  "AMDがAIモデルをシリコンにハードワイヤリングする新興企業を買収",
   "EasyJetが£5.7bnで米アポロに買収合意、ライバル撤退",
   "BBC報道：AIが設計した16のウイルス作成に成功",
   "アスエネが135億円調達、ブラックロック系初出資でIPO遅らせる理由",
@@ -4001,6 +3997,10 @@
   "Google now lets you chat with Gmail, Docs, and Keep",
   "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
   "Google、Gmailなど会話型音声操作を提供へ",
-  "Amazonの買い物AI、詐欺メッセージ判定の新機能を追加"
+  "Amazonの買い物AI、詐欺メッセージ判定の新機能を追加",
+  "10月1日「カスハラ対策」義務化　暴言をAIが検知する腕時計型デバイスが登場",
+  "ブシロード、AI子会社設立へ　「定型業務をAIで支援」",
+  "アイフォーカス、10月1日施行の対策向けにAI音声解析スマートウォッチ提供開始",
+  "ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由"
  ]
 }

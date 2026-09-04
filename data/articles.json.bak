@@ -72949,5 +72949,79 @@
   "date": "2026-09-04",
   "time": "07:02",
   "path": "/articles/20260904-toridoll-earnings-marugame-seimen.html"
+ },
+ {
+  "title": "Google、Gmailなど会話型音声操作を提供へ",
+  "lead": "米Googleは、GmailやDocs、Keepなどの各アプリにおいて、AIを活用した音声アシスタントモードの提供を開始すると発表しました。",
+  "summary3": [
+   "Googleが各アプリに音声モード導入",
+   "Gmailなどで会話による操作が可能に",
+   "メモ作成などの作業をより簡単に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。Googleは、Gmail、Docs、Keepに対して、AIを活用した音声アシスタントモードを順次導入していることを明らかにしました。",
+   "導入されるリアルタイムの会話機能は、それぞれ「Gmail Live」「Docs Live」「Keep Live」と呼ばれています。これらは、Googleのチャットボット向けに提供されている「Gemini Live」の体験と同様のものです。",
+   "これらの新機能により、ユーザーは音声でアプリを管理できるようになり、メモを書き留めるなどの作業がより簡単に行えるようになることを目指しています。"
+  ],
+  "tags": [
+   "Google",
+   "Gmail",
+   "Gemini"
+  ],
+  "slug": "google-gmail-docs-keep-live-voice-modes",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、クラウドコンピューティングやAI技術などを広く展開するアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "08:00",
+  "path": "/articles/20260904-google-gmail-docs-keep-live-voice-modes.html"
+ },
+ {
+  "title": "Amazonの買い物AI、詐欺メッセージ判定の新機能を追加",
+  "lead": "Amazonは、ショッピング向けのAlexaに詐欺検出機能を追加すると発表しました。不審なメッセージが同社からのものか検証できるようになります。",
+  "summary3": [
+   "Amazonが買い物AIに詐欺検出機能を追加",
+   "不審なメールやテキストの真偽を検証可能に",
+   "Alexa for Shoppingが詐欺から守る"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、Amazonは「Alexa for Shopping」に新たな詐欺検出機能の追加を決定しました。この機能により、ユーザーのもとに届いた不審なメールやテキストメッセージなどが、本当に同社からのものであるかどうかを検証できるようになります。",
+   "近年、大手小売業者をかたる偽のメッセージによる詐欺被害が数多く報告されており、利用者の安全確保が急務となっていました。今回追加される機能は、日々の買い物におけるセキュリティを高めるための重要な対策となります。",
+   "詳細な提供時期や利用方法については順次明らかにされる見通しです。日頃から通販を利用するユーザーにとって、詐欺を見破るための心強い味方となりそうです。"
+  ],
+  "tags": [
+   "Amazon",
+   "Alexa",
+   "AI",
+   "セキュリティ"
+  ],
+  "slug": "amazons-shopping-ai-scam-detection",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。"
+   },
+   {
+    "name": "Alexa",
+    "type": "ai",
+    "desc": "Amazonが開発した、音声認識を通じて様々な操作や情報提供を行うAIアシスタント。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "08:00",
+  "path": "/articles/20260904-amazons-shopping-ai-scam-detection.html"
  }
 ]
