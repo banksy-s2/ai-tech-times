@@ -73091,5 +73091,87 @@
   "date": "2026-09-04",
   "time": "09:00",
   "path": "/articles/20260904-bushiroad-ai-subsidiary.html"
+ },
+ {
+  "title": "Thinking Machines、400億ドル評価で10億ドル調達へ",
+  "lead": "注目を集めるAIスタートアップのThinking Machinesが、Accelの主導で10億ドルの資金調達ラウンドに向けた協議を行っていることが報じられました。",
+  "summary3": [
+   "Thinking Machinesが巨額調達へ",
+   "企業価値は400億ドル規模に達する見通し",
+   "年間売上高ランレートは1億ドル超"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がTechCrunchの報道に基づきお伝えします。著名なスタートアップ企業であるThinking Machinesを巡り、ベンチャーキャピタルのAccelが主導する約10億ドル規模の資金調達ラウンドについて、現在協議が進められていることが明らかになりました。",
+   "今回のラウンドにおける同社の企業価値評価は、400億ドル規模に達する見込みです。ハイテク業界や投資市場において非常に高い注目を集める同社ですが、その勢いを裏付けるように、現在の年間売上高ランレートは1億ドルを超える水準を記録しています。",
+   "急速な成長を続ける同社が、今回の大型資金調達を経てどのような事業展開を見せるのか、今後の動向に引き続き関心が集まっています。"
+  ],
+  "tags": [
+   "Thinking Machines",
+   "Accel",
+   "資金調達"
+  ],
+  "slug": "thinking-machines-accel-funding-40b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Thinking Machines",
+    "type": "company",
+    "desc": "年間売上高ランレートが1億ドルを超える、高い注目を集めている高名なスタートアップ企業。"
+   },
+   {
+    "name": "Accel",
+    "type": "company",
+    "desc": "数多くの著名なスタートアップへの投資実績を持つ、世界的に知られるベンチャーキャピタル企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "10:00",
+  "path": "/articles/20260904-thinking-machines-accel-funding-40b.html"
+ },
+ {
+  "title": "アドビ新CEOにアニル・チャクラヴァルティ氏、シャンタヌ・ナラエン氏の後任へ",
+  "lead": "米アドビは、新たな最高経営責任者（CEO）としてアニル・チャクラヴァルティ氏を起用すると発表しました。長年同社を率いてきたシャンタヌ・ナラエン氏の後任となります。",
+  "summary3": [
+   "アドビが新CEOにアニル・チャクラヴァルティ氏を指名",
+   "長年CEOを務めたシャンタヌ・ナラエン氏の後任となる",
+   "ナラエン氏は昨年3月に退任の意向を明らかにしていた"
+  ],
+  "body": [
+   "米CNBC Techなどの報道によると、ソフトウェア大手のアドビは新たな最高経営責任者（CEO）としてアニル・チャクラヴァルティ氏を指名しました。これにより、これまで同社の成長を牽引してきたシャンタヌ・ナラエン氏からトップが交代することになります。",
+   "前CEOであるシャンタヌ・ナラエン氏は、昨年3月に自身の退任をあらかじめ発表していました。同氏は長年にわたりアドビの経営を支え、クリエイティブ分野を中心とした事業拡大に大きく貢献してきた人物です。",
+   "今回新たにCEOに就任するアニル・チャクラヴァルティ氏の下で、アドビが今後どのような体制や方針でビジネスを展開していくのか、世界中の業界関係者から大きな注目を集めています。"
+  ],
+  "tags": [
+   "Adobe",
+   "Anil Chakravarthy",
+   "Shantanu Narayen"
+  ],
+  "slug": "adobe-names-anil-chakravarthy-as-ceo",
+  "people": [
+   {
+    "name": "アニル・チャクラヴァルティ氏",
+    "bio": "米アドビの新しい最高経営責任者（CEO）に就任することが発表された人物。"
+   },
+   {
+    "name": "シャンタヌ・ナラエン氏",
+    "bio": "長年にわたり米アドビの最高経営責任者（CEO）を務め、昨年3月に退任を発表した経営者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "アドビ",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、画像編集ソフト「Photoshop」などで広く知られる大手ソフトウェア企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "10:00",
+  "path": "/articles/20260904-adobe-names-anil-chakravarthy-as-ceo.html"
  }
 ]
