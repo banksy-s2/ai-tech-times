@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-04 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-04 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Thinking Machines、400億ドル評価で10億ドル調達へ",
-   "path": "/articles/20260904-thinking-machines-accel-funding-40b.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "アドビ新CEOにアニル・チャクラヴァルティ氏、シャンタヌ・ナラエン氏の後任へ",
-   "path": "/articles/20260904-adobe-names-anil-chakravarthy-as-ceo.html",
-   "cat": "シリコンバレー最速"
+   "title": "インフルエンサーになりすまし不正アクセスの34歳男逮捕、被害100人超か",
+   "path": "/articles/20260904-influencer-spoofing-sns-unauthorized-access.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 68,
+  "used": 71,
   "limit": 200
  }
 }
