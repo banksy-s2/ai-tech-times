@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ChatGPT登場後のウェブサイト3分の1にAIの痕跡</title>
+<link>https://ai-tech-times.web.app/articles/20260907-chatgpt-web-ai-signs.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-chatgpt-web-ai-signs.html</guid>
+<pubDate>Mon, 07 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2022年11月のChatGPT登場以降に公開されたウェブサイトを調査したところ、3分の1から生成AIの痕跡が見つかりました。</description>
+</item>
+<item>
 <title>OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ</title>
 <link>https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Fri, 04 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米Googleは、GmailやDocs、Keepなどの各アプリにおいて、AIを活用した音声アシスタントモードの提供を開始すると発表しました。</description>
-</item>
-<item>
-<title>Amazonの買い物AI、詐欺メッセージ判定の新機能を追加</title>
-<link>https://ai-tech-times.web.app/articles/20260904-amazons-shopping-ai-scam-detection.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-amazons-shopping-ai-scam-detection.html</guid>
-<pubDate>Fri, 04 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Amazonは、ショッピング向けのAlexaに詐欺検出機能を追加すると発表しました。不審なメッセージが同社からのものか検証できるようになります。</description>
 </item>
 </channel></rss>
