@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-06 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-06 23:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均10万円でも持たぬ者は残酷に？インフレ時代の真実](https://ai-tech-times.web.app/articles/20260906-inflation-nikkei-average-reality.html) — 2026-09-06 23:01: 日本経済新聞の経済記事より、インフレ時代における資産の重要性についてお伝えします。
 - [中国の習主席訪米、大規模企業団の同行準備が進む理由は](https://ai-tech-times.web.app/articles/20260906-xi-jinping-us-visit-business-delegation.html) — 2026-09-06 22:00: 中国の習近平国家主席が9月にアメリカを訪問し、トランプ大統領との首脳会談を予定していることが分かりました。
 - [ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し](https://ai-tech-times.web.app/articles/20260906-germany-state-election-far-right.html) — 2026-09-06 22:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙の投票が始まりました。移民や難民に対して排他的な政策を掲げる極右政党が第1党となる見通しで、その動向が注目されています。
 - [Google Geminiの計画でハイカー救助、水不足の原因は](https://ai-tech-times.web.app/articles/20260906-hikers-rescued-after-using-google-gemini-for-planning.html) — 2026-09-06 21:04: 登山計画にGoogle Geminiを利用したハイカーグループが救助される事態となりました。生成AIのアドバイスに従った結果、必要な物資が大幅に不足したことが原因とされています。
@@ -41,7 +42,6 @@
 - [Ouraが株式公開へ動く、スマートリング市場の行方は](https://ai-tech-times.web.app/articles/20260904-oura-files-to-go-public.html) — 2026-09-04 12:01: 人気スマートリングを手がけるOuraが、株式公開（IPO）に向けて手続きを行ったことが明らかになりました。過去1年で大幅な売上成長を記録した同社の動向に注目が集まっています。
 - [トッテナム、VMware移行でライセンス費用85%削減のなぜ](https://ai-tech-times.web.app/articles/20260904-vmware-migration-tottenham-hotspur.html) — 2026-09-04 12:01: 英プロサッカーチームのトッテナム・ホットスパーが、VMwareからの移行によりライセンス費用を85%削減したことが明らかになりました。Broadcomによる買収に伴う問題が背景にあると、同チームのCTOが指摘しています。
 - [来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは](https://ai-tech-times.web.app/articles/20260904-budget-request-record-high-143-trillion.html) — 2026-09-04 12:01: 財務省は、国の来年度予算案に向けた概算要求について、各省庁から提出された一般会計の総額が過去最大の143兆656億円になったと発表しました。
-- [フォルクスワーゲン、2030年までに5万人の追加削減を承認](https://ai-tech-times.web.app/articles/20260904-volkswagen-approves-50000-job-cuts.html) — 2026-09-04 12:01: BBC Worldによると、アウディやポルシェなどを擁するフォルクスワーゲングループが、2030年までにさらに5万人の雇用削減計画を承認しました。総計10万人の削減となる見通しです。
 
 ## 世界のバズ動画TOP3 (2026-09-06)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
@@ -62,9 +62,9 @@
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
-- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。

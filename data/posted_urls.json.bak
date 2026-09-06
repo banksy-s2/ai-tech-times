@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ekNxemYxRjdaaHF2elc2SmpaWXdwY3ZCWlNxMi1TTkVvWkE2ZlVMeDhjVXVaQ2k4M21paUhqamwwVGtUX1k1MExtNXhSc0VqV3pIWGRkMzliUS16M1hiTmZIaTJYYXdSbjhYZQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVHRJN19seU5RaEFlZlNmb21XMGlpS0JvRVpITGxoTHgyUUtieVllR0tPaF9ZODRfY01sZDNhWktWOGRHM0FvYkZqN3VON2djRENNUU1CT3BOLURQ?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EWXZ4Mlg5RkVTcVVvcG5HTTdlMUdQcm84bklveFNMM3hwZnBiWWdsa0FkSUtxMzJxbXRxSXNZd1hiVEZoU2hHUHgwX1BVRjNUMUVIakZGWGJDT3NsckdN?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015183471000",
   "https://news.web.nhk/newsweb/na/na-k10015183321000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260906de48452",
   "https://news.web.nhk/newsweb/na/nd-20260906de48384",
   "https://news.web.nhk/newsweb/na/nd-20260905de48324",
-  "https://www.itmedia.co.jp/business/articles/2609/06/news005.html"
+  "https://www.itmedia.co.jp/business/articles/2609/06/news005.html",
+  "https://news.web.nhk/newsweb/na/nd-20260905de48325",
+  "https://news.web.nhk/newsweb/na/nd-20260906de48502"
  ],
  "titles": [
-  "OpenAIの新AIスマートスピーカー、300〜400ドルで販売か",
-  "Naïve、会社設立の面倒な作業を自動化へ 28.5Mドル調達の背景",
-  "The messy politics behind Google’s big AI shakeup",
-  "韓国と台湾の輸出額ともに初の日本超え　26年上期、AI特需の恩恵で差 - 日本経済新聞",
   "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始　利用は申請制",
   "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
   "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
@@ -4001,6 +3997,10 @@
   "大雨で山手線などが本数減へ、交通への影響回避に確認を",
   "米軍、イラン石油タンカー3隻を攻撃なぜ",
   "長期金利が3%超え、私たちの暮らしへの影響は",
-  "丸亀製麺が韓国に再進出、過去の撤退から変えた戦略とは"
+  "丸亀製麺が韓国に再進出、過去の撤退から変えた戦略とは",
+  "中国習主席訪米に企業団同行か 米大統領「国賓待遇の夕食会」",
+  "ドイツ州議会選挙投票始まる　「極右」政党が第1党の見通し",
+  "中国の習主席訪米、大規模企業団の同行準備が進む理由は",
+  "ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し"
  ]
 }
