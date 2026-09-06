@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-06 21:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-06 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [中国の習主席訪米、大規模企業団の同行準備が進む理由は](https://ai-tech-times.web.app/articles/20260906-xi-jinping-us-visit-business-delegation.html) — 2026-09-06 22:00: 中国の習近平国家主席が9月にアメリカを訪問し、トランプ大統領との首脳会談を予定していることが分かりました。
+- [ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し](https://ai-tech-times.web.app/articles/20260906-germany-state-election-far-right.html) — 2026-09-06 22:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙の投票が始まりました。移民や難民に対して排他的な政策を掲げる極右政党が第1党となる見通しで、その動向が注目されています。
 - [Google Geminiの計画でハイカー救助、水不足の原因は](https://ai-tech-times.web.app/articles/20260906-hikers-rescued-after-using-google-gemini-for-planning.html) — 2026-09-06 21:04: 登山計画にGoogle Geminiを利用したハイカーグループが救助される事態となりました。生成AIのアドバイスに従った結果、必要な物資が大幅に不足したことが原因とされています。
 - [男性職より女性職がAI自動化リスクの高い理由](https://ai-tech-times.web.app/articles/20260906-female-jobs-higher-ai-automation-risk.html) — 2026-09-06 21:04: 「AIによって仕事が奪われる」と言えば男性の多い職種が想像されがちですが、オーストラリアの研究で意外な事実が判明しました。
 - [VoicyのAI開発でスループット3倍を実現したプロセス監督の2ヶ月とは](https://ai-tech-times.web.app/articles/20260906-voicy-ai-development-throughput-3x.html) — 2026-09-06 21:04: Product Engineering Conferenceにて、Voicy TECH Blogの発表資料が公開されました。「全員が全部やる」体制でスループット3倍を達成した仕組みが注目を集めています。
@@ -40,15 +42,13 @@
 - [トッテナム、VMware移行でライセンス費用85%削減のなぜ](https://ai-tech-times.web.app/articles/20260904-vmware-migration-tottenham-hotspur.html) — 2026-09-04 12:01: 英プロサッカーチームのトッテナム・ホットスパーが、VMwareからの移行によりライセンス費用を85%削減したことが明らかになりました。Broadcomによる買収に伴う問題が背景にあると、同チームのCTOが指摘しています。
 - [来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは](https://ai-tech-times.web.app/articles/20260904-budget-request-record-high-143-trillion.html) — 2026-09-04 12:01: 財務省は、国の来年度予算案に向けた概算要求について、各省庁から提出された一般会計の総額が過去最大の143兆656億円になったと発表しました。
 - [フォルクスワーゲン、2030年までに5万人の追加削減を承認](https://ai-tech-times.web.app/articles/20260904-volkswagen-approves-50000-job-cuts.html) — 2026-09-04 12:01: BBC Worldによると、アウディやポルシェなどを擁するフォルクスワーゲングループが、2030年までにさらに5万人の雇用削減計画を承認しました。総計10万人の削減となる見通しです。
-- [三井不動産とNTTドコモが資本業務提携、不動産と通信の融合で何をもたらすのか](https://ai-tech-times.web.app/articles/20260904-mitsui-fudosan-ntt-docomo-capital-business-alliance.html) — 2026-09-04 12:01: 三井不動産とNTTドコモなどが資本業務提携を締結しました。不動産と通信の融合によって都市の価値向上を目指す取り組みが進められます。
-- [インフルエンサーになりすまし不正アクセスの34歳男逮捕、被害100人超か](https://ai-tech-times.web.app/articles/20260904-influencer-spoofing-sns-unauthorized-access.html) — 2026-09-04 11:00: 人気インフルエンサーになりすまして女性に接触し、アカウント情報を聞き出してSNSへの不正アクセスを繰り返していたとして、会社役員の34歳の男が逮捕されました。被害者は100人を超える可能性があるとみられています。
 
 ## 世界のバズ動画TOP3 (2026-09-06)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
 - 2位: [Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)](https://www.youtube.com/watch?v=7xYekUcLRs4)
 - 3位: [Myriad Celestia Trailer: "Deep Waters" | Honkai: Star Rail](https://www.youtube.com/watch?v=pzXW1FydqnE)
 
-## AI用語事典 (全1308語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1309語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
