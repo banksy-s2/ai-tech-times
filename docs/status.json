@@ -1,65 +1,17 @@
 {
- "updated": "2026-09-04 12:02",
- "mode": "フル便",
- "articles": [
-  {
-   "title": "Abliteration.AI、AIの安全フィルター削除を事業化",
-   "path": "/articles/20260904-abliteration-ai-guardrails.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Meta、最新AI「Muse Spark」利用料を約95%割引へ",
-   "path": "/articles/20260904-meta-muse-spark-ai-discount.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI「GPT-6 Astra」公開、サイバー最高評価のなぜ",
-   "path": "/articles/20260904-openai-gpt-6-astra-released.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Apple時価総額720兆円のクックCEO退任、新体制の課題とは",
-   "path": "/articles/20260904-apple-ceo-succession-cook-turnus.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Ouraが株式公開へ動く、スマートリング市場の行方は",
-   "path": "/articles/20260904-oura-files-to-go-public.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トッテナム、VMware移行でライセンス費用85%削減のなぜ",
-   "path": "/articles/20260904-vmware-migration-tottenham-hotspur.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは",
-   "path": "/articles/20260904-budget-request-record-high-143-trillion.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "フォルクスワーゲン、2030年までに5万人の追加削減を承認",
-   "path": "/articles/20260904-volkswagen-approves-50000-job-cuts.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "三井不動産とNTTドコモが資本業務提携、不動産と通信の融合で何をもたらすのか",
-   "path": "/articles/20260904-mitsui-fudosan-ntt-docomo-capital-business-alliance.html",
-   "cat": "日本企業"
-  }
- ],
+ "updated": "2026-09-06 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
-  "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
-  "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8"
+  "title": "LISA - SaWaDiKa (Official Music Video)",
+  "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
  "notes": [
-  "執筆失敗: 『薬屋のひとりごと』の実写化が情報解禁、不安になる人も多いが猫猫が芦田愛菜と聞い",
-  "執筆失敗: ｢30年ぶり長期金利3%超え｣でも環境は当時と大違い！　預金･国債･株式への賢い",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 人気インフルエンサー・ゆん フォロワー100万人のTikTokアカウントが「消え"
  ],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 97,
+  "used": 3,
   "limit": 200
  }
 }
