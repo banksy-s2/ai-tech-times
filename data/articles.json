@@ -74038,5 +74038,78 @@
   "date": "2026-09-07",
   "time": "01:00",
   "path": "/articles/20260907-chatgpt-web-ai-signs.html"
+ },
+ {
+  "title": "OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由",
+  "lead": "Anthropic、OpenAI、Meta、Googleの大手各社が今週相次いでAIモデルのアップデートを発表しました。しかし、あまりのハイペースな新版投入にユーザーの間では「モデル疲労」が広がっています。",
+  "summary3": [
+   "主要AI企業が今週相次いでモデルを更新",
+   "ハイペースな新版投入で疲労感が拡大",
+   "NvidiaがHugging Face買収へ"
+  ],
+  "body": [
+   "AI業界において、各社による新バージョンの投入スピードが非常に速くなっています。CNBC Techの報道によると、今週だけでAnthropic、OpenAI、Meta、Googleの大手AI関連企業が揃って新しいモデルのアップデートを発表しました。",
+   "しかし、あまりにも早いペースでの新版リリースが続いた結果、利用者や市場の間では「モデル疲労」とも呼ぶべき現象が生じています。次々と登場する最新モデルへのキャッチアップに、多くの人々や現場が追いつかなくなっている状況が浮き彫りになりました。",
+   "こうした動きと並行して、NvidiaはオープンソースAIプラットフォームであるHugging Faceを買収する方針であることを明らかにしています。開発競争が激化する中で、業界の勢力図やプラットフォームの統合にも大きな注目が集まっています。"
+  ],
+  "tags": [
+   "AI TECH TIMES",
+   "人工知能",
+   "テクノロジー"
+  ],
+  "slug": "ai-model-fatigue-openai-google",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、安全性を重視した対話型AIモデル「Claude」シリーズなどを提供しています。"
+   },
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "機械学習やデータサイエンスのコミュニティおよびプラットフォームで、オープンソースのAIモデルを多数公開しています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+  "category": "silicon",
+  "date": "2026-09-07",
+  "time": "02:01",
+  "path": "/articles/20260907-ai-model-fatigue-openai-google.html"
+ },
+ {
+  "title": "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ",
+  "lead": "米電気自動車大手テスラの自動運転車「サイバーキャブ」が配備されましたが、早くも米政府による調査を受けています。",
+  "summary3": [
+   "テスラのサイバーキャブが配備",
+   "米政府が安全基準への適合を調査",
+   "配備直後の異例の事態に注目集まる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米電気自動車大手のテスラが開発した「サイバーキャブ」がすでに配備されたことが明らかになりました。",
+   "しかし、配備されたばかりのサイバーキャブに対して、アメリカ政府が早くも調査に乗り出しています。この調査は、サイバーキャブが車両の安全基準を満たしているかどうかを確認するためのものです。",
+   "今後の調査結果や政府の判断によっては、配備された車両の運用や今後の展開に影響が出る可能性もあり、関係者の間で動向が注視されています。"
+  ],
+  "tags": [
+   "テスラ",
+   "サイバーキャブ",
+   "自動運転"
+  ],
+  "slug": "tesla-cybercab-under-investigation",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカを拠点とする電気自動車およびクリーンエネルギー関連の製品を手がける大手企業です。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+  "category": "silicon",
+  "date": "2026-09-07",
+  "time": "02:01",
+  "path": "/articles/20260907-tesla-cybercab-under-investigation.html"
  }
 ]

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260907-ai-model-fatigue-openai-google.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-ai-model-fatigue-openai-google.html</guid>
+<pubDate>Mon, 07 Sep 2026 02:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Anthropic、OpenAI、Meta、Googleの大手各社が今週相次いでAIモデルのアップデートを発表しました。しかし、あまりのハイペースな新版投入にユーザーの間では「モデル疲労」が広がっています。</description>
+</item>
+<item>
+<title>テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ</title>
+<link>https://ai-tech-times.web.app/articles/20260907-tesla-cybercab-under-investigation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-tesla-cybercab-under-investigation.html</guid>
+<pubDate>Mon, 07 Sep 2026 02:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米電気自動車大手テスラの自動運転車「サイバーキャブ」が配備されましたが、早くも米政府による調査を受けています。</description>
+</item>
+<item>
 <title>ChatGPT登場後のウェブサイト3分の1にAIの痕跡</title>
 <link>https://ai-tech-times.web.app/articles/20260907-chatgpt-web-ai-signs.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-chatgpt-web-ai-signs.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>2026年10月1日に施行される改正労働施策総合推進法に向け、アイフォーカスはAI音声データ解析機能を備えた「カスハラ対策Watch」の提供を開始すると発表しました。</description>
-</item>
-<item>
-<title>ブシロードがAI子会社設立、定型業務でヒューマンエラーを防ぐ理由</title>
-<link>https://ai-tech-times.web.app/articles/20260904-bushiroad-ai-subsidiary.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-bushiroad-ai-subsidiary.html</guid>
-<pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>ブシロードは、AIを活用して定型業務を支援し、業務負荷やヒューマンエラーの軽減を目指す新会社を設立すると発表しました。</description>
-</item>
-<item>
-<title>Google、Gmailなど会話型音声操作を提供へ</title>
-<link>https://ai-tech-times.web.app/articles/20260904-google-gmail-docs-keep-live-voice-modes.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-google-gmail-docs-keep-live-voice-modes.html</guid>
-<pubDate>Fri, 04 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>米Googleは、GmailやDocs、Keepなどの各アプリにおいて、AIを活用した音声アシスタントモードの提供を開始すると発表しました。</description>
 </item>
 </channel></rss>

@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-07 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-07 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ",
-   "path": "/articles/20260907-openai-confirms-wiki-incident.html",
-   "cat": "AI(海外)"
+   "title": "ChatGPT登場後のウェブサイト3分の1にAIの痕跡",
+   "path": "/articles/20260907-chatgpt-web-ai-signs.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 2,
+  "used": 6,
   "limit": 200
  }
 }
