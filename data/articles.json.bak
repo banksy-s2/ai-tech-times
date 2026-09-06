@@ -73201,5 +73201,355 @@
   "date": "2026-09-04",
   "time": "11:00",
   "path": "/articles/20260904-influencer-spoofing-sns-unauthorized-access.html"
+ },
+ {
+  "title": "Abliteration.AI、AIの安全フィルター削除を事業化",
+  "lead": "Abliteration.AIが、強力なAIモデルの安全フィルターを簡単に外せるサービスの提供を開始しました。防衛側にも悪意ある者と同じツールを与えることで、サイバーセキュリティの向上を目指すとしています。",
+  "summary3": [
+   "Abliteration.AIがAIの安全機能削除を事業化",
+   "フィルターのない強力なAIモデルを容易に利用可能に",
+   "防衛側への同じツール提供でセキュリティ向上を主張"
+  ],
+  "body": [
+   "「TechCrunch AI」の報道によると、Abliteration.AIは、強力なAIモデルから安全フィルター（ガードレール）を取り除くプロセスをより簡単に行えるようにし、それをビジネスとして展開しています。",
+   "同社は、防衛側に悪意ある者（バッドアクター）と同じツールを与えることによって、結果的にサイバーセキュリティを改善できるという主張を掲げています。",
+   "AIの安全性を巡る議論が続く中、フィルターを解除したモデルのアクセスのしやすさをめぐる議論は、今後のAIセキュリティ分野に新たな波紋を広げそうです。"
+  ],
+  "tags": [
+   "Abliteration.AI",
+   "AIセキュリティ",
+   "TechCrunch"
+  ],
+  "slug": "abliteration-ai-guardrails",
+  "people": [],
+  "terms": [
+   {
+    "name": "Abliteration.AI",
+    "type": "company",
+    "desc": "AIモデルから安全フィルターを削除するサービスを事業展開する企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-abliteration-ai-guardrails.html"
+ },
+ {
+  "title": "Meta、最新AI「Muse Spark」利用料を約95%割引へ",
+  "lead": "Metaが開発したコーディング等を行う新型AIモデル「Muse Spark」において、利用者のデータを将来の開発に共有することを条件に、利用料の大幅な割引が提供されることが明らかになりました。",
+  "summary3": [
+   "Metaが新作AIの割引を発表",
+   "利用実績の共有で平均95%減",
+   "次世代モデルの開発に活用へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によると、米国のIT企業Metaは、コーディングやその他のエージェントの操作を目的とした新しいAIモデル「Muse Spark」を提供しています。",
+   "同モデルでは、将来のモデル開発に「貢献」するユーザーを対象に、プロンプトやモデルの出力結果を共有することを条件としています。",
+   "その結果、明示的な割引が適用され、平均して約95%もの割引率になる仕組みとなっています。利用者がどのようにAIを使用しているかを開発元が確認できる代わりに、コストが大幅に抑えられる形です。"
+  ],
+  "tags": [
+   "Meta",
+   "Muse Spark",
+   "AI開発"
+  ],
+  "slug": "meta-muse-spark-ai-discount",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどを運営する米国の巨大テクノロジー企業です。"
+   },
+   {
+    "name": "Muse Spark",
+    "type": "ai",
+    "desc": "Metaが開発した、コーディングやその他のエージェント作業を目的とした新しいAIモデルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+  "category": "ai",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-meta-muse-spark-ai-discount.html"
+ },
+ {
+  "title": "OpenAI「GPT-6 Astra」公開、サイバー最高評価のなぜ",
+  "lead": "OpenAIは、新モデル「GPT-6 Astra」を一部組織向けに公開しました。サイバーセキュリティ能力が最高評価に達した背景と提供方針をお伝えします。",
+  "summary3": [
+   "OpenAIが新モデルGPT-6 Astraを公開",
+   "サイバー能力が初のCriticalに到達",
+   "悪用防止のため防御用途に限定して提供"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新ニュースです。ITmedia AI+の報道によると、OpenAIは新モデル「GPT-6 Astra」を一部組織向けに公開しました。数学やコーディング、PC操作など各領域で最高水準を記録した注目のモデルですが、サイバーセキュリティ能力が自社基準で最高の「Critical」に達した初のモデルとなっています。",
+   "高い能力を持つ一方で、悪用防止のための対策が取られています。提供版は防御用途に限定されており、高度な機能については防御側支援プログラム「Daybreak」を通じて段階的に開放される予定です。",
+   "最先端のAI技術が登場する中、その安全な活用とセキュリティ対策の重要性が高まっています。今後の段階的な機能開放や、各領域における実用性の検証に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "GPT-6 Astra",
+   "サイバーセキュリティ"
+  ],
+  "slug": "openai-gpt-6-astra-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能研究機関であり、対話型AIなどを開発・提供する企業"
+   },
+   {
+    "name": "GPT-6 Astra",
+    "type": "ai",
+    "desc": "OpenAIが公開した新モデルで、各領域で最高水準の能力を持つ"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
+  "category": "ai_jp",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-openai-gpt-6-astra-released.html"
+ },
+ {
+  "title": "Apple時価総額720兆円のクックCEO退任、新体制の課題とは",
+  "lead": "AppleのCEOを15年務めたティム・クック氏が退任し、ハードウェア責任者のジョン・ターナス氏が新体制のトップに就任しました。時価総額4.5兆ドル超を誇る巨大企業が直面する、AI時代の巻き返しと脱・中国依存の課題に迫ります。",
+  "summary3": [
+   "ティム・クック氏がCEO退任",
+   "後任はジョン・ターナス氏",
+   "AI遅れと中国依存が課題に"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、AppleのCEOを15年間務めたティム・クック氏が退任し、後任としてハードウェア責任者のジョン・ターナス氏が新CEOに就任しました。クック氏の在任中、同社は時価総額を4.5兆ドル超へと大きく膨らませるなど、圧倒的な業績をけん引してきました。",
+   "一方で、電気自動車（EV）開発の断念や、急速に進展する人工知能（AI）分野での遅れといった課題も残されることになりました。長期にわたる経営体制の変更により、今後は次世代技術へのキャッチアップが急務となります。",
+   "新体制となったAppleには、急速に進むAI時代での巻き返しと、米中対立に伴うサプライチェーンの脱・中国依存という、極めて大きな2つの試練が突きつけられています。世界的な巨大IT企業が、この難局をどのように乗り越えていくのか注目されています。"
+  ],
+  "tags": [
+   "Apple",
+   "ティム・クック",
+   "AI"
+  ],
+  "slug": "apple-ceo-succession-cook-turnus",
+  "people": [
+   {
+    "name": "ティム・クック",
+    "bio": "AppleのCEOを15年務め、時価総額を4.5兆ドル超へ拡大させた経営者。"
+   },
+   {
+    "name": "ジョン・ターナス",
+    "bio": "Appleのハードウェア責任者から新たにCEOへ就任した人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneなどを展開し、時価総額4.5兆ドル超を誇るアメリカの巨大IT企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/04/news020.html",
+  "category": "ai_jp",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-apple-ceo-succession-cook-turnus.html"
+ },
+ {
+  "title": "Ouraが株式公開へ動く、スマートリング市場の行方は",
+  "lead": "人気スマートリングを手がけるOuraが、株式公開（IPO）に向けて手続きを行ったことが明らかになりました。過去1年で大幅な売上成長を記録した同社の動向に注目が集まっています。",
+  "summary3": [
+   "Ouraが株式公開に向けて手続きを開始しました",
+   "過去1年間にわたり事業の売上は大幅な成長を見せました",
+   "スマートリング市場の今後の展開に大きな影響を与えそうです"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。TechCrunchの報道によると、スマートリングメーカーのOuraが株式公開（IPO）の申請を行いました。",
+   "同社の発表によれば、ビジネスは過去1年間にわたって著しい売上の伸びを示しており、好調な業績を背景にした上場への動きとなります。",
+   "今後は株式公開を通じてさらなる事業拡大や市場での存在感強化を目指すとみられ、ヘルスケアデバイス業界全体の競争環境にも影響を与えそうです。"
+  ],
+  "tags": [
+   "Oura",
+   "IPO",
+   "スマートリング"
+  ],
+  "slug": "oura-files-to-go-public",
+  "people": [],
+  "terms": [
+   {
+    "name": "Oura",
+    "type": "company",
+    "desc": "健康管理機能を持つスマートリングを開発・販売する企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-oura-files-to-go-public.html"
+ },
+ {
+  "title": "トッテナム、VMware移行でライセンス費用85%削減のなぜ",
+  "lead": "英プロサッカーチームのトッテナム・ホットスパーが、VMwareからの移行によりライセンス費用を85%削減したことが明らかになりました。Broadcomによる買収に伴う問題が背景にあると、同チームのCTOが指摘しています。",
+  "summary3": [
+   "トッテナムがVMwareから移行",
+   "ライセンス費用を85%削減",
+   "Broadcom買収の問題を指摘"
+  ],
+  "body": [
+   "英プロサッカーチームのトッテナム・ホットスパーが、ITインフラの移行によってライセンス費用を大幅に削減することに成功しました。Ars Technicaの報道によると、VMwareからの移行により、ライセンス費用を85%削減できたということです。",
+   "この移行について、同チームのCTOは「Broadcomの買収に伴う問題」があることを指摘しています。巨大IT企業による買収劇が、ユーザー企業のシステム運用やコストに大きな影響を与えている実態が浮き彫りになりました。",
+   "ITインフラのコスト見直しを迫られる企業が増える中、今回のトッテナムにおける大幅な費用削減の事例は、多くのIT管理者や経営者にとって重要な選択肢の一つとなりそうです。コスト最適化のあり方を考える上で、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "VMware",
+   "Broadcom",
+   "トッテナム"
+  ],
+  "slug": "vmware-migration-tottenham-hotspur",
+  "people": [],
+  "terms": [
+   {
+    "name": "VMware",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、仮想化ソフトウェアやクラウド計算を提供するテクノロジー企業。"
+   },
+   {
+    "name": "Broadcom",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く世界的な半導体・インフラストラクチャソフトウェアの製造企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+  "category": "silicon",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-vmware-migration-tottenham-hotspur.html"
+ },
+ {
+  "title": "来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは",
+  "lead": "財務省は、国の来年度予算案に向けた概算要求について、各省庁から提出された一般会計の総額が過去最大の143兆656億円になったと発表しました。",
+  "summary3": [
+   "来年度予算案の概算要求を発表",
+   "一般会計総額は143兆656億円",
+   "新たな投資枠や一体編成が影響"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。財務省は、国の来年度予算案に向けた概算要求について、各省庁から提出された一般会計の総額が過去最大の143兆656億円になったと発表しました。",
+   "今回の概算要求では、新たな投資枠で要求に上限を設けない仕組みが導入されたほか、当初予算と補正予算を一体的に編成する方針などが取られています。",
+   "過去最大となった総額が私たちの暮らしや国の財政にどのような影響を与えるのか、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "予算案",
+   "概算要求",
+   "財務省"
+  ],
+  "slug": "budget-request-record-high-143-trillion",
+  "people": [],
+  "terms": [
+   {
+    "name": "財務省",
+    "type": "company",
+    "desc": "日本の行政機関の一つで、国の財政や税制、予算などを担当する中央省庁です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260904de48100",
+  "category": "world",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-budget-request-record-high-143-trillion.html"
+ },
+ {
+  "title": "フォルクスワーゲン、2030年までに5万人の追加削減を承認",
+  "lead": "BBC Worldによると、アウディやポルシェなどを擁するフォルクスワーゲングループが、2030年までにさらに5万人の雇用削減計画を承認しました。総計10万人の削減となる見通しです。",
+  "summary3": [
+   "VWが新たに5万人の削減を承認",
+   "2030年までに計10万人を削減へ",
+   "アウディやポルシェなどが対象"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、アウディ、ポルシェ、シュコダなどのブランドを含むフォルクスワーゲングループは、さらなる大規模な雇用削減の計画を新たに承認しました。今回の計画により、グループ全体での削減規模はさらに拡大することになります。",
+   "同グループでは、2030年までに合計で10万人の人員削減を計画しています。自動車業界を取り巻く環境が変化する中で、グループ全体での大規模な構造改革が進められている状況です。",
+   "今回の追加削減の承認により、今後のグループ各社の動向や雇用への影響に注目が集まっています。詳細なスケジュールや対象部門についての発表が今後も続けられる見通しです。"
+  ],
+  "tags": [
+   "フォルクスワーゲン",
+   "自動車業界",
+   "リストラ"
+  ],
+  "slug": "volkswagen-approves-50000-job-cuts",
+  "people": [],
+  "terms": [
+   {
+    "name": "フォルクスワーゲン",
+    "type": "company",
+    "desc": "ドイツを本拠地とし、アウディやポルシェなどを傘下に持つ世界的な大手自動車メーカーです。"
+   },
+   {
+    "name": "アウディ",
+    "type": "company",
+    "desc": "ドイツの高級車メーカーであり、フォルクスワーゲングループに属する主要ブランドの一つです。"
+   },
+   {
+    "name": "ポルシェ",
+    "type": "company",
+    "desc": "ドイツの高級スポーツカーメーカーであり、フォルクスワーゲングループの傘下にあります。"
+   },
+   {
+    "name": "シュコダ",
+    "type": "company",
+    "desc": "チェコを本拠地とする歴史ある自動車メーカーで、現在はフォルクスワーゲングループに属しています。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-volkswagen-approves-50000-job-cuts.html"
+ },
+ {
+  "title": "三井不動産とNTTドコモが資本業務提携、不動産と通信の融合で何をもたらすのか",
+  "lead": "三井不動産とNTTドコモなどが資本業務提携を締結しました。不動産と通信の融合によって都市の価値向上を目指す取り組みが進められます。",
+  "summary3": [
+   "三井不動産とNTTドコモなどが資本業務提携を締結",
+   "不動産と通信の融合により都市の価値向上を目指す",
+   "今後の具体的な展開や街づくりへの影響に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。三井不動産、NTTドコモなどが資本業務提携を締結したことが明らかになりました。",
+   "今回の提携は、不動産事業と通信事業を融合させることで、都市の価値向上を実現することを目的として掲げています。両社の持つ強みをどのように活かし、今後の都市開発やサービスに結びつけていくのかが注目されます。",
+   "詳しい提携の詳細や今後の展開については、各社の発表を参照ください。"
+  ],
+  "tags": [
+   "三井不動産",
+   "NTTドコモ",
+   "資本業務提携"
+  ],
+  "slug": "mitsui-fudosan-ntt-docomo-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "三井不動産",
+    "type": "company",
+    "desc": "東京都に本社を置く日本を代表する大手不動産開発会社（デベロッパー）"
+   },
+   {
+    "name": "NTTドコモ",
+    "type": "company",
+    "desc": "東京都に本社を置く日本電信電話（NTT）グループの主要な移動体通信事業者"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRC1qOUl6WW9GOFhzQklOZUVUMmx5amtLQ0NwTFcxSjVwN3hLdVpYMXZ0Z3lONVRmTTRVNnViOVhxSW9oczN2MTJadXZSSGxCemRCQTRsUjdGbUFicWkySlBOZHNtVzljNjRQaWZEYzRMNkN6YXRKaGcyZ2JTTzdLMzV1SXVTUQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-04",
+  "time": "12:01",
+  "path": "/articles/20260904-mitsui-fudosan-ntt-docomo-capital-business-alliance.html"
  }
 ]

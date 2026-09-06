@@ -1,147 +1,150 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-06",
  "videos": [
   {
-   "id": "ZeMKYURp_A8",
-   "title": "Monster Hunter Wilds: Ascendance - 1st Trailer",
-   "channel": "Monster Hunter",
-   "views": 1158279,
-   "url": "https://www.youtube.com/watch?v=ZeMKYURp_A8",
-   "thumb": "https://i.ytimg.com/vi/ZeMKYURp_A8/hqdefault.jpg",
+   "id": "FyS5dAywkEo",
+   "title": "LISA - SaWaDiKa (Official Music Video)",
+   "channel": "LISAOfficialVEVO",
+   "views": 110932337,
+   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo",
+   "thumb": "https://i.ytimg.com/vi/FyS5dAywkEo/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "BR"
+    "JP",
+    "KR",
+    "IN"
    ],
    "rank": 1,
-   "comment": "「モンスターハンターワイルズ」の新しいトレーラー映像が公開されたようです。(31字)※少し調整：モンハンの新トレーラー映像が公開されたようです。(25字)"
+   "comment": "LISAによる新曲「SaWaDiKa」の公式ミュージックビデオです。（29文字）"
   },
   {
-   "id": "--rTmGtUFhI",
-   "title": "XG - NO GOOD (Performance Video)",
-   "channel": "XG",
-   "views": 623933,
-   "url": "https://www.youtube.com/watch?v=--rTmGtUFhI",
-   "thumb": "https://i.ytimg.com/vi/--rTmGtUFhI/hqdefault.jpg",
+   "id": "7xYekUcLRs4",
+   "title": "Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)",
+   "channel": "Mori Calliope Ch. hololive-EN",
+   "views": 384410,
+   "url": "https://www.youtube.com/watch?v=7xYekUcLRs4",
+   "thumb": "https://i.ytimg.com/vi/7xYekUcLRs4/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "JP"
    ],
    "rank": 2,
-   "comment": "XGによる「NO GOOD」のパフォーマンス映像のようです。"
+   "comment": "Mori CalliopeとElizabeth Rose Bloodflameによるカバー曲のようです。（31文字）※少し長いので調整→Mori Calliopeらによるグレンラガンのカバー曲のようです。（29文字）"
   },
   {
-   "id": "SJVmeJaS44s",
-   "title": "Harry Potter and the Philosopher's Stone | Official Teaser Trailer | HBO Max",
-   "channel": "Harry Potter",
-   "views": 3281164,
-   "url": "https://www.youtube.com/watch?v=SJVmeJaS44s",
-   "thumb": "https://i.ytimg.com/vi/SJVmeJaS44s/hqdefault.jpg",
+   "id": "pzXW1FydqnE",
+   "title": "Myriad Celestia Trailer: \"Deep Waters\" | Honkai: Star Rail",
+   "channel": "Honkai: Star Rail",
+   "views": 204228,
+   "url": "https://www.youtube.com/watch?v=pzXW1FydqnE",
+   "thumb": "https://i.ytimg.com/vi/pzXW1FydqnE/hqdefault.jpg",
    "regions": [
     "US",
-    "KR"
+    "GB",
+    "BR"
    ],
    "rank": 3,
-   "comment": "ハリー・ポッターと賢者の石の公式ティーザー予告編のようですね"
+   "comment": "『崩壊：スターレイル』の新トレーラー映像が公開されているようです。（29文字）"
   },
   {
-   "id": "aQXq3ndLkHs",
-   "title": "KAROL G, Bruno Mars - Still (Official Video)",
-   "channel": "KarolGVEVO",
-   "views": 3160654,
-   "url": "https://www.youtube.com/watch?v=aQXq3ndLkHs",
-   "thumb": "https://i.ytimg.com/vi/aQXq3ndLkHs/hqdefault.jpg",
+   "id": "8doc_Zq0Anw",
+   "title": "EPIC - Trailer | Anand Deverakonda, Vaishnavi Chaitanya | Hesham AW | Naga Vamsi S | Aditya Hasan",
+   "channel": "Sithara Entertainments",
+   "views": 6746613,
+   "url": "https://www.youtube.com/watch?v=8doc_Zq0Anw",
+   "thumb": "https://i.ytimg.com/vi/8doc_Zq0Anw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 4,
+   "comment": "Anand Deverakondaらが出演する映画の予告編のようです。（29文字）"
+  },
+  {
+   "id": "aWpw-Ynl0Yc",
+   "title": "MILEY - Bass Persuades (Official Video)",
+   "channel": "MILEY",
+   "views": 4807360,
+   "url": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc",
+   "thumb": "https://i.ytimg.com/vi/aWpw-Ynl0Yc/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 4,
-   "comment": "KAROL Gとブルーノ・マーズによるコラボ曲の公式MVのようです。"
-  },
-  {
-   "id": "CFgEL7ei8VE",
-   "title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
-   "channel": "東映アニメーション公式YouTubeチャンネル",
-   "views": 2974222,
-   "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE",
-   "thumb": "https://i.ytimg.com/vi/CFgEL7ei8VE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "BR"
-   ],
    "rank": 5,
-   "comment": "ドラゴンボール超のビルスが登場するアニメのトレイラー映像のようです。(29文字)"
+   "comment": "MILEYによる「Bass Persuades」の公式ビデオです。（26文字）"
   },
   {
-   "id": "dcTYz_mJpkU",
-   "title": "State of Play | September 3, 2026 [English]",
-   "channel": "PlayStation",
-   "views": 2799729,
-   "url": "https://www.youtube.com/watch?v=dcTYz_mJpkU",
-   "thumb": "https://i.ytimg.com/vi/dcTYz_mJpkU/hqdefault.jpg",
+   "id": "we2dBzQxtgQ",
+   "title": "1000 Players Simulate Mining Prison in Minecraft",
+   "channel": "Parrot",
+   "views": 3926512,
+   "url": "https://www.youtube.com/watch?v=we2dBzQxtgQ",
+   "thumb": "https://i.ytimg.com/vi/we2dBzQxtgQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 6,
-   "comment": "2026年9月開催のState of Playの英語配信動画のようです。"
+   "comment": "マインクラフトで1000人が採掘監獄をシミュレートする動画のようです。（31文字）※調整→マインクラフトで1000人が監獄をシミュレートする動画のようです。（29文字）"
   },
   {
-   "id": "Z22O7JjLZYY",
-   "title": "One of these Animals is not like the other...",
-   "channel": "SMii7Y",
-   "views": 2695634,
-   "url": "https://www.youtube.com/watch?v=Z22O7JjLZYY",
-   "thumb": "https://i.ytimg.com/vi/Z22O7JjLZYY/hqdefault.jpg",
+   "id": "Tr-4d0FYNB8",
+   "title": "Comrade Kalyan - Official Teaser | Sree Vishnu | Mahima Nambiar | Janakiram Marella",
+   "channel": "Saregama Telugu",
+   "views": 1772215,
+   "url": "https://www.youtube.com/watch?v=Tr-4d0FYNB8",
+   "thumb": "https://i.ytimg.com/vi/Tr-4d0FYNB8/hqdefault.jpg",
    "regions": [
     "US",
-    "GB"
+    "IN"
    ],
    "rank": 7,
-   "comment": "似て非なる動物を見抜くゲームの様子（29文字）"
+   "comment": "Sree Vishnu主演のテルグ語映画の公式ティーザーのようです。（28文字）"
   },
   {
-   "id": "IjLg0X59fMA",
-   "title": "Band of Brothers: Legacy Trailer | HBO Max",
-   "channel": "HBO Max",
-   "views": 928249,
-   "url": "https://www.youtube.com/watch?v=IjLg0X59fMA",
-   "thumb": "https://i.ytimg.com/vi/IjLg0X59fMA/hqdefault.jpg",
+   "id": "8yzmZrHhu0A",
+   "title": "ROBLOX BUILD TO SURVIVE VERITY",
+   "channel": "Foltyn",
+   "views": 949930,
+   "url": "https://www.youtube.com/watch?v=8yzmZrHhu0A",
+   "thumb": "https://i.ytimg.com/vi/8yzmZrHhu0A/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 8,
-   "comment": "HBO Maxによる「バンド・オブ・ブラザース」関連の映像のようですね。(29字)"
+   "comment": "ロブロックスの「BUILD TO SURVIVE VERITY」の映像のようです。（32文字）※調整→ロブロックスのサバイバル系ゲーム実況の映像のようです。（26文字）"
   },
   {
-   "id": "91Ht98fhsI0",
-   "title": "I haven’t laughed this hard in months..",
-   "channel": "Asmongold TV  ",
-   "views": 783282,
-   "url": "https://www.youtube.com/watch?v=91Ht98fhsI0",
-   "thumb": "https://i.ytimg.com/vi/91Ht98fhsI0/hqdefault.jpg",
+   "id": "zh528546yDA",
+   "title": "Adopted by a SHARK FAMILY in Minecraft!",
+   "channel": "Cash",
+   "views": 811306,
+   "url": "https://www.youtube.com/watch?v=zh528546yDA",
+   "thumb": "https://i.ytimg.com/vi/zh528546yDA/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
    "rank": 9,
-   "comment": "数ヶ月ぶり一番笑ったというタイトル通りのリアクション動画みたいです"
+   "comment": "マインクラフトでサメの家族に養子に迎えられた設定の動画のようです。（30文字）"
   },
   {
-   "id": "HaCtG1F_hfE",
-   "title": "Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer",
-   "channel": "Crimson Desert",
-   "views": 521739,
-   "url": "https://www.youtube.com/watch?v=HaCtG1F_hfE",
-   "thumb": "https://i.ytimg.com/vi/HaCtG1F_hfE/hqdefault.jpg",
+   "id": "P9BsjBrHhE4",
+   "title": "how i outsmarted 500 people for $10,000",
+   "channel": "JudeLow",
+   "views": 780538,
+   "url": "https://www.youtube.com/watch?v=P9BsjBrHhE4",
+   "thumb": "https://i.ytimg.com/vi/P9BsjBrHhE4/hqdefault.jpg",
    "regions": [
-    "JP",
-    "KR"
+    "US",
+    "GB"
    ],
    "rank": 10,
-   "comment": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)"
+   "comment": "500人を出し抜いて1万ドルを手に入れた企画のようです。（27文字）"
   }
  ],
  "covered": [
@@ -153,16 +156,6 @@
   "IN"
  ],
  "comment_cache": {
-  "BZ4UzthYTss": "Stray Kidsの新曲「This & That」の公式MVが公開されたようです。",
-  "-TanwOtw0Bc": "タルコフのシーズン実況ライブ配信の様子(29字)",
-  "HCvIZzVdeq8": "Stray Kidsの「FARMING」が公開されたようです。",
-  "9wG4C42JhN4": "Guru Randhawaの新曲「FINE SHYT」の公式ミュージックビデオのようです。",
-  "u-i5tiNi8M8": "Flamingoのキャラクターに潜む暗い真実を語っている動画のようです。",
-  "jZHoM2YhFCY": "スーリヤやマミタ・バイジュらが出演するタミル語映画の予告編のようですね。",
-  "i7jVfG-wB78": "人気ホラーゲームシリーズの最新作の公式ティーザートレーラーのようです。",
-  "6qdwBOT6MlE": "スーリヤ主演のテルグ語映画「Vishwanath and Sons」の予告編のようです。",
-  "jEAQp6jjmQA": "タミール映画『Magudam』の予告編映像のようです",
-  "mWAkJSWrIg4": "FNAFとAmong Usの世界観を実写で再現しているようです",
   "XckReAEvYvE": "オーバーウォッチの新ヒーロー「D.Mon」のゲームプレイ映像のようです",
   "61YyhrZEgHM": "『Garten of Banban 9』の公式ティーザー第3弾のリアクション動画のようです",
   "sqBABQJ8dNI": "eスポーツ世界大会3日目のウォッチパーティの様子かもしれない (28字)",
@@ -452,6 +445,16 @@
   "91Ht98fhsI0": "数ヶ月ぶり一番笑ったというタイトル通りのリアクション動画みたいです",
   "buPhYiIXMTM": "カンナムのチャンネルでENHYPENのジェイと共に青と夏を歌う企画のようです",
   "HaCtG1F_hfE": "新作ゲーム「Crimson Desert」の公式DLC公開トレーラーらしい。(29字)",
-  "IjLg0X59fMA": "HBO Maxによる「バンド・オブ・ブラザース」関連の映像のようですね。(29字)"
+  "IjLg0X59fMA": "HBO Maxによる「バンド・オブ・ブラザース」関連の映像のようですね。(29字)",
+  "FyS5dAywkEo": "LISAによる新曲「SaWaDiKa」の公式ミュージックビデオです。（29文字）",
+  "7xYekUcLRs4": "Mori CalliopeとElizabeth Rose Bloodflameによるカバー曲のようです。（31文字）※少し長いので調整→Mori Calliopeらによるグレンラガンのカバー曲のようです。（29文字）",
+  "pzXW1FydqnE": "『崩壊：スターレイル』の新トレーラー映像が公開されているようです。（29文字）",
+  "8doc_Zq0Anw": "Anand Deverakondaらが出演する映画の予告編のようです。（29文字）",
+  "aWpw-Ynl0Yc": "MILEYによる「Bass Persuades」の公式ビデオです。（26文字）",
+  "we2dBzQxtgQ": "マインクラフトで1000人が採掘監獄をシミュレートする動画のようです。（31文字）※調整→マインクラフトで1000人が監獄をシミュレートする動画のようです。（29文字）",
+  "Tr-4d0FYNB8": "Sree Vishnu主演のテルグ語映画の公式ティーザーのようです。（28文字）",
+  "8yzmZrHhu0A": "ロブロックスの「BUILD TO SURVIVE VERITY」の映像のようです。（32文字）※調整→ロブロックスのサバイバル系ゲーム実況の映像のようです。（26文字）",
+  "zh528546yDA": "マインクラフトでサメの家族に養子に迎えられた設定の動画のようです。（30文字）",
+  "P9BsjBrHhE4": "500人を出し抜いて1万ドルを手に入れた企画のようです。（27文字）"
  }
 }

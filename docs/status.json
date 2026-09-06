@@ -1,17 +1,69 @@
 {
- "updated": "2026-09-06 20:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-06 21:04",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "Google Geminiの計画でハイカー救助、水不足の原因は",
+   "path": "/articles/20260906-hikers-rescued-after-using-google-gemini-for-planning.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "男性職より女性職がAI自動化リスクの高い理由",
+   "path": "/articles/20260906-female-jobs-higher-ai-automation-risk.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "VoicyのAI開発でスループット3倍を実現したプロセス監督の2ヶ月とは",
+   "path": "/articles/20260906-voicy-ai-development-throughput-3x.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "CNBC、ウォール街のAI株評価厳格化でディフェンシブ株を購入した理由",
+   "path": "/articles/20260906-cnbc-defensive-stocks-ai.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "CNBC報道：米トラック業界がAIデータセンター特需に沸く",
+   "path": "/articles/20260906-ai-data-centers-trucker-boom.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "すしらーめん《りく》が半年かけて動画を創る理由",
+   "path": "/articles/20260906-sushiramen-riku-long-term-video-creation.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "大雨で山手線などが本数減へ、交通への影響回避に確認を",
+   "path": "/articles/20260906-heavy-rain-transportation-impact-september-7.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米軍、イラン石油タンカー3隻を攻撃なぜ",
+   "path": "/articles/20260906-us-forces-attack-iran-tankers.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "長期金利が3%超え、私たちの暮らしへの影響は",
+   "path": "/articles/20260906-long-term-interest-rates-rise.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "丸亀製麺が韓国に再進出、過去の撤退から変えた戦略とは",
+   "path": "/articles/20260906-marugame-seimen-korea-reentry.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
  "notes": [
-  "執筆失敗: 人気インフルエンサー・ゆん フォロワー100万人のTikTokアカウントが「消え"
+  "執筆失敗: OpenAI confirms ‘wiki incident,’ says it",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": 1,
  "gemini": {
-  "used": 3,
+  "used": 25,
   "limit": 200
  }
 }
