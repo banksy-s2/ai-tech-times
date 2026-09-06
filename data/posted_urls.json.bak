@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EWXZ4Mlg5RkVTcVVvcG5HTTdlMUdQcm84bklveFNMM3hwZnBiWWdsa0FkSUtxMzJxbXRxSXNZd1hiVEZoU2hHUHgwX1BVRjNUMUVIakZGWGJDT3NsckdN?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015183471000",
   "https://news.web.nhk/newsweb/na/na-k10015183321000",
   "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260905de48324",
   "https://www.itmedia.co.jp/business/articles/2609/06/news005.html",
   "https://news.web.nhk/newsweb/na/nd-20260905de48325",
-  "https://news.web.nhk/newsweb/na/nd-20260906de48502"
+  "https://news.web.nhk/newsweb/na/nd-20260906de48502",
+  "https://www.nikkei.com/article/DGXZQOUB218SR0R20C26A8000000/"
  ],
  "titles": [
-  "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始　利用は申請制",
-  "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
   "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
   "カメラアプリ「ＳＮＯＷ」でステマ、インフルエンサーら７２人「流行っているＡＩ生成画像やってみた」…電子ギフト券提供 - 読売新聞",
   "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
@@ -4001,6 +3999,8 @@
   "中国習主席訪米に企業団同行か 米大統領「国賓待遇の夕食会」",
   "ドイツ州議会選挙投票始まる　「極右」政党が第1党の見通し",
   "中国の習主席訪米、大規模企業団の同行準備が進む理由は",
-  "ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し"
+  "ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し",
+  "インフレで「黙って我慢していればいい」時代は終わった（藤野英人） - 日本経済新聞",
+  "日経平均10万円でも持たぬ者は残酷に？インフレ時代の真実"
  ]
 }

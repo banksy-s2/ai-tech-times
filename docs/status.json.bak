@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-06 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-06 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "中国の習主席訪米、大規模企業団の同行準備が進む理由は",
-   "path": "/articles/20260906-xi-jinping-us-visit-business-delegation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し",
-   "path": "/articles/20260906-germany-state-election-far-right.html",
-   "cat": "時事・世界"
+   "title": "日経平均10万円でも持たぬ者は残酷に？インフレ時代の真実",
+   "path": "/articles/20260906-inflation-nikkei-average-reality.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 28,
+  "used": 32,
   "limit": 200
  }
 }
