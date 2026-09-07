@@ -74139,5 +74139,44 @@
   "date": "2026-09-07",
   "time": "14:58",
   "path": "/articles/20260907-foreign-reserves-decrease-record.html"
+ },
+ {
+  "title": "トヨタ自動車43兆円の負債はなぜ？上場企業「借金王」ランキング",
+  "lead": "リスクモンスターが上場企業の「借金王」ランキングを発表しました。1位となったトヨタ自動車の負債総額は43兆円に上り、調査対象20社中18社で負債が増加しています。",
+  "summary3": [
+   "上場企業の借金王1位はトヨタ",
+   "負債総額は43兆円を記録",
+   "20社中18社で負債が増加傾向"
+  ],
+  "body": [
+   "リスクモンスターは、上場企業を対象とした「借金王」ランキングの調査結果を公表しました。本調査において、堂々の1位となったのはトヨタ自動車であり、その負債総額は43兆円という大きな規模に達しています。",
+   "今回の調査では、ランキング上位の20社のうち18社において負債が増加していることが判明しました。多くの企業で負債が膨らむ結果となっており、各社の財務状況の変化に注目が集まっています。",
+   "本ランキングは、上場企業の負債状況を浮き彫りにするものです。詳細な順位や個別の企業動向については、リスクモンスターによる発表を参照ください。"
+  ],
+  "tags": [
+   "トヨタ自動車",
+   "リスクモンスター",
+   "借金王ランキング"
+  ],
+  "slug": "toyota-debt-ranking-risk-monster",
+  "people": [],
+  "terms": [
+   {
+    "name": "トヨタ自動車",
+    "type": "company",
+    "desc": "日本を代表する自動車メーカーであり、世界各国で車両の製造および販売を展開している。"
+   },
+   {
+    "name": "リスクモンスター",
+    "type": "company",
+    "desc": "企業の与信管理やリスクマネジメントに関する調査、データ提供を行っている企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11cUNWbEpuaG41bUlFWFlmS2ZwWTNTdXNXbS15MVNMNzdoNUZBcnd5WDBrX25TakViZktXYkhnbV9PVUJVeVNxTkNSV2FhRUhQUmNQaWYtY3ZieEU?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-07",
+  "time": "15:02",
+  "path": "/articles/20260907-toyota-debt-ranking-risk-monster.html"
  }
 ]

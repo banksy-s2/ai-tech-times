@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-07 14:58",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-07 15:02",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "外貨準備高が12兆円余減少、市場介入で過去最大に",
-   "path": "/articles/20260907-foreign-reserves-decrease-record.html",
-   "cat": "株式投資(日本)"
+   "title": "トヨタ自動車43兆円の負債はなぜ？上場企業「借金王」ランキング",
+   "path": "/articles/20260907-toyota-debt-ranking-risk-monster.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 17,
   "limit": 200
  }
 }

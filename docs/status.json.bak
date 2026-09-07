@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-07 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-07 14:58",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由",
-   "path": "/articles/20260907-ai-model-fatigue-openai-google.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ",
-   "path": "/articles/20260907-tesla-cybercab-under-investigation.html",
-   "cat": "シリコンバレー最速"
+   "title": "外貨準備高が12兆円余減少、市場介入で過去最大に",
+   "path": "/articles/20260907-foreign-reserves-decrease-record.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 13,
   "limit": 200
  }
 }
