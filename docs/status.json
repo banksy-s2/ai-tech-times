@@ -1,17 +1,26 @@
 {
- "updated": "2026-09-08 03:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-08 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "イラン、ホルムズ海峡周辺に「制限区域」設置のねらい",
+   "path": "/articles/20260908-iran-hormuz-restricted-area.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ドイツのための選択肢、ザクセン・アンハルト州議選で第1党へ",
+   "path": "/articles/20260908-germany-state-election-afd-2026.html",
+   "cat": "時事・世界"
+  }
+ ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [
-  "執筆失敗: “VTuberの名前変換辞書”が販売サイト「BOOTH」で出品停止に VTube"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 11,
+  "used": 16,
   "limit": 200
  }
 }
