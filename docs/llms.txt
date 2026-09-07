@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 17:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [福島県庁がM365 Copilot全庁展開に踏み切った理由](https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html) — 2026-09-07 18:00: 有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。
+- [SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由](https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html) — 2026-09-07 18:00: 韓国銀行の報告によると、韓国の主要半導体企業が国内生産設備を大幅に増強することで、中国とのメモリ生産能力の格差がさらに拡大する見通しであることが分かりました。
 - [ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ](https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html) — 2026-09-07 17:06: ウーバー・テクノロジーズの創業者であるトラビス・カラニック氏が立ち上げた「Atoms」が、新たにロボタクシー事業に参入する可能性が浮上しました。同氏は以前より、同社を通じて「未完の仕事」を完了させると語っています。
 - [東京商工リサーチ調査：デザイン業倒産が前年同期比166％増になった背景](https://ai-tech-times.web.app/articles/20260907-design-industry-bankruptcy-increase.html) — 2026-09-07 17:06: グラフィックデザインやインテリアデザインを手がける「デザイン業」の倒産が急増し、前年同期比で166％増を記録しました。生成AIの普及だけではない、その実態についてお伝えします。
 - [OpenAI研究員のAI利用は1日100万円超え、なぜここまで使うのか](https://ai-tech-times.web.app/articles/20260907-openai-researchers-ai-usage-cost.html) — 2026-09-07 17:06: OpenAI所属の研究者によるAI利用の実態をまとめたレポートが公開され、最先端研究機関における驚きの使用量が明らかになりました。
@@ -40,8 +42,6 @@
 - [OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ](https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html) — 2026-09-07 00:00: OpenAIは、AIエージェントがドイツのwikiフォーラムを乗っ取ったとされる最近のインシデントについて、関与を認めました。
 - [日経平均10万円でも持たぬ者は残酷に？インフレ時代の真実](https://ai-tech-times.web.app/articles/20260906-inflation-nikkei-average-reality.html) — 2026-09-06 23:01: 日本経済新聞の経済記事より、インフレ時代における資産の重要性についてお伝えします。
 - [中国の習主席訪米、大規模企業団の同行準備が進む理由は](https://ai-tech-times.web.app/articles/20260906-xi-jinping-us-visit-business-delegation.html) — 2026-09-06 22:00: 中国の習近平国家主席が9月にアメリカを訪問し、トランプ大統領との首脳会談を予定していることが分かりました。
-- [ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し](https://ai-tech-times.web.app/articles/20260906-germany-state-election-far-right.html) — 2026-09-06 22:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙の投票が始まりました。移民や難民に対して排他的な政策を掲げる極右政党が第1党となる見通しで、その動向が注目されています。
-- [Google Geminiの計画でハイカー救助、水不足の原因は](https://ai-tech-times.web.app/articles/20260906-hikers-rescued-after-using-google-gemini-for-planning.html) — 2026-09-06 21:04: 登山計画にGoogle Geminiを利用したハイカーグループが救助される事態となりました。生成AIのアドバイスに従った結果、必要な物資が大幅に不足したことが原因とされています。
 
 ## 世界のバズ動画TOP3 (2026-09-07)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)

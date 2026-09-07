@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>福島県庁がM365 Copilot全庁展開に踏み切った理由</title>
+<link>https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html</guid>
+<pubDate>Mon, 07 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。</description>
+</item>
+<item>
+<title>SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html</guid>
+<pubDate>Mon, 07 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>韓国銀行の報告によると、韓国の主要半導体企業が国内生産設備を大幅に増強することで、中国とのメモリ生産能力の格差がさらに拡大する見通しであることが分かりました。</description>
+</item>
+<item>
 <title>ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ</title>
 <link>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 06 Sep 2026 21:04:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>今週、日本の長期金利が急ピッチで上昇し、10年ものの国債の利回りがおよそ30年ぶりに3パーセントを超えました。私たちの暮らしや経済にどのような影響があるのかが注目されています。</description>
-</item>
-<item>
-<title>丸亀製麺が韓国に再進出、過去の撤退から変えた戦略とは</title>
-<link>https://ai-tech-times.web.app/articles/20260906-marugame-seimen-korea-reentry.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260906-marugame-seimen-korea-reentry.html</guid>
-<pubDate>Sun, 06 Sep 2026 21:04:00 +0900</pubDate>
-<category>日本企業</category>
-<description>讃岐うどんチェーンを展開する丸亀製麺が、韓国市場に再進出を果たしました。過去に撤退した市場で、今回はどのような変化をつけて行列を作るまでに至ったのでしょうか。</description>
-</item>
-<item>
-<title>Abliteration.AI、AIの安全フィルター削除を事業化</title>
-<link>https://ai-tech-times.web.app/articles/20260904-abliteration-ai-guardrails.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-abliteration-ai-guardrails.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Abliteration.AIが、強力なAIモデルの安全フィルターを簡単に外せるサービスの提供を開始しました。防衛側にも悪意ある者と同じツールを与えることで、サイバーセキュリティの向上を目指すとしています。</description>
 </item>
 </channel></rss>

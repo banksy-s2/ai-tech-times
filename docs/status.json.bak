@@ -1,26 +1,56 @@
 {
- "updated": "2026-09-07 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-07 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴",
-   "path": "/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html",
+   "title": "ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ",
+   "path": "/articles/20260907-travis-kalanicks-atoms-robotaxi.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張",
-   "path": "/articles/20260907-authors-push-back-on-anthropic-settlement.html",
-   "cat": "AI(海外)"
+   "title": "東京商工リサーチ調査：デザイン業倒産が前年同期比166％増になった背景",
+   "path": "/articles/20260907-design-industry-bankruptcy-increase.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAI研究員のAI利用は1日100万円超え、なぜここまで使うのか",
+   "path": "/articles/20260907-openai-researchers-ai-usage-cost.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アップル、フィル・シラー氏のApp Store撤退と今後の懸念",
+   "path": "/articles/20260907-phil-schiller-app-store-exit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "養殖サーモン栄養低下、環境と気候への深刻な影響とは",
+   "path": "/articles/20260907-farmed-salmon-nutrition-research.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持",
+   "path": "/articles/20260907-economic-indexes-july-kaizen.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均が6万6399円に上昇、プライムの半数超は値下がり",
+   "path": "/articles/20260907-nikkei-average-rises-to-66399-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
- "notes": [],
- "pv_today": null,
+ "notes": [
+  "執筆失敗: 「勝手にコラボ」疑惑のVTuber日本酒、酒造は「一切許諾してない」と関与否定 ",
+  "執筆失敗: China to pump $54bn into state banks and",
+  "執筆失敗: 【Mitsui O.S.K. Lines FY2026 Q1 決算説明会】経常利",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 1,
  "gemini": {
-  "used": 25,
+  "used": 47,
   "limit": 200
  }
 }
