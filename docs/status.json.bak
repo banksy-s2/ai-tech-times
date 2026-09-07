@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-07 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-07 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "福島県庁がM365 Copilot全庁展開に踏み切った理由",
-   "path": "/articles/20260907-fukushima-m365-copilot-strategy.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由",
-   "path": "/articles/20260907-south-korea-memory-chip-production-2028.html",
-   "cat": "日本のAI"
+   "title": "Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功",
+   "path": "/articles/20260907-isar-aerospace-europe-commercial-orbital-rocket.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 52,
+  "used": 56,
   "limit": 200
  }
 }

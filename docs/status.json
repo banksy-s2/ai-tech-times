@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-07 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-07 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功",
-   "path": "/articles/20260907-isar-aerospace-europe-commercial-orbital-rocket.html",
-   "cat": "シリコンバレー最速"
+   "title": "NHK番組出演の彬子さま、ブータン訪問に同行した人物とは",
+   "path": "/articles/20260907-akiko-sama-nhk-program.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 56,
+  "used": 59,
   "limit": 200
  }
 }

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html",
   "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
   "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
   "https://news.web.nhk/newsweb/na/na-k10015183071000",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260907de48739",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZTBQT2FIeHNiLUpNTkstQTd6eVpFNWN2a0cwRXp0bTBDdmtoVDBsaHNkUS1OX1BCX1YtSzB4dUlkSG9ScExFa2wyZnZORHhJV1lVWHV1QWFkdFBkSDZWQ012Q2Y?oc=5",
   "https://kn.itmedia.co.jp/kn/article/2609/07/2000000807/",
-  "https://gigazine.net/news/20260907-south-korea-memory-chip/"
+  "https://gigazine.net/news/20260907-south-korea-memory-chip/",
+  "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch"
  ],
  "titles": [
-  "HR総研調査：就活生の97％が生成AI利用、面接で追及される現実",
-  "米議員が警鐘、AIモデルの暴走防ぐ「キルスイッチ」法案の行方",
   "イーロン・マスクのDOGE、連邦政府の削減額1100億ドルを水増し",
   "さくらみことGakkenがコラボ参考書発売、ファン必見の理由",
   "台風で7日約470便欠航、8日も320便余影響はなぜ続くのか",
@@ -4001,6 +3999,8 @@
   "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略",
   "韓国のメモリ生産能力が2028年までに月60万枚増加、中国CXMTは月30万枚増で韓国との差がさらに拡大する見込み",
   "福島県庁がM365 Copilot全庁展開に踏み切った理由",
-  "SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由"
+  "SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由",
+  "Europe has its first commercial orbital rocket",
+  "Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功"
  ]
 }

@@ -74635,5 +74635,39 @@
   "date": "2026-09-07",
   "time": "18:00",
   "path": "/articles/20260907-south-korea-memory-chip-production-2028.html"
+ },
+ {
+  "title": "Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功",
+  "lead": "ドイツの宇宙企業Isar Aerospaceが、欧州で初めて完全民間による軌道ロケットの打ち上げに成功しました。失敗を乗り越えて低地球軌道への到達を果たした背景にはどのような軌跡があったのでしょうか。",
+  "summary3": [
+   "Isar Aerospaceが欧州初の完全民間ロケット打ち上",
+   "前回は30秒で海上に墜落して爆発するトラブルが発生していた",
+   "2段式ロケットSpectrumをノルウェーの宇宙港から軌道へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の宇宙ニュースです。ドイツの企業であるIsar Aerospaceが、欧州で初めて完全民間による軌道ロケットの打ち上げに成功しました。同社は昨年3月にも同様の偉業に挑戦しましたが、その時はわずか30秒で機体が海上に墜落して爆発するという苦い経験をしています。",
+   "今回の打ち上げでは、前回の失敗を乗り越えて2段式ロケット「Spectrum」をノルウェーの宇宙港から低地球軌道へと送り出すことに成功しました。欧州の民間宇宙開発において歴史的な一歩となる今回の成果は、今後の宇宙ビジネスの発展に大きな影響を与えることが期待されています。",
+   "民間企業による宇宙進出が加速する中、欧州発のロケットが軌道到達を果たした意義は小さくありません。今後のさらなる打ち上げ計画や、商業利用に向けた展開から目が離せない状況となっています。"
+  ],
+  "tags": [
+   "宇宙開発",
+   "ロケット",
+   "Isar Aerospace"
+  ],
+  "slug": "isar-aerospace-europe-commercial-orbital-rocket",
+  "people": [],
+  "terms": [
+   {
+    "name": "Isar Aerospace",
+    "type": "company",
+    "desc": "ドイツを拠点に商業用の軌道ロケット開発を手がける宇宙企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+  "category": "silicon",
+  "date": "2026-09-07",
+  "time": "19:01",
+  "path": "/articles/20260907-isar-aerospace-europe-commercial-orbital-rocket.html"
  }
 ]
