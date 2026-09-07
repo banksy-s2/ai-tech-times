@@ -75208,5 +75208,343 @@
   "date": "2026-09-08",
   "time": "05:00",
   "path": "/articles/20260908-nikkei-average-rises-1378-yen.html"
+ },
+ {
+  "title": "TechCrunch AIが解説、知っておくべきAI用語",
+  "lead": "AIの急激な普及に伴い、数々の新しい用語やスラングが登場しています。主要な言葉の意味を網羅した用語集が公開されました。",
+  "summary3": [
+   "AIの普及で新用語が急増",
+   "主要な言葉の定義を解説",
+   "用語集でAIの理解を深める"
+  ],
+  "body": [
+   "AIの台頭に伴い、人工知能の分野では数多くの新しい用語やスラングが急増しています。こうした言葉の氾濫により、技術的な議論やニュースを理解することが難しくなっているのが現状です。",
+   "テック系メディアのTechCrunch AIは、私たちが遭遇する可能性のある最も重要な単語やフレーズを集めた用語集を公開しました。この用語集では、AI関連の主要な言葉の定義が分かりやすく解説されています。",
+   "新しく登場したAI用語の意味を正確に把握することで、進化を続けるAI技術やそのトレンドについての理解を深めることができます。"
+  ],
+  "tags": [
+   "AI",
+   "TechCrunch",
+   "用語集"
+  ],
+  "slug": "ai-terms-glossary-techcrunch",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+  "category": "ai",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-ai-terms-glossary-techcrunch.html"
+ },
+ {
+  "title": "アイシン、レクサスESにAIサス技術採用で乗り心地10%向上",
+  "lead": "アイシンが電子制御サスペンションにおいて、AIを活用してサスペンションの伸縮速度を推定する新技術を開発しました。トヨタ自動車の高級車ブランド「レクサス」の中核セダン「ES」に初めて採用され、走行時の快適性と安定性が高まっています。",
+  "summary3": [
+   "アイシンがAIでサス伸縮速度を推定する技術を開発",
+   "レクサスの中核セダン「ES」に初めて採用された",
+   "乗り心地性能が約10%向上し快適性と安定性が向上"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」編集部がお届けする最新情報です。自動車部品を手がけるアイシンは、電子制御サスペンション（AVS）において、AI（人工知能）を活用してサスペンションの伸縮速度（ストローク速度）を推定する新技術を開発しました。",
+   "この新技術は、トヨタ自動車の高級車ブランド「レクサス」の中核セダンである「ES」に初めて採用されました。AIによる推定精度の改善が行われたことにより、走行時の快適性や安定性が高まる効果を生み出しています。",
+   "今回の技術採用により、乗り心地性能は約10％向上しました。アイシンの最先端技術が高級車の走りをどのように進化させるのか、今後の展開にも大きな注目が集まっています。"
+  ],
+  "tags": [
+   "アイシン",
+   "レクサス",
+   "AI"
+  ],
+  "slug": "aisin-lexus-es-ai-suspension",
+  "people": [],
+  "terms": [
+   {
+    "name": "アイシン",
+    "type": "company",
+    "desc": "愛知県に本社を置き、トランスミッションやブレーキなど自動車部品を広く手がける大手自動車部品メーカー。"
+   },
+   {
+    "name": "トヨタ自動車",
+    "type": "company",
+    "desc": "愛知県豊田市に本社を置く、世界的な規模を持つ日本を代表する大手自動車製造メーカー。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://newswitch.jp/p/50190",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-aisin-lexus-es-ai-suspension.html"
+ },
+ {
+  "title": "Highlandersの国産四足歩行ロボ、段差昇降のデモ公開",
+  "lead": "ロボット開発企業のHighlandersが、国産をうたう四足歩行ロボット「HLQ EDGE」を発表しました。同日に公開されたデモ動画では、段差を昇降する姿が披露されています。",
+  "summary3": [
+   "Highlandersが国産ロボットを発表",
+   "四足歩行ロボット「HLQ EDGE」",
+   "段差を昇降するデモ動画を公開"
+  ],
+  "body": [
+   "ロボット開発企業のHighlandersは、国産をうたう四足歩行ロボット「HLQ EDGE」を発表しました。独自のAIを搭載している点が特徴となっています。",
+   "発表と同日には、実際の動きをとらえたデモ動画が一般に向けて公開されました。",
+   "公開された映像では、HLQ EDGEが滑らかに段差を昇降する姿などが披露されており、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "ロボット",
+   "AI",
+   "Highlanders"
+  ],
+  "slug": "highlanders-quadruped-robot-hlq-edge",
+  "people": [],
+  "terms": [
+   {
+    "name": "Highlanders",
+    "type": "company",
+    "desc": "東大発のスタートアップとしてロボット開発を手がける企業"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-highlanders-quadruped-robot-hlq-edge.html"
+ },
+ {
+  "title": "アウディの新型EV「A2 E-tron」はなぜ安さと効率を両立できたのか",
+  "lead": "手頃な価格と優れたエネルギー効率を両立させることは、電気自動車（EV）市場において非常に稀です。アウディが発表した新型「A2 E-tron」は、その両立を実現した最も手頃で効率的なモデルとして注目を集めています。",
+  "summary3": [
+   "アウディが新型EVを発表",
+   "安さと効率を両立した稀な存在",
+   "価格と航続距離の妥協を解消"
+  ],
+  "body": [
+   "電気自動車を購入する際、手頃な価格を選ぶことは一般的な傾向になりつつあります。しかし、安さとエネルギー効率の良さを同時に兼ね備えたモデルは非常に稀な存在です。",
+   "通常、EV選びではどちらか一方を妥協しなければなりません。価格を優先すれば航続距離が短いモデルになり、長距離走行を求めれば高い代償を支払うことになります。",
+   "そんな常識を覆すように登場したのが、アウディの新型「A2 E-tron」です。本機は同社のEVラインナップにおいて、これまでにない手頃な価格と高い効率性を実現しています。"
+  ],
+  "tags": [
+   "アウディ",
+   "EV",
+   "新型車"
+  ],
+  "slug": "audi-a2-etron-ev-announced",
+  "people": [],
+  "terms": [
+   {
+    "name": "アウディ",
+    "type": "company",
+    "desc": "ドイツの高級車メーカーであり、現在は電動化戦略を積極的に推進している自動車ブランドです。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-audi-a2-etron-ev-announced.html"
+ },
+ {
+  "title": "Amazon貨物機墜落事故、滑走路から400m超過の背景",
+  "lead": "マイアミで発生したAmazonの貨物機墜落事故について、国家運輸安全委員会（NTSB）が調査状況を明かしました。事故機は滑走路を大幅にオーバーランし、車両2台に衝突しています。",
+  "summary3": [
+   "Amazonの貨物機がマイアミで墜落しました",
+   "事故により少なくとも5人が死亡しました",
+   "NTSBが事故原因や状況を調査しています"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、アメリカのマイアミで発生したAmazon関連の貨物機墜落事故について、国家運輸安全委員会（NTSB）の委員長が詳細を明らかにしました。今回の事故では、少なくとも5人が死亡する惨事となっています。",
+   "NTSBの発表によれば、問題の貨物機は滑走路を1,300フィート（約396メートル）も過ぎた場所で停止しました。さらに、その過程で現地にあった2台の車両に衝突していたことが判明しています。",
+   "現時点では、事故を引き起こした直接的な原因については言及されておらず、詳細な究明は今後の調査に委ねられています。物流の大動脈を担う航空機事故として、当局による慎重な原因究明が続けられています。"
+  ],
+  "tags": [
+   "Amazon",
+   "航空事故",
+   "NTSB"
+  ],
+  "slug": "amazon-cargo-jet-crash-ntsb-update",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、世界最大級のECサイト運営やクラウドサービスを手がける世界的な大企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-amazon-cargo-jet-crash-ntsb-update.html"
+ },
+ {
+  "title": "カバー社がVTuberブランド統合を発表、一つの「hololive」として展開へ",
+  "lead": "人気VTuberブランドを運営するカバー社が、グループや地域を越えた新たなブランド統合を発表しました。今後は一つの「hololive」として展開されます。",
+  "summary3": [
+   "カバー社がブランド統合を発表",
+   "グループや地域の垣根を撤廃",
+   "一つのhololiveとして展開"
+  ],
+  "body": [
+   "ニュースメディア「AI TECH TIMES」がお伝えする最新情報です。ホロライブを運営するカバー社は、自社VTuberブランドの大規模な統合を発表しました。",
+   "これまではグループや地域ごとに分かれて展開されていましたが、今後は一つの「hololive」として新たに展開されることになります。",
+   "今回のブランド統合により、ファンや視聴者に向けてどのような新しい体験や展開がもたらされるのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "ホロライブ",
+   "カバー",
+   "VTuber"
+  ],
+  "slug": "cover-corp-hololive-brand-integration",
+  "people": [],
+  "terms": [
+   {
+    "name": "カバー社",
+    "type": "company",
+    "desc": "日本のバーチャルユーチューバー運営会社で、男性・女性VTuberグループ「ホロライブプロダクション」などを手掛ける。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBST09mYmR3S1VCQnRVMDhadF9UUkJLODhSbWxwaFdtQm5iUHhuSnlmdk93UVZuOF9xVGVOVmV3aTk3clVLVWVUMjItUXcxVDE5V3Mydlk4bV9xVWppdEtfNGVNWnJiejE5UHczNFM0OXpmREE4NzVjUFUzQUNBSGc?oc=5",
+  "category": "influencer",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-cover-corp-hololive-brand-integration.html"
+ },
+ {
+  "title": "中国が日本産ジクロロシランに関税措置",
+  "lead": "中国政府は、半導体製造に使われる日本からの輸入品「ジクロロシラン」について、価格が不当に安く抑えられていると発表しました。",
+  "summary3": [
+   "中国政府が日本産ジクロロシランを認定",
+   "価格が不当に安く抑えられていると判断",
+   "事実上の関税措置をとると発表"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、中国政府は半導体の製造工程で使われる化学物質「ジクロロシラン」のうち、日本からの輸入品について価格が不当に安く抑えられていると認定しました。",
+   "これを受けて中国政府は、当該の日本産輸入品に対して事実上の関税措置をとると発表しました。",
+   "半導体の製造に欠かせない関連物質をめぐる今回の動きは、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "半導体",
+   "中国",
+   "経済"
+  ],
+  "slug": "china-imposes-tariff-on-japanese-dichlorosilane",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260908de48891",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-china-imposes-tariff-on-japanese-dichlorosilane.html"
+ },
+ {
+  "title": "金融庁、超長期ローンを重点監視へ",
+  "lead": "金利上昇や住宅価格高騰を背景に返済期間の長い住宅ローンの取り扱いが増える中、金融庁は適切な融資が行われているか金融機関のモニタリングを強化する方針を固めました。",
+  "summary3": [
+   "超長期の住宅ローンが増加傾向",
+   "金利上昇と住宅価格高騰が背景",
+   "金融庁が適切な融資を重点監視"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたNHKのニュースによると、金利の上昇や住宅価格の高騰を背景にして、返済期間の長い住宅ローンの取り扱いが増えていることが明らかになりました。",
+   "これを受けて金融庁は、利用者の収入などに照らして適切なローンが組まれているかどうかなどについて、金融機関を重点的にモニタリングしていく方針を示しています。",
+   "マイホーム購入を検討する人や長期の返済を抱える家計にとって、金融機関の審査姿勢の変化や今後の動向は無視できないニュースと言えます。"
+  ],
+  "tags": [
+   "金融庁",
+   "住宅ローン",
+   "経済"
+  ],
+  "slug": "fsa-monitors-long-term-mortgages",
+  "people": [],
+  "terms": [
+   {
+    "name": "金融庁",
+    "type": "company",
+    "desc": "日本の銀行や証券会社などの金融機関を監督し、金融システムの安定を図る国の行政機関です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260907de48880",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-fsa-monitors-long-term-mortgages.html"
+ },
+ {
+  "title": "日経平均株価続伸、終値1378円高の6万6399円",
+  "lead": "日経平均株価が続伸し、市場の注目を集める値動きとなりました。終値は1378円高の6万6399円となっています。",
+  "summary3": [
+   "日経平均株価が続伸する展開",
+   "終値は1378円高を記録",
+   "終値の株価は6万6399円"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日経平均株価が続伸となりました。市場における本日の取引を終え、その結果に大きな関心が寄せられています。",
+   "日本経済新聞の報道によると、本日の日経平均株価の終値は1378円高となり、数値としては6万6399円を記録しました。前日からの続伸という結果を受けて、市場関係者の間でも詳細な値動きを確認する動きが広がっています。",
+   "今後の株式市場の推移についても、引き続き最新の経済情報や株価の動向に注目が集まることになります。本日の結果は、市場参加者にとって重要な指標の一つとなります。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "日本経済",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-rise-66399",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaE02b0ZfVVBVWUNQWWFBNXY3enlHVTUtdG1TZFVjRnZ2YjFyaDJYa292Q2c0akEtQ2s5c1dmR3pzd0RjdUxzSVZjbEtlNUtFTTVEanJ0Wld3bWtBTzEycWJtY3Voc1QyYzZ5VQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-nikkei-average-rise-66399.html"
+ },
+ {
+  "title": "菅田将暉の長編初監督作を配給へ、アニメ『超かぐや姫！』製作会社が実写映画事業へ本格参入",
+  "lead": "アニメ『超かぐや姫！』の製作会社が実写映画事業へ本格参入することを発表しました。映画会社との資本業務提携を行い、俳優の菅田将暉が長編初監督を務める作品を配給する予定です。",
+  "summary3": [
+   "アニメ『超かぐや姫！』製作会社が実写参入",
+   "映画会社との資本業務提携を実施",
+   "菅田将暉の長編初監督作を配給へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のエンタメ業界ニュースです。アニメ『超かぐや姫！』の製作を手がける企業が、新たに実写映画事業へ本格的に参入することを発表しました。今回の事業拡大に伴い、映画会社との間で資本業務提携を締結したことが明らかになっています。",
+   "本提携の一環として、俳優として広く知られる菅田将暉が手がける長編初監督作品を、同社が配給することが決定しました。製作から配給に至るまでの体制を強化し、実写映画分野においても独自の作品展開を目指す方針とみられます。",
+   "アニメーション分野での実績を持つ製作会社が、実写映画や配給ビジネスへと領域を広げる今回の動きは、業界内でも注目を集めるトピックとなっています。今後の具体的な公開スケジュールや提携の詳細については、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "映画",
+   "アニメ",
+   "エンタメ"
+  ],
+  "slug": "super-kaguya-hime-live-action-entry",
+  "people": [
+   {
+    "name": "菅田将暉",
+    "bio": "俳優、歌手として数多くの映画やドラマに出演し、幅広い世代から高い人気を集める実力派アーティスト。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "超かぐや姫！",
+    "type": "company",
+    "desc": "日本のエンターテインメント業界において話題を集めるアニメ作品、およびその製作を手がける事業体。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISmlyOFJPem04cHplcXlxY0NFaGFIVTdpYVNyb0FvaDREUGJOVzlqWV9ZeFhxYkk3b2FRSDVSQnBqUWlqbzNaTXBGWjZuRWJBYnN6RjZKVW1LanFlZ2cwSTBmQkQtOHZFMkRHWlFJQWE1OE5SYUNwQVhDOG9oS1k?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-08",
+  "time": "07:02",
+  "path": "/articles/20260908-super-kaguya-hime-live-action-entry.html"
  }
 ]

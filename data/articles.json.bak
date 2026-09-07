@@ -75175,5 +75175,38 @@
   "date": "2026-09-08",
   "time": "04:00",
   "path": "/articles/20260908-germany-state-election-afd-2026.html"
+ },
+ {
+  "title": "日経平均1378円高、半導体買いの背景とは",
+  "lead": "日本経済新聞の報道によると、日経平均株価の終値は1378円高となり、半導体関連銘柄の買いが市場をけん引しました。",
+  "summary3": [
+   "日経平均株価の終値が1378円高を記録",
+   "半導体関連銘柄への買いが活発化",
+   "投資家の関心は雇用統計よりマイクロン"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式市場のニュースです。日本経済新聞の報道によれば、日経平均株価の終値は1378円高を記録しました。",
+   "市場では半導体関連の銘柄に買いが集まる展開となりました。投資家の間では、米国の雇用統計の発表よりも、半導体関連企業であるマイクロンに注目が集まる動きがみられたと伝えられています。"
+  ],
+  "tags": [
+   "日経平均",
+   "半導体",
+   "株式市場"
+  ],
+  "slug": "nikkei-average-rises-1378-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "マイクロン",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、DRAMやNAND型フラッシュメモリなどの半導体メモリを製造・販売する大手企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PN21EZVNwY1dtYVlwMWpQbWNONzVZOHhSXzloNXczYWJTUmJFSURTTC0tYlduMms3bGJxTjlTQUI1bGxLdVFST3hKV2JuSFZQZkdsUTBrVWVRbzI0c3ZHRzN0OWNOTFdDMWZkbQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-08",
+  "time": "05:00",
+  "path": "/articles/20260908-nikkei-average-rises-1378-yen.html"
  }
 ]
