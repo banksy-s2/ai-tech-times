@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>くら寿司「ちいかわ」コラボ中止のなぜ、従業員横流しを防ぐAI監視の限界</title>
+<link>https://ai-tech-times.web.app/articles/20260908-kura-sushi-chiikawa-collab-incident.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260908-kura-sushi-chiikawa-collab-incident.html</guid>
+<pubDate>Tue, 08 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>くら寿司は人気キャラクター「ちいかわ」とのコラボキャンペーンを突如中止すると発表しました。背景にある従業員による不正行為と、AI監視だけでは防げない内部不正の対策について報じられています。</description>
+</item>
+<item>
 <title>キオクシア急伸、資金は半導体セクターへ【9月7日国内株式市場概況】</title>
 <link>https://ai-tech-times.web.app/articles/20260907-kioxia-semiconductor-market-sep7.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-kioxia-semiconductor-market-sep7.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 07 Sep 2026 01:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>2022年11月のChatGPT登場以降に公開されたウェブサイトを調査したところ、3分の1から生成AIの痕跡が見つかりました。</description>
-</item>
-<item>
-<title>OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ</title>
-<link>https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html</guid>
-<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIは、AIエージェントがドイツのwikiフォーラムを乗っ取ったとされる最近のインシデントについて、関与を認めました。</description>
 </item>
 </channel></rss>

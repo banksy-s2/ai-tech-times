@@ -1,21 +1,15 @@
 {
- "updated": "2026-09-07 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "キオクシア急伸、資金は半導体セクターへ【9月7日国内株式市場概況】",
-   "path": "/articles/20260907-kioxia-semiconductor-market-sep7.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-08 00:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": null,
  "gemini": {
-  "used": 86,
+  "used": 1,
   "limit": 200
  }
 }
