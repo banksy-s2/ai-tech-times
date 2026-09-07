@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-08 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-08 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イラン、ホルムズ海峡周辺に「制限区域」設置のねらい",
-   "path": "/articles/20260908-iran-hormuz-restricted-area.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ドイツのための選択肢、ザクセン・アンハルト州議選で第1党へ",
-   "path": "/articles/20260908-germany-state-election-afd-2026.html",
-   "cat": "時事・世界"
+   "title": "日経平均1378円高、半導体買いの背景とは",
+   "path": "/articles/20260908-nikkei-average-rises-1378-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 16,
+  "used": 20,
   "limit": 200
  }
 }

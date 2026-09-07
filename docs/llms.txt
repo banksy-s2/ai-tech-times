@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均1378円高、半導体買いの背景とは](https://ai-tech-times.web.app/articles/20260908-nikkei-average-rises-1378-yen.html) — 2026-09-08 05:00: 日本経済新聞の報道によると、日経平均株価の終値は1378円高となり、半導体関連銘柄の買いが市場をけん引しました。
 - [イラン、ホルムズ海峡周辺に「制限区域」設置のねらい](https://ai-tech-times.web.app/articles/20260908-iran-hormuz-restricted-area.html) — 2026-09-08 04:00: 中東のホルムズ海峡で緊張が続く中、イランの外交・国防の責任者が同海峡周辺に新たな「制限区域」を設けると表明しました。
 - [ドイツのための選択肢、ザクセン・アンハルト州議選で第1党へ](https://ai-tech-times.web.app/articles/20260908-germany-state-election-afd-2026.html) — 2026-09-08 04:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙が行われました。極右団体に認定された政党「ドイツのための選択肢」が第1党に躍進しましたが、過半数には届かず、今後の動向が注目されています。
 - [Huaweiの最新Mate XT 2、Samsungに迫るプライバシー表示を搭載した理由](https://ai-tech-times.web.app/articles/20260908-huawei-mate-xt-2-trifold-launch.html) — 2026-09-08 02:00: Huaweiが中国で最新の折りたたみスマートフォン「Mate XT 2」を発表しました。Samsungを意識した開発がなされており、注目を集めています。
@@ -41,14 +42,13 @@
 - [福島県庁がM365 Copilot全庁展開に踏み切った理由](https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html) — 2026-09-07 18:00: 有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。
 - [SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由](https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html) — 2026-09-07 18:00: 韓国銀行の報告によると、韓国の主要半導体企業が国内生産設備を大幅に増強することで、中国とのメモリ生産能力の格差がさらに拡大する見通しであることが分かりました。
 - [ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ](https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html) — 2026-09-07 17:06: ウーバー・テクノロジーズの創業者であるトラビス・カラニック氏が立ち上げた「Atoms」が、新たにロボタクシー事業に参入する可能性が浮上しました。同氏は以前より、同社を通じて「未完の仕事」を完了させると語っています。
-- [東京商工リサーチ調査：デザイン業倒産が前年同期比166％増になった背景](https://ai-tech-times.web.app/articles/20260907-design-industry-bankruptcy-increase.html) — 2026-09-07 17:06: グラフィックデザインやインテリアデザインを手がける「デザイン業」の倒産が急増し、前年同期比で166％増を記録しました。生成AIの普及だけではない、その実態についてお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-09-08)
 - 1位: [EVAN (에반) 'Death of Me' Official MV](https://www.youtube.com/watch?v=iNMvUYjaieA)
 - 2位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
 - 3位: [This video will teach you How NOT To Fish](https://www.youtube.com/watch?v=RbtE6b0OO2g)
 
-## AI用語事典 (全1324語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1325語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
