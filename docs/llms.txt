@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 17:06 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ](https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html) — 2026-09-07 17:06: ウーバー・テクノロジーズの創業者であるトラビス・カラニック氏が立ち上げた「Atoms」が、新たにロボタクシー事業に参入する可能性が浮上しました。同氏は以前より、同社を通じて「未完の仕事」を完了させると語っています。
+- [東京商工リサーチ調査：デザイン業倒産が前年同期比166％増になった背景](https://ai-tech-times.web.app/articles/20260907-design-industry-bankruptcy-increase.html) — 2026-09-07 17:06: グラフィックデザインやインテリアデザインを手がける「デザイン業」の倒産が急増し、前年同期比で166％増を記録しました。生成AIの普及だけではない、その実態についてお伝えします。
+- [OpenAI研究員のAI利用は1日100万円超え、なぜここまで使うのか](https://ai-tech-times.web.app/articles/20260907-openai-researchers-ai-usage-cost.html) — 2026-09-07 17:06: OpenAI所属の研究者によるAI利用の実態をまとめたレポートが公開され、最先端研究機関における驚きの使用量が明らかになりました。
+- [アップル、フィル・シラー氏のApp Store撤退と今後の懸念](https://ai-tech-times.web.app/articles/20260907-phil-schiller-app-store-exit.html) — 2026-09-07 17:06: アップルのApp Storeを長年率いてきたフィル・シラー氏が、新CEOであるジョン・ターナス氏の掲げる収益化方針への懸念から撤退したと報じられました。
+- [養殖サーモン栄養低下、環境と気候への深刻な影響とは](https://ai-tech-times.web.app/articles/20260907-farmed-salmon-nutrition-research.html) — 2026-09-07 17:06: Ars Technicaの報道によると、養殖サーモンの栄養価が低下している可能性が新研究で示唆されました。
+- [内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持](https://ai-tech-times.web.app/articles/20260907-economic-indexes-july-kaizen.html) — 2026-09-07 17:06: 内閣府はことし7月の景気動向指数を発表し、景気の現状を示す一致指数が前の月を上回る結果となりました。
+- [日経平均が6万6399円に上昇、プライムの半数超は値下がり](https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-to-66399-yen.html) — 2026-09-07 17:06: 日経平均株価が2営業日連続で上昇し、終値は1378円高の6万6399円となりました。一方で、プライム市場の半数以上の銘柄が値下がりしています。
 - [OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴](https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html) — 2026-09-07 16:01: 米国の有力紙であるシアトル・タイムズとニューズデイが、AIモデルの訓練に無断で記事を使用されたとして、OpenAIとマイクロソフトを提訴しました。
 - [Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張](https://ai-tech-times.web.app/articles/20260907-authors-push-back-on-anthropic-settlement.html) — 2026-09-07 16:01: Anthropicを巡る和解金の分配をめぐり、著者らと出版社の間で激しい主張の対立が起きています。
 - [KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン](https://ai-tech-times.web.app/articles/20260907-activist-target-shift-kadokawa-kyocera.html) — 2026-09-07 15:04: アクティビストの標的が金銭から「取締役の選解任」へ移行し、KADOKAWA、京セラ、ワコムなどの上場企業が揺さぶられています。6月総会での勝敗表などが公開されました。
@@ -35,20 +42,13 @@
 - [中国の習主席訪米、大規模企業団の同行準備が進む理由は](https://ai-tech-times.web.app/articles/20260906-xi-jinping-us-visit-business-delegation.html) — 2026-09-06 22:00: 中国の習近平国家主席が9月にアメリカを訪問し、トランプ大統領との首脳会談を予定していることが分かりました。
 - [ドイツ東部の州議会選挙が開始、極右政党が第1党の見通し](https://ai-tech-times.web.app/articles/20260906-germany-state-election-far-right.html) — 2026-09-06 22:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙の投票が始まりました。移民や難民に対して排他的な政策を掲げる極右政党が第1党となる見通しで、その動向が注目されています。
 - [Google Geminiの計画でハイカー救助、水不足の原因は](https://ai-tech-times.web.app/articles/20260906-hikers-rescued-after-using-google-gemini-for-planning.html) — 2026-09-06 21:04: 登山計画にGoogle Geminiを利用したハイカーグループが救助される事態となりました。生成AIのアドバイスに従った結果、必要な物資が大幅に不足したことが原因とされています。
-- [男性職より女性職がAI自動化リスクの高い理由](https://ai-tech-times.web.app/articles/20260906-female-jobs-higher-ai-automation-risk.html) — 2026-09-06 21:04: 「AIによって仕事が奪われる」と言えば男性の多い職種が想像されがちですが、オーストラリアの研究で意外な事実が判明しました。
-- [VoicyのAI開発でスループット3倍を実現したプロセス監督の2ヶ月とは](https://ai-tech-times.web.app/articles/20260906-voicy-ai-development-throughput-3x.html) — 2026-09-06 21:04: Product Engineering Conferenceにて、Voicy TECH Blogの発表資料が公開されました。「全員が全部やる」体制でスループット3倍を達成した仕組みが注目を集めています。
-- [CNBC、ウォール街のAI株評価厳格化でディフェンシブ株を購入した理由](https://ai-tech-times.web.app/articles/20260906-cnbc-defensive-stocks-ai.html) — 2026-09-06 21:04: 米CNBC Techの報道によると、ウォール街におけるAI株のハードルが上がる中、原油価格や米国債利回りの上昇に対応するため、ポートフォリオにディフェンシブ株を組み入れたことが明らかになりました。
-- [CNBC報道：米トラック業界がAIデータセンター特需に沸く](https://ai-tech-times.web.app/articles/20260906-ai-data-centers-trucker-boom.html) — 2026-09-06 21:04: 米メディアのCNBC Techは、AIデータセンターの建設ラッシュがトラック業界に大きな恩恵をもたらしていると報じました。貿易戦争で打撃を受けた事業者が活況に沸く背景とは何でしょうか。
-- [すしらーめん《りく》が半年かけて動画を創る理由](https://ai-tech-times.web.app/articles/20260906-sushiramen-riku-long-term-video-creation.html) — 2026-09-06 21:04: 登録者1000万人を誇るYouTuberのすしらーめん《りく》が、タイパ時代になぜ半年かけて動画を創るのか、その理由についてYahoo!ニュースの30UNDER30で取り上げられています。
-- [大雨で山手線などが本数減へ、交通への影響回避に確認を](https://ai-tech-times.web.app/articles/20260906-heavy-rain-transportation-impact-september-7.html) — 2026-09-06 21:04: 太平洋側を中心に広い範囲で大雨が降るおそれがあることを受け、交通機関に影響が出ています。生活や移動を守るため、事前の確認が必要です。
-- [米軍、イラン石油タンカー3隻を攻撃なぜ](https://ai-tech-times.web.app/articles/20260906-us-forces-attack-iran-tankers.html) — 2026-09-06 21:04: アメリカ軍は、イランがアメリカ軍の艦艇2隻に対して弾道ミサイルを発射したことへの対抗措置として、イランの石油タンカー3隻を攻撃しました。
 
 ## 世界のバズ動画TOP3 (2026-09-07)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
 - 2位: [Mandaadi - Trailer (Telugu) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi](https://www.youtube.com/watch?v=AHYvLk9QR9I)
 - 3位: [Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)](https://www.youtube.com/watch?v=7xYekUcLRs4)
 
-## AI用語事典 (全1313語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1315語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -62,8 +62,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
-- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
+- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。

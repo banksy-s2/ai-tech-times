@@ -5,6 +5,62 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ</title>
+<link>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ウーバー・テクノロジーズの創業者であるトラビス・カラニック氏が立ち上げた「Atoms」が、新たにロボタクシー事業に参入する可能性が浮上しました。同氏は以前より、同社を通じて「未完の仕事」を完了させると語っています。</description>
+</item>
+<item>
+<title>東京商工リサーチ調査：デザイン業倒産が前年同期比166％増になった背景</title>
+<link>https://ai-tech-times.web.app/articles/20260907-design-industry-bankruptcy-increase.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-design-industry-bankruptcy-increase.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>グラフィックデザインやインテリアデザインを手がける「デザイン業」の倒産が急増し、前年同期比で166％増を記録しました。生成AIの普及だけではない、その実態についてお伝えします。</description>
+</item>
+<item>
+<title>OpenAI研究員のAI利用は1日100万円超え、なぜここまで使うのか</title>
+<link>https://ai-tech-times.web.app/articles/20260907-openai-researchers-ai-usage-cost.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-openai-researchers-ai-usage-cost.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAI所属の研究者によるAI利用の実態をまとめたレポートが公開され、最先端研究機関における驚きの使用量が明らかになりました。</description>
+</item>
+<item>
+<title>アップル、フィル・シラー氏のApp Store撤退と今後の懸念</title>
+<link>https://ai-tech-times.web.app/articles/20260907-phil-schiller-app-store-exit.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-phil-schiller-app-store-exit.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>アップルのApp Storeを長年率いてきたフィル・シラー氏が、新CEOであるジョン・ターナス氏の掲げる収益化方針への懸念から撤退したと報じられました。</description>
+</item>
+<item>
+<title>養殖サーモン栄養低下、環境と気候への深刻な影響とは</title>
+<link>https://ai-tech-times.web.app/articles/20260907-farmed-salmon-nutrition-research.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-farmed-salmon-nutrition-research.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Ars Technicaの報道によると、養殖サーモンの栄養価が低下している可能性が新研究で示唆されました。</description>
+</item>
+<item>
+<title>内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持</title>
+<link>https://ai-tech-times.web.app/articles/20260907-economic-indexes-july-kaizen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-economic-indexes-july-kaizen.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>内閣府はことし7月の景気動向指数を発表し、景気の現状を示す一致指数が前の月を上回る結果となりました。</description>
+</item>
+<item>
+<title>日経平均が6万6399円に上昇、プライムの半数超は値下がり</title>
+<link>https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-to-66399-yen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-to-66399-yen.html</guid>
+<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>日経平均株価が2営業日連続で上昇し、終値は1378円高の6万6399円となりました。一方で、プライム市場の半数以上の銘柄が値下がりしています。</description>
+</item>
+<item>
 <title>OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴</title>
 <link>https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Abliteration.AIが、強力なAIモデルの安全フィルターを簡単に外せるサービスの提供を開始しました。防衛側にも悪意ある者と同じツールを与えることで、サイバーセキュリティの向上を目指すとしています。</description>
-</item>
-<item>
-<title>Meta、最新AI「Muse Spark」利用料を約95%割引へ</title>
-<link>https://ai-tech-times.web.app/articles/20260904-meta-muse-spark-ai-discount.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-meta-muse-spark-ai-discount.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaが開発したコーディング等を行う新型AIモデル「Muse Spark」において、利用者のデータを将来の開発に共有することを条件に、利用料の大幅な割引が提供されることが明らかになりました。</description>
-</item>
-<item>
-<title>OpenAI「GPT-6 Astra」公開、サイバー最高評価のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260904-openai-gpt-6-astra-released.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-openai-gpt-6-astra-released.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>OpenAIは、新モデル「GPT-6 Astra」を一部組織向けに公開しました。サイバーセキュリティ能力が最高評価に達した背景と提供方針をお伝えします。</description>
-</item>
-<item>
-<title>Apple時価総額720兆円のクックCEO退任、新体制の課題とは</title>
-<link>https://ai-tech-times.web.app/articles/20260904-apple-ceo-succession-cook-turnus.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-apple-ceo-succession-cook-turnus.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AppleのCEOを15年務めたティム・クック氏が退任し、ハードウェア責任者のジョン・ターナス氏が新体制のトップに就任しました。時価総額4.5兆ドル超を誇る巨大企業が直面する、AI時代の巻き返しと脱・中国依存の課題に迫ります。</description>
-</item>
-<item>
-<title>Ouraが株式公開へ動く、スマートリング市場の行方は</title>
-<link>https://ai-tech-times.web.app/articles/20260904-oura-files-to-go-public.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-oura-files-to-go-public.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>人気スマートリングを手がけるOuraが、株式公開（IPO）に向けて手続きを行ったことが明らかになりました。過去1年で大幅な売上成長を記録した同社の動向に注目が集まっています。</description>
-</item>
-<item>
-<title>トッテナム、VMware移行でライセンス費用85%削減のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260904-vmware-migration-tottenham-hotspur.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-vmware-migration-tottenham-hotspur.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>英プロサッカーチームのトッテナム・ホットスパーが、VMwareからの移行によりライセンス費用を85%削減したことが明らかになりました。Broadcomによる買収に伴う問題が背景にあると、同チームのCTOが指摘しています。</description>
-</item>
-<item>
-<title>来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは</title>
-<link>https://ai-tech-times.web.app/articles/20260904-budget-request-record-high-143-trillion.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-budget-request-record-high-143-trillion.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>財務省は、国の来年度予算案に向けた概算要求について、各省庁から提出された一般会計の総額が過去最大の143兆656億円になったと発表しました。</description>
-</item>
-<item>
-<title>フォルクスワーゲン、2030年までに5万人の追加削減を承認</title>
-<link>https://ai-tech-times.web.app/articles/20260904-volkswagen-approves-50000-job-cuts.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-volkswagen-approves-50000-job-cuts.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>BBC Worldによると、アウディやポルシェなどを擁するフォルクスワーゲングループが、2030年までにさらに5万人の雇用削減計画を承認しました。総計10万人の削減となる見通しです。</description>
 </item>
 </channel></rss>

@@ -1,66 +1,66 @@
 {
- "week_of": "2026-08-31",
- "range": "2026-08-24 〜 2026-08-31",
+ "week_of": "2026-09-07",
+ "range": "2026-08-31 〜 2026-09-07",
  "items": [
   {
-   "path": "/articles/20260827-nvidia-financial-results-2-2-times.html",
-   "title": "エヌビディア最終利益2.2倍、AI向け半導体好調",
+   "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent.html",
+   "title": "日銀の政策焦点に、長期金利10年もので3%超え",
    "cat": "時事・世界",
-   "comment": "エヌビディアの7月期決算は最終利益が前年同期比2.2倍に急増"
+   "comment": "長期金利が10年国債で約30年ぶりに3％超えを記録した。"
   },
   {
-   "path": "/articles/20260829-yokohama-mayor-resigns.html",
-   "title": "横浜市の山中市長が辞職届提出、10月までに市長選へ",
-   "cat": "時事・世界",
-   "comment": "横浜市の山中竹春市長がパワハラ認定を受け28日に辞職届を提出"
+   "path": "/articles/20260902-nikkei-average-drops-1889-yen.html",
+   "title": "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
+   "cat": "株式投資(日本)",
+   "comment": "世界的な金利高を背景に、日経平均株価の終値が1889円安となった。"
   },
   {
-   "path": "/articles/20260827-heavy-rain-emergency-warning-ishikawa-toyama.html",
-   "title": "石川・富山にレベル5大雨特別警報、最大級の警戒を",
-   "cat": "時事・世界",
-   "comment": "気象庁は石川県と富山県にレベル5の大雨特別警報を発表した"
-  },
-  {
-   "path": "/articles/20260829-anthropic-blacklisted-court-ruling.html",
-   "title": "Anthropic訴訟で勝訴、トランプ政権の排除は違憲と判断",
+   "path": "/articles/20260831-sony-warner-sue-anthropic.html",
+   "title": "ソニーミュージックとワーナー、アンソロピックを提訴",
    "cat": "AI(海外)",
-   "comment": "米連邦地裁はトランプ政権によるアンソロピック排除を違憲と判断"
+   "comment": "ソニーミュージックとワーナーがAI企業のアンソロピックを提訴した。"
   },
   {
-   "path": "/articles/20260829-government-boj-market-intervention-15-trillion-yen.html",
-   "title": "政府・日銀が15兆円規模の市場介入、その裏側にある影響とは",
-   "cat": "時事・世界",
-   "comment": "政府・日銀が7月から8月にかけて総額15兆円規模の市場介入を実施"
-  },
-  {
-   "path": "/articles/20260827-chubu-denryo-hamaoka-nuclear-plant-falsification.html",
-   "title": "中部電力、浜岡原発の廃炉費用報告書で不正改ざん",
-   "cat": "時事・世界",
-   "comment": "中部電力は浜岡原発の廃炉費用報告書で不正改ざんがあったと発表"
-  },
-  {
-   "path": "/articles/20260828-kioxia-5-trillion-yen-investment-japan.html",
-   "title": "キオクシア、2032年までに日本へ5兆円投資する理由",
-   "cat": "日本企業",
-   "comment": "キオクシアは岩手県の工場で新製造棟の建設準備を開始し国内投資へ"
-  },
-  {
-   "path": "/articles/20260827-nvidia-acquires-hugging-face-12-9b.html",
-   "title": "Nvidia、Hugging Faceを129億ドルで買収合意",
+   "path": "/articles/20260902-apple-john-ternus-new-ceo.html",
+   "title": "アップル新CEOにジョン・ターナス氏、ティム・クック氏の後任として9月1日付で就任",
    "cat": "シリコンバレー最速",
-   "comment": "NvidiaがオープンソースAIプラットフォームの買収で合意"
+   "comment": "アップルの新最高経営責任者（CEO）にジョン・ターナス氏が就任した。"
   },
   {
-   "path": "/articles/20260829-sandwichman-date-mikio-stroke-news.html",
-   "title": "サンドウィッチマン伊達みきお脳梗塞で休養、今後の活動は",
+   "path": "/articles/20260904-minimum-wage-increase-sme-support.html",
+   "title": "全国平均時給1177円へ引き上げ、中小企業への支援はどうなる",
    "cat": "時事・世界",
-   "comment": "サンドウィッチマンの伊達みきおが脳梗塞と診断され当面休養へ"
+   "comment": "最低賃金が引き上げられ、全国平均の時給が1177円になる。"
   },
   {
-   "path": "/articles/20260829-rapidus-2nm-semiconductor-strategy.html",
-   "title": "ラピダス小池社長が明かす、2ナノ半導体でTSMCに勝つ短納期の勝算",
+   "path": "/articles/20260831-us-iran-direct-attacks-hormuz.html",
+   "title": "アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が",
+   "cat": "時事・世界",
+   "comment": "アメリカ軍とイラン革命防衛隊がホルムズ海峡で直接攻撃を交わした。"
+  },
+  {
+   "path": "/articles/20260902-kyuden-hd-listing-october-1.html",
+   "title": "キューデンHD、10月1日に東証プライム・福証へ上場",
+   "cat": "日本企業",
+   "comment": "キューデンHDが10月1日に東証プライムおよび福証へ上場する。"
+  },
+  {
+   "path": "/articles/20260831-iown-jsdf-communication-network.html",
+   "title": "防衛省、自衛隊通信網にNTTの次世代基盤「IOWN」導入へ",
    "cat": "日本のAI",
-   "comment": "ラピダスは2ナノ半導体の量産化に向け旺盛なAI需要で勝算を示す"
+   "comment": "防衛省が自衛隊通信網にNTTの次世代光通信基盤IOWNを導入する方針。"
+  },
+  {
+   "path": "/articles/20260902-bessent-supports-boj-policy-against-yen-depreciation.html",
+   "title": "ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」",
+   "cat": "株式投資(日本)",
+   "comment": "米財務長官が日銀総裁と会談し、円安対策の金融政策を支持した。"
+  },
+  {
+   "path": "/articles/20260901-corporate-recurring-profit-max-2026.html",
+   "title": "財務省発表：国内企業の4〜6月経常利益が24.6％増の44兆円超えで過去最高を更新",
+   "cat": "日本企業",
+   "comment": "4～6月の国内企業の経常利益が過去最高を更新した。"
   }
  ]
 }

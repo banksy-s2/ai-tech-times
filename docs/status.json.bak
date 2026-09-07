@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-07 15:04",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-07 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン",
-   "path": "/articles/20260907-activist-target-shift-kadokawa-kyocera.html",
-   "cat": "日本企業"
+   "title": "OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴",
+   "path": "/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張",
+   "path": "/articles/20260907-authors-push-back-on-anthropic-settlement.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 25,
   "limit": 200
  }
 }
