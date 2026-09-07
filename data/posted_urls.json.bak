@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dXlDTmlhTjA2UjNFNHEtMXU4bElPQXRxNEhYUWR2X0ZjQkdPUWUxTVl2MFJ6MGlIZXJPWXhDYjBjTlcwbEZfN0V3djljbzA4bHlLN3NyNFNMcXBEVlp3cHJzcjAyQnhvTGt0ZWJteDdyRE1rZ3hxRHJIRUQxdm8?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IRVViYm94Mk1PX2dncVoyUmpOc2ktdGZEQWZVZEJuaXpoMHdZa3JDeGh0WFV1Nlo2Z2pSLTY0XzFXSHR0anRoQVQwbXE1NDZDLUZKSHh5VQ?oc=5",
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUl6cjBUM2JTeGhTYnl6cEJ2N1BQU19Gb3hCNU1aZE43d2lUVDFyQkRjZEVJTnRMRnlOY3drMUpMRDZ1V29iMC1oeWJfekFteDluY0VVSlhaWWVsMjFxLWlzd0FLUGFQeGt3TDRYaV9oVFhacGhGbHZkUk40eDc0SGN0VVNmak5STXctOEtvWEMxU0ZDVTZ4WkxCQ2dBZTVmYzNJUkVFdDE4aGhLUXM2TDBSWnp2OFpDR1VLbUpBMUxRUkxkek90WUc2QVJ1V1o2WVRGRkdCQzIxU3dR0gGMAUFVX3lxTE4xUXZ0bmZEbndvNDNJenpvUEMtRWNpbm05dzhhQllXcW51d2dxb096ZVpXZmx4cTN1ZHRYRnVBRlQtcjViY2JleFFOQXlvRWFEd3o2X3MwN2hFd3NkUkRoWDQxaVFqdWRUNmpCWWFMMkNiNURTVGNmdVlKS3VucGV4TnE0RmlKUkhXS214?oc=5",
   "https://www.cnn.co.jp/tech/35250893.html",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260906de48502",
   "https://www.nikkei.com/article/DGXZQOUB218SR0R20C26A8000000/",
   "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-  "https://gigazine.net/news/20260906-web-ai-signs/"
+  "https://gigazine.net/news/20260906-web-ai-signs/",
+  "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+  "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
  ],
  "titles": [
-  "円安の日本をアメリカが｢協調為替介入｣で助ける理由…\"弱い円\"は国境を超えて問題を引き起こす | 政治・経済・投資 | 東洋経済オンライン",
-  "【花王 FY2026 Q2 決算説明会】花王、上期営業益39％増の958億円で過去最高、通期を1900億円に上方修正 長谷部社長「稼ぐ力の定着を確認」 - BigGo ファイナンス",
-  "Googleが大規模AI組織再編、その舞台裏にあるもの",
-  "韓国と台湾の輸出額、初の日本超えなぜ",
   "さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始",
   "Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに",
   "ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ",
@@ -4001,6 +3997,10 @@
   "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
   "OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ",
   "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
-  "ChatGPT登場後のウェブサイト3分の1にAIの痕跡"
+  "ChatGPT登場後のウェブサイト3分の1にAIの痕跡",
+  "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+  "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+  "OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由",
+  "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ"
  ]
 }

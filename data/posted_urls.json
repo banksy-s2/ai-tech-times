@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IRVViYm94Mk1PX2dncVoyUmpOc2ktdGZEQWZVZEJuaXpoMHdZa3JDeGh0WFV1Nlo2Z2pSLTY0XzFXSHR0anRoQVQwbXE1NDZDLUZKSHh5VQ?oc=5",
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUl6cjBUM2JTeGhTYnl6cEJ2N1BQU19Gb3hCNU1aZE43d2lUVDFyQkRjZEVJTnRMRnlOY3drMUpMRDZ1V29iMC1oeWJfekFteDluY0VVSlhaWWVsMjFxLWlzd0FLUGFQeGt3TDRYaV9oVFhacGhGbHZkUk40eDc0SGN0VVNmak5STXctOEtvWEMxU0ZDVTZ4WkxCQ2dBZTVmYzNJUkVFdDE4aGhLUXM2TDBSWnp2OFpDR1VLbUpBMUxRUkxkek90WUc2QVJ1V1o2WVRGRkdCQzIxU3dR0gGMAUFVX3lxTE4xUXZ0bmZEbndvNDNJenpvUEMtRWNpbm05dzhhQllXcW51d2dxb096ZVpXZmx4cTN1ZHRYRnVBRlQtcjViY2JleFFOQXlvRWFEd3o2X3MwN2hFd3NkUkRoWDQxaVFqdWRUNmpCWWFMMkNiNURTVGNmdVlKS3VucGV4TnE0RmlKUkhXS214?oc=5",
   "https://www.cnn.co.jp/tech/35250893.html",
   "https://togetter.com/li/2723530",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
   "https://gigazine.net/news/20260906-web-ai-signs/",
   "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-  "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
+  "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+  "https://news.web.nhk/newsweb/na/nd-20260907de48746"
  ],
  "titles": [
-  "さくらのAI Engine、PFN「PLaMo 3.0 Prime」提供開始",
-  "Snowflakeハッキング事件、Connor Moucka被告が有罪答弁で明らかに",
   "ソフトバンク、市場予想上回るQ1利益　インテルから82億ドル押し上げ",
   "SNOWでステマ、インフルエンサーら72人が電子ギフト券提供",
   "熊本地震を激甚災害に指定、自治体費用はなぜ支援されるか",
@@ -4001,6 +3999,8 @@
   "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
   "Tesla’s Cybercab has been deployed, and it’s already under investigation",
   "OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由",
-  "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ"
+  "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ",
+  "8月末の外貨準備高は12兆円余減少 市場介入で減少幅最大",
+  "外貨準備高が12兆円余減少、市場介入で過去最大に"
  ]
 }
