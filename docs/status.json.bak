@@ -1,21 +1,59 @@
 {
- "updated": "2026-09-07 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-07 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "NHK番組出演の彬子さま、ブータン訪問に同行した人物とは",
-   "path": "/articles/20260907-akiko-sama-nhk-program.html",
+   "title": "アップルMacはなぜ売れる？金融・航空が手元でAIを選ぶ理由",
+   "path": "/articles/20260907-apple-mac-ai-business.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Microsoft CopilotでWord文書を介したAIウイルス感染の脅威",
+   "path": "/articles/20260907-copilot-word-ai-virus-threat.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "The Vergeの「DIYプラグイン太陽光」なぜアメリカで急拡大？",
+   "path": "/articles/20260907-diy-plug-in-solar-gains-momentum-us.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon貨物機がマイアミ空港で着陸失敗、複数の負傷者",
+   "path": "/articles/20260907-amazon-cargo-plane-crash-miami.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "板友美のホテルvlogが大炎上、なぜ撮影許可を巡り意見が対立したのか",
+   "path": "/articles/20260907-itano-tomomi-vlog-controversy.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "中国政府、経済支援へ540億ドル投入なぜ？",
+   "path": "/articles/20260907-china-pump-54bn-state-banks.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均が一時1600円超値上がり、先週末のNY市場の半導体株高を受け半導体関連や電子部品に買い注文",
+   "path": "/articles/20260907-nikkei-average-rises-over-1600-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "商船三井、経常利益2,250億円へ上方修正の背景",
+   "path": "/articles/20260907-mitsui-osk-lines-fy2026-q1-earnings.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Australians will be able to switch off s",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 59,
+  "used": 79,
   "limit": 200
  }
 }
