@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [キオクシア急伸、資金は半導体セクターへ【9月7日国内株式市場概況】](https://ai-tech-times.web.app/articles/20260907-kioxia-semiconductor-market-sep7.html) — 2026-09-07 23:00: 9月7日の国内株式市場において、資金が半導体セクターへ移動する動きが見られ、〈キオクシア〉が急伸しました。Yahoo!ニュースの「日本株・市場」が伝えています。
 - [アマゾン貨物機が滑走路オーバーラン、フロリダ州で5人死亡の理由](https://ai-tech-times.web.app/articles/20260907-amazon-cargo-plane-accident-florida.html) — 2026-09-07 22:00: アメリカ南部フロリダ州の空港で、アマゾンの貨物機が着陸時に滑走路をオーバーランし、複数の車両に衝突する事故が発生しました。この事故で5人が死亡し、航空当局などが原因を調べています。
 - [アップルMacはなぜ売れる？金融・航空が手元でAIを選ぶ理由](https://ai-tech-times.web.app/articles/20260907-apple-mac-ai-business.html) — 2026-09-07 21:03: アップルのMacが今、なぜ売れているのでしょうか。金融や航空業界がクラウドではなく「手元で動くAI」としてMacを選ぶ深い理由を解説します。
 - [Microsoft CopilotでWord文書を介したAIウイルス感染の脅威](https://ai-tech-times.web.app/articles/20260907-copilot-word-ai-virus-threat.html) — 2026-09-07 21:03: 仕事で「Microsoft Copilot」が使われるようになる中、Word文書を介して感染が広がる新しい脅威が見つかりました。生成AIを業務で導入する企業にとって、大きな警戒が必要となっています。
@@ -41,7 +42,6 @@
 - [アップル、フィル・シラー氏のApp Store撤退と今後の懸念](https://ai-tech-times.web.app/articles/20260907-phil-schiller-app-store-exit.html) — 2026-09-07 17:06: アップルのApp Storeを長年率いてきたフィル・シラー氏が、新CEOであるジョン・ターナス氏の掲げる収益化方針への懸念から撤退したと報じられました。
 - [養殖サーモン栄養低下、環境と気候への深刻な影響とは](https://ai-tech-times.web.app/articles/20260907-farmed-salmon-nutrition-research.html) — 2026-09-07 17:06: Ars Technicaの報道によると、養殖サーモンの栄養価が低下している可能性が新研究で示唆されました。
 - [内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持](https://ai-tech-times.web.app/articles/20260907-economic-indexes-july-kaizen.html) — 2026-09-07 17:06: 内閣府はことし7月の景気動向指数を発表し、景気の現状を示す一致指数が前の月を上回る結果となりました。
-- [日経平均が6万6399円に上昇、プライムの半数超は値下がり](https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-to-66399-yen.html) — 2026-09-07 17:06: 日経平均株価が2営業日連続で上昇し、終値は1378円高の6万6399円となりました。一方で、プライム市場の半数以上の銘柄が値下がりしています。
 
 ## 世界のバズ動画TOP3 (2026-09-07)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
@@ -62,9 +62,9 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
