@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vVkM5ZUlCak5McVYtdnN2clE4d3FBX25za3FvaXd2SWVlVHRDUU9GY0xBeVI5X0dwRHNFSXV4aHROMExZaGhYaDQyODJ2ajMtNE9ueEJxT25BVkI2Qy1ZWjIweHlHcWpjSnJRTlN2V3pBQkw2YmRYbC1hUmVGVEU?oc=5",
   "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html",
   "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
   "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
   "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
   "https://news.web.nhk/newsweb/na/nd-20260907de48739",
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZTBQT2FIeHNiLUpNTkstQTd6eVpFNWN2a0cwRXp0bTBDdmtoVDBsaHNkUS1OX1BCX1YtSzB4dUlkSG9ScExFa2wyZnZORHhJV1lVWHV1QWFkdFBkSDZWQ012Q2Y?oc=5"
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LZTBQT2FIeHNiLUpNTkstQTd6eVpFNWN2a0cwRXp0bTBDdmtoVDBsaHNkUS1OX1BCX1YtSzB4dUlkSG9ScExFa2wyZnZORHhJV1lVWHV1QWFkdFBkSDZWQ012Q2Y?oc=5",
+  "https://kn.itmedia.co.jp/kn/article/2609/07/2000000807/",
+  "https://gigazine.net/news/20260907-south-korea-memory-chip/"
  ],
  "titles": [
-  "TOPIX史上最大の見直しで小型株が大量除外へ、生き残り懸け夏の陣（Bloomberg） - Yahoo!ニュース",
-  "【5020.T FY2026 Q1 決算説明会】営業利益9.6倍の4826億円、米TPC買収でブタジエン世界3位へ - BigGo ファイナンス",
-  "フロリダ州でAIデータセンター建設が1年間停止に",
-  "Suno、AI音楽のスパム拡散を防ぐ新透かし技術と方針を発表",
   "HR総研調査：就活生の97％が生成AI利用、面接で追及される現実",
   "米議員が警鐘、AIモデルの暴走防ぐ「キルスイッチ」法案の行方",
   "イーロン・マスクのDOGE、連邦政府の削減額1100億ドルを水増し",
@@ -4001,6 +3997,10 @@
   "アップル、フィル・シラー氏のApp Store撤退と今後の懸念",
   "養殖サーモン栄養低下、環境と気候への深刻な影響とは",
   "内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持",
-  "日経平均が6万6399円に上昇、プライムの半数超は値下がり"
+  "日経平均が6万6399円に上昇、プライムの半数超は値下がり",
+  "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略",
+  "韓国のメモリ生産能力が2028年までに月60万枚増加、中国CXMTは月30万枚増で韓国との差がさらに拡大する見込み",
+  "福島県庁がM365 Copilot全庁展開に踏み切った理由",
+  "SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由"
  ]
 }
