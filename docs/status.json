@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-08 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日経平均1378円高、半導体買いの背景とは",
-   "path": "/articles/20260908-nikkei-average-rises-1378-yen.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-08 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: サーバーワークスグループとＢＩＰＲＯＧＹ、クラウド・生成ＡＩで業務提携、５年後１"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 20,
+  "used": 24,
   "limit": 200
  }
 }
