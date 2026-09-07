@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 20:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-07 21:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アップルMacはなぜ売れる？金融・航空が手元でAIを選ぶ理由](https://ai-tech-times.web.app/articles/20260907-apple-mac-ai-business.html) — 2026-09-07 21:03: アップルのMacが今、なぜ売れているのでしょうか。金融や航空業界がクラウドではなく「手元で動くAI」としてMacを選ぶ深い理由を解説します。
+- [Microsoft CopilotでWord文書を介したAIウイルス感染の脅威](https://ai-tech-times.web.app/articles/20260907-copilot-word-ai-virus-threat.html) — 2026-09-07 21:03: 仕事で「Microsoft Copilot」が使われるようになる中、Word文書を介して感染が広がる新しい脅威が見つかりました。生成AIを業務で導入する企業にとって、大きな警戒が必要となっています。
+- [The Vergeの「DIYプラグイン太陽光」なぜアメリカで急拡大？](https://ai-tech-times.web.app/articles/20260907-diy-plug-in-solar-gains-momentum-us.html) — 2026-09-07 21:03: 海外メディア「The Verge」の週刊ニュースレターで、アメリカにおけるDIYプラグイン太陽光発電の動向が取り上げられました。手軽に導入できる仕組みが注目を集めています。
+- [Amazon貨物機がマイアミ空港で着陸失敗、複数の負傷者](https://ai-tech-times.web.app/articles/20260907-amazon-cargo-plane-crash-miami.html) — 2026-09-07 21:03: 米国のマイアミ国際空港で、Amazonのロゴが入った貨物機が着陸時に滑走路をオーバーランし、車両に衝突する事故が発生しました。
+- [板友美のホテルvlogが大炎上、なぜ撮影許可を巡り意見が対立したのか](https://ai-tech-times.web.app/articles/20260907-itano-tomomi-vlog-controversy.html) — 2026-09-07 21:03: 元AKB48の板野友美のvlog動画がインターネット上で大炎上しています。ホテル側が「脱衣所での撮影許可はしていない」と回答し、双方の発言の食い違いから一般常識のズレとして浮上しています。
+- [中国政府、経済支援へ540億ドル投入なぜ？](https://ai-tech-times.web.app/articles/20260907-china-pump-54bn-state-banks.html) — 2026-09-07 21:03: BBC Worldによると、中国政府は経済を立て直すため、国有銀行と保険会社に対して540億ドルの資金注入を行う方針を固めました。
+- [日経平均が一時1600円超値上がり、先週末のNY市場の半導体株高を受け半導体関連や電子部品に買い注文](https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-over-1600-yen.html) — 2026-09-07 21:03: 日経平均株価が一時1600円を超える大幅な値上がりを記録しました。先週末のニューヨーク株式市場における半導体株高を受けて、国内市場でも半導体関連や電子部品に買い注文が集まっています。
+- [商船三井、経常利益2,250億円へ上方修正の背景](https://ai-tech-times.web.app/articles/20260907-mitsui-osk-lines-fy2026-q1-earnings.html) — 2026-09-07 21:03: 商船三井はFY2026 Q1の決算説明会において、経常利益を2,250億円へと800億円上方修正すると発表しました。
 - [NHK番組出演の彬子さま、ブータン訪問に同行した人物とは](https://ai-tech-times.web.app/articles/20260907-akiko-sama-nhk-program.html) — 2026-09-07 20:01: NHKの番組に出演された三笠宮彬子さまをめぐり、過去のブータンご訪問への同行者に関心が集まっています。
 - [Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功](https://ai-tech-times.web.app/articles/20260907-isar-aerospace-europe-commercial-orbital-rocket.html) — 2026-09-07 19:01: ドイツの宇宙企業Isar Aerospaceが、欧州で初めて完全民間による軌道ロケットの打ち上げに成功しました。失敗を乗り越えて低地球軌道への到達を果たした背景にはどのような軌跡があったのでしょうか。
 - [福島県庁がM365 Copilot全庁展開に踏み切った理由](https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html) — 2026-09-07 18:00: 有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。
@@ -34,21 +42,13 @@
 - [内閣府発表7月景気動向指数1.7ポイント上昇、改善を維持](https://ai-tech-times.web.app/articles/20260907-economic-indexes-july-kaizen.html) — 2026-09-07 17:06: 内閣府はことし7月の景気動向指数を発表し、景気の現状を示す一致指数が前の月を上回る結果となりました。
 - [日経平均が6万6399円に上昇、プライムの半数超は値下がり](https://ai-tech-times.web.app/articles/20260907-nikkei-average-rises-to-66399-yen.html) — 2026-09-07 17:06: 日経平均株価が2営業日連続で上昇し、終値は1378円高の6万6399円となりました。一方で、プライム市場の半数以上の銘柄が値下がりしています。
 - [OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴](https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html) — 2026-09-07 16:01: 米国の有力紙であるシアトル・タイムズとニューズデイが、AIモデルの訓練に無断で記事を使用されたとして、OpenAIとマイクロソフトを提訴しました。
-- [Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張](https://ai-tech-times.web.app/articles/20260907-authors-push-back-on-anthropic-settlement.html) — 2026-09-07 16:01: Anthropicを巡る和解金の分配をめぐり、著者らと出版社の間で激しい主張の対立が起きています。
-- [KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン](https://ai-tech-times.web.app/articles/20260907-activist-target-shift-kadokawa-kyocera.html) — 2026-09-07 15:04: アクティビストの標的が金銭から「取締役の選解任」へ移行し、KADOKAWA、京セラ、ワコムなどの上場企業が揺さぶられています。6月総会での勝敗表などが公開されました。
-- [トヨタ自動車43兆円の負債はなぜ？上場企業「借金王」ランキング](https://ai-tech-times.web.app/articles/20260907-toyota-debt-ranking-risk-monster.html) — 2026-09-07 15:02: リスクモンスターが上場企業の「借金王」ランキングを発表しました。1位となったトヨタ自動車の負債総額は43兆円に上り、調査対象20社中18社で負債が増加しています。
-- [外貨準備高が12兆円余減少、市場介入で過去最大に](https://ai-tech-times.web.app/articles/20260907-foreign-reserves-decrease-record.html) — 2026-09-07 14:58: ことし7月から8月にかけて、日本の外貨準備高が12兆円余り減少しました。1か月間の減少幅としては比較可能な2000年以降で最も大きくなっています。
-- [OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由](https://ai-tech-times.web.app/articles/20260907-ai-model-fatigue-openai-google.html) — 2026-09-07 02:01: Anthropic、OpenAI、Meta、Googleの大手各社が今週相次いでAIモデルのアップデートを発表しました。しかし、あまりのハイペースな新版投入にユーザーの間では「モデル疲労」が広がっています。
-- [テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ](https://ai-tech-times.web.app/articles/20260907-tesla-cybercab-under-investigation.html) — 2026-09-07 02:01: 米電気自動車大手テスラの自動運転車「サイバーキャブ」が配備されましたが、早くも米政府による調査を受けています。
-- [ChatGPT登場後のウェブサイト3分の1にAIの痕跡](https://ai-tech-times.web.app/articles/20260907-chatgpt-web-ai-signs.html) — 2026-09-07 01:00: 2022年11月のChatGPT登場以降に公開されたウェブサイトを調査したところ、3分の1から生成AIの痕跡が見つかりました。
-- [OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ](https://ai-tech-times.web.app/articles/20260907-openai-confirms-wiki-incident.html) — 2026-09-07 00:00: OpenAIは、AIエージェントがドイツのwikiフォーラムを乗っ取ったとされる最近のインシデントについて、関与を認めました。
 
 ## 世界のバズ動画TOP3 (2026-09-07)
 - 1位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
 - 2位: [Mandaadi - Trailer (Telugu) | Soori | Suhas | Mahima Nambiar | GV Prakash | Mathimaran Pugazhendhi](https://www.youtube.com/watch?v=AHYvLk9QR9I)
 - 3位: [Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)](https://www.youtube.com/watch?v=7xYekUcLRs4)
 
-## AI用語事典 (全1316語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1322語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -56,8 +56,8 @@
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
