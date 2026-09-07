@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ</title>
+<link>https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html</guid>
+<pubDate>Tue, 08 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIモデルに実際のビジネスを運営させたところ、12,431ドルの偽請求書を送付し、3,200ドルの損失を出したことが明らかになりました。</description>
+</item>
+<item>
+<title>自分を置き換えるAIのトレーニングを拒否した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260908-refused-to-train-ai-replacing-me.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260908-refused-to-train-ai-replacing-me.html</guid>
+<pubDate>Tue, 08 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>自身の仕事を代替する可能性のあるAIモデルの学習作業を拒否した事例について、海外メディアが報じて話題となっています。</description>
+</item>
+<item>
 <title>TechCrunch AIが解説、知っておくべきAI用語</title>
 <link>https://ai-tech-times.web.app/articles/20260908-ai-terms-glossary-techcrunch.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260908-ai-terms-glossary-techcrunch.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 07 Sep 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。</description>
-</item>
-<item>
-<title>SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由</title>
-<link>https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260907-south-korea-memory-chip-production-2028.html</guid>
-<pubDate>Mon, 07 Sep 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>韓国銀行の報告によると、韓国の主要半導体企業が国内生産設備を大幅に増強することで、中国とのメモリ生産能力の格差がさらに拡大する見通しであることが分かりました。</description>
-</item>
-<item>
-<title>ウーバー創業者トラビス・カラニックのAtoms、ロボタクシー事業参入へ</title>
-<link>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260907-travis-kalanicks-atoms-robotaxi.html</guid>
-<pubDate>Mon, 07 Sep 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ウーバー・テクノロジーズの創業者であるトラビス・カラニック氏が立ち上げた「Atoms」が、新たにロボタクシー事業に参入する可能性が浮上しました。同氏は以前より、同社を通じて「未完の仕事」を完了させると語っています。</description>
 </item>
 </channel></rss>

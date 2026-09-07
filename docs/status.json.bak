@@ -1,17 +1,68 @@
 {
- "updated": "2026-09-08 06:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-08 07:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "TechCrunch AIが解説、知っておくべきAI用語",
+   "path": "/articles/20260908-ai-terms-glossary-techcrunch.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "アイシン、レクサスESにAIサス技術採用で乗り心地10%向上",
+   "path": "/articles/20260908-aisin-lexus-es-ai-suspension.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Highlandersの国産四足歩行ロボ、段差昇降のデモ公開",
+   "path": "/articles/20260908-highlanders-quadruped-robot-hlq-edge.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アウディの新型EV「A2 E-tron」はなぜ安さと効率を両立できたのか",
+   "path": "/articles/20260908-audi-a2-etron-ev-announced.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon貨物機墜落事故、滑走路から400m超過の背景",
+   "path": "/articles/20260908-amazon-cargo-jet-crash-ntsb-update.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "カバー社がVTuberブランド統合を発表、一つの「hololive」として展開へ",
+   "path": "/articles/20260908-cover-corp-hololive-brand-integration.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "中国が日本産ジクロロシランに関税措置",
+   "path": "/articles/20260908-china-imposes-tariff-on-japanese-dichlorosilane.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "金融庁、超長期ローンを重点監視へ",
+   "path": "/articles/20260908-fsa-monitors-long-term-mortgages.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均株価続伸、終値1378円高の6万6399円",
+   "path": "/articles/20260908-nikkei-average-rise-66399.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "菅田将暉の長編初監督作を配給へ、アニメ『超かぐや姫！』製作会社が実写映画事業へ本格参入",
+   "path": "/articles/20260908-super-kaguya-hime-live-action-entry.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
  "notes": [
-  "執筆失敗: サーバーワークスグループとＢＩＰＲＯＧＹ、クラウド・生成ＡＩで業務提携、５年後１"
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 24,
+  "used": 47,
   "limit": 200
  }
 }

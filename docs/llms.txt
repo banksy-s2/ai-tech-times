@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ](https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html) — 2026-09-08 08:00: AIモデルに実際のビジネスを運営させたところ、12,431ドルの偽請求書を送付し、3,200ドルの損失を出したことが明らかになりました。
+- [自分を置き換えるAIのトレーニングを拒否した理由](https://ai-tech-times.web.app/articles/20260908-refused-to-train-ai-replacing-me.html) — 2026-09-08 08:00: 自身の仕事を代替する可能性のあるAIモデルの学習作業を拒否した事例について、海外メディアが報じて話題となっています。
 - [TechCrunch AIが解説、知っておくべきAI用語](https://ai-tech-times.web.app/articles/20260908-ai-terms-glossary-techcrunch.html) — 2026-09-08 07:02: AIの急激な普及に伴い、数々の新しい用語やスラングが登場しています。主要な言葉の意味を網羅した用語集が公開されました。
 - [アイシン、レクサスESにAIサス技術採用で乗り心地10%向上](https://ai-tech-times.web.app/articles/20260908-aisin-lexus-es-ai-suspension.html) — 2026-09-08 07:02: アイシンが電子制御サスペンションにおいて、AIを活用してサスペンションの伸縮速度を推定する新技術を開発しました。トヨタ自動車の高級車ブランド「レクサス」の中核セダン「ES」に初めて採用され、走行時の快適性と安定性が高まっています。
 - [Highlandersの国産四足歩行ロボ、段差昇降のデモ公開](https://ai-tech-times.web.app/articles/20260908-highlanders-quadruped-robot-hlq-edge.html) — 2026-09-08 07:02: ロボット開発企業のHighlandersが、国産をうたう四足歩行ロボット「HLQ EDGE」を発表しました。同日に公開されたデモ動画では、段差を昇降する姿が披露されています。
@@ -40,8 +42,6 @@
 - [キオクシア急伸、資金は半導体セクターへ【9月7日国内株式市場概況】](https://ai-tech-times.web.app/articles/20260907-kioxia-semiconductor-market-sep7.html) — 2026-09-07 23:00: 9月7日の国内株式市場において、資金が半導体セクターへ移動する動きが見られ、〈キオクシア〉が急伸しました。Yahoo!ニュースの「日本株・市場」が伝えています。
 - [アマゾン貨物機が滑走路オーバーラン、フロリダ州で5人死亡の理由](https://ai-tech-times.web.app/articles/20260907-amazon-cargo-plane-accident-florida.html) — 2026-09-07 22:00: アメリカ南部フロリダ州の空港で、アマゾンの貨物機が着陸時に滑走路をオーバーランし、複数の車両に衝突する事故が発生しました。この事故で5人が死亡し、航空当局などが原因を調べています。
 - [アップルMacはなぜ売れる？金融・航空が手元でAIを選ぶ理由](https://ai-tech-times.web.app/articles/20260907-apple-mac-ai-business.html) — 2026-09-07 21:03: アップルのMacが今、なぜ売れているのでしょうか。金融や航空業界がクラウドではなく「手元で動くAI」としてMacを選ぶ深い理由を解説します。
-- [Microsoft CopilotでWord文書を介したAIウイルス感染の脅威](https://ai-tech-times.web.app/articles/20260907-copilot-word-ai-virus-threat.html) — 2026-09-07 21:03: 仕事で「Microsoft Copilot」が使われるようになる中、Word文書を介して感染が広がる新しい脅威が見つかりました。生成AIを業務で導入する企業にとって、大きな警戒が必要となっています。
-- [The Vergeの「DIYプラグイン太陽光」なぜアメリカで急拡大？](https://ai-tech-times.web.app/articles/20260907-diy-plug-in-solar-gains-momentum-us.html) — 2026-09-07 21:03: 海外メディア「The Verge」の週刊ニュースレターで、アメリカにおけるDIYプラグイン太陽光発電の動向が取り上げられました。手軽に導入できる仕組みが注目を集めています。
 
 ## 世界のバズ動画TOP3 (2026-09-08)
 - 1位: [EVAN (에반) 'Death of Me' Official MV](https://www.youtube.com/watch?v=iNMvUYjaieA)
