@@ -75080,5 +75080,44 @@
   "date": "2026-09-08",
   "time": "01:00",
   "path": "/articles/20260908-kura-sushi-chiikawa-collab-incident.html"
+ },
+ {
+  "title": "Huaweiの最新Mate XT 2、Samsungに迫るプライバシー表示を搭載した理由",
+  "lead": "Huaweiが中国で最新の折りたたみスマートフォン「Mate XT 2」を発表しました。Samsungを意識した開発がなされており、注目を集めています。",
+  "summary3": [
+   "Huaweiが中国でMate XT 2を発表",
+   "Samsungを意識した内向き折りたたみを採用",
+   "折りたたみ端末初のプライバシー表示機能を搭載"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。中国において、Huaweiが同社にとって3機種目となる最新の三つ折りスマートフォン「Mate XT 2」をリリースしました。今回の開発にあたっては、明らかにSamsungの存在を意識していたことが窺えます。",
+   "Mate XT 2は、Samsungの「Galaxy Z TriFold」ですでに採用されている内向きの折りたたみフォームファクターを取り入れています。これにより、これまでの端末とは一線を画すデザインと使い勝手を実現しています。",
+   "さらに大きな特徴として、折りたたみスマートフォンとしては初めて、プライバシーを強化するディスプレイが搭載されました。この仕様もSamsungの製品によく似たものとなっており、今後のモバイル市場における動向に大きな影響を与えそうです。"
+  ],
+  "tags": [
+   "Huawei",
+   "Samsung",
+   "スマートフォン"
+  ],
+  "slug": "huawei-mate-xt-2-trifold-launch",
+  "people": [],
+  "terms": [
+   {
+    "name": "Huawei",
+    "type": "company",
+    "desc": "中国に本拠地を置き、スマートフォンや通信機器などを広く手掛ける大手テクノロジー企業です。"
+   },
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国に本拠地を置き、スマートフォンや半導体などで世界的に知られる大手総合家電メーカーです。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "02:00",
+  "path": "/articles/20260908-huawei-mate-xt-2-trifold-launch.html"
  }
 ]

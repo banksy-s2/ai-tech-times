@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-08 01:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-08 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "くら寿司「ちいかわ」コラボ中止のなぜ、従業員横流しを防ぐAI監視の限界",
-   "path": "/articles/20260908-kura-sushi-chiikawa-collab-incident.html",
-   "cat": "日本のAI"
+   "title": "Huaweiの最新Mate XT 2、Samsungに迫るプライバシー表示を搭載した理由",
+   "path": "/articles/20260908-huawei-mate-xt-2-trifold-launch.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Official Music Video)",
   "url": "https://www.youtube.com/watch?v=FyS5dAywkEo"
  },
- "notes": [
-  "執筆失敗: ケニアの一大ビジネスになっていた「論文のゴーストライター」ビジネスがAIの登場で"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }
