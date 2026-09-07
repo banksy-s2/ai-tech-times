@@ -74178,5 +74178,50 @@
   "date": "2026-09-07",
   "time": "15:02",
   "path": "/articles/20260907-toyota-debt-ranking-risk-monster.html"
+ },
+ {
+  "title": "KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン",
+  "lead": "アクティビストの標的が金銭から「取締役の選解任」へ移行し、KADOKAWA、京セラ、ワコムなどの上場企業が揺さぶられています。6月総会での勝敗表などが公開されました。",
+  "summary3": [
+   "アクティビストの標的が変化",
+   "KADOKAWAなどが対象に",
+   "6月総会の勝敗表を公開"
+  ],
+  "body": [
+   "アクティビスト（物言う株主）の標的が、金銭要求から「取締役の選解任」へと変化していることが分かりました。ダイヤモンド・オンラインの報道によると、KADOKAWA、京セラ、ワコムなどの上場企業がその標的として揺さぶられています。",
+   "記事では、上場企業を揺さぶる「攻撃パターン3類型」が解説されています。また、6月の株主総会における「勝敗表」も公開されており、アクティビストの動向や企業の対応に関心が集まっています。"
+  ],
+  "tags": [
+   "アクティビスト",
+   "上場企業",
+   "KADOKAWA",
+   "京セラ",
+   "ワコム"
+  ],
+  "slug": "activist-target-shift-kadokawa-kyocera",
+  "people": [],
+  "terms": [
+   {
+    "name": "KADOKAWA",
+    "type": "company",
+    "desc": "出版や映像、ゲームなどを手掛ける日本の総合エンターテインメント企業"
+   },
+   {
+    "name": "京セラ",
+    "type": "company",
+    "desc": "京都府に本社を置く、電子部品やセラミックなどを手掛ける大手メーカー"
+   },
+   {
+    "name": "ワコム",
+    "type": "company",
+    "desc": "ペンタブレットやデジタルペン技術で世界的に知られる日本の電気機器メーカー"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43TzNIanhRZ29nVkhRN1JzOGlDTk14TkxmTXpfT2tCMWZfT3RjY1VtM3FkZ2JNNXAtUlFUeXdSdEE2emxfTm9iX0N2WHrSAU9BVV95cUxPU0R2OXNjRXM1Q2xDVERaa1Rlc1hiRXN0dGZxQmlRMFNua3FxQmFyMkJhZ3lwYkU3Z2llSFVJQ25DazFvdUZWZEJJQnM0SWNN?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-07",
+  "time": "15:04",
+  "path": "/articles/20260907-activist-target-shift-kadokawa-kyocera.html"
  }
 ]
