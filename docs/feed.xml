@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴</title>
+<link>https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html</guid>
+<pubDate>Mon, 07 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米国の有力紙であるシアトル・タイムズとニューズデイが、AIモデルの訓練に無断で記事を使用されたとして、OpenAIとマイクロソフトを提訴しました。</description>
+</item>
+<item>
+<title>Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張</title>
+<link>https://ai-tech-times.web.app/articles/20260907-authors-push-back-on-anthropic-settlement.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260907-authors-push-back-on-anthropic-settlement.html</guid>
+<pubDate>Mon, 07 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Anthropicを巡る和解金の分配をめぐり、著者らと出版社の間で激しい主張の対立が起きています。</description>
+</item>
+<item>
 <title>KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン</title>
 <link>https://ai-tech-times.web.app/articles/20260907-activist-target-shift-kadokawa-kyocera.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260907-activist-target-shift-kadokawa-kyocera.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>BBC Worldによると、アウディやポルシェなどを擁するフォルクスワーゲングループが、2030年までにさらに5万人の雇用削減計画を承認しました。総計10万人の削減となる見通しです。</description>
-</item>
-<item>
-<title>三井不動産とNTTドコモが資本業務提携、不動産と通信の融合で何をもたらすのか</title>
-<link>https://ai-tech-times.web.app/articles/20260904-mitsui-fudosan-ntt-docomo-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-mitsui-fudosan-ntt-docomo-capital-business-alliance.html</guid>
-<pubDate>Fri, 04 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本企業</category>
-<description>三井不動産とNTTドコモなどが資本業務提携を締結しました。不動産と通信の融合によって都市の価値向上を目指す取り組みが進められます。</description>
-</item>
-<item>
-<title>インフルエンサーになりすまし不正アクセスの34歳男逮捕、被害100人超か</title>
-<link>https://ai-tech-times.web.app/articles/20260904-influencer-spoofing-sns-unauthorized-access.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260904-influencer-spoofing-sns-unauthorized-access.html</guid>
-<pubDate>Fri, 04 Sep 2026 11:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>人気インフルエンサーになりすまして女性に接触し、アカウント情報を聞き出してSNSへの不正アクセスを繰り返していたとして、会社役員の34歳の男が逮捕されました。被害者は100人を超える可能性があるとみられています。</description>
 </item>
 </channel></rss>

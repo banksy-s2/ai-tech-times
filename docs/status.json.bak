@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-07 15:02",
+ "updated": "2026-09-07 15:04",
  "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "トヨタ自動車43兆円の負債はなぜ？上場企業「借金王」ランキング",
-   "path": "/articles/20260907-toyota-debt-ranking-risk-monster.html",
+   "title": "KADOKAWA・京セラを揺さぶるアクティビストの新たな攻撃パターン",
+   "path": "/articles/20260907-activist-target-shift-kadokawa-kyocera.html",
    "cat": "日本企業"
   }
  ],
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 17,
+  "used": 21,
   "limit": 200
  }
 }

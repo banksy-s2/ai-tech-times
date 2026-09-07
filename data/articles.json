@@ -74223,5 +74223,88 @@
   "date": "2026-09-07",
   "time": "15:04",
   "path": "/articles/20260907-activist-target-shift-kadokawa-kyocera.html"
+ },
+ {
+  "title": "OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴",
+  "lead": "米国の有力紙であるシアトル・タイムズとニューズデイが、AIモデルの訓練に無断で記事を使用されたとして、OpenAIとマイクロソフトを提訴しました。",
+  "summary3": [
+   "シアトル・タイムズとニューズデイが提訴",
+   "無断でのAI訓練データ使用を主張",
+   "過去の類似訴訟と同様の構図に"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、米国の報道機関であるシアトル・タイムズとニューズデイは、AI開発を手がけるOpenAIとマイクロソフトに対して著作権侵害の訴訟を提起しました。両紙は、同社らが自社のジャーナリズムを許可なくAIモデルの訓練データとして使用したと主張しています。",
+   "さらに、ユーザーからの質問に対する回答として、両紙の報道記事内の文章がそのまま再生成されるケースが多く見られるとも訴えています。この動きは、これまでにも同様の理由で提起されてきた一連の訴訟の流れをくむものとなっています。",
+   "今回の訴訟は、AI企業による学習データの収集方法や、生成AIの出力結果における著作権の扱いを巡る法的な議論に、さらなる影響を与える可能性があります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "マイクロソフト",
+   "著作権侵害"
+  ],
+  "slug": "seattle-times-newsday-sue-openai-microsoft",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIサービスなどを提供して世界的に注目を集めています。"
+   },
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカに本拠を置く世界的なIT企業であり、ソフトウェア開発やクラウドサービスを手がけています。"
+   },
+   {
+    "name": "シアトル・タイムズ",
+    "type": "company",
+    "desc": "アメリカ・ワシントン州シアトルを拠点とする日刊新聞を発行する報道機関です。"
+   },
+   {
+    "name": "ニューズデイ",
+    "type": "company",
+    "desc": "アメリカ・ニューヨーク州を主な拠点として地域ニュースを報じる日刊新聞です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "category": "ai",
+  "date": "2026-09-07",
+  "time": "16:01",
+  "path": "/articles/20260907-seattle-times-newsday-sue-openai-microsoft.html"
+ },
+ {
+  "title": "Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張",
+  "lead": "Anthropicを巡る和解金の分配をめぐり、著者らと出版社の間で激しい主張の対立が起きています。",
+  "summary3": [
+   "Anthropic和解金の分配を巡り対立",
+   "出版社側が過大な受け取りを主張と指摘",
+   "著者らは取り分が不当に減ると反発"
+  ],
+  "body": [
+   "AI技術の開発を進めるAnthropicを巡る和解金の支払いをめぐり、新たな火種が生まれています。報道によると、出版社やエージェント側が和解金の大部分を主張している動きに対し、著者らが猛反発を見せているとのことです。",
+   "著者側からは、出版社などが公正な取り分を超えて過大な支払いを受け取ろうとしているという不満の声が上がっています。本来の権利者であるはずの著者たちの取り分が圧迫される事態に、業界内での緊張が高まっています。",
+   "今回の問題は、AI企業とコンテンツホルダーの間で進む金銭的な合意形成において、権利分配の難しさを浮き彫りにしています。今後の話し合いや最終的な合意の行方に、関係者の視線が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "著作権",
+   "AI"
+  ],
+  "slug": "authors-push-back-on-anthropic-settlement",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AI「Claude」などを開発している主要なAI企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+  "category": "ai",
+  "date": "2026-09-07",
+  "time": "16:01",
+  "path": "/articles/20260907-authors-push-back-on-anthropic-settlement.html"
  }
 ]
