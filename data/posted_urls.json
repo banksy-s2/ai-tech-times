@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-  "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
   "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
   "https://kn.itmedia.co.jp/kn/articles/2607/24/news049.html",
   "https://gigazine.net/news/20260725-china-ai-chip/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260909de49205",
   "https://news.web.nhk/newsweb/na/nd-20260909de49197",
   "https://toyokeizai.net/articles/-/957298?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://www.itmedia.co.jp/business/articles/2609/09/news040.html"
+  "https://www.itmedia.co.jp/business/articles/2609/09/news040.html",
+  "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+  "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
  ],
  "titles": [
-  "坂口孝則氏が解説、痩せ薬の流行が食品・酒類株に与えた影響",
-  "キオクシア、村田製、イビデンが対象に：決算プラス・インパクト銘柄を発表",
-  "長野 安曇野で土石流が発生 約390人が取り残されたか",
-  "US offers $1bn to Colombia on new right-wing president's first day of office",
   "長野・安曇野で土石流が発生、約390人が取り残されたか",
   "コロンビア新政権に10億ドル提示、新大統領の宣誓初日に",
   "【続報】東証スタンダード上場ANAP「41億円資金還流」錬金術の実態判明！サイバーステップ社でも同一手口の巨額M＆Aを敢行《再配信》 - ダイヤモンド・オンライン",
@@ -4001,6 +3997,10 @@
   "大手金融グループが個人向けサービス強化で狙う預金獲得の舞台裏",
   "カンナムオンニ、日本ユーザー約4万8000人の情報流出なぜ",
   "日本国債の10年物金利が30年ぶりに3％に到達した理由とは",
-  "ワークマン、リカバリーウェアのスーツ発売で初年度23億円目指す"
+  "ワークマン、リカバリーウェアのスーツ発売で初年度23億円目指す",
+  "Hackers are stealing Claude tokens from subscribers",
+  "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+  "AnthropicのClaudeでハッカーによるトークン盗難が発覚、契約者が気づいた理由",
+  "OpenAI、100万ドルの懸賞金数学難問をめぐり激突"
  ]
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicのClaudeでハッカーによるトークン盗難が発覚、契約者が気づいた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260909-hackers-stealing-claude-tokens.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260909-hackers-stealing-claude-tokens.html</guid>
+<pubDate>Wed, 09 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESの調査により、Anthropic社の提供するAI「Claude」において、ハッカーが契約者のトークンを不正に窃取していることが明らかになりました。ユーザーの財布や利用状況に直接関わる被害として、Anthropic社が注意を呼びかけています。</description>
+</item>
+<item>
+<title>OpenAI、100万ドルの懸賞金数学難問をめぐり激突</title>
+<link>https://ai-tech-times.web.app/articles/20260909-openai-navier-stokes-math-problem.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260909-openai-navier-stokes-math-problem.html</guid>
+<pubDate>Wed, 09 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>数学界の難問であるナビエ・ストークス方程式の解明に向けて、OpenAIが関与したトラブルについてニューヨーク大学の数学者が言及しました。</description>
+</item>
+<item>
 <title>Cognitionが480億ドル評価の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260909-cognition-hits-48b-valuation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260909-cognition-hits-48b-valuation.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 08 Sep 2026 21:06:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>名古屋市は、市内を流れる河川の氾濫の可能性が非常に高まっているとして、「緊急安全確保」の地域を拡大しました。</description>
-</item>
-<item>
-<title>イラン支援勢力が紅海周辺の施設攻撃、情勢悪化の懸念</title>
-<link>https://ai-tech-times.web.app/articles/20260908-red-sea-situation-concerns.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260908-red-sea-situation-concerns.html</guid>
-<pubDate>Tue, 08 Sep 2026 21:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>中東のホルムズ海峡の代替ルートとなっている紅海の周辺で、イランが支援するイエメンの反政府勢力がサウジアラビアのエネルギー施設などを攻撃し、懸念が広がっています。</description>
-</item>
-<item>
-<title>東証プライム・ワースト1位となった世界的ブランド銘柄の正体</title>
-<link>https://ai-tech-times.web.app/articles/20260908-stock-market-september-8.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260908-stock-market-september-8.html</guid>
-<pubDate>Tue, 08 Sep 2026 21:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>9月8日の国内株式市場において、「1ドル＝152円台」の急激な円高が直撃した東証プライムで、ワースト1位となった世界的ブランド銘柄の動向が報じられました。</description>
 </item>
 </channel></rss>

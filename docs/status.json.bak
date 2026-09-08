@@ -1,10 +1,55 @@
 {
- "updated": "2026-09-09 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-09 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ツインエンジン、ヨアケと提携で実写映像事業に参入",
-   "path": "/articles/20260909-twin-engine-live-action-business.html",
+   "title": "Cognitionが480億ドル評価の理由",
+   "path": "/articles/20260909-cognition-hits-48b-valuation.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Meta、新型AI「Muse」を発表。ユーザーの信頼は得られるか",
+   "path": "/articles/20260909-meta-debuts-muse-ai-agent.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIのGPT-6 Astra、約9万円で人気FPSを人間なしクリア",
+   "path": "/articles/20260909-gpt-6-astra-plays-portal.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenBMBの「MiniCPM5-2B」公開、2BなのにGemma 4 12B同等の理由",
+   "path": "/articles/20260909-openbmb-minicpm5-2b-released.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Google再稼働のアイオワ州原子力発電所に米政府が19億ドル融資のなぜ",
+   "path": "/articles/20260909-google-revived-nuclear-power-plant-1-9b-loan.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Anthropic有料プラン巡り集団訴訟、なぜ顧客は欺かれたと主張するのか",
+   "path": "/articles/20260909-anthropic-class-action-lawsuit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "大手金融グループが個人向けサービス強化で狙う預金獲得の舞台裏",
+   "path": "/articles/20260909-financial-groups-enhance-services.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "カンナムオンニ、日本ユーザー約4万8000人の情報流出なぜ",
+   "path": "/articles/20260909-gangnam-unni-data-breach.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日本国債の10年物金利が30年ぶりに3％に到達した理由とは",
+   "path": "/articles/20260909-japan-government-bonds-yield-reaches-3-percent.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ワークマン、リカバリーウェアのスーツ発売で初年度23億円目指す",
+   "path": "/articles/20260909-workman-recovery-wear-suits.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +57,13 @@
   "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
   "url": "https://www.youtube.com/watch?v=A0WX-jsir94"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: “令和のカリスマ”名乗るインフルエンサーの男を詐欺容疑で逮捕 男性2人にウソの投",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 29,
+  "used": 54,
   "limit": 200
  }
 }
