@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-  "https://news.web.nhk/newsweb/na/na-k10015184741000",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YSTV1Q3dUTGhmLXo0NGFtTGNuMExsczNTMWEyZ1gxS0NhVDdCVjZ6d2ZNRXVJWlhCRGJsZnhTVm81UFlJZUt5OFdkNWh0bTJENG1oU3hnbDdCNFZ6SElKWTRPb3o?oc=5",
   "https://www.itmedia.co.jp/business/articles/2607/24/news010.html",
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OdEFNRVB6cHdNZVllWlU0WTdOU3J5M0NLa3ZfS2tlcVN1aC12SEZwV0lzck5KbUFvamZTWWdLS2tmOTBPblBtTk1BR1IzTDRuOEg3Ng?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260908de49074",
   "https://news.web.nhk/newsweb/na/nd-20260908de49084",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DeEJuQlEwbURYTnpOUm9ZWjNyOFFDaU5wMzZDTUYxQW51TEVVUzNGekRRWlUxTkVMdFBoYmlMQUNvdjZtRVhhRGtUUnVNSlFUZlZnVzNQUHJKa2dRMndSMmxSTElUS3JGNU1rWDJ3d21Eai1xV3dxWC1XWUdfOVE?oc=5",
-  "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ycmdJVmctOEVONU5rOVc1djJXYU41djdxYnB4QVhPLWVPYzZPbjcxRTJPc1BNbHRDcXREOXBYQ0IxQ05FWlk5dTY5Tl9vSkQxUm4tNFc4N0lEUHY0RXNZYlFTeURZS01vVExEUDRiU3dQYlpBMkYzVTVn0gF_QVVfeXFMT04yM0t1ZW9WVi0zcDQwb216R2lqSmdIXzNHY3VNemVnb0JBREdEclhEUS1URlJEZE5MZlA1V3YyaWdWUUxpZmhnQjl1UkYxeUpSSHZjcUxQemIwckNtbDJpMDZCMEJkRlVOZEJ0X1JSdkE0N1p3T0NLOUF2RWhrSQ?oc=5"
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ycmdJVmctOEVONU5rOVc1djJXYU41djdxYnB4QVhPLWVPYzZPbjcxRTJPc1BNbHRDcXREOXBYQ0IxQ05FWlk5dTY5Tl9vSkQxUm4tNFc4N0lEUHY0RXNZYlFTeURZS01vVExEUDRiU3dQYlpBMkYzVTVn0gF_QVVfeXFMT04yM0t1ZW9WVi0zcDQwb216R2lqSmdIXzNHY3VNemVnb0JBREdEclhEUS1URlJEZE5MZlA1V3YyaWdWUUxpZmhnQjl1UkYxeUpSSHZjcUxQemIwckNtbDJpMDZCMEJkRlVOZEJ0X1JSdkE0N1p3T0NLOUF2RWhrSQ?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260908de48909",
+  "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
-  "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ | NHKニュース",
-  "中国製ルータ20機種に「隠しバックドア」、世界10万台超か…35秒ごとに外部通信判明（ビジネス＋IT） - Yahoo!ニュース",
-  "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-  "ギラン・バレー症候群で後遺症と闘う男性　居酒屋の定番メニューに潜む食中毒の危険",
   "台風13号 高波強風影響続く 台風15号の進路にも注意を",
   "イラン“通航再開は米の補償も条件” “交渉は停滞”報道も",
   "米国株式市場＝Ｓ＆Ｐ最高値、雇用統計軟調で利上げ観測後退 - ロイター",
@@ -4001,6 +3997,10 @@
   "名古屋市、117万人余に「緊急安全確保」拡大",
   "イラン支援勢力が紅海周辺の施設攻撃、情勢悪化の懸念",
   "東証プライム・ワースト1位となった世界的ブランド銘柄の正体",
-  "愛知県警、投資会社代表を詐欺容疑で逮捕"
+  "愛知県警、投資会社代表を詐欺容疑で逮捕",
+  "庄内川 レベル5氾濫特別警報 ほかの地域も線状降水帯おそれ",
+  "Highest paid world leader to get salary increase of $1 million",
+  "庄内川でレベル5氾濫特別警報、線状降水帯のおそれも",
+  "ローレンス・ウォン首相、年俸360万シンガポールドルに増額"
  ]
 }
