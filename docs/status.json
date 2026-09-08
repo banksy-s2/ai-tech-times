@@ -1,21 +1,55 @@
 {
- "updated": "2026-09-08 11:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-08 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "FRIDAYが検証、人気YouTuber・Rちゃんも登録のギャラ飲みアプリ",
-   "path": "/articles/20260908-friday-gallame-app-investigation.html",
-   "cat": "インフルエンサー"
+   "title": "DeepSeekが内モンゴルに新データセンター計画、Huawei製AIチップ16万基導入へ",
+   "path": "/articles/20260908-deepseek-inner-mongolia-data-center.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Claudeが1300万行のLeanコードでフェルマーの最終定理の完全な機械検証済み証明を11日で完成させた理由",
+   "path": "/articles/20260908-claude-fermat-last-theorem-formalizing.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "トランプ氏、AI画像投稿で数千億ドルの株式利益を主張",
+   "path": "/articles/20260908-trump-truth-social-ai-images-posting.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Armの新グラフィックス技術、Xiaomi 18 Foldで中国先行の理由",
+   "path": "/articles/20260908-arm-mali-g2-ultra-xiaomi-xring-o3.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "7月の実質賃金2.4％増、なぜ7か月連続プラスに？",
+   "path": "/articles/20260908-real-wages-up-2-4-percent-in-july.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "Grindr、HIV情報共有問題で2600万ポンド支払いへ",
+   "path": "/articles/20260908-grindr-settles-hiv-claims.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "未来アセット、日本の証券会社買収を検討",
+   "path": "/articles/20260908-mirae-asset-considers-acquiring-japanese-brokerage.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 醸造元に無許可でコラボ？ 神田明神納涼祭りで販売された「VTuber日本酒」が物",
+  "執筆失敗: サーバーワークスグループとＢＩＰＲＯＧＹ、クラウド・生成ＡＩで業務提携、５年後１",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 63,
+  "used": 84,
   "limit": 200
  }
 }
