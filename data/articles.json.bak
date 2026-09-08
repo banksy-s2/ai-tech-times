@@ -77016,5 +77016,72 @@
   "date": "2026-09-09",
   "time": "01:00",
   "path": "/articles/20260909-consulting-firms-return-to-office-ai.html"
+ },
+ {
+  "title": "Stoke Spaceが10億ドル調達、SpaceXに対抗しロケット再使用目指す",
+  "lead": "米国の宇宙開発企業Stoke Spaceが、軌道到達と新型ロケットの開発に向けてシリーズEラウンドで10億ドルの資金調達を初期完了させました。",
+  "summary3": [
+   "Stoke Spaceが10億ドルを調達",
+   "軌道到達と新型大型ロケットを準備",
+   "SpaceXのロケット再使用に対抗"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道から得た情報によると、Stoke Spaceはロケットの再使用分野においてSpaceXに対抗するため、新たに10億ドルの資金調達における「初期クローズ」を完了させました。",
+   "今回のシリーズEラウンドで集められた資金は、同社が軌道に到達すること、そして運用に向けた新しい大型ロケットの準備を進めるために活用される予定となっています。",
+   "宇宙輸送分野での競争が激化する中、大規模な資金調達を成功させた同社の今後の開発動向に注目が集まります。"
+  ],
+  "tags": [
+   "宇宙開発",
+   "ロケット",
+   "資金調達"
+  ],
+  "slug": "stoke-space-raises-1b-series-e",
+  "people": [],
+  "terms": [
+   {
+    "name": "Stoke Space",
+    "type": "company",
+    "desc": "再使用可能なロケットの開発を手がけ、軌道到達を目指すアメリカの宇宙開発企業です。"
+   },
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "ロケットの再使用や宇宙船開発を主導する、アメリカの著名な民間宇宙企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+  "category": "silicon",
+  "date": "2026-09-09",
+  "time": "02:00",
+  "path": "/articles/20260909-stoke-space-raises-1b-series-e.html"
+ },
+ {
+  "title": "暗号資産の盗難事件で3億4000万ドルが盗まれ、大半が返還された理由",
+  "lead": "暗号資産の歴史上最大規模となる3億4000万ドルの盗難事件が発生しました。ハッカーはその後、盗んだ資金の大半を返還しています。",
+  "summary3": [
+   "暗号資産の盗難事件で3億4000万ドルが流出",
+   "これまでで最大規模の仮想通貨の盗難事件に",
+   "ハッカーは盗んだ資金の大半を返還した"
+  ],
+  "body": [
+   "テッククランチの報道によると、暗号資産の盗難事件において3億4000万ドルという巨額の資金がハッカーによって盗み出されました。今回の事件は、これまでに発生した暗号資産の盗難の中でも最大級の規模を誇るものの一つとなっています。",
+   "しかし、資金を盗み出したハッカーはその後、その大半を返還するという予期せぬ行動に出ました。詳細な経緯や返還の理由については明らかにされていませんが、デジタル資産の安全性とセキュリティ管理の難しさが改めて浮き彫りになる形となっています。",
+   "暗号資産市場における大規模な不正アクセスや資金流出は、投資家や関連企業にとって大きな脅威となり続けています。今回の事件と資金の返還劇が、今後のセキュリティ対策や業界の動向にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "暗号資産",
+   "セキュリティ",
+   "ハッキング"
+  ],
+  "slug": "hacker-stole-340m-crypto-heist-returned",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+  "category": "silicon",
+  "date": "2026-09-09",
+  "time": "02:00",
+  "path": "/articles/20260909-hacker-stole-340m-crypto-heist-returned.html"
  }
 ]
