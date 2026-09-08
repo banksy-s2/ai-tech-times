@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.yahoo.co.jp/articles/c74bea87e530f5fd3deacc454707db3526388053",
-  "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
   "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
   "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
   "https://togetter.com/li/2724146",
@@ -1999,13 +1997,11 @@
   "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
   "https://news.web.nhk/newsweb/na/nd-20260908de48898",
   "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-  "https://toyokeizai.net/articles/-/957134?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  "https://toyokeizai.net/articles/-/957134?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "https://news.web.nhk/newsweb/na/nd-20260908de48958",
+  "https://news.web.nhk/newsweb/na/nd-20260908de48956"
  ],
  "titles": [
-  "SpaceXのテラファブ、テスラ製太陽光ではなく天然ガス発電に依存する理由",
-  "アソビシステムがActiv8買収、キズナアイ運営と現実・仮想の融合へ",
-  "トランプ大統領、FRBクック理事に解任検討を再び通知",
-  "サウジアラビアなど3か国が共同防衛協定に署名",
   "ピクテ・ジャパン田中氏、日経平均は27年3月末に7万5000円",
   "宝ＨＤ、1Q決算発表の延期を発表し後場マイナス転換",
   "トランプ大統領 新たな「出生地主義」制限の大統領令署名",
@@ -4001,6 +3997,10 @@
   "Armの新グラフィックス技術、Xiaomi 18 Foldで中国先行の理由",
   "7月の実質賃金2.4％増、なぜ7か月連続プラスに？",
   "Grindr、HIV情報共有問題で2600万ポンド支払いへ",
-  "未来アセット、日本の証券会社買収を検討"
+  "未来アセット、日本の証券会社買収を検討",
+  "木原官房長官 中国の事実上の関税措置 影響生じないよう対応",
+  "トランプ大統領「ボンバルディア機販売禁止」カナダをけん制",
+  "木原官房長官、中国の半導体関税措置に影響防止を表明",
+  "ボンバルディア機販売禁止へ、トランプ米大統領がカナダけん制"
  ]
 }

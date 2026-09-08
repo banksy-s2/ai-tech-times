@@ -5698,7 +5698,7 @@
    "id": "iNMvUYjaieA",
    "title": "EVAN (에반) 'Death of Me' Official MV",
    "channel": "HYBE LABELS",
-   "views": 2494759,
+   "views": 2541519,
    "url": "https://www.youtube.com/watch?v=iNMvUYjaieA",
    "thumb": "https://i.ytimg.com/vi/iNMvUYjaieA/hqdefault.jpg",
    "regions": [
@@ -5713,7 +5713,7 @@
    "id": "invZIgVL2wo",
    "title": "RAYE, Amma, Absolutely - 'Joy.' (Official Video)",
    "channel": "RAYE",
-   "views": 333265,
+   "views": 369931,
    "url": "https://www.youtube.com/watch?v=invZIgVL2wo",
    "thumb": "https://i.ytimg.com/vi/invZIgVL2wo/hqdefault.jpg",
    "regions": [
@@ -5728,7 +5728,7 @@
    "id": "b3SvMJvr998",
    "title": "Street Fighter 6 - Arjun Gameplay Trailer",
    "channel": "Street Fighter",
-   "views": 266207,
+   "views": 352776,
    "url": "https://www.youtube.com/watch?v=b3SvMJvr998",
    "thumb": "https://i.ytimg.com/vi/b3SvMJvr998/hqdefault.jpg",
    "regions": [
@@ -5740,10 +5740,25 @@
   },
   {
    "rank": 4,
+   "id": "I-lOSPSeYFE",
+   "title": "Spiritbox - Mourning (Official Video)",
+   "channel": "riserecords",
+   "views": 6344,
+   "url": "https://www.youtube.com/watch?v=I-lOSPSeYFE",
+   "thumb": "https://i.ytimg.com/vi/I-lOSPSeYFE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "comment": "Spiritboxの新曲公式ミュージックビデオのようです"
+  },
+  {
+   "rank": 5,
    "id": "RbtE6b0OO2g",
    "title": "This video will teach you How NOT To Fish",
    "channel": "SMii7Y",
-   "views": 2765732,
+   "views": 2809533,
    "url": "https://www.youtube.com/watch?v=RbtE6b0OO2g",
    "thumb": "https://i.ytimg.com/vi/RbtE6b0OO2g/hqdefault.jpg",
    "regions": [
@@ -5753,11 +5768,11 @@
    "comment": "釣りについての動画で、どうやって釣らないかを学ぶ内容のようです。"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "id": "lA1ohDqw8XA",
    "title": "Exploring Minecraft's Forgotten Dimension",
    "channel": "Spoke",
-   "views": 1994367,
+   "views": 2057554,
    "url": "https://www.youtube.com/watch?v=lA1ohDqw8XA",
    "thumb": "https://i.ytimg.com/vi/lA1ohDqw8XA/hqdefault.jpg",
    "regions": [
@@ -5767,11 +5782,11 @@
    "comment": "マインクラフトの忘れられた次元を探索している動画のようです。(27文字)"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "id": "QFsuTM_8pFo",
    "title": "Romeo Santos - Imitadora 💔 (Letra/Lyrics)",
    "channel": "Octava Retro",
-   "views": 720872,
+   "views": 763091,
    "url": "https://www.youtube.com/watch?v=QFsuTM_8pFo",
    "thumb": "https://i.ytimg.com/vi/QFsuTM_8pFo/hqdefault.jpg",
    "regions": [
@@ -5781,11 +5796,25 @@
    "comment": "ロメオ・サントスの楽曲「Imitadora」の歌詞付き動画のようです。(29文字)"
   },
   {
-   "rank": 7,
+   "rank": 8,
+   "id": "14X6xRf-95k",
+   "title": "A HEARTWARMING STREAM",
+   "channel": "Jynxzi",
+   "views": 700063,
+   "url": "https://www.youtube.com/watch?v=14X6xRf-95k",
+   "thumb": "https://i.ytimg.com/vi/14X6xRf-95k/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Jynxziによる心温まる配信のアーカイブでしょうか"
+  },
+  {
+   "rank": 9,
    "id": "4OOvmJeXlls",
    "title": "I Pretended to be a BABY TRANSFORMER on ONE CHUNK!",
    "channel": "Cash",
-   "views": 632054,
+   "views": 669901,
    "url": "https://www.youtube.com/watch?v=4OOvmJeXlls",
    "thumb": "https://i.ytimg.com/vi/4OOvmJeXlls/hqdefault.jpg",
    "regions": [
@@ -5795,11 +5824,11 @@
    "comment": "ワンチャンクの世界で赤ちゃんトランスフォーマーになりきったようです。(29文字)"
   },
   {
-   "rank": 8,
+   "rank": 10,
    "id": "aTAnNw-_W98",
    "title": "Miss Golden Apples on Festivale SMP | Ep. 5",
    "channel": "LDShadowLady",
-   "views": 267656,
+   "views": 286732,
    "url": "https://www.youtube.com/watch?v=aTAnNw-_W98",
    "thumb": "https://i.ytimg.com/vi/aTAnNw-_W98/hqdefault.jpg",
    "regions": [
@@ -5807,34 +5836,6 @@
     "GB"
    ],
    "comment": "Festivale SMPでの冒険の様子を描いたマインクラフト実況の第5弾のようです。"
-  },
-  {
-   "rank": 9,
-   "id": "a0b5oC6IF64",
-   "title": "Lanterns Episode 5 Trailer Breakdown & Easter Eggs",
-   "channel": "Emergency Awesome",
-   "views": 176647,
-   "url": "https://www.youtube.com/watch?v=a0b5oC6IF64",
-   "thumb": "https://i.ytimg.com/vi/a0b5oC6IF64/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ドラマのエピソードに関する考察やイースターエッグの解説のようです"
-  },
-  {
-   "rank": 10,
-   "id": "4Le-NMCqrEE",
-   "title": "PRESIDENT - Live From Rockfield Studios",
-   "channel": "PRESIDENT",
-   "views": 142529,
-   "url": "https://www.youtube.com/watch?v=4Le-NMCqrEE",
-   "thumb": "https://i.ytimg.com/vi/4Le-NMCqrEE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ロックフィールド・スタジオでのライブ映像のようです。"
   }
  ]
 }

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-08 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-08 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "木原官房長官、中国の半導体関税措置に影響防止を表明",
-   "path": "/articles/20260908-kihara-comment-on-china-tariff.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ボンバルディア機販売禁止へ、トランプ米大統領がカナダけん制",
-   "path": "/articles/20260908-trump-bombardier-sales-ban-canada.html",
-   "cat": "時事・世界"
+   "title": "円相場が値上がり、一時1ドル＝154円台に",
+   "path": "/articles/20260908-yen-exchange-rate-rises-to-154-yen-per-dollar.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 89,
+  "used": 92,
   "limit": 200
  }
 }
