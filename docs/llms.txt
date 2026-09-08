@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 12:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [木原官房長官、中国の半導体関税措置に影響防止を表明](https://ai-tech-times.web.app/articles/20260908-kihara-comment-on-china-tariff.html) — 2026-09-08 13:00: 中国政府が半導体製造用の化学物質をめぐり事実上の関税措置を発表したことを受け、木原官房長官が対応方針を明らかにしました。
+- [ボンバルディア機販売禁止へ、トランプ米大統領がカナダけん制](https://ai-tech-times.web.app/articles/20260908-trump-bombardier-sales-ban-canada.html) — 2026-09-08 13:00: アメリカがカナダに追加関税を発動し、対抗措置が取られる中、トランプ大統領がボンバルディア製航空機の米国販売禁止をSNSに投稿しました。
 - [DeepSeekが内モンゴルに新データセンター計画、Huawei製AIチップ16万基導入へ](https://ai-tech-times.web.app/articles/20260908-deepseek-inner-mongolia-data-center.html) — 2026-09-08 12:01: 中国のAI企業であるDeepSeekが、内モンゴル自治区でデータセンターの建設計画を進めていることがBloombergによって報じられました。Huawei製AIチップを最大16万基導入する予定となっています。
 - [Claudeが1300万行のLeanコードでフェルマーの最終定理の完全な機械検証済み証明を11日で完成させた理由](https://ai-tech-times.web.app/articles/20260908-claude-fermat-last-theorem-formalizing.html) — 2026-09-08 12:01: AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。
 - [トランプ氏、AI画像投稿で数千億ドルの株式利益を主張](https://ai-tech-times.web.app/articles/20260908-trump-truth-social-ai-images-posting.html) — 2026-09-08 12:01: ドナルド・トランプ米大統領が自身のSNSプラットフォームにおいて、AI生成画像とともに数百億ドルの株式利益を生み出したという主張を連続して投稿しました。
@@ -40,21 +42,19 @@
 - [Highlandersの国産四足歩行ロボ、段差昇降のデモ公開](https://ai-tech-times.web.app/articles/20260908-highlanders-quadruped-robot-hlq-edge.html) — 2026-09-08 07:02: ロボット開発企業のHighlandersが、国産をうたう四足歩行ロボット「HLQ EDGE」を発表しました。同日に公開されたデモ動画では、段差を昇降する姿が披露されています。
 - [アウディの新型EV「A2 E-tron」はなぜ安さと効率を両立できたのか](https://ai-tech-times.web.app/articles/20260908-audi-a2-etron-ev-announced.html) — 2026-09-08 07:02: 手頃な価格と優れたエネルギー効率を両立させることは、電気自動車（EV）市場において非常に稀です。アウディが発表した新型「A2 E-tron」は、その両立を実現した最も手頃で効率的なモデルとして注目を集めています。
 - [Amazon貨物機墜落事故、滑走路から400m超過の背景](https://ai-tech-times.web.app/articles/20260908-amazon-cargo-jet-crash-ntsb-update.html) — 2026-09-08 07:02: マイアミで発生したAmazonの貨物機墜落事故について、国家運輸安全委員会（NTSB）が調査状況を明かしました。事故機は滑走路を大幅にオーバーランし、車両2台に衝突しています。
-- [カバー社がVTuberブランド統合を発表、一つの「hololive」として展開へ](https://ai-tech-times.web.app/articles/20260908-cover-corp-hololive-brand-integration.html) — 2026-09-08 07:02: 人気VTuberブランドを運営するカバー社が、グループや地域を越えた新たなブランド統合を発表しました。今後は一つの「hololive」として展開されます。
-- [中国が日本産ジクロロシランに関税措置](https://ai-tech-times.web.app/articles/20260908-china-imposes-tariff-on-japanese-dichlorosilane.html) — 2026-09-08 07:02: 中国政府は、半導体製造に使われる日本からの輸入品「ジクロロシラン」について、価格が不当に安く抑えられていると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-08)
 - 1位: [EVAN (에반) 'Death of Me' Official MV](https://www.youtube.com/watch?v=iNMvUYjaieA)
 - 2位: [RAYE, Amma, Absolutely - 'Joy.' (Official Video)](https://www.youtube.com/watch?v=invZIgVL2wo)
 - 3位: [Street Fighter 6 - Arjun Gameplay Trailer](https://www.youtube.com/watch?v=b3SvMJvr998)
 
-## AI用語事典 (全1339語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1340語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
-- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
+- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。

@@ -75755,5 +75755,257 @@
   "date": "2026-09-08",
   "time": "11:00",
   "path": "/articles/20260908-friday-gallame-app-investigation.html"
+ },
+ {
+  "title": "DeepSeekが内モンゴルに新データセンター計画、Huawei製AIチップ16万基導入へ",
+  "lead": "中国のAI企業であるDeepSeekが、内モンゴル自治区でデータセンターの建設計画を進めていることがBloombergによって報じられました。Huawei製AIチップを最大16万基導入する予定となっています。",
+  "summary3": [
+   "DeepSeekが内モンゴルでDC建設を計画",
+   "Huawei製AIチップを最大16万基導入予定",
+   "中国製GPUによるAI開発・運用が加速"
+  ],
+  "body": [
+   "中国のAI企業であるDeepSeekが、内モンゴル自治区において新たなデータセンターの建設計画を進めていることが、海外メディアのBloombergによって報じられました。中国国内において、中国製のGPUを用いてAIの開発や運用を行う動きが急速に加速しています。",
+   "今回の計画における最大の注目点は、建設予定のデータセンターに対して、Huawei製のAIチップである「Ascend 950DT」が最大で16万基も導入される予定であるという点です。大規模なAIインフラの構築において、国産のハードウェアを活用する動きが具体化しています。",
+   "海外製チップの調達が制限される環境下において、国内企業によるこのような大規模なデータセンター建設や国産チップの導入は、今後のAI開発体制に大きな影響を与える可能性があります。今後の計画の進展や実際の稼働に向けた動向に、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "DeepSeek",
+   "Huawei",
+   "データセンター"
+  ],
+  "slug": "deepseek-inner-mongolia-data-center",
+  "people": [],
+  "terms": [
+   {
+    "name": "DeepSeek",
+    "type": "company",
+    "desc": "中国の人工知能（AI）企業であり、高度なAIモデルの開発などで近年世界的な注目を集めている。"
+   },
+   {
+    "name": "Huawei",
+    "type": "company",
+    "desc": "中国に本拠地を置く世界最大手の通信機器メーカーであり、近年はAIチップなどの半導体開発も手掛ける。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-deepseek-inner-mongolia-data-center.html"
+ },
+ {
+  "title": "Claudeが1300万行のLeanコードでフェルマーの最終定理の完全な機械検証済み証明を11日で完成させた理由",
+  "lead": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。",
+  "summary3": [
+   "Claudeが定理の証明を11日で完成",
+   "証明支援システムLean 4を使用",
+   "約1300万行のコードを自律生成"
+  ],
+  "body": [
+   "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。",
+   "Claudeは11日間にわたってほぼ自律的に作業を行い、証明支援システム「Lean 4」を用いて約1300万行のコードを生成しました。",
+   "Anthropicは、これがフェルマーの最終定理について初の完全な機械検証済み証明であると説明しています。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "フェルマーの最終定理"
+  ],
+  "slug": "claude-fermat-last-theorem-formalizing",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、安全性を重視した対話型AI「Claude」シリーズなどを開発・提供しています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高度な対話型AIモデルであり、文章生成やプログラミング、自律的な作業を行えるのが特徴です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-claude-fermat-last-theorem-formalizing.html"
+ },
+ {
+  "title": "トランプ氏、AI画像投稿で数千億ドルの株式利益を主張",
+  "lead": "ドナルド・トランプ米大統領が自身のSNSプラットフォームにおいて、AI生成画像とともに数百億ドルの株式利益を生み出したという主張を連続して投稿しました。",
+  "summary3": [
+   "トランプ米大統領がSNSでAI画像を多数投稿",
+   "数百億ドルの株式利益を出したと主張",
+   "検証されていない広範な主張が含まれる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、ドナルド・トランプ米大統領は日曜日、自身のSNSであるTruth Socialにおいて、AI生成画像を用いた一連の投稿を行いました。この投稿の中で、同氏は米国のために数百億ドルの株式利益を生み出したという主張を展開しています。",
+   "今回の投稿では、AIによって生成された画像が多数使われたほか、多岐にわたる広範な内容の主張が連続して公開されました。ただし、これらの主張については検証されていない部分が多く含まれていると伝えられています。",
+   "CNBC Techなどの報道によって明らかになったものであり、米国の最高権力者によるSNS上の発信として注目を集めています。今後の動向やさらなる詳細情報の発表が待たれる状況です。"
+  ],
+  "tags": [
+   "トランプ大統領",
+   "AI画像",
+   "Truth Social"
+  ],
+  "slug": "trump-truth-social-ai-images-posting",
+  "people": [
+   {
+    "name": "ドナルド・トランプ",
+    "bio": "第47代および第45代のアメリカ合衆国大統領。ビジネスマン出身の政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Truth Social",
+    "type": "company",
+    "desc": "トランプ・メディア・アンド・テクノロジー・グループが運営するアメリカのソーシャルメディアプラットフォーム。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-trump-truth-social-ai-images-posting.html"
+ },
+ {
+  "title": "Armの新グラフィックス技術、Xiaomi 18 Foldで中国先行の理由",
+  "lead": "モバイルゲームの作り方や遊び方を変える可能性を秘めた英Armの新技術が、中国市場で先行して展開されることになりました。最新の「Xiaomi 18 Fold」に搭載されたカスタムチップに採用されています。",
+  "summary3": [
+   "Armの新グラフィックス技術が中国で先行発売",
+   "Xiaomi 18 Foldのカスタムチップに搭載",
+   "モバイルゲーム体験を変える可能性を秘める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。中国市場において、モバイルゲームの制作やプレイ方法に大きな変化をもたらす可能性を秘めたイギリス発の新技術が、いち早く導入されることになりました。",
+   "本日、中国本土にて発売された「Xiaomi 18 Fold」には、カスタムチップである「Xring O3」の内部にArm製のグラフィックスプロセッサー「Arm Mali G2-Ultra NX」が搭載されています。",
+   "何がこれほど特別な注目を集めているのでしょうか。それは、5年間にわたる開発期間を経て、ついにArmが手がけた新技術が実際の端末に実装されたという点にあります。今後のモバイルゲーム業界にどのような影響を与えるのか、世界中から高い関心が寄せられています。"
+  ],
+  "tags": [
+   "Arm",
+   "Xiaomi",
+   "モバイルゲーム"
+  ],
+  "slug": "arm-mali-g2-ultra-xiaomi-xring-o3",
+  "people": [],
+  "terms": [
+   {
+    "name": "Arm",
+    "type": "company",
+    "desc": "イギリスに本拠地を置き、半導体設計を手がける世界的な企業。スマートフォン向けプロセッサーなどで高いシェアを持つ。"
+   },
+   {
+    "name": "Xiaomi",
+    "type": "company",
+    "desc": "中国に本拠地を置く総合家電・スマートフォンメーカー。革新的なモバイル端末を多数グローバルに展開している。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-arm-mali-g2-ultra-xiaomi-xring-o3.html"
+ },
+ {
+  "title": "7月の実質賃金2.4％増、なぜ7か月連続プラスに？",
+  "lead": "NHK 主要ニュースによると、ことし7月の働く人1人あたりの現金給与総額が前年同月比4.7％増となり、物価を反映した実質賃金も2.4％増を記録しました。プラスは7か月連続となっています。",
+  "summary3": [
+   "現金給与総額は4.7％増加",
+   "実質賃金は2.4％増を記録",
+   "プラスは7か月連続となる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ことし7月の働く人1人あたりの現金給与の総額は、基本給やボーナスなどが大きく伸びたため、前の年の同じ月と比べて4.7％増加したことが分かりました。この増加により、現金給与の総額は4年7か月連続のプラスとなっています。",
+   "さらに、物価の変動を反映した実質賃金についても、前の年の同じ月と比べて2.4％のプラスとなりました。実質賃金においても7か月連続でのプラス継続となり、働く人の生活環境に影響を与える指標として注目を集めています。",
+   "今回の数値は、基本給やボーナスなどの大きな伸びが全体の給与総額を押し上げた結果であり、継続的なプラスの背景にはこうした給与面のプラス要素が寄与しています。今後の動向についても引き続きデータが注目されます。"
+  ],
+  "tags": [
+   "実質賃金",
+   "給与",
+   "経済"
+  ],
+  "slug": "real-wages-up-2-4-percent-in-july",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260908de48898",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-real-wages-up-2-4-percent-in-july.html"
+ },
+ {
+  "title": "Grindr、HIV情報共有問題で2600万ポンド支払いへ",
+  "lead": "英BBC Worldの報道によると、マッチングアプリを展開するGrindrが、ユーザーのHIVステータスを共有したとする申し立てを解決するため、2600万ポンドを支払うことになりました。",
+  "summary3": [
+   "GrindrがHIV情報の共有問題をめぐり和解へ",
+   "英プライバシー法に違反した長期の申し立て",
+   "総額2600万ポンドを支払うことで合意に至る"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、マッチングアプリ「Grindr」を巡る長期にわたる法的紛争において、同社が約2600万ポンドを支払うことで解決金に関する合意に至りました。この問題は、同社がユーザーのHIVステータスを含むプライバシーデータを第三者と共有したとして、イギリスのプライバシー法に違反したと主張されていたものです。",
+   "報道によれば、この長期にわたる申し立てにおいて、データ共有の是非や法的な責任をめぐって議論が続いていました。Grindr側が支払うことになった2600万ポンドという巨額の金額は、イギリスのプライバシー法違反に関する訴訟の解決に向けた重要な区切りとなります。",
+   "今回の和解により、ユーザーデータの取り扱いとプライバシー保護のあり方について、業界全体に大きな影響を与える可能性があります。今後、同様のデータ共有を行っている他のサービスに対しても、厳格なプライバシー遵守が求められる動きが強まると見られています。"
+  ],
+  "tags": [
+   "Grindr",
+   "プライバシー",
+   "海外ニュース"
+  ],
+  "slug": "grindr-settles-hiv-claims",
+  "people": [],
+  "terms": [
+   {
+    "name": "Grindr",
+    "type": "company",
+    "desc": "世界的に利用されているLGBTIQ+向けの人気の位置情報型マッチングアプリを運営する企業。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-grindr-settles-hiv-claims.html"
+ },
+ {
+  "title": "未来アセット、日本の証券会社買収を検討",
+  "lead": "韓国の金融大手「未来アセットグループ」が日本の証券会社の買収を検討していることが報じられ、日本の証券業界で注目を集めています。",
+  "summary3": [
+   "韓国経済新聞が買収検討を報道",
+   "未来アセットグループが浮上",
+   "日本の証券業界で話題に"
+  ],
+  "body": [
+   "韓国発のニュースが、日本の証券業界をにぎわせている。震源地となったのは、8月26日に韓国経済新聞が報じたスクープ記事である。",
+   "同紙の報道によれば、韓国の金融大手である「未来アセットグループ」が、日本の証券会社の買収を検討しているという。",
+   "今回の動きは韓国でも大きく取り上げられており、今後の動向について引き続き関心が集まっている。"
+  ],
+  "tags": [
+   "証券",
+   "買収",
+   "韓国"
+  ],
+  "slug": "mirae-asset-considers-acquiring-japanese-brokerage",
+  "people": [],
+  "terms": [
+   {
+    "name": "未来アセットグループ",
+    "type": "company",
+    "desc": "韓国の金融大手グループであり、証券などの事業を展開している。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/957134?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-09-08",
+  "time": "12:01",
+  "path": "/articles/20260908-mirae-asset-considers-acquiring-japanese-brokerage.html"
  }
 ]
