@@ -76106,5 +76106,39 @@
   "date": "2026-09-08",
   "time": "14:00",
   "path": "/articles/20260908-yen-exchange-rate-rises-to-154-yen-per-dollar.html"
+ },
+ {
+  "title": "澁谷工業、売上高1356億円で最高も営業利益4.9%減、なぜ？",
+  "lead": "澁谷工業のFY2026決算説明会において、売上高が過去最高を更新する一方で営業利益が減少したことが明らかになりました。",
+  "summary3": [
+   "売上高1356億円で過去最高を更新",
+   "営業利益は前年比4.9%減の結果に",
+   "医療機器の追加費用と農業が重荷"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新決算情報です。澁谷工業は、FY2026の決算説明会を実施し、当期の業績を発表しました。",
+   "発表によると、売上高は1,356億円となり過去最高を記録しました。しかしその一方で、営業利益は4.9%の減益となりました。",
+   "利益を圧迫した要因として、医療機器に関する追加費用や、低採算となった農業案件が重荷になったことが説明されています。"
+  ],
+  "tags": [
+   "澁谷工業",
+   "決算",
+   "業績"
+  ],
+  "slug": "shibuya-kogyo-fy2026-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "澁谷工業",
+    "type": "company",
+    "desc": "包装機械やボトリングシステムなどを手掛ける日本の機械メーカー。各種プラントや医療機器なども展開する。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTVY3al9jNHIzcUxmMHpkSjM3NTU0UERqMExHZk82OHFzZC1MS1M0eUtpWHdrRmxMRmdvc2JDZ1hfTktDZDIwX0ttUjBCSk9aSWpLX05QSFRzVTJ6NmYw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-08",
+  "time": "15:00",
+  "path": "/articles/20260908-shibuya-kogyo-fy2026-results.html"
  }
 ]
