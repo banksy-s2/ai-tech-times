@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-09 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-09 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAI、ChatGPT Workに文体学習機能を追加。Gmail等の文章を模倣",
-   "path": "/articles/20260909-chatgpt-work-writing-style-learning.html",
-   "cat": "日本のAI"
+   "title": "Stoke Spaceが10億ドル調達、SpaceXに対抗しロケット再使用目指す",
+   "path": "/articles/20260909-stoke-space-raises-1b-series-e.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "アーンスト・アンド・ヤング、若手の出社回帰を検討",
-   "path": "/articles/20260909-consulting-firms-return-to-office-ai.html",
-   "cat": "日本のAI"
+   "title": "暗号資産の盗難事件で3億4000万ドルが盗まれ、大半が返還された理由",
+   "path": "/articles/20260909-hacker-stole-340m-crypto-heist-returned.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 14,
   "limit": 200
  }
 }

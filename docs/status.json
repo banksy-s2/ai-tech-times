@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-09 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Stoke Spaceが10億ドル調達、SpaceXに対抗しロケット再使用目指す",
-   "path": "/articles/20260909-stoke-space-raises-1b-series-e.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "暗号資産の盗難事件で3億4000万ドルが盗まれ、大半が返還された理由",
-   "path": "/articles/20260909-hacker-stole-340m-crypto-heist-returned.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-09 03:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "&TEAM 'Mark on Me' Official MV",
   "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: VTuberグループ「ホロライブ」初のTVアニメ化 構想5年、10周年に向けたプ"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }
