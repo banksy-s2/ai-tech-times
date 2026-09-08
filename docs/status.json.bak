@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-08 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-08 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "円相場が値上がり、一時1ドル＝154円台に",
-   "path": "/articles/20260908-yen-exchange-rate-rises-to-154-yen-per-dollar.html",
-   "cat": "株式投資(日本)"
+   "title": "澁谷工業、売上高1356億円で最高も営業利益4.9%減、なぜ？",
+   "path": "/articles/20260908-shibuya-kogyo-fy2026-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 92,
+  "used": 95,
   "limit": 200
  }
 }
