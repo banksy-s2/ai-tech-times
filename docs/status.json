@@ -1,18 +1,7 @@
 {
- "updated": "2026-09-08 18:00",
- "mode": "軽量便(日本のAI)",
- "articles": [
-  {
-   "title": "日立、売上5000億円へ掲げる2026年フィジカルAI元年の狙い",
-   "path": "/articles/20260908-hitachi-physical-ai-2026-hmax.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "中立なFPが見つからない理由とAI活用術",
-   "path": "/articles/20260908-ai-neutral-financial-planner.html",
-   "cat": "日本のAI"
-  }
- ],
+ "updated": "2026-09-08 19:00",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
@@ -20,7 +9,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 114,
+  "used": 115,
   "limit": 200
  }
 }
