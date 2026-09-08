@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
-  "https://gigazine.net/news/20260724-health-in-chatgpt/",
   "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
   "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
   "https://thezvi.substack.com/p/introducing-lightcone-commons",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
   "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
   "https://www.itmedia.co.jp/news/article/2609/08/2000001256/",
-  "https://www.nikkei.com/article/DGXZQOCB074J50X00C26A9000000/"
+  "https://www.nikkei.com/article/DGXZQOCB074J50X00C26A9000000/",
+  "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+  "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/"
  ],
  "titles": [
-  "台風13号の高波・強風に警戒、15号の進路にも注意を",
-  "イラン、ホルムズ海峡の通航再開に米国の補償を要求",
-  "S&P最高値、雇用統計軟調で利上げ観測後退",
-  "シャープ、最終利益40％余り減へ。イラン情勢と円安が直撃",
   "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
   "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
   "Fenix Flexin、AI楽曲使用を認めた理由",
@@ -4001,6 +3997,10 @@
   "ChatGPT Workに“自分の文体”学習機能　GmailやSlackの文章から言い回しやクセを模倣",
   "[FT]コンサル大手、若手に出社回帰促す　AI普及で対人スキル重視 - 日本経済新聞",
   "OpenAI、ChatGPT Workに文体学習機能を追加。Gmail等の文章を模倣",
-  "アーンスト・アンド・ヤング、若手の出社回帰を検討"
+  "アーンスト・アンド・ヤング、若手の出社回帰を検討",
+  "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+  "A hacker stole $340M in a crypto heist, then returned most of it",
+  "Stoke Spaceが10億ドル調達、SpaceXに対抗しロケット再使用目指す",
+  "暗号資産の盗難事件で3億4000万ドルが盗まれ、大半が返還された理由"
  ]
 }
