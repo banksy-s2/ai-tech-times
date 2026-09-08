@@ -1,26 +1,21 @@
 {
- "updated": "2026-09-09 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-09 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "東海で線状降水帯、庄内川に氾濫特別警報",
-   "path": "/articles/20260909-heavy-rain-tokai-linear-precipitation-zone.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "英国がヨルダン川西岸の入植者に制裁、イスラエルは激怒して領事館閉鎖へ",
-   "path": "/articles/20260909-uk-sanctions-west-bank-settlements.html",
-   "cat": "時事・世界"
+   "title": "円が154円台に上昇、半年ぶり高値の背景と市場の心理",
+   "path": "/articles/20260909-yen-rises-to-154-yen-level.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "&TEAM 'Mark on Me' Official MV",
-  "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU"
+  "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+  "url": "https://www.youtube.com/watch?v=A0WX-jsir94"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 23,
+  "used": 26,
   "limit": 200
  }
 }
