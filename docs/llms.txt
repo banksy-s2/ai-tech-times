@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 17:06 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [MicrosoftのCopilotで新モデル「GPT-6 Astra」が利用可能に](https://ai-tech-times.web.app/articles/20260908-m365-copilot-gpt6-astra.html) — 2026-09-08 17:06: Microsoftは、「Copilot Cowork」と「Copilot Studio」において、OpenAIの新モデル「GPT-6 Astra」の提供を開始しました。
+- [エリック・ウー氏の新会社NavigateAI、2500万ドル調達の狙い](https://ai-tech-times.web.app/articles/20260908-eric-wu-navigateai-construction-labor-crunch.html) — 2026-09-08 17:06: 元Opendoorのエリック・ウー氏が立ち上げたNavigateAIは、建設業界の深刻な人手不足を解決するため、AIグラスを活用した作業員向けガイダンスシステムの提供を進めています。
+- [Xiaomi新型折りたたみ、Samsungを超える仕様の真相](https://ai-tech-times.web.app/articles/20260908-xiaomi-18-fold-hands-on.html) — 2026-09-08 17:06: Xiaomiが新型の折りたたみスマートフォンを発表しました。Samsung製品に似た外観ながら、なぜ優れたスペックを実現できたのでしょうか。
+- [BOOTHでVTuber名前変換辞書が出品停止、約2万人の登録に批判相次ぐ](https://ai-tech-times.web.app/articles/20260908-vtuber-name-dictionary-booth-suspended.html) — 2026-09-08 17:06: 販売サイト「BOOTH」において、“VTuberの名前変換辞書”が出品停止となりました。VTuber約2万人の“名前”の登録を巡り、批判が相次いだことが背景にあります。
+- [東海道新幹線で運転見合わせ、名古屋〜岐阜羽島間で拡大も](https://ai-tech-times.web.app/articles/20260908-tokaido-sanyo-shinkansen-suspension.html) — 2026-09-08 17:06: JRによりますと、雨量が規制値を超えたため、東海道・山陽新幹線で運転見合わせが発生しています。
+- [カナダ、アメリカ製品に200億ドルの報復関税を発動](https://ai-tech-times.web.app/articles/20260908-canada-tariffs-us-trade-war.html) — 2026-09-08 17:06: 世界最大の二国間貿易関係が揺らぐ中、カナダがアメリカ製品に対する報復関税を発動しました。長期化する貿易戦争への懸念が高まっています。
+- [日経平均6万5269円、急速な円高で1130円安の下落](https://ai-tech-times.web.app/articles/20260908-nikkei-average-falls-1130-yen.html) — 2026-09-08 17:06: 日経平均株価は3営業日ぶりに下落し、終値は1130円安の6万5269円となりました。急速な円高を受け、輸出関連株などが売られる展開となっています。
+- [萩原工業の株価、8年ぶり上場来高値の背景にある政投銀との提携](https://ai-tech-times.web.app/articles/20260908-hagiwara-industries-stock-price-high.html) — 2026-09-08 17:06: 萩原工業の株価が8年ぶりに上場来高値を更新しました。日本政策投資銀行との資本業務提携が好感されたためです。
 - [澁谷工業、売上高1356億円で最高も営業利益4.9%減、なぜ？](https://ai-tech-times.web.app/articles/20260908-shibuya-kogyo-fy2026-results.html) — 2026-09-08 15:00: 澁谷工業のFY2026決算説明会において、売上高が過去最高を更新する一方で営業利益が減少したことが明らかになりました。
 - [円相場が値上がり、一時1ドル＝154円台に](https://ai-tech-times.web.app/articles/20260908-yen-exchange-rate-rises-to-154-yen-per-dollar.html) — 2026-09-08 14:00: 週明け7日の外国為替市場で、円相場が急激な値上がりを見せ、一時1ドル＝154円台前半を記録しました。
 - [木原官房長官、中国の半導体関税措置に影響防止を表明](https://ai-tech-times.web.app/articles/20260908-kihara-comment-on-china-tariff.html) — 2026-09-08 13:00: 中国政府が半導体製造用の化学物質をめぐり事実上の関税措置を発表したことを受け、木原官房長官が対応方針を明らかにしました。
@@ -34,21 +42,13 @@
 - [Grindr、HIV情報共有問題で2600万ポンド支払いへ](https://ai-tech-times.web.app/articles/20260908-grindr-settles-hiv-claims.html) — 2026-09-08 12:01: 英BBC Worldの報道によると、マッチングアプリを展開するGrindrが、ユーザーのHIVステータスを共有したとする申し立てを解決するため、2600万ポンドを支払うことになりました。
 - [未来アセット、日本の証券会社買収を検討](https://ai-tech-times.web.app/articles/20260908-mirae-asset-considers-acquiring-japanese-brokerage.html) — 2026-09-08 12:01: 韓国の金融大手「未来アセットグループ」が日本の証券会社の買収を検討していることが報じられ、日本の証券業界で注目を集めています。
 - [FRIDAYが検証、人気YouTuber・Rちゃんも登録のギャラ飲みアプリ](https://ai-tech-times.web.app/articles/20260908-friday-gallame-app-investigation.html) — 2026-09-08 11:00: 人気女性YouTuberのRちゃんも登録していることで話題となった、一般化した「ギャラ飲みアプリ」の大手企業についてFRIDAYが徹底検証しました。
-- [エリザベス・ホームズの秘密ドキュメンタリーがテルライドで上映](https://ai-tech-times.web.app/articles/20260908-elizabeth-holmes-documentary-stuns-telluride.html) — 2026-09-08 10:00: テッククランチによると、エリザベス・ホームズ氏を追った秘密のドキュメンタリー映画「ユー・キャン・シー・エヴリシング」がテルライド映画祭で上映され、観客を驚かせました。
-- [Booxの新型小型電子書籍リーダーPicco、11月発売へ](https://ai-tech-times.web.app/articles/20260908-boox-picco-e-reader-november.html) — 2026-09-08 10:00: 電子書籍リーダーを手がけるBooxは、話題を集めるXteink X4に対抗する小型端末「Picco」を11月に発売する予定であることを明らかにしました。IFAの取材を通じて新たな情報が判明しています。
-- [デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計](https://ai-tech-times.web.app/articles/20260908-gen-nai-ai-platform.html) — 2026-09-08 09:00: 省庁ごとに環境を分けると運用の手間が膨らむジレンマを、デジタル庁は約18万人の職員が利用する生成AI基盤「源内」でいかに乗り越えたのか。高いセキュリティと効率化を両立させた仕組みが明らかになりました。
-- [AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ](https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html) — 2026-09-08 08:00: AIモデルに実際のビジネスを運営させたところ、12,431ドルの偽請求書を送付し、3,200ドルの損失を出したことが明らかになりました。
-- [自分を置き換えるAIのトレーニングを拒否した理由](https://ai-tech-times.web.app/articles/20260908-refused-to-train-ai-replacing-me.html) — 2026-09-08 08:00: 自身の仕事を代替する可能性のあるAIモデルの学習作業を拒否した事例について、海外メディアが報じて話題となっています。
-- [TechCrunch AIが解説、知っておくべきAI用語](https://ai-tech-times.web.app/articles/20260908-ai-terms-glossary-techcrunch.html) — 2026-09-08 07:02: AIの急激な普及に伴い、数々の新しい用語やスラングが登場しています。主要な言葉の意味を網羅した用語集が公開されました。
-- [アイシン、レクサスESにAIサス技術採用で乗り心地10%向上](https://ai-tech-times.web.app/articles/20260908-aisin-lexus-es-ai-suspension.html) — 2026-09-08 07:02: アイシンが電子制御サスペンションにおいて、AIを活用してサスペンションの伸縮速度を推定する新技術を開発しました。トヨタ自動車の高級車ブランド「レクサス」の中核セダン「ES」に初めて採用され、走行時の快適性と安定性が高まっています。
-- [Highlandersの国産四足歩行ロボ、段差昇降のデモ公開](https://ai-tech-times.web.app/articles/20260908-highlanders-quadruped-robot-hlq-edge.html) — 2026-09-08 07:02: ロボット開発企業のHighlandersが、国産をうたう四足歩行ロボット「HLQ EDGE」を発表しました。同日に公開されたデモ動画では、段差を昇降する姿が披露されています。
 
 ## 世界のバズ動画TOP3 (2026-09-08)
 - 1位: [EVAN (에반) 'Death of Me' Official MV](https://www.youtube.com/watch?v=iNMvUYjaieA)
 - 2位: [Street Fighter 6 - Arjun Gameplay Trailer](https://www.youtube.com/watch?v=b3SvMJvr998)
 - 3位: [RAYE, Amma, Absolutely - 'Joy.' (Official Video)](https://www.youtube.com/watch?v=invZIgVL2wo)
 
-## AI用語事典 (全1341語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1349語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -57,8 +57,8 @@
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
-- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
+- [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。

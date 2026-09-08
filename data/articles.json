@@ -76140,5 +76140,294 @@
   "date": "2026-09-08",
   "time": "15:00",
   "path": "/articles/20260908-shibuya-kogyo-fy2026-results.html"
+ },
+ {
+  "title": "MicrosoftのCopilotで新モデル「GPT-6 Astra」が利用可能に",
+  "lead": "Microsoftは、「Copilot Cowork」と「Copilot Studio」において、OpenAIの新モデル「GPT-6 Astra」の提供を開始しました。",
+  "summary3": [
+   "Copilotで新モデルを利用可能に",
+   "細かな指示なしで大タスクを委任",
+   "Work IQと合わせ的確な応答に"
+  ],
+  "body": [
+   "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始したと発表しました。",
+   "今回の新モデル導入により、作業を細かく分けて指示せずとも、より大きなタスクをAIに委任できるようになるとうたわれています。",
+   "さらに、「Fable 5.1」も利用可能になり、「Work IQ」と合わせることで、より的確な応答を実現するとしています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Copilot",
+   "AI"
+  ],
+  "slug": "m365-copilot-gpt6-astra",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-m365-copilot-gpt6-astra.html"
+ },
+ {
+  "title": "エリック・ウー氏の新会社NavigateAI、2500万ドル調達の狙い",
+  "lead": "元Opendoorのエリック・ウー氏が立ち上げたNavigateAIは、建設業界の深刻な人手不足を解決するため、AIグラスを活用した作業員向けガイダンスシステムの提供を進めています。",
+  "summary3": [
+   "元Opendoor創業者が新会社を設立",
+   "AIグラスで建設作業をリアルタイム支援",
+   "総額2500万ドルの資金調達に成功"
+  ],
+  "body": [
+   "不動産テック企業Opendoorを創業し2020年代に一線を退いたエリック・ウー氏が、新たな企業「NavigateAI」を率いて事業を展開していることが明らかになりました。同社は5月からステルス状態を脱し、本格的な活動を開始しています。",
+   "現在、建設業界では深刻な人手不足が続いており、特にデータセンターの建設プロジェクトでは1箇所につき4000人から5000人の作業員が必要とされる状況です。NavigateAIは、この課題を解決するためのAIコパイロットを開発しています。",
+   "同社が提供するシステムは、スマートフォンやMetaのAIグラスを通じて、建設作業員にリアルタイムでハンズフリーのガイダンスを提供するものです。この取り組みには、Elad Gil氏、Khosla Ventures、Lennarなどから総額2500万ドルの資金が投じられています。"
+  ],
+  "tags": [
+   "NavigateAI",
+   "建設AI",
+   "資金調達"
+  ],
+  "slug": "eric-wu-navigateai-construction-labor-crunch",
+  "people": [
+   {
+    "name": "エリック・ウー氏",
+    "bio": "不動産テック企業Opendoorを創業し、同社の経営を率いたのち2022年に退任した起業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "NavigateAI",
+    "type": "company",
+    "desc": "エリック・ウー氏が創業し、AIグラス等を用いた建設作業員向けのリアルタイムガイダンスを開発する企業。"
+   },
+   {
+    "name": "Opendoor",
+    "type": "company",
+    "desc": "アメリカを拠点に、オンラインで住宅の売買や仲介サービスを手がける大手不動産テック企業。"
+   },
+   {
+    "name": "Khosla Ventures",
+    "type": "company",
+    "desc": "アメリカの著名なベンチャーキャピタルであり、多くのテクノロジー・AI関連企業に投資している。"
+   },
+   {
+    "name": "Lennar",
+    "type": "company",
+    "desc": "アメリカを拠点とする大手住宅建設・不動産開発企業で、大規模な建設を手がける。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-eric-wu-navigateai-construction-labor-crunch.html"
+ },
+ {
+  "title": "Xiaomi新型折りたたみ、Samsungを超える仕様の真相",
+  "lead": "Xiaomiが新型の折りたたみスマートフォンを発表しました。Samsung製品に似た外観ながら、なぜ優れたスペックを実現できたのでしょうか。",
+  "summary3": [
+   "Xiaomiが新型折りたたみ端末を発表",
+   "Samsung製と似た外観だが性能は上",
+   "IFAで極秘裏に実機を試用した"
+  ],
+  "body": [
+   "ニュースサイト「The Verge」の報道によると、Xiaomiは短く幅の広いタイプの新しい折りたたみスマートフォンを発表しました。この形状の端末を手がける最新のメーカーとなります。",
+   "記者陣は、先週開催されたIFAの会場の裏で、この「18 Fold」と呼ばれる端末を実際に試す機会を得ました。外観や手触りはSamsungの「Galaxy Z Fold 8」に非常に似た印象を受けるものの、より優れたスペックを備えていることが確認できたとしています。",
+   "Appleも同様の形状の端末を市場に投入すると予想される週のなかでの発表となりました。今後、市場での競争がどのように展開されるのか注目されます。"
+  ],
+  "tags": [
+   "Xiaomi",
+   "Samsung",
+   "折りたたみスマホ"
+  ],
+  "slug": "xiaomi-18-fold-hands-on",
+  "people": [],
+  "terms": [
+   {
+    "name": "Xiaomi",
+    "type": "company",
+    "desc": "中国に本拠地を置き、スマートフォンや家電製品などを幅広く開発・販売する世界的な大手メーカーです。"
+   },
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国に本拠地を置き、スマートフォンや半導体などで世界的なシェアを持つ総合家電・電子機器メーカーです。"
+   },
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、iPhoneやMacなどのハードウェアやソフトウェアを開発する大手テクノロジー企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-xiaomi-18-fold-hands-on.html"
+ },
+ {
+  "title": "BOOTHでVTuber名前変換辞書が出品停止、約2万人の登録に批判相次ぐ",
+  "lead": "販売サイト「BOOTH」において、“VTuberの名前変換辞書”が出品停止となりました。VTuber約2万人の“名前”の登録を巡り、批判が相次いだことが背景にあります。",
+  "summary3": [
+   "BOOTHでVTuber名前変換辞書が出品停止",
+   "約2万人のVTuberの名前が登録されていた",
+   "名前の登録を巡ってネット上で批判が相次いだ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによりますと、クリエイター向けマーケットプレイス「BOOTH」にて、“VTuberの名前変換辞書”が出品停止となったことが明らかになりました。",
+   "この辞書ツールは、VTuber約2万人の“名前”が登録されている仕様となっており、その登録を巡ってネット上などで批判が相次ぐ事態となっていました。",
+   "今回の出品停止を受け、販売サイトにおける規約や権利に関する議論など、今後の対応や動向に注目が集まっています。"
+  ],
+  "tags": [
+   "BOOTH",
+   "VTuber",
+   "AI TECH TIMES"
+  ],
+  "slug": "vtuber-name-dictionary-booth-suspended",
+  "people": [],
+  "terms": [
+   {
+    "name": "BOOTH",
+    "type": "company",
+    "desc": "ピクシブ株式会社が運営する、創作物の総合マーケットプレイスです。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiSDZaNmM1YUY1bzduaUhLcVYxWEFwTkFZRi1oYUVkZzdDTzVnOUZCOHIwNlkwQ3BKRVlUTFdTRXFMUTQzQXBmU2QxOTVNQmw1aHhQSGM2RHczZzc4R2didUt2SFk4bVY3UmNuaDQteDlfYUdBbkhNNlppNnVvb28?oc=5",
+  "category": "influencer",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-vtuber-name-dictionary-booth-suspended.html"
+ },
+ {
+  "title": "東海道新幹線で運転見合わせ、名古屋〜岐阜羽島間で拡大も",
+  "lead": "JRによりますと、雨量が規制値を超えたため、東海道・山陽新幹線で運転見合わせが発生しています。",
+  "summary3": [
+   "雨量超過により新幹線が停止",
+   "名古屋と岐阜羽島間で規制",
+   "その後見合わせ区間が拡大"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。JRによりますと、雨量が規制値を超えたため、東海道新幹線は名古屋駅と岐阜羽島駅の間の上下線で、8日午後3時24分から運転を見合わせています。",
+   "その後、運転見合わせの区間がさらに拡大し、東海道・山陽新幹線全体に影響が及ぶ状況となっています。現在のところ、詳しい運行再開の見通しなどは発表されていません。",
+   "利用予定の方は、最新の運行情報を確認するなど注意が必要です。"
+  ],
+  "tags": [
+   "東海道新幹線",
+   "山陽新幹線",
+   "運休情報"
+  ],
+  "slug": "tokaido-sanyo-shinkansen-suspension",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260908de49022",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-tokaido-sanyo-shinkansen-suspension.html"
+ },
+ {
+  "title": "カナダ、アメリカ製品に200億ドルの報復関税を発動",
+  "lead": "世界最大の二国間貿易関係が揺らぐ中、カナダがアメリカ製品に対する報復関税を発動しました。長期化する貿易戦争への懸念が高まっています。",
+  "summary3": [
+   "カナダが対米報復関税を発動",
+   "対象は200億ドルの米国製品",
+   "二国間の貿易関係が不安定に"
+  ],
+  "body": [
+   "BBC Worldの報道によると、カナダはアメリカ製品に対して報復関税を発動しました。今回の関税措置は、長期化する貿易戦争への備えの一環として実施されたものです。",
+   "対象となるのは200億ドル相当のアメリカ製品です。この大規模な関税措置により、世界最大規模を誇る両国間の二国間貿易関係の安定性が大きく揺るがされています。",
+   "両国間の貿易を巡る緊張状態は今後も続く見通しであり、世界経済への影響についても引き続き懸念が持たれています。"
+  ],
+  "tags": [
+   "経済",
+   "貿易",
+   "国際ニュース"
+  ],
+  "slug": "canada-tariffs-us-trade-war",
+  "people": [],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-canada-tariffs-us-trade-war.html"
+ },
+ {
+  "title": "日経平均6万5269円、急速な円高で1130円安の下落",
+  "lead": "日経平均株価は3営業日ぶりに下落し、終値は1130円安の6万5269円となりました。急速な円高を受け、輸出関連株などが売られる展開となっています。",
+  "summary3": [
+   "日経平均は3営業日ぶりに下落",
+   "終値は1130円安の6万5269円",
+   "急速な円高を受け輸出関連が売られる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする市場ニュースです。東京株式市場で日経平均株価は3営業日ぶりに下落しました。この日の終値は前日比1130円安の6万5269円となり、相場全体に下落圧力がかかる展開が見られました。",
+   "今回の下落の背景にあるのは、外国為替市場での急速な円高の進行です。円高傾向が進んだことを受け、自動車や機械などの輸出関連を中心とした幅広い銘柄で売り注文が優勢となり、株価の押し下げ要因となりました。",
+   "市場参加者は為替の動向に警戒感を強めており、今後の外国為替市場の推移が株式市場の方向性を左右する重要な要因として注視されています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "為替動向"
+  ],
+  "slug": "nikkei-average-falls-1130-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhMmlFUXQ5LUNKUUs3S0dHczBsbVdJaVJZZE1mLXBzbmRXd01wOTRocHRIakNFWGhCbU1vUlBqbFJlX2thcHZiOThvekJKQ00zR2hPdTZpNXJhS3pYY291Uk5kbmw?oc=5",
+  "category": "stock",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-nikkei-average-falls-1130-yen.html"
+ },
+ {
+  "title": "萩原工業の株価、8年ぶり上場来高値の背景にある政投銀との提携",
+  "lead": "萩原工業の株価が8年ぶりに上場来高値を更新しました。日本政策投資銀行との資本業務提携が好感されたためです。",
+  "summary3": [
+   "萩原工業の株価が8年ぶりに高値更新",
+   "日本政策投資銀行と資本業務提携を実施",
+   "市場からの好感で上場来高値を記録"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、萩原工業の株価が8年ぶりに上場来高値を更新しました。今回の株価上昇は、日本政策投資銀行との資本業務提携が市場で好感されたことによるものです。",
+   "日本経済新聞の元記事によると、萩原工業と日本政策投資銀行による資本業務提携が材料視され、株価は長年の節目を超える高値を記録しました。具体的な提携内容や今後の動向については、各報道が伝えている通りです。",
+   "株式市場において注目を集める今回の動きは、両社の提携関係の強化が投資家からポジティブに受け止められた結果と言えます。今後も市場関係者の間では、提携に伴う事業展開への関心が続くとみられます。"
+  ],
+  "tags": [
+   "萩原工業",
+   "株価",
+   "日本政策投資銀行"
+  ],
+  "slug": "hagiwara-industries-stock-price-high",
+  "people": [],
+  "terms": [
+   {
+    "name": "萩原工業",
+    "type": "company",
+    "desc": "ポリエチレン製フラットヤーン技術などを基盤とする日本の製造業企業です。"
+   },
+   {
+    "name": "日本政策投資銀行",
+    "type": "company",
+    "desc": "政府系金融機関であり、長期的な資金供給や企業の成長支援を行う日本の銀行です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cnpMOVFhWGdIUmpOZl9mM1M0Ym5EZHlKNGpYSEJwdnlhZkw1RU96aG5DUnpZdXg1R0V3bl9UWmVIX3V4d1doei1uZ1J6UzBNT3piX25IRDIyUHcyN3B3QzhVY3RrY3U0MmdYQg?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-08",
+  "time": "17:06",
+  "path": "/articles/20260908-hagiwara-industries-stock-price-high.html"
  }
 ]
