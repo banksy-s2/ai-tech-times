@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-08 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-08 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "庄内川でレベル5氾濫特別警報、線状降水帯のおそれも",
-   "path": "/articles/20260908-shonai-river-flood-warning.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ローレンス・ウォン首相、年俸360万シンガポールドルに増額",
-   "path": "/articles/20260908-singapore-pm-salary-increase.html",
-   "cat": "時事・世界"
+   "title": "東証反落、終値1130円安の背景は？急速な円高ドル安と輸出銘柄売り",
+   "path": "/articles/20260908-tosei-market-decline-yen-appreciation.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 147,
+  "used": 150,
   "limit": 200
  }
 }

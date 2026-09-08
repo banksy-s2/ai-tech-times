@@ -1,26 +1,11 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "videos": [
-  {
-   "id": "iNMvUYjaieA",
-   "title": "EVAN (에반) 'Death of Me' Official MV",
-   "channel": "HYBE LABELS",
-   "views": 3786172,
-   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA",
-   "thumb": "https://i.ytimg.com/vi/iNMvUYjaieA/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "EVANの新曲「Death of Me」の公式MVが公開されているようです。"
-  },
   {
    "id": "b3SvMJvr998",
    "title": "Street Fighter 6 - Arjun Gameplay Trailer",
    "channel": "Street Fighter",
-   "views": 838357,
+   "views": 864139,
    "url": "https://www.youtube.com/watch?v=b3SvMJvr998",
    "thumb": "https://i.ytimg.com/vi/b3SvMJvr998/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,28 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "「ストリートファイター6」のアルジュナのゲームプレイ映像らしい。(29文字)"
+  },
+  {
+   "id": "iNMvUYjaieA",
+   "title": "EVAN (에반) 'Death of Me' Official MV",
+   "channel": "HYBE LABELS",
+   "views": 4128582,
+   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA",
+   "thumb": "https://i.ytimg.com/vi/iNMvUYjaieA/hqdefault.jpg",
+   "regions": [
+    "US",
+    "BR"
+   ],
+   "rank": 2,
+   "comment": "EVANの新曲「Death of Me」の公式MVが公開されているようです。"
   },
   {
    "id": "RbtE6b0OO2g",
    "title": "This video will teach you How NOT To Fish",
    "channel": "SMii7Y",
-   "views": 3073671,
+   "views": 3090816,
    "url": "https://www.youtube.com/watch?v=RbtE6b0OO2g",
    "thumb": "https://i.ytimg.com/vi/RbtE6b0OO2g/hqdefault.jpg",
    "regions": [
@@ -49,7 +48,7 @@
    "id": "lA1ohDqw8XA",
    "title": "Exploring Minecraft's Forgotten Dimension",
    "channel": "Spoke",
-   "views": 2575806,
+   "views": 2633098,
    "url": "https://www.youtube.com/watch?v=lA1ohDqw8XA",
    "thumb": "https://i.ytimg.com/vi/lA1ohDqw8XA/hqdefault.jpg",
    "regions": [
@@ -63,7 +62,7 @@
    "id": "QDu39yxRoFc",
    "title": "🔴LIVE | TRYING OUT PROJECT ZOMBOID FOR THE FIRST TIME | Gimmick X John X Cloakzy | #BUNGULATE",
    "channel": "TheBurntPeanut",
-   "views": 1152789,
+   "views": 1163351,
    "url": "https://www.youtube.com/watch?v=QDu39yxRoFc",
    "thumb": "https://i.ytimg.com/vi/QDu39yxRoFc/hqdefault.jpg",
    "regions": [
@@ -74,74 +73,74 @@
    "comment": "プロジェクト・ゾンボイドを初めてプレイする配信のようです"
   },
   {
+   "id": "F-NcvXY8_vU",
+   "title": "&TEAM 'Mark on Me' Official MV",
+   "channel": "HYBE LABELS",
+   "views": 937234,
+   "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
+   "thumb": "https://i.ytimg.com/vi/F-NcvXY8_vU/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "JP"
+   ],
+   "rank": 6,
+   "comment": "&TEAMの新曲「Mark on Me」の公式MVが公開されたようです。"
+  },
+  {
    "id": "4OOvmJeXlls",
    "title": "I Pretended to be a BABY TRANSFORMER on ONE CHUNK!",
    "channel": "Cash",
-   "views": 909350,
+   "views": 933291,
    "url": "https://www.youtube.com/watch?v=4OOvmJeXlls",
    "thumb": "https://i.ytimg.com/vi/4OOvmJeXlls/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
-   "comment": "ワンチャンクの世界で赤ちゃんトランスフォーマーになりきったようです。(29文字)"
-  },
-  {
-   "id": "QFsuTM_8pFo",
-   "title": "Romeo Santos - Imitadora 💔 (Letra/Lyrics)",
-   "channel": "Octava Retro",
-   "views": 900448,
-   "url": "https://www.youtube.com/watch?v=QFsuTM_8pFo",
-   "thumb": "https://i.ytimg.com/vi/QFsuTM_8pFo/hqdefault.jpg",
-   "regions": [
-    "US",
-    "BR"
-   ],
    "rank": 7,
-   "comment": "ロメオ・サントスの楽曲「Imitadora」の歌詞付き動画のようです。(29文字)"
-  },
-  {
-   "id": "vRqbSgp8w38",
-   "title": "Don't You Worry Child (feat. John Martin) (Radio Edit)",
-   "channel": "Release - Topic",
-   "views": 711112,
-   "url": "https://www.youtube.com/watch?v=vRqbSgp8w38",
-   "thumb": "https://i.ytimg.com/vi/vRqbSgp8w38/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "BR"
-   ],
-   "rank": 8,
-   "comment": "ジョン・マーティンをフィーチャーした楽曲の音源のようです"
+   "comment": "ワンチャンクの世界で赤ちゃんトランスフォーマーになりきったようです。(29文字)"
   },
   {
    "id": "invZIgVL2wo",
    "title": "RAYE, Amma, Absolutely - 'Joy.' (Official Video)",
    "channel": "RAYE",
-   "views": 694001,
+   "views": 733450,
    "url": "https://www.youtube.com/watch?v=invZIgVL2wo",
    "thumb": "https://i.ytimg.com/vi/invZIgVL2wo/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 8,
    "comment": "RAYEらによる「Joy.」の公式ミュージックビデオです。（29文字）"
   },
   {
    "id": "a0b5oC6IF64",
    "title": "Lanterns Episode 5 Trailer Breakdown & Easter Eggs",
    "channel": "Emergency Awesome",
-   "views": 314657,
+   "views": 323472,
    "url": "https://www.youtube.com/watch?v=a0b5oC6IF64",
    "thumb": "https://i.ytimg.com/vi/a0b5oC6IF64/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 10,
+   "rank": 9,
    "comment": "ドラマのエピソードに関する考察やイースターエッグの解説のようです"
+  },
+  {
+   "id": "jL57dghpf50",
+   "title": "Diljit Dosanjh : Devil (Official Video) Intense : Hizzy : I'm an Artist Bro",
+   "channel": "Diljit Dosanjh",
+   "views": 321918,
+   "url": "https://www.youtube.com/watch?v=jL57dghpf50",
+   "thumb": "https://i.ytimg.com/vi/jL57dghpf50/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "IN"
+   ],
+   "rank": 10,
+   "comment": "Diljit Dosanjhによる「Devil」の公式ミュージックビデオです。"
   }
  ],
  "covered": [
@@ -153,8 +152,6 @@
   "IN"
  ],
  "comment_cache": {
-  "_hoA-2ZyUhs": "Kai Cenatチャンネルでのマインクラフトハードコア攻略配信の模様です。",
-  "MGC6quPPlyw": "Her Storyの展開にリアクションする動画のようです。（23文字）",
   "vo_qsb635u0": "Stray Kidsによる「This & That」のダンスプラクティス映像のようです。（26文字）",
   "eqPQkOwOym0": "『ジュラシック・ワールド・エボリューション3』の新たな種トレーラーです。（30文字）",
   "3Y-5L7XCJ94": "Snax GamingによるPMWC EWCグループステージ4日目のウォッチパーティ配信のようです。(28字)",
@@ -452,6 +449,8 @@
   "I-lOSPSeYFE": "Spiritboxの新曲公式ミュージックビデオのようです",
   "14X6xRf-95k": "Jynxziによる心温まる配信のアーカイブでしょうか",
   "QDu39yxRoFc": "プロジェクト・ゾンボイドを初めてプレイする配信のようです",
-  "vRqbSgp8w38": "ジョン・マーティンをフィーチャーした楽曲の音源のようです"
+  "vRqbSgp8w38": "ジョン・マーティンをフィーチャーした楽曲の音源のようです",
+  "F-NcvXY8_vU": "&TEAMの新曲「Mark on Me」の公式MVが公開されたようです。",
+  "jL57dghpf50": "Diljit Dosanjhによる「Devil」の公式ミュージックビデオです。"
  }
 }

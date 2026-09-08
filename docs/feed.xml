@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>仏Mistral、シリーズDで30億ユーロ調達の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260909-mistral-raises-3b-euros-series-d.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260909-mistral-raises-3b-euros-series-d.html</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>フランスのAI開発企業Mistralが、シリーズDラウンドで30億ユーロを調達しました。評価額は210億ユーロに達し、ソブリンAIのビジネス化が加速しています。</description>
+</item>
+<item>
+<title>Google、ヒトゲノムの謎を解き明かすAIプラットフォーム「AlphaGenome Atlas」を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260909-google-alpha-genome-atlas.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260909-google-alpha-genome-atlas.html</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米Google DeepMindが、ヒトゲノムの謎を解き明かし、新たな治療法への道を開く可能性がある新しいAIプラットフォームを発表しました。</description>
+</item>
+<item>
 <title>東証反落、終値1130円安の背景は？急速な円高ドル安と輸出銘柄売り</title>
 <link>https://ai-tech-times.web.app/articles/20260908-tosei-market-decline-yen-appreciation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260908-tosei-market-decline-yen-appreciation.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 08 Sep 2026 12:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。</description>
-</item>
-<item>
-<title>トランプ氏、AI画像投稿で数千億ドルの株式利益を主張</title>
-<link>https://ai-tech-times.web.app/articles/20260908-trump-truth-social-ai-images-posting.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260908-trump-truth-social-ai-images-posting.html</guid>
-<pubDate>Tue, 08 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ドナルド・トランプ米大統領が自身のSNSプラットフォームにおいて、AI生成画像とともに数百億ドルの株式利益を生み出したという主張を連続して投稿しました。</description>
-</item>
-<item>
-<title>Armの新グラフィックス技術、Xiaomi 18 Foldで中国先行の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260908-arm-mali-g2-ultra-xiaomi-xring-o3.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260908-arm-mali-g2-ultra-xiaomi-xring-o3.html</guid>
-<pubDate>Tue, 08 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>モバイルゲームの作り方や遊び方を変える可能性を秘めた英Armの新技術が、中国市場で先行して展開されることになりました。最新の「Xiaomi 18 Fold」に搭載されたカスタムチップに採用されています。</description>
 </item>
 </channel></rss>
