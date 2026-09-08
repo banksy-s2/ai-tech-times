@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計</title>
+<link>https://ai-tech-times.web.app/articles/20260908-gen-nai-ai-platform.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260908-gen-nai-ai-platform.html</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>省庁ごとに環境を分けると運用の手間が膨らむジレンマを、デジタル庁は約18万人の職員が利用する生成AI基盤「源内」でいかに乗り越えたのか。高いセキュリティと効率化を両立させた仕組みが明らかになりました。</description>
+</item>
+<item>
 <title>AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ</title>
 <link>https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260908-ai-models-run-real-businesses-loss.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Mon, 07 Sep 2026 19:01:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>ドイツの宇宙企業Isar Aerospaceが、欧州で初めて完全民間による軌道ロケットの打ち上げに成功しました。失敗を乗り越えて低地球軌道への到達を果たした背景にはどのような軌跡があったのでしょうか。</description>
-</item>
-<item>
-<title>福島県庁がM365 Copilot全庁展開に踏み切った理由</title>
-<link>https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260907-fukushima-m365-copilot-strategy.html</guid>
-<pubDate>Mon, 07 Sep 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>有償アカウント100件と研修を用意しながらも利用が二極化した福島県庁が、約6000人への全庁展開に踏み切った理由を追います。</description>
 </item>
 </channel></rss>

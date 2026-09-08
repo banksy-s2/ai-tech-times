@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-08 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-08 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ",
-   "path": "/articles/20260908-ai-models-run-real-businesses-loss.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "自分を置き換えるAIのトレーニングを拒否した理由",
-   "path": "/articles/20260908-refused-to-train-ai-replacing-me.html",
-   "cat": "AI(海外)"
+   "title": "デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計",
+   "path": "/articles/20260908-gen-nai-ai-platform.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかっ"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 52,
+  "used": 56,
   "limit": 200
  }
 }
