@@ -1,7 +1,13 @@
 {
- "updated": "2026-09-08 19:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [],
+ "updated": "2026-09-08 20:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "ITmediaのVTuber変換辞書騒動、BOOTHで販売停止からなぜ復活したのか",
+   "path": "/articles/20260908-vtuber-conversion-dictionary-dispute.html",
+   "cat": "インフルエンサー"
+  }
+ ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
@@ -9,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 115,
+  "used": 119,
   "limit": 200
  }
 }
