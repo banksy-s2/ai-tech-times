@@ -1,21 +1,26 @@
 {
- "updated": "2026-09-08 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-09 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "東証反落、終値1130円安の背景は？急速な円高ドル安と輸出銘柄売り",
-   "path": "/articles/20260908-tosei-market-decline-yen-appreciation.html",
-   "cat": "株式投資(日本)"
+   "title": "仏Mistral、シリーズDで30億ユーロ調達の理由",
+   "path": "/articles/20260909-mistral-raises-3b-euros-series-d.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Google、ヒトゲノムの謎を解き明かすAIプラットフォーム「AlphaGenome Atlas」を発表",
+   "path": "/articles/20260909-google-alpha-genome-atlas.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
-  "title": "EVAN (에반) 'Death of Me' Official MV",
-  "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
+  "title": "Street Fighter 6 - Arjun Gameplay Trailer",
+  "url": "https://www.youtube.com/watch?v=b3SvMJvr998"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 150,
+  "used": 5,
   "limit": 200
  }
 }

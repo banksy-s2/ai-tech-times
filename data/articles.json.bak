@@ -76865,5 +76865,83 @@
   "date": "2026-09-08",
   "time": "23:00",
   "path": "/articles/20260908-tosei-market-decline-yen-appreciation.html"
+ },
+ {
+  "title": "仏Mistral、シリーズDで30億ユーロ調達の理由",
+  "lead": "フランスのAI開発企業Mistralが、シリーズDラウンドで30億ユーロを調達しました。評価額は210億ユーロに達し、ソブリンAIのビジネス化が加速しています。",
+  "summary3": [
+   "仏Mistralが30億ユーロを調達",
+   "評価額は210億ユーロに到達",
+   "ソブリンAIのビジネスが急拡大"
+  ],
+  "body": [
+   "フランスのAI開発企業であるMistralは、シリーズDラウンドにおいて30億ユーロの資金調達を実施したことを発表しました。今回の資金調達により、同社の企業評価額は210億ユーロという大規模なものに達しています。",
+   "今回のラウンドは、Samsung、Scaleup Europe、およびPSG Equityが主導しました。世界的なAI開発競争が激化する中での大型資金調達として注目を集めています。",
+   "背景には、各国政府や企業が自国のインフラやデータを守る「ソブリンAI」を重視する動きの強まりがあります。この分野のビジネスが急速に巨大化していることが、今回の巨額調達の背景にあります。"
+  ],
+  "tags": [
+   "Mistral",
+   "資金調達",
+   "ソブリンAI"
+  ],
+  "slug": "mistral-raises-3b-euros-series-d",
+  "people": [],
+  "terms": [
+   {
+    "name": "Mistral",
+    "type": "company",
+    "desc": "フランスに拠点を置く先進的なAI開発企業。高性能な大規模言語モデルを手がけることで知られる。"
+   },
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国を代表する総合電機メーカー。スマートフォンや半導体など多様な事業を展開するグローバル企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+  "category": "ai",
+  "date": "2026-09-09",
+  "time": "00:00",
+  "path": "/articles/20260909-mistral-raises-3b-euros-series-d.html"
+ },
+ {
+  "title": "Google、ヒトゲノムの謎を解き明かすAIプラットフォーム「AlphaGenome Atlas」を発表",
+  "lead": "米Google DeepMindが、ヒトゲノムの謎を解き明かし、新たな治療法への道を開く可能性がある新しいAIプラットフォームを発表しました。",
+  "summary3": [
+   "Google DeepMindが新しいAIを発表",
+   "ヒトゲノムの謎を解明し治療法に道を開く",
+   "DNAの文字変化の予測マップを搭載する"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によると、Google DeepMindは現地時間、ヒトゲノムの謎を解き明かし生物学の理解を大きく変える可能性がある新しいAIツールを発表しました。",
+   "このプラットフォームは「AlphaGenome Atlas」と呼ばれ、科学研究を加速させ、最終的にはさまざまな疾患に対する新しい治療法への道を開くことが期待されています。",
+   "発表によると、同プラットフォームにはあらゆる可能性のあるDNAの文字変化に関する予測マップが含まれており、科学者たちの研究を強力にサポートするとしています。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "ゲノム"
+  ],
+  "slug": "google-alpha-genome-atlas",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google DeepMind",
+    "type": "company",
+    "desc": "イギリス・ロンドンを拠点とするAI開発企業で、高度な機械学習モデルの研究と開発を行っています。"
+   },
+   {
+    "name": "AlphaGenome Atlas",
+    "type": "ai",
+    "desc": "Google DeepMindが開発した、ヒトゲノムの謎を解き明かすための新しいAIプラットフォームです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+  "category": "ai",
+  "date": "2026-09-09",
+  "time": "00:00",
+  "path": "/articles/20260909-google-alpha-genome-atlas.html"
  }
 ]

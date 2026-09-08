@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/business/articles/2607/24/news010.html",
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OdEFNRVB6cHdNZVllWlU0WTdOU3J5M0NLa3ZfS2tlcVN1aC12SEZwV0lzck5KbUFvamZTWWdLS2tmOTBPblBtTk1BR1IzTDRuOEg3Ng?oc=5",
   "https://www.nikkei.com/article/DGXZQODK235S00T20C26A7000000/",
   "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
   "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000219/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ycmdJVmctOEVONU5rOVc1djJXYU41djdxYnB4QVhPLWVPYzZPbjcxRTJPc1BNbHRDcXREOXBYQ0IxQ05FWlk5dTY5Tl9vSkQxUm4tNFc4N0lEUHY0RXNZYlFTeURZS01vVExEUDRiU3dQYlpBMkYzVTVn0gF_QVVfeXFMT04yM0t1ZW9WVi0zcDQwb216R2lqSmdIXzNHY3VNemVnb0JBREdEclhEUS1URlJEZE5MZlA1V3YyaWdWUUxpZmhnQjl1UkYxeUpSSHZjcUxQemIwckNtbDJpMDZCMEJkRlVOZEJ0X1JSdkE0N1p3T0NLOUF2RWhrSQ?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260908de48909",
   "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aX1l3aS1jQUsyMUZBa1N4Y0l6RjR6RklsVDd1dzNETHFpbEl6cFk5elJ0NzMxZWJBRkJMLWdvNENkbnQ1aGgxcEVfWGl0Tm5KM2FRWHh5V2w5VlhfNXROdjR4ZFdkWE1pam1BSzd3Vm01aUMtZEIyY2JBVEp5Nmc?oc=5"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aX1l3aS1jQUsyMUZBa1N4Y0l6RjR6RklsVDd1dzNETHFpbEl6cFk5elJ0NzMxZWJBRkJMLWdvNENkbnQ1aGgxcEVfWGl0Tm5KM2FRWHh5V2w5VlhfNXROdjR4ZFdkWE1pam1BSzd3Vm01aUMtZEIyY2JBVEp5Nmc?oc=5",
+  "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+  "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
  ],
  "titles": [
-  "米国株式市場＝Ｓ＆Ｐ最高値、雇用統計軟調で利上げ観測後退 - ロイター",
-  "シャープ イラン情勢と円安で業績予想を下方修正",
-  "Claudeが提案したオフィスでの紛失スマホ探し",
-  "Gentooバグzilla閉鎖、AIボットの過負荷でなぜ",
   "オープンAI、新型AIアストラ開発中断のなぜ",
   "Zbtlink製ルータ20機種にバックドア、世界10万台超の危険",
   "Meta、若者の精神衛生被害で5億6,700万ドルの支払いを命じられる",
@@ -4001,6 +3997,10 @@
   "庄内川でレベル5氾濫特別警報、線状降水帯のおそれも",
   "ローレンス・ウォン首相、年俸360万シンガポールドルに増額",
   "東証反落、終値1130円安 急速な円高ドル安、輸出銘柄売り（共同通信） - Yahoo!ニュース",
-  "東証反落、終値1130円安の背景は？急速な円高ドル安と輸出銘柄売り"
+  "東証反落、終値1130円安の背景は？急速な円高ドル安と輸出銘柄売り",
+  "Mistral raises €3B as sovereign AI becomes big business",
+  "Google’s Atlas of the human genome could pave the way for new treatments",
+  "仏Mistral、シリーズDで30億ユーロ調達の理由",
+  "Google、ヒトゲノムの謎を解き明かすAIプラットフォーム「AlphaGenome Atlas」を発表"
  ]
 }

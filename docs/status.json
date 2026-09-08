@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-09 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-09 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "仏Mistral、シリーズDで30億ユーロ調達の理由",
-   "path": "/articles/20260909-mistral-raises-3b-euros-series-d.html",
-   "cat": "AI(海外)"
+   "title": "OpenAI、ChatGPT Workに文体学習機能を追加。Gmail等の文章を模倣",
+   "path": "/articles/20260909-chatgpt-work-writing-style-learning.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Google、ヒトゲノムの謎を解き明かすAIプラットフォーム「AlphaGenome Atlas」を発表",
-   "path": "/articles/20260909-google-alpha-genome-atlas.html",
-   "cat": "AI(海外)"
+   "title": "アーンスト・アンド・ヤング、若手の出社回帰を検討",
+   "path": "/articles/20260909-consulting-firms-return-to-office-ai.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Street Fighter 6 - Arjun Gameplay Trailer",
-  "url": "https://www.youtube.com/watch?v=b3SvMJvr998"
+  "title": "&TEAM 'Mark on Me' Official MV",
+  "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }
