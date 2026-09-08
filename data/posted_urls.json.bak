@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVno4eFZqc0xrUVFNWjMxSUxweHkxRHpUQ1NDY0FlTXFjTk9Pb01PTloxR18zZFVrUmk1YVR6X090V0pyLW9HbEtDanVyZjlqUHBYc1dubkFuUkZaSzVDdFJBNVJzQ3hwMUwwUQ?oc=5",
   "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZnAxR0FFcUd0U3VIMXVzaWk3eEpsSWtpcnVwSGRPSVlmamN3bkJ5Q05kZVZScU5YQVl0em55aUJaTWRGNW5FbUNyZzhkQjBrb3NVdm5ZeUV4cFBQNVJLVXUzSHg1UVJJMDBkaGtYWENPbEZNOVJtbw?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEdrWjZCRzZ4eDdOSWFKeGhIdnRCaWx2aTNFMnJWcEF4OVlWSU40Y2d0ZjRTSTBaS1poLURqay1jWDFFTi14T1F6Qkg3b3ptcUh5U0ktTkh3LVJaTTJvWk5Tejk1VUx3MDNxSTZ1akhkMV80OHZxX3VxZzkxb1UwR2lRMUNnUEk?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXlNNnlmNFpxNTVURWYwT2RDRU9QWHN3MU4yMlUteXE2Um9NejkwNkxCZk1ka3BuN3pJbWVGVHNNdldDQTY5SXRfSGVicnNuWS05QkMxZnZnWXFzeGFEQWhqaGVwZTJlbnkyNDlycXVKemFqNmJzQjBtUERfY09RRlZwOXozNzQ?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaE02b0ZfVVBVWUNQWWFBNXY3enlHVTUtdG1TZFVjRnZ2YjFyaDJYa292Q2c0akEtQ2s5c1dmR3pzd0RjdUxzSVZjbEtlNUtFTTVEanJ0Wld3bWtBTzEycWJtY3Voc1QyYzZ5VQ?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISmlyOFJPem04cHplcXlxY0NFaGFIVTdpYVNyb0FvaDREUGJOVzlqWV9ZeFhxYkk3b2FRSDVSQnBqUWlqbzNaTXBGWjZuRWJBYnN6RjZKVW1LanFlZ2cwSTBmQkQtOHZFMkRHWlFJQWE1OE5SYUNwQVhDOG9oS1k?oc=5",
   "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-  "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
+  "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+  "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html"
  ],
  "titles": [
-  "OpenAI、ChatGPT有料版にSol導入なぜ",
-  "Google マップの新機能「マップに相談」を日本で提供開始",
   "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
   "Google says hackers are calling financial firm employees to hack and extort victims",
   "Airbnb、AI投資を大幅拡大へ—株価15%急騰の理由",
@@ -4001,6 +3999,8 @@
   "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
   "I refused to train the AI that could replace me",
   "AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ",
-  "自分を置き換えるAIのトレーニングを拒否した理由"
+  "自分を置き換えるAIのトレーニングを拒否した理由",
+  "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
+  "デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計"
  ]
 }

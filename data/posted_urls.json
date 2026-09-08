@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZnAxR0FFcUd0U3VIMXVzaWk3eEpsSWtpcnVwSGRPSVlmamN3bkJ5Q05kZVZScU5YQVl0em55aUJaTWRGNW5FbUNyZzhkQjBrb3NVdm5ZeUV4cFBQNVJLVXUzSHg1UVJJMDBkaGtYWENPbEZNOVJtbw?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEdrWjZCRzZ4eDdOSWFKeGhIdnRCaWx2aTNFMnJWcEF4OVlWSU40Y2d0ZjRTSTBaS1poLURqay1jWDFFTi14T1F6Qkg3b3ptcUh5U0ktTkh3LVJaTTJvWk5Tejk1VUx3MDNxSTZ1akhkMV80OHZxX3VxZzkxb1UwR2lRMUNnUEk?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXlNNnlmNFpxNTVURWYwT2RDRU9QWHN3MU4yMlUteXE2Um9NejkwNkxCZk1ka3BuN3pJbWVGVHNNdldDQTY5SXRfSGVicnNuWS05QkMxZnZnWXFzeGFEQWhqaGVwZTJlbnkyNDlycXVKemFqNmJzQjBtUERfY09RRlZwOXozNzQ?oc=5",
   "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
   "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISmlyOFJPem04cHplcXlxY0NFaGFIVTdpYVNyb0FvaDREUGJOVzlqWV9ZeFhxYkk3b2FRSDVSQnBqUWlqbzNaTXBGWjZuRWJBYnN6RjZKVW1LanFlZ2cwSTBmQkQtOHZFMkRHWlFJQWE1OE5SYUNwQVhDOG9oS1k?oc=5",
   "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
   "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-  "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html"
+  "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+  "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+  "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa"
  ],
  "titles": [
-  "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-  "Google says hackers are calling financial firm employees to hack and extort victims",
-  "Airbnb、AI投資を大幅拡大へ—株価15%急騰の理由",
-  "Googleが警告：金融機関従業員を標的とする脅威の電話手口",
   "西鉄福岡（天神）駅などで意図しない駅構内放送　第三者が有名YouTuberの音声を不正に流したか",
   "西鉄福岡駅などで意図しない音声、YouTuberの音声を第三者が不正に流したか",
   "Oracle bans AI-generated code from OpenJDK",
@@ -4001,6 +3997,10 @@
   "AIが実ビジネスを運営、偽請求書で3,200ドル損失のなぜ",
   "自分を置き換えるAIのトレーニングを拒否した理由",
   "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
-  "デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計"
+  "デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計",
+  "A secret new Elizabeth Holmes documentary stuns Telluride",
+  "Boox’s tiny Picco e-reader should land in November",
+  "エリザベス・ホームズの秘密ドキュメンタリーがテルライドで上映",
+  "Booxの新型小型電子書籍リーダーPicco、11月発売へ"
  ]
 }
