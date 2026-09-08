@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-09 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-09 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "円が154円台に上昇、半年ぶり高値の背景と市場の心理",
-   "path": "/articles/20260909-yen-rises-to-154-yen-level.html",
-   "cat": "株式投資(日本)"
+   "title": "ツインエンジン、ヨアケと提携で実写映像事業に参入",
+   "path": "/articles/20260909-twin-engine-live-action-business.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 26,
+  "used": 29,
   "limit": 200
  }
 }

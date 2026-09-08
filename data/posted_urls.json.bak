@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://togetter.com/li/2724034",
   "https://news.web.nhk/newsweb/na/na-k10015184591000",
   "https://news.web.nhk/newsweb/na/na-k10015185721000",
   "https://news.web.nhk/newsweb/na/na-k10015184591000",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
   "https://news.web.nhk/newsweb/na/nd-20260909de49198",
   "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-  "https://www.nikkei.com/article/DGXZQOUB078230X00C26A9000000/"
+  "https://www.nikkei.com/article/DGXZQOUB078230X00C26A9000000/",
+  "https://news.google.com/rss/articles/CBMiREFVX3lxTE04Z2RDX3NDdGpzMGJrNVQxT0xLWGdNUnlDNDFvemJMMHQ3NUZraFJTYWlSZ2pvaHc0NHF2MUVLT0JFbld0?oc=5"
  ],
  "titles": [
-  "SNSで広がる「原爆はデマ」、生成AI動画の実態",
-  "AIを全員に配った組織で生産性が落ちる理由",
   "Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027's end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate (SemiAnalysis)",
   "SpaceX、2027年末に10GW構築で年3000億ドル規模へ",
   "HIKAKIN、第2子男児誕生を公表 家族4人で「より一層支え合いながら歩んでいきます」（ENCOUNT） - Yahoo!ニュース",
@@ -4001,6 +3999,8 @@
   "東海で線状降水帯、庄内川に氾濫特別警報",
   "英国がヨルダン川西岸の入植者に制裁、イスラエルは激怒して領事館閉鎖へ",
   "円154円台に上昇　市場「円買い勢い想定以上」「年内149円も」 - 日本経済新聞",
-  "円が154円台に上昇、半年ぶり高値の背景と市場の心理"
+  "円が154円台に上昇、半年ぶり高値の背景と市場の心理",
+  "ツインエンジン、ヨアケとの資本業務提携を通じて実写映像事業に参入 菅田将暉さんが初監督・主演を務める映画『死の谷'95』共同配給 - gamebiz【ゲームビズ】",
+  "ツインエンジン、ヨアケと提携で実写映像事業に参入"
  ]
 }
