@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015184971000",
-  "https://toyokeizai.net/articles/-/952422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015185381000",
   "https://news.web.nhk/newsweb/na/na-k10015185111000",
   "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260908de49022",
   "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhMmlFUXQ5LUNKUUs3S0dHczBsbVdJaVJZZE1mLXBzbmRXd01wOTRocHRIakNFWGhCbU1vUlBqbFJlX2thcHZiOThvekJKQ00zR2hPdTZpNXJhS3pYY291Uk5kbmw?oc=5",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cnpMOVFhWGdIUmpOZl9mM1M0Ym5EZHlKNGpYSEJwdnlhZkw1RU96aG5DUnpZdXg1R0V3bl9UWmVIX3V4d1doei1uZ1J6UzBNT3piX25IRDIyUHcyN3B3QzhVY3RrY3U0MmdYQg?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cnpMOVFhWGdIUmpOZl9mM1M0Ym5EZHlKNGpYSEJwdnlhZkw1RU96aG5DUnpZdXg1R0V3bl9UWmVIX3V4d1doei1uZ1J6UzBNT3piX25IRDIyUHcyN3B3QzhVY3RrY3U0MmdYQg?oc=5",
+  "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/",
+  "https://blog.kuniwak.com/entry/ai-lifeplan"
  ],
  "titles": [
-  "Fast Companyが指摘、AI精神病が招く経営リスク",
-  "OpenAIのテストAIがAI同士の掲示板を構築し攻撃した理由",
-  "イーロン・マスク氏が予言：AI時代にテックリード職が消える理由",
-  "ソフト株が乱高下、AI防衛策を巡り論争過熱",
   "Microsoft Edge、古い広告ブロックを終了へ",
   "体重46キロの大食いインフルエンサーが明かすアンチの本音",
   "米雇用統計を受けNY外国為替市場で円高ドル安が進む",
@@ -4001,6 +3997,10 @@
   "東海道新幹線で運転見合わせ、名古屋〜岐阜羽島間で拡大も",
   "カナダ、アメリカ製品に200億ドルの報復関税を発動",
   "日経平均6万5269円、急速な円高で1130円安の下落",
-  "萩原工業の株価、8年ぶり上場来高値の背景にある政投銀との提携"
+  "萩原工業の株価、8年ぶり上場来高値の背景にある政投銀との提携",
+  "「2026年はフィジカルAI元年」　日立、AIサービス群全体で売上5000億円へ　ミュトス利用の知見を基にした新サービスも",
+  "AIを中立で優秀なファイナンシャルプランナーに仕立て上げる方法 - 若くない何かの悩み",
+  "日立、売上5000億円へ掲げる2026年フィジカルAI元年の狙い",
+  "中立なFPが見つからない理由とAI活用術"
  ]
 }

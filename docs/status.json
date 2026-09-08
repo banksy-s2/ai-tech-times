@@ -1,59 +1,26 @@
 {
- "updated": "2026-09-08 17:06",
- "mode": "フル便",
+ "updated": "2026-09-08 18:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MicrosoftのCopilotで新モデル「GPT-6 Astra」が利用可能に",
-   "path": "/articles/20260908-m365-copilot-gpt6-astra.html",
+   "title": "日立、売上5000億円へ掲げる2026年フィジカルAI元年の狙い",
+   "path": "/articles/20260908-hitachi-physical-ai-2026-hmax.html",
    "cat": "日本のAI"
   },
   {
-   "title": "エリック・ウー氏の新会社NavigateAI、2500万ドル調達の狙い",
-   "path": "/articles/20260908-eric-wu-navigateai-construction-labor-crunch.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Xiaomi新型折りたたみ、Samsungを超える仕様の真相",
-   "path": "/articles/20260908-xiaomi-18-fold-hands-on.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "BOOTHでVTuber名前変換辞書が出品停止、約2万人の登録に批判相次ぐ",
-   "path": "/articles/20260908-vtuber-name-dictionary-booth-suspended.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "東海道新幹線で運転見合わせ、名古屋〜岐阜羽島間で拡大も",
-   "path": "/articles/20260908-tokaido-sanyo-shinkansen-suspension.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "カナダ、アメリカ製品に200億ドルの報復関税を発動",
-   "path": "/articles/20260908-canada-tariffs-us-trade-war.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均6万5269円、急速な円高で1130円安の下落",
-   "path": "/articles/20260908-nikkei-average-falls-1130-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "萩原工業の株価、8年ぶり上場来高値の背景にある政投銀との提携",
-   "path": "/articles/20260908-hagiwara-industries-stock-price-high.html",
-   "cat": "日本企業"
+   "title": "中立なFPが見つからない理由とAI活用術",
+   "path": "/articles/20260908-ai-neutral-financial-planner.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [
-  "執筆失敗: 「2026年はフィジカルAI元年」　日立、AIサービス群全体で売上5000億円へ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 111,
+  "used": 114,
   "limit": 200
  }
 }
