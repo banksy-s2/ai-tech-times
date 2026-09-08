@@ -1,21 +1,60 @@
 {
- "updated": "2026-09-08 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-08 21:06",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ITmediaのVTuber変換辞書騒動、BOOTHで販売停止からなぜ復活したのか",
-   "path": "/articles/20260908-vtuber-conversion-dictionary-dispute.html",
+   "title": "Danijar Hafner氏、予期せぬ事態を予測するAIエージェント開発へ",
+   "path": "/articles/20260908-danijar-hafner-developing-plan-ahead-agents.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "サムスン横浜拠点で日韓連合、AI半導体競争の行方",
+   "path": "/articles/20260908-samsung-yokohama-ai-semiconductor.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "TSMCとSamsungがASMLの最新半導体製造装置を導入する理由",
+   "path": "/articles/20260908-tsmc-samsung-asml-high-na-euv-ai.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "こめおに漁師YouTuber激怒、集団食中毒で衛生管理3000万の矜持",
+   "path": "/articles/20260908-komeoni-youtuber-food-poisoning.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "名古屋市、117万人余に「緊急安全確保」拡大",
+   "path": "/articles/20260908-nagoya-emergency-safety-secure-expansion.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イラン支援勢力が紅海周辺の施設攻撃、情勢悪化の懸念",
+   "path": "/articles/20260908-red-sea-situation-concerns.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東証プライム・ワースト1位となった世界的ブランド銘柄の正体",
+   "path": "/articles/20260908-stock-market-september-8.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "愛知県警、投資会社代表を詐欺容疑で逮捕",
+   "path": "/articles/20260908-aichi-police-arrest-investment-company-representative.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "EVAN (에반) 'Death of Me' Official MV",
   "url": "https://www.youtube.com/watch?v=iNMvUYjaieA"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ChatGPT Workに“自分の文体”学習機能　GmailやSlackの文章か",
+  "執筆失敗: Stoke Space raises another billion to ri",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 119,
+  "used": 142,
   "limit": 200
  }
 }

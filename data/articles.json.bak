@@ -76491,5 +76491,39 @@
   "date": "2026-09-08",
   "time": "18:00",
   "path": "/articles/20260908-ai-neutral-financial-planner.html"
+ },
+ {
+  "title": "ITmediaのVTuber変換辞書騒動、BOOTHで販売停止からなぜ復活したのか",
+  "lead": "VTuberの名前を一発入力できる「VTuber変換辞書」を巡る騒動で、一時販売停止となっていたBOOTHでの取り扱いが再開されました。",
+  "summary3": [
+   "VTuber変換辞書で騒動が発生",
+   "BOOTHで一時販売停止に",
+   "当初の判断に誤りとし復活"
+  ],
+  "body": [
+   "VTuberの名前を一発入力できる「VTuber変換辞書」を巡る騒動において、BOOTHでの一時販売停止から復活を果たしたことが報じられました。",
+   "ITmediaの報道によると、本件について「当初の判断に誤り」があったとして、販売が再開される運びとなりました。",
+   "ファンの間でも注目を集めていた変換辞書の扱いですが、今後は通常通り入手できる状態に戻っています。"
+  ],
+  "tags": [
+   "VTuber",
+   "BOOTH",
+   "ITmedia"
+  ],
+  "slug": "vtuber-conversion-dictionary-dispute",
+  "people": [],
+  "terms": [
+   {
+    "name": "BOOTH",
+    "type": "company",
+    "desc": "ピクシブ株式会社が運営する創作物の総合マーケットプレイス"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeWN2VGxuV0RsVmswRDhEMVJpT1Z2UUNnVjltZm0xcF9wSXFyLTlLb2lKMWJUZDVGSGpMMUU4MG9lLUZCZkFJMkwtSkVnc05TNFJSMl9KWXRBM2FGTkpkSFBOdTZadWVRZ1E?oc=5",
+  "category": "influencer",
+  "date": "2026-09-08",
+  "time": "20:00",
+  "path": "/articles/20260908-vtuber-conversion-dictionary-dispute.html"
  }
 ]

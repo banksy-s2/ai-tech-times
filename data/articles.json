@@ -76525,5 +76525,256 @@
   "date": "2026-09-08",
   "time": "20:00",
   "path": "/articles/20260908-vtuber-conversion-dictionary-dispute.html"
+ },
+ {
+  "title": "Danijar Hafner氏、予期せぬ事態を予測するAIエージェント開発へ",
+  "lead": "サンフランシスコで極秘裏に新興企業を率いるDanijar Hafner氏が、先の予期せぬ事態に対応して計画を立てられるAIエージェントの開発に取り組んでいることが明らかになりました。",
+  "summary3": [
+   "Danijar Hafner氏が新興企業を設立",
+   "予測困難な事態に対応するAIを開発",
+   "サンフランシスコの拠点には家具も僅か"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、サンフランシスコのSoMa地区に位置するオフィスは大部分が空っぽの状態であり、新ブランドのスタートアップは現在もステルスモードで運営されています。オフィスのドアにはまだ企業名すら掲げられておらず、訪問した日には他のスタッフは1名しかおらず、室内には家具もほとんど置かれていませんでした。",
+   "しかし、オフィスの装飾や家具が不足している一方で、同社は予期せぬ事態を見据えて事前に計画を立てることができる最先端のAIエージェントの開発に注力しています。Danijar Hafner氏が率いるこの極秘の取り組みは、従来のAI技術の枠組みを超えて、突発的な変化や不確実な状況に柔軟に対処できるシステムの実現を目指しているものとみられています。",
+   "現時点では企業の名称や詳細なプロダクトの仕様などは明かされておらず、ステルスモードでの開発が進められています。オフィスの様子は非常に簡素なものですが、未来を見据えた高度なAIエージェント開発の拠点として、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "スタートアップ",
+   "Danijar Hafner"
+  ],
+  "slug": "danijar-hafner-developing-plan-ahead-agents",
+  "people": [
+   {
+    "name": "Danijar Hafner氏",
+    "bio": "サンフランシスコでステルスモードの新興企業を率い、予期せぬ事態を予測して計画を立てるAIエージェントを開発している起業家。"
+   }
+  ],
+  "terms": [],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+  "category": "ai",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-danijar-hafner-developing-plan-ahead-agents.html"
+ },
+ {
+  "title": "サムスン横浜拠点で日韓連合、AI半導体競争の行方",
+  "lead": "韓国半導体大手のサムスン電子が横浜市にAI半導体の研究拠点を開設しました。日本の素材・装置メーカーと連携し、性能向上を目指します。",
+  "summary3": [
+   "サムスンが横浜にAI半導体拠点を開設",
+   "日本の装置・材料メーカーと連携を強化",
+   "企業連合による開発競争が加速"
+  ],
+  "body": [
+   "韓国半導体大手サムスン電子は8日、横浜市で人工知能（AI）半導体の研究拠点の開所式を開きました。半導体の組み立て工程の装置や材料で世界トップシェアを持つ日本勢と連携し、AI半導体の性能を高める狙いです。",
+   "AI半導体を巡る競争は、企業単独から国をまたぐ企業連合へと変わりつつあります。サムスン幹部は「日本と技術交流を加速」すると述べており、日韓の強みを組み合わせた開発体制の構築が急ピッチで進められています。",
+   "先端国での研究開発を通じて、今後さらに高度化するAI半導体需要に対応していく方針です。国境を越えた連携が、今後の半導体市場にどのような影響を与えるのか注目されます。"
+  ],
+  "tags": [
+   "サムスン電子",
+   "AI半導体",
+   "半導体"
+  ],
+  "slug": "samsung-yokohama-ai-semiconductor",
+  "people": [],
+  "terms": [
+   {
+    "name": "サムスン電子",
+    "type": "company",
+    "desc": "韓国を代表する総合家電・半導体メーカーであり、メモリー半導体などで世界トップクラスのシェアを持つ。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/",
+  "category": "ai_jp",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-samsung-yokohama-ai-semiconductor.html"
+ },
+ {
+  "title": "TSMCとSamsungがASMLの最新半導体製造装置を導入する理由",
+  "lead": "AIによる需要拡大を背景に、半導体製造大手であるTSMCとSamsungが、ASMLの最新鋭の半導体製造装置を採用することが明らかになりました。",
+  "summary3": [
+   "TSMCとSamsungが最新装置を採用",
+   "ASMLのHigh NA EUVを導入へ",
+   "AIによる需要拡大が背景にある"
+  ],
+  "body": [
+   "AIの急速な普及に伴い、より小さく複雑な半導体の需要が世界的に高まっています。この最先端のAI需要に対応するため、主要な半導体メーカーであるTSMCとSamsungが、ASMLが開発した最新の半導体製造装置である「High NA EUVツール」を導入することを決定しました。",
+   "半導体の微細化を進める上で、露光技術の進化は不可欠です。ASMLが提供するこの最新鋭のツールを活用することで、より高集積で複雑な構造を持つ次世代半導体の量産化に向けた体制が強化されることになります。",
+   "AI向け半導体の開発競争が激化する中、最先端の製造装置を巡る動きは業界全体に大きな影響を与えています。TSMCとSamsungによる今回の導入決定は、今後のAI技術の進化を支える重要な基盤となります。"
+  ],
+  "tags": [
+   "TSMC",
+   "Samsung",
+   "ASML"
+  ],
+  "slug": "tsmc-samsung-asml-high-na-euv-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "台湾にある世界最大の半導体受託製造企業（ファウンドリ）であり、多くの主要テック企業のチップを生産する。"
+   },
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国を代表する総合電機メーカーであり、半導体メモリやスマートフォンなどで世界的なシェアを持つ。"
+   },
+   {
+    "name": "ASML",
+    "type": "company",
+    "desc": "オランダに本拠地を置く世界的な半導体製造装置メーカーで、特に最先端の露光装置で独占的なシェアを持つ。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+  "category": "silicon",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-tsmc-samsung-asml-high-na-euv-ai.html"
+ },
+ {
+  "title": "こめおに漁師YouTuber激怒、集団食中毒で衛生管理3000万の矜持",
+  "lead": "78人の集団食中毒が発生し、こめおに漁師YouTuberが激怒の声を上げました。衛生管理に3000万円をかけた強い思いを語っています。",
+  "summary3": [
+   "78人の集団食中毒が発生しました",
+   "こめおに漁師YouTuberが激怒",
+   "衛生管理に3000万円をかけた矜持"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。先日、78人もの規模となる集団食中毒の発生が確認され、大きな問題となっています。",
+   "この事態を受け、こめおに漁師YouTuberが自身のチャンネルなどで激怒。「かなり腹が立ってます」と率直な怒りを露わにしました。",
+   "その背景には、日頃から衛生管理に対して3000万円もの投資を行ってきた強い矜持があり、食の安全に対する徹底した姿勢を示しています。"
+  ],
+  "tags": [
+   "集団食中毒",
+   "YouTuber",
+   "衛生管理"
+  ],
+  "slug": "komeoni-youtuber-food-poisoning",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMmZPdVlhVzNWUE5hVVY2WVN2b1JiQzBDYVVXWDlyc0ZDNXUwUmtGYjV0RDQxc2VRekhkTk5PbG5CMnY4V0RRY05fMTA1V0NOODR2THZKU2N0c1JQMnZpNWhtMEFVUVU0Qm5RQ0NxYnlxM21yeDZ1TnIxQThLdGc?oc=5",
+  "category": "influencer",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-komeoni-youtuber-food-poisoning.html"
+ },
+ {
+  "title": "名古屋市、117万人余に「緊急安全確保」拡大",
+  "lead": "名古屋市は、市内を流れる河川の氾濫の可能性が非常に高まっているとして、「緊急安全確保」の地域を拡大しました。",
+  "summary3": [
+   "名古屋市が緊急安全確保を拡大",
+   "対象は14の区の117万人余に",
+   "河川の氾濫の可能性が非常に高まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。名古屋市は、午後5時55分、市内を流れる河川の氾濫の可能性が非常に高まっているとして、「緊急安全確保」の地域を拡大したと発表しました。",
+   "今回の対象地域は14の区に及び、対象となる人数は117万人余りにのぼります。非常に危険な状況が迫っているため、該当地域の住民の方々は直ちに身の安全を確保する行動が求められます。",
+   "最新の気象情報や自治体からの避難情報に十分注意し、命を守る最善の行動をとるようお願いいたします。さらなる情報の更新があり次第、随時お伝えしてまいります。"
+  ],
+  "tags": [
+   "名古屋市",
+   "緊急安全確保",
+   "災害情報"
+  ],
+  "slug": "nagoya-emergency-safety-secure-expansion",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260908de49074",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-nagoya-emergency-safety-secure-expansion.html"
+ },
+ {
+  "title": "イラン支援勢力が紅海周辺の施設攻撃、情勢悪化の懸念",
+  "lead": "中東のホルムズ海峡の代替ルートとなっている紅海の周辺で、イランが支援するイエメンの反政府勢力がサウジアラビアのエネルギー施設などを攻撃し、懸念が広がっています。",
+  "summary3": [
+   "ホルムズ海峡の代替ルート紅海周辺で情勢悪化の懸念",
+   "イラン支援のイエメン反政府勢力が施設を攻撃",
+   "サウジアラビアのエネルギー施設などが標的に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする中東情勢の最新ニュースです。中東の重要な海上交通路であるホルムズ海峡の代替ルートとなっている紅海の周辺において、緊迫した状況が続いています。",
+   "元記事の情報によれば、イランが支援するイエメンの反政府勢力が、隣国であるサウジアラビアのエネルギー施設などを攻撃したことが明らかになりました。これにより、紅海周辺の地域情勢がさらに悪化するのではないかと懸念が高まっています。",
+   "エネルギー供給の要所でもある地域での相次ぐ攻撃は、今後の国際情勢やエネルギー市場にも影響を与える可能性があり、引き続き慎重な動向の注視が必要とされる状況です。"
+  ],
+  "tags": [
+   "中東情勢",
+   "エネルギー",
+   "国際ニュース"
+  ],
+  "slug": "red-sea-situation-concerns",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260908de49084",
+  "category": "world",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-red-sea-situation-concerns.html"
+ },
+ {
+  "title": "東証プライム・ワースト1位となった世界的ブランド銘柄の正体",
+  "lead": "9月8日の国内株式市場において、「1ドル＝152円台」の急激な円高が直撃した東証プライムで、ワースト1位となった世界的ブランド銘柄の動向が報じられました。",
+  "summary3": [
+   "9月8日の国内株式市場概況が発表された",
+   "1ドル＝152円台の急激な円高が直撃した",
+   "東証プライム・ワースト1位の銘柄が判明"
+  ],
+  "body": [
+   "9月8日の国内株式市場概況に関する情報が報じられました。当日の市場では「1ドル＝152円台」の急激な円高進行が確認されています。",
+   "この急激な円高の直撃を受けたことで、東証プライム市場においてワースト1位となった「世界的ブランド銘柄」の正体に注目が集まりました。",
+   "詳細な市場概況や該当する銘柄の動向については、報道を通じて伝えられています。"
+  ],
+  "tags": [
+   "日本株",
+   "株式市場",
+   "為替"
+  ],
+  "slug": "stock-market-september-8",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DeEJuQlEwbURYTnpOUm9ZWjNyOFFDaU5wMzZDTUYxQW51TEVVUzNGekRRWlUxTkVMdFBoYmlMQUNvdjZtRVhhRGtUUnVNSlFUZlZnVzNQUHJKa2dRMndSMmxSTElUS3JGNU1rWDJ3d21Eai1xV3dxWC1XWUdfOVE?oc=5",
+  "category": "stock",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-stock-market-september-8.html"
+ },
+ {
+  "title": "愛知県警、投資会社代表を詐欺容疑で逮捕",
+  "lead": "愛知県警は、上場企業役員の肩書を悪用した疑いがあるとして、投資会社の代表を詐欺容疑で逮捕しました。",
+  "summary3": [
+   "愛知県警が投資会社代表を逮捕",
+   "容疑は詐欺に関するもの",
+   "上場企業役員の肩書悪用か"
+  ],
+  "body": [
+   "愛知県警は、投資会社の代表を務める人物を詐欺容疑で逮捕したと発表しました。今回の事件では、上場企業の役員という肩書が悪用された疑いがあるとして、警察が慎重に捜査を進めています。",
+   "現時点で明らかになっている情報によると、容疑者は投資会社の代表としての立場を利用し、何らかの詐欺行為に関与した疑いがもたれています。捜査関係者によると、上場企業役員という社会的信用を背景に、被害者に信じ込ませていた可能性もあるとみて調べています。",
+   "警察は今後、詳しい犯行の手口や余罪の有無などについてさらに捜査を進める方針です。上場企業の肩書が犯罪行為に悪用されたとみられる今回の事件は、企業経営者や投資関係者の社会的信用にも影響を与える問題として注目されています。"
+  ],
+  "tags": [
+   "愛知県警",
+   "詐欺容疑",
+   "上場企業"
+  ],
+  "slug": "aichi-police-arrest-investment-company-representative",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ycmdJVmctOEVONU5rOVc1djJXYU41djdxYnB4QVhPLWVPYzZPbjcxRTJPc1BNbHRDcXREOXBYQ0IxQ05FWlk5dTY5Tl9vSkQxUm4tNFc4N0lEUHY0RXNZYlFTeURZS01vVExEUDRiU3dQYlpBMkYzVTVn0gF_QVVfeXFMT04yM0t1ZW9WVi0zcDQwb216R2lqSmdIXzNHY3VNemVnb0JBREdEclhEUS1URlJEZE5MZlA1V3YyaWdWUUxpZmhnQjl1UkYxeUpSSHZjcUxQemIwckNtbDJpMDZCMEJkRlVOZEJ0X1JSdkE0N1p3T0NLOUF2RWhrSQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-08",
+  "time": "21:06",
+  "path": "/articles/20260908-aichi-police-arrest-investment-company-representative.html"
  }
 ]

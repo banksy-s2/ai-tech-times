@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015185381000",
   "https://news.web.nhk/newsweb/na/na-k10015185111000",
   "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
   "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhMmlFUXQ5LUNKUUs3S0dHczBsbVdJaVJZZE1mLXBzbmRXd01wOTRocHRIakNFWGhCbU1vUlBqbFJlX2thcHZiOThvekJKQ00zR2hPdTZpNXJhS3pYY291Uk5kbmw?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cnpMOVFhWGdIUmpOZl9mM1M0Ym5EZHlKNGpYSEJwdnlhZkw1RU96aG5DUnpZdXg1R0V3bl9UWmVIX3V4d1doei1uZ1J6UzBNT3piX25IRDIyUHcyN3B3QzhVY3RrY3U0MmdYQg?oc=5",
   "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/",
-  "https://blog.kuniwak.com/entry/ai-lifeplan"
+  "https://blog.kuniwak.com/entry/ai-lifeplan",
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeWN2VGxuV0RsVmswRDhEMVJpT1Z2UUNnVjltZm0xcF9wSXFyLTlLb2lKMWJUZDVGSGpMMUU4MG9lLUZCZkFJMkwtSkVnc05TNFJSMl9KWXRBM2FGTkpkSFBOdTZadWVRZ1E?oc=5"
  ],
  "titles": [
-  "Microsoft Edge、古い広告ブロックを終了へ",
-  "体重46キロの大食いインフルエンサーが明かすアンチの本音",
   "米雇用統計を受けNY外国為替市場で円高ドル安が進む",
   "秋田市、2兆円超の日本最大級データセンター計画",
   "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
@@ -4001,6 +3999,8 @@
   "「2026年はフィジカルAI元年」　日立、AIサービス群全体で売上5000億円へ　ミュトス利用の知見を基にした新サービスも",
   "AIを中立で優秀なファイナンシャルプランナーに仕立て上げる方法 - 若くない何かの悩み",
   "日立、売上5000億円へ掲げる2026年フィジカルAI元年の狙い",
-  "中立なFPが見つからない理由とAI活用術"
+  "中立なFPが見つからない理由とAI活用術",
+  "VTuberの名前を一発入力できる「VTuber変換辞書」で騒動 BOOTHで一時販売停止も復活 「当初の判断に誤り」 - ITmedia",
+  "ITmediaのVTuber変換辞書騒動、BOOTHで販売停止からなぜ復活したのか"
  ]
 }
