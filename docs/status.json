@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-08 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-08 11:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "エリザベス・ホームズの秘密ドキュメンタリーがテルライドで上映",
-   "path": "/articles/20260908-elizabeth-holmes-documentary-stuns-telluride.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Booxの新型小型電子書籍リーダーPicco、11月発売へ",
-   "path": "/articles/20260908-boox-picco-e-reader-november.html",
-   "cat": "シリコンバレー最速"
+   "title": "FRIDAYが検証、人気YouTuber・Rちゃんも登録のギャラ飲みアプリ",
+   "path": "/articles/20260908-friday-gallame-app-investigation.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 60,
+  "used": 63,
   "limit": 200
  }
 }

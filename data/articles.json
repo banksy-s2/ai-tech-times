@@ -75716,5 +75716,44 @@
   "date": "2026-09-08",
   "time": "10:00",
   "path": "/articles/20260908-boox-picco-e-reader-november.html"
+ },
+ {
+  "title": "FRIDAYが検証、人気YouTuber・Rちゃんも登録のギャラ飲みアプリ",
+  "lead": "人気女性YouTuberのRちゃんも登録していることで話題となった、一般化した「ギャラ飲みアプリ」の大手企業についてFRIDAYが徹底検証しました。",
+  "summary3": [
+   "人気女性YouTuber・Rちゃんが登録",
+   "一般化したギャラ飲みアプリの大手企業",
+   "FRIDAYがその実態を徹底検証"
+  ],
+  "body": [
+   "ニュースサイト「FRIDAY」の報道によると、一般化した「ギャラ飲みアプリ」の最大手企業について徹底的な検証が行われました。",
+   "この記事では、人気女性YouTuberとして知られるRちゃんも登録していることが明らかにされています。",
+   "身近な存在になりつつあるギャラ飲みアプリの実態や、その大手企業の動向に関心が集まっています。"
+  ],
+  "tags": [
+   "FRIDAY",
+   "YouTube",
+   "アプリ"
+  ],
+  "slug": "friday-gallame-app-investigation",
+  "people": [
+   {
+    "name": "Rちゃん",
+    "bio": "YouTubeなどで活躍する人気女性YouTuber。ギャラ飲みアプリへの登録が話題となる。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "FRIDAY",
+    "type": "company",
+    "desc": "講談社が発行する日本の週刊写真誌。社会の耳目を集めるスクープなどを多数報じる。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00QV9vR2VUZENwNXdZbmNrZjJGSUdHM1N4TDFpNi1FMS1Ccnlhdm9DdVZ3T1Q2MEtoeVYxMGRYS0t4blMyS3BkYmRxY2ZFZGo0b0ozU0lFT2Y5M2Q3VUR1UWkzUUVkRjAtTEhyNUhRd1c3VVFFXzhjNzZOS0lObVk?oc=5",
+  "category": "influencer",
+  "date": "2026-09-08",
+  "time": "11:00",
+  "path": "/articles/20260908-friday-gallame-app-investigation.html"
  }
 ]

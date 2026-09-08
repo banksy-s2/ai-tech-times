@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-08 11:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [FRIDAYが検証、人気YouTuber・Rちゃんも登録のギャラ飲みアプリ](https://ai-tech-times.web.app/articles/20260908-friday-gallame-app-investigation.html) — 2026-09-08 11:00: 人気女性YouTuberのRちゃんも登録していることで話題となった、一般化した「ギャラ飲みアプリ」の大手企業についてFRIDAYが徹底検証しました。
 - [エリザベス・ホームズの秘密ドキュメンタリーがテルライドで上映](https://ai-tech-times.web.app/articles/20260908-elizabeth-holmes-documentary-stuns-telluride.html) — 2026-09-08 10:00: テッククランチによると、エリザベス・ホームズ氏を追った秘密のドキュメンタリー映画「ユー・キャン・シー・エヴリシング」がテルライド映画祭で上映され、観客を驚かせました。
 - [Booxの新型小型電子書籍リーダーPicco、11月発売へ](https://ai-tech-times.web.app/articles/20260908-boox-picco-e-reader-november.html) — 2026-09-08 10:00: 電子書籍リーダーを手がけるBooxは、話題を集めるXteink X4に対抗する小型端末「Picco」を11月に発売する予定であることを明らかにしました。IFAの取材を通じて新たな情報が判明しています。
 - [デジタル庁の生成AI基盤「源内」、1〜2人で18万人を支える設計](https://ai-tech-times.web.app/articles/20260908-gen-nai-ai-platform.html) — 2026-09-08 09:00: 省庁ごとに環境を分けると運用の手間が膨らむジレンマを、デジタル庁は約18万人の職員が利用する生成AI基盤「源内」でいかに乗り越えたのか。高いセキュリティと効率化を両立させた仕組みが明らかになりました。
@@ -41,14 +42,13 @@
 - [イラン、ホルムズ海峡周辺に「制限区域」設置のねらい](https://ai-tech-times.web.app/articles/20260908-iran-hormuz-restricted-area.html) — 2026-09-08 04:00: 中東のホルムズ海峡で緊張が続く中、イランの外交・国防の責任者が同海峡周辺に新たな「制限区域」を設けると表明しました。
 - [ドイツのための選択肢、ザクセン・アンハルト州議選で第1党へ](https://ai-tech-times.web.app/articles/20260908-germany-state-election-afd-2026.html) — 2026-09-08 04:00: ドイツ東部のザクセン・アンハルト州で6日、州議会選挙が行われました。極右団体に認定された政党「ドイツのための選択肢」が第1党に躍進しましたが、過半数には届かず、今後の動向が注目されています。
 - [Huaweiの最新Mate XT 2、Samsungに迫るプライバシー表示を搭載した理由](https://ai-tech-times.web.app/articles/20260908-huawei-mate-xt-2-trifold-launch.html) — 2026-09-08 02:00: Huaweiが中国で最新の折りたたみスマートフォン「Mate XT 2」を発表しました。Samsungを意識した開発がなされており、注目を集めています。
-- [くら寿司「ちいかわ」コラボ中止のなぜ、従業員横流しを防ぐAI監視の限界](https://ai-tech-times.web.app/articles/20260908-kura-sushi-chiikawa-collab-incident.html) — 2026-09-08 01:00: くら寿司は人気キャラクター「ちいかわ」とのコラボキャンペーンを突如中止すると発表しました。背景にある従業員による不正行為と、AI監視だけでは防げない内部不正の対策について報じられています。
 
 ## 世界のバズ動画TOP3 (2026-09-08)
 - 1位: [EVAN (에반) 'Death of Me' Official MV](https://www.youtube.com/watch?v=iNMvUYjaieA)
 - 2位: [RAYE, Amma, Absolutely - 'Joy.' (Official Video)](https://www.youtube.com/watch?v=invZIgVL2wo)
-- 3位: [LISA - SaWaDiKa (Official Music Video)](https://www.youtube.com/watch?v=FyS5dAywkEo)
+- 3位: [Street Fighter 6 - Arjun Gameplay Trailer](https://www.youtube.com/watch?v=b3SvMJvr998)
 
-## AI用語事典 (全1334語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1336語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
