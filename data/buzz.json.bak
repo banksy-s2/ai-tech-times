@@ -2,10 +2,40 @@
  "date": "2026-09-09",
  "videos": [
   {
+   "id": "A0WX-jsir94",
+   "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+   "channel": "Nintendo of America",
+   "views": 3770633,
+   "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
+   "thumb": "https://i.ytimg.com/vi/A0WX-jsir94/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 1,
+   "comment": "ゼルダの伝説の40周年記念ダイレクト映像のようです"
+  },
+  {
+   "id": "kw0YhiqOPFg",
+   "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+   "channel": "GODZILLA OFFICIAL by TOHO",
+   "views": 2483473,
+   "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+   "thumb": "https://i.ytimg.com/vi/kw0YhiqOPFg/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "rank": 2,
+   "comment": "ゴジラマイナスゼロのIMAX版公式トレーラーのようです"
+  },
+  {
    "id": "F-NcvXY8_vU",
    "title": "&TEAM 'Mark on Me' Official MV",
    "channel": "HYBE LABELS",
-   "views": 1153404,
+   "views": 1211905,
    "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
    "thumb": "https://i.ytimg.com/vi/F-NcvXY8_vU/hqdefault.jpg",
    "regions": [
@@ -13,134 +43,106 @@
     "GB",
     "JP"
    ],
-   "rank": 1,
+   "rank": 3,
    "comment": "&TEAMの新曲「Mark on Me」の公式MVが公開されたようです。"
-  },
-  {
-   "id": "b3SvMJvr998",
-   "title": "Street Fighter 6 - Arjun Gameplay Trailer",
-   "channel": "Street Fighter",
-   "views": 935722,
-   "url": "https://www.youtube.com/watch?v=b3SvMJvr998",
-   "thumb": "https://i.ytimg.com/vi/b3SvMJvr998/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 2,
-   "comment": "「ストリートファイター6」のアルジュナのゲームプレイ映像らしい。(29文字)"
   },
   {
    "id": "lA1ohDqw8XA",
    "title": "Exploring Minecraft's Forgotten Dimension",
    "channel": "Spoke",
-   "views": 2798299,
+   "views": 2853684,
    "url": "https://www.youtube.com/watch?v=lA1ohDqw8XA",
    "thumb": "https://i.ytimg.com/vi/lA1ohDqw8XA/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 3,
+   "rank": 4,
    "comment": "マインクラフトの忘れられた次元を探索している動画のようです。(27文字)"
   },
   {
-   "id": "4OOvmJeXlls",
-   "title": "I Pretended to be a BABY TRANSFORMER on ONE CHUNK!",
-   "channel": "Cash",
-   "views": 1005665,
-   "url": "https://www.youtube.com/watch?v=4OOvmJeXlls",
-   "thumb": "https://i.ytimg.com/vi/4OOvmJeXlls/hqdefault.jpg",
+   "id": "b3SvMJvr998",
+   "title": "Street Fighter 6 - Arjun Gameplay Trailer",
+   "channel": "Street Fighter",
+   "views": 960223,
+   "url": "https://www.youtube.com/watch?v=b3SvMJvr998",
+   "thumb": "https://i.ytimg.com/vi/b3SvMJvr998/hqdefault.jpg",
    "regions": [
     "US",
-    "GB"
+    "BR"
    ],
-   "rank": 4,
-   "comment": "ワンチャンクの世界で赤ちゃんトランスフォーマーになりきったようです。(29文字)"
+   "rank": 5,
+   "comment": "「ストリートファイター6」のアルジュナのゲームプレイ映像らしい。(29文字)"
   },
   {
    "id": "invZIgVL2wo",
    "title": "RAYE, Amma, Absolutely - 'Joy.' (Official Video)",
    "channel": "RAYE",
-   "views": 860669,
+   "views": 916525,
    "url": "https://www.youtube.com/watch?v=invZIgVL2wo",
    "thumb": "https://i.ytimg.com/vi/invZIgVL2wo/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 6,
    "comment": "RAYEらによる「Joy.」の公式ミュージックビデオです。（29文字）"
   },
   {
    "id": "jL57dghpf50",
    "title": "Diljit Dosanjh : Devil (Official Video) Intense : Hizzy : I'm an Artist Bro",
    "channel": "Diljit Dosanjh",
-   "views": 422559,
+   "views": 464268,
    "url": "https://www.youtube.com/watch?v=jL57dghpf50",
    "thumb": "https://i.ytimg.com/vi/jL57dghpf50/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 6,
+   "rank": 7,
    "comment": "Diljit Dosanjhによる「Devil」の公式ミュージックビデオです。"
+  },
+  {
+   "id": "XfuHC-3hbyk",
+   "title": "Season 10: Butcher's Blasphemy // Dev Vision Vol. 21 | Marvel Rivals",
+   "channel": "Marvel Rivals",
+   "views": 403706,
+   "url": "https://www.youtube.com/watch?v=XfuHC-3hbyk",
+   "thumb": "https://i.ytimg.com/vi/XfuHC-3hbyk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 8,
+   "comment": "マーベルライバルズのシーズン10に関する開発者映像のようです"
   },
   {
    "id": "I-lOSPSeYFE",
    "title": "Spiritbox - Mourning (Official Video)",
    "channel": "riserecords",
-   "views": 366413,
+   "views": 398124,
    "url": "https://www.youtube.com/watch?v=I-lOSPSeYFE",
    "thumb": "https://i.ytimg.com/vi/I-lOSPSeYFE/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 9,
    "comment": "Spiritboxの新曲公式ミュージックビデオのようです"
   },
   {
    "id": "238X2xUGxRM",
    "title": "Katy Perry - The One That Got Away (Lyrics)",
    "channel": "Tearbluee",
-   "views": 288143,
+   "views": 330263,
    "url": "https://www.youtube.com/watch?v=238X2xUGxRM",
    "thumb": "https://i.ytimg.com/vi/238X2xUGxRM/hqdefault.jpg",
    "regions": [
     "GB",
     "BR"
    ],
-   "rank": 8,
-   "comment": "ケイティ・ペリーの人気曲の歌詞付き動画のようです。"
-  },
-  {
-   "id": "pTL9BtN6IKs",
-   "title": "You Can See Everything - Official Teaser (2026) Nathan Fielder, Elizabeth Holmes",
-   "channel": "IGN Movie Trailers",
-   "views": 197595,
-   "url": "https://www.youtube.com/watch?v=pTL9BtN6IKs",
-   "thumb": "https://i.ytimg.com/vi/pTL9BtN6IKs/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 9,
-   "comment": "ネイサン・フィールダーらが出演する映画の公式ティーザー動画。(28文字)"
-  },
-  {
-   "id": "8doc_Zq0Anw",
-   "title": "EPIC - Trailer | Anand Deverakonda, Vaishnavi Chaitanya | Hesham AW | Naga Vamsi S | Aditya Hasan",
-   "channel": "Sithara Entertainments",
-   "views": 8326990,
-   "url": "https://www.youtube.com/watch?v=8doc_Zq0Anw",
-   "thumb": "https://i.ytimg.com/vi/8doc_Zq0Anw/hqdefault.jpg",
-   "regions": [
-    "IN"
-   ],
    "rank": 10,
-   "comment": "Anand Deverakondaらが出演する映画の予告編のようです。（29文字）"
+   "comment": "ケイティ・ペリーの人気曲の歌詞付き動画のようです。"
   }
  ],
  "covered": [
@@ -152,9 +154,6 @@
   "IN"
  ],
  "comment_cache": {
-  "jHF_CB6JBC0": "自分で爆発するカオスな工場を作るゲーム実況のようです。",
-  "IqcS1d3eXYc": "3人のハンターと入れ替わりながら進めるマインクラフトのスピードランのようです",
-  "bKRmok9NbbA": "マインクラフトでフレンドをトロールするためにVERITYに変身したみたいです",
   "cT5fDiZx5Z0": "カイ・セナートによるマインクラフトハードコアの生配信2日目後半の様子。",
   "9Y5_3DTlyCU": "OpTic GamingとTeam Hereticsによる熱戦の様子(29字)",
   "R30DHQSos8I": "aespaのKARINAとWINTERによる楽曲のようです。(29字)",
@@ -451,6 +450,9 @@
   "jL57dghpf50": "Diljit Dosanjhによる「Devil」の公式ミュージックビデオです。",
   "238X2xUGxRM": "ケイティ・ペリーの人気曲の歌詞付き動画のようです。",
   "5exNBs0cWTc": "動物病院のアノマリーゲームで薬を飲みすぎてしまう実況動画のようです",
-  "pTL9BtN6IKs": "ネイサン・フィールダーらが出演する映画の公式ティーザー動画。(28文字)"
+  "pTL9BtN6IKs": "ネイサン・フィールダーらが出演する映画の公式ティーザー動画。(28文字)",
+  "A0WX-jsir94": "ゼルダの伝説の40周年記念ダイレクト映像のようです",
+  "kw0YhiqOPFg": "ゴジラマイナスゼロのIMAX版公式トレーラーのようです",
+  "XfuHC-3hbyk": "マーベルライバルズのシーズン10に関する開発者映像のようです"
  }
 }
