@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSXdsUG9oMlVTeC1xbGdTTWcxVGtDcTFjQTZodWx3RFlrZHM5WnlVM2RHT29mSHhNaUJZQ1Q4NWtwX1M3dktTTFEyYXV5VEtPT2c?oc=5",
-  "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WZ1V5QldSLW44TVR2NXZuVy1MWk5FUzQ3cEhqQWdVUGtDSzR3MVZwSURNUmxBZ1RpXzdrVXZTaThUM1ZSbEtr?oc=5",
   "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
   "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGJ0TjE3M2QyNXZndVhSZ3A1ZUlJUlAxSXZaaTBIMHhzaHpYQ3Bfb2ltYldKN2J6Z0kzVldQM3R1VWl2Y3RmYXVUTVA4WTd4dFBzREZJRXVKRHNLV194UnhEczBCd3hhSnM4cEh4S1VtSnUzVFpHTUtfUFpvT0dBenNFM1VqQdIBiwFBVV95cUxPeXk5aElIRW5wZzJQWXh5YmZpU3ZtRV9OOGJoeWpJZTNTMHNKNENmUFR3TFYweXB4WHRJRDlrTEZPSkZobUxiZmtPV1BLbmVRa2tWT1R4VlI4MUVWbWNiUVJBSlhvcDRHZFpveGd5NE9zRDY2NTdtUGxSZmRUSEZNclN6OE01cTZsWHpF?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260909de49382",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmJ0aDVCVUczM1RxSEdLeFd2ZDFLUEh1ZE94Vng2RFIzVml0UWhKSWduejNqempXR2VxT2tYREdlWVczZ0NvdjQ3UER4SWRTdHhGdGJ1T0dyQ2dNTDUtWk13N0FrLUZQRHlVeVRPVVFOQU5QV0VLRlhvRGZTRmc?oc=5",
   "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-  "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/"
+  "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
+  "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+  "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html"
  ],
  "titles": [
-  "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
-  "OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由",
-  "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-  "Buc-ee’s dodges John Oliver to sue another small business",
   "ZooxとUberから見る自動運転の未来",
   "Buc-ee’s、人気司会者の挑発を無視して小規模店を提訴へ",
   "日本人女性インフルエンサー「急死」ENHYPENニキ苦言波紋 - zakⅡ",
@@ -4001,6 +3997,10 @@
   "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
   "TechCrunch AI：大手企業で従業員あたりのAI支出が低下",
   "結局、AIはどれだけ人間の労働を代替し給料を下げるのか　Anthropicが提示する「米国経済3つのシナリオ」",
-  "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率"
+  "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率",
+  "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+  "Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of 'tokenized' stock trading",
+  "Miro買収額は13.6億ドル、ピーク時から90%減の理由",
+  "Nasdaq、1億ドル投資で2027年トークン株取引へ"
  ]
 }

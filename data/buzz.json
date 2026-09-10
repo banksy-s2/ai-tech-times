@@ -5,7 +5,7 @@
    "id": "RdUV9Ms5GM4",
    "title": "IU 'Dear my crazy soulmate' MV",
    "channel": "이지금 [IU Official]",
-   "views": 1175307,
+   "views": 1510533,
    "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4",
    "thumb": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
    "regions": [
@@ -18,40 +18,26 @@
    "comment": "IUの新曲ミュージックビデオが公開されているようです。"
   },
   {
-   "id": "L7qEKA-e2qI",
-   "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
-   "channel": "Mythri Movie Makers",
-   "views": 10885703,
-   "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI",
-   "thumb": "https://i.ytimg.com/vi/L7qEKA-e2qI/hqdefault.jpg",
+   "id": "Y1Lah0BM0KQ",
+   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
+   "channel": "HYBE LABELS",
+   "views": 326611,
+   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ",
+   "thumb": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "IN"
+    "JP",
+    "BR"
    ],
    "rank": 2,
-   "comment": "Vijay Deverakondaらが出演する映画のティザー映像のようです。（26字）"
-  },
-  {
-   "id": "kw0YhiqOPFg",
-   "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
-   "channel": "GODZILLA OFFICIAL by TOHO",
-   "views": 7572121,
-   "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
-   "thumb": "https://i.ytimg.com/vi/kw0YhiqOPFg/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "IN"
-   ],
-   "rank": 3,
-   "comment": "ゴジラマイナスゼロのIMAX版公式トレーラーのようです"
+   "comment": "LE SSERAFIMとOVERWATCHのコラボによる公式MVのようです。"
   },
   {
    "id": "s1s2E6hXU_M",
    "title": "Slipknot - Arsenal [OFFICIAL VIDEO]",
    "channel": "Slipknot",
-   "views": 909546,
+   "views": 939434,
    "url": "https://www.youtube.com/watch?v=s1s2E6hXU_M",
    "thumb": "https://i.ytimg.com/vi/s1s2E6hXU_M/hqdefault.jpg",
    "regions": [
@@ -59,92 +45,109 @@
     "GB",
     "BR"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "Slipknotの新曲公式ミュージックビデオのようです。（23字）"
+  },
+  {
+   "id": "nhdh962_ee0",
+   "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
+   "channel": "Avatar Legends",
+   "views": 214482,
+   "url": "https://www.youtube.com/watch?v=nhdh962_ee0",
+   "thumb": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 4,
+   "comment": "Paramount+によるアバターの公式トレイラーのようです。"
+  },
+  {
+   "id": "L43gRv9Et2w",
+   "title": "Slayyyter - crank 2 (Official Video)",
+   "channel": "SlayyyterVEVO",
+   "views": 70389,
+   "url": "https://www.youtube.com/watch?v=L43gRv9Et2w",
+   "thumb": "https://i.ytimg.com/vi/L43gRv9Et2w/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 5,
+   "comment": "Slayyyterの新曲オフィシャルビデオのようです。"
+  },
+  {
+   "id": "gQf4Vya5PbI",
+   "title": "American Horror Story: 13 | Official Trailer | FX",
+   "channel": "FX Networks",
+   "views": 49806,
+   "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI",
+   "thumb": "https://i.ytimg.com/vi/gQf4Vya5PbI/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 6,
+   "comment": "American Horror Storyのシーズン13公式トレイラーのようです。"
   },
   {
    "id": "fneuVQ7uO_w",
    "title": "Drishyam: The Conclusion | Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
    "channel": "Star Studios",
-   "views": 28222036,
+   "views": 28381933,
    "url": "https://www.youtube.com/watch?v=fneuVQ7uO_w",
    "thumb": "https://i.ytimg.com/vi/fneuVQ7uO_w/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 5,
+   "rank": 7,
    "comment": "Ajay Devgnらが出演する映画の公式予告編のようです。（25字）"
+  },
+  {
+   "id": "kw0YhiqOPFg",
+   "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+   "channel": "GODZILLA OFFICIAL by TOHO",
+   "views": 7630767,
+   "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+   "thumb": "https://i.ytimg.com/vi/kw0YhiqOPFg/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 8,
+   "comment": "ゴジラマイナスゼロのIMAX版公式トレーラーのようです"
   },
   {
    "id": "B_QJ4BYIGME",
    "title": "Nintendo Direct 9.9.2026",
    "channel": "Nintendo of America",
-   "views": 6480999,
+   "views": 6500302,
    "url": "https://www.youtube.com/watch?v=B_QJ4BYIGME",
    "thumb": "https://i.ytimg.com/vi/B_QJ4BYIGME/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 9,
    "comment": "2026年9月9日に配信されたニンテンドーダイレクトのようです。（27字）"
-  },
-  {
-   "id": "FhhA5purigQ",
-   "title": "Magale - Music Video | Baththa | Vijay Sethupathi | @SaiAbhyankkar | Balaji Tharaneetharan",
-   "channel": "Think Music India",
-   "views": 3965666,
-   "url": "https://www.youtube.com/watch?v=FhhA5purigQ",
-   "thumb": "https://i.ytimg.com/vi/FhhA5purigQ/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "rank": 7,
-   "comment": "Vijay Sethupathiが出演する楽曲のミュージックビデオのようです。（28字）"
-  },
-  {
-   "id": "job8V254NAE",
-   "title": "DIGGER | Official Final Trailer",
-   "channel": "Warner Bros.",
-   "views": 2613244,
-   "url": "https://www.youtube.com/watch?v=job8V254NAE",
-   "thumb": "https://i.ytimg.com/vi/job8V254NAE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 8,
-   "comment": "映画『DIGGER』の最終公式予告編のようです。（20字）"
   },
   {
    "id": "jkUw2nh6fT0",
    "title": "Carrie – Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 2445418,
+   "views": 2522020,
    "url": "https://www.youtube.com/watch?v=jkUw2nh6fT0",
    "thumb": "https://i.ytimg.com/vi/jkUw2nh6fT0/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "Prime Videoで配信される『Carrie』の公式予告編のようです。（27字）"
-  },
-  {
-   "id": "W5anA28oyY4",
-   "title": "We Played The Worst Meccha Chameleon Clone",
-   "channel": "SMii7Y",
-   "views": 1982781,
-   "url": "https://www.youtube.com/watch?v=W5anA28oyY4",
-   "thumb": "https://i.ytimg.com/vi/W5anA28oyY4/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "有名なカメレオンのクローンゲームをプレイした動画のようです。（27字）"
+   "comment": "Prime Videoで配信される『Carrie』の公式予告編のようです。（27字）"
   }
  ],
  "covered": [
@@ -156,10 +159,6 @@
   "IN"
  ],
  "comment_cache": {
-  "DiIquLrEqC4": "オーバーウォッチのシーズン4「釜山の英雄」公式トレーラー (27万回再生)",
-  "mPDoyFpVJao": "IShowSpeedによるマインクラフトハードコアのボス攻略配信のようですね。",
-  "GWt-JVV2ZPo": "Kai Cenatらによるマインクラフトハードコア挑戦の配信映像みたいです。",
-  "zFpiS0CaddA": "マリオパーティとは一味違うゲームのプレイ映像のようですね。",
   "KUvXyshNFJc": "マインクラフトの世界でのオーシャンハウスのバトルのようです。",
   "bfQ0eLJNWiw": "WayVの新曲「Vision Wings」のMVのようですね。",
   "xDs8UT3kJ8Y": "ジェイ・ジをフィーチャーした楽曲のリミックス映像のようですね。",
@@ -455,6 +454,10 @@
   "W5anA28oyY4": "有名なカメレオンのクローンゲームをプレイした動画のようです。（27字）",
   "inZfjVQxC3o": "No Man's SkyのCOSMOSアップデートの予告編映像のようです。(27文字)",
   "a6qmJc2DMl8": "Marvel Rivalsの新シーズンGodbombの公式トレーラー (27字)",
-  "RdUV9Ms5GM4": "IUの新曲ミュージックビデオが公開されているようです。"
+  "RdUV9Ms5GM4": "IUの新曲ミュージックビデオが公開されているようです。",
+  "Y1Lah0BM0KQ": "LE SSERAFIMとOVERWATCHのコラボによる公式MVのようです。",
+  "nhdh962_ee0": "Paramount+によるアバターの公式トレイラーのようです。",
+  "L43gRv9Et2w": "Slayyyterの新曲オフィシャルビデオのようです。",
+  "gQf4Vya5PbI": "American Horror Storyのシーズン13公式トレイラーのようです。"
  }
 }

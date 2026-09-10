@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-11 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-11 03:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Miro買収額は13.6億ドル、ピーク時から90%減の理由",
-   "path": "/articles/20260911-bending-spoons-to-buy-miro.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Nasdaq、1億ドル投資で2027年トークン株取引へ",
-   "path": "/articles/20260911-nasdaq-tokenized-stock-trading-2027.html",
-   "cat": "シリコンバレー最速"
+   "title": "JR東日本、Suica新キャラ候補3案にファンアート続出の理由",
+   "path": "/articles/20260911-suica-penguin-new-character-fan-art.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 18,
   "limit": 200
  }
 }
