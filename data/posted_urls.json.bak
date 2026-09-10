@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWxPVWZra3g0SFVXbUoydVZGVXkzdVhmS3NWaTdncll2Yk1zUW9ZY2sxd0IwNEZIeVVxdlFFQ01qRlQzYmhGSlVyT0E5T2JYZmE3ZGQxblRyZFo0eDF2blVZdVdRWk41UkV5cFY4bDFrQ3MwMl9YS2JrOTI5LVdKc0lhUC1ha1U?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0N4UnY5eXA3YzROVWxRVFUyb1RHTDBYRHBsMTlybHFmUFhPRFh1Uk1kV3NMakJHbURvUDlBTFhkTDFJZDAzQVZjNVBsMDYtQ0JZbnlaclYxejNzNGY0MXVmY0pEOWFHWF9iYnQ4LWllWG5yY2VVaFkwRDdHVU5hcWdKMkduOTQ?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSXdsUG9oMlVTeC1xbGdTTWcxVGtDcTFjQTZodWx3RFlrZHM5WnlVM2RHT29mSHhNaUJZQ1Q4NWtwX1M3dktTTFEyYXV5VEtPT2c?oc=5",
   "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WZ1V5QldSLW44TVR2NXZuVy1MWk5FUzQ3cEhqQWdVUGtDSzR3MVZwSURNUmxBZ1RpXzdrVXZTaThUM1ZSbEtr?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eTlFSGlxUG41UDJadmM3MTNOMnZkQTlSQXFsZlduamcxc2JKdGZ2c0htQXJNc0RNUlI4cGcwMWFCVXVqMDQyTzZJRzVkaENlTklv?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260910de49537",
   "https://news.web.nhk/newsweb/na/nd-20260909de49382",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmJ0aDVCVUczM1RxSEdLeFd2ZDFLUEh1ZE94Vng2RFIzVml0UWhKSWduejNqempXR2VxT2tYREdlWVczZ0NvdjQ3UER4SWRTdHhGdGJ1T0dyQ2dNTDUtWk13N0FrLUZQRHlVeVRPVVFOQU5QV0VLRlhvRGZTRmc?oc=5"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmJ0aDVCVUczM1RxSEdLeFd2ZDFLUEh1ZE94Vng2RFIzVml0UWhKSWduejNqempXR2VxT2tYREdlWVczZ0NvdjQ3UER4SWRTdHhGdGJ1T0dyQ2dNTDUtWk13N0FrLUZQRHlVeVRPVVFOQU5QV0VLRlhvRGZTRmc?oc=5",
+  "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
  ],
  "titles": [
-  "イスラエル・ネタニヤフ首相、ガザ撤退を拒否した理由",
-  "オマーンが明かすホルムズ協議の進展、合意で貿易はどう変わるか",
   "経済を冷ます猛暑 ビール消費鈍化や「巣ごもり」増加 株価下押し圧力の懸念も - 産経ニュース",
   "猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加",
   "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
@@ -4001,6 +3999,8 @@
   "WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値",
   "WTI原油一時95ドル台、供給懸念で高値",
   "アシックスが怒りの自己株式取得－株価は「適正水準からかい離」（Bloomberg） - Yahoo!ニュース",
-  "アシックスが自己株式取得を発表、株価は「適正水準からかい離」"
+  "アシックスが自己株式取得を発表、株価は「適正水準からかい離」",
+  "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+  "TechCrunch AI：大手企業で従業員あたりのAI支出が低下"
  ]
 }

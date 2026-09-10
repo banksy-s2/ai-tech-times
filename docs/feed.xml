@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率</title>
+<link>https://ai-tech-times.web.app/articles/20260911-anthropic-us-economy-ai-impact.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260911-anthropic-us-economy-ai-impact.html</guid>
+<pubDate>Fri, 11 Sep 2026 01:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米国の人工知能開発企業Anthropicの経済チームが、AIが米国経済に与える影響について3つのシナリオによる予測を発表しました。</description>
+</item>
+<item>
 <title>TechCrunch AI：大手企業で従業員あたりのAI支出が低下</title>
 <link>https://ai-tech-times.web.app/articles/20260911-ai-spend-per-employee-slumped.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260911-ai-spend-per-employee-slumped.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Wed, 09 Sep 2026 07:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>「AI TECH TIMES」がお伝えする最新のニュースです。OpenAIの最新AIモデル「GPT-6 Astra」が、パズルFPS『Portal』を人間の助けなしでクリアしたと報告されました。</description>
-</item>
-<item>
-<title>OpenBMBの「MiniCPM5-2B」公開、2BなのにGemma 4 12B同等の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260909-openbmb-minicpm5-2b-released.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260909-openbmb-minicpm5-2b-released.html</guid>
-<pubDate>Wed, 09 Sep 2026 07:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>中国のAI企業OpenBMBが2026年9月7日に公開した「MiniCPM5-2B」は、20億パラメーター規模ながらGemma 4 12Bと同等のベンチマークスコアを記録しました。小型かつ高性能で日本語応答も可能な注目モデルの全貌をお伝えします。</description>
 </item>
 </channel></rss>

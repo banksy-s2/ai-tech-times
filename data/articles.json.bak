@@ -78438,5 +78438,39 @@
   "date": "2026-09-10",
   "time": "23:01",
   "path": "/articles/20260910-asics-share-buyback-market-news.html"
+ },
+ {
+  "title": "TechCrunch AI：大手企業で従業員あたりのAI支出が低下",
+  "lead": "TechCrunch AIの報道によると、主要企業における従業員あたりのAI支出が8月に低下しました。AIの普及がハイパースケーラーの期待通りに進んでいない現状が浮き彫りになっています。",
+  "summary3": [
+   "主要企業でAI支出が低下",
+   "トークンコストの低下が影響",
+   "AI普及の進め方に懸念"
+  ],
+  "body": [
+   "TechCrunch AIは、トップ企業における従業員あたりのAI支出が8月に急減したと報じました。夏枯れの季節的な要因によるものなのか、それとも将来への警告サインなのか注目が集まっています。",
+   "背景には、トークンのコスト低下や、より安価なモデルの登場があります。これらが企業の支出削減に寄与しているとみられます。",
+   "しかし、こうした状況は、AIの普及が必ずしもハイパースケーラーが期待した通りには進んでいない現実を示しており、今後の動向が懸念されています。"
+  ],
+  "tags": [
+   "AI",
+   "TechCrunch",
+   "ビジネス"
+  ],
+  "slug": "ai-spend-per-employee-slumped",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "テクノロジー業界の動向やスタートアップ企業に関するニュースを専門に報じるアメリカのメディア"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "00:02",
+  "path": "/articles/20260911-ai-spend-per-employee-slumped.html"
  }
 ]

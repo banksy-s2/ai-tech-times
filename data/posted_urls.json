@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0N4UnY5eXA3YzROVWxRVFUyb1RHTDBYRHBsMTlybHFmUFhPRFh1Uk1kV3NMakJHbURvUDlBTFhkTDFJZDAzQVZjNVBsMDYtQ0JZbnlaclYxejNzNGY0MXVmY0pEOWFHWF9iYnQ4LWllWG5yY2VVaFkwRDdHVU5hcWdKMkduOTQ?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSXdsUG9oMlVTeC1xbGdTTWcxVGtDcTFjQTZodWx3RFlrZHM5WnlVM2RHT29mSHhNaUJZQ1Q4NWtwX1M3dktTTFEyYXV5VEtPT2c?oc=5",
   "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WZ1V5QldSLW44TVR2NXZuVy1MWk5FUzQ3cEhqQWdVUGtDSzR3MVZwSURNUmxBZ1RpXzdrVXZTaThUM1ZSbEtr?oc=5",
   "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260910de49537",
   "https://news.web.nhk/newsweb/na/nd-20260909de49382",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmJ0aDVCVUczM1RxSEdLeFd2ZDFLUEh1ZE94Vng2RFIzVml0UWhKSWduejNqempXR2VxT2tYREdlWVczZ0NvdjQ3UER4SWRTdHhGdGJ1T0dyQ2dNTDUtWk13N0FrLUZQRHlVeVRPVVFOQU5QV0VLRlhvRGZTRmc?oc=5",
-  "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+  "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+  "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/"
  ],
  "titles": [
-  "経済を冷ます猛暑 ビール消費鈍化や「巣ごもり」増加 株価下押し圧力の懸念も - 産経ニュース",
-  "猛暑が経済を冷ます？ビール消費鈍化や巣ごもり増加",
   "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
   "OpenAIが明かすHugging Face侵害、AIエージェントが秘密の掲示板を作っていた理由",
   "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
@@ -4001,6 +3999,8 @@
   "アシックスが怒りの自己株式取得－株価は「適正水準からかい離」（Bloomberg） - Yahoo!ニュース",
   "アシックスが自己株式取得を発表、株価は「適正水準からかい離」",
   "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-  "TechCrunch AI：大手企業で従業員あたりのAI支出が低下"
+  "TechCrunch AI：大手企業で従業員あたりのAI支出が低下",
+  "結局、AIはどれだけ人間の労働を代替し給料を下げるのか　Anthropicが提示する「米国経済3つのシナリオ」",
+  "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率"
  ]
 }
