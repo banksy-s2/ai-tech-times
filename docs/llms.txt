@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [エヌビディア来期70%成長の理由、黄CEOが語る](https://ai-tech-times.web.app/articles/20260911-jensen-huang-nvidia-growth-70-percent.html) — 2026-09-11 08:00: AI半導体市場を牽引するエヌビディアが、来期も驚異的な70%の成長を遂げると予測される理由について、ジェンスン・フアンCEOが語りました。
+- [Pocket FMが売上5億ドルを達成、AIで制作費80分の1に](https://ai-tech-times.web.app/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html) — 2026-09-11 08:00: インドのオーディオプラットフォーム「Pocket FM」が、AIの活用によって売上収益ランレートを5億ドルへと倍増させました。コンテンツ制作費を大幅に削減したその仕組みをお伝えします。
 - [Anthropic、アリババなどの蒸留攻撃を告発した理由](https://ai-tech-times.web.app/articles/20260911-anthropic-details-distillation-campaigns.html) — 2026-09-11 07:02: 米AI企業のAnthropicは木曜日、中国企業による持続的なモデル蒸留攻撃に関する新しいレポートを発表しました。AI分野の競争激化に伴い、こうした攻撃が近年エスカレートしていると主張しています。
 - [OpenAI、数学の難問をAIで解明し学術界に波紋](https://ai-tech-times.web.app/articles/20260911-openai-math-millennium-prize.html) — 2026-09-11 07:02: OpenAIが数学の難問を解決したと発表し、AIが数学を変革するスピードを見せつけました。しかし、発表前から複雑な事態が生じています。
 - [アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-price-increase-ai-trend.html) — 2026-09-11 07:02: 米アップルは日本向けに36万円台の折り畳み型の新型iPhoneを発表し、全機種で前モデルより値上げしました。AI台頭の中で固定客頼みが強まる背景とは何でしょうか。
@@ -40,21 +42,19 @@
 - [Nasdaq、1億ドル投資で2027年トークン株取引へ](https://ai-tech-times.web.app/articles/20260911-nasdaq-tokenized-stock-trading-2027.html) — 2026-09-11 02:00: ナスダックが暗号資産企業に1億ドルを投資し、株式等のトークン化を株式市場のインフラに組み込む大規模な動きを見せました。2027年の「トークン化」された株式取引の開始を目指します。
 - [Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率](https://ai-tech-times.web.app/articles/20260911-anthropic-us-economy-ai-impact.html) — 2026-09-11 01:03: 米国の人工知能開発企業Anthropicの経済チームが、AIが米国経済に与える影響について3つのシナリオによる予測を発表しました。
 - [TechCrunch AI：大手企業で従業員あたりのAI支出が低下](https://ai-tech-times.web.app/articles/20260911-ai-spend-per-employee-slumped.html) — 2026-09-11 00:02: TechCrunch AIの報道によると、主要企業における従業員あたりのAI支出が8月に低下しました。AIの普及がハイパースケーラーの期待通りに進んでいない現状が浮き彫りになっています。
-- [アシックスが自己株式取得を発表、株価は「適正水準からかい離」](https://ai-tech-times.web.app/articles/20260910-asics-share-buyback-market-news.html) — 2026-09-10 23:01: アシックスによる自己株式の取得が発表されました。現在の株価が適正水準からかい離しているとの見解が示されています。
-- [WTI原油一時95ドル台、供給懸念で高値](https://ai-tech-times.web.app/articles/20260910-wti-crude-oil-price-rise.html) — 2026-09-10 22:01: ニューヨーク原油市場で、WTI先物価格が一時1バレル＝95ドル台半ばまで上昇しました。約3か月ぶりの高値水準となっています。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
 - 3位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 
-## AI用語事典 (全1385語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1386語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
-- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
+- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
