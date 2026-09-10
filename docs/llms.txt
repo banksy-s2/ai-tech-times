@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic、アリババなどの蒸留攻撃を告発した理由](https://ai-tech-times.web.app/articles/20260911-anthropic-details-distillation-campaigns.html) — 2026-09-11 07:02: 米AI企業のAnthropicは木曜日、中国企業による持続的なモデル蒸留攻撃に関する新しいレポートを発表しました。AI分野の競争激化に伴い、こうした攻撃が近年エスカレートしていると主張しています。
+- [OpenAI、数学の難問をAIで解明し学術界に波紋](https://ai-tech-times.web.app/articles/20260911-openai-math-millennium-prize.html) — 2026-09-11 07:02: OpenAIが数学の難問を解決したと発表し、AIが数学を変革するスピードを見せつけました。しかし、発表前から複雑な事態が生じています。
+- [アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-price-increase-ai-trend.html) — 2026-09-11 07:02: 米アップルは日本向けに36万円台の折り畳み型の新型iPhoneを発表し、全機種で前モデルより値上げしました。AI台頭の中で固定客頼みが強まる背景とは何でしょうか。
+- [Appleジョン・ターナスCEO初陣：初の折りたたみスマホ発表](https://ai-tech-times.web.app/articles/20260911-apple-first-foldable-phone-iphone-18-pro.html) — 2026-09-11 07:02: Appleのジョン・ターナスCEOによる初の発表イベントが開催され、同社初となる折りたたみ式スマートフォンなどが発表されました。
+- [The Boring Company、UAE主導のラウンドで30億ドルを調達](https://ai-tech-times.web.app/articles/20260911-the-boring-company-raises-3b-uae.html) — 2026-09-11 07:02: イーロン・マスク氏が率いる地下交通網開発企業The Boring Companyが、UAE主導の資金調達ラウンドで30億ドルを集めました。中東で150キロメートル以上のトンネル建設を計画しています。
+- [アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから](https://ai-tech-times.web.app/articles/20260911-apple-foldable-smartphone-release.html) — 2026-09-11 07:02: アメリカのIT大手アップルは9日、最新の製品を発表し、日本での販売価格が36万円余りの折りたたみ式のスマートフォンを披露しました。
+- [高市首相、食料品消費税減税の大綱来週決定へ](https://ai-tech-times.web.app/articles/20260911-takaichi-consumption-tax-reduction.html) — 2026-09-11 07:02: 食料品の消費税減税をめぐり、自民党執行部は来週の大綱決定を目指す方針を固めました。決定に向けた今後の日程や党人事の調整が進められています。
+- [ニデック永守氏らに287億円請求、株主代表訴訟](https://ai-tech-times.web.app/articles/20260911-nidec-shareholder-lawsuit-287-billion-yen.html) — 2026-09-11 07:02: 不正な会計処理が明らかになった電子部品大手の旧「日本電産」、ニデックをめぐり、株主が創業者らに巨額の支払いを求める訴訟を起こしました。
+- [大和自動車が急反発､大和ハウスとの提携の背景](https://ai-tech-times.web.app/articles/20260911-daiwa-jidosha-daiwa-house-capital-alliance.html) — 2026-09-11 07:02: 大和自動車の株式が急反発を見せました。大和ハウスとの資本業務提携が材料視されています。
 - [タイミー、東証プライム市場への変更申請を準備](https://ai-tech-times.web.app/articles/20260911-timee-prime-market-application.html) — 2026-09-11 06:00: すきまバイトサービスを展開するタイミーが、東京証券取引所プライム市場への上場市場変更の申請に向けた準備を進めていることが明らかになりました。
 - [ニデックを株主28人が提訴、株価下落で損害賠償請求](https://ai-tech-times.web.app/articles/20260911-nidec-shareholders-lawsuit.html) — 2026-09-11 05:01: 不正会計問題が報じられたニデックに対し、株主28人が株価下落による損害賠償を求めて提訴したことが明らかになりました。
 - [米財務長官発言で円買いが進んだ理由](https://ai-tech-times.web.app/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html) — 2026-09-11 04:01: 9日の東京外国為替市場で、アメリカのベッセント財務長官による円売りをけん制する発言が伝えられ、円相場が値上がりしました。
@@ -33,22 +42,13 @@
 - [TechCrunch AI：大手企業で従業員あたりのAI支出が低下](https://ai-tech-times.web.app/articles/20260911-ai-spend-per-employee-slumped.html) — 2026-09-11 00:02: TechCrunch AIの報道によると、主要企業における従業員あたりのAI支出が8月に低下しました。AIの普及がハイパースケーラーの期待通りに進んでいない現状が浮き彫りになっています。
 - [アシックスが自己株式取得を発表、株価は「適正水準からかい離」](https://ai-tech-times.web.app/articles/20260910-asics-share-buyback-market-news.html) — 2026-09-10 23:01: アシックスによる自己株式の取得が発表されました。現在の株価が適正水準からかい離しているとの見解が示されています。
 - [WTI原油一時95ドル台、供給懸念で高値](https://ai-tech-times.web.app/articles/20260910-wti-crude-oil-price-rise.html) — 2026-09-10 22:01: ニューヨーク原油市場で、WTI先物価格が一時1バレル＝95ドル台半ばまで上昇しました。約3か月ぶりの高値水準となっています。
-- [OpenAI、AI安全性研究の有力者を理事会に迎えた理由](https://ai-tech-times.web.app/articles/20260910-openai-adds-paul-christiano-to-board.html) — 2026-09-10 21:10: 対話型AIなどを手掛けるOpenAIは、AIの安全性とアライメント（人間の意図との整合性）を専門とする有力研究者のポール・クリスティアーノ氏が、OpenAIファウンデーションの理事会メンバーに就任したと発表しました。
-- [OECDデータ：生成AIを使う学生の成績が低下](https://ai-tech-times.web.app/articles/20260910-students-ai-use-scores-oecd.html) — 2026-09-10 21:10: OECDの教育報告書データによると、学習に生成AIを使用する学生は、使用しない学生と比べて学校の成績が低くなる傾向にあることが明らかになりました。
-- [KOWRO代表が公開、AI面接の違和感](https://ai-tech-times.web.app/articles/20260910-ai-interview-kowro-harada.html) — 2026-09-10 21:10: AIベンチャーの代表が、自身のXアカウントで「人生で初めてAIが面接に来た」とする動画を公開し、話し方に違和感があるとして注意を呼び掛けました。
-- [Automattic取締役会、CEOマール・マレンウェグ氏を意に反して休職処分に](https://ai-tech-times.web.app/articles/20260910-automattic-board-forces-ceo-matt-mullenweg-into-leave-of-abs.html) — 2026-09-10 21:10: WordPressなどで知られるAutomatticの取締役会が、CEOのマール・マレンウェグ氏を休職処分にしたことが分かりました。本人からの発言も報じられています。
-- [ヒカル氏のビジネスパートナー入江巨之氏が次世代AIスクールで本人登壇](https://ai-tech-times.web.app/articles/20260910-next-gen-ai-school-fc-partner.html) — 2026-09-10 21:10: 人気YouTuberのヒカル氏のビジネスパートナーである入江巨之氏が登壇する、次世代AIスクールの全国0次FCパートナー募集が発表されました。
-- [農林水産省、輸入小麦売り渡し価格12％引き上げへ](https://ai-tech-times.web.app/articles/20260910-wheat-price-increase-12-percent.html) — 2026-09-10 21:10: 政府が輸入した小麦を民間に売り渡す際の価格について、農林水産省は来月から半年間、前の期間より12％引き上げると発表しました。
-- [高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？](https://ai-tech-times.web.app/articles/20260910-koyasan-shukubo-tax-omission.html) — 2026-09-10 21:10: 世界遺産の和歌山県・高野山で宿坊を営む複数の宗教法人が、大阪国税局の税務調査で法人税や所得税などあわせて1億円を超える申告漏れを指摘されていたことが分かりました。
-- [エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由](https://ai-tech-times.web.app/articles/20260910-airtrip-dividend-increase.html) — 2026-09-10 21:10: エアトリ（6191）が大幅な増配を発表し、配当利回りが17.33％に達しました。2026年9月期の年間配当は前期比150円増の「1株あたり160円」となります。
-- [中部電力グループ、およそ500万件で12億円を過大徴収](https://ai-tech-times.web.app/articles/20260910-chubu-denryoku-overcharge-electricity-fees.html) — 2026-09-10 21:10: 中部電力グループは、発電原価の算定ミスにより、およそ500万件の電気料金をおととし以降に本来より多く徴収していたと発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
-- 2位: [IU 'Dear my crazy soulmate' MV](https://www.youtube.com/watch?v=RdUV9Ms5GM4)
-- 3位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
+- 2位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
+- 3位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 
-## AI用語事典 (全1379語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1385語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
