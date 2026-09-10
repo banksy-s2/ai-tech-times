@@ -77963,5 +77963,39 @@
   "date": "2026-09-10",
   "time": "17:08",
   "path": "/articles/20260910-tsumura-yomeishu-acquisition.html"
+ },
+ {
+  "title": "日立がフィジカルAI加速へ新サービス発表、売上5000億円のAI事業にどう挑むのか",
+  "lead": "日立製作所がフィジカルAIの実装を加速させる新サービスを発表しました。変化が激しいAI動向を読み解き、事業拡大に挑む同社の覚悟が伝えられています。",
+  "summary3": [
+   "日立製作所が新サービスを発表",
+   "フィジカルAIの実装を加速へ",
+   "売り上げ5000億円を目指す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のニュースです。ITmedia AI+の報道によると、日立製作所はフィジカルAIの実装を加速させる新サービスを発表しました。",
+   "変化が激しいAIの動向をどのように読み取り、顧客が必要とするサービスを開発したのか、そのプロセスには同社の強い覚悟が見て取れます。",
+   "日立は売り上げ5000億円を見込むAI事業の拡大に向けて、今後どのように挑んでいくのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "日立製作所",
+   "フィジカルAI",
+   "AI事業"
+  ],
+  "slug": "hitachi-physical-ai-service",
+  "people": [],
+  "terms": [
+   {
+    "name": "日立製作所",
+    "type": "company",
+    "desc": "日本を代表する総合電機メーカーであり、社会インフラからIT事業まで幅広く手掛ける。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
+  "category": "ai_jp",
+  "date": "2026-09-10",
+  "time": "18:01",
+  "path": "/articles/20260910-hitachi-physical-ai-service.html"
  }
 ]
