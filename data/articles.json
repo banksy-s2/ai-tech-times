@@ -78674,5 +78674,39 @@
   "date": "2026-09-11",
   "time": "04:01",
   "path": "/articles/20260911-us-agency-accuses-chinese-ai-distillation.html"
+ },
+ {
+  "title": "ニデックを株主28人が提訴、株価下落で損害賠償請求",
+  "lead": "不正会計問題が報じられたニデックに対し、株主28人が株価下落による損害賠償を求めて提訴したことが明らかになりました。",
+  "summary3": [
+   "不正会計のニデックを株主28人が提訴",
+   "株価下落による損害賠償を求める内容",
+   "朝日新聞などの報道により判明"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによると、不正会計問題に関連して、ニデックに対し株主28人が提訴に踏み切りました。原告である株主らは、一連の問題に起因する株価下落によって損害を被ったとして、損害賠償を求めています。",
+   "今回の訴訟は、企業の会計上の不正やそれに伴う信頼低下が、投資家である株主に直接的な金銭的被害をもたらしたとして起こされたものです。企業統治や適切な情報開示のあり方について、市場関係者からも厳しい目が向けられる事態となっています。",
+   "ニデックを巡る不正会計問題および今回の株主提訴について、今後の司法の場での判断や会社の対応に引き続き注目が集まります。投資家の権利保護や企業の透明性確保に関する議論に、さらなる影響を与える可能性があります。"
+  ],
+  "tags": [
+   "ニデック",
+   "株主代表訴訟",
+   "不正会計"
+  ],
+  "slug": "nidec-shareholders-lawsuit",
+  "people": [],
+  "terms": [
+   {
+    "name": "ニデック",
+    "type": "company",
+    "desc": "京都府に本社を置く、世界的な総合モーターメーカー。各種電気機器の製造販売を手がける。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0aVg1OGprNkxySkhCeVFUVVd1c0JITENmVFUxRGhBbVIydHpXYWNCSzNOVFhESXUzMEFxUk1NUmhlNWQyS1pNSmVCbjVwUGVHd0VqV1pPUUcwR3E5bkFSS0IyVDJEYXZpT2xFRVNfa2xHbFo4bXhaQkgzRVQ0SDQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-11",
+  "time": "05:01",
+  "path": "/articles/20260911-nidec-shareholders-lawsuit.html"
  }
 ]

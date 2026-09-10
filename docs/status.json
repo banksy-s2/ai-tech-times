@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-11 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-11 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "米財務長官発言で円買いが進んだ理由",
-   "path": "/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米政府機関、中国企業6社のAI蒸留を非難",
-   "path": "/articles/20260911-us-agency-accuses-chinese-ai-distillation.html",
-   "cat": "時事・世界"
+   "title": "ニデックを株主28人が提訴、株価下落で損害賠償請求",
+   "path": "/articles/20260911-nidec-shareholders-lawsuit.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 25,
   "limit": 200
  }
 }

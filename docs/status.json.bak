@@ -1,21 +1,26 @@
 {
- "updated": "2026-09-11 03:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-11 04:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "JR東日本、Suica新キャラ候補3案にファンアート続出の理由",
-   "path": "/articles/20260911-suica-penguin-new-character-fan-art.html",
-   "cat": "インフルエンサー"
+   "title": "米財務長官発言で円買いが進んだ理由",
+   "path": "/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米政府機関、中国企業6社のAI蒸留を非難",
+   "path": "/articles/20260911-us-agency-accuses-chinese-ai-distillation.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "IU 'Dear my crazy soulmate' MV",
-  "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4"
+  "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
+  "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 18,
+  "used": 21,
   "limit": 200
  }
 }
