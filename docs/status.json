@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-10 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-11 00:03",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "アシックスが自己株式取得を発表、株価は「適正水準からかい離」",
-   "path": "/articles/20260910-asics-share-buyback-market-news.html",
-   "cat": "株式投資(日本)"
+   "title": "TechCrunch AI：大手企業で従業員あたりのAI支出が低下",
+   "path": "/articles/20260911-ai-spend-per-employee-slumped.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "IU 'Dear my crazy soulmate' MV",
   "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Apple’s new iPhone camera mode promises "
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 67,
+  "used": 4,
   "limit": 200
  }
 }

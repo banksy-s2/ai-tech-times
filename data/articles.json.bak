@@ -78404,5 +78404,39 @@
   "date": "2026-09-10",
   "time": "22:01",
   "path": "/articles/20260910-wti-crude-oil-price-rise.html"
+ },
+ {
+  "title": "アシックスが自己株式取得を発表、株価は「適正水準からかい離」",
+  "lead": "アシックスによる自己株式の取得が発表されました。現在の株価が適正水準からかい離しているとの見解が示されています。",
+  "summary3": [
+   "アシックスが自己株式取得を発表",
+   "株価が適正水準からかい離と指摘",
+   "今後の市場の動向に注目が集まる"
+  ],
+  "body": [
+   "スポーツ用品大手のアシックスが、自己株式の取得を実施することを発表しました。今回の自己株式取得は、現在の株価が本来の適正水準からかい離しているという判断に基づくものとされています。",
+   "株式市場においては、企業の自己株式取得は資本効率の向上や株主還元の姿勢を示すものとして注目されることが多い施策です。アシックスの今回の発表についても、市場関係者の間で様々な議論や受け止めがなされています。",
+   "同社の株価水準に対する認識や、今後の企業価値向上に向けた取り組みについては、引き続き市場の動向を慎重に見守る必要があります。投資判断にあたっては、株価や業績に関する正確な情報に基づき、慎重に検討することが重要となります。"
+  ],
+  "tags": [
+   "アシックス",
+   "自己株式取得",
+   "株式市場"
+  ],
+  "slug": "asics-share-buyback-market-news",
+  "people": [],
+  "terms": [
+   {
+    "name": "アシックス",
+    "type": "company",
+    "desc": "日本発祥の世界的なスポーツ用品メーカー。競技用シューズやアパレルなどを幅広く展開している。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xYmJ0aDVCVUczM1RxSEdLeFd2ZDFLUEh1ZE94Vng2RFIzVml0UWhKSWduejNqempXR2VxT2tYREdlWVczZ0NvdjQ3UER4SWRTdHhGdGJ1T0dyQ2dNTDUtWk13N0FrLUZQRHlVeVRPVVFOQU5QV0VLRlhvRGZTRmc?oc=5",
+  "category": "stock",
+  "date": "2026-09-10",
+  "time": "23:01",
+  "path": "/articles/20260910-asics-share-buyback-market-news.html"
  }
 ]
