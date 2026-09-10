@@ -78064,5 +78064,345 @@
   "date": "2026-09-10",
   "time": "20:00",
   "path": "/articles/20260910-aichi-pref-police-influencer-arrest.html"
+ },
+ {
+  "title": "OpenAI、AI安全性研究の有力者を理事会に迎えた理由",
+  "lead": "対話型AIなどを手掛けるOpenAIは、AIの安全性とアライメント（人間の意図との整合性）を専門とする有力研究者のポール・クリスティアーノ氏が、OpenAIファウンデーションの理事会メンバーに就任したと発表しました。",
+  "summary3": [
+   "OpenAIの理事会に新メンバーが加入",
+   "安全性研究の有力者がボードメンバーに就任",
+   "AIのアライメント問題に焦点を当てる"
+  ],
+  "body": [
+   "AI技術の急速な発展を続けるOpenAIは、新たな理事会メンバーとしてポール・クリスティアーノ氏を迎えたことを明らかにし、AIの安全性確保に向けた体制を強化する動きを見せています。",
+   "クリスティアーノ氏は、AIシステムが人間の意図や価値観と正しく一致して動作するように研究する「アライメント（整合性）」の分野で広く知られる、影響力のあるAI研究者の一人です。",
+   "同氏は今後、OpenAIファウンデーションの一員として理事会に参加し、安全性に重点を置いた視点から組織のガバナンスや方向性に影響を与えていくことになります。"
+  ],
+  "tags": [
+   "OpenAI",
+   "AI安全性",
+   "人工知能"
+  ],
+  "slug": "openai-adds-paul-christiano-to-board",
+  "people": [
+   {
+    "name": "ポール・クリスティアーノ氏",
+    "bio": "AIのアライメント（人間の意図との整合性）を専門とする、影響力のある著名なAI研究者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、ChatGPTなどの最先端AI開発を手がける主要な人工知能企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+  "category": "ai",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-openai-adds-paul-christiano-to-board.html"
+ },
+ {
+  "title": "OECDデータ：生成AIを使う学生の成績が低下",
+  "lead": "OECDの教育報告書データによると、学習に生成AIを使用する学生は、使用しない学生と比べて学校の成績が低くなる傾向にあることが明らかになりました。",
+  "summary3": [
+   "OECD報告書でAI利用と成績の関連が判明",
+   "AIを使う学生は全体的に学校の成績が低下",
+   "批判的な評価を学んだ生徒には一定の効果も"
+  ],
+  "body": [
+   "海外のニュースサイト「The Verge AI」の報道によると、グローバルなOECD（経済協力開発機構）の教育報告書から得られたデータにより、勉強のためにAIを使用する学生は、そうでない学生と比較して学校での成績が振るわない傾向にあることが判明しました。",
+   "しかし、状況は単純ではなく、特定の種類のAI利用方法においては学習者にわずかなプラスの効果をもたらす場合もあるとされています。特に、AIの出力を批判的に評価する方法を教えられている学生の間では、その傾向が見られるとのことです。",
+   "AI技術の急速な普及が進む中、教育現場におけるAIの活用方法や、生徒の学力に与える影響については、さらなる詳細な分析と慎重なアプローチが求められる状況と言えそうです。"
+  ],
+  "tags": [
+   "AI",
+   "教育",
+   "OECD"
+  ],
+  "slug": "students-ai-use-scores-oecd",
+  "people": [],
+  "terms": [
+   {
+    "name": "OECD",
+    "type": "company",
+    "desc": "経済協力開発機構のこと。加盟国間の経済成長や貿易自由化などを目指し政策協調を行う国際機関です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+  "category": "ai",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-students-ai-use-scores-oecd.html"
+ },
+ {
+  "title": "KOWRO代表が公開、AI面接の違和感",
+  "lead": "AIベンチャーの代表が、自身のXアカウントで「人生で初めてAIが面接に来た」とする動画を公開し、話し方に違和感があるとして注意を呼び掛けました。",
+  "summary3": [
+   "AIベンチャー代表が面接動画を公開",
+   "人生で初めてAIが面接に来たと報告",
+   "話し方に違和感があり注意を喚起"
+  ],
+  "body": [
+   "AIベンチャーKOWRO（東京都港区）の原田祐二CEOは、自身のXアカウントにおいて「人生で初めてAIが面接に来た」という内容の動画を公開しました。",
+   "公開された動画では、面接に訪れたとされるAIの話し方に違和感があることが示されており、同氏はこの事例を通じて広く注意を呼び掛けています。",
+   "採用活動や面接の場においてAI技術が活用される事例が増える中、こうした新たな状況に対する認識や注意喚起の重要性が示されています。"
+  ],
+  "tags": [
+   "AI面接",
+   "KOWRO",
+   "人工知能"
+  ],
+  "slug": "ai-interview-kowro-harada",
+  "people": [
+   {
+    "name": "原田祐二",
+    "bio": "AIベンチャーKOWROのCEOを務め、自身のXアカウントでAIが面接に来たとする動画を公開した。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "KOWRO",
+    "type": "company",
+    "desc": "東京都港区に拠点を置くAIベンチャー企業で、代表の原田祐二氏が経営を行っている。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
+  "category": "ai_jp",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-ai-interview-kowro-harada.html"
+ },
+ {
+  "title": "Automattic取締役会、CEOマール・マレンウェグ氏を意に反して休職処分に",
+  "lead": "WordPressなどで知られるAutomatticの取締役会が、CEOのマール・マレンウェグ氏を休職処分にしたことが分かりました。本人からの発言も報じられています。",
+  "summary3": [
+   "Automattic取締役会がCEOを休職処分",
+   "マレンウェグ氏はSlackで言及",
+   "本人の意に反する形での処分"
+  ],
+  "body": [
+   "TechCrunchの報道によると、Automatticの取締役会が最高経営責任者（CEO）であるマール・マレンウェグ氏を休職処分にしました。この決定は、同氏の意に反する形で行われたことが明らかになっています。",
+   "マレンウェグ氏は、社内のSlackメッセージにおいて、この休職処分が自身の意志に反するものであると述べています。経営トップを巡る突然の処分について、社内外で注目が集まっています。",
+   "今後の体制や処分の詳細については引き続き情報が注視されます。企業の動向に大きな影響を与える今回の決定について、さらなる発表が待たれる状況です。"
+  ],
+  "tags": [
+   "Automattic",
+   "MattMullenweg",
+   "TechCrunch"
+  ],
+  "slug": "automattic-board-forces-ceo-matt-mullenweg-into-leave-of-abs",
+  "people": [
+   {
+    "name": "マール・マレンウェグ氏",
+    "bio": "WordPressの共同創設者でありAutomattic社の最高経営責任者を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Automattic",
+    "type": "company",
+    "desc": "人気ブログ作成ツールWordPress.comなどを運営するアメリカのIT企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+  "category": "silicon",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-automattic-board-forces-ceo-matt-mullenweg-into-leave-of-abs.html"
+ },
+ {
+  "title": "ヒカル氏のビジネスパートナー入江巨之氏が次世代AIスクールで本人登壇",
+  "lead": "人気YouTuberのヒカル氏のビジネスパートナーである入江巨之氏が登壇する、次世代AIスクールの全国0次FCパートナー募集が発表されました。",
+  "summary3": [
+   "次世代AIスクールの全国0次FCパートナーを募集中",
+   "人気YouTuberヒカル氏のビジネスパートナーが登壇",
+   "入江巨之氏が登壇するビジネス展開に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、次世代AIスクールに関連する全国0次FCパートナーの募集情報が入ってまいりました。今回の取り組みでは、人気YouTuberとして広く知られるヒカル氏のビジネスパートナーを務める入江巨之氏が本人登壇することが明らかになっております。",
+   "ニコニコニュースなどの報道によれば、次世代AIスクールの展開において全国の0次FCパートナーを募る形となっており、ビジネス界やインフルエンサー業界の双方から熱い視線が注がれています。入江巨之氏が実際に登壇することで、どのようなビジネスモデルやAI活用の学びが語られるのか、今後の動向から目が離せません。",
+   "AI技術が社会のさまざまな領域で浸透していく中で、こうした次世代スクール事業やFC展開の動きは、新たなビジネスチャンスを模索する関係者にとって重要なトピックとなります。引き続き、詳細な情報や展開について注目してまいります。"
+  ],
+  "tags": [
+   "AIスクール",
+   "ヒカル",
+   "入江巨之"
+  ],
+  "slug": "next-gen-ai-school-fc-partner",
+  "people": [
+   {
+    "name": "入江巨之",
+    "bio": "人気YouTuberヒカル氏のビジネスパートナーとして知られる実業家。"
+   },
+   {
+    "name": "ヒカル",
+    "bio": "YouTube上で数々の話題を生み出しているトップクリエイターの一人。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBodG1idUNKLVE4dFdiODlqZWZqanFvNzJhdG9PU00zZHZ6NEp2VzREelBieUdLcnhnUzZTcDV0UTR3YnRRRHZwdk0xY2U4US1Gb0l3blppRDZwTjBHZVlJY1dtQ0Y0TS1R?oc=5",
+  "category": "influencer",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-next-gen-ai-school-fc-partner.html"
+ },
+ {
+  "title": "農林水産省、輸入小麦売り渡し価格12％引き上げへ",
+  "lead": "政府が輸入した小麦を民間に売り渡す際の価格について、農林水産省は来月から半年間、前の期間より12％引き上げると発表しました。",
+  "summary3": [
+   "小麦売り渡し価格が12％引き上げへ",
+   "来月から半年間適用される見通し",
+   "円安や中東情勢の悪化が主な要因"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、政府が輸入した小麦を民間に売り渡す際の価格について、農林水産省は来月から半年間、前の期間より12％引き上げると発表しました。",
+   "今回の価格引き上げが行われる主な理由は、円安や中東情勢の悪化による輸送コストの上昇だとされています。",
+   "私たちの生活に身近な小麦製品の価格設定に影響を与える可能性があるため、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "小麦",
+   "農林水産省",
+   "経済"
+  ],
+  "slug": "wheat-price-increase-12-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260909de49284",
+  "category": "world",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-wheat-price-increase-12-percent.html"
+ },
+ {
+  "title": "高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？",
+  "lead": "世界遺産の和歌山県・高野山で宿坊を営む複数の宗教法人が、大阪国税局の税務調査で法人税や所得税などあわせて1億円を超える申告漏れを指摘されていたことが分かりました。",
+  "summary3": [
+   "高野山の複数の宿坊が税務調査",
+   "昨年度に1億円超の申告漏れ",
+   "大阪国税局から指摘を受ける"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたNHKのニュースによると、和歌山県にある世界遺産の高野山で宿坊を営む複数の宗教法人が、昨年度に大阪国税局の税務調査を受けました。その結果、法人税や所得税などあわせて1億円を超える申告漏れを指摘されていたことが明らかになっています。",
+   "高野山は多くの参拝客や観光客が訪れる世界遺産の聖地であり、精進料理やめい想などを体験できる宿泊施設として宿坊が広く知られています。今回、そうした宿坊を運営する複数の宗教法人が税務上の指摘を受ける形となりました。",
+   "詳細な内訳や今後の修正申告の対応などについては明らかにされておらず、宗教法人における税務処理のあり方に注目が集まっています。"
+  ],
+  "tags": [
+   "高野山",
+   "世界遺産",
+   "税務調査"
+  ],
+  "slug": "koyasan-shukubo-tax-omission",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260910de49447",
+  "category": "world",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-koyasan-shukubo-tax-omission.html"
+ },
+ {
+  "title": "エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由",
+  "lead": "エアトリ（6191）が大幅な増配を発表し、配当利回りが17.33％に達しました。2026年9月期の年間配当は前期比150円増の「1株あたり160円」となります。",
+  "summary3": [
+   "エアトリが大幅な増配を発表しました",
+   "配当利回りは17.33％を記録しています",
+   "2026年9月期は1株160円となります"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする株式市場のニュースです。ダイヤモンド・オンラインの報道によると、エアトリ（6191）が大幅な増配を発表し、市場の注目を集めています。今回の発表により、配当利回りは17.33％に達しました。",
+   "年間配当は1年で16倍に急増する形となります。具体的には、2026年9月期の年間配当について、前期比150円増となる「1株あたり160円」に引き上げる方針が示されました。",
+   "企業の株主還元策における大きな変更として、投資家や市場関係者の間で話題となっています。今後の詳細な業績推移や発表内容についても引き続き注目されます。"
+  ],
+  "tags": [
+   "エアトリ",
+   "配当",
+   "株式市場"
+  ],
+  "slug": "airtrip-dividend-increase",
+  "people": [],
+  "terms": [
+   {
+    "name": "エアトリ",
+    "type": "company",
+    "desc": "オンライン旅行事業などを展開し、総合旅行プラットフォームを提供する日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eTlFSGlxUG41UDJadmM3MTNOMnZkQTlSQXFsZlduamcxc2JKdGZ2c0htQXJNc0RNUlI4cGcwMWFCVXVqMDQyTzZJRzVkaENlTklv?oc=5",
+  "category": "stock",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-airtrip-dividend-increase.html"
+ },
+ {
+  "title": "中部電力グループ、およそ500万件で12億円を過大徴収",
+  "lead": "中部電力グループは、発電原価の算定ミスにより、およそ500万件の電気料金をおととし以降に本来より多く徴収していたと発表しました。",
+  "summary3": [
+   "中部電力グループで電気料金の過大徴収が判明",
+   "およそ500万件の契約で、おととし以降に発生",
+   "過大徴収した金額はあわせて12億円程度に上る"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がNHK経済の報道に基づきお伝えします。中部電力グループは、発電にかかる原価の算定において誤りがあったことを明らかにしました。",
+   "この算定ミスにより、およそ500万件の電気料金の契約において、おととし以降、本来よりも多く料金を徴収していたということです。",
+   "発表によると、これまでに過大徴収した金額はあわせて12億円程度に上るとしています。"
+  ],
+  "tags": [
+   "中部電力",
+   "電気料金",
+   "経済ニュース"
+  ],
+  "slug": "chubu-denryoku-overcharge-electricity-fees",
+  "people": [],
+  "terms": [
+   {
+    "name": "中部電力グループ",
+    "type": "company",
+    "desc": "愛知県名古屋市に本拠を置き、電力事業などを展開する国内の主要なエネルギー企業グループです。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260910de49537",
+  "category": "jp_corp",
+  "date": "2026-09-10",
+  "time": "21:10",
+  "path": "/articles/20260910-chubu-denryoku-overcharge-electricity-fees.html"
+ },
+ {
+  "title": "WTI原油一時95ドル台、供給懸念で高値",
+  "lead": "ニューヨーク原油市場で、WTI先物価格が一時1バレル＝95ドル台半ばまで上昇しました。約3か月ぶりの高値水準となっています。",
+  "summary3": [
+   "WTI先物価格が一時95ドル台に上昇",
+   "約3か月ぶりの高値水準を記録した",
+   "タンカー攻撃による供給への懸念が背景"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。ニューヨーク原油市場において、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝95ドル台半ばまで上昇しました。これは約3か月ぶりの高値水準となります。",
+   "今回の価格上昇の背景には、アメリカとイランの間で原油を運ぶタンカーへの攻撃が行われたことがあります。この事態により、原油の供給に影響が出るのではないかという強い懸念が広がりました。",
+   "今後の市場の動向や、エネルギー供給をめぐる情勢の変化について、引き続き慎重な警戒が必要とされています。"
+  ],
+  "tags": [
+   "原油価格",
+   "WTI先物",
+   "エネルギー"
+  ],
+  "slug": "wti-crude-oil-price-rise",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260909de49382",
+  "category": "world",
+  "date": "2026-09-10",
+  "time": "22:01",
+  "path": "/articles/20260910-wti-crude-oil-price-rise.html"
  }
 ]

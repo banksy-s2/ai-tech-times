@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-10 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-10 22:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "愛知県警、「令和のカリスマ」名乗る男を1億5000万円詐欺で逮捕",
-   "path": "/articles/20260910-aichi-pref-police-influencer-arrest.html",
-   "cat": "インフルエンサー"
+   "title": "WTI原油一時95ドル台、供給懸念で高値",
+   "path": "/articles/20260910-wti-crude-oil-price-rise.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
   "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Trump says every adult American will get"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 35,
+  "used": 64,
   "limit": 200
  }
 }

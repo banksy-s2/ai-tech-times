@@ -1,11 +1,51 @@
 {
- "updated": "2026-09-10 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-10 21:11",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Silver Lake、116億ドルで企業向けソフト2社統合",
-   "path": "/articles/20260910-silver-lake-merges-cegid-silae-ai-software-deal.html",
+   "title": "OpenAI、AI安全性研究の有力者を理事会に迎えた理由",
+   "path": "/articles/20260910-openai-adds-paul-christiano-to-board.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OECDデータ：生成AIを使う学生の成績が低下",
+   "path": "/articles/20260910-students-ai-use-scores-oecd.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "KOWRO代表が公開、AI面接の違和感",
+   "path": "/articles/20260910-ai-interview-kowro-harada.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Automattic取締役会、CEOマール・マレンウェグ氏を意に反して休職処分に",
+   "path": "/articles/20260910-automattic-board-forces-ceo-matt-mullenweg-into-leave-of-abs.html",
    "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ヒカル氏のビジネスパートナー入江巨之氏が次世代AIスクールで本人登壇",
+   "path": "/articles/20260910-next-gen-ai-school-fc-partner.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "農林水産省、輸入小麦売り渡し価格12％引き上げへ",
+   "path": "/articles/20260910-wheat-price-increase-12-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？",
+   "path": "/articles/20260910-koyasan-shukubo-tax-omission.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由",
+   "path": "/articles/20260910-airtrip-dividend-increase.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "中部電力グループ、およそ500万件で12億円を過大徴収",
+   "path": "/articles/20260910-chubu-denryoku-overcharge-electricity-fees.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -13,11 +53,13 @@
   "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
  },
  "notes": [
-  "執筆失敗: World’s largest contract chipmaker TSMC "
+  "執筆失敗: Apple、iPhone 16/17/17e/Airを再値上げ。最大4万7,00",
+  "執筆失敗: World’s largest contract chipmaker TSMC ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 32,
+  "used": 59,
   "limit": 200
  }
 }
