@@ -1,26 +1,65 @@
 {
- "updated": "2026-09-09 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-10 17:08",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "AnthropicのClaudeでハッカーによるトークン盗難が発覚、契約者が気づいた理由",
-   "path": "/articles/20260909-hackers-stealing-claude-tokens.html",
+   "title": "Apple初折りたたみスマホ「iPhone Duo」発表、常に聴き取るWatchも",
+   "path": "/articles/20260910-apple-fall-iphone-event-iphone-duo-apple-watch.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAI、100万ドルの懸賞金数学難問をめぐり激突",
-   "path": "/articles/20260909-openai-navier-stokes-math-problem.html",
+   "title": "Anthropic研究者が警告「AIが全人類を滅ぼす確率10%超」",
+   "path": "/articles/20260910-anthropic-researcher-warns-ai-could-kill-all-humans.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "NECが「AIオンリー組織」新設、部門長や社員をAI化",
+   "path": "/articles/20260910-nec-ai-only-organization.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIを双極性障害の男性が提訴、ChatGPTが「あなたはイエス」と断言した理由",
+   "path": "/articles/20260910-man-sues-openai-after-chatgpt-jesus-incident.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ASKAが紹介した仮想通貨でファン間にトラブル発生",
+   "path": "/articles/20260910-aska-crypto-trouble.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "ドジャース大谷翔平選手、15日間のけが人リスト入りへ",
+   "path": "/articles/20260910-ohtani-injured-list.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ブレント原油、100ドル突破の理由と家計への影響",
+   "path": "/articles/20260910-oil-hits-100-dollars-a-barrel.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "三菱UFJFG株が一時2.2%高、日銀委員の利上げ発言受け",
+   "path": "/articles/20260910-mitsubishi-ufj-fg-stock-boj.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ツムラ、東証プライムの養命酒製造を買収完了",
+   "path": "/articles/20260910-tsumura-yomeishu-acquisition.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
-  "url": "https://www.youtube.com/watch?v=A0WX-jsir94"
+  "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
+  "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ChatGPTのProプラン「新規受付一時停止するかも…」　GPT-6 Astr",
+  "執筆失敗: OpenAI adds a prominent AI doomer to its",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 59,
+  "used": 21,
   "limit": 200
  }
 }

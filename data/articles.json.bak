@@ -77576,5 +77576,78 @@
   "date": "2026-09-09",
   "time": "07:01",
   "path": "/articles/20260909-workman-recovery-wear-suits.html"
+ },
+ {
+  "title": "AnthropicのClaudeでハッカーによるトークン盗難が発覚、契約者が気づいた理由",
+  "lead": "AI TECH TIMESの調査により、Anthropic社の提供するAI「Claude」において、ハッカーが契約者のトークンを不正に窃取していることが明らかになりました。ユーザーの財布や利用状況に直接関わる被害として、Anthropic社が注意を呼びかけています。",
+  "summary3": [
+   "Claude契約者のトークンがハッカーに盗まれる被害",
+   "作業をしていないのにアカウントの消費が発覚",
+   "Anthropic社がユーザーに向けて警告を発令"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、先月、あるClaudeのユーザーが自身の作業していない時間帯にもかかわらず、アカウントのトークンが消費されていることに気づきました。この不審な挙動から不正利用が発覚し、AIサービスにおけるセキュリティリスクとして注目を集めています。",
+   "この事態を受け、Claudeの開発元であるAnthropic社は、ユーザーに対してハッカーによるトークン窃取に関する警告を出しました。AIサービスを日常的に利用するビジネスパーソンや開発者にとって、自身の契約アカウントが標的となる恐れがあり、早急な対策や注意が求められる状況となっています。",
+   "AIの普及に伴い利便性が高まる一方で、こうしたアカウントの不正利用やリソースの窃取といったセキュリティ上の脅威も深刻化しています。Anthropic社からの今後の注意喚起やセキュリティ対策のアップデートに、引き続き注目が集まるとみられます。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "セキュリティ"
+  ],
+  "slug": "hackers-stealing-claude-tokens",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した対話型の高性能AIモデルおよびそのサービス製品。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、安全性に配慮したAIモデルの開発を手がけるAI企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+  "category": "ai",
+  "date": "2026-09-09",
+  "time": "08:00",
+  "path": "/articles/20260909-hackers-stealing-claude-tokens.html"
+ },
+ {
+  "title": "OpenAI、100万ドルの懸賞金数学難問をめぐり激突",
+  "lead": "数学界の難問であるナビエ・ストークス方程式の解明に向けて、OpenAIが関与したトラブルについてニューヨーク大学の数学者が言及しました。",
+  "summary3": [
+   "ナビエ・ストークス問題に100万ドルの懸賞金",
+   "OpenAIの対応をNYUの数学者が批判",
+   "キャリアを左右する数学の難問に注目集まる"
+  ],
+  "body": [
+   "数学の歴史的な難問であるナビエ・ストークス方程式の存在と滑らかさの問題に対して、最初に解決策を提供した人物には100万ドルの懸賞金が用意されています。このキャリアを左右するほどの重要な数学の難問をめぐり、AI開発を進めるOpenAIの対応について、ニューヨーク大学の数学者が言及しました。",
+   "テック分野の動向を伝えるTechCrunch AIの報道によると、同数学者はOpenAIがこの難問の解決に向けたアプローチにおいて不誠実な手法をとったと主張しています。100万ドルという高額な賞金がかかっているだけでなく、数学界およびAI業界の双方にとって非常に価値のある課題であるため、そのアプローチを巡る議論に注目が集まっています。",
+   "今回の問題は、最先端の人工知能技術が数学の複雑な未解決問題にどのようにアプローチし、人間社会や研究者コミュニティとどのような関係性を築いていくべきかという重要な問いを投げかけています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "OpenAI",
+   "数学",
+   "人工知能"
+  ],
+  "slug": "openai-navier-stokes-math-problem",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国で対話型人工知能などの開発を手がける最先端のAI研究企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+  "category": "ai",
+  "date": "2026-09-09",
+  "time": "08:00",
+  "path": "/articles/20260909-openai-navier-stokes-math-problem.html"
  }
 ]
