@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015185701000",
   "https://news.web.nhk/newsweb/na/na-k10015185831000",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWxPVWZra3g0SFVXbUoydVZGVXkzdVhmS3NWaTdncll2Yk1zUW9ZY2sxd0IwNEZIeVVxdlFFQ01qRlQzYmhGSlVyT0E5T2JYZmE3ZGQxblRyZFo0eDF2blVZdVdRWk41UkV5cFY4bDFrQ3MwMl9YS2JrOTI5LVdKc0lhUC1ha1U?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0N4UnY5eXA3YzROVWxRVFUyb1RHTDBYRHBsMTlybHFmUFhPRFh1Uk1kV3NMakJHbURvUDlBTFhkTDFJZDAzQVZjNVBsMDYtQ0JZbnlaclYxejNzNGY0MXVmY0pEOWFHWF9iYnQ4LWllWG5yY2VVaFkwRDdHVU5hcWdKMkduOTQ?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260909de49284",
   "https://news.web.nhk/newsweb/na/nd-20260910de49447",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eTlFSGlxUG41UDJadmM3MTNOMnZkQTlSQXFsZlduamcxc2JKdGZ2c0htQXJNc0RNUlI4cGcwMWFCVXVqMDQyTzZJRzVkaENlTklv?oc=5",
-  "https://news.web.nhk/newsweb/na/nd-20260910de49537"
+  "https://news.web.nhk/newsweb/na/nd-20260910de49537",
+  "https://news.web.nhk/newsweb/na/nd-20260909de49382"
  ],
  "titles": [
-  "ゼレンスキー大統領セルビア初訪問のねらい",
-  "楽天グループや東京海上など今週の決算発表予定企業",
   "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
   "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
   "イスラエル・ネタニヤフ首相、ガザ撤退を拒否した理由",
@@ -4001,6 +3999,8 @@
   "農林水産省、輸入小麦売り渡し価格12％引き上げへ",
   "高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？",
   "エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由",
-  "中部電力グループ、およそ500万件で12億円を過大徴収"
+  "中部電力グループ、およそ500万件で12億円を過大徴収",
+  "WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値",
+  "WTI原油一時95ドル台、供給懸念で高値"
  ]
 }

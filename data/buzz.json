@@ -2,10 +2,26 @@
  "date": "2026-09-10",
  "videos": [
   {
+   "id": "RdUV9Ms5GM4",
+   "title": "IU 'Dear my crazy soulmate' MV",
+   "channel": "이지금 [IU Official]",
+   "views": 353112,
+   "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4",
+   "thumb": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "KR"
+   ],
+   "rank": 1,
+   "comment": "IUの新曲ミュージックビデオが公開されているようです。"
+  },
+  {
    "id": "L7qEKA-e2qI",
    "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
    "channel": "Mythri Movie Makers",
-   "views": 10401350,
+   "views": 10553178,
    "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI",
    "thumb": "https://i.ytimg.com/vi/L7qEKA-e2qI/hqdefault.jpg",
    "regions": [
@@ -13,14 +29,14 @@
     "GB",
     "IN"
    ],
-   "rank": 1,
+   "rank": 2,
    "comment": "Vijay Deverakondaらが出演する映画のティザー映像のようです。（26字）"
   },
   {
    "id": "kw0YhiqOPFg",
    "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
    "channel": "GODZILLA OFFICIAL by TOHO",
-   "views": 7371735,
+   "views": 7421565,
    "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
    "thumb": "https://i.ytimg.com/vi/kw0YhiqOPFg/hqdefault.jpg",
    "regions": [
@@ -28,14 +44,14 @@
     "GB",
     "IN"
    ],
-   "rank": 2,
+   "rank": 3,
    "comment": "ゴジラマイナスゼロのIMAX版公式トレーラーのようです"
   },
   {
    "id": "s1s2E6hXU_M",
    "title": "Slipknot - Arsenal [OFFICIAL VIDEO]",
    "channel": "Slipknot",
-   "views": 815136,
+   "views": 838591,
    "url": "https://www.youtube.com/watch?v=s1s2E6hXU_M",
    "thumb": "https://i.ytimg.com/vi/s1s2E6hXU_M/hqdefault.jpg",
    "regions": [
@@ -43,29 +59,14 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
-   "comment": "Slipknotの新曲公式ミュージックビデオのようです。（23字）"
-  },
-  {
-   "id": "RdUV9Ms5GM4",
-   "title": "IU 'Dear my crazy soulmate' MV",
-   "channel": "이지금 [IU Official]",
-   "views": 167857,
-   "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4",
-   "thumb": "https://i.ytimg.com/vi/RdUV9Ms5GM4/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "JP",
-    "KR"
-   ],
    "rank": 4,
-   "comment": "IUの新曲ミュージックビデオが公開されているようです。"
+   "comment": "Slipknotの新曲公式ミュージックビデオのようです。（23字）"
   },
   {
    "id": "fneuVQ7uO_w",
    "title": "Drishyam: The Conclusion | Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
    "channel": "Star Studios",
-   "views": 27488485,
+   "views": 27740418,
    "url": "https://www.youtube.com/watch?v=fneuVQ7uO_w",
    "thumb": "https://i.ytimg.com/vi/fneuVQ7uO_w/hqdefault.jpg",
    "regions": [
@@ -79,7 +80,7 @@
    "id": "B_QJ4BYIGME",
    "title": "Nintendo Direct 9.9.2026",
    "channel": "Nintendo of America",
-   "views": 6418912,
+   "views": 6434766,
    "url": "https://www.youtube.com/watch?v=B_QJ4BYIGME",
    "thumb": "https://i.ytimg.com/vi/B_QJ4BYIGME/hqdefault.jpg",
    "regions": [
@@ -93,7 +94,7 @@
    "id": "FhhA5purigQ",
    "title": "Magale - Music Video | Baththa | Vijay Sethupathi | @SaiAbhyankkar | Balaji Tharaneetharan",
    "channel": "Think Music India",
-   "views": 3298721,
+   "views": 3458577,
    "url": "https://www.youtube.com/watch?v=FhhA5purigQ",
    "thumb": "https://i.ytimg.com/vi/FhhA5purigQ/hqdefault.jpg",
    "regions": [
@@ -107,7 +108,7 @@
    "id": "job8V254NAE",
    "title": "DIGGER | Official Final Trailer",
    "channel": "Warner Bros.",
-   "views": 2497950,
+   "views": 2526434,
    "url": "https://www.youtube.com/watch?v=job8V254NAE",
    "thumb": "https://i.ytimg.com/vi/job8V254NAE/hqdefault.jpg",
    "regions": [
@@ -121,7 +122,7 @@
    "id": "jkUw2nh6fT0",
    "title": "Carrie – Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 2214611,
+   "views": 2272785,
    "url": "https://www.youtube.com/watch?v=jkUw2nh6fT0",
    "thumb": "https://i.ytimg.com/vi/jkUw2nh6fT0/hqdefault.jpg",
    "regions": [
@@ -135,7 +136,7 @@
    "id": "W5anA28oyY4",
    "title": "We Played The Worst Meccha Chameleon Clone",
    "channel": "SMii7Y",
-   "views": 1773784,
+   "views": 1826423,
    "url": "https://www.youtube.com/watch?v=W5anA28oyY4",
    "thumb": "https://i.ytimg.com/vi/W5anA28oyY4/hqdefault.jpg",
    "regions": [

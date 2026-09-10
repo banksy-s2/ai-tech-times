@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-10 22:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-10 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "WTI原油一時95ドル台、供給懸念で高値",
-   "path": "/articles/20260910-wti-crude-oil-price-rise.html",
-   "cat": "時事・世界"
+   "title": "アシックスが自己株式取得を発表、株価は「適正水準からかい離」",
+   "path": "/articles/20260910-asics-share-buyback-market-news.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
-  "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
+  "title": "IU 'Dear my crazy soulmate' MV",
+  "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4"
  },
- "notes": [
-  "執筆失敗: Trump says every adult American will get"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 64,
+  "used": 67,
   "limit": 200
  }
 }
