@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-11 06:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "ニデックを株主28人が提訴、株価下落で損害賠償請求",
-   "path": "/articles/20260911-nidec-shareholders-lawsuit.html",
-   "cat": "株式投資(日本)"
+   "title": "タイミー、東証プライム市場への変更申請を準備",
+   "path": "/articles/20260911-timee-prime-market-application.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 29,
   "limit": 200
  }
 }

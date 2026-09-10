@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 05:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 06:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [タイミー、東証プライム市場への変更申請を準備](https://ai-tech-times.web.app/articles/20260911-timee-prime-market-application.html) — 2026-09-11 06:00: すきまバイトサービスを展開するタイミーが、東京証券取引所プライム市場への上場市場変更の申請に向けた準備を進めていることが明らかになりました。
 - [ニデックを株主28人が提訴、株価下落で損害賠償請求](https://ai-tech-times.web.app/articles/20260911-nidec-shareholders-lawsuit.html) — 2026-09-11 05:01: 不正会計問題が報じられたニデックに対し、株主28人が株価下落による損害賠償を求めて提訴したことが明らかになりました。
 - [米財務長官発言で円買いが進んだ理由](https://ai-tech-times.web.app/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html) — 2026-09-11 04:01: 9日の東京外国為替市場で、アメリカのベッセント財務長官による円売りをけん制する発言が伝えられ、円相場が値上がりしました。
 - [米政府機関、中国企業6社のAI蒸留を非難](https://ai-tech-times.web.app/articles/20260911-us-agency-accuses-chinese-ai-distillation.html) — 2026-09-11 04:01: アメリカの政府機関が、中国企業6社が最先端AIの機能を産業規模で抜き出していると非難する文書を公表しました。
@@ -41,14 +42,13 @@
 - [高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？](https://ai-tech-times.web.app/articles/20260910-koyasan-shukubo-tax-omission.html) — 2026-09-10 21:10: 世界遺産の和歌山県・高野山で宿坊を営む複数の宗教法人が、大阪国税局の税務調査で法人税や所得税などあわせて1億円を超える申告漏れを指摘されていたことが分かりました。
 - [エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由](https://ai-tech-times.web.app/articles/20260910-airtrip-dividend-increase.html) — 2026-09-10 21:10: エアトリ（6191）が大幅な増配を発表し、配当利回りが17.33％に達しました。2026年9月期の年間配当は前期比150円増の「1株あたり160円」となります。
 - [中部電力グループ、およそ500万件で12億円を過大徴収](https://ai-tech-times.web.app/articles/20260910-chubu-denryoku-overcharge-electricity-fees.html) — 2026-09-10 21:10: 中部電力グループは、発電原価の算定ミスにより、およそ500万件の電気料金をおととし以降に本来より多く徴収していたと発表しました。
-- [愛知県警、「令和のカリスマ」名乗る男を1億5000万円詐欺で逮捕](https://ai-tech-times.web.app/articles/20260910-aichi-pref-police-influencer-arrest.html) — 2026-09-10 20:00: 「令和のカリスマ」を自称するインフルエンサーの男が、うその投資話を持ちかけ、多額の現金をだまし取った疑いで愛知県警に逮捕されました。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [IU 'Dear my crazy soulmate' MV](https://www.youtube.com/watch?v=RdUV9Ms5GM4)
 - 3位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
 
-## AI用語事典 (全1378語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1379語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
