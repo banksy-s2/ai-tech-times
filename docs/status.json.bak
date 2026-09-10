@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-11 00:03",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-11 01:03",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "TechCrunch AI：大手企業で従業員あたりのAI支出が低下",
-   "path": "/articles/20260911-ai-spend-per-employee-slumped.html",
-   "cat": "AI(海外)"
+   "title": "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率",
+   "path": "/articles/20260911-anthropic-us-economy-ai-impact.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4"
  },
  "notes": [
-  "執筆失敗: Apple’s new iPhone camera mode promises "
+  "執筆失敗: 「Siri AI」日本語版は10月提供　AI機能組み込んだ音声アシスタント　専用"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 9,
   "limit": 200
  }
 }

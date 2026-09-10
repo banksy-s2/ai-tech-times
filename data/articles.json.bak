@@ -78472,5 +78472,39 @@
   "date": "2026-09-11",
   "time": "00:02",
   "path": "/articles/20260911-ai-spend-per-employee-slumped.html"
+ },
+ {
+  "title": "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率",
+  "lead": "米国の人工知能開発企業Anthropicの経済チームが、AIが米国経済に与える影響について3つのシナリオによる予測を発表しました。",
+  "summary3": [
+   "AIが知識労働の半分を担う予測",
+   "通常シナリオでは失業率は歴史的",
+   "極端な普及シナリオでは11.9"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、米国のAI開発企業Anthropicの経済チームは、AIが米国経済にどのような影響を及ぼすかについて、3つのシナリオに基づいた予測結果を明らかにしました。",
+   "提示された予測の一つでは、AIが知識労働の半分を担うことができる状況になっても、失業率は歴史的な範囲内に収まり、知識労働者の賃金は横ばいにとどまるとしています。",
+   "一方で、AIが急速に普及する「極端」なシナリオに限定した場合に限り、失業率が11.9％まで上昇するという予測も示されています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI",
+   "経済"
+  ],
+  "slug": "anthropic-us-economy-ai-impact",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の人工知能開発企業。安全性に配慮したAIモデルの研究と開発を行っている。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001363/",
+  "category": "ai_jp",
+  "date": "2026-09-11",
+  "time": "01:03",
+  "path": "/articles/20260911-anthropic-us-economy-ai-impact.html"
  }
 ]

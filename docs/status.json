@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-11 01:03",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-11 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Anthropic予測：AIが知識労働の半分を担う米国の賃金と失業率",
-   "path": "/articles/20260911-anthropic-us-economy-ai-impact.html",
-   "cat": "日本のAI"
+   "title": "Miro買収額は13.6億ドル、ピーク時から90%減の理由",
+   "path": "/articles/20260911-bending-spoons-to-buy-miro.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Nasdaq、1億ドル投資で2027年トークン株取引へ",
+   "path": "/articles/20260911-nasdaq-tokenized-stock-trading-2027.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "IU 'Dear my crazy soulmate' MV",
   "url": "https://www.youtube.com/watch?v=RdUV9Ms5GM4"
  },
- "notes": [
-  "執筆失敗: 「Siri AI」日本語版は10月提供　AI機能組み込んだ音声アシスタント　専用"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }

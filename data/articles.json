@@ -78506,5 +78506,78 @@
   "date": "2026-09-11",
   "time": "01:03",
   "path": "/articles/20260911-anthropic-us-economy-ai-impact.html"
+ },
+ {
+  "title": "Miro買収額は13.6億ドル、ピーク時から90%減の理由",
+  "lead": "IT企業を買収することで知られるBending Spoonsが、コラボレーションツールを手がけるMiroを買収することが分かりました。かつての評価額から90%も下落した背景に注目が集まっています。",
+  "summary3": [
+   "Bending SpoonsがMiroを買収",
+   "買収額は13.6億ドル規模となる",
+   "2021年時の評価額から90%下落"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。Bending Spoonsが、ワークプレイス向けのコラボレーションツールを開発するMiroを買収することが明らかになりました。今回の買収総額は13.6億ドルに達する見込みです。",
+   "しかし、今回の取引で最も注目されているのはその金額の規模ではありません。Miroは2021年後半の資金調達時には17.5億ドルの評価額をつけていましたが、今回の買収額はその当時と比較して90%も低い水準となっています。",
+   "テック業界において、過去の高評価から大幅に下落した価格での買収劇は、今後の市場環境やスタートアップの評価に大きな影響を与える可能性があります。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Miro",
+   "Bending Spoons",
+   "買収"
+  ],
+  "slug": "bending-spoons-to-buy-miro",
+  "people": [],
+  "terms": [
+   {
+    "name": "Bending Spoons",
+    "type": "company",
+    "desc": "さまざまなソフトウェア製品を買収・運営し、事業を拡大しているイタリア発のIT企業です。"
+   },
+   {
+    "name": "Miro",
+    "type": "company",
+    "desc": "チームの共同作業やブレインストーミングに広く活用されている、オンラインのビジュアルコラボレーションツールです。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+  "category": "silicon",
+  "date": "2026-09-11",
+  "time": "02:00",
+  "path": "/articles/20260911-bending-spoons-to-buy-miro.html"
+ },
+ {
+  "title": "Nasdaq、1億ドル投資で2027年トークン株取引へ",
+  "lead": "ナスダックが暗号資産企業に1億ドルを投資し、株式等のトークン化を株式市場のインフラに組み込む大規模な動きを見せました。2027年の「トークン化」された株式取引の開始を目指します。",
+  "summary3": [
+   "Nasdaqが1億ドルを投資",
+   "2027年にトークン化株取引へ",
+   "資産のトークン化が市場の一部に"
+  ],
+  "body": [
+   "米CNBC Techによると、Nasdaqは株式などの資産のトークン化が株式市場のインフラの一部になりつつあると捉え、大規模な投資に踏み切りました。株式などのトークン化技術を巡り、大きな期待が寄せられています。",
+   "今回の動きの一環として、NasdaqはKrakenの親会社に対して1億ドルの投資を行いました。この投資を背景に、2027年の「トークン化」された株式取引の開始を目指して準備が進められています。",
+   "専門家の間では、こうした技術の導入が将来の株式市場のあり方を大きく変える可能性があると注目されています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Nasdaq",
+   "暗号資産",
+   "金融テクノロジー"
+  ],
+  "slug": "nasdaq-tokenized-stock-trading-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nasdaq",
+    "type": "company",
+    "desc": "アメリカ合衆国にある世界的な株式取引所であり、多くのハイテク企業が上場しています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+  "category": "silicon",
+  "date": "2026-09-11",
+  "time": "02:00",
+  "path": "/articles/20260911-nasdaq-tokenized-stock-trading-2027.html"
  }
 ]
