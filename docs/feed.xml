@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>米財務長官発言で円買いが進んだ理由</title>
+<link>https://ai-tech-times.web.app/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html</guid>
+<pubDate>Fri, 11 Sep 2026 04:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>9日の東京外国為替市場で、アメリカのベッセント財務長官による円売りをけん制する発言が伝えられ、円相場が値上がりしました。</description>
+</item>
+<item>
+<title>米政府機関、中国企業6社のAI蒸留を非難</title>
+<link>https://ai-tech-times.web.app/articles/20260911-us-agency-accuses-chinese-ai-distillation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260911-us-agency-accuses-chinese-ai-distillation.html</guid>
+<pubDate>Fri, 11 Sep 2026 04:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカの政府機関が、中国企業6社が最先端AIの機能を産業規模で抜き出していると非難する文書を公表しました。</description>
+</item>
+<item>
 <title>JR東日本、Suica新キャラ候補3案にファンアート続出の理由</title>
 <link>https://ai-tech-times.web.app/articles/20260911-suica-penguin-new-character-fan-art.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260911-suica-penguin-new-character-fan-art.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 10 Sep 2026 17:08:00 +0900</pubDate>
 <category>日本企業</category>
 <description>漢方最大手のツムラが、東証プライム上場の養命酒製造の買収を完了しました。旧村上ファンド系も現れた買収劇の内幕とはどのようなものだったのでしょうか。</description>
-</item>
-<item>
-<title>AnthropicのClaudeでハッカーによるトークン盗難が発覚、契約者が気づいた理由</title>
-<link>https://ai-tech-times.web.app/articles/20260909-hackers-stealing-claude-tokens.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260909-hackers-stealing-claude-tokens.html</guid>
-<pubDate>Wed, 09 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの調査により、Anthropic社の提供するAI「Claude」において、ハッカーが契約者のトークンを不正に窃取していることが明らかになりました。ユーザーの財布や利用状況に直接関わる被害として、Anthropic社が注意を呼びかけています。</description>
-</item>
-<item>
-<title>OpenAI、100万ドルの懸賞金数学難問をめぐり激突</title>
-<link>https://ai-tech-times.web.app/articles/20260909-openai-navier-stokes-math-problem.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260909-openai-navier-stokes-math-problem.html</guid>
-<pubDate>Wed, 09 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>数学界の難問であるナビエ・ストークス方程式の解明に向けて、OpenAIが関与したトラブルについてニューヨーク大学の数学者が言及しました。</description>
 </item>
 </channel></rss>
