@@ -77997,5 +77997,44 @@
   "date": "2026-09-10",
   "time": "18:01",
   "path": "/articles/20260910-hitachi-physical-ai-service.html"
+ },
+ {
+  "title": "Silver Lake、116億ドルで企業向けソフト2社統合",
+  "lead": "米投資会社のSilver Lakeが、人工知能分野への巨額投資として、フランスのソフトウェア企業2社を統合する大型案件を進めています。",
+  "summary3": [
+   "Silver Lakeが116億ドル規模の投資を実行",
+   "フランスの企業向けソフト2社が統合へ",
+   "セジッドとシレがAI分野で強力タッグ"
+  ],
+  "body": [
+   "CNBC Techの報道によると、米投資会社のSilver Lakeは、人工知能（AI）分野への116億ドル規模の投資の一環として、フランスのソフトウェア企業2社を統合することを決定しました。",
+   "今回統合されるのは、企業向け経営管理ソフトウェアを提供するセジッドと、給与計算および人事プラットフォームを手がけるシレの2社です。フランスに拠点を置くこれら有力企業が一つになることで、業務効率化やAIを活用した機能強化への期待が高まっています。",
+   "AI技術の急速な発展に伴い、ビジネス向けソフトウェア市場では大規模な再編や統合の動きが活発化しています。今回の大型統合が、今後の企業の業務管理や人事システムの進化にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Silver Lake",
+   "AI",
+   "ソフトウェア"
+  ],
+  "slug": "silver-lake-merges-cegid-silae-ai-software-deal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Silver Lake",
+    "type": "company",
+    "desc": "アメリカに拠点を置く世界有数のテクノロジー特化型プライベート・エクイティ投資会社。"
+   },
+   {
+    "name": "セジッド",
+    "type": "company",
+    "desc": "フランスに拠点を置き、企業向けの経営管理ソフトウェアの開発・販売を手がける企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
+  "category": "silicon",
+  "date": "2026-09-10",
+  "time": "19:01",
+  "path": "/articles/20260910-silver-lake-merges-cegid-silae-ai-software-deal.html"
  }
 ]

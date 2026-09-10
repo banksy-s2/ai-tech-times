@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-10 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-10 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "日立がフィジカルAI加速へ新サービス発表、売上5000億円のAI事業にどう挑むのか",
-   "path": "/articles/20260910-hitachi-physical-ai-service.html",
-   "cat": "日本のAI"
+   "title": "Silver Lake、116億ドルで企業向けソフト2社統合",
+   "path": "/articles/20260910-silver-lake-merges-cegid-silae-ai-software-deal.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
  },
  "notes": [
-  "執筆失敗: Apple、iPhone 16/17/17e/Airを再値上げ。最大4万7,00"
+  "執筆失敗: World’s largest contract chipmaker TSMC "
  ],
  "pv_today": null,
  "gemini": {
-  "used": 27,
+  "used": 32,
   "limit": 200
  }
 }

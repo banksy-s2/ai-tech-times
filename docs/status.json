@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-10 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-10 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Silver Lake、116億ドルで企業向けソフト2社統合",
-   "path": "/articles/20260910-silver-lake-merges-cegid-silae-ai-software-deal.html",
-   "cat": "シリコンバレー最速"
+   "title": "愛知県警、「令和のカリスマ」名乗る男を1億5000万円詐欺で逮捕",
+   "path": "/articles/20260910-aichi-pref-police-influencer-arrest.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
   "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI"
  },
- "notes": [
-  "執筆失敗: World’s largest contract chipmaker TSMC "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 32,
+  "used": 35,
   "limit": 200
  }
 }
