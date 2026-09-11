@@ -6281,7 +6281,7 @@
    "id": "Y1Lah0BM0KQ",
    "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
    "channel": "HYBE LABELS",
-   "views": 3319585,
+   "views": 3418035,
    "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ",
    "thumb": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/hqdefault.jpg",
    "regions": [
@@ -6297,7 +6297,7 @@
    "id": "gQf4Vya5PbI",
    "title": "American Horror Story: 13 | Official Trailer | FX",
    "channel": "FX Networks",
-   "views": 4044615,
+   "views": 4206149,
    "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI",
    "thumb": "https://i.ytimg.com/vi/gQf4Vya5PbI/hqdefault.jpg",
    "regions": [
@@ -6312,7 +6312,7 @@
    "id": "h5eR27Gle1U",
    "title": "[Limbus Company - PV] Chapter.10 - PUNCTUM",
    "channel": "ProjectMoon Official",
-   "views": 460521,
+   "views": 530753,
    "url": "https://www.youtube.com/watch?v=h5eR27Gle1U",
    "thumb": "https://i.ytimg.com/vi/h5eR27Gle1U/hqdefault.jpg",
    "regions": [
@@ -6327,7 +6327,7 @@
    "id": "nhdh962_ee0",
    "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
    "channel": "Avatar Legends",
-   "views": 2545772,
+   "views": 2581023,
    "url": "https://www.youtube.com/watch?v=nhdh962_ee0",
    "thumb": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
    "regions": [
@@ -6341,7 +6341,7 @@
    "id": "YhUiptupV7A",
    "title": "I do not recommend: Marvel's Wolverine (Review)",
    "channel": "Skill Up",
-   "views": 1959917,
+   "views": 1992222,
    "url": "https://www.youtube.com/watch?v=YhUiptupV7A",
    "thumb": "https://i.ytimg.com/vi/YhUiptupV7A/hqdefault.jpg",
    "regions": [
@@ -6355,7 +6355,7 @@
    "id": "nt_utGbae4I",
    "title": "🔴LIVE | WARDOGS | ITS GO TIME | Hutch x Lvndmark x Nickmercs | #BUNGULATE",
    "channel": "TheBurntPeanut",
-   "views": 1716373,
+   "views": 1717673,
    "url": "https://www.youtube.com/watch?v=nt_utGbae4I",
    "thumb": "https://i.ytimg.com/vi/nt_utGbae4I/hqdefault.jpg",
    "regions": [
@@ -6369,7 +6369,7 @@
    "id": "U57CNxSgoss",
    "title": "BELOW | Official Trailer | Netflix",
    "channel": "Netflix",
-   "views": 913887,
+   "views": 933398,
    "url": "https://www.youtube.com/watch?v=U57CNxSgoss",
    "thumb": "https://i.ytimg.com/vi/U57CNxSgoss/hqdefault.jpg",
    "regions": [
@@ -6383,7 +6383,7 @@
    "id": "L43gRv9Et2w",
    "title": "Slayyyter - crank 2 (Official Video)",
    "channel": "SlayyyterVEVO",
-   "views": 588385,
+   "views": 602580,
    "url": "https://www.youtube.com/watch?v=L43gRv9Et2w",
    "thumb": "https://i.ytimg.com/vi/L43gRv9Et2w/hqdefault.jpg",
    "regions": [
@@ -6394,10 +6394,24 @@
   },
   {
    "rank": 9,
+   "id": "h68WUZ8b0O0",
+   "title": "Searching for a Vault that Doesn't Exist",
+   "channel": "FlameFrags",
+   "views": 491163,
+   "url": "https://www.youtube.com/watch?v=h68WUZ8b0O0",
+   "thumb": "https://i.ytimg.com/vi/h68WUZ8b0O0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "存在しない金庫を探すゲームプレイのようですね。"
+  },
+  {
+   "rank": 10,
    "id": "a5Buygp15aA",
    "title": "Lanterns Episode 5 Trailer: Who Is The Real Villain?!",
    "channel": "Emergency Awesome",
-   "views": 305917,
+   "views": 314410,
    "url": "https://www.youtube.com/watch?v=a5Buygp15aA",
    "thumb": "https://i.ytimg.com/vi/a5Buygp15aA/hqdefault.jpg",
    "regions": [
@@ -6405,19 +6419,6 @@
     "GB"
    ],
    "comment": "ドラマシリーズのエピソード5の予告編と考察のようです"
-  },
-  {
-   "rank": 10,
-   "id": "fneuVQ7uO_w",
-   "title": "Drishyam: The Conclusion | Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
-   "channel": "Star Studios",
-   "views": 33607020,
-   "url": "https://www.youtube.com/watch?v=fneuVQ7uO_w",
-   "thumb": "https://i.ytimg.com/vi/fneuVQ7uO_w/hqdefault.jpg",
-   "regions": [
-    "IN"
-   ],
-   "comment": "Ajay Devgnらが出演する映画の公式予告編のようです。（25字）"
   }
  ]
 }

@@ -80926,5 +80926,39 @@
   "date": "2026-09-12",
   "time": "02:00",
   "path": "/articles/20260912-abc-show-wont-air-interview-due-to-fcc-threats.html"
+ },
+ {
+  "title": "ANYCOLOR売上高は1Q上振れ、2Qで42.1％増を見込む背景とは",
+  "lead": "「にじさんじ」を中心にVTuber事業を展開するANYCOLORの売上高が、1Qで上振れし、2Qには前年比42.1％増を見込んでいることが明らかになりました。",
+  "summary3": [
+   "ANYCOLORの売上高が1Qで見通しを上振れ",
+   "2Qは前年比42.1％増を見込む展開に",
+   "「にじさんじ」中心のVTuber事業が好調"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。「にじさんじ」を中心にVTuber事業を展開するANYCOLORに関する最新の業績動向が明らかになりました。",
+   "発表された情報によると、同社の売上高は第1四半期（1Q）の見通しを上振れて推移しています。さらに続く第2四半期（2Q）においても、前年同期比で42.1％増という高い伸びを見込んでいる状況です。",
+   "主力の「にじさんじ」を中心としたVTuber事業の展開がどのようにこの好業績を支えているのか、今後の動向にも引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "ANYCOLOR",
+   "にじさんじ",
+   "VTuber"
+  ],
+  "slug": "anycolor-vtuber-business-forecast",
+  "people": [],
+  "terms": [
+   {
+    "name": "ANYCOLOR",
+    "type": "company",
+    "desc": "「にじさんじ」などのVTuberプロジェクトを多数展開し、ライブエンターテインメント事業などを手掛ける日本の企業。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cFQzZUJGSlMtOFM1UGFTY1hNaDdJMGktMU5KRXp3LTNIb1FQa2UzRmpMY1QwaXFDOU1OYW9raFFiSWxqZ2c?oc=5",
+  "category": "influencer",
+  "date": "2026-09-12",
+  "time": "03:00",
+  "path": "/articles/20260912-anycolor-vtuber-business-forecast.html"
  }
 ]
