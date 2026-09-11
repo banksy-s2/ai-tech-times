@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-11 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-11 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NTTデータや富士通、AIコンサル増員の狙い",
-   "path": "/articles/20260911-nttdata-fujitsu-fde-ai.html",
-   "cat": "日本のAI"
+   "title": "イーロン・マスク氏のボーリング・カンパニー、UAE主導で30億ドル調達の理由",
+   "path": "/articles/20260911-elon-musk-boring-co-uae-valuation.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "マネーフォワード警告、AI生成レシートが経費精算の脅威に",
-   "path": "/articles/20260911-ai-generated-receipt-threat.html",
-   "cat": "日本のAI"
+   "title": "ライアンエアーCEOが警告、航空券価格が大幅値上げへ",
+   "path": "/articles/20260911-ryanair-ceo-airfare-hike-oil-prices.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 145,
+  "used": 151,
   "limit": 200
  }
 }

@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-11 19:01",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "イーロン・マスク氏のボーリング・カンパニー、UAE主導で30億ドル調達の理由",
-   "path": "/articles/20260911-elon-musk-boring-co-uae-valuation.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ライアンエアーCEOが警告、航空券価格が大幅値上げへ",
-   "path": "/articles/20260911-ryanair-ceo-airfare-hike-oil-prices.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-11 20:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 151,
+  "used": 156,
   "limit": 200
  }
 }
