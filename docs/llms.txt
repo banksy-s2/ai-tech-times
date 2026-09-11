@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 12:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均一時2000円超下落 原油価格上昇のなぜ](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen-oil-prices.html) — 2026-09-11 13:00: 11日の東京株式市場で、日経平均株価は原油の先物価格が上昇したことを背景に多くの銘柄に売り注文が出ました。一時、2000円以上値下がりする展開となっています。
+- [アイスランド捕鯨禁止へ、残り国数は?](https://ai-tech-times.web.app/articles/20260911-iceland-whaling-ban-2027.html) — 2026-09-11 13:00: 北欧のアイスランド政府が、2027年2月に捕鯨を禁止する法案を提出する方針を示しました。可決されれば、世界で商業捕鯨を行う国は日本とノルウェーの2か国のみとなります。
 - [Cognition、新型SWE-2を発表](https://ai-tech-times.web.app/articles/20260911-cognition-launches-swe-2-model.html) — 2026-09-11 12:02: Cognitionが新モデル「SWE-2」を発表しました。Fable 5.1やGPT-Astraに対抗する新AIモデルの全貌とは。
 - [Metaの新AIがバンド「Muse」のSNSアカウントを奪った理由](https://ai-tech-times.web.app/articles/20260911-muse-band-lost-social-media-handles-to-meta-ai.html) — 2026-09-11 12:02: 人気バンドの「Muse」が、メタ社の新しいAIエージェントにソーシャルメディアのアカウントを奪われる事態が発生しました。一体なぜこのようなトラブルが起きたのでしょうか。
 - [AppleのA20 Proベンチマーク流出、CPUは約25%高速化の理由](https://ai-tech-times.web.app/articles/20260911-apple-a20-pro-benchmark-leaks.html) — 2026-09-11 12:02: Appleが開発する新型SoC「A20 Pro」のGeekbench 6における測定結果が明らかになりました。前世代のA19 Proと比較してCPUが約25％高速化し、動作クロックは5GHzに迫っています。
@@ -40,8 +42,6 @@
 - [Anthropic、アリババなどの蒸留攻撃を告発した理由](https://ai-tech-times.web.app/articles/20260911-anthropic-details-distillation-campaigns.html) — 2026-09-11 07:02: 米AI企業のAnthropicは木曜日、中国企業による持続的なモデル蒸留攻撃に関する新しいレポートを発表しました。AI分野の競争激化に伴い、こうした攻撃が近年エスカレートしていると主張しています。
 - [OpenAI、数学の難問をAIで解明し学術界に波紋](https://ai-tech-times.web.app/articles/20260911-openai-math-millennium-prize.html) — 2026-09-11 07:02: OpenAIが数学の難問を解決したと発表し、AIが数学を変革するスピードを見せつけました。しかし、発表前から複雑な事態が生じています。
 - [アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-price-increase-ai-trend.html) — 2026-09-11 07:02: 米アップルは日本向けに36万円台の折り畳み型の新型iPhoneを発表し、全機種で前モデルより値上げしました。AI台頭の中で固定客頼みが強まる背景とは何でしょうか。
-- [Appleジョン・ターナスCEO初陣：初の折りたたみスマホ発表](https://ai-tech-times.web.app/articles/20260911-apple-first-foldable-phone-iphone-18-pro.html) — 2026-09-11 07:02: Appleのジョン・ターナスCEOによる初の発表イベントが開催され、同社初となる折りたたみ式スマートフォンなどが発表されました。
-- [The Boring Company、UAE主導のラウンドで30億ドルを調達](https://ai-tech-times.web.app/articles/20260911-the-boring-company-raises-3b-uae.html) — 2026-09-11 07:02: イーロン・マスク氏が率いる地下交通網開発企業The Boring Companyが、UAE主導の資金調達ラウンドで30億ドルを集めました。中東で150キロメートル以上のトンネル建設を計画しています。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)

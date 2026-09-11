@@ -1,21 +1,65 @@
 {
- "updated": "2026-09-11 11:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-11 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ブランドがインフルエンサーに有料案件を隠すよう迫る理由",
-   "path": "/articles/20260911-brands-pushing-influencers-to-hide-paid-posts.html",
+   "title": "Cognition、新型SWE-2を発表",
+   "path": "/articles/20260911-cognition-launches-swe-2-model.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Metaの新AIがバンド「Muse」のSNSアカウントを奪った理由",
+   "path": "/articles/20260911-muse-band-lost-social-media-handles-to-meta-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AppleのA20 Proベンチマーク流出、CPUは約25%高速化の理由",
+   "path": "/articles/20260911-apple-a20-pro-benchmark-leaks.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Oracle Q1売上高193億ドル、クラウドが121%増の理由",
+   "path": "/articles/20260911-oracle-q1-revenue-surges.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "TSMC売上高53%増の理由、AI需要が牽引",
+   "path": "/articles/20260911-tsmc-august-revenue-surge.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ウィンブルドン、インフルエンサー排除へ全米OPの混乱受け",
+   "path": "/articles/20260911-wimbledon-influencer-ban.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "自民党、食料品の消費税減税大綱案を小野寺税調会長らに一任",
+   "path": "/articles/20260911-ldm-consumption-tax-reduction-draft.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "WTI原油1バレル100ドル超え、4か月ぶり高値水準の理由",
+   "path": "/articles/20260911-ny-crude-oil-exceeds-100-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "パナソニック、AI蓄電システム売上高1.5兆円規模へ",
+   "path": "/articles/20260911-panasonic-ai-energy-storage-2030.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: アンソロピックで抗議の退社、OpenAI社員も同調 　AI開発加速を懸念 - 日",
+  "執筆失敗: 日経平均株価、一時下げ幅2000円超 原油高・米金利上昇が重荷に - 日本経済新",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 73,
+  "used": 101,
   "limit": 200
  }
 }
