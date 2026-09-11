@@ -1,65 +1,26 @@
 {
- "updated": "2026-09-11 07:02",
- "mode": "フル便",
+ "updated": "2026-09-11 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Anthropic、アリババなどの蒸留攻撃を告発した理由",
-   "path": "/articles/20260911-anthropic-details-distillation-campaigns.html",
+   "title": "エヌビディア来期70%成長の理由、黄CEOが語る",
+   "path": "/articles/20260911-jensen-huang-nvidia-growth-70-percent.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAI、数学の難問をAIで解明し学術界に波紋",
-   "path": "/articles/20260911-openai-math-millennium-prize.html",
+   "title": "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に",
+   "path": "/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ",
-   "path": "/articles/20260911-apple-iphone-price-increase-ai-trend.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Appleジョン・ターナスCEO初陣：初の折りたたみスマホ発表",
-   "path": "/articles/20260911-apple-first-foldable-phone-iphone-18-pro.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "The Boring Company、UAE主導のラウンドで30億ドルを調達",
-   "path": "/articles/20260911-the-boring-company-raises-3b-uae.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから",
-   "path": "/articles/20260911-apple-foldable-smartphone-release.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "高市首相、食料品消費税減税の大綱来週決定へ",
-   "path": "/articles/20260911-takaichi-consumption-tax-reduction.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ニデック永守氏らに287億円請求、株主代表訴訟",
-   "path": "/articles/20260911-nidec-shareholder-lawsuit-287-billion-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "大和自動車が急反発､大和ハウスとの提携の背景",
-   "path": "/articles/20260911-daiwa-jidosha-daiwa-house-capital-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [
-  "執筆失敗: 「Siri AI」日本語版は10月提供　AI機能組み込んだ音声アシスタント　専用",
-  "執筆失敗: ホロライブVTuber「儒烏風亭らでん」が岡山城再建60周年企画の音声ガイドに抜",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 55,
+  "used": 59,
   "limit": 200
  }
 }

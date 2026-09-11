@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnZGU0NJXzBiX3Z4aV9vb1F4cG55U3NDOHNrNzVxaFNUTHM1clJBSXJ2djZtUzNFVDl6d0VUV0FfVEVCMFBpWjNuNkljdTg3cmpIcjlWUFhrZExFQ0ZJRjNHQXNVWDVGT2c2ZTBHRXFGLWV6alNjNDhKMERaYVZ0UHg4RlRfbVE?oc=5",
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuY2IzYW5JNnVYMHR6V05wd0lWdnJnV1FSaFFTdHVEQkdDU1E4RV9kNnJjeHd2MnB1N3EtTTNYUnFIaUpNVHBBWUQ5WU41LWFjb2JUWV9zdmZZY3JHQUhqcVVzdmJHTENEcGFNMGw3bU5HUzV1dEVvdnFiRFNqOUE?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015186141000",
   "https://news.web.nhk/newsweb/na/na-k10015185921000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260909de49403",
   "https://news.web.nhk/newsweb/na/nd-20260911de49613",
   "https://news.web.nhk/newsweb/na/nd-20260911de49621",
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4LXlXMTN5MmlINHFMZUdPZ2JfUlVVWDF3Z0R1YXNCaHNrazRNTnA1c0xoV2h6X1VDczZGenloS2pWN3JGbTlyYWJSa0RydGdqbjhXMnJtQQ?oc=5"
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4LXlXMTN5MmlINHFMZUdPZ2JfUlVVWDF3Z0R1YXNCaHNrazRNTnA1c0xoV2h6X1VDczZGenloS2pWN3JGbTlyYWJSa0RydGdqbjhXMnJtQQ?oc=5",
+  "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
  ],
  "titles": [
-  "コマツ慎重見通し裏切る上方修正、株価一段高の背景",
-  "上場企業サラリーマン、母が株500万円分購入で顔面蒼白",
-  "Anthropic is turning Claude Code’s auto mode on by default",
-  "AnthropicのClaude Code、自動モードが標準に",
   "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
   "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表",
   "ロシア、米MAGA派インフルエンサー介し偽情報拡散 独選挙に干渉 - 日本経済新聞",
@@ -4001,6 +3997,10 @@
   "アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから",
   "高市首相、食料品消費税減税の大綱来週決定へ",
   "ニデック永守氏らに287億円請求、株主代表訴訟",
-  "大和自動車が急反発､大和ハウスとの提携の背景"
+  "大和自動車が急反発､大和ハウスとの提携の背景",
+  "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+  "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+  "エヌビディア来期70%成長の理由、黄CEOが語る",
+  "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に"
  ]
 }

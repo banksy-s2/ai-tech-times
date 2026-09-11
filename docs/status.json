@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-11 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-11 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "エヌビディア来期70%成長の理由、黄CEOが語る",
-   "path": "/articles/20260911-jensen-huang-nvidia-growth-70-percent.html",
-   "cat": "AI(海外)"
+   "title": "NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法",
+   "path": "/articles/20260911-nec-ai-token-cost-reduction.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に",
-   "path": "/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html",
-   "cat": "AI(海外)"
+   "title": "NTTドコモソリューションズ、業務の30％をAI化",
+   "path": "/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 59,
+  "used": 65,
   "limit": 200
  }
 }

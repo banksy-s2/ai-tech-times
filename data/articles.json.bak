@@ -79078,5 +79078,78 @@
   "date": "2026-09-11",
   "time": "07:02",
   "path": "/articles/20260911-daiwa-jidosha-daiwa-house-capital-alliance.html"
+ },
+ {
+  "title": "エヌビディア来期70%成長の理由、黄CEOが語る",
+  "lead": "AI半導体市場を牽引するエヌビディアが、来期も驚異的な70%の成長を遂げると予測される理由について、ジェンスン・フアンCEOが語りました。",
+  "summary3": [
+   "エヌビディアが来期70%成長へ",
+   "黄CEOが好調の理由を解説",
+   "取引の循環性についても否定"
+  ],
+  "body": [
+   "米テックメディア「TechCrunch AI」の報道によると、エヌビディアのジェンスン・フアンCEOは、同社があらゆる分野に事業を展開しており、今後もさらなる豊かさが訪れると見込んでいると語りました。",
+   "同社は来期において、驚異的な70%の成長を達成する見通しを示しています。この成長予測の背景について、フアンCEOがその理由を説明しました。",
+   "また、市場の一部で懸念されている取引の循環性について、フアンCEOは「取引は循環的なものではない」と強く主張しています。"
+  ],
+  "tags": [
+   "エヌビディア",
+   "ジェンスン・フアン",
+   "AI半導体"
+  ],
+  "slug": "jensen-huang-nvidia-growth-70-percent",
+  "people": [
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "米半導体大手エヌビディアの共同創業者兼CEO。AIブームを牽引するGPU開発で知られる業界の重要人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカに本拠を置く半導体メーカー。AIの学習や推論に不可欠なGPU市場で圧倒的なシェアを誇る。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "08:00",
+  "path": "/articles/20260911-jensen-huang-nvidia-growth-70-percent.html"
+ },
+ {
+  "title": "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に",
+  "lead": "インドのオーディオプラットフォーム「Pocket FM」が、AIの活用によって売上収益ランレートを5億ドルへと倍増させました。コンテンツ制作費を大幅に削減したその仕組みをお伝えします。",
+  "summary3": [
+   "Pocket FMの売上収益が5億ドルに倍増",
+   "新規コンテンツの99%をAIで制作",
+   "制作コストが約80分の1に大幅削減"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。インド発のオーディオプラットフォーム「Pocket FM」は、音声コンテンツの制作におけるAIの積極的な活用により、売上収益ランレートを5億ドルへと倍増させることに成功しました。",
+   "同社では、新規に制作するコンテンツの99%にAI技術が導入されています。その結果、オーディオコンテンツ全体の93%がAIによって駆動される体制が構築されており、これがビジネスの急成長を強力に牽引しています。",
+   "さらに、AIの活用は収益面だけでなくコスト削減にも大きな成果をもたらしています。AIによる自動化により、コンテンツの制作費を約80分の1という驚異的な低コスト化を実現しました。AI技術が音声メディアのビジネスモデルをどのように変革しているのか、今後の動向からも目が離せません。"
+  ],
+  "tags": [
+   "Pocket FM",
+   "音声AI",
+   "メディアビジネス"
+  ],
+  "slug": "pocket-fm-doubles-revenue-run-rate-to-500m-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Pocket FM",
+    "type": "company",
+    "desc": "インドを拠点にオーディオコンテンツの配信や制作を手がける注目のメディア企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "08:00",
+  "path": "/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html"
  }
 ]

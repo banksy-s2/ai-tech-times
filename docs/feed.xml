@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法</title>
+<link>https://ai-tech-times.web.app/articles/20260911-nec-ai-token-cost-reduction.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260911-nec-ai-token-cost-reduction.html</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>NECの小玉浩氏がメディア向け説明会で、全社のAI利用に掛かる実質的なトークンコストの削減目標を明らかにしました。</description>
+</item>
+<item>
+<title>NTTドコモソリューションズ、業務の30％をAI化</title>
+<link>https://ai-tech-times.web.app/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>業務の約30％をAIエージェントに任せているNTTドコモソリューションズのIT運用部門。デジタル化に逆行するようにも思える、日報や週報での「パワポ文書禁止」という施策の狙いとは。</description>
+</item>
+<item>
 <title>エヌビディア来期70%成長の理由、黄CEOが語る</title>
 <link>https://ai-tech-times.web.app/articles/20260911-jensen-huang-nvidia-growth-70-percent.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260911-jensen-huang-nvidia-growth-70-percent.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 10 Sep 2026 21:10:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>政府が輸入した小麦を民間に売り渡す際の価格について、農林水産省は来月から半年間、前の期間より12％引き上げると発表しました。</description>
-</item>
-<item>
-<title>高野山で宿坊営む複数の宗教法人、1億円超の申告漏れなぜ？</title>
-<link>https://ai-tech-times.web.app/articles/20260910-koyasan-shukubo-tax-omission.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260910-koyasan-shukubo-tax-omission.html</guid>
-<pubDate>Thu, 10 Sep 2026 21:10:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>世界遺産の和歌山県・高野山で宿坊を営む複数の宗教法人が、大阪国税局の税務調査で法人税や所得税などあわせて1億円を超える申告漏れを指摘されていたことが分かりました。</description>
-</item>
-<item>
-<title>エアトリ、配当利回り17.33％に！年間配当が16倍に急増した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260910-airtrip-dividend-increase.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260910-airtrip-dividend-increase.html</guid>
-<pubDate>Thu, 10 Sep 2026 21:10:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>エアトリ（6191）が大幅な増配を発表し、配当利回りが17.33％に達しました。2026年9月期の年間配当は前期比150円増の「1株あたり160円」となります。</description>
 </item>
 </channel></rss>
