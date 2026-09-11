@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-12 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-12 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Voicyが専門エンジニアを廃止した改革の全記録",
-   "path": "/articles/20260912-voicy-engineering-reform-yamagen.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか",
-   "path": "/articles/20260912-dentsu-aijes-purchasing-model.html",
-   "cat": "日本のAI"
+   "title": "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り",
+   "path": "/articles/20260912-abc-show-wont-air-interview-due-to-fcc-threats.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Oracle posts 30% revenue growth fueled b"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 15,
   "limit": 200
  }
 }

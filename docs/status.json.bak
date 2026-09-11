@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-12 00:02",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-12 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Meta、AIの侵入的な質問提案を変更へ",
-   "path": "/articles/20260912-meta-ai-invasive-suggestions-change.html",
-   "cat": "AI(海外)"
+   "title": "Voicyが専門エンジニアを廃止した改革の全記録",
+   "path": "/articles/20260912-voicy-engineering-reform-yamagen.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Metaの新型Muse AI、便利だが気味が悪い理由",
-   "path": "/articles/20260912-meta-muse-ai-hands-on.html",
-   "cat": "AI(海外)"
+   "title": "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか",
+   "path": "/articles/20260912-dentsu-aijes-purchasing-model.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 6,
+  "used": 10,
   "limit": 200
  }
 }

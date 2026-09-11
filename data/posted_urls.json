@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xV1FaeXJqbVVVeE4wVE9OdFZRRloxWXBiX3plQjhSWDVjcnZZOUFmbVJwdDF1enlBZF9wYWRseHI1MmFrTWZyeVBBT3A4THNUY3ByN2tKbw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015186801000",
   "https://news.web.nhk/newsweb/na/na-k10015186341000",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWDB4czBZS0g3NVd6YU1samV2THZuWVZOQzNsWlc1Tk5uVm82Q0VPYnN4UlotQm9ZTndsNVd6cjcweEYtYVdIUmJhdkLSAU9BVV95cUxNRlNRYnNPV25NS0twaVZuX29BbUJWN3ljdFg0OUh0MkJoSk94bm82X3FxazhvMmtraGdtdjVFV21jWmwzb2hjb0JmRzZhQkRV?oc=5",
@@ -1999,11 +1998,10 @@
   "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
   "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
   "https://tech-blog.voicy.jp/entry/2026/09/10/183722",
-  "https://markezine.jp/news/detail/77595"
+  "https://markezine.jp/news/detail/77595",
+  "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/"
  ],
  "titles": [
-  "半導体関連に買い東証１３６３円高 米国株高が追い風 - 福井新聞社",
-  "【9101.T FY2026 Q1 決算説明会】経常利益71.2億円、通期650億円上方修正 ドライ194億円・エネルギー239億円と爆発、NSユナイテッド買収でケープ世界2位へ - BigGo ファイナンス",
   "マーク・ザッカーバーグ氏の6500字AI声明が反発を招く理由",
   "Claudeエージェントがジムの予約システムをハッキングした理由",
   "NTTデータ調査：日本の生成AI財務還元率が40%に留まる理由",
@@ -4001,6 +3999,8 @@
   "専門エンジニアを廃止した　─ Voicy開発統括が半年で実行した3つの構造改革 - Voicy Tech Blog",
   "電通グループ4社、AI時代の購買行動モデル「AIJES」を提唱　人とAIによる新意思決定プロセス提示",
   "Voicyが専門エンジニアを廃止した改革の全記録",
-  "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか"
+  "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか",
+  "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+  "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り"
  ]
 }
