@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-11 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-11 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ大統領、成人市民へ5000ドル支給に再言及",
-   "path": "/articles/20260911-trump-5000-dollars-payout-election.html",
-   "cat": "時事・世界"
+   "title": "日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威",
+   "path": "/articles/20260911-nikkei-average-drops-1259-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [
-  "執筆失敗: アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 180,
+  "used": 184,
   "limit": 200
  }
 }

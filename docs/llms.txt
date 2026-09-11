@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 22:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-1259-yen.html) — 2026-09-11 23:00: 日経平均株価は終値で1259円安となり、AIへの期待が打ち消される展開となりました。背景には何があったのでしょうか。
 - [トランプ大統領、成人市民へ5000ドル支給に再言及](https://ai-tech-times.web.app/articles/20260911-trump-5000-dollars-payout-election.html) — 2026-09-11 22:00: アメリカのトランプ大統領が、11月の中間選挙を前に開かれた共和党の党大会で、成人のアメリカ市民に5000ドルを支給する考えを改めて示しました。
 - [Claude未成年利用停止、年齢確認導入の背景](https://ai-tech-times.web.app/articles/20260911-claude-no-longer-available-for-minors.html) — 2026-09-11 21:10: AI TECH TIMESがお届けする最新ニュース。対話型AI「Claude」において、未成年者の利用が停止され、年齢確認の仕組みが導入されることが明らかになりました。
 - [Slack、チャット内でAIと対話しながら資料作成できる新機能「Slackforce Surfaces」を発表](https://ai-tech-times.web.app/articles/20260911-slack-slackforce-surfaces-launch.html) — 2026-09-11 21:10: ビジネス向けチャットツールを提供するSlackは、チャット内で対話しながらインタラクティブなレポートやダッシュボードなどを構築できる新機能を発表しました。
@@ -41,12 +42,11 @@
 - [NECの新組織「AIだけの部署」の実態を明かす理由](https://ai-tech-times.web.app/articles/20260911-nec-ai-workforce-department.html) — 2026-09-11 17:07: AIが全社員の役割を担うNECの新組織「コーポレートAI・Workforce部門」について、同社の小玉浩氏が実態や狙いを語りました。
 - [AnthropicがClaude悪用レポート公開、危険なAI転用を防ぐ理由](https://ai-tech-times.web.app/articles/20260911-anthropic-claude-threat-report.html) — 2026-09-11 17:07: ITmedia AI+の報道によると、Anthropicは自社AI「Claude」の悪用事例をまとめた脅威レポートを公開しました。生物兵器につながり得る研究や国家機関による監視などを検知・遮断した実態が明らかになっています。
 - [Amazon、自社ウェブストアに外部AIを導入](https://ai-tech-times.web.app/articles/20260911-amazon-chatgptads-open-ai.html) — 2026-09-11 17:07: Amazonが外部AIプラットフォームへの開放に慎重な姿勢を続けてきた中、ChatGPTの広告事業において大きな動きがありました。
-- [中国AI企業6社が米国モデルを模倣、米政府が対策要求](https://ai-tech-times.web.app/articles/20260911-chinese-ai-firms-accused-of-copying-us-models.html) — 2026-09-11 17:07: 米国の先端AIモデルを模倣しているとされる中国のAI企業6社について、米政府が対策を求めていることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
-- 3位: [Slayyyter - crank 2 (Official Video)](https://www.youtube.com/watch?v=L43gRv9Et2w)
+- 3位: [Avatar: Seven Havens | Official Trailer | Paramount+](https://www.youtube.com/watch?v=nhdh962_ee0)
 
 ## AI用語事典 (全1408語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
