@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経平均株価、一時下げ幅2000円超なぜ？](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen.html) — 2026-09-11 14:00: 日本経済新聞の報道によると、日経平均株価が一時2000円を超える下落を記録しました。市場への影響が懸念されています。
 - [日経平均一時2000円超下落 原油価格上昇のなぜ](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen-oil-prices.html) — 2026-09-11 13:00: 11日の東京株式市場で、日経平均株価は原油の先物価格が上昇したことを背景に多くの銘柄に売り注文が出ました。一時、2000円以上値下がりする展開となっています。
 - [アイスランド捕鯨禁止へ、残り国数は?](https://ai-tech-times.web.app/articles/20260911-iceland-whaling-ban-2027.html) — 2026-09-11 13:00: 北欧のアイスランド政府が、2027年2月に捕鯨を禁止する法案を提出する方針を示しました。可決されれば、世界で商業捕鯨を行う国は日本とノルウェーの2か国のみとなります。
 - [Cognition、新型SWE-2を発表](https://ai-tech-times.web.app/articles/20260911-cognition-launches-swe-2-model.html) — 2026-09-11 12:02: Cognitionが新モデル「SWE-2」を発表しました。Fable 5.1やGPT-Astraに対抗する新AIモデルの全貌とは。
@@ -41,7 +42,6 @@
 - [Pocket FMが売上5億ドルを達成、AIで制作費80分の1に](https://ai-tech-times.web.app/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html) — 2026-09-11 08:00: インドのオーディオプラットフォーム「Pocket FM」が、AIの活用によって売上収益ランレートを5億ドルへと倍増させました。コンテンツ制作費を大幅に削減したその仕組みをお伝えします。
 - [Anthropic、アリババなどの蒸留攻撃を告発した理由](https://ai-tech-times.web.app/articles/20260911-anthropic-details-distillation-campaigns.html) — 2026-09-11 07:02: 米AI企業のAnthropicは木曜日、中国企業による持続的なモデル蒸留攻撃に関する新しいレポートを発表しました。AI分野の競争激化に伴い、こうした攻撃が近年エスカレートしていると主張しています。
 - [OpenAI、数学の難問をAIで解明し学術界に波紋](https://ai-tech-times.web.app/articles/20260911-openai-math-millennium-prize.html) — 2026-09-11 07:02: OpenAIが数学の難問を解決したと発表し、AIが数学を変革するスピードを見せつけました。しかし、発表前から複雑な事態が生じています。
-- [アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-price-increase-ai-trend.html) — 2026-09-11 07:02: 米アップルは日本向けに36万円台の折り畳み型の新型iPhoneを発表し、全機種で前モデルより値上げしました。AI台頭の中で固定客頼みが強まる背景とは何でしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
@@ -63,8 +63,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。

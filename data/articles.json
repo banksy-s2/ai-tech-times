@@ -79651,5 +79651,39 @@
   "date": "2026-09-11",
   "time": "13:00",
   "path": "/articles/20260911-iceland-whaling-ban-2027.html"
+ },
+ {
+  "title": "日経平均株価、一時下げ幅2000円超なぜ？",
+  "lead": "日本経済新聞の報道によると、日経平均株価が一時2000円を超える下落を記録しました。市場への影響が懸念されています。",
+  "summary3": [
+   "日経平均株価が一時下落",
+   "下げ幅は2000円超を記録",
+   "原油高・米金利上昇が重荷に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする株式市場のニュースです。日本経済新聞の報道によると、株式市場において日経平均株価が一時、前日からの下げ幅で2000円を超える大幅な下落を記録しました。",
+   "今回の株価下落の主な要因としては、原油高の進行および米国の金利上昇が重荷になったと伝えられています。市場参加者の間では、これらの外部環境の変動が警戒材料として意識されました。",
+   "株式市場における動向や経済指標の変化については、引き続き慎重な確認が求められる状況となっています。詳細な情報は日本経済新聞の報道などをご確認ください。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-drops-over-2000-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心としたニュースを専門に扱う日刊新聞であり主要なメディア。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zb0xnMlhKeU81YWlDSU1jbG5GckNUX2JkVVdfQkZSbEtCUVFUb2dVX1lRVTdUY3pTRmhTVTl0dVFJZmpmcjJmU1JLcTEwb0phY0VaMjRjNXBIc2dVdVhGeTFsZXFIbWgzNzktZw?oc=5",
+  "category": "stock",
+  "date": "2026-09-11",
+  "time": "14:00",
+  "path": "/articles/20260911-nikkei-average-drops-over-2000-yen.html"
  }
 ]

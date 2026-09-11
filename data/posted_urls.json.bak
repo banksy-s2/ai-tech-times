@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55X0JDQUdNOVlLVkxDemRobHFrNXNtbmZYcVVGcm9DSmQyZzU4azFHUnJsZGxqcGlJZzJMdlI3ZE5pZTJvb21VNnNXOXROaHpreHM2bkhsSkdwdmpNRlZqVA?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SRHRCYlRkQy1qMVJJRTdpZjk2M1RVVlN5cjYzUTNRdXpBQVVkOTZCbk9KbmVXbXY0cEtjVkZjMUJOaUNTQU5sY1dULWxSRV9qTHdBMXN0ZUVLZTVreUxZ?oc=5",
   "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
   "https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html",
   "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiygNBVV95cUxNM0VrOFZwcGF1bDk3MTJjNkhTVUJRUFMzRGh5ZVhzbzlEZy1vYkwtOWtTbVFjSVJtWHFBRlVGbHlVUDRvdVNpbldwenZ0aV9Oem5BcUFMTDEydnkzOElMeXF0Z0dzVUVjNVlaZWtJZHdlOUpoaFg4Nk9HTU80WkFSWl9XOFI5aUFHTkVWb3VoUENMMi13bVNQZkNyRjB5NmZFMkZqSGJXclhOeW5xbGc1TlVEMkVMUGR6b0g4TkdYVTBENVJ1NVlzMmZqZkYyVEtUMTF6VkRHS2dfVThJUW9pcGZ4VVZvdnJBWVliVTU5Skw2b0JXdzYyR0N6ZU93T3RRY0hiOElXREVwTGxIWTI0T2FZb0g3SDliTU5PenN1ZjNIcjc2VG42WWhFWTNQbWRybVlldG5BRGs1SFlGYnBESHJSMzN6cGl1MEpOcjBKOGpJY0tEVEtIbzZYMWNwTTFxR01MaDRyN2l6Q0RzeXdpLVhCS0gyeGZHekdVaG5jTlNyVDNHel9scHg2bklrLUR3MHU4WExFaDNZbXNaYkV5UWwzMjlDWVRLREtFT3Q2RUotZThweHRrU2lWMG10TU83VV9wWFZYSVZPQQ?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260911de49656",
   "https://news.web.nhk/newsweb/na/nd-20260911de49618",
-  "https://www.itmedia.co.jp/business/articles/2609/11/news053.html"
+  "https://www.itmedia.co.jp/business/articles/2609/11/news053.html",
+  "https://news.web.nhk/newsweb/na/nd-20260911de49643",
+  "https://news.web.nhk/newsweb/na/nd-20260911de49620"
  ],
  "titles": [
-  "【オークネット FY2026 Q2 決算説明会】M&A予算35億円を特別配当に充当、年間82円配当へ 通期営業利益120億円に上方修正 - BigGo ファイナンス",
-  "オークネット、M&A予算35億円を特別配当に充当し年間82円配当へ",
-  "SAP stops most travel and hiring because of AI's soaring cost",
-  "SAPが採用と出張を凍結、AIの高騰するコストの影響とは",
   "AIとの会話から「新興宗教」が誕生、AIチャットボットがユーザーの妄想を増幅する「妄想スパイラル」とは？",
   "Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan's Kumamoto as early as 2029 (Nikkei Asia)",
   "Australian rare earth miner surges as much as 29% after U.S. Department of War investment",
@@ -4001,6 +3997,10 @@
   "ウィンブルドン、インフルエンサー排除へ全米OPの混乱受け",
   "自民党、食料品の消費税減税大綱案を小野寺税調会長らに一任",
   "WTI原油1バレル100ドル超え、4か月ぶり高値水準の理由",
-  "パナソニック、AI蓄電システム売上高1.5兆円規模へ"
+  "パナソニック、AI蓄電システム売上高1.5兆円規模へ",
+  "株価 原油先物価格の上昇で一時2000円超値下がり",
+  "北欧のアイスランド政府が捕鯨禁止の法案提出へ",
+  "日経平均一時2000円超下落 原油価格上昇のなぜ",
+  "アイスランド捕鯨禁止へ、残り国数は?"
  ]
 }
