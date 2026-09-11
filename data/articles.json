@@ -79297,5 +79297,303 @@
   "date": "2026-09-11",
   "time": "11:00",
   "path": "/articles/20260911-brands-pushing-influencers-to-hide-paid-posts.html"
+ },
+ {
+  "title": "Cognition、新型SWE-2を発表",
+  "lead": "Cognitionが新モデル「SWE-2」を発表しました。Fable 5.1やGPT-Astraに対抗する新AIモデルの全貌とは。",
+  "summary3": [
+   "Cognitionが新モデルSWE-2を発表",
+   "Fable 5.1やGPT-Astraに対抗する性能",
+   "ハッカーニュースでも大きな話題に"
+  ],
+  "body": [
+   "AI・LLM分野の最新情報をお伝えするAI TECH TIMESです。Cognitionは、新モデルとなる「SWE-2」を新たに発表しました。",
+   "今回の新モデルであるSWE-2は、Fable 5.1やGPT-Astraに対抗するモデルとして位置づけられています。AIの開発競争が激化する中で登場した注目の一品です。",
+   "ハッカーニュースのAI/LLMカテゴリにおいても多くのポイントとコメントを集めており、開発者や専門家の間での関心の高さがうかがえます。"
+  ],
+  "tags": [
+   "Cognition",
+   "SWE-2",
+   "LLM"
+  ],
+  "slug": "cognition-launches-swe-2-model",
+  "people": [],
+  "terms": [
+   {
+    "name": "Cognition",
+    "type": "company",
+    "desc": "AI技術の開発を手がける企業であり、先進的なモデルを発表している"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://cognition.com/blog/swe-2",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-cognition-launches-swe-2-model.html"
+ },
+ {
+  "title": "Metaの新AIがバンド「Muse」のSNSアカウントを奪った理由",
+  "lead": "人気バンドの「Muse」が、メタ社の新しいAIエージェントにソーシャルメディアのアカウントを奪われる事態が発生しました。一体なぜこのようなトラブルが起きたのでしょうか。",
+  "summary3": [
+   "バンドのMuseがSNSアカウントを喪失",
+   "アカウントを取得したのはMetaのAI",
+   "新しいAIエージェントが原因と判明"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」の報道によると、著名なバンドである「Muse」が、自身のソーシャルメディアのアカウントを失うトラブルに見舞われました。原因となったのは、メタ社の新しいAIエージェントである「Muse」です。",
+   "同名のAIエージェントが登場したことで、バンド側が使用していたアカウントやハンドルネームの管理を巡り、何らかの衝突や移行が発生したものと見られています。SNS上でのアカウント名やIDは、ブランドやアーティストにとって極めて重要な資産であるため、今回の出来事は大きな波紋を呼んでいます。",
+   "メタ社が展開するAIエージェントが既存の商標やアーティスト名と競合する可能性について、今後の対応や詳細が注目されています。アーティストのアイデンティティに関わる問題として、ネット上でも議論が続けられています。"
+  ],
+  "tags": [
+   "AI",
+   "SNS",
+   "Meta"
+  ],
+  "slug": "muse-band-lost-social-media-handles-to-meta-ai",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-muse-band-lost-social-media-handles-to-meta-ai.html"
+ },
+ {
+  "title": "AppleのA20 Proベンチマーク流出、CPUは約25%高速化の理由",
+  "lead": "Appleが開発する新型SoC「A20 Pro」のGeekbench 6における測定結果が明らかになりました。前世代のA19 Proと比較してCPUが約25％高速化し、動作クロックは5GHzに迫っています。",
+  "summary3": [
+   "A20 Proのベンチマーク結果が流出",
+   "CPUは前世代より約25％高速化",
+   "GPUスコアも約40％向上を記録"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」が伝えるところによれば、AppleがiPhone DuoやiPhone 18 Pro／Pro Maxに搭載した新型SoC「A20 Pro」のGeekbench 6における測定結果が登場しました。次世代のスマートフォンに向けたチップの性能が、徐々に明らかになっています。",
+   "今回の測定結果によると、A20 Proはシングルコアとマルチコアの両方において、前世代のA19 Proを約25％上回る性能を記録しました。さらに、動作クロックは5GHzに迫るほどの高水準に達していることが確認されています。",
+   "また、CPUの進化だけでなくGPUスコアについても約40％の向上が見られるなど、グラフィック性能の大幅な強化も注目されます。これらの進化が実際の使用環境やデバイスの動作にどのような影響を与えるのか、今後の展開に関心が集まっています。"
+  ],
+  "tags": [
+   "Apple",
+   "iPhone 18 Pro",
+   "ベンチマーク"
+  ],
+  "slug": "apple-a20-pro-benchmark-leaks",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国カリフォルニア州に本社を置く、iPhoneなどを開発・販売する世界的なテクノロジー企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260911-apple-m20-pro-benchmark/",
+  "category": "ai_jp",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-apple-a20-pro-benchmark-leaks.html"
+ },
+ {
+  "title": "Oracle Q1売上高193億ドル、クラウドが121%増の理由",
+  "lead": "AI TECH TIMESがお届けする最新ニュース。Oracleが発表した第1四半期決算は、市場予想を上回る大幅な増収となりました。その裏で何が起きているのでしょうか。",
+  "summary3": [
+   "Q1売上高は前年同期比30%増の193.5億ドル",
+   "クラウドインフラ事業が121%増の7.4億ドルに",
+   "市場予想超えを受け時間外取引で株価が上昇"
+  ],
+  "body": [
+   "Oracleが発表した第1四半期決算は、売上高が前年同期比30%増の193.5億ドルとなり、市場予想の191.4億ドルを上回りました。この好業績を牽引したのはクラウド部門であり、同社のビジネスモデルにおける成長が改めて示される結果となりました。",
+   "特にクラウドインフラストラクチャの売上高は、前年同期比121%増の7.4億ドルを記録し、こちらも市場予想の7.09億ドルを上回る好調さを見せています。企業のクラウド移行やデータ需要の高まりが、この急成長を支えているとみられます。",
+   "この市場予想を上回る四半期結果の発表を受け、ソフトウェアベンダーであるOracleの株価は木曜日の時間外取引で4%以上、一部報道では6%以上上昇する場面も見られました。投資家からの強い期待が集まる中、同社の今後の動向に注目が集まります。"
+  ],
+  "tags": [
+   "Oracle",
+   "決算",
+   "クラウド"
+  ],
+  "slug": "oracle-q1-revenue-surges",
+  "people": [],
+  "terms": [
+   {
+    "name": "Oracle",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠地を置く、データベース管理システムやエンタープライズソフトウェアを手がける大手IT企業。"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260910/p35#a260910p35",
+  "category": "silicon",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-oracle-q1-revenue-surges.html"
+ },
+ {
+  "title": "TSMC売上高53%増の理由、AI需要が牽引",
+  "lead": "世界最大の半導体受託製造企業であるTSMCが、8月の月間売上高を発表しました。前年同月比で53%を超える記録的な急増を見せています。",
+  "summary3": [
+   "TSMCが8月の売上高を発表",
+   "前年同月比53%超の急増を記録",
+   "月間売上高として過去最高を更新"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がCNBC Techの報道に基づいてお伝えします。世界最大の半導体受託製造企業であるTSMCは木曜日、8月の月間売上高を発表しました。発表によると、同月の売上高は前年同月比で53%以上増加し、記録的な最高値を更新したとのことです。",
+   "TSMCは世界中の多くのハイテク企業から半導体の製造を受託していることで広く知られており、近年の急速なAI技術の発展やそれに伴う半導体需要の拡大が、今回の記録的な売上高の急増に大きく寄与している形となっています。",
+   "今回の発表は、世界の半導体市場やAI関連産業が引き続き力強い成長を続けていることを示すものとなりました。今後の月次動向や市場全体の変化にも引き続き注目が集まると予想されます。"
+  ],
+  "tags": [
+   "TSMC",
+   "半導体",
+   "AI"
+  ],
+  "slug": "tsmc-august-revenue-surge",
+  "people": [],
+  "terms": [
+   {
+    "name": "TSMC",
+    "type": "company",
+    "desc": "台湾に本拠を置く世界最大の半導体受託製造企業。多くのハイテク企業から製造を請け負う。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+  "category": "silicon",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-tsmc-august-revenue-surge.html"
+ },
+ {
+  "title": "ウィンブルドン、インフルエンサー排除へ全米OPの混乱受け",
+  "lead": "ウィンブルドン選手権が、全米オープンの混乱を受けた対策としてインフルエンサーを排除する方針を固めました。",
+  "summary3": [
+   "ウィンブルドン選手権がインフルエンサー排除へ",
+   "全米オープンでの混乱を受けた対策として実施",
+   "大会運営の秩序を守るための新しい方針"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。テニスの伝統あるグランドスラムであるウィンブルドン選手権が、インフルエンサーを排除する方針であることが明らかになりました。",
+   "この対策は、全米オープンで発生した混乱を受けたものとされています。大会運営におけるマナーや混乱を防ぐため、新たな方針として導入される見通しです。",
+   "詳細な運用方法や今後の影響については引き続き注目が集まっており、スポーツイベントにおけるインフルエンサーの扱いについて議論が広がりそうです。"
+  ],
+  "tags": [
+   "ウィンブルドン",
+   "全米オープン",
+   "インフルエンサー"
+  ],
+  "slug": "wimbledon-influencer-ban",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNM0VrOFZwcGF1bDk3MTJjNkhTVUJRUFMzRGh5ZVhzbzlEZy1vYkwtOWtTbVFjSVJtWHFBRlVGbHlVUDRvdVNpbldwenZ0aV9Oem5BcUFMTDEydnkzOElMeXF0Z0dzVUVjNVlaZWtJZHdlOUpoaFg4Nk9HTU80WkFSWl9XOFI5aUFHTkVWb3VoUENMMi13bVNQZkNyRjB5NmZFMkZqSGJXclhOeW5xbGc1TlVEMkVMUGR6b0g4TkdYVTBENVJ1NVlzMmZqZkYyVEtUMTF6VkRHS2dfVThJUW9pcGZ4VVZvdnJBWVliVTU5Skw2b0JXdzYyR0N6ZU93T3RRY0hiOElXREVwTGxIWTI0T2FZb0g3SDliTU5PenN1ZjNIcjc2VG42WWhFWTNQbWRybVlldG5BRGs1SFlGYnBESHJSMzN6cGl1MEpOcjBKOGpJY0tEVEtIbzZYMWNwTTFxR01MaDRyN2l6Q0RzeXdpLVhCS0gyeGZHekdVaG5jTlNyVDNHel9scHg2bklrLUR3MHU4WExFaDNZbXNaYkV5UWwzMjlDWVRLREtFT3Q2RUotZThweHRrU2lWMG10TU83VV9wWFZYSVZPQQ?oc=5",
+  "category": "influencer",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-wimbledon-influencer-ban.html"
+ },
+ {
+  "title": "自民党、食料品の消費税減税大綱案を小野寺税調会長らに一任",
+  "lead": "自民党は税制調査会などの合同会議を開き、食料品の消費税減税の制度設計を盛り込んだ大綱の案について、今後の対応を一任することを決めました。",
+  "summary3": [
+   "自民党が食料品の消費税減税大綱案を協議",
+   "小野寺税調会長らに今後の対応を一任",
+   "政府・与党は15日に大綱を閣議決定予定"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、自民党は税制調査会などの合同会議を開催しました。この会議では、食料品の消費税減税に関する制度設計を盛り込んだ大綱の案について議論が行われました。",
+   "その結果、小野寺税制調査会長らに対して、今後の対応を一任することが正式に決定されました。",
+   "政府・与党は、来週15日にこの大綱を閣議決定する方針です。今後の詳細な制度設計や実施に向けた動きに注目が集まっています。"
+  ],
+  "tags": [
+   "自民党",
+   "消費税減税",
+   "税制調査会"
+  ],
+  "slug": "ldm-consumption-tax-reduction-draft",
+  "people": [],
+  "terms": [
+   {
+    "name": "自民党",
+    "type": "company",
+    "desc": "日本における主要な政党の一つで、政権を担う与党として政策決定の中心を担う。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49656",
+  "category": "world",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-ldm-consumption-tax-reduction-draft.html"
+ },
+ {
+  "title": "WTI原油1バレル100ドル超え、4か月ぶり高値水準の理由",
+  "lead": "10日のニューヨーク原油市場で、WTIの先物価格が一時1バレル＝100ドルの大台を上回り、およそ4か月ぶりの高値水準となりました。",
+  "summary3": [
+   "NY原油が一時100ドルを突破",
+   "およそ4か月ぶりの高値水準",
+   "原油供給への懸念が背景に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が伝えたNHK国際の報道によると、10日のニューヨーク原油市場において、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝100ドルの大台を上回りました。",
+   "これはおよそ4か月ぶりの高値水準となっており、市場では原油供給に対する懸念が広がっている状況です。",
+   "中東情勢をめぐり、アメリカとイランに関する動向などが意識される中で今回の価格上昇につながっており、今後のエネルギー市場の動きから目が離せない展開となっています。"
+  ],
+  "tags": [
+   "原油",
+   "ニューヨーク原油",
+   "経済ニュース"
+  ],
+  "slug": "ny-crude-oil-exceeds-100-dollars",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49618",
+  "category": "world",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-ny-crude-oil-exceeds-100-dollars.html"
+ },
+ {
+  "title": "パナソニック、AI蓄電システム売上高1.5兆円規模へ",
+  "lead": "パナソニックエナジーの只信一生社長が10日に取材に応じ、AIデータセンター向け蓄電システムの売上高が2030年度に最大1兆5000億円規模になる可能性があるとの見通しを示しました。",
+  "summary3": [
+   "パナソニックがAI向け蓄電システムに注力",
+   "2030年度に売上高最大1.5兆円規模の可能性",
+   "EV電池からの事業転換を進める方針を示す"
+  ],
+  "body": [
+   "パナソニックホールディングス傘下で電池事業を手掛けるパナソニックエナジーの只信一生社長は10日、東京都内で報道陣の取材に応じました。",
+   "その中で同氏は、AIデータセンター向け蓄電システムの売上高について、2030年度に最大1兆5000億円規模になる可能性があるとの見通しを明らかにしました。",
+   "今回の見通しは、これまでのEV（電気自動車）向け電池から蓄電システムへの事業転換を進める中で示されたものであり、今後の展開が注目されます。"
+  ],
+  "tags": [
+   "パナソニック",
+   "AI",
+   "蓄電システム"
+  ],
+  "slug": "panasonic-ai-energy-storage-2030",
+  "people": [
+   {
+    "name": "只信一生",
+    "bio": "パナソニックホールディングス傘下の電池事業を手掛けるパナソニックエナジーの社長を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "パナソニックホールディングス",
+    "type": "company",
+    "desc": "家電から車載電池、B2B事業まで幅広く手掛ける日本を代表する総合電機メーカー。"
+   },
+   {
+    "name": "パナソニックエナジー",
+    "type": "company",
+    "desc": "パナソニックグループの傘下で、EV用電池や蓄電システムなどの電池事業を担う企業。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/11/news053.html",
+  "category": "jp_corp",
+  "date": "2026-09-11",
+  "time": "12:02",
+  "path": "/articles/20260911-panasonic-ai-energy-storage-2030.html"
  }
 ]

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 12:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Cognition、新型SWE-2を発表](https://ai-tech-times.web.app/articles/20260911-cognition-launches-swe-2-model.html) — 2026-09-11 12:02: Cognitionが新モデル「SWE-2」を発表しました。Fable 5.1やGPT-Astraに対抗する新AIモデルの全貌とは。
+- [Metaの新AIがバンド「Muse」のSNSアカウントを奪った理由](https://ai-tech-times.web.app/articles/20260911-muse-band-lost-social-media-handles-to-meta-ai.html) — 2026-09-11 12:02: 人気バンドの「Muse」が、メタ社の新しいAIエージェントにソーシャルメディアのアカウントを奪われる事態が発生しました。一体なぜこのようなトラブルが起きたのでしょうか。
+- [AppleのA20 Proベンチマーク流出、CPUは約25%高速化の理由](https://ai-tech-times.web.app/articles/20260911-apple-a20-pro-benchmark-leaks.html) — 2026-09-11 12:02: Appleが開発する新型SoC「A20 Pro」のGeekbench 6における測定結果が明らかになりました。前世代のA19 Proと比較してCPUが約25％高速化し、動作クロックは5GHzに迫っています。
+- [Oracle Q1売上高193億ドル、クラウドが121%増の理由](https://ai-tech-times.web.app/articles/20260911-oracle-q1-revenue-surges.html) — 2026-09-11 12:02: AI TECH TIMESがお届けする最新ニュース。Oracleが発表した第1四半期決算は、市場予想を上回る大幅な増収となりました。その裏で何が起きているのでしょうか。
+- [TSMC売上高53%増の理由、AI需要が牽引](https://ai-tech-times.web.app/articles/20260911-tsmc-august-revenue-surge.html) — 2026-09-11 12:02: 世界最大の半導体受託製造企業であるTSMCが、8月の月間売上高を発表しました。前年同月比で53%を超える記録的な急増を見せています。
+- [ウィンブルドン、インフルエンサー排除へ全米OPの混乱受け](https://ai-tech-times.web.app/articles/20260911-wimbledon-influencer-ban.html) — 2026-09-11 12:02: ウィンブルドン選手権が、全米オープンの混乱を受けた対策としてインフルエンサーを排除する方針を固めました。
+- [自民党、食料品の消費税減税大綱案を小野寺税調会長らに一任](https://ai-tech-times.web.app/articles/20260911-ldm-consumption-tax-reduction-draft.html) — 2026-09-11 12:02: 自民党は税制調査会などの合同会議を開き、食料品の消費税減税の制度設計を盛り込んだ大綱の案について、今後の対応を一任することを決めました。
+- [WTI原油1バレル100ドル超え、4か月ぶり高値水準の理由](https://ai-tech-times.web.app/articles/20260911-ny-crude-oil-exceeds-100-dollars.html) — 2026-09-11 12:02: 10日のニューヨーク原油市場で、WTIの先物価格が一時1バレル＝100ドルの大台を上回り、およそ4か月ぶりの高値水準となりました。
+- [パナソニック、AI蓄電システム売上高1.5兆円規模へ](https://ai-tech-times.web.app/articles/20260911-panasonic-ai-energy-storage-2030.html) — 2026-09-11 12:02: パナソニックエナジーの只信一生社長が10日に取材に応じ、AIデータセンター向け蓄電システムの売上高が2030年度に最大1兆5000億円規模になる可能性があるとの見通しを示しました。
 - [ブランドがインフルエンサーに有料案件を隠すよう迫る理由](https://ai-tech-times.web.app/articles/20260911-brands-pushing-influencers-to-hide-paid-posts.html) — 2026-09-11 11:00: ブランド側がインフルエンサーに対し、有料案件である事実を隠すよう要求していることが明らかになりました。SNSマーケティングの透明性を巡る動きが注目を集めています。
 - [IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大](https://ai-tech-times.web.app/articles/20260911-idscan-confirms-data-breach-150-million.html) — 2026-09-11 10:00: 身元確認を手がける大手企業のIDScanが、大規模なデータ侵害を確認しました。1億5000万件を超える運転免許証などの政府発行の身分証明書が盗まれたことが明らかになり、セキュリティ上の懸念が高まっています。
 - [NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法](https://ai-tech-times.web.app/articles/20260911-nec-ai-token-cost-reduction.html) — 2026-09-11 09:00: NECの小玉浩氏がメディア向け説明会で、全社のAI利用に掛かる実質的なトークンコストの削減目標を明らかにしました。
@@ -33,22 +42,13 @@
 - [アップル、36万円台の折り畳み型を発表しiPhone全機種値上げのなぜ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-price-increase-ai-trend.html) — 2026-09-11 07:02: 米アップルは日本向けに36万円台の折り畳み型の新型iPhoneを発表し、全機種で前モデルより値上げしました。AI台頭の中で固定客頼みが強まる背景とは何でしょうか。
 - [Appleジョン・ターナスCEO初陣：初の折りたたみスマホ発表](https://ai-tech-times.web.app/articles/20260911-apple-first-foldable-phone-iphone-18-pro.html) — 2026-09-11 07:02: Appleのジョン・ターナスCEOによる初の発表イベントが開催され、同社初となる折りたたみ式スマートフォンなどが発表されました。
 - [The Boring Company、UAE主導のラウンドで30億ドルを調達](https://ai-tech-times.web.app/articles/20260911-the-boring-company-raises-3b-uae.html) — 2026-09-11 07:02: イーロン・マスク氏が率いる地下交通網開発企業The Boring Companyが、UAE主導の資金調達ラウンドで30億ドルを集めました。中東で150キロメートル以上のトンネル建設を計画しています。
-- [アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから](https://ai-tech-times.web.app/articles/20260911-apple-foldable-smartphone-release.html) — 2026-09-11 07:02: アメリカのIT大手アップルは9日、最新の製品を発表し、日本での販売価格が36万円余りの折りたたみ式のスマートフォンを披露しました。
-- [高市首相、食料品消費税減税の大綱来週決定へ](https://ai-tech-times.web.app/articles/20260911-takaichi-consumption-tax-reduction.html) — 2026-09-11 07:02: 食料品の消費税減税をめぐり、自民党執行部は来週の大綱決定を目指す方針を固めました。決定に向けた今後の日程や党人事の調整が進められています。
-- [ニデック永守氏らに287億円請求、株主代表訴訟](https://ai-tech-times.web.app/articles/20260911-nidec-shareholder-lawsuit-287-billion-yen.html) — 2026-09-11 07:02: 不正な会計処理が明らかになった電子部品大手の旧「日本電産」、ニデックをめぐり、株主が創業者らに巨額の支払いを求める訴訟を起こしました。
-- [大和自動車が急反発､大和ハウスとの提携の背景](https://ai-tech-times.web.app/articles/20260911-daiwa-jidosha-daiwa-house-capital-alliance.html) — 2026-09-11 07:02: 大和自動車の株式が急反発を見せました。大和ハウスとの資本業務提携が材料視されています。
-- [タイミー、東証プライム市場への変更申請を準備](https://ai-tech-times.web.app/articles/20260911-timee-prime-market-application.html) — 2026-09-11 06:00: すきまバイトサービスを展開するタイミーが、東京証券取引所プライム市場への上場市場変更の申請に向けた準備を進めていることが明らかになりました。
-- [ニデックを株主28人が提訴、株価下落で損害賠償請求](https://ai-tech-times.web.app/articles/20260911-nidec-shareholders-lawsuit.html) — 2026-09-11 05:01: 不正会計問題が報じられたニデックに対し、株主28人が株価下落による損害賠償を求めて提訴したことが明らかになりました。
-- [米財務長官発言で円買いが進んだ理由](https://ai-tech-times.web.app/articles/20260911-yen-exchange-rate-rises-following-us-official-statement.html) — 2026-09-11 04:01: 9日の東京外国為替市場で、アメリカのベッセント財務長官による円売りをけん制する発言が伝えられ、円相場が値上がりしました。
-- [米政府機関、中国企業6社のAI蒸留を非難](https://ai-tech-times.web.app/articles/20260911-us-agency-accuses-chinese-ai-distillation.html) — 2026-09-11 04:01: アメリカの政府機関が、中国企業6社が最先端AIの機能を産業規模で抜き出していると非難する文書を公表しました。
-- [JR東日本、Suica新キャラ候補3案にファンアート続出の理由](https://ai-tech-times.web.app/articles/20260911-suica-penguin-new-character-fan-art.html) — 2026-09-11 03:00: JR東日本が9月8日に公開した「Suicaのペンギン」の後継となる新イメージキャラクター候補3案について、同日夜からX上でファンアートの投稿が相次いでいます。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 - 3位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
 
-## AI用語事典 (全1390語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1393語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -75,10 +75,10 @@
 - [NECとは](https://ai-tech-times.web.app/term/nec.html): 日本を代表する電機・ITメーカーであり、通信インフラやITソリューション、セキュリティ事業などを幅広く展開している。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
+- [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [Samsungとは](https://ai-tech-times.web.app/term/samsung.html): 韓国を代表する総合家電・半導体メーカーであり、世界トップクラスのメモリチップシェアを誇る巨大テクノロジー企業です。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [xAIとは](https://ai-tech-times.web.app/term/xai.html): イーロン・マスク氏によって設立された、最先端の人工知能技術やモデルの開発を手がけるアメリカの企業です。
-- [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
