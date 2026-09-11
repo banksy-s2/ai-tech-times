@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://president.jp/articles/-/116214",
-  "https://news.web.nhk/newsweb/na/na-k10015186311000",
   "https://news.web.nhk/newsweb/na/na-k10015186301000",
   "https://news.web.nhk/newsweb/na/na-k10015186361000",
   "https://news.web.nhk/newsweb/na/na-k10015186101000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260910de49542",
   "https://www.itmedia.co.jp/business/articles/2609/10/news071.html",
   "https://www.nikkei.com/article/DGXZQOUC0692D0W6A800C2000000/",
-  "https://www.itmedia.co.jp/news/article/2609/11/2000001409/"
+  "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+  "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
+  "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html"
  ],
  "titles": [
-  "ベントレー追突で韓国籍インフルエンサー逮捕、3度目のトラブルの真相",
-  "高市内閣支持率53％、前回から5ポイント下落の理由",
-  "シスメックス松井社長「株価低調でIR反省」事業見直しへ",
-  "キリンHD上期純利益1017億円、純利益92.5%増の背景",
   "高市首相 オマーン国王と電話会談“国際社会とも協議を”",
   "高市首相、オマーン国王と会談へ",
   "セイコーG株価36年ぶり高値 27年3月期上方修正、時計需要好調 - 日本経済新聞",
@@ -4001,6 +3997,10 @@
   "NTTデータや富士通、AIコンサル「FDE」拡大　課金モデルの転換狙う - 日本経済新聞",
   "本物そっくり“AI生成レシート“が経費精算の脅威に　マネフォ「自力で見破るのは難しい」　企業はどう備える？",
   "NTTデータや富士通、AIコンサル増員の狙い",
-  "マネーフォワード警告、AI生成レシートが経費精算の脅威に"
+  "マネーフォワード警告、AI生成レシートが経費精算の脅威に",
+  "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+  "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
+  "イーロン・マスク氏のボーリング・カンパニー、UAE主導で30億ドル調達の理由",
+  "ライアンエアーCEOが警告、航空券価格が大幅値上げへ"
  ]
 }
