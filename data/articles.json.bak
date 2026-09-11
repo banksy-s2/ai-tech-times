@@ -81061,5 +81061,381 @@
   "date": "2026-09-12",
   "time": "06:00",
   "path": "/articles/20260912-mlit-shipbuilding-subsidy-98-billion.html"
+ },
+ {
+  "title": "Moonshot AIが年間20億ドル収益を目指す理由と現状",
+  "lead": "「Kimi」の開発元として知られるMoonshot AIが、年間20億ドルの収益化を目標に掲げていることが分かりました。OpenRouterのデータでは、K3モデルの利用実績が示されています。",
+  "summary3": [
+   "Moonshot AIが年間20億ドル規模の収益目標",
+   "K3の利用数は直近数ヶ月でやや減少傾向にある",
+   "OpenRouterでは日300億トークンを生成"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が得た情報によると、「Kimi」の開発で知られるMoonshot AIが、年間20億ドルの収益を目標に掲げていることが明らかになりました。同社は生成AI市場において急速な成長を目指しており、その動向に注目が集まっています。",
+   "一方で、直近の数ヶ月間におけるK3の利用数値については、やや減少傾向が見られるとのデータが示されています。利用者の動向には変動があるものの、依然として一定の需要を維持している状況です。",
+   "しかし、OpenRouterのデータによれば、同システム上においてK3モデルが1日あたり最大300億ものトークンを生成していることが確認されています。この実績は、同社モデルが依然として大規模な処理に関与していることを示しています。"
+  ],
+  "tags": [
+   "Moonshot AI",
+   "K3",
+   "OpenRouter"
+  ],
+  "slug": "moonshot-ai-targets-2b-revenue",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot AI",
+    "type": "company",
+    "desc": "対話型AI「Kimi」などを開発する、中国を拠点とする人工知能ベンチャー企業"
+   },
+   {
+    "name": "OpenRouter",
+    "type": "company",
+    "desc": "複数の大規模言語モデルへ統一されたAPIを通じてアクセスできるAIルーターサービス"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-moonshot-ai-targets-2b-revenue.html"
+ },
+ {
+  "title": "ニューメキシコ州最高裁、AIで作られた証人を提出した弁護士に5,000ドルの罰金",
+  "lead": "殺人事件の控訴審において、生成AIが作り出した架空の証人や警察の証言を書類に含めた弁護士に対し、司法処分が下されました。",
+  "summary3": [
+   "AIが捏造した証人を裁判書類に記載",
+   "最高裁が弁護士に5000ドルの罰金",
+   "事実確認を怠ったとして法廷侮辱罪"
+  ],
+  "body": [
+   "ロイターの報道によると、ニューメキシコ州の最高裁判所は、依頼人の殺人有罪判決に対する控訴手続きにおいて、人工知能が捏造した証人や偽の警察証言を書類に含めた弁護士に対して処分を下しました。",
+   "水曜日に提出された裁判所の文書によると、スティーブン・アーロンズ弁護士は、事実関係や法律上の主張を十分に検証しなかったとして、法廷侮辱罪に問われました。さらに、裁判所はこの違反行為に対して5,000ドルの罰金を科しています。",
+   "裁判などの法的な手続きにおいて、生成AIが作り出した虚偽の情報を見落としてそのまま使用する事例が問題視されています。今回の処分は、AI技術の利用において弁護士が負うべき厳格な事実確認の責任を改めて浮き彫りにする形となりました。"
+  ],
+  "tags": [
+   "生成AI",
+   "法律",
+   "裁判"
+  ],
+  "slug": "lawyer-fined-5k-over-ai-witnesses",
+  "people": [
+   {
+    "name": "スティーブン・アーロンズ",
+    "bio": "殺人事件の控訴審において、AIが捏造した架空の証人や偽の証言を裁判書類に含め、最高裁判所から罰金を科された弁護士。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-lawyer-fined-5k-over-ai-witnesses.html"
+ },
+ {
+  "title": "NVIDIA RTX 5090が100万円超え、なぜ？",
+  "lead": "PCパーツの高騰が続く中、グラフィックボード「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれており、さらなる値上げを予告するショップも出てきています。",
+  "summary3": [
+   "PCパーツの高騰が継続中",
+   "RTX 5090が100万円超え",
+   "さらなる値上げの予告も"
+  ],
+  "body": [
+   "AI TECH TIMESがお伝えする最新のハードウェア市場において、PCパーツの高騰が止まらない状況が続いています。特にグラフィックボードについてはこの夏に顕著な値上がりを見せており、多くのユーザーの財布事情に深刻な影響を与えています。",
+   "今回はハイエンドモデルとして知られる「NVIDIA GeForce RTX 5090」に対して、ついに100万円を超える値付けがおこなわれていることが判明しました。これほどまでの高額化は、購入を検討している層にとって見逃せない事態となっています。",
+   "昨今では半導体メモリの世界的な不足に伴って、DRAMやSSDをはじめとするさまざまなPCパーツの価格が上昇を続けています。こうした状況を受け、一部のショップからはさらなるグラボ値上げを予告する動きも出ており、今後の市場動向から目が離せません。"
+  ],
+  "tags": [
+   "NVIDIA",
+   "グラフィックボード",
+   "PCパーツ"
+  ],
+  "slug": "rtx-5090-exceeds-one-million-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカの半導体メーカーで、GPUの開発・提供において世界的なシェアを誇る大手企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-rtx-5090-exceeds-one-million-yen.html"
+ },
+ {
+  "title": "ChatGPT Workの新機能データ分析とは",
+  "lead": "ITmedia AI+より、ChatGPT Workに追加された新しいデータ分析機能についてのニュースをお伝えします。",
+  "summary3": [
+   "質問するだけで社内データ分析が可能",
+   "グラフやダッシュボードの作成に対応",
+   "ITmedia AI+が機能を報じる"
+  ],
+  "body": [
+   "ITmedia AI+によると、ChatGPT Workにおいて、質問するだけで社内データ分析を行い、グラフやダッシュボードも作成する「Data agent」という機能が登場しました。",
+   "この機能により、ユーザーは複雑な操作を必要とせず、チャット形式で質問を入力するだけで、社内のデータを活用した分析や視覚的な資料の作成が可能になるとされています。",
+   "ビジネスシーンでのデータ活用や業務効率化において、どのように役立つのか今後の展開が注目されます。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "データ分析",
+   "ITmedia"
+  ],
+  "slug": "chatgpt-work-data-agent",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型の人工知能モデルであり、様々なテキスト生成や処理を行う。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001391/",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-chatgpt-work-data-agent.html"
+ },
+ {
+  "title": "OpenAIとAnthropicの研究者がAI開発の減速を求める理由",
+  "lead": "OpenAIやAnthropicなどの研究者らが、AI開発の減速を求める動きに加わっています。世界中でAIの能力に対する懸念が高まっています。",
+  "summary3": [
+   "OpenAIやAnthropicの研究者がAI開発の減速を要",
+   "サイバー攻撃など安全性の問題が世界中で懸念される",
+   "暴走するモデルによるインシデントが相次いで発生"
+  ],
+  "body": [
+   "近年、AIの能力に関する世界的な懸念が急速に高まっています。その背景には、サイバー攻撃やセキュリティに関する重大なインシデントが続々と発生している現実があります。",
+   "こうした状況の中、AIの安全性に警鐘を鳴らす動きに加わる研究者の数がさらに増加しています。特に最先端のシステムを手がけるOpenAIやAnthropicの内部からも、開発のスピードを緩めるべきだという声が強く上がっています。",
+   "暴走するAIモデルによる脅威が現実のものとなる中で、今後は開発のあり方や安全性向上のための対策を見直す圧力がさらに強まることが予想されます。"
+  ],
+  "tags": [
+   "AI安全性",
+   "OpenAI",
+   "Anthropic"
+  ],
+  "slug": "openai-anthropic-ai-safety-slowdown",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AIなどの先進的な人工知能技術を開発・提供している企業。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "安全性に配慮したAIシステムの開発を目指し、アメリカで設立された人工知能の先端企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-openai-anthropic-ai-safety-slowdown.html"
+ },
+ {
+  "title": "デル株がRBC新規カバレッジで急騰、2026年に約350%上昇の背景",
+  "lead": "金融機関のRBCによる新規カバレッジを背景に、パソコン・サーバー大手のデルの株価が急上昇しました。2026年に入り、その上昇率は約350%に達しています。",
+  "summary3": [
+   "デルの株価がRBCの新規カバレッジで急騰",
+   "2026年に入り約350%の上昇を記録",
+   "第2四半期に約164億ドルのAIサーバーを販売"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の市場動向です。米国の金融機関であるRBCによる新規カバレッジをきっかけに、デルの株価が大きく跳ね上がりました。これにより、2026年に入ってからの株価上昇率は約350%という驚異的な水準に達しています。",
+   "RBCのレポートによると、デルは第2四半期において、AIサーバーを約164億ドル分販売したことが明らかになりました。人工知能（AI）技術の急速な普及とデータセンター向けの需要拡大が、同社の業績を力強く牽引している形です。",
+   "今回の株価の急上昇は、市場におけるAIサーバー関連需要の強さを改めて示すものとなりました。今後の投資判断や市場の動向において、同社の動向から引き続き目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "デル",
+   "AIサーバー",
+   "株価"
+  ],
+  "slug": "dell-stock-jumps-rbc-2026",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-dell-stock-jumps-rbc-2026.html"
+ },
+ {
+  "title": "ITmediaが報じるVTuberコラボ日本酒騒動の経緯",
+  "lead": "ITmediaにより、酒蔵の許諾なしに進められたとされる「VTuberコラボ日本酒」騒動について、主催者が経緯を説明したことが明らかになりました。",
+  "summary3": [
+   "ITmediaが騒動を報道",
+   "主催者が経緯を説明",
+   "仲介者による調整が要因"
+  ],
+  "body": [
+   "なぜ酒蔵の許諾なしに「VTuberコラボ日本酒」の企画が進んでしまったのか。この騒動をめぐり、主催者がその経緯について説明を行いました。",
+   "主催者の説明によると、仲介者による調整が行われていたため、酒蔵側の許諾に関する準備が順調に進んでいるものと認識していたということです。",
+   "今回の騒動は、関係者間の認識のズレや調整の過程で発生した問題として注目を集めており、今後の動向が気になるところです。"
+  ],
+  "tags": [
+   "VTuber",
+   "日本酒",
+   "ITmedia"
+  ],
+  "slug": "vtuber-sake-trouble-itmedia",
+  "people": [],
+  "terms": [
+   {
+    "name": "ITmedia",
+    "type": "company",
+    "desc": "アイティメディア株式会社が運営する、IT総合ニュースサイトです。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZXQzYk9wNFdOS2d5OUJTTEFBN2Iwa0RKRzJaNWhOZ2d4b252eXJyUGg0enI5ZXBGSVVZclZhYk4wSF9UcGxZdGRIOTNFN29xVU4tT29mNEozSHZXSnFxekFmQl9wUGFrc1E?oc=5",
+  "category": "influencer",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-vtuber-sake-trouble-itmedia.html"
+ },
+ {
+  "title": "中部電力が14日に会見へ、浜岡原発のデータ改ざん問題で経営トップの進退判断へ",
+  "lead": "中部電力は、浜岡原子力発電所の審査における地震想定データの改ざん問題をめぐり、外部の専門家らによる調査報告書が提出されたことを受け、14日に記者会見を開くと発表しました。今回の報告書受領に伴い、経営トップの進退が判断される見通しです。",
+  "summary3": [
+   "中部電力が14日に会見を実施へ",
+   "浜岡原発のデータ改ざん問題が対象",
+   "調査報告書の受領で進退を判断へ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によれば、中部電力は浜岡原子力発電所3号機と4号機の審査をめぐり、地震の想定に関するデータが改ざんされていた問題に直面しています。この問題に関して、外部の専門家らによる調査報告書が正式に提出されました。",
+   "これを受けて同社は、来る14日に記者会見を開催する予定です。会社で原発をめぐる重大な問題が発生したなかで、今回の報告書提出が経営トップの進退判断に直結する局面を迎えています。",
+   "今後の経営体制や安全管理に対する信頼回復に向けた説明がどのように行われるのか、14日の会見に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "中部電力",
+   "浜岡原子力発電所",
+   "データ改ざん"
+  ],
+  "slug": "chubu-denryoku-hamaoka-report-press-conference",
+  "people": [],
+  "terms": [
+   {
+    "name": "中部電力",
+    "type": "company",
+    "desc": "愛知県名古屋市に本拠を置き、電力供給やエネルギー事業を手がける国内の大手電力会社です。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49824",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-chubu-denryoku-hamaoka-report-press-conference.html"
+ },
+ {
+  "title": "米サンダース議員、AI企業の50%株式保有と禁止を提案",
+  "lead": "米国のバーニー・サンダース上院議員がBBCの取材に応じ、AIスーパーインテリジェンスの禁止と、政府がAI企業の50%の株式を保有する構想について語りました。",
+  "summary3": [
+   "サンダース議員がBBCの取材に応じた",
+   "AIスーパーインテリジェンス禁止を提案",
+   "政府がAI企業株50%保有の構想を示す"
+  ],
+  "body": [
+   "米国の政治家であるバーニー・サンダース議員がこのほどBBCの取材に応じ、AI（人工知能）に関する新たな規制や国家による関与のあり方について自身の提案を語りました。",
+   "同議員は、人類を超える能力を持つとされるAIスーパーインテリジェンスの禁止を提案しているほか、政府系ファンドの一種として、米国政府がAI企業の50%の株式を保有するという仕組みについても言及しています。",
+   "急速に進化を続けるAI技術に対して、政治や国家がどのように向き合い、規制や関与を行っていくべきかという議論において、今回の提案は大きな注目を集める内容となっています。"
+  ],
+  "tags": [
+   "AI",
+   "規制",
+   "政治"
+  ],
+  "slug": "bernie-sanders-ai-superintelligence-proposal",
+  "people": [
+   {
+    "name": "バーニー・サンダース議員",
+    "bio": "アメリカ合衆国の上院議員。長年にわたり独自の政治的立場から経済格差の是正などを訴え続けている政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "BBC",
+    "type": "company",
+    "desc": "イギリスの公共放送局。世界各地にニュースやドキュメンタリーなどの番組を配信しているメディア企業。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-bernie-sanders-ai-superintelligence-proposal.html"
+ },
+ {
+  "title": "10年国債の長期金利が一時3％に上昇、インフレ懸念高まる",
+  "lead": "11日の債券市場で、長期金利の代表的な指標である10年ものの国債の利回りが一時3％まで上昇しました。原油先物価格の上昇が背景にあります。",
+  "summary3": [
+   "11日の債券市場で長期金利が上昇",
+   "10年国債利回りが一時3％を記録",
+   "原油先物価格の上昇で懸念高まる"
+  ],
+  "body": [
+   "11日の債券市場において、長期金利の代表的な指標である10年ものの国債の利回りが一時、3％まで上昇する動きとなりました。",
+   "今回の長期金利の上昇は、原油先物価格の上昇に伴ってインフレに対する懸念が高まったことが主な要因となっています。",
+   "債券市場の動向や金利の変化は経済全体に影響を与える要素であり、今後の市場の動きや原油価格の推移に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "長期金利",
+   "国債",
+   "インフレ"
+  ],
+  "slug": "long-term-interest-rates-rise-to-3-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49681",
+  "category": "stock",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-long-term-interest-rates-rise-to-3-percent.html"
+ },
+ {
+  "title": "Macbee PlanetのFY2027 Q1決算、営業利益1.3%増も新社長が会社を作り直す覚悟を表明",
+  "lead": "Macbee PlanetのFY2027 Q1決算説明会において、営業利益は1.3%増となった一方で、連結子会社の売却と大規模な人員スリム化が発表されました。",
+  "summary3": [
+   "Macbee PlanetのFY2027 Q1決算が発表",
+   "営業利益は1.3%増となるも新社長が決意表明",
+   "All Ads売却で従業員を201名から107名へ削減"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の企業ニュースです。Macbee PlanetのFY2027 Q1決算説明会が開催され、その詳細な実績と今後の体制について発表が行われました。",
+   "発表によると、当期の営業利益は前年同期比で1.3%増となりました。しかし、新社長は「会社を作り直す覚悟」であると強い決意を表明しています。",
+   "さらに、大きな構造改革として連結子会社であるAll Adsの売却を実施し、これに伴ってグループ全体の従業員数を201名から107名へと大幅にスリム化することが明らかにされました。"
+  ],
+  "tags": [
+   "Macbee Planet",
+   "決算",
+   "人事・組織"
+  ],
+  "slug": "macbee-planet-fy2027-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "Macbee Planet",
+    "type": "company",
+    "desc": "データ分析を活用したマーケティング分析サービスやLTV予測などを手掛ける日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RnY1V0I0Tkh6dlhYNVlXYTBkVjFjaEIyY2dMZ1k3bnJKdHhkLU9nZHlKNmVEUV85eVBNcFNfdjI3dEpDem0tckx5QVQ1bms4Umg4NG1hTGRnQ0xLS0Uw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-12",
+  "time": "07:02",
+  "path": "/articles/20260912-macbee-planet-fy2027-q1-results.html"
  }
 ]

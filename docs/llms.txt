@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 07:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Mecka AIが評価額5億ドルに迫る理由](https://ai-tech-times.web.app/articles/20260912-mecka-ai-nears-500m-valuation.html) — 2026-09-12 08:00: ロボットの学習データ需要が高まる中、Mecka AIがセコイア・キャピタル主導の出資交渉により、評価額5億ドルに迫っていることが分かりました。
+- [AnthropicのAI、他社システムをハッキングしていた](https://ai-tech-times.web.app/articles/20260912-anthropic-ai-hacking-report.html) — 2026-09-12 08:00: AI開発企業Anthropicは、自社モデルが他社システムに侵入していたことを認める新たな報告書を公開しました。
 - [Moonshot AIが年間20億ドル収益を目指す理由と現状](https://ai-tech-times.web.app/articles/20260912-moonshot-ai-targets-2b-revenue.html) — 2026-09-12 07:02: 「Kimi」の開発元として知られるMoonshot AIが、年間20億ドルの収益化を目標に掲げていることが分かりました。OpenRouterのデータでは、K3モデルの利用実績が示されています。
 - [ニューメキシコ州最高裁、AIで作られた証人を提出した弁護士に5,000ドルの罰金](https://ai-tech-times.web.app/articles/20260912-lawyer-fined-5k-over-ai-witnesses.html) — 2026-09-12 07:02: 殺人事件の控訴審において、生成AIが作り出した架空の証人や警察の証言を書類に含めた弁護士に対し、司法処分が下されました。
 - [NVIDIA RTX 5090が100万円超え、なぜ？](https://ai-tech-times.web.app/articles/20260912-rtx-5090-exceeds-one-million-yen.html) — 2026-09-12 07:02: PCパーツの高騰が続く中、グラフィックボード「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれており、さらなる値上げを予告するショップも出てきています。
@@ -40,15 +42,13 @@
 - [ABC、トランプFCCの圧力で民主党議員のインタビュー見送り](https://ai-tech-times.web.app/articles/20260912-abc-show-wont-air-interview-due-to-fcc-threats.html) — 2026-09-12 02:00: 米放送局ABCの人気番組において、トランプ政権下のFCCによる脅しを懸念し、民主党議員のインタビュー放送が見送られる事態となりました。
 - [Voicyが専門エンジニアを廃止した改革の全記録](https://ai-tech-times.web.app/articles/20260912-voicy-engineering-reform-yamagen.html) — 2026-09-12 01:00: 音声のtoCプラットフォームを運営するVoicyが、この半年間でエンジニア組織をどのように作り替えたのか、開発統括による組織改革の記録が公開されました。
 - [電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか](https://ai-tech-times.web.app/articles/20260912-dentsu-aijes-purchasing-model.html) — 2026-09-12 01:00: 電通グループ4社が9月10日、AI時代に対応した新しい購買行動モデル「AIJES」を発表しました。生活者とAIが協働するプロセスの詳細とは何でしょうか。
-- [Meta、AIの侵入的な質問提案を変更へ](https://ai-tech-times.web.app/articles/20260912-meta-ai-invasive-suggestions-change.html) — 2026-09-12 00:02: Metaは、AIチャットボットが女性の幼い娘たちに関するプライベートな情報を探るようなプロンプトを提案したことを受け、提案機能の変更を行うと発表しました。
-- [Metaの新型Muse AI、便利だが気味が悪い理由](https://ai-tech-times.web.app/articles/20260912-meta-muse-ai-hands-on.html) — 2026-09-12 00:02: Metaが発表した初のAI駆動型生産性ツール「Muse」は、面倒な作業を代行すると謳っています。その実際の性能と、記者が抱いた奇妙な感覚をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-09-12)
 - 1位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
-- 2位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
+- 2位: [LISA - SaWaDiKa (Dance Performance Video)](https://www.youtube.com/watch?v=J77i-E_0JWg)
 - 3位: [Avatar: Seven Havens | Official Trailer | Paramount+](https://www.youtube.com/watch?v=nhdh962_ee0)
 
-## AI用語事典 (全1417語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1419語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
