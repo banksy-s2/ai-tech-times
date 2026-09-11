@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 21:10 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 22:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [トランプ大統領、成人市民へ5000ドル支給に再言及](https://ai-tech-times.web.app/articles/20260911-trump-5000-dollars-payout-election.html) — 2026-09-11 22:00: アメリカのトランプ大統領が、11月の中間選挙を前に開かれた共和党の党大会で、成人のアメリカ市民に5000ドルを支給する考えを改めて示しました。
 - [Claude未成年利用停止、年齢確認導入の背景](https://ai-tech-times.web.app/articles/20260911-claude-no-longer-available-for-minors.html) — 2026-09-11 21:10: AI TECH TIMESがお届けする最新ニュース。対話型AI「Claude」において、未成年者の利用が停止され、年齢確認の仕組みが導入されることが明らかになりました。
 - [Slack、チャット内でAIと対話しながら資料作成できる新機能「Slackforce Surfaces」を発表](https://ai-tech-times.web.app/articles/20260911-slack-slackforce-surfaces-launch.html) — 2026-09-11 21:10: ビジネス向けチャットツールを提供するSlackは、チャット内で対話しながらインタラクティブなレポートやダッシュボードなどを構築できる新機能を発表しました。
 - [中国AI「Kimi」の入力がClaudeに転送されていた理由](https://ai-tech-times.web.app/articles/20260911-chinese-ai-kimi-claude-transfer.html) — 2026-09-11 21:10: Anthropicの報告により、中国発のAIである「Kimi」などの利用者の入力が、競合する「Claude」に転送されていたことが明らかになりました。
@@ -41,20 +42,19 @@
 - [AnthropicがClaude悪用レポート公開、危険なAI転用を防ぐ理由](https://ai-tech-times.web.app/articles/20260911-anthropic-claude-threat-report.html) — 2026-09-11 17:07: ITmedia AI+の報道によると、Anthropicは自社AI「Claude」の悪用事例をまとめた脅威レポートを公開しました。生物兵器につながり得る研究や国家機関による監視などを検知・遮断した実態が明らかになっています。
 - [Amazon、自社ウェブストアに外部AIを導入](https://ai-tech-times.web.app/articles/20260911-amazon-chatgptads-open-ai.html) — 2026-09-11 17:07: Amazonが外部AIプラットフォームへの開放に慎重な姿勢を続けてきた中、ChatGPTの広告事業において大きな動きがありました。
 - [中国AI企業6社が米国モデルを模倣、米政府が対策要求](https://ai-tech-times.web.app/articles/20260911-chinese-ai-firms-accused-of-copying-us-models.html) — 2026-09-11 17:07: 米国の先端AIモデルを模倣しているとされる中国のAI企業6社について、米政府が対策を求めていることが明らかになりました。
-- [中国脱出で日本へ移住？社会問題化する潤日族の実態とは](https://ai-tech-times.web.app/articles/20260911-jun-nichi-zoku-social-issue.html) — 2026-09-11 17:07: 「中国脱出」を掲げて日本へ移住する「潤日族」が社会問題化しており、タワマン爆買い、民泊、白タクなどの動向が中国人YouTuberの解説により注目を集めています。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
-- 3位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
+- 3位: [Slayyyter - crank 2 (Official Video)](https://www.youtube.com/watch?v=L43gRv9Et2w)
 
-## AI用語事典 (全1407語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1408語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
-- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
+- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。

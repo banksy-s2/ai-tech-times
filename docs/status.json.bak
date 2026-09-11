@@ -1,17 +1,65 @@
 {
- "updated": "2026-09-11 20:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-11 21:11",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "Claude未成年利用停止、年齢確認導入の背景",
+   "path": "/articles/20260911-claude-no-longer-available-for-minors.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Slack、チャット内でAIと対話しながら資料作成できる新機能「Slackforce Surfaces」を発表",
+   "path": "/articles/20260911-slack-slackforce-surfaces-launch.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "中国AI「Kimi」の入力がClaudeに転送されていた理由",
+   "path": "/articles/20260911-chinese-ai-kimi-claude-transfer.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ITR調査：AIガバナンス市場が25年度に10倍へ急拡大した理由",
+   "path": "/articles/20260911-ai-governance-market-expansion.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Proxima Fusion、1億4000万ユーロを投じ新型工場建設へ",
+   "path": "/articles/20260911-proxima-fusion-140m-factory.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "アリゾナ州、コロラド川の水量25%超減でチップ製造に影響",
+   "path": "/articles/20260911-arizona-chip-manufacturing-water-supply.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "高市早苗首相 内閣広報費72億円要求に「怒りしかない」批判",
+   "path": "/articles/20260911-sanae-takaichi-public-relations-budget.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "米長期金利が4.96％台に上昇、インフレ再加速の見方で",
+   "path": "/articles/20260911-us-long-term-interest-rates-rise.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀、政策金利1.25%へ引き上げ方針の理由",
+   "path": "/articles/20260911-boj-rate-hike-september.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
  "notes": [
-  "執筆失敗: トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話"
+  "執筆失敗: トランプ大統領 5000ドル支給に再言及 無党派の支持拡大が焦点",
+  "執筆失敗: はてな「11億円流出事件」から考える「正しい裁量」と「無責任な丸投げ」の違い",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 156,
+  "used": 176,
   "limit": 200
  }
 }
