@@ -80892,5 +80892,39 @@
   "date": "2026-09-12",
   "time": "01:00",
   "path": "/articles/20260912-dentsu-aijes-purchasing-model.html"
+ },
+ {
+  "title": "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り",
+  "lead": "米放送局ABCの人気番組において、トランプ政権下のFCCによる脅しを懸念し、民主党議員のインタビュー放送が見送られる事態となりました。",
+  "summary3": [
+   "ABCの人気番組でインタビューが見送り",
+   "トランプ陣営のFCCによる脅しが背景",
+   "YouTube配信で放送局の負担を回避"
+  ],
+  "body": [
+   "米放送局ABCの人気番組『ジミー・キンメル・ライブ！』において、予定されていた民主党のタラリコ氏へのインタビューが、テレビ番組としては放送されないことが分かりました。",
+   "この背景には、トランプ政権側の連邦通信委員会（FCC）による脅しが存在しており、放送局側がトラブルや煩わしさを回避する狙いがあるとのことです。",
+   "なお、該当のインタビュー映像については、放送局がFCC対応に煩わされるのを防ぐため、YouTube上で公開される予定となっています。"
+  ],
+  "tags": [
+   "ABC",
+   "FCC",
+   "メディア"
+  ],
+  "slug": "abc-show-wont-air-interview-due-to-fcc-threats",
+  "people": [],
+  "terms": [
+   {
+    "name": "ABC",
+    "type": "company",
+    "desc": "アメリカの主要なテレビネットワークの一つで、大手メディア企業傘下の放送局です。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "02:00",
+  "path": "/articles/20260912-abc-show-wont-air-interview-due-to-fcc-threats.html"
  }
 ]

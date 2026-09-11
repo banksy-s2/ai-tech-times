@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015186801000",
   "https://news.web.nhk/newsweb/na/na-k10015186341000",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWDB4czBZS0g3NVd6YU1samV2THZuWVZOQzNsWlc1Tk5uVm82Q0VPYnN4UlotQm9ZTndsNVd6cjcweEYtYVdIUmJhdkLSAU9BVV95cUxNRlNRYnNPV25NS0twaVZuX29BbUJWN3ljdFg0OUh0MkJoSk94bm82X3FxazhvMmtraGdtdjVFV21jWmwzb2hjb0JmRzZhQkRV?oc=5",
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5",
@@ -1999,11 +1998,10 @@
   "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
   "https://tech-blog.voicy.jp/entry/2026/09/10/183722",
   "https://markezine.jp/news/detail/77595",
-  "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/"
+  "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+  "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cFQzZUJGSlMtOFM1UGFTY1hNaDdJMGktMU5KRXp3LTNIb1FQa2UzRmpMY1QwaXFDOU1OYW9raFFiSWxqZ2c?oc=5"
  ],
  "titles": [
-  "マーク・ザッカーバーグ氏の6500字AI声明が反発を招く理由",
-  "Claudeエージェントがジムの予約システムをハッキングした理由",
   "NTTデータ調査：日本の生成AI財務還元率が40%に留まる理由",
   "Nvidiaが5000億ドルの資金確保、チップを「投資資産」と主張",
   "Archerが元ライバルのWisk Aeroを買収、統合へ",
@@ -4001,6 +3999,8 @@
   "Voicyが専門エンジニアを廃止した改革の全記録",
   "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか",
   "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-  "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り"
+  "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り",
+  "ANYCOLOR、「にじさんじ」中心にVTuber事業を展開 売上高は1Q見通し上振れ、2Q前年比42.1％増を見込む - みんかぶ",
+  "ANYCOLOR売上高は1Q上振れ、2Qで42.1％増を見込む背景とは"
  ]
 }

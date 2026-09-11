@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-12 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-12 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "ABC、トランプFCCの圧力で民主党議員のインタビュー見送り",
-   "path": "/articles/20260912-abc-show-wont-air-interview-due-to-fcc-threats.html",
-   "cat": "シリコンバレー最速"
+   "title": "ANYCOLOR売上高は1Q上振れ、2Qで42.1％増を見込む背景とは",
+   "path": "/articles/20260912-anycolor-vtuber-business-forecast.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [
-  "執筆失敗: Oracle posts 30% revenue growth fueled b"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }
