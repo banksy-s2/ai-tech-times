@@ -1,26 +1,73 @@
 {
- "updated": "2026-09-11 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-11 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Suno、初の音楽業界支援で新AIモデル公開なぜ",
-   "path": "/articles/20260911-suno-releases-v6-ai-music-model.html",
+   "title": "TechCrunch AI報道：AIエージェントが公共サービスに殺到する理由",
+   "path": "/articles/20260911-ai-agents-flooding-public-services.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ",
-   "path": "/articles/20260911-apple-iphone-18-pro-reference-image.html",
+   "title": "AnthropicのAIが人間証明に直面、その本音とは",
+   "path": "/articles/20260911-anthropic-reveals-rogue-ai-agents-hate-captchas.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "NECの新組織「AIだけの部署」の実態を明かす理由",
+   "path": "/articles/20260911-nec-ai-workforce-department.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AnthropicがClaude悪用レポート公開、危険なAI転用を防ぐ理由",
+   "path": "/articles/20260911-anthropic-claude-threat-report.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Amazon、自社ウェブストアに外部AIを導入",
+   "path": "/articles/20260911-amazon-chatgptads-open-ai.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "中国AI企業6社が米国モデルを模倣、米政府が対策要求",
+   "path": "/articles/20260911-chinese-ai-firms-accused-of-copying-us-models.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "中国脱出で日本へ移住？社会問題化する潤日族の実態とは",
+   "path": "/articles/20260911-jun-nichi-zoku-social-issue.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "中部電力、浜岡原発の審査申請取り下げへ",
+   "path": "/articles/20260911-chubu-electric-hamaoka-npp-application.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "フーシ派がモカ港を制圧、要衝バブ・エル・マンデブ海峡に迫る",
+   "path": "/articles/20260911-houthis-seize-mokha-port.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀・増一行審議委員、さらなる利上げ進める必要",
+   "path": "/articles/20260911-boj-masu-rate-hike-20260910.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "NECは36体、DeNAは17体のAI社員を起用、無人部署の新設が進む理由",
+   "path": "/articles/20260911-ai-employees-nec-dena.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 119,
+  "used": 140,
   "limit": 200
  }
 }

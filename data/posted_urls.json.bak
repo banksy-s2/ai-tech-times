@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-  "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0NjajNBR3EtTnJoVGxGYUtfN2t0M1oyVldmbkI3Z2NKMzlvZ1JiVEI4YVRacmtXWHFwazZZLXluYUZGZDBlbUJwZWhIcmc4ZFVlWXNGcTVFNVJBRy1ieXkzT3dkVVNUcURWbzhBZjAxYkZ6TmpvX19fRXFTRFktVUtXNHBOQkNkQWt4Ny1lWVM5NnltaUdGaTdncDlwUVFmbXJibVNCY2ZYWUYyOW42MWRYQjBZeWRIaUxfdEl0VWdMY1lwRDYyV3hyX0xQMlhCT0JkODJ2aTVCRmlTYTJtUWN6Y25OOVBuRmfSAZoBQVVfeXFMUExaMGFlb3hGOVRYREJub3o4SVdFVHJfUWNseVN1Y1pnS0wxYmVKQ2JnQUVwVnJsWlJiTW94M2Y2VlN1WXdVMmgxWmZUX3J5ajVmV3B6NUJvUlBwUGh2MVlVVmoyNDFTQ1E5N0NGMktYaEFSdnZxdGpSU09xeFk5Z194VVN4UmZSWnJOSDZNN3JkSkU4cFdQdFIydw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015185881000",
   "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49643",
   "https://news.web.nhk/newsweb/na/nd-20260911de49620",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zb0xnMlhKeU81YWlDSU1jbG5GckNUX2JkVVdfQkZSbEtCUVFUb2dVX1lRVTdUY3pTRmhTVTl0dVFJZmpmcjJmU1JLcTEwb0phY0VaMjRjNXBIc2dVdVhGeTFsZXFIbWgzNzktZw?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2609/11/news020.html"
+  "https://www.itmedia.co.jp/business/articles/2609/11/news020.html",
+  "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+  "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
  ],
  "titles": [
-  "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
-  "特捜検事の調べに賠償求める裁判 取り調べ映像を法廷で再生",
-  "日経平均終値1363円高、米利上げ観測後退で25日移動平均を突破 - 日本経済新聞",
-  "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収、回転ずしに経営資源を集中",
   "AIチャットボットが妄想を増幅、新興宗教が誕生した理由",
   "ソニーとTSMC、熊本で63億ドル新合弁の2029年量産化へ迫る",
   "豪レアアース関連株が最大29%急騰、米政府の投資背景",
@@ -4001,6 +3997,10 @@
   "日経平均株価、一時下げ幅2000円超 原油高・米金利上昇が重荷に - 日本経済新聞",
   "日経平均株価、一時下げ幅2000円超なぜ？",
   "好業績なのに“上場廃止”　なぜネットワンはSCSKとの「攻めの統合」に賭けたのか",
-  "ネットワン、好業績で上場廃止しSCSK傘下へ"
+  "ネットワン、好業績で上場廃止しSCSK傘下へ",
+  "Suno releases its first AI music model made with record industry help",
+  "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+  "Suno、初の音楽業界支援で新AIモデル公開なぜ",
+  "Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ"
  ]
 }
