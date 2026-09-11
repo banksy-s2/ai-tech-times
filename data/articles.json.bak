@@ -79224,5 +79224,44 @@
   "date": "2026-09-11",
   "time": "09:00",
   "path": "/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html"
+ },
+ {
+  "title": "IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大",
+  "lead": "身元確認を手がける大手企業のIDScanが、大規模なデータ侵害を確認しました。1億5000万件を超える運転免許証などの政府発行の身分証明書が盗まれたことが明らかになり、セキュリティ上の懸念が高まっています。",
+  "summary3": [
+   "IDScanで大規模なデータ侵害を確認",
+   "1億5000万件超の免許証などが流出",
+   "氏名や政府発行の身分証が含まれる"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によれば、身元確認を手がける大手のIDScanが、重大なデータ侵害が発生したことを正式に確認しました。今回のインシデントでは、人々のフルネームや運転免許証をはじめとする、政府発行の身分証明書などが不正に取得されたとのことです。",
+   "流出したデータの規模は非常に大きく、確認されている運転免許証などの件数は1億5000万件を超えています。日々の生活や個人情報の安全に直結する重要な書類が含まれているため、影響の広がりが深刻に懸念されています。",
+   "テック分野の情報を伝えるTechCrunchの報道に基づき、本件の詳細は引き続き注視していく必要があります。個人情報の保護やセキュリティ管理のあり方について、さらなる情報の公開が求められています。"
+  ],
+  "tags": [
+   "データ侵害",
+   "セキュリティ",
+   "個人情報流出"
+  ],
+  "slug": "idscan-confirms-data-breach-150-million",
+  "people": [],
+  "terms": [
+   {
+    "name": "IDScan",
+    "type": "company",
+    "desc": "企業の身元確認や身分証のチェックを手がける専門の企業です。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "国内外のテック業界やスタートアップ企業の動向を専門に伝えるニュース媒体です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+  "category": "silicon",
+  "date": "2026-09-11",
+  "time": "10:00",
+  "path": "/articles/20260911-idscan-confirms-data-breach-150-million.html"
  }
 ]

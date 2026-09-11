@@ -79263,5 +79263,39 @@
   "date": "2026-09-11",
   "time": "10:00",
   "path": "/articles/20260911-idscan-confirms-data-breach-150-million.html"
+ },
+ {
+  "title": "ブランドがインフルエンサーに有料案件を隠すよう迫る理由",
+  "lead": "ブランド側がインフルエンサーに対し、有料案件である事実を隠すよう要求していることが明らかになりました。SNSマーケティングの透明性を巡る動きが注目を集めています。",
+  "summary3": [
+   "ブランドが有料案件の隠蔽を要求",
+   "インフルエンサーマーケティングの課題",
+   "SNS上の広告表示を巡る新たな懸念"
+  ],
+  "body": [
+   "ブランド企業がインフルエンサーに対して、有料案件であることを隠すように圧力をかけている実態が浮き彫りになりました。Business Insider Japanの報道によると、マーケティングの現場においてこうした隠蔽工作が求められるケースが存在しているとのことです。",
+   "インフルエンサーマーケティングにおいては、広告やタイアップである旨を明記することが信頼性の維持において重要視されています。しかし、企業側の意向によってその透明性が損なわれる恐れがあり、読者や消費者にとっても見逃せない問題となっています。",
+   "SNSを通じた情報発信の影響力が増大する中、企業とインフルエンサーの間でどのような基準やルールが適用されるべきか、改めて議論が求められる状況です。今後の動向や業界全体の対応に注目が集まっています。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "マーケティング",
+   "SNS"
+  ],
+  "slug": "brands-pushing-influencers-to-hide-paid-posts",
+  "people": [],
+  "terms": [
+   {
+    "name": "Business Insider Japan",
+    "type": "company",
+    "desc": "ビジネスやテクノロジー関連のニュースを中心に報じるオンラインメディアです。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2o2VmU0SFZCTEpqazVadDVMRHNhNk9vLXpDRmh6WkJpY2RYUGpkZ2JFM3FoM3M5cUh6bGlNLTdmRGFqNGhxM1ZGdGg0bzE2d2ZITDBwYmJfa3RQUzE5SmwzLTNKd3JTWTYxMTZRd1BpR0EzbHhaTHpodjRDRXlLejVWU296bFVzNlp3RnJzVE1WZ1Z2U3lTLWRzTFJSYUp6M3FpUzZZZEtyYjdUcWkxbVNRZk8tNGZFMHNISVJwTzVpSTA?oc=5",
+  "category": "influencer",
+  "date": "2026-09-11",
+  "time": "11:00",
+  "path": "/articles/20260911-brands-pushing-influencers-to-hide-paid-posts.html"
  }
 ]

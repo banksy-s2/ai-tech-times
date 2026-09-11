@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-11 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-11 11:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大",
-   "path": "/articles/20260911-idscan-confirms-data-breach-150-million.html",
-   "cat": "シリコンバレー最速"
+   "title": "ブランドがインフルエンサーに有料案件を隠すよう迫る理由",
+   "path": "/articles/20260911-brands-pushing-influencers-to-hide-paid-posts.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [
-  "執筆失敗: Oracle reports Q1 revenue up 30% YoY to "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 69,
+  "used": 73,
   "limit": 200
  }
 }
