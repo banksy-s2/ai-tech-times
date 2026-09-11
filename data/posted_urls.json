@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHY3V3FSWWZuOE5WeTEzWjFmd0xsUHRSSVhETkpvQ1ZNRjBTOXB2TURXV0FXbjVad1JRTU9TbkRWc0hZVUE2R3lmcHZvb2F1RDdLc3RCUjZhM0QxNmxfcVJPbDM5X2l1NkZYM0Rlcm9TWkx2VWkybWZnR2pRLUU?oc=5",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NEl2U2poLWhYRlpqZG5nakltd3hqUzJJcVdJMnZaN1BHME5aWE13U19GdWN0dmZwX19FSDRTUlBwUURGWXQ5S0Y5Vzhoal9zNmtNbFNYUmRYMTRncE1odllKbWtBQjYxQkdfLU9LY1lBWUx3R1FrQ29wS2ZNRDQ?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xV1FaeXJqbVVVeE4wVE9OdFZRRloxWXBiX3plQjhSWDVjcnZZOUFmbVJwdDF1enlBZF9wYWRseHI1MmFrTWZyeVBBT3A4THNUY3ByN2tKbw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015186801000",
   "https://news.web.nhk/newsweb/na/na-k10015186341000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49652",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZWR5ZnpPYVJXdGZGcmIwREF1cTNidm9OOUNCa01tT3V2UEF0ZUFlS3lTS2JuRUNpYkdnN2pjVWdmS1VpUDlmeTA3eHJNYnY5SFVDTUQ5YkRra2k4T3ZYZmpLbXR2c3JxSzJ0eg?oc=5",
   "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-  "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
+  "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+  "https://tech-blog.voicy.jp/entry/2026/09/10/183722",
+  "https://markezine.jp/news/detail/77595"
  ],
  "titles": [
-  "Archer buys former rival Wisk Aero",
-  "登録者数約1540万人YouTuberきまぐれクックがピザーラとコラボ「究極の追いチーズ」 - ｄメニューニュース",
-  "英仏結ぶ高速鉄道参入に向けイタリア鉄道会社が日立に車両発注",
-  "Trump signs order to limit childhood vaccines and split MMR shots",
   "半導体関連に買い東証１３６３円高 米国株高が追い風 - 福井新聞社",
   "【9101.T FY2026 Q1 決算説明会】経常利益71.2億円、通期650億円上方修正 ドライ194億円・エネルギー239億円と爆発、NSユナイテッド買収でケープ世界2位へ - BigGo ファイナンス",
   "マーク・ザッカーバーグ氏の6500字AI声明が反発を招く理由",
@@ -4001,6 +3997,10 @@
   "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
   "Meta’s Muse AI works and creeps me out",
   "Meta、AIの侵入的な質問提案を変更へ",
-  "Metaの新型Muse AI、便利だが気味が悪い理由"
+  "Metaの新型Muse AI、便利だが気味が悪い理由",
+  "専門エンジニアを廃止した　─ Voicy開発統括が半年で実行した3つの構造改革 - Voicy Tech Blog",
+  "電通グループ4社、AI時代の購買行動モデル「AIJES」を提唱　人とAIによる新意思決定プロセス提示",
+  "Voicyが専門エンジニアを廃止した改革の全記録",
+  "電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか"
  ]
 }

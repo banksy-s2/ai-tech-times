@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Voicyが専門エンジニアを廃止した改革の全記録</title>
+<link>https://ai-tech-times.web.app/articles/20260912-voicy-engineering-reform-yamagen.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-voicy-engineering-reform-yamagen.html</guid>
+<pubDate>Sat, 12 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>音声のtoCプラットフォームを運営するVoicyが、この半年間でエンジニア組織をどのように作り替えたのか、開発統括による組織改革の記録が公開されました。</description>
+</item>
+<item>
+<title>電通グループ4社がAI時代の新・購買行動モデル「AIJES」提唱、人間とAIはどう協働するか</title>
+<link>https://ai-tech-times.web.app/articles/20260912-dentsu-aijes-purchasing-model.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-dentsu-aijes-purchasing-model.html</guid>
+<pubDate>Sat, 12 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>電通グループ4社が9月10日、AI時代に対応した新しい購買行動モデル「AIJES」を発表しました。生活者とAIが協働するプロセスの詳細とは何でしょうか。</description>
+</item>
+<item>
 <title>Meta、AIの侵入的な質問提案を変更へ</title>
 <link>https://ai-tech-times.web.app/articles/20260912-meta-ai-invasive-suggestions-change.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260912-meta-ai-invasive-suggestions-change.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 11 Sep 2026 17:07:00 +0900</pubDate>
 <category>日本企業</category>
 <description>IT大手がAIに一般社員と同じ権限を付与して業務を任せる「AI社員」の活用に乗り出しています。NECは36体、DeNAは17体を導入し、無人部署の新設を進める動きが出ています。</description>
-</item>
-<item>
-<title>Suno、初の音楽業界支援で新AIモデル公開なぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260911-suno-releases-v6-ai-music-model.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-suno-releases-v6-ai-music-model.html</guid>
-<pubDate>Fri, 11 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI音楽生成を手がけるSunoが、レコード業界の支援を受けて開発した初のAI音楽モデル「v6」を発表しました。ライセンスコンテンツを含む新しいデータセットでゼロから訓練されたといいます。</description>
-</item>
-<item>
-<title>Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ</title>
-<link>https://ai-tech-times.web.app/articles/20260911-apple-iphone-18-pro-reference-image.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-apple-iphone-18-pro-reference-image.html</guid>
-<pubDate>Fri, 11 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>米Appleは、写真がAIによって改変されていないことを証明する新しいカメラモードを発表しました。「Reference Image」と呼ばれるこの機能は、iPhone 18 Proシリーズに搭載されます。</description>
 </item>
 </channel></rss>

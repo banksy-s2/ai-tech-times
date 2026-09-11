@@ -1,16 +1,17 @@
 {
- "date": "2026-09-11",
+ "date": "2026-09-12",
  "videos": [
   {
    "id": "Y1Lah0BM0KQ",
    "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
    "channel": "HYBE LABELS",
-   "views": 3007991,
+   "views": 3121250,
    "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ",
    "thumb": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
+    "JP",
     "KR",
     "BR"
    ],
@@ -21,7 +22,7 @@
    "id": "gQf4Vya5PbI",
    "title": "American Horror Story: 13 | Official Trailer | FX",
    "channel": "FX Networks",
-   "views": 3529460,
+   "views": 3667904,
    "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI",
    "thumb": "https://i.ytimg.com/vi/gQf4Vya5PbI/hqdefault.jpg",
    "regions": [
@@ -36,7 +37,7 @@
    "id": "nhdh962_ee0",
    "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
    "channel": "Avatar Legends",
-   "views": 2441468,
+   "views": 2475609,
    "url": "https://www.youtube.com/watch?v=nhdh962_ee0",
    "thumb": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
    "regions": [
@@ -50,7 +51,7 @@
    "id": "YhUiptupV7A",
    "title": "I do not recommend: Marvel's Wolverine (Review)",
    "channel": "Skill Up",
-   "views": 1806996,
+   "views": 1860459,
    "url": "https://www.youtube.com/watch?v=YhUiptupV7A",
    "thumb": "https://i.ytimg.com/vi/YhUiptupV7A/hqdefault.jpg",
    "regions": [
@@ -64,7 +65,7 @@
    "id": "nt_utGbae4I",
    "title": "🔴LIVE | WARDOGS | ITS GO TIME | Hutch x Lvndmark x Nickmercs | #BUNGULATE",
    "channel": "TheBurntPeanut",
-   "views": 1697988,
+   "views": 1704167,
    "url": "https://www.youtube.com/watch?v=nt_utGbae4I",
    "thumb": "https://i.ytimg.com/vi/nt_utGbae4I/hqdefault.jpg",
    "regions": [
@@ -78,7 +79,7 @@
    "id": "VbQUaCsgNDs",
    "title": "Sony is f*cking dead, it's over..",
    "channel": "Asmongold TV  ",
-   "views": 1342288,
+   "views": 1407829,
    "url": "https://www.youtube.com/watch?v=VbQUaCsgNDs",
    "thumb": "https://i.ytimg.com/vi/VbQUaCsgNDs/hqdefault.jpg",
    "regions": [
@@ -92,7 +93,7 @@
    "id": "s1s2E6hXU_M",
    "title": "Slipknot - Arsenal [OFFICIAL VIDEO]",
    "channel": "Slipknot",
-   "views": 1280602,
+   "views": 1292270,
    "url": "https://www.youtube.com/watch?v=s1s2E6hXU_M",
    "thumb": "https://i.ytimg.com/vi/s1s2E6hXU_M/hqdefault.jpg",
    "regions": [
@@ -103,46 +104,46 @@
    "comment": "Slipknotの新曲公式ミュージックビデオのようです。（23字）"
   },
   {
+   "id": "IHIt9S2DWcQ",
+   "title": "Dear my crazy soulmate",
+   "channel": "IU - Topic",
+   "views": 897594,
+   "url": "https://www.youtube.com/watch?v=IHIt9S2DWcQ",
+   "thumb": "https://i.ytimg.com/vi/IHIt9S2DWcQ/hqdefault.jpg",
+   "regions": [
+    "JP",
+    "IN"
+   ],
+   "rank": 8,
+   "comment": "IUさんの楽曲「Dear my crazy soulmate」が公開されたようです。"
+  },
+  {
    "id": "U57CNxSgoss",
    "title": "BELOW | Official Trailer | Netflix",
    "channel": "Netflix",
-   "views": 858424,
+   "views": 875152,
    "url": "https://www.youtube.com/watch?v=U57CNxSgoss",
    "thumb": "https://i.ytimg.com/vi/U57CNxSgoss/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "Netflix公式チャンネルから公開された「BELOW」の公式予告編映像のようです。"
   },
   {
    "id": "3EK5uzEpO4w",
    "title": "Marvel's Wolverine Review",
    "channel": "IGN",
-   "views": 567600,
+   "views": 577043,
    "url": "https://www.youtube.com/watch?v=3EK5uzEpO4w",
    "thumb": "https://i.ytimg.com/vi/3EK5uzEpO4w/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "マーベルのウルヴァリンのレビュー動画のようです。"
-  },
-  {
-   "id": "L43gRv9Et2w",
-   "title": "Slayyyter - crank 2 (Official Video)",
-   "channel": "SlayyyterVEVO",
-   "views": 549001,
-   "url": "https://www.youtube.com/watch?v=L43gRv9Et2w",
-   "thumb": "https://i.ytimg.com/vi/L43gRv9Et2w/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "Slayyyterの新曲オフィシャルビデオのようです。"
+   "comment": "マーベルのウルヴァリンのレビュー動画のようです。"
   }
  ],
  "covered": [
@@ -154,7 +155,6 @@
   "IN"
  ],
  "comment_cache": {
-  "ldCb77jXIsM": "映画『Paper Tiger』の公式ティーザー予告編のようです。（26文字）",
   "ygpknnjCTzA": "KaiCenatと挑むマインクラフトハードコアの4日目パート2動画です。",
   "29_SW-Hvt7w": "カイとスピードによるマインクラフトハードコアの4日目パート1配信です。",
   "ESFSJuUtfhQ": "リアルさを追求したバックルームズのゲームプレイ映像のようです。",
@@ -453,6 +453,7 @@
   "nt_utGbae4I": "人気ストリーマー達によるゲームのライブ配信のようです。(26文字)",
   "VbQUaCsgNDs": "ソニーの現状について語っている動画のようだ。",
   "U57CNxSgoss": "Netflix公式チャンネルから公開された「BELOW」の公式予告編映像のようです。",
-  "3EK5uzEpO4w": "マーベルのウルヴァリンのレビュー動画のようです。"
+  "3EK5uzEpO4w": "マーベルのウルヴァリンのレビュー動画のようです。",
+  "IHIt9S2DWcQ": "IUさんの楽曲「Dear my crazy soulmate」が公開されたようです。"
  }
 }
