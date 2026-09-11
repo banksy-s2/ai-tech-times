@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
   "https://news.web.nhk/newsweb/na/na-k10015186111000",
   "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsX3U5WkEydGFVemVvc1JhdzlMaW9wWXM1YW51UTNFS1FnMHI3RHJZV2JucmphUEJJdTlCeFFzSUEyS0hxbTFUUjQ0X1FUNkJUUHphWVJUR1B4dExEUmp2bk5QRWRuOERGd1JpWFl2Ml9zMGdN?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHY3V3FSWWZuOE5WeTEzWjFmd0xsUHRSSVhETkpvQ1ZNRjBTOXB2TURXV0FXbjVad1JRTU9TbkRWc0hZVUE2R3lmcHZvb2F1RDdLc3RCUjZhM0QxNmxfcVJPbDM5X2l1NkZYM0Rlcm9TWkx2VWkybWZnR2pRLUU?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CZHFxU0t3VjA3NUtQWGdmWGw2dzlGQS1OU1FCYlBpNnprbWU3TERlSW13WFN0S1gwcFFCUWx1TWM5eF9LSlZrRE1B?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260911de49615",
   "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/",
-  "https://news.web.nhk/newsweb/na/nd-20260911de49652"
+  "https://news.web.nhk/newsweb/na/nd-20260911de49652",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZWR5ZnpPYVJXdGZGcmIwREF1cTNidm9OOUNCa01tT3V2UEF0ZUFlS3lTS2JuRUNpYkdnN2pjVWdmS1VpUDlmeTA3eHJNYnY5SFVDTUQ5YkRra2k4T3ZYZmpLbXR2c3JxSzJ0eg?oc=5"
  ],
  "titles": [
-  "楽天グループ 中間決算 売り上げ過去最高で赤字幅も大幅縮小",
-  "楽天グループ中間決算、売上過去最高でも赤字の理由は",
   "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
   "Tech industry is buzzing after a Claude agent hacked into a gym",
   "なぜ日本の生成AI活用は成果が出ないのか。NTTデータが示した「3つの壁」と打開策 | Business Insider Japan",
@@ -4001,6 +3999,8 @@
   "米長期金利が4.96％台に上昇、インフレ再加速の見方で",
   "日銀、政策金利1.25%へ引き上げ方針の理由",
   "トランプ大統領 5000ドル支給に再言及 無党派の支持拡大が焦点",
-  "トランプ大統領、成人市民へ5000ドル支給に再言及"
+  "トランプ大統領、成人市民へ5000ドル支給に再言及",
+  "日経平均終値1259円安 AI期待打ち消す｢トランプ・インフレ｣の脅威 - nikkei.com",
+  "日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威"
  ]
 }

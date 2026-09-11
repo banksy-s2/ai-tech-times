@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015186111000",
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsX3U5WkEydGFVemVvc1JhdzlMaW9wWXM1YW51UTNFS1FnMHI3RHJZV2JucmphUEJJdTlCeFFzSUEyS0hxbTFUUjQ0X1FUNkJUUHphWVJUR1B4dExEUmp2bk5QRWRuOERGd1JpWFl2Ml9zMGdN?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHY3V3FSWWZuOE5WeTEzWjFmd0xsUHRSSVhETkpvQ1ZNRjBTOXB2TURXV0FXbjVad1JRTU9TbkRWc0hZVUE2R3lmcHZvb2F1RDdLc3RCUjZhM0QxNmxfcVJPbDM5X2l1NkZYM0Rlcm9TWkx2VWkybWZnR2pRLUU?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NEl2U2poLWhYRlpqZG5nakltd3hqUzJJcVdJMnZaN1BHME5aWE13U19GdWN0dmZwX19FSDRTUlBwUURGWXQ5S0Y5Vzhoal9zNmtNbFNYUmRYMTRncE1odllKbWtBQjYxQkdfLU9LY1lBWUx3R1FrQ29wS2ZNRDQ?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xV1FaeXJqbVVVeE4wVE9OdFZRRloxWXBiX3plQjhSWDVjcnZZOUFmbVJwdDF1enlBZF9wYWRseHI1MmFrTWZyeVBBT3A4THNUY3ByN2tKbw?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49615",
   "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/",
   "https://news.web.nhk/newsweb/na/nd-20260911de49652",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZWR5ZnpPYVJXdGZGcmIwREF1cTNidm9OOUNCa01tT3V2UEF0ZUFlS3lTS2JuRUNpYkdnN2pjVWdmS1VpUDlmeTA3eHJNYnY5SFVDTUQ5YkRra2k4T3ZYZmpLbXR2c3JxSzJ0eg?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZWR5ZnpPYVJXdGZGcmIwREF1cTNidm9OOUNCa01tT3V2UEF0ZUFlS3lTS2JuRUNpYkdnN2pjVWdmS1VpUDlmeTA3eHJNYnY5SFVDTUQ5YkRra2k4T3ZYZmpLbXR2c3JxSzJ0eg?oc=5",
+  "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+  "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
  ],
  "titles": [
-  "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-  "Tech industry is buzzing after a Claude agent hacked into a gym",
-  "なぜ日本の生成AI活用は成果が出ないのか。NTTデータが示した「3つの壁」と打開策 | Business Insider Japan",
-  "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
   "Archer buys former rival Wisk Aero",
   "登録者数約1540万人YouTuberきまぐれクックがピザーラとコラボ「究極の追いチーズ」 - ｄメニューニュース",
   "英仏結ぶ高速鉄道参入に向けイタリア鉄道会社が日立に車両発注",
@@ -4001,6 +3997,10 @@
   "トランプ大統領 5000ドル支給に再言及 無党派の支持拡大が焦点",
   "トランプ大統領、成人市民へ5000ドル支給に再言及",
   "日経平均終値1259円安 AI期待打ち消す｢トランプ・インフレ｣の脅威 - nikkei.com",
-  "日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威"
+  "日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威",
+  "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+  "Meta’s Muse AI works and creeps me out",
+  "Meta、AIの侵入的な質問提案を変更へ",
+  "Metaの新型Muse AI、便利だが気味が悪い理由"
  ]
 }

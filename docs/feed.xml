@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Meta、AIの侵入的な質問提案を変更へ</title>
+<link>https://ai-tech-times.web.app/articles/20260912-meta-ai-invasive-suggestions-change.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-meta-ai-invasive-suggestions-change.html</guid>
+<pubDate>Sat, 12 Sep 2026 00:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaは、AIチャットボットが女性の幼い娘たちに関するプライベートな情報を探るようなプロンプトを提案したことを受け、提案機能の変更を行うと発表しました。</description>
+</item>
+<item>
+<title>Metaの新型Muse AI、便利だが気味が悪い理由</title>
+<link>https://ai-tech-times.web.app/articles/20260912-meta-muse-ai-hands-on.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-meta-muse-ai-hands-on.html</guid>
+<pubDate>Sat, 12 Sep 2026 00:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaが発表した初のAI駆動型生産性ツール「Muse」は、面倒な作業を代行すると謳っています。その実際の性能と、記者が抱いた奇妙な感覚をお伝えします。</description>
+</item>
+<item>
 <title>日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威</title>
 <link>https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-1259-yen.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-1259-yen.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 11 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米Appleは、写真がAIによって改変されていないことを証明する新しいカメラモードを発表しました。「Reference Image」と呼ばれるこの機能は、iPhone 18 Proシリーズに搭載されます。</description>
-</item>
-<item>
-<title>ネットワン、好業績で上場廃止しSCSK傘下へ</title>
-<link>https://ai-tech-times.web.app/articles/20260911-netone-scsk-merger-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-netone-scsk-merger-2026.html</guid>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>業績が絶好調である独立系インフラベンダーのネットワンシステムズが、自ら上場を廃止してSCSKの傘下に入る「攻めの統合」を決断しました。</description>
-</item>
-<item>
-<title>日経平均株価、一時下げ幅2000円超なぜ？</title>
-<link>https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen.html</guid>
-<pubDate>Fri, 11 Sep 2026 14:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道によると、日経平均株価が一時2000円を超える下落を記録しました。市場への影響が懸念されています。</description>
 </item>
 </channel></rss>

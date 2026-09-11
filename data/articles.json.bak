@@ -80698,5 +80698,33 @@
   "date": "2026-09-11",
   "time": "22:00",
   "path": "/articles/20260911-trump-5000-dollars-payout-election.html"
+ },
+ {
+  "title": "日経平均1259円安、AI期待打ち消すトランプ・インフレの脅威",
+  "lead": "日経平均株価は終値で1259円安となり、AIへの期待が打ち消される展開となりました。背景には何があったのでしょうか。",
+  "summary3": [
+   "日経平均終値は1259円安を記録",
+   "AIへの期待が打ち消される動き",
+   "トランプ・インフレの脅威が影響"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日経平均株価の終値が1259円安を記録しました。市場では人工知能（AI）関連への強い期待感がありましたが、それが打ち消される展開となっています。",
+   "今回の急落の背景には、「トランプ・インフレ」の脅威が指摘されています。市場関係者の間では、インフレ圧力や政策に関する懸念が意識され、投資家心理を冷え込ませる要因となりました。",
+   "株式市場においては、期待されていたAI関連の好材料を上回る形で、インフレや政治・経済情勢への警戒感が広がった形です。今後の相場展開においても、こうした外部要因の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-drops-1259-yen",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VZWR5ZnpPYVJXdGZGcmIwREF1cTNidm9OOUNCa01tT3V2UEF0ZUFlS3lTS2JuRUNpYkdnN2pjVWdmS1VpUDlmeTA3eHJNYnY5SFVDTUQ5YkRra2k4T3ZYZmpLbXR2c3JxSzJ0eg?oc=5",
+  "category": "stock",
+  "date": "2026-09-11",
+  "time": "23:00",
+  "path": "/articles/20260911-nikkei-average-drops-1259-yen.html"
  }
 ]
