@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuY2IzYW5JNnVYMHR6V05wd0lWdnJnV1FSaFFTdHVEQkdDU1E4RV9kNnJjeHd2MnB1N3EtTTNYUnFIaUpNVHBBWUQ5WU41LWFjb2JUWV9zdmZZY3JHQUhqcVVzdmJHTENEcGFNMGw3bU5HUzV1dEVvdnFiRFNqOUE?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015186141000",
   "https://news.web.nhk/newsweb/na/na-k10015185921000",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVhFQ0hKb1VldXJNQUs5TXBXN0thSUVhX2gtSkRDRXhMRERRQUZWWEtVUmhPZWFLdFd1Zk9mSUY4SEdmaXhtTVVSdDAyUXl2SmM1ajh5VVBoOUtTclA3LXFIQ2VIekRiOHd0ZXdJdjkydVY2Q00wS3YtbkQ3X3ZQck1hdHFpb0U?oc=5",
   "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49621",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4LXlXMTN5MmlINHFMZUdPZ2JfUlVVWDF3Z0R1YXNCaHNrazRNTnA1c0xoV2h6X1VDczZGenloS2pWN3JGbTlyYWJSa0RydGdqbjhXMnJtQQ?oc=5",
   "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-  "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
+  "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+  "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001333/",
+  "https://www.itmedia.co.jp/enterprise/articles/2608/20/news009.html"
  ],
  "titles": [
-  "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
-  "マイクロソフトやOpenAIら、異なるAIエージェント間でスキルを共有するAgent Plugins 1.0.0を発表",
-  "ロシア、米MAGA派インフルエンサー介し偽情報拡散 独選挙に干渉 - 日本経済新聞",
-  "ロシアが米MAGA派インフルエンサーを介し独選挙に干渉した理由",
   "「営業職はいずれ消える」予想一転、AIで人気職種へ　富士通は増員 - 日本経済新聞",
   "とんでもない動画生成AIが出てきた　無料で試し放題の「MiniMax H3」を徹底検証 (1/5)",
   "This former notorious red-light district is now one of the world’s top AI hubs",
@@ -4001,6 +3997,10 @@
   "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
   "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
   "エヌビディア来期70%成長の理由、黄CEOが語る",
-  "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に"
+  "Pocket FMが売上5億ドルを達成、AIで制作費80分の1に",
+  "NEC、社内の“AIトークン節約”に注力　「同じ使われ方なら10分の1に」と小玉CAXO",
+  "業務の30％をAIエージェントがこなすIT運用部門、なぜ「パワポ文書」を禁止したのか？",
+  "NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法",
+  "NTTドコモソリューションズ、業務の30％をAI化"
  ]
 }

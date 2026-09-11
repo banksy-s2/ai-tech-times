@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大](https://ai-tech-times.web.app/articles/20260911-idscan-confirms-data-breach-150-million.html) — 2026-09-11 10:00: 身元確認を手がける大手企業のIDScanが、大規模なデータ侵害を確認しました。1億5000万件を超える運転免許証などの政府発行の身分証明書が盗まれたことが明らかになり、セキュリティ上の懸念が高まっています。
 - [NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法](https://ai-tech-times.web.app/articles/20260911-nec-ai-token-cost-reduction.html) — 2026-09-11 09:00: NECの小玉浩氏がメディア向け説明会で、全社のAI利用に掛かる実質的なトークンコストの削減目標を明らかにしました。
 - [NTTドコモソリューションズ、業務の30％をAI化](https://ai-tech-times.web.app/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html) — 2026-09-11 09:00: 業務の約30％をAIエージェントに任せているNTTドコモソリューションズのIT運用部門。デジタル化に逆行するようにも思える、日報や週報での「パワポ文書禁止」という施策の狙いとは。
 - [エヌビディア来期70%成長の理由、黄CEOが語る](https://ai-tech-times.web.app/articles/20260911-jensen-huang-nvidia-growth-70-percent.html) — 2026-09-11 08:00: AI半導体市場を牽引するエヌビディアが、来期も驚異的な70%の成長を遂げると予測される理由について、ジェンスン・フアンCEOが語りました。
@@ -41,14 +42,13 @@
 - [米政府機関、中国企業6社のAI蒸留を非難](https://ai-tech-times.web.app/articles/20260911-us-agency-accuses-chinese-ai-distillation.html) — 2026-09-11 04:01: アメリカの政府機関が、中国企業6社が最先端AIの機能を産業規模で抜き出していると非難する文書を公表しました。
 - [JR東日本、Suica新キャラ候補3案にファンアート続出の理由](https://ai-tech-times.web.app/articles/20260911-suica-penguin-new-character-fan-art.html) — 2026-09-11 03:00: JR東日本が9月8日に公開した「Suicaのペンギン」の後継となる新イメージキャラクター候補3案について、同日夜からX上でファンアートの投稿が相次いでいます。
 - [Miro買収額は13.6億ドル、ピーク時から90%減の理由](https://ai-tech-times.web.app/articles/20260911-bending-spoons-to-buy-miro.html) — 2026-09-11 02:00: IT企業を買収することで知られるBending Spoonsが、コラボレーションツールを手がけるMiroを買収することが分かりました。かつての評価額から90%も下落した背景に注目が集まっています。
-- [Nasdaq、1億ドル投資で2027年トークン株取引へ](https://ai-tech-times.web.app/articles/20260911-nasdaq-tokenized-stock-trading-2027.html) — 2026-09-11 02:00: ナスダックが暗号資産企業に1億ドルを投資し、株式等のトークン化を株式市場のインフラに組み込む大規模な動きを見せました。2027年の「トークン化」された株式取引の開始を目指します。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
 - 3位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 
-## AI用語事典 (全1388語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1389語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
@@ -62,8 +62,8 @@
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。

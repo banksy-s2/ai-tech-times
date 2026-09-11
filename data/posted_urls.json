@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015185921000",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVhFQ0hKb1VldXJNQUs5TXBXN0thSUVhX2gtSkRDRXhMRERRQUZWWEtVUmhPZWFLdFd1Zk9mSUY4SEdmaXhtTVVSdDAyUXl2SmM1ajh5VVBoOUtTclA3LXFIQ2VIekRiOHd0ZXdJdjkydVY2Q00wS3YtbkQ3X3ZQck1hdHFpb0U?oc=5",
   "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
   "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
   "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
   "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001333/",
-  "https://www.itmedia.co.jp/enterprise/articles/2608/20/news009.html"
+  "https://www.itmedia.co.jp/enterprise/articles/2608/20/news009.html",
+  "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/"
  ],
  "titles": [
-  "「営業職はいずれ消える」予想一転、AIで人気職種へ　富士通は増員 - 日本経済新聞",
-  "とんでもない動画生成AIが出てきた　無料で試し放題の「MiniMax H3」を徹底検証 (1/5)",
   "This former notorious red-light district is now one of the world’s top AI hubs",
   "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
   "韓国サッカー協会の性接待疑惑　JFAが4人の日本人審判員を調査　結果も公表へ",
@@ -4001,6 +3999,8 @@
   "NEC、社内の“AIトークン節約”に注力　「同じ使われ方なら10分の1に」と小玉CAXO",
   "業務の30％をAIエージェントがこなすIT運用部門、なぜ「パワポ文書」を禁止したのか？",
   "NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法",
-  "NTTドコモソリューションズ、業務の30％をAI化"
+  "NTTドコモソリューションズ、業務の30％をAI化",
+  "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+  "IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大"
  ]
 }

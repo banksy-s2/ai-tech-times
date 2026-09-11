@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-11 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-11 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法",
-   "path": "/articles/20260911-nec-ai-token-cost-reduction.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "NTTドコモソリューションズ、業務の30％をAI化",
-   "path": "/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html",
-   "cat": "日本のAI"
+   "title": "IDScan、1.5億件超の免許証流出を確認なぜ被害が拡大",
+   "path": "/articles/20260911-idscan-confirms-data-breach-150-million.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
   "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Oracle reports Q1 revenue up 30% YoY to "
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 65,
+  "used": 69,
   "limit": 200
  }
 }
