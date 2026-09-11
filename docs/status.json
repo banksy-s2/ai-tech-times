@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-11 15:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-11 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ネットワン、好業績で上場廃止しSCSK傘下へ",
-   "path": "/articles/20260911-netone-scsk-merger-2026.html",
-   "cat": "日本企業"
+   "title": "Suno、初の音楽業界支援で新AIモデル公開なぜ",
+   "path": "/articles/20260911-suno-releases-v6-ai-music-model.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ",
+   "path": "/articles/20260911-apple-iphone-18-pro-reference-image.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 114,
+  "used": 119,
   "limit": 200
  }
 }

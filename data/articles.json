@@ -79729,5 +79729,78 @@
   "date": "2026-09-11",
   "time": "15:00",
   "path": "/articles/20260911-netone-scsk-merger-2026.html"
+ },
+ {
+  "title": "Suno、初の音楽業界支援で新AIモデル公開なぜ",
+  "lead": "AI音楽生成を手がけるSunoが、レコード業界の支援を受けて開発した初のAI音楽モデル「v6」を発表しました。ライセンスコンテンツを含む新しいデータセットでゼロから訓練されたといいます。",
+  "summary3": [
+   "Sunoが初の音楽業界支援による新AIモデルv6を発表",
+   "従来とは異なる新しいデータセットでゼロから訓練",
+   "レコード業界の協力によるコンテンツを含む"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。AI音楽生成サービスを展開するSunoは、レコード業界の支援を受けて開発された同社初のAI音楽モデル「v6」を発表しました。音楽業界との協力により構築された画期的なモデルとして注目を集めています。",
+   "The Vergeの取材に対し、Sunoのジャック・ブロディ氏は、新モデルv6について「これまでのモデルが訓練されたデータとは異なる、新しいデータセットを使用してゼロから訓練された」と説明しています。この新しいデータには、ライセンスされたコンテンツが含まれているとのことです。",
+   "今回の新モデルリリースは、AI音楽生成と著作権や業界関係のあり方に新たな一歩をしめすものとなります。今後の展開や音楽業界への影響について、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Suno",
+   "AI音楽",
+   "人工知能"
+  ],
+  "slug": "suno-releases-v6-ai-music-model",
+  "people": [
+   {
+    "name": "ジャック・ブロディ",
+    "bio": "Sunoに所属し、メディアの取材に対して新しいAI音楽モデル「v6」の開発背景について語った人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Suno",
+    "type": "company",
+    "desc": "テキストプロンプトから楽曲を自動生成するAI音楽プラットフォームを開発・提供している企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "16:01",
+  "path": "/articles/20260911-suno-releases-v6-ai-music-model.html"
+ },
+ {
+  "title": "Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ",
+  "lead": "米Appleは、写真がAIによって改変されていないことを証明する新しいカメラモードを発表しました。「Reference Image」と呼ばれるこの機能は、iPhone 18 Proシリーズに搭載されます。",
+  "summary3": [
+   "Appleが新カメラモードを発表",
+   "iPhone 18 Proに搭載予定",
+   "写真がAIではないと証明可能"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Appleは写真がAIによって改変されていないことを証明する新しい方法を導入します。「Reference Image」と呼ばれるこの機能は、今月後半に登場するiPhone 18 Proシリーズとともに提供される予定です。",
+   "この機能は、デバイスの新しいカメラセンサーを使用して「見えているすべてのピクセルに署名する」ことを想定しています。これにより、ユーザーが撮影した写真がAIによる偽造や操作ではないことを示すことが可能になります。",
+   "近年、生成AIによる画像の偽造が問題視される中、Appleの新しい試みは写真の信頼性を担保する重要な手段として注目を集めています。iPhone 18 Proラインナップでの実装がどのように機能するのか、今後の展開に期待がかかります。"
+  ],
+  "tags": [
+   "Apple",
+   "iPhone 18 Pro",
+   "AIカメラ"
+  ],
+  "slug": "apple-iphone-18-pro-reference-image",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本社を置く、iPhoneやMacなどを開発・販売する世界的な大手テクノロジー企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+  "category": "ai",
+  "date": "2026-09-11",
+  "time": "16:01",
+  "path": "/articles/20260911-apple-iphone-18-pro-reference-image.html"
  }
 ]

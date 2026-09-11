@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-11 16:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Suno、初の音楽業界支援で新AIモデル公開なぜ](https://ai-tech-times.web.app/articles/20260911-suno-releases-v6-ai-music-model.html) — 2026-09-11 16:01: AI音楽生成を手がけるSunoが、レコード業界の支援を受けて開発した初のAI音楽モデル「v6」を発表しました。ライセンスコンテンツを含む新しいデータセットでゼロから訓練されたといいます。
+- [Apple、撮影した写真がAIではないと証明する新機能「Reference Image」を導入へ](https://ai-tech-times.web.app/articles/20260911-apple-iphone-18-pro-reference-image.html) — 2026-09-11 16:01: 米Appleは、写真がAIによって改変されていないことを証明する新しいカメラモードを発表しました。「Reference Image」と呼ばれるこの機能は、iPhone 18 Proシリーズに搭載されます。
 - [ネットワン、好業績で上場廃止しSCSK傘下へ](https://ai-tech-times.web.app/articles/20260911-netone-scsk-merger-2026.html) — 2026-09-11 15:00: 業績が絶好調である独立系インフラベンダーのネットワンシステムズが、自ら上場を廃止してSCSKの傘下に入る「攻めの統合」を決断しました。
 - [日経平均株価、一時下げ幅2000円超なぜ？](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen.html) — 2026-09-11 14:00: 日本経済新聞の報道によると、日経平均株価が一時2000円を超える下落を記録しました。市場への影響が懸念されています。
 - [日経平均一時2000円超下落 原油価格上昇のなぜ](https://ai-tech-times.web.app/articles/20260911-nikkei-average-drops-over-2000-yen-oil-prices.html) — 2026-09-11 13:00: 11日の東京株式市場で、日経平均株価は原油の先物価格が上昇したことを背景に多くの銘柄に売り注文が出ました。一時、2000円以上値下がりする展開となっています。
@@ -40,19 +42,17 @@
 - [NEC小玉CAXOが明かす、AIトークンコストを10分の1に下げる手法](https://ai-tech-times.web.app/articles/20260911-nec-ai-token-cost-reduction.html) — 2026-09-11 09:00: NECの小玉浩氏がメディア向け説明会で、全社のAI利用に掛かる実質的なトークンコストの削減目標を明らかにしました。
 - [NTTドコモソリューションズ、業務の30％をAI化](https://ai-tech-times.web.app/articles/20260911-ntt-docomo-solutions-ai-agent-powerpoint.html) — 2026-09-11 09:00: 業務の約30％をAIエージェントに任せているNTTドコモソリューションズのIT運用部門。デジタル化に逆行するようにも思える、日報や週報での「パワポ文書禁止」という施策の狙いとは。
 - [エヌビディア来期70%成長の理由、黄CEOが語る](https://ai-tech-times.web.app/articles/20260911-jensen-huang-nvidia-growth-70-percent.html) — 2026-09-11 08:00: AI半導体市場を牽引するエヌビディアが、来期も驚異的な70%の成長を遂げると予測される理由について、ジェンスン・フアンCEOが語りました。
-- [Pocket FMが売上5億ドルを達成、AIで制作費80分の1に](https://ai-tech-times.web.app/articles/20260911-pocket-fm-doubles-revenue-run-rate-to-500m-ai.html) — 2026-09-11 08:00: インドのオーディオプラットフォーム「Pocket FM」が、AIの活用によって売上収益ランレートを5億ドルへと倍増させました。コンテンツ制作費を大幅に削減したその仕組みをお伝えします。
-- [Anthropic、アリババなどの蒸留攻撃を告発した理由](https://ai-tech-times.web.app/articles/20260911-anthropic-details-distillation-campaigns.html) — 2026-09-11 07:02: 米AI企業のAnthropicは木曜日、中国企業による持続的なモデル蒸留攻撃に関する新しいレポートを発表しました。AI分野の競争激化に伴い、こうした攻撃が近年エスカレートしていると主張しています。
 
 ## 世界のバズ動画TOP3 (2026-09-11)
 - 1位: [LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH](https://www.youtube.com/watch?v=Y1Lah0BM0KQ)
 - 2位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 - 3位: [Slipknot - Arsenal [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=s1s2E6hXU_M)
 
-## AI用語事典 (全1396語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1397語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
-- [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
+- [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。
