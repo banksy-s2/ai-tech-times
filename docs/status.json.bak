@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-12 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均株価、1259円安の6万4011円で終値 - 一時2000円超の下落も",
-   "path": "/articles/20260912-nikkei-average-falls-64011-yen.html",
-   "cat": "株式投資(日本)"
+   "title": "三菱造船など最大約980億円補助、国交省の造船支援第2弾",
+   "path": "/articles/20260912-mlit-shipbuilding-subsidy-98-billion.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 29,
+  "used": 33,
   "limit": 200
  }
 }

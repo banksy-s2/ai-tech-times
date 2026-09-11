@@ -1,10 +1,60 @@
 {
- "updated": "2026-09-12 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-12 07:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "三菱造船など最大約980億円補助、国交省の造船支援第2弾",
-   "path": "/articles/20260912-mlit-shipbuilding-subsidy-98-billion.html",
+   "title": "Moonshot AIが年間20億ドル収益を目指す理由と現状",
+   "path": "/articles/20260912-moonshot-ai-targets-2b-revenue.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ニューメキシコ州最高裁、AIで作られた証人を提出した弁護士に5,000ドルの罰金",
+   "path": "/articles/20260912-lawyer-fined-5k-over-ai-witnesses.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "NVIDIA RTX 5090が100万円超え、なぜ？",
+   "path": "/articles/20260912-rtx-5090-exceeds-one-million-yen.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPT Workの新機能データ分析とは",
+   "path": "/articles/20260912-chatgpt-work-data-agent.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIとAnthropicの研究者がAI開発の減速を求める理由",
+   "path": "/articles/20260912-openai-anthropic-ai-safety-slowdown.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "デル株がRBC新規カバレッジで急騰、2026年に約350%上昇の背景",
+   "path": "/articles/20260912-dell-stock-jumps-rbc-2026.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ITmediaが報じるVTuberコラボ日本酒騒動の経緯",
+   "path": "/articles/20260912-vtuber-sake-trouble-itmedia.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "中部電力が14日に会見へ、浜岡原発のデータ改ざん問題で経営トップの進退判断へ",
+   "path": "/articles/20260912-chubu-denryoku-hamaoka-report-press-conference.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米サンダース議員、AI企業の50%株式保有と禁止を提案",
+   "path": "/articles/20260912-bernie-sanders-ai-superintelligence-proposal.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "10年国債の長期金利が一時3％に上昇、インフレ懸念高まる",
+   "path": "/articles/20260912-long-term-interest-rates-rise-to-3-percent.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "Macbee PlanetのFY2027 Q1決算、営業利益1.3%増も新社長が会社を作り直す覚悟を表明",
+   "path": "/articles/20260912-macbee-planet-fy2027-q1-results.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +62,12 @@
   "title": "American Horror Story: 13 | Official Trailer | FX",
   "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 33,
+  "used": 56,
   "limit": 200
  }
 }

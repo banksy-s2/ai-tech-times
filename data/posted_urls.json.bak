@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk5mSkNVejB4ZmpBeGlBUzBjMnh0LWZ0R192Q2c3bm95TTFoX3FGNm1kMnhjZlVPM3RYU1ROeExhU3c5Tm02dG9ROU15VkZzVGVRWDFwVzFxZy1NOWEyYlNyV0p0T3doa1A3UktNbmVseVBGSVQxTXJqX0dyaWM0MEQxMjBSU3hN?oc=5",
   "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
   "https://github.com/slvDev/esp32-ai",
   "https://blog.shin1x1.com/entry/dont-let-go-of-understanding",
@@ -1999,11 +1998,10 @@
   "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
   "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cFQzZUJGSlMtOFM1UGFTY1hNaDdJMGktMU5KRXp3LTNIb1FQa2UzRmpMY1QwaXFDOU1OYW9raFFiSWxqZ2c?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260911de49799",
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JTFZGeklPNEZKcWI3Z1FtbXdRSm5ZZHhoNlJuNzdiTGpmaGJkRXhmV3hzMVNRdGlKM05Ia0xQWDg0ZTJkeW80Y3hQeXNqOG94RlZ4NlhHZnJoc0RSZFZmdWczZUc?oc=5"
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JTFZGeklPNEZKcWI3Z1FtbXdRSm5ZZHhoNlJuNzdiTGpmaGJkRXhmV3hzMVNRdGlKM05Ia0xQWDg0ZTJkeW80Y3hQeXNqOG94RlZ4NlhHZnJoc0RSZFZmdWczZUc?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260911de49714"
  ],
  "titles": [
-  "日立製作所にイタリアから高速鉄道車両を発注、英仏間で競争激化へ",
-  "トランプ政権、MMRワクチンの分割接種を勧告",
   "東証1363円高、半導体関連に買い 米国株高が追い風に",
   "日本郵船、経常利益71.2億円と通期650億円上方修正の理由",
   "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -4001,6 +3999,8 @@
   "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
   "米8月消費者物価指数3.4％上昇、FRBの判断は",
   "日経平均、終値は１２５９円安の６万４０１１円…一時２０００円超の下落も - yomiuri.co.jp",
-  "日経平均株価、1259円安の6万4011円で終値 - 一時2000円超の下落も"
+  "日経平均株価、1259円安の6万4011円で終値 - 一時2000円超の下落も",
+  "金子国交相 造船支援第2弾で最大約980億円補助を発表",
+  "三菱造船など最大約980億円補助、国交省の造船支援第2弾"
  ]
 }
