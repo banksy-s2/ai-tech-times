@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://zenn.dev/flinters_blog/articles/c1f6e286dc3a40",
-  "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
   "https://president.jp/articles/-/116214",
   "https://news.web.nhk/newsweb/na/na-k10015186311000",
   "https://news.web.nhk/newsweb/na/na-k10015186301000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49642",
   "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260910de49542",
-  "https://www.itmedia.co.jp/business/articles/2609/10/news071.html"
+  "https://www.itmedia.co.jp/business/articles/2609/10/news071.html",
+  "https://www.nikkei.com/article/DGXZQOUC0692D0W6A800C2000000/",
+  "https://www.itmedia.co.jp/news/article/2609/11/2000001409/"
  ],
  "titles": [
-  "アルバート・マイケルソンが指摘した科学の限界、AIに必要なのはデータか",
-  "Gigazine報道：DDR4メモリが2年で10倍に高騰、その背景とは",
-  "GoogleのPlayストアに初の競合アプリストアが登場、その背景とは",
-  "米民主党、OpenAIらに議会証言要求 なぜ",
   "ベントレー追突で韓国籍インフルエンサー逮捕、3度目のトラブルの真相",
   "高市内閣支持率53％、前回から5ポイント下落の理由",
   "シスメックス松井社長「株価低調でIR反省」事業見直しへ",
@@ -4001,6 +3997,10 @@
   "中部電力、浜岡原発の審査申請取り下げへ",
   "フーシ派がモカ港を制圧、要衝バブ・エル・マンデブ海峡に迫る",
   "日銀・増一行審議委員、さらなる利上げ進める必要",
-  "NECは36体、DeNAは17体のAI社員を起用、無人部署の新設が進む理由"
+  "NECは36体、DeNAは17体のAI社員を起用、無人部署の新設が進む理由",
+  "NTTデータや富士通、AIコンサル「FDE」拡大　課金モデルの転換狙う - 日本経済新聞",
+  "本物そっくり“AI生成レシート“が経費精算の脅威に　マネフォ「自力で見破るのは難しい」　企業はどう備える？",
+  "NTTデータや富士通、AIコンサル増員の狙い",
+  "マネーフォワード警告、AI生成レシートが経費精算の脅威に"
  ]
 }
