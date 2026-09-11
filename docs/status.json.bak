@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-12 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-12 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ANYCOLOR売上高は1Q上振れ、2Qで42.1％増を見込む背景とは",
-   "path": "/articles/20260912-anycolor-vtuber-business-forecast.html",
-   "cat": "インフルエンサー"
+   "title": "米8月消費者物価指数3.4％上昇、FRBの判断は",
+   "path": "/articles/20260912-us-cpi-august-3-4-percent.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
-  "url": "https://www.youtube.com/watch?v=Y1Lah0BM0KQ"
+  "title": "American Horror Story: 13 | Official Trailer | FX",
+  "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 19,
+  "used": 24,
   "limit": 200
  }
 }
