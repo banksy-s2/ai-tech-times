@@ -83108,5 +83108,33 @@
   "date": "2026-09-13",
   "time": "04:00",
   "path": "/articles/20260913-north-korea-missile-launch-2026-09.html"
+ },
+ {
+  "title": "東京株1259円安：原油高でハイテク株が大幅下落",
+  "lead": "東京株式市場は、原油高の影響を受けて売り注文が広がり、ハイテク株が大幅安となりました。下落幅は1259円安を記録しています。",
+  "summary3": [
+   "東京株が1259円安の大幅下落",
+   "原油高が嫌気され売りが広がる",
+   "ハイテク株が大きく値を下げる"
+  ],
+  "body": [
+   "東京株式市場において、株価が大きく値を下げる展開となりました。下落幅は1259円安を記録し、市場全体に売り注文が広がる一日となりました。",
+   "今回の下落の主な要因として、原油高が挙げられています。原油価格の上昇を受けた市場の警戒感から、幅広い銘柄で売りが優勢となりました。",
+   "特にハイテク株が大幅安となり、指数を押し下げる形となりました。原油高とハイテク株の下落が重なり、東京株は大きく値を下げる結果となっています。"
+  ],
+  "tags": [
+   "東京株",
+   "株式市場",
+   "原油高"
+  ],
+  "slug": "tokyo-stock-decline-oil-prices",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcTF1d3NSbWhZbXFRS2d0aWpNUTUxYmk2VHFTdlVoS28zb1ltN0JpTXQtaGQ4Rk0xdGc0TVVKSGgteXJRSlhwOHplVFhJR05Vd1lSM0t6Uk8tR01HUU41ZFVJUQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-13",
+  "time": "05:00",
+  "path": "/articles/20260913-tokyo-stock-decline-oil-prices.html"
  }
 ]

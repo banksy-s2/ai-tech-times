@@ -83136,5 +83136,44 @@
   "date": "2026-09-13",
   "time": "05:00",
   "path": "/articles/20260913-tokyo-stock-decline-oil-prices.html"
+ },
+ {
+  "title": "積水ハウスなどの決算プラス・インパクト銘柄を発表",
+  "lead": "AI TECH TIMESの編集部がお伝えする株式市場ニュースです。9月4日から10日に発表された決算について、東証プライムにおけるプラス・インパクト銘柄が明らかになりました。",
+  "summary3": [
+   "東証プライムの決算プラス・インパクト銘柄を発表",
+   "9月4日から10日までの発表分が対象",
+   "積水ハウスやエニーカラーなどが挙がる"
+  ],
+  "body": [
+   "AI TECH TIMESでは、株探ニュースの報道に基づき、東証プライム市場における決算プラス・インパクト銘柄の動向をお伝えします。今回の対象期間は9月4日から10日までに発表された決算となっています。",
+   "発表された銘柄の中には、積水ハウス、エニーカラー、泉州電などが含まれており、市場におけるそれぞれの決算内容の影響が注目されています。",
+   "詳細なデータや個別の銘柄に関する情報については、関連する金融情報メディアなどの発表をご確認ください。今後も市場の動向に合わせたニュースをお届けしてまいります。"
+  ],
+  "tags": [
+   "決算",
+   "東証プライム",
+   "株式市場"
+  ],
+  "slug": "prime-market-earnings-impact-september",
+  "people": [],
+  "terms": [
+   {
+    "name": "積水ハウス",
+    "type": "company",
+    "desc": "日本の大手住宅メーカーであり、戸建て住宅から賃貸住宅、マンションまで幅広く手掛ける企業です。"
+   },
+   {
+    "name": "エニーカラー",
+    "type": "company",
+    "desc": "バーチャルユーチューバー（VTuber）プロジェクト「にじさんじ」などを運営するエンターテインメント企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTZfV3J3UVBsVmhReEtLN1JmdDJNODZTZzZRLXNvTDNqZHpXQkl4d1NlVkplWW55eEJwVmZkLS0yOGtSOEdxMEFGcWV1RDhHVm9SNU42Rzc0VDZXSkNrWWlyNmhNMnVxTGJyc1dja25UNERyTXE3S0FrejFnd2gxU0plYWx5X28?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-13",
+  "time": "06:00",
+  "path": "/articles/20260913-prime-market-earnings-impact-september.html"
  }
 ]

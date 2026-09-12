@@ -1,26 +1,21 @@
 {
- "updated": "2026-09-13 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-13 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "習近平主席、インド訪問で中印首脳会談へ",
-   "path": "/articles/20260913-brics-summit-xi-jinping-india.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "韓国軍、北朝鮮の短距離弾道ミサイル発射を発表 日米韓訓練に反発か",
-   "path": "/articles/20260913-north-korea-missile-launch-2026-09.html",
-   "cat": "時事・世界"
+   "title": "東京株1259円安：原油高でハイテク株が大幅下落",
+   "path": "/articles/20260913-tokyo-stock-decline-oil-prices.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
-  "title": "LISA - SaWaDiKa (Dance Performance Video)",
-  "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
+  "title": "I Survived 100 Days on One Block",
+  "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }

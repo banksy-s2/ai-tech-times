@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-13 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-13 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "東京株1259円安：原油高でハイテク株が大幅下落",
-   "path": "/articles/20260913-tokyo-stock-decline-oil-prices.html",
-   "cat": "株式投資(日本)"
+   "title": "積水ハウスなどの決算プラス・インパクト銘柄を発表",
+   "path": "/articles/20260913-prime-market-earnings-impact-september.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 16,
+  "used": 18,
   "limit": 200
  }
 }
