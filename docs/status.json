@@ -1,46 +1,11 @@
 {
- "updated": "2026-09-12 21:03",
- "mode": "フル便",
+ "updated": "2026-09-12 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AmazonがOpenAIと提携しChatGPTで広告出稿を可能にした理由",
-   "path": "/articles/20260912-amazon-openai-chatgpt-ads.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "レベルファイブ日野社長「派手にしたかった」AI発表会の弁明と真意",
-   "path": "/articles/20260912-level5-hino-ai-trailer-explanation.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "マイクロソフト広報トップのフランク・ショウ氏が退任へ、今後はどうなる？",
-   "path": "/articles/20260912-microsoft-head-of-comms-frank-shaw-leaving.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Meta、新型スリム眼鏡型端末か",
-   "path": "/articles/20260912-meta-project-phoenix-headset-leak.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "サウジのパイプライン攻撃、市場への影響懸念",
-   "path": "/articles/20260912-hormuz-alternative-route-attack.html",
+   "title": "ウォール・ストリート・ジャーナル：イランが中国の衛星画像をもとに米軍攻撃か",
+   "path": "/articles/20260912-iran-china-satellite-images-us-military.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "カリフォルニア州、SNSやAIから子供を守る新法成立",
-   "path": "/articles/20260912-california-sns-ai-child-protection-law.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均株価の来週予想レンジは6万〜6万5000円！",
-   "path": "/articles/20260912-nikkei-average-forecast-range-september-14-18.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "武田薬品の長谷川閑史元社長が死去、80歳",
-   "path": "/articles/20260912-hasegawa-yasuchika-passes-away.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -48,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
  },
  "notes": [
-  "執筆失敗: 【訃報】俳優の森本レオさん、原因不明の突然死、83歳だった　穏やかでほのぼのとし",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: インドネシアで森林火災が深刻化 自衛隊も消火活動へ"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 170,
+  "used": 175,
   "limit": 200
  }
 }
