@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-12 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "オラクル、AIクラウド需要で売上高30%増も負債1250億ドルの理由",
-   "path": "/articles/20260912-oracle-posts-30-percent-revenue-growth-ai-cloud.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "マット・マレンウェグ氏がAutomatticのCEOに復帰、解任からわずか2日で",
-   "path": "/articles/20260912-mullenweg-returns-as-automattic-ceo.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-12 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "American Horror Story: 13 | Official Trailer | FX",
   "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 人気VTuber「指定難病、入院は確定、脳の手術の可能性あり」深刻な状況明かしイ"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 70,
+  "used": 73,
   "limit": 200
  }
 }
