@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-12 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-12 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明",
-   "path": "/articles/20260912-fields-medalists-criticize-ai-math.html",
-   "cat": "日本のAI"
+   "title": "ホワイトハウスがTruth Socialを世界一と主張した理由",
+   "path": "/articles/20260912-white-house-truth-social-popular.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか",
-   "path": "/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html",
-   "cat": "日本のAI"
+   "title": "人気YouTuberニコラス・ライト、チャンネル削除の危機を告白",
+   "path": "/articles/20260912-nicholas-light-youtube-copyright-war.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 139,
+  "used": 145,
   "limit": 200
  }
 }

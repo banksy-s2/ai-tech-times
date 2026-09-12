@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWDJOdUFzWm5SV2NCOGk3T3ZjRDh5NWlYTllqM1RpUjd6NlhMWS1TWktHcWtHRy1iNDdPUlpkbVRHVjNDTDJtUWQ1QWV0WUZiTWZfdDNfSk0?oc=5",
-  "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PZzIxdWFrN3hpeWlOa0tuT0Y1OTNTcFZrcGJicFB1MXZia0hYWlAyWGxFY0xZeWw5WU1BaVc2SEdUREYweEgw?oc=5",
   "https://gigazine.net/news/20260727-sk-hynix-post-record-profit/",
   "https://www.techmeme.com/260726/p6#a260726p6",
   "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGeVJRQkVfYTNEQ2R2WHBadFdoRWc3aXVOZjhqTHpUUHMtS2NZZ3pBYWpKRUZWaDdLX3h3OEFQSC1NWVhBVWEwdEtkZzR2cjVhRXhqdU1mbDV4anRyS2RvUQ?oc=5",
   "https://www.itmedia.co.jp/business/articles/2609/11/news013.html",
   "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
-  "https://www.itmedia.co.jp/news/article/2609/11/2000001392/"
+  "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+  "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+  "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media"
  ],
  "titles": [
-  "シリコンバレー特異なAIバブル、崩壊で庶民に火傷する理由",
-  "米シカゴ大学調査：親が子にAIを使わせる理由は「遅れ」？",
-  "グーグルの創業者セルゲイ・ブリン氏、資産家課税の反対運動に1億ドルを投じた理由",
-  "MetaやTikTokなど、ユーザー依存訴訟の棄却で続く法的闘争の行方",
   "BYD新型軽EV「ラッコ」受注1000台超、8割が最上級グレードを選ぶ理由とは",
   "ゼレンスキー大統領、ロシアの北朝鮮製ミサイル使用を明かす",
   "NYダウ最高値更新が日経平均に示す影響とは",
@@ -4001,6 +3997,10 @@
   "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
   "OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析",
   "オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明",
-  "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか"
+  "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか",
+  "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+  "Anime reaction YouTubers are at war with copyright enforcers",
+  "ホワイトハウスがTruth Socialを世界一と主張した理由",
+  "人気YouTuberニコラス・ライト、チャンネル削除の危機を告白"
  ]
 }
