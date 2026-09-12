@@ -81575,5 +81575,87 @@
   "date": "2026-09-12",
   "time": "09:00",
   "path": "/articles/20260912-hitachi-design-knowledge-system.html"
+ },
+ {
+  "title": "オラクル、AIクラウド需要で売上高30%増も負債1250億ドルの理由",
+  "lead": "米オラクルの直近の四半期決算で、AIクラウドサービスの強い需要を背景にクラウドインフラ部門の売上高が前年同期比121%増と急増しました。一方で、負債総額が1250億ドルに達していることが明らかになっています。",
+  "summary3": [
+   "オラクルのクラウド売上高が121%増",
+   "AIクラウド需要が成長を牽引",
+   "負債総額は1250億ドルに到達"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がCNBC Techの報道に基づきお伝えします。米国の主要テクノロジー企業であるオラクルが発表した最新の決算において、AIクラウドサービスに対する旺盛な需要が全体の成長を強く牽引していることが浮き彫りになりました。",
+   "発表によると、同社のクラウドインフラストラクチャ部門の売上高は前年同期から121%も急増しました。この大幅な伸びは、多くの企業がAIの活用を進める中で、同社の提供するクラウドインフラに対する市場の期待とニーズが極めて高い水準にあることを示しています。こうした好調な事業展開が全体を押し上げ、全体の売上高成長率は30%を記録しました。",
+   "しかし、急成長を見せる一方で財務面の課題も浮き彫りになっています。今回の発表では、同社の負債総額が1250億ドルに達していることも同時に伝えられました。AI関連のインフラ投資競争が激化する中、巨額の投資と財務の健全性をどのように両立させていくのか、今後の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Oracle",
+   "AIクラウド",
+   "決算"
+  ],
+  "slug": "oracle-posts-30-percent-revenue-growth-ai-cloud",
+  "people": [],
+  "terms": [
+   {
+    "name": "オラクル",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠地を置き、データベース管理システムやクラウドサービスを主力事業とする大手IT企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "10:00",
+  "path": "/articles/20260912-oracle-posts-30-percent-revenue-growth-ai-cloud.html"
+ },
+ {
+  "title": "マット・マレンウェグ氏がAutomatticのCEOに復帰、解任からわずか2日で",
+  "lead": "有料の欠勤扱いとなってからわずか2日後、マット・マレンウェグ氏がAutomatticのCEOに復帰したことが明らかになりました。",
+  "summary3": [
+   "マレンウェグ氏がCEOに復帰",
+   "解任からわずか2日後の出来事",
+   "SlackメッセージとXで確認"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。WordPressなどを手掛けるAutomattic社を巡り、大きな動きがありました。テッククランチが確認したSlackのメッセージによると、有料の欠勤扱いとなってからわずか2日後、マット・マレンウェグ氏がCEOに復帰したとのことです。",
+   "この復帰については、WordPressのエグゼクティブディレクターであるメアリー・ハバード氏が金曜日にX（旧Twitter）への投稿で確認しました。さらに、公式のWordPressアカウントもその投稿を共有する形で、マレンウェグ氏のCEO職への復帰を裏付けています。",
+   "解任劇から短期間でのCEO復帰となった今回の出来事は、関係者の間でも大きな話題となっています。今後の同社の動向や体制の変化について、引き続き注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "Automattic",
+   "WordPress",
+   "ビジネス"
+  ],
+  "slug": "mullenweg-returns-as-automattic-ceo",
+  "people": [
+   {
+    "name": "マット・マレンウェグ氏",
+    "bio": "オープンソースのブログ・CMSプラットフォームであるWordPressの共同創設者であり、AutomatticのCEO。"
+   },
+   {
+    "name": "メアリー・ハバード氏",
+    "bio": "WordPressのエグゼクティブディレクターを務め、マレンウェグ氏のCEO復帰をSNS上で確認した。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Automattic",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、人気CMSプラットフォームであるWordPress.comなどを開発・運営する企業。"
+   },
+   {
+    "name": "WordPress",
+    "type": "company",
+    "desc": "世界中の多くのWebサイトやブログで使用されている、オープンソースのコンテンツ管理システム。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "10:00",
+  "path": "/articles/20260912-mullenweg-returns-as-automattic-ceo.html"
  }
 ]

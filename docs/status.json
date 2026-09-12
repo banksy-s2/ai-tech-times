@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-12 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-12 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NEC「全員AIの部署」新設、AI社員のストレスが見えた理由",
-   "path": "/articles/20260912-nec-all-ai-department-stress-check.html",
-   "cat": "日本のAI"
+   "title": "オラクル、AIクラウド需要で売上高30%増も負債1250億ドルの理由",
+   "path": "/articles/20260912-oracle-posts-30-percent-revenue-growth-ai-cloud.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "日立、熟練者の知見をAI化する設計システム提供へ",
-   "path": "/articles/20260912-hitachi-design-knowledge-system.html",
-   "cat": "日本のAI"
+   "title": "マット・マレンウェグ氏がAutomatticのCEOに復帰、解任からわずか2日で",
+   "path": "/articles/20260912-mullenweg-returns-as-automattic-ceo.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 65,
+  "used": 70,
   "limit": 200
  }
 }

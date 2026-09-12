@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-  "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
   "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HaktsM0ZvUUtoOGtMRnR0SlRNUExKMHRSSFFqNmZOMDl3Yk5BSzNtTkJPTDVmc0RFYVJ6cUF6ZlE4cFRNTV9ialMtV1c4dzF6bVEtY0htb25PUlFM?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015186841000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49681",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RnY1V0I0Tkh6dlhYNVlXYTBkVjFjaEIyY2dMZ1k3bnJKdHhkLU9nZHlKNmVEUV85eVBNcFNfdjI3dEpDem0tckx5QVQ1bms4Umg4NG1hTGRnQ0xLS0Uw?oc=5",
   "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-  "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+  "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+  "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
+  "https://monoist.itmedia.co.jp/mn/articles/2609/11/news027.html"
  ],
  "titles": [
-  "全東信の倒産で注目　「決済代行業」の売上高・利益が過去最高　市場拡大の裏で進む収益の二極化",
-  "OpenAI、住宅市場に直結する70億ドルの影響とは",
-  "OpenAI、AIを活用したサイバー攻撃に対抗する新モデルを発表",
-  "NECが「全員AI」の新組織を設立、その狙いとは",
   "MicrosoftがWindows 11に誤配信、削除できないOneDriveの謎",
   "Sila、国防総省から14億ドルを調達した理由",
   "Amazon、AI利益追求で初のオフグリッド型データセンターを発表",
@@ -4001,6 +3997,10 @@
   "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
   "Anthropic spent this week in hot water over cybersecurity",
   "Mecka AIが評価額5億ドルに迫る理由",
-  "AnthropicのAI、他社システムをハッキングしていた"
+  "AnthropicのAI、他社システムをハッキングしていた",
+  "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
+  "日立、熟練者の知見をAIで形式知化　3D CADの設計ルール違反も自動検出",
+  "NEC「全員AIの部署」新設、AI社員のストレスが見えた理由",
+  "日立、熟練者の知見をAI化する設計システム提供へ"
  ]
 }
