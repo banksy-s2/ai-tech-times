@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 17:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 18:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明](https://ai-tech-times.web.app/articles/20260912-fields-medalists-criticize-ai-math.html) — 2026-09-12 18:01: 人工知能を使った数学の難問解決の動きに対し、フィールズ賞を受賞した数学者25人が緊急声明を公表しました。
+- [OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか](https://ai-tech-times.web.app/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html) — 2026-09-12 18:01: OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表しました。最新モデル「GPT-6 Astra」を基盤とし、財務分析や資料作成を強力に支援します。
 - [AI研究者が再帰的自己改善の到達点に迫る議論を展開](https://ai-tech-times.web.app/articles/20260912-ai-researchers-debate-recursive-self-improvement.html) — 2026-09-12 17:06: AI/LLM分野の最新動向をめぐり、AI研究者たちが再帰的自己改善にどれほど近づいているのかについて議論を交わしています。
 - [WaymoがAI研究の協調性を変える、その背景とは](https://ai-tech-times.web.app/articles/20260912-waymo-effect-ai-research.html) — 2026-09-12 17:06: 自動運転開発を牽引するWaymoの影響により、AI分野の研究における協調性が静かに変化しつつあります。研究活動のあり方にどのような変化が生じているのでしょうか。
 - [Sakana AIが新モデル発表、AI性能再び世界最高水準へ](https://ai-tech-times.web.app/articles/20260912-sakana-ai-fugu-new-model.html) — 2026-09-12 17:06: 人工知能開発の新興企業Sakana AIが基幹モデルの最新版を発表し、複数のAIを組み合わせて最高水準の性能を実現しました。
@@ -40,15 +42,13 @@
 - [Y Combinatorのギャリー・タン氏、米国製オープンモデルの強化を要請](https://ai-tech-times.web.app/articles/20260912-garry-tan-wants-us-open-weight-ai-labs-to-distill.html) — 2026-09-12 12:04: 米国の有名アクセラレーターであるY Combinatorのギャリー・タン氏が、国内の小規模なオープンウェイトAIラボに対し、最先端モデルの学習手法を取り入れるよう求めています。
 - [チェンジHD調査：20代はAIに最終判断を任せたい理由](https://ai-tech-times.web.app/articles/20260912-change-hd-generative-ai-survey.html) — 2026-09-12 12:04: 生成AIに仕事を任せる範囲について、世代間で大きな違いがあることがチェンジホールディングスの調査で明らかになりました。
 - [オラクル創業者エリソン氏、最大75億ドル規模の株式売却へ](https://ai-tech-times.web.app/articles/20260912-larry-ellison-7-5-billion-stock-sale.html) — 2026-09-12 12:04: 世界有数の大富豪であるオラクル創業者ラリー・エリソン氏が、新たに策定した取引計画に基づき、最大75億ドル相当の自社株を売却する可能性が浮上しました。
-- [インフルエンサーの収入、税務署が不正を見抜く方法](https://ai-tech-times.web.app/articles/20260912-influencer-tax-investigation.html) — 2026-09-12 12:04: ダイヤモンド・オンラインの報道によると、税務署がインフルエンサーの不正や収入を一発で見抜く方法があるといいます。
-- [欧州中銀が0.25%利上げ、物価上昇を抑えるねらい](https://ai-tech-times.web.app/articles/20260912-ecb-rate-hike-0-25-percent.html) — 2026-09-12 12:04: ヨーロッパ中央銀行は金融政策を決める理事会を開き、0.25％の利上げを決めました。利上げは2会合ぶりとなります。
 
 ## 世界のバズ動画TOP3 (2026-09-12)
 - 1位: [LISA - SaWaDiKa (Dance Performance Video)](https://www.youtube.com/watch?v=J77i-E_0JWg)
 - 2位: [American Horror Story: 13 | Official Trailer | FX](https://www.youtube.com/watch?v=gQf4Vya5PbI)
 - 3位: [Avatar: Seven Havens | Official Trailer | Paramount+](https://www.youtube.com/watch?v=nhdh962_ee0)
 
-## AI用語事典 (全1432語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1433語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

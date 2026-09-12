@@ -82446,5 +82446,83 @@
   "date": "2026-09-12",
   "time": "17:06",
   "path": "/articles/20260912-hatena-11-billion-incident.html"
+ },
+ {
+  "title": "オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明",
+  "lead": "人工知能を使った数学の難問解決の動きに対し、フィールズ賞を受賞した数学者25人が緊急声明を公表しました。",
+  "summary3": [
+   "数学者25人がAI活用への非難声明",
+   "オープンAIの難問解決が発端に",
+   "今後さらに署名を募る方針"
+  ],
+  "body": [
+   "「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表しました。今後さらに多くの数学者の署名を募る方針です。",
+   "今回の声明は、米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けて出されたものです。",
+   "AI技術の急速な発展が続く中、数学界からは人工知能によるアプローチに対して懸念の声が上がっており、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "数学",
+   "フィールズ賞"
+  ],
+  "slug": "fields-medalists-criticize-ai-math",
+  "people": [],
+  "terms": [
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "米国の人工知能開発企業で、対話型AIなどの先端技術を提供していることで知られています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "18:01",
+  "path": "/articles/20260912-fields-medalists-criticize-ai-math.html"
+ },
+ {
+  "title": "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか",
+  "lead": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表しました。最新モデル「GPT-6 Astra」を基盤とし、財務分析や資料作成を強力に支援します。",
+  "summary3": [
+   "OpenAIが金融機関向けAIを発表",
+   "最新モデルGPT-6 Astraを搭載",
+   "財務分析や顧客向け資料作成を支援"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回のニュースは、AI技術の新たなビジネス活用についてです。米OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表しました。金融業界の業務効率化に特化した新しいサービスとして注目を集めています。",
+   "本システムは、最新モデル「GPT-6 Astra」を基盤として採用しており、主要な金融データセットを標準で内蔵しているのが特徴です。これにより、複雑な財務分析や顧客向け資料作成をスムーズに支援することが可能となります。",
+   "さらに、既存の契約データとの連携機能や、Microsoft Officeテンプレートの社内配布にも対応しています。金融機関の日常業務における文書作成やデータ活用のあり方を大きく変えるツールとして、今後の展開が期待されます。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "金融AI"
+  ],
+  "slug": "openai-chatgpt-financial-services-gpt6-astra",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国のAI開発企業。対話型AI「ChatGPT」などを手掛け、世界のAI研究をリードする存在です。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型の人工知能モデル。自然な言語処理で質問への回答や文章作成を行います。"
+   },
+   {
+    "name": "Microsoft Office",
+    "type": "company",
+    "desc": "米Microsoftが提供する、文書作成や表計算などの業務ソフト群の総称です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "18:01",
+  "path": "/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html"
  }
 ]

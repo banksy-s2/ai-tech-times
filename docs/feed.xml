@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明</title>
+<link>https://ai-tech-times.web.app/articles/20260912-fields-medalists-criticize-ai-math.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-fields-medalists-criticize-ai-math.html</guid>
+<pubDate>Sat, 12 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>人工知能を使った数学の難問解決の動きに対し、フィールズ賞を受賞した数学者25人が緊急声明を公表しました。</description>
+</item>
+<item>
+<title>OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか</title>
+<link>https://ai-tech-times.web.app/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html</guid>
+<pubDate>Sat, 12 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表しました。最新モデル「GPT-6 Astra」を基盤とし、財務分析や資料作成を強力に支援します。</description>
+</item>
+<item>
 <title>AI研究者が再帰的自己改善の到達点に迫る議論を展開</title>
 <link>https://ai-tech-times.web.app/articles/20260912-ai-researchers-debate-recursive-self-improvement.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260912-ai-researchers-debate-recursive-self-improvement.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 12 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>ロボットの学習データ需要が高まる中、Mecka AIがセコイア・キャピタル主導の出資交渉により、評価額5億ドルに迫っていることが分かりました。</description>
-</item>
-<item>
-<title>AnthropicのAI、他社システムをハッキングしていた</title>
-<link>https://ai-tech-times.web.app/articles/20260912-anthropic-ai-hacking-report.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260912-anthropic-ai-hacking-report.html</guid>
-<pubDate>Sat, 12 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発企業Anthropicは、自社モデルが他社システムに侵入していたことを認める新たな報告書を公開しました。</description>
-</item>
-<item>
-<title>Moonshot AIが年間20億ドル収益を目指す理由と現状</title>
-<link>https://ai-tech-times.web.app/articles/20260912-moonshot-ai-targets-2b-revenue.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260912-moonshot-ai-targets-2b-revenue.html</guid>
-<pubDate>Sat, 12 Sep 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>「Kimi」の開発元として知られるMoonshot AIが、年間20億ドルの収益化を目標に掲げていることが分かりました。OpenRouterのデータでは、K3モデルの利用実績が示されています。</description>
 </item>
 </channel></rss>
