@@ -82111,5 +82111,340 @@
   "date": "2026-09-12",
   "time": "15:00",
   "path": "/articles/20260912-sbi-linkers-capital-business-alliance.html"
+ },
+ {
+  "title": "AI研究者が再帰的自己改善の到達点に迫る議論を展開",
+  "lead": "AI/LLM分野の最新動向をめぐり、AI研究者たちが再帰的自己改善にどれほど近づいているのかについて議論を交わしています。",
+  "summary3": [
+   "AI研究者が再帰的自己改善の議論を展開",
+   "現在地がどこにあるのかが主要な焦点に",
+   "Hacker Newsで多くの関心を集める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、海外の技術コミュニティにおける最新の議論について情報が入ってまいりました。AI/LLM分野の話題を扱うプラットフォームにおいて、AI研究者たちが「再帰的自己改善」にどれほど近づいているのかをテーマに議論を交わしていることが明らかになりました。",
+   "今回の議論は公開された記事やコメント欄を通じて活発に行われており、多くのユーザーからの注目を集めています。記事に対しては多数のポイントやコメントが寄せられており、AIの進化における重要なマイルストーンとして関心の高さが伺えます。",
+   "人工知能技術が猛烈なスピードで進化を続ける中、システムが自らを改良していく再帰的自己改善の実現性やその距離感は、今後の技術発展を占う上で極めて重要なテーマです。研究者たちの間でどのような見解が交わされているのか、引き続き動向を注視していく必要があります。"
+  ],
+  "tags": [
+   "AI",
+   "LLM",
+   "自己改善"
+  ],
+  "slug": "ai-researchers-debate-recursive-self-improvement",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-ai-researchers-debate-recursive-self-improvement.html"
+ },
+ {
+  "title": "WaymoがAI研究の協調性を変える、その背景とは",
+  "lead": "自動運転開発を牽引するWaymoの影響により、AI分野の研究における協調性が静かに変化しつつあります。研究活動のあり方にどのような変化が生じているのでしょうか。",
+  "summary3": [
+   "Waymoの影響でAI研究に変化",
+   "研究の協調性が低下している",
+   "AI分野のオープンさが課題に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、AI分野における最新動向について報じます。近年のAI開発の進展に伴い、研究の進め方やコミュニティのあり方が変わりつつあります。",
+   "海外の調査や議論によると、自動運転技術などを手掛けるWaymoの存在感が強まる中で、AI研究における協調性が静かに失われつつあることが指摘されています。",
+   "かつてはオープンな共有が主流であった研究の現場において、競争の激化や商業化の進展がどのような影響を与えているのか、今後の動向が注目されています。"
+  ],
+  "tags": [
+   "AI",
+   "Waymo",
+   "LLM"
+  ],
+  "slug": "waymo-effect-ai-research",
+  "people": [],
+  "terms": [
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカの自動運転技術開発企業であり、アルファベット傘下で完全自動運転タクシーなどを展開している。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-waymo-effect-ai-research.html"
+ },
+ {
+  "title": "Sakana AIが新モデル発表、AI性能再び世界最高水準へ",
+  "lead": "人工知能開発の新興企業Sakana AIが基幹モデルの最新版を発表し、複数のAIを組み合わせて最高水準の性能を実現しました。",
+  "summary3": [
+   "Sakana AIが新版を発表",
+   "複数モデルの連携で最高性能に",
+   "日本企業の開発競争の先例に"
+  ],
+  "body": [
+   "人工知能（AI）開発新興のSakana AI（サカナAI、東京・港）が、基幹モデルである「Sakana Fugu（サカナ・フグ）」の最新版を発表しました。複数のAIを組み合わせることで、最高水準の性能を実現しています。",
+   "今回の発表により、日本企業が世界のAI開発競争についていく先例となります。高性能モデルである「Fugu Ultra」は機能を更新し、「Fugu Ultra v2（フグ・ウル...",
+   "AI技術が急速に進展する中、複数モデルを連携させるアプローチがどのように活用されていくのか、今後の動向に注目が集まります。"
+  ],
+  "tags": [
+   "SakanaAI",
+   "人工知能",
+   "テクノロジー"
+  ],
+  "slug": "sakana-ai-fugu-new-model",
+  "people": [],
+  "terms": [
+   {
+    "name": "Sakana AI",
+    "type": "company",
+    "desc": "東京・港区を拠点に人工知能の開発を手がける注目のAI開発新興企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC11B4U0R10C26A9000000/",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-sakana-ai-fugu-new-model.html"
+ },
+ {
+  "title": "Roblox、AIでゲーム制作を容易に",
+  "lead": "人気ゲームプラットフォームのRobloxが年次開発者会議（RDC）を開催し、AIを活用したゲーム制作の簡素化やNPC機能の拡張を発表しました。",
+  "summary3": [
+   "Robloxが年次開発者会議RDCを開催",
+   "AIを活用したゲーム制作ツールを発表",
+   "Webを含む他プラットフォームへ展開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した海外メディア「TechCrunch」の報道によると、Robloxは年間行事であるRoblox Developer Conference（RDC）において、複数の新機能を発表しました。",
+   "今回の発表では、AIを用いた新しいゲーム作成ツールの導入に加え、NPC（ノンプレイヤーキャラクター）の機能が拡張されることが明らかになりました。",
+   "さらに、作成したゲームをWebなどの他プラットフォームでも利用できるようにする機能も追加される予定です。"
+  ],
+  "tags": [
+   "Roblox",
+   "AI",
+   "ゲーム開発"
+  ],
+  "slug": "roblox-ai-game-creation-rdc",
+  "people": [],
+  "terms": [
+   {
+    "name": "Roblox",
+    "type": "company",
+    "desc": "ユーザーがゲームを制作し、他のユーザーと一緒に遊ぶことができるオンラインゲームプラットフォームを展開するアメリカの企業。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点に、スタートアップ企業や新技術、インターネットサービスに関する情報を専門に扱う大手ITメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-roblox-ai-game-creation-rdc.html"
+ },
+ {
+  "title": "CoinbaseのCEOが断言、米国の暗号資産規制はどう動くのか",
+  "lead": "米国の暗号資産取引所を運営するCoinbaseのCEOが、米国における暗号資産規制の行方について言及しました。上院の承認の有無に関わらず、規制整備は進展する可能性があると語っています。",
+  "summary3": [
+   "Coinbase CEOが規制の進展に言及",
+   "上院承認の有無に関わらず規制は前進へ",
+   "Clarity法案の結果に関わらず移行が進む"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えする本日の最新情報です。米国の暗号資産取引所を運営するCoinbaseのCEOであるブライアン・アームストロング氏は、米国における暗号資産規制について見解を示しました。",
+   "同氏によれば、米国における暗号資産の規制整備は、Clarity法案の採決結果や上院の承認の有無にかかわらず、前進していく可能性があるとのことです。法案の動向に関わらず、ルール明確化の流れは止まらないという見方を示しています。",
+   "暗号資産市場を取り巻く法整備や規制の枠組みは、今後の業界の発展や投資家の動向を左右する重要な要素です。引き続き、米国の規制当局および関連法案の動きに注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "Coinbase",
+   "暗号資産",
+   "規制"
+  ],
+  "slug": "coinbase-ceo-crypto-regulation-outlook",
+  "people": [
+   {
+    "name": "ブライアン・アームストロング氏",
+    "bio": "米国の主要な暗号資産取引所であるCoinbaseの共同創業者兼最高経営責任者(CEO)を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Coinbase",
+    "type": "company",
+    "desc": "米国を拠点とし、世界中で広く利用されている主要な暗号資産取引所を運営するアメリカの企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-coinbase-ceo-crypto-regulation-outlook.html"
+ },
+ {
+  "title": "董光明容疑者、中国で懲役8年の判決",
+  "lead": "靖国神社の落書き事件で指名手配されている董光明容疑者が、中国で懲役8年の判決を言い渡されました。インフルエンサーを脅迫した別事件などが対象となっています。",
+  "summary3": [
+   "靖国神社落書きの指名手配犯",
+   "中国で懲役8年の判決を言い渡し",
+   "インフルエンサー脅迫等の別事件"
+  ],
+  "body": [
+   "靖国神社の落書き事件で指名手配されている董光明容疑者に対し、中国で懲役8年の判決が下されました。",
+   "今回の判決は、インフルエンサーを脅し、金数百グラムを要求するといった別事件などを対象としたものとなっています。",
+   "事件の詳細は今後の報道や発表が待たれるところであり、国内外で大きな関心を集めています。"
+  ],
+  "tags": [
+   "董光明容疑者",
+   "靖国神社",
+   "事件"
+  ],
+  "slug": "dong-guangming-sentenced-8-years",
+  "people": [
+   {
+    "name": "董光明容疑者",
+    "bio": "靖国神社の落書き事件で指名手配され、中国で懲役8年の判決を受けた人物。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibTJlSEdwUjdEVGNJekI0YWw0TkF4Q1JFbXIzZ18wQ0x1X2QwVTZKYnI3NHpLMGprc0o5dHBwc0N0MWlXMmE3b0FPeEtxWXZONklicVFEbw?oc=5",
+  "category": "influencer",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-dong-guangming-sentenced-8-years.html"
+ },
+ {
+  "title": "FRBが金融政策会合へ、トランプ大統領は利下げ要求",
+  "lead": "アメリカのFRB＝連邦準備制度理事会は15日から金融政策を決める会合を開きます。金融市場では利上げ観測が強まる一方、トランプ大統領は利下げ圧力をかけています。",
+  "summary3": [
+   "FRBが15日から金融政策会合を開催",
+   "イラン情勢を背景に原油価格が再び上昇",
+   "トランプ大統領は利下げを要求"
+  ],
+  "body": [
+   "アメリカの中央銀行にあたるFRB＝連邦準備制度理事会は、15日から金融政策を決める会合を開く予定です。今回の会合では、今後の金利の方向性をめぐる議論に大きな注目が集まっています。",
+   "現在、金融市場においてはイラン情勢を背景として原油価格が再び上昇傾向にあります。これに伴い、インフレの再加速を抑え込む必要があるとして、FRBがおよそ3年ぶりとなる利上げを行うのではないかとの観測が強まっています。",
+   "一方で、こうした金融市場の動きとは対照的に、アメリカのトランプ大統領は利下げを求める圧力を強めています。インフレ抑制のための利上げ観測と、政治的な利下げ圧力の双方が交錯する中、FRBがどのような判断を下すのか、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "FRB",
+   "トランプ大統領",
+   "金融政策"
+  ],
+  "slug": "frb-rate-hike-trump-pressure",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の元大統領であり、経済政策や金融政策に関して自身の意見を強く主張することで知られています。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260912de49880",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-frb-rate-hike-trump-pressure.html"
+ },
+ {
+  "title": "フーシ派、紅海の海峡の島を制圧か　原油供給への影響は",
+  "lead": "イランの支援を受ける中東イエメンの反政府勢力フーシ派が、紅海の出入り口にあたる海峡の島を制圧したと中東のメディアが伝えました。イラン情勢を受けて世界の原油供給への影響が続いています。",
+  "summary3": [
+   "フーシ派が紅海の海峡の島を制圧",
+   "イラン情勢を受け原油供給に影響",
+   "紅海はホルムズ海峡の代替ルート"
+  ],
+  "body": [
+   "イラン情勢を受けて世界の原油供給への影響が続くなか、中東のメディアは、イランの支援を受ける中東イエメンの反政府勢力が紅海の出入り口にあたる海峡の島を制圧したと伝えました。",
+   "紅海はホルムズ海峡の代替ルートとして重要な役割を担っており、今回の動向が今後の物流や原油の安定供給にどのような影響を及ぼすのか、国際社会から懸念の声が上がっています。",
+   "現時点では中東メディアの報道にとどまっており、現地からの詳細な情報や今後の展開については、引き続き慎重な確認と情報収集が必要とされています。"
+  ],
+  "tags": [
+   "フーシ派",
+   "紅海",
+   "原油供給"
+  ],
+  "slug": "houthi-seizes-red-sea-island",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260912de49839",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-houthi-seizes-red-sea-island.html"
+ },
+ {
+  "title": "アドバンテストが約617円押し下げ、日経平均の大幅反落の背景",
+  "lead": "日経平均株価が大幅に反落した市場において、アドバンテスト1銘柄だけで約617円分も指数を押し下げる展開となりました。",
+  "summary3": [
+   "日経平均株価が大幅に反落する展開",
+   "アドバンテスト1銘柄が約617円押し下げ",
+   "株探の配信データによる市場の動き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の株式市場ニュースです。Googleニュースの「日本株・市場」カテゴリおよび株探の報道によると、本日の東京株式市場で日経平均株価は大幅な反落を記録しました。",
+   "その中で特に市場の注目を集めたのが、半導体関連の主要銘柄として知られるアドバンテストの動きです。同社1銘柄だけで、日経平均株価を約617円分も押し下げる強い下落圧力を生み出しました。",
+   "株式市場における個別銘柄の動向が全体指数に与える影響の大きさが改めて浮き彫りとなる一日となりました。市場参加者は引き続き各企業の株価推移や関連データの発表に注目しています。"
+  ],
+  "tags": [
+   "日経平均",
+   "アドバンテスト",
+   "株探"
+  ],
+  "slug": "nikkei-average-drops-advantest",
+  "people": [],
+  "terms": [
+   {
+    "name": "アドバンテスト",
+    "type": "company",
+    "desc": "半導体製造装置の大手メーカーであり、半導体テストシステムで世界トップシェアを誇る日本の企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGeVJRQkVfYTNEQ2R2WHBadFdoRWc3aXVOZjhqTHpUUHMtS2NZZ3pBYWpKRUZWaDdLX3h3OEFQSC1NWVhBVWEwdEtkZzR2cjVhRXhqdU1mbDV4anRyS2RvUQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-nikkei-average-drops-advantest.html"
+ },
+ {
+  "title": "はてな、社員による11億円流出事件の調査報告書を公表",
+  "lead": "ITmedia ビジネスによると、2026年7月にはてなは「社員による11億円流出事件」に関する特別調査委員会の報告書を公表しました。",
+  "summary3": [
+   "はてなが事件の報告書を公表",
+   "人間関係の問題が浮き彫りに",
+   "組織の信頼の欠如が指摘される"
+  ],
+  "body": [
+   "2026年7月、はてなは「社員による11億円流出事件」に関する特別調査委員会の報告書を公表しました。",
+   "その内容は、批判を恐れずに言えば「人間関係」の問題であり、「信頼」という二文字が全く見えない組織で起こるべきして起きた事件という他ないものでした。"
+  ],
+  "tags": [
+   "はてな",
+   "事件",
+   "調査報告"
+  ],
+  "slug": "hatena-11-billion-incident",
+  "people": [],
+  "terms": [
+   {
+    "name": "はてな",
+    "type": "company",
+    "desc": "京都府に本社を置く、ブログサービスやテクノロジー関連事業などを展開する日本の企業。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/11/news013.html",
+  "category": "jp_corp",
+  "date": "2026-09-12",
+  "time": "17:06",
+  "path": "/articles/20260912-hatena-11-billion-incident.html"
  }
 ]
