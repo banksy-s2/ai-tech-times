@@ -6281,7 +6281,7 @@
    "id": "J77i-E_0JWg",
    "title": "LISA - SaWaDiKa (Dance Performance Video)",
    "channel": "LLOUD Official",
-   "views": 2752815,
+   "views": 2895508,
    "url": "https://www.youtube.com/watch?v=J77i-E_0JWg",
    "thumb": "https://i.ytimg.com/vi/J77i-E_0JWg/hqdefault.jpg",
    "regions": [
@@ -6296,7 +6296,7 @@
    "id": "gQf4Vya5PbI",
    "title": "American Horror Story: 13 | Official Trailer | FX",
    "channel": "FX Networks",
-   "views": 6616503,
+   "views": 6705173,
    "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI",
    "thumb": "https://i.ytimg.com/vi/gQf4Vya5PbI/hqdefault.jpg",
    "regions": [
@@ -6310,7 +6310,7 @@
    "id": "nhdh962_ee0",
    "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
    "channel": "Avatar Legends",
-   "views": 3297716,
+   "views": 3329067,
    "url": "https://www.youtube.com/watch?v=nhdh962_ee0",
    "thumb": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
    "regions": [
@@ -6324,7 +6324,7 @@
    "id": "h68WUZ8b0O0",
    "title": "Searching for a Vault that Doesn't Exist",
    "channel": "FlameFrags",
-   "views": 2851413,
+   "views": 2928231,
    "url": "https://www.youtube.com/watch?v=h68WUZ8b0O0",
    "thumb": "https://i.ytimg.com/vi/h68WUZ8b0O0/hqdefault.jpg",
    "regions": [
@@ -6335,6 +6335,34 @@
   },
   {
    "rank": 5,
+   "id": "f9IOOQFgZnw",
+   "title": "HLE vs T1 | 2026 Wooribank LCK Lower Finals",
+   "channel": "LCK Global",
+   "views": 2465698,
+   "url": "https://www.youtube.com/watch?v=f9IOOQFgZnw",
+   "thumb": "https://i.ytimg.com/vi/f9IOOQFgZnw/hqdefault.jpg",
+   "regions": [
+    "US",
+    "KR"
+   ],
+   "comment": "HLEとT1によるLCKロワーファイナルの試合映像のようです。(29字)"
+  },
+  {
+   "rank": 6,
+   "id": "K5SXamqxoio",
+   "title": "ENHYPEN (엔하이픈) 'Checkmate' Official MV",
+   "channel": "HYBE LABELS",
+   "views": 1253280,
+   "url": "https://www.youtube.com/watch?v=K5SXamqxoio",
+   "thumb": "https://i.ytimg.com/vi/K5SXamqxoio/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ENHYPENの新曲「Checkmate」公式MVが公開されたようです。(29字)"
+  },
+  {
+   "rank": 7,
    "id": "FM8Fg9i9xhw",
    "title": "🔴LIVE | WARDOGS | KING OF THE TOWERS | CLOAKZY X GIMMICK X COCONUT X HABIBI | #BUNGULATE",
    "channel": "TheBurntPeanut",
@@ -6348,25 +6376,11 @@
    "comment": "豪華メンバーによるゲームのライブ配信のようです"
   },
   {
-   "rank": 6,
-   "id": "K5SXamqxoio",
-   "title": "ENHYPEN (엔하이픈) 'Checkmate' Official MV",
-   "channel": "HYBE LABELS",
-   "views": 1222022,
-   "url": "https://www.youtube.com/watch?v=K5SXamqxoio",
-   "thumb": "https://i.ytimg.com/vi/K5SXamqxoio/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ENHYPENの新曲「Checkmate」公式MVが公開されたようです。(29字)"
-  },
-  {
-   "rank": 7,
+   "rank": 8,
    "id": "S4jPijqN6RI",
    "title": "Golden Brown",
    "channel": "Luke Muzzic - Topic",
-   "views": 1010116,
+   "views": 1036213,
    "url": "https://www.youtube.com/watch?v=S4jPijqN6RI",
    "thumb": "https://i.ytimg.com/vi/S4jPijqN6RI/hqdefault.jpg",
    "regions": [
@@ -6376,11 +6390,11 @@
    "comment": "Luke Muzzicさんの楽曲「Golden Brown」が公開されているようです。"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "id": "cNU5nYxHuYI",
    "title": "A Game About Chopping Trees",
    "channel": "jacksepticeye",
-   "views": 821124,
+   "views": 844196,
    "url": "https://www.youtube.com/watch?v=cNU5nYxHuYI",
    "thumb": "https://i.ytimg.com/vi/cNU5nYxHuYI/hqdefault.jpg",
    "regions": [
@@ -6390,11 +6404,11 @@
    "comment": "jacksepticeyeさんによる木を切り倒すゲームの実況のようです"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "id": "i5bSlwUbxyc",
    "title": "Stranded on ELEMENTAL NINJA Islands! (Minecraft)",
    "channel": "Cash",
-   "views": 820520,
+   "views": 841163,
    "url": "https://www.youtube.com/watch?v=i5bSlwUbxyc",
    "thumb": "https://i.ytimg.com/vi/i5bSlwUbxyc/hqdefault.jpg",
    "regions": [
@@ -6402,20 +6416,6 @@
     "GB"
    ],
    "comment": "Cashさんによるマインクラフトの忍者島サバイバル企画のようです"
-  },
-  {
-   "rank": 10,
-   "id": "QArBw68H-_Q",
-   "title": "Jhené Aiko - So Good feat. Kendrick Lamar (Official Audio)",
-   "channel": "Jhené Aiko",
-   "views": 756970,
-   "url": "https://www.youtube.com/watch?v=QArBw68H-_Q",
-   "thumb": "https://i.ytimg.com/vi/QArBw68H-_Q/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ジェネイ・アイコとケンドリック・ラマーの楽曲公式オーディオ (27字)"
   }
  ]
 }
