@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.yahoo.co.jp/articles/13d0af2d1331af0e44de750cfbbfedc115688dcf",
-  "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
   "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
   "https://www.oricon.co.jp/news/2470165/full/",
   "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260912de49899",
   "https://news.web.nhk/newsweb/na/nd-20260912de49897",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84T2dVQ3gtZFZ4Zk9WM0FQaDFTTThyWWVEN2ZZclZ5REt1YndMS1RwS0IzbFBYVkhyVDNQUVVyV25rajBDMlNUcVRSMk51THJHY2VZ?oc=5",
-  "https://news.web.nhk/newsweb/na/nd-20260911de49658"
+  "https://news.web.nhk/newsweb/na/nd-20260911de49658",
+  "https://news.web.nhk/newsweb/na/nd-20260912de49890",
+  "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa"
  ],
  "titles": [
-  "中国で主題ファンドの「スタイル乖離」と無資格インフルエンサー起用が問題に、Cファンドが新規商品登録を3カ月停止 - BigGo ファイナンス",
-  "Cファンド、新規商品登録停止の3カ月処分へ",
-  "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
-  "トランプ大統領 子ども向けワクチン接種の方針変更 批判も",
   "奥田碩氏が93歳で死去、トヨタ社長や経団連会長を歴任",
   "トランプ大統領、子ども向けワクチン接種縮小へ",
   "ゼンショーHD、1Q営業利益58%増で通期上方修正 株価も急伸（LIMO） - news.yahoo.co.jp",
@@ -4001,6 +3997,10 @@
   "サウジのパイプライン攻撃、市場への影響懸念",
   "カリフォルニア州、SNSやAIから子供を守る新法成立",
   "日経平均株価の来週予想レンジは6万〜6万5000円！",
-  "武田薬品の長谷川閑史元社長が死去、80歳"
+  "武田薬品の長谷川閑史元社長が死去、80歳",
+  "“イランが中国の衛星画像をもとに米軍攻撃か”米有力紙",
+  "ウォール・ストリート・ジャーナル：イランが中国の衛星画像をもとに米軍攻撃か",
+  "Trump is giving data centers a pass to pollute",
+  "トランプ大統領、AIデータセンター建設へ環境規制を緩和"
  ]
 }

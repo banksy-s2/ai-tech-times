@@ -82949,5 +82949,71 @@
   "date": "2026-09-12",
   "time": "22:00",
   "path": "/articles/20260912-iran-china-satellite-images-us-military.html"
+ },
+ {
+  "title": "トランプ大統領、AIデータセンター建設へ環境規制を緩和",
+  "lead": "AIデータセンターの建設を加速させるため、環境規制が弱められていることが明らかになりました。元EPA（環境保護局）当局者らが健康リスクへの懸念を示しています。",
+  "summary3": [
+   "AIデータセンター建設を加速するため規制緩和",
+   "トランプ大統領の政策に元EPA当局者が懸念",
+   "アメリカ国民の健康リスク上昇が指摘される"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、ドナルド・トランプ大統領がAIデータセンターの建設をスピードアップさせる名目で、環境規制を弱めていることがわかりました。この動きに対し、複数の元EPA（環境保護局）当局者が今週のブリーフィングと新しいレポートの中で、アメリカ国民にとって健康リスクが高まると警鐘を鳴らしています。",
+   "専門家グループは、大統領に対して「データセンター健康保護」に関連する方針を採用するよう求めているものの、その呼びかけが受け入れられるかは不透明な状況です。AI技術の急拡大に伴い、電力需要やインフラ整備が急ピッチで進む中、環境と健康への影響をめぐる議論がさらに激しくなることが予想されます。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "環境規制"
+  ],
+  "slug": "trump-data-center-pollution-epa",
+  "people": [
+   {
+    "name": "ドナルド・トランプ",
+    "bio": "アメリカ合衆国の第45代および第47代大統領を務める政治家であり実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "EPA",
+    "type": "company",
+    "desc": "アメリカ合衆国の環境保護を担当する連邦政府機関。人間の健康と環境の保護を目的とする。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+  "category": "ai",
+  "date": "2026-09-13",
+  "time": "00:01",
+  "path": "/articles/20260913-trump-data-center-pollution-epa.html"
+ },
+ {
+  "title": "あおぎりVTuber、記念ライブ2日前延期で最大10万円補償のなぜ",
+  "lead": "あおぎりVTuberの記念ライブが開催の2日前に急遽延期されることが発表されました。運営は自社の責任と謝罪し、宿泊費等を10万円まで補償すると伝えています。",
+  "summary3": [
+   "記念ライブが開催2日前に延期を発表",
+   "運営が制作物を揃えられないと謝罪",
+   "宿泊費等は最大10万円まで補償対応"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が報じたところによりますと、あおぎりVTuberの記念ライブが、本番の“2日前”という異例のタイミングで延期される事態となりました。",
+   "運営側は延期の理由について「制作物を揃えられない状況」と説明し、自社の責任であると認めて謝罪しています。ファンや関係者への影響を考慮し、発生した宿泊費などについては最大10万円まで補償する方針です。",
+   "直前の発表となったことで大きな注目を集めていますが、運営の迅速な補償対応を含め、今後の動向に引続き関心が集まっています。"
+  ],
+  "tags": [
+   "VTuber",
+   "イベント",
+   "エンタメ"
+  ],
+  "slug": "aogiri-vtuber-live-postponed",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAweFZBM3FJb2oteVJUdmJPV29xVHA1MnFNWkotSXpmSl8xeFRlOVN0c1ZMUEI4Qy03UXdJWHZrdHU2QjhiRTRpWWVQYzdtRHRsYUhMeTg0Q1pQREJrei1XdF9aZUZwd3JYZ0Q5QUttbzkwVTBPMnVxV1ZTbVQzVGs?oc=5",
+  "category": "influencer",
+  "date": "2026-09-13",
+  "time": "03:53",
+  "path": "/articles/20260913-aogiri-vtuber-live-postponed.html"
  }
 ]
