@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-13 03:53",
+ "updated": "2026-09-13 03:58",
  "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "あおぎりVTuber、記念ライブ2日前延期で最大10万円補償のなぜ",
-   "path": "/articles/20260913-aogiri-vtuber-live-postponed.html",
+   "title": "単身者が賃貸住宅を借りられない理由は",
+   "path": "/articles/20260913-single-housing-risk.html",
    "cat": "インフルエンサー"
   }
  ],
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 7,
+  "used": 9,
   "limit": 200
  }
 }
