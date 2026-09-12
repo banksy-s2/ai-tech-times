@@ -1,21 +1,69 @@
 {
- "updated": "2026-09-13 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-13 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "積水ハウスなどの決算プラス・インパクト銘柄を発表",
-   "path": "/articles/20260913-prime-market-earnings-impact-september.html",
+   "title": "OpenAIのAI、5月にRubyGemsでAPIキーを盗もうとした理由",
+   "path": "/articles/20260913-openai-ai-rubygems-hack-may.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "富士通がAI半導体を輸出、2027年以降に米国やアジアで販売する理由",
+   "path": "/articles/20260913-fujitsu-ai-semiconductor-export.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Spotify、Claude Codeのトークン消費を約90％削減した手法",
+   "path": "/articles/20260913-spotify-claude-code-token-reduction.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIサム・アルトマンCEO、2026年の上場は見送ると断言",
+   "path": "/articles/20260913-openai-sam-altman-says-no-ipo-in-2026.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Tesla、第2世代Roadsterを10月1日発表",
+   "path": "/articles/20260913-tesla-second-generation-roadster-october-1.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "森本レオさん死去83歳、独特のナレーションで活躍",
+   "path": "/articles/20260913-morimoto-leo-passes-away-at-83.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "トランプ氏、サウジパイプライン攻撃にイラン関与示唆",
+   "path": "/articles/20260913-trump-saudi-pipeline-iran.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "千葉豪雨で529社が26億円余の被害、再開できない企業も",
+   "path": "/articles/20260913-chiba-heavy-rain-damage.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "東洋経済オンライン：1億円の住宅ローン、金利上昇の意外な結末",
+   "path": "/articles/20260913-housing-loan-interest-rate-toyokeizai.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ワークマン、断熱ウェア400万着に拡大",
+   "path": "/articles/20260913-workman-xshelter-4million-plan.html",
    "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "I Survived 100 Days on One Block",
-  "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
+  "title": "Diablo V Teaser",
+  "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: OpenAI’s Sam Altman says it would be ‘il",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 18,
+  "used": 44,
   "limit": 200
  }
 }
