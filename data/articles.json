@@ -81657,5 +81657,330 @@
   "date": "2026-09-12",
   "time": "10:00",
   "path": "/articles/20260912-mullenweg-returns-as-automattic-ceo.html"
+ },
+ {
+  "title": "MIT Technology Reviewが解説、最先端AIが人類を滅ぼす現実味",
+  "lead": "世界をリードするAI研究所の従業員の間で、先進的なAIが人類を滅ぼす現実的な可能性があるという指摘がなされています。MIT Technology Reviewが、この議論の真相に迫る座談会の内容を公開しました。",
+  "summary3": [
+   "トップAI研究所の従業員から滅亡の懸念",
+   "恐怖を煽る誇大な宣伝か現実の危機か検証",
+   "編集部がAI絶滅論の真相について座談会で議論"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。世界の最先端AIラボで働く従業員たちの間から、先進的な人工知能が人類を滅ぼすという現実的な可能性についての声が上がっています。果たしてこの指摘は正しいのでしょうか、それとも単なる恐怖心を煽る誇大な宣伝に過ぎないのでしょうか。",
+   "「MIT Technology Review」のエグゼクティブエディターであるナイル・ファース氏が、シニアAIエディターのウィル・ダグラス・ヘヴン氏およびAIレポーターのグレース・ハッキンス氏と共に、AIの絶滅リスクについて紐解く座談会を開催しました。",
+   "最先端の開発現場に身を置く関係者からの警鐘と、メディアによる冷静な分析が交差する中、私たちが直面するAIの未来について改めて考えさせられる内容となっています。"
+  ],
+  "tags": [
+   "AI",
+   "テクノロジー",
+   "MIT Technology Revie"
+  ],
+  "slug": "mit-tech-review-ai-apocalypse-crisis",
+  "people": [
+   {
+    "name": "ナイル・ファース氏",
+    "bio": "MITテクノロジーレビューのエグゼクティブエディターを務め、AI分野などの報道や座談会の進行を担当する。"
+   },
+   {
+    "name": "ウィル・ダグラス・ヘヴン氏",
+    "bio": "MITテクノロジーレビューのシニアAIエディターとして、人工知能に関する動向や技術の解説を手がける。"
+   },
+   {
+    "name": "グレース・ハッキンス氏",
+    "bio": "MITテクノロジーレビューのAIレポーターとして、人工知能の開発現場や関連する社会問題を取材している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "MIT Technology Review",
+    "type": "company",
+    "desc": "マサチューセッツ工科大学が所有する、1899年創刊の歴史あるテクノロジー専門のメディア企業。"
+   }
+  ],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-mit-tech-review-ai-apocalypse-crisis.html"
+ },
+ {
+  "title": "Y Combinatorのギャリー・タン氏、米国製オープンモデルの強化を要請",
+  "lead": "米国の有名アクセラレーターであるY Combinatorのギャリー・タン氏が、国内の小規模なオープンウェイトAIラボに対し、最先端モデルの学習手法を取り入れるよう求めています。",
+  "summary3": [
+   "米オープンAIラボに先端手法の導入を要請",
+   "中国製に対抗する堅牢な選択肢を構築へ",
+   "Y Combinatorのタン氏が発言"
+  ],
+  "body": [
+   "米国の著名アクセラレーター「Y Combinator」のギャリー・タン氏は、米国内の小規模なオープンウェイトAIラボに対し、最先端の米国内AIラボと同じ種類のトレーニング技術を使用するよう求めています。",
+   "この取り組みにより、米国は中国製ではない、より堅牢で多様なオープンウェイトAIの選択肢を手に入れることができると主張しています。",
+   "先端技術の蒸留を通じて国内のオープンモデル開発を加速させることが、競争力強化の鍵になるとみられています。"
+  ],
+  "tags": [
+   "Y Combinator",
+   "AI",
+   "オープンウェイト"
+  ],
+  "slug": "garry-tan-wants-us-open-weight-ai-labs-to-distill",
+  "people": [
+   {
+    "name": "ギャリー・タン氏",
+    "bio": "米国の有名スタートアップ支援企業Y Combinatorの最高経営責任者を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Y Combinator",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする、世界的に有名なスタートアップ向けアクセラレーター企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "category": "ai",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-garry-tan-wants-us-open-weight-ai-labs-to-distill.html"
+ },
+ {
+  "title": "チェンジHD調査：20代はAIに最終判断を任せたい理由",
+  "lead": "生成AIに仕事を任せる範囲について、世代間で大きな違いがあることがチェンジホールディングスの調査で明らかになりました。",
+  "summary3": [
+   "チェンジホールディングスが生成AIの利用調査を実施",
+   "20代は最終承認までAIに任せたいと考えている",
+   "50代はAIに仕事を任せることに対して慎重な姿勢"
+  ],
+  "body": [
+   "「AIに任せる」はどこまで許されるのでしょうか。ITmedia AI+によると、チェンジホールディングスが実施した調査から、人間が生成AIに「任せたい業務」の実態が浮かび上がりました。",
+   "調査結果では、世代による意識の違いが鮮明になっています。20代では、仕事の最終承認という重要な判断の段階までAIに任せたいと考えている人がいることが分かりました。",
+   "一方で、50代の世代では生成AIに仕事を任せることに対して慎重になる傾向が見られます。どこまでAIの判断を容認するかについては、世代間で受け止め方に開きがある実態が示されています。"
+  ],
+  "tags": [
+   "生成AI",
+   "ビジネス",
+   "調査"
+  ],
+  "slug": "change-hd-generative-ai-survey",
+  "people": [],
+  "terms": [
+   {
+    "name": "チェンジホールディングス",
+    "type": "company",
+    "desc": "日本の企業であり、ITを活用した自治体や企業のDX支援などの事業を展開している。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news038.html",
+  "category": "ai_jp",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-change-hd-generative-ai-survey.html"
+ },
+ {
+  "title": "オラクル創業者エリソン氏、最大75億ドル規模の株式売却へ",
+  "lead": "世界有数の大富豪であるオラクル創業者ラリー・エリソン氏が、新たに策定した取引計画に基づき、最大75億ドル相当の自社株を売却する可能性が浮上しました。",
+  "summary3": [
+   "オラクル創業者ラリー・エリソン氏",
+   "最大5000万株の売却が可能な新計画",
+   "売却総額は最大で約75億ドル規模に"
+  ],
+  "body": [
+   "米CNBCなどによると、世界で7番目に裕福な人物として知られるソフトウェア企業オラクルの創業者ラリー・エリソン氏が、新たな取引計画を採択したことが明らかになりました。",
+   "今回の取引計画のもとで、同氏は自身が保有するオラクルの株式を最大で5000万株まで売却することが可能となります。金額に換算すると、最大で約7.5億ドル、日本円にして巨額の株式売却規模となります。",
+   "エリソン氏はオラクルの主要株主であり創業者として長年にわたり同社を率いてきましたが、この新計画に基づく実際の売却動向や今後の保有比率の変化に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Oracle",
+   "ラリー・エリソン",
+   "株式売却"
+  ],
+  "slug": "larry-ellison-7-5-billion-stock-sale",
+  "people": [
+   {
+    "name": "ラリー・エリソン氏",
+    "bio": "世界第7位の資産を持つ大富豪で、ソフトウェア企業オラクルを創業した人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "オラクル",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠を置き、エンタープライズ向けソフトウェアやクラウドサービスを手がける巨大IT企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/11/larry-ellison-50-million-trading-plan.html",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-larry-ellison-7-5-billion-stock-sale.html"
+ },
+ {
+  "title": "インフルエンサーの収入、税務署が不正を見抜く方法",
+  "lead": "ダイヤモンド・オンラインの報道によると、税務署がインフルエンサーの不正や収入を一発で見抜く方法があるといいます。",
+  "summary3": [
+   "インフルエンサーの収入が話題",
+   "税務署が不正を見抜く方法とは",
+   "ダイヤモンド・オンラインが報道"
+  ],
+  "body": [
+   "AI TECH TIMESがお届けする本日のニュースでは、インフルエンサーの収入や税務署の調査に関する話題に注目が集まっています。",
+   "ダイヤモンド・オンラインの報道によれば、インフルエンサーたちの収入や不正を税務署が一発で見抜く方法が存在するということです。",
+   "「そりゃバレるわ」と思わせるようなその手口や詳細について、多くの関心が寄せられています。今後の税務調査の動向にも注目が集まりそうです。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "税務署",
+   "ダイヤモンド・オンライン"
+  ],
+  "slug": "influencer-tax-investigation",
+  "people": [],
+  "terms": [
+   {
+    "name": "ダイヤモンド・オンライン",
+    "type": "company",
+    "desc": "ダイヤモンド社が運営するビジネスパーソン向けの総合経済ニュースサイトです。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RT2R2YTR6czdHOWpaVDRnU2xkVDZjX0xUTkpCQzlfZTBEcktlbHB0UW1Sc0x4RVJkMVpKcG5zZVNzLW5JQnlBSW1rQzlLYTk1S1JRbzJqWmNuUUxfdnhSOEtYYlVzQlR0NWxTaEVHd2dBYXpVM0VONk5sdWRvWUE?oc=5",
+  "category": "influencer",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-influencer-tax-investigation.html"
+ },
+ {
+  "title": "欧州中銀が0.25%利上げ、物価上昇を抑えるねらい",
+  "lead": "ヨーロッパ中央銀行は金融政策を決める理事会を開き、0.25％の利上げを決めました。利上げは2会合ぶりとなります。",
+  "summary3": [
+   "欧州中銀が0.25%の利上げを決定",
+   "利上げは2会合ぶりの実施となる",
+   "イラン情勢とエネルギー価格に懸念"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ヨーロッパ中央銀行は金融政策を決める理事会を開催し、0.25％の利上げを行うことを決定しました。今回の利上げは、2会合ぶりの実施となります。",
+   "背景には、イラン情勢を受けてエネルギー価格が上振れする懸念が高まっていることがあります。こうした状況の中で、ヨーロッパ中央銀行は物価の上昇を抑えたいねらいから、今回の金融引き締め策に踏み切りました。",
+   "今後のエネルギー市場や物価の動向が、ヨーロッパ経済にどのような影響を与えるのか、引き続き金融政策の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "欧州中銀",
+   "金融政策",
+   "経済ニュース"
+  ],
+  "slug": "ecb-rate-hike-0-25-percent",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49617",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-ecb-rate-hike-0-25-percent.html"
+ },
+ {
+  "title": "IEA、ことし石油供給見通しを下方修正",
+  "lead": "IEA（国際エネルギー機関）は、アメリカとイランの対立長期化などを背景に、ことしの石油供給量の見通しを下方修正しました。",
+  "summary3": [
+   "IEAが石油供給見通しを下方修正",
+   "米イラン対立の長期化が主な要因",
+   "中東からの供給回復は来年に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。IEA＝国際エネルギー機関は、アメリカとイランの対立が長期化していることなどを受け、ことしの石油の供給量の見通しを1日当たり1億バレル余りと、先月の予測から下方修正しました。",
+   "今回の予測見直しでは、供給量の引き下げが行われただけでなく、中東の産油国からの供給の回復が来年に持ち越される見通しであることが明らかにされています。",
+   "エネルギー市場や私たちの生活にも影響を与える可能性のある今回の見通し修正について、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "IEA",
+   "石油",
+   "エネルギー"
+  ],
+  "slug": "iea-oil-supply-forecast-revision",
+  "people": [],
+  "terms": [
+   {
+    "name": "IEA",
+    "type": "company",
+    "desc": "各国のエネルギー政策を調整する国際機関であり、石油市場の動向分析や見通しの発表を行っている。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260912de49845",
+  "category": "world",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-iea-oil-supply-forecast-revision.html"
+ },
+ {
+  "title": "日銀、17日から利上げペース速め1.25%程度へ議論へ",
+  "lead": "日本銀行は、物価が大幅に上昇するリスクに対応するため、来週17日から金融政策決定会合を開催し、政策金利を1.25%程度へ引き上げる方向で議論に入ります。",
+  "summary3": [
+   "日銀が17日から金融政策決定会合を開催",
+   "物価の大幅上昇リスクに対応して議論へ",
+   "金利を1%程度から1.25%程度へ引き上げ検討"
+  ],
+  "body": [
+   "日銀は来週17日から金融政策決定会合を開きます。今回の会合では、物価が大幅に上昇するリスクに対応する必要があるとして、利上げのペースを速める方針です。",
+   "具体的には、政策金利をいまの1%程度から1.25%程度へと引き上げる方向で議論が進められる見通しとなっています。"
+  ],
+  "tags": [
+   "日銀",
+   "金融政策",
+   "利上げ"
+  ],
+  "slug": "boj-policy-rate-hike-september",
+  "people": [],
+  "terms": [],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260911de49742",
+  "category": "stock",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-boj-policy-rate-hike-september.html"
+ },
+ {
+  "title": "Sakana AI、SCSK、住友商事の3社がAI社会実装へ包括提携",
+  "lead": "AI開発を手がけるSakana AIとSCSK、住友商事の3社が、AIの社会実装に向けた包括業務提携を締結しました。",
+  "summary3": [
+   "Sakana AIら3社が包括提携",
+   "目的はAIの社会実装の推進",
+   "今後の動向に注目が集まる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Sakana AI、SCSK、住友商事の3社は、AIの社会実装に向けた包括業務提携を締結したと発表しました。",
+   "今回の提携により、各社が持つ技術や知見を持ち寄り、AI技術の社会実装を加速させる狙いがあります。今後の具体的な取り組みや展開については、各社からの発表が注目されます。"
+  ],
+  "tags": [
+   "Sakana AI",
+   "SCSK",
+   "住友商事"
+  ],
+  "slug": "sakana-ai-scsk-sumitomo-corporation-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "Sakana AI",
+    "type": "company",
+    "desc": "日本の人工知能（AI）研究開発スタートアップ企業。"
+   },
+   {
+    "name": "SCSK",
+    "type": "company",
+    "desc": "住友グループの日本の大手システムインテグレーター（情報通信企業）。"
+   },
+   {
+    "name": "住友商事",
+    "type": "company",
+    "desc": "日本を代表する大手総合商社の一つで、国内外で多様な事業を展開する。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQ01yQy1tRkhodWRaZThMX0NSdVJEbllDUFl1dzdIRTcwbDl6X0ZER1B0WGVtQktQZEFaY09WRUQyNFFVZEVHVWxmN3JxQzBwQlRXRzRpdzVGS0M1Rktoc2VBc1Q?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-12",
+  "time": "12:04",
+  "path": "/articles/20260912-sakana-ai-scsk-sumitomo-corporation-partnership.html"
  }
 ]
