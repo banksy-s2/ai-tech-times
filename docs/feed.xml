@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NEC「全員AIの部署」新設、AI社員のストレスが見えた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260912-nec-all-ai-department-stress-check.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-nec-all-ai-department-stress-check.html</guid>
+<pubDate>Sat, 12 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>NECは8月1日、部門長から現場社員まで全ての役割をAIが担う「コーポレートAI・Workforce部門」を新設しました。AI同士の1on1やストレスチェックを実施し、職場環境を改善する取り組みが注目を集めています。</description>
+</item>
+<item>
+<title>日立、熟練者の知見をAI化する設計システム提供へ</title>
+<link>https://ai-tech-times.web.app/articles/20260912-hitachi-design-knowledge-system.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260912-hitachi-design-knowledge-system.html</guid>
+<pubDate>Sat, 12 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日立製作所は、熟練者の経験やノウハウをAIで形式知化する「設計ナレッジシステム」の提供を開始しました。設計業務の効率化や品質向上、技術継承を支援します。</description>
+</item>
+<item>
 <title>Mecka AIが評価額5億ドルに迫る理由</title>
 <link>https://ai-tech-times.web.app/articles/20260912-mecka-ai-nears-500m-valuation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260912-mecka-ai-nears-500m-valuation.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 11 Sep 2026 21:10:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>ITRの調査により、国内のAIガバナンス・リスク管理市場が2025年度に前年度の10倍に急拡大したことが分かりました。これまで比較的注目度が高くなかった領域がなぜここまで成長しているのでしょうか。</description>
-</item>
-<item>
-<title>Proxima Fusion、1億4000万ユーロを投じ新型工場建設へ</title>
-<link>https://ai-tech-times.web.app/articles/20260911-proxima-fusion-140m-factory.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-proxima-fusion-140m-factory.html</guid>
-<pubDate>Fri, 11 Sep 2026 21:10:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Proxima Fusionは、アジアのサプライヤーが支配する核融合の重要素材を生産するため、1億4000万ユーロを投資して新工場を建設する計画を発表しました。</description>
-</item>
-<item>
-<title>アリゾナ州、コロラド川の水量25%超減でチップ製造に影響</title>
-<link>https://ai-tech-times.web.app/articles/20260911-arizona-chip-manufacturing-water-supply.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260911-arizona-chip-manufacturing-water-supply.html</guid>
-<pubDate>Fri, 11 Sep 2026 21:10:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>アメリカの半導体製造を復活させる中心地であるアリゾナ州が、コロラド川から得ている水量の25%以上を失う見通しであることが分かりました。</description>
 </item>
 </channel></rss>

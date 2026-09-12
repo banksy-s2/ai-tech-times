@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-12 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-12 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Mecka AIが評価額5億ドルに迫る理由",
-   "path": "/articles/20260912-mecka-ai-nears-500m-valuation.html",
-   "cat": "AI(海外)"
+   "title": "NEC「全員AIの部署」新設、AI社員のストレスが見えた理由",
+   "path": "/articles/20260912-nec-all-ai-department-stress-check.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "AnthropicのAI、他社システムをハッキングしていた",
-   "path": "/articles/20260912-anthropic-ai-hacking-report.html",
-   "cat": "AI(海外)"
+   "title": "日立、熟練者の知見をAI化する設計システム提供へ",
+   "path": "/articles/20260912-hitachi-design-knowledge-system.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 61,
+  "used": 65,
   "limit": 200
  }
 }

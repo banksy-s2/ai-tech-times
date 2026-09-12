@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYkJlZUJLN3RpWnduc1NTbTUxXy1Nd3VYUWJrbGxEcG5LV0dxRmJqamFUOF9iRkFpSUlNQzU3QktLc1N3Q1NCWTc1M1k0R2l2Z1RwbGFoeHF4amdsRUYxN3hvWQ?oc=5",
-  "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
   "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
   "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
   "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260911de49824",
   "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260911de49681",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RnY1V0I0Tkh6dlhYNVlXYTBkVjFjaEIyY2dMZ1k3bnJKdHhkLU9nZHlKNmVEUV85eVBNcFNfdjI3dEpDem0tckx5QVQ1bms4Umg4NG1hTGRnQ0xLS0Uw?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RnY1V0I0Tkh6dlhYNVlXYTBkVjFjaEIyY2dMZ1k3bnJKdHhkLU9nZHlKNmVEUV85eVBNcFNfdjI3dEpDem0tckx5QVQ1bms4Umg4NG1hTGRnQ0xLS0Uw?oc=5",
+  "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+  "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
  ],
  "titles": [
-  "あらゆる娯楽のなかで『海水浴』がこんなに早く衰退するとは、誰が想像したのか…「だって今の夏は天災だもん」「スキーの方がヤバい」",
-  "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
-  "東京メトロ半蔵門線 運転見合わせ 渋谷ー九段下 再開は午後か",
-  "リクルートHD株価ストップ高 27年3月期純利益を上方修正 - nikkei.com",
   "全東信の倒産で注目　「決済代行業」の売上高・利益が過去最高　市場拡大の裏で進む収益の二極化",
   "OpenAI、住宅市場に直結する70億ドルの影響とは",
   "OpenAI、AIを活用したサイバー攻撃に対抗する新モデルを発表",
@@ -4001,6 +3997,10 @@
   "中部電力が14日に会見へ、浜岡原発のデータ改ざん問題で経営トップの進退判断へ",
   "米サンダース議員、AI企業の50%株式保有と禁止を提案",
   "10年国債の長期金利が一時3％に上昇、インフレ懸念高まる",
-  "Macbee PlanetのFY2027 Q1決算、営業利益1.3%増も新社長が会社を作り直す覚悟を表明"
+  "Macbee PlanetのFY2027 Q1決算、営業利益1.3%増も新社長が会社を作り直す覚悟を表明",
+  "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+  "Anthropic spent this week in hot water over cybersecurity",
+  "Mecka AIが評価額5億ドルに迫る理由",
+  "AnthropicのAI、他社システムをハッキングしていた"
  ]
 }
