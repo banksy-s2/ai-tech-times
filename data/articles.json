@@ -83521,5 +83521,102 @@
   "date": "2026-09-13",
   "time": "07:02",
   "path": "/articles/20260913-workman-xshelter-4million-plan.html"
+ },
+ {
+  "title": "Nscale、IPO見据え元OpenAI幹部Fidji Simo氏を取締役会へ",
+  "lead": "AI TECH TIMESの注目ニュース。Nscaleが新規株式公開（IPO）を見据え、OpenAIで第2の幹部を務めたFidji Simo氏を取締役会に迎えたと発表しました。",
+  "summary3": [
+   "Nscaleが新体制へ移行",
+   "元OpenAI幹部が参加",
+   "将来的なIPOを目指す"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Nscaleは、新規株式公開（IPO）を見据えた動きとして、元OpenAIの幹部であるFidji Simo氏を取締役会に迎えることを発表しました。",
+   "Fidji Simo氏は、OpenAIにおいて第2の幹部としての役割を果たした実績を持ちます。さらに、同氏は2023年にInstacartを率いてIPOを成功に導いた手腕の持ち主としても知られています。",
+   "今回の取締役会への参加は、将来的なIPO実現に向けた重要な布石となります。今後のNscaleの経営戦略や市場での動向に、業界関係者からの高い関心が寄せられています。"
+  ],
+  "tags": [
+   "Nscale",
+   "OpenAI",
+   "IPO"
+  ],
+  "slug": "nscale-adds-fidji-simo-to-board-ahead-of-ipo",
+  "people": [
+   {
+    "name": "Fidji Simo氏",
+    "bio": "OpenAIの第2幹部を務め、2023年にはInstacartを率いてIPOを成功に導いた実力派の経営者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Nscale",
+    "type": "company",
+    "desc": "将来的な新規株式公開（IPO）を見据え、体制強化を進めている注目の企業です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "最先端のAI技術を開発し、世界的な注目を集めているアメリカの人工知能企業です。"
+   },
+   {
+    "name": "Instacart",
+    "type": "company",
+    "desc": "アメリカで食料品のオンライン配達およびピックアップサービスを展開する企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+  "category": "ai",
+  "date": "2026-09-13",
+  "time": "08:00",
+  "path": "/articles/20260913-nscale-adds-fidji-simo-to-board-ahead-of-ipo.html"
+ },
+ {
+  "title": "AnthropicがAI開発のペースを緩める計画を提示",
+  "lead": "米Anthropicの最高経営責任者（CEO）が、最先端AIの開発ペースを緩めるための具体的な計画について言及しました。",
+  "summary3": [
+   "Anthropicが開発抑制の計画提示",
+   "OpenAIと歩調合わせる姿勢",
+   "フロンティアのペース制御が焦点"
+  ],
+  "body": [
+   "AI業界において、開発のスピードをどのように調整すべきかが大きな議論となっています。米Anthropicのダリオ・アモデイCEOと米OpenAIのサム・アルトマンCEOの間では、現在進められている最先端の開発において「ペースを落とす時期に来ている」という点で意見の一致が見られるようです。",
+   "これまでの急速な進化を続けるアプローチから一転して、今後はどのような形で開発の速度を落としていくのか、その具体的なビジョンや実践方法に関心が集まっています。両社のトップが足並みを揃えつつあることで、今後のAI開発のあり方に大きな影響を与える可能性があります。",
+   "AI技術のフロンティアをどのように管理し、制御していくのかという課題に対し、業界をリードする企業がどのような舵取りを行うのかが注目されています。今後の具体的な動向や、業界全体への波及効果について引き続き注視していく必要があります。"
+  ],
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "AI開発"
+  ],
+  "slug": "anthropic-ceo-outlines-plan-to-pace-the-frontier",
+  "people": [
+   {
+    "name": "ダリオ・アモデイCEO",
+    "bio": "米Anthropicの最高経営責任者。AI安全性を重視した研究開発を主導する著名な研究者・経営者。"
+   },
+   {
+    "name": "サム・アルトマンCEO",
+    "bio": "米OpenAIの最高経営責任者。ChatGPTの開発などを通じて現在の生成AIブームを牽引する中心人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI安全性を重視した研究開発企業。生成AIモデルの開発を手がける。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究開発企業。ChatGPTなどを開発し、世界のAI業界をリードする。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+  "category": "ai",
+  "date": "2026-09-13",
+  "time": "08:00",
+  "path": "/articles/20260913-anthropic-ceo-outlines-plan-to-pace-the-frontier.html"
  }
 ]
