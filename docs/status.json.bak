@@ -1,17 +1,65 @@
 {
- "updated": "2026-09-12 11:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-12 12:04",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "MIT Technology Reviewが解説、最先端AIが人類を滅ぼす現実味",
+   "path": "/articles/20260912-mit-tech-review-ai-apocalypse-crisis.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Y Combinatorのギャリー・タン氏、米国製オープンモデルの強化を要請",
+   "path": "/articles/20260912-garry-tan-wants-us-open-weight-ai-labs-to-distill.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "チェンジHD調査：20代はAIに最終判断を任せたい理由",
+   "path": "/articles/20260912-change-hd-generative-ai-survey.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オラクル創業者エリソン氏、最大75億ドル規模の株式売却へ",
+   "path": "/articles/20260912-larry-ellison-7-5-billion-stock-sale.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "インフルエンサーの収入、税務署が不正を見抜く方法",
+   "path": "/articles/20260912-influencer-tax-investigation.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "欧州中銀が0.25%利上げ、物価上昇を抑えるねらい",
+   "path": "/articles/20260912-ecb-rate-hike-0-25-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "IEA、ことし石油供給見通しを下方修正",
+   "path": "/articles/20260912-iea-oil-supply-forecast-revision.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀、17日から利上げペース速め1.25%程度へ議論へ",
+   "path": "/articles/20260912-boj-policy-rate-hike-september.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "Sakana AI、SCSK、住友商事の3社がAI社会実装へ包括提携",
+   "path": "/articles/20260912-sakana-ai-scsk-sumitomo-corporation-partnership.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
-  "title": "American Horror Story: 13 | Official Trailer | FX",
-  "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI"
+  "title": "LISA - SaWaDiKa (Dance Performance Video)",
+  "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
  },
  "notes": [
-  "執筆失敗: 人気VTuber「指定難病、入院は確定、脳の手術の可能性あり」深刻な状況明かしイ"
+  "執筆失敗: 「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルで",
+  "執筆失敗: Roblox is making it easier to build game",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 73,
+  "used": 99,
   "limit": 200
  }
 }

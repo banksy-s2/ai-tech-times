@@ -1,65 +1,26 @@
 {
- "updated": "2026-09-12 12:04",
- "mode": "フル便",
+ "updated": "2026-09-12 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "MIT Technology Reviewが解説、最先端AIが人類を滅ぼす現実味",
-   "path": "/articles/20260912-mit-tech-review-ai-apocalypse-crisis.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Y Combinatorのギャリー・タン氏、米国製オープンモデルの強化を要請",
-   "path": "/articles/20260912-garry-tan-wants-us-open-weight-ai-labs-to-distill.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "チェンジHD調査：20代はAIに最終判断を任せたい理由",
-   "path": "/articles/20260912-change-hd-generative-ai-survey.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "オラクル創業者エリソン氏、最大75億ドル規模の株式売却へ",
-   "path": "/articles/20260912-larry-ellison-7-5-billion-stock-sale.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "インフルエンサーの収入、税務署が不正を見抜く方法",
-   "path": "/articles/20260912-influencer-tax-investigation.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "欧州中銀が0.25%利上げ、物価上昇を抑えるねらい",
-   "path": "/articles/20260912-ecb-rate-hike-0-25-percent.html",
+   "title": "サウジアラビアの東西パイプラインが攻撃を受け、一時操業停止に",
+   "path": "/articles/20260912-saudi-arabia-east-west-pipeline-attacked.html",
    "cat": "時事・世界"
   },
   {
-   "title": "IEA、ことし石油供給見通しを下方修正",
-   "path": "/articles/20260912-iea-oil-supply-forecast-revision.html",
+   "title": "十勝岳が警戒レベル3へ引き上げ、入山規制の理由とは",
+   "path": "/articles/20260912-tokachidake-volcano-alert-level-3.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日銀、17日から利上げペース速め1.25%程度へ議論へ",
-   "path": "/articles/20260912-boj-policy-rate-hike-september.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "Sakana AI、SCSK、住友商事の3社がAI社会実装へ包括提携",
-   "path": "/articles/20260912-sakana-ai-scsk-sumitomo-corporation-partnership.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Dance Performance Video)",
   "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
  },
- "notes": [
-  "執筆失敗: 「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルで",
-  "執筆失敗: Roblox is making it easier to build game",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 99,
+  "used": 103,
   "limit": 200
  }
 }

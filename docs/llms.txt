@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 12:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-12 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [サウジアラビアの東西パイプラインが攻撃を受け、一時操業停止に](https://ai-tech-times.web.app/articles/20260912-saudi-arabia-east-west-pipeline-attacked.html) — 2026-09-12 13:00: サウジアラビア政府は、ホルムズ海峡をう回する重要な原油輸送ルートである東西パイプラインが攻撃を受け、操業を一時停止したと発表しました。
+- [十勝岳が警戒レベル3へ引き上げ、入山規制の理由とは](https://ai-tech-times.web.app/articles/20260912-tokachidake-volcano-alert-level-3.html) — 2026-09-12 13:00: 北海道の大雪山系の十勝岳で火山性地震が増加し、気象台は12日午前9時半に噴火警戒レベルを3に引き上げました。
 - [MIT Technology Reviewが解説、最先端AIが人類を滅ぼす現実味](https://ai-tech-times.web.app/articles/20260912-mit-tech-review-ai-apocalypse-crisis.html) — 2026-09-12 12:04: 世界をリードするAI研究所の従業員の間で、先進的なAIが人類を滅ぼす現実的な可能性があるという指摘がなされています。MIT Technology Reviewが、この議論の真相に迫る座談会の内容を公開しました。
 - [Y Combinatorのギャリー・タン氏、米国製オープンモデルの強化を要請](https://ai-tech-times.web.app/articles/20260912-garry-tan-wants-us-open-weight-ai-labs-to-distill.html) — 2026-09-12 12:04: 米国の有名アクセラレーターであるY Combinatorのギャリー・タン氏が、国内の小規模なオープンウェイトAIラボに対し、最先端モデルの学習手法を取り入れるよう求めています。
 - [チェンジHD調査：20代はAIに最終判断を任せたい理由](https://ai-tech-times.web.app/articles/20260912-change-hd-generative-ai-survey.html) — 2026-09-12 12:04: 生成AIに仕事を任せる範囲について、世代間で大きな違いがあることがチェンジホールディングスの調査で明らかになりました。
@@ -40,8 +42,6 @@
 - [Moonshot AIが年間20億ドル収益を目指す理由と現状](https://ai-tech-times.web.app/articles/20260912-moonshot-ai-targets-2b-revenue.html) — 2026-09-12 07:02: 「Kimi」の開発元として知られるMoonshot AIが、年間20億ドルの収益化を目標に掲げていることが分かりました。OpenRouterのデータでは、K3モデルの利用実績が示されています。
 - [ニューメキシコ州最高裁、AIで作られた証人を提出した弁護士に5,000ドルの罰金](https://ai-tech-times.web.app/articles/20260912-lawyer-fined-5k-over-ai-witnesses.html) — 2026-09-12 07:02: 殺人事件の控訴審において、生成AIが作り出した架空の証人や警察の証言を書類に含めた弁護士に対し、司法処分が下されました。
 - [NVIDIA RTX 5090が100万円超え、なぜ？](https://ai-tech-times.web.app/articles/20260912-rtx-5090-exceeds-one-million-yen.html) — 2026-09-12 07:02: PCパーツの高騰が続く中、グラフィックボード「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれており、さらなる値上げを予告するショップも出てきています。
-- [ChatGPT Workの新機能データ分析とは](https://ai-tech-times.web.app/articles/20260912-chatgpt-work-data-agent.html) — 2026-09-12 07:02: ITmedia AI+より、ChatGPT Workに追加された新しいデータ分析機能についてのニュースをお伝えします。
-- [OpenAIとAnthropicの研究者がAI開発の減速を求める理由](https://ai-tech-times.web.app/articles/20260912-openai-anthropic-ai-safety-slowdown.html) — 2026-09-12 07:02: OpenAIやAnthropicなどの研究者らが、AI開発の減速を求める動きに加わっています。世界中でAIの能力に対する懸念が高まっています。
 
 ## 世界のバズ動画TOP3 (2026-09-12)
 - 1位: [LISA - SaWaDiKa (Dance Performance Video)](https://www.youtube.com/watch?v=J77i-E_0JWg)
