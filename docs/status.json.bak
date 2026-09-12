@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-12 14:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-12 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均1259円安、「三角もちあい」下放れ",
-   "path": "/articles/20260912-nikkei-average-triangle-breakdown.html",
-   "cat": "株式投資(日本)"
+   "title": "SBIホールディングス、リンカーズを持分法適用関連会社化へ",
+   "path": "/articles/20260912-sbi-linkers-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 107,
+  "used": 110,
   "limit": 200
  }
 }
