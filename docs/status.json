@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-12 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-12 14:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "サウジアラビアの東西パイプラインが攻撃を受け、一時操業停止に",
-   "path": "/articles/20260912-saudi-arabia-east-west-pipeline-attacked.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "十勝岳が警戒レベル3へ引き上げ、入山規制の理由とは",
-   "path": "/articles/20260912-tokachidake-volcano-alert-level-3.html",
-   "cat": "時事・世界"
+   "title": "日経平均1259円安、「三角もちあい」下放れ",
+   "path": "/articles/20260912-nikkei-average-triangle-breakdown.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 103,
+  "used": 107,
   "limit": 200
  }
 }
