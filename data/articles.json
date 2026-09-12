@@ -82524,5 +82524,83 @@
   "date": "2026-09-12",
   "time": "18:01",
   "path": "/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html"
+ },
+ {
+  "title": "ホワイトハウスがTruth Socialを世界一と主張した理由",
+  "lead": "米ホワイトハウスが、ドナルド・トランプ氏の所有するTruth Socialを世界で最も強力で人気のソーシャルメディアプラットフォームであると主張しました。",
+  "summary3": [
+   "ホワイトハウスがTruth Socialを世界一と主張",
+   "ニューヨーク・タイムズへの発言で明らかになった",
+   "実際のユーザー数データとは矛盾が生じている"
+  ],
+  "body": [
+   "米ホワイトハウスは、ドナルド・トランプ氏が所有するSNS「Truth Social」について、世界で「最も強力で人気のあるソーシャルメディアプラットフォームである」との見解を示しました。",
+   "この主張は、ホワイトハウスの広報担当者であるデイヴィス・イングル氏がニューヨーク・タイムズ紙に対して提供した声明の中で明らかにされたものです。",
+   "しかし、このホワイトハウスによる主張は、ウェブ上の主要なソーシャルメディアプラットフォームが持つ実際のユーザー数に関するデータとは矛盾している状況です。"
+  ],
+  "tags": [
+   "Truth Social",
+   "ホワイトハウス",
+   "SNS"
+  ],
+  "slug": "white-house-truth-social-popular",
+  "people": [
+   {
+    "name": "ドナルド・トランプ氏",
+    "bio": "アメリカ合衆国の政治家であり、実業家としても知られる著名な人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Truth Social",
+    "type": "company",
+    "desc": "ドナルド・トランプ氏が所有するアメリカ発のソーシャルメディアプラットフォーム。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "19:01",
+  "path": "/articles/20260912-white-house-truth-social-popular.html"
+ },
+ {
+  "title": "人気YouTuberニコラス・ライト、チャンネル削除の危機を告白",
+  "lead": "アニメ関連の反応動画を投稿する人気YouTuberが、自身のチャンネルが削除されるかもしれないと訴える動画を公開し、波紋を呼んでいます。",
+  "summary3": [
+   "人気YouTuberが危機を告白",
+   "コンテンツ全削除の恐れに直面",
+   "著作権者との対立が激化"
+  ],
+  "body": [
+   "「AI TECH TIMES」の海外報道によると、海外の動画投稿プラットフォーム上でアニメ関連の反応動画を制作しているYouTuberのニコラス・ライトが、自身のチャンネルに新たな動画を投稿しました。",
+   "9月6日に公開されたその動画の中で同氏は、自身のコンテンツのすべてがプラットフォームから削除される可能性に直面していると主張しました。",
+   "「私のチャンネルは今日削除される」と不穏なタイトルが付けられた動画において、同氏は著作権の執行を行う側から何らかの措置を受けていると訴えており、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "YouTube",
+   "著作権",
+   "アニメ"
+  ],
+  "slug": "nicholas-light-youtube-copyright-war",
+  "people": [
+   {
+    "name": "ニコラス・ライト",
+    "bio": "アニメ関連の反応動画などを自身のチャンネルに投稿している海外のYouTuber。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "YouTube",
+    "type": "company",
+    "desc": "アメリカのGoogleが運営する、世界最大の動画共有プラットフォームサービス。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+  "category": "silicon",
+  "date": "2026-09-12",
+  "time": "19:01",
+  "path": "/articles/20260912-nicholas-light-youtube-copyright-war.html"
  }
 ]

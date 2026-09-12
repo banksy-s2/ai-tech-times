@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015186811000",
-  "https://toyokeizai.net/articles/-/952782?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWDJOdUFzWm5SV2NCOGk3T3ZjRDh5NWlYTllqM1RpUjd6NlhMWS1TWktHcWtHRy1iNDdPUlpkbVRHVjNDTDJtUWQ1QWV0WUZiTWZfdDNfSk0?oc=5",
   "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PZzIxdWFrN3hpeWlOa0tuT0Y1OTNTcFZrcGJicFB1MXZia0hYWlAyWGxFY0xZeWw5WU1BaVc2SEdUREYweEgw?oc=5",
   "https://gigazine.net/news/20260727-sk-hynix-post-record-profit/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260912de49880",
   "https://news.web.nhk/newsweb/na/nd-20260912de49839",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGeVJRQkVfYTNEQ2R2WHBadFdoRWc3aXVOZjhqTHpUUHMtS2NZZ3pBYWpKRUZWaDdLX3h3OEFQSC1NWVhBVWEwdEtkZzR2cjVhRXhqdU1mbDV4anRyS2RvUQ?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2609/11/news013.html"
+  "https://www.itmedia.co.jp/business/articles/2609/11/news013.html",
+  "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+  "https://www.itmedia.co.jp/news/article/2609/11/2000001392/"
  ],
  "titles": [
-  "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-  "NYダウ最高値更新が示す日経平均10万円超の可能性 - media.rakuten-sec.net",
-  "【ライオン FY2026 Q2 決算説明会】上期事業利益21%増、海外は66%急伸、下期原料高50億円を値上げで打ち返しへ - BigGo ファイナンス",
-  "Metaマーク・ザッカーバーグCEO、AIと人類の未来を語る",
   "シリコンバレー特異なAIバブル、崩壊で庶民に火傷する理由",
   "米シカゴ大学調査：親が子にAIを使わせる理由は「遅れ」？",
   "グーグルの創業者セルゲイ・ブリン氏、資産家課税の反対運動に1億ドルを投じた理由",
@@ -4001,6 +3997,10 @@
   "FRBが金融政策会合へ、トランプ大統領は利下げ要求",
   "フーシ派、紅海の海峡の島を制圧か　原油供給への影響は",
   "アドバンテストが約617円押し下げ、日経平均の大幅反落の背景",
-  "はてな、社員による11億円流出事件の調査報告書を公表"
+  "はてな、社員による11億円流出事件の調査報告書を公表",
+  "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
+  "OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析",
+  "オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明",
+  "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか"
  ]
 }

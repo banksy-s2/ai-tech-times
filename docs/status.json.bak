@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-12 17:06",
- "mode": "フル便",
+ "updated": "2026-09-12 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AI研究者が再帰的自己改善の到達点に迫る議論を展開",
-   "path": "/articles/20260912-ai-researchers-debate-recursive-self-improvement.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "WaymoがAI研究の協調性を変える、その背景とは",
-   "path": "/articles/20260912-waymo-effect-ai-research.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Sakana AIが新モデル発表、AI性能再び世界最高水準へ",
-   "path": "/articles/20260912-sakana-ai-fugu-new-model.html",
+   "title": "オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明",
+   "path": "/articles/20260912-fields-medalists-criticize-ai-math.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Roblox、AIでゲーム制作を容易に",
-   "path": "/articles/20260912-roblox-ai-game-creation-rdc.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "CoinbaseのCEOが断言、米国の暗号資産規制はどう動くのか",
-   "path": "/articles/20260912-coinbase-ceo-crypto-regulation-outlook.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "董光明容疑者、中国で懲役8年の判決",
-   "path": "/articles/20260912-dong-guangming-sentenced-8-years.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "FRBが金融政策会合へ、トランプ大統領は利下げ要求",
-   "path": "/articles/20260912-frb-rate-hike-trump-pressure.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "フーシ派、紅海の海峡の島を制圧か　原油供給への影響は",
-   "path": "/articles/20260912-houthi-seizes-red-sea-island.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アドバンテストが約617円押し下げ、日経平均の大幅反落の背景",
-   "path": "/articles/20260912-nikkei-average-drops-advantest.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "はてな、社員による11億円流出事件の調査報告書を公表",
-   "path": "/articles/20260912-hatena-11-billion-incident.html",
-   "cat": "日本企業"
+   "title": "OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか",
+   "path": "/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "LISA - SaWaDiKa (Dance Performance Video)",
   "url": "https://www.youtube.com/watch?v=J77i-E_0JWg"
  },
- "notes": [
-  "執筆失敗: 数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 133,
+  "used": 139,
   "limit": 200
  }
 }
