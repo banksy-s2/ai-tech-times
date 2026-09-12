@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-12 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-12 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "ホワイトハウスがTruth Socialを世界一と主張した理由",
-   "path": "/articles/20260912-white-house-truth-social-popular.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "人気YouTuberニコラス・ライト、チャンネル削除の危機を告白",
-   "path": "/articles/20260912-nicholas-light-youtube-copyright-war.html",
-   "cat": "シリコンバレー最速"
+   "title": "人気VTuber「指定難病、脳の手術の可能性」でイベント中止",
+   "path": "/articles/20260912-popular-vtuber-announces-event-cancellation.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 145,
+  "used": 149,
   "limit": 200
  }
 }

@@ -5,7 +5,7 @@
    "id": "J77i-E_0JWg",
    "title": "LISA - SaWaDiKa (Dance Performance Video)",
    "channel": "LLOUD Official",
-   "views": 2670163,
+   "views": 2752815,
    "url": "https://www.youtube.com/watch?v=J77i-E_0JWg",
    "thumb": "https://i.ytimg.com/vi/J77i-E_0JWg/hqdefault.jpg",
    "regions": [
@@ -20,7 +20,7 @@
    "id": "gQf4Vya5PbI",
    "title": "American Horror Story: 13 | Official Trailer | FX",
    "channel": "FX Networks",
-   "views": 6527878,
+   "views": 6616503,
    "url": "https://www.youtube.com/watch?v=gQf4Vya5PbI",
    "thumb": "https://i.ytimg.com/vi/gQf4Vya5PbI/hqdefault.jpg",
    "regions": [
@@ -34,7 +34,7 @@
    "id": "nhdh962_ee0",
    "title": "Avatar: Seven Havens | Official Trailer | Paramount+",
    "channel": "Avatar Legends",
-   "views": 3282509,
+   "views": 3297716,
    "url": "https://www.youtube.com/watch?v=nhdh962_ee0",
    "thumb": "https://i.ytimg.com/vi/nhdh962_ee0/hqdefault.jpg",
    "regions": [
@@ -48,7 +48,7 @@
    "id": "h68WUZ8b0O0",
    "title": "Searching for a Vault that Doesn't Exist",
    "channel": "FlameFrags",
-   "views": 2811491,
+   "views": 2851413,
    "url": "https://www.youtube.com/watch?v=h68WUZ8b0O0",
    "thumb": "https://i.ytimg.com/vi/h68WUZ8b0O0/hqdefault.jpg",
    "regions": [
@@ -76,7 +76,7 @@
    "id": "K5SXamqxoio",
    "title": "ENHYPEN (엔하이픈) 'Checkmate' Official MV",
    "channel": "HYBE LABELS",
-   "views": 1205553,
+   "views": 1222022,
    "url": "https://www.youtube.com/watch?v=K5SXamqxoio",
    "thumb": "https://i.ytimg.com/vi/K5SXamqxoio/hqdefault.jpg",
    "regions": [
@@ -87,60 +87,60 @@
    "comment": "ENHYPENの新曲「Checkmate」公式MVが公開されたようです。(29字)"
   },
   {
+   "id": "S4jPijqN6RI",
+   "title": "Golden Brown",
+   "channel": "Luke Muzzic - Topic",
+   "views": 1010116,
+   "url": "https://www.youtube.com/watch?v=S4jPijqN6RI",
+   "thumb": "https://i.ytimg.com/vi/S4jPijqN6RI/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "BR"
+   ],
+   "rank": 7,
+   "comment": "Luke Muzzicさんの楽曲「Golden Brown」が公開されているようです。"
+  },
+  {
    "id": "cNU5nYxHuYI",
    "title": "A Game About Chopping Trees",
    "channel": "jacksepticeye",
-   "views": 811012,
+   "views": 821124,
    "url": "https://www.youtube.com/watch?v=cNU5nYxHuYI",
    "thumb": "https://i.ytimg.com/vi/cNU5nYxHuYI/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 7,
+   "rank": 8,
    "comment": "jacksepticeyeさんによる木を切り倒すゲームの実況のようです"
   },
   {
    "id": "i5bSlwUbxyc",
    "title": "Stranded on ELEMENTAL NINJA Islands! (Minecraft)",
    "channel": "Cash",
-   "views": 806949,
+   "views": 820520,
    "url": "https://www.youtube.com/watch?v=i5bSlwUbxyc",
    "thumb": "https://i.ytimg.com/vi/i5bSlwUbxyc/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "Cashさんによるマインクラフトの忍者島サバイバル企画のようです"
   },
   {
    "id": "QArBw68H-_Q",
    "title": "Jhené Aiko - So Good feat. Kendrick Lamar (Official Audio)",
    "channel": "Jhené Aiko",
-   "views": 749262,
+   "views": 756970,
    "url": "https://www.youtube.com/watch?v=QArBw68H-_Q",
    "thumb": "https://i.ytimg.com/vi/QArBw68H-_Q/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "ジェネイ・アイコとケンドリック・ラマーの楽曲公式オーディオ (27字)"
-  },
-  {
-   "id": "lhCPiauHI-g",
-   "title": "Lord Verity - Master of Humanity (song)",
-   "channel": "Horror Skunx",
-   "views": 477657,
-   "url": "https://www.youtube.com/watch?v=lhCPiauHI-g",
-   "thumb": "https://i.ytimg.com/vi/lhCPiauHI-g/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "ホラー・スカンクスによる楽曲「マスター・オブ・ヒューマニティ」が公開中。"
+   "comment": "ジェネイ・アイコとケンドリック・ラマーの楽曲公式オーディオ (27字)"
   }
  ],
  "covered": [
@@ -152,7 +152,6 @@
   "IN"
  ],
  "comment_cache": {
-  "M8nHySkLb64": "Apple TVによる「Last Seen」公式予告編のようです。",
   "UdoR4R_5El0": "KATSEYEの「Animal」別バージョン映像のようです。",
   "-F-XHYgxy9A": "KaiCenatを迎えたマインクラフトハードコアのボス討伐配信の様子",
   "ys7l2Rr9r1c": "KaiとSpeedによるマインクラフトハードコアのマラソン配信の様子",
@@ -451,6 +450,7 @@
   "cNU5nYxHuYI": "jacksepticeyeさんによる木を切り倒すゲームの実況のようです",
   "GpsX1d-iMlY": "LE SSERAFIMの新曲「Made My Night」の音声トラック動画ようですね。",
   "lhCPiauHI-g": "ホラー・スカンクスによる楽曲「マスター・オブ・ヒューマニティ」が公開中。",
-  "FM8Fg9i9xhw": "豪華メンバーによるゲームのライブ配信のようです"
+  "FM8Fg9i9xhw": "豪華メンバーによるゲームのライブ配信のようです",
+  "S4jPijqN6RI": "Luke Muzzicさんの楽曲「Golden Brown」が公開されているようです。"
  }
 }
