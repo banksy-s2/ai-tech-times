@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [東京株1259円安：原油高でハイテク株が大幅下落](https://ai-tech-times.web.app/articles/20260913-tokyo-stock-decline-oil-prices.html) — 2026-09-13 05:00: 東京株式市場は、原油高の影響を受けて売り注文が広がり、ハイテク株が大幅安となりました。下落幅は1259円安を記録しています。
 - [習近平主席、インド訪問で中印首脳会談へ](https://ai-tech-times.web.app/articles/20260913-brics-summit-xi-jinping-india.html) — 2026-09-13 04:00: 中国やロシアなどが加盟するBRICSの首脳会議が12日からインドで開幕し、中国の習近平国家主席が会議に合わせてインドを訪問しました。
 - [韓国軍、北朝鮮の短距離弾道ミサイル発射を発表 日米韓訓練に反発か](https://ai-tech-times.web.app/articles/20260913-north-korea-missile-launch-2026-09.html) — 2026-09-13 04:00: 韓国軍は、北朝鮮が12日午前、日本海に向けて短距離弾道ミサイルを数回発射したと発表しました。日米韓3か国による共同訓練への反発とみられています。
 - [単身者が賃貸住宅を借りられない理由は](https://ai-tech-times.web.app/articles/20260913-single-housing-risk.html) — 2026-09-13 03:58: 賃貸住宅への入居を断られ、追い詰められる単身者が相次いでいます。経済力や健康状態に問題がなくても直面する住まいのリスクについて、NHKのクローズアップ現代が伝えています。
@@ -41,12 +42,11 @@
 - [人気YouTuberニコラス・ライト、チャンネル削除の危機を告白](https://ai-tech-times.web.app/articles/20260912-nicholas-light-youtube-copyright-war.html) — 2026-09-12 19:01: アニメ関連の反応動画を投稿する人気YouTuberが、自身のチャンネルが削除されるかもしれないと訴える動画を公開し、波紋を呼んでいます。
 - [オープンAIの数学難問解決にフィールズ賞受賞者25人が非難声明](https://ai-tech-times.web.app/articles/20260912-fields-medalists-criticize-ai-math.html) — 2026-09-12 18:01: 人工知能を使った数学の難問解決の動きに対し、フィールズ賞を受賞した数学者25人が緊急声明を公表しました。
 - [OpenAIの金融AI、なぜ最新モデルで財務分析を効率化できるのか](https://ai-tech-times.web.app/articles/20260912-openai-chatgpt-financial-services-gpt6-astra.html) — 2026-09-12 18:01: OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表しました。最新モデル「GPT-6 Astra」を基盤とし、財務分析や資料作成を強力に支援します。
-- [AI研究者が再帰的自己改善の到達点に迫る議論を展開](https://ai-tech-times.web.app/articles/20260912-ai-researchers-debate-recursive-self-improvement.html) — 2026-09-12 17:06: AI/LLM分野の最新動向をめぐり、AI研究者たちが再帰的自己改善にどれほど近づいているのかについて議論を交わしています。
 
 ## 世界のバズ動画TOP3 (2026-09-13)
-- 1位: [LISA - SaWaDiKa (Dance Performance Video)](https://www.youtube.com/watch?v=J77i-E_0JWg)
-- 2位: [Genshin Impact Version 7.1 Special Program #StoriesofFrostSnow #GenshinSnezhnaya #SpecialProgram](https://www.youtube.com/watch?v=fSwBYIeAieo)
-- 3位: [skibidi toilet 81](https://www.youtube.com/watch?v=S8H0WLmtuCE)
+- 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
+- 2位: [skibidi toilet 81](https://www.youtube.com/watch?v=S8H0WLmtuCE)
+- 3位: [Happy Journey - Trailer | Shekar Chandra | Annapurna, Aamani, Jhansi, Vamsi](https://www.youtube.com/watch?v=kV-OatLEFi4)
 
 ## AI用語事典 (全1441語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。

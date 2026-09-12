@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-13 03:58",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-13 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "単身者が賃貸住宅を借りられない理由は",
-   "path": "/articles/20260913-single-housing-risk.html",
-   "cat": "インフルエンサー"
+   "title": "習近平主席、インド訪問で中印首脳会談へ",
+   "path": "/articles/20260913-brics-summit-xi-jinping-india.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "韓国軍、北朝鮮の短距離弾道ミサイル発射を発表 日米韓訓練に反発か",
+   "path": "/articles/20260913-north-korea-missile-launch-2026-09.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }
