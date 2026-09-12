@@ -82038,5 +82038,39 @@
   "date": "2026-09-12",
   "time": "13:00",
   "path": "/articles/20260912-tokachidake-volcano-alert-level-3.html"
+ },
+ {
+  "title": "日経平均1259円安、「三角もちあい」下放れ",
+  "lead": "日経平均株価が1259円安と大きく下落し、チャート上の「三角もちあい」を下放れる展開となりました。市場では一段の下落を示唆するのではないかと警戒感が高まっています。",
+  "summary3": [
+   "日経平均が1259円安と大幅下落",
+   "「三角もちあい」を下放れる展開",
+   "一段の下落を示唆するか注目"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、日経平均株価は1259円安の大幅な下落を記録しました。株式市場においてテクニカル分析上の節目とされる「三角もちあい」を下放れる動きとなっており、市場関係者の間で今後の動向に対する関心が集まっています。",
+   "「三角もちあい」とは、株価の値幅が徐々に狭まりながら上下に推移する保ち合いのパターンのひとつです。今回の下放れについては、チャート上において一段の下落を示唆するサインではないかとの見方が示されています。",
+   "今後の市場展開や経済への影響について、引き続き慎重な値動きの監視が必要とされています。投資家の間では、さらなる相場の変動に対する警戒感が広がっている状況です。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-triangle-breakdown",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした報道を行う大手日刊新聞およびそのメディア事業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FSzFjLU5DTHBkVDJjRFhGOFBuVEwyRkFjVG0tRi1zVlRZcjd4YlVPaFg3b2Y3dGpwdmdZSzh0d3Q1X3JvaVpMekIzWUNwRVRkcFF3eUVWaVctNmR4MVpyS0RvWi05ZUppMXNrVA?oc=5",
+  "category": "stock",
+  "date": "2026-09-12",
+  "time": "14:00",
+  "path": "/articles/20260912-nikkei-average-triangle-breakdown.html"
  }
 ]

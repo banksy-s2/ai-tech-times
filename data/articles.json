@@ -82072,5 +82072,44 @@
   "date": "2026-09-12",
   "time": "14:00",
   "path": "/articles/20260912-nikkei-average-triangle-breakdown.html"
+ },
+ {
+  "title": "SBIホールディングス、リンカーズを持分法適用関連会社化へ",
+  "lead": "SBIホールディングスは、リンカーズ株式会社との資本業務提携及び第三者割当増資引受けによる同社株式取得を発表しました。",
+  "summary3": [
+   "SBIHDがリンカーズと資本業務提携",
+   "第三者割当増資により株式を取得",
+   "リンカーズを持分法適用関連会社化"
+  ],
+  "body": [
+   "SBIホールディングス株式会社は、2026年9月11日に適時開示された情報において、リンカーズ株式会社との資本業務提携および第三者割当増資引受けによる同社株式の取得に関するお知らせを発表しました。",
+   "今回の株式取得により、リンカーズ株式会社はSBIホールディングスの持分法適用関連会社となります。両社間での資本業務提携を通じて、今後の事業展開や連携が進められる予定です。",
+   "本件に関する詳細な発表内容や今後の展開については、適時開示情報および各社の続報をご確認ください。"
+  ],
+  "tags": [
+   "SBIホールディングス",
+   "リンカーズ",
+   "資本業務提携"
+  ],
+  "slug": "sbi-linkers-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "SBIホールディングス",
+    "type": "company",
+    "desc": "ネット金融大手として証券や銀行、保険などを展開する日本の持株会社。"
+   },
+   {
+    "name": "リンカーズ株式会社",
+    "type": "company",
+    "desc": "製造業のビジネスマッチングや、企業のオープンイノベーションを支援する企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTdvSGFpdm1ITk1QOWdLTk5yR3RZNEowTDVsLXZZWGVHRW84dVB2clVCLVBLeS1NN1BaUlJpekxZVkZuYUVMZWx6cU0yd3Q2Z0FvZGhJd2N5aHZpeDEzbVMzenR4RWs3RWJzLWFMZVBxMmVXUFJMRlNmWlh1eUxJNjNRWnNVVjBxTlg4cU84Nlc2ZHV4cjBsNkRVQXo1Vm13SnJxOW4yUHd0WnVEQzhQTVJnQ2dZZDZwckdibTN2NEF2X3U2ak92UEdaM1I?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-12",
+  "time": "15:00",
+  "path": "/articles/20260912-sbi-linkers-capital-business-alliance.html"
  }
 ]
