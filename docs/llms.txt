@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 18:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 19:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI年内IPO見送りとAI開発の警戒](https://ai-tech-times.web.app/articles/20260913-openai-rules-out-ipo-and-ai-warnings.html) — 2026-09-13 19:01: オープンAIが今年の株式公開（IPO）を見送る方針を示しました。トップらがAI開発のスピードが早すぎると警告を発しています。
+- [CNBC Techが報じる、住宅不足に挑む建設ロボットの現実](https://ai-tech-times.web.app/articles/20260913-housing-shortage-home-construction-robots.html) — 2026-09-13 19:01: アメリカの住宅市場で深刻化する住宅不足と人手不足に対し、建設ロボットの実用化が進んでいます。一方で、人型ロボットによる住宅建築はまだ実現していません。
 - [Gartner予測：AI解雇の3割が再雇用に](https://ai-tech-times.web.app/articles/20260913-gartner-ai-layoffs-rehire-prediction.html) — 2026-09-13 18:00: 生成AIやAIエージェントの導入が広がる中、GartnerがAIの仕事の未来に関する予測を発表しました。
 - [Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方](https://ai-tech-times.web.app/articles/20260913-firefox-local-translation-features.html) — 2026-09-13 18:00: Google翻訳などの外部サービスを使わず、プライバシーを守りながら翻訳できるFirefoxの機能が注目を集めています。
 - [ツァイスがAI半導体で売上高2.2倍、老舗光学メーカーの躍進](https://ai-tech-times.web.app/articles/20260913-zeiss-ai-semiconductor-growth.html) — 2026-09-13 17:04: ドイツの光学機器メーカー、カール・ツァイスが人工知能（AI）半導体の量産に欠かせない超精密レンズで売上高を2.2倍に伸ばしています。東西分断の歴史を乗り越えた同社の躍進の背景に迫ります。
@@ -40,15 +42,13 @@
 - [安野貴博が語るAGI競争の現場とAI研究者の賞味期限](https://ai-tech-times.web.app/articles/20260913-takahiro-anno-agi-competition.html) — 2026-09-13 12:01: シリコンバレーでAI関係者15人に取材を実施。AGI競争の終盤戦が進む現地のリアルな状況が明らかになりました。
 - [アンソロピックCEO、AI開発の減速を訴え](https://ai-tech-times.web.app/articles/20260913-anthropic-ceo-warns-ai-threat.html) — 2026-09-13 12:01: 米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、AIによる脅威が高まっているとして、最開発の減速を呼びかけました。
 - [Blizzard、名作『StarCraft』オープンワールドシューターとして再始動へ](https://ai-tech-times.web.app/articles/20260913-starcraft-returns-as-open-world-shooter.html) — 2026-09-13 12:01: 海外メディアのThe Vergeによると、かつて開発中止となった『StarCraft』の3Dシューター企画が、オープンワールドシューターとして再び始動することが明らかになりました。
-- [Unitreeの4,000ドル中国製ロボット犬を購入した理由](https://ai-tech-times.web.app/articles/20260913-unitree-robot-dog-purchase.html) — 2026-09-13 12:01: 中国のロボット企業Unitreeの製品を購入した体験談から、同社が世界で最も重要なロボット企業である理由を探ります。
-- [「ぽこピー」竜とそばかすの姫出演決定、VTuberオーディション経て](https://ai-tech-times.web.app/articles/20260913-pokope-dragon-and-freckled-princess.html) — 2026-09-13 12:01: 「ぽこピー」の2人が、「竜とそばかすの姫 - PROJECT LAYRA - 」への出演が決定したことを発表しました。VTuberを対象としたオーディションを経ての出演となります。
 
 ## 世界のバズ動画TOP3 (2026-09-13)
 - 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
 - 2位: [I Didn't See This Coming..](https://www.youtube.com/watch?v=67Mln_OqFGM)
-- 3位: [Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026](https://www.youtube.com/watch?v=h5dwH7nx9do)
+- 3位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
 
-## AI用語事典 (全1466語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1468語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。

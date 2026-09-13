@@ -84578,5 +84578,82 @@
   "date": "2026-09-13",
   "time": "18:00",
   "path": "/articles/20260913-firefox-local-translation-features.html"
+ },
+ {
+  "title": "OpenAI年内IPO見送りとAI開発の警戒",
+  "lead": "オープンAIが今年の株式公開（IPO）を見送る方針を示しました。トップらがAI開発のスピードが早すぎると警告を発しています。",
+  "summary3": [
+   "オープンAIが年内のIPO見送りを表明",
+   "AI開発が早すぎるとの警告が相次ぐ",
+   "慎重なペース調整を求める声が高まる"
+  ],
+  "body": [
+   "CNBC Techの報道によると、オープンAIは今年の株式公開（IPO）を見送る方針を明らかにしました。これは、AI開発の進展が急速すぎるという懸念が強まる中で発表されたものです。",
+   "今週は、オープンAIのアルトマン氏や、アモデイ氏らがAI開発のペースをより慎重にするよう公に呼びかけるなど、AIの急速な進化に対する警告が相次ぎました。",
+   "開発のスピードをめぐる議論が活発化する中、急ピッチで進むAI技術の進化に対する業界全体の警戒感が高まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "IPO",
+   "AI開発"
+  ],
+  "slug": "openai-rules-out-ipo-and-ai-warnings",
+  "people": [
+   {
+    "name": "アルトマン氏",
+    "bio": "対話型AIなどを手掛けるオープンAIの最高経営責任者であり、AI業界の動向を牽引する中心人物。"
+   },
+   {
+    "name": "アモデイ氏",
+    "bio": "AI開発企業アンソロピックの最高経営責任者であり、安全性に配慮したAI研究を主導している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、生成AIや大規模言語モデルの開発で世界をリードする最先端のAI企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+  "category": "silicon",
+  "date": "2026-09-13",
+  "time": "19:01",
+  "path": "/articles/20260913-openai-rules-out-ipo-and-ai-warnings.html"
+ },
+ {
+  "title": "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実",
+  "lead": "アメリカの住宅市場で深刻化する住宅不足と人手不足に対し、建設ロボットの実用化が進んでいます。一方で、人型ロボットによる住宅建築はまだ実現していません。",
+  "summary3": [
+   "アメリカの住宅市場で不足が深刻化",
+   "建設ロボットが住宅建築で活躍中",
+   "人型ロボットの導入はまだ先の話"
+  ],
+  "body": [
+   "アメリカの住宅市場では現在、住宅の在庫不足と労働者不足が大きな課題となっており、住宅の手頃な価格での購入に深刻な圧力がかかっています。この状況を打破するため、現場では建設ロボットの導入が現実のものとなっています。",
+   "しかし、メディアのCNBC Techが報じたところによると、現時点で活躍しているのは特定の作業に特化した建設ロボットであり、人間の代わりにあらゆる作業をこなす人型ロボットによる家づくりは、まだ遠い未来の課題となっています。",
+   "住宅の供給不足と人手不足という難題を解決するため、ロボット技術の活用は今後も不可欠ですが、SF映画に登場するような人型ホームビルダーの登場には、まだ時間を要するのが現状です。"
+  ],
+  "tags": [
+   "ロボット",
+   "住宅市場",
+   "アメリカ"
+  ],
+  "slug": "housing-shortage-home-construction-robots",
+  "people": [],
+  "terms": [
+   {
+    "name": "CNBC Tech",
+    "type": "company",
+    "desc": "アメリカの主要経済ニュース局CNBCが運営する、テクノロジー分野に特化したニュースメディア。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+  "category": "silicon",
+  "date": "2026-09-13",
+  "time": "19:01",
+  "path": "/articles/20260913-housing-shortage-home-construction-robots.html"
  }
 ]

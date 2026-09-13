@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-13 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-13 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Gartner予測：AI解雇の3割が再雇用に",
-   "path": "/articles/20260913-gartner-ai-layoffs-rehire-prediction.html",
-   "cat": "日本のAI"
+   "title": "OpenAI年内IPO見送りとAI開発の警戒",
+   "path": "/articles/20260913-openai-rules-out-ipo-and-ai-warnings.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方",
-   "path": "/articles/20260913-firefox-local-translation-features.html",
-   "cat": "日本のAI"
+   "title": "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実",
+   "path": "/articles/20260913-housing-shortage-home-construction-robots.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 125,
+  "used": 129,
   "limit": 200
  }
 }
