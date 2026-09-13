@@ -2,26 +2,10 @@
  "date": "2026-09-13",
  "videos": [
   {
-   "id": "GxCN_AKYtts",
-   "title": "Diablo V Teaser",
-   "channel": "Diablo",
-   "views": 309490,
-   "url": "https://www.youtube.com/watch?v=GxCN_AKYtts",
-   "thumb": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "KR",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "ダイアブロVのティーザー映像が公開されているようです。(26字)"
-  },
-  {
    "id": "kJu5VMN3yow",
    "title": "I Survived 100 Days on One Block",
    "channel": "MrBeast Gaming",
-   "views": 7921123,
+   "views": 8422326,
    "url": "https://www.youtube.com/watch?v=kJu5VMN3yow",
    "thumb": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
    "regions": [
@@ -29,14 +13,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "ワンブロックでの100日生存に挑戦した様子が描かれているようです。(29字)"
   },
   {
    "id": "67Mln_OqFGM",
    "title": "I Didn't See This Coming..",
    "channel": "Asmongold TV  ",
-   "views": 713122,
+   "views": 866333,
    "url": "https://www.youtube.com/watch?v=67Mln_OqFGM",
    "thumb": "https://i.ytimg.com/vi/67Mln_OqFGM/hqdefault.jpg",
    "regions": [
@@ -44,14 +28,14 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "予想外の展開に驚かされるゲーム系動画のようです"
   },
   {
    "id": "uQuKE0KDgiM",
    "title": "World of Warcraft: Forever | Gameplay Trailer",
    "channel": "World of Warcraft",
-   "views": 580817,
+   "views": 684150,
    "url": "https://www.youtube.com/watch?v=uQuKE0KDgiM",
    "thumb": "https://i.ytimg.com/vi/uQuKE0KDgiM/hqdefault.jpg",
    "regions": [
@@ -59,14 +43,29 @@
     "GB",
     "BR"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "新しいゲームプレイ映像が公開されたようです"
+  },
+  {
+   "id": "GxCN_AKYtts",
+   "title": "Diablo V Teaser",
+   "channel": "Diablo",
+   "views": 359479,
+   "url": "https://www.youtube.com/watch?v=GxCN_AKYtts",
+   "thumb": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "rank": 4,
+   "comment": "ダイアブロVのティーザー映像が公開されているようです。(26字)"
   },
   {
    "id": "J77i-E_0JWg",
    "title": "LISA - SaWaDiKa (Dance Performance Video)",
    "channel": "LLOUD Official",
-   "views": 4369844,
+   "views": 4392452,
    "url": "https://www.youtube.com/watch?v=J77i-E_0JWg",
    "thumb": "https://i.ytimg.com/vi/J77i-E_0JWg/hqdefault.jpg",
    "regions": [
@@ -80,7 +79,7 @@
    "id": "lU40CPN7Ww0",
    "title": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
    "channel": "Saregama Tamil",
-   "views": 3103755,
+   "views": 3174901,
    "url": "https://www.youtube.com/watch?v=lU40CPN7Ww0",
    "thumb": "https://i.ytimg.com/vi/lU40CPN7Ww0/hqdefault.jpg",
    "regions": [
@@ -94,7 +93,7 @@
    "id": "lhCPiauHI-g",
    "title": "Lord Verity - Master of Humanity (song)",
    "channel": "Horror Skunx",
-   "views": 1090916,
+   "views": 1108815,
    "url": "https://www.youtube.com/watch?v=lhCPiauHI-g",
    "thumb": "https://i.ytimg.com/vi/lhCPiauHI-g/hqdefault.jpg",
    "regions": [
@@ -108,7 +107,7 @@
    "id": "h5dwH7nx9do",
    "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
    "channel": "PlayOverwatch",
-   "views": 796666,
+   "views": 880531,
    "url": "https://www.youtube.com/watch?v=h5dwH7nx9do",
    "thumb": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
    "regions": [
@@ -122,7 +121,7 @@
    "id": "9eQUtOQXYgQ",
    "title": "STARCRAFT | Announce Cinematic | Dominion",
    "channel": "StarCraft",
-   "views": 670527,
+   "views": 790830,
    "url": "https://www.youtube.com/watch?v=9eQUtOQXYgQ",
    "thumb": "https://i.ytimg.com/vi/9eQUtOQXYgQ/hqdefault.jpg",
    "regions": [
@@ -133,18 +132,18 @@
    "comment": "スタークラフトの新しいシネマティック映像のようです"
   },
   {
-   "id": "MlK51uNxc-A",
-   "title": "Law And Order - Trailer | L&O | Prakash Varma, Abhirami | Ranjith",
-   "channel": "Sony Music Malayalam",
-   "views": 481061,
-   "url": "https://www.youtube.com/watch?v=MlK51uNxc-A",
-   "thumb": "https://i.ytimg.com/vi/MlK51uNxc-A/hqdefault.jpg",
+   "id": "c2-9YLaWXmE",
+   "title": "This is NOT The Fall Guys I Remember...",
+   "channel": "SMii7Y",
+   "views": 563574,
+   "url": "https://www.youtube.com/watch?v=c2-9YLaWXmE",
+   "thumb": "https://i.ytimg.com/vi/c2-9YLaWXmE/hqdefault.jpg",
    "regions": [
-    "GB",
-    "IN"
+    "US",
+    "GB"
    ],
    "rank": 10,
-   "comment": "Prakash Varma監督らによるLaw And Orderの予告編映像のようです。"
+   "comment": "見覚えのあるFall Guysとは違うゲームのようです。"
   }
  ],
  "covered": [
@@ -156,7 +155,6 @@
   "IN"
  ],
  "comment_cache": {
-  "1OYU38dGlBI": "何かの配信に関する驚きの内容を扱っているようです。",
   "ZyZb2dFYqQs": "風船が地面に触れると死ぬというゲームの企画のようです。",
   "rkV7--wYUJ8": "映画『Awarapan 2』の楽曲の歌詞付き動画のようです。",
   "39xPz1L-aEY": "かくれんぼで銃を使ってズルをする企画のようです。",
@@ -455,6 +453,7 @@
   "uQuKE0KDgiM": "新しいゲームプレイ映像が公開されたようです",
   "ducfD9D4-HA": "有名マインクラフトのモンスターの足跡を発見したらしい (29文字)",
   "67Mln_OqFGM": "予想外の展開に驚かされるゲーム系動画のようです",
-  "9eQUtOQXYgQ": "スタークラフトの新しいシネマティック映像のようです"
+  "9eQUtOQXYgQ": "スタークラフトの新しいシネマティック映像のようです",
+  "c2-9YLaWXmE": "見覚えのあるFall Guysとは違うゲームのようです。"
  }
 }

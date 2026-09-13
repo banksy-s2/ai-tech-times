@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-13 11:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日本テレビ系「アメリカ横断ウルトラクイズ」28年ぶり復活、櫻井翔が新MCで開幕](https://ai-tech-times.web.app/articles/20260913-ultra-quiz-revival-sakurai-shou.html) — 2026-09-13 11:01: 誕生50周年を記念して28年ぶりに復活する日本テレビ系「アメリカ横断ウルトラクイズ」の国内1次予選が開催され、新たな歴史の幕が開きました。
 - [イーロン・マスク氏が先端AIの開発ペース鈍化を支持、なぜ賛同したのか](https://ai-tech-times.web.app/articles/20260913-elon-musk-backs-dario-amodei-pacing.html) — 2026-09-13 10:00: 米主要AIラボの幹部らが、最先端の人工知能開発のペースを落とすよう求めている問題で、イーロン・マスク氏が賛同の意を示しました。
 - [Revolutが顧客データ流出、偽の政府要請で何が起きたか](https://ai-tech-times.web.app/articles/20260913-revolut-confirms-customer-data-breach.html) — 2026-09-13 10:00: 人気フィンテック企業のRevolutが、偽の政府要請によって顧客データが流出したことを認める発表を行いました。影響を受けた顧客や関係機関への対応が進められています。
 - [ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策](https://ai-tech-times.web.app/articles/20260913-ai-coding-cost-tokens.html) — 2026-09-13 09:01: 生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増に企業が悩まされています。浪費の原因と現場で取り組める対策を探ります。
@@ -41,14 +42,13 @@
 - [積水ハウスなどの決算プラス・インパクト銘柄を発表](https://ai-tech-times.web.app/articles/20260913-prime-market-earnings-impact-september.html) — 2026-09-13 06:00: AI TECH TIMESの編集部がお伝えする株式市場ニュースです。9月4日から10日に発表された決算について、東証プライムにおけるプラス・インパクト銘柄が明らかになりました。
 - [東京株1259円安：原油高でハイテク株が大幅下落](https://ai-tech-times.web.app/articles/20260913-tokyo-stock-decline-oil-prices.html) — 2026-09-13 05:00: 東京株式市場は、原油高の影響を受けて売り注文が広がり、ハイテク株が大幅安となりました。下落幅は1259円安を記録しています。
 - [習近平主席、インド訪問で中印首脳会談へ](https://ai-tech-times.web.app/articles/20260913-brics-summit-xi-jinping-india.html) — 2026-09-13 04:00: 中国やロシアなどが加盟するBRICSの首脳会議が12日からインドで開幕し、中国の習近平国家主席が会議に合わせてインドを訪問しました。
-- [韓国軍、北朝鮮の短距離弾道ミサイル発射を発表 日米韓訓練に反発か](https://ai-tech-times.web.app/articles/20260913-north-korea-missile-launch-2026-09.html) — 2026-09-13 04:00: 韓国軍は、北朝鮮が12日午前、日本海に向けて短距離弾道ミサイルを数回発射したと発表しました。日米韓3か国による共同訓練への反発とみられています。
 
 ## 世界のバズ動画TOP3 (2026-09-13)
-- 1位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
-- 2位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
-- 3位: [I Didn't See This Coming..](https://www.youtube.com/watch?v=67Mln_OqFGM)
+- 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
+- 2位: [I Didn't See This Coming..](https://www.youtube.com/watch?v=67Mln_OqFGM)
+- 3位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
 
-## AI用語事典 (全1452語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1455語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
