@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-13 12:01",
- "mode": "フル便",
+ "updated": "2026-09-13 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "エヌビディアはAIの中央銀行なのか？エコノミスト誌の分析",
-   "path": "/articles/20260913-nvidia-is-the-central-bank-of-ai.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "非公開の実世界コードでAIを評価する「Real-SWE」登場",
-   "path": "/articles/20260913-real-swe-benchmarking-ai-models.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "安野貴博が語るAGI競争の現場とAI研究者の賞味期限",
-   "path": "/articles/20260913-takahiro-anno-agi-competition.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "アンソロピックCEO、AI開発の減速を訴え",
-   "path": "/articles/20260913-anthropic-ceo-warns-ai-threat.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Blizzard、名作『StarCraft』オープンワールドシューターとして再始動へ",
-   "path": "/articles/20260913-starcraft-returns-as-open-world-shooter.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Unitreeの4,000ドル中国製ロボット犬を購入した理由",
-   "path": "/articles/20260913-unitree-robot-dog-purchase.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "「ぽこピー」竜とそばかすの姫出演決定、VTuberオーディション経て",
-   "path": "/articles/20260913-pokope-dragon-and-freckled-princess.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "ゼレンスキー大統領、ロシア首脳会談に前向き",
-   "path": "/articles/20260913-zelenskyy-russia-summit-g20.html",
+   "title": "北口榛花が68m92の日本新記録で優勝、なぜ世界の強豪制したのか",
+   "path": "/articles/20260913-kitaguchi-haruka-javelin-record.html",
    "cat": "時事・世界"
   },
   {
-   "title": "トランプ大統領「統一アイルランド見たい」発言で英国から非難",
-   "path": "/articles/20260913-trump-ireland-unification-statement.html",
+   "title": "クライメート・セントラル：世界の海面水温が過去最高を100日連続で更新",
+   "path": "/articles/20260913-ocean-surface-temperature-record.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "オラクル決算発表で緑から赤へ大逆転",
-   "path": "/articles/20260913-oracle-earnings-results.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [
-  "執筆失敗: 高市早苗政権、長期金利上昇は「国際的流れ」　主張を覆う日本のリスク - 日本経済",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 88,
+  "used": 92,
   "limit": 200
  }
 }
