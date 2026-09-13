@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic CEOがAI開発の減速を提唱、その理由は</title>
+<link>https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI開発企業AnthropicのCEOが、AIの急速な開発をペースダウンさせる時機が来たと主張しました。安全性の確保へ向けた具体的な3ステップの計画を提案しています。</description>
+</item>
+<item>
 <title>沖縄県知事選：古謝玄太氏の勝因と高市政権への影響</title>
 <link>https://ai-tech-times.web.app/articles/20260913-okinawa-governor-election-koja.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260913-okinawa-governor-election-koja.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 13 Sep 2026 12:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI開発を牽引する半導体大手エヌビディアの立ち位置について、エコノミスト誌が独自の視点から報じています。</description>
-</item>
-<item>
-<title>非公開の実世界コードでAIを評価する「Real-SWE」登場</title>
-<link>https://ai-tech-times.web.app/articles/20260913-real-swe-benchmarking-ai-models.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-real-swe-benchmarking-ai-models.html</guid>
-<pubDate>Sun, 13 Sep 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIモデルの実力を非公開の現実的な企業コードベースで測定する新しいベンチマーク「Real-SWE」が公開され、注目を集めています。</description>
 </item>
 </channel></rss>

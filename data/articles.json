@@ -85092,5 +85092,44 @@
   "date": "2026-09-13",
   "time": "22:00",
   "path": "/articles/20260913-saudi-arabia-shuts-oil-pipeline.html"
+ },
+ {
+  "title": "Anthropic CEOがAI開発の減速を提唱、その理由は",
+  "lead": "AI開発企業AnthropicのCEOが、AIの急速な開発をペースダウンさせる時機が来たと主張しました。安全性の確保へ向けた具体的な3ステップの計画を提案しています。",
+  "summary3": [
+   "Anthropic CEOがAI開発の減速を提案",
+   "安全性の確保へ向けた3ステップを主張",
+   "外部評価機関へモデルへのアクセスを提供"
+  ],
+  "body": [
+   "AI開発を手がけるAnthropicのCEOであるダリオ・アモデイ氏は、人工知能の開発ペースをスローダウンさせる時機が来たと主張しました。同氏は、AIの進化スピードを調整するための3ステップの計画をエッセイの中で提案しています。",
+   "この計画の目的は、安全性の実践やコミットメントへの順守を確実なものにすることです。その一環として、同社はサードパーティの評価機関に対してモデルへのアクセスを提供していく方針を示しています。",
+   "急速に進化を続けるAI技術において、安全性をどのように担保していくのかが業界全体の課題となっています。今回の提案は、開発のスピードを緩め、安全性の確認を優先する新しいアプローチとして注目されます。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI開発",
+   "安全性"
+  ],
+  "slug": "anthropic-ceo-says-slow-down-ai-development",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "AI開発企業Anthropicの最高経営責任者（CEO）を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能安全・研究企業であり、対話型AIなどを開発している。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+  "category": "ai",
+  "date": "2026-09-14",
+  "time": "00:00",
+  "path": "/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html"
  }
 ]
