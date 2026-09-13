@@ -1,17 +1,59 @@
 {
- "updated": "2026-09-13 16:02",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-09-13 17:04",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "ツァイスがAI半導体で売上高2.2倍、老舗光学メーカーの躍進",
+   "path": "/articles/20260913-zeiss-ai-semiconductor-growth.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Amazon Web Servicesが公開、AI投資で2ドルのリターンを出す計算方法",
+   "path": "/articles/20260913-calculating-the-roi-of-ai-aws.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "CNBC Tech：データセンターリスク、CAT債の次なる市場に",
+   "path": "/articles/20260913-data-centers-catastrophe-bonds.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "米株価がインフレ懸念で下落、しかし強気を維持する2つの理由とは",
+   "path": "/articles/20260913-stocks-stumble-on-inflation-fears.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "靖国神社落書き事件の中国人インフルエンサー、逃亡先の自国で懲役8年の実刑判決",
+   "path": "/articles/20260913-yasukuni-graffiti-influencer-sentenced.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "中部電力の林社長・勝野会長が辞意固めた理由",
+   "path": "/articles/20260913-chubu-denryoku-executives-resignation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "FRBと日銀が迎えた金融政策の転換点",
+   "path": "/articles/20260913-central-banks-interest-rates-frb-boj.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "Moomoo、奇妙な決算発表夜から学ぶ有益な教訓",
+   "path": "/articles/20260913-moomoo-earnings-announcement-lesson.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
  "notes": [
-  "執筆失敗: Anthropic CEO says it’s time to pump the"
+  "執筆失敗: BRICS首脳会議で共同宣言を採択 中国インド首脳会談も",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 101,
+  "used": 120,
   "limit": 200
  }
 }

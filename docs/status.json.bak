@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-13 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-13 16:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
  "notes": [
-  "執筆失敗: 中部電力 林社長 勝野会長が辞意固める データ不正を受け引責"
+  "執筆失敗: Anthropic CEO says it’s time to pump the"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 97,
+  "used": 101,
   "limit": 200
  }
 }
