@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Claude Codeの自律ループ運用、4つの壁を越えるには</title>
+<link>https://ai-tech-times.web.app/articles/20260914-claude-code-production-guide.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260914-claude-code-production-guide.html</guid>
+<pubDate>Mon, 14 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI TECH TIMESは、Claude CodeをCI/CDに組み込み無人で回すための設計書について報じます。</description>
+</item>
+<item>
 <title>Anthropic CEOがAI開発の減速を提唱、その理由は</title>
 <link>https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sun, 13 Sep 2026 13:00:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>アメリカの研究機関であるクライメート・セントラルは、世界の海面水温の平均に関する新たな分析結果を発表しました。日ごとの過去最高記録が100日連続で更新されています。</description>
-</item>
-<item>
-<title>エヌビディアはAIの中央銀行なのか？エコノミスト誌の分析</title>
-<link>https://ai-tech-times.web.app/articles/20260913-nvidia-is-the-central-bank-of-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-nvidia-is-the-central-bank-of-ai.html</guid>
-<pubDate>Sun, 13 Sep 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発を牽引する半導体大手エヌビディアの立ち位置について、エコノミスト誌が独自の視点から報じています。</description>
 </item>
 </channel></rss>

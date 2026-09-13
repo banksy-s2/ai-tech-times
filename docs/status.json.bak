@@ -1,17 +1,21 @@
 {
- "updated": "2026-09-13 23:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-09-14 00:00",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "Anthropic CEOがAI開発の減速を提唱、その理由は",
+   "path": "/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [
-  "執筆失敗: 自治体の国債購入が急増、100倍の1.6兆円に　課題は「運用力格差」 - 日本経"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 160,
+  "used": 4,
   "limit": 200
  }
 }
