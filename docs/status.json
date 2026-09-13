@@ -1,51 +1,26 @@
 {
- "updated": "2026-09-14 07:42",
+ "updated": "2026-09-14 07:47",
  "mode": "フル便",
  "articles": [
   {
-   "title": "オバマ氏が民主党に警告、AI規制の明確な計画が必要な理由",
-   "path": "/articles/20260914-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.html",
+   "title": "TechCrunch AIが議論、AIは人類の脅威か",
+   "path": "/articles/20260914-whats-behind-the-ai-industrys-latest-warnings-of-doom.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "ドナルド・トランプ氏らがAI業界の過剰反応に懸念を示す理由",
-   "path": "/articles/20260914-trump-johnson-ai-industry-overreacting.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ShopifyがTailwind買収、エンジニア75%解雇の理由",
-   "path": "/articles/20260914-shopify-acquires-tailwind-labs.html",
+   "title": "ITmedia AI+が明かす、AI技術の無料公開で企業が得る戦略",
+   "path": "/articles/20260914-ai-technology-open-source-strategy.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Appleの折りたたみiPhoneで日本メーカーに390億円の商機",
-   "path": "/articles/20260914-iphone-duo-japan-opportunity.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Apple、iPhone向けゲームコントローラーを開発中か",
-   "path": "/articles/20260914-apple-iphone-game-controllers.html",
+   "title": "米下院、AI規制の正念場：猶予期間が迫る中での焦燥",
+   "path": "/articles/20260914-washington-ai-guardrails-window-closes.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "日本テレビ系ウルトラクイズが30年ぶりに復活、なぜ今なのか",
-   "path": "/articles/20260914-ultra-quiz-revival-2027.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "トランプ氏、アイルランド産ウイスキーの15%関税撤廃を表明",
-   "path": "/articles/20260914-trump-removes-irish-whiskey-tariffs.html",
+   "title": "ジョンソン元首相付近も、ウクライナ旅客列車に無人機攻撃",
+   "path": "/articles/20260914-ukraine-poland-train-drone-attack.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "オルツ粉飾決算裁判：日置友輔被告が語った組織の真相",
-   "path": "/articles/20260914-alt-accounting-fraud-trial.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "阪和興業、中山製鋼所と資本業務提携を発表",
-   "path": "/articles/20260914-hanwa-nakayama-capital-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -53,13 +28,17 @@
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
  "notes": [
+  "執筆失敗: Shopifyがスマホアプリ開発でReact NativeからSwiftとKot",
   "執筆失敗: The 9 buzziest startups from Y Combinato",
+  "執筆失敗: 語学留学で「娘被害」と虚偽告発か…韓国・仲介業者への名誉毀損容疑などでインフルエ",
   "執筆失敗: 維新 中司幹事長の入閣調整 今週にも自民党役員人事 内閣改造",
+  "執筆失敗: ベッセント氏「日銀の複数回利上げ」知る？ 円安再燃も、市場の見方 - 日本経済新",
+  "執筆失敗: １１日の動意株＞アライドアキ、円谷プロダクションと業務提携(ウエルスアドバイザー",
   "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 38,
+  "used": 63,
   "limit": 200
  }
 }

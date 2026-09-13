@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 07:42 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 07:47 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,10 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [TechCrunch AIが議論、AIは人類の脅威か](https://ai-tech-times.web.app/articles/20260914-whats-behind-the-ai-industrys-latest-warnings-of-doom.html) — 2026-09-14 07:47: ポッドキャスト番組「On Equity」にて、AI産業が直面する人類への存亡の危機を巡る最新の議論について議論が行われました。
+- [ITmedia AI+が明かす、AI技術の無料公開で企業が得る戦略](https://ai-tech-times.web.app/articles/20260914-ai-technology-open-source-strategy.html) — 2026-09-14 07:47: AI分野で進む技術の「オープン化」について、企業がなぜ自社技術を無料で公開するのか、その背景にあるしたたかな戦略をITmedia AI+が報じました。
+- [米下院、AI規制の正念場：猶予期間が迫る中での焦燥](https://ai-tech-times.web.app/articles/20260914-washington-ai-guardrails-window-closes.html) — 2026-09-14 07:47: 米下院が間もなく中間選挙後まで休会に入る予定となり、AI規制法案を可決するための限られた時間が刻々と過ぎ去っています。
+- [ジョンソン元首相付近も、ウクライナ旅客列車に無人機攻撃](https://ai-tech-times.web.app/articles/20260914-ukraine-poland-train-drone-attack.html) — 2026-09-14 07:47: ウクライナの鉄道会社は13日、隣国ポーランドを結ぶ旅客列車がロシアの無人機による攻撃を受けたと発表しました。けが人はいなかったものの、現場近くにはイギリスのジョンソン元首相らがいました。
 - [オバマ氏が民主党に警告、AI規制の明確な計画が必要な理由](https://ai-tech-times.web.app/articles/20260914-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.html) — 2026-09-14 07:42: オバマ元米大統領が民主党に対し、人工知能（AI）を中央アジェンダに据え、安全対策や経済的影響への明確な計画を持つよう求めました。
 - [ドナルド・トランプ氏らがAI業界の過剰反応に懸念を示す理由](https://ai-tech-times.web.app/articles/20260914-trump-johnson-ai-industry-overreacting.html) — 2026-09-14 07:42: Anthropicの最高経営責任者（CEO）らがAI開発のペースを落とすよう提案した一方、政治家からは業界の反応が過剰だという声が上がっています。
 - [ShopifyがTailwind買収、エンジニア75%解雇の理由](https://ai-tech-times.web.app/articles/20260914-shopify-acquires-tailwind-labs.html) — 2026-09-14 07:42: CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsが、Shopifyによる買収を発表しました。AIの活用によりエンジニアの75%を解雇した同フレームワークの今後の開発体制に注目が集まっています。
@@ -38,17 +42,13 @@
 - [沖縄県知事選：古謝玄太氏の勝因と高市政権への影響](https://ai-tech-times.web.app/articles/20260913-okinawa-governor-election-koja.html) — 2026-09-13 22:00: 沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が初当選を確実にしました。勝因や高市政権への影響について解説します。
 - [サウジアラビア、石油パイプライン停止の背景](https://ai-tech-times.web.app/articles/20260913-saudi-arabia-shuts-oil-pipeline.html) — 2026-09-13 22:00: サウジアラビアが、イラクから発射されたドローン攻撃を受けて主要な石油パイプラインを停止させました。
 - [AIエージェントが嘘や不正・協調をする理由とは](https://ai-tech-times.web.app/articles/20260913-why-ai-agents-are-lying-cheating-and-coordinating.html) — 2026-09-13 21:03: AIエージェントがなぜ嘘をついたり不正を行ったり、あるいは協調したりするのかについての議論が注目を集めています。元記事の公開情報をもとにその背景を読み解きます。
-- [「他社はAI開発を中断せよ」本音の是非](https://ai-tech-times.web.app/articles/20260913-everyone-should-slow-down-ai-development.html) — 2026-09-13 21:03: AI開発のペースを巡る議論の中で、「自分以外の全員が開発をスローダウンすべき」という主張が注目を集めています。
-- [マルチLLM対応の無料AIエージェント「goose」登場](https://ai-tech-times.web.app/articles/20260913-open-source-ai-agent-goose.html) — 2026-09-13 21:03: AIエージェントの利用において、複数のプロバイダーを自由に切り替えられるオープンソースの環境「goose」が公開されました。デスクトップアプリやCLIなど、多様な用途に対応します。
-- [ChatGPTが「はてブ」と「Gyazo」を検索できる理由](https://ai-tech-times.web.app/articles/20260913-chatgpt-hatena-gyazo-plugin.html) — 2026-09-13 21:03: AI TECH TIMESでは、ChatGPTが自作のプラグインを活用して過去のデータを検索できるようになった話題をお伝えします。
-- [習主席が宣言、中国がBRICSのAI協力を主導へ](https://ai-tech-times.web.app/articles/20260913-xi-china-ai-brics.html) — 2026-09-13 21:03: 中国の習近平国家主席は、発展途上国間における人工知能（AI）の協力と開発を中国が主導していく方針を表明しました。
 
 ## 世界のバズ動画TOP3 (2026-09-14)
 - 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
 - 2位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
 - 3位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
 
-## AI用語事典 (全1486語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1487語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
@@ -75,9 +75,9 @@
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
+- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 - [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 - [Uberとは](https://ai-tech-times.web.app/term/uber.html): アメリカ合衆国を拠点とし、世界各国で配車サービスやフードデリバリー事業などを展開するプラットフォーム企業。
-- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 
 ## 主要ページ
