@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-13 21:04",
- "mode": "フル便",
+ "updated": "2026-09-13 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "AIエージェントが嘘や不正・協調をする理由とは",
-   "path": "/articles/20260913-why-ai-agents-are-lying-cheating-and-coordinating.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "「他社はAI開発を中断せよ」本音の是非",
-   "path": "/articles/20260913-everyone-should-slow-down-ai-development.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "マルチLLM対応の無料AIエージェント「goose」登場",
-   "path": "/articles/20260913-open-source-ai-agent-goose.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ChatGPTが「はてブ」と「Gyazo」を検索できる理由",
-   "path": "/articles/20260913-chatgpt-hatena-gyazo-plugin.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "習主席が宣言、中国がBRICSのAI協力を主導へ",
-   "path": "/articles/20260913-xi-china-ai-brics.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Laikaの新作『Wildwood』の滑らかなストップモーション映像が明らかに",
-   "path": "/articles/20260913-laika-wildwood-tiff-2026.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "IVEウォニョンを誹謗中傷、事務所が追加告訴を報告",
-   "path": "/articles/20260913-ive-wonyoung-lawsuit-report.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "沖縄県知事選、古謝玄太氏が初当選確実",
-   "path": "/articles/20260913-okinawa-gubernatorial-election-2026.html",
+   "title": "沖縄県知事選：古謝玄太氏の勝因と高市政権への影響",
+   "path": "/articles/20260913-okinawa-governor-election-koja.html",
    "cat": "時事・世界"
   },
   {
-   "title": "東証、10月から新TOPIX移行へ上場の意味を問う",
-   "path": "/articles/20260913-tse-new-topix-october.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "テラドローン、サンバイオ、ギフトHDなどの今週の決算発表予定",
-   "path": "/articles/20260913-earnings-announcements-teradrone-sunbio-gifthd.html",
-   "cat": "日本企業"
+   "title": "サウジアラビア、石油パイプライン停止の背景",
+   "path": "/articles/20260913-saudi-arabia-shuts-oil-pipeline.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [
-  "執筆失敗: Saudi Arabia shuts key oil pipeline afte",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 152,
+  "used": 156,
   "limit": 200
  }
 }

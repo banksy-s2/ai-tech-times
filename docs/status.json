@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-13 22:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "沖縄県知事選：古謝玄太氏の勝因と高市政権への影響",
-   "path": "/articles/20260913-okinawa-governor-election-koja.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "サウジアラビア、石油パイプライン停止の背景",
-   "path": "/articles/20260913-saudi-arabia-shuts-oil-pipeline.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-13 23:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 自治体の国債購入が急増、100倍の1.6兆円に　課題は「運用力格差」 - 日本経"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 156,
+  "used": 160,
   "limit": 200
  }
 }
