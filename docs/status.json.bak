@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-13 14:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "高市早苗政権「国際的流れ」主張も、日本国債3%台に",
-   "path": "/articles/20260913-sanae-takaichi-government-long-term-interest-rates.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-13 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 中部電力 林社長 勝野会長が辞意固める データ不正を受け引責"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 94,
+  "used": 97,
   "limit": 200
  }
 }
