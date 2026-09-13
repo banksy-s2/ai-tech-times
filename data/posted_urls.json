@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techfeed.io/entries/6a65420cd0c20765e83dd880",
-  "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
   "https://news.web.nhk/newsweb/na/na-k10015187351000",
   "https://news.web.nhk/newsweb/na/na-k10015187481000",
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVzVtbFpabFRIMmdGYm00b2VKTmRQNFlqenZoSHN1SUp1cVdJNHVZLVVmQk90cW8td190VVotUzg1VmJKYkJrNWFnd2dzX29Nc3NuTnhQZWpvRURoQnhQbGg2VHBqbi1kU0ExWE1XQkNCRnQyOUszcTRRODU3UQ?oc=5",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
   "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
-  "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/"
+  "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
+  "https://www.techmeme.com/260912/p14#a260912p14",
+  "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
  ],
  "titles": [
-  "37兆円のSaaS支出が2030年までに「消える」　Gartnerが予測するエージェントAIの破壊力",
-  "YouTubeパートナープログラムの新規登録に「過去1年間の動画視聴時間が8000時間」か「過去90日間のショート動画再生回数が2000万回」が必要に",
-  "北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省",
-  "シリアのアサド前大統領に死刑判決 殺人や人道に対する罪など",
   "横浜ゴム－急騰 決算説明会を好感 成長余地大きいとのアナリストコメント(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
   "Saber、ChatGPTでライター解雇を否定",
   "Google検索が衰退する中、消えゆくインターネットの記憶とは",
@@ -4001,6 +3997,10 @@
   "「AIコーディングより人を雇う方が安い」時代が来る？　生成AIの予算超過を防ぐトークン浪費対策の全て",
   "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
   "ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策",
-  "森重文氏ら数学者25人がAIによる難問解決を非難した理由"
+  "森重文氏ら数学者25人がAIによる難問解決を非難した理由",
+  "Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying \"Dario is right\" (Politico)",
+  "Revolut confirms customer data breach through fake government requests",
+  "イーロン・マスク氏が先端AIの開発ペース鈍化を支持、なぜ賛同したのか",
+  "Revolutが顧客データ流出、偽の政府要請で何が起きたか"
  ]
 }

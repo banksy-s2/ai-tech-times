@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-13 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-13 10:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策",
-   "path": "/articles/20260913-ai-coding-cost-tokens.html",
-   "cat": "日本のAI"
+   "title": "イーロン・マスク氏が先端AIの開発ペース鈍化を支持、なぜ賛同したのか",
+   "path": "/articles/20260913-elon-musk-backs-dario-amodei-pacing.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "森重文氏ら数学者25人がAIによる難問解決を非難した理由",
-   "path": "/articles/20260913-mathematicians-criticize-ai-math.html",
-   "cat": "日本のAI"
+   "title": "Revolutが顧客データ流出、偽の政府要請で何が起きたか",
+   "path": "/articles/20260913-revolut-confirms-customer-data-breach.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 54,
+  "used": 59,
   "limit": 200
  }
 }

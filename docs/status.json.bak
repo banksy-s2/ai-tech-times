@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-13 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-13 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Nscale、IPO見据え元OpenAI幹部Fidji Simo氏を取締役会へ",
-   "path": "/articles/20260913-nscale-adds-fidji-simo-to-board-ahead-of-ipo.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策",
+   "path": "/articles/20260913-ai-coding-cost-tokens.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "AnthropicがAI開発のペースを緩める計画を提示",
-   "path": "/articles/20260913-anthropic-ceo-outlines-plan-to-pace-the-frontier.html",
-   "cat": "AI(海外)"
+   "title": "森重文氏ら数学者25人がAIによる難問解決を非難した理由",
+   "path": "/articles/20260913-mathematicians-criticize-ai-math.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 49,
+  "used": 54,
   "limit": 200
  }
 }
