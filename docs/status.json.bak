@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-13 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-13 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "OpenAI年内IPO見送りとAI開発の警戒",
-   "path": "/articles/20260913-openai-rules-out-ipo-and-ai-warnings.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実",
-   "path": "/articles/20260913-housing-shortage-home-construction-robots.html",
-   "cat": "シリコンバレー最速"
+   "title": "メキシコのインフルエンサーが銃撃され死亡",
+   "path": "/articles/20260913-mexican-influencer-shot-in-restaurant.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 129,
+  "used": 132,
   "limit": 200
  }
 }
