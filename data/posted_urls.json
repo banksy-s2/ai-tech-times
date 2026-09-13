@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
   "https://news.web.nhk/newsweb/na/na-k10015187501000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbTNmUE15dG9NaFVXRlVXQTk5dFp3anhNeFVlaUVLZXFNS3M5R3JYOFpVNngwT190X3FQSHR3cXpQdU96TnZ2bEx0dzFXbE03S1Y5UlZZLVU3MUFYcmRXX1JIcVVHMUdxZzgzXw?oc=5",
   "https://toyokeizai.net/articles/-/952517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1999,11 +1998,10 @@
   "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
   "https://gigazine.net/news/20260912-firefox-translations/",
   "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-  "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html"
+  "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oYXc3MFN6YmZMZDd4cEprWld5dkZqVnZkWnEzNWVYcUpXVkk5WDk5cWp3cXFPN292Y3NFLW9qYW1ReXhOT2I1N0wtRlFialN5MzF6VUFQMkpCRVVSU2VUbUhyZ3dFVzBM?oc=5"
  ],
  "titles": [
-  "OpenAI launches ChatGPT desktop app for Linux",
-  "メモリ価格の高騰で「iPhone 18 Pro」256GBモデルの部品コストは前世代より約38％も高くなる見込み",
   "AIの暗号化された思考内容を盗み見る手法が開発される、「中国製AIの思考がとアメリカ製AIとそっくり」「性能テストの答えを決め打ち」などの実情が浮き彫りに",
   "CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening",
   "AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 (Jagmeet Singh/TechCrunch)",
@@ -4001,6 +3999,8 @@
   "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
   "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
   "OpenAI年内IPO見送りとAI開発の警戒",
-  "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実"
+  "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実",
+  "メキシコのインフルエンサーがレストランで射殺される、犯罪組織との関連を捜査 - Межа. Новини України.",
+  "メキシコのインフルエンサーが銃撃され死亡"
  ]
 }

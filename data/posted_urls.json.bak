@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://gigazine.net/news/20260728-china-making-duv/",
-  "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
   "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
   "https://news.web.nhk/newsweb/na/na-k10015187501000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbTNmUE15dG9NaFVXRlVXQTk5dFp3anhNeFVlaUVLZXFNS3M5R3JYOFpVNngwT190X3FQSHR3cXpQdU96TnZ2bEx0dzFXbE03S1Y5UlZZLVU3MUFYcmRXX1JIcVVHMUdxZzgzXw?oc=5",
@@ -1999,13 +1997,11 @@
   "https://toyokeizai.net/articles/-/957908?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEtDTHN1Q1d5V3FBaXZqU0g1UG1OMUpTaTJuaXdWWFMwWHcxeUdYVUxEVTN0TDN1ZU1WdG1ObUZ1QTFWYVBqaHhBUnNRUERCZnZTcVVpQVNudGlnbmJNMExlUDZjMENiZUt2N0tFUHV5ck8zZFNUTlpTbEZJNGh2SU9wTWdFc0tRZ2RLS054RVotVXk2MzBfVF9OWDdpb0R5c0Nn?oc=5",
   "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
-  "https://gigazine.net/news/20260912-firefox-translations/"
+  "https://gigazine.net/news/20260912-firefox-translations/",
+  "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+  "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html"
  ],
  "titles": [
-  "トランプ・メディア、暗号資産下落で2億3800万ドルの損失",
-  "GoogleのGemini、10億ユーザー突破。成長の裏にある疑問",
-  "藤井サチがペットビジネスに参入 「息をするだけで稼ぎたい」人気インフルエンサーの挑戦とは――『CELEB SECRET』最終回 - news.nicovideo.jp",
-  "藤井サチがペットビジネス参入へ、「息をするだけで稼ぎたい」の真意",
   "OpenAI launches ChatGPT desktop app for Linux",
   "メモリ価格の高騰で「iPhone 18 Pro」256GBモデルの部品コストは前世代より約38％も高くなる見込み",
   "AIの暗号化された思考内容を盗み見る手法が開発される、「中国製AIの思考がとアメリカ製AIとそっくり」「性能テストの答えを決め打ち」などの実情が浮き彫りに",
@@ -4001,6 +3997,10 @@
   "「AIで解雇した従業員の3割は再雇用に」　Gartnerが指摘する経営層の誤算",
   "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
   "Gartner予測：AI解雇の3割が再雇用に",
-  "Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方"
+  "Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方",
+  "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+  "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+  "OpenAI年内IPO見送りとAI開発の警戒",
+  "CNBC Techが報じる、住宅不足に挑む建設ロボットの現実"
  ]
 }
