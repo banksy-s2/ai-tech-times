@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdldjM1NvM29ZanlVREZvbURLTEx4dlhodWM4WFR0UmVBSHQwM3p4c0dtWGhFVnlzdjBZV095ZTE0UzBaU2hmYUZKS1Y4RWo2Wm5kbllUT21aZ0ZPaUNGcUhrWV9TaVJRZmdjYQ?oc=5",
-  "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
   "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
   "https://forest.watch.impress.co.jp/docs/news/2127918.html",
   "https://techfeed.io/entries/6a65420cd0c20765e83dd880",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260912de49908",
   "https://news.web.nhk/newsweb/na/nd-20260912de49919",
   "https://toyokeizai.net/articles/-/957769?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://www.itmedia.co.jp/business/articles/2609/13/news006.html"
+  "https://www.itmedia.co.jp/business/articles/2609/13/news006.html",
+  "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+  "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
  ],
  "titles": [
-  "Super Micro reports Q4 revenue up 93% YoY to $11.1B, vs. $11.3B est., and forecasts Q1 and FY 2027 revenue above estimates; SMCI jumps 9%+ after hours (Dina Bass/Bloomberg)",
-  "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
-  "Super MicroのQ4売上高93%増、株価が時間外で9%超上昇した理由",
-  "OpenAI幹部ブラッド・ライトキャップ氏が退社へ",
   "副業YouTuberは終了？収益化ハードル倍増で新規参入は絶望、既存組だけが笑う - zakⅡ",
   "副業YouTuberは収益化ハードル倍増でどうなる？",
   "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
@@ -4001,6 +3997,10 @@
   "トランプ氏、サウジパイプライン攻撃にイラン関与示唆",
   "千葉豪雨で529社が26億円余の被害、再開できない企業も",
   "東洋経済オンライン：1億円の住宅ローン、金利上昇の意外な結末",
-  "ワークマン、断熱ウェア400万着に拡大"
+  "ワークマン、断熱ウェア400万着に拡大",
+  "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "Anthropic CEO outlines plan to slow AI development",
+  "Nscale、IPO見据え元OpenAI幹部Fidji Simo氏を取締役会へ",
+  "AnthropicがAI開発のペースを緩める計画を提示"
  ]
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策</title>
+<link>https://ai-tech-times.web.app/articles/20260913-ai-coding-cost-tokens.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260913-ai-coding-cost-tokens.html</guid>
+<pubDate>Sun, 13 Sep 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増に企業が悩まされています。浪費の原因と現場で取り組める対策を探ります。</description>
+</item>
+<item>
+<title>森重文氏ら数学者25人がAIによる難問解決を非難した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260913-mathematicians-criticize-ai-math.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260913-mathematicians-criticize-ai-math.html</guid>
+<pubDate>Sun, 13 Sep 2026 09:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>「数学界のノーベル賞」を受賞した森重文・京都大特別教授ら世界の数学者25人が11日、AIを使って企業が数学の難問を解く行為を非難する緊急声明を発表しました。</description>
+</item>
+<item>
 <title>Nscale、IPO見据え元OpenAI幹部Fidji Simo氏を取締役会へ</title>
 <link>https://ai-tech-times.web.app/articles/20260913-nscale-adds-fidji-simo-to-board-ahead-of-ipo.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260913-nscale-adds-fidji-simo-to-board-ahead-of-ipo.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 12 Sep 2026 21:03:00 +0900</pubDate>
 <category>日本企業</category>
 <description>製薬最大手の武田薬品工業で社長を務め、経済同友会の代表幹事も歴任した長谷川閑史氏が7月3日に亡くなりました。80歳でした。</description>
-</item>
-<item>
-<title>人気VTuber「指定難病、脳の手術の可能性」でイベント中止</title>
-<link>https://ai-tech-times.web.app/articles/20260912-popular-vtuber-announces-event-cancellation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260912-popular-vtuber-announces-event-cancellation.html</guid>
-<pubDate>Sat, 12 Sep 2026 20:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>人気VTuberが深刻な健康状態を明かし、イベントの中止を発表しました。</description>
-</item>
-<item>
-<title>ホワイトハウスがTruth Socialを世界一と主張した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260912-white-house-truth-social-popular.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260912-white-house-truth-social-popular.html</guid>
-<pubDate>Sat, 12 Sep 2026 19:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米ホワイトハウスが、ドナルド・トランプ氏の所有するTruth Socialを世界で最も強力で人気のソーシャルメディアプラットフォームであると主張しました。</description>
 </item>
 </channel></rss>

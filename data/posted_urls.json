@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-  "https://forest.watch.impress.co.jp/docs/news/2127918.html",
   "https://techfeed.io/entries/6a65420cd0c20765e83dd880",
   "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
   "https://news.web.nhk/newsweb/na/na-k10015187351000",
@@ -1999,13 +1997,11 @@
   "https://toyokeizai.net/articles/-/957769?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://www.itmedia.co.jp/business/articles/2609/13/news006.html",
   "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-  "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+  "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+  "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/"
  ],
  "titles": [
-  "副業YouTuberは終了？収益化ハードル倍増で新規参入は絶望、既存組だけが笑う - zakⅡ",
-  "副業YouTuberは収益化ハードル倍増でどうなる？",
-  "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-  "As AI eats the web, the internet’s collective memory is disappearing",
   "37兆円のSaaS支出が2030年までに「消える」　Gartnerが予測するエージェントAIの破壊力",
   "YouTubeパートナープログラムの新規登録に「過去1年間の動画視聴時間が8000時間」か「過去90日間のショート動画再生回数が2000万回」が必要に",
   "北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省",
@@ -4001,6 +3997,10 @@
   "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
   "Anthropic CEO outlines plan to slow AI development",
   "Nscale、IPO見据え元OpenAI幹部Fidji Simo氏を取締役会へ",
-  "AnthropicがAI開発のペースを緩める計画を提示"
+  "AnthropicがAI開発のペースを緩める計画を提示",
+  "「AIコーディングより人を雇う方が安い」時代が来る？　生成AIの予算超過を防ぐトークン浪費対策の全て",
+  "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
+  "ITmedia AI+：「AIコーディングより人を雇う方が安い」時代？予算超過を防ぐ対策",
+  "森重文氏ら数学者25人がAIによる難問解決を非難した理由"
  ]
 }
