@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-13 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-13 14:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "北口榛花が68m92の日本新記録で優勝、なぜ世界の強豪制したのか",
-   "path": "/articles/20260913-kitaguchi-haruka-javelin-record.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "クライメート・セントラル：世界の海面水温が過去最高を100日連続で更新",
-   "path": "/articles/20260913-ocean-surface-temperature-record.html",
-   "cat": "時事・世界"
+   "title": "高市早苗政権「国際的流れ」主張も、日本国債3%台に",
+   "path": "/articles/20260913-sanae-takaichi-government-long-term-interest-rates.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 92,
+  "used": 94,
   "limit": 200
  }
 }
