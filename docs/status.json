@@ -1,26 +1,65 @@
 {
- "updated": "2026-09-14 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-14 07:42",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Lyftがロボタクシー分野に参入、その全容とは",
-   "path": "/articles/20260914-lyft-has-entered-the-robotaxi-chat.html",
+   "title": "オバマ氏が民主党に警告、AI規制の明確な計画が必要な理由",
+   "path": "/articles/20260914-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ドナルド・トランプ氏らがAI業界の過剰反応に懸念を示す理由",
+   "path": "/articles/20260914-trump-johnson-ai-industry-overreacting.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ShopifyがTailwind買収、エンジニア75%解雇の理由",
+   "path": "/articles/20260914-shopify-acquires-tailwind-labs.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleの折りたたみiPhoneで日本メーカーに390億円の商機",
+   "path": "/articles/20260914-iphone-duo-japan-opportunity.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Apple、iPhone向けゲームコントローラーを開発中か",
+   "path": "/articles/20260914-apple-iphone-game-controllers.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "Waymoロボタクシーが乗客を乗せたまま警察に通報した理由",
-   "path": "/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html",
-   "cat": "シリコンバレー最速"
+   "title": "日本テレビ系ウルトラクイズが30年ぶりに復活、なぜ今なのか",
+   "path": "/articles/20260914-ultra-quiz-revival-2027.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "トランプ氏、アイルランド産ウイスキーの15%関税撤廃を表明",
+   "path": "/articles/20260914-trump-removes-irish-whiskey-tariffs.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "オルツ粉飾決算裁判：日置友輔被告が語った組織の真相",
+   "path": "/articles/20260914-alt-accounting-fraud-trial.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "阪和興業、中山製鋼所と資本業務提携を発表",
+   "path": "/articles/20260914-hanwa-nakayama-capital-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: The 9 buzziest startups from Y Combinato",
+  "執筆失敗: 維新 中司幹事長の入閣調整 今週にも自民党役員人事 内閣改造",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 38,
   "limit": 200
  }
 }

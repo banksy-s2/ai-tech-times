@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.techmeme.com/260727/p31#a260727p31",
-  "https://news.web.nhk/newsweb/na/na-k10015187511000",
   "https://news.web.nhk/newsweb/na/na-k10015188221000",
   "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IeVgzcS1ReGNxZ0JpMEsxSFc2NlBPVXU5ODFSMkoxRFRqTUdPRnhXMzNmQkl3NVR0OXNXWUJLT3IyYjhEQnhvMnN0Q3NVdW5RYktWcmlFc0k5N0xQc1lpbUo0emJ6bU1YWWQ5RQ?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260913de49962",
   "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
   "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-  "https://zenn.dev/hampen2929/books/claude-code-production-guide"
+  "https://zenn.dev/hampen2929/books/claude-code-production-guide",
+  "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+  "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun"
  ],
  "titles": [
-  "Googleの新スマホPixel 11、8月20日発売の理由",
-  "Anthropic、Claude生成文章に目に見えない透かしを導入へ",
-  "Tesla wants to build a $10B solar factory in Texas",
-  "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
   "テスラ、テキサス州に100億ドルの巨大ソーラー工場構想",
   "Google、Pixel 11でGemini AI投入。Appleに対抗する狙いとは",
   "韓国 旧統一教会元幹部ら在宅起訴 政治家130人余に違法献金か",
@@ -4001,6 +3997,10 @@
   "Anthropic CEO says it’s time to pump the brakes on AI",
   "Anthropic CEOがAI開発の減速を提唱、その理由は",
   "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
-  "Claude Codeの自律ループ運用、4つの壁を越えるには"
+  "Claude Codeの自律ループ運用、4つの壁を越えるには",
+  "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+  "Waymo pulls over, calls cops on riders with a ghost gun",
+  "Lyftがロボタクシー分野に参入、その全容とは",
+  "Waymoロボタクシーが乗客を乗せたまま警察に通報した理由"
  ]
 }

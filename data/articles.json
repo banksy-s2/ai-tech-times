@@ -85233,5 +85233,364 @@
   "date": "2026-09-14",
   "time": "02:01",
   "path": "/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html"
+ },
+ {
+  "title": "オバマ氏が民主党に警告、AI規制の明確な計画が必要な理由",
+  "lead": "オバマ元米大統領が民主党に対し、人工知能（AI）を中央アジェンダに据え、安全対策や経済的影響への明確な計画を持つよう求めました。",
+  "summary3": [
+   "オバマ氏がAI対策の重要性を訴える",
+   "民主党に明確な計画の策定を要請",
+   "経済影響と安全性の懸念に対応"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、オバマ元米大統領はこのほど、民主党が人工知能を党の「中央アジェンダ」の一つにする必要があると発言しました。急速に進化するテクノロジーに対する懸念に適切に対処するため、党として「非常に明確な計画」を持たなければならないと強い警鐘を鳴らしています。",
+   "同氏が指摘したのは、人工知能がもたらす経済へのインパクトと、安全性の確保に関する問題です。技術の発展が社会や労働市場に大きな変化を与える中、政治がどのようにセーフガードを構築し、リスクを管理していくのかが喫緊の課題となっています。",
+   "今回の発言は、テクノロジーの急速な普及に伴う社会的な不安が高まる中でなされました。民主党が今後、人工知能の規制や安全対策に関してどのような具体的な政策やアプローチを打ち出していくのか、各方面から注目が集まることになりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "政治",
+   "規制"
+  ],
+  "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+  "people": [],
+  "terms": [
+   {
+    "name": "人工知能",
+    "type": "ai",
+    "desc": "人間のような知的な動作をコンピューター上で実現する技術であり、経済や社会への影響が懸念されている。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+  "category": "ai",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.html"
+ },
+ {
+  "title": "ドナルド・トランプ氏らがAI業界の過剰反応に懸念を示す理由",
+  "lead": "Anthropicの最高経営責任者（CEO）らがAI開発のペースを落とすよう提案した一方、政治家からは業界の反応が過剰だという声が上がっています。",
+  "summary3": [
+   "AnthropicCEOが開発の減速を提案",
+   "OpenAIやマスク氏らが賛同を表明",
+   "トランプ氏らは過剰反応と指摘"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。昨日の動向として、AnthropicのCEOであるダリオ・アモデイ氏が、AI開発のフロンティアにおけるペースを落とし、慎重に進めるべきだとする長文の公開書簡を発表しました。",
+   "この提案に対しては、業界内から大きな支持が集まりました。OpenAIのサム・アルトマン氏やイーロン・マスク氏の両名がX（旧Twitter）上で公に支持を表明し、Alphabetのデミス・ハサビス氏もアモデイ氏の提案に対して一時的な支持を表明しています。",
+   "しかし、こうした業界の動きや開発ペースの減速論に対して、政治の場からは異なる見解が示されました。ドナルド・トランプ氏や下院議長のマイク・ジョンソン氏は、AI業界が現状に対して過剰に反応しすぎているとの見方を示しています。"
+  ],
+  "tags": [
+   "AI開発",
+   "Anthropic",
+   "政治"
+  ],
+  "slug": "trump-johnson-ai-industry-overreacting",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ氏",
+    "bio": "AI開発企業Anthropicの最高経営責任者（CEO）を務める研究者。"
+   },
+   {
+    "name": "サム・アルトマン氏",
+    "bio": "対話型AI「ChatGPT」などを開発するOpenAIの最高経営責任者（CEO）。"
+   },
+   {
+    "name": "デミス・ハサビス氏",
+    "bio": "Google傘下のAI研究企業Google DeepMindの創業者兼CEO。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、安全性に配慮した人工知能の開発を手がける企業。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置き、最先端の人工知能や大規模言語モデルを開発する企業。"
+   },
+   {
+    "name": "Alphabet",
+    "type": "company",
+    "desc": "Googleなどの親会社であり、インターネット関連サービスやAI研究開発を統括するアメリカの巨大IT企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+  "category": "ai",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-trump-johnson-ai-industry-overreacting.html"
+ },
+ {
+  "title": "ShopifyがTailwind買収、エンジニア75%解雇の理由",
+  "lead": "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsが、Shopifyによる買収を発表しました。AIの活用によりエンジニアの75%を解雇した同フレームワークの今後の開発体制に注目が集まっています。",
+  "summary3": [
+   "Tailwind LabsがShopifyによる買収を発表",
+   "過去にAI活用でエンジニアの75%を解雇",
+   "今後も安定的な開発体制を継続する方針"
+  ],
+  "body": [
+   "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。この買収により、今後も安定的な開発を維持するとしています。",
+   "Tailwindを巡っては、AIのせいでエンジニアの75％を解雇したことが大きな話題となりました。効率的な開発手法を取り入れる先進的な取り組みとして業界の注目を集めています。",
+   "今後はShopifyのもとでさらなる発展が期待されます。開発者のAdam Wathan氏からも詳細が語られており、今後の動向に引き続き関心が寄せられています。"
+  ],
+  "tags": [
+   "Tailwind CSS",
+   "Shopify",
+   "AI"
+  ],
+  "slug": "shopify-acquires-tailwind-labs",
+  "people": [
+   {
+    "name": "Adam Wathan氏",
+    "bio": "CSSフレームワーク「Tailwind CSS」の作者であり、開発元であるTailwind Labsの中心人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Shopify",
+    "type": "company",
+    "desc": "カナダに拠点を置き、世界中で利用されているECサイト構築プラットフォームを提供する企業。"
+   },
+   {
+    "name": "Tailwind Labs",
+    "type": "company",
+    "desc": "人気のCSSフレームワーク「Tailwind CSS」の開発を手がける企業。"
+   }
+  ],
+  "source": "Publickey",
+  "source_url": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+  "category": "ai_jp",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-shopify-acquires-tailwind-labs.html"
+ },
+ {
+  "title": "Appleの折りたたみiPhoneで日本メーカーに390億円の商機",
+  "lead": "Apple初の折りたたみiPhone「iPhone Duo」の登場により、薄型・軽量・小型設計に強みを持つ日本の部品メーカーに新たな商機が生まれています。複数の日本企業が具体的な設備投資や開発を進めていると報じられました。",
+  "summary3": [
+   "Apple初の折りたたみiPhoneが登場",
+   "390億円の投資で日本メーカーに商機",
+   "薄型・軽量化で日本企業が設備投資"
+  ],
+  "body": [
+   "Apple初となる折りたたみiPhone「iPhone Duo」の登場を機に、薄型・軽量・小型設計に強みを持つ日本の部品メーカーに新たな商機が生まれているとDigiTimesが報じました。折りたたみ端末において、本体の薄さと軽さは使い勝手を左右する重要な要素となります。",
+   "また、Seoul Economic Dailyも同日、複数の日本企業が具体的な設備投資や開発を進めていると伝えています。報道によると、390億円の投資が行われるなど、日本メーカーにとって大きなビジネスチャンスとなっています。",
+   "折りたたみスマートフォン市場が拡大する中、日本の部品メーカーの高い技術力がどのように活かされるのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "iPhone",
+   "Apple",
+   "日本メーカー",
+   "ガジェット"
+  ],
+  "slug": "iphone-duo-japan-opportunity",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://iphone-mania.jp/iphone18-605875/",
+  "category": "ai_jp",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-iphone-duo-japan-opportunity.html"
+ },
+ {
+  "title": "Apple、iPhone向けゲームコントローラーを開発中か",
+  "lead": "AppleがiPhone用のゲームコントローラーを2種類開発していると報じられました。Beatsブランドでの販売が見込まれています。",
+  "summary3": [
+   "AppleがiPhone用コントローラーを開発中",
+   "Beatsブランドでの販売が予想されている",
+   "macOSのコードから存在が浮上した"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のテックニュースです。海外メディアのThe Vergeによると、AppleがiPhone向けのゲームコントローラーを新たに開発していることが明らかになりました。",
+   "Bloombergのマーク・ガーマン氏によれば、Appleは2種類のゲームコントローラーを開発しており、製品化された際には同社のオーディオブランドであるBeatsブランドの下で販売される可能性が高いとされています。",
+   "Appleによるゲームコントローラー市場への参入については、これまでも長年にわたり様々な噂が囁かれてきました。しかし先週、MacRumorsの調査によって、macOS 26.7のコード内からファーストパーティ製とみられる2つのゲームコントローラーへの言及が発見されたことで、現実味を帯びてきています。"
+  ],
+  "tags": [
+   "Apple",
+   "iPhone",
+   "ゲーム"
+  ],
+  "slug": "apple-iphone-game-controllers",
+  "people": [
+   {
+    "name": "マーク・ガーマン氏",
+    "bio": "Bloombergに所属する著名ジャーナリストで、Apple関連のインサイダー情報に精通している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカに本社を置き、iPhoneやMacなどのハードウェアやソフトウェアを開発・販売する世界的なテクノロジー企業。"
+   },
+   {
+    "name": "Beats",
+    "type": "company",
+    "desc": "ヘッドホンやイヤホンなどのオーディオ製品を展開し、現在はApple傘下にあるブランド。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+  "category": "silicon",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-apple-iphone-game-controllers.html"
+ },
+ {
+  "title": "日本テレビ系ウルトラクイズが30年ぶりに復活、なぜ今なのか",
+  "lead": "約30年ぶりの復活となる大型クイズ特番『アメリカ横断ウルトラクイズ』の国内1次予選が、東京・稲城市のジャイアンツタウンスタジアムで開催されました。",
+  "summary3": [
+   "アメリカ横断ウルトラクイズが復活",
+   "国内1次予選が東京で開催された",
+   "2027年1月に関東などで放送予定"
+  ],
+  "body": [
+   "「ニューヨークへ行きたいかー!」――約30年ぶりに、あの問いかけに大勢の「オー!」が返ってきました。2027年1月1日・2日に日本テレビ系で放送される大型クイズ特番『アメリカ横断ウルトラクイズ』の国内1次予選が12日、東京・稲城市のジャイアンツタウンスタジアムで開催されました。",
+   "1977年に誕生し、1998年の第17回大会を最後に幕を閉じた同番組は、多くのファンに愛されてきました。敗者までが主役になる“お祭り”として知られた伝説的なクイズ番組が、令和の時代にどのように蘇るのか注目が集まっています。",
+   "今回の国内1次予選には多くの参加者が集まり、かつての熱狂を彷彿とさせる盛り上がりを見せました。約30年ぶりの復活を果たした「ウルトラクイズ」が、2027年正月の放送に向けてどのようなドラマを生み出すのか、今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "アメリカ横断ウルトラクイズ",
+   "日本テレビ",
+   "クイズ番組"
+  ],
+  "slug": "ultra-quiz-revival-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本テレビ",
+    "type": "company",
+    "desc": "日本テレビ放送網は、東京都港区に本社を置く日本テレビ系列のキー局である地上波テレビ放送局。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://news.mynavi.jp/article/20260913-4958165/",
+  "category": "influencer",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-ultra-quiz-revival-2027.html"
+ },
+ {
+  "title": "トランプ氏、アイルランド産ウイスキーの15%関税撤廃を表明",
+  "lead": "BBC Worldによると、トランプ氏は2日間の訪問を終え、アイルランド共和国で蒸留されるウイスキーに対する関税を撤廃すると表明しました。現在適用されているEU製品向けの基準関税が対象となります。",
+  "summary3": [
+   "トランプ氏が2日間の訪問を終了",
+   "アイルランド産ウイスキーの関税撤廃を表明",
+   "現在はEU製品向けの15%関税が適用"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によりますと、BBC Worldは現地時間において、トランプ氏が2日間の日程を終えたことを伝えています。その中で同氏は、アイルランド共和国で蒸留されるウイスキーに関する関税を撤廃する方針を示しました。",
+   "現在、アイルランド共和国で生産されるウイスキーに対しては、欧州連合（EU）からの米国への輸入品に適用される標準的な15%の関税が課されています。今回の表明により、この関税の扱いがどのように変わるのかに関心が集まっています。",
+   "今回の発表は、同氏の2日間の訪問の締めくくりとして行われました。今後の具体的な撤廃時期や手続きの詳細については、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "経済",
+   "関税",
+   "ウイスキー"
+  ],
+  "slug": "trump-removes-irish-whiskey-tariffs",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "米国の政治家であり、過去に大統領を務めた国際的な影響力の高い人物。"
+   }
+  ],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-trump-removes-irish-whiskey-tariffs.html"
+ },
+ {
+  "title": "オルツ粉飾決算裁判：日置友輔被告が語った組織の真相",
+  "lead": "急成長スタートアップとして注目を集めたオルツで発覚した、前代未聞の粉飾決算事件。裁判では循環取引の実態とともに、経営幹部の責任をめぐる主張の対立が明らかになっています。",
+  "summary3": [
+   "オルツで前代未聞の粉飾決算事件が発覚",
+   "裁判で循環取引の実態や責任の押し付け合い",
+   "財務責任者の日置友輔被告が組織の真相を語る"
+  ],
+  "body": [
+   "東洋経済オンラインの報道によると、急成長スタートアップ企業であるオルツにおいて、前代未聞の粉飾決算事件が発覚しました。事件をめぐっては循環取引の実態が浮き彫りになり、経営幹部の逮捕へと発展しています。",
+   "現在進行中の裁判では、責任の押し付け合いが繰り広げられています。財務責任者である日置友輔被告は法廷において、「社長が右を向けば（社員も）右を向く組織だった」と語り、組織の真相について言及しました。",
+   "企業の信頼を大きく揺るがした今回の事件。法廷での証言を通じて、当時の経営体制や不正の背景にどのような実態があったのか、今後の動向に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "オルツ",
+   "粉飾決算",
+   "裁判"
+  ],
+  "slug": "alt-accounting-fraud-trial",
+  "people": [
+   {
+    "name": "日置友輔",
+    "bio": "急成長スタートアップ「オルツ」の財務責任者。粉飾決算事件に関連して裁判に臨む被告。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "オルツ",
+    "type": "company",
+    "desc": "日本にある急成長スタートアップ企業。粉飾決算事件や循環取引の発覚で注目を集めている。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/957932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-alt-accounting-fraud-trial.html"
+ },
+ {
+  "title": "阪和興業、中山製鋼所と資本業務提携を発表",
+  "lead": "阪和興業が中山製鋼所と資本業務提携を結んだことを発表しました。両社の今後の展開に注目が集まっています。",
+  "summary3": [
+   "阪和興業と中山製鋼所が提携",
+   "資本業務提携の締結を発表",
+   "今後の事業展開に注目"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、阪和興業と中山製鋼所の間で資本業務提携が締結されたことが明らかになりました。化学工業日報 電子版の報道を元にお伝えしています。",
+   "今回の提携に関する詳細な背景や今後の具体的な取り組みについては、発表されている情報をもとに順次お伝えしてまいります。両社による今後の発表が注目されます。",
+   "株式市場および関連業界においても、今回の資本業務提携の動きは関心を集めるトピックとなっています。引き続き正確な事実に基づいた情報をお届けします。"
+  ],
+  "tags": [
+   "阪和興業",
+   "中山製鋼所",
+   "資本業務提携"
+  ],
+  "slug": "hanwa-nakayama-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "阪和興業",
+    "type": "company",
+    "desc": "鉄鋼や金属などを中心に取り扱う大手独立系専門商社です。"
+   },
+   {
+    "name": "中山製鋼所",
+    "type": "company",
+    "desc": "大阪府に本社を置く、薄板鋼板などを製造する歴史ある製鉄会社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRmRTeVZ1UlZidWlhRjlLLUoyMUdfUEdFTi0zb1lwVFRDM0JGQ2prRkZmeC1UWUx5cXQ2NHNBN3NNbUF3d09TUWE5ZDUxcDFWM0E4?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-14",
+  "time": "07:42",
+  "path": "/articles/20260914-hanwa-nakayama-capital-alliance.html"
  }
 ]
