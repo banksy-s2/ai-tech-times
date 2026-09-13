@@ -85165,5 +85165,73 @@
   "date": "2026-09-14",
   "time": "01:00",
   "path": "/articles/20260914-claude-code-production-guide.html"
+ },
+ {
+  "title": "Lyftがロボタクシー分野に参入、その全容とは",
+  "lead": "モビリティの未来とAIの役割を伝えるTechCrunch Mobilityが、Lyftによるロボタクシー分野への参入について報じました。",
+  "summary3": [
+   "Lyftがロボタクシー分野に参入",
+   "交通の未来におけるAIの役割が焦点",
+   "TechCrunch Mobilityが報道"
+  ],
+  "body": [
+   "「TechCrunch Mobility」の最新情報において、Lyftがロボタクシー分野に参入したことが明らかになりました。交通の未来や、そこでAIが果たす役割がますます重要になっています。",
+   "配車サービスを提供する企業として知られるLyftが、自動運転技術を活用したロボタクシーの領域へ踏み出したことは、今後のモビリティ業界に大きな影響を与える可能性があります。",
+   "AI技術の進化が交通システムをどのように変えていくのか、今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "Lyft",
+   "ロボタクシー",
+   "AI"
+  ],
+  "slug": "lyft-has-entered-the-robotaxi-chat",
+  "people": [],
+  "terms": [
+   {
+    "name": "Lyft",
+    "type": "company",
+    "desc": "アメリカを拠点に配車サービスやモビリティプラットフォームを提供する主要企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+  "category": "silicon",
+  "date": "2026-09-14",
+  "time": "02:01",
+  "path": "/articles/20260914-lyft-has-entered-the-robotaxi-chat.html"
+ },
+ {
+  "title": "Waymoロボタクシーが乗客を乗せたまま警察に通報した理由",
+  "lead": "米サンフランシスコで、自動運転タクシーに乗車していた少年らが警察に逮捕されました。車が自ら停車し、警察に通報したその背景とは何だったのでしょうか。",
+  "summary3": [
+   "Waymoの車内で少年2人が逮捕された",
+   "車が自ら停車し警察に通報した",
+   "所持品から実弾入りの銃が発見された"
+  ],
+  "body": [
+   "海外メディア「The Verge」の報道によると、アメリカのサンフランシスコにおいて、自動運転タクシー「Waymo（ウェイモ）」の車両に乗車していた2人の人物が逮捕されました。事件が起きた際、ロボタクシーであるはずの車が自ら路肩に停車し、警察に通報するという異例の事態が発生しました。",
+   "通報を受けて駆けつけた警察官が車内の乗客を確認したところ、乗っていたのは未成年である少年たちでした。彼らの所持品からは、弾薬が装填されたARスタイルのいわゆる「ゴーストガン（自製銃）」が見つかりました。警察の報告書には、当時車をどのように操作していたのかについての詳細な言及はありませんでしたが、少年たちはそのまま少年保護施設へと連行されました。",
+   "自動運転技術を活用した配車サービスが普及しつつある中、ロボタクシーが安全上の重大なトラブルに関与し、自ら警察へ通報するという今回の事例は、今後の無人車両の運用やセキュリティ対策において大きな波紋を呼びそうです。"
+  ],
+  "tags": [
+   "Waymo",
+   "ロボタクシー",
+   "自動運転"
+  ],
+  "slug": "waymo-robotaxi-calls-police-on-riders-with-ghost-gun",
+  "people": [],
+  "terms": [
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカのAlphabet傘下の企業で、完全自動運転によるロボタクシーサービスを開発・提供しています。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+  "category": "silicon",
+  "date": "2026-09-14",
+  "time": "02:01",
+  "path": "/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html"
  }
 ]

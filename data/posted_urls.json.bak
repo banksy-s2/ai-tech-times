@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
   "https://www.techmeme.com/260727/p31#a260727p31",
   "https://news.web.nhk/newsweb/na/na-k10015187511000",
   "https://news.web.nhk/newsweb/na/na-k10015188221000",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z0JfOXRmSVZTM0JzaTEtVmVrR2xCZXpsaUNNM0lHSlRDbFQ1dXZaN19XbXVPMmVFZVhYaHFtbG43VDl6d0w4NkxGUXp4TS1qclE?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260913de49962",
   "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-  "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+  "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+  "https://zenn.dev/hampen2929/books/claude-code-production-guide"
  ],
  "titles": [
-  "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
-  "Claudeの生成した文章に「目に見えない透かし」を埋め込むとAnthropicが発表、日本を含めた全世界で適用される予定",
   "Googleの新スマホPixel 11、8月20日発売の理由",
   "Anthropic、Claude生成文章に目に見えない透かしを導入へ",
   "Tesla wants to build a $10B solar factory in Texas",
@@ -4001,6 +3999,8 @@
   "沖縄県知事選：古謝玄太氏の勝因と高市政権への影響",
   "サウジアラビア、石油パイプライン停止の背景",
   "Anthropic CEO says it’s time to pump the brakes on AI",
-  "Anthropic CEOがAI開発の減速を提唱、その理由は"
+  "Anthropic CEOがAI開発の減速を提唱、その理由は",
+  "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
+  "Claude Codeの自律ループ運用、4つの壁を越えるには"
  ]
 }

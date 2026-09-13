@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-14 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-14 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Claude Codeの自律ループ運用、4つの壁を越えるには",
-   "path": "/articles/20260914-claude-code-production-guide.html",
-   "cat": "日本のAI"
+   "title": "Lyftがロボタクシー分野に参入、その全容とは",
+   "path": "/articles/20260914-lyft-has-entered-the-robotaxi-chat.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Waymoロボタクシーが乗客を乗せたまま警察に通報した理由",
+   "path": "/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "I Survived 100 Days on One Block",
   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
- "notes": [
-  "執筆失敗: AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 13,
   "limit": 200
  }
 }

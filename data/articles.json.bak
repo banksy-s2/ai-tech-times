@@ -85131,5 +85131,39 @@
   "date": "2026-09-14",
   "time": "00:00",
   "path": "/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html"
+ },
+ {
+  "title": "Claude Codeの自律ループ運用、4つの壁を越えるには",
+  "lead": "AI TECH TIMESは、Claude CodeをCI/CDに組み込み無人で回すための設計書について報じます。",
+  "summary3": [
+   "Claude Codeの自律ループ運用を解説",
+   "CI/CDに組み込み無人で動作を実現",
+   "暴走・品質などの4つの壁に対処"
+  ],
+  "body": [
+   "対話での利用が進むClaude Codeですが、今後は「毎晩黙って働くチームメンバー」として活用するフェーズに入りつつあります。Zennなどで公開された「Claude Code本番運用ガイド」では、ヘッドレス実行を活用した自律的な開発プロセスの設計が示されています。",
+   "具体的なアプローチとして、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出から修正、検証、そしてコミットに至るまでの自律ループを無人で回す手法が解説されています。",
+   "しかし、本番運用においては、暴走、品質、コスト、監査という4つの壁が立ちはだかります。本書は、これら実運用上の課題に対してガードレールを設けるための設計書となっており、開発の自動化を進める上で重要な指針を提供しています。"
+  ],
+  "tags": [
+   "Claude Code",
+   "CI/CD",
+   "自律エージェント"
+  ],
+  "slug": "claude-code-production-guide",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude Code",
+    "type": "ai",
+    "desc": "Anthropicが開発する、コマンドラインから対話形式でコーディングを支援するAIツール"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
+  "category": "ai_jp",
+  "date": "2026-09-14",
+  "time": "01:00",
+  "path": "/articles/20260914-claude-code-production-guide.html"
  }
 ]

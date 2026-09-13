@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 02:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Lyftがロボタクシー分野に参入、その全容とは](https://ai-tech-times.web.app/articles/20260914-lyft-has-entered-the-robotaxi-chat.html) — 2026-09-14 02:01: モビリティの未来とAIの役割を伝えるTechCrunch Mobilityが、Lyftによるロボタクシー分野への参入について報じました。
+- [Waymoロボタクシーが乗客を乗せたまま警察に通報した理由](https://ai-tech-times.web.app/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html) — 2026-09-14 02:01: 米サンフランシスコで、自動運転タクシーに乗車していた少年らが警察に逮捕されました。車が自ら停車し、警察に通報したその背景とは何だったのでしょうか。
 - [Claude Codeの自律ループ運用、4つの壁を越えるには](https://ai-tech-times.web.app/articles/20260914-claude-code-production-guide.html) — 2026-09-14 01:00: AI TECH TIMESは、Claude CodeをCI/CDに組み込み無人で回すための設計書について報じます。
 - [Anthropic CEOがAI開発の減速を提唱、その理由は](https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html) — 2026-09-14 00:00: AI開発企業AnthropicのCEOが、AIの急速な開発をペースダウンさせる時機が来たと主張しました。安全性の確保へ向けた具体的な3ステップの計画を提案しています。
 - [沖縄県知事選：古謝玄太氏の勝因と高市政権への影響](https://ai-tech-times.web.app/articles/20260913-okinawa-governor-election-koja.html) — 2026-09-13 22:00: 沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が初当選を確実にしました。勝因や高市政権への影響について解説します。
@@ -40,15 +42,13 @@
 - [OpenAI年内IPO見送りとAI開発の警戒](https://ai-tech-times.web.app/articles/20260913-openai-rules-out-ipo-and-ai-warnings.html) — 2026-09-13 19:01: オープンAIが今年の株式公開（IPO）を見送る方針を示しました。トップらがAI開発のスピードが早すぎると警告を発しています。
 - [CNBC Techが報じる、住宅不足に挑む建設ロボットの現実](https://ai-tech-times.web.app/articles/20260913-housing-shortage-home-construction-robots.html) — 2026-09-13 19:01: アメリカの住宅市場で深刻化する住宅不足と人手不足に対し、建設ロボットの実用化が進んでいます。一方で、人型ロボットによる住宅建築はまだ実現していません。
 - [Gartner予測：AI解雇の3割が再雇用に](https://ai-tech-times.web.app/articles/20260913-gartner-ai-layoffs-rehire-prediction.html) — 2026-09-13 18:00: 生成AIやAIエージェントの導入が広がる中、GartnerがAIの仕事の未来に関する予測を発表しました。
-- [Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方](https://ai-tech-times.web.app/articles/20260913-firefox-local-translation-features.html) — 2026-09-13 18:00: Google翻訳などの外部サービスを使わず、プライバシーを守りながら翻訳できるFirefoxの機能が注目を集めています。
-- [ツァイスがAI半導体で売上高2.2倍、老舗光学メーカーの躍進](https://ai-tech-times.web.app/articles/20260913-zeiss-ai-semiconductor-growth.html) — 2026-09-13 17:04: ドイツの光学機器メーカー、カール・ツァイスが人工知能（AI）半導体の量産に欠かせない超精密レンズで売上高を2.2倍に伸ばしています。東西分断の歴史を乗り越えた同社の躍進の背景に迫ります。
 
 ## 世界のバズ動画TOP3 (2026-09-14)
 - 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
 - 2位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
 - 3位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
 
-## AI用語事典 (全1476語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1477語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
