@@ -84504,5 +84504,79 @@
   "date": "2026-09-13",
   "time": "17:04",
   "path": "/articles/20260913-moomoo-earnings-announcement-lesson.html"
+ },
+ {
+  "title": "Gartner予測：AI解雇の3割が再雇用に",
+  "lead": "生成AIやAIエージェントの導入が広がる中、GartnerがAIの仕事の未来に関する予測を発表しました。",
+  "summary3": [
+   "GartnerがAIの未来に関する4つのシフトを発表",
+   "AIで解雇した従業員の3割が再雇用になる見通し",
+   "人員・コスト削減目的のAI導入に経営層の誤算"
+  ],
+  "body": [
+   "生成AIやAIエージェントの導入が広がり、AIの活用が業務の速度と範囲を広げています。その中で、AIを人員削減やコスト削減の手段と位置付ける企業は少なくありません。",
+   "こうした状況の中、Gartnerは2026年9月9日（現地時間）、AIが仕事の未来にもたらす「4つのシフト」に関する予測を発表しました。",
+   "この中で同社は、AIによる置き換えを理由に解雇された従業員の3割は再雇用になると指摘しており、経営層の誤算が浮き彫りとなっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "AIエージェント",
+   "Gartner",
+   "雇用"
+  ],
+  "slug": "gartner-ai-layoffs-rehire-prediction",
+  "people": [],
+  "terms": [
+   {
+    "name": "Gartner",
+    "type": "company",
+    "desc": "世界有数のIT調査およびアドバイザリー企業であり、企業の経営や技術に関する調査・予測を行っている。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
+  "category": "ai_jp",
+  "date": "2026-09-13",
+  "time": "18:00",
+  "path": "/articles/20260913-gartner-ai-layoffs-rehire-prediction.html"
+ },
+ {
+  "title": "Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方",
+  "lead": "Google翻訳などの外部サービスを使わず、プライバシーを守りながら翻訳できるFirefoxの機能が注目を集めています。",
+  "summary3": [
+   "機密文書の翻訳でプライバシー保護を重視",
+   "ローカル翻訳は負荷や品質に課題があった",
+   "Firefoxの標準機能が優秀で簡単に使える"
+  ],
+  "body": [
+   "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが、「機密文書」や「プライバシーに直結するテキスト」を翻訳する際には、あまり使いたくないと考える方が少なくありません。かといって、完全にローカルで使える翻訳システムを探すと、「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題に直面しがちです。",
+   "「ローカルで使えて簡単に導入できて低負荷で品質も十分な翻訳システムはないかな～」と探していたところ、Firefoxに標準搭載されている翻訳機能がなかなか優秀なことに気付きました。外部のサーバーへデータを送信せずに翻訳処理を行えるため、セキュリティ面での懸念を軽減できる点が大きな魅力です。",
+   "今回は、このFirefoxに標準搭載されている翻訳機能について、Google翻訳っぽく手軽に活用できる便利な使い方をまとめてご紹介します。プライバシーをしっかり守りながら快適にテキストを翻訳したい方は、ぜひチェックしてみてください。"
+  ],
+  "tags": [
+   "Firefox",
+   "翻訳",
+   "プライバシー"
+  ],
+  "slug": "firefox-local-translation-features",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、多様なソフトウェアやハードウェア、インターネット関連サービスを展開するアメリカの企業。"
+   },
+   {
+    "name": "Firefox",
+    "type": "ai",
+    "desc": "Mozilla Foundationが開発・提供している、オープンソースのウェブブラウザおよび関連機能の総称。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260912-firefox-translations/",
+  "category": "ai_jp",
+  "date": "2026-09-13",
+  "time": "18:00",
+  "path": "/articles/20260913-firefox-local-translation-features.html"
  }
 ]

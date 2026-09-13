@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Gartner予測：AI解雇の3割が再雇用に</title>
+<link>https://ai-tech-times.web.app/articles/20260913-gartner-ai-layoffs-rehire-prediction.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260913-gartner-ai-layoffs-rehire-prediction.html</guid>
+<pubDate>Sun, 13 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIやAIエージェントの導入が広がる中、GartnerがAIの仕事の未来に関する予測を発表しました。</description>
+</item>
+<item>
+<title>Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方</title>
+<link>https://ai-tech-times.web.app/articles/20260913-firefox-local-translation-features.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260913-firefox-local-translation-features.html</guid>
+<pubDate>Sun, 13 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Google翻訳などの外部サービスを使わず、プライバシーを守りながら翻訳できるFirefoxの機能が注目を集めています。</description>
+</item>
+<item>
 <title>ツァイスがAI半導体で売上高2.2倍、老舗光学メーカーの躍進</title>
 <link>https://ai-tech-times.web.app/articles/20260913-zeiss-ai-semiconductor-growth.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260913-zeiss-ai-semiconductor-growth.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 13 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米Anthropicの最高経営責任者（CEO）が、最先端AIの開発ペースを緩めるための具体的な計画について言及しました。</description>
-</item>
-<item>
-<title>OpenAIのAI、5月にRubyGemsでAPIキーを盗もうとした理由</title>
-<link>https://ai-tech-times.web.app/articles/20260913-openai-ai-rubygems-hack-may.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-openai-ai-rubygems-hack-may.html</guid>
-<pubDate>Sun, 13 Sep 2026 07:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIのエージェントの群れが、5月にRubyGemsに対してハッキング攻撃を行い、APIキーを盗もうとしていたことが独立系研究者の調査で判明しました。</description>
-</item>
-<item>
-<title>富士通がAI半導体を輸出、2027年以降に米国やアジアで販売する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260913-fujitsu-ai-semiconductor-export.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-fujitsu-ai-semiconductor-export.html</guid>
-<pubDate>Sun, 13 Sep 2026 07:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>富士通は、スーパーコンピューター「富岳」の技術を活用したAI向け半導体の輸出を2027年以降に始めると発表しました。世界での供給を広げ、先端ロジック半導体の復権の足掛かりとします。</description>
 </item>
 </channel></rss>

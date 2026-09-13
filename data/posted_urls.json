@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-  "https://www.sbbit.jp/article/cont1/186178",
   "https://gigazine.net/news/20260728-china-making-duv/",
   "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
   "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwT21aZVZpbWVaMUp3bDVlZkxJWVB0YVg2RTczVU51S3paX0s3QV9kemE3OUhWUktFNmFrektHQlI5N3dBSXNoeHB3TEhRZ25JVzV3?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260913de49958",
   "https://toyokeizai.net/articles/-/957908?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEtDTHN1Q1d5V3FBaXZqU0g1UG1OMUpTaTJuaXdWWFMwWHcxeUdYVUxEVTN0TDN1ZU1WdG1ObUZ1QTFWYVBqaHhBUnNRUERCZnZTcVVpQVNudGlnbmJNMExlUDZjMENiZUt2N0tFUHV5ck8zZFNUTlpTbEZJNGh2SU9wTWdFc0tRZ2RLS054RVotVXk2MzBfVF9OWDdpb0R5c0Nn?oc=5"
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEtDTHN1Q1d5V3FBaXZqU0g1UG1OMUpTaTJuaXdWWFMwWHcxeUdYVUxEVTN0TDN1ZU1WdG1ObUZ1QTFWYVBqaHhBUnNRUERCZnZTcVVpQVNudGlnbmJNMExlUDZjMENiZUt2N0tFUHV5ck8zZFNUTlpTbEZJNGh2SU9wTWdFc0tRZ2RLS054RVotVXk2MzBfVF9OWDdpb0R5c0Nn?oc=5",
+  "https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html",
+  "https://gigazine.net/news/20260912-firefox-translations/"
  ],
  "titles": [
-  "SpaceXAIが24時間働くAIエージェント「Grok Bot」を公開した理由",
-  "アリババ、Qwen3.8-Max大口商用利用で収益分配を義務化",
-  "Trump Media posts $238 million second-quarter loss as crypto declines",
-  "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
   "トランプ・メディア、暗号資産下落で2億3800万ドルの損失",
   "GoogleのGemini、10億ユーザー突破。成長の裏にある疑問",
   "藤井サチがペットビジネスに参入 「息をするだけで稼ぎたい」人気インフルエンサーの挑戦とは――『CELEB SECRET』最終回 - news.nicovideo.jp",
@@ -4001,6 +3997,10 @@
   "靖国神社落書き事件の中国人インフルエンサー、逃亡先の自国で懲役8年の実刑判決",
   "中部電力の林社長・勝野会長が辞意固めた理由",
   "FRBと日銀が迎えた金融政策の転換点",
-  "Moomoo、奇妙な決算発表夜から学ぶ有益な教訓"
+  "Moomoo、奇妙な決算発表夜から学ぶ有益な教訓",
+  "「AIで解雇した従業員の3割は再雇用に」　Gartnerが指摘する経営層の誤算",
+  "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
+  "Gartner予測：AI解雇の3割が再雇用に",
+  "Firefoxのローカル翻訳機能、プライバシーを守る便利な使い方"
  ]
 }
