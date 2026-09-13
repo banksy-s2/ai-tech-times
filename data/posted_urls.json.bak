@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015187351000",
   "https://news.web.nhk/newsweb/na/na-k10015187481000",
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVzVtbFpabFRIMmdGYm00b2VKTmRQNFlqenZoSHN1SUp1cVdJNHVZLVVmQk90cW8td190VVotUzg1VmJKYkJrNWFnd2dzX29Nc3NuTnhQZWpvRURoQnhQbGg2VHBqbi1kU0ExWE1XQkNCRnQyOUszcTRRODU3UQ?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVWpkRkFwelQ5N2JSTFR5M3FPM1RjX3JXZUZoTEgtcGJ3RC0wajNwWERkOFc5QXJEVHYwY3ZQYWxFY3JadHNXLVFaajhBcnQtYkFyRThocXVSM2tOaWR6UXRyNmRfaHJES3JxMnMwa3dVV05FeEpBbVdUTUFYQ0k?oc=5",
@@ -1999,11 +1998,10 @@
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
   "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
   "https://www.techmeme.com/260912/p14#a260912p14",
-  "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+  "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+  "https://www.sanspo.com/article/20260913-4C3BFTTJKZIOHP57NYMON44JGU/"
  ],
  "titles": [
-  "横浜ゴム－急騰 決算説明会を好感 成長余地大きいとのアナリストコメント(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-  "Saber、ChatGPTでライター解雇を否定",
   "Google検索が衰退する中、消えゆくインターネットの記憶とは",
   "Gartner予測：37兆円のSaaS支出が消える理由",
   "YouTubeパートナープログラムに過去1年で8000時間の新条件",
@@ -4001,6 +3999,8 @@
   "Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying \"Dario is right\" (Politico)",
   "Revolut confirms customer data breach through fake government requests",
   "イーロン・マスク氏が先端AIの開発ペース鈍化を支持、なぜ賛同したのか",
-  "Revolutが顧客データ流出、偽の政府要請で何が起きたか"
+  "Revolutが顧客データ流出、偽の政府要請で何が起きたか",
+  "櫻井翔の新MCで「アメリカ横断ウルトラクイズ」が開幕　初代MC・福留功男から「とにかく睡眠を取れ」と金言授かる",
+  "日本テレビ系「アメリカ横断ウルトラクイズ」28年ぶり復活、櫻井翔が新MCで開幕"
  ]
 }

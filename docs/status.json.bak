@@ -1,26 +1,21 @@
 {
- "updated": "2026-09-13 10:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-13 11:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "イーロン・マスク氏が先端AIの開発ペース鈍化を支持、なぜ賛同したのか",
-   "path": "/articles/20260913-elon-musk-backs-dario-amodei-pacing.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Revolutが顧客データ流出、偽の政府要請で何が起きたか",
-   "path": "/articles/20260913-revolut-confirms-customer-data-breach.html",
-   "cat": "シリコンバレー最速"
+   "title": "日本テレビ系「アメリカ横断ウルトラクイズ」28年ぶり復活、櫻井翔が新MCで開幕",
+   "path": "/articles/20260913-ultra-quiz-revival-sakurai-shou.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
-  "title": "Diablo V Teaser",
-  "url": "https://www.youtube.com/watch?v=GxCN_AKYtts"
+  "title": "I Survived 100 Days on One Block",
+  "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 59,
+  "used": 64,
   "limit": 200
  }
 }
