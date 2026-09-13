@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.asahi.com/articles/ASV7W2FL9V7WUTQP029M.html",
-  "https://news.web.nhk/newsweb/na/na-k10015187551000",
   "https://news.web.nhk/newsweb/na/na-k10015187671000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcVczVGVRWFR2RldwMk1JbXlQZFE5WUZuYllqdmo2VkZfNEVRVkVYWUU1MTYtdng0dXRkQzNmTmMyZS1ubFZHaEZhTnRya3RaRlRiR2toOFBkb19EMXRQeFB5SzdlSUE5TnVGRQ?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZFFOUFJ5UjFvamlxWnhUY0tMRG5nR0N4TEF4VWdhTWNzY3FlbGdLRkNWb1hmdlMwUG96cWg5NmJ6Y0VoRXBEa01LdHRSd2Ziekx0TWppS3ktUWFha1JoWHBsa2IxV3JLTFJuNg?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZzFobUxvVVpqX1dIMl9pNEo3Z0c3YWE3cFU5aFo2VWlraU1yY0dwNkYtRy16ci10UzBtdzl3LUFFNTZwZFdsSmRfdTFwdGlKZlR3cVo5VFM3aVFRcnUzZzVZcEgydw?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260913de49936",
   "https://news.web.nhk/newsweb/na/nd-20260913de49937",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5VLUZHMlZENFJuanRDU2tNSXpxZzJObHJkaF9oX1h4UmNFUGkwNng4UGlESnJtS09QSmVrZFlIWmhKQlNFNTVYLUR6eTZGdHZJd1lCTmJOS29wNmlZRjBOTWpJTFg1bnBIdE5rekdZZUFHaTJvVk9kUGp0aWpJUHZFSVFadmQ0WmozNnlLTG9CdlFkWGJCYXB5V1NTU25tT2hBS0NGdUQ3WW1fSDZaQw?oc=5"
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5VLUZHMlZENFJuanRDU2tNSXpxZzJObHJkaF9oX1h4UmNFUGkwNng4UGlESnJtS09QSmVrZFlIWmhKQlNFNTVYLUR6eTZGdHZJd1lCTmJOS29wNmlZRjBOTWpJTFg1bnBIdE5rekdZZUFHaTJvVk9kUGp0aWpJUHZFSVFadmQ0WmozNnlLTG9CdlFkWGJCYXB5V1NTU25tT2hBS0NGdUQ3WW1fSDZaQw?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260913de49941",
+  "https://news.web.nhk/newsweb/na/nd-20260912de49848"
  ],
  "titles": [
-  "なぜAIで作業を効率化しても、給料が上がらないのか？",
-  "Metaに買収されたAIスタートアップ・Manusが独立運営に戻ることを表明",
-  "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-  "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
   "海外「日本だけ別世界じゃんｗ」『ちいかわ』がハリウッド超大作に勝利してしまい世界が困惑",
   "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
   "中国とインドネシアの海軍 台湾東の海域で訓練実施へ",
@@ -4001,6 +3997,10 @@
   "「ぽこピー」竜とそばかすの姫出演決定、VTuberオーディション経て",
   "ゼレンスキー大統領、ロシア首脳会談に前向き",
   "トランプ大統領「統一アイルランド見たい」発言で英国から非難",
-  "オラクル決算発表で緑から赤へ大逆転"
+  "オラクル決算発表で緑から赤へ大逆転",
+  "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
+  "世界の海面水温の平均 日ごとの過去最高を100日連続で更新",
+  "北口榛花が68m92の日本新記録で優勝、なぜ世界の強豪制したのか",
+  "クライメート・セントラル：世界の海面水温が過去最高を100日連続で更新"
  ]
 }

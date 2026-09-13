@@ -83799,5 +83799,338 @@
   "date": "2026-09-13",
   "time": "11:01",
   "path": "/articles/20260913-ultra-quiz-revival-sakurai-shou.html"
+ },
+ {
+  "title": "エヌビディアはAIの中央銀行なのか？エコノミスト誌の分析",
+  "lead": "AI開発を牽引する半導体大手エヌビディアの立ち位置について、エコノミスト誌が独自の視点から報じています。",
+  "summary3": [
+   "エヌビディアの立ち位置を分析",
+   "エコノミスト誌が記事を公開",
+   "AI市場における動向に注目"
+  ],
+  "body": [
+   "AI技術の急速な発展に伴い、そのエコシステムにおける各企業の役割に注目が集まっています。AI TECH TIMESの調査によると、海外メディアのエコノミスト誌が「Nvidia is the central bank of AI」というタイトルの記事を公開しました。",
+   "この記事では、AI開発に不可欠な半導体を提供し、市場全体に大きな影響力を持つエヌビディアの現状について解説が行われています。AI業界の発展を支える中核としての役割が取り上げられており、多くの議論を呼んでいます。",
+   "海外のソーシャルニュースサイトでも本記事は大きな反響を呼んでおり、AI業界の今後の動向を占う上で重要な情報として多くのユーザー間でシェアされています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AI",
+   "エコノミスト"
+  ],
+  "slug": "nvidia-is-the-central-bank-of-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカ合衆国にある半導体メーカーで、AI開発に欠かせないGPUの開発・販売で世界的に知られています。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "category": "ai",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-nvidia-is-the-central-bank-of-ai.html"
+ },
+ {
+  "title": "非公開の実世界コードでAIを評価する「Real-SWE」登場",
+  "lead": "AIモデルの実力を非公開の現実的な企業コードベースで測定する新しいベンチマーク「Real-SWE」が公開され、注目を集めています。",
+  "summary3": [
+   "非公開の現実コードでAIを評価",
+   "HNで139ポイントを獲得し話題に",
+   "企業コードでの性能測定を刷新"
+  ],
+  "body": [
+   "AI TECH TIMESの調査によると、AIモデルの性能を測定する新たなベンチマークとして「Real-SWE」が登場しました。このベンチマークは、実際の企業の非公開コードベースを使用してAIモデルを評価する仕組みを持っています。",
+   "Hacker News上の議論では、この記事に対して139ポイントが寄せられ、多くのコメントが交わされるなど、エンジニアや研究者の間で関心を集めています。公開されたURLや詳細な議論は「Real-SWE」の関連ページで確認可能です。",
+   "現実世界の複雑なコード環境において、AIがどこまで実用的な成果を出せるのかを測定する基準として、今後の開発や評価に影響を与える可能性があります。"
+  ],
+  "tags": [
+   "AI",
+   "ベンチマーク",
+   "プログラミング"
+  ],
+  "slug": "real-swe-benchmarking-ai-models",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://withspecific.com/benchmarks/real-swe",
+  "category": "ai",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-real-swe-benchmarking-ai-models.html"
+ },
+ {
+  "title": "安野貴博が語るAGI競争の現場とAI研究者の賞味期限",
+  "lead": "シリコンバレーでAI関係者15人に取材を実施。AGI競争の終盤戦が進む現地のリアルな状況が明らかになりました。",
+  "summary3": [
+   "安野貴博氏がシリコンバレーで取材",
+   "AI関係者15人に聞き取りを実施",
+   "AGI競争の終盤戦の様相を解説"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきました。最先端AIをつくっている企業フロンティアラボの研究者をはじめ、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのかを探っています。",
+   "現地では街中のいたるところにAIの広告が貼られており、開発競争の激しさがうかがえる状況でした。「AI研究者としての自分の賞味期限はあと1年」という言葉も飛び出すなど、AGI競争も終盤戦の様相を呈していることが現地での取材から見えてきています。",
+   "最先端の現場で何が語られていたのか。多様な立場からの意見をもとに、現在のAI開発競争の現在地を紐解きます。"
+  ],
+  "tags": [
+   "AI",
+   "シリコンバレー",
+   "AGI"
+  ],
+  "slug": "takahiro-anno-agi-competition",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://note.com/takahiroanno/n/n4accbde18d56",
+  "category": "ai_jp",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-takahiro-anno-agi-competition.html"
+ },
+ {
+  "title": "アンソロピックCEO、AI開発の減速を訴え",
+  "lead": "米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、AIによる脅威が高まっているとして、最開発の減速を呼びかけました。",
+  "summary3": [
+   "アンソロピックCEOが開発減速を訴え",
+   "対応を誤れば1年以内にネット乗っ取りの恐れ",
+   "業界で協調して最先端AIの脅威に備える必要性"
+  ],
+  "body": [
+   "【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけました。",
+   "AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取りの恐れもあると強く警告しています。",
+   "今回の発表では、競合である米オープンAIなどの動向にも触れつつ、安全性を最優先にした慎重なアプローチの必要性が示されています。"
+  ],
+  "tags": [
+   "アンソロピック",
+   "人工知能",
+   "IT"
+  ],
+  "slug": "anthropic-ceo-warns-ai-threat",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "米アンソロピックの最高経営責任者（CEO）。AIの安全性確保や開発のあり方について警鐘を鳴らす。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能ベンチャー企業。安全性に配慮した最先端のAI開発を進めていることで知られる。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
+  "category": "ai_jp",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-anthropic-ceo-warns-ai-threat.html"
+ },
+ {
+  "title": "Blizzard、名作『StarCraft』オープンワールドシューターとして再始動へ",
+  "lead": "海外メディアのThe Vergeによると、かつて開発中止となった『StarCraft』の3Dシューター企画が、オープンワールドシューターとして再び始動することが明らかになりました。",
+  "summary3": [
+   "BlizzardがStarCraft新作を発表",
+   "オープンワールドシューターとして開発中",
+   "過去の3D化頓挫から再挑戦へ"
+  ],
+  "body": [
+   "ゲーム開発会社のBlizzardは、かつて『StarCraft: Ghost』という名称で3DシューターとしてStarCraftの世界観をゲーム化しようと試みました。しかし、このプロジェクトは長年開発が難航し、2014年には当時の社長であったマイク・モルハイム氏によって正式にキャンセルが確認される事態となっていました。",
+   "長年の開発中断を経て、同社はこの名作SF世界への挑戦を再び開始することになりました。今回はシンプルに『StarCraft』と名付けられたタイトルとして、オープンワールドシューターという新たなジャンルで開発が進められていることが伝えられています。",
+   "かつてファンを失望させた開発中止の歴史を乗り越え、現代の技術でSF世界がどのように再構築されるのか、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "StarCraft",
+   "Blizzard",
+   "ゲーム"
+  ],
+  "slug": "starcraft-returns-as-open-world-shooter",
+  "people": [
+   {
+    "name": "マイク・モルハイム氏",
+    "bio": "Blizzardの元社長であり、同社の創業者の一人として長年ゲーム開発と経営を率いた人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Blizzard",
+    "type": "company",
+    "desc": "アメリカに拠点を置く、世界的に有名な数々の大ヒットゲームシリーズを手がける大手ゲーム開発会社。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+  "category": "silicon",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-starcraft-returns-as-open-world-shooter.html"
+ },
+ {
+  "title": "Unitreeの4,000ドル中国製ロボット犬を購入した理由",
+  "lead": "中国のロボット企業Unitreeの製品を購入した体験談から、同社が世界で最も重要なロボット企業である理由を探ります。",
+  "summary3": [
+   "中国のロボット企業Unitreeの製品を購入",
+   "価格は4,000ドルでロボット犬を入手",
+   "Unitreeは世界最重要のロボット企業"
+  ],
+  "body": [
+   "海外メディアのArs Technicaにて、中国のロボット企業であるUnitreeが製造した4,000ドルのロボット犬を購入したという体験談が報じられました。",
+   "記事では、数あるロボット企業の中でも、Unitreeが現在世界で最も重要な存在であるかもしれないとその重要性が指摘されています。",
+   "最先端のロボット技術や中国企業によるハードウェア開発の進化に関心を持つ読者にとって、見逃せない動向となっています。"
+  ],
+  "tags": [
+   "ロボット",
+   "Unitree",
+   "ガジェット"
+  ],
+  "slug": "unitree-robot-dog-purchase",
+  "people": [],
+  "terms": [
+   {
+    "name": "Unitree",
+    "type": "company",
+    "desc": "中国を拠点に高性能な四足歩行ロボットなどを開発・販売する注目のロボット企業。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+  "category": "silicon",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-unitree-robot-dog-purchase.html"
+ },
+ {
+  "title": "「ぽこピー」竜とそばかすの姫出演決定、VTuberオーディション経て",
+  "lead": "「ぽこピー」の2人が、「竜とそばかすの姫 - PROJECT LAYRA - 」への出演が決定したことを発表しました。VTuberを対象としたオーディションを経ての出演となります。",
+  "summary3": [
+   "ぽこピーの2人の出演が決定",
+   "竜とそばかすの姫の企画",
+   "VTuber対象オーディション経て"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が取得した情報によりますと、「ぽこピー」の2人が「竜とそばかすの姫 - PROJECT LAYRA - 」に出演することが決定いたしました。今回の出演は、VTuberを対象としたオーディションを経て決まったものとなります。",
+   "詳細なオーディションの経過や、作品内での具体的な役どころなどについては、今後の発表が注目されるところです。ファンにとっても見逃せない展開となっています。"
+  ],
+  "tags": [
+   "ぽこピー",
+   "竜とそばかすの姫",
+   "VTuber"
+  ],
+  "slug": "pokope-dragon-and-freckled-princess",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZzFobUxvVVpqX1dIMl9pNEo3Z0c3YWE3cFU5aFo2VWlraU1yY0dwNkYtRy16ci10UzBtdzl3LUFFNTZwZFdsSmRfdTFwdGlKZlR3cVo5VFM3aVFRcnUzZzVZcEgydw?oc=5",
+  "category": "influencer",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-pokope-dragon-and-freckled-princess.html"
+ },
+ {
+  "title": "ゼレンスキー大統領、ロシア首脳会談に前向き",
+  "lead": "ウクライナのゼレンスキー大統領が、アメリカで開かれるG20首脳会議に合わせたロシアのプーチン大統領との会談に前向きな考えを示しました。",
+  "summary3": [
+   "ウクライナ大統領が会談に前向き",
+   "米国でのG20サミットが舞台",
+   "ロシアのプーチン大統領が対象"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。ウクライナのゼレンスキー大統領は、2026年12月にアメリカで開かれるG20＝主要20か国の首脳会議に合わせて、現地でロシアのプーチン大統領と会談することに前向きな考えを示しました。",
+   "今回の動きは、国際的な外交の場における今後の動向として注目を集めています。G20の機会を利用した首脳会談の実現に向けて、各国からの関心も高まることが予想されます。",
+   "これに対してロシア側の対応や今後の詳細なスケジュールについては、引き続き慎重な見方が続けられています。今後の国際社会の動きから目が離せません。"
+  ],
+  "tags": [
+   "ウクライナ",
+   "ロシア",
+   "国際政治"
+  ],
+  "slug": "zelenskyy-russia-summit-g20",
+  "people": [
+   {
+    "name": "ゼレンスキー大統領",
+    "bio": "ウクライナの大統領を務め、ロシアとの紛争に対応する国家指導者。"
+   },
+   {
+    "name": "プーチン大統領",
+    "bio": "ロシアの大統領として国の内外政を主導する政治指導者。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260913de49936",
+  "category": "world",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-zelenskyy-russia-summit-g20.html"
+ },
+ {
+  "title": "トランプ大統領「統一アイルランド見たい」発言で英国から非難",
+  "lead": "アメリカのトランプ大統領が訪問先の アイルランドで北アイルランドの帰属に関して言及し、イギリス国内で物議を醸しています。",
+  "summary3": [
+   "トランプ大統領がアイルランドを訪問",
+   "北アイルランドの統一に言及した",
+   "イギリス国内から非難の声が上がった"
+  ],
+  "body": [
+   "アメリカのトランプ大統領は、訪問先のアイルランドにおいて、長年にわたり帰属をめぐり議論が続いてきた北アイルランドについて発言を行いました。",
+   "トランプ大統領は北アイルランドについて「統一されたアイルランドを見たい」との考えを述べ、その発言が大きな注目を集めています。",
+   "このトランプ大統領による踏み込んだ発言に対して、イギリスでは反発や非難の声も上がっており、今後の動向が懸念されています。"
+  ],
+  "tags": [
+   "国際ニュース",
+   "政治",
+   "アメリカ"
+  ],
+  "slug": "trump-ireland-unification-statement",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の元大統領であり、現在は大統領を務める政治家。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260913de49937",
+  "category": "world",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-trump-ireland-unification-statement.html"
+ },
+ {
+  "title": "オラクル決算発表で緑から赤へ大逆転",
+  "lead": "AI TECH TIMESでは、オラクル（ORCL.US）の決算発表に関する情報を報じます。",
+  "summary3": [
+   "オラクルが決算を発表した",
+   "緑から赤への大逆転となった",
+   "詳細な情報がMoomooで伝えられた"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、オラクル（ORCL.US）の決算発表が行われました。",
+   "今回の決算発表では、緑から赤への大逆転が起きたことが伝えられています。",
+   "この決算内容の詳細については、Moomooなどの関連メディアで報じられています。"
+  ],
+  "tags": [
+   "オラクル",
+   "決算発表",
+   "Moomoo"
+  ],
+  "slug": "oracle-earnings-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "オラクル",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、データベース管理システムをはじめとするソフトウェアやクラウドサービスを提供す企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5VLUZHMlZENFJuanRDU2tNSXpxZzJObHJkaF9oX1h4UmNFUGkwNng4UGlESnJtS09QSmVrZFlIWmhKQlNFNTVYLUR6eTZGdHZJd1lCTmJOS29wNmlZRjBOTWpJTFg1bnBIdE5rekdZZUFHaTJvVk9kUGp0aWpJUHZFSVFadmQ0WmozNnlLTG9CdlFkWGJCYXB5V1NTU25tT2hBS0NGdUQ3WW1fSDZaQw?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-13",
+  "time": "12:01",
+  "path": "/articles/20260913-oracle-earnings-results.html"
  }
 ]
