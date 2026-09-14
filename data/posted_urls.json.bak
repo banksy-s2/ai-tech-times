@@ -1,9 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-  "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-  "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
-  "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
   "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
   "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
   "https://news.web.nhk/newsweb/na/na-k10015188041000",
@@ -1999,17 +1995,13 @@
   "https://news.mynavi.jp/article/20260913-4958165/",
   "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/957932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRmRTeVZ1UlZidWlhRjlLLUoyMUdfUEdFTi0zb1lwVFRDM0JGQ2prRkZmeC1UWUx5cXQ2NHNBN3NNbUF3d09TUWE5ZDUxcDFWM0E4?oc=5"
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRmRTeVZ1UlZidWlhRjlLLUoyMUdfUEdFTi0zb1lwVFRDM0JGQ2prRkZmeC1UWUx5cXQ2NHNBN3NNbUF3d09TUWE5ZDUxcDFWM0E4?oc=5",
+  "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+  "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+  "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+  "https://news.web.nhk/newsweb/na/nd-20260914de50007"
  ],
  "titles": [
-  "メルカリがClaude Code導入の裏でシャドーAI対策を進める仕組み",
-  "AppleのiPhone 18、標準モデルは来年発売へ",
-  "MetaとNvidiaが中国勢追う理由",
-  "中東情勢の不透明感で円安、あなたの財布への影響は",
-  "日経平均553円高、6万7000円回復しTOPIX最高値更新",
-  "上場企業の配当総額23兆円、5割弱が増配 家計所得を押し上げ",
-  "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-  "Amazon, which started off selling books, is destroying rare texts to train AI",
   "「MicrosoftよりGoogle」で6億円削減も？　舞鶴市、千代田区が明かすIT刷新とAI活用の成功法則",
   "「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪",
   "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -4001,6 +3993,14 @@
   "日本テレビ系ウルトラクイズが30年ぶりに復活、なぜ今なのか",
   "トランプ氏、アイルランド産ウイスキーの15%関税撤廃を表明",
   "オルツ粉飾決算裁判：日置友輔被告が語った組織の真相",
-  "阪和興業、中山製鋼所と資本業務提携を発表"
+  "阪和興業、中山製鋼所と資本業務提携を発表",
+  "What’s behind the AI industry’s latest warnings of doom?",
+  "AI技術を“無料で公開”、なぜ？　米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+  "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+  "ウクライナとポーランド結ぶ旅客列車にロシアが無人機攻撃",
+  "TechCrunch AIが議論、AIは人類の脅威か",
+  "ITmedia AI+が明かす、AI技術の無料公開で企業が得る戦略",
+  "米下院、AI規制の正念場：猶予期間が迫る中での焦燥",
+  "ジョンソン元首相付近も、ウクライナ旅客列車に無人機攻撃"
  ]
 }

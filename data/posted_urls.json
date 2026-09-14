@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-  "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
   "https://news.web.nhk/newsweb/na/na-k10015188041000",
   "https://news.web.nhk/newsweb/na/na-k10015188481000",
   "https://news.web.nhk/newsweb/na/na-k10015188891000",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
   "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
   "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-  "https://news.web.nhk/newsweb/na/nd-20260914de50007"
+  "https://news.web.nhk/newsweb/na/nd-20260914de50007",
+  "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+  "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html"
  ],
  "titles": [
-  "「MicrosoftよりGoogle」で6億円削減も？　舞鶴市、千代田区が明かすIT刷新とAI活用の成功法則",
-  "「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪",
-  "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-  "米30年債利回り19年ぶり高水準 インフレ再加速へ警戒感",
   "ANAとJALが初のダイヤ調整を正式発表",
   "日経平均が６営業日ぶりに下落、終値１７５９円安の６万７４６０円…長期金利上昇で懸念（読売新聞オンライン） - news.yahoo.co.jp",
   "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
@@ -4001,6 +3997,10 @@
   "TechCrunch AIが議論、AIは人類の脅威か",
   "ITmedia AI+が明かす、AI技術の無料公開で企業が得る戦略",
   "米下院、AI規制の正念場：猶予期間が迫る中での焦燥",
-  "ジョンソン元首相付近も、ウクライナ旅客列車に無人機攻撃"
+  "ジョンソン元首相付近も、ウクライナ旅客列車に無人機攻撃",
+  "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
+  "“最強エージェント”は、まさかのポンコツだった　業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
+  "サックス氏、AnthropicとOpenAIに苦言の理由",
+  "NTTドコモソリューションズに聞くAI運用のつまずき"
  ]
 }

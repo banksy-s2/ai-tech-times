@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>サックス氏、AnthropicとOpenAIに苦言の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260914-sacks-criticizes-ai-slowdown-proposal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260914-sacks-criticizes-ai-slowdown-proposal.html</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>トランプ政権のデビッド・サックス共同議長が、AI開発の減速を求める主要企業トップの姿勢を批判し、波紋を呼んでいます。</description>
+</item>
+<item>
+<title>NTTドコモソリューションズに聞くAI運用のつまずき</title>
+<link>https://ai-tech-times.web.app/articles/20260914-ntt-docomo-solutions-ai-agent-challenges.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260914-ntt-docomo-solutions-ai-agent-challenges.html</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>さまざまな業務を一手に担う万能型のAIエージェントが、なぜ期待を下回る結果しか返さないのでしょうか。NTTドコモソリューションズのIT運用部門のトップに、AIエージェント実装を成功させた道のりを聞きました。</description>
+</item>
+<item>
 <title>TechCrunch AIが議論、AIは人類の脅威か</title>
 <link>https://ai-tech-times.web.app/articles/20260914-whats-behind-the-ai-industrys-latest-warnings-of-doom.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260914-whats-behind-the-ai-industrys-latest-warnings-of-doom.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 13 Sep 2026 21:03:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>東京証券取引所は、10月から新TOPIXの運用を開始し、上場の意味を改めて問い直す動きを見せています。</description>
-</item>
-<item>
-<title>テラドローン、サンバイオ、ギフトHDなどの今週の決算発表予定</title>
-<link>https://ai-tech-times.web.app/articles/20260913-earnings-announcements-teradrone-sunbio-gifthd.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-earnings-announcements-teradrone-sunbio-gifthd.html</guid>
-<pubDate>Sun, 13 Sep 2026 21:03:00 +0900</pubDate>
-<category>日本企業</category>
-<description>AI TECH TIMESがお届けする今週の企業動向。9月14日から18日までの期間に予定されている決算発表のスケジュール情報をお伝えします。</description>
-</item>
-<item>
-<title>メキシコのインフルエンサーが銃撃され死亡</title>
-<link>https://ai-tech-times.web.app/articles/20260913-mexican-influencer-shot-in-restaurant.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260913-mexican-influencer-shot-in-restaurant.html</guid>
-<pubDate>Sun, 13 Sep 2026 20:01:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>メキシコにて、インフルエンサーの人物がレストランで射殺される事件が発生しました。現在、犯罪組織との関連をめぐって捜査が進められています。</description>
 </item>
 </channel></rss>
