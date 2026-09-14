@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-15 03:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-15 04:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "高級車YouTuberあま猫が原点回帰の軽自動車購入と引越しを検討する理由",
-   "path": "/articles/20260915-amaneko-kei-car-purchase-and-move.html",
-   "cat": "インフルエンサー"
+   "title": "経済産業省、LNG緊急融通の枠組み構築へ",
+   "path": "/articles/20260915-meti-lng-emergency-framework.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "高市内閣支持率53％維持、不支持は31％に低下",
+   "path": "/articles/20260915-takaichi-cabinet-approval-rating-nhk-poll.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 14,
   "limit": 200
  }
 }
