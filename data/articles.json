@@ -86249,5 +86249,78 @@
   "date": "2026-09-14",
   "time": "15:00",
   "path": "/articles/20260914-his-fy2026-q3-financial-results.html"
+ },
+ {
+  "title": "OpenAIアルトマン氏が語るAI業界の安全策と減速",
+  "lead": "AI業界で安全性への懸念が高まる中、OpenAIの最高経営責任者がAI開発の減速や安全フレームワークの仕組みについて言及しました。",
+  "summary3": [
+   "OpenAIのトップがAI開発の減速に言及",
+   "業界全体で安全フレームワークの構築が急務に",
+   "コントロールを失うリスクへの懸念が強まる"
+  ],
+  "body": [
+   "AI技術の急速な発展に伴い、業界内部からも安全性に対する懸念の声が上がっています。CNBC Techの報道によると、OpenAIの最高経営責任者であるサム・アルトマン氏は、人工知能の開発においてなぜ減速が必要なのか、そしてその安全フレームワークがどのように機能するのかについて詳細に語りました。",
+   "同氏は、AIの開発スピードがこのまま制御不能になれば、「我々はコントロールを失う可能性がある」と警鐘を鳴らしています。業界全体がこの危機感を共有し、足並みを揃えて安全性の確保に向けた議論や枠組みの構築に動き出している状況です。",
+   "AIの進化が私たちの社会やビジネスに多大な影響を与える現在、技術の暴走を防ぐための具体的なルール作りが急ピッチで進められています。今後の業界の動向や、安全フレームワークがどのように運用されていくのかに注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "人工知能",
+   "AI安全性"
+  ],
+  "slug": "openai-sam-altman-ai-slowdown-safety",
+  "people": [
+   {
+    "name": "サム・アルトマン氏",
+    "bio": "米OpenAIの最高経営責任者。人工知能の研究開発を牽引し、ChatGPTなどを世に送り出した業界の中心人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置く人工知能の研究開発企業。対話型AIのChatGPTなどを開発し、世界のAI業界をリードする。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "02:51",
+  "path": "/articles/20260915-openai-sam-altman-ai-slowdown-safety.html"
+ },
+ {
+  "title": "Z.aiが50億ドル調達も株価10%超下落、その背景とは",
+  "lead": "中国のAI企業Z.aiが、2ヶ月ぶりとなる大規模な資金調達を実施したと発表しました。しかし、この発表後に株価が急落する展開となっています。",
+  "summary3": [
+   "中国のAI企業Z.aiが大型資金調達を発表",
+   "2ヶ月ぶりとなる巨額の資金集めに踏み切る",
+   "発表後に株価が10%を超える急落を記録"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新ニュースです。中国のAI企業であるZ.aiは、2ヶ月ぶりとなる大規模な資金調達を実施したことを明らかにしました。今回の資金調達額は50億ドル規模に達しています。",
+   "しかし、この巨額の資金調達発表を受け、市場の反応は厳しいものとなりました。Z.aiの株価は発表後に急落し、下落率は10%を超える水準となっています。",
+   "2ヶ月という短期間での相次ぐ大型調達は、同社の事業展開に大きな影響を与えている模様です。今後の市場の動向や企業の対応に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Z.ai",
+   "AI",
+   "株価"
+  ],
+  "slug": "zai-shares-tumble-after-fundraising",
+  "people": [],
+  "terms": [
+   {
+    "name": "Z.ai",
+    "type": "company",
+    "desc": "中国を拠点に人工知能（AI）の開発や事業を展開しているAI企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "02:51",
+  "path": "/articles/20260915-zai-shares-tumble-after-fundraising.html"
  }
 ]

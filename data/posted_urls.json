@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RTZDYWNha256aEFGSTdXLWhRdG5YOHBEUFFOOUpsdThxRGZpQXdlTGFDZWFxc2RoMTV1UlprUWcyYWktaU9DdFpkVUpTNHJ5YzdfUVEyUjE0OFdod0VDVHA5YVhwM1dvZjlVbk4yVk1HT3R6bXV4b0NHTDY5ZE0?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015188691000",
   "https://news.web.nhk/newsweb/na/na-k10015187301000",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UY0xvaGszamNaRVZ1ZnpLNUdvaUZhQWZpOEhhMFpxdVY5c3R5dHFqUVU2ZkRUc3lobjdQb0pUWmxRZ2dRUWVzVjVHYkI4VFNKODQ0QnVIaXhuZC1pRkNhSg?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260914de50014",
   "https://news.web.nhk/newsweb/na/nd-20260914de50030",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwTVN1bEdtT05GME91dDNwSFZhMllDN0s2YW5IQnRrT0c1eDEyUkZCQTNNUUgwZVJYaEVCenQ4TkpTT0wyTWx2SVFQaUE4aUFvUkpzY3VoUmxWVXQyanhxWFNHOHd0MFF4NUJxTg?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVzJFWE1XU0stRmttay1OT084SEt6U19TUzJmWjlmTnFWT0dvVnJBZklHVUdkUlBHdlBDR0ZRVUI3V1dORjBoNk9lSDk0Y01vN0RPQnZDZmt1V280azFR?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVzJFWE1XU0stRmttay1OT084SEt6U19TUzJmWjlmTnFWT0dvVnJBZklHVUdkUlBHdlBDR0ZRVUI3V1dORjBoNk9lSDk0Y01vN0RPQnZDZmt1V280azFR?oc=5",
+  "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+  "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html"
  ],
  "titles": [
-  "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-  "長期金利3％の節目うかがう 利上げ観測に海外金利高、株価は大幅安 - 朝日新聞",
-  "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正 - BigGo ファイナンス",
-  "OpenAIのGPT-5.6 Sol、価格が50%オフに",
   "Preferred Networksが「国産AI」をゼロから作る理由",
   "マネーフォワードがAI利用コスト一元管理ツールを無料提供",
   "Meta、子供の安全めぐる連邦裁判で巨大な代償の危機",
@@ -4001,6 +3997,10 @@
   "ソフトバンクG株価一時12.5%安 OpenAI上場見送り報道 - 日本経済新聞",
   "ソフトバンクG株価一時12.5%安 OpenAI上場見送り報道",
   "【9603.T FY2026 Q3 決算説明会】HIS、純損益49億円の赤字転落 中東情勢で欧州送客47%減、ホテル・九州産交が下支え - BigGo ファイナンス",
-  "HIS、純損益49億円の赤字転落 中東情勢で欧州送客47%減"
+  "HIS、純損益49億円の赤字転落 中東情勢で欧州送客47%減",
+  "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+  "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+  "OpenAIアルトマン氏が語るAI業界の安全策と減速",
+  "Z.aiが50億ドル調達も株価10%超下落、その背景とは"
  ]
 }
