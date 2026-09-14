@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bzQyd1RIcDBZZ2tiRk1aUWpyQk9ZdXR2akZXQllGWm1ON1U3Q2hJcFpGSThPSkg5MExFeXhuYkNUTHJ2cDdDUjVjWUJkRUtsV1hZSlhR?oc=5",
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQlVMME8yWElyTTFhVXNlYl9uSmxkaEx2U2l1LUMzSUtUdUNrZ040RkVvTXRMNVc4NUVTLXlBRFl5a0tUb2Vrd00zY0d6QWxrVjhoTlV4NWh4amQyVFFjSw?oc=5",
   "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
   "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
   "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
@@ -1999,13 +1997,11 @@
   "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
   "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
   "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVFp1ZVBXZkxLOE9mQjJTU1ZPVWJFeU9CRUZRVzBkYlRNeUhodHNFSDRzZVkwa1pCbVNwVTRjSGlPMXplTzdGajdTOUY4bTQxb2NENTFtY3QweHJSYUJfT1RVMHFJRk9rQk9xSmdseVQ0NnNndWxCRnQzX3FISms?oc=5"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVFp1ZVBXZkxLOE9mQjJTU1ZPVWJFeU9CRUZRVzBkYlRNeUhodHNFSDRzZVkwa1pCbVNwVTRjSGlPMXplTzdGajdTOUY4bTQxb2NENTFtY3QweHJSYUJfT1RVMHFJRk9rQk9xSmdseVQ0NnNndWxCRnQzX3FISms?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260914de50123",
+  "https://news.web.nhk/newsweb/na/nd-20260914de50073"
  ],
  "titles": [
-  "朝日新聞：長期金利3％の節目うかがう中、なぜ株価は大幅安となったのか",
-  "シチズン時計、4-6月期営業利益110.9%増の99億円",
-  "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意",
-  "トランプ大統領 米韓合同軍事演習“縮小を指示”",
   "太平洋クロマグロ、大型魚の漁獲枠25%増で合意",
   "トランプ米大統領、米韓合同軍事演習の縮小を指示",
   "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -4001,6 +3997,10 @@
   "OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか",
   "Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか",
   "高級車YouTuberあま猫、原点回帰の軽自動車購入＆引越し検討 環境を変える決断にねぎらいと応援の声続々（リアルサウンド） - Yahoo!ニュース",
-  "高級車YouTuberあま猫が原点回帰の軽自動車購入と引越しを検討する理由"
+  "高級車YouTuberあま猫が原点回帰の軽自動車購入と引越しを検討する理由",
+  "LNGの緊急融通の枠組みなど構築へ 経済産業省",
+  "高市内閣支持率53％ 不支持31％ NHK世論調査",
+  "経済産業省、LNG緊急融通の枠組み構築へ",
+  "高市内閣支持率53％維持、不支持は31％に低下"
  ]
 }

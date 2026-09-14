@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-15 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-15 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "経済産業省、LNG緊急融通の枠組み構築へ",
-   "path": "/articles/20260915-meti-lng-emergency-framework.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "高市内閣支持率53％維持、不支持は31％に低下",
-   "path": "/articles/20260915-takaichi-cabinet-approval-rating-nhk-poll.html",
-   "cat": "時事・世界"
+   "title": "東洋経済オンライン：AI株調整でも日本株が年末高へ向かう理由",
+   "path": "/articles/20260915-toyokeizai-japan-stocks-year-end.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 18,
   "limit": 200
  }
 }
