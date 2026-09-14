@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-15 02:57",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-15 03:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか",
-   "path": "/articles/20260915-techcrunch-disrupt-openai-roadmap.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか",
-   "path": "/articles/20260915-apple-releases-ios-27-with-siri-ai.html",
-   "cat": "シリコンバレー最速"
+   "title": "高級車YouTuberあま猫が原点回帰の軽自動車購入と引越しを検討する理由",
+   "path": "/articles/20260915-amaneko-kei-car-purchase-and-move.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 7,
+  "used": 9,
   "limit": 200
  }
 }

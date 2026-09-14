@@ -86322,5 +86322,72 @@
   "date": "2026-09-15",
   "time": "02:51",
   "path": "/articles/20260915-zai-shares-tumble-after-fundraising.html"
+ },
+ {
+  "title": "OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか",
+  "lead": "TechCrunch Disrupt 2026のビルダーズステージにて、基盤モデルの進化に伴うAI企業の価値創出をテーマにしたインタラクティブセッションが開催されます。",
+  "summary3": [
+   "AI企業が直面する進化の課題を探る",
+   "TechCrunch Disrupt 2026で開催",
+   "ビルダーズステージのセッション"
+  ],
+  "body": [
+   "AI企業を構築している場合、疑問となるのは基盤モデルが進化し続けるかどうかではありません。それは、モデルが進化する中で、あなたの会社が引き続き価値を創造し続けられるかどうかという点です。",
+   "TechCrunch Disrupt 2026のビルダーズステージでは、この課題に焦点を当てたインタラクティブセッションが予定されています。基盤モデルの開発が進む現在、AI企業がどのように独自性を維持し、価値を提供していくのかが議論されます。",
+   "AIビジネスに関わる人々にとって見逃せないこのセッションでは、今後の業界の行方を占う重要な議論が行われる見通しです。"
+  ],
+  "tags": [
+   "OpenAI",
+   "TechCrunch",
+   "AI"
+  ],
+  "slug": "techcrunch-disrupt-openai-roadmap",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "02:57",
+  "path": "/articles/20260915-techcrunch-disrupt-openai-roadmap.html"
+ },
+ {
+  "title": "Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか",
+  "lead": "Appleは、AIによる大幅な刷新を行った「iOS 27」をはじめとする新OSの提供を本日から開始しました。注目の「Siri AI」は英語環境のデバイス向けにベータ版として提供されています。",
+  "summary3": [
+   "AppleがiOS 27など4つの新OSを配信開始",
+   "待望のAI機能「Siri AI」が全OSの目玉に",
+   "Siri AIは英語のみで本日からベータ版を提供"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Appleは本日、互換性のあるデバイスに向けて「iOS 27」のアップデートの配信を開始しました。これと同時に、「watchOS 27」「iPadOS 27」「visionOS 27」の各アップデートも提供が開始されています。",
+   "今回の4つのアップデートすべてにおいて、最大の目玉となっているのが「Siri AI」です。これは長らく待たれていた、AI技術を活用したSiriアシスタントの大規模な刷新となります。しかし、現時点でSiri AIは英語環境のデバイスに向けてのみ、ベータ版としての提供となっています。",
+   "Appleによると、新しいAI機能を体験できるのは英語のみの対応端末からとなっており、今後の言語拡大については順次進められる見通しです。対応デバイスをお持ちのユーザーは、最新のアップデートを適用することで新しいSiriの機能を利用することが可能になります。"
+  ],
+  "tags": [
+   "Apple",
+   "iOS 27",
+   "Siri AI"
+  ],
+  "slug": "apple-releases-ios-27-with-siri-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業"
+   },
+   {
+    "name": "Siri",
+    "type": "ai",
+    "desc": "Appleが開発した、音声認識によって様々な操作をサポートするAIアシスタント"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "02:57",
+  "path": "/articles/20260915-apple-releases-ios-27-with-siri-ai.html"
  }
 ]
