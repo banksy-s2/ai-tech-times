@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 12:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [韓国のスパイ防止法拡大、最長30年刑なぜ](https://ai-tech-times.web.app/articles/20260914-korea-expands-anti-spy-law.html) — 2026-09-14 12:01: 韓国はスパイ防止法の法改正を行い、機密技術を外国組織に渡した者に最長30年の懲役刑を科す規定を施行しました。外国のスパイが半導体産業を標的にするケースが増えているためです。
+- [日立がAIオーケストレーション技術を公開、2027年提供へ](https://ai-tech-times.web.app/articles/20260914-hitachi-ai-orchestration-2027.html) — 2026-09-14 12:01: 日立製作所は、製造業における部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開しました。
+- [ペンシルベニア州、40歳女性が麻疹合併症で死亡](https://ai-tech-times.web.app/articles/20260914-pennsylvania-woman-dies-of-measles.html) — 2026-09-14 12:01: 海外のニュースサイト「Ars Technica」の報道によると、ペンシルベニア州で麻疹の合併症により40歳の女性が死亡したことが検視官の発表で明らかになりました。
+- [ホロライブ博衣こより初ソロライブ開催と2ndアルバム全国流通へ](https://ai-tech-times.web.app/articles/20260914-hakui-koyori-first-solo-live-2nd-album.html) — 2026-09-14 12:01: 人気VTuberグループ「ホロライブ」に所属する博衣こよりさんが、自身初となるソロライブの開催を発表しました。さらに、2ndアルバムの全国流通リリースも決定しています。
+- [中部電力、浜岡原発の審査データ改ざん報告書を公表](https://ai-tech-times.web.app/articles/20260914-chubu-denryok-hamaoka-report.html) — 2026-09-14 12:01: 中部電力は14日、浜岡原子力発電所の審査における地震の想定に関するデータ改ざん問題について、調査委員会の報告書を公表しました。
+- [中国・北京でドローン保有が禁止へ、11月から空域管理強化](https://ai-tech-times.web.app/articles/20260914-beijing-drone-ban-november.html) — 2026-09-14 12:01: AI TECH TIMESの報道によると、中国の首都北京でことし11月からドローンの保有が禁止されることになりました。当局が空域の安全管理を強化する方針とみられます。
+- [日経平均株価続落、6万3000円割れ AI・半導体が大幅安](https://ai-tech-times.web.app/articles/20260914-nikkei-average-falls-below-63000-ai-semiconductors-drop.html) — 2026-09-14 12:01: 日本経済新聞の報道によると、日経平均株価が続落し、6万3000円を割り込みました。市場ではAI・半導体関連銘柄が大幅安となっています。
+- [日本マクドナルドはなぜ強いのか、好調な業績の背景にある変化を続ける社風](https://ai-tech-times.web.app/articles/20260914-mcdonalds-japan-business-growth.html) — 2026-09-14 12:01: 日本マクドナルドの業績が好調を維持しています。同社の成長戦略とその背景にある社風を探ります。
 - [YouTubeチャンネル売買の価格相場や注意点を解説](https://ai-tech-times.web.app/articles/20260914-youtube-channel-buying-selling-guide.html) — 2026-09-14 11:00: YouTuberの仕事と稼ぎ方はどう変わるのか。YouTubeチャンネルの売買に関する価格相場や譲渡方法、注意点をオルタナティブ・ブログが解説しています。
 - [Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ](https://ai-tech-times.web.app/articles/20260914-y-combinator-buzziest-startups-demo-day.html) — 2026-09-14 10:00: 有名アクセラレーターのY Combinatorによる最新のデモデーから、ベンチャーキャピタルが選出した注目のスタートアップ9社が明らかになりました。
 - [サックス氏、AnthropicとOpenAIに苦言の理由](https://ai-tech-times.web.app/articles/20260914-sacks-criticizes-ai-slowdown-proposal.html) — 2026-09-14 09:00: トランプ政権のデビッド・サックス共同議長が、AI開発の減速を求める主要企業トップの姿勢を批判し、波紋を呼んでいます。
@@ -34,21 +42,13 @@
 - [ドナルド・トランプ氏らがAI業界の過剰反応に懸念を示す理由](https://ai-tech-times.web.app/articles/20260914-trump-johnson-ai-industry-overreacting.html) — 2026-09-14 07:42: Anthropicの最高経営責任者（CEO）らがAI開発のペースを落とすよう提案した一方、政治家からは業界の反応が過剰だという声が上がっています。
 - [ShopifyがTailwind買収、エンジニア75%解雇の理由](https://ai-tech-times.web.app/articles/20260914-shopify-acquires-tailwind-labs.html) — 2026-09-14 07:42: CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsが、Shopifyによる買収を発表しました。AIの活用によりエンジニアの75%を解雇した同フレームワークの今後の開発体制に注目が集まっています。
 - [Appleの折りたたみiPhoneで日本メーカーに390億円の商機](https://ai-tech-times.web.app/articles/20260914-iphone-duo-japan-opportunity.html) — 2026-09-14 07:42: Apple初の折りたたみiPhone「iPhone Duo」の登場により、薄型・軽量・小型設計に強みを持つ日本の部品メーカーに新たな商機が生まれています。複数の日本企業が具体的な設備投資や開発を進めていると報じられました。
-- [Apple、iPhone向けゲームコントローラーを開発中か](https://ai-tech-times.web.app/articles/20260914-apple-iphone-game-controllers.html) — 2026-09-14 07:42: AppleがiPhone用のゲームコントローラーを2種類開発していると報じられました。Beatsブランドでの販売が見込まれています。
-- [日本テレビ系ウルトラクイズが30年ぶりに復活、なぜ今なのか](https://ai-tech-times.web.app/articles/20260914-ultra-quiz-revival-2027.html) — 2026-09-14 07:42: 約30年ぶりの復活となる大型クイズ特番『アメリカ横断ウルトラクイズ』の国内1次予選が、東京・稲城市のジャイアンツタウンスタジアムで開催されました。
-- [トランプ氏、アイルランド産ウイスキーの15%関税撤廃を表明](https://ai-tech-times.web.app/articles/20260914-trump-removes-irish-whiskey-tariffs.html) — 2026-09-14 07:42: BBC Worldによると、トランプ氏は2日間の訪問を終え、アイルランド共和国で蒸留されるウイスキーに対する関税を撤廃すると表明しました。現在適用されているEU製品向けの基準関税が対象となります。
-- [オルツ粉飾決算裁判：日置友輔被告が語った組織の真相](https://ai-tech-times.web.app/articles/20260914-alt-accounting-fraud-trial.html) — 2026-09-14 07:42: 急成長スタートアップとして注目を集めたオルツで発覚した、前代未聞の粉飾決算事件。裁判では循環取引の実態とともに、経営幹部の責任をめぐる主張の対立が明らかになっています。
-- [阪和興業、中山製鋼所と資本業務提携を発表](https://ai-tech-times.web.app/articles/20260914-hanwa-nakayama-capital-alliance.html) — 2026-09-14 07:42: 阪和興業が中山製鋼所と資本業務提携を結んだことを発表しました。両社の今後の展開に注目が集まっています。
-- [Lyftがロボタクシー分野に参入、その全容とは](https://ai-tech-times.web.app/articles/20260914-lyft-has-entered-the-robotaxi-chat.html) — 2026-09-14 02:01: モビリティの未来とAIの役割を伝えるTechCrunch Mobilityが、Lyftによるロボタクシー分野への参入について報じました。
-- [Waymoロボタクシーが乗客を乗せたまま警察に通報した理由](https://ai-tech-times.web.app/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html) — 2026-09-14 02:01: 米サンフランシスコで、自動運転タクシーに乗車していた少年らが警察に逮捕されました。車が自ら停車し、警察に通報したその背景とは何だったのでしょうか。
-- [Claude Codeの自律ループ運用、4つの壁を越えるには](https://ai-tech-times.web.app/articles/20260914-claude-code-production-guide.html) — 2026-09-14 01:00: AI TECH TIMESは、Claude CodeをCI/CDに組み込み無人で回すための設計書について報じます。
 
 ## 世界のバズ動画TOP3 (2026-09-14)
 - 1位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
 - 2位: [Crystal Lake | Official Trailer | Peacock Original](https://www.youtube.com/watch?v=Rs49eRHFD9c)
 - 3位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
 
-## AI用語事典 (全1488語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1490語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
