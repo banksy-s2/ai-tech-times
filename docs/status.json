@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-15 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-15 06:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "東洋経済オンライン：AI株調整でも日本株が年末高へ向かう理由",
-   "path": "/articles/20260915-toyokeizai-japan-stocks-year-end.html",
-   "cat": "株式投資(日本)"
+   "title": "中部電力トップ辞任へ、データ改ざんで経営責任明確化",
+   "path": "/articles/20260915-chubu-denryoku-top-resignation.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 18,
+  "used": 22,
   "limit": 200
  }
 }
