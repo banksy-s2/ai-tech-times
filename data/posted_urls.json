@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015188041000",
   "https://news.web.nhk/newsweb/na/na-k10015188481000",
   "https://news.web.nhk/newsweb/na/na-k10015188891000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDallldWZURzY2RFBkUWZTcGJGTXd0cW80bmpILVlUdmV1MktuQWRIb3RhQUZsa0dMLVJ5emN6UEhERThLVUd6SVcyUHZaZFl5MnNqYXN4V1R4Q3VmbkdyVk5iWFBwQ2VldnRzVQ?oc=5",
@@ -1999,11 +1998,10 @@
   "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
   "https://news.web.nhk/newsweb/na/nd-20260914de50007",
   "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
-  "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html"
+  "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
+  "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
  ],
  "titles": [
-  "ANAとJALが初のダイヤ調整を正式発表",
-  "日経平均が６営業日ぶりに下落、終値１７５９円安の６万７４６０円…長期金利上昇で懸念（読売新聞オンライン） - news.yahoo.co.jp",
   "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
   "Nvidia、ソフトバンク系データセンターに15億ドル投資",
   "元本屋のアマゾン、AI学習へ希少な書籍を破棄している理由",
@@ -4001,6 +3999,8 @@
   "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
   "“最強エージェント”は、まさかのポンコツだった　業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
   "サックス氏、AnthropicとOpenAIに苦言の理由",
-  "NTTドコモソリューションズに聞くAI運用のつまずき"
+  "NTTドコモソリューションズに聞くAI運用のつまずき",
+  "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+  "Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ"
  ]
 }

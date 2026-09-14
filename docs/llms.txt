@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 09:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-14 10:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ](https://ai-tech-times.web.app/articles/20260914-y-combinator-buzziest-startups-demo-day.html) — 2026-09-14 10:00: 有名アクセラレーターのY Combinatorによる最新のデモデーから、ベンチャーキャピタルが選出した注目のスタートアップ9社が明らかになりました。
 - [サックス氏、AnthropicとOpenAIに苦言の理由](https://ai-tech-times.web.app/articles/20260914-sacks-criticizes-ai-slowdown-proposal.html) — 2026-09-14 09:00: トランプ政権のデビッド・サックス共同議長が、AI開発の減速を求める主要企業トップの姿勢を批判し、波紋を呼んでいます。
 - [NTTドコモソリューションズに聞くAI運用のつまずき](https://ai-tech-times.web.app/articles/20260914-ntt-docomo-solutions-ai-agent-challenges.html) — 2026-09-14 09:00: さまざまな業務を一手に担う万能型のAIエージェントが、なぜ期待を下回る結果しか返さないのでしょうか。NTTドコモソリューションズのIT運用部門のトップに、AIエージェント実装を成功させた道のりを聞きました。
 - [TechCrunch AIが議論、AIは人類の脅威か](https://ai-tech-times.web.app/articles/20260914-whats-behind-the-ai-industrys-latest-warnings-of-doom.html) — 2026-09-14 07:47: ポッドキャスト番組「On Equity」にて、AI産業が直面する人類への存亡の危機を巡る最新の議論について議論が行われました。
@@ -41,12 +42,11 @@
 - [Waymoロボタクシーが乗客を乗せたまま警察に通報した理由](https://ai-tech-times.web.app/articles/20260914-waymo-robotaxi-calls-police-on-riders-with-ghost-gun.html) — 2026-09-14 02:01: 米サンフランシスコで、自動運転タクシーに乗車していた少年らが警察に逮捕されました。車が自ら停車し、警察に通報したその背景とは何だったのでしょうか。
 - [Claude Codeの自律ループ運用、4つの壁を越えるには](https://ai-tech-times.web.app/articles/20260914-claude-code-production-guide.html) — 2026-09-14 01:00: AI TECH TIMESは、Claude CodeをCI/CDに組み込み無人で回すための設計書について報じます。
 - [Anthropic CEOがAI開発の減速を提唱、その理由は](https://ai-tech-times.web.app/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html) — 2026-09-14 00:00: AI開発企業AnthropicのCEOが、AIの急速な開発をペースダウンさせる時機が来たと主張しました。安全性の確保へ向けた具体的な3ステップの計画を提案しています。
-- [沖縄県知事選：古謝玄太氏の勝因と高市政権への影響](https://ai-tech-times.web.app/articles/20260913-okinawa-governor-election-koja.html) — 2026-09-13 22:00: 沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が初当選を確実にしました。勝因や高市政権への影響について解説します。
 
 ## 世界のバズ動画TOP3 (2026-09-14)
-- 1位: [I Survived 100 Days on One Block](https://www.youtube.com/watch?v=kJu5VMN3yow)
-- 2位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
-- 3位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
+- 1位: [World of Warcraft: Forever | Gameplay Trailer](https://www.youtube.com/watch?v=uQuKE0KDgiM)
+- 2位: [Diablo V Teaser](https://www.youtube.com/watch?v=GxCN_AKYtts)
+- 3位: [Crystal Lake | Official Trailer | Peacock Original](https://www.youtube.com/watch?v=Rs49eRHFD9c)
 
 ## AI用語事典 (全1488語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。

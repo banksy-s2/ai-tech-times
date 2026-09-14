@@ -2,25 +2,10 @@
  "date": "2026-09-14",
  "videos": [
   {
-   "id": "kJu5VMN3yow",
-   "title": "I Survived 100 Days on One Block",
-   "channel": "MrBeast Gaming",
-   "views": 22474540,
-   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow",
-   "thumb": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "IN"
-   ],
-   "rank": 1,
-   "comment": "ワンブロックでの100日生存に挑戦した様子が描かれているようです。(29字)"
-  },
-  {
    "id": "uQuKE0KDgiM",
    "title": "World of Warcraft: Forever | Gameplay Trailer",
    "channel": "World of Warcraft",
-   "views": 1538536,
+   "views": 1544842,
    "url": "https://www.youtube.com/watch?v=uQuKE0KDgiM",
    "thumb": "https://i.ytimg.com/vi/uQuKE0KDgiM/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "新しいゲームプレイ映像が公開されたようです"
   },
   {
    "id": "GxCN_AKYtts",
    "title": "Diablo V Teaser",
    "channel": "Diablo",
-   "views": 841629,
+   "views": 845089,
    "url": "https://www.youtube.com/watch?v=GxCN_AKYtts",
    "thumb": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
    "regions": [
@@ -43,14 +28,14 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "ダイアブロVのティーザー映像が公開されているようです。(26字)"
   },
   {
    "id": "Rs49eRHFD9c",
    "title": "Crystal Lake | Official Trailer | Peacock Original",
    "channel": "Peacock",
-   "views": 624700,
+   "views": 665822,
    "url": "https://www.youtube.com/watch?v=Rs49eRHFD9c",
    "thumb": "https://i.ytimg.com/vi/Rs49eRHFD9c/hqdefault.jpg",
    "regions": [
@@ -58,14 +43,28 @@
     "GB",
     "BR"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "Peacockオリジナルドラマ「Crystal Lake」の公式予告編映像のようです。"
+  },
+  {
+   "id": "kJu5VMN3yow",
+   "title": "I Survived 100 Days on One Block",
+   "channel": "MrBeast Gaming",
+   "views": 22571393,
+   "url": "https://www.youtube.com/watch?v=kJu5VMN3yow",
+   "thumb": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 4,
+   "comment": "ワンブロックでの100日生存に挑戦した様子が描かれているようです。(29字)"
   },
   {
    "id": "lhCPiauHI-g",
    "title": "Lord Verity - Master of Humanity (song)",
    "channel": "Horror Skunx",
-   "views": 1827003,
+   "views": 1839886,
    "url": "https://www.youtube.com/watch?v=lhCPiauHI-g",
    "thumb": "https://i.ytimg.com/vi/lhCPiauHI-g/hqdefault.jpg",
    "regions": [
@@ -79,7 +78,7 @@
    "id": "h5dwH7nx9do",
    "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
    "channel": "PlayOverwatch",
-   "views": 1623824,
+   "views": 1627506,
    "url": "https://www.youtube.com/watch?v=h5dwH7nx9do",
    "thumb": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
    "regions": [
@@ -93,7 +92,7 @@
    "id": "Lsp0t5gQjkg",
    "title": "Padayaatra  Official Trailer  | Mammootty | Adoor Gopalakrishnan | Mammootty Kampany",
    "channel": "Mammootty Kampany",
-   "views": 1156372,
+   "views": 1157146,
    "url": "https://www.youtube.com/watch?v=Lsp0t5gQjkg",
    "thumb": "https://i.ytimg.com/vi/Lsp0t5gQjkg/hqdefault.jpg",
    "regions": [
@@ -104,46 +103,46 @@
    "comment": "マンモティさんが出演する映画の公式予告編のようです"
   },
   {
+   "id": "zrNYJMKPNJ4",
+   "title": "Nice 👍",
+   "channel": "SYSTEMCLIPS",
+   "views": 1092648,
+   "url": "https://www.youtube.com/watch?v=zrNYJMKPNJ4",
+   "thumb": "https://i.ytimg.com/vi/zrNYJMKPNJ4/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "BR"
+   ],
+   "rank": 8,
+   "comment": "シンプルなタイトルが気になる注目の動画かも"
+  },
+  {
    "id": "cwVE1qf6Ixs",
    "title": "Mr. Irrelevant | Official Trailer (2026 Movie) - David Corenswet, Isabel May",
    "channel": "Paramount Pictures",
-   "views": 617725,
+   "views": 647731,
    "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs",
    "thumb": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 9,
    "comment": "デヴィッド・コレンスウェットら出演の映画「Mr. Irrelevant」の予告編のようです。"
   },
   {
    "id": "Ehgg2o0C60w",
    "title": "Breaking Piggy Banks For Money…",
    "channel": "Joe Bart Games",
-   "views": 438235,
+   "views": 451501,
    "url": "https://www.youtube.com/watch?v=Ehgg2o0C60w",
    "thumb": "https://i.ytimg.com/vi/Ehgg2o0C60w/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
-   "comment": "貯金箱を割ってお金を取り出そうとするゲーム系企画の動画のようです。"
-  },
-  {
-   "id": "mOsb8yjw6Aw",
-   "title": "I Became a RAINBOW GOD, And NOBODY Knew!",
-   "channel": "Cash",
-   "views": 382899,
-   "url": "https://www.youtube.com/watch?v=mOsb8yjw6Aw",
-   "thumb": "https://i.ytimg.com/vi/mOsb8yjw6Aw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 10,
-   "comment": "虹色の神になって誰も気づかないように過ごすRoblox系ゲーム動画のようです。"
+   "comment": "貯金箱を割ってお金を取り出そうとするゲーム系企画の動画のようです。"
   }
  ],
  "covered": [
@@ -155,7 +154,6 @@
   "IN"
  ],
  "comment_cache": {
-  "AxAgeglgSeA": "『Star Wars Zero Company』の公式最終トレーラー映像のようだ",
   "qJ-87EEUN5g": "『Lanterns』第2話のトレーラーとハル・ジョーダンに関する考察のようす",
   "bnoCNzqpfgw": "Jynxzi氏らによるレインボーシックスシージの3対3対戦の様子かもしれない。(28字)",
   "mZbJxpYHLuI": "Apple TVのドラマ「Slow Horses」シーズン6の公式予告編のようだ。(30字)",
@@ -454,6 +452,7 @@
   "Rs49eRHFD9c": "Peacockオリジナルドラマ「Crystal Lake」の公式予告編映像のようです。",
   "cwVE1qf6Ixs": "デヴィッド・コレンスウェットら出演の映画「Mr. Irrelevant」の予告編のようです。",
   "Ehgg2o0C60w": "貯金箱を割ってお金を取り出そうとするゲーム系企画の動画のようです。",
-  "mOsb8yjw6Aw": "虹色の神になって誰も気づかないように過ごすRoblox系ゲーム動画のようです。"
+  "mOsb8yjw6Aw": "虹色の神になって誰も気づかないように過ごすRoblox系ゲーム動画のようです。",
+  "zrNYJMKPNJ4": "シンプルなタイトルが気になる注目の動画かも"
  }
 }
