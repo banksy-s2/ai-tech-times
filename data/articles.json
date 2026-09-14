@@ -86215,5 +86215,39 @@
   "date": "2026-09-14",
   "time": "14:01",
   "path": "/articles/20260914-softbank-group-openai-ipo-news.html"
+ },
+ {
+  "title": "HIS、純損益49億円の赤字転落 中東情勢で欧州送客47%減",
+  "lead": "AI TECH TIMESの最新企業ニュースをお伝えします。エイチ・アイ・エス（HIS）の2026年第3四半期決算説明会において、純損益が49億円の赤字に転落したことが発表されました。",
+  "summary3": [
+   "HISの純損益が49億円の赤字に転落",
+   "中東情勢の影響で欧州送客が47%減",
+   "ホテル事業や九州産交が下支えに貢献"
+  ],
+  "body": [
+   "エイチ・アイ・エス（HIS）は、FY2026 Q3（2026年第3四半期）の決算説明会を開催し、当期の純損益が49億円の赤字に転落したことを明らかにしました。",
+   "業績悪化の主な要因として、中東情勢の影響により欧州への送客数が前年同期比で47%減少したことが挙げられています。",
+   "一方で、ホテル事業や九州産交などのグループ事業が業績を下支えする形となりました。詳細な業績数値や今後の展開については決算説明会の発表内容をご参照ください。"
+  ],
+  "tags": [
+   "HIS",
+   "決算",
+   "旅行業界"
+  ],
+  "slug": "his-fy2026-q3-financial-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "エイチ・アイ・エス",
+    "type": "company",
+    "desc": "日本を代表する大手旅行会社であり、国内外のツアー旅行やホテル事業などを幅広く展開している。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVzJFWE1XU0stRmttay1OT084SEt6U19TUzJmWjlmTnFWT0dvVnJBZklHVUdkUlBHdlBDR0ZRVUI3V1dORjBoNk9lSDk0Y01vN0RPQnZDZmt1V280azFR?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-14",
+  "time": "15:00",
+  "path": "/articles/20260914-his-fy2026-q3-financial-results.html"
  }
 ]

@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14 14:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-14 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "ソフトバンクG株価一時12.5%安 OpenAI上場見送り報道",
-   "path": "/articles/20260914-softbank-group-openai-ipo-news.html",
-   "cat": "株式投資(日本)"
+   "title": "HIS、純損益49億円の赤字転落 中東情勢で欧州送客47%減",
+   "path": "/articles/20260914-his-fy2026-q3-financial-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 108,
+  "used": 111,
   "limit": 200
  }
 }
