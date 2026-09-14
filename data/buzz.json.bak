@@ -1,11 +1,41 @@
 {
- "date": "2026-09-14",
+ "date": "2026-09-15",
  "videos": [
+  {
+   "id": "yWNPxS0sXnE",
+   "title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
+   "channel": "T-Series",
+   "views": 10638100,
+   "url": "https://www.youtube.com/watch?v=yWNPxS0sXnE",
+   "thumb": "https://i.ytimg.com/vi/yWNPxS0sXnE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "rank": 1,
+   "comment": "豪華アーティストが集結したラーマーヤナ関連の楽曲のよう。"
+  },
+  {
+   "id": "RHAJcCPB9Yo",
+   "title": "Ganesh Chaturthi 2026 Special Jukebox | Super Hit Telugu Ganesh Songs | Vinayaka Chavithi Songs",
+   "channel": "Aditya Bhakthi",
+   "views": 1743759,
+   "url": "https://www.youtube.com/watch?v=RHAJcCPB9Yo",
+   "thumb": "https://i.ytimg.com/vi/RHAJcCPB9Yo/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "IN"
+   ],
+   "rank": 2,
+   "comment": "ガネーシャ・チャトゥルティー向けのテルグ語楽曲集みたい。"
+  },
   {
    "id": "Rs49eRHFD9c",
    "title": "Crystal Lake | Official Trailer | Peacock Original",
    "channel": "Peacock",
-   "views": 1219649,
+   "views": 1716138,
    "url": "https://www.youtube.com/watch?v=Rs49eRHFD9c",
    "thumb": "https://i.ytimg.com/vi/Rs49eRHFD9c/hqdefault.jpg",
    "regions": [
@@ -13,14 +43,14 @@
     "GB",
     "BR"
    ],
-   "rank": 1,
+   "rank": 3,
    "comment": "Peacockオリジナルドラマ「Crystal Lake」の公式予告編映像のようです。"
   },
   {
    "id": "GxCN_AKYtts",
    "title": "Diablo V Teaser",
    "channel": "Diablo",
-   "views": 891079,
+   "views": 1022899,
    "url": "https://www.youtube.com/watch?v=GxCN_AKYtts",
    "thumb": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
    "regions": [
@@ -28,120 +58,93 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 4,
    "comment": "ダイアブロVのティーザー映像が公開されているようです。(26字)"
   },
   {
-   "id": "lhCPiauHI-g",
-   "title": "Lord Verity - Master of Humanity (song)",
-   "channel": "Horror Skunx",
-   "views": 2027905,
-   "url": "https://www.youtube.com/watch?v=lhCPiauHI-g",
-   "thumb": "https://i.ytimg.com/vi/lhCPiauHI-g/hqdefault.jpg",
+   "id": "FDRUmsvbuoE",
+   "title": "Don't Let Go",
+   "channel": "Zavyre - Topic",
+   "views": 717966,
+   "url": "https://www.youtube.com/watch?v=FDRUmsvbuoE",
+   "thumb": "https://i.ytimg.com/vi/FDRUmsvbuoE/hqdefault.jpg",
    "regions": [
     "US",
-    "GB"
+    "GB",
+    "BR"
    ],
-   "rank": 3,
-   "comment": "ホラー・スカンクスによる楽曲「マスター・オブ・ヒューマニティ」が公開中。"
-  },
-  {
-   "id": "h5dwH7nx9do",
-   "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
-   "channel": "PlayOverwatch",
-   "views": 1678693,
-   "url": "https://www.youtube.com/watch?v=h5dwH7nx9do",
-   "thumb": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 4,
-   "comment": "オーバーウォッチのドクトリンヒーロートレーラーが公開された模様。(28字)"
+   "rank": 5,
+   "comment": "Zavyreによる楽曲「Don't Let Go」の配信のよう。"
   },
   {
    "id": "cwVE1qf6Ixs",
    "title": "Mr. Irrelevant | Official Trailer (2026 Movie) - David Corenswet, Isabel May",
    "channel": "Paramount Pictures",
-   "views": 1093701,
+   "views": 1918327,
    "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs",
    "thumb": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 6,
    "comment": "デヴィッド・コレンスウェットら出演の映画「Mr. Irrelevant」の予告編のようです。"
+  },
+  {
+   "id": "h5dwH7nx9do",
+   "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
+   "channel": "PlayOverwatch",
+   "views": 1767032,
+   "url": "https://www.youtube.com/watch?v=h5dwH7nx9do",
+   "thumb": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 7,
+   "comment": "オーバーウォッチのドクトリンヒーロートレーラーが公開された模様。(28字)"
+  },
+  {
+   "id": "m9bDJlcKYSM",
+   "title": "People Are Very Mad at Sony for This",
+   "channel": "penguinz0",
+   "views": 1464939,
+   "url": "https://www.youtube.com/watch?v=m9bDJlcKYSM",
+   "thumb": "https://i.ytimg.com/vi/m9bDJlcKYSM/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 8,
+   "comment": "ソニーに対する世間の怒りについて語っているみたい。"
   },
   {
    "id": "DLwiQdy-Q9g",
    "title": "A NEW BEGINNING - Minecraft Modded SkyFactory 7",
    "channel": "SSundee",
-   "views": 863510,
+   "views": 1350275,
    "url": "https://www.youtube.com/watch?v=DLwiQdy-Q9g",
    "thumb": "https://i.ytimg.com/vi/DLwiQdy-Q9g/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 9,
    "comment": "SSundeeさんによるマインクラフトのMod「SkyFactory 7」の新シリーズが始まったようです。"
   },
   {
-   "id": "Tu5Nr9gOpNQ",
-   "title": "We Are Still Stuck in Space... Again",
-   "channel": "SMii7Yplus",
-   "views": 737510,
-   "url": "https://www.youtube.com/watch?v=Tu5Nr9gOpNQ",
-   "thumb": "https://i.ytimg.com/vi/Tu5Nr9gOpNQ/hqdefault.jpg",
+   "id": "dJg1ZCKr1DA",
+   "title": "Epic Escape Lightning McQueen vs FLAME CANNON ROAD ROLLER CONSTRUCTION MONSTER TRUCK in BeamNG.drive",
+   "channel": "McQueen PING",
+   "views": 957754,
+   "url": "https://www.youtube.com/watch?v=dJg1ZCKr1DA",
+   "thumb": "https://i.ytimg.com/vi/dJg1ZCKr1DA/hqdefault.jpg",
    "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 7,
-   "comment": "宇宙でまた立ち往生してしまったゲーム実況の映像みたいです。"
-  },
-  {
-   "id": "Duqv2j_7XSg",
-   "title": "BlizzCon 2026 | Main Stage | Closing Remarks",
-   "channel": "Blizzard Entertainment",
-   "views": 705682,
-   "url": "https://www.youtube.com/watch?v=Duqv2j_7XSg",
-   "thumb": "https://i.ytimg.com/vi/Duqv2j_7XSg/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 8,
-   "comment": "BlizzCon 2026メインステージの閉会式の様子が配信されているようです。"
-  },
-  {
-   "id": "Ehgg2o0C60w",
-   "title": "Breaking Piggy Banks For Money…",
-   "channel": "Joe Bart Games",
-   "views": 684750,
-   "url": "https://www.youtube.com/watch?v=Ehgg2o0C60w",
-   "thumb": "https://i.ytimg.com/vi/Ehgg2o0C60w/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 9,
-   "comment": "貯金箱を割ってお金を取り出そうとするゲーム系企画の動画のようです。"
-  },
-  {
-   "id": "mOsb8yjw6Aw",
-   "title": "I Became a RAINBOW GOD, And NOBODY Knew!",
-   "channel": "Cash",
-   "views": 557821,
-   "url": "https://www.youtube.com/watch?v=mOsb8yjw6Aw",
-   "thumb": "https://i.ytimg.com/vi/mOsb8yjw6Aw/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
+    "BR",
+    "IN"
    ],
    "rank": 10,
-   "comment": "虹色の神になって誰も気づかないように過ごすRoblox系ゲーム動画のようです。"
+   "comment": "BeamNG.driveでマックィーンらが暴走する動画のよう。"
   }
  ],
  "covered": [
@@ -153,11 +156,6 @@
   "IN"
  ],
  "comment_cache": {
-  "43k02wh03jM": "「IT」のドラマシリーズ「Welcome to Derry」シーズン2のティザー映像か。(32字)",
-  "pqX21F0c_w0": "Among Usの新役職「ジャッジ」の登場を告げるトレイラーのよう。(27字)",
-  "xXTTroKCTz8": "Joe Bart Games氏がホラーゲーム「Skin Stapler」を遊ぶ動画らしい。(30字)",
-  "yx8NV9j1fKg": "2026年公開予定のスーパーガールを辛口でいじっているようです",
-  "kSx7OL5-w2E": "カニエ・ウェストとドン・トリバーによる楽曲のようです。",
   "X7LcerKPa4M": "人気ゲームHELLDIVERS™ 2のディープダイブ映像のようです。（26字）",
   "A69LemDaY8A": "洋楽リミックス曲の歌詞付き動画のようです",
   "LE5KwzUTUQw": "セキュリティカメラに恐ろしい存在が映り込んだようです",
@@ -452,6 +450,11 @@
   "zrNYJMKPNJ4": "シンプルなタイトルが気になる注目の動画かも",
   "DLwiQdy-Q9g": "SSundeeさんによるマインクラフトのMod「SkyFactory 7」の新シリーズが始まったようです。",
   "Duqv2j_7XSg": "BlizzCon 2026メインステージの閉会式の様子が配信されているようです。",
-  "Tu5Nr9gOpNQ": "宇宙でまた立ち往生してしまったゲーム実況の映像みたいです。"
+  "Tu5Nr9gOpNQ": "宇宙でまた立ち往生してしまったゲーム実況の映像みたいです。",
+  "yWNPxS0sXnE": "豪華アーティストが集結したラーマーヤナ関連の楽曲のよう。",
+  "RHAJcCPB9Yo": "ガネーシャ・チャトゥルティー向けのテルグ語楽曲集みたい。",
+  "FDRUmsvbuoE": "Zavyreによる楽曲「Don't Let Go」の配信のよう。",
+  "m9bDJlcKYSM": "ソニーに対する世間の怒りについて語っているみたい。",
+  "dJg1ZCKr1DA": "BeamNG.driveでマックィーンらが暴走する動画のよう。"
  }
 }

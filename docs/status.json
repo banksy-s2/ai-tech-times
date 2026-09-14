@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-15 02:51",
+ "updated": "2026-09-15 02:57",
  "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "OpenAIアルトマン氏が語るAI業界の安全策と減速",
-   "path": "/articles/20260915-openai-sam-altman-ai-slowdown-safety.html",
+   "title": "OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか",
+   "path": "/articles/20260915-techcrunch-disrupt-openai-roadmap.html",
    "cat": "シリコンバレー最速"
   },
   {
-   "title": "Z.aiが50億ドル調達も株価10%超下落、その背景とは",
-   "path": "/articles/20260915-zai-shares-tumble-after-fundraising.html",
+   "title": "Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか",
+   "path": "/articles/20260915-apple-releases-ios-27-with-siri-ai.html",
    "cat": "シリコンバレー最速"
   }
  ],
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 7,
   "limit": 200
  }
 }

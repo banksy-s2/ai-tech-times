@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015188691000",
-  "https://news.web.nhk/newsweb/na/na-k10015187301000",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UY0xvaGszamNaRVZ1ZnpLNUdvaUZhQWZpOEhhMFpxdVY5c3R5dHFqUVU2ZkRUc3lobjdQb0pUWmxRZ2dRUWVzVjVHYkI4VFNKODQ0QnVIaXhuZC1pRkNhSg?oc=5",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82bzQyd1RIcDBZZ2tiRk1aUWpyQk9ZdXR2akZXQllGWm1ON1U3Q2hJcFpGSThPSkg5MExFeXhuYkNUTHJ2cDdDUjVjWUJkRUtsV1hZSlhR?oc=5",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQlVMME8yWElyTTFhVXNlYl9uSmxkaEx2U2l1LUMzSUtUdUNrZ040RkVvTXRMNVc4NUVTLXlBRFl5a0tUb2Vrd00zY0d6QWxrVjhoTlV4NWh4amQyVFFjSw?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwTVN1bEdtT05GME91dDNwSFZhMllDN0s2YW5IQnRrT0c1eDEyUkZCQTNNUUgwZVJYaEVCenQ4TkpTT0wyTWx2SVFQaUE4aUFvUkpzY3VoUmxWVXQyanhxWFNHOHd0MFF4NUJxTg?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVzJFWE1XU0stRmttay1OT084SEt6U19TUzJmWjlmTnFWT0dvVnJBZklHVUdkUlBHdlBDR0ZRVUI3V1dORjBoNk9lSDk0Y01vN0RPQnZDZmt1V280azFR?oc=5",
   "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
-  "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html"
+  "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+  "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+  "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
  ],
  "titles": [
-  "Preferred Networksが「国産AI」をゼロから作る理由",
-  "マネーフォワードがAI利用コスト一元管理ツールを無料提供",
-  "Meta、子供の安全めぐる連邦裁判で巨大な代償の危機",
-  "Appleユーザーに異例の数、スパイウェア警告が届いた理由",
   "宇城市の震度7、現行耐震基準でも倒壊の恐れか",
   "トランプ氏、イラン問題でオマーン爆撃の脅威を示唆",
   "朝日新聞：長期金利3％の節目うかがう中、なぜ株価は大幅安となったのか",
@@ -4001,6 +3997,10 @@
   "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
   "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
   "OpenAIアルトマン氏が語るAI業界の安全策と減速",
-  "Z.aiが50億ドル調達も株価10%超下落、その背景とは"
+  "Z.aiが50億ドル調達も株価10%超下落、その背景とは",
+  "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+  "Apple releases iOS 27 with Siri AI overhaul",
+  "OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか",
+  "Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか"
  ]
 }

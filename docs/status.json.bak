@@ -1,15 +1,26 @@
 {
- "updated": "2026-09-14 16:00",
- "mode": "軽量便(AI(海外))",
- "articles": [],
+ "updated": "2026-09-15 02:51",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "OpenAIアルトマン氏が語るAI業界の安全策と減速",
+   "path": "/articles/20260915-openai-sam-altman-ai-slowdown-safety.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Z.aiが50億ドル調達も株価10%超下落、その背景とは",
+   "path": "/articles/20260915-zai-shares-tumble-after-fundraising.html",
+   "cat": "シリコンバレー最速"
+  }
+ ],
  "buzz_top": {
-  "title": "Crystal Lake | Official Trailer | Peacock Original",
-  "url": "https://www.youtube.com/watch?v=Rs49eRHFD9c"
+  "title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
+  "url": "https://www.youtube.com/watch?v=yWNPxS0sXnE"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": null,
  "gemini": {
-  "used": 111,
+  "used": 4,
   "limit": 200
  }
 }
