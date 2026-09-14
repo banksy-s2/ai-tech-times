@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-14 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-14 11:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ",
-   "path": "/articles/20260914-y-combinator-buzziest-startups-demo-day.html",
-   "cat": "シリコンバレー最速"
+   "title": "YouTubeチャンネル売買の価格相場や注意点を解説",
+   "path": "/articles/20260914-youtube-channel-buying-selling-guide.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 72,
+  "used": 77,
   "limit": 200
  }
 }

@@ -1,26 +1,21 @@
 {
- "updated": "2026-09-14 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-14 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "サックス氏、AnthropicとOpenAIに苦言の理由",
-   "path": "/articles/20260914-sacks-criticizes-ai-slowdown-proposal.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "NTTドコモソリューションズに聞くAI運用のつまずき",
-   "path": "/articles/20260914-ntt-docomo-solutions-ai-agent-challenges.html",
-   "cat": "日本のAI"
+   "title": "Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ",
+   "path": "/articles/20260914-y-combinator-buzziest-startups-demo-day.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "I Survived 100 Days on One Block",
-  "url": "https://www.youtube.com/watch?v=kJu5VMN3yow"
+  "title": "World of Warcraft: Forever | Gameplay Trailer",
+  "url": "https://www.youtube.com/watch?v=uQuKE0KDgiM"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 68,
+  "used": 72,
   "limit": 200
  }
 }

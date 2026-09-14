@@ -85799,5 +85799,39 @@
   "date": "2026-09-14",
   "time": "09:00",
   "path": "/articles/20260914-ntt-docomo-solutions-ai-agent-challenges.html"
+ },
+ {
+  "title": "Y Combinator最新デモデー、VCが選んだ9つの注目スタートアップ",
+  "lead": "有名アクセラレーターのY Combinatorによる最新のデモデーから、ベンチャーキャピタルが選出した注目のスタートアップ9社が明らかになりました。",
+  "summary3": [
+   "Y Combinatorの最新デモデーが開催",
+   "VCが選んだ9つの注目スタートアップ",
+   "浮遊式原子炉や脳チップなどが話題に"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、世界的なスタートアップ支援プログラムであるY Combinatorの最新デモデーにおいて、ベンチャーキャピタル（VC）が選ぶお気に入りの企業が浮き彫りになりました。",
+   "今回の夏のバッチ（期）には、浮遊式原子炉から脳チップに至るまで、非常に幅広い分野を手がけるスタートアップが参加しています。",
+   "最先端の技術やユニークなアプローチを持つ企業が多数登場したことで、今後の業界動向を占う上で投資家からの大きな注目を集める結果となりました。"
+  ],
+  "tags": [
+   "Y Combinator",
+   "スタートアップ",
+   "ベンチャーキャピタル"
+  ],
+  "slug": "y-combinator-buzziest-startups-demo-day",
+  "people": [],
+  "terms": [
+   {
+    "name": "Y Combinator",
+    "type": "company",
+    "desc": "米国の著名なスタートアップアクセラレーター。多くの初期段階の企業に投資と育成を行う。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+  "category": "silicon",
+  "date": "2026-09-14",
+  "time": "10:00",
+  "path": "/articles/20260914-y-combinator-buzziest-startups-demo-day.html"
  }
 ]
