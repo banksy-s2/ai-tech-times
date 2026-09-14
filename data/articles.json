@@ -86176,5 +86176,44 @@
   "date": "2026-09-14",
   "time": "13:00",
   "path": "/articles/20260914-north-korea-missile-training.html"
+ },
+ {
+  "title": "ソフトバンクG株価一時12.5%安 OpenAI上場見送り報道",
+  "lead": "日本経済新聞の報道によると、ソフトバンクグループの株価が一時12.5%安を記録しました。OpenAIの上場見送り報道が影響したと伝えられています。",
+  "summary3": [
+   "ソフトバンクG株価が一時12.5%安を記録",
+   "OpenAIの上場見送り報道が伝えられる",
+   "日本経済新聞の報道による市場の動き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の市場ニュースです。日本経済新聞の報道によると、ソフトバンクグループの株式市場における価格が一時12.5%安の大幅な下落を記録しました。この株価の急変動の背景には、OpenAIに関する上場見送りの報道が影響していると伝えられています。",
+   "株式市場において、関連する企業や大型の動きに関する報道は株価に大きな影響を与えることがあります。今回のソフトバンクグループの株価下落についても、OpenAIの上場見送りというニュースが投資家の動向に直結する形で表れたものと見られています。",
+   "市場関係者や投資家の間では、今後の報道や各企業の動向に注目が集まっています。AI TECH TIMESでは、引き続き正確な事実に基づいた経済・企業ニュースを迅速にお伝えしてまいります。"
+  ],
+  "tags": [
+   "ソフトバンクG",
+   "OpenAI",
+   "株価"
+  ],
+  "slug": "softbank-group-openai-ipo-news",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンクグループ",
+    "type": "company",
+    "desc": "日本を拠点に通信事業や大規模な投資事業を展開する持株会社です。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカを拠点に人工知能の開発や研究を行う最先端の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwTVN1bEdtT05GME91dDNwSFZhMllDN0s2YW5IQnRrT0c1eDEyUkZCQTNNUUgwZVJYaEVCenQ4TkpTT0wyTWx2SVFQaUE4aUFvUkpzY3VoUmxWVXQyanhxWFNHOHd0MFF4NUJxTg?oc=5",
+  "category": "stock",
+  "date": "2026-09-14",
+  "time": "14:01",
+  "path": "/articles/20260914-softbank-group-openai-ipo-news.html"
  }
 ]

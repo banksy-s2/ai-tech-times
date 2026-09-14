@@ -2,25 +2,10 @@
  "date": "2026-09-14",
  "videos": [
   {
-   "id": "uQuKE0KDgiM",
-   "title": "World of Warcraft: Forever | Gameplay Trailer",
-   "channel": "World of Warcraft",
-   "views": 1697243,
-   "url": "https://www.youtube.com/watch?v=uQuKE0KDgiM",
-   "thumb": "https://i.ytimg.com/vi/uQuKE0KDgiM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 1,
-   "comment": "新しいゲームプレイ映像が公開されたようです"
-  },
-  {
    "id": "Rs49eRHFD9c",
    "title": "Crystal Lake | Official Trailer | Peacock Original",
    "channel": "Peacock",
-   "views": 1083177,
+   "views": 1108924,
    "url": "https://www.youtube.com/watch?v=Rs49eRHFD9c",
    "thumb": "https://i.ytimg.com/vi/Rs49eRHFD9c/hqdefault.jpg",
    "regions": [
@@ -28,14 +13,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "Peacockオリジナルドラマ「Crystal Lake」の公式予告編映像のようです。"
   },
   {
    "id": "GxCN_AKYtts",
    "title": "Diablo V Teaser",
    "channel": "Diablo",
-   "views": 878218,
+   "views": 881367,
    "url": "https://www.youtube.com/watch?v=GxCN_AKYtts",
    "thumb": "https://i.ytimg.com/vi/GxCN_AKYtts/hqdefault.jpg",
    "regions": [
@@ -43,98 +28,112 @@
     "GB",
     "BR"
    ],
-   "rank": 3,
+   "rank": 2,
    "comment": "ダイアブロVのティーザー映像が公開されているようです。(26字)"
   },
   {
    "id": "kJu5VMN3yow",
    "title": "I Survived 100 Days on One Block",
    "channel": "MrBeast Gaming",
-   "views": 23668405,
+   "views": 23798465,
    "url": "https://www.youtube.com/watch?v=kJu5VMN3yow",
    "thumb": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
    "regions": [
     "US",
     "IN"
    ],
-   "rank": 4,
+   "rank": 3,
    "comment": "ワンブロックでの100日生存に挑戦した様子が描かれているようです。(29字)"
   },
   {
    "id": "lhCPiauHI-g",
    "title": "Lord Verity - Master of Humanity (song)",
    "channel": "Horror Skunx",
-   "views": 1969596,
+   "views": 1983480,
    "url": "https://www.youtube.com/watch?v=lhCPiauHI-g",
    "thumb": "https://i.ytimg.com/vi/lhCPiauHI-g/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 5,
+   "rank": 4,
    "comment": "ホラー・スカンクスによる楽曲「マスター・オブ・ヒューマニティ」が公開中。"
   },
   {
    "id": "h5dwH7nx9do",
    "title": "Breakout | Doctrine Hero Trailer | Overwatch | BlizzCon 2026",
    "channel": "PlayOverwatch",
-   "views": 1663609,
+   "views": 1666966,
    "url": "https://www.youtube.com/watch?v=h5dwH7nx9do",
    "thumb": "https://i.ytimg.com/vi/h5dwH7nx9do/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 6,
+   "rank": 5,
    "comment": "オーバーウォッチのドクトリンヒーロートレーラーが公開された模様。(28字)"
-  },
-  {
-   "id": "Lsp0t5gQjkg",
-   "title": "Padayaatra  Official Trailer  | Mammootty | Adoor Gopalakrishnan | Mammootty Kampany",
-   "channel": "Mammootty Kampany",
-   "views": 1168097,
-   "url": "https://www.youtube.com/watch?v=Lsp0t5gQjkg",
-   "thumb": "https://i.ytimg.com/vi/Lsp0t5gQjkg/hqdefault.jpg",
-   "regions": [
-    "GB",
-    "IN"
-   ],
-   "rank": 7,
-   "comment": "マンモティさんが出演する映画の公式予告編のようです"
   },
   {
    "id": "cwVE1qf6Ixs",
    "title": "Mr. Irrelevant | Official Trailer (2026 Movie) - David Corenswet, Isabel May",
    "channel": "Paramount Pictures",
-   "views": 966516,
+   "views": 995604,
    "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs",
    "thumb": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
+   "rank": 6,
    "comment": "デヴィッド・コレンスウェットら出演の映画「Mr. Irrelevant」の予告編のようです。"
   },
   {
    "id": "DLwiQdy-Q9g",
    "title": "A NEW BEGINNING - Minecraft Modded SkyFactory 7",
    "channel": "SSundee",
-   "views": 703405,
+   "views": 740248,
    "url": "https://www.youtube.com/watch?v=DLwiQdy-Q9g",
    "thumb": "https://i.ytimg.com/vi/DLwiQdy-Q9g/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 9,
+   "rank": 7,
    "comment": "SSundeeさんによるマインクラフトのMod「SkyFactory 7」の新シリーズが始まったようです。"
+  },
+  {
+   "id": "Duqv2j_7XSg",
+   "title": "BlizzCon 2026 | Main Stage | Closing Remarks",
+   "channel": "Blizzard Entertainment",
+   "views": 697045,
+   "url": "https://www.youtube.com/watch?v=Duqv2j_7XSg",
+   "thumb": "https://i.ytimg.com/vi/Duqv2j_7XSg/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 8,
+   "comment": "BlizzCon 2026メインステージの閉会式の様子が配信されているようです。"
+  },
+  {
+   "id": "Tu5Nr9gOpNQ",
+   "title": "We Are Still Stuck in Space... Again",
+   "channel": "SMii7Yplus",
+   "views": 646361,
+   "url": "https://www.youtube.com/watch?v=Tu5Nr9gOpNQ",
+   "thumb": "https://i.ytimg.com/vi/Tu5Nr9gOpNQ/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "rank": 9,
+   "comment": "宇宙でまた立ち往生してしまったゲーム実況の映像みたいです。"
   },
   {
    "id": "Ehgg2o0C60w",
    "title": "Breaking Piggy Banks For Money…",
    "channel": "Joe Bart Games",
-   "views": 600278,
+   "views": 618859,
    "url": "https://www.youtube.com/watch?v=Ehgg2o0C60w",
    "thumb": "https://i.ytimg.com/vi/Ehgg2o0C60w/hqdefault.jpg",
    "regions": [
@@ -154,8 +153,6 @@
   "IN"
  ],
  "comment_cache": {
-  "bnoCNzqpfgw": "Jynxzi氏らによるレインボーシックスシージの3対3対戦の様子かもしれない。(28字)",
-  "mZbJxpYHLuI": "Apple TVのドラマ「Slow Horses」シーズン6の公式予告編のようだ。(30字)",
   "43k02wh03jM": "「IT」のドラマシリーズ「Welcome to Derry」シーズン2のティザー映像か。(32字)",
   "pqX21F0c_w0": "Among Usの新役職「ジャッジ」の登場を告げるトレイラーのよう。(27字)",
   "xXTTroKCTz8": "Joe Bart Games氏がホラーゲーム「Skin Stapler」を遊ぶ動画らしい。(30字)",
@@ -453,6 +450,8 @@
   "Ehgg2o0C60w": "貯金箱を割ってお金を取り出そうとするゲーム系企画の動画のようです。",
   "mOsb8yjw6Aw": "虹色の神になって誰も気づかないように過ごすRoblox系ゲーム動画のようです。",
   "zrNYJMKPNJ4": "シンプルなタイトルが気になる注目の動画かも",
-  "DLwiQdy-Q9g": "SSundeeさんによるマインクラフトのMod「SkyFactory 7」の新シリーズが始まったようです。"
+  "DLwiQdy-Q9g": "SSundeeさんによるマインクラフトのMod「SkyFactory 7」の新シリーズが始まったようです。",
+  "Duqv2j_7XSg": "BlizzCon 2026メインステージの閉会式の様子が配信されているようです。",
+  "Tu5Nr9gOpNQ": "宇宙でまた立ち往生してしまったゲーム実況の映像みたいです。"
  }
 }
