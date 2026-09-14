@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
   "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
   "https://www.itmedia.co.jp/business/articles/2607/28/news032.html",
   "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVFp1ZVBXZkxLOE9mQjJTU1ZPVWJFeU9CRUZRVzBkYlRNeUhodHNFSDRzZVkwa1pCbVNwVTRjSGlPMXplTzdGajdTOUY4bTQxb2NENTFtY3QweHJSYUJfT1RVMHFJRk9rQk9xSmdseVQ0NnNndWxCRnQzX3FISms?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260914de50123",
   "https://news.web.nhk/newsweb/na/nd-20260914de50073",
-  "https://toyokeizai.net/articles/-/957927?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  "https://toyokeizai.net/articles/-/957927?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "https://news.web.nhk/newsweb/na/nd-20260914de50203"
  ],
  "titles": [
-  "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-  "ChatGPT’s Computer History tracks your clicks and keystrokes",
   "Groq、3.5億ドル調達の狙いとは",
   "OpenAIのChatGPT、マック版で作業履歴を自動学習する新機能",
   "ソフトバンクGが個人向け社債1兆円　過去最大、AI投資へ預金に照準 - 日本経済新聞",
@@ -4001,6 +3999,8 @@
   "経済産業省、LNG緊急融通の枠組み構築へ",
   "高市内閣支持率53％維持、不支持は31％に低下",
   "｢原油高｣｢金利高｣｢AI･半導体株調整｣の｢三重苦｣でも､日本株が年末高になると見る確かな理由 | 政治・経済・投資 | 東洋経済オンライン",
-  "東洋経済オンライン：AI株調整でも日本株が年末高へ向かう理由"
+  "東洋経済オンライン：AI株調整でも日本株が年末高へ向かう理由",
+  "中部電力 経営トップ2人辞任へ 組織の意識改革につながるか",
+  "中部電力トップ辞任へ、データ改ざんで経営責任明確化"
  ]
 }
