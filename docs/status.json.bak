@@ -1,21 +1,59 @@
 {
- "updated": "2026-09-14 11:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-14 12:01",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "YouTubeチャンネル売買の価格相場や注意点を解説",
-   "path": "/articles/20260914-youtube-channel-buying-selling-guide.html",
+   "title": "韓国のスパイ防止法拡大、最長30年刑なぜ",
+   "path": "/articles/20260914-korea-expands-anti-spy-law.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "日立がAIオーケストレーション技術を公開、2027年提供へ",
+   "path": "/articles/20260914-hitachi-ai-orchestration-2027.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ペンシルベニア州、40歳女性が麻疹合併症で死亡",
+   "path": "/articles/20260914-pennsylvania-woman-dies-of-measles.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ホロライブ博衣こより初ソロライブ開催と2ndアルバム全国流通へ",
+   "path": "/articles/20260914-hakui-koyori-first-solo-live-2nd-album.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "中部電力、浜岡原発の審査データ改ざん報告書を公表",
+   "path": "/articles/20260914-chubu-denryok-hamaoka-report.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "中国・北京でドローン保有が禁止へ、11月から空域管理強化",
+   "path": "/articles/20260914-beijing-drone-ban-november.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均株価続落、6万3000円割れ AI・半導体が大幅安",
+   "path": "/articles/20260914-nikkei-average-falls-below-63000-ai-semiconductors-drop.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "日本マクドナルドはなぜ強いのか、好調な業績の背景にある変化を続ける社風",
+   "path": "/articles/20260914-mcdonalds-japan-business-growth.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "World of Warcraft: Forever | Gameplay Trailer",
   "url": "https://www.youtube.com/watch?v=uQuKE0KDgiM"
  },
- "notes": [],
- "pv_today": null,
+ "notes": [
+  "執筆失敗: Your Mother Your Mother Your Mother will",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
+ "pv_today": 1,
  "gemini": {
-  "used": 77,
+  "used": 98,
   "limit": 200
  }
 }
