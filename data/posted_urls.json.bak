@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-  "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
   "https://japan.cnet.com/article/35251032/",
   "https://www.sankei.com/article/20260729-KCXBMD4VPJOQXG7M24Y6HI34UM/",
   "https://www.techmeme.com/260728/p49#a260728p49",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260915de50221",
   "https://news.web.nhk/newsweb/na/nd-20260914de50053",
   "https://toyokeizai.net/articles/-/957421?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://www.itmedia.co.jp/business/articles/2609/15/news062.html"
+  "https://www.itmedia.co.jp/business/articles/2609/15/news062.html",
+  "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+  "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
  ],
  "titles": [
-  "日経平均終値1759円安、水差された業績相場 金利高で不動産に売り - 日本経済新聞",
-  "Wisprが2.8億ドル調達、企業評価20億ドルの行方",
-  "OpenAI、AIによるハッキング受けて新セキュリティ対策へ",
-  "Cursor、コードホスティング機能「Origin」β版提供開始",
   "Apple、アリババ支援で中国専用AI作成へ",
   "Apple、EUで手数料5%に改定し代替ストア緩和",
   "にじさんじ3SKM、Weverseに初登場",
@@ -4001,6 +3997,10 @@
   "NISA対象外の米ETFを｢対象｣と表示､moomoo証券に全国初の業務停止命令 制度の複雑化が招く実務の穴 | 政治・経済・投資 | 東洋経済オンライン",
   "moomoo証券に業務停止命令、NISA不適切販売なぜ起きた",
   "ドコモが5G基地局を1万局超整備へ　都市部の「つながりにくい」をどう改善？",
-  "ドコモ、5G基地局1万局超を整備へ 都市部のつながりにくい課題に対応"
+  "ドコモ、5G基地局1万局超を整備へ 都市部のつながりにくい課題に対応",
+  "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+  "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+  "OpenAIやイーロン・マスクらがAI開発の減速に合意、その裏にある意図とは",
+  "元FTCトップのカーン氏、AI経営者に1934年法を適用して逮捕を迫る"
  ]
 }

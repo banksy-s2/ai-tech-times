@@ -87017,5 +87017,87 @@
   "date": "2026-09-15",
   "time": "15:02",
   "path": "/articles/20260915-docomo-5g-base-stations-expansion.html"
+ },
+ {
+  "title": "OpenAIやイーロン・マスクらがAI開発の減速に合意、その裏にある意図とは",
+  "lead": "AI業界を牽引する大物経営者らが開発の減速で合意しましたが、懐疑的な見方が広がっています。",
+  "summary3": [
+   "AIのトップらが開発減速で合意",
+   "懐疑派が ulterior motive を指摘",
+   "「フロンティアのペース調整」を主張"
+  ],
+  "body": [
+   "OpenAIのサム・アルトマンCEO、アンソロピックのダリオ・アモデイCEO、グーグル・ディープマインド共同創業者のデミス・ハサビス氏、そしてスペースXのトップであるイーロン・マスク氏が週末に、AI開発を減速させることで大筋合意しました。",
+   "これに対し、懐疑的な人々は直ちに裏の動機を見出しました。AI業界の巨頭たちは、その目的が「フロンティアのペース調整」にあると宣言し、少なくとも部分的にこの合意に署名しています。",
+   "業界のリーダーたちによる突然の足並み合わせは、安全のための協定なのか、それともカルテル的な動きなのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "OpenAI",
+   "イーロン・マスク"
+  ],
+  "slug": "big-tech-ai-slowdown-safety-pact-or-cartel",
+  "people": [
+   {
+    "name": "サム・アルトマン",
+    "bio": "対話型AI「ChatGPT」などを開発するOpenAIの最高経営責任者であり、AI業界の中心人物の一人。"
+   },
+   {
+    "name": "イーロン・マスク",
+    "bio": "宇宙開発企業スペースXや電気自動車テスラなどを率い、AI開発にも深く関わる著名な実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供する最先端のAI研究企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "16:02",
+  "path": "/articles/20260915-big-tech-ai-slowdown-safety-pact-or-cartel.html"
+ },
+ {
+  "title": "元FTCトップのカーン氏、AI経営者に1934年法を適用して逮捕を迫る",
+  "lead": "元FTC（連邦取引委員会）トップのカーン氏が、AIの最高経営責任者（CEO）らに対して1934年の前例を引用し、逮捕を検討すべきだと主張しました。",
+  "summary3": [
+   "元FTCトップのカーン氏が発言",
+   "AI経営者に1934年の前例を提示",
+   "逮捕を求める主張が議論を呼ぶ"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、海外の最新AI関連ニュースをお伝えします。AI/LLMの分野において、元FTCトップであるカーン氏の発言が注目を集めています。",
+   "同氏の主張によれば、AI企業の最高経営責任者（CEO）らに対して、1934年の前例を引用した上で逮捕を持ち出すべきだとのことです。この意見は海外のテック系コミュニティやニュースサイトでも取り上げられ、議論の的となっています。",
+   "AI技術が急速に発展し社会的な影響力を増す中、規制当局や元関係者からの法的・倫理的な責任追及のあり方について、今後さらに議論が活発化することが予想されます。"
+  ],
+  "tags": [
+   "FTC",
+   "AI規制",
+   "AI"
+  ],
+  "slug": "ex-ftc-boss-khan-ai-ceos-arrest-1934-precedent",
+  "people": [
+   {
+    "name": "カーン氏",
+    "bio": "米連邦取引委員会（FTC）の元トップを務め、ビッグテックに対する厳しい姿勢で知られる人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "FTC",
+    "type": "company",
+    "desc": "米国の独占禁止法や消費者保護法を執行する連邦政府の独立行政機関。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "16:02",
+  "path": "/articles/20260915-ex-ftc-boss-khan-ai-ceos-arrest-1934-precedent.html"
  }
 ]
