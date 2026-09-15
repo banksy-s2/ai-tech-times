@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-  "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
   "https://news.web.nhk/newsweb/na/na-k10015189721000",
   "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yb3ExU2Z2UGFOMTJVVVA3elplMzBORWw3eFB1RXVUWk1jMC12OWkzNnZUbENVWWhRZHprSjFMRkdsTVlUQnJ4eVRWOWNGalV0cUpaVGhDUnh0RjFYaEN6QVRxU1E?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVUZydjl6YmRjdGdaUGhodHc0OGNpWjFHd3FJWXRpMFQ1bk9uQWhDUGo0ZDJySzFRWnNNV2lnLTZzb2dZWm5ZV0F0dTB3OThDUnc?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260915de50224",
   "https://news.web.nhk/newsweb/na/nd-20260915de50391",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QVXpHSF9IWTlneWljcm40ZTlNa2pVUW9vSGR3ZUhmdzRxMjBUZXhIeTdwaVFkMS1mX3FoaFJ4NHZQcVhKbGlKTi05MnhiUmhoQk1paWYwSWlGZVN6c0VhVC1PN3RDelh4cmFpeg?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QVXpHSF9IWTlneWljcm40ZTlNa2pVUW9vSGR3ZUhmdzRxMjBUZXhIeTdwaVFkMS1mX3FoaFJ4NHZQcVhKbGlKTi05MnhiUmhoQk1paWYwSWlGZVN6c0VhVC1PN3RDelh4cmFpeg?oc=5",
+  "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+  "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
  ],
  "titles": [
-  "TikTok、DMでの個人間送金を検討か",
-  "勃起不全治療薬を万能長寿薬として宣伝、その理由は",
-  "避難所の7割にエアコンなし、真夏は生死に関わる問題へ",
-  "Meta裁判開始、子供のSNS依存をめぐる攻防",
   "ソフトバンクG株価一時7.7%安、オープンAI成長鈍化の懸念",
   "通販生活が楽天市場から撤退、その理由は",
   "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
@@ -4001,6 +3997,10 @@
   "トランプ氏発表：ウクライナとロシアがエネルギー施設攻撃せずで合意か",
   "自民・高市総理、16日党役員人事固まる",
   "キオクシアHD、株価反発 「ADR上場で100億ドル調達検討」報道 - 日本経済新聞",
-  "キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道"
+  "キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道",
+  "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+  "Big AI sets out its terms for regulatory capture",
+  "GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか",
+  "巨大AI企業、規制の囲い込みへその条件を提示"
  ]
 }

@@ -88168,5 +88168,72 @@
   "date": "2026-09-15",
   "time": "23:00",
   "path": "/articles/20260915-kioxia-hd-stock-adr-10-billion.html"
+ },
+ {
+  "title": "GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか",
+  "lead": "AI開発をめぐる最新の話題として、コードレビューにおける新型モデルの性能とコスト対効果が議論されています。",
+  "summary3": [
+   "GPT-5.6 LunaとGPT-6 Astraを比較",
+   "1.20ドルのモデルはコードレビューに十分か",
+   "Hacker Newsで多くの議論を集める"
+  ],
+  "body": [
+   "AI技術の進化に伴い、新たな言語モデルの性能とコストパフォーマンスをめぐる議論が活発になっています。海外のテック系コミュニティであるHacker Newsでは、コードレビューにおける実用性をテーマにした記事が注目を集めました。",
+   "焦点となっているのは、GPT-5.6 LunaとGPT-6 Astraという二つのモデルです。特に1.20ドルのモデルが、実際のソフトウェア開発におけるコードレビューの作業を十分にこなせるかどうかが議論の的となっています。",
+   "開発現場においてコストと精度のバランスは重要な要素です。今回の比較記事とオンラインでの活発な意見交換は、今後のAIツールの選定や活用方法を考える上で一つの参考情報となっています。"
+  ],
+  "tags": [
+   "AI",
+   "LLM",
+   "コードレビュー"
+  ],
+  "slug": "gpt-56-luna-vs-gpt-6-astra-code-review",
+  "people": [],
+  "terms": [
+   {
+    "name": "GPT-5.6 Luna",
+    "type": "ai",
+    "desc": "コードレビューなどの用途で比較対象となっているAIモデルの一つです。"
+   },
+   {
+    "name": "GPT-6 Astra",
+    "type": "ai",
+    "desc": "最新の性能やコストパフォーマンスが議論されているAIモデルの一つです。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "00:01",
+  "path": "/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html"
+ },
+ {
+  "title": "巨大AI企業、規制の囲い込みへその条件を提示",
+  "lead": "「AI TECH TIMES」編集部がお届けする最新ニュース。大規模なAI開発企業が、規制による囲い込みに向けた条件を明らかにしました。",
+  "summary3": [
+   "大規模AI企業が規制に関する条件を提示",
+   "規制の囲い込みを狙う動きが表面化",
+   "業界の急速な進化を巡り議論が加速"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が入手した最新の情報によれば、大規模なAI開発企業が、規制による囲い込みに関する自らの条件を明らかにしました。この動きは業界内で大きな関心を集めています。",
+   "元記事によると、この動きは「Pace the frontier」と称されており、大手企業が自らに有利な形で規制の枠組みを形作ろうとする意図が指摘されています。技術の急速な発展に伴い、ルールの設定を巡る主導権争いが活発化している模様です。",
+   "AI技術の普及が進む中、こうした大手企業による規制へのアプローチが、今後の業界全体の動向や競争環境にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "規制",
+   "テクノロジー"
+  ],
+  "slug": "big-ai-regulatory-capture",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "00:01",
+  "path": "/articles/20260916-big-ai-regulatory-capture.html"
  }
 ]
