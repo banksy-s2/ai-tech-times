@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-15 15:02",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-15 16:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ドコモ、5G基地局1万局超を整備へ 都市部のつながりにくい課題に対応",
-   "path": "/articles/20260915-docomo-5g-base-stations-expansion.html",
-   "cat": "日本企業"
+   "title": "OpenAIやイーロン・マスクらがAI開発の減速に合意、その裏にある意図とは",
+   "path": "/articles/20260915-big-tech-ai-slowdown-safety-pact-or-cartel.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "元FTCトップのカーン氏、AI経営者に1934年法を適用して逮捕を迫る",
+   "path": "/articles/20260915-ex-ftc-boss-khan-ai-ceos-arrest-1934-precedent.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 50,
+  "used": 55,
   "limit": 200
  }
 }
