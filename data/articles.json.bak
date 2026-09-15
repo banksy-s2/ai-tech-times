@@ -87099,5 +87099,373 @@
   "date": "2026-09-15",
   "time": "16:02",
   "path": "/articles/20260915-ex-ftc-boss-khan-ai-ceos-arrest-1934-precedent.html"
+ },
+ {
+  "title": "マイクロソフトが37ページの「人間中心のAI行動規範」を公開",
+  "lead": "マイクロソフトはAIの安全性への懸念が高まる中、37ページに及ぶ「人間中心のAI行動規範」を発表しました。AIの急速な進化に対し、人命や安全性を優先する姿勢が求められています。",
+  "summary3": [
+   "マイクロソフトが行動規範を公開",
+   "AI開発の減速を求める声も浮上",
+   "安全性と開発速度のバランスが課題"
+  ],
+  "body": [
+   "AI TECH TIMES編集部＝米マイクロソフトは、AIモデルの進化に伴う安全性の懸念が高まる中、37ページに及ぶ「人間中心のAI行動規範」を公開しました。これは、急速に複雑化するAIシステムを安全に展開し、検証する能力を超えるのではないかという研究者らの警告を受けたものです。",
+   "近年、AIモデルの進歩スピードが人間側の管理能力を上回るのではないかという懸念が強まっています。週末には、アンソロピックのダリオ・アモデイCEOが、AI開発の協調的な減速を呼びかけるなど、業界全体で安全性を最優先すべきだという議論が活発化しています。",
+   "今回発表された行動規範は、AIよりも「人間が重要である」という原則に立ち返るためのものです。複雑化するシステムを管理し、安全性を担保しながら技術を進展させるための具体的な方針が示されており、今後のAI開発のあり方に大きな影響を与えることになりそうです。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Anthropic",
+   "AI安全性"
+  ],
+  "slug": "microsoft-humanist-ai-code-of-conduct",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "米国のAI開発企業アンソロピックの最高経営責任者（CEO）。AIの安全性研究や開発に深く関わる。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "米国ワシントン州に本拠を置く、世界最大のソフトウェア開発企業。Windowsやクラウドサービスなどを展開。"
+   },
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "米国を拠点とするAI安全性の研究およびAIモデル開発に特化した企業。対話型AIなどを手掛ける。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-microsoft-humanist-ai-code-of-conduct.html"
+ },
+ {
+  "title": "SuperhumanがFathom買収、40万MAUの裏で進むAI統合",
+  "lead": "メールクライアントを手がけるSuperhumanが、Y Combinator支援の会議フォロワー企業Fathomを買収しました。生産性プラットフォームが自律型エージェント機能の強化を進める中での動きとなります。",
+  "summary3": [
+   "SuperhumanがFathomを買収へ",
+   "Fathomは40万人の月間アクティブユーザー",
+   "累計100万人以上が会議を記録"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、生産性プラットフォームが自律型エージェント機能の強化を急ぐ中、メールサービスを展開するSuperhumanが、Y Combinator支援を受けていることで知られる会議ノートテイカー企業Fathomを買収したことが明らかになりました。",
+   "買収されたFathomは、手厚い無料プランを提供していることで広く知られています。その結果として、月間アクティブユーザー数は40万人を超える規模にまで成長していました。",
+   "さらに、これまでに累計で100万人を超えるユーザーが同社のサービスを利用して会議を記録してきた実績があります。今回の買収劇は、今後のビジネスツール市場におけるエージェント化の流れをさらに加速させるものとして注目を集めています。"
+  ],
+  "tags": [
+   "Superhuman",
+   "Fathom",
+   "AIエージェント"
+  ],
+  "slug": "superhuman-acquires-fathom",
+  "people": [],
+  "terms": [
+   {
+    "name": "Superhuman",
+    "type": "company",
+    "desc": "高速な操作性を特徴とするメールクライアントや関連する生産性ツールを開発・提供している企業です。"
+   },
+   {
+    "name": "Fathom",
+    "type": "company",
+    "desc": "Y Combinatorが支援し、会議の記録やノート作成を行うツールを提供していることで知られる企業です。"
+   },
+   {
+    "name": "Y Combinator",
+    "type": "company",
+    "desc": "多くの著名なスタートアップを初期段階から支援・育成している世界的に有名な米国のベンチャーキャピタルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-superhuman-acquires-fathom.html"
+ },
+ {
+  "title": "ソフトバンクやキオクシア株が急落、AI開発減速論でなぜ",
+  "lead": "米国の最先端AIモデル開発企業が発した警告を受け、日本市場のAI関連株が急落しました。投資家の財布に直結するこの動向について詳しくお伝えします。",
+  "summary3": [
+   "AI開発企業の警告で関連株が急落",
+   "ソフトバンクやキオクシアなどに波及",
+   "人類への脅威防ぐ開発ペース減速論"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、米国の最先端AIモデルを開発する企業が、人類への脅威を防ぐためには開発ペースを落とす必要があると警告を発しました。この発表が市場に大きな波及効果をもたらしています。",
+   "この警告をきっかけとして、日本の株式市場ではAI開発の減速に対する懸念が強まりました。その結果、ソフトバンクやキオクシア、東京エレクトロンといった主要なAI関連株が急落する展開となっています。",
+   "最先端の技術を推進してきた企業自らがリスクに言及したことで、今後の産業全体の成長スピードや投資判断にどのような影響を与えるのか、市場関係者の注目が集まっています。"
+  ],
+  "tags": [
+   "ソフトバンク",
+   "キオクシア",
+   "AI開発"
+  ],
+  "slug": "ai-development-slowdown-stocks-drop",
+  "people": [],
+  "terms": [
+   {
+    "name": "ソフトバンク",
+    "type": "company",
+    "desc": "情報通信やインターネット事業を手がけ、国内外のAIや先端テクノロジー企業への投資も積極的に行う日本の巨大企業"
+   },
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を主力の事業とし、世界的なシェアを持つ日本の半導体関連企業"
+   },
+   {
+    "name": "東京エレクトロン",
+    "type": "company",
+    "desc": "半導体製造装置の開発や製造を手がけ、世界トップクラスのシェアを誇る日本の代表的な電子機器メーカー"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001462/",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-ai-development-slowdown-stocks-drop.html"
+ },
+ {
+  "title": "Claudeに指示して約20万円の退去費用がチャラになった理由",
+  "lead": "賃貸の退去時に納得いかない請求をされたユーザーが、AIを活用して法的な根拠を持つ攻撃的な返信を作成し、約20万円もの費用をチャラにした体験談が話題となっています。",
+  "summary3": [
+   "退去時の高額請求にAIで対抗",
+   "法的根拠のある返信を作成",
+   "約20万円の請求がチャラに"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が、はてなブックマークITで注目を集めている話題をお届けします。関宮（@sekimiya）氏が自身のSNSで明かしたところによると、賃貸物件の退去時に意味の分からない請求をされて非常に立腹したとのことです。",
+   "そこで同氏は、対話型AIであるClaudeに対し、「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示を出しました。さらに、文章の正確性を期すために複数の課金AIでクロスチェックを行うという徹底ぶりを見せました。",
+   "相手からの返信が来るたびにこの手法を繰り返して交渉にあたった結果、約20万円にも及ぶ退去費用がチャラになるという結果を引き出しました。AIを駆使した交渉術の事例として、多くの関心を集めています。"
+  ],
+  "tags": [
+   "Claude",
+   "賃貸",
+   "AI活用"
+  ],
+  "slug": "claude-rental-moving-cost-dispute",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した対話型AIモデルであり、高度な文章生成や推論能力を持つことで知られています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://togetter.com/li/2745721",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-claude-rental-moving-cost-dispute.html"
+ },
+ {
+  "title": "Samsungが2億3000万ドル出資、Nvidia対抗AIチップの狙い",
+  "lead": "AIチップ市場でNvidiaの対抗馬として期待されるオランダのスタートアップ企業が、Samsungなどを引き受けて大規模な資金調達を実施しました。",
+  "summary3": [
+   "Samsungなどが2億3000万ドル規模の資金調達を実施",
+   "オランダのスタートアップEuclydが資金を調達",
+   "GPUの代替製品としてAIチップ市場で注目を集める"
+  ],
+  "body": [
+   "AI向けのGPU代替製品が急速に注目を集める中、オランダのスタートアップ企業であるEuclydが、2億3000万ドル規模の資金調達ラウンドを実施したことが明らかになりました。CNBC Techが報じています。",
+   "今回の資金調達ラウンドは、韓国の総合家電・半導体大手であるSamsungをはじめ、Somerset Capital Partners、Scaleup Europe Fund、Innovation Industriesが共同で主導しました。",
+   "AI分野において特定のハードウェア需要が急増する背景を受け、半導体市場での新たな選択肢としてスタートアップの技術や動向に関心が集まっています。"
+  ],
+  "tags": [
+   "Samsung",
+   "AIチップ",
+   "半導体"
+  ],
+  "slug": "samsung-euclyd-ai-chip-funding",
+  "people": [],
+  "terms": [
+   {
+    "name": "Samsung",
+    "type": "company",
+    "desc": "韓国に本拠地を置き、スマートフォンや半導体などで世界的なシェアを誇る総合電機メーカーです。"
+   },
+   {
+    "name": "Euclyd",
+    "type": "company",
+    "desc": "オランダを拠点にAIチップの開発を手がけ、GPUの代替として注目を集めているスタートアップ企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-samsung-euclyd-ai-chip-funding.html"
+ },
+ {
+  "title": "山口組系組長と58歳男が恐喝容疑で逮捕されたワケ",
+  "lead": "「盃はもらったけれど組員にはなっていません」と主張する58歳の“ヤクザ追っかけYouTuber”が、恐喝容疑で山口組系組長と一緒に逮捕されました。その背景に何があったのでしょうか。",
+  "summary3": [
+   "58歳の男が恐喝容疑で逮捕された",
+   "山口組系組長と一緒に逮捕された",
+   "「盃はもらった」と主張している"
+  ],
+  "body": [
+   "「盃はもらったけれど組員にはなっていません」と主張する58歳の“ヤクザ追っかけYouTuber”が、恐喝容疑で山口組系組長と一緒に逮捕されました。デイリー新潮などの報道により、この事件が大きな注目を集めています。",
+   "事件の詳細や逮捕に至った経緯については、今後の捜査やさらなる報道が待たれる状況です。YouTubeでの活動と暴力団との関係性がどのように影響していたのか、関心が寄せられています。",
+   "AI TECH TIMESでは、引き続きこのニュースの動向を正確にお伝えしてまいります。"
+  ],
+  "tags": [
+   "事件",
+   "YouTube",
+   "山口組"
+  ],
+  "slug": "yakuza-youtuber-arrested",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5URXZORTJxcEtvVUF0TkJjLWtPelk4ZkZ3S2Z2RGtEZFZQUmJ2Q1RNcm0yUlVxUVdmZTJhMzVkXzUwdDVNV1VfaldGSDYzRzFaMG01X1BzbUtnZFN5eHRPY01Xc3JmRjFlaWEwYkdtdjA1LWpTYVNoVlhCeWtnWjg?oc=5",
+  "category": "influencer",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-yakuza-youtuber-arrested.html"
+ },
+ {
+  "title": "国連安保理、フーシ派の海峡封鎖で15日に緊急会合へ",
+  "lead": "中東・イエメンの反政府勢力フーシ派による紅海のバーブルマンデブ海峡の情勢をめぐり、国連の安全保障理事会が緊急会合を開くことが決まりました。",
+  "summary3": [
+   "国連安保理が15日に緊急会合を開催",
+   "フーシ派が周辺一帯を制圧と伝えられる",
+   "世界のエネルギー市場への影響を懸念"
+  ],
+  "body": [
+   "AI TECH TIMES編集部です。中東・イエメンの反政府勢力フーシ派が周辺一帯を制圧したと伝えられる紅海のバーブルマンデブ海峡の情勢をめぐり、国連の安全保障理事会で15日に緊急会合が開かれることが決まりました。",
+   "今回の海峡封鎖や制圧の動きは、世界のエネルギー市場への影響が懸念されており、国際社会において緊密な協議と対応が求められる状況となっています。",
+   "国連安全保障理事会の緊急会合において、今後の国際的な対応や市場への影響を抑えるための議論がどのように進められるのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "国連安保理",
+   "フーシ派",
+   "エネルギー市場"
+  ],
+  "slug": "un-sc-houthi-red-sea-meeting",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260915de50297",
+  "category": "world",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-un-sc-houthi-red-sea-meeting.html"
+ },
+ {
+  "title": "アメリカ空軍、宇宙兵器の配備を初めて公式に確認",
+  "lead": "アメリカ空軍が、国家を防衛するために宇宙兵器を配備したことを初めて公に確認しました。",
+  "summary3": [
+   "アメリカ空軍が宇宙兵器の配備を初確認",
+   "兵器は敵の攻撃から国を守るため必要",
+   "BBC Worldが報じた"
+  ],
+  "body": [
+   "アメリカ空軍のトップであるアメリカ空軍長官が、同国において宇宙兵器が配備されていることを初めて公に確認しました。この発表は、宇宙空間における防衛力の存在を公式に認めたものとなります。",
+   "配備された理由について、アメリカ空軍長官は、敵の攻撃から国を守るためにこれらの兵器が必要不可欠であると説明しています。宇宙空間での安全保障環境が変化する中での重要な発表となりました。",
+   "今回の確認はBBC Worldによって報じられており、アメリカによる宇宙領域での防衛体制の現状について新たな事実が明らかになっています。"
+  ],
+  "tags": [
+   "アメリカ空軍",
+   "宇宙兵器",
+   "防衛"
+  ],
+  "slug": "us-confirms-space-weapons-deployed",
+  "people": [],
+  "terms": [
+   {
+    "name": "アメリカ空軍",
+    "type": "company",
+    "desc": "アメリカ軍の航空宇宙部門を担当する組織で、国の防衛を担う主要な軍事機関の一つ。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-us-confirms-space-weapons-deployed.html"
+ },
+ {
+  "title": "日本相互証券：長期金利が一時3.030％に上昇、1996年9月以来の高い水準",
+  "lead": "15日の債券市場で、長期金利の代表的な指標である10年もの国債の利回りが一時3.030％まで上昇しました。日本相互証券によりますと、1996年9月以来およそ30年ぶりの高い水準となります。",
+  "summary3": [
+   "長期金利が一時3.030％まで上昇",
+   "1996年9月以来およそ30年ぶりの高い水準",
+   "15日の債券市場における10年国債の動き"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする経済ニュースです。15日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.030％まで上昇しました。",
+   "日本相互証券によりますと、今回の水準は1996年9月以来およそ30年ぶりの高い水準となります。",
+   "市場における長期金利の動向や今後の推移については、引き続き各方面の発表に注目が集まっています。"
+  ],
+  "tags": [
+   "長期金利",
+   "国債",
+   "経済ニュース"
+  ],
+  "slug": "long-term-interest-rate-rises-to-3-030-percent",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本相互証券",
+    "type": "company",
+    "desc": "日本の証券会社。公社債の店頭市場の形成や市場情報の提供などを行っている金融関連企業です。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260915de50343",
+  "category": "stock",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-long-term-interest-rate-rises-to-3-030-percent.html"
+ },
+ {
+  "title": "GMOとTechShareが提携、Unitree普及へ",
+  "lead": "GMOとTechShareが資本業務提携を締結し、世界シェアNo.1ヒューマノイドロボット「Unitree」を日本で本格的に普及させると発表しました。",
+  "summary3": [
+   "GMOとTechShareが資本業務提携",
+   "世界シェアNo.1のUnitreeを普及",
+   "日本のロボット市場展開を本格化"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の企業ニュースです。GMOとTechShareが資本業務提携を締結したことが明らかになりました。この提携により、世界シェアNo.1を誇るヒューマノイドロボット「Unitree」を日本国内で本格的に普及させていく方針です。",
+   "両社はそれぞれの強みを持ち寄り、日本市場における「Unitree」の展開を加速させる狙いがあります。近年、ロボット技術の進化と実用化が急速に進む中、世界トップクラスのシェアを持つ製品の国内普及は、各業界の自動化や効率化に大きな影響を与える可能性があります。",
+   "今回の資本業務提携に関する詳細や今後の展開スケジュールなどについては、順次発表される見通しです。AI TECH TIMESでは、引き続き最新の動向を報じてまいります。"
+  ],
+  "tags": [
+   "GMO",
+   "TechShare",
+   "Unitree"
+  ],
+  "slug": "gmo-and-techshare-capital-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "GMO",
+    "type": "company",
+    "desc": "インターネット事業を中心に、金融や暗号資産など幅広いサービスを展開する日本の企業グループです。"
+   },
+   {
+    "name": "TechShare",
+    "type": "company",
+    "desc": "ロボットやIoT分野を中心に、ハードウェアや関連ソリューションの提供を行う企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5raWM5RWkwMmxHbTRib2drZjZhbmtYVEtieW1keW8tQWhvaXJQYmlUemFtd1ZIVnVSNVNRV1hDd2ZtSTBwclVJ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-15",
+  "time": "17:06",
+  "path": "/articles/20260915-gmo-and-techshare-capital-alliance.html"
  }
 ]

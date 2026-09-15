@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-15 17:06",
- "mode": "フル便",
+ "updated": "2026-09-15 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "マイクロソフトが37ページの「人間中心のAI行動規範」を公開",
-   "path": "/articles/20260915-microsoft-humanist-ai-code-of-conduct.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "SuperhumanがFathom買収、40万MAUの裏で進むAI統合",
-   "path": "/articles/20260915-superhuman-acquires-fathom.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "ソフトバンクやキオクシア株が急落、AI開発減速論でなぜ",
-   "path": "/articles/20260915-ai-development-slowdown-stocks-drop.html",
+   "title": "NVIDIA、Anthropicの1.5兆円出資を検討",
+   "path": "/articles/20260915-nvidia-anthropic-ipo-investment.html",
    "cat": "日本のAI"
   },
   {
-   "title": "Claudeに指示して約20万円の退去費用がチャラになった理由",
-   "path": "/articles/20260915-claude-rental-moving-cost-dispute.html",
+   "title": "Apple、「iOS 27」など一斉リリースでSiri AI対応へ",
+   "path": "/articles/20260915-apple-ios-27-siri-ai-release.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Samsungが2億3000万ドル出資、Nvidia対抗AIチップの狙い",
-   "path": "/articles/20260915-samsung-euclyd-ai-chip-funding.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "山口組系組長と58歳男が恐喝容疑で逮捕されたワケ",
-   "path": "/articles/20260915-yakuza-youtuber-arrested.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "国連安保理、フーシ派の海峡封鎖で15日に緊急会合へ",
-   "path": "/articles/20260915-un-sc-houthi-red-sea-meeting.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "アメリカ空軍、宇宙兵器の配備を初めて公式に確認",
-   "path": "/articles/20260915-us-confirms-space-weapons-deployed.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日本相互証券：長期金利が一時3.030％に上昇、1996年9月以来の高い水準",
-   "path": "/articles/20260915-long-term-interest-rate-rises-to-3-030-percent.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "GMOとTechShareが提携、Unitree普及へ",
-   "path": "/articles/20260915-gmo-and-techshare-capital-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\"",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [
-  "執筆失敗: Apple Home’s new security camera feature",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 74,
+  "used": 79,
   "limit": 200
  }
 }

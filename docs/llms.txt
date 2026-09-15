@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-15 17:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-15 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [NVIDIA、Anthropicの1.5兆円出資を検討](https://ai-tech-times.web.app/articles/20260915-nvidia-anthropic-ipo-investment.html) — 2026-09-15 18:00: AIモデル「Claude」を手がけるAnthropicの新規株式公開(IPO)が2026年11月に行われる見込みとなり、NVIDIAが約1兆5000億円の出資を検討していることが報じられました。
+- [Apple、「iOS 27」など一斉リリースでSiri AI対応へ](https://ai-tech-times.web.app/articles/20260915-apple-ios-27-siri-ai-release.html) — 2026-09-15 18:00: 2026年9月14日、Appleが「iOS 27」や「macOS 27」などの各OSを順次展開すると発表しました。iPhoneやMacなどでSiri AIが利用可能になりますが、日本語対応は後日となります。
 - [マイクロソフトが37ページの「人間中心のAI行動規範」を公開](https://ai-tech-times.web.app/articles/20260915-microsoft-humanist-ai-code-of-conduct.html) — 2026-09-15 17:06: マイクロソフトはAIの安全性への懸念が高まる中、37ページに及ぶ「人間中心のAI行動規範」を発表しました。AIの急速な進化に対し、人命や安全性を優先する姿勢が求められています。
 - [SuperhumanがFathom買収、40万MAUの裏で進むAI統合](https://ai-tech-times.web.app/articles/20260915-superhuman-acquires-fathom.html) — 2026-09-15 17:06: メールクライアントを手がけるSuperhumanが、Y Combinator支援の会議フォロワー企業Fathomを買収しました。生産性プラットフォームが自律型エージェント機能の強化を進める中での動きとなります。
 - [ソフトバンクやキオクシア株が急落、AI開発減速論でなぜ](https://ai-tech-times.web.app/articles/20260915-ai-development-slowdown-stocks-drop.html) — 2026-09-15 17:06: 米国の最先端AIモデル開発企業が発した警告を受け、日本市場のAI関連株が急落しました。投資家の財布に直結するこの動向について詳しくお伝えします。
@@ -40,13 +42,11 @@
 - [AppleのSiri、ClaudeやChatGPTへ置き換え可能に](https://ai-tech-times.web.app/articles/20260915-apples-siri-can-be-swapped-for-claude-chatgpt.html) — 2026-09-15 07:06: Appleの音声アシスタント「Siri」を、他のAIである「Claude」や「ChatGPT」へと置き換えられることがコードから明らかになりました。
 - [AIで仕事効率化も…報告しない社員の本音](https://ai-tech-times.web.app/articles/20260915-ai-quiet-quitting-efficiency.html) — 2026-09-15 07:06: 生成AIの普及で業務効率化が進む中、浮いた時間を上司に報告せず隠す社員が増えています。その背景にある職場の実態とは。
 - [Sakana AIが新システム発表、その実力は](https://ai-tech-times.web.app/articles/20260915-sakana-ai-fugu-ultra-v2-release.html) — 2026-09-15 07:06: 東京に拠点を置くAI企業のSakana AIが、複数のAIモデルを効率的に使い分ける新システムを発表しました。
-- [Musk氏、Appleを訴訟から除外するもOpenAIへの追及は継続](https://ai-tech-times.web.app/articles/20260915-musk-drops-apple-antitrust-suit-keeps-openai-target.html) — 2026-09-15 07:06: 実業家のElon Musk氏がAppleに対する反トラスト法訴訟を取り下げました。しかし、OpenAIに対する法的闘争は依然として続けています。
-- [エヌビディアのジェンスン・フアンCEOがトランプ大統領の電話をスピーカーフォンで壇上に公開した理由](https://ai-tech-times.web.app/articles/20260915-jensen-huang-trump-phone-call-all-in-summit.html) — 2026-09-15 07:06: エヌビディアのジェンスン・フアンCEOが登壇中のイベントでトランプ大統領からの電話を受け、スピーカーフォンで会場に公開しました。
 
 ## 世界のバズ動画TOP3 (2026-09-15)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
-- 3位: [Ganesh Chaturthi 2026 Special Jukebox | Super Hit Telugu Ganesh Songs | Vinayaka Chavithi Songs](https://www.youtube.com/watch?v=RHAJcCPB9Yo)
+- 3位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
 
 ## AI用語事典 (全1503語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
