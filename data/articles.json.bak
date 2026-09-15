@@ -86944,5 +86944,39 @@
   "date": "2026-09-15",
   "time": "07:06",
   "path": "/articles/20260915-chubu-denryok-hamaoka-npp-withdrawal.html"
+ },
+ {
+  "title": "moomoo証券に業務停止命令、NISA不適切販売なぜ起きた",
+  "lead": "証券取引等監視委員会が摘発に動いたmoomoo証券のNISA不適切販売について、市場の健全化と投資家保護の課題が浮き彫りになりました。",
+  "summary3": [
+   "moomoo証券に業務停止命令",
+   "NISA対象外米ETFを表示",
+   "制度の複雑化と実務の課題"
+  ],
+  "body": [
+   "証券取引等監視委員会が「市場の番人」として摘発に動いた、moomoo証券によるNISAの不適切販売問題が注目を集めています。同社はNISAの対象外である米ETFについて、「対象」と誤った表示を行っていました。",
+   "今回の問題では、全国初となる業務停止命令が下される事態となりました。市場の健全化と投資家保護の両立に向けた難しさが、改めて浮き彫りになる形となっています。",
+   "投資に関する制度やルールが複雑化する中で、実務上の運用において見落としが生じたことが背景にあります。投資家を保護する体制の重要性と、証券会社における適切な情報提供のあり方が問われています。"
+  ],
+  "tags": [
+   "moomoo証券",
+   "NISA",
+   "証券取引等監視委員会"
+  ],
+  "slug": "moomoo-sec-nisa-administrative-action",
+  "people": [],
+  "terms": [
+   {
+    "name": "moomoo証券",
+    "type": "company",
+    "desc": "証券取引等監視委員会による摘発や全国初の業務停止命令を受けた証券会社です。"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/957421?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-09-15",
+  "time": "14:00",
+  "path": "/articles/20260915-moomoo-sec-nisa-administrative-action.html"
  }
 ]
