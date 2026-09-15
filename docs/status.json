@@ -1,21 +1,73 @@
 {
- "updated": "2026-09-15 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-15 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Netflixとセガ、1999年の名作「クレイジータクシー」実写化へ",
-   "path": "/articles/20260915-netflix-sega-crazy-taxi-adaptation.html",
+   "title": "TechCrunch Disrupt 2026、AIで絶滅種を復活させる使命",
+   "path": "/articles/20260915-ai-engineers-nature-comeback-disrupt-2026.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AppleのiOS 27がついにSiriを刷新、実用性がどう変わったのか",
+   "path": "/articles/20260915-apple-ios-27-siri-overhaul.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIの会話評価プロジェクトで人間が個人情報を読むリスク",
+   "path": "/articles/20260915-chatgpt-project-lily-privacy-risk.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "GMO天秤AI、東大生にAI無料提供の裏で注意喚起",
+   "path": "/articles/20260915-gmo-tenbin-ai-todai-free.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AnthropicとOpenAIがAI安全規制を求める理由",
+   "path": "/articles/20260915-anthropic-openai-safety-rules-trump.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "アンソロピックCEOが警鐘、AI株下落でサイバー関連は高騰",
+   "path": "/articles/20260915-ai-stocks-sink-cybersecurity-rally.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "YouTubeが人気クリエイターの流出を阻止したい理由",
+   "path": "/articles/20260915-youtube-creator-outflow-prevention.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "地価調査で全国1.5%上昇のなぜ？生活への影響",
+   "path": "/articles/20260915-land-price-survey-2026-increase.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米環境保護庁、石炭・ガス火力の排出規制撤廃でエネルギー価格はどうなる",
+   "path": "/articles/20260915-us-scraps-emissions-limits.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "かどや製油がインテグラルTOBで非公開化へ",
+   "path": "/articles/20260915-kadoya-integral-tob.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "リンカーズ、SBIホールディングスと資本業務提携で買い気配",
+   "path": "/articles/20260915-linkers-sbi-holdings-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
   "url": "https://www.youtube.com/watch?v=yWNPxS0sXnE"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 88,
+  "used": 111,
   "limit": 200
  }
 }
