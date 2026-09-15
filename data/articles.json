@@ -88134,5 +88134,39 @@
   "date": "2026-09-15",
   "time": "22:00",
   "path": "/articles/20260915-ldp-executive-shuffle-2026.html"
+ },
+ {
+  "title": "キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道",
+  "lead": "キオクシアホールディングスの株価が反発しました。米国でのADR上場による大規模な資金調達の検討が報じられています。",
+  "summary3": [
+   "キオクシアHDの株価が反発しました",
+   "米国でのADR上場報道が伝わりました",
+   "100億ドルの調達検討と報じられています"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、キオクシアホールディングスの株価が反発したことが分かりました。市場では、同社を巡る新たな動向に関心が集まっています。",
+   "日本経済新聞の報道によると、キオクシアホールディングスが米国でのADR（米国預託証券）上場により、100億ドルの資金調達を検討していることが明らかになりました。",
+   "今回の報道を受けた株価の反発は、今後の市場における同社の動向や資金調達計画に対する投資家の注目を反映した動きとなっています。"
+  ],
+  "tags": [
+   "キオクシアHD",
+   "株価反発",
+   "ADR上場"
+  ],
+  "slug": "kioxia-hd-stock-adr-10-billion",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシアホールディングス",
+    "type": "company",
+    "desc": "フラッシュメモリの開発や製造を手がける日本の半導体企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QVXpHSF9IWTlneWljcm40ZTlNa2pVUW9vSGR3ZUhmdzRxMjBUZXhIeTdwaVFkMS1mX3FoaFJ4NHZQcVhKbGlKTi05MnhiUmhoQk1paWYwSWlGZVN6c0VhVC1PN3RDelh4cmFpeg?oc=5",
+  "category": "stock",
+  "date": "2026-09-15",
+  "time": "23:00",
+  "path": "/articles/20260915-kioxia-hd-stock-adr-10-billion.html"
  }
 ]

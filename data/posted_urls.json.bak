@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-  "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
   "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
   "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
   "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260915de50254",
   "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/958093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVUZydjl6YmRjdGdaUGhodHc0OGNpWjFHd3FJWXRpMFQ1bk9uQWhDUGo0ZDJySzFRWnNNV2lnLTZzb2dZWm5ZV0F0dTB3OThDUnc?oc=5"
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVUZydjl6YmRjdGdaUGhodHc0OGNpWjFHd3FJWXRpMFQ1bk9uQWhDUGo0ZDJySzFRWnNNV2lnLTZzb2dZWm5ZV0F0dTB3OThDUnc?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260915de50224",
+  "https://news.web.nhk/newsweb/na/nd-20260915de50391"
  ],
  "titles": [
-  "Meta hooked children on Facebook and Instagram, US court hears",
-  "ソフトバンクG株価一時7.7%安 米オープンAIの成長鈍化を懸念 - 日本経済新聞",
-  "通販生活が楽天市場から撤退　「戦時下では買い物どころではない」その理由は",
-  "MIT Tech Review: AIの自己改善はすぐには来ない？",
   "エミン氏警鐘：キオクシア株11万円台から4万円割れ、AIバブルが「リーマン型崩壊」に至る懸念",
   "ITmedia AI+調査：6割のエンジニアが実感するAI格差とは",
   "TikTok、DMでの個人間送金を検討か",
@@ -4001,6 +3997,10 @@
   "地価調査で全国1.5%上昇のなぜ？生活への影響",
   "米環境保護庁、石炭・ガス火力の排出規制撤廃でエネルギー価格はどうなる",
   "かどや製油がインテグラルTOBで非公開化へ",
-  "リンカーズ、SBIホールディングスと資本業務提携で買い気配"
+  "リンカーズ、SBIホールディングスと資本業務提携で買い気配",
+  "トランプ大統領「ウクライナ ロシア エネルギー施設攻撃せず」",
+  "自民党役員人事固まる 副総裁 幹事長ら留任 総務会長に梶山氏",
+  "トランプ氏発表：ウクライナとロシアがエネルギー施設攻撃せずで合意か",
+  "自民・高市総理、16日党役員人事固まる"
  ]
 }

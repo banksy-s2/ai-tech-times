@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-15 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-15 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "トランプ氏発表：ウクライナとロシアがエネルギー施設攻撃せずで合意か",
-   "path": "/articles/20260915-trump-energy-facilities-agreement.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "自民・高市総理、16日党役員人事固まる",
-   "path": "/articles/20260915-ldp-executive-shuffle-2026.html",
-   "cat": "時事・世界"
+   "title": "キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道",
+   "path": "/articles/20260915-kioxia-hd-stock-adr-10-billion.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 115,
+  "used": 119,
   "limit": 200
  }
 }
