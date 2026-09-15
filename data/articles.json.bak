@@ -87467,5 +87467,83 @@
   "date": "2026-09-15",
   "time": "17:06",
   "path": "/articles/20260915-gmo-and-techshare-capital-alliance.html"
+ },
+ {
+  "title": "NVIDIA、Anthropicの1.5兆円出資を検討",
+  "lead": "AIモデル「Claude」を手がけるAnthropicの新規株式公開(IPO)が2026年11月に行われる見込みとなり、NVIDIAが約1兆5000億円の出資を検討していることが報じられました。",
+  "summary3": [
+   "Anthropicが2026年11月にIPO実施見込み",
+   "約15兆5000億円の大規模な資金調達を予定",
+   "NVIDIAが1兆5000億円の出資を検討中"
+  ],
+  "body": [
+   "AIモデル「Claude」で知られるAnthropicの新規株式公開(IPO)が、2026年11月に行われる見込みであることが明らかになりました。",
+   "今回のIPOでは、約1000億ドルにのぼる約15兆5000億円もの巨額な資金調達が予定されています。その中で、NVIDIAが約100億ドルにあたる約1兆5000億円分をアンカー投資家として出資することを検討していると報じられています。",
+   "AI業界をリードする主要企業同士の動きとして、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "NVIDIA",
+   "IPO"
+  ],
+  "slug": "nvidia-anthropic-ipo-investment",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "対話型AIモデル「Claude」などを開発するアメリカの人工知能スタートアップ企業です。"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "GPUなどの半導体開発を手がけ、AI開発に不可欠なチップ市場を牽引するアメリカの企業です。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能な大規模言語モデルおよび対話型AIアシスタントです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260915-anthropic-mega-ipo/",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "18:00",
+  "path": "/articles/20260915-nvidia-anthropic-ipo-investment.html"
+ },
+ {
+  "title": "Apple、「iOS 27」など一斉リリースでSiri AI対応へ",
+  "lead": "2026年9月14日、Appleが「iOS 27」や「macOS 27」などの各OSを順次展開すると発表しました。iPhoneやMacなどでSiri AIが利用可能になりますが、日本語対応は後日となります。",
+  "summary3": [
+   "AppleがiOS 27など各OSを発表",
+   "iPhoneやMacなどでSiri AIが利用可能に",
+   "日本語版Siri AIは10月以降に提供開始予定"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。2026年9月14日、Appleは「iOS 27」「iPadOS 27」「macOS 27」「watchOS 27」「visionOS 27」「tvOS 27」を順次展開すると発表しました。",
+   "今回のメジャーアップデートにより、iPhone、iPad、Mac、Apple Watch、Apple Vision Proの各デバイスでSiri AIが利用できるようになります。長年親しまれてきた機能が、生成AIの力によってさらに進化を遂げることになります。",
+   "ただし、記事作成時点でSiri AIは英語のベータ版のみが展開されている状況です。日本語をはじめ、フランス語、韓国語、ポルトガル語、スペイン語の各言語版は、2026年10月以降に提供が開始される予定となっています。"
+  ],
+  "tags": [
+   "Apple",
+   "iOS27",
+   "SiriAI"
+  ],
+  "slug": "apple-ios-27-siri-ai-release",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国カリフォルニア州に本社を置く、iPhoneやMacなどのハードウェアやOSを開発・販売する世界的なテクノロジー企業。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260915-ios-27-macos-ipados/",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "18:00",
+  "path": "/articles/20260915-apple-ios-27-siri-ai-release.html"
  }
 ]

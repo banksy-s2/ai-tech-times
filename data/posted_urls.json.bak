@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015189461000",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNVhwRVhiUnNxUFdKRmJyak1HWGFFNHVRZG1KRnRFOFROS25rWkhLckxDVmxKNzc3N0FrY1hfMTZUbFctYUZYNmhyalp4VDBrVW9zZi05cGNjeGhMMkxGZWdoQUE3WU5NYjJZRw?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRl9fQzRRN2ExM3JHTnlNUkpRdGxwNjlPeWFwblhOMldsZEVEQUtkTlgyRDR2aWF0R2VXLWhJeGpoN0tJak1xUHM0R3k1dFQtMWtiakdPSnVRZmVYNU9ITnJyalVDSTBZaXJScA?oc=5",
   "https://www.itmedia.co.jp/business/articles/2607/29/news062.html",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkpOcld6MXcxNHdQQm96ZzRhaHVNZklzRHNRMnBrSjJsU1ZoNDBndEZTbU1pM3U3UGcyXzNuRHloR0hJa3NiTGpwc3lkVW9taGNmckVjMlRMdWlsWTl2dTVuY0J5YkZ1X0VpWmkweDVhU3lMcWM2MzRJdlNpMU5WcDlFQkhpd1E?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260915de50297",
   "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260915de50343",
-  "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5raWM5RWkwMmxHbTRib2drZjZhbmtYVEtieW1keW8tQWhvaXJQYmlUemFtd1ZIVnVSNVNRV1hDd2ZtSTBwclVJ?oc=5"
+  "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5raWM5RWkwMmxHbTRib2drZjZhbmtYVEtieW1keW8tQWhvaXJQYmlUemFtd1ZIVnVSNVNRV1hDd2ZtSTBwclVJ?oc=5",
+  "https://gigazine.net/news/20260915-anthropic-mega-ipo/",
+  "https://gigazine.net/news/20260915-ios-27-macos-ipados/"
  ],
  "titles": [
-  "芸人・ヒロシさんがオリジナル焚火台の制作を依頼した会社とのトラブルを報告「ずっと我慢してたけど、悔しくて悔しくて悔しくて」→依頼先の会社から反論「LINE公開して頂いて構いません」",
-  "株価 一時2100円超値下がり 半導体関連銘柄中心に売り注文",
-  "米ABCテレビが提訴“政権が放送免許更新の審査前倒しで報復”",
-  "株価 一時2100円超値下がり 半導体関連銘柄中心に売り注文",
   "「平均年収は2000万円超」不動産大手ヒューリックが“東大受験”の登竜門・鉄緑会を買収へ 西浦三郎会長の“上場企業らしくない”ワンマン手腕（文春オンライン） - Yahoo!ニュース",
   "ロビン・ウィリアムズのInstagram、AI乱用への対抗で家族が管理へ",
   "OpenAI、ChatGPTに未成年向けの新モードを導入する理由",
@@ -4001,6 +3997,10 @@
   "国連安保理、フーシ派の海峡封鎖で15日に緊急会合へ",
   "アメリカ空軍、宇宙兵器の配備を初めて公式に確認",
   "日本相互証券：長期金利が一時3.030％に上昇、1996年9月以来の高い水準",
-  "GMOとTechShareが提携、Unitree普及へ"
+  "GMOとTechShareが提携、Unitree普及へ",
+  "Anthropicの新規株式公開に対してNVIDIAがアンカー投資家として1.5兆円の出資を検討か",
+  "「iOS 27」「macOS 27」「iPadOS 27」など一斉リリース、ただしAI Siriの日本語対応は後日",
+  "NVIDIA、Anthropicの1.5兆円出資を検討",
+  "Apple、「iOS 27」など一斉リリースでSiri AI対応へ"
  ]
 }

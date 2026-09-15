@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-15 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-15 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NVIDIA、Anthropicの1.5兆円出資を検討",
-   "path": "/articles/20260915-nvidia-anthropic-ipo-investment.html",
-   "cat": "日本のAI"
+   "title": "Appleの2027年上半期計画：新製品ラインナップが明らかに",
+   "path": "/articles/20260915-apple-h1-2027-plans-revealed.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Apple、「iOS 27」など一斉リリースでSiri AI対応へ",
-   "path": "/articles/20260915-apple-ios-27-siri-ai-release.html",
-   "cat": "日本のAI"
+   "title": "Apple Homeの新AI機能、利用料が月額最高60ドルになる理由",
+   "path": "/articles/20260915-apple-home-security-camera-ai-cost.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 79,
+  "used": 84,
   "limit": 200
  }
 }

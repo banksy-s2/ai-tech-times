@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRl9fQzRRN2ExM3JHTnlNUkpRdGxwNjlPeWFwblhOMldsZEVEQUtkTlgyRDR2aWF0R2VXLWhJeGpoN0tJak1xUHM0R3k1dFQtMWtiakdPSnVRZmVYNU9ITnJyalVDSTBZaXJScA?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2607/29/news062.html",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkpOcld6MXcxNHdQQm96ZzRhaHVNZklzRHNRMnBrSjJsU1ZoNDBndEZTbU1pM3U3UGcyXzNuRHloR0hJa3NiTGpwc3lkVW9taGNmckVjMlRMdWlsWTl2dTVuY0J5YkZ1X0VpWmkweDVhU3lMcWM2MzRJdlNpMU5WcDlFQkhpd1E?oc=5",
   "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000272/",
   "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260915de50343",
   "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5raWM5RWkwMmxHbTRib2drZjZhbmtYVEtieW1keW8tQWhvaXJQYmlUemFtd1ZIVnVSNVNRV1hDd2ZtSTBwclVJ?oc=5",
   "https://gigazine.net/news/20260915-anthropic-mega-ipo/",
-  "https://gigazine.net/news/20260915-ios-27-macos-ipados/"
+  "https://gigazine.net/news/20260915-ios-27-macos-ipados/",
+  "https://www.techmeme.com/260914/p40#a260914p40",
+  "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription"
  ],
  "titles": [
-  "「平均年収は2000万円超」不動産大手ヒューリックが“東大受験”の登竜門・鉄緑会を買収へ 西浦三郎会長の“上場企業らしくない”ワンマン手腕（文春オンライン） - Yahoo!ニュース",
-  "ロビン・ウィリアムズのInstagram、AI乱用への対抗で家族が管理へ",
-  "OpenAI、ChatGPTに未成年向けの新モードを導入する理由",
-  "Anthropic、Claude Codeの週次制限を50％増枠で8月31日まで延長",
   "AlibabaのQwen3.8 27B、GPT-5.6 Terra超えの理由は",
   "テスラ、アインライドにセミ500台提供の理由",
   "DisneyがFCCと委員長を提訴、なぜトランプの検閲に反発するか",
@@ -4001,6 +3997,10 @@
   "Anthropicの新規株式公開に対してNVIDIAがアンカー投資家として1.5兆円の出資を検討か",
   "「iOS 27」「macOS 27」「iPadOS 27」など一斉リリース、ただしAI Siriの日本語対応は後日",
   "NVIDIA、Anthropicの1.5兆円出資を検討",
-  "Apple、「iOS 27」など一斉リリースでSiri AI対応へ"
+  "Apple、「iOS 27」など一斉リリースでSiri AI対応へ",
+  "Sources: Apple's H1 2027 plans include an iPhone 18e, an A20 iPhone 18, an A20 Pro iPhone Air 2, an OLED iPad Air, an A19 Pro MacBook Neo, and an M6 MacBook Air (Mark Gurman/Bloomberg)",
+  "Apple Home’s new security camera features cost as much as $60 a month",
+  "Appleの2027年上半期計画：新製品ラインナップが明らかに",
+  "Apple Homeの新AI機能、利用料が月額最高60ドルになる理由"
  ]
 }
