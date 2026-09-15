@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 03:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 05:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [レオパレス21株がストップ高、光通信などがTOB実施](https://ai-tech-times.web.app/articles/20260916-leopalace21-hikari-tsushin-tob.html) — 2026-09-16 05:01: 15日の株式市場において、レオパレス21の株式がストップ高となりました。光通信などによるTOB（株式公開買付）が実施されたことが報じられています。
 - [GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す](https://ai-tech-times.web.app/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html) — 2026-09-16 03:00: GO、Waymo、日本交通の3社が、2027年中に国内初となる完全無人タクシーの運行を目指すことが明らかになりました。
 - [DoorDash、Wonderと4億2500万ドルの提携を結んだ理由](https://ai-tech-times.web.app/articles/20260916-wonder-doordash-partnership.html) — 2026-09-16 02:00: EC起業家として知られるマーク・ロア氏が創業したWonderは、レストランやデリバリー企業の巨大なポートフォリオ構築を進めています。このたび、DoorDashとの間で4億2500万ドルの大型提携を締結しました。
 - [トランプ氏がNvidia黄氏に電話、データセンター反対論を否定](https://ai-tech-times.web.app/articles/20260916-trump-nvidia-huang-all-in-summit.html) — 2026-09-16 02:00: トランプ大統領がエヌビディアのジェンスン・フアン氏に電話をかけ、AI業界のデータセンター建設に対する反対意見を「でっち上げ」と批判したことが明らかになりました。
@@ -41,14 +42,13 @@
 - [YouTubeが人気クリエイターの流出を阻止したい理由](https://ai-tech-times.web.app/articles/20260915-youtube-creator-outflow-prevention.html) — 2026-09-15 21:05: YouTubeが、人気クリエイターの他プラットフォームへの流出を防ぐために対策を進めていると報じられています。
 - [地価調査で全国1.5%上昇のなぜ？生活への影響](https://ai-tech-times.web.app/articles/20260915-land-price-survey-2026-increase.html) — 2026-09-15 21:05: 2026年の都道府県地価調査の結果が公表され、全国の地価平均は2025年に比べてプラス1.5％となり、5年連続で上昇しました。
 - [米環境保護庁、石炭・ガス火力の排出規制撤廃でエネルギー価格はどうなる](https://ai-tech-times.web.app/articles/20260915-us-scraps-emissions-limits.html) — 2026-09-15 21:05: 米環境保護庁（EPA）は、石炭およびガス火力発電所に対する排出ガスの制限を撤廃すると発表しました。この決定により、国民の財布やエネルギー価格にどのような影響が及ぶのでしょうか。
-- [かどや製油がインテグラルTOBで非公開化へ](https://ai-tech-times.web.app/articles/20260915-kadoya-integral-tob.html) — 2026-09-15 21:05: 老舗ごま油メーカーのかどや製油が、投資ファンドのインテグラルによるTOBを実施し、非公開化へ舵を切ることが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
 - 2位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 3位: [Joseph](https://www.youtube.com/watch?v=lKVZKG7CcMU)
 
-## AI用語事典 (全1513語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1514語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

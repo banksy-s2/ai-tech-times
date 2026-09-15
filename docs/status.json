@@ -1,18 +1,21 @@
 {
- "updated": "2026-09-16 04:00",
- "mode": "軽量便(時事・世界)",
- "articles": [],
+ "updated": "2026-09-16 05:01",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [
+  {
+   "title": "レオパレス21株がストップ高、光通信などがTOB実施",
+   "path": "/articles/20260916-leopalace21-hikari-tsushin-tob.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "Transformers: Rise of Unicron - New Official Teaser",
   "url": "https://www.youtube.com/watch?v=pvm5gvobL5w"
  },
- "notes": [
-  "執筆失敗: 損壊したサウジのパイプライン“復旧までに3～5週間” 報道",
-  "執筆失敗: More than 100,000 people in Japan are no"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 20,
+  "used": 23,
   "limit": 200
  }
 }

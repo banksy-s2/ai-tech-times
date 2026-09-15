@@ -88433,5 +88433,44 @@
   "date": "2026-09-16",
   "time": "03:00",
   "path": "/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html"
+ },
+ {
+  "title": "レオパレス21株がストップ高、光通信などがTOB実施",
+  "lead": "15日の株式市場において、レオパレス21の株式がストップ高となりました。光通信などによるTOB（株式公開買付）が実施されたことが報じられています。",
+  "summary3": [
+   "15日の株式市場でレオパレス21株がストップ高",
+   "光通信などがTOB（株式公開買付）を実施",
+   "日本経済新聞が関連ニュースとして報じた"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によれば、15日の株式市場において、レオパレス21の株式がストップ高を記録しました。市場では、光通信などがTOB（株式公開買付）を実施したことが注目を集めています。",
+   "今回の株式市場における動きは、日本経済新聞の報道によって伝えられました。レオパレス21株を巡る光通信などのTOBに関する詳細な内容は、今後の市場動向や発表に注目が集まる要因となっています。",
+   "株式市場における個別企業の動向として、今回のストップ高およびTOB実施のニュースは多くの投資家や市場関係者の関心を集める形となりました。今後の続報や詳細な発表内容が待たれる状況です。"
+  ],
+  "tags": [
+   "レオパレス21",
+   "光通信",
+   "株式市場"
+  ],
+  "slug": "leopalace21-hikari-tsushin-tob",
+  "people": [],
+  "terms": [
+   {
+    "name": "レオパレス21",
+    "type": "company",
+    "desc": "東京都中野区に本社を置く、アパートの賃貸建築や開発を手がける不動産会社。"
+   },
+   {
+    "name": "光通信",
+    "type": "company",
+    "desc": "東京都豊島区に本社を置く、法人向け通信回線やOA機器の販売等を行う企業グループの統括会社。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWXJGeU5lcmtodmhOVDViSUxHdkRJWG9iMHNqVXh3WENRcjJ2dUgtZ2Q1UmdXamxGdnRkR2pSeFdIR1hna1JCODRLbWFzQnJhZjBXZlN6bjJJQWlLWlhEWWVDNjB5YWNwc21iTw?oc=5",
+  "category": "stock",
+  "date": "2026-09-16",
+  "time": "05:01",
+  "path": "/articles/20260916-leopalace21-hikari-tsushin-tob.html"
  }
 ]

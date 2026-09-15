@@ -88394,5 +88394,44 @@
   "date": "2026-09-16",
   "time": "02:00",
   "path": "/articles/20260916-trump-nvidia-huang-all-in-summit.html"
+ },
+ {
+  "title": "GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す",
+  "lead": "GO、Waymo、日本交通の3社が、2027年中に国内初となる完全無人タクシーの運行を目指すことが明らかになりました。",
+  "summary3": [
+   "GO、Waymo、日本交通がタッグ",
+   "2027年中の完全無人タクシー運行を目指す",
+   "国内初となる実現に向けて準備を進める"
+  ],
+  "body": [
+   "GO、Waymo、日本交通の各社は、2027年中に国内初となる完全無人タクシーの運行を目指す方針を発表しました。",
+   "今回の取り組みにより、日本のタクシー業界や移動手段のあり方に大きな変革をもたらすことが期待されています。",
+   "今後は2027年中の運行実現に向けて、それぞれの強みを活かしながら準備が進められていく見通しです。"
+  ],
+  "tags": [
+   "自動運転",
+   "タクシー",
+   "モビリティ"
+  ],
+  "slug": "go-waymo-nihon-kotsu-driverless-taxi-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "Waymo",
+    "type": "company",
+    "desc": "アメリカを拠点に自動運転技術の開発および完全無人タクシーの運行を手がける企業です。"
+   },
+   {
+    "name": "日本交通",
+    "type": "company",
+    "desc": "東京都を中心にハイヤーやタクシー事業を展開する国内の老舗大手交通事業者です。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://car.watch.impress.co.jp/docs/news/2140924.html",
+  "category": "influencer",
+  "date": "2026-09-16",
+  "time": "03:00",
+  "path": "/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html"
  }
 ]
