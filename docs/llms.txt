@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-15 07:06 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-15 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [moomoo証券に業務停止命令、NISA不適切販売なぜ起きた](https://ai-tech-times.web.app/articles/20260915-moomoo-sec-nisa-administrative-action.html) — 2026-09-15 14:00: 証券取引等監視委員会が摘発に動いたmoomoo証券のNISA不適切販売について、市場の健全化と投資家保護の課題が浮き彫りになりました。
 - [OpenAI、3億ドルでカメラ企業Glass Imaging買収](https://ai-tech-times.web.app/articles/20260915-openai-buys-glass-imaging.html) — 2026-09-15 07:06: 「AI TECH TIMES」編集部が報じる最新ニュース。OpenAIがスマートフォン向けカメラメーカーを3億ドルで買収したことが明らかになりました。
 - [AppleのSiri、ClaudeやChatGPTへ置き換え可能に](https://ai-tech-times.web.app/articles/20260915-apples-siri-can-be-swapped-for-claude-chatgpt.html) — 2026-09-15 07:06: Appleの音声アシスタント「Siri」を、他のAIである「Claude」や「ChatGPT」へと置き換えられることがコードから明らかになりました。
 - [AIで仕事効率化も…報告しない社員の本音](https://ai-tech-times.web.app/articles/20260915-ai-quiet-quitting-efficiency.html) — 2026-09-15 07:06: 生成AIの普及で業務効率化が進む中、浮いた時間を上司に報告せず隠す社員が増えています。その背景にある職場の実態とは。
@@ -41,12 +42,11 @@
 - [OpenAIが自社のロードマップを実装した時、AI企業はどう生き残るのか](https://ai-tech-times.web.app/articles/20260915-techcrunch-disrupt-openai-roadmap.html) — 2026-09-15 02:57: TechCrunch Disrupt 2026のビルダーズステージにて、基盤モデルの進化に伴うAI企業の価値創出をテーマにしたインタラクティブセッションが開催されます。
 - [Apple、iOS 27配信開始。待望のSiri AI刷新はなぜ英語のみか](https://ai-tech-times.web.app/articles/20260915-apple-releases-ios-27-with-siri-ai.html) — 2026-09-15 02:57: Appleは、AIによる大幅な刷新を行った「iOS 27」をはじめとする新OSの提供を本日から開始しました。注目の「Siri AI」は英語環境のデバイス向けにベータ版として提供されています。
 - [OpenAIアルトマン氏が語るAI業界の安全策と減速](https://ai-tech-times.web.app/articles/20260915-openai-sam-altman-ai-slowdown-safety.html) — 2026-09-15 02:51: AI業界で安全性への懸念が高まる中、OpenAIの最高経営責任者がAI開発の減速や安全フレームワークの仕組みについて言及しました。
-- [Z.aiが50億ドル調達も株価10%超下落、その背景とは](https://ai-tech-times.web.app/articles/20260915-zai-shares-tumble-after-fundraising.html) — 2026-09-15 02:51: 中国のAI企業Z.aiが、2ヶ月ぶりとなる大規模な資金調達を実施したと発表しました。しかし、この発表後に株価が急落する展開となっています。
 
 ## 世界のバズ動画TOP3 (2026-09-15)
 - 1位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
-- 2位: [Crystal Lake | Official Trailer | Peacock Original](https://www.youtube.com/watch?v=Rs49eRHFD9c)
-- 3位: [Ganesh Chaturthi 2026 Special Jukebox | Super Hit Telugu Ganesh Songs | Vinayaka Chavithi Songs](https://www.youtube.com/watch?v=RHAJcCPB9Yo)
+- 2位: [Ganesh Chaturthi 2026 Special Jukebox | Super Hit Telugu Ganesh Songs | Vinayaka Chavithi Songs](https://www.youtube.com/watch?v=RHAJcCPB9Yo)
+- 3位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 
 ## AI用語事典 (全1495語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。

@@ -1,73 +1,21 @@
 {
- "updated": "2026-09-15 07:06",
- "mode": "フル便",
+ "updated": "2026-09-15 14:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "OpenAI、3億ドルでカメラ企業Glass Imaging買収",
-   "path": "/articles/20260915-openai-buys-glass-imaging.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "AppleのSiri、ClaudeやChatGPTへ置き換え可能に",
-   "path": "/articles/20260915-apples-siri-can-be-swapped-for-claude-chatgpt.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "AIで仕事効率化も…報告しない社員の本音",
-   "path": "/articles/20260915-ai-quiet-quitting-efficiency.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Sakana AIが新システム発表、その実力は",
-   "path": "/articles/20260915-sakana-ai-fugu-ultra-v2-release.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Musk氏、Appleを訴訟から除外するもOpenAIへの追及は継続",
-   "path": "/articles/20260915-musk-drops-apple-antitrust-suit-keeps-openai-target.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "エヌビディアのジェンスン・フアンCEOがトランプ大統領の電話をスピーカーフォンで壇上に公開した理由",
-   "path": "/articles/20260915-jensen-huang-trump-phone-call-all-in-summit.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "A24のSCP財団映画化、公式Wikiが「連絡なし」と懸念表明",
-   "path": "/articles/20260915-scp-foundation-movie-a24-2026.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "食料品の消費税減税大綱、政府が閣議決定へ",
-   "path": "/articles/20260915-government-food-tax-reduction-cabinet.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "国交省、フラット35中古住宅購入の子育て世帯向け金利引き下げ拡大を検討へ",
-   "path": "/articles/20260915-mlit-flat35-childcare-interest-rate.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米長期金利が5%台に上昇、原油高でインフレ加速懸念",
-   "path": "/articles/20260915-us-long-term-interest-rate-hits-5-percent.html",
+   "title": "moomoo証券に業務停止命令、NISA不適切販売なぜ起きた",
+   "path": "/articles/20260915-moomoo-sec-nisa-administrative-action.html",
    "cat": "株式投資(日本)"
-  },
-  {
-   "title": "中部電力、浜岡原発の審査申請取り下げへ データ改ざんで社長と会長が辞任",
-   "path": "/articles/20260915-chubu-denryok-hamaoka-npp-withdrawal.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
   "url": "https://www.youtube.com/watch?v=yWNPxS0sXnE"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 43,
+  "used": 46,
   "limit": 200
  }
 }
