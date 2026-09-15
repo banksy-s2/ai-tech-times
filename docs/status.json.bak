@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-15 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-16 00:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道",
-   "path": "/articles/20260915-kioxia-hd-stock-adr-10-billion.html",
-   "cat": "株式投資(日本)"
+   "title": "GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか",
+   "path": "/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "巨大AI企業、規制の囲い込みへその条件を提示",
+   "path": "/articles/20260916-big-ai-regulatory-capture.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 119,
+  "used": 4,
   "limit": 200
  }
 }

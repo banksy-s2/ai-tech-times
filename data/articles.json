@@ -88235,5 +88235,72 @@
   "date": "2026-09-16",
   "time": "00:01",
   "path": "/articles/20260916-big-ai-regulatory-capture.html"
+ },
+ {
+  "title": "Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか",
+  "lead": "Googleは、AIアシスタント「Gemini」をWindowsのデスクトップから呼び出せるネイティブアプリの提供を開始しました。作業画面から直接起動できるようになり、業務効率化に直結するアップデートとなっています。",
+  "summary3": [
+   "Windows版Geminiアプリが公開されました",
+   "Alt＋Spaceで即座に呼び出せます",
+   "Google Driveなどと情報連携します"
+  ],
+  "body": [
+   "Googleは、AIアシスタント「Gemini」をWindows 10／11のデスクトップから呼び出せるネイティブアプリの提供を開始しました。これまでブラウザを開いて利用していた手間を解消し、作業画面に直接呼び出せるのが最大の特徴です。",
+   "起動には［Alt］＋［Space］のショートカットキーを使用し、作業を中断することなく即座にAIへアクセスできます。日常的なPC作業の動線を大きく変える実用的な機能として注目を集めそうです。",
+   "さらに、「Google Drive」との情報連携や、画像・動画の生成機能にも対応しています。日々の作業効率を高める新しいツールとして、Windowsユーザーのデスクトップ環境に定着していくことになりそうです。"
+  ],
+  "tags": [
+   "Gemini",
+   "Google",
+   "Windows"
+  ],
+  "slug": "google-releases-windows-gemini-app",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力に、OSやクラウドサービス、AI開発などを幅広く手がけるアメリカの巨大IT企業です。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した高度な推論能力を持つAIアシスタントであり、テキストや画像、動画の生成に対応しています。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
+  "category": "ai_jp",
+  "date": "2026-09-16",
+  "time": "01:00",
+  "path": "/articles/20260916-google-releases-windows-gemini-app.html"
+ },
+ {
+  "title": "Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる",
+  "lead": "PCの購入費用やAIの利用量を基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されました。",
+  "summary3": [
+   "AIを動かす費用の元を取る期間がわかる",
+   "Mac Studioの試算も可能",
+   "生成速度やクラウド比較もまとめて確認"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。PCの購入費用やAIの利用量などを基に、ローカル環境でAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されました。費用の試算だけでなく、そのPCに収まるAIモデルや生成速度についても確認することができます。",
+   "さらに、クラウドモデルとの能力比較もまとめて確認できる仕様となっており、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのかといった具体的な条件での検証も可能です。",
+   "ローカルでのAI運用を検討しているユーザーにとって、コストパフォーマンスを計算する上で役立つツールとなっています。"
+  ],
+  "tags": [
+   "AI",
+   "Mac Studio",
+   "ツール"
+  ],
+  "slug": "sunk-cost-local-ai-calculation",
+  "people": [],
+  "terms": [],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260915-sunk-cost/",
+  "category": "ai_jp",
+  "date": "2026-09-16",
+  "time": "01:00",
+  "path": "/articles/20260916-sunk-cost-local-ai-calculation.html"
  }
 ]

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか</title>
+<link>https://ai-tech-times.web.app/articles/20260916-google-releases-windows-gemini-app.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-google-releases-windows-gemini-app.html</guid>
+<pubDate>Wed, 16 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Googleは、AIアシスタント「Gemini」をWindowsのデスクトップから呼び出せるネイティブアプリの提供を開始しました。作業画面から直接起動できるようになり、業務効率化に直結するアップデートとなっています。</description>
+</item>
+<item>
+<title>Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる</title>
+<link>https://ai-tech-times.web.app/articles/20260916-sunk-cost-local-ai-calculation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-sunk-cost-local-ai-calculation.html</guid>
+<pubDate>Wed, 16 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>PCの購入費用やAIの利用量を基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されました。</description>
+</item>
+<item>
 <title>GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか</title>
 <link>https://ai-tech-times.web.app/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 15 Sep 2026 17:06:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>中東・イエメンの反政府勢力フーシ派による紅海のバーブルマンデブ海峡の情勢をめぐり、国連の安全保障理事会が緊急会合を開くことが決まりました。</description>
-</item>
-<item>
-<title>アメリカ空軍、宇宙兵器の配備を初めて公式に確認</title>
-<link>https://ai-tech-times.web.app/articles/20260915-us-confirms-space-weapons-deployed.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260915-us-confirms-space-weapons-deployed.html</guid>
-<pubDate>Tue, 15 Sep 2026 17:06:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカ空軍が、国家を防衛するために宇宙兵器を配備したことを初めて公に確認しました。</description>
-</item>
-<item>
-<title>日本相互証券：長期金利が一時3.030％に上昇、1996年9月以来の高い水準</title>
-<link>https://ai-tech-times.web.app/articles/20260915-long-term-interest-rate-rises-to-3-030-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260915-long-term-interest-rate-rises-to-3-030-percent.html</guid>
-<pubDate>Tue, 15 Sep 2026 17:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>15日の債券市場で、長期金利の代表的な指標である10年もの国債の利回りが一時3.030％まで上昇しました。日本相互証券によりますと、1996年9月以来およそ30年ぶりの高い水準となります。</description>
 </item>
 </channel></rss>

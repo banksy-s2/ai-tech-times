@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 00:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか](https://ai-tech-times.web.app/articles/20260916-google-releases-windows-gemini-app.html) — 2026-09-16 01:00: Googleは、AIアシスタント「Gemini」をWindowsのデスクトップから呼び出せるネイティブアプリの提供を開始しました。作業画面から直接起動できるようになり、業務効率化に直結するアップデートとなっています。
+- [Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる](https://ai-tech-times.web.app/articles/20260916-sunk-cost-local-ai-calculation.html) — 2026-09-16 01:00: PCの購入費用やAIの利用量を基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されました。
 - [GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか](https://ai-tech-times.web.app/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html) — 2026-09-16 00:01: AI開発をめぐる最新の話題として、コードレビューにおける新型モデルの性能とコスト対効果が議論されています。
 - [巨大AI企業、規制の囲い込みへその条件を提示](https://ai-tech-times.web.app/articles/20260916-big-ai-regulatory-capture.html) — 2026-09-16 00:01: 「AI TECH TIMES」編集部がお届けする最新ニュース。大規模なAI開発企業が、規制による囲い込みに向けた条件を明らかにしました。
 - [キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道](https://ai-tech-times.web.app/articles/20260915-kioxia-hd-stock-adr-10-billion.html) — 2026-09-15 23:00: キオクシアホールディングスの株価が反発しました。米国でのADR上場による大規模な資金調達の検討が報じられています。
@@ -40,13 +42,11 @@
 - [リンカーズ、SBIホールディングスと資本業務提携で買い気配](https://ai-tech-times.web.app/articles/20260915-linkers-sbi-holdings-capital-business-alliance.html) — 2026-09-15 21:05: リンカーズがストップ高の買い気配を示し、SBIホールディングスとの資本業務提携を発表しました。
 - [Netflixとセガ、1999年の名作「クレイジータクシー」実写化へ](https://ai-tech-times.web.app/articles/20260915-netflix-sega-crazy-taxi-adaptation.html) — 2026-09-15 20:00: 米Netflixとセガは9月15日、セガのゲーム作品群を映像化する新たなパートナーシップを発表しました。第1弾として、1999年のアーケードゲーム「クレイジータクシー」を実写コメディー映画化します。
 - [Appleの2027年上半期計画：新製品ラインナップが明らかに](https://ai-tech-times.web.app/articles/20260915-apple-h1-2027-plans-revealed.html) — 2026-09-15 19:01: 米ブルームバーグの報道により、Appleが2027年上半期に展開を予定している新製品の計画が明らかになりました。複数の新型デバイスやプロセッサの登場が計画されています。
-- [Apple Homeの新AI機能、利用料が月額最高60ドルになる理由](https://ai-tech-times.web.app/articles/20260915-apple-home-security-camera-ai-cost.html) — 2026-09-15 19:01: Appleは、iOS 27およびtvOS 27の公開に伴い、「Apple Home」に「Apple Intelligence」を導入すると発表しました。しかし、この新機能を利用するためには追加の費用が発生し、月額最高60ドルに達することが明らかになりました。
-- [NVIDIA、Anthropicの1.5兆円出資を検討](https://ai-tech-times.web.app/articles/20260915-nvidia-anthropic-ipo-investment.html) — 2026-09-15 18:00: AIモデル「Claude」を手がけるAnthropicの新規株式公開(IPO)が2026年11月に行われる見込みとなり、NVIDIAが約1兆5000億円の出資を検討していることが報じられました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
-- 1位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
-- 2位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
-- 3位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
+- 1位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
+- 2位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
+- 3位: [Joseph](https://www.youtube.com/watch?v=lKVZKG7CcMU)
 
 ## AI用語事典 (全1510語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
