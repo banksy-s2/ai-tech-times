@@ -1,21 +1,18 @@
 {
- "updated": "2026-09-16 03:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [
-  {
-   "title": "GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す",
-   "path": "/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html",
-   "cat": "インフルエンサー"
-  }
- ],
+ "updated": "2026-09-16 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [],
  "buzz_top": {
   "title": "Transformers: Rise of Unicron - New Official Teaser",
   "url": "https://www.youtube.com/watch?v=pvm5gvobL5w"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 損壊したサウジのパイプライン“復旧までに3～5週間” 報道",
+  "執筆失敗: More than 100,000 people in Japan are no"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 16,
+  "used": 20,
   "limit": 200
  }
 }
