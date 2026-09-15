@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-16 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-16 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "DoorDash、Wonderと4億2500万ドルの提携を結んだ理由",
-   "path": "/articles/20260916-wonder-doordash-partnership.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ氏がNvidia黄氏に電話、データセンター反対論を否定",
-   "path": "/articles/20260916-trump-nvidia-huang-all-in-summit.html",
-   "cat": "シリコンバレー最速"
+   "title": "GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す",
+   "path": "/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
