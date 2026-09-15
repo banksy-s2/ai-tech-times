@@ -1,10 +1,45 @@
 {
- "updated": "2026-09-16 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-16 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "中部電力社長が浜岡原発データ不正を御前崎市長に直接陳謝",
-   "path": "/articles/20260916-chubu-denryok-hamaoka-data-issue.html",
+   "title": "Profoundが1.8億ドル調達、わずか7か月でユニコーン企業へ",
+   "path": "/articles/20260916-profound-series-d-unicorn-valuation-180m.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAI、Anthropic、GoogleがAI安全性めぐり数週間にわたり協議",
+   "path": "/articles/20260916-openai-anthropic-google-ai-safety-talks.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "NVIDIAが84GBメモリの新型GPU発表、RTX 5090と何が違う？",
+   "path": "/articles/20260916-nvidia-rtx-pro-5500-blackwell.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Andon LabsのPionが会社を丸ごとAI経営する理由",
+   "path": "/articles/20260916-pion-ai-business-management.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "柴田善臣が引退発表、復帰断念の背景",
+   "path": "/articles/20260916-shibata-yoshitomi-retirement.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "サウジのパイプライン、復旧まで3〜5週間か",
+   "path": "/articles/20260916-saudi-pipeline-repair-time.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "電通グループ、3276億円赤字なのに国内事業が絶好調な理由",
+   "path": "/articles/20260916-dentsu-group-financial-results.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ホンダ上場以来初の赤字転落、北米EVの潮目が変わった四輪事業の根深い問題",
+   "path": "/articles/20260916-honda-first-loss-ev-issues.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +47,15 @@
   "title": "Transformers: Rise of Unicron - New Official Teaser",
   "url": "https://www.youtube.com/watch?v=pvm5gvobL5w"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Health benefits platform Thatch reaches ",
+  "執筆失敗: India ends free ride for larger transact",
+  "執筆失敗: 消費税減税 小規模事業者が税率変化に対応できるか課題",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 26,
+  "used": 53,
   "limit": 200
  }
 }

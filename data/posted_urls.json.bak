@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015189251000",
   "https://news.web.nhk/newsweb/na/na-k10015189881000",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwbzloRDI1ZW9KaGg1MmwzVmRkbDZoTVZhbi1IOWd4Q0RHTkpOUGMzaVhiRHlPbHlCSVRSZ1ZFSU00dnR6Tl82bFpCM24tWUlLMGZEMWlYTGpmYWo5bXV2TTNadUhTd3R6dTBWZHlPeEtPUFpEbnAtZFRyNnNQa1E?oc=5",
   "https://toyokeizai.net/articles/-/953042?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
   "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
   "https://car.watch.impress.co.jp/docs/news/2140924.html",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWXJGeU5lcmtodmhOVDViSUxHdkRJWG9iMHNqVXh3WENRcjJ2dUgtZ2Q1UmdXamxGdnRkR2pSeFdIR1hna1JCODRLbWFzQnJhZjBXZlN6bjJJQWlLWlhEWWVDNjB5YWNwc21iTw?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWXJGeU5lcmtodmhOVDViSUxHdkRJWG9iMHNqVXh3WENRcjJ2dUgtZ2Q1UmdXamxGdnRkR2pSeFdIR1hna1JCODRLbWFzQnJhZjBXZlN6bjJJQWlLWlhEWWVDNjB5YWNwc21iTw?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260915de50339"
  ],
  "titles": [
-  "We still don’t know how people are really using AI",
-  "「オープンな国産モデル」に33Bパラメータの新バージョン　国立情報学研究所",
   "ChatGPTの反論で「道徳的判断」の3割超が覆る　高齢者が説得されやすい傾向　神戸大",
   "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
   "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
@@ -4001,6 +3999,8 @@
   "GO、Waymo、日本交通、2027年中に国内初の完全無人タクシー運行を目指す",
   "GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す",
   "レオパレス21株ストップ高、光通信などがTOB（15日の株式市場） - 日本経済新聞",
-  "レオパレス21株がストップ高、光通信などがTOB実施"
+  "レオパレス21株がストップ高、光通信などがTOB実施",
+  "浜岡原発データ不正 中電社長が御前崎市長に経緯説明し陳謝",
+  "中部電力社長が浜岡原発データ不正を御前崎市長に直接陳謝"
  ]
 }

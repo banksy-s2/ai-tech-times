@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 06:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 07:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Profoundが1.8億ドル調達、わずか7か月でユニコーン企業へ](https://ai-tech-times.web.app/articles/20260916-profound-series-d-unicorn-valuation-180m.html) — 2026-09-16 07:01: AEOスタートアップのProfoundが、前回の資金調達から7か月未満という異例のスピードで巨額の資金調達を実施し、ユニコーン企業の評価額に到達しました。
+- [OpenAI、Anthropic、GoogleがAI安全性めぐり数週間にわたり協議](https://ai-tech-times.web.app/articles/20260916-openai-anthropic-google-ai-safety-talks.html) — 2026-09-16 07:01: OpenAIがAnthropicおよびGoogle DeepMindとの間でAIの安全性に関する協議を数週間にわたり行っていたことが明らかになりました。
+- [NVIDIAが84GBメモリの新型GPU発表、RTX 5090と何が違う？](https://ai-tech-times.web.app/articles/20260916-nvidia-rtx-pro-5500-blackwell.html) — 2026-09-16 07:01: NVIDIAがプロフェッショナル向けGPU「RTX PRO 5500 Blackwell Workstation Edition」を発表しました。GeForce RTX 5090と同等のスペックながら大容量メモリを搭載し、AI開発などの用途を想定しています。
+- [Andon LabsのPionが会社を丸ごとAI経営する理由](https://ai-tech-times.web.app/articles/20260916-pion-ai-business-management.html) — 2026-09-16 07:01: Andon Labsが発表した新プラットフォーム「Pion」は、メールや電話、銀行機能まで使って会社を丸ごとAIエージェントに経営させ、事業を自律運営させることが可能です。
+- [柴田善臣が引退発表、復帰断念の背景](https://ai-tech-times.web.app/articles/20260916-shibata-yoshitomi-retirement.html) — 2026-09-16 07:01: JRAの現役最年長ジョッキーである柴田善臣が、右肩のケガにより引退を発表しました。長年親しまれた大ベテランが、ついにムチを置くことになります。
+- [サウジのパイプライン、復旧まで3〜5週間か](https://ai-tech-times.web.app/articles/20260916-saudi-pipeline-repair-time.html) — 2026-09-16 07:01: サウジアラビアで原油輸出の代替ルートとなっているパイプラインが攻撃を受け、操業を停止している問題で、AP通信が復旧までの見通しを伝えました。
+- [電通グループ、3276億円赤字なのに国内事業が絶好調な理由](https://ai-tech-times.web.app/articles/20260916-dentsu-group-financial-results.html) — 2026-09-16 07:01: 前期に3276億円もの純損失を計上し、2年連続で過去最大の赤字を更新した電通グループ。不振にあえぐ“広告の王様”の本拠地である日本国内における動向について、東洋経済オンラインが報じました。
+- [ホンダ上場以来初の赤字転落、北米EVの潮目が変わった四輪事業の根深い問題](https://ai-tech-times.web.app/articles/20260916-honda-first-loss-ev-issues.html) — 2026-09-16 07:01: ホンダが上場以来初となる赤字転落に陥りました。北米におけるEVの潮目の変化だけではない、四輪事業の根深い問題が浮き彫りになっています。
 - [中部電力社長が浜岡原発データ不正を御前崎市長に直接陳謝](https://ai-tech-times.web.app/articles/20260916-chubu-denryok-hamaoka-data-issue.html) — 2026-09-16 06:00: 中部電力が浜岡原子力発電所の審査における地震想定データの改ざん問題で、調査報告書をまとめ、社長が立地自治体の市長に直接陳謝しました。
 - [レオパレス21株がストップ高、光通信などがTOB実施](https://ai-tech-times.web.app/articles/20260916-leopalace21-hikari-tsushin-tob.html) — 2026-09-16 05:01: 15日の株式市場において、レオパレス21の株式がストップ高となりました。光通信などによるTOB（株式公開買付）が実施されたことが報じられています。
 - [GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す](https://ai-tech-times.web.app/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html) — 2026-09-16 03:00: GO、Waymo、日本交通の3社が、2027年中に国内初となる完全無人タクシーの運行を目指すことが明らかになりました。
@@ -34,21 +42,13 @@
 - [キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道](https://ai-tech-times.web.app/articles/20260915-kioxia-hd-stock-adr-10-billion.html) — 2026-09-15 23:00: キオクシアホールディングスの株価が反発しました。米国でのADR上場による大規模な資金調達の検討が報じられています。
 - [トランプ氏発表：ウクライナとロシアがエネルギー施設攻撃せずで合意か](https://ai-tech-times.web.app/articles/20260915-trump-energy-facilities-agreement.html) — 2026-09-15 22:00: アメリカのトランプ大統領は、ウクライナとロシアが互いにエネルギー施設を攻撃の対象としないことで合意したとSNSに投稿しました。
 - [自民・高市総理、16日党役員人事固まる](https://ai-tech-times.web.app/articles/20260915-ldp-executive-shuffle-2026.html) — 2026-09-15 22:00: 自民党の高市総理大臣は、政権が掲げる重要政策を総力を挙げて実行するため、16日に党役員人事を、17日に内閣改造を行う方針を表明しました。
-- [TechCrunch Disrupt 2026、AIで絶滅種を復活させる使命](https://ai-tech-times.web.app/articles/20260915-ai-engineers-nature-comeback-disrupt-2026.html) — 2026-09-15 21:05: かつてSFの世界だった絶滅種の復活をミッションにする10億ドル規模のスタートアップが、TechCrunch Disrupt 2026に登場します。
-- [AppleのiOS 27がついにSiriを刷新、実用性がどう変わったのか](https://ai-tech-times.web.app/articles/20260915-apple-ios-27-siri-overhaul.html) — 2026-09-15 21:05: Appleが長年遅れていたSiriの大規模な刷新を「iOS 27」でついに実現しました。日々の生活でアシスタントの使い心地がどのように変わったのでしょうか。
-- [OpenAIの会話評価プロジェクトで人間が個人情報を読むリスク](https://ai-tech-times.web.app/articles/20260915-chatgpt-project-lily-privacy-risk.html) — 2026-09-15 21:05: OpenAIが応答品質の改善を目指す内部プロジェクトにおいて、ユーザーとChatGPTの会話内容が人間のレビュー担当者に読まれていることが分かりました。個人情報の隠す処理を行っても、情報が届いてしまう懸念が指摘されています。
-- [GMO天秤AI、東大生にAI無料提供の裏で注意喚起](https://ai-tech-times.web.app/articles/20260915-gmo-tenbin-ai-todai-free.html) — 2026-09-15 21:05: GMOインターネットグループのGMO天秤AIが、東京大学のメールアドレスを持つ学生を対象にAIの無料提供を開始しました。
-- [AnthropicとOpenAIがAI安全規制を求める理由](https://ai-tech-times.web.app/articles/20260915-anthropic-openai-safety-rules-trump.html) — 2026-09-15 21:05: AIの制御不能への懸念が高まる中、主要なAI企業が安全チェックの義務化を求めています。しかし、トランプ氏の規制反対姿勢がその動きに影を落としています。
-- [アンソロピックCEOが警鐘、AI株下落でサイバー関連は高騰](https://ai-tech-times.web.app/articles/20260915-ai-stocks-sink-cybersecurity-rally.html) — 2026-09-15 21:05: AIのリスクに対する懸念が高まる中、アンソロピックのダリオ・アモデイCEOがAIモデルの能力向上ペースを落とすべきだと主張しました。
-- [YouTubeが人気クリエイターの流出を阻止したい理由](https://ai-tech-times.web.app/articles/20260915-youtube-creator-outflow-prevention.html) — 2026-09-15 21:05: YouTubeが、人気クリエイターの他プラットフォームへの流出を防ぐために対策を進めていると報じられています。
-- [地価調査で全国1.5%上昇のなぜ？生活への影響](https://ai-tech-times.web.app/articles/20260915-land-price-survey-2026-increase.html) — 2026-09-15 21:05: 2026年の都道府県地価調査の結果が公表され、全国の地価平均は2025年に比べてプラス1.5％となり、5年連続で上昇しました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
 - 2位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
-- 3位: [Joseph](https://www.youtube.com/watch?v=lKVZKG7CcMU)
+- 3位: [Primetime | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=C0NZa01qTRU)
 
-## AI用語事典 (全1516語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1519語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

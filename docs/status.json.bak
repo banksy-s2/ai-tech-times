@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-16 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-16 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "レオパレス21株がストップ高、光通信などがTOB実施",
-   "path": "/articles/20260916-leopalace21-hikari-tsushin-tob.html",
-   "cat": "株式投資(日本)"
+   "title": "中部電力社長が浜岡原発データ不正を御前崎市長に直接陳謝",
+   "path": "/articles/20260916-chubu-denryok-hamaoka-data-issue.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 23,
+  "used": 26,
   "limit": 200
  }
 }
