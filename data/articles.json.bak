@@ -87648,5 +87648,412 @@
   "date": "2026-09-15",
   "time": "20:00",
   "path": "/articles/20260915-netflix-sega-crazy-taxi-adaptation.html"
+ },
+ {
+  "title": "TechCrunch Disrupt 2026、AIで絶滅種を復活させる使命",
+  "lead": "かつてSFの世界だった絶滅種の復活をミッションにする10億ドル規模のスタートアップが、TechCrunch Disrupt 2026に登場します。",
+  "summary3": [
+   "絶滅種復活がSFから現実のミッションに",
+   "10億ドル規模のスタートアップが登壇",
+   "TechCrunch Disrupt 2026で開催"
+  ],
+  "body": [
+   "かつて生物の絶滅種を現代に蘇らせることは、フィクションの世界の出来事でした。しかし今日では、それは10億ドル規模のスタートアップが掲げる現実のミッションとなっています。",
+   "TechCrunch AIの報道によると、自然をAIでエンジニアリングし復活させる試みについて語るセッションが、TechCrunch Disrupt 2026で開催される予定です。",
+   "テック業界において型破りなことで知られる創業者の対談を通じて、人工知能がどのように自然環境の再生に関与できるのか、その最前線の議論に参加するためのパスが現在販売されています。"
+  ],
+  "tags": [
+   "TechCrunch Disrupt",
+   "AI",
+   "環境保護"
+  ],
+  "slug": "ai-engineers-nature-comeback-disrupt-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー系ニュースサイトで、スタートアップや最新IT情報を専門に報じています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-ai-engineers-nature-comeback-disrupt-2026.html"
+ },
+ {
+  "title": "AppleのiOS 27がついにSiriを刷新、実用性がどう変わったのか",
+  "lead": "Appleが長年遅れていたSiriの大規模な刷新を「iOS 27」でついに実現しました。日々の生活でアシスタントの使い心地がどのように変わったのでしょうか。",
+  "summary3": [
+   "AppleがiOS 27でSiriを刷新",
+   "長年遅れていた機能がようやく導入",
+   "日々のアシスタントの使い勝手が向上"
+  ],
+  "body": [
+   "Appleは、長年遅れていた音声アシスタント「Siri」の大規模な刷新を「iOS 27」においてついに実現しました。今回のアップデートにより、日常の様々な場面でアシスタントとしての実用性が大きく変化しています。",
+   "これまで長らく期待されながらも延期が続いていたSiriの改良ですが、iOS 27の登場によってユーザーの期待に応える形となりました。日常のスマートフォン操作におけるアシスタントの役割や便利さが、新たなステージへと進んでいます。",
+   "最新のOSであるiOS 27を導入することで、日々の生活の中でSiriを再び活用したくなるような体験が提供されます。Appleによる今回の刷新が、今後のモバイル体験にどのような影響を与えるのか注目されます。"
+  ],
+  "tags": [
+   "Apple",
+   "iOS 27",
+   "Siri"
+  ],
+  "slug": "apple-ios-27-siri-overhaul",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。"
+   },
+   {
+    "name": "Siri",
+    "type": "ai",
+    "desc": "Appleが開発・提供する、音声で操作や検索を行うAIアシスタント機能です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+  "category": "ai",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-apple-ios-27-siri-overhaul.html"
+ },
+ {
+  "title": "OpenAIの会話評価プロジェクトで人間が個人情報を読むリスク",
+  "lead": "OpenAIが応答品質の改善を目指す内部プロジェクトにおいて、ユーザーとChatGPTの会話内容が人間のレビュー担当者に読まれていることが分かりました。個人情報の隠す処理を行っても、情報が届いてしまう懸念が指摘されています。",
+  "summary3": [
+   "OpenAIの品質改善プロジェクトが進行中",
+   "人間のレビュー担当者が会話を読んでいる",
+   "個人情報が完全には取り除かれない懸念"
+  ],
+  "body": [
+   "海外メディアの404 Mediaの報道によると、OpenAIがChatGPTの応答品質を改善するため、実際のユーザーとChatGPTの会話を人間に読ませて評価する内部プロジェクト「Project Lily」を進めていることが明らかになりました。",
+   "このプロジェクトでは、レビュー担当者にユーザー名が表示されず、個人情報を隠す処理も行われます。しかし、会話に含まれる個人的な情報が完全には取り除かれず、人間まで届いてしまう場合があるとのことです。",
+   "AIの性能向上や品質改善が進む一方で、プライバシーの保護や機密情報の取り扱いについては、依然として課題が残る状況となっています。"
+  ],
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "プライバシー"
+  ],
+  "slug": "chatgpt-project-lily-privacy-risk",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究機関であり、対話型AI「ChatGPT」などを開発・提供している企業。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話を行うことができる生成AIモデルおよびその製品。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260915-chatgpt-project-lily/",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-chatgpt-project-lily-privacy-risk.html"
+ },
+ {
+  "title": "GMO天秤AI、東大生にAI無料提供の裏で注意喚起",
+  "lead": "GMOインターネットグループのGMO天秤AIが、東京大学のメールアドレスを持つ学生を対象にAIの無料提供を開始しました。",
+  "summary3": [
+   "GMO天秤AIが東大生へAI無料提供",
+   "熊谷正寿氏も自身のAIと併用と公言",
+   "本サービスは東京大学とは無関係"
+  ],
+  "body": [
+   "GMOインターネットグループのGMO天秤AIは、東京大学発行のメールアドレスを持つ学生に対して、AIサービスを無料で提供すると発表しました。",
+   "この取り組みに関連し、GMOインターネットグループ代表の熊谷正寿氏は、自身で開発したAIサービスと合わせて利用していることを公言しています。",
+   "一方で、本サービスについては「東京大学とは無関係である」との説明がなされており、利用の際は注意が必要となっています。"
+  ],
+  "tags": [
+   "GMO天秤AI",
+   "東京大学",
+   "AI"
+  ],
+  "slug": "gmo-tenbin-ai-todai-free",
+  "people": [
+   {
+    "name": "熊谷正寿氏",
+    "bio": "GMOインターネットグループ代表を務める実業家。自身の開発したAIサービスについても公言している。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "GMOインターネットグループ",
+    "type": "company",
+    "desc": "インターネット事業を中心に、インフラや金融など幅広いサービスを展開する日本の企業グループ。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/15/2000001473/",
+  "category": "ai_jp",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-gmo-tenbin-ai-todai-free.html"
+ },
+ {
+  "title": "AnthropicとOpenAIがAI安全規制を求める理由",
+  "lead": "AIの制御不能への懸念が高まる中、主要なAI企業が安全チェックの義務化を求めています。しかし、トランプ氏の規制反対姿勢がその動きに影を落としています。",
+  "summary3": [
+   "Anthropicらが安全規制を要求",
+   "制御不能への懸念が背景にある",
+   "トランプ氏の反対が影響を与える"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、AnthropicとOpenAIは、人工知能（AI）が間もなく制御不能になるほど強力になるという懸念の高まりを受け、義務的な安全チェックを導入するよう求めています。",
+   "最先端のAI技術を開発する業界のリーダーたちは、急速な進化に伴うリスクを防ぐための規制やブレーキの必要性を訴えてきました。しかし、こうした業界からの規制を求める声に対し、トランプ氏のAI規制に対する反対姿勢が水を差す形となっています。",
+   "AI技術の急速な発展は私たちの仕事や生活に大きな影響を与えつつありますが、安全性の確保と規制のあり方を巡っては政治的な意見の対立も存在します。今後の動向によっては、業界全体の自主規制や安全対策の進め方に大きな影響が出る可能性があります。"
+  ],
+  "tags": [
+   "AI",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "slug": "anthropic-openai-safety-rules-trump",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "アメリカ合衆国の政治家であり、過去に大統領を務めた著名な人物です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能安全と研究を手がける企業で、対話型AIなどを開発しています。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究企業で、高度なAIモデルの開発やサービス提供を行っています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-anthropic-openai-safety-rules-trump.html"
+ },
+ {
+  "title": "アンソロピックCEOが警鐘、AI株下落でサイバー関連は高騰",
+  "lead": "AIのリスクに対する懸念が高まる中、アンソロピックのダリオ・アモデイCEOがAIモデルの能力向上ペースを落とすべきだと主張しました。",
+  "summary3": [
+   "AIモデル性能向上の減速が必要と主張",
+   "リスクへの懸念からAI関連株が下落",
+   "一方でサイバーセキュリティ株は高騰"
+  ],
+  "body": [
+   "CNBC Techの報道によると、AI技術の急速な発展に伴うリスクへの懸念が強まる中、業界内で開発ペースを見直すべきだという意見が示されました。アンソロピックのダリオ・アモデイCEOは、AIモデルの性能を向上させるペースを落とさなければならないと述べています。",
+   "この発言や市場の懸念を背景に、株式市場ではAI関連の銘柄が下落する動きを見せました。投資家の間で過度な成長やリスクに対する警戒感が広がっていることが影響しているとみられます。",
+   "その一方で、サイバーセキュリティに関連する株式は買いが優勢となり、株価が上昇する展開となりました。AIの急速な普及に伴い、セキュリティ対策の重要性が改めて意識される形となっています。"
+  ],
+  "tags": [
+   "AI",
+   "株式市場",
+   "サイバーセキュリティ"
+  ],
+  "slug": "ai-stocks-sink-cybersecurity-rally",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "AI開発企業アンソロピックの最高経営責任者（CEO）を務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能企業で、安全性に配慮したAIモデルの開発を手がける。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+  "category": "silicon",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-ai-stocks-sink-cybersecurity-rally.html"
+ },
+ {
+  "title": "YouTubeが人気クリエイターの流出を阻止したい理由",
+  "lead": "YouTubeが、人気クリエイターの他プラットフォームへの流出を防ぐために対策を進めていると報じられています。",
+  "summary3": [
+   "YouTubeがクリエイターの流出を阻止",
+   "プラットフォーム間の競争が激化",
+   "クリエイターの囲い込みが課題に"
+  ],
+  "body": [
+   "「ウチを抜けたらさぁ…わかるよね？」YouTubeは人気クリエイターの流出を阻止したい（ギズモール・ジャパン）。この見出しが示すように、動画配信プラットフォーム市場においてクリエイターの囲い込みは非常に重要な課題となっています。",
+   "近年、多くの動画配信サービスが登場し、人気クリエイターの引き抜きや移籍が活発化しています。YouTubeにおいても、主力となるクリエイターが他のサービスへ流出することを防ぐため、さまざまな対策や引き止めの動きが注目を集めている状況です。"
+  ],
+  "tags": [
+   "YouTube",
+   "クリエイター",
+   "SNS"
+  ],
+  "slug": "youtube-creator-outflow-prevention",
+  "people": [],
+  "terms": [
+   {
+    "name": "YouTube",
+    "type": "company",
+    "desc": "Googleが提供する世界最大の動画共有プラットフォームで、多数のクリエイターが活動している。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTWlqcy14YS1xQ2s5LWZVaWd2UFlTM1c5VWZDRXRsTmxHZ0tmTmVGdE40cXdUMndqaGhKeFMxcFB3d29EcXI5NHJHOFRJc3NleExSTTVBRHpYYWhPdXVOSkhIM29LQWk2REUyWHZCeU5LcHNXSUhqMDJGbW91ZHc?oc=5",
+  "category": "influencer",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-youtube-creator-outflow-prevention.html"
+ },
+ {
+  "title": "地価調査で全国1.5%上昇のなぜ？生活への影響",
+  "lead": "2026年の都道府県地価調査の結果が公表され、全国の地価平均は2025年に比べてプラス1.5％となり、5年連続で上昇しました。",
+  "summary3": [
+   "全国の地価平均が1.5%上昇",
+   "5年連続でのプラス傾向続く",
+   "住宅需要やインバウンド影響"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、2026年の「都道府県地価調査」の結果が公表されました。全国の地価の平均は2025年に比べてプラス1.5％となり、5年連続で上昇を記録しています。",
+   "今回の調査では、堅調な住宅需要に加えて、インバウンド（訪日外国人客）が増加している長野県白馬村などの観光地において地価の上昇が見られることが明らかになりました。",
+   "住宅地や商業地ともに需要が堅調な状態が続いており、今後の不動産市場や私たちの生活への影響に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "地価調査",
+   "不動産",
+   "経済"
+  ],
+  "slug": "land-price-survey-2026-increase",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260915de50254",
+  "category": "world",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-land-price-survey-2026-increase.html"
+ },
+ {
+  "title": "米環境保護庁、石炭・ガス火力の排出規制撤廃でエネルギー価格はどうなる",
+  "lead": "米環境保護庁（EPA）は、石炭およびガス火力発電所に対する排出ガスの制限を撤廃すると発表しました。この決定により、国民の財布やエネルギー価格にどのような影響が及ぶのでしょうか。",
+  "summary3": [
+   "米環境保護庁が排出制限を撤廃",
+   "国全体で数十億ドルの節約に",
+   "エネルギー価格引き下げへ期待"
+  ],
+  "body": [
+   "米国の環境保護庁（EPA）は、石炭およびガス火力発電所からの排出ガスに対する制限を撤廃する方針を明らかにしました。今回の政策変更は、エネルギー分野における新たな規制緩和の一環として進められています。",
+   "環境保護庁の説明によれば、この排出制限の撤廃によって、国全体で数十億ドル規模のコスト削減が可能になる見通しです。さらに、発電事業者の負担軽減を通じて、最終的なエネルギー価格の引き下げにもつながるとされています。",
+   "一方で、環境規制の緩和が今後の環境や気候変動にどのような影響を与えるのかについては、引き続き議論が続く可能性があります。エネルギーコストの抑制と環境保護のバランスを巡り、今後の動向が注目されています。"
+  ],
+  "tags": [
+   "エネルギー",
+   "環境保護庁",
+   "アメリカ経済"
+  ],
+  "slug": "us-scraps-emissions-limits",
+  "people": [],
+  "terms": [
+   {
+    "name": "環境保護庁",
+    "type": "company",
+    "desc": "アメリカ合衆国の政府機関であり、人間の健康と環境の保護を目的として各種規制や政策を担当する。"
+   }
+  ],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-us-scraps-emissions-limits.html"
+ },
+ {
+  "title": "かどや製油がインテグラルTOBで非公開化へ",
+  "lead": "老舗ごま油メーカーのかどや製油が、投資ファンドのインテグラルによるTOBを実施し、非公開化へ舵を切ることが明らかになりました。",
+  "summary3": [
+   "かどや製油がインテグラルによるTOBを実施",
+   "投資ファンドの買収により会社は非公開化へ",
+   "会社側は賛同し一般株主に応募を推奨"
+  ],
+  "body": [
+   "老舗ごま油メーカーとして知られるかどや製油が、投資ファンドのインテグラルによるTOB（株式公開買い付け）を通じて、非公開化へと大きく舵を切ることになりました。",
+   "今回の買収計画に対して、会社側は賛同を表明しています。また、一般株主に対してはTOBへの応募を推奨する方針を示しており、今後の手続きが進められる見通しです。",
+   "詳細なスケジュールや買収に関する条件などについては、東洋経済オンラインなどの報道を通じて順次明らかにされています。一般株主の動向や今後の企業体制の変化に注目が集まっています。"
+  ],
+  "tags": [
+   "かどや製油",
+   "インテグラル",
+   "TOB"
+  ],
+  "slug": "kadoya-integral-tob",
+  "people": [],
+  "terms": [
+   {
+    "name": "かどや製油",
+    "type": "company",
+    "desc": "ごま油の製造・販売を主力とする日本の老舗食品メーカー"
+   },
+   {
+    "name": "インテグラル",
+    "type": "company",
+    "desc": "日本企業を主な投資対象とする独立系の投資ファンド"
+   }
+  ],
+  "source": "東洋経済オンライン",
+  "source_url": "https://toyokeizai.net/articles/-/958093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "category": "stock",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-kadoya-integral-tob.html"
+ },
+ {
+  "title": "リンカーズ、SBIホールディングスと資本業務提携で買い気配",
+  "lead": "リンカーズがストップ高の買い気配を示し、SBIホールディングスとの資本業務提携を発表しました。",
+  "summary3": [
+   "リンカーズがストップ高の買い気配",
+   "SBIホールディングスと資本業務提携",
+   "詳細な発表内容が注目を集める"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。リンカーズに関して、株式市場でストップ高の買い気配となっていることが分かりました。",
+   "今回の株価の動きの背景には、SBIホールディングスとの資本業務提携の発表があります。市場においてこの提携に対する関心が高まっている状況です。",
+   "両社の提携に関する今後の展開や詳細については、引き続き関連情報に注目が集まることになります。"
+  ],
+  "tags": [
+   "リンカーズ",
+   "SBIホールディングス",
+   "株式市場"
+  ],
+  "slug": "linkers-sbi-holdings-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "リンカーズ",
+    "type": "company",
+    "desc": "日本の企業で、ものづくり系マッチング事業やビジネスマッチングプラットフォームの運営などを手がけています。"
+   },
+   {
+    "name": "SBIホールディングス",
+    "type": "company",
+    "desc": "東京都に本社を置く、インターネットを核とした金融事業を展開する日本の持株会社です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVUZydjl6YmRjdGdaUGhodHc0OGNpWjFHd3FJWXRpMFQ1bk9uQWhDUGo0ZDJySzFRWnNNV2lnLTZzb2dZWm5ZV0F0dTB3OThDUnc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-15",
+  "time": "21:05",
+  "path": "/articles/20260915-linkers-sbi-holdings-capital-business-alliance.html"
  }
 ]
