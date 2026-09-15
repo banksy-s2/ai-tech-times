@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yb3ExU2Z2UGFOMTJVVVA3elplMzBORWw3eFB1RXVUWk1jMC12OWkzNnZUbENVWWhRZHprSjFMRkdsTVlUQnJ4eVRWOWNGalV0cUpaVGhDUnh0RjFYaEN6QVRxU1E?oc=5",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE92d0ZxbS1UbUplY2ktd25JREd1c3F2eWRjaUJfMkZEUU9WNlpSSkVrUGtraTNVQ2xFU0tKcmJHT1J6bVk3empyWTVpTVVoOURHRXMwSkdoemliaGplamJWUm5yWEk2VlRuMnRFNGFha2Y5bGxjd0h0cUt5R3NpUTg?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHptWkZtOHlza0tXdDJuOVRaZnlDaHhEODh5SWpic1dmam5qaTZZNnJlUVlUc3haUWpwQ2dHNVVlVlpIXzZZb1RTUG5PN2VGV25pb2pNNDRKRVczcnlTVGVIQzZiYVo1bWZEcmdtcGpzUzEtVU9yMVlVWTI0dkhua1RYVEhNR2s?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1ZWHNYTjl3Z01FQ1R5NTBrbWJYN3pLNmYxZTczUzc2VW9DSmxZVno4d3pKRnk2Rk1KWGUyNVBDbFM2RERJRnh5andYNl96NUxXekNhak1fY0NfTnd6X2ZHRl9rVXZOTndBYVllN3UtT2NUVUJoMWp2Zm13MVpGVmJlRlN3aHM?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015189251000",
@@ -1999,13 +1997,11 @@
   "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
   "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html",
-  "https://gigazine.net/news/20260915-sunk-cost/"
+  "https://gigazine.net/news/20260915-sunk-cost/",
+  "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+  "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
  ],
  "titles": [
-  "ITmedia AI+が報じるAI営業電話の自衛策",
-  "SamsungがClaude Code導入、設計期間を1カ月かかるところ2日に短縮",
-  "Sources: Samsung raises prices for advanced 4nm and 5nm chipmaking services by up to 15% for new orders in July, driven by AI demand and TSMC's tight capacity (Reuters)",
-  "Comcast is turning millions of its routers into motion detectors",
   "サムスン、先進4nm・5nm半導体を最大15%値上げの背景",
   "Comcast、ルーターを動体検知器にする新機能を無料提供",
   "楽天が戦争ビジネスに加担することについて、ヴィッセル神戸サポーターとしての意見 - K Diary",
@@ -4001,6 +3997,10 @@
   "「ブラウザを開く手間」を解消　作業画面に直接呼び出せるWindows版「Gemini」公開",
   "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
   "Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか",
-  "Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる"
+  "Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる",
+  "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+  "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+  "DoorDash、Wonderと4億2500万ドルの提携を結んだ理由",
+  "トランプ氏がNvidia黄氏に電話、データセンター反対論を否定"
  ]
 }

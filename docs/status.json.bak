@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-16 00:02",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-16 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか",
-   "path": "/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html",
-   "cat": "AI(海外)"
+   "title": "Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか",
+   "path": "/articles/20260916-google-releases-windows-gemini-app.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "巨大AI企業、規制の囲い込みへその条件を提示",
-   "path": "/articles/20260916-big-ai-regulatory-capture.html",
-   "cat": "AI(海外)"
+   "title": "Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる",
+   "path": "/articles/20260916-sunk-cost-local-ai-calculation.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
-  "title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
-  "url": "https://www.youtube.com/watch?v=yWNPxS0sXnE"
+  "title": "Transformers: Rise of Unicron - New Official Teaser",
+  "url": "https://www.youtube.com/watch?v=pvm5gvobL5w"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }

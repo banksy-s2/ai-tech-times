@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-16 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-16 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか",
-   "path": "/articles/20260916-google-releases-windows-gemini-app.html",
-   "cat": "日本のAI"
+   "title": "DoorDash、Wonderと4億2500万ドルの提携を結んだ理由",
+   "path": "/articles/20260916-wonder-doordash-partnership.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる",
-   "path": "/articles/20260916-sunk-cost-local-ai-calculation.html",
-   "cat": "日本のAI"
+   "title": "トランプ氏がNvidia黄氏に電話、データセンター反対論を否定",
+   "path": "/articles/20260916-trump-nvidia-huang-all-in-summit.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 13,
   "limit": 200
  }
 }
