@@ -88785,5 +88785,72 @@
   "date": "2026-09-16",
   "time": "07:01",
   "path": "/articles/20260916-honda-first-loss-ev-issues.html"
+ },
+ {
+  "title": "フィラデルフィア市、AIデータセンター建設で住民の反発に直面",
+  "lead": "AIデータセンターの建設ラッシュが、かつての大規模産業で傷ついた都市へと広がり、新たな反対運動を呼んでいます。",
+  "summary3": [
+   "AIデータセンター建設の反発が拡大",
+   "フィラデルフィア市で候補地が浮上",
+   "閉鎖された製油所跡地が対象に"
+  ],
+  "body": [
+   "AIデータセンターの建設ラッシュをめぐり、全米で反対運動が広がっています。この動きはついにフィラデルフィア市にも及び、当局者が新たな建設の可能性を示唆したことで議論を呼んでいます。",
+   "今回、建設の可能性として挙げられたのは、すでに閉鎖された石油製油所によってかつて影響を受けた近隣地域です。大規模産業の爪痕が残る地域での計画に対し、住民からは懸念の声が上がっています。",
+   "AI需要の急増に伴うデータセンターの建設は、各地で環境やインフラへの影響をめぐる衝突を引き起こしています。都市と産業インフラをめぐる問題は、今後も重要な課題となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "フィラデルフィア"
+  ],
+  "slug": "ai-data-center-boom-philadelphia",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "08:00",
+  "path": "/articles/20260916-ai-data-center-boom-philadelphia.html"
+ },
+ {
+  "title": "Googleの新モデルGemini 3.8 Liveはなぜ拡張思考を備えたのか",
+  "lead": "「AI TECH TIMES」編集部がお届けする最新ニュース。Googleが発表した「Gemini 3.8 Live」および「Gemini 3.8 Live Extended Thinking」についての話題が、Hacker Newsで大きな注目を集めています。",
+  "summary3": [
+   "GoogleがGemini 3.8 Liveを発表",
+   "Extended Thinking機能が追加",
+   "Hacker Newsで活発な議論が展開"
+  ],
+  "body": [
+   "AI技術の動向を伝える「AI TECH TIMES」の報道によると、Googleから新たなAIモデル「Gemini 3.8 Live」および「Gemini 3.8 Live Extended Thinking」に関する情報が公開されました。公式ブログにて詳細なモデルや研究内容が発表され、多くの関心を集めています。",
+   "技術系のソーシャルニュースサイトであるHacker Newsでは、この新しいGeminiの発表に対して多数のコメントやポイントが寄せられています。記事の公開後、すでに多くのユーザー間で活発な議論や意見交換が行われており、AIコミュニティにおける関心の高さが伺えます。",
+   "現時点で公開されているURLからは、モデルの革新的な機能や研究の方向性に関する詳細を確認することができます。Googleが提供する最新のAI技術が今後どのように活用されていくのか、引き続き動向に注目が集まるところです。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "gemini-3-8-live-extended-thinking",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドコンピューティングやAI開発を手がけるアメリカの巨大テクノロジー企業。"
+   },
+   {
+    "name": "Gemini 3.8 Live",
+    "type": "ai",
+    "desc": "Googleが開発した最新のAIモデル。ライブ機能や拡張された思考プロセスを備えているのが特徴。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "08:00",
+  "path": "/articles/20260916-gemini-3-8-live-extended-thinking.html"
  }
 ]

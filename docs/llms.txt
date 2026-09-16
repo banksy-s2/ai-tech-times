@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方](https://ai-tech-times.web.app/articles/20260916-fujitsu-monaka-cpu-ai-business.html) — 2026-09-16 09:00: 富士通が国産CPU「モナカ」の販売を開始しました。同社の技術を結集した小さなチップに託された、AI市場での大規模ビジネスの行方に注目が集まっています。
+- [シャープ、国内向けAIサーバーの受注を開始した理由](https://ai-tech-times.web.app/articles/20260916-sharp-starts-ai-server-orders.html) — 2026-09-16 09:00: シャープ株式会社は、生成AIの普及に伴うAIインフラ需要の高まりを受け、AIサーバー事業への参入と国内向け受注の開始を発表しました。
 - [フィラデルフィア市、AIデータセンター建設で住民の反発に直面](https://ai-tech-times.web.app/articles/20260916-ai-data-center-boom-philadelphia.html) — 2026-09-16 08:00: AIデータセンターの建設ラッシュが、かつての大規模産業で傷ついた都市へと広がり、新たな反対運動を呼んでいます。
 - [Googleの新モデルGemini 3.8 Liveはなぜ拡張思考を備えたのか](https://ai-tech-times.web.app/articles/20260916-gemini-3-8-live-extended-thinking.html) — 2026-09-16 08:00: 「AI TECH TIMES」編集部がお届けする最新ニュース。Googleが発表した「Gemini 3.8 Live」および「Gemini 3.8 Live Extended Thinking」についての話題が、Hacker Newsで大きな注目を集めています。
 - [Profoundが1.8億ドル調達、わずか7か月でユニコーン企業へ](https://ai-tech-times.web.app/articles/20260916-profound-series-d-unicorn-valuation-180m.html) — 2026-09-16 07:01: AEOスタートアップのProfoundが、前回の資金調達から7か月未満という異例のスピードで巨額の資金調達を実施し、ユニコーン企業の評価額に到達しました。
@@ -40,15 +42,13 @@
 - [Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか](https://ai-tech-times.web.app/articles/20260916-google-releases-windows-gemini-app.html) — 2026-09-16 01:00: Googleは、AIアシスタント「Gemini」をWindowsのデスクトップから呼び出せるネイティブアプリの提供を開始しました。作業画面から直接起動できるようになり、業務効率化に直結するアップデートとなっています。
 - [Gigazine公開「Sunk Cost」でMac Studioの元を取る年数がわかる](https://ai-tech-times.web.app/articles/20260916-sunk-cost-local-ai-calculation.html) — 2026-09-16 01:00: PCの購入費用やAIの利用量を基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されました。
 - [GPT-6 Astraは1.20ドルのGPT-5.6 Lunaに勝てるか](https://ai-tech-times.web.app/articles/20260916-gpt-56-luna-vs-gpt-6-astra-code-review.html) — 2026-09-16 00:01: AI開発をめぐる最新の話題として、コードレビューにおける新型モデルの性能とコスト対効果が議論されています。
-- [巨大AI企業、規制の囲い込みへその条件を提示](https://ai-tech-times.web.app/articles/20260916-big-ai-regulatory-capture.html) — 2026-09-16 00:01: 「AI TECH TIMES」編集部がお届けする最新ニュース。大規模なAI開発企業が、規制による囲い込みに向けた条件を明らかにしました。
-- [キオクシアHD株価反発、ADR上場で100億ドル調達検討の報道](https://ai-tech-times.web.app/articles/20260915-kioxia-hd-stock-adr-10-billion.html) — 2026-09-15 23:00: キオクシアホールディングスの株価が反発しました。米国でのADR上場による大規模な資金調達の検討が報じられています。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
-- 1位: [Transformers: Rise of Unicron - New Official Teaser](https://www.youtube.com/watch?v=pvm5gvobL5w)
-- 2位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
-- 3位: [Primetime | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=C0NZa01qTRU)
+- 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
+- 2位: [Primetime | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=C0NZa01qTRU)
+- 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1520語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1521語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

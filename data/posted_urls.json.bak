@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-  "https://news.web.nhk/newsweb/na/na-k10015189531000",
   "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lT0oxellzUkUwNWN5VkM0YllUS2h0OFZXZXNkc21IaU5Nd3RFMmhlbWpLWmE3cE13TkNhcmVydmdSay1ialhBM1psS1dtSWp3NUtpenBIYlQwaWxtdXVkNWpMRFA3OWJjTUFMdA?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015190151000",
@@ -1999,13 +1997,11 @@
   "https://tospo-keiba.jp/breaking_news/75571",
   "https://news.web.nhk/newsweb/na/nd-20260914de50212",
   "https://toyokeizai.net/articles/-/957811?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OcnlwbmNZY0d4ZlFyaFowNkRlT01kRVhWRmJvYzQ3MDRFS0tndnhLeUNFZ2phVFE3Nk40U1Bfbm5WdWgzTDl0cFRIRzdTanZiUHFZ0gFYQVVfeXFMTkdpemFQT0p0aXRiemZhSGNlVUtHMmZfM3dCbEdxc1ZQOEotdm1zeWo1UnBvR0s1ck1PNnQtcHdBTVdTc3ZJaGRrd25RdmJYZWVWMzlIa2lPLQ?oc=5"
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OcnlwbmNZY0d4ZlFyaFowNkRlT01kRVhWRmJvYzQ3MDRFS0tndnhLeUNFZ2phVFE3Nk40U1Bfbm5WdWgzTDl0cFRIRzdTanZiUHFZ0gFYQVVfeXFMTkdpemFQT0p0aXRiemZhSGNlVUtHMmZfM3dCbEdxc1ZQOEotdm1zeWo1UnBvR0s1ck1PNnQtcHdBTVdTc3ZJaGRrd25RdmJYZWVWMzlIa2lPLQ?oc=5",
+  "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
  ],
  "titles": [
-  "大阪のIT企業、不正アクセスで136万件流出の恐れ",
-  "トランプ政権、カナダへ50%追加関税を3日間猶予",
-  "日経平均終値2134円安、AI・半導体株総崩れ 拭えぬ中東不安 - 日本経済新聞",
-  "日経平均2134円安、AI・半導体株総崩れの理由",
   "Perplexity’s free AI offer left it with millions more users in India",
   "Airtelの無料提供終了後もPerplexityインドの売上が約60%増",
   "20代のNISA買い付け17倍　制度開始の14年比、将来に備え（共同通信） - Yahoo!ニュース",
@@ -4001,6 +3997,10 @@
   "柴田善臣が引退発表、復帰断念の背景",
   "サウジのパイプライン、復旧まで3〜5週間か",
   "電通グループ、3276億円赤字なのに国内事業が絶好調な理由",
-  "ホンダ上場以来初の赤字転落、北米EVの潮目が変わった四輪事業の根深い問題"
+  "ホンダ上場以来初の赤字転落、北米EVの潮目が変わった四輪事業の根深い問題",
+  "The AI data center boom is colliding with cities scarred by big industry",
+  "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "フィラデルフィア市、AIデータセンター建設で住民の反発に直面",
+  "Googleの新モデルGemini 3.8 Liveはなぜ拡張思考を備えたのか"
  ]
 }
