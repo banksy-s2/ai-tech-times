@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-16 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-16 11:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "インドUPI、10月から0.4%の手数料導入へ",
-   "path": "/articles/20260916-india-upi-merchant-fee-october.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も",
-   "path": "/articles/20260916-spacex-starship-orbit-september-22.html",
-   "cat": "シリコンバレー最速"
+   "title": "マックルモアがエド・シーランのツアーから外された理由",
+   "path": "/articles/20260916-macklemore-removed-from-ed-sheeran-tour.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 67,
+  "used": 71,
   "limit": 200
  }
 }
