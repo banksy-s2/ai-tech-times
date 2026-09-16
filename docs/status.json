@@ -1,21 +1,65 @@
 {
- "updated": "2026-09-16 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-16 21:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末",
-   "path": "/articles/20260916-yamatorino-cocaine-arrest.html",
+   "title": "AppleやOpenAIのAIはなぜ失敗したのか",
+   "path": "/articles/20260916-apple-openai-ai-projects-graveyard.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Meta、月額949円の新サブスク導入でAI枠はどこまで拡大するのか",
+   "path": "/articles/20260916-meta-one-subscription-launched.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "北海道、データセンター事業者に脱炭素や地域共生を要請",
+   "path": "/articles/20260916-hokkaido-data-center-policy.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Grab、14.9億ドルでAtome買収へ：金融事業拡大の狙い",
+   "path": "/articles/20260916-grab-acquires-atome-financial-149b.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "インテルとSKハイニックス、米国でのメモリ製造協議で株価急上昇の理由",
+   "path": "/articles/20260916-intel-sk-hynix-us-memory-chips.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ヤマトリノ「コカインは2人のもの」、交際相手は否認",
+   "path": "/articles/20260916-yamatorino-cocaine-arrest-2.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "10月1日酒税改正、ビール系飲料の価格どう変わる？",
+   "path": "/articles/20260916-liquor-tax-revision-october-1.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "全東信経営破綻：決済代行の年間取扱高は30兆円",
+   "path": "/articles/20260916-zentoshin-keiei-hatan-keisan-sho-chousa.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "三菱重工、プリファードネットに100億円出資で国産AIを共同開発",
+   "path": "/articles/20260916-mhi-preferred-networks-ai-partnership.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\"",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: AI agents now have a place to snitch",
+  "執筆失敗: 【最新の四季報を解説！】業績の「見出し」に異変？／「爆益」キオクシアの先行き／“",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 153,
+  "used": 180,
   "limit": 200
  }
 }

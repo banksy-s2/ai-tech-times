@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 20:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 21:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AppleやOpenAIのAIはなぜ失敗したのか](https://ai-tech-times.web.app/articles/20260916-apple-openai-ai-projects-graveyard.html) — 2026-09-16 21:02: AppleやOpenAIなど、大手企業のAIプロジェクトが直面した頓挫や期待外れの実態を振り返ります。
+- [Meta、月額949円の新サブスク導入でAI枠はどこまで拡大するのか](https://ai-tech-times.web.app/articles/20260916-meta-one-subscription-launched.html) — 2026-09-16 21:02: Metaは、InstagramやFacebookなどを横断する新サブスク「Meta One」の提供を開始しました。日本でも展開され、バンドルプランは月額949円からとなっています。
+- [北海道、データセンター事業者に脱炭素や地域共生を要請](https://ai-tech-times.web.app/articles/20260916-hokkaido-data-center-policy.html) — 2026-09-16 21:02: 北海道は、データセンターの立地推進に伴う懸念に対応するため、事業者向けの方針を公開しました。脱炭素技術の採用や地域との共生を求めています。
+- [Grab、14.9億ドルでAtome買収へ：金融事業拡大の狙い](https://ai-tech-times.web.app/articles/20260916-grab-acquires-atome-financial-149b.html) — 2026-09-16 21:02: 東南アジアで消費者向け融資事業を拡大するため、GrabがAtome Financialを14億9000万ドルで買収することが明らかになりました。
+- [インテルとSKハイニックス、米国でのメモリ製造協議で株価急上昇の理由](https://ai-tech-times.web.app/articles/20260916-intel-sk-hynix-us-memory-chips.html) — 2026-09-16 21:02: インテルとSKハイニックスが米国でのメモリチップ製造について協議しているとの報道を受け、両社の株価が急上昇しました。この動きはインテルの製造事業にとって大きな追い風となる可能性があります。
+- [ヤマトリノ「コカインは2人のもの」、交際相手は否認](https://ai-tech-times.web.app/articles/20260916-yamatorino-cocaine-arrest-2.html) — 2026-09-16 21:02: インフルエンサーとして知られる「ヤマトリノ」が供述した内容と、共に逮捕された交際相手の主張についてFNNプライムオンラインが報じました。
+- [10月1日酒税改正、ビール系飲料の価格どう変わる？](https://ai-tech-times.web.app/articles/20260916-liquor-tax-revision-october-1.html) — 2026-09-16 21:02: 10月1日に実施される酒税改正により、ビール、発泡酒、第3のビールといったビール系飲料の税額が一本化されます。私たちの財布や市場への影響はどう変わるのでしょうか。
+- [全東信経営破綻：決済代行の年間取扱高は30兆円](https://ai-tech-times.web.app/articles/20260916-zentoshin-keiei-hatan-keisan-sho-chousa.html) — 2026-09-16 21:02: クレジットカードの決済代行サービスを行う「全東信」の経営破綻を受け、経済産業省が実態調査を実施しました。その結果、決済代行全体による取扱高が年間30兆円に上ることが明らかになりました。
+- [三菱重工、プリファードネットに100億円出資で国産AIを共同開発](https://ai-tech-times.web.app/articles/20260916-mhi-preferred-networks-ai-partnership.html) — 2026-09-16 21:02: 三菱重工業がPreferred Networksと資本業務提携を締結しました。100億円を出資し、国産AIを共同開発する方針です。
 - [ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末](https://ai-tech-times.web.app/articles/20260916-yamatorino-cocaine-arrest.html) — 2026-09-16 20:00: インフルエンサーとして知られるヤマトリノがコカイン所持で現行犯逮捕されました。自宅からは白色の粉末21袋が押収されています。
 - [米データセンター、独日並みの天然ガス消費へ](https://ai-tech-times.web.app/articles/20260916-us-data-centers-natural-gas-consumption.html) — 2026-09-16 19:01: AIブームの加熱に伴い、米国のデータセンターが世界最大級の天然ガス消費国となる可能性が浮上しました。
 - [ウェザーニューズ独自AI、社員の8割が使う理由](https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html) — 2026-09-16 18:00: 情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。
@@ -33,22 +42,13 @@
 - [高市首相、維新の吉村代表と会談し閣内協力を要請](https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html) — 2026-09-16 17:07: 17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。
 - [三菱重工とPFN、資本業務提携契約を締結](https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html) — 2026-09-16 17:07: 三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。
 - [NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う](https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html) — 2026-09-16 16:16: AI開発のペースを落とすべきだという意見が一部で上がる中、半導体大手のトップがトランプ氏に対してAI開発の減速を阻止する姿勢を示しました。
-- [米タイムズ紙調査：AIデータセンター建設に61%が反対する理由](https://ai-tech-times.web.app/articles/20260916-ai-data-center-unpopular-poll.html) — 2026-09-16 16:16: ニューヨーク・タイムズ紙などの世論調査により、AIとデータセンターに対する有権者の強い反対姿勢が明らかになりました。
-- [アスクル減収減益も計画通り、AI販促で再成長へ](https://ai-tech-times.web.app/articles/20260916-askul-fy2027-q1-results.html) — 2026-09-16 15:00: アスクルはFY2027 Q1決算説明会を実施し、売上高1,123億円で前年同期比8.2％減、営業損失4億円となったことを発表しました。
-- [メルカリ株が大幅安、ポケモン記念カード出品禁止へ](https://ai-tech-times.web.app/articles/20260916-mercari-stock-drop-pokemon-card-ban.html) — 2026-09-16 14:00: 日本経済新聞の報道によると、メルカリの株価が大幅安となりました。背景にはポケモン記念カードの出品禁止措置があります。
-- [高市首相、自民党役員人事決定で「総力を挙げた体制」](https://ai-tech-times.web.app/articles/20260916-takaichi-ldp-executive-appointment.html) — 2026-09-16 13:00: 高市総理大臣は16日午前、自民党の役員人事を行いました。17日の内閣改造に先立って実施されたもので、重要な政策転換の実現を目指します。
-- [Meta、AI機能と有料特典を統合した新プラン「Meta One」を発表](https://ai-tech-times.web.app/articles/20260916-meta-expands-subscription-push-with-new-ai-focused-plans.html) — 2026-09-16 12:01: Metaは、Facebook、Instagram、WhatsAppでAIツールへのアクセスとプレミアム機能を拡張する新しいサブスクリプションプラン「Meta One」を展開すると発表しました。
-- [株式会社わざわざがAI導入で経営会議を月1回に減らした理由](https://ai-tech-times.web.app/articles/20260916-wazawaza-ai-transformation.html) — 2026-09-16 12:01: 長野県東御市の小売業「株式会社わざわざ」が、AIを活用して社内体制を大きく変えた話題が注目を集めています。コードも書けない地方のパン屋が、どのように業務効率化を実現したのでしょうか。
-- [トランプ大統領がAnthropicのAI減速論を批判した理由](https://ai-tech-times.web.app/articles/20260916-trump-rejects-anthropic-ai-slowdown.html) — 2026-09-16 12:01: 2026年9月、Anthropicのダリオ・アモデイCEOがAI開発の減速を訴えた声明に対し、ドナルド・トランプ大統領が反発しました。AIが人類を滅ぼすという考えはデマだと指摘しています。
-- [米軍、地球周回軌道への宇宙兵器投入を初めて公式に認める](https://ai-tech-times.web.app/articles/20260916-us-military-space-weapons-orbit.html) — 2026-09-16 12:01: 米軍が地球の周回軌道上に宇宙兵器を配備したことを、公式に初めて認めました。これまでにない軍事利用の事実が明らかになっています。
-- [ボストン市がFlock契約解除、データが全国共有された理由](https://ai-tech-times.web.app/articles/20260916-boston-dumps-flock-contract-violation.html) — 2026-09-16 12:01: 米ボストン市は、自動ナンバープレート読み取りシステムを提供するFlock社との契約を解除しました。契約に違反してデータが全国規模で共有されていたことが理由です。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer](https://www.youtube.com/watch?v=w0-H5lgpDO0)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1537語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1538語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
