@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
-  "https://news.web.nhk/newsweb/na/na-k10015190641000",
   "https://news.web.nhk/newsweb/na/na-k10015189811000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWTZOa1phbi10YzA0a0JjYl9FUGZwNGhzQW9QYmxBelZIZlppcThoUmZmUnBzZmYtZkszdVpzeFZJTTRTYW56d1VaZW1IX1F2alQzODRIbENYZFk0a2xMMUpETXpCRnVBWTlZTA?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFBub3pwS1Q0ZEVsb0s4STRGZ2JwM29SQjdjNk02VGdGRE1zRVJnSndEeVRGNU55Q1V0TDB1VU1WNlNpUDBqUVQ5RzBNaTRQbHNsSU14R2tNbWxCaVgxWkFSX3hyNGRqTjc1WDdrWnplbTNTQ1Vvc1owRTE3ZXNwTVk?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xWlVMU1hmdlNKSXpzeGpieWJxOHdzeTByYXZUOXktZWVaS2l2OXd1dXZxR2twNnBpZFZfeFZxUTA2MVNkZlFBNm5CTmd2SWtuWXRydk5Ec3c?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260916de50468",
   "https://news.web.nhk/newsweb/na/nd-20260916de50547",
-  "https://toyokeizai.net/articles/-/958378?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  "https://toyokeizai.net/articles/-/958378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+  "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
  ],
  "titles": [
-  "Rilletが48時間で1億ドル調達しユニコーン化、なぜ狙わずして達成できたのか",
-  "EXO ベクヒョン、チャ・ガウォン代表から630億ウォン規模の詐欺か",
-  "TikTok、米国で4億ドル支払いの理由",
-  "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故",
   "日経平均株価、2027年8月までの値動き予測が浮上",
   "上場企業の平均年収778万円、5年連続超えの理由",
   "新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
@@ -4001,6 +3997,10 @@
   "ニューヨーク原油106ドル台、中東情勢で高騰の理由",
   "北朝鮮政府に50億円余りの賠償命令、韓国裁判所",
   "【最新の四季報を解説！】業績の「見出し」に異変？／「爆益」キオクシアの先行き／“高市政策”で業績の上振れ期待／金利上昇で追い風が吹くセクター／見逃せない「営業利益率」の改善／独自予想で「増額」企業は？ | ビジネス | 東洋経済オンライン",
-  "東洋経済『会社四季報』秋号発売、市場の注目テーマを解説"
+  "東洋経済『会社四季報』秋号発売、市場の注目テーマを解説",
+  "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+  "Former Infosys chief’s AI startup nabs another $53M",
+  "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
+  "元InfosysトップのAI新興、5300万ドル調達のなぜ"
  ]
 }

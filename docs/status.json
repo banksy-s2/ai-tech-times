@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-16 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-17 00:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "東洋経済『会社四季報』秋号発売、市場の注目テーマを解説",
-   "path": "/articles/20260916-shikiho-autumn-2026-release.html",
-   "cat": "株式投資(日本)"
+   "title": "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
+   "path": "/articles/20260917-aiuc-raises-40-million-series-a.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "元InfosysトップのAI新興、5300万ドル調達のなぜ",
+   "path": "/articles/20260917-former-infosys-chief-ai-startup-53m.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
  "notes": [],
- "pv_today": 1,
+ "pv_today": null,
  "gemini": {
-  "used": 189,
+  "used": 6,
   "limit": 200
  }
 }

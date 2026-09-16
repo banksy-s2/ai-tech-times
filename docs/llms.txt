@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 00:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策](https://ai-tech-times.web.app/articles/20260917-aiuc-raises-40-million-series-a.html) — 2026-09-17 00:01: Anthropicの初期メンバーと元METR COOが立ち上げたAIUCが、暴走するAIエージェントを制御する手法を見出し、シリーズAラウンドで4000万ドルを調達しました。
+- [元InfosysトップのAI新興、5300万ドル調達のなぜ](https://ai-tech-times.web.app/articles/20260917-former-infosys-chief-ai-startup-53m.html) — 2026-09-17 00:01: パロアルトを拠点とするAIスタートアップが、新たに5300万ドルの資金調達を実施しました。創業から数か月で複数の高額な企業向け契約を獲得しています。
 - [東洋経済『会社四季報』秋号発売、市場の注目テーマを解説](https://ai-tech-times.web.app/articles/20260916-shikiho-autumn-2026-release.html) — 2026-09-16 23:00: 『会社四季報2026年4集 秋号』が9月16日に発売されました。全上場3802社の四季報を読破して見えた市場の注目テーマや最新のキーワードを、『会社四季報』の島大輔編集長が解説します。
 - [ニューヨーク原油106ドル台、中東情勢で高騰の理由](https://ai-tech-times.web.app/articles/20260916-ny-crude-oil-price-surges-106-dollars.html) — 2026-09-16 22:43: 15日のニューヨーク原油市場で、WTIの先物価格が1バレル＝106ドル台まで上昇しました。およそ4か月ぶりの高値水準となっていますが、その背景には何があるのでしょうか。
 - [北朝鮮政府に50億円余りの賠償命令、韓国裁判所](https://ai-tech-times.web.app/articles/20260916-korea-court-orders-compensation-from-north-korea.html) — 2026-09-16 22:43: 北朝鮮が2020年に南北の共同連絡事務所を爆破したことをめぐり、韓国の裁判所は北朝鮮政府に対し、日本円で50億円余りの賠償金を支払うよう命じました。
@@ -40,15 +42,13 @@
 - [エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」](https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html) — 2026-09-16 17:07: エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。
 - [Meta、AIエージェントでWhatsApp Business設定を自動化する理由](https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html) — 2026-09-16 17:07: Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。
 - [AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ](https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html) — 2026-09-16 17:07: AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。
-- [Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性](https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html) — 2026-09-16 17:07: 海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。
-- [アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは](https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html) — 2026-09-16 17:07: 15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。
 
-## 世界のバズ動画TOP3 (2026-09-16)
+## 世界のバズ動画TOP3 (2026-09-17)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer](https://www.youtube.com/watch?v=w0-H5lgpDO0)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1539語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1541語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
