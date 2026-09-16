@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 14:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 15:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アスクル減収減益も計画通り、AI販促で再成長へ](https://ai-tech-times.web.app/articles/20260916-askul-fy2027-q1-results.html) — 2026-09-16 15:00: アスクルはFY2027 Q1決算説明会を実施し、売上高1,123億円で前年同期比8.2％減、営業損失4億円となったことを発表しました。
 - [メルカリ株が大幅安、ポケモン記念カード出品禁止へ](https://ai-tech-times.web.app/articles/20260916-mercari-stock-drop-pokemon-card-ban.html) — 2026-09-16 14:00: 日本経済新聞の報道によると、メルカリの株価が大幅安となりました。背景にはポケモン記念カードの出品禁止措置があります。
 - [高市首相、自民党役員人事決定で「総力を挙げた体制」](https://ai-tech-times.web.app/articles/20260916-takaichi-ldp-executive-appointment.html) — 2026-09-16 13:00: 高市総理大臣は16日午前、自民党の役員人事を行いました。17日の内閣改造に先立って実施されたもので、重要な政策転換の実現を目指します。
 - [Meta、AI機能と有料特典を統合した新プラン「Meta One」を発表](https://ai-tech-times.web.app/articles/20260916-meta-expands-subscription-push-with-new-ai-focused-plans.html) — 2026-09-16 12:01: Metaは、Facebook、Instagram、WhatsAppでAIツールへのアクセスとプレミアム機能を拡張する新しいサブスクリプションプラン「Meta One」を展開すると発表しました。
@@ -41,14 +42,13 @@
 - [フィラデルフィア市、AIデータセンター建設で住民の反発に直面](https://ai-tech-times.web.app/articles/20260916-ai-data-center-boom-philadelphia.html) — 2026-09-16 08:00: AIデータセンターの建設ラッシュが、かつての大規模産業で傷ついた都市へと広がり、新たな反対運動を呼んでいます。
 - [Googleの新モデルGemini 3.8 Liveはなぜ拡張思考を備えたのか](https://ai-tech-times.web.app/articles/20260916-gemini-3-8-live-extended-thinking.html) — 2026-09-16 08:00: 「AI TECH TIMES」編集部がお届けする最新ニュース。Googleが発表した「Gemini 3.8 Live」および「Gemini 3.8 Live Extended Thinking」についての話題が、Hacker Newsで大きな注目を集めています。
 - [Profoundが1.8億ドル調達、わずか7か月でユニコーン企業へ](https://ai-tech-times.web.app/articles/20260916-profound-series-d-unicorn-valuation-180m.html) — 2026-09-16 07:01: AEOスタートアップのProfoundが、前回の資金調達から7か月未満という異例のスピードで巨額の資金調達を実施し、ユニコーン企業の評価額に到達しました。
-- [OpenAI、Anthropic、GoogleがAI安全性めぐり数週間にわたり協議](https://ai-tech-times.web.app/articles/20260916-openai-anthropic-google-ai-safety-talks.html) — 2026-09-16 07:01: OpenAIがAnthropicおよびGoogle DeepMindとの間でAIの安全性に関する協議を数週間にわたり行っていたことが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 - 3位: [Other Mommy | Official Trailer 2](https://www.youtube.com/watch?v=-mnTITqqiT0)
 
-## AI用語事典 (全1530語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1531語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

@@ -89443,5 +89443,39 @@
   "date": "2026-09-16",
   "time": "14:00",
   "path": "/articles/20260916-mercari-stock-drop-pokemon-card-ban.html"
+ },
+ {
+  "title": "アスクル減収減益も計画通り、AI販促で再成長へ",
+  "lead": "アスクルはFY2027 Q1決算説明会を実施し、売上高1,123億円で前年同期比8.2％減、営業損失4億円となったことを発表しました。",
+  "summary3": [
+   "売上高は1,123億円で8.2％減",
+   "営業損失4億円も計画通りの進捗",
+   "AI販促とオリジナル比率50％で再成長"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする企業の最新動向です。オフィス向け通販などを手掛けるアスクルは、FY2027 Q1（第1四半期）の決算説明会を開催し、当期の業績を発表しました。",
+   "発表によると、当期の売上高は1,123億円となり、前年同期比で8.2％の減少となりました。また、営業損失は4億円を計上しています。しかし、同社はこの減収営業損失について「計画通り」であると説明しています。",
+   "今後は、AI販促の活用や、オリジナル商品の比率を50％に引き上げる取り組みなどを進めることで、再成長を目指す方針を示しています。"
+  ],
+  "tags": [
+   "アスクル",
+   "決算",
+   "AI"
+  ],
+  "slug": "askul-fy2027-q1-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "アスクル",
+    "type": "company",
+    "desc": "オフィス向けの通信販売や日用品のEC事業などを広く展開している日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52dU8xQXR4d3phV19BREJvRGs4MlgtX3VEREVFNkpvSjY2U2hFdm1ySmV6ZUNoSlpCQTdURWJNTEVwXzZPSThGQ0ZFSW5qMTV2QWg1dDJ1SGkxRkJwcUhN?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-16",
+  "time": "15:00",
+  "path": "/articles/20260916-askul-fy2027-q1-results.html"
  }
 ]
