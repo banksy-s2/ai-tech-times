@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015190381000",
   "https://news.web.nhk/newsweb/na/na-k10015190491000",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fdmpmTzExNWxDbnJ5RkYxVDdTczBackxhdTBRQm9NckRtWU1UZXB0YkZnbDRyWlNacVFRd2RQYnNTNnhHejI1VXE0eUhhVmNkSFdMZXU2Y096VEhNZ0Vr?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015190631000",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260916de50610",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DNGtzb182TkFuMktGZEk1dTNKZERyMDdmanRwb2x4UWFxQzRYMmNzR2FRbi0wVXlFMm82ZnRjOEJsQWJWN0tndjgwT1RPVk5tYzdDUjJn?oc=5",
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
-  "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+  "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVENVRDIzbDlyX3lqVlJ0QktQRzhoakdtc2xielRTUXd3UTJyVFRHUmRnNWVTWWFmX21kSFp4d0Q4dGRwV2p1MmtQTGNYckptVWMxMDFkbWJOR1VmQkdiMHlEZmpsdHZJZjZJYS1fN29NeWx4bWxhVlNPUDZUenM?oc=5"
  ],
  "titles": [
-  "日経平均下落の裏でTOPIXは最高値を更新…NT倍率「16倍」が意味するもの - ニューズウィーク日本版",
-  "Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか",
   "ChatGPT、Codex利用2000万人突破記念でリセット権配布",
   "古いAndroid端末をRaspberry Pi代わりに",
   "米国防総省、電池ベンチャーに5億ドルの救済はなぜ実現したか",
@@ -4001,6 +3999,8 @@
   "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決　社員8割が使うその中身とは",
   "ウェザーニューズ独自AI、社員の8割が使う理由",
   "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-  "米データセンター、独日並みの天然ガス消費へ"
+  "米データセンター、独日並みの天然ガス消費へ",
+  "インフルエンサー「ヤマトリノ」コカイン所持で現行犯逮捕 自宅に“白色の粉末”21袋 交際相手の会社役員の28歳男も逮捕 - Yahoo!ニュース",
+  "ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末"
  ]
 }

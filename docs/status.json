@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-16 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-16 20:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "米データセンター、独日並みの天然ガス消費へ",
-   "path": "/articles/20260916-us-data-centers-natural-gas-consumption.html",
-   "cat": "シリコンバレー最速"
+   "title": "ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末",
+   "path": "/articles/20260916-yamatorino-cocaine-arrest.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\"",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [
-  "執筆失敗: Grab aims for 'next level' in financial "
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 149,
+  "used": 153,
   "limit": 200
  }
 }
