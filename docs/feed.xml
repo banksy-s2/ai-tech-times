@@ -5,6 +5,62 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」</title>
+<link>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。</description>
+</item>
+<item>
+<title>Meta、AIエージェントでWhatsApp Business設定を自動化する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。</description>
+</item>
+<item>
+<title>AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ</title>
+<link>https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。</description>
+</item>
+<item>
+<title>Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性</title>
+<link>https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。</description>
+</item>
+<item>
+<title>アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは</title>
+<link>https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。</description>
+</item>
+<item>
+<title>高市首相、維新の吉村代表と会談し閣内協力を要請</title>
+<link>https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。</description>
+</item>
+<item>
+<title>三菱重工とPFN、資本業務提携契約を締結</title>
+<link>https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html</guid>
+<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本企業</category>
+<description>三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。</description>
+</item>
+<item>
 <title>NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う</title>
 <link>https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>OpenAIがAnthropicおよびGoogle DeepMindとの間でAIの安全性に関する協議を数週間にわたり行っていたことが明らかになりました。</description>
-</item>
-<item>
-<title>NVIDIAが84GBメモリの新型GPU発表、RTX 5090と何が違う？</title>
-<link>https://ai-tech-times.web.app/articles/20260916-nvidia-rtx-pro-5500-blackwell.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-nvidia-rtx-pro-5500-blackwell.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>NVIDIAがプロフェッショナル向けGPU「RTX PRO 5500 Blackwell Workstation Edition」を発表しました。GeForce RTX 5090と同等のスペックながら大容量メモリを搭載し、AI開発などの用途を想定しています。</description>
-</item>
-<item>
-<title>Andon LabsのPionが会社を丸ごとAI経営する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260916-pion-ai-business-management.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-pion-ai-business-management.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Andon Labsが発表した新プラットフォーム「Pion」は、メールや電話、銀行機能まで使って会社を丸ごとAIエージェントに経営させ、事業を自律運営させることが可能です。</description>
-</item>
-<item>
-<title>柴田善臣が引退発表、復帰断念の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260916-shibata-yoshitomi-retirement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-shibata-yoshitomi-retirement.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>JRAの現役最年長ジョッキーである柴田善臣が、右肩のケガにより引退を発表しました。長年親しまれた大ベテランが、ついにムチを置くことになります。</description>
-</item>
-<item>
-<title>サウジのパイプライン、復旧まで3〜5週間か</title>
-<link>https://ai-tech-times.web.app/articles/20260916-saudi-pipeline-repair-time.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-saudi-pipeline-repair-time.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>サウジアラビアで原油輸出の代替ルートとなっているパイプラインが攻撃を受け、操業を停止している問題で、AP通信が復旧までの見通しを伝えました。</description>
-</item>
-<item>
-<title>電通グループ、3276億円赤字なのに国内事業が絶好調な理由</title>
-<link>https://ai-tech-times.web.app/articles/20260916-dentsu-group-financial-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-dentsu-group-financial-results.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>前期に3276億円もの純損失を計上し、2年連続で過去最大の赤字を更新した電通グループ。不振にあえぐ“広告の王様”の本拠地である日本国内における動向について、東洋経済オンラインが報じました。</description>
-</item>
-<item>
-<title>ホンダ上場以来初の赤字転落、北米EVの潮目が変わった四輪事業の根深い問題</title>
-<link>https://ai-tech-times.web.app/articles/20260916-honda-first-loss-ev-issues.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-honda-first-loss-ev-issues.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ホンダが上場以来初となる赤字転落に陥りました。北米におけるEVの潮目の変化だけではない、四輪事業の根深い問題が浮き彫りになっています。</description>
-</item>
-<item>
-<title>中部電力社長が浜岡原発データ不正を御前崎市長に直接陳謝</title>
-<link>https://ai-tech-times.web.app/articles/20260916-chubu-denryok-hamaoka-data-issue.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-chubu-denryok-hamaoka-data-issue.html</guid>
-<pubDate>Wed, 16 Sep 2026 06:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>中部電力が浜岡原子力発電所の審査における地震想定データの改ざん問題で、調査報告書をまとめ、社長が立地自治体の市長に直接陳謝しました。</description>
 </item>
 </channel></rss>

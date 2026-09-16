@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-  "https://www.cnn.co.jp/business/35251078.html",
   "https://blog.flatt.tech/entry/kindarails2shell_rails",
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wNGw0eUVhaUhqY3RXb3BXcDgyb0xWQ3FJN0Z0UHlwYlNXQkM4dzBSZUZSNU9LRi1XTEM3NXp0VHppeHRrQ21IOXZxNGJzN2lvbG1WTA?oc=5",
   "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX09KbF96NVpncUdZekVFRG1FTVFmaTd0eWtBaVR5S3pKbXBNRVNIYUlaSnlzb2FEU280OEhfNzZkRnRYWWJObVZqclplNGVaNmIzRVJqNFd6ZjNYU0NLOXlnZVQ0LWxxMHNYX3RaZnE5LUlGREJzb2d2YzlxdGNJMURaTnhPdGc?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260916de50478",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtLVJTTC1rQlR6eml0VEgybkoxdE12eXF5ZTBXMjBqX1FGWHA2OU55RXphT2dmb0RWYkcxNmw1VnhWVmc3b18wTUtLQ0Z4cXFCN2Zvc2s1OTV0U3FNQWJFUUlXVXRwWW9MVThfcg?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52dU8xQXR4d3phV19BREJvRGs4MlgtX3VEREVFNkpvSjY2U2hFdm1ySmV6ZUNoSlpCQTdURWJNTEVwXzZPSThGQ0ZFSW5qMTV2QWg1dDJ1SGkxRkJwcUhN?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52dU8xQXR4d3phV19BREJvRGs4MlgtX3VEREVFNkpvSjY2U2hFdm1ySmV6ZUNoSlpCQTdURWJNTEVwXzZPSThGQ0ZFSW5qMTV2QWg1dDJ1SGkxRkJwcUhN?oc=5",
+  "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+  "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
  ],
  "titles": [
-  "Meta裁判敗訴でSNSは終わるのか、1990年代の巨大タバコ訴訟と比較される理由",
-  "韓鶴子総裁とキム・ゴニ夫人、政党法違反の初公判で否認",
-  "ウサイン・ボルト氏の100m記録をヒューマノイドロボットが9.39秒で破った理由",
-  "ラピダスへ1500億円要求、経産省が3度目の出資へ",
   "Frontier AI labs still won’t say how they’d contain a rogue model",
   "Nvidia just showed that the harness, not the AI model, is now the real hero",
   "フロンティアAI研究所、暴走モデルの封じ込め策を公開せず",
@@ -4001,6 +3997,10 @@
   "メルカリの株価が大幅安 ポケモン記念カードの出品禁止 - 日本経済新聞",
   "メルカリ株が大幅安、ポケモン記念カード出品禁止へ",
   "【アスクル FY2027 Q1 決算説明会】売上高1,123億円・8.2％減、営業損失4億円も「計画通り」—AI販促とオリジナル比率50％で再成長へ - BigGo ファイナンス",
-  "アスクル減収減益も計画通り、AI販促で再成長へ"
+  "アスクル減収減益も計画通り、AI販促で再成長へ",
+  "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+  "AI and data centers are incredibly unpopular in every poll",
+  "NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う",
+  "米タイムズ紙調査：AIデータセンター建設に61%が反対する理由"
  ]
 }

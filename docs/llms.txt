@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 16:16 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 17:07 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」](https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html) — 2026-09-16 17:07: エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。
+- [Meta、AIエージェントでWhatsApp Business設定を自動化する理由](https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html) — 2026-09-16 17:07: Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。
+- [AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ](https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html) — 2026-09-16 17:07: AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。
+- [Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性](https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html) — 2026-09-16 17:07: 海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。
+- [アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは](https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html) — 2026-09-16 17:07: 15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。
+- [高市首相、維新の吉村代表と会談し閣内協力を要請](https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html) — 2026-09-16 17:07: 17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。
+- [三菱重工とPFN、資本業務提携契約を締結](https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html) — 2026-09-16 17:07: 三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。
 - [NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う](https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html) — 2026-09-16 16:16: AI開発のペースを落とすべきだという意見が一部で上がる中、半導体大手のトップがトランプ氏に対してAI開発の減速を阻止する姿勢を示しました。
 - [米タイムズ紙調査：AIデータセンター建設に61%が反対する理由](https://ai-tech-times.web.app/articles/20260916-ai-data-center-unpopular-poll.html) — 2026-09-16 16:16: ニューヨーク・タイムズ紙などの世論調査により、AIとデータセンターに対する有権者の強い反対姿勢が明らかになりました。
 - [アスクル減収減益も計画通り、AI販促で再成長へ](https://ai-tech-times.web.app/articles/20260916-askul-fy2027-q1-results.html) — 2026-09-16 15:00: アスクルはFY2027 Q1決算説明会を実施し、売上高1,123億円で前年同期比8.2％減、営業損失4億円となったことを発表しました。
@@ -35,26 +42,19 @@
 - [YouTuber・SUSURUがラーメン店出店「北ノ醤油チーホー」話題沸騰のワケ](https://ai-tech-times.web.app/articles/20260916-susuru-ramen-kitano-shoyu-tiho.html) — 2026-09-16 12:01: 人気YouTuberのSUSURUが手がけたラーメン店「北ノ醤油チーホー」が、大きな話題を集めています。年間600杯を食すプロをも唸らせたその理由とは何なのでしょうか。
 - [国内の100歳以上が10万人突破、88%が女性](https://ai-tech-times.web.app/articles/20260916-japan-centenarians-exceed-100000.html) — 2026-09-16 12:01: BBC Worldの報道によると、日本の100歳以上の高齢者が初めて10万人を突破しました。人口減少と高齢化が続く中、その88%を女性が占めています。
 - [東洋経済が最新｢四季報｣配当利回りランキングTOP50を発表](https://ai-tech-times.web.app/articles/20260916-latest-shikiho-dividend-yield-ranking.html) — 2026-09-16 12:01: 東洋経済オンラインは、最新の「会社四季報」に基づく配当利回りランキングTOP50を発表しました。
-- [Ｓｏｌｖｖｙがジャックスと資本業務提携、自己株処分で約6億円調達](https://ai-tech-times.web.app/articles/20260916-solvvy-jaccs-capital-business-alliance.html) — 2026-09-16 12:01: Ｓｏｌｖｖｙは、ジャックスとの間で資本業務提携を締結したと発表しました。自己株処分により約6億円を調達する予定です。
-- [マックルモアがエド・シーランのツアーから外された理由](https://ai-tech-times.web.app/articles/20260916-macklemore-removed-from-ed-sheeran-tour.html) — 2026-09-16 11:01: ラッパーのマックルモアが、エド・シーランのスタジアムツアーの残りの日程から外されたことが明らかになりました。複数の会場がプロモーターに出演を認めないと伝えたためです。
-- [インドUPI、10月から0.4%の手数料導入へ](https://ai-tech-times.web.app/articles/20260916-india-upi-merchant-fee-october.html) — 2026-09-16 10:00: インドは、広く普及しているデジタル決済ネットワーク「UPI」において、10月15日より特定の大口決済に対して0.4%の加盟店手数料を課すことを決定しました。
-- [SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も](https://ai-tech-times.web.app/articles/20260916-spacex-starship-orbit-september-22.html) — 2026-09-16 10:00: SpaceXは、9月22日に次世代宇宙船Starshipを初めて軌道に投入する挑戦を実施すると発表しました。同時に初のV3 Starlink衛星の配備も試みます。
-- [富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方](https://ai-tech-times.web.app/articles/20260916-fujitsu-monaka-cpu-ai-business.html) — 2026-09-16 09:00: 富士通が国産CPU「モナカ」の販売を開始しました。同社の技術を結集した小さなチップに託された、AI市場での大規模ビジネスの行方に注目が集まっています。
-- [シャープ、国内向けAIサーバーの受注を開始した理由](https://ai-tech-times.web.app/articles/20260916-sharp-starts-ai-server-orders.html) — 2026-09-16 09:00: シャープ株式会社は、生成AIの普及に伴うAIインフラ需要の高まりを受け、AIサーバー事業への参入と国内向け受注の開始を発表しました。
-- [フィラデルフィア市、AIデータセンター建設で住民の反発に直面](https://ai-tech-times.web.app/articles/20260916-ai-data-center-boom-philadelphia.html) — 2026-09-16 08:00: AIデータセンターの建設ラッシュが、かつての大規模産業で傷ついた都市へと広がり、新たな反対運動を呼んでいます。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer](https://www.youtube.com/watch?v=w0-H5lgpDO0)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1532語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1536語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
-- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
+- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
@@ -74,9 +74,9 @@
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
+- [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
-- [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [Samsungとは](https://ai-tech-times.web.app/term/samsung.html): 韓国を代表する総合家電・半導体メーカーであり、世界トップクラスのメモリチップシェアを誇る巨大テクノロジー企業です。
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 
