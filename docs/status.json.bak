@@ -1,26 +1,57 @@
 {
- "updated": "2026-09-16 16:16",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-16 17:08",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う",
-   "path": "/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html",
+   "title": "エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」",
+   "path": "/articles/20260916-nvidia-jensen-huang-ai-regulation.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "米タイムズ紙調査：AIデータセンター建設に61%が反対する理由",
-   "path": "/articles/20260916-ai-data-center-unpopular-poll.html",
+   "title": "Meta、AIエージェントでWhatsApp Business設定を自動化する理由",
+   "path": "/articles/20260916-meta-whatsapp-business-ai-agents.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ",
+   "path": "/articles/20260916-ai-agent-side-job-cases.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性",
+   "path": "/articles/20260916-mozilla-frontier-ai-cost-advantage.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは",
+   "path": "/articles/20260916-us-long-term-interest-rates-19-year-high.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "高市首相、維新の吉村代表と会談し閣内協力を要請",
+   "path": "/articles/20260916-takaichi-yoshimura-meeting.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "三菱重工とPFN、資本業務提携契約を締結",
+   "path": "/articles/20260916-mhi-and-pfn-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\"",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連",
+  "執筆失敗: Grab aims for 'next level' in financial ",
+  "執筆失敗: インフルエンサー「ヤマトリノ」コカイン所持で現行犯逮捕 自宅に“白色の粉末”21",
+  "執筆失敗: 日経平均終値438円高、佳境の中間配当取り 海運や通信に食指 - 日本経済新聞",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 113,
+  "used": 138,
   "limit": 200
  }
 }

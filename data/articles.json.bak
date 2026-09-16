@@ -89558,5 +89558,265 @@
   "date": "2026-09-16",
   "time": "16:16",
   "path": "/articles/20260916-ai-data-center-unpopular-poll.html"
+ },
+ {
+  "title": "エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」",
+  "lead": "エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。",
+  "summary3": [
+   "AIは新たな異質な心ではないと主張",
+   "ハードウェアとソフトウェアにすぎない",
+   "安全対策は各AIメーカーが設計可能"
+  ],
+  "body": [
+   "テック系メディア「TechCrunch AI」の報道によると、半導体大手エヌビディアのジェンスン・フアン氏は、AIに対する新たな規制は必要なく、安全性確保の責任は各メーカーが持つべきだと主張しました。",
+   "フアン氏は、AIが決して未知の「異質な心（エイリアン・マインド）」のような存在ではなく、あくまでハードウェアとソフトウェアの組み合わせにすぎないと指摘しています。",
+   "そのため、特別な外部規制を設けなくても、AI製品を開発する各メーカーが自らの手で安全性を適切にエンジニアリングできるという見解を示しました。"
+  ],
+  "tags": [
+   "エヌビディア",
+   "AI規制",
+   "ジェンスン・フアン"
+  ],
+  "slug": "nvidia-jensen-huang-ai-regulation",
+  "people": [
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "米エヌビディアの共同創業者兼最高経営責任者（CEO）。GPU開発を率いAIブームの中心人物となった。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く半導体メーカー。AI開発に不可欠なGPU市場で圧倒的なシェアを持つ。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-nvidia-jensen-huang-ai-regulation.html"
+ },
+ {
+  "title": "Meta、AIエージェントでWhatsApp Business設定を自動化する理由",
+  "lead": "Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。",
+  "summary3": [
+   "WhatsApp BusinessのMCPサーバーが新登場",
+   "ClaudeやChatGPTで設定やテストが可能に",
+   "面倒な初期設定やトラブル対応を効率化"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。Metaは現地時間2026年9月15日、開発者向けに新しい「WhatsApp Business MCPサーバー」の提供を開始したと発表しました。この新機能により、開発者は日々の作業の中でAIコーディングエージェントを活用できるようになります。",
+   "今回の機能を利用することで、AIエージェントにWhatsApp Businessの設定、メッセージテンプレートの作成、テスト、さらにはトラブルシューティングといった面倒な作業の大部分を任せることが可能になります。対応するAIエージェントには、Claude、Cursor、Codex、ChatGPTなどが含まれています。",
+   "これまで開発者にとって負担となっていた初期構築や検証のプロセスをAIが代行することで、開発効率の大幅な向上が期待されます。AIの活用範囲がビジネスインフラの構築や設定領域へとさらに広がることで、今後の開発現場のワークフローに大きな変化をもたらしそうです。"
+  ],
+  "tags": [
+   "Meta",
+   "AIエージェント",
+   "WhatsApp Business"
+  ],
+  "slug": "meta-whatsapp-business-ai-agents",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどのSNSプラットフォームを運営するアメリカの巨大テクノロジー企業。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した、高度な文章生成やプログラミング支援能力を持つ対話型AIモデル。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、自然な対話や文章作成、コーディング支援などが可能な広く普及しているAI。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-meta-whatsapp-business-ai-agents.html"
+ },
+ {
+  "title": "AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ",
+  "lead": "AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。",
+  "summary3": [
+   "AIエージェント副業の案件6選を紹介",
+   "未経験からの始め方5ステップを解説",
+   "「AI副業」検索で新たな可能性を発見"
+  ],
+  "body": [
+   "メディア「AINOW」にて、AIエージェントを活用した副業に関する情報が公開されました。本業でAIエージェントを触って「これは仕事になる」と手応えを感じたものの、具体的にどう進めればよいか悩んでいる方に向けた内容となっています。",
+   "記事によると、「AI副業」と検索してみると、ライティングやイラストの販売などの案件が数多く見つかることが紹介されています。AI技術の進化に伴い、個人のスキルを活かした副業の選択肢がさらに広がっている実態がうかがえます。",
+   "これからの働き方において、AIエージェントをどのように活用し、副業として収益化していくのか。未経験から始めるための具体的なステップや、実際の案件と単価相場を知ることで、新たな挑戦への一歩を踏み出すヒントになりそうです。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "副業",
+   "AINOW"
+  ],
+  "slug": "ai-agent-side-job-cases",
+  "people": [],
+  "terms": [
+   {
+    "name": "AINOW",
+    "type": "company",
+    "desc": "AIに関する最新ニュースや活用事例などを幅広く発信する専門メディアです。"
+   }
+  ],
+  "source": "AINOW",
+  "source_url": "https://ainow.ai/2026/09/16/278365/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%2589%25af%25e6%25a5%25ad%25e3%2581%25ae%25e6%25a1%2588%25e4%25bb%25b66%25e9%2581%25b8%25e3%2581%25a8%25e5%258d%2598%25e4%25be%25a1%25e7%259b%25b8%25e5%25a0%25b4%25ef%25bc%2581%25e6%259c%25aa%25e7%25b5%258c%25e9%25a8%2593",
+  "category": "ai_jp",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-ai-agent-side-job-cases.html"
+ },
+ {
+  "title": "Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性",
+  "lead": "海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。",
+  "summary3": [
+   "Mozillaのレポート内容をArs Technicaがプレ",
+   "安価なオープンモデルがフロンティアAIモデルに追いつく",
+   "有料の最先端AI購入は4ヶ月の優位性と5倍のコストがかかる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、海外メディアのArs Technicaは、Mozillaによる最新のレポートについてプレビュー記事を公開しました。このレポートでは、安価なオープンモデルが、いかにしてフロンティアAIモデルの能力に追いついたのかが詳細に分析されています。",
+   "記事では、費用対効果に関する重要な検証結果が示されています。高額なフロンティアAIモデルへの支払いは、わずか4ヶ月のヘッドスタート（優位性）を得るために、最大で5倍のコストを投じている実態が明らかにされました。",
+   "低価格なオープンソースのAIモデルが、高価な最先端モデルとの性能差を急速に縮めている現状は、今後のAI活用におけるコストパフォーマンスの考え方に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "AI",
+   "オープンモデル",
+   "Mozilla"
+  ],
+  "slug": "mozilla-frontier-ai-cost-advantage",
+  "people": [],
+  "terms": [
+   {
+    "name": "Mozilla",
+    "type": "company",
+    "desc": "ブラウザ「Firefox」の開発などで知られる、インターネットの健全性維持を目指すアメリカの非営利団体。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+  "category": "silicon",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-mozilla-frontier-ai-cost-advantage.html"
+ },
+ {
+  "title": "アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは",
+  "lead": "15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。",
+  "summary3": [
+   "アメリカの長期金利が19年ぶり高水準に",
+   "中東情勢によるインフレ加速が背景",
+   "世界的に長期金利が上昇する展開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新の経済ニュースです。15日のニューヨーク債券市場において、アメリカの長期金利が19年ぶりの高い水準となりました。私たちの生活にも影響を及ぼす金融市場の動きが注目を集めています。",
+   "今回の長期金利上昇の背景には、中東情勢を背景にしたインフレの加速や、財政悪化への懸念があります。こうした要因が重なり合うことで、世界的に長期金利が上昇する展開となっています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "アメリカ",
+   "長期金利",
+   "経済ニュース"
+  ],
+  "slug": "us-long-term-interest-rates-19-year-high",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260916de50462",
+  "category": "world",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-us-long-term-interest-rates-19-year-high.html"
+ },
+ {
+  "title": "高市首相、維新の吉村代表と会談し閣内協力を要請",
+  "lead": "17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。",
+  "summary3": [
+   "17日の内閣改造を前に党首会談を実施",
+   "高市首相が維新の吉村代表へ閣内協力を要請",
+   "吉村氏が応じる意向を示し連立政権を維持へ"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、17日の内閣改造を控えた重要な局面において、高市総理大臣と日本維新の会の吉村代表による党首会談が実施されました。この会談の中で、高市総理大臣は日本維新の会から新たに閣僚を起用したいという意向を正式に伝達しました。",
+   "これに対し、日本維新の会の吉村代表はその要請に応じる考えを明確に示しました。両党の合意により、今後は閣内協力を継続・維持する形で連立政権を運営していく方針が確認されています。",
+   "今回の会談と閣内協力の確認によって、17日に予定されている内閣改造に向けた政権基盤の調整が進められることになります。今後の具体的な人事や体制の発表に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "政治",
+   "内閣改造",
+   "日本維新の会"
+  ],
+  "slug": "takaichi-yoshimura-meeting",
+  "people": [
+   {
+    "name": "高市総理大臣",
+    "bio": "日本の内閣総理大臣を務め、政権運営の指揮をとる政治家。"
+   },
+   {
+    "name": "吉村代表",
+    "bio": "日本維新の会の代表を務め、党の運営や政策決定を主導する政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "日本維新の会",
+    "type": "company",
+    "desc": "日本国内で活動する政党の一つであり、国政や地方自治において政策を提言する。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260916de50610",
+  "category": "world",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-takaichi-yoshimura-meeting.html"
+ },
+ {
+  "title": "三菱重工とPFN、資本業務提携契約を締結",
+  "lead": "三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。",
+  "summary3": [
+   "三菱重工とPFNが資本業務提携",
+   "両社による資本業務提携契約を締結",
+   "今後の連携と取り組みに注目"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする今回の企業ニュースです。三菱重工業と株式会社Preferred Networksは、資本業務提携契約を締結したことを明らかにしました。",
+   "今回の契約締結により、両社はどのような取り組みを進めていくのか、関係者の間でも関心が寄せられています。具体的な提携内容の詳細は今後の発表が待たれます。",
+   "株式市場および関連業界においても、両社の動向は重要なニュースとして注目されています。引き続き、最新の発表情報に注意深く見守っていく必要があります。"
+  ],
+  "tags": [
+   "三菱重工",
+   "PFN",
+   "資本業務提携"
+  ],
+  "slug": "mhi-and-pfn-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "三菱重工業",
+    "type": "company",
+    "desc": "日本の大手重工業メーカーであり、航空宇宙からプラントまで幅広く事業を展開する企業です。"
+   },
+   {
+    "name": "株式会社Preferred Networks",
+    "type": "company",
+    "desc": "ディープラーニングなどの先進技術を活用した研究開発や製品展開を行う日本のAI企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DNGtzb182TkFuMktGZEk1dTNKZERyMDdmanRwb2x4UWFxQzRYMmNzR2FRbi0wVXlFMm82ZnRjOEJsQWJWN0tndjgwT1RPVk5tYzdDUjJn?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-16",
+  "time": "17:07",
+  "path": "/articles/20260916-mhi-and-pfn-capital-business-alliance.html"
  }
 ]

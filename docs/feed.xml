@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ウェザーニューズ独自AI、社員の8割が使う理由</title>
+<link>https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html</guid>
+<pubDate>Wed, 16 Sep 2026 18:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。</description>
+</item>
+<item>
 <title>エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」</title>
 <link>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AEOスタートアップのProfoundが、前回の資金調達から7か月未満という異例のスピードで巨額の資金調達を実施し、ユニコーン企業の評価額に到達しました。</description>
-</item>
-<item>
-<title>OpenAI、Anthropic、GoogleがAI安全性めぐり数週間にわたり協議</title>
-<link>https://ai-tech-times.web.app/articles/20260916-openai-anthropic-google-ai-safety-talks.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-openai-anthropic-google-ai-safety-talks.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIがAnthropicおよびGoogle DeepMindとの間でAIの安全性に関する協議を数週間にわたり行っていたことが明らかになりました。</description>
 </item>
 </channel></rss>

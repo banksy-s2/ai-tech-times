@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 17:07 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 18:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ウェザーニューズ独自AI、社員の8割が使う理由](https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html) — 2026-09-16 18:00: 情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。
 - [エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」](https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html) — 2026-09-16 17:07: エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。
 - [Meta、AIエージェントでWhatsApp Business設定を自動化する理由](https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html) — 2026-09-16 17:07: Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。
 - [AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ](https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html) — 2026-09-16 17:07: AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。
@@ -41,14 +42,13 @@
 - [ボストン市がFlock契約解除、データが全国共有された理由](https://ai-tech-times.web.app/articles/20260916-boston-dumps-flock-contract-violation.html) — 2026-09-16 12:01: 米ボストン市は、自動ナンバープレート読み取りシステムを提供するFlock社との契約を解除しました。契約に違反してデータが全国規模で共有されていたことが理由です。
 - [YouTuber・SUSURUがラーメン店出店「北ノ醤油チーホー」話題沸騰のワケ](https://ai-tech-times.web.app/articles/20260916-susuru-ramen-kitano-shoyu-tiho.html) — 2026-09-16 12:01: 人気YouTuberのSUSURUが手がけたラーメン店「北ノ醤油チーホー」が、大きな話題を集めています。年間600杯を食すプロをも唸らせたその理由とは何なのでしょうか。
 - [国内の100歳以上が10万人突破、88%が女性](https://ai-tech-times.web.app/articles/20260916-japan-centenarians-exceed-100000.html) — 2026-09-16 12:01: BBC Worldの報道によると、日本の100歳以上の高齢者が初めて10万人を突破しました。人口減少と高齢化が続く中、その88%を女性が占めています。
-- [東洋経済が最新｢四季報｣配当利回りランキングTOP50を発表](https://ai-tech-times.web.app/articles/20260916-latest-shikiho-dividend-yield-ranking.html) — 2026-09-16 12:01: 東洋経済オンラインは、最新の「会社四季報」に基づく配当利回りランキングTOP50を発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer](https://www.youtube.com/watch?v=w0-H5lgpDO0)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1536語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1537語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
