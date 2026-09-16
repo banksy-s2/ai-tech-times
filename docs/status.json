@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-16 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-16 16:16",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "アスクル減収減益も計画通り、AI販促で再成長へ",
-   "path": "/articles/20260916-askul-fy2027-q1-results.html",
-   "cat": "日本企業"
+   "title": "NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う",
+   "path": "/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "米タイムズ紙調査：AIデータセンター建設に61%が反対する理由",
+   "path": "/articles/20260916-ai-data-center-unpopular-poll.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 107,
+  "used": 113,
   "limit": 200
  }
 }

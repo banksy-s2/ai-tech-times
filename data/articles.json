@@ -89477,5 +89477,86 @@
   "date": "2026-09-16",
   "time": "15:00",
   "path": "/articles/20260916-askul-fy2027-q1-results.html"
+ },
+ {
+  "title": "NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う",
+  "lead": "AI開発のペースを落とすべきだという意見が一部で上がる中、半導体大手のトップがトランプ氏に対してAI開発の減速を阻止する姿勢を示しました。",
+  "summary3": [
+   "NvidiaのCEOがトランプ氏と会談",
+   "AI開発の減速を阻止すると表明",
+   "一部の支持者の意見とは異なる姿勢"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、AI開発のペースを落とすべきだという声が一部の著名人から上がる中、NvidiaのCEOであるジェンセン・フアン氏がトランプ氏に対し、「私たちはAI開発の減速を絶対に起こさせない」と伝えたことが明らかになりました。",
+   "近年、AIの急速な発展に伴い、その開発速度を調整すべきだという議論が存在しています。例えば、イーロン・マスク氏やサム・アルトマン氏は、ダリオ・アモデイ氏が唱えたAI開発ペースの減速を求める声に支持を示していました。",
+   "しかし、AI向け半導体市場で中心的な役割を担う企業のトップであるジェンセン・フアン氏は、これとは異なる明確な姿勢を示した形となります。今後のAI開発の動向や政策にどのような影響を与えるのか、各界から注目が集まっています。"
+  ],
+  "tags": [
+   "Nvidia",
+   "AI開発",
+   "トランプ"
+  ],
+  "slug": "nvidia-ceo-jensen-huang-tells-trump-ai-slowdown",
+  "people": [
+   {
+    "name": "ジェンセン・フアン氏",
+    "bio": "AI向け半導体市場をリードするNvidiaの共同創業者兼最高経営責任者（CEO）。"
+   },
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "テスラやスペースXなどを率い、近年はAI開発企業xAIも設立した著名実業家。"
+   },
+   {
+    "name": "サム・アルトマン氏",
+    "bio": "対話型AI「ChatGPT」などを開発するOpenAIの最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、GPU（画像処理半導体）の開発で世界をリードする大手半導体企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "16:16",
+  "path": "/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html"
+ },
+ {
+  "title": "米タイムズ紙調査：AIデータセンター建設に61%が反対する理由",
+  "lead": "ニューヨーク・タイムズ紙などの世論調査により、AIとデータセンターに対する有権者の強い反対姿勢が明らかになりました。",
+  "summary3": [
+   "NYタイムズなどの世論調査が発表",
+   "AIとデータセンターに61%が反対",
+   "政治家も有権者の反応を強く意識"
+  ],
+  "body": [
+   "ニューヨーク・タイムズ紙とシエナ大学が火曜日に発表した世論調査データにより、AIとデータセンターが極めて不人気であることが確認されました。これはすでに政治家たちが対応を迫られている現実でもあります。",
+   "調査では、AI技術を稼働させるためのデータセンター建設を支持するか反対するかについて、有権者1503人を対象に質問が行われました。",
+   "その結果、全体の61パーセントの人がデータセンターの建設に反対していることが判明しました。世論の反発が強まる中、政治家たちの今後の動きにも注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "世論調査"
+  ],
+  "slug": "ai-data-center-unpopular-poll",
+  "people": [],
+  "terms": [
+   {
+    "name": "ニューヨーク・タイムズ",
+    "type": "company",
+    "desc": "アメリカ合衆国で発行される世界的な影響力を持つ日刊新聞紙であり、その報道は国内外で広く読まれています。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+  "category": "ai",
+  "date": "2026-09-16",
+  "time": "16:16",
+  "path": "/articles/20260916-ai-data-center-unpopular-poll.html"
  }
 ]

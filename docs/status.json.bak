@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-16 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-16 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "メルカリ株が大幅安、ポケモン記念カード出品禁止へ",
-   "path": "/articles/20260916-mercari-stock-drop-pokemon-card-ban.html",
-   "cat": "株式投資(日本)"
+   "title": "アスクル減収減益も計画通り、AI販促で再成長へ",
+   "path": "/articles/20260916-askul-fy2027-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 103,
+  "used": 107,
   "limit": 200
  }
 }
