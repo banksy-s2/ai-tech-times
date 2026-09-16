@@ -89852,5 +89852,39 @@
   "date": "2026-09-16",
   "time": "18:00",
   "path": "/articles/20260916-weathernews-original-ai.html"
+ },
+ {
+  "title": "米データセンター、独日並みの天然ガス消費へ",
+  "lead": "AIブームの加熱に伴い、米国のデータセンターが世界最大級の天然ガス消費国となる可能性が浮上しました。",
+  "summary3": [
+   "米データセンターのガス消費が急増",
+   "ドイツと日本の合計を上回る予測",
+   "AIブームのエネルギー需要が背景"
+  ],
+  "body": [
+   "テック分野のニュースメディア「TechCrunch」の報道によると、AIブームの過熱が米国のデータセンターにおけるエネルギー消費を劇的に押し上げていることが明らかになりました。",
+   "人工知能の開発や運用には膨大な計算資源が必要とされており、それに伴う電力需要の急増が大きな課題となっています。このまま推移すれば、米国のデータセンターが消費する天然ガスの量は、ドイツと日本を合わせた総消費量を超える可能性があります。",
+   "世界的なAIブームがインフラやエネルギー市場にどのような影響を与えるのか、今後の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "エネルギー"
+  ],
+  "slug": "us-data-centers-natural-gas-consumption",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー分野のニュースおよびメディア企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+  "category": "silicon",
+  "date": "2026-09-16",
+  "time": "19:01",
+  "path": "/articles/20260916-us-data-centers-natural-gas-consumption.html"
  }
 ]

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015190421000",
   "https://news.web.nhk/newsweb/na/na-k10015190431000",
   "https://news.web.nhk/newsweb/na/na-k10015190381000",
   "https://news.web.nhk/newsweb/na/na-k10015190491000",
@@ -1999,11 +1998,10 @@
   "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
   "https://news.web.nhk/newsweb/na/nd-20260916de50462",
   "https://news.web.nhk/newsweb/na/nd-20260916de50610",
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DNGtzb182TkFuMktGZEk1dTNKZERyMDdmanRwb2x4UWFxQzRYMmNzR2FRbi0wVXlFMm82ZnRjOEJsQWJWN0tndjgwT1RPVk5tYzdDUjJn?oc=5"
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DNGtzb182TkFuMktGZEk1dTNKZERyMDdmanRwb2x4UWFxQzRYMmNzR2FRbi0wVXlFMm82ZnRjOEJsQWJWN0tndjgwT1RPVk5tYzdDUjJn?oc=5",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html"
  ],
  "titles": [
-  "古い「Android」端末を「Raspberry Pi」の代わりにする方法",
-  "US battery startups have found a lifeline in defense",
   "Lawsuit demands Logitech hand tariff refunds over to customers",
   "カナダがアメリカへの対抗関税を9月8日に発動へ",
   "日経平均下落の裏でTOPIXは最高値を更新…NT倍率「16倍」が意味するもの - ニューズウィーク日本版",
@@ -4001,6 +3999,8 @@
   "Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性",
   "アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは",
   "高市首相、維新の吉村代表と会談し閣内協力を要請",
-  "三菱重工とPFN、資本業務提携契約を締結"
+  "三菱重工とPFN、資本業務提携契約を締結",
+  "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決　社員8割が使うその中身とは",
+  "ウェザーニューズ独自AI、社員の8割が使う理由"
  ]
 }

@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-16 18:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-16 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ウェザーニューズ独自AI、社員の8割が使う理由",
-   "path": "/articles/20260916-weathernews-original-ai.html",
-   "cat": "日本のAI"
+   "title": "米データセンター、独日並みの天然ガス消費へ",
+   "path": "/articles/20260916-us-data-centers-natural-gas-consumption.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -13,11 +13,11 @@
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
  "notes": [
-  "執筆失敗: マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連"
+  "執筆失敗: Grab aims for 'next level' in financial "
  ],
  "pv_today": 1,
  "gemini": {
-  "used": 143,
+  "used": 149,
   "limit": 200
  }
 }

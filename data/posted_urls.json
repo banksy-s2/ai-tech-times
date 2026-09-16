@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015190431000",
   "https://news.web.nhk/newsweb/na/na-k10015190381000",
   "https://news.web.nhk/newsweb/na/na-k10015190491000",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fdmpmTzExNWxDbnJ5RkYxVDdTczBackxhdTBRQm9NckRtWU1UZXB0YkZnbDRyWlNacVFRd2RQYnNTNnhHejI1VXE0eUhhVmNkSFdMZXU2Y096VEhNZ0Vr?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260916de50462",
   "https://news.web.nhk/newsweb/na/nd-20260916de50610",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DNGtzb182TkFuMktGZEk1dTNKZERyMDdmanRwb2x4UWFxQzRYMmNzR2FRbi0wVXlFMm82ZnRjOEJsQWJWN0tndjgwT1RPVk5tYzdDUjJn?oc=5",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html"
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
+  "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
  ],
  "titles": [
-  "Lawsuit demands Logitech hand tariff refunds over to customers",
-  "カナダがアメリカへの対抗関税を9月8日に発動へ",
   "日経平均下落の裏でTOPIXは最高値を更新…NT倍率「16倍」が意味するもの - ニューズウィーク日本版",
   "Matti HaapojaらがAI案件で炎上、なぜ動画制作者は批判されるのか",
   "ChatGPT、Codex利用2000万人突破記念でリセット権配布",
@@ -4001,6 +3999,8 @@
   "高市首相、維新の吉村代表と会談し閣内協力を要請",
   "三菱重工とPFN、資本業務提携契約を締結",
   "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決　社員8割が使うその中身とは",
-  "ウェザーニューズ独自AI、社員の8割が使う理由"
+  "ウェザーニューズ独自AI、社員の8割が使う理由",
+  "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+  "米データセンター、独日並みの天然ガス消費へ"
  ]
 }
