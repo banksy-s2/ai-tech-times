@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>インドUPI、10月から0.4%の手数料導入へ</title>
+<link>https://ai-tech-times.web.app/articles/20260916-india-upi-merchant-fee-october.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-india-upi-merchant-fee-october.html</guid>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>インドは、広く普及しているデジタル決済ネットワーク「UPI」において、10月15日より特定の大口決済に対して0.4%の加盟店手数料を課すことを決定しました。</description>
+</item>
+<item>
+<title>SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も</title>
+<link>https://ai-tech-times.web.app/articles/20260916-spacex-starship-orbit-september-22.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260916-spacex-starship-orbit-september-22.html</guid>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>SpaceXは、9月22日に次世代宇宙船Starshipを初めて軌道に投入する挑戦を実施すると発表しました。同時に初のV3 Starlink衛星の配備も試みます。</description>
+</item>
+<item>
 <title>富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方</title>
 <link>https://ai-tech-times.web.app/articles/20260916-fujitsu-monaka-cpu-ai-business.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260916-fujitsu-monaka-cpu-ai-business.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 15 Sep 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>GMOインターネットグループのGMO天秤AIが、東京大学のメールアドレスを持つ学生を対象にAIの無料提供を開始しました。</description>
-</item>
-<item>
-<title>AnthropicとOpenAIがAI安全規制を求める理由</title>
-<link>https://ai-tech-times.web.app/articles/20260915-anthropic-openai-safety-rules-trump.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260915-anthropic-openai-safety-rules-trump.html</guid>
-<pubDate>Tue, 15 Sep 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AIの制御不能への懸念が高まる中、主要なAI企業が安全チェックの義務化を求めています。しかし、トランプ氏の規制反対姿勢がその動きに影を落としています。</description>
-</item>
-<item>
-<title>アンソロピックCEOが警鐘、AI株下落でサイバー関連は高騰</title>
-<link>https://ai-tech-times.web.app/articles/20260915-ai-stocks-sink-cybersecurity-rally.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260915-ai-stocks-sink-cybersecurity-rally.html</guid>
-<pubDate>Tue, 15 Sep 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AIのリスクに対する懸念が高まる中、アンソロピックのダリオ・アモデイCEOがAIモデルの能力向上ペースを落とすべきだと主張しました。</description>
 </item>
 </channel></rss>

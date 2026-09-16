@@ -88920,5 +88920,78 @@
   "date": "2026-09-16",
   "time": "09:00",
   "path": "/articles/20260916-sharp-starts-ai-server-orders.html"
+ },
+ {
+  "title": "インドUPI、10月から0.4%の手数料導入へ",
+  "lead": "インドは、広く普及しているデジタル決済ネットワーク「UPI」において、10月15日より特定の大口決済に対して0.4%の加盟店手数料を課すことを決定しました。",
+  "summary3": [
+   "インドがUPI決済に手数料導入",
+   "10月15日から0.4%を適用",
+   "特定の大口決済が対象となる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、インドは国内で広く普及しているデジタル決済ネットワーク「UPI」に関して、大きな方針転換を行います。これまで無料で利用できることで広く浸透してきた同ネットワークですが、特定の手続きや支払いに対して新たな負担が発生することになります。",
+   "テックメディアのTechCrunchが報じたところによると、インド政府および関連機関は、10月15日から特定の大口決済に対して0.4%の加盟店手数料を課すことを決定しました。これにより、完全無料の恩恵を受けてきた大規模な取引においては、新たなコストが発生する仕組みへと移行します。",
+   "今回の変更は、広く国民や企業に利用されている決済基盤の持続可能性や運用面を考慮した措置とみられます。10月15日の導入開始に向け、対象となる取引を行う事業者などは、手数料の発生に伴う対応が求められることになりそうです。"
+  ],
+  "tags": [
+   "UPI",
+   "インド",
+   "デジタル決済"
+  ],
+  "slug": "india-upi-merchant-fee-october",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、IT業界やスタートアップ企業の最新ニュースを中心に報じる世界的なテクノロジーメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+  "category": "silicon",
+  "date": "2026-09-16",
+  "time": "10:00",
+  "path": "/articles/20260916-india-upi-merchant-fee-october.html"
+ },
+ {
+  "title": "SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も",
+  "lead": "SpaceXは、9月22日に次世代宇宙船Starshipを初めて軌道に投入する挑戦を実施すると発表しました。同時に初のV3 Starlink衛星の配備も試みます。",
+  "summary3": [
+   "SpaceXが9月22日に初挑戦へ",
+   "Starshipの軌道投入を計画",
+   "初のV3 Starlink衛星も展開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道から得た情報によると、イーロン・マスク氏が率いる宇宙企業SpaceXは、2026年9月22日に「Starship（スターシップ）」を初めて軌道に乗せるための打ち上げを実施する予定です。",
+   "今回のミッションでは、単に宇宙船を軌道へ投入するだけでなく、同社の軌道上インターネットコンステレーションに向けて、初となる「V3 Starlink（スターリンク）」衛星の展開も合わせて試みることになっています。",
+   "長年開発が進められてきた大型宇宙船Starshipが、いよいよ実際の軌道投入という大きなマイルストーンに挑むことになり、今後の宇宙開発および衛星通信ビジネスの展開に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "SpaceX",
+   "Starship",
+   "Starlink"
+  ],
+  "slug": "spacex-starship-orbit-september-22",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "SpaceXの創業者兼CEOであり、テスラなどの企業でも知られる実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "SpaceX",
+    "type": "company",
+    "desc": "アメリカの合衆国にある民間宇宙企業で、ロケットの開発や宇宙輸送を行っている。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+  "category": "silicon",
+  "date": "2026-09-16",
+  "time": "10:00",
+  "path": "/articles/20260916-spacex-starship-orbit-september-22.html"
  }
 ]

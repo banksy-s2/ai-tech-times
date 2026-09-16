@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015190151000",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42bWhWdFBfbzJoR1lrb2lKWDZqODVZUW9UWEV5bDVfSEItNUo2Q1A1U2dWUWpVa185Tkd6U0ZwME83R2hrLVJOODV5SWhqMFhjZk10WU5VSGUxbnAxUU5N?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015190131000",
   "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
   "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000273/",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
   "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
-  "https://corporate.jp.sharp/news/260915-a.html"
+  "https://corporate.jp.sharp/news/260915-a.html",
+  "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+  "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
  ],
  "titles": [
-  "The DOJ is investigating a16z. What does this mean for venture capital?",
-  "GPT 5.6 Sol 20% price reduction",
-  "米司法省がa16zを調査、ベンチャーキャピタルへの影響は",
-  "OpenAI、GPT-5.6 Solを20%値下げの理由",
   "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」　note記事作成の“苦労”明かす",
   "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
   "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」",
@@ -4001,6 +3997,10 @@
   "富士通、国産CPU「モナカ」販売　スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
   "国内向けにAIサーバーの受注を開始",
   "富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方",
-  "シャープ、国内向けAIサーバーの受注を開始した理由"
+  "シャープ、国内向けAIサーバーの受注を開始した理由",
+  "India ends free ride for larger transactions on its ubiquitous digital payments network",
+  "SpaceX will try to put Starship in orbit for the first time on September 22",
+  "インドUPI、10月から0.4%の手数料導入へ",
+  "SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も"
  ]
 }
