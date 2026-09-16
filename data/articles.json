@@ -89410,5 +89410,38 @@
   "date": "2026-09-16",
   "time": "13:00",
   "path": "/articles/20260916-takaichi-ldp-executive-appointment.html"
+ },
+ {
+  "title": "メルカリ株が大幅安、ポケモン記念カード出品禁止へ",
+  "lead": "日本経済新聞の報道によると、メルカリの株価が大幅安となりました。背景にはポケモン記念カードの出品禁止措置があります。",
+  "summary3": [
+   "メルカリの株価が大幅安を記録",
+   "ポケモン記念カードの出品を禁止",
+   "日本経済新聞が報じたもの"
+  ],
+  "body": [
+   "日本経済新聞の報道によれば、メルカリの株価が大幅安となりました。市場において関心を集める展開となっています。",
+   "今回の株価下落の背景には、ポケモン記念カードの出品禁止措置に関する発表があります。同プラットフォームにおける今後の対応が注目されます。"
+  ],
+  "tags": [
+   "メルカリ",
+   "株価",
+   "ポケモン"
+  ],
+  "slug": "mercari-stock-drop-pokemon-card-ban",
+  "people": [],
+  "terms": [
+   {
+    "name": "メルカリ",
+    "type": "company",
+    "desc": "日本国内で最大手とされるフリマアプリを運営する東京都の企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtLVJTTC1rQlR6eml0VEgybkoxdE12eXF5ZTBXMjBqX1FGWHA2OU55RXphT2dmb0RWYkcxNmw1VnhWVmc3b18wTUtLQ0Z4cXFCN2Zvc2s1OTV0U3FNQWJFUUlXVXRwWW9MVThfcg?oc=5",
+  "category": "stock",
+  "date": "2026-09-16",
+  "time": "14:00",
+  "path": "/articles/20260916-mercari-stock-drop-pokemon-card-ban.html"
  }
 ]
