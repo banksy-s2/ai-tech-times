@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 11:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [マックルモアがエド・シーランのツアーから外された理由](https://ai-tech-times.web.app/articles/20260916-macklemore-removed-from-ed-sheeran-tour.html) — 2026-09-16 11:01: ラッパーのマックルモアが、エド・シーランのスタジアムツアーの残りの日程から外されたことが明らかになりました。複数の会場がプロモーターに出演を認めないと伝えたためです。
 - [インドUPI、10月から0.4%の手数料導入へ](https://ai-tech-times.web.app/articles/20260916-india-upi-merchant-fee-october.html) — 2026-09-16 10:00: インドは、広く普及しているデジタル決済ネットワーク「UPI」において、10月15日より特定の大口決済に対して0.4%の加盟店手数料を課すことを決定しました。
 - [SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も](https://ai-tech-times.web.app/articles/20260916-spacex-starship-orbit-september-22.html) — 2026-09-16 10:00: SpaceXは、9月22日に次世代宇宙船Starshipを初めて軌道に投入する挑戦を実施すると発表しました。同時に初のV3 Starlink衛星の配備も試みます。
 - [富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方](https://ai-tech-times.web.app/articles/20260916-fujitsu-monaka-cpu-ai-business.html) — 2026-09-16 09:00: 富士通が国産CPU「モナカ」の販売を開始しました。同社の技術を結集した小さなチップに託された、AI市場での大規模ビジネスの行方に注目が集まっています。
@@ -41,14 +42,13 @@
 - [GO、Waymo、日本交通が2027年中に国内初の完全無人タクシー運行を目指す](https://ai-tech-times.web.app/articles/20260916-go-waymo-nihon-kotsu-driverless-taxi-2027.html) — 2026-09-16 03:00: GO、Waymo、日本交通の3社が、2027年中に国内初となる完全無人タクシーの運行を目指すことが明らかになりました。
 - [DoorDash、Wonderと4億2500万ドルの提携を結んだ理由](https://ai-tech-times.web.app/articles/20260916-wonder-doordash-partnership.html) — 2026-09-16 02:00: EC起業家として知られるマーク・ロア氏が創業したWonderは、レストランやデリバリー企業の巨大なポートフォリオ構築を進めています。このたび、DoorDashとの間で4億2500万ドルの大型提携を締結しました。
 - [トランプ氏がNvidia黄氏に電話、データセンター反対論を否定](https://ai-tech-times.web.app/articles/20260916-trump-nvidia-huang-all-in-summit.html) — 2026-09-16 02:00: トランプ大統領がエヌビディアのジェンスン・フアン氏に電話をかけ、AI業界のデータセンター建設に対する反対意見を「でっち上げ」と批判したことが明らかになりました。
-- [Google、Windows版Gemini公開でブラウザを開く手間をどう解消するのか](https://ai-tech-times.web.app/articles/20260916-google-releases-windows-gemini-app.html) — 2026-09-16 01:00: Googleは、AIアシスタント「Gemini」をWindowsのデスクトップから呼び出せるネイティブアプリの提供を開始しました。作業画面から直接起動できるようになり、業務効率化に直結するアップデートとなっています。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Primetime | Official Trailer 2 HD | A24](https://www.youtube.com/watch?v=C0NZa01qTRU)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1521語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1523語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

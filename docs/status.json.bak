@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-16 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-16 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "富士通、国産CPU「モナカ」販売で狙う3兆円ビジネスの行方",
-   "path": "/articles/20260916-fujitsu-monaka-cpu-ai-business.html",
-   "cat": "日本のAI"
+   "title": "インドUPI、10月から0.4%の手数料導入へ",
+   "path": "/articles/20260916-india-upi-merchant-fee-october.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "シャープ、国内向けAIサーバーの受注を開始した理由",
-   "path": "/articles/20260916-sharp-starts-ai-server-orders.html",
-   "cat": "日本のAI"
+   "title": "SpaceX、9月22日にStarship初軌道投入へ。V3 Starlinkの展開も",
+   "path": "/articles/20260916-spacex-starship-orbit-september-22.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 63,
+  "used": 67,
   "limit": 200
  }
 }
