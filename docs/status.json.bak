@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-16 20:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-16 22:43",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末",
-   "path": "/articles/20260916-yamatorino-cocaine-arrest.html",
-   "cat": "インフルエンサー"
+   "title": "ニューヨーク原油106ドル台、中東情勢で高騰の理由",
+   "path": "/articles/20260916-ny-crude-oil-price-surges-106-dollars.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "北朝鮮政府に50億円余りの賠償命令、韓国裁判所",
+   "path": "/articles/20260916-korea-court-orders-compensation-from-north-korea.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 153,
+  "used": 186,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 21:02 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-16 23:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,9 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [東洋経済『会社四季報』秋号発売、市場の注目テーマを解説](https://ai-tech-times.web.app/articles/20260916-shikiho-autumn-2026-release.html) — 2026-09-16 23:00: 『会社四季報2026年4集 秋号』が9月16日に発売されました。全上場3802社の四季報を読破して見えた市場の注目テーマや最新のキーワードを、『会社四季報』の島大輔編集長が解説します。
+- [ニューヨーク原油106ドル台、中東情勢で高騰の理由](https://ai-tech-times.web.app/articles/20260916-ny-crude-oil-price-surges-106-dollars.html) — 2026-09-16 22:43: 15日のニューヨーク原油市場で、WTIの先物価格が1バレル＝106ドル台まで上昇しました。およそ4か月ぶりの高値水準となっていますが、その背景には何があるのでしょうか。
+- [北朝鮮政府に50億円余りの賠償命令、韓国裁判所](https://ai-tech-times.web.app/articles/20260916-korea-court-orders-compensation-from-north-korea.html) — 2026-09-16 22:43: 北朝鮮が2020年に南北の共同連絡事務所を爆破したことをめぐり、韓国の裁判所は北朝鮮政府に対し、日本円で50億円余りの賠償金を支払うよう命じました。
 - [AppleやOpenAIのAIはなぜ失敗したのか](https://ai-tech-times.web.app/articles/20260916-apple-openai-ai-projects-graveyard.html) — 2026-09-16 21:02: AppleやOpenAIなど、大手企業のAIプロジェクトが直面した頓挫や期待外れの実態を振り返ります。
 - [Meta、月額949円の新サブスク導入でAI枠はどこまで拡大するのか](https://ai-tech-times.web.app/articles/20260916-meta-one-subscription-launched.html) — 2026-09-16 21:02: Metaは、InstagramやFacebookなどを横断する新サブスク「Meta One」の提供を開始しました。日本でも展開され、バンドルプランは月額949円からとなっています。
 - [北海道、データセンター事業者に脱炭素や地域共生を要請](https://ai-tech-times.web.app/articles/20260916-hokkaido-data-center-policy.html) — 2026-09-16 21:02: 北海道は、データセンターの立地推進に伴う懸念に対応するため、事業者向けの方針を公開しました。脱炭素技術の採用や地域との共生を求めています。
@@ -39,16 +42,13 @@
 - [AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ](https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html) — 2026-09-16 17:07: AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。
 - [Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性](https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html) — 2026-09-16 17:07: 海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。
 - [アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは](https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html) — 2026-09-16 17:07: 15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。
-- [高市首相、維新の吉村代表と会談し閣内協力を要請](https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html) — 2026-09-16 17:07: 17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。
-- [三菱重工とPFN、資本業務提携契約を締結](https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html) — 2026-09-16 17:07: 三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。
-- [NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う](https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html) — 2026-09-16 16:16: AI開発のペースを落とすべきだという意見が一部で上がる中、半導体大手のトップがトランプ氏に対してAI開発の減速を阻止する姿勢を示しました。
 
 ## 世界のバズ動画TOP3 (2026-09-16)
 - 1位: [Falling In Reverse - "Joseph"](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer](https://www.youtube.com/watch?v=w0-H5lgpDO0)
 - 3位: [Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar](https://www.youtube.com/watch?v=yWNPxS0sXnE)
 
-## AI用語事典 (全1538語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1539語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
@@ -77,8 +77,8 @@
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
+- [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
 - [Samsungとは](https://ai-tech-times.web.app/term/samsung.html): 韓国を代表する総合家電・半導体メーカーであり、世界トップクラスのメモリチップシェアを誇る巨大テクノロジー企業です。
-- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
