@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
-  "https://news.google.com/rss/articles/CBMizgRBVV95cUxPTDByd2NaOTVzWE0yMDRuYldzMDNwN3YtY0NUZUpHM2FEdXpMdEJIS29XTjdyZ0JqbXdoNlAtMjAxX0NjWUtVVlZscjdickJDeGJoMldTSmllSEpSdkoxQzM0NmViaGlKd2t0aUU5bDdWWG1rc0dGYnh0TjBDVjBDNGxfYW5VSDh2d043VFdXRFUwNXdwZlZqbUNOVllDZ0VWV25BNEpxOVJESWRPTnZCbmRybTBfdHdITHAtY1Y4UGdPVUUxWk9seHA0dmV6RUpodmliOVRxa1BKejNvdHJ0ZFBZejlZV2FTSFJwSXRuWEs3SHEyVXN5WWl1YmV1TDg4SldLQlpCZVU2V3pxVmpVakRLdHBsQkF1QTNwRDJ6a0ZPZUwzLTBMbzdoVE9SbDQxSkVTUHhudi1nZVpUbENvazhaMEtqdlBzYzVRUm8tT1p2bl9ZVHN1NE5vMmZLSXRNcWpfa0ZlWUVtTXRIMTNqUjVHaFk0NHQwQ1d6T0tKZ2VjdWJNY085WEg2RGQ0OTIzWjJqU1NqM0dhWTJVQTMwOHVFOHJCRnJnbTR5Z1VHX3dfVldVNlctWU44Z2p1aS03di1qR1FmMFNJQWRZN2U2OWlFWnVrbDNfb0dTTUg0RDlQdVlqN0p6Q3dnVjF3MFZQU1dPbjNUaTJBNjJjTUJHMGxHQnVWZThTMkgxUW9GVC1QOUZrOW9NVUs5QXVvVWVicEx0WG1FZ0xtZUdPNWtlSEVPWVkweWxwVFVDOGVYaWlfNC14MUFqeERxZS1Ldw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015190851000",
   "https://news.web.nhk/newsweb/na/na-k10015191081000",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45TlhkZVNiYWVSQXNnZlFnUFBXdW1RUkN0WUROVFo4TVZFRHJwdEFKNXpTVFhNR0tjaHhnVjUxYWxvY2xwYmdvX09DU21JTWJGNHJ2Zzlpdw?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260916de50687",
   "https://news.web.nhk/newsweb/na/nd-20260916de50638",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTDFZeEFLN19idXptUlU0YW9CNXFORTFSQ1E1MmhLTlltVDNjVGM0aGtidDRyY25hVjcteHJpbXpnTGVpMHdlZ0EzVTdKb3hFeGxWMEFkWkVKdFJPUVpDZWJQVjBrb3doZ2VMWg?oc=5",
-  "https://news.web.nhk/newsweb/na/nd-20260917de50837"
+  "https://news.web.nhk/newsweb/na/nd-20260917de50837",
+  "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/",
+  "https://togetter.com/li/2746597"
  ],
  "titles": [
-  "大分で40度予想、西・東日本で猛烈な暑さ",
-  "ウクライナ前国防相、政府汚職と戦時中選挙の実施を言及",
-  "人月で稼ぐSIerは、あと数年で詰む",
-  "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
   "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
   "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
   "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
@@ -4001,6 +3997,10 @@
   "米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは",
   "エヌビディアCEO「AI開発に新たな規制必要ない」",
   "ミンカブ株価がストップ高気配、ライブドア買収報道で",
-  "サンマルクHD、つるとんたん事業を120億円で譲り受け"
+  "サンマルクHD、つるとんたん事業を120億円で譲り受け",
+  "ローカルLLM利用のクリニックが話題　院長自ら環境を構築　「医療機器より安い」は本当か",
+  "「新しいフェーズに入った印象ある」レベルファイブの新作PVにAIが使われていて話題→使ったかどうかだけでなく、最終的なクオリティーが重要なのかも",
+  "ITmedia AI+取材：ローカルLLM活用クリニックの真実",
+  "レベルファイブ新作PVのAI使用で日野晃博氏が説明"
  ]
 }

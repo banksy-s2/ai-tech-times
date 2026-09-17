@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>ITmedia AI+取材：ローカルLLM活用クリニックの真実</title>
+<link>https://ai-tech-times.web.app/articles/20260917-local-llm-clinic-itmedia.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-local-llm-clinic-itmedia.html</guid>
+<pubDate>Thu, 17 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>ローカルLLMを利用しているクリニックが話題となっています。院長自ら環境を構築したその実態について、ITmedia AI+が関係者に話を聞きました。</description>
+</item>
+<item>
+<title>レベルファイブ新作PVのAI使用で日野晃博氏が説明</title>
+<link>https://ai-tech-times.web.app/articles/20260917-level-five-ai-pv-update.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-level-five-ai-pv-update.html</guid>
+<pubDate>Thu, 17 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>「LEVEL５VISION2026Ⅱ」のイベント内映像でAIが使用された件について、日野晃博氏が説明を行い話題となっています。</description>
+</item>
+<item>
 <title>AnthropicとOpenAI、AI安全性評価機関の設置へ</title>
 <link>https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 16 Sep 2026 20:00:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>インフルエンサーとして知られるヤマトリノがコカイン所持で現行犯逮捕されました。自宅からは白色の粉末21袋が押収されています。</description>
-</item>
-<item>
-<title>米データセンター、独日並みの天然ガス消費へ</title>
-<link>https://ai-tech-times.web.app/articles/20260916-us-data-centers-natural-gas-consumption.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-us-data-centers-natural-gas-consumption.html</guid>
-<pubDate>Wed, 16 Sep 2026 19:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AIブームの加熱に伴い、米国のデータセンターが世界最大級の天然ガス消費国となる可能性が浮上しました。</description>
-</item>
-<item>
-<title>ウェザーニューズ独自AI、社員の8割が使う理由</title>
-<link>https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html</guid>
-<pubDate>Wed, 16 Sep 2026 18:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。</description>
 </item>
 </channel></rss>

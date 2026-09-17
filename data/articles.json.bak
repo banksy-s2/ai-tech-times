@@ -90517,5 +90517,384 @@
   "date": "2026-09-17",
   "time": "16:01",
   "path": "/articles/20260917-google-home-mcp-server-ai.html"
+ },
+ {
+  "title": "AnthropicとOpenAI、AI安全性評価機関の設置へ",
+  "lead": "AnthropicとOpenAIが、自社AI研究所の内部に独立した安全性評価者を配置する方針を示しました。研究者はアクセス拡大を歓迎しつつも、実効性には懸念を示しています。",
+  "summary3": [
+   "AI研究所に安全評価者を配置へ",
+   "研究者はアクセスを歓迎",
+   "透明性と規制の必要性を指摘"
+  ],
+  "body": [
+   "AnthropicとOpenAIは、それぞれのAI研究所の内部に独立した安全性評価者を埋め込む方針を明らかにしました。これまで外部からの検証が難しかった最先端のAI開発現場において、内部から安全性を評価する仕組みの構築を目指すものです。",
+   "この動きに対し、多くの研究者は前例のないアクセス権が得られるとして歓迎の意を示しています。しかし同時に、真の意味で意味のある監視や監督を行うためには、単なる内部配置にとどまらず、高い透明性と真の独立性、そして将来的には法的な規制が不可欠であると警告を発しています。",
+   "AIの開発競争が激化する中で、安全性と倫理をどのように担保するのかは喫緊の課題となっています。今回の取り組みが形骸化せず、実効性を持つ独立した評価機能として機能するのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "AI安全性"
+  ],
+  "slug": "anthropic-openai-safety-evaluators",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能企業で、安全性に配慮した対話型AI「Claude」などを開発・提供していることで知られています。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究企業で、汎用人工知能の開発を目指し「ChatGPT」などの先進的なAIモデルを生み出しています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-anthropic-openai-safety-evaluators.html"
+ },
+ {
+  "title": "ClaudeがGoogleに対抗、新文書・資料作成ツールを発表",
+  "lead": "Anthropicが提供するAIアシスタント「Claude」に、文書作成とプレゼンテーション機能が新たに追加されました。チャット機能の統合も発表され、作業効率が大きく変わる可能性があります。",
+  "summary3": [
+   "Claudeに新しいDocsとSlides機能が登場",
+   "チャット機能が統合され「one Claude」へ",
+   "作成した文書や資料は共有・編集が可能に"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、AnthropicのAIアシスタント「Claude」に、新たに「Docs」と「Slides」という2つのツールが追加されることが分かりました。これにより、ユーザーはClaudeとのチャットを通じて文書やプレゼンテーションを作成できるようになります。",
+   "作成したドキュメントや資料は、エクスポートや編集を行えるだけでなく、他のユーザーと共有することも可能です。日常のビジネスや創作活動における資料作成の手間を大幅に軽減することが期待されています。",
+   "さらに今回の発表に合わせて、AnthropicはClaudeのチャット機能の仕組みを簡素化しました。これまで分かれていた通常のチャットとCoworkを統合し、すべての機能が「one Claude」として利用できるようになります。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AIツール"
+  ],
+  "slug": "claude-gets-docs-and-slides",
+  "people": [],
+  "terms": [
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "米国のAnthropicが開発した、自然な対話や高度な文章生成を得意とする高性能なAIアシスタント製品。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国のAI開発企業で、安全性と信頼性を重視した大規模言語モデルの研究開発を行っている。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-claude-gets-docs-and-slides.html"
+ },
+ {
+  "title": "オープンAIなどの元開発者が警鐘、AIの危険性をめぐり議論が加速",
+  "lead": "大手AI開発企業の元研究者が投稿した「AIが2020年代末までに私たちを皆殺しにしかねない」という言葉が世界中のSNSで拡散し、AIの危険性をめぐる議論が各国で加速しています。",
+  "summary3": [
+   "元開発者がAIの危険性に警鐘",
+   "SNSでの投稿が世界中で拡散",
+   "文学賞席巻や前例なき裁判も"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、今月、世界中のSNSに衝撃的な投稿が拡散しました。Xより「AIが2020年代末までに私たちを皆殺しにしかねない」と、大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。",
+   "実は今、AIの危険性をめぐる議論が各国で加速しています。ことしに入り、オープンAIやアンソロピックなどの大手企業が関わる動向が注目を集めています。",
+   "さらに、AI著作物をめぐる前例なき裁判や、文学賞をAI関連のものが席巻するなど、AI技術の急激な発展は社会に対して深刻な問いを突きつけています。"
+  ],
+  "tags": [
+   "人工知能",
+   "AI開発",
+   "裁判"
+  ],
+  "slug": "ai-safety-warning-and-debate",
+  "people": [],
+  "terms": [
+   {
+    "name": "オープンAI",
+    "type": "company",
+    "desc": "対話型AI「ChatGPT」などを開発し、世界の生成AIブームをリードするアメリカのAI開発企業です。"
+   },
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "安全性に配慮したAIモデルの開発を目指し、元オープンAIの研究者らによって設立されたアメリカのAI企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7",
+  "category": "ai_jp",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-ai-safety-warning-and-debate.html"
+ },
+ {
+  "title": "千代田区、生成AIで年間4000時間を削減できたワケとは",
+  "lead": "千代田区が生成AIの全庁展開により、年間で4000時間の業務削減を実現したことが明らかになりました。自治体における活用の現状を同区の担当者が語っています。",
+  "summary3": [
+   "千代田区が生成AIを全庁展開",
+   "年間4000時間の業務削減を達成",
+   "自治体における活用の現状が判明"
+  ],
+  "body": [
+   "千代田区は生成AIの全庁展開に着手し、年間で4000時間の業務削減を実現するという大きな成果をあげていることが分かりました。",
+   "今回の取り組みについて、同区のデジタル政策課 デジタル政策係長である岡本翼氏が、自治体における生成AI活用の現状と今後について語っています。",
+   "生成AIの活用による業務効率化が進む中、千代田区の次の一歩として「打倒・美しい紙の資料」を掲げており、そのワケに注目が集まっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "千代田区",
+   "行政DX"
+  ],
+  "slug": "chiyoda-generative-ai-4000-hours",
+  "people": [
+   {
+    "name": "岡本翼氏",
+    "bio": "千代田区のデジタル政策課 デジタル政策係長として、自治体における生成AI活用の現状や今後について語った人物。"
+   }
+  ],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/17/news035.html",
+  "category": "ai_jp",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-chiyoda-generative-ai-4000-hours.html"
+ },
+ {
+  "title": "OpenAI、来年の大型IPOへ向け投資家と協議",
+  "lead": "人工知能開発の最前線を走るOpenAIを巡り、来年の大型IPO（新規株式公開）に向けた動きが活発化しています。",
+  "summary3": [
+   "OpenAIに来年のIPOに向け投資家が接近",
+   "6月に目論見書を非公開で提出していた",
+   "新たな資金調達ラウンドについての協議"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、対話型AIなどを手がけるOpenAIに対して、新たな資金調達ラウンドについての打診を投資家が行っていることが明らかになりました。",
+   "同社はすでに今年6月、株式公開に向けた目論見書を非公開で提出しており、来年には大々的なIPO（新規株式公開）が実施されるとの見方が広く広がっています。",
+   "今回の投資家による接近は、来年の株式上場を控えた同社の動向が、テクノロジー業界や投資市場においていかに注目を集めているかを示しています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "IPO",
+   "資金調達"
+  ],
+  "slug": "openai-investors-approached-funding-round",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とし、高度な人工知能や対話型AIの開発を手がける最先端のAI企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+  "category": "silicon",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-openai-investors-approached-funding-round.html"
+ },
+ {
+  "title": "Amazon、最大3億4000万ドル分の株購入権利を取得",
+  "lead": "Amazonがデータセンター用バックアップ発電機の供給契約の一環として、最大3億4000万ドル相当の株式購入権を取得しました。",
+  "summary3": [
+   "AmazonがGeneracの株式購入権を取得",
+   "データセンター用発電機の供給契約に付随",
+   "この取引によりGeneracの株価が急上昇"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。米CNBC Techの報道によると、Amazonはデータセンター向けのバックアップ発電機を調達する契約の一環として、Generacの株式を最大3億4000万ドル相当購入できるワラント（新株予約権）を取得しました。",
+   "この取引の発表を受けて、電力関連企業の株価は40%以上急上昇する展開となりました。Amazonがデータセンターのインフラ強化に向けて、大手メーカーとの提携を強めていることがうかがえます。",
+   "データセンターの安定稼働には大規模な電力供給が不可欠であり、今回の契約は両社にとって重要な戦略的意義を持つものとみられています。"
+  ],
+  "tags": [
+   "Amazon",
+   "Generac",
+   "データセンター"
+  ],
+  "slug": "amazon-obtains-generac-stock-warrants",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "世界最大級の電子商取引とクラウドサービスを手がけるアメリカの企業"
+   },
+   {
+    "name": "Generac",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、発電機やバックアップ電源システムを製造する電力関連企業"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+  "category": "silicon",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-amazon-obtains-generac-stock-warrants.html"
+ },
+ {
+  "title": "米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは",
+  "lead": "アメリカのFRBは16日まで開いた会合で、3年2か月ぶりとなる0.25％の利上げを決定しました。年内に追加利上げに踏み切るかどうかが焦点となっています。",
+  "summary3": [
+   "米FRBが3年2か月ぶりの利上げを決定",
+   "今回決定された利上げ幅は0.25％",
+   "年内に追加利上げを行うかが焦点に"
+  ],
+  "body": [
+   "アメリカのFRB＝連邦準備制度理事会は16日まで開いた会合で、3年2か月ぶりとなる利上げを決定しました。今回の会合では0.25％の利上げに踏み切る形となりました。",
+   "また、FRBは今回の決定に伴い、年内にさらに1回の利上げが行われるとの想定を示しています。今後は年内に追加利上げに踏み切るかどうかが大きな焦点となります。",
+   "なお、今回の利上げ決定に対しては、トランプ大統領が強い不満を示している状況です。今後の金融政策の動向や景気への影響に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "FRB",
+   "アメリカ経済",
+   "金融政策"
+  ],
+  "slug": "frb-rate-hike-2026-09",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の大統領。国内外の政策や経済運営に対して強い発言力を持つ政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "FRB",
+    "type": "company",
+    "desc": "アメリカの金融政策を担う中央銀行制度の最高意思決定機関。金利の調整などを通じて経済を管理する。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
+  "category": "world",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-frb-rate-hike-2026-09.html"
+ },
+ {
+  "title": "エヌビディアCEO「AI開発に新たな規制必要ない」",
+  "lead": "AI開発を巡り減速や規制を求める声が相次ぐ中、半導体大手エヌビディアのCEOが示した見解とは。",
+  "summary3": [
+   "AI開発の規制求める声が相次ぐ",
+   "エヌビディアCEOが反論",
+   "新たな規制は必要ないと主張"
+  ],
+  "body": [
+   "AI＝人工知能の開発を進めるアメリカの主要企業のトップから、開発の減速や規制を求める声が相次いで出されています。こうした動きに対し、半導体大手「エヌビディア」のジェンスン・フアンCEOが独自の立場を表明しました。",
+   "ジェンスン・フアンCEOは、現在議論されている開発の制限や規制について「新たな法律も、新たな規制も必要ない」との見解を示しました。業界内で開発スピードや安全性を巡る議論が分かれる中での発言となります。",
+   "AI開発をめぐる規制の是非は、今後の技術革新や産業のあり方に大きな影響を与える要素として注目を集めています。今回の発言により、業界内の議論がさらに活発化することが予想されます。"
+  ],
+  "tags": [
+   "エヌビディア",
+   "AI開発",
+   "規制"
+  ],
+  "slug": "nvidia-ceo-no-new-ai-regulation",
+  "people": [
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "アメリカの半導体大手エヌビディアの創業者であり最高経営責任者。AIブームを牽引する中心人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "エヌビディア",
+    "type": "company",
+    "desc": "アメリカに本拠を置く半導体大手企業。AIの学習や処理に不可欠なGPUで世界をリードする。"
+   }
+  ],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260916de50638",
+  "category": "world",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-nvidia-ceo-no-new-ai-regulation.html"
+ },
+ {
+  "title": "ミンカブ株価がストップ高気配、ライブドア買収報道で",
+  "lead": "ミンカブの株価がストップ高気配となりました。ライブドアをSBIが買収するという報道を受けたものです。",
+  "summary3": [
+   "ミンカブ株価がストップ高気配に",
+   "ライブドアをSBIが買収報道",
+   "日本株・市場のニュース"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によりますと、ミンカブの株価がストップ高気配となっていることが分かりました。",
+   "今回の株価の動きは、「ライブドアをSBIが買収」という報道を受けたものとして伝えられています。",
+   "市場関係者の間でも注目を集める話題となっており、今後の動向が注視されます。"
+  ],
+  "tags": [
+   "ミンカブ",
+   "ライブドア",
+   "SBI"
+  ],
+  "slug": "minkabu-stock-sbi-livedoor",
+  "people": [],
+  "terms": [
+   {
+    "name": "ミンカブ",
+    "type": "company",
+    "desc": "メディア事業や金融情報サービスなどを展開する日本の企業です。"
+   },
+   {
+    "name": "ライブドア",
+    "type": "company",
+    "desc": "ポータルサイトの運営などを手掛ける日本のインターネット企業です。"
+   },
+   {
+    "name": "SBI",
+    "type": "company",
+    "desc": "証券や銀行などの金融事業を中心に幅広いサービスを展開する企業グループです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTDFZeEFLN19idXptUlU0YW9CNXFORTFSQ1E1MmhLTlltVDNjVGM0aGtidDRyY25hVjcteHJpbXpnTGVpMHdlZ0EzVTdKb3hFeGxWMEFkWkVKdFJPUVpDZWJQVjBrb3doZ2VMWg?oc=5",
+  "category": "stock",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-minkabu-stock-sbi-livedoor.html"
+ },
+ {
+  "title": "サンマルクHD、つるとんたん事業を120億円で譲り受け",
+  "lead": "外食大手のサンマルクホールディングスが、都内や海外で店舗を展開するうどんチェーン「つるとんたん」などの運営会社から、事業を譲り受けると発表しました。",
+  "summary3": [
+   "サンマルクHDがつるとんたん事業を譲り受け",
+   "譲り受けの規模はおよそ120億円規模となる",
+   "都内や海外で店舗を展開するチェーンが対象"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、外食大手の「サンマルクホールディングス」は、都内や海外に店舗を持つ人気うどんチェーン「つるとんたん」などの運営会社から事業を譲り受けると発表しました。今回の事業譲受けに関わる規模はおよそ120億円にのぼるとしています。",
+   "「つるとんたん」は、こだわり抜いた麺や大きな器で知られるうどん店として、国内の主要都市だけでなく海外にも展開し、多くの利用客に親しまれてきました。今回の発表により、外食業界における大手グループの新たな事業展開として注目を集めています。",
+   "サンマルクホールディングスによる今回の事業譲受けの具体的な統合スケジュールや今後の運営方針などの詳細については、今後の発表が待たれる状況です。同社は外食分野でのさらなる事業基盤の強化を進めるものとみられます。"
+  ],
+  "tags": [
+   "サンマルクHD",
+   "つるとんたん",
+   "M&A"
+  ],
+  "slug": "san-hd-tsurutontan-acquisition",
+  "people": [],
+  "terms": [
+   {
+    "name": "サンマルクホールディングス",
+    "type": "company",
+    "desc": "岡山県を本拠地とし、ベーカリーレストランやカフェなどの飲食店チェーンを幅広く展開する日本の外食大手企業。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260917de50837",
+  "category": "jp_corp",
+  "date": "2026-09-17",
+  "time": "17:07",
+  "path": "/articles/20260917-san-hd-tsurutontan-acquisition.html"
  }
 ]
