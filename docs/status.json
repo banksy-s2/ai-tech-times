@@ -1,26 +1,21 @@
 {
- "updated": "2026-09-17 00:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-17 15:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
-   "path": "/articles/20260917-aiuc-raises-40-million-series-a.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "元InfosysトップのAI新興、5300万ドル調達のなぜ",
-   "path": "/articles/20260917-former-infosys-chief-ai-startup-53m.html",
-   "cat": "AI(海外)"
+   "title": "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ",
+   "path": "/articles/20260917-euglena-fy2026-q3-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Falling In Reverse - \"Joseph\"",
+  "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 4,
  "gemini": {
-  "used": 6,
+  "used": 11,
   "limit": 200
  }
 }

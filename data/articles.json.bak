@@ -90332,5 +90332,78 @@
   "date": "2026-09-16",
   "time": "23:00",
   "path": "/articles/20260916-shikiho-autumn-2026-release.html"
+ },
+ {
+  "title": "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
+  "lead": "Anthropicの初期メンバーと元METR COOが立ち上げたAIUCが、暴走するAIエージェントを制御する手法を見出し、シリーズAラウンドで4000万ドルを調達しました。",
+  "summary3": [
+   "AIUCがシリーズAで4000万ドルを調達",
+   "Ribbit Capitalがラウンドを主導",
+   "暴走するAIエージェントの制御手法を発見"
+  ],
+  "body": [
+   "AI技術の開発が進む中、制御不能となったAIエージェントの暴走を防ぐ新たな手法が注目を集めています。TechCrunch AIの報道によると、Anthropicの初期メンバーおよび元METR COOという経歴を持つ創業者らが、暴走するAIエージェントを制御するための有効な手法を発見しました。",
+   "彼らが設立したスタートアップ企業であるArtificial Intelligence Underwriting Company（AIUC）は、このほどシリーズAラウンドにおいて4000万ドルの資金調達を完了しました。今回の資金調達ラウンドはRibbit Capitalが主導し、First Harmonicも参加しています。",
+   "AI技術の安全性と制御性を高めるアプローチとして、今回のAIUCによる資金調達と技術開発の動向は、今後のAI業界において重要な意味を持つ可能性があります。暴走を防ぐ仕組みの実用化に向け、同社の今後の展開に大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "AIUC",
+   "資金調達",
+   "AIエージェント"
+  ],
+  "slug": "aiuc-raises-40-million-series-a",
+  "people": [],
+  "terms": [
+   {
+    "name": "Ribbit Capital",
+    "type": "company",
+    "desc": "フィンテック分野を中心に投資を行う著名なベンチャーキャピタルファンドです。"
+   },
+   {
+    "name": "First Harmonic",
+    "type": "company",
+    "desc": "革新的なテクノロジー企業やスタートアップへの投資を手がけるベンチャーキャピタルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "00:01",
+  "path": "/articles/20260917-aiuc-raises-40-million-series-a.html"
+ },
+ {
+  "title": "元InfosysトップのAI新興、5300万ドル調達のなぜ",
+  "lead": "パロアルトを拠点とするAIスタートアップが、新たに5300万ドルの資金調達を実施しました。創業から数か月で複数の高額な企業向け契約を獲得しています。",
+  "summary3": [
+   "元InfosysトップのAI新興が5300万ドルを調達",
+   "パロアルト拠点でローンチから数か月で複数契約",
+   "エンタープライズ向け事業が順調に拡大中"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新のニュースです。元Infosysのトップが率いるパロアルトのAIスタートアップが、新たに5300万ドルの資金調達に成功したことが明らかになりました。",
+   "同社によると、市場に投入されてからわずか数か月の間に、複数の7桁に及ぶエンタープライズ向け契約を獲得しています。初期の資金調達フェーズにおいて、今回の追加調達は同社の急成長を裏付けるものとなっています。",
+   "短期間での大型契約の獲得と追加資金の調達は、企業向けAI市場における強い需要を示しています。今後の事業展開やさらなる顧客獲得の動きに、引き続き業界の注目が集まりそうです。"
+  ],
+  "tags": [
+   "AIスタートアップ",
+   "資金調達",
+   "企業向けAI"
+  ],
+  "slug": "former-infosys-chief-ai-startup-53m",
+  "people": [],
+  "terms": [
+   {
+    "name": "Infosys",
+    "type": "company",
+    "desc": "インドに本拠地を置き、グローバルにITサービスやコンサルティングを提供する大手テクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "00:01",
+  "path": "/articles/20260917-former-infosys-chief-ai-startup-53m.html"
  }
 ]
