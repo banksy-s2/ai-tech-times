@@ -90405,5 +90405,39 @@
   "date": "2026-09-17",
   "time": "00:01",
   "path": "/articles/20260917-former-infosys-chief-ai-startup-53m.html"
+ },
+ {
+  "title": "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ",
+  "lead": "ユーグレナはFY2026 Q3決算説明会において、売上高を530億円に上方修正し、9期ぶりの最終黒字化へ向かう見通しを発表しました。",
+  "summary3": [
+   "売上高を530億円に上方修正",
+   "9期ぶりの最終黒字化へ",
+   "バイオ燃料に高いポテンシャル"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ユーグレナはFY2026 Q3の決算説明会を開催し、業績予想の修正と今後の事業展開について明らかにしました。",
+   "今回の発表では、売上高を530億円に上方修正し、9期ぶりとなる最終黒字化を見込んでいることが示されました。着実な業績回復に向けた取り組みが進行しています。",
+   "また、今後の成長領域として位置づけられるバイオ燃料事業については、2030年に売上高300億円、税前利益60億円のポテンシャルを有していることが説明されました。"
+  ],
+  "tags": [
+   "ユーグレナ",
+   "決算",
+   "バイオ燃料"
+  ],
+  "slug": "euglena-fy2026-q3-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "ユーグレナ",
+    "type": "company",
+    "desc": "微細藻類ユーグレナ（ミドリムシ）などを活用した食品や化粧品、バイオ燃料事業などを展開する日本の企業です。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WYnhFUll0c1lKaWk4YmF1YVo5Z3RqUURodzZRNzctNVM4YkcyZnI5QlpORTBxQ0ZMcHpReUxCQVp2UE4xNEVnMnZuSXlqMXFIa0NXa2VtVDZVOUlHMVpN?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-17",
+  "time": "15:01",
+  "path": "/articles/20260917-euglena-fy2026-q3-results.html"
  }
 ]

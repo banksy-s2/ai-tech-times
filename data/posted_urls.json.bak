@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015189811000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWTZOa1phbi10YzA0a0JjYl9FUGZwNGhzQW9QYmxBelZIZlppcThoUmZmUnBzZmYtZkszdVpzeFZJTTRTYW56d1VaZW1IX1F2alQzODRIbENYZFk0a2xMMUpETXpCRnVBWTlZTA?oc=5",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFBub3pwS1Q0ZEVsb0s4STRGZ2JwM29SQjdjNk02VGdGRE1zRVJnSndEeVRGNU55Q1V0TDB1VU1WNlNpUDBqUVQ5RzBNaTRQbHNsSU14R2tNbWxCaVgxWkFSX3hyNGRqTjc1WDdrWnplbTNTQ1Vvc1owRTE3ZXNwTVk?oc=5",
   "https://www.itmedia.co.jp/business/articles/2607/29/news060.html",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260916de50547",
   "https://toyokeizai.net/articles/-/958378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-  "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+  "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WYnhFUll0c1lKaWk4YmF1YVo5Z3RqUURodzZRNzctNVM4YkcyZnI5QlpORTBxQ0ZMcHpReUxCQVp2UE4xNEVnMnZuSXlqMXFIa0NXa2VtVDZVOUlHMVpN?oc=5"
  ],
  "titles": [
-  "日経平均株価、2027年8月までの値動き予測が浮上",
-  "上場企業の平均年収778万円、5年連続超えの理由",
   "新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
   "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
   "日本経済新聞：AI時代にあえて体育会系学生が注目される理由",
@@ -4001,6 +3999,8 @@
   "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
   "Former Infosys chief’s AI startup nabs another $53M",
   "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
-  "元InfosysトップのAI新興、5300万ドル調達のなぜ"
+  "元InfosysトップのAI新興、5300万ドル調達のなぜ",
+  "【ユーグレナ FY2026 Q3 決算説明会】9期ぶり最終黒字へ、売上530億円に上方修正——バイオ燃料は2030年に売上300億円・税前利益60億円のポテンシャル - BigGo ファイナンス",
+  "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ"
  ]
 }
