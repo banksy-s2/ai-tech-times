@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 17:07 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,16 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [AnthropicとOpenAI、AI安全性評価機関の設置へ](https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html) — 2026-09-17 17:07: AnthropicとOpenAIが、自社AI研究所の内部に独立した安全性評価者を配置する方針を示しました。研究者はアクセス拡大を歓迎しつつも、実効性には懸念を示しています。
+- [ClaudeがGoogleに対抗、新文書・資料作成ツールを発表](https://ai-tech-times.web.app/articles/20260917-claude-gets-docs-and-slides.html) — 2026-09-17 17:07: Anthropicが提供するAIアシスタント「Claude」に、文書作成とプレゼンテーション機能が新たに追加されました。チャット機能の統合も発表され、作業効率が大きく変わる可能性があります。
+- [オープンAIなどの元開発者が警鐘、AIの危険性をめぐり議論が加速](https://ai-tech-times.web.app/articles/20260917-ai-safety-warning-and-debate.html) — 2026-09-17 17:07: 大手AI開発企業の元研究者が投稿した「AIが2020年代末までに私たちを皆殺しにしかねない」という言葉が世界中のSNSで拡散し、AIの危険性をめぐる議論が各国で加速しています。
+- [千代田区、生成AIで年間4000時間を削減できたワケとは](https://ai-tech-times.web.app/articles/20260917-chiyoda-generative-ai-4000-hours.html) — 2026-09-17 17:07: 千代田区が生成AIの全庁展開により、年間で4000時間の業務削減を実現したことが明らかになりました。自治体における活用の現状を同区の担当者が語っています。
+- [OpenAI、来年の大型IPOへ向け投資家と協議](https://ai-tech-times.web.app/articles/20260917-openai-investors-approached-funding-round.html) — 2026-09-17 17:07: 人工知能開発の最前線を走るOpenAIを巡り、来年の大型IPO（新規株式公開）に向けた動きが活発化しています。
+- [Amazon、最大3億4000万ドル分の株購入権利を取得](https://ai-tech-times.web.app/articles/20260917-amazon-obtains-generac-stock-warrants.html) — 2026-09-17 17:07: Amazonがデータセンター用バックアップ発電機の供給契約の一環として、最大3億4000万ドル相当の株式購入権を取得しました。
+- [米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは](https://ai-tech-times.web.app/articles/20260917-frb-rate-hike-2026-09.html) — 2026-09-17 17:07: アメリカのFRBは16日まで開いた会合で、3年2か月ぶりとなる0.25％の利上げを決定しました。年内に追加利上げに踏み切るかどうかが焦点となっています。
+- [エヌビディアCEO「AI開発に新たな規制必要ない」](https://ai-tech-times.web.app/articles/20260917-nvidia-ceo-no-new-ai-regulation.html) — 2026-09-17 17:07: AI開発を巡り減速や規制を求める声が相次ぐ中、半導体大手エヌビディアのCEOが示した見解とは。
+- [ミンカブ株価がストップ高気配、ライブドア買収報道で](https://ai-tech-times.web.app/articles/20260917-minkabu-stock-sbi-livedoor.html) — 2026-09-17 17:07: ミンカブの株価がストップ高気配となりました。ライブドアをSBIが買収するという報道を受けたものです。
+- [サンマルクHD、つるとんたん事業を120億円で譲り受け](https://ai-tech-times.web.app/articles/20260917-san-hd-tsurutontan-acquisition.html) — 2026-09-17 17:07: 外食大手のサンマルクホールディングスが、都内や海外で店舗を展開するうどんチェーン「つるとんたん」などの運営会社から、事業を譲り受けると発表しました。
 - [Apple、AI需要の急増を受けてサーバー事業へ再参入か](https://ai-tech-times.web.app/articles/20260917-apple-might-make-servers-again-ai-nvidia.html) — 2026-09-17 16:01: 米Appleが、AI業界の拡大に伴う計算能力の需要増に対応するため、サーバー市場へ再参入する計画を進めていることが分かりました。NVIDIAとの提携の可能性も報じられています。
 - [Google HomeがAIで進化、自然言語で家電操作が可能に](https://ai-tech-times.web.app/articles/20260917-google-home-mcp-server-ai.html) — 2026-09-17 16:01: Googleは、Google Home向けの新しいMCPサーバーの早期アクセス提供を開始しました。これにより、AIエージェントが接続されたデバイスを自然言語で制御できるようになります。
 - [ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ](https://ai-tech-times.web.app/articles/20260917-euglena-fy2026-q3-results.html) — 2026-09-17 15:01: ユーグレナはFY2026 Q3決算説明会において、売上高を530億円に上方修正し、9期ぶりの最終黒字化へ向かう見通しを発表しました。
@@ -32,29 +42,19 @@
 - [北朝鮮政府に50億円余りの賠償命令、韓国裁判所](https://ai-tech-times.web.app/articles/20260916-korea-court-orders-compensation-from-north-korea.html) — 2026-09-16 22:43: 北朝鮮が2020年に南北の共同連絡事務所を爆破したことをめぐり、韓国の裁判所は北朝鮮政府に対し、日本円で50億円余りの賠償金を支払うよう命じました。
 - [AppleやOpenAIのAIはなぜ失敗したのか](https://ai-tech-times.web.app/articles/20260916-apple-openai-ai-projects-graveyard.html) — 2026-09-16 21:02: AppleやOpenAIなど、大手企業のAIプロジェクトが直面した頓挫や期待外れの実態を振り返ります。
 - [Meta、月額949円の新サブスク導入でAI枠はどこまで拡大するのか](https://ai-tech-times.web.app/articles/20260916-meta-one-subscription-launched.html) — 2026-09-16 21:02: Metaは、InstagramやFacebookなどを横断する新サブスク「Meta One」の提供を開始しました。日本でも展開され、バンドルプランは月額949円からとなっています。
-- [北海道、データセンター事業者に脱炭素や地域共生を要請](https://ai-tech-times.web.app/articles/20260916-hokkaido-data-center-policy.html) — 2026-09-16 21:02: 北海道は、データセンターの立地推進に伴う懸念に対応するため、事業者向けの方針を公開しました。脱炭素技術の採用や地域との共生を求めています。
-- [Grab、14.9億ドルでAtome買収へ：金融事業拡大の狙い](https://ai-tech-times.web.app/articles/20260916-grab-acquires-atome-financial-149b.html) — 2026-09-16 21:02: 東南アジアで消費者向け融資事業を拡大するため、GrabがAtome Financialを14億9000万ドルで買収することが明らかになりました。
-- [インテルとSKハイニックス、米国でのメモリ製造協議で株価急上昇の理由](https://ai-tech-times.web.app/articles/20260916-intel-sk-hynix-us-memory-chips.html) — 2026-09-16 21:02: インテルとSKハイニックスが米国でのメモリチップ製造について協議しているとの報道を受け、両社の株価が急上昇しました。この動きはインテルの製造事業にとって大きな追い風となる可能性があります。
-- [ヤマトリノ「コカインは2人のもの」、交際相手は否認](https://ai-tech-times.web.app/articles/20260916-yamatorino-cocaine-arrest-2.html) — 2026-09-16 21:02: インフルエンサーとして知られる「ヤマトリノ」が供述した内容と、共に逮捕された交際相手の主張についてFNNプライムオンラインが報じました。
-- [10月1日酒税改正、ビール系飲料の価格どう変わる？](https://ai-tech-times.web.app/articles/20260916-liquor-tax-revision-october-1.html) — 2026-09-16 21:02: 10月1日に実施される酒税改正により、ビール、発泡酒、第3のビールといったビール系飲料の税額が一本化されます。私たちの財布や市場への影響はどう変わるのでしょうか。
-- [全東信経営破綻：決済代行の年間取扱高は30兆円](https://ai-tech-times.web.app/articles/20260916-zentoshin-keiei-hatan-keisan-sho-chousa.html) — 2026-09-16 21:02: クレジットカードの決済代行サービスを行う「全東信」の経営破綻を受け、経済産業省が実態調査を実施しました。その結果、決済代行全体による取扱高が年間30兆円に上ることが明らかになりました。
-- [三菱重工、プリファードネットに100億円出資で国産AIを共同開発](https://ai-tech-times.web.app/articles/20260916-mhi-preferred-networks-ai-partnership.html) — 2026-09-16 21:02: 三菱重工業がPreferred Networksと資本業務提携を締結しました。100億円を出資し、国産AIを共同開発する方針です。
-- [ヤマトリノ、コカイン所持で逮捕。自宅に21袋の粉末](https://ai-tech-times.web.app/articles/20260916-yamatorino-cocaine-arrest.html) — 2026-09-16 20:00: インフルエンサーとして知られるヤマトリノがコカイン所持で現行犯逮捕されました。自宅からは白色の粉末21袋が押収されています。
-- [米データセンター、独日並みの天然ガス消費へ](https://ai-tech-times.web.app/articles/20260916-us-data-centers-natural-gas-consumption.html) — 2026-09-16 19:01: AIブームの加熱に伴い、米国のデータセンターが世界最大級の天然ガス消費国となる可能性が浮上しました。
-- [ウェザーニューズ独自AI、社員の8割が使う理由](https://ai-tech-times.web.app/articles/20260916-weathernews-original-ai.html) — 2026-09-16 18:00: 情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。
 
 ## 世界のバズ動画TOP3 (2026-09-17)
 - 1位: [Falling In Reverse - "Joseph" (feat. Corey Taylor and Serj Tankian)](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [ADÉLA - Ain’t In LA (Live) | Spotify RADAR](https://www.youtube.com/watch?v=P1KGml6DcV0)
 - 3位: [Path of Titans: Leedsichthys Update - Launch Trailer](https://www.youtube.com/watch?v=Aw-sTvzpr5E)
 
-## AI用語事典 (全1542語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1547語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
-- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
+- [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
@@ -69,14 +69,14 @@
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが開発した、プログラミングやコーディング作業を効率化・支援するためのAIツールです。
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
-- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカのAI開発企業であり、対話型AI「Claude」シリーズなどを手掛けていることで知られています。
+- [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): 安全性に配慮したAIモデルの開発を目指し、元オープンAIの研究者らによって設立されたアメリカのAI企業です。
 - [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
+- [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
-- [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
 - [Samsungとは](https://ai-tech-times.web.app/term/samsung.html): 韓国を代表する総合家電・半導体メーカーであり、世界トップクラスのメモリチップシェアを誇る巨大テクノロジー企業です。
 

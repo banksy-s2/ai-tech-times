@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>AnthropicとOpenAI、AI安全性評価機関の設置へ</title>
+<link>https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AnthropicとOpenAIが、自社AI研究所の内部に独立した安全性評価者を配置する方針を示しました。研究者はアクセス拡大を歓迎しつつも、実効性には懸念を示しています。</description>
+</item>
+<item>
+<title>ClaudeがGoogleに対抗、新文書・資料作成ツールを発表</title>
+<link>https://ai-tech-times.web.app/articles/20260917-claude-gets-docs-and-slides.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-claude-gets-docs-and-slides.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Anthropicが提供するAIアシスタント「Claude」に、文書作成とプレゼンテーション機能が新たに追加されました。チャット機能の統合も発表され、作業効率が大きく変わる可能性があります。</description>
+</item>
+<item>
+<title>オープンAIなどの元開発者が警鐘、AIの危険性をめぐり議論が加速</title>
+<link>https://ai-tech-times.web.app/articles/20260917-ai-safety-warning-and-debate.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-ai-safety-warning-and-debate.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>大手AI開発企業の元研究者が投稿した「AIが2020年代末までに私たちを皆殺しにしかねない」という言葉が世界中のSNSで拡散し、AIの危険性をめぐる議論が各国で加速しています。</description>
+</item>
+<item>
+<title>千代田区、生成AIで年間4000時間を削減できたワケとは</title>
+<link>https://ai-tech-times.web.app/articles/20260917-chiyoda-generative-ai-4000-hours.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-chiyoda-generative-ai-4000-hours.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>千代田区が生成AIの全庁展開により、年間で4000時間の業務削減を実現したことが明らかになりました。自治体における活用の現状を同区の担当者が語っています。</description>
+</item>
+<item>
+<title>OpenAI、来年の大型IPOへ向け投資家と協議</title>
+<link>https://ai-tech-times.web.app/articles/20260917-openai-investors-approached-funding-round.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-openai-investors-approached-funding-round.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>人工知能開発の最前線を走るOpenAIを巡り、来年の大型IPO（新規株式公開）に向けた動きが活発化しています。</description>
+</item>
+<item>
+<title>Amazon、最大3億4000万ドル分の株購入権利を取得</title>
+<link>https://ai-tech-times.web.app/articles/20260917-amazon-obtains-generac-stock-warrants.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-amazon-obtains-generac-stock-warrants.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Amazonがデータセンター用バックアップ発電機の供給契約の一環として、最大3億4000万ドル相当の株式購入権を取得しました。</description>
+</item>
+<item>
+<title>米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは</title>
+<link>https://ai-tech-times.web.app/articles/20260917-frb-rate-hike-2026-09.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-frb-rate-hike-2026-09.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのFRBは16日まで開いた会合で、3年2か月ぶりとなる0.25％の利上げを決定しました。年内に追加利上げに踏み切るかどうかが焦点となっています。</description>
+</item>
+<item>
+<title>エヌビディアCEO「AI開発に新たな規制必要ない」</title>
+<link>https://ai-tech-times.web.app/articles/20260917-nvidia-ceo-no-new-ai-regulation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-nvidia-ceo-no-new-ai-regulation.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>AI開発を巡り減速や規制を求める声が相次ぐ中、半導体大手エヌビディアのCEOが示した見解とは。</description>
+</item>
+<item>
+<title>ミンカブ株価がストップ高気配、ライブドア買収報道で</title>
+<link>https://ai-tech-times.web.app/articles/20260917-minkabu-stock-sbi-livedoor.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-minkabu-stock-sbi-livedoor.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>ミンカブの株価がストップ高気配となりました。ライブドアをSBIが買収するという報道を受けたものです。</description>
+</item>
+<item>
+<title>サンマルクHD、つるとんたん事業を120億円で譲り受け</title>
+<link>https://ai-tech-times.web.app/articles/20260917-san-hd-tsurutontan-acquisition.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260917-san-hd-tsurutontan-acquisition.html</guid>
+<pubDate>Thu, 17 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本企業</category>
+<description>外食大手のサンマルクホールディングスが、都内や海外で店舗を展開するうどんチェーン「つるとんたん」などの運営会社から、事業を譲り受けると発表しました。</description>
+</item>
+<item>
 <title>Apple、AI需要の急増を受けてサーバー事業へ再参入か</title>
 <link>https://ai-tech-times.web.app/articles/20260917-apple-might-make-servers-again-ai-nvidia.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260917-apple-might-make-servers-again-ai-nvidia.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Wed, 16 Sep 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>情報漏えいのリスクを抑えつつ実務に組み込めるAIを求め、ウェザーニューズは自社開発に乗り出しました。全社員の8割以上が活用する“独自AI”の実態に迫ります。</description>
-</item>
-<item>
-<title>エヌビディアCEO「AI規制は不要、安全対策は我々に任せよ」</title>
-<link>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-nvidia-jensen-huang-ai-regulation.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>エヌビディアのジェンスン・フアン氏が、AI規制の必要性について言及しました。安全は各メーカーがソフトウェアとハードウェアで独自に設計できると主張しています。</description>
-</item>
-<item>
-<title>Meta、AIエージェントでWhatsApp Business設定を自動化する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-meta-whatsapp-business-ai-agents.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaは、WhatsApp Businessの設定やトラブルシューティングをAIエージェントに任せられる新機能を発表しました。開発者の作業負担をどのように軽減するのでしょうか。</description>
-</item>
-<item>
-<title>AINOW掲載：AIエージェント副業6選と未経験から始める5ステップ</title>
-<link>https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-ai-agent-side-job-cases.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AINOWから、AIエージェントを活用した副業の案件6選や単価相場、未経験からの始め方5ステップに関する情報が発表されました。</description>
-</item>
-<item>
-<title>Mozilla調査: 高額AI購入の5倍のコストと4ヶ月の優位性</title>
-<link>https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-mozilla-frontier-ai-cost-advantage.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>海外メディアのArs Technicaは、安価なオープンモデルがフロンティアAIモデルの能力にどのように追いついたかについてのMozillaのレポートを報じました。</description>
-</item>
-<item>
-<title>アメリカ長期金利が19年ぶり高水準、インフレ懸念の背景とは</title>
-<link>https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-us-long-term-interest-rates-19-year-high.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>15日のニューヨーク債券市場で、アメリカの長期金利が19年ぶりの高い水準を記録しました。</description>
-</item>
-<item>
-<title>高市首相、維新の吉村代表と会談し閣内協力を要請</title>
-<link>https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-takaichi-yoshimura-meeting.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>17日の内閣改造を前に、高市総理大臣は日本維新の会の吉村代表と党首会談を行いました。維新からの閣僚起用を正式に要請し、連立政権の維持に向けた協議が行われています。</description>
-</item>
-<item>
-<title>三菱重工とPFN、資本業務提携契約を締結</title>
-<link>https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-mhi-and-pfn-capital-business-alliance.html</guid>
-<pubDate>Wed, 16 Sep 2026 17:07:00 +0900</pubDate>
-<category>日本企業</category>
-<description>三菱重工業と株式会社Preferred Networksが、資本業務提携契約を締結したと発表しました。両社の今後の展開に注目が集まります。</description>
-</item>
-<item>
-<title>NvidiaのCEO、トランプ氏にAI開発の減速阻止を誓う</title>
-<link>https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-nvidia-ceo-jensen-huang-tells-trump-ai-slowdown.html</guid>
-<pubDate>Wed, 16 Sep 2026 16:16:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発のペースを落とすべきだという意見が一部で上がる中、半導体大手のトップがトランプ氏に対してAI開発の減速を阻止する姿勢を示しました。</description>
-</item>
-<item>
-<title>米タイムズ紙調査：AIデータセンター建設に61%が反対する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260916-ai-data-center-unpopular-poll.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-ai-data-center-unpopular-poll.html</guid>
-<pubDate>Wed, 16 Sep 2026 16:16:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ニューヨーク・タイムズ紙などの世論調査により、AIとデータセンターに対する有権者の強い反対姿勢が明らかになりました。</description>
-</item>
-<item>
-<title>アスクル減収減益も計画通り、AI販促で再成長へ</title>
-<link>https://ai-tech-times.web.app/articles/20260916-askul-fy2027-q1-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260916-askul-fy2027-q1-results.html</guid>
-<pubDate>Wed, 16 Sep 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>アスクルはFY2027 Q1決算説明会を実施し、売上高1,123億円で前年同期比8.2％減、営業損失4億円となったことを発表しました。</description>
 </item>
 </channel></rss>

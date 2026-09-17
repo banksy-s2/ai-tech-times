@@ -1,26 +1,69 @@
 {
- "updated": "2026-09-17 16:02",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-17 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Apple、AI需要の急増を受けてサーバー事業へ再参入か",
-   "path": "/articles/20260917-apple-might-make-servers-again-ai-nvidia.html",
+   "title": "AnthropicとOpenAI、AI安全性評価機関の設置へ",
+   "path": "/articles/20260917-anthropic-openai-safety-evaluators.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Google HomeがAIで進化、自然言語で家電操作が可能に",
-   "path": "/articles/20260917-google-home-mcp-server-ai.html",
+   "title": "ClaudeがGoogleに対抗、新文書・資料作成ツールを発表",
+   "path": "/articles/20260917-claude-gets-docs-and-slides.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "オープンAIなどの元開発者が警鐘、AIの危険性をめぐり議論が加速",
+   "path": "/articles/20260917-ai-safety-warning-and-debate.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "千代田区、生成AIで年間4000時間を削減できたワケとは",
+   "path": "/articles/20260917-chiyoda-generative-ai-4000-hours.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAI、来年の大型IPOへ向け投資家と協議",
+   "path": "/articles/20260917-openai-investors-approached-funding-round.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Amazon、最大3億4000万ドル分の株購入権利を取得",
+   "path": "/articles/20260917-amazon-obtains-generac-stock-warrants.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは",
+   "path": "/articles/20260917-frb-rate-hike-2026-09.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "エヌビディアCEO「AI開発に新たな規制必要ない」",
+   "path": "/articles/20260917-nvidia-ceo-no-new-ai-regulation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ミンカブ株価がストップ高気配、ライブドア買収報道で",
+   "path": "/articles/20260917-minkabu-stock-sbi-livedoor.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "サンマルクHD、つるとんたん事業を120億円で譲り受け",
+   "path": "/articles/20260917-san-hd-tsurutontan-acquisition.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: TBSがひた隠すVIVANT・福澤克雄監督（62）の“骨折パワハラ”《助監督",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 5,
  "gemini": {
-  "used": 16,
+  "used": 38,
   "limit": 200
  }
 }

@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nWTZOa1phbi10YzA0a0JjYl9FUGZwNGhzQW9QYmxBelZIZlppcThoUmZmUnBzZmYtZkszdVpzeFZJTTRTYW56d1VaZW1IX1F2alQzODRIbENYZFk0a2xMMUpETXpCRnVBWTlZTA?oc=5",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBub3pwS1Q0ZEVsb0s4STRGZ2JwM29SQjdjNk02VGdGRE1zRVJnSndEeVRGNU55Q1V0TDB1VU1WNlNpUDBqUVQ5RzBNaTRQbHNsSU14R2tNbWxCaVgxWkFSX3hyNGRqTjc1WDdrWnplbTNTQ1Vvc1owRTE3ZXNwTVk?oc=5",
   "https://www.itmedia.co.jp/business/articles/2607/29/news060.html",
   "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
   "https://gigazine.net/news/20260730-microsoft-earnings-2026q4/",
@@ -1999,13 +1997,11 @@
   "https://toyokeizai.net/articles/-/958378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
   "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WYnhFUll0c1lKaWk4YmF1YVo5Z3RqUURodzZRNzctNVM4YkcyZnI5QlpORTBxQ0ZMcHpReUxCQVp2UE4xNEVnMnZuSXlqMXFIa0NXa2VtVDZVOUlHMVpN?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WYnhFUll0c1lKaWk4YmF1YVo5Z3RqUURodzZRNzctNVM4YkcyZnI5QlpORTBxQ0ZMcHpReUxCQVp2UE4xNEVnMnZuSXlqMXFIa0NXa2VtVDZVOUlHMVpN?oc=5",
+  "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+  "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
  ],
  "titles": [
-  "新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
-  "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
-  "日本経済新聞：AI時代にあえて体育会系学生が注目される理由",
-  "アップルAPFSは遅い？テオ氏がAI開発をLinuxへ移行しストレージ3分の1減",
   "りくりゅう木原さん&三浦さん婚約 - Yahoo!ニュース",
   "りくりゅう木原龍一選手と三浦璃来選手が婚約を発表",
   "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -4001,6 +3997,10 @@
   "Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策",
   "元InfosysトップのAI新興、5300万ドル調達のなぜ",
   "【ユーグレナ FY2026 Q3 決算説明会】9期ぶり最終黒字へ、売上530億円に上方修正——バイオ燃料は2030年に売上300億円・税前利益60億円のポテンシャル - BigGo ファイナンス",
-  "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ"
+  "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ",
+  "Apple might make servers again to cash in on the AI rush",
+  "Your AI agents can now control your Google Home devices",
+  "Apple、AI需要の急増を受けてサーバー事業へ再参入か",
+  "Google HomeがAIで進化、自然言語で家電操作が可能に"
  ]
 }

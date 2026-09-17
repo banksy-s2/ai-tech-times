@@ -90439,5 +90439,83 @@
   "date": "2026-09-17",
   "time": "15:01",
   "path": "/articles/20260917-euglena-fy2026-q3-results.html"
+ },
+ {
+  "title": "Apple、AI需要の急増を受けてサーバー事業へ再参入か",
+  "lead": "米Appleが、AI業界の拡大に伴う計算能力の需要増に対応するため、サーバー市場へ再参入する計画を進めていることが分かりました。NVIDIAとの提携の可能性も報じられています。",
+  "summary3": [
+   "Appleがサーバー事業に再参入する計画が浮上",
+   "拡大するAI産業の計算能力の需要に対応する狙い",
+   "NVIDIAとパートナーシップを組む可能性も"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によると、米Appleがサーバー事業へ再び参入する計画を進めていることが明らかになりました。関係者によると、この計画を実現するためにNVIDIAとタッグを組む可能性があると報じられています。",
+   "Appleは2011年に「Xserve」シリーズを終了させて以降、企業向けマシンの市場からは長らく距離を置いてきました。しかし、AI業界の発展にともない計算能力の需要が急速に高まっている現状が、今回の再参入を検討する背景にあるとみられています。",
+   "今回の計画が正式に実現すれば、同社のビジネスやAI分野における展開に大きな影響を与える可能性があります。今後の両社の動向から目が離せません。"
+  ],
+  "tags": [
+   "Apple",
+   "Nvidia",
+   "AI"
+  ],
+  "slug": "apple-might-make-servers-again-ai-nvidia",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを手掛け、世界的に高いシェアを誇るアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "16:01",
+  "path": "/articles/20260917-apple-might-make-servers-again-ai-nvidia.html"
+ },
+ {
+  "title": "Google HomeがAIで進化、自然言語で家電操作が可能に",
+  "lead": "Googleは、Google Home向けの新しいMCPサーバーの早期アクセス提供を開始しました。これにより、AIエージェントが接続されたデバイスを自然言語で制御できるようになります。",
+  "summary3": [
+   "Google HomeがAIに対応開始",
+   "Claudeなどで家電操作が可能に",
+   "カメラの要約や活動確認も実装"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、GoogleはGoogle Home向けの新しMCPサーバーの早期アクセス提供を開始しました。この新機能により、接続されたデバイスの制御が大きく進化します。",
+   "具体的には、ClaudeやChatGPTといったAIエージェントを使用し、自然言語で接続されたデバイスをコントロールすることが可能です。さらに、カメラの要約レビューや、スマートホームの活動へのアクセスも行えるようになります。",
+   "日々のスマートホームの利便性を高める今回の機能は、今後のAIを活用したデバイス管理の新たな基準となりそうです。対応するAIエージェントとの連携により、ユーザーの生活がより快適になることが期待されています。"
+  ],
+  "tags": [
+   "Google",
+   "AIエージェント",
+   "スマートホーム"
+  ],
+  "slug": "google-home-mcp-server-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、多様なソフトウェアやハードウェア開発を手がけるアメリカの巨大テクノロジー企業。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した、高度な自然言語処理能力を持つ対話型AIモデル。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した、広く普及している高精度な対話型AIアシスタント。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+  "category": "ai",
+  "date": "2026-09-17",
+  "time": "16:01",
+  "path": "/articles/20260917-google-home-mcp-server-ai.html"
  }
 ]

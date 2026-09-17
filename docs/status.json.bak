@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-17 15:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-17 16:02",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ",
-   "path": "/articles/20260917-euglena-fy2026-q3-results.html",
-   "cat": "日本企業"
+   "title": "Apple、AI需要の急増を受けてサーバー事業へ再参入か",
+   "path": "/articles/20260917-apple-might-make-servers-again-ai-nvidia.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Google HomeがAIで進化、自然言語で家電操作が可能に",
+   "path": "/articles/20260917-google-home-mcp-server-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
  "notes": [],
- "pv_today": 4,
+ "pv_today": 5,
  "gemini": {
-  "used": 11,
+  "used": 16,
   "limit": 200
  }
 }
