@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 18:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 19:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [X、USユーザー向けに株取引機能を提供開始](https://ai-tech-times.web.app/articles/20260917-x-cashtags-trading.html) — 2026-09-17 19:01: Xは、USのユーザーを対象にカスタムタグを通じた取引機能の提供を開始しました。タイムライン上での市場の議論と実際の市場の距離を縮める狙いがあります。
 - [ITmedia AI+取材：ローカルLLM活用クリニックの真実](https://ai-tech-times.web.app/articles/20260917-local-llm-clinic-itmedia.html) — 2026-09-17 18:01: ローカルLLMを利用しているクリニックが話題となっています。院長自ら環境を構築したその実態について、ITmedia AI+が関係者に話を聞きました。
 - [レベルファイブ新作PVのAI使用で日野晃博氏が説明](https://ai-tech-times.web.app/articles/20260917-level-five-ai-pv-update.html) — 2026-09-17 18:01: 「LEVEL５VISION2026Ⅱ」のイベント内映像でAIが使用された件について、日野晃博氏が説明を行い話題となっています。
 - [AnthropicとOpenAI、AI安全性評価機関の設置へ](https://ai-tech-times.web.app/articles/20260917-anthropic-openai-safety-evaluators.html) — 2026-09-17 17:07: AnthropicとOpenAIが、自社AI研究所の内部に独立した安全性評価者を配置する方針を示しました。研究者はアクセス拡大を歓迎しつつも、実効性には懸念を示しています。
@@ -41,7 +42,6 @@
 - [元InfosysトップのAI新興、5300万ドル調達のなぜ](https://ai-tech-times.web.app/articles/20260917-former-infosys-chief-ai-startup-53m.html) — 2026-09-17 00:01: パロアルトを拠点とするAIスタートアップが、新たに5300万ドルの資金調達を実施しました。創業から数か月で複数の高額な企業向け契約を獲得しています。
 - [東洋経済『会社四季報』秋号発売、市場の注目テーマを解説](https://ai-tech-times.web.app/articles/20260916-shikiho-autumn-2026-release.html) — 2026-09-16 23:00: 『会社四季報2026年4集 秋号』が9月16日に発売されました。全上場3802社の四季報を読破して見えた市場の注目テーマや最新のキーワードを、『会社四季報』の島大輔編集長が解説します。
 - [ニューヨーク原油106ドル台、中東情勢で高騰の理由](https://ai-tech-times.web.app/articles/20260916-ny-crude-oil-price-surges-106-dollars.html) — 2026-09-16 22:43: 15日のニューヨーク原油市場で、WTIの先物価格が1バレル＝106ドル台まで上昇しました。およそ4か月ぶりの高値水準となっていますが、その背景には何があるのでしょうか。
-- [北朝鮮政府に50億円余りの賠償命令、韓国裁判所](https://ai-tech-times.web.app/articles/20260916-korea-court-orders-compensation-from-north-korea.html) — 2026-09-16 22:43: 北朝鮮が2020年に南北の共同連絡事務所を爆破したことをめぐり、韓国の裁判所は北朝鮮政府に対し、日本円で50億円余りの賠償金を支払うよう命じました。
 
 ## 世界のバズ動画TOP3 (2026-09-17)
 - 1位: [Falling In Reverse - "Joseph" (feat. Corey Taylor and Serj Tankian)](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
@@ -61,8 +61,8 @@
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
-- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): テスラやスペースXなどの最高経営責任者を務める世界的な実業家。革新的なテクノロジー企業を多数率いる。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
