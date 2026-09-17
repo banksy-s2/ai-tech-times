@@ -1,21 +1,65 @@
 {
- "updated": "2026-09-17 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-17 21:04",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "TBS福澤監督がVIVANT撮影中にスタッフを骨折させた理由",
-   "path": "/articles/20260917-vivant-director-harassment-tbs.html",
+   "title": "OpenAIが新枠組み公開、モデルのミスアライメント6事例とは",
+   "path": "/articles/20260917-openai-misalignment-framework-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ChatGPT共著者が開発、LLMの193倍速い判断AI「Jev」とは",
+   "path": "/articles/20260917-jev-193x-faster-ai-than-llm.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Pulley、Carta競合の株主管理プラットフォームが12月で閉鎖へ",
+   "path": "/articles/20260917-pulley-a-carta-rival-is-shutting-down.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Arm CEO、新型AIチップで20億ドル売上目標達成に自信",
+   "path": "/articles/20260917-arm-ceo-ai-chip-revenue-goal.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "VTuber・しぐれうい、コラボ企画中止の背景を説明",
+   "path": "/articles/20260917-shigure-ui-collaboration-cancellation.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "日銀、政策金利1.25％へ引き上げ判断か",
+   "path": "/articles/20260917-boj-monetary-policy-meeting-rate-hike.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米下院、ロシア原油輸入国に100％関税法案可決の理由",
+   "path": "/articles/20260917-us-house-passes-100-percent-tariff-bill.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "個人資産2519兆円で過去最高、株高の背景とは",
+   "path": "/articles/20260917-personal-financial-assets-record-high-2519-trillion-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "三菱重工業、PFNと資本業務提携で100億円出資",
+   "path": "/articles/20260917-mhi-pfns-capital-and-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Anthropic merges Claude chat and Cowork ",
+  "執筆失敗: After accusations of selling ‘perv glass",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": 5,
  "gemini": {
-  "used": 51,
+  "used": 79,
   "limit": 200
  }
 }

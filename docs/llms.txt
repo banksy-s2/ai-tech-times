@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 20:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 21:04 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAIが新枠組み公開、モデルのミスアライメント6事例とは](https://ai-tech-times.web.app/articles/20260917-openai-misalignment-framework-2026.html) — 2026-09-17 21:04: OpenAIは、AIモデルの開発過程で確認されたミスアライメント事例を追跡・公表するための新枠組みを発表しました。実害の有無を問わず迅速に情報共有する方針を示しています。
+- [ChatGPT共著者が開発、LLMの193倍速い判断AI「Jev」とは](https://ai-tech-times.web.app/articles/20260917-jev-193x-faster-ai-than-llm.html) — 2026-09-17 21:04: はてなブックマークITによると、ChatGPTの共著研究者が、LLMの193倍速いとされる“判断だけのAI”「Jev」を開発しました。
+- [Pulley、Carta競合の株主管理プラットフォームが12月で閉鎖へ](https://ai-tech-times.web.app/articles/20260917-pulley-a-carta-rival-is-shutting-down.html) — 2026-09-17 21:04: General CatalystやStripeなどの支援を受けてきた資本政策（Cap table）管理プラットフォームのPulleyが、12月に事業を終了すると発表しました。
+- [Arm CEO、新型AIチップで20億ドル売上目標達成に自信](https://ai-tech-times.web.app/articles/20260917-arm-ceo-ai-chip-revenue-goal.html) — 2026-09-17 21:04: 半導体設計大手のArmのCEOが、水曜日に新たなAIチップをめぐる顧客からの20億ドルの需要に応える供給確保へ自信を示しました。
+- [VTuber・しぐれうい、コラボ企画中止の背景を説明](https://ai-tech-times.web.app/articles/20260917-shigure-ui-collaboration-cancellation.html) — 2026-09-17 21:04: 人気VTuberのしぐれういさんが、予定されていたコラボ企画を中止した背景について説明を行いました。
+- [日銀、政策金利1.25％へ引き上げ判断か](https://ai-tech-times.web.app/articles/20260917-boj-monetary-policy-meeting-rate-hike.html) — 2026-09-17 21:04: 日銀は17日から金融政策決定会合を開催しており、18日には政策金利を1.25％程度へ引き上げるかどうかの最終判断を下す見通しです。
+- [米下院、ロシア原油輸入国に100％関税法案可決の理由](https://ai-tech-times.web.app/articles/20260917-us-house-passes-100-percent-tariff-bill.html) — 2026-09-17 21:04: アメリカ議会下院は、ロシアから原油や天然ガスを輸入する主要国に対し、最大100％の関税を課す法案を賛成多数で可決しました。
+- [個人資産2519兆円で過去最高、株高の背景とは](https://ai-tech-times.web.app/articles/20260917-personal-financial-assets-record-high-2519-trillion-yen.html) — 2026-09-17 21:04: NHK経済の報道によると、個人が保有する預金や株式などの金融資産がことし6月末時点で2519兆円に達し、過去最高を更新しました。
+- [三菱重工業、PFNと資本業務提携で100億円出資](https://ai-tech-times.web.app/articles/20260917-mhi-pfns-capital-and-business-alliance.html) — 2026-09-17 21:04: 三菱重工業は、Preferred Networksと資本業務提携を締結し、総額100億円の出資を行うことを発表しました。この提携により大幅続伸となっています。
 - [TBS福澤監督がVIVANT撮影中にスタッフを骨折させた理由](https://ai-tech-times.web.app/articles/20260917-vivant-director-harassment-tbs.html) — 2026-09-17 20:01: 大ヒットドラマ「VIVANT」の撮影現場で、監督を務める福澤克雄氏がスタッフを押し倒し骨折させていたことが「週刊文春」の取材で判明しました。TBSはパワーハラスメントに該当するとして厳正な措置を行ったと回答しています。
 - [X、USユーザー向けに株取引機能を提供開始](https://ai-tech-times.web.app/articles/20260917-x-cashtags-trading.html) — 2026-09-17 19:01: Xは、USのユーザーを対象にカスタムタグを通じた取引機能の提供を開始しました。タイムライン上での市場の議論と実際の市場の距離を縮める狙いがあります。
 - [ITmedia AI+取材：ローカルLLM活用クリニックの真実](https://ai-tech-times.web.app/articles/20260917-local-llm-clinic-itmedia.html) — 2026-09-17 18:01: ローカルLLMを利用しているクリニックが話題となっています。院長自ら環境を構築したその実態について、ITmedia AI+が関係者に話を聞きました。
@@ -33,30 +42,21 @@
 - [OpenAI、来年の大型IPOへ向け投資家と協議](https://ai-tech-times.web.app/articles/20260917-openai-investors-approached-funding-round.html) — 2026-09-17 17:07: 人工知能開発の最前線を走るOpenAIを巡り、来年の大型IPO（新規株式公開）に向けた動きが活発化しています。
 - [Amazon、最大3億4000万ドル分の株購入権利を取得](https://ai-tech-times.web.app/articles/20260917-amazon-obtains-generac-stock-warrants.html) — 2026-09-17 17:07: Amazonがデータセンター用バックアップ発電機の供給契約の一環として、最大3億4000万ドル相当の株式購入権を取得しました。
 - [米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは](https://ai-tech-times.web.app/articles/20260917-frb-rate-hike-2026-09.html) — 2026-09-17 17:07: アメリカのFRBは16日まで開いた会合で、3年2か月ぶりとなる0.25％の利上げを決定しました。年内に追加利上げに踏み切るかどうかが焦点となっています。
-- [エヌビディアCEO「AI開発に新たな規制必要ない」](https://ai-tech-times.web.app/articles/20260917-nvidia-ceo-no-new-ai-regulation.html) — 2026-09-17 17:07: AI開発を巡り減速や規制を求める声が相次ぐ中、半導体大手エヌビディアのCEOが示した見解とは。
-- [ミンカブ株価がストップ高気配、ライブドア買収報道で](https://ai-tech-times.web.app/articles/20260917-minkabu-stock-sbi-livedoor.html) — 2026-09-17 17:07: ミンカブの株価がストップ高気配となりました。ライブドアをSBIが買収するという報道を受けたものです。
-- [サンマルクHD、つるとんたん事業を120億円で譲り受け](https://ai-tech-times.web.app/articles/20260917-san-hd-tsurutontan-acquisition.html) — 2026-09-17 17:07: 外食大手のサンマルクホールディングスが、都内や海外で店舗を展開するうどんチェーン「つるとんたん」などの運営会社から、事業を譲り受けると発表しました。
-- [Apple、AI需要の急増を受けてサーバー事業へ再参入か](https://ai-tech-times.web.app/articles/20260917-apple-might-make-servers-again-ai-nvidia.html) — 2026-09-17 16:01: 米Appleが、AI業界の拡大に伴う計算能力の需要増に対応するため、サーバー市場へ再参入する計画を進めていることが分かりました。NVIDIAとの提携の可能性も報じられています。
-- [Google HomeがAIで進化、自然言語で家電操作が可能に](https://ai-tech-times.web.app/articles/20260917-google-home-mcp-server-ai.html) — 2026-09-17 16:01: Googleは、Google Home向けの新しいMCPサーバーの早期アクセス提供を開始しました。これにより、AIエージェントが接続されたデバイスを自然言語で制御できるようになります。
-- [ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ](https://ai-tech-times.web.app/articles/20260917-euglena-fy2026-q3-results.html) — 2026-09-17 15:01: ユーグレナはFY2026 Q3決算説明会において、売上高を530億円に上方修正し、9期ぶりの最終黒字化へ向かう見通しを発表しました。
-- [Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策](https://ai-tech-times.web.app/articles/20260917-aiuc-raises-40-million-series-a.html) — 2026-09-17 00:01: Anthropicの初期メンバーと元METR COOが立ち上げたAIUCが、暴走するAIエージェントを制御する手法を見出し、シリーズAラウンドで4000万ドルを調達しました。
-- [元InfosysトップのAI新興、5300万ドル調達のなぜ](https://ai-tech-times.web.app/articles/20260917-former-infosys-chief-ai-startup-53m.html) — 2026-09-17 00:01: パロアルトを拠点とするAIスタートアップが、新たに5300万ドルの資金調達を実施しました。創業から数か月で複数の高額な企業向け契約を獲得しています。
-- [東洋経済『会社四季報』秋号発売、市場の注目テーマを解説](https://ai-tech-times.web.app/articles/20260916-shikiho-autumn-2026-release.html) — 2026-09-16 23:00: 『会社四季報2026年4集 秋号』が9月16日に発売されました。全上場3802社の四季報を読破して見えた市場の注目テーマや最新のキーワードを、『会社四季報』の島大輔編集長が解説します。
 
 ## 世界のバズ動画TOP3 (2026-09-17)
 - 1位: [Falling In Reverse - "Joseph" (feat. Corey Taylor and Serj Tankian)](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [ADÉLA - Ain’t In LA (Live) | Spotify RADAR](https://www.youtube.com/watch?v=P1KGml6DcV0)
-- 3位: [Path of Titans: Leedsichthys Update - Launch Trailer](https://www.youtube.com/watch?v=Aw-sTvzpr5E)
+- 3位: [The Hunger Games: Sunrise on the Reaping (2026) Official Trailer 2 - Joseph Zada](https://www.youtube.com/watch?v=lYXtL5TreOE)
 
-## AI用語事典 (全1549語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1554語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): アメリカに本拠を置き、世界最大の検索エンジンを主軸に、OSやクラウドサービス、AI開発などを幅広く手がける巨大テクノロジー企業。
 - [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
-- [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
+- [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。
 - [Amazonとは](https://ai-tech-times.web.app/term/amazon.html): アメリカに本拠地を置き、世界最大級の電子商取引やクラウドサービスなどを手掛ける企業。
 - [Microsoftとは](https://ai-tech-times.web.app/term/microsoft.html): アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015191081000",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45TlhkZVNiYWVSQXNnZlFnUFBXdW1RUkN0WUROVFo4TVZFRHJwdEFKNXpTVFhNR0tjaHhnVjUxYWxvY2xwYmdvX09DU21JTWJGNHJ2Zzlpdw?oc=5",
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTm44aWhSTHBIc21NZjBRa2VXdk41MU1udGM2T1ZiQVhQLTQ1dXlnWWRHTG9LTDVYdlY3YUd2a1ZQb3NqVGZ0SGVNMTMxTU1VN0F1YWRzMC0xc2RjSDdlWXNaTDV1Wk9CVHRGWnRxa1ZCa3BNQUxjRW9fTG4tV2haNw?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZSV9CdnQ5b0Z5clRfaWtPOUJYdVR5dVVYQzBFek9sMUZtam1nTTFOR0lZWEdKTHJGdkUwZlJ5QUsyMGRFXzM2bmU2OVI1TkswM0xCSFJYT2djb09FVWtZ?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260917de50837",
   "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/",
   "https://togetter.com/li/2746597",
-  "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
+  "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+  "https://news.yahoo.co.jp/articles/cddcae86bf4f017d22a6bb2d224b5a29457ed64b"
  ],
  "titles": [
-  "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-  "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
   "イラン関与のサイバー攻撃でイギリスの小型発電所が停止",
   "ウォルマート傘下フリップカート、1日120万件超の注文を達成し首位追う",
   "現役VTuberが明かした教育虐待、いじめ、ひきこもり…「心がすり減っていって、もう人生終わってもいいやって…」 - Yahoo!ニュース",
@@ -4001,6 +3999,8 @@
   "ITmedia AI+取材：ローカルLLM活用クリニックの真実",
   "レベルファイブ新作PVのAI使用で日野晃博氏が説明",
   "X will now let US users trade via Cashtags",
-  "X、USユーザー向けに株取引機能を提供開始"
+  "X、USユーザー向けに株取引機能を提供開始",
+  "『VIVANT』監督がスタッフを押し倒し骨折させていた TBSは「ハラスメントに該当」「厳正に措置を行った」と回答（文春オンライン） - Yahoo!ニュース",
+  "TBS福澤監督がVIVANT撮影中にスタッフを骨折させた理由"
  ]
 }
