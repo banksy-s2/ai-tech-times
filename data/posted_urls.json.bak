@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015190851000",
   "https://news.web.nhk/newsweb/na/na-k10015191081000",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45TlhkZVNiYWVSQXNnZlFnUFBXdW1RUkN0WUROVFo4TVZFRHJwdEFKNXpTVFhNR0tjaHhnVjUxYWxvY2xwYmdvX09DU21JTWJGNHJ2Zzlpdw?oc=5",
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTm44aWhSTHBIc21NZjBRa2VXdk41MU1udGM2T1ZiQVhQLTQ1dXlnWWRHTG9LTDVYdlY3YUd2a1ZQb3NqVGZ0SGVNMTMxTU1VN0F1YWRzMC0xc2RjSDdlWXNaTDV1Wk9CVHRGWnRxa1ZCa3BNQUxjRW9fTG4tV2haNw?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTDFZeEFLN19idXptUlU0YW9CNXFORTFSQ1E1MmhLTlltVDNjVGM0aGtidDRyY25hVjcteHJpbXpnTGVpMHdlZ0EzVTdKb3hFeGxWMEFkWkVKdFJPUVpDZWJQVjBrb3doZ2VMWg?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260917de50837",
   "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/",
-  "https://togetter.com/li/2746597"
+  "https://togetter.com/li/2746597",
+  "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
  ],
  "titles": [
-  "人月ビジネスの終焉、SIerはなぜ数年で詰むのか",
-  "AlphaSense、Gemma 4 31BがSonnet 5と同一品質を40分の1で実現可能と発表",
   "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
   "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
   "イラン関与のサイバー攻撃でイギリスの小型発電所が停止",
@@ -4001,6 +3999,8 @@
   "ローカルLLM利用のクリニックが話題　院長自ら環境を構築　「医療機器より安い」は本当か",
   "「新しいフェーズに入った印象ある」レベルファイブの新作PVにAIが使われていて話題→使ったかどうかだけでなく、最終的なクオリティーが重要なのかも",
   "ITmedia AI+取材：ローカルLLM活用クリニックの真実",
-  "レベルファイブ新作PVのAI使用で日野晃博氏が説明"
+  "レベルファイブ新作PVのAI使用で日野晃博氏が説明",
+  "X will now let US users trade via Cashtags",
+  "X、USユーザー向けに株取引機能を提供開始"
  ]
 }

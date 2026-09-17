@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 19:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 20:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [TBS福澤監督がVIVANT撮影中にスタッフを骨折させた理由](https://ai-tech-times.web.app/articles/20260917-vivant-director-harassment-tbs.html) — 2026-09-17 20:01: 大ヒットドラマ「VIVANT」の撮影現場で、監督を務める福澤克雄氏がスタッフを押し倒し骨折させていたことが「週刊文春」の取材で判明しました。TBSはパワーハラスメントに該当するとして厳正な措置を行ったと回答しています。
 - [X、USユーザー向けに株取引機能を提供開始](https://ai-tech-times.web.app/articles/20260917-x-cashtags-trading.html) — 2026-09-17 19:01: Xは、USのユーザーを対象にカスタムタグを通じた取引機能の提供を開始しました。タイムライン上での市場の議論と実際の市場の距離を縮める狙いがあります。
 - [ITmedia AI+取材：ローカルLLM活用クリニックの真実](https://ai-tech-times.web.app/articles/20260917-local-llm-clinic-itmedia.html) — 2026-09-17 18:01: ローカルLLMを利用しているクリニックが話題となっています。院長自ら環境を構築したその実態について、ITmedia AI+が関係者に話を聞きました。
 - [レベルファイブ新作PVのAI使用で日野晃博氏が説明](https://ai-tech-times.web.app/articles/20260917-level-five-ai-pv-update.html) — 2026-09-17 18:01: 「LEVEL５VISION2026Ⅱ」のイベント内映像でAIが使用された件について、日野晃博氏が説明を行い話題となっています。
@@ -41,14 +42,13 @@
 - [Ribbit Capital主導の4000万ドル調達：AIUCの暴走防止策](https://ai-tech-times.web.app/articles/20260917-aiuc-raises-40-million-series-a.html) — 2026-09-17 00:01: Anthropicの初期メンバーと元METR COOが立ち上げたAIUCが、暴走するAIエージェントを制御する手法を見出し、シリーズAラウンドで4000万ドルを調達しました。
 - [元InfosysトップのAI新興、5300万ドル調達のなぜ](https://ai-tech-times.web.app/articles/20260917-former-infosys-chief-ai-startup-53m.html) — 2026-09-17 00:01: パロアルトを拠点とするAIスタートアップが、新たに5300万ドルの資金調達を実施しました。創業から数か月で複数の高額な企業向け契約を獲得しています。
 - [東洋経済『会社四季報』秋号発売、市場の注目テーマを解説](https://ai-tech-times.web.app/articles/20260916-shikiho-autumn-2026-release.html) — 2026-09-16 23:00: 『会社四季報2026年4集 秋号』が9月16日に発売されました。全上場3802社の四季報を読破して見えた市場の注目テーマや最新のキーワードを、『会社四季報』の島大輔編集長が解説します。
-- [ニューヨーク原油106ドル台、中東情勢で高騰の理由](https://ai-tech-times.web.app/articles/20260916-ny-crude-oil-price-surges-106-dollars.html) — 2026-09-16 22:43: 15日のニューヨーク原油市場で、WTIの先物価格が1バレル＝106ドル台まで上昇しました。およそ4か月ぶりの高値水準となっていますが、その背景には何があるのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-17)
 - 1位: [Falling In Reverse - "Joseph" (feat. Corey Taylor and Serj Tankian)](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [ADÉLA - Ain’t In LA (Live) | Spotify RADAR](https://www.youtube.com/watch?v=P1KGml6DcV0)
 - 3位: [Path of Titans: Leedsichthys Update - Launch Trailer](https://www.youtube.com/watch?v=Aw-sTvzpr5E)
 
-## AI用語事典 (全1547語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1549語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

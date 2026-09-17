@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-17 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-17 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "X、USユーザー向けに株取引機能を提供開始",
-   "path": "/articles/20260917-x-cashtags-trading.html",
-   "cat": "シリコンバレー最速"
+   "title": "TBS福澤監督がVIVANT撮影中にスタッフを骨折させた理由",
+   "path": "/articles/20260917-vivant-director-harassment-tbs.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [
-  "執筆失敗: May Mobility is going public in a $1.4B "
- ],
+ "notes": [],
  "pv_today": 5,
  "gemini": {
-  "used": 47,
+  "used": 51,
   "limit": 200
  }
 }

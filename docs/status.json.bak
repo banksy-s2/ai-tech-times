@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-17 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-17 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+取材：ローカルLLM活用クリニックの真実",
-   "path": "/articles/20260917-local-llm-clinic-itmedia.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "レベルファイブ新作PVのAI使用で日野晃博氏が説明",
-   "path": "/articles/20260917-level-five-ai-pv-update.html",
-   "cat": "日本のAI"
+   "title": "X、USユーザー向けに株取引機能を提供開始",
+   "path": "/articles/20260917-x-cashtags-trading.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: May Mobility is going public in a $1.4B "
+ ],
  "pv_today": 5,
  "gemini": {
-  "used": 42,
+  "used": 47,
   "limit": 200
  }
 }
