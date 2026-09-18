@@ -91421,5 +91421,39 @@
   "date": "2026-09-18",
   "time": "13:10",
   "path": "/articles/20260918-ny-dow-drops-over-900-dollars.html"
+ },
+ {
+  "title": "日経平均株価、一時1300円高の理由",
+  "lead": "日経平均株価が一時1300円高を記録しました。日銀利上げに伴う「政策後手」懸念の後退が背景にあります。",
+  "summary3": [
+   "日経平均株価が一時1300円高を記録",
+   "日銀利上げに伴い政策後手懸念が後退",
+   "日本経済新聞が市場の動きを報じる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、日経平均株価が一時1300円高を記録しました。市場では日銀の利上げが行われたことを受けて、「政策後手」への懸念が後退したことが伝えられています。",
+   "今回の株価の動きは日本経済新聞によって報じられました。日銀の政策対応に関する懸念が和らいだことが、市場における相場の上昇要因として注目されています。",
+   "株式市場におけるこのような大きな変動や政策に関する動向は、投資家だけでなく多くの市場関係者の関心を集めています。引き続き金融政策と市場の反応に注目が集まる見通しです。"
+  ],
+  "tags": [
+   "日経平均株価",
+   "日銀利上げ",
+   "日本経済新聞"
+  ],
+  "slug": "nikkei-average-rises-1300-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした報道を行う日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc3RhMHNYcHpXaXV5VzB0cGNDRWxxTVhHMV8zSHdvYzQyZmRGaFJVaFhjLTMtQ0JINnRFZlFOOTU1TmRCdUY5Y2VpblJSMThrZmE3bVBIcEcwU3NsWV9RWFVGT1VHV0c3VklsNg?oc=5",
+  "category": "stock",
+  "date": "2026-09-18",
+  "time": "14:00",
+  "path": "/articles/20260918-nikkei-average-rises-1300-yen.html"
  }
 ]
