@@ -92025,5 +92025,78 @@
   "date": "2026-09-18",
   "time": "18:01",
   "path": "/articles/20260918-lawson-generative-ai-products.html"
+ },
+ {
+  "title": "Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由",
+  "lead": "Khosla Venturesの支援を受ける地熱発電スタートアップのMazama Energyが、超高温岩石層の掘削に向けて1億3500万ドルを調達しました。",
+  "summary3": [
+   "Mazama Energyが1億3500万ドルを調達",
+   "地下3マイルの超高温岩石層を掘削して開発",
+   "1つの井戸で15MWの電力を24時間供給可能"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Khosla-backedとして知られる地熱発電スタートアップのMazama Energyは、地下3マイル（約4.8キロメートル）の深さにある超高温岩石層を活用するため、新たに1億3500万ドルの資金調達を実施しました。",
+   "今回のプロジェクトでは、地下深くの熱を利用して発電を行う最先端の地熱発電技術に挑んでいます。公開された情報によると、掘削される一つの井戸だけで、15メガワットの電力を24時間年中無休で発電する能力を秘めているとのことです。",
+   "従来の地熱発電の常識を覆す可能性を持つこの深部掘削技術は、安定したクリーンエネルギー供給の新たな選択肢として注目を集めています。今回の巨額調達をバネに、実用化に向けた開発がどのように加速していくのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "地熱発電",
+   "再生可能エネルギー",
+   "資金調達"
+  ],
+  "slug": "mazama-energy-raises-135m-geothermal",
+  "people": [],
+  "terms": [
+   {
+    "name": "Mazama Energy",
+    "type": "company",
+    "desc": "地下深くの超高温岩石層を活用した次世代の地熱発電技術を開発しているスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+  "category": "silicon",
+  "date": "2026-09-18",
+  "time": "19:01",
+  "path": "/articles/20260918-mazama-energy-raises-135m-geothermal.html"
+ },
+ {
+  "title": "Moonshot、中国AIと金融大手が結ぶ壁",
+  "lead": "中国のAIスタートアップであるMoonshotが、ウォール街をリードする金融データプロバイダーや投資銀行とモデルを接続し、金融サービス市場への展開を進めています。",
+  "summary3": [
+   "Moonshotが金融データと接続",
+   "CICCなどの大手金融機関が参加",
+   "AIモデルの実用化が金融で加速"
+  ],
+  "body": [
+   "中国のAIスタートアップであるMoonshotは、金融業界の巨人たちと手を組みました。投資銀行であるCICCからベンチャーキャピタル企業に至るまで、多数の金融関連の主要プロバイダーとの提携に署名したことが明らかになっています。",
+   "今回の動きにより、同社のAIモデルはウォール街をリードするデータプロバイダーと接続されることになります。金融分野における高度なデータ処理や分析業務へのAI活用が、どのように実用化されていくのかが注目されています。",
+   "AI技術の進化が続く中、金融という厳格な正確性が求められる領域でAIスタートアップがどのような価値を提供できるのか、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Moonshot",
+   "金融AI",
+   "CICC"
+  ],
+  "slug": "china-moonshot-kimi-financial-services",
+  "people": [],
+  "terms": [
+   {
+    "name": "Moonshot",
+    "type": "company",
+    "desc": "中国を拠点とするAIスタートアップ企業で、先進的なAIモデルの開発を手がけている。"
+   },
+   {
+    "name": "CICC",
+    "type": "company",
+    "desc": "中国国際金融株式会社。中国を代表する大手投資銀行であり、総合的な金融サービスを提供する。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+  "category": "silicon",
+  "date": "2026-09-18",
+  "time": "19:01",
+  "path": "/articles/20260918-china-moonshot-kimi-financial-services.html"
  }
 ]

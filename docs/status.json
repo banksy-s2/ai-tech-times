@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-18 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-18 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "資生堂、原料探索時間を95％削減できたワケ",
-   "path": "/articles/20260918-shiseido-ai-agent-raw-material.html",
-   "cat": "日本のAI"
+   "title": "Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由",
+   "path": "/articles/20260918-mazama-energy-raises-135m-geothermal.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ローソン「ピクルス風味のレモンタルト」などを生成AIが開発した理由は",
-   "path": "/articles/20260918-lawson-generative-ai-products.html",
-   "cat": "日本のAI"
+   "title": "Moonshot、中国AIと金融大手が結ぶ壁",
+   "path": "/articles/20260918-china-moonshot-kimi-financial-services.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 42,
+  "used": 48,
   "limit": 200
  }
 }

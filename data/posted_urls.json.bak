@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://toyokeizai.net/articles/-/953055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnpvSTdHNEkzRHVQa202dFgzcFpHcWxHN0F5UzFFMHpIVEhKWTFuWVBDVFJiUHdnSVlTQW5weERiU2pLZG5GcVZBYXdsSDhFSzc0Y1JlLUE4Z01tbGp2M1NWSS1CZVZTWFNVWmZOZjBTTnlPVlQyVnpqREMwWHd4cUtSRnR2Y3YzSTJMR2FfOVpHYnp5UVZzS3VJOHMzVXlIZHBYekpzYks4Q0E0VjQ5cFVoclhrNU5PSEtOQkg0TDRLMEpVb2JHZlhqTU8?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVXJTUVhEOWpFSDFMMkh6elBrdUNUQVFLM2JpZ1lhOU1ab0Uza043dkVvY0l4ay1yaDgyTFloTnd0SUltckdab3I3S3Y0WUF0aFk0UVhDQmRYc2ZqNHhJYU84UTJ0YXJWT3lGUDlIckVXNFFNQVdLSFdXQWM?oc=5",
   "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
   "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260918de51050",
   "https://news.web.nhk/newsweb/na/nd-20260918de50983",
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WTZpOEQ2enRCTzd4QW5qYVlPbmY2eHN2TWxzRy1pcy03VUJoU2c2YW1jYWhzSjNPMmlUNVBaa3BFYlYxUF9hWXUwQmUtUmt5SXpvU3pIQzlxSmF0TEttdldn?oc=5",
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zX2VIVEtsYm56aUl6cXg1azB4aUJCcW0tNDZoSVVtNDRFdWlDNDRQTHk3bjdDRXYtN0ZGWmc5TWE5Rm5YcTFfVW9TcDVHMFR0QWNpSGx6Sk56TlljWHdPYWl1T0hvX2xud3c?oc=5"
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zX2VIVEtsYm56aUl6cXg1azB4aUJCcW0tNDZoSVVtNDRFdWlDNDRQTHk3bjdDRXYtN0ZGWmc5TWE5Rm5YcTFfVW9TcDVHMFR0QWNpSGx6Sk56TlljWHdPYWl1T0hvX2xud3c?oc=5",
+  "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
+  "https://www.itmedia.co.jp/news/article/2609/18/2000001621/"
  ],
  "titles": [
-  "りくりゅうペア婚約発表、ファンから祝福の声",
-  "ウクライナのゼレンスキー大統領、ロシアの年間1300発ミサイル増産に警戒",
-  "ドトールとコメダが売上高・最終利益過去最高を更新、なぜ両社は好調なのか",
-  "ドンキ年間2.4億円売れる1キロ超え弁当、多いだけでガッカリさせない工夫とは",
   "Shein aims for almost $27bn valuation in stock market debut",
   "NASA 次世代宇宙望遠鏡打ち上げへ 視野は従来型の100倍超え",
   "SHEIN、香港上場へ約27億ドルの評価額",
@@ -4001,6 +3997,10 @@
   "農林水産省、アメリカ産ジャガイモ輸入解禁説明会で生産者から懸念の声",
   "高市首相、来週トランプ大統領と会談へ",
   "日経平均後場1000円超高、日銀利上げペース鈍化の背景",
-  "ＳＱＵＥＥＺＥ、ヒューリックとの資本業務提携を発表"
+  "ＳＱＵＥＥＺＥ、ヒューリックとの資本業務提携を発表",
+  "資生堂、AIエージェントで原料探索時間を95％削減　研究員の「目利き」を複数LLMで再現",
+  "ローソン「生成AIが考えた商品」発売　「ピクルス風味のレモンタルト」など",
+  "資生堂、原料探索時間を95％削減できたワケ",
+  "ローソン「ピクルス風味のレモンタルト」などを生成AIが開発した理由は"
  ]
 }

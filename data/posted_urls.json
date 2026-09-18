@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVXJTUVhEOWpFSDFMMkh6elBrdUNUQVFLM2JpZ1lhOU1ab0Uza043dkVvY0l4ay1yaDgyTFloTnd0SUltckdab3I3S3Y0WUF0aFk0UVhDQmRYc2ZqNHhJYU84UTJ0YXJWT3lGUDlIckVXNFFNQVdLSFdXQWM?oc=5",
-  "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
   "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
   "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
   "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WTZpOEQ2enRCTzd4QW5qYVlPbmY2eHN2TWxzRy1pcy03VUJoU2c2YW1jYWhzSjNPMmlUNVBaa3BFYlYxUF9hWXUwQmUtUmt5SXpvU3pIQzlxSmF0TEttdldn?oc=5",
   "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zX2VIVEtsYm56aUl6cXg1azB4aUJCcW0tNDZoSVVtNDRFdWlDNDRQTHk3bjdDRXYtN0ZGWmc5TWE5Rm5YcTFfVW9TcDVHMFR0QWNpSGx6Sk56TlljWHdPYWl1T0hvX2xud3c?oc=5",
   "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-  "https://www.itmedia.co.jp/news/article/2609/18/2000001621/"
+  "https://www.itmedia.co.jp/news/article/2609/18/2000001621/",
+  "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+  "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html"
  ],
  "titles": [
-  "Shein aims for almost $27bn valuation in stock market debut",
-  "NASA 次世代宇宙望遠鏡打ち上げへ 視野は従来型の100倍超え",
-  "SHEIN、香港上場へ約27億ドルの評価額",
-  "NASA、従来型超えの次世代宇宙望遠鏡を打ち上げへ",
   "スズキ 軽乗用車のEV公開 参入相次ぎ普及なるか",
   "スズキ初の軽乗用車EV公開、今後の普及は",
   "SHIFT、440人の採用ストップ　新卒はAI活用で10年分スキルを1年で習得（日経ビジネス） - Yahoo!ニュース",
@@ -4001,6 +3997,10 @@
   "資生堂、AIエージェントで原料探索時間を95％削減　研究員の「目利き」を複数LLMで再現",
   "ローソン「生成AIが考えた商品」発売　「ピクルス風味のレモンタルト」など",
   "資生堂、原料探索時間を95％削減できたワケ",
-  "ローソン「ピクルス風味のレモンタルト」などを生成AIが開発した理由は"
+  "ローソン「ピクルス風味のレモンタルト」などを生成AIが開発した理由は",
+  "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+  "A Chinese AI company just connected its model to Wall Street's leading data providers",
+  "Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由",
+  "Moonshot、中国AIと金融大手が結ぶ壁"
  ]
 }
