@@ -93314,5 +93314,72 @@
   "date": "2026-09-19",
   "time": "07:04",
   "path": "/articles/20260919-minkabu-nttdata-sbi-financial-partnership.html"
+ },
+ {
+  "title": "ChatGPT開発者の新AI「Jev」、開発者に支持される理由",
+  "lead": "ChatGPTの開発者による新しいAIモデル「Jev」が、ソフトウェアの知能化に向けてより安価で高速な道を示し、開発者の間で話題を集めています。",
+  "summary3": [
+   "ChatGPT開発者による新AI「Jev」が登場",
+   "ソフトウェアの知能化を安価かつ高速に実現",
+   "新しいアプローチに多くの開発者が注目"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、AI技術の最前線に関する最新情報が入ってまいりました。テック界で大きな影響力を持つChatGPTの元発明者が手がけた、まったく新しい種類のAIモデル「Jev」が発表され、開発者たちの間で大きな興奮を呼んでいます。",
+   "従来のAIモデル運用には高いコストと時間がかかることが課題となっていましたが、「Jev」はその常識を覆す可能性を秘めています。ソフトウェアに高度な知能を組み込むための、より安価で高速なルートを提示している点が、多くのエンジニアや開発者から高く評価されている理由です。",
+   "今回の新モデルの登場により、今後のソフトウェア開発の効率化やコスト削減がどのように進むのか、業界全体の期待値が急速に高まっています。今後の動向からますます目が離せません。"
+  ],
+  "tags": [
+   "AI",
+   "ChatGPT",
+   "ソフトウェア開発"
+  ],
+  "slug": "new-ai-model-jev-chatgpt-inventor",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "米OpenAIが開発した、人間のような自然な対話が可能な大規模言語モデルおよび対話型AIサービス。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "08:00",
+  "path": "/articles/20260919-new-ai-model-jev-chatgpt-inventor.html"
+ },
+ {
+  "title": "Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ",
+  "lead": "カリフォルニア州のギャビン・ニューサム知事が、AIモデルに対する「キルスイッチ」の義務化などを盛り込んだ新たな行政命令を発令しました。州がAI規制で主導権を握る狙いです。",
+  "summary3": [
+   "カリフォルニア州知事が新行政命令を発令",
+   "最先端AIモデルのキルスイッチ義務化を検討",
+   "専門家グループが2ヶ月以内に提言をまとめる予定"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、カリフォルニア州のギャビン・ニューサム知事は金曜日、州がAIの監督において主導権を握るための新たな行政命令を発令しました。この動きには、最先端のAIモデルに対して「キルスイッチ」を義務化する可能性も含まれています。",
+   "今回の知事の命令では、州内に専門家グループを招集することが指示されています。そのグループは、AI規制に関する具体的な方法についての提言を、2ヶ月以内に取りまとめて提示する予定となっています。",
+   "AI技術の急速な発展に伴い、その安全性や管理体制に対する注目が高まっています。今回のカリフォルニア州の取り組みは、今後のAI規制のあり方に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "AI規制",
+   "カリフォルニア州",
+   "ガバナンス"
+  ],
+  "slug": "newsom-ai-kill-switch-california",
+  "people": [
+   {
+    "name": "ギャビン・ニューサム",
+    "bio": "アメリカ・カリフォルニア州の知事を務める政治家であり、民主党に所属しています。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "08:00",
+  "path": "/articles/20260919-newsom-ai-kill-switch-california.html"
  }
 ]

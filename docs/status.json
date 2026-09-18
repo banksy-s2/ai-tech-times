@@ -1,73 +1,26 @@
 {
- "updated": "2026-09-19 07:04",
- "mode": "フル便",
+ "updated": "2026-09-19 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Disney、キャラ無断使用で警告したAI企業の元CEOを初代CTOに起かつてどうなる",
-   "path": "/articles/20260919-disney-first-cto-character-ai.html",
+   "title": "ChatGPT開発者の新AI「Jev」、開発者に支持される理由",
+   "path": "/articles/20260919-new-ai-model-jev-chatgpt-inventor.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAIとマイクロソフトがウェブの破壊を警告",
-   "path": "/articles/20260919-openai-microsoft-doom-loop-web.html",
+   "title": "Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ",
+   "path": "/articles/20260919-newsom-ai-kill-switch-california.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "日販が米AI企業に書籍販売、業界団体が説明要求へ",
-   "path": "/articles/20260919-nippan-book-sales-ai-anthropic.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "DXER調査：従業員1人年間147時間の損失",
-   "path": "/articles/20260919-dxer-it-environment-survey.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Angle Health評価額27億ドル突破、中小企業向け保険の秘密",
-   "path": "/articles/20260919-angle-health-valuation-2-7b.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "SpaceX、NASAから9億5000万ドルを受注しISSへの有人飛行を継続",
-   "path": "/articles/20260919-spacex-scores-950-million-from-nasa-for-iss.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "豪選手が便漏れしながら競技続行、なぜ主催者は謝罪したのか",
-   "path": "/articles/20260919-athlete-fecal-incontinence-controversy.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日銀、物価上昇リスクで利上げ決定 今後どう景気に配慮するか",
-   "path": "/articles/20260919-boj-interest-rate-hike-policy.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "高市首相、トランプ大統領と日米首脳会談へ",
-   "path": "/articles/20260919-takaichi-trump-summit-adjustment.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均は大幅に3日続伸、65,000円台を回復した理由",
-   "path": "/articles/20260919-nikkei-average-recovers-65000-yen.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ミンカブ・NTTデータ・SBIが金融領域で新サービス創出を目指す業務提携",
-   "path": "/articles/20260919-minkabu-nttdata-sbi-financial-partnership.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 50,
+  "used": 54,
   "limit": 200
  }
 }
