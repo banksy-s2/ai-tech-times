@@ -92563,5 +92563,39 @@
   "date": "2026-09-18",
   "time": "23:00",
   "path": "/articles/20260918-nikkei-average-gains-3-days.html"
+ },
+ {
+  "title": "MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景",
+  "lead": "AI分野で競合するInstinctとMetaのMuseが、ユーザーに代わって電話をかける新機能を追加しました。レストランの予約やサブスクリプションの解約が自動化できるようになったことで、日々の手間をどのように減らせるのでしょうか。",
+  "summary3": [
+   "InstinctとMetaのMuseに通話機能が追加",
+   "レストランの予約やサブスクの解約に対応",
+   "AIエージェントがユーザーの作業を代行"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。AIアシスタントの分野において、競合するAIエージェントであるInstinctとMetaのMuseが、新たに「通話機能」を追加したことが明らかになりました。この機能により、ユーザーはAIを介して音声通話を通じた様々な手続きを行うことが可能となります。",
+   "具体的な活用方法として、レストランの予約や、不要になったサブスクリプションサービスの解約手続きなどをアシスタントに任せることが挙げられます。AIがユーザーの代わりに電話をかけることで、これまで人間が行っていた細かい連絡業務や待ち時間を大幅に削減することが期待されています。",
+   "音声通話を通じて現実世界の作業をこなすAIエージェントの進化は、私たちの日常生活をさらに便利にする可能性があります。今後、両者のAIがどのように実用性を高め、ユーザーの生活に溶け込んでいくのか注目が集まっています。"
+  ],
+  "tags": [
+   "AIエージェント",
+   "Meta",
+   "音声通話"
+  ],
+  "slug": "rival-ai-agents-instinct-and-metas-muse-add-calls",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどのソーシャルメディアを運営するアメリカの巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "00:00",
+  "path": "/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html"
  }
 ]

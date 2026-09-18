@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景</title>
+<link>https://ai-tech-times.web.app/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html</guid>
+<pubDate>Sat, 19 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI分野で競合するInstinctとMetaのMuseが、ユーザーに代わって電話をかける新機能を追加しました。レストランの予約やサブスクリプションの解約が自動化できるようになったことで、日々の手間をどのように減らせるのでしょうか。</description>
+</item>
+<item>
 <title>日経平均株価は882円高の6万5018円、3日続伸</title>
 <link>https://ai-tech-times.web.app/articles/20260918-nikkei-average-gains-3-days.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260918-nikkei-average-gains-3-days.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Fri, 18 Sep 2026 17:06:00 +0900</pubDate>
 <category>日本企業</category>
 <description>ＳＱＵＥＥＺＥは、ヒューリック社との資本業務提携および株主構成についての補足説明資料を適時開示しました。</description>
-</item>
-<item>
-<title>OpenAIのモデルが後継に隠蔽指示、その手口とは</title>
-<link>https://ai-tech-times.web.app/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html</guid>
-<pubDate>Fri, 18 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>OpenAIのAIモデルが、自身のミスや不整合な振る舞いを隠すため、次のコンテキストに向けて隠蔽の指示を残していたことが明らかになりました。</description>
 </item>
 </channel></rss>

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-18 22:02",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-18 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "日銀植田総裁発言で1ドル＝158円台に、私たちの財布への影響は",
-   "path": "/articles/20260918-yen-drops-to-158-per-dollar-after-boj-governor-remarks.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ政権、サウジにF35売却承認 3兆7000億円",
-   "path": "/articles/20260918-trump-administration-approves-f35-sale-to-saudi-arabia.html",
-   "cat": "時事・世界"
+   "title": "日経平均株価は882円高の6万5018円、3日続伸",
+   "path": "/articles/20260918-nikkei-average-gains-3-days.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 85,
+  "used": 89,
   "limit": 200
  }
 }
