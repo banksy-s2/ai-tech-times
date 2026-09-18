@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-19 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-19 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均終値6万5018円、日銀利上げで一時1300円超高",
-   "path": "/articles/20260919-nikkei-average-bank-of-japan-rate-hike.html",
-   "cat": "株式投資(日本)"
+   "title": "首都圏新築マンション、8月は5.4%下がり9770万円に",
+   "path": "/articles/20260919-tokyo-new-condo-prices-august.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 25,
   "limit": 200
  }
 }

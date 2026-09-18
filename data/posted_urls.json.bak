@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
   "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
   "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
   "https://gigazine.net/news/20260731-ai-amazon-expensive/",
@@ -1999,11 +1998,10 @@
   "https://www.47news.jp/14961757.html",
   "https://news.web.nhk/newsweb/na/nd-20260919de51169",
   "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSkRGNmtYekVtbFVTR0xTQk5HNlZsU0JFRk1uZEQ3ckxNWW9weFNNRVBpWUkyUWo5UEZuZHJmUmdlZW9yd1ZHckxqVUVDaGxfd0ZBSGd5dWhqdjRhVmpMSm5fSlA?oc=5"
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSkRGNmtYekVtbFVTR0xTQk5HNlZsU0JFRk1uZEQ3ckxNWW9weFNNRVBpWUkyUWo5UEZuZHJmUmdlZW9yd1ZHckxqVUVDaGxfd0ZBSGd5dWhqdjRhVmpMSm5fSlA?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260917de50866"
  ],
  "titles": [
-  "Hugging Face reportedly in talks to be acquired for $13B",
-  "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
   "Hugging Faceが130億ドル規模の買収交渉か、売却の行方は",
   "ゴールドマン・サックスが警告、AIが将来の銀行員の思考力を奪う巨大な危険性",
   "「乃木坂46 真夏の全国ツアー2026」落雷により避難した客が戻る前にライブが開始…現場にいた人が語る様子、運営の対応に様々な意見",
@@ -4001,6 +3999,8 @@
   "日銀が「レートチェック」実施、急な円買いの背景とは",
   "ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは",
   "日経平均終値、８８２円高の６万５０１８円…日銀の利上げ決定受け上げ幅は一時１３００円超に - 読売新聞",
-  "日経平均終値6万5018円、日銀利上げで一時1300円超高"
+  "日経平均終値6万5018円、日銀利上げで一時1300円超高",
+  "8月の首都圏新築マンション価格 4か月ぶりに1億円下回る",
+  "首都圏新築マンション、8月は5.4%下がり9770万円に"
  ]
 }
