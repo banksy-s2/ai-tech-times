@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QkM3Vk9NUWQ3T2VObDdLS1p0NDdaU21scVJycHRPZ3ZMNGExMW5USWFEYUFUV1dxS19fZ3QzeEFmVTFlMDFfSGZ6bGhmdExuNU5qdGE1LWYwNTU3Mkk5Y0N0d1ZrVnkydWNEQ0dvSVYzUU9faFRxYXo3UUtFT1U?oc=5",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Y0YyRVJ3a0VjanJIX2ZXRE9mM1g1STFYbG9xbXNDTzE0dEw2UnZLZktBLUtuVThCUjNNN2d4b0RJTHJmdGdKb0RWckp6a1VnVEdaZWMwWG9WR3E4dThqd1ZscmpXanVjRVlBdQ?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RmtpSnJWOU9pWmNFdjlJTkVRcXhrTTRVMDlzTHNaaFRNOUNMbUM0VnNuaGRvRXVraDhkVndwZDF2X3Q4OWN4TWZrQnJrNVRmTFZGRWNFSzc5QnZCdHQw?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWHByODViR3Ewb25LaXZIbVg0SFlKT1hjZlRlbEdwcUk5S2ZwaldYUHh1ZXdHUnVyNmFONzJQenZBa3V5OWZfUzBiTXZZTXdMSEd5QWlXYVdPSjZ5Y2VqRWRoSU9aeXpPTkFRMA?oc=5",
   "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kam5jN2FJWUktOWNPRHpEZkh5T0RvUTI5aElXWmh2SThoNGljUkdlcHp0QU5xVGhlS0xNXzU2S3JERHdKYkh3aUJqaEc1VXdjWGNOY25LTVJJSHdfX3dSMFhRV1dzMG1fWGg0RQ?oc=5",
   "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
   "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
-  "https://gigazine.net/news/20260918-trump-ai-regulation/"
+  "https://gigazine.net/news/20260918-trump-ai-regulation/",
+  "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+  "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
  ],
  "titles": [
-  "損保ジャパン、来年1月に自動車保険料平均5％引き上げへ",
-  "トランプ政権のICC制裁、超党派議連が即時撤回要求",
-  "ソフトバンクG株5000円割れ、英アーム株安が波及",
-  "サンリオ、GENDAと業務提携 北米市場シェア10％獲得へタッグ",
   "木原官房長官 ICC赤根所長と緊密に意思疎通 必要な支援行う",
   "Iran faces 'greatest financial offensive ever', says US treasury secretary",
   "木原官房長官、ICC赤根所長へ必要な支援行う方針",
@@ -4001,6 +3997,10 @@
   "ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」に最大の期待",
   "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
   "CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由",
-  "ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対"
+  "ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対",
+  "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+  "Security researchers used Claude to help them hack into OpenAI",
+  "Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ",
+  "OpenAI、Claude使い72時間未満でハッキング被害"
  ]
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 02:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [国立美術館6施設が10月から入館料を2～3倍に値上げ](https://ai-tech-times.web.app/articles/20260919-national-museums-ticket-price-increase.html) — 2026-09-19 03:00: 独立行政法人国立美術館は、所蔵作品展の入館料を今年10月から順次値上げすると発表しました。現行料金からおおむね2～3倍になります。
 - [Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ](https://ai-tech-times.web.app/articles/20260919-manus-seeks-4b-valuation-in-new-500m-fundraise.html) — 2026-09-19 02:00: 今年初めにMetaとの合併解消を余儀なくされたManusが、独立運営を再開し、40億ドルの企業評価額で5億ドルの資金調達に向けた協議を進めていることが明らかになりました。
 - [OpenAI、Claude使い72時間未満でハッキング被害](https://ai-tech-times.web.app/articles/20260919-openai-hack-claude-heif-heist.html) — 2026-09-19 02:00: 独立系研究者チームが、AnthropicのAIを用いてOpenAIへの不正アクセスに成功したことがウォール・ストリート・ジャーナルの報道で明らかになりました。
 - [CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由](https://ai-tech-times.web.app/articles/20260919-cesa-generative-ai-game-development-2026.html) — 2026-09-19 01:00: コンピュータエンターテインメント協会（CESA）は、日本のゲーム産業の現状を分析した年次レポートのプレビュー版を発行しました。業界内での生成AI活用を巡る初の独自調査により、開発者の8割超が業務に取り入れている実態が明らかになりました。
@@ -41,14 +42,13 @@
 - [「小さな森の家」の家族葬、CM費用の3倍必要だった](https://ai-tech-times.web.app/articles/20260918-kazokusou-shohin-chou-sochi-meirei.html) — 2026-09-18 21:03: 家族葬の式場「小さな森の家」を運営する東京・渋谷区の会社に対し、消費者庁が景品表示法違反で措置命令を出しました。CMで宣伝された費用の約3倍が必要だったことが判明しています。
 - [日銀、政策金利を1.25％に引き上げ。私たちの生活はどう変わる？](https://ai-tech-times.web.app/articles/20260918-boj-rate-hike-1-25-percent.html) — 2026-09-18 21:03: 日銀は金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決定しました。金融機関の動きや私たちの生活への影響が注目されています。
 - [Cosel、受注高154.9%増・BBレシオ1.66倍で通期営業利益23億円へ上方修正](https://ai-tech-times.web.app/articles/20260918-cosel-fy2027-q1-earnings-upward-revision.html) — 2026-09-18 21:03: CoselのFY2027第1四半期決算説明会において、受注高が前年同期比154.9%増を記録しました。好調な受注を背景に、通期営業利益予想を23億円へ上方修正しています。
-- [Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由](https://ai-tech-times.web.app/articles/20260918-mazama-energy-raises-135m-geothermal.html) — 2026-09-18 19:01: Khosla Venturesの支援を受ける地熱発電スタートアップのMazama Energyが、超高温岩石層の掘削に向けて1億3500万ドルを調達しました。
 
 ## 世界のバズ動画TOP3 (2026-09-19)
 - 1位: [ROSÉ - new trick (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=Lufa9QAFFeY)
 - 2位: [Call of Duty: Modern Warfare 4 | Campaign Trailer](https://www.youtube.com/watch?v=yLFRQaQT0qM)
 - 3位: [Lanterns | Midseason Trailer | HBO Max](https://www.youtube.com/watch?v=-05WmSAmLK4)
 
-## AI用語事典 (全1571語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1573語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。

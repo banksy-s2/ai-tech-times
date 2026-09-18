@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-19 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-19 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由",
-   "path": "/articles/20260919-cesa-generative-ai-game-development-2026.html",
-   "cat": "日本のAI"
+   "title": "Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ",
+   "path": "/articles/20260919-manus-seeks-4b-valuation-in-new-500m-fundraise.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対",
-   "path": "/articles/20260919-trump-ai-regulation-opposition.html",
-   "cat": "日本のAI"
+   "title": "OpenAI、Claude使い72時間未満でハッキング被害",
+   "path": "/articles/20260919-openai-hack-claude-heif-heist.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 12,
   "limit": 200
  }
 }
