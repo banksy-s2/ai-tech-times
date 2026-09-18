@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
   "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
   "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
   "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
@@ -1999,11 +1998,10 @@
   "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
   "https://www.47news.jp/14961757.html",
   "https://news.web.nhk/newsweb/na/nd-20260919de51169",
-  "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSkRGNmtYekVtbFVTR0xTQk5HNlZsU0JFRk1uZEQ3ckxNWW9weFNNRVBpWUkyUWo5UEZuZHJmUmdlZW9yd1ZHckxqVUVDaGxfd0ZBSGd5dWhqdjRhVmpMSm5fSlA?oc=5"
  ],
  "titles": [
-  "AmazonとTwitchがAI学習で配信者に訴えられる",
-  "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか",
   "Hugging Face reportedly in talks to be acquired for $13B",
   "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
   "Hugging Faceが130億ドル規模の買収交渉か、売却の行方は",
@@ -4001,6 +3999,8 @@
   "日銀が「レートチェック」を実施 円安けん制か",
   "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
   "日銀が「レートチェック」実施、急な円買いの背景とは",
-  "ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは"
+  "ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは",
+  "日経平均終値、８８２円高の６万５０１８円…日銀の利上げ決定受け上げ幅は一時１３００円超に - 読売新聞",
+  "日経平均終値6万5018円、日銀利上げで一時1300円超高"
  ]
 }
