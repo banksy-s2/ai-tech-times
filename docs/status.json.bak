@@ -1,26 +1,73 @@
 {
- "updated": "2026-09-18 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-18 17:07",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "OpenAIのモデルが後継に隠蔽指示、その手口とは",
-   "path": "/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html",
+   "title": "FAA、8億7500万ドルのAIで航空管制を改善する計画",
+   "path": "/articles/20260918-faas-plan-to-fix-air-traffic-with-ai.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "マイクロソフト幹部がAIスクレイピングを「史上最大の労働の盗み」と内部で批判",
-   "path": "/articles/20260918-microsoft-exec-called-ai-scraping-theft.html",
+   "title": "Huawei、2027年Q1に新AIチップ投入へ",
+   "path": "/articles/20260918-huawei-plans-q1-2027-launch-of-new-ai-chip.html",
    "cat": "AI(海外)"
+  },
+  {
+   "title": "トヨタ、毎年1兆円投資で工場とロボット更新の理由",
+   "path": "/articles/20260918-toyota-annual-investment-robot-update.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ピュー研究所調査：世界37カ国のうち日本を含む大半でAIが雇用喪失を引き起こす理由",
+   "path": "/articles/20260918-pew-research-ai-job-loss-37-countries.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "SEC、株式トークン化へ道筋 24時間取引に前進",
+   "path": "/articles/20260918-sec-clears-path-for-tokenized-stocks.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Apple、AI向けMシリーズUltra搭載サーバーを開発中",
+   "path": "/articles/20260918-apple-building-server-m-series-ultra.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "東海オンエア、岡崎市の経済波及効果が10年で369億円に",
+   "path": "/articles/20260918-tokai-onair-okazaki-economic-impact.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "農林水産省、アメリカ産ジャガイモ輸入解禁説明会で生産者から懸念の声",
+   "path": "/articles/20260918-potato-import-briefing-maff.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "高市首相、来週トランプ大統領と会談へ",
+   "path": "/articles/20260918-takaichi-trump-summit-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均後場1000円超高、日銀利上げペース鈍化の背景",
+   "path": "/articles/20260918-nikkei-average-surges-over-1000-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ＳＱＵＥＥＺＥ、ヒューリックとの資本業務提携を発表",
+   "path": "/articles/20260918-squeeze-hulic-capital-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Falling In Reverse - \"Joseph\" (feat. Corey Taylor and Serj Tankian)",
   "url": "https://www.youtube.com/watch?v=Tk9TM7-eTmw"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 36,
   "limit": 200
  }
 }
