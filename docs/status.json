@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-18 19:01",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由",
-   "path": "/articles/20260918-mazama-energy-raises-135m-geothermal.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Moonshot、中国AIと金融大手が結ぶ壁",
-   "path": "/articles/20260918-china-moonshot-kimi-financial-services.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-18 20:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 河合郁人･元『A.B.C-Z』＆豊田萌絵･声優「４年半の真剣交際」現場撮【スクー"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 48,
+  "used": 52,
   "limit": 200
  }
 }
