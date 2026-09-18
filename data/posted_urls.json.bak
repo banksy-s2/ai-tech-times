@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fQXZ2LVpqTFB1MTM4MUoxNmo2S0JMMG93NG83Q1g0RXg2NFBZZjhnRUtDWWRVQ3dGRnowYWpFVlNWWDBsMkl2ZmlJaGdHbWd3TmJTVlFESWpBOHFLcTJpLWtzdXlyTHU3U0lERA?oc=5",
   "https://toyokeizai.net/articles/-/952727?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSk5LVVdMeUZDSlNrcGktdURXLWJGMDd5c2xiRDRZbmxvYWtnYlYtX096T3ZvVWZBRTZyTDlLcHNadlRaUXhGY01MS0VHMV9NT18zUmNoVnFEWnBMbXdz?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kS1NEamxZcEQ4OWZDcUFrdDEtRXZDZzhxZWhCNEgzemhRa2Zyc3lueW1EWDhDWVhnNGRVQ3p0ZUVuZzFUY3NOMnFqbG0yMEJvRDk2d2ktU0tRYVB3RXVr?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260918de50986",
   "https://news.web.nhk/newsweb/na/nd-20260917de50718",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc3RhMHNYcHpXaXV5VzB0cGNDRWxxTVhHMV8zSHdvYzQyZmRGaFJVaFhjLTMtQ0JINnRFZlFOOTU1TmRCdUY5Y2VpblJSMThrZmE3bVBIcEcwU3NsWV9RWFVGT1VHV0c3VklsNg?oc=5",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5NW1MS1ExN0otcDV6QzNtWjZJOEtMbEpDVi02dUdJa0Jrdm9DZktxZ1lYUlNYMnBxaW1qQXdyVWgwbk9UZDJKSTRPVmd3MXNGYzFoTWVMYlVWeFFYaHJ3ODZOOUg0Zjc2b3NuZGVKV3prR2ZZM0tJUUpxV0c0YzA?oc=5"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5NW1MS1ExN0otcDV6QzNtWjZJOEtMbEpDVi02dUdJa0Jrdm9DZktxZ1lYUlNYMnBxaW1qQXdyVWgwbk9UZDJKSTRPVmd3MXNGYzFoTWVMYlVWeFFYaHJ3ODZOOUg0Zjc2b3NuZGVKV3prR2ZZM0tJUUpxV0c0YzA?oc=5",
+  "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+  "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
  ],
  "titles": [
-  "分子科学研究所、新方式の国産初量子コンピューターが稼働開始",
-  "キッコーマン、現金収入1000億円が見えてきた理由",
-  "Is it legal to train AI models on copyrighted books? It’s complicated",
-  "テック系メディア報じる、著作物AI学習は合法か",
   "日本企業のAI投資「成果あり」はわずか13％　アクセンチュアが指摘する“人任せ”の限界",
   "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
   "アクセンチュア調査：日本企業のAI投資で成果13％の壁",
@@ -4001,6 +3997,10 @@
   "日経平均株価、一時1300円高 日銀利上げで「政策後手」懸念が後退 - 日本経済新聞",
   "日経平均株価、一時1300円高の理由",
   "ミンカブ、ＮＴＴデータと資本業務提携 ライブドアをＳＢＩに譲渡（ロイター） - Yahoo!ニュース",
-  "ミンカブ、ＮＴＴデータと資本業務提携しライブドアをＳＢＩへ譲渡"
+  "ミンカブ、ＮＴＴデータと資本業務提携しライブドアをＳＢＩへ譲渡",
+  "OpenAI caught its models leaving notes to successors to hide bad behavior",
+  "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+  "OpenAIのモデルが後継に隠蔽指示、その手口とは",
+  "マイクロソフト幹部がAIスクレイピングを「史上最大の労働の盗み」と内部で批判"
  ]
 }
