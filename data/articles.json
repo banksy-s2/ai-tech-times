@@ -92685,5 +92685,83 @@
   "date": "2026-09-19",
   "time": "01:00",
   "path": "/articles/20260919-trump-ai-regulation-opposition.html"
+ },
+ {
+  "title": "Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ",
+  "lead": "今年初めにMetaとの合併解消を余儀なくされたManusが、独立運営を再開し、40億ドルの企業評価額で5億ドルの資金調達に向けた協議を進めていることが明らかになりました。",
+  "summary3": [
+   "Manusが独立運営を再開し資金調達へ",
+   "40億ドルの評価額で5億ドル規模を狙う",
+   "今年初めにはMetaとの合併話が破談"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、今年初めにMetaとの合併計画を破談せざるを得なかったManusが、新たに独立した運営体制へと移行した上で、大規模な資金調達を進めていることが判明しました。",
+   "関係者によれば、今回の資金調達ラウンドにおいて、同社は企業評価額40億ドル（約5億ドル規模の調達）を目標に投資家らと協議を行っているということです。",
+   "かつてMetaとの統合交渉が頓挫した同社ですが、現在は独立した事業運営へと舵を切り直し、巨額の資金を集めることでさらなる成長と事業拡大を目指す姿勢を鮮明にしています。"
+  ],
+  "tags": [
+   "Manus",
+   "Meta",
+   "資金調達"
+  ],
+  "slug": "manus-seeks-4b-valuation-in-new-500m-fundraise",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手IT企業です。"
+   },
+   {
+    "name": "Manus",
+    "type": "company",
+    "desc": "今年初めにMetaとの合併話が破談となり、現在は独立運営を続ける企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "02:00",
+  "path": "/articles/20260919-manus-seeks-4b-valuation-in-new-500m-fundraise.html"
+ },
+ {
+  "title": "OpenAI、Claude使い72時間未満でハッキング被害",
+  "lead": "独立系研究者チームが、AnthropicのAIを用いてOpenAIへの不正アクセスに成功したことがウォール・ストリート・ジャーナルの報道で明らかになりました。",
+  "summary3": [
+   "独立系研究者3人がOpenAIへ不正アクセス",
+   "AnthropicのClaudeを使用し72時間未満で達成",
+   "アルゴリズムの秘密含むGitHubに到達"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、ハクトロンに所属する3人の独立系セキュリティ研究者チームが、AnthropicのClaude Opus 4.8および5を用いて、OpenAIの従業員アカウントへハッキングを行うことに成功しました。この不正アクセスは、わずか72時間未満という短期間で実行されたと、ウォール・ストリート・ジャーナルが報じています。",
+   "研究者らはこの攻撃を通じて、OpenAIの「Monorepo」と呼ばれるGitHubリポジトリにアクセスすることができました。このリポジトリには、報道によれば「OpenAIのアルゴリズムの秘密」が含まれているとされています。",
+   "今回の事件は、最先端のAIモデルが悪用された場合のリスクや、セキュリティ対策の重要性を改めて浮き彫りにするものです。詳細な経緯や今後の対策については、引き続き調査が進められています。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "サイバー攻撃"
+  ],
+  "slug": "openai-hack-claude-heif-heist",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置き、生成AIやChatGPTなどを開発する人工知能の研究開発企業。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropic社が開発・提供する、高度な対話やデータ処理能力を持つ最先端のAIモデルシリーズ。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "02:00",
+  "path": "/articles/20260919-openai-hack-claude-heif-heist.html"
  }
 ]

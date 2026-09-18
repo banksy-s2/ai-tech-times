@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 02:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ](https://ai-tech-times.web.app/articles/20260919-manus-seeks-4b-valuation-in-new-500m-fundraise.html) — 2026-09-19 02:00: 今年初めにMetaとの合併解消を余儀なくされたManusが、独立運営を再開し、40億ドルの企業評価額で5億ドルの資金調達に向けた協議を進めていることが明らかになりました。
+- [OpenAI、Claude使い72時間未満でハッキング被害](https://ai-tech-times.web.app/articles/20260919-openai-hack-claude-heif-heist.html) — 2026-09-19 02:00: 独立系研究者チームが、AnthropicのAIを用いてOpenAIへの不正アクセスに成功したことがウォール・ストリート・ジャーナルの報道で明らかになりました。
 - [CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由](https://ai-tech-times.web.app/articles/20260919-cesa-generative-ai-game-development-2026.html) — 2026-09-19 01:00: コンピュータエンターテインメント協会（CESA）は、日本のゲーム産業の現状を分析した年次レポートのプレビュー版を発行しました。業界内での生成AI活用を巡る初の独自調査により、開発者の8割超が業務に取り入れている実態が明らかになりました。
 - [ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対](https://ai-tech-times.web.app/articles/20260919-trump-ai-regulation-opposition.html) — 2026-09-19 01:00: Google DeepMindのデミス・ハサビスCEOが提唱した最先端AI規制のための独立した標準化団体の設立をめぐり、IT業界の大物経営者たちがトランプ大統領とともに反対の姿勢を示していることがわかりました。
 - [MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景](https://ai-tech-times.web.app/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html) — 2026-09-19 00:00: AI分野で競合するInstinctとMetaのMuseが、ユーザーに代わって電話をかける新機能を追加しました。レストランの予約やサブスクリプションの解約が自動化できるようになったことで、日々の手間をどのように減らせるのでしょうか。
@@ -40,8 +42,6 @@
 - [日銀、政策金利を1.25％に引き上げ。私たちの生活はどう変わる？](https://ai-tech-times.web.app/articles/20260918-boj-rate-hike-1-25-percent.html) — 2026-09-18 21:03: 日銀は金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決定しました。金融機関の動きや私たちの生活への影響が注目されています。
 - [Cosel、受注高154.9%増・BBレシオ1.66倍で通期営業利益23億円へ上方修正](https://ai-tech-times.web.app/articles/20260918-cosel-fy2027-q1-earnings-upward-revision.html) — 2026-09-18 21:03: CoselのFY2027第1四半期決算説明会において、受注高が前年同期比154.9%増を記録しました。好調な受注を背景に、通期営業利益予想を23億円へ上方修正しています。
 - [Mazama Energy、超高温岩石地熱発電で1億3500万ドル調達の理由](https://ai-tech-times.web.app/articles/20260918-mazama-energy-raises-135m-geothermal.html) — 2026-09-18 19:01: Khosla Venturesの支援を受ける地熱発電スタートアップのMazama Energyが、超高温岩石層の掘削に向けて1億3500万ドルを調達しました。
-- [Moonshot、中国AIと金融大手が結ぶ壁](https://ai-tech-times.web.app/articles/20260918-china-moonshot-kimi-financial-services.html) — 2026-09-18 19:01: 中国のAIスタートアップであるMoonshotが、ウォール街をリードする金融データプロバイダーや投資銀行とモデルを接続し、金融サービス市場への展開を進めています。
-- [資生堂、原料探索時間を95％削減できたワケ](https://ai-tech-times.web.app/articles/20260918-shiseido-ai-agent-raw-material.html) — 2026-09-18 18:01: 資生堂ジャパンは研究開発領域にAIエージェントを導入し、膨大な候補から有望な原料を見極める研究員の「目利き」を再現しました。探索時間の短縮だけでなく、どのような効果をもたらしたのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-19)
 - 1位: [ROSÉ - new trick (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=Lufa9QAFFeY)

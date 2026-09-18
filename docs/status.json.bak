@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-19 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-19 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景",
-   "path": "/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html",
-   "cat": "AI(海外)"
+   "title": "CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由",
+   "path": "/articles/20260919-cesa-generative-ai-game-development-2026.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対",
+   "path": "/articles/20260919-trump-ai-regulation-opposition.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: Google DeepMind launches institute to wi"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }
