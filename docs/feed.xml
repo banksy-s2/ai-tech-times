@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260919-cesa-generative-ai-game-development-2026.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-cesa-generative-ai-game-development-2026.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>コンピュータエンターテインメント協会（CESA）は、日本のゲーム産業の現状を分析した年次レポートのプレビュー版を発行しました。業界内での生成AI活用を巡る初の独自調査により、開発者の8割超が業務に取り入れている実態が明らかになりました。</description>
+</item>
+<item>
+<title>ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対</title>
+<link>https://ai-tech-times.web.app/articles/20260919-trump-ai-regulation-opposition.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-trump-ai-regulation-opposition.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Google DeepMindのデミス・ハサビスCEOが提唱した最先端AI規制のための独立した標準化団体の設立をめぐり、IT業界の大物経営者たちがトランプ大統領とともに反対の姿勢を示していることがわかりました。</description>
+</item>
+<item>
 <title>MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景</title>
 <link>https://ai-tech-times.web.app/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 18 Sep 2026 17:06:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>高市総理大臣は来週、国連総会にあわせてアメリカでトランプ大統領と首脳会談を行う方向で調整に入りました。日米同盟の重要性を確認し、中国をめぐる認識のすりあわせを行う方針です。</description>
-</item>
-<item>
-<title>日経平均後場1000円超高、日銀利上げペース鈍化の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260918-nikkei-average-surges-over-1000-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260918-nikkei-average-surges-over-1000-yen.html</guid>
-<pubDate>Fri, 18 Sep 2026 17:06:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日経平均株価の後場は1000円を超える大幅な上昇となりました。日銀の政策決定において2名が反対したことが、利上げペースの鈍化につながるとの見方が広がっています。</description>
-</item>
-<item>
-<title>ＳＱＵＥＥＺＥ、ヒューリックとの資本業務提携を発表</title>
-<link>https://ai-tech-times.web.app/articles/20260918-squeeze-hulic-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260918-squeeze-hulic-capital-business-alliance.html</guid>
-<pubDate>Fri, 18 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ＳＱＵＥＥＺＥは、ヒューリック社との資本業務提携および株主構成についての補足説明資料を適時開示しました。</description>
 </item>
 </channel></rss>

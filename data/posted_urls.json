@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYUo4VDNibXcyaGREZ2NEeUlSNUFHYnNxa1hPYWZlN2RWTWxEM2gtVkdCcUJDT2RsVVRvZE55YjlsdkY1N2JxU2FpUUNZMXNoY0RnQ19tY0dmQWJsV2d3eWpB?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015191711000",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QkM3Vk9NUWQ3T2VObDdLS1p0NDdaU21scVJycHRPZ3ZMNGExMW5USWFEYUFUV1dxS19fZ3QzeEFmVTFlMDFfSGZ6bGhmdExuNU5qdGE1LWYwNTU3Mkk5Y0N0d1ZrVnkydWNEQ0dvSVYzUU9faFRxYXo3UUtFT1U?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Y0YyRVJ3a0VjanJIX2ZXRE9mM1g1STFYbG9xbXNDTzE0dEw2UnZLZktBLUtuVThCUjNNN2d4b0RJTHJmdGdKb0RWckp6a1VnVEdaZWMwWG9WR3E4dThqd1ZscmpXanVjRVlBdQ?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RmtpSnJWOU9pWmNFdjlJTkVRcXhrTTRVMDlzTHNaaFRNOUNMbUM0VnNuaGRvRXVraDhkVndwZDF2X3Q4OWN4TWZrQnJrNVRmTFZGRWNFSzc5QnZCdHQw?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260918de51120",
   "https://news.web.nhk/newsweb/na/nd-20260918de50954",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kam5jN2FJWUktOWNPRHpEZkh5T0RvUTI5aElXWmh2SThoNGljUkdlcHp0QU5xVGhlS0xNXzU2S3JERHdKYkh3aUJqaEc1VXdjWGNOY25LTVJJSHdfX3dSMFhRV1dzMG1fWGg0RQ?oc=5",
-  "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+  "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+  "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
+  "https://gigazine.net/news/20260918-trump-ai-regulation/"
  ],
  "titles": [
-  "サンリオ、GENDAと業務提携を発表 “北米市場シェア10％”の獲得へタッグ - オリコンニュース",
-  "Linux創始者Linus TorvaldsがAIと挑んだ難解バグ",
-  "立命館・上原教授が警告：中古PC購入の“亡霊”リスク",
-  "Rockstar GamesのGTA VI、発売日が11月19日に再延期",
   "損保ジャパン、来年1月に自動車保険料平均5％引き上げへ",
   "トランプ政権のICC制裁、超党派議連が即時撤回要求",
   "ソフトバンクG株5000円割れ、英アーム株安が波及",
@@ -4001,6 +3997,10 @@
   "日経平均株価、3日続伸 終値882円高の6万5018円 - 日本経済新聞",
   "日経平均株価は882円高の6万5018円、3日続伸",
   "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-  "MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景"
+  "MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景",
+  "ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」に最大の期待",
+  "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
+  "CESA初調査、ゲーム開発者の85.8％が生成AIを活用する理由",
+  "ザッカーバーグら大物経営者がトランプ大統領と同調しAI標準化団体の設立に反対"
  ]
 }

@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-18 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-19 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均株価は882円高の6万5018円、3日続伸",
-   "path": "/articles/20260918-nikkei-average-gains-3-days.html",
-   "cat": "株式投資(日本)"
+   "title": "MetaのMuseとInstinctのAIエージェント、通話機能を追加した背景",
+   "path": "/articles/20260919-rival-ai-agents-instinct-and-metas-muse-add-calls.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Google DeepMind launches institute to wi"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 89,
+  "used": 4,
   "limit": 200
  }
 }
