@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RmtpSnJWOU9pWmNFdjlJTkVRcXhrTTRVMDlzTHNaaFRNOUNMbUM0VnNuaGRvRXVraDhkVndwZDF2X3Q4OWN4TWZrQnJrNVRmTFZGRWNFSzc5QnZCdHQw?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWHByODViR3Ewb25LaXZIbVg0SFlKT1hjZlRlbEdwcUk5S2ZwaldYUHh1ZXdHUnVyNmFONzJQenZBa3V5OWZfUzBiTXZZTXdMSEd5QWlXYVdPSjZ5Y2VqRWRoSU9aeXpPTkFRMA?oc=5",
   "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
   "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
@@ -1999,11 +1998,10 @@
   "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
   "https://gigazine.net/news/20260918-trump-ai-regulation/",
   "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-  "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+  "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+  "https://www.47news.jp/14961757.html"
  ],
  "titles": [
-  "木原官房長官 ICC赤根所長と緊密に意思疎通 必要な支援行う",
-  "Iran faces 'greatest financial offensive ever', says US treasury secretary",
   "木原官房長官、ICC赤根所長へ必要な支援行う方針",
   "米財務長官、イランへ史上最大の経済制裁を示唆",
   "TwitchとAmazonがストリーマーのコンテンツをAIに学習させたとして訴えられる",
@@ -4001,6 +3999,8 @@
   "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
   "Security researchers used Claude to help them hack into OpenAI",
   "Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ",
-  "OpenAI、Claude使い72時間未満でハッキング被害"
+  "OpenAI、Claude使い72時間未満でハッキング被害",
+  "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
+  "国立美術館6施設が10月から入館料を2～3倍に値上げ"
  ]
 }
