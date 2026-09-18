@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWHByODViR3Ewb25LaXZIbVg0SFlKT1hjZlRlbEdwcUk5S2ZwaldYUHh1ZXdHUnVyNmFONzJQenZBa3V5OWZfUzBiTXZZTXdMSEd5QWlXYVdPSjZ5Y2VqRWRoSU9aeXpPTkFRMA?oc=5",
-  "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
   "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
   "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
   "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
@@ -1999,13 +1997,11 @@
   "https://gigazine.net/news/20260918-trump-ai-regulation/",
   "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
   "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-  "https://www.47news.jp/14961757.html"
+  "https://www.47news.jp/14961757.html",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51169",
+  "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
-  "木原官房長官、ICC赤根所長へ必要な支援行う方針",
-  "米財務長官、イランへ史上最大の経済制裁を示唆",
-  "TwitchとAmazonがストリーマーのコンテンツをAIに学習させたとして訴えられる",
-  "こんなところに野良AIが？　事例で解説、実際にあった2つの発覚パターンと防衛策",
   "AmazonとTwitchがAI学習で配信者に訴えられる",
   "ITmedia AI+：野良AIが発覚する2つのパターンとなぜ防げないのか",
   "Hugging Face reportedly in talks to be acquired for $13B",
@@ -4001,6 +3997,10 @@
   "Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ",
   "OpenAI、Claude使い72時間未満でハッキング被害",
   "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
-  "国立美術館6施設が10月から入館料を2～3倍に値上げ"
+  "国立美術館6施設が10月から入館料を2～3倍に値上げ",
+  "日銀が「レートチェック」を実施 円安けん制か",
+  "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+  "日銀が「レートチェック」実施、急な円買いの背景とは",
+  "ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは"
  ]
 }

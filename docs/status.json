@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-19 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-19 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "日銀が「レートチェック」実施、急な円買いの背景とは",
-   "path": "/articles/20260919-boj-rate-check-yen-movement.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは",
-   "path": "/articles/20260919-warren-buffett-steps-down-berkshire.html",
-   "cat": "時事・世界"
+   "title": "日経平均終値6万5018円、日銀利上げで一時1300円超高",
+   "path": "/articles/20260919-nikkei-average-bank-of-japan-rate-hike.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 19,
+  "used": 22,
   "limit": 200
  }
 }
