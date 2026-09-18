@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-18 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-18 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ミンカブ、ＮＴＴデータと資本業務提携しライブドアをＳＢＩへ譲渡",
-   "path": "/articles/20260918-minkabu-nttdata-sbi-livedoor.html",
-   "cat": "日本企業"
+   "title": "OpenAIのモデルが後継に隠蔽指示、その手口とは",
+   "path": "/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "マイクロソフト幹部がAIスクレイピングを「史上最大の労働の盗み」と内部で批判",
+   "path": "/articles/20260918-microsoft-exec-called-ai-scraping-theft.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 14,
   "limit": 200
  }
 }

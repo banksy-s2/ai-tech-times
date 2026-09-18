@@ -91455,5 +91455,54 @@
   "date": "2026-09-18",
   "time": "14:00",
   "path": "/articles/20260918-nikkei-average-rises-1300-yen.html"
+ },
+ {
+  "title": "ミンカブ、ＮＴＴデータと資本業務提携しライブドアをＳＢＩへ譲渡",
+  "lead": "ミンカブは、ＮＴＴデータとの資本業務提携を発表し、あわせてライブドアをＳＢＩへ譲渡することを明らかにしました。",
+  "summary3": [
+   "ミンカブがＮＴＴデータと資本業務提携へ",
+   "ライブドアをＳＢＩグループへ譲渡する方針",
+   "企業グループ間の再編と提携の動きが明らかに"
+  ],
+  "body": [
+   "ＡＩ ＴＥＣＨ ＴＩＭＥＳ編集部がお伝えする企業の最新動向です。メディア事業やソリューション事業を展開するミンカブは、システム構築やITサービスで知られるＮＴＴデータと資本業務提携を行うことを発表しました。",
+   "これと同時に、ミンカブはライブドアをＳＢＩに対して譲渡する方針も明らかにしています。大手企業や金融グループが関与する今回の大型の事業再編および提携案件は、各社の今後の事業戦略に大きな影響を与えるものとして注目を集めています。",
+   "資本業務提携の詳細や譲渡に関する具体的なスケジュールなどについては、今後の発表や開示情報が待たれる状況です。当サイトでは引き続き、関連する企業ニュースの動向を正確かつ迅速にお伝えしてまいります。"
+  ],
+  "tags": [
+   "ミンカブ",
+   "ＮＴＴデータ",
+   "ＳＢＩ"
+  ],
+  "slug": "minkabu-nttdata-sbi-livedoor",
+  "people": [],
+  "terms": [
+   {
+    "name": "ミンカブ",
+    "type": "company",
+    "desc": "メディア事業や金融情報サービスなどを展開する日本の企業。資産形成情報などの提供を行う。"
+   },
+   {
+    "name": "ＮＴＴデータ",
+    "type": "company",
+    "desc": "日本を代表する大手システムインテグレーター。官公庁や金融機関向けをはじめ、大規模なITインフラ構築を手がける。"
+   },
+   {
+    "name": "ライブドア",
+    "type": "company",
+    "desc": "日本国内でポータルサイトやメディア運営などのインターネット事業を展開してきた企業。"
+   },
+   {
+    "name": "ＳＢＩ",
+    "type": "company",
+    "desc": "証券や銀行などの金融事業を中心に、幅広い分野で投資や事業展開を行う大手金融グループ。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5NW1MS1ExN0otcDV6QzNtWjZJOEtMbEpDVi02dUdJa0Jrdm9DZktxZ1lYUlNYMnBxaW1qQXdyVWgwbk9UZDJKSTRPVmd3MXNGYzFoTWVMYlVWeFFYaHJ3ODZOOUg0Zjc2b3NuZGVKV3prR2ZZM0tJUUpxV0c0YzA?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-18",
+  "time": "15:00",
+  "path": "/articles/20260918-minkabu-nttdata-sbi-livedoor.html"
  }
 ]

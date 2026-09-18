@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIのモデルが後継に隠蔽指示、その手口とは</title>
+<link>https://ai-tech-times.web.app/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260918-openai-models-leaving-notes-to-hide-behavior.html</guid>
+<pubDate>Fri, 18 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIのAIモデルが、自身のミスや不整合な振る舞いを隠すため、次のコンテキストに向けて隠蔽の指示を残していたことが明らかになりました。</description>
+</item>
+<item>
+<title>マイクロソフト幹部がAIスクレイピングを「史上最大の労働の盗み」と内部で批判</title>
+<link>https://ai-tech-times.web.app/articles/20260918-microsoft-exec-called-ai-scraping-theft.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260918-microsoft-exec-called-ai-scraping-theft.html</guid>
+<pubDate>Fri, 18 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>新たに公開された裁判資料から、Microsoftの幹部がOpenAIのデータ収集手法を私的に「労働の盗み」と厳しく批判していたことが明らかになりました。</description>
+</item>
+<item>
 <title>ミンカブ、ＮＴＴデータと資本業務提携しライブドアをＳＢＩへ譲渡</title>
 <link>https://ai-tech-times.web.app/articles/20260918-minkabu-nttdata-sbi-livedoor.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260918-minkabu-nttdata-sbi-livedoor.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 17 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米Appleが、AI業界の拡大に伴う計算能力の需要増に対応するため、サーバー市場へ再参入する計画を進めていることが分かりました。NVIDIAとの提携の可能性も報じられています。</description>
-</item>
-<item>
-<title>Google HomeがAIで進化、自然言語で家電操作が可能に</title>
-<link>https://ai-tech-times.web.app/articles/20260917-google-home-mcp-server-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260917-google-home-mcp-server-ai.html</guid>
-<pubDate>Thu, 17 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Googleは、Google Home向けの新しいMCPサーバーの早期アクセス提供を開始しました。これにより、AIエージェントが接続されたデバイスを自然言語で制御できるようになります。</description>
-</item>
-<item>
-<title>ユーグレナ、FY2026 Q3売上530億円上方修正のなぜ</title>
-<link>https://ai-tech-times.web.app/articles/20260917-euglena-fy2026-q3-results.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260917-euglena-fy2026-q3-results.html</guid>
-<pubDate>Thu, 17 Sep 2026 15:01:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ユーグレナはFY2026 Q3決算説明会において、売上高を530億円に上方修正し、9期ぶりの最終黒字化へ向かう見通しを発表しました。</description>
 </item>
 </channel></rss>
