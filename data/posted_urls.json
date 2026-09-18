@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015191341000",
-  "https://news.web.nhk/newsweb/na/na-k10015191661000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXSE9fS1dMZEZJalZQQkhYSC1ySDVyNVhQNktoWDFocDhoTC01VWI1MlVSV0VuUFA1YVotems2Q0xkWU1tSk9hem9FRGRoTVRmY0lFbW8zZ29DS2hKa1YwNHlMUUhJcDdTTWdLbw?oc=5",
   "https://www.itmedia.co.jp/business/articles/2607/31/news028.html",
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYUo4VDNibXcyaGREZ2NEeUlSNUFHYnNxa1hPYWZlN2RWTWxEM2gtVkdCcUJDT2RsVVRvZE55YjlsdkY1N2JxU2FpUUNZMXNoY0RnQ19tY0dmQWJsV2d3eWpB?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260918de51070",
   "https://news.web.nhk/newsweb/na/nd-20260918de51106",
   "https://news.web.nhk/newsweb/na/nd-20260918de50967",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teWxmSzdaOWF6RTlxOG5adUV3MXFxM0drV3pIX1RUdjdYb01qNGxZY1pQel9FQWVPNkpZWmVjd2s2aURKTGdKRDJhcFl6U0FoWDZ0bkJEbjd2aEhUeG5R?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teWxmSzdaOWF6RTlxOG5adUV3MXFxM0drV3pIX1RUdjdYb01qNGxZY1pQel9FQWVPNkpZWmVjd2s2aURKTGdKRDJhcFl6U0FoWDZ0bkJEbjd2aEhUeG5R?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260918de51120",
+  "https://news.web.nhk/newsweb/na/nd-20260918de50954"
  ],
  "titles": [
-  "VTuber向けトラッキングシステム「LuppetX」が無料化、商用利用の制限なし - Mogura VR",
-  "LuppetXが無料化、商用利用制限なしで使える理由とは",
-  "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
-  "「社用PC高すぎ、中古品使おう」の注意点　潜む“前の持ち主の亡霊”リスク　立命館・上原教授に聞く",
   "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
   "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
   "超党派議連 ICC制裁で非難声明「明確な抗議と制裁の撤回を」",
@@ -4001,6 +3997,10 @@
   "コメ平均価格5キロ2971円に値下がり、財布への影響は",
   "「小さな森の家」の家族葬、CM費用の3倍必要だった",
   "日銀、政策金利を1.25％に引き上げ。私たちの生活はどう変わる？",
-  "Cosel、受注高154.9%増・BBレシオ1.66倍で通期営業利益23億円へ上方修正"
+  "Cosel、受注高154.9%増・BBレシオ1.66倍で通期営業利益23億円へ上方修正",
+  "円安進む 1ドル＝158円台に 日銀植田総裁の発言受け",
+  "トランプ政権 サウジアラビアにF35の売却承認 48機",
+  "日銀植田総裁発言で1ドル＝158円台に、私たちの財布への影響は",
+  "トランプ政権、サウジにF35売却承認 3兆7000億円"
  ]
 }
