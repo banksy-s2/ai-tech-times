@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/business/articles/2607/30/news045.html",
-  "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
   "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
   "https://news.web.nhk/newsweb/na/na-k10015191381000",
   "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260917de50876",
   "https://news.web.nhk/newsweb/na/nd-20260917de50824",
   "https://news.web.nhk/newsweb/na/nd-20260917de50744",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFyRi1ycDdEUGdjUDVoWVNsQUNxLVhHcFhwUVlkWG1pNkw3REQ3NEttdFNyc082UVM1a05BWTVHMlBMblZEeWVmRE56NUlhNHEydE5aV3hDczlYd09HbDk5TWhrb0RiWG1Gd1A4UkNKemFEYUg3QWN3c20wdFI0VktLbmVhRWM?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFyRi1ycDdEUGdjUDVoWVNsQUNxLVhHcFhwUVlkWG1pNkw3REQ3NEttdFNyc082UVM1a05BWTVHMlBMblZEeWVmRE56NUlhNHEydE5aV3hDczlYd09HbDk5TWhrb0RiWG1Gd1A4UkNKemFEYUg3QWN3c20wdFI0VktLbmVhRWM?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260918de50986",
+  "https://news.web.nhk/newsweb/na/nd-20260917de50718"
  ],
  "titles": [
-  "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
-  "決算:キッコーマン、見えてきた現金収入1000億円 海外で価格支配力高く - 日本経済新聞",
-  "謎の新型AI「Ox Alpha」登場、その開発元はどこなのか",
-  "Slack、開発チームの議論から自動コーディングする「Slack Code」登場",
   "大阪大学とNEC、1TBを90秒で送る基盤構築",
   "Uberに8億2500万ユーロの巨額罰金、GDPR違反の理由とは",
   "謎のAIモデル「Ox Alpha」の正体は誰なのか",
@@ -4001,6 +3997,10 @@
   "日銀、政策金利1.25％へ引き上げ判断か",
   "米下院、ロシア原油輸入国に100％関税法案可決の理由",
   "個人資産2519兆円で過去最高、株高の背景とは",
-  "三菱重工業、PFNと資本業務提携で100億円出資"
+  "三菱重工業、PFNと資本業務提携で100億円出資",
+  "政府 臨時国会来月5日召集方針 消費税減税法案など審議見通し",
+  "NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台",
+  "政府、来月5日の臨時国会召集方針 食料品の消費税減税法案を審議へ",
+  "NYダウ一時900ドル超安、なぜ利上げ観測で急落したのか"
  ]
 }

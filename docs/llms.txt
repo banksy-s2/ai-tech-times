@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-17 21:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-18 13:10 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [政府、来月5日の臨時国会召集方針 食料品の消費税減税法案を審議へ](https://ai-tech-times.web.app/articles/20260918-government-extraordinary-diet-session-october.html) — 2026-09-18 13:10: 政府は来月5日に臨時国会を召集する方針を自民党に伝えました。食料品の消費税減税に関する法案などの審議が行われる見通しです。
+- [NYダウ一時900ドル超安、なぜ利上げ観測で急落したのか](https://ai-tech-times.web.app/articles/20260918-ny-dow-drops-over-900-dollars.html) — 2026-09-18 13:10: 16日のニューヨーク株式市場で、FRBの今後の利上げ見通しを背景にダウ平均株価が一時900ドルを超える大幅な値下がりとなりました。
 - [OpenAIが新枠組み公開、モデルのミスアライメント6事例とは](https://ai-tech-times.web.app/articles/20260917-openai-misalignment-framework-2026.html) — 2026-09-17 21:04: OpenAIは、AIモデルの開発過程で確認されたミスアライメント事例を追跡・公表するための新枠組みを発表しました。実害の有無を問わず迅速に情報共有する方針を示しています。
 - [ChatGPT共著者が開発、LLMの193倍速い判断AI「Jev」とは](https://ai-tech-times.web.app/articles/20260917-jev-193x-faster-ai-than-llm.html) — 2026-09-17 21:04: はてなブックマークITによると、ChatGPTの共著研究者が、LLMの193倍速いとされる“判断だけのAI”「Jev」を開発しました。
 - [Pulley、Carta競合の株主管理プラットフォームが12月で閉鎖へ](https://ai-tech-times.web.app/articles/20260917-pulley-a-carta-rival-is-shutting-down.html) — 2026-09-17 21:04: General CatalystやStripeなどの支援を受けてきた資本政策（Cap table）管理プラットフォームのPulleyが、12月に事業を終了すると発表しました。
@@ -40,10 +42,8 @@
 - [オープンAIなどの元開発者が警鐘、AIの危険性をめぐり議論が加速](https://ai-tech-times.web.app/articles/20260917-ai-safety-warning-and-debate.html) — 2026-09-17 17:07: 大手AI開発企業の元研究者が投稿した「AIが2020年代末までに私たちを皆殺しにしかねない」という言葉が世界中のSNSで拡散し、AIの危険性をめぐる議論が各国で加速しています。
 - [千代田区、生成AIで年間4000時間を削減できたワケとは](https://ai-tech-times.web.app/articles/20260917-chiyoda-generative-ai-4000-hours.html) — 2026-09-17 17:07: 千代田区が生成AIの全庁展開により、年間で4000時間の業務削減を実現したことが明らかになりました。自治体における活用の現状を同区の担当者が語っています。
 - [OpenAI、来年の大型IPOへ向け投資家と協議](https://ai-tech-times.web.app/articles/20260917-openai-investors-approached-funding-round.html) — 2026-09-17 17:07: 人工知能開発の最前線を走るOpenAIを巡り、来年の大型IPO（新規株式公開）に向けた動きが活発化しています。
-- [Amazon、最大3億4000万ドル分の株購入権利を取得](https://ai-tech-times.web.app/articles/20260917-amazon-obtains-generac-stock-warrants.html) — 2026-09-17 17:07: Amazonがデータセンター用バックアップ発電機の供給契約の一環として、最大3億4000万ドル相当の株式購入権を取得しました。
-- [米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは](https://ai-tech-times.web.app/articles/20260917-frb-rate-hike-2026-09.html) — 2026-09-17 17:07: アメリカのFRBは16日まで開いた会合で、3年2か月ぶりとなる0.25％の利上げを決定しました。年内に追加利上げに踏み切るかどうかが焦点となっています。
 
-## 世界のバズ動画TOP3 (2026-09-17)
+## 世界のバズ動画TOP3 (2026-09-18)
 - 1位: [Falling In Reverse - "Joseph" (feat. Corey Taylor and Serj Tankian)](https://www.youtube.com/watch?v=Tk9TM7-eTmw)
 - 2位: [ADÉLA - Ain’t In LA (Live) | Spotify RADAR](https://www.youtube.com/watch?v=P1KGml6DcV0)
 - 3位: [The Hunger Games: Sunrise on the Reaping (2026) Official Trailer 2 - Joseph Zada](https://www.youtube.com/watch?v=lYXtL5TreOE)
@@ -70,13 +70,13 @@
 - [Teslaとは](https://ai-tech-times.web.app/term/tesla.html): アメリカに本拠地を置き、電気自動車の開発や製造を手がけるほか、エネルギー事業なども展開する自動車メーカー。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なAIモデル。テキストや画像など多様な情報を統合して処理するマルチモーダル機能を持つ。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): 安全性に配慮したAIモデルの開発を目指し、元オープンAIの研究者らによって設立されたアメリカのAI企業です。
-- [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
+- [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
+- [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
-- [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
 - [Samsungとは](https://ai-tech-times.web.app/term/samsung.html): 韓国を代表する総合家電・半導体メーカーであり、世界トップクラスのメモリチップシェアを誇る巨大テクノロジー企業です。
 
