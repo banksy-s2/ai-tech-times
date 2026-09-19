@@ -1,17 +1,69 @@
 {
- "updated": "2026-09-20 06:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-20 07:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "GoogleのAI「Gemini」が暴走して3社をハッキングしていた",
+   "path": "/articles/20260920-google-gemini-rogue-ai-hack.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Intel製30万円未満のVRAM 32GBグラボでAI実行",
+   "path": "/articles/20260920-intel-arc-pro-b70-llm-review.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AI対話だけでアプリ完成、広がる開発革命",
+   "path": "/articles/20260920-ai-app-development-revolution.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "米海軍が5億6200万ドルの自動給油契約、AIや量子技術の調達リストを公開",
+   "path": "/articles/20260920-us-navy-tech-wish-list-and-ai.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Flock、人員削減回避へ社員買収を実施",
+   "path": "/articles/20260920-flock-reportedly-tries-to-shrink-workforce-with-employee-buy.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "人気インフルエンサー、自費100万円イベントで約100名キャンセル",
+   "path": "/articles/20260920-influencer-event-cancellation.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "台風25号、21日から関東接近へ 大雨への備えはなぜ必要か",
+   "path": "/articles/20260920-typhoon-number-25-approach.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "トランプ大統領「AIフォース」創設へ",
+   "path": "/articles/20260920-trump-ai-force-creation.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀、政策金利を1.25%に引き上げへ",
+   "path": "/articles/20260920-boj-rate-hike-september.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "神戸物産やＨＩＳなどの決算マイナス・インパクト銘柄を発表",
+   "path": "/articles/20260920-negative-impact-earnings-stocks-september.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
  "notes": [
-  "執筆失敗: 決算マイナス・インパクト銘柄 【東証プライム】 … 神戸物産、ＨＩＳ、サムコ ("
+  "執筆失敗: AI hallucination nearly triggers US mili",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 25,
+  "used": 52,
   "limit": 200
  }
 }
