@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-19 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-19 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日銀「利上げ決定」で日経平均6万5,000円台回復",
-   "path": "/articles/20260919-boj-rate-hike-september-18.html",
-   "cat": "株式投資(日本)"
+   "title": "住友重機械、アルバトロスとFAWT実用化へ資本業務提携",
+   "path": "/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 97,
+  "used": 100,
   "limit": 200
  }
 }

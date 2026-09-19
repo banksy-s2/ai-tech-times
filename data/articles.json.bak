@@ -93869,5 +93869,39 @@
   "date": "2026-09-19",
   "time": "14:00",
   "path": "/articles/20260919-boj-rate-hike-september-18.html"
+ },
+ {
+  "title": "住友重機械、アルバトロスとFAWT実用化へ資本業務提携",
+  "lead": "住友重機械工業は、浮体式風車の実用化に向けてアルバトロスおよびFAWTとの間で資本業務提携を締結したと発表しました。",
+  "summary3": [
+   "住友重機械が浮体式風車で提携",
+   "アルバトロスとFAWT実用化へ",
+   "環境分野の新たな取り組み"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が取得した情報によると、住友重機械は浮体式風車の分野において、アルバトロスおよびFAWTの実用化に向けた資本業務提携を新たに結びました。",
+   "浮体式風車は洋上風力発電の次世代技術として期待されているものであり、今回の提携を通じて実用化に向けた取り組みがどのように進展するのか、関連業界から注目を集めています。",
+   "具体的な提携の詳細や今後のスケジュールについては、現時点の要約情報において開示されておらず、今後の発表や動向が注目される状況となっています。"
+  ],
+  "tags": [
+   "住友重機械",
+   "アルバトロス",
+   "FAWT"
+  ],
+  "slug": "sumitomo-heavy-albatross-fawt-partnership",
+  "people": [],
+  "terms": [
+   {
+    "name": "住友重機械",
+    "type": "company",
+    "desc": "総合機械メーカーとして、産業機械や船舶、環境・エネルギー機器などを幅広く手掛ける日本の大手企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OE56WE1MeHhtN0tCNXg0Q2N6c3B5MlhGWS1BbGVsNkgtbm51RTk0MDVoajJJRVBtYmRyMV80ZElxS1BCdE10bHp6bWtZUG1XNnhHejh1ZzBlLXZkTUhpTV9oUGhwanpVNUlhaHo5SmVxU1lqSzYyTDRSRQ?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-19",
+  "time": "15:00",
+  "path": "/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html"
  }
 ]
