@@ -93903,5 +93903,73 @@
   "date": "2026-09-19",
   "time": "15:00",
   "path": "/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html"
+ },
+ {
+  "title": "UP.Labsが1億ドル調達しフィジカルAIに全賭けする理由",
+  "lead": "スタートアップを量産するユニークな企業UP.Labsが、社名をVantoraに変更し1億ドルを調達しました。今後は産業企業向けにフィジカルAI分野のスタートアップ構築に注力します。",
+  "summary3": [
+   "UP.Labsが社名をVantoraに変更",
+   "1億ドルを調達しフィジカルAIに全賭け",
+   "産業企業向けのスタートアップを構築"
+  ],
+  "body": [
+   "スタートアップを自ら創出して立ち上げるビジネスを手がけてきたUP.Labsが、新たにVantoraへと社名を変更し、総額1億ドルの資金調達を実施したことが明らかになりました。TechCrunch AIの報道によると、同社は今後、産業企業向けに特化したスタートアップの構築事業へと大きく舵を切る方針です。",
+   "これまでの実績を持つ同社は、今回の巨額の資金調達を背景にして、産業分野における「フィジカルAI」領域のスタートアップ創出に全力を注ぐ姿勢を鮮明にしています。現実世界の物理的な作業や環境をAIで高度に制御・自動化するフィジカルAIの需要が、産業界で急速に高まっていることが背景にあると見られます。",
+   "Vantoraとして新たなスタートを切った同社が、今後どのような産業特化型の新しいスタートアップを世に送り出し、ロボット工学や現実世界でのAI活用をどう進めていくのか、産業界からの熱い視線が集まっています。"
+  ],
+  "tags": [
+   "フィジカルAI",
+   "資金調達",
+   "スタートアップ"
+  ],
+  "slug": "vantora-physical-ai-100m-funding",
+  "people": [],
+  "terms": [
+   {
+    "name": "UP.Labs",
+    "type": "company",
+    "desc": "産業企業向けに新たなスタートアップを共同で構築・設立する事業を展開している企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "16:01",
+  "path": "/articles/20260919-vantora-physical-ai-100m-funding.html"
+ },
+ {
+  "title": "Googleの新AI「CC」、家庭の雑務を自動化する理由",
+  "lead": "AI TECH TIMESがお届けする最新ニュース。Googleが発表した新しいAIエージェント「CC」は、家族のスケジュールやタスクを共有し、家庭の管理をサポートします。",
+  "summary3": [
+   "Googleが家庭管理用AIを発表",
+   "メールや予定を共有し自動化へ",
+   "献立や買い物リストをAIが作成"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。Googleは、家庭のコーディネートに特化した新しいAIエージェント「CC」を発表しました。このAIは、家族の間でメールやスケジュール、タスクを共有できるように設計されています。",
+   "家族が情報を共有することで、AIがカレンダーの管理、書類の記入、買い物リストの作成、食事の計画などを自動でこなすことが可能になります。日々の細々とした家事や連絡調整を効率化し、家庭の運営をサポートするのが狙いです。",
+   "共働きや忙しい子育て世帯の生活をどのように変えていくのか、今後の展開に注目が集まっています。詳細な機能の提供時期や利用方法については、順次明らかにされる見通しです。"
+  ],
+  "tags": [
+   "Google",
+   "AIエージェント",
+   "家事効率化"
+  ],
+  "slug": "googles-new-cc-ai-agent-household",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、クラウドやハードウェア、AI技術の開発など幅広く手掛けるアメリカの巨大テック企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "16:01",
+  "path": "/articles/20260919-googles-new-cc-ai-agent-household.html"
  }
 ]

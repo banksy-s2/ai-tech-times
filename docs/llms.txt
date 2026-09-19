@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 17:06 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [アンソロピックCEOが明かすAI開発抑制プラン、Nvidia反発のなぜ](https://ai-tech-times.web.app/articles/20260919-pace-the-frontier-ai-development.html) — 2026-09-19 17:06: Anthropicのダリオ・アモデイCEOがAI開発の最前線をペースダウンさせる提案を行いました。独立した安全評価者や民主主義国の企業間連携を軸とするこの計画は、早くも業界の支持を集める一方で、Nvidiaのジェンスン・フアン氏からの反発も受けています。
+- [Google DeepMind、AGIの議論を広げる新研究所を設立](https://ai-tech-times.web.app/articles/20260919-google-deepmind-launches-institute-to-widen-agi-debate.html) — 2026-09-19 17:06: Google DeepMindが、汎用人工知能（AGI）をめぐる議論を広げるための新しい研究所を立ち上げました。世界中の研究コミュニティとの間で生じる異なる見解を表面化させる狙いがあります。
+- [IndeedAI求人4.2%過去最高、学位なしで1500万超狙える理由](https://ai-tech-times.web.app/articles/20260919-free-ai-certifications-for-high-salary.html) — 2026-09-19 17:06: IndeedやLinkedInの最新データにより、AI関連求人が急増していることが分かりました。学位がなくても高収入を狙える無料のAI認定資格とは何でしょうか。
+- [クラウドワークス調査：AI導入企業の8割超がチャット止まり](https://ai-tech-times.web.app/articles/20260919-ai-chat-automation-cloudworks.html) — 2026-09-19 17:06: 中小企業におけるAI導入が進む一方で、その8割超が「チャット利用」にとどまっていることが分かりました。業務自動化まで進まない原因は何なのでしょうか。
+- [米政府サイトがFBIが「悪質」とした中国製AIを使った理由](https://ai-tech-times.web.app/articles/20260919-us-government-website-used-chinese-model.html) — 2026-09-19 17:06: 米国の連邦官報ウェブサイトにおいて、中国製のオープンソースAI検索ツールが一時的に使用されていたことが明らかになりました。セキュリティ上の懸念が指摘される中、なぜこのツールが使われたのでしょうか。
+- [バージニア州知事アビゲイル・スパーンバーガー氏、AIとデータセンター規制を指示](https://ai-tech-times.web.app/articles/20260919-virginia-governor-ai-task-force-data-centers.html) — 2026-09-19 17:06: バージニア州のアビゲイル・スパーンバーガー知事が、データセンター開発における地域社会の参画を強化し、承認手続きを遅らせるための州政府の措置を命じました。
+- [ヤマトリノ送検、コカイン21袋と白い粉末も押収](https://ai-tech-times.web.app/articles/20260919-yamatorino-arrested.html) — 2026-09-19 17:06: インフルエンサーのヤマトリノが送検され、コカイン21袋や短く斜めに切られたストローが押収されました。
+- [日銀が3カ月ぶり利上げ実施、東洋経済オンラインが報じる](https://ai-tech-times.web.app/articles/20260919-boj-rate-hike-toyokeizai.html) — 2026-09-19 17:06: 日本銀行が3カ月ぶりの利上げを実施したことを受け、東洋経済オンラインが今後の市場展望に関する記事を公開しました。
 - [UP.Labsが1億ドル調達しフィジカルAIに全賭けする理由](https://ai-tech-times.web.app/articles/20260919-vantora-physical-ai-100m-funding.html) — 2026-09-19 16:01: スタートアップを量産するユニークな企業UP.Labsが、社名をVantoraに変更し1億ドルを調達しました。今後は産業企業向けにフィジカルAI分野のスタートアップ構築に注力します。
 - [Googleの新AI「CC」、家庭の雑務を自動化する理由](https://ai-tech-times.web.app/articles/20260919-googles-new-cc-ai-agent-household.html) — 2026-09-19 16:01: AI TECH TIMESがお届けする最新ニュース。Googleが発表した新しいAIエージェント「CC」は、家族のスケジュールやタスクを共有し、家庭の管理をサポートします。
 - [住友重機械、アルバトロスとFAWT実用化へ資本業務提携](https://ai-tech-times.web.app/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html) — 2026-09-19 15:00: 住友重機械工業は、浮体式風車の実用化に向けてアルバトロスおよびFAWTとの間で資本業務提携を締結したと発表しました。
@@ -34,21 +42,13 @@
 - [Truecallerが反発、インドのスパム情報共有義務化の行方](https://ai-tech-times.web.app/articles/20260919-india-caller-id-spam-sharing.html) — 2026-09-19 12:01: インドが発信者番号特定アプリに対してスパム報告を通信事業者に共有することを義務付けた問題で、Truecallerが懸念を示しています。商業的な重要資産の引き渡しを迫るこの要求は、業界に大きな波紋を呼んでいます。
 - [トランプ大統領、グリーンランド安全保障で米管理合意を投稿](https://ai-tech-times.web.app/articles/20260919-trump-greenland-security-agreement.html) — 2026-09-19 12:01: アメリカのトランプ大統領がSNSを更新し、デンマークの自治領グリーンランドをめぐる安全保障について、アメリカに恒久的な管理権を与える合意に達したと明らかにしました。
 - [トランプ大統領と高市総理、22日に会談開催へ](https://ai-tech-times.web.app/articles/20260919-us-japan-summit-meeting-september-22.html) — 2026-09-19 12:01: アメリカ政府高官は、来週の国連総会にあわせてトランプ大統領と高市総理大臣が22日に会談を行うと明らかにしました。
-- [日経平均1300円超値上がり 日銀利上げ決定後の株価動向](https://ai-tech-times.web.app/articles/20260919-nikkei-stocks-rise-after-boj-rate-hike.html) — 2026-09-19 12:01: 18日の東京株式市場で、日経平均株価が一時1300円以上値上がりしました。これは日本銀行が金融政策決定会合で利上げを決定したことを受けた動きです。
-- [メゾピアノとVTuberコラボがわずか2日で白紙撤回](https://ai-tech-times.web.app/articles/20260919-mezopiano-vtuber-collab-cancelled.html) — 2026-09-19 11:00: 老舗女児服ブランドのメゾピアノと“ロリ神”VTuberの異色コラボレーションが、SNSの紛糾や暴力行為を示唆する脅迫を背景に、わずか2日で白紙撤回される事態となりました。
-- [FCC、Paramountへの49.5%株式売却を承認](https://ai-tech-times.web.app/articles/20260919-fcc-paramount-equity-stake-sale.html) — 2026-09-19 10:00: 米FCCは、Paramountの株式49.5%をサウジアラビア、UAE、カタールへ売却することを認めました。
-- [Nscale、AI特化型クラウドで株式公開へ](https://ai-tech-times.web.app/articles/20260919-nscale-ai-cloud-provider-ipo.html) — 2026-09-19 10:00: 人工知能（AI）分野に特化したクラウドプロバイダーのNscaleが、新たに株式公開の手続きを進めていることが明らかになりました。
-- [豊川信用金庫が生成AIで情報検索を効率化](https://ai-tech-times.web.app/articles/20260919-toyokawa-shinkin-generative-ai.html) — 2026-09-19 09:00: 金融機関における業務規定や商品知識の検索時間を短縮するため、生成AIを活用した新たな支援システムの導入が進められています。
-- [ChatGPT開発者の新AI「Jev」、開発者に支持される理由](https://ai-tech-times.web.app/articles/20260919-new-ai-model-jev-chatgpt-inventor.html) — 2026-09-19 08:00: ChatGPTの開発者による新しいAIモデル「Jev」が、ソフトウェアの知能化に向けてより安価で高速な道を示し、開発者の間で話題を集めています。
-- [Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ](https://ai-tech-times.web.app/articles/20260919-newsom-ai-kill-switch-california.html) — 2026-09-19 08:00: カリフォルニア州のギャビン・ニューサム知事が、AIモデルに対する「キルスイッチ」の義務化などを盛り込んだ新たな行政命令を発令しました。州がAI規制で主導権を握る狙いです。
-- [Disney、キャラ無断使用で警告したAI企業の元CEOを初代CTOに起かつてどうなる](https://ai-tech-times.web.app/articles/20260919-disney-first-cto-character-ai.html) — 2026-09-19 07:04: ウォルト・ディズニーが、かつてキャラクターの無断使用を理由に警告書を送ったAIスタートアップの元最高経営責任者（CEO）を、同社初となる最高技術責任者（CTO）に迎えたことが分かりました。なぜこのような人事が実現したのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-19)
 - 1位: [ROSÉ - new trick (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=Lufa9QAFFeY)
-- 2位: [Call of Duty: Modern Warfare 4 | Campaign Trailer](https://www.youtube.com/watch?v=yLFRQaQT0qM)
-- 3位: [Maluma & Shakira - AGUA (Official Video)](https://www.youtube.com/watch?v=2-NkuLjtGNY)
+- 2位: [Lanterns | Midseason Trailer | HBO Max](https://www.youtube.com/watch?v=-05WmSAmLK4)
+- 3位: [Call of Duty: Modern Warfare 4 | Campaign Trailer](https://www.youtube.com/watch?v=yLFRQaQT0qM)
 
-## AI用語事典 (全1589語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1594語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
@@ -77,8 +77,8 @@
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [日本銀行とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C.html): 日本の中央銀行であり、金融政策の決定や紙幣の発行などを行う国の機関です。
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
+- [ジェンスン・フアンとは](https://ai-tech-times.web.app/term/%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3.html): 米半導体大手エヌビディアの共同創業者兼CEO。AIブームを牽引するGPU開発で知られる業界の重要人物。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
