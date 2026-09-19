@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-20 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-20 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Joby Aviationが3100マイルの完全自動飛行に成功、その先の展開とは",
-   "path": "/articles/20260920-joby-aviation-autonomous-flight.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ディズニーが初の最高技術責任者を新設した理由",
-   "path": "/articles/20260920-disney-names-cto-for-the-first-time.html",
-   "cat": "シリコンバレー最速"
+   "title": "ぷろたん、喧嘩ファイトで称賛された理由とは",
+   "path": "/articles/20260920-breakingdown-protein-fight-praise.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 12,
+  "used": 15,
   "limit": 200
  }
 }
