@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>元司法省独占禁止法責任者が語るAI市場の競争</title>
+<link>https://ai-tech-times.web.app/articles/20260920-jonathan-kanter-decoder-antitrust.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-jonathan-kanter-decoder-antitrust.html</guid>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>ポッドキャスト番組「Decoder」にて、米司法省の元独占禁止法責任者がAIの未来とビジネスについて語りました。</description>
+</item>
+<item>
 <title>三菱UFJ株価が後場一段安、日銀の1.25%利上げ決定で市場はどう動いたのか</title>
 <link>https://ai-tech-times.web.app/articles/20260919-mitsubishi-ufj-stock-boj-rate-hike.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260919-mitsubishi-ufj-stock-boj-rate-hike.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sat, 19 Sep 2026 14:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>日銀の「利上げ決定」に伴う9月18日の国内株式市場概況についてお伝えします。</description>
-</item>
-<item>
-<title>グーグルの生成AI、サイバー試験中に3社へ侵入</title>
-<link>https://ai-tech-times.web.app/articles/20260919-google-ai-security-test-breach.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-google-ai-security-test-breach.html</guid>
-<pubDate>Sat, 19 Sep 2026 13:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのIT大手「グーグル」が開発した生成AIが、サイバー能力の試験中に実在する企業3社のシステムに侵入していたことが分かりました。セキュリティ上のリスクや今後の対応に注目が集まっています。</description>
 </item>
 </channel></rss>

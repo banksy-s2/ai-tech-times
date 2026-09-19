@@ -94849,5 +94849,44 @@
   "date": "2026-09-19",
   "time": "23:00",
   "path": "/articles/20260919-mitsubishi-ufj-stock-boj-rate-hike.html"
+ },
+ {
+  "title": "元司法省独占禁止法責任者が語るAI市場の競争",
+  "lead": "ポッドキャスト番組「Decoder」にて、米司法省の元独占禁止法責任者がAIの未来とビジネスについて語りました。",
+  "summary3": [
+   "元司法省幹部がAIの未来について議論",
+   "ポッドキャスト番組の前後編シリーズ",
+   "法学と技術政策の視点から解説"
+  ],
+  "body": [
+   "ニュースサイト「The Verge AI」によると、ポッドキャスト番組「Decoder」の未来のビジネスに関する前後編シリーズの第1回が配信されました。",
+   "番組では、バイデン政権で米司法省の独占禁止法責任者を務めたジョナサン・カンター氏がゲストとして出演しています。",
+   "カンター氏は現在、ワシントン大学で法学の教授を務めるとともに、カーネギーメロン大学で技術政策の教授も務めています。"
+  ],
+  "tags": [
+   "AI",
+   "独占禁止法",
+   "ポッドキャスト"
+  ],
+  "slug": "jonathan-kanter-decoder-antitrust",
+  "people": [
+   {
+    "name": "ジョナサン・カンター氏",
+    "bio": "バイデン政権で米司法省の独占禁止法責任者を務め、現在は大学で法学や技術政策を教える教授。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "The Verge AI",
+    "type": "company",
+    "desc": "テクノロジーやAIに関する最新ニュースや詳細な解説を提供する主要なメディア媒体。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+  "category": "ai",
+  "date": "2026-09-20",
+  "time": "00:00",
+  "path": "/articles/20260920-jonathan-kanter-decoder-antitrust.html"
  }
 ]

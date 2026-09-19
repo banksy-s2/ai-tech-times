@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-19 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-20 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "三菱UFJ株価が後場一段安、日銀の1.25%利上げ決定で市場はどう動いたのか",
-   "path": "/articles/20260919-mitsubishi-ufj-stock-boj-rate-hike.html",
-   "cat": "株式投資(日本)"
+   "title": "元司法省独占禁止法責任者が語るAI市場の競争",
+   "path": "/articles/20260920-jonathan-kanter-decoder-antitrust.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [],
- "pv_today": 1,
+ "notes": [
+  "執筆失敗: AI hallucination nearly triggers US mili"
+ ],
+ "pv_today": null,
  "gemini": {
-  "used": 169,
+  "used": 4,
   "limit": 200
  }
 }
