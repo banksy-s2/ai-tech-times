@@ -93971,5 +93971,298 @@
   "date": "2026-09-19",
   "time": "16:01",
   "path": "/articles/20260919-googles-new-cc-ai-agent-household.html"
+ },
+ {
+  "title": "アンソロピックCEOが明かすAI開発抑制プラン、Nvidia反発のなぜ",
+  "lead": "Anthropicのダリオ・アモデイCEOがAI開発の最前線をペースダウンさせる提案を行いました。独立した安全評価者や民主主義国の企業間連携を軸とするこの計画は、早くも業界の支持を集める一方で、Nvidiaのジェンスン・フアン氏からの反発も受けています。",
+  "summary3": [
+   "Anthropicが開発抑制策を提示",
+   "独立した安全評価者の導入が柱",
+   "Nvidiaから反発の声も"
+  ],
+  "body": [
+   "AI業界に衝撃を与えたAnthropicの研究者による警告から1週間後、同社のダリオ・アモデイCEOがAI開発の「最前線のペースを落とす」ための計画を明らかにしました。",
+   "この提案は、独立した安全評価機関の活用や、民主主義国におけるAI研究所間の緊密な連携を柱としています。すでに一部の業界関係者からは支持を得ているものの、その実効性を巡ってはNvidiaのジェンスン・フアン氏から指摘や反発の声も上がっています。",
+   "今後のAI開発において、安全性とスピードのバランスをどのように取っていくのか、業界全体での協調と議論がさらに重要になりそうです。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Nvidia",
+   "AI安全性"
+  ],
+  "slug": "pace-the-frontier-ai-development",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "AI企業Anthropicの最高経営責任者であり、AIの安全性と開発のあり方について提言を行っている。"
+   },
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "AI向け半導体で業界を牽引するNvidiaの共同創業者兼最高経営責任者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業で、安全性を重視したAIの開発を行っている。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体大手企業で、AIの学習や処理に不可欠なGPU市場で圧倒的なシェアを持つ。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-pace-the-frontier-ai-development.html"
+ },
+ {
+  "title": "Google DeepMind、AGIの議論を広げる新研究所を設立",
+  "lead": "Google DeepMindが、汎用人工知能（AGI）をめぐる議論を広げるための新しい研究所を立ち上げました。世界中の研究コミュニティとの間で生じる異なる見解を表面化させる狙いがあります。",
+  "summary3": [
+   "Google DeepMindが新研究所を設立",
+   "AGIをめぐる異なる見解を表面化",
+   "急速な進展に合わせて見解も変化へ"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、Google DeepMindは、汎用人工知能（AGI）をめぐる議論を広げるための新しい研究所を立ち上げました。Google、Google DeepMind、そしてより広い世界の研究コミュニティの間にある異なる見解を表面化させることを目指しています。",
+   "急速に進化するフロンティアにおいて、より多くのデータや情報が明らかになるにつれて、関係者たちの意見が常に一致するわけではなく、今後見解が変わる可能性も高いとされています。",
+   "今回の新研究所の設立によって、業界全体でAGIに対する多様な視点がどのように交わっていくのか、今後の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "Google DeepMind",
+   "AGI",
+   "AI研究"
+  ],
+  "slug": "google-deepmind-launches-institute-to-widen-agi-debate",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google DeepMind",
+    "type": "company",
+    "desc": "米Google傘下のAI開発部門で、最先端の人工知能技術の研究と開発を主導している。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、多様なソフトウェアやハードウェアを手がける世界的なテクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+  "category": "ai",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-google-deepmind-launches-institute-to-widen-agi-debate.html"
+ },
+ {
+  "title": "IndeedAI求人4.2%過去最高、学位なしで1500万超狙える理由",
+  "lead": "IndeedやLinkedInの最新データにより、AI関連求人が急増していることが分かりました。学位がなくても高収入を狙える無料のAI認定資格とは何でしょうか。",
+  "summary3": [
+   "IndeedでAI言及求人が過去最高の4.2%に達する",
+   "LinkedInではAI関連求人が2023年以降約2倍に増加",
+   "学位なしで年収1500万円超を狙える無料資格が存在"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」がお伝えします。求人プラットフォームを運営するIndeedのデータによると、2025年12月における全求人のうち、AIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録しました。知識労働（ナレッジワーク）の領域では、データ・アナリティクス系の求人の約45％がAIに触れており、採用市場におけるAIの重要性が急速に高まっています。",
+   "また、ビジネス向けSNSのLinkedInの報告では、AI関連の求人は2023年以降におおよそ2倍に増えており、標準的なAI求人の提示報酬も高水準を維持しています。こうした市場の急拡大を背景に、学位なしでも年収1500万円超を狙える「無料のAI認定資格」に注目が集まっています。",
+   "AI技術の普及と労働市場の変化により、専門的な知識と資格を持つ人材の価値はさらに高まると予想されます。キャリアアップを目指すビジネスパーソンにとって、こうした無料の認定資格を活用することは、今後の大きな武器になりそうです。"
+  ],
+  "tags": [
+   "AI求人",
+   "年収1500万円",
+   "資格"
+  ],
+  "slug": "free-ai-certifications-for-high-salary",
+  "people": [],
+  "terms": [
+   {
+    "name": "Indeed",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、世界最大級の求人情報検索エンジンを運営する企業です。"
+   },
+   {
+    "name": "LinkedIn",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、ビジネス特化型の世界最大級のソーシャルネットワーキングサービスです。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forbesjapan.com/articles/detail/104778",
+  "category": "ai_jp",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-free-ai-certifications-for-high-salary.html"
+ },
+ {
+  "title": "クラウドワークス調査：AI導入企業の8割超がチャット止まり",
+  "lead": "中小企業におけるAI導入が進む一方で、その8割超が「チャット利用」にとどまっていることが分かりました。業務自動化まで進まない原因は何なのでしょうか。",
+  "summary3": [
+   "AI導入企業の6割が導入済み",
+   "利用企業の8割超がチャット止まり",
+   "業務自動化への進展が課題に"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。ITmedia AI+の報道によると、AIを導入した中小企業は6割に達するものの、その8割超が「チャットに使うだけ」の状況にとどまっていることが明らかになりました。",
+   "クラウドワークスの調査によると、多くの企業が日常業務へのAI導入を進めている実態が浮き彫りになりました。しかし、その活用範囲は限定的であり、本格的な業務自動化や効率化のプロセスまで踏み込けている企業は一部にとどまっています。",
+   "便利に使えるチャット機能を超えて、実際の業務自動化へとステップアップしていくためには、どのような課題をクリアする必要があるのでしょうか。今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI",
+   "中小企業",
+   "業務自動化"
+  ],
+  "slug": "ai-chat-automation-cloudworks",
+  "people": [],
+  "terms": [
+   {
+    "name": "クラウドワークス",
+    "type": "company",
+    "desc": "日本最大級のクラウドソーシングサービスを運営するインターネット企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
+  "category": "ai_jp",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-ai-chat-automation-cloudworks.html"
+ },
+ {
+  "title": "米政府サイトがFBIが「悪質」とした中国製AIを使った理由",
+  "lead": "米国の連邦官報ウェブサイトにおいて、中国製のオープンソースAI検索ツールが一時的に使用されていたことが明らかになりました。セキュリティ上の懸念が指摘される中、なぜこのツールが使われたのでしょうか。",
+  "summary3": [
+   "連邦官報サイトが中国製AIを使用",
+   "ツールはオープンソースの検索AI",
+   "FBIが悪質と呼んだモデルを採用"
+  ],
+  "body": [
+   "米国の公式な情報を広く公開する連邦官報（Federal Register）のウェブサイトにおいて、中国製のオープンソースAI検索ツールが一時的に使用されていたことが判明しました。このツールは、インターネット上の情報を効率的に検索・処理するためのオープンソースのAI技術を利用したものです。",
+   "しかし、連邦捜査局（FBI）は、これまでに中国製の特定モデルに対して「悪質である」という警告を発してきました。そのため、政府の公式プラットフォームでこのような中国製AIが使用されていたという事実は、セキュリティや情報管理の観点から大きな波紋を呼んでいます。",
+   "現時点で、このツールが導入された具体的な経緯や、政府機関内での正式な承認プロセスがどうなっていたのかについては詳細が分かっていません。今後の調査や政府からの説明によって、どのような背景で採用に至ったのか、その全貌が明らかにされることが注目されています。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "アメリカ政府"
+  ],
+  "slug": "us-government-website-used-chinese-model",
+  "people": [],
+  "terms": [
+   {
+    "name": "Federal Register",
+    "type": "company",
+    "desc": "米国の政府機関が公布する規則や大統領令などを掲載する公式の連邦官報ウェブサイト。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-us-government-website-used-chinese-model.html"
+ },
+ {
+  "title": "バージニア州知事アビゲイル・スパーンバーガー氏、AIとデータセンター規制を指示",
+  "lead": "バージニア州のアビゲイル・スパーンバーガー知事が、データセンター開発における地域社会の参画を強化し、承認手続きを遅らせるための州政府の措置を命じました。",
+  "summary3": [
+   "知事がデータセンター規制を指示",
+   "開発承認を遅らせる方針へ",
+   "非公開契約の締結を禁止"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、世界最大のデータセンターが集積する米バージニア州において、アビゲイル・スパーンバーガー知事が新たな行政命令を発令しました。州政府に対し、地域社会がデータセンター開発に対してより大きな発言権を持つことを可能にし、開発承認のプロセスを遅らせるための措置を取るよう命じています。",
+   "今回発令された行政命令22号では、行政機関の当局者に対し、非公開契約（NDA）の締結を禁止する内容も含まれており、開発に関する透明性を高める狙いがあります。",
+   "世界有数のデータセンター集積地である同州において、今回の知事による動きは、今後のインフラ開発や地域社会との関係性に大きな影響を与える可能性があります。州政府の今後の具体的な対応に注目が集まっています。"
+  ],
+  "tags": [
+   "データセンター",
+   "AI",
+   "規制"
+  ],
+  "slug": "virginia-governor-ai-task-force-data-centers",
+  "people": [
+   {
+    "name": "アビゲイル・スパーンバーガー",
+    "bio": "アメリカの政治家で、バージニア州知事を務める人物です。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-virginia-governor-ai-task-force-data-centers.html"
+ },
+ {
+  "title": "ヤマトリノ送検、コカイン21袋と白い粉末も押収",
+  "lead": "インフルエンサーのヤマトリノが送検され、コカイン21袋や短く斜めに切られたストローが押収されました。",
+  "summary3": [
+   "インフルエンサーヤマトリノが送検",
+   "コカイン21袋と白い粉末などを押収",
+   "短く斜めに切られたストローも発見"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新のニュースです。インフルエンサーとして知られる「ヤマトリノ」が送検されたことが明らかになりました。",
+   "捜査関係者によると、現場からはコカイン21袋と短く斜めに切られたストローが押収されたほか、白い粉末も付着していたということです。",
+   "事件の詳細や今後の捜査の行方については、引き続き注目が集まっています。詳細な情報は続報をお待ちください。"
+  ],
+  "tags": [
+   "ヤマトリノ",
+   "インフルエンサー",
+   "事件"
+  ],
+  "slug": "yamatorino-arrested",
+  "people": [
+   {
+    "name": "ヤマトリノ",
+    "bio": "SNSを中心に活動しているインフルエンサーの人物。"
+   }
+  ],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZUNkYmt1TWpDVFdSczlnZ2pxVzFQV1l5LTRHenplZ1UtcFVoODlrOEVodC1na2RvUXhUV0dqRVhQN2JqSjBhYUNHS3ZVOVZ4d0RBNXAzdzNqaHRENGQ0ZVVLQlJBV0hNZkJDV2dwSUM0QU5jdHFXbDQta0VYMmM?oc=5",
+  "category": "influencer",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-yamatorino-arrested.html"
+ },
+ {
+  "title": "日銀が3カ月ぶり利上げ実施、東洋経済オンラインが報じる",
+  "lead": "日本銀行が3カ月ぶりの利上げを実施したことを受け、東洋経済オンラインが今後の市場展望に関する記事を公開しました。",
+  "summary3": [
+   "日本銀行が3カ月ぶりの利上げを実施",
+   "東洋経済オンラインが関連記事を公開",
+   "市場の動向と今後の見通しに注目が集まる"
+  ],
+  "body": [
+   "東洋経済オンラインは、日本銀行による3カ月ぶりの利上げ実施を受けた市場の動向について報じました。記事では、金融政策の変更が経済や株式市場に与える影響について考察がなされています。",
+   "日銀の金融政策の方向転換は、国内外の金融市場や投資家の間でも大きな関心事となっています。今後の経済指標の発表や日銀の追加的な政策判断がどのように市場へ影響を与えるのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "日銀",
+   "利上げ",
+   "経済"
+  ],
+  "slug": "boj-rate-hike-toyokeizai",
+  "people": [],
+  "terms": [
+   {
+    "name": "東洋経済オンライン",
+    "type": "company",
+    "desc": "東洋経済新報社が運営する、ビジネスや経済に関する総合ニュースサイトです。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdkJfdk9hX3FrNUZ2Z1R5TFk3aVN5SnZYTTJVRjM4MUhLWW53b2t2cWJ5RXZ4aXVkRWtvU3FEM0RSWFo4dVZ6YTlvLWtfRERDeUZ1TUkzMEJhWi1yXzQw?oc=5",
+  "category": "stock",
+  "date": "2026-09-19",
+  "time": "17:06",
+  "path": "/articles/20260919-boj-rate-hike-toyokeizai.html"
  }
 ]

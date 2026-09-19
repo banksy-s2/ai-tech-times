@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>トコシエ、自然言語から3D CAD生成AIで海外展開</title>
+<link>https://ai-tech-times.web.app/articles/20260919-tokoshie-funding-3d-cad.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-tokoshie-funding-3d-cad.html</guid>
+<pubDate>Sat, 19 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>トコシエは、East Venturesなどを引受先として資金調達を実施しました。AIを活用した3D CAD開発と米国を起点とするグローバル展開を加速させます。</description>
+</item>
+<item>
+<title>アンソロピック、AI安全評価にアクセンチュア起用</title>
+<link>https://ai-tech-times.web.app/articles/20260919-anthropic-accenture-ai-safety.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-anthropic-accenture-ai-safety.html</guid>
+<pubDate>Sat, 19 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米アンソロピックは18日、人工知能開発の安全性評価にコンサルティング大手アクセンチュアを起用すると発表しました。両社で各10億ドルを投じます。</description>
+</item>
+<item>
 <title>アンソロピックCEOが明かすAI開発抑制プラン、Nvidia反発のなぜ</title>
 <link>https://ai-tech-times.web.app/articles/20260919-pace-the-frontier-ai-development.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260919-pace-the-frontier-ai-development.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 19 Sep 2026 07:04:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>ウォルト・ディズニーが、かつてキャラクターの無断使用を理由に警告書を送ったAIスタートアップの元最高経営責任者（CEO）を、同社初となる最高技術責任者（CTO）に迎えたことが分かりました。なぜこのような人事が実現したのでしょうか。</description>
-</item>
-<item>
-<title>OpenAIとマイクロソフトがウェブの破壊を警告</title>
-<link>https://ai-tech-times.web.app/articles/20260919-openai-microsoft-doom-loop-web.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-openai-microsoft-doom-loop-web.html</guid>
-<pubDate>Sat, 19 Sep 2026 07:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>ニューヨーク・タイムズによる訴訟で、OpenAIとマイクロソフトに関する未公開の裁判資料が明らかになりました。両社はデータ収集がウェブにダメージを与えることを事前に認識していたと報じられています。</description>
-</item>
-<item>
-<title>日販が米AI企業に書籍販売、業界団体が説明要求へ</title>
-<link>https://ai-tech-times.web.app/articles/20260919-nippan-book-sales-ai-anthropic.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-nippan-book-sales-ai-anthropic.html</guid>
-<pubDate>Sat, 19 Sep 2026 07:04:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>出版取次大手の日販グループホールディングスが、米AI開発企業に大量の書籍を販売していたことが分かりました。これを受け、日本の出版社約380社が所属する業界団体が事実確認を求めています。</description>
 </item>
 </channel></rss>

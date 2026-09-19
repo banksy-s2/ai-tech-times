@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1JMS2cyY2Zfdng5d2lXZE5zY3h1M2Z0RVYwS0U5dWQ5aWxfeDgwbE5JejUxVFBoZnpwenFXTmx2bEx3WEJFbFlZSGlRejRhNUxtLUI0dDRDZ252RExTaTRVT1ZQdUhIMldIdmM4NGhSd0k5TDM1cFJncDNpeVMzTnRRLTQ0NFU?oc=5",
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5leVdlWXV0Z3IwUXM3dFNPelV3aWhqbmJJamc1cERVZnhXejNBM2w2bFA4YWJZNzRNMDVXckpFMVVvRzg0S0hXMGdBOWNDeVkwdXo3VWlodnB1SFVRN1E?oc=5",
   "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
   "https://gigazine.net/news/20260731-gcc-ai-policy/",
   "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
@@ -1999,13 +1997,11 @@
   "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
   "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZUNkYmt1TWpDVFdSczlnZ2pxVzFQV1l5LTRHenplZ1UtcFVoODlrOEVodC1na2RvUXhUV0dqRVhQN2JqSjBhYUNHS3ZVOVZ4d0RBNXAzdzNqaHRENGQ0ZVVLQlJBV0hNZkJDV2dwSUM0QU5jdHFXbDQta0VYMmM?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdkJfdk9hX3FrNUZ2Z1R5TFk3aVN5SnZYTTJVRjM4MUhLWW53b2t2cWJ5RXZ4aXVkRWtvU3FEM0RSWFo4dVZ6YTlvLWtfRERDeUZ1TUkzMEJhWi1yXzQw?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdkJfdk9hX3FrNUZ2Z1R5TFk3aVN5SnZYTTJVRjM4MUhLWW53b2t2cWJ5RXZ4aXVkRWtvU3FEM0RSWFo4dVZ6YTlvLWtfRERDeUZ1TUkzMEJhWi1yXzQw?oc=5",
+  "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
+  "https://www.nikkei.com/article/DGXZQOGN190JI0Z10C26A9000000/"
  ],
  "titles": [
-  "（まとめ）日経平均は328円高の65,856円で反発　パキスタンとイランの協議進展報道も買い材料に - マネクリ",
-  "【Yokohama Rubber FY2026 Q2 決算説明会】横浜ゴム、上期全段階利益で過去最高 事業利益958億円・54%増、通期3回目上方修正で売上高1兆3200億円へ - BigGo ファイナンス",
-  "人気RPGスカイリムを一緒に遊ぶ低遅延AIコンパニオン",
-  "GPT-2を純粋なCMakeで実装、その仕組みとは",
   "RLWRLDに見る、日本企業のロボット導入の変化",
   "Xiaomi、帯域1.22TB/sのAIチップ「XRING O100」発表",
   "OpenAI、ハッキング事件でアラバマ州が調査を開始",
@@ -4001,6 +3997,10 @@
   "米政府サイトがFBIが「悪質」とした中国製AIを使った理由",
   "バージニア州知事アビゲイル・スパーンバーガー氏、AIとデータセンター規制を指示",
   "ヤマトリノ送検、コカイン21袋と白い粉末も押収",
-  "日銀が3カ月ぶり利上げ実施、東洋経済オンラインが報じる"
+  "日銀が3カ月ぶり利上げ実施、東洋経済オンラインが報じる",
+  "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
+  "アンソロピック、AIの安全評価にアクセンチュア起用 - 日本経済新聞",
+  "トコシエ、自然言語から3D CAD生成AIで海外展開",
+  "アンソロピック、AI安全評価にアクセンチュア起用"
  ]
 }

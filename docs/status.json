@@ -1,61 +1,26 @@
 {
- "updated": "2026-09-19 17:06",
- "mode": "フル便",
+ "updated": "2026-09-19 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "アンソロピックCEOが明かすAI開発抑制プラン、Nvidia反発のなぜ",
-   "path": "/articles/20260919-pace-the-frontier-ai-development.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Google DeepMind、AGIの議論を広げる新研究所を設立",
-   "path": "/articles/20260919-google-deepmind-launches-institute-to-widen-agi-debate.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "IndeedAI求人4.2%過去最高、学位なしで1500万超狙える理由",
-   "path": "/articles/20260919-free-ai-certifications-for-high-salary.html",
+   "title": "トコシエ、自然言語から3D CAD生成AIで海外展開",
+   "path": "/articles/20260919-tokoshie-funding-3d-cad.html",
    "cat": "日本のAI"
   },
   {
-   "title": "クラウドワークス調査：AI導入企業の8割超がチャット止まり",
-   "path": "/articles/20260919-ai-chat-automation-cloudworks.html",
+   "title": "アンソロピック、AI安全評価にアクセンチュア起用",
+   "path": "/articles/20260919-anthropic-accenture-ai-safety.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "米政府サイトがFBIが「悪質」とした中国製AIを使った理由",
-   "path": "/articles/20260919-us-government-website-used-chinese-model.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "バージニア州知事アビゲイル・スパーンバーガー氏、AIとデータセンター規制を指示",
-   "path": "/articles/20260919-virginia-governor-ai-task-force-data-centers.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ヤマトリノ送検、コカイン21袋と白い粉末も押収",
-   "path": "/articles/20260919-yamatorino-arrested.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日銀が3カ月ぶり利上げ実施、東洋経済オンラインが報じる",
-   "path": "/articles/20260919-boj-rate-hike-toyokeizai.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: timeleszの猪俣周杜容疑者を傷害疑いで逮捕 知人女性に暴行か",
-  "執筆失敗: “投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
-  "執筆失敗: 【Link-Uグループ FY2026 FY 決算説明会】海外売上182%増、のれ",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 126,
+  "used": 131,
   "limit": 200
  }
 }
