@@ -93420,5 +93420,73 @@
   "date": "2026-09-19",
   "time": "09:00",
   "path": "/articles/20260919-toyokawa-shinkin-generative-ai.html"
+ },
+ {
+  "title": "FCC、Paramountへの49.5%株式売却を承認",
+  "lead": "米FCCは、Paramountの株式49.5%をサウジアラビア、UAE、カタールへ売却することを認めました。",
+  "summary3": [
+   "FCCが売却を承認しました",
+   "中東3国へ49.5%を譲渡",
+   "懸念の声は退けられました"
+  ],
+  "body": [
+   "米連邦通信委員会（FCC）は、メディア大手のParamountがサウジアラビア、UAE、カタールに対して49.5%の持ち分（株式）を売却することを許可しました。",
+   "今回の売却に関しては、抑圧的な政府がCBSの親会社に対して影響力を持つのではないかという懸念が示されていました。",
+   "しかし、FCCはそのような懸念を退け、今回の株式売却を容認する決定を下しました。"
+  ],
+  "tags": [
+   "FCC",
+   "Paramount",
+   "メディア"
+  ],
+  "slug": "fcc-paramount-equity-stake-sale",
+  "people": [],
+  "terms": [
+   {
+    "name": "Paramount",
+    "type": "company",
+    "desc": "アメリカの総合メディア・エンターテインメント企業で、CBSなどを所有しています。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "10:00",
+  "path": "/articles/20260919-fcc-paramount-equity-stake-sale.html"
+ },
+ {
+  "title": "Nscale、AI特化型クラウドで株式公開へ",
+  "lead": "人工知能（AI）分野に特化したクラウドプロバイダーのNscaleが、新たに株式公開の手続きを進めていることが明らかになりました。",
+  "summary3": [
+   "AI特化クラウドのNscaleが公開市場へ",
+   "新興クラウド企業による上場の動き",
+   "今後の株式市場への展開に注目集まる"
+  ],
+  "body": [
+   "CNBC Techの報道によると、AI特化型のクラウドプロバイダーであるNscaleが、新たに株式公開（IPO）へ向けた手続きを行っていることが分かりました。",
+   "Nscaleは、近年の人工知能市場の急拡大に伴って台頭している、AI関連のワークロードを専門に扱ういわゆる「ネオクラウド」と呼ばれる企業群の最新の事例となります。",
+   "公開市場への参入により、同社が今後どのような成長戦略を描き、資金調達を行っていくのかが注目されています。"
+  ],
+  "tags": [
+   "Nscale",
+   "IPO",
+   "AIクラウド"
+  ],
+  "slug": "nscale-ai-cloud-provider-ipo",
+  "people": [],
+  "terms": [
+   {
+    "name": "Nscale",
+    "type": "company",
+    "desc": "人工知能分野に特化したサービスを提供するクラウドプロバイダー企業。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+  "category": "silicon",
+  "date": "2026-09-19",
+  "time": "10:00",
+  "path": "/articles/20260919-nscale-ai-cloud-provider-ipo.html"
  }
 ]

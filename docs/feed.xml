@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>FCC、Paramountへの49.5%株式売却を承認</title>
+<link>https://ai-tech-times.web.app/articles/20260919-fcc-paramount-equity-stake-sale.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-fcc-paramount-equity-stake-sale.html</guid>
+<pubDate>Sat, 19 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米FCCは、Paramountの株式49.5%をサウジアラビア、UAE、カタールへ売却することを認めました。</description>
+</item>
+<item>
+<title>Nscale、AI特化型クラウドで株式公開へ</title>
+<link>https://ai-tech-times.web.app/articles/20260919-nscale-ai-cloud-provider-ipo.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260919-nscale-ai-cloud-provider-ipo.html</guid>
+<pubDate>Sat, 19 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>人工知能（AI）分野に特化したクラウドプロバイダーのNscaleが、新たに株式公開の手続きを進めていることが明らかになりました。</description>
+</item>
+<item>
 <title>豊川信用金庫が生成AIで情報検索を効率化</title>
 <link>https://ai-tech-times.web.app/articles/20260919-toyokawa-shinkin-generative-ai.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260919-toyokawa-shinkin-generative-ai.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 18 Sep 2026 21:03:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>国連が保有する世界規模のデータをAIエージェントが活用できるよう、Googleが支援を始めました。AIによる統計情報の検索精度向上を目指します。</description>
-</item>
-<item>
-<title>AnthropicのClaude Code、複数AIを管理する新機能</title>
-<link>https://ai-tech-times.web.app/articles/20260918-claude-code-relaunches-projects.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260918-claude-code-relaunches-projects.html</guid>
-<pubDate>Fri, 18 Sep 2026 21:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Anthropicが提供するClaude Codeは、複数のAIエージェントをクラウド上で管理・運用できるリニューアルされたプロジェクト機能を発表しました。</description>
-</item>
-<item>
-<title>小学館サライ.jpが謝罪、ChatGPTで制作したイラストに著作権侵害</title>
-<link>https://ai-tech-times.web.app/articles/20260918-serai-chatgpt-copyright-infringement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260918-serai-chatgpt-copyright-infringement.html</guid>
-<pubDate>Fri, 18 Sep 2026 21:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>小学館が運営する「サライ.jp」において、ChatGPTを使用して作成されたイラストに著作権侵害の問題があったことが判明し、編集部が謝罪しました。</description>
 </item>
 </channel></rss>
