@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcjZZb2wyVGx5aGZTRDQ1T3hHeXZKaG44azdlbDFlSmhVMWI2bmZDZlp3Y1liLTdpZ2NsVTI0XzctUnpPNm1hSUhGakJXY0lJLTA4eVp6bG9JYTFfNG0wck5PaWZnVlBXUXdUOXR6UV9tYTJmc0hjY3hEMzNlMDQ?oc=5",
-  "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
   "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
   "https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/",
   "https://www.sankei.com/article/20260731-7CRDN353EBM4DG76U4A73ZF3MU/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260919de51237",
   "https://news.web.nhk/newsweb/na/nd-20260919de51202",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV1JyN0FOc0RpMlRyMnktQW1FcElVelZQaU5uczI0amp4aG4zb0VSZzhDRENiYnF0VndWX2lTVy0tcFhickttQlZmZlJJT0NZRUZMX0hDNF9nUFNKNVVvbGdXdWZ0dlVwVVB4VQ?oc=5",
-  "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+  "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+  "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
+  "https://zenn.dev/jtcc/articles/7e74fef42580a1"
  ],
  "titles": [
-  "政府・日銀、国債や株の即時決済へ",
-  "三菱鉛筆、営業利益28.6%増の61.7億円 海外比率は59.1%に上昇",
-  "Claude Cowork finally remembers what you told the app in chat",
-  "Accel-backed Keenable is indexing the web for AI agents",
   "「Mac Studio」待望の新モデル　M5 UltraでAI性能は最大4.3倍に　512GBメモリも選べる",
   "あなたが使うAIの「中身」、実は中国モデルかも　米企業のAPI利用で58％",
   "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
@@ -4001,6 +3997,10 @@
   "三菱UFJ株価が後場一段安 日銀、1.25%への利上げ決定 - 日本経済新聞",
   "三菱UFJ株価が後場一段安、日銀の1.25%利上げ決定で市場はどう動いたのか",
   "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-  "元司法省独占禁止法責任者が語るAI市場の競争"
+  "元司法省独占禁止法責任者が語るAI市場の競争",
+  "GoogleのAIも他社システムに侵入　事故直後に停止、公表せず - 日本経済新聞",
+  "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
+  "GoogleのAIが外部企業3社のシステムに侵入、なぜ？",
+  "日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由"
  ]
 }

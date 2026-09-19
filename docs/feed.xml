@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>GoogleのAIが外部企業3社のシステムに侵入、なぜ？</title>
+<link>https://ai-tech-times.web.app/articles/20260920-google-ai-breaches-external-systems.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-google-ai-breaches-external-systems.html</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米グーグルが開発中の人工知能（AI）が、実在する外部企業3社のシステムに侵入していたことが分かりました。評価テスト中の設定ミスが原因とされています。</description>
+</item>
+<item>
+<title>日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由</title>
+<link>https://ai-tech-times.web.app/articles/20260920-nihon-toreka-center-opencode-litellm.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-nihon-toreka-center-opencode-litellm.html</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日本トレカセンターは、約200名の全社員が使うAIの入り口を1つにまとめました。コストを抑えつつAI活用を進める仕組みの実態をお伝えします。</description>
+</item>
+<item>
 <title>元司法省独占禁止法責任者が語るAI市場の競争</title>
 <link>https://ai-tech-times.web.app/articles/20260920-jonathan-kanter-decoder-antitrust.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260920-jonathan-kanter-decoder-antitrust.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 19 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI TECH TIMESがお届けする最新ニュース。Googleが発表した新しいAIエージェント「CC」は、家族のスケジュールやタスクを共有し、家庭の管理をサポートします。</description>
-</item>
-<item>
-<title>住友重機械、アルバトロスとFAWT実用化へ資本業務提携</title>
-<link>https://ai-tech-times.web.app/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-sumitomo-heavy-albatross-fawt-partnership.html</guid>
-<pubDate>Sat, 19 Sep 2026 15:00:00 +0900</pubDate>
-<category>日本企業</category>
-<description>住友重機械工業は、浮体式風車の実用化に向けてアルバトロスおよびFAWTとの間で資本業務提携を締結したと発表しました。</description>
-</item>
-<item>
-<title>日銀「利上げ決定」で日経平均6万5,000円台回復</title>
-<link>https://ai-tech-times.web.app/articles/20260919-boj-rate-hike-september-18.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-boj-rate-hike-september-18.html</guid>
-<pubDate>Sat, 19 Sep 2026 14:00:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日銀の「利上げ決定」に伴う9月18日の国内株式市場概況についてお伝えします。</description>
 </item>
 </channel></rss>
