@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-  "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
   "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
   "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcjZZb2wyVGx5aGZTRDQ1T3hHeXZKaG44azdlbDFlSmhVMWI2bmZDZlp3Y1liLTdpZ2NsVTI0XzctUnpPNm1hSUhGakJXY0lJLTA4eVp6bG9JYTFfNG0wck5PaWZnVlBXUXdUOXR6UV9tYTJmc0hjY3hEMzNlMDQ?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260919de51243",
   "https://news.web.nhk/newsweb/na/nd-20260918de51030",
   "https://news.web.nhk/newsweb/na/nd-20260919de51243",
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92TkpINEY3cUVWQmxINS0xNXk0dEFRd0lQZGFSb01UcXQwUnVZRXJnYmFLSE85Ri1ENnBSMmVRdjl6RmhjTHUxRjIwdzdGYmJFa1V3?oc=5"
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92TkpINEY3cUVWQmxINS0xNXk0dEFRd0lQZGFSb01UcXQwUnVZRXJnYmFLSE85Ri1ENnBSMmVRdjl6RmhjTHUxRjIwdzdGYmJFa1V3?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51237",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51202"
  ],
  "titles": [
-  "OpenAIの新型チップ「Jalapeño」、推論性能で最高峰を更新",
-  "Micron本社周辺で起きる地価高騰と雇用の光景",
-  "月間問い合わせ4倍に、エリア特化リフォーム会社がAI検索を攻略した方法",
-  "Appleのジョン・ターナス次期CEO、9月1日の就任後に待ち受ける3つの課題とは",
   "米国土安全保障省、H-1Bビザに10万3000ドル超の手数料を導入へ",
   "インフルエンサーを狙う前払い13万円の詐欺手口",
   "カナダが米国に最大50%の報復関税、なぜ発動へ",
@@ -4001,6 +3997,10 @@
   "日銀が政策金利を1.25％に引き上げ、今後の金利上昇にどう備えるべきか",
   "米軍が欧州で数万人規模削減を検討、見直しの行方は",
   "日銀、政策金利を1.25％に引き上げへ",
-  "CellidとSB C＆Sが業務提携、ARグラス商用化の加速へ"
+  "CellidとSB C＆Sが業務提携、ARグラス商用化の加速へ",
+  "北朝鮮 キム総書記が軍需工場を視察 兵器にAI導入拡大を指示",
+  "“投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
+  "金正恩総書記が軍需工場を視察、兵器システムへのAI導入拡大を指示",
+  "バフェット氏が会長退任へ、理由語る"
  ]
 }

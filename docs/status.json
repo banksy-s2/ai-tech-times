@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-19 21:05",
- "mode": "フル便",
+ "updated": "2026-09-19 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "ディズニーやネットフリックスが直面、AI脅威論と現場の現実",
-   "path": "/articles/20260919-hollywood-ai-warnings-reality.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Tilly Norwoodがインタビュー中に中国語を話し始めた理由",
-   "path": "/articles/20260919-tilly-norwood-press-tour-chinese.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "生前の写真からAIで生成された遺影が別人だった理由",
-   "path": "/articles/20260919-ai-generated-funeral-portrait.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "カリフォルニア州知事ギャビン・ニューサム氏がAI規制へ大統領選に向けて動く",
-   "path": "/articles/20260919-california-newsom-executive-order-ai.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "パラマウント株主の外国保有規制を49.5%まで緩和、FCCが方針",
-   "path": "/articles/20260919-fcc-foreign-ownership-paramount.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "timelesz猪俣周杜の逮捕がもたらす影響とは",
-   "path": "/articles/20260919-timelesz-inomata-arrest-explained.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "日銀が政策金利を1.25％に引き上げ、今後の金利上昇にどう備えるべきか",
-   "path": "/articles/20260919-boj-rate-hike-1-25-percent.html",
+   "title": "金正恩総書記が軍需工場を視察、兵器システムへのAI導入拡大を指示",
+   "path": "/articles/20260919-north-korea-kim-jong-un-military-factory-ai.html",
    "cat": "時事・世界"
   },
   {
-   "title": "米軍が欧州で数万人規模削減を検討、見直しの行方は",
-   "path": "/articles/20260919-us-military-reduction-europe.html",
+   "title": "バフェット氏が会長退任へ、理由語る",
+   "path": "/articles/20260919-buffett-steps-down-as-chairman.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日銀、政策金利を1.25％に引き上げへ",
-   "path": "/articles/20260919-boj-rate-hike-1-25-percent-2.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "CellidとSB C＆Sが業務提携、ARグラス商用化の加速へ",
-   "path": "/articles/20260919-cellid-sb-c-s-ar-glasses-partnership.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: 【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 161,
+  "used": 165,
   "limit": 200
  }
 }
