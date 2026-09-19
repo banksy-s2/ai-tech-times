@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-19 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-19 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "海底インフラ防衛の新たな開発競争、なぜ各国・企業が参入するのか",
-   "path": "/articles/20260919-underwater-infrastructure-arms-race.html",
-   "cat": "シリコンバレー最速"
+   "title": "大食いYouTuberが収益告白、総額1億円超えになぜ反響",
+   "path": "/articles/20260919-oogui-youtuber-revenue-confession.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: Joby Aviation’s 3,100-mile autonomous fl"
- ],
+ "notes": [],
  "pv_today": 1,
  "gemini": {
-  "used": 136,
+  "used": 138,
   "limit": 200
  }
 }

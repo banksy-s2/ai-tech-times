@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-19 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-19 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "トコシエ、自然言語から3D CAD生成AIで海外展開",
-   "path": "/articles/20260919-tokoshie-funding-3d-cad.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "アンソロピック、AI安全評価にアクセンチュア起用",
-   "path": "/articles/20260919-anthropic-accenture-ai-safety.html",
-   "cat": "日本のAI"
+   "title": "海底インフラ防衛の新たな開発競争、なぜ各国・企業が参入するのか",
+   "path": "/articles/20260919-underwater-infrastructure-arms-race.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Joby Aviation’s 3,100-mile autonomous fl"
+ ],
  "pv_today": 1,
  "gemini": {
-  "used": 131,
+  "used": 136,
   "limit": 200
  }
 }
