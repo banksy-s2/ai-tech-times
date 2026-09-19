@@ -93835,5 +93835,39 @@
   "date": "2026-09-19",
   "time": "13:00",
   "path": "/articles/20260919-trump-bans-media-white-house.html"
+ },
+ {
+  "title": "日銀「利上げ決定」で日経平均6万5,000円台回復",
+  "lead": "日銀の「利上げ決定」に伴う9月18日の国内株式市場概況についてお伝えします。",
+  "summary3": [
+   "日銀の利上げ決定を発表",
+   "日経平均は6万5000円台に回復",
+   "キオクシアが上昇し関連株が買われた"
+  ],
+  "body": [
+   "日銀による「利上げ決定」を受け、9月18日の国内株式市場では日経平均株価が6万5,000円台に回復しました。",
+   "市場においては、キオクシアが上昇したほか、さまざまな注目関連株が買われる展開となりました。",
+   "本日の株式市場における具体的な動向や、買いを集めた関連株の正体について詳細をお伝えします。"
+  ],
+  "tags": [
+   "日本株",
+   "日銀",
+   "日経平均"
+  ],
+  "slug": "boj-rate-hike-september-18",
+  "people": [],
+  "terms": [
+   {
+    "name": "キオクシア",
+    "type": "company",
+    "desc": "フラッシュメモリの開発・製造を手がける日本の大手半導体企業です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhUVg5b3FlUjJIeF9YWGF0ZmhVdjNRS2poOVVuXzJjUEhZWWZNdkdmZnR5X0w2R1BLVnFnSUYzdjdiTS1qbl9kNjJYaXNRcUFwcTJJeWNMSFFZQzM1MkVhcVdGeW5iQzRJWHN1MTBsQkJZUU1tell4Wi1iUVlIMkE?oc=5",
+  "category": "stock",
+  "date": "2026-09-19",
+  "time": "14:00",
+  "path": "/articles/20260919-boj-rate-hike-september-18.html"
  }
 ]

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-19 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-19 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "グーグルの生成AI、サイバー試験中に3社へ侵入",
-   "path": "/articles/20260919-google-ai-security-test-breach.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ大統領、CNNなど3社をホワイトハウス取材禁止に",
-   "path": "/articles/20260919-trump-bans-media-white-house.html",
-   "cat": "時事・世界"
+   "title": "日銀「利上げ決定」で日経平均6万5,000円台回復",
+   "path": "/articles/20260919-boj-rate-hike-september-18.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 94,
+  "used": 97,
   "limit": 200
  }
 }

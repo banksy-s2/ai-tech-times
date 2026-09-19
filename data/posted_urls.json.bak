@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UOVBGY2tKb1lpWUlid1ZieUp1aUJtdmV3UWZyTEkyaVVxa3hpdXRxaDVvc1MzQnBkUnlUV09tTHo4dHl3WmVCWk82V3VyX1dWQno4M0ZUblVpT1lIMzBuazVUWC1qX00?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2607/31/news027.html",
   "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZQ3hBbmJQSVpNOHg4aXpaeXNBaTFXcElWMEZ3UHF0R1hfcWs1RmQ3SDNXYnprQVAtdW1Ya0hLZmFHd0FZM21wM25qYTNCWHp3a05kWWtnak0yOThBdnl0Szd1TnI?oc=5",
   "https://toyokeizai.net/articles/-/952774?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
   "https://news.web.nhk/newsweb/na/nd-20260919de51190",
   "https://news.web.nhk/newsweb/na/nd-20260919de51218",
-  "https://news.web.nhk/newsweb/na/nd-20260918de51005"
+  "https://news.web.nhk/newsweb/na/nd-20260918de51005",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51229",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51209"
  ],
  "titles": [
-  "MetaやNVIDIAが30Bクラスを公開、今このサイズが熱い理由",
-  "Nvidia、200億ドル買収のGroq製ラックを今年稼働へ",
-  "スタンフォード大研究：AI影響分野の若年雇用19%減、その背景",
-  "VTuber儒烏風亭らでん「Forbes 30 UNDER 30」選出の理由とは",
   "沖縄・大東島地方に台風18号接近、厳重警戒へ",
   "ロシア大手通販オゾン、南部倉庫がウクライナの攻撃を受けた理由",
   "日本経済新聞：株主総会資料の書面交付廃止へ、企業負担軽減と単元株撤廃の布石",
@@ -4001,6 +3997,10 @@
   "Truecallerが反発、インドのスパム情報共有義務化の行方",
   "トランプ大統領、グリーンランド安全保障で米管理合意を投稿",
   "トランプ大統領と高市総理、22日に会談開催へ",
-  "日経平均1300円超値上がり 日銀利上げ決定後の株価動向"
+  "日経平均1300円超値上がり 日銀利上げ決定後の株価動向",
+  "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
+  "トランプ大統領 一部メディアに“ホワイトハウスで取材禁止”",
+  "グーグルの生成AI、サイバー試験中に3社へ侵入",
+  "トランプ大統領、CNNなど3社をホワイトハウス取材禁止に"
  ]
 }

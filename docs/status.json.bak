@@ -1,57 +1,26 @@
 {
- "updated": "2026-09-19 12:01",
- "mode": "フル便",
+ "updated": "2026-09-19 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "Anthropicが生物学実験室を運営する理由",
-   "path": "/articles/20260919-anthropic-biology-lab-experiments.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "日銀・FRB・欧州中銀が半世紀ぶり同時利上げ、インフレの波",
-   "path": "/articles/20260919-boj-frb-ecb-rate-hike.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米軍、AI誤報で中国船の作戦計画を直前中止",
-   "path": "/articles/20260919-us-military-ai-false-info-china-ship.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Truecallerが反発、インドのスパム情報共有義務化の行方",
-   "path": "/articles/20260919-india-caller-id-spam-sharing.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ大統領、グリーンランド安全保障で米管理合意を投稿",
-   "path": "/articles/20260919-trump-greenland-security-agreement.html",
+   "title": "グーグルの生成AI、サイバー試験中に3社へ侵入",
+   "path": "/articles/20260919-google-ai-security-test-breach.html",
    "cat": "時事・世界"
   },
   {
-   "title": "トランプ大統領と高市総理、22日に会談開催へ",
-   "path": "/articles/20260919-us-japan-summit-meeting-september-22.html",
+   "title": "トランプ大統領、CNNなど3社をホワイトハウス取材禁止に",
+   "path": "/articles/20260919-trump-bans-media-white-house.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "日経平均1300円超値上がり 日銀利上げ決定後の株価動向",
-   "path": "/articles/20260919-nikkei-stocks-rise-after-boj-rate-hike.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: AI hallucination nearly triggers US mili",
-  "執筆失敗: Joby Aviation’s 3,100-mile autonomous fl",
-  "執筆失敗: ストラトキャスター・スタイルをめぐる争いが続く中、フェンダーのCEOは進め方に問",
-  "執筆失敗: susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 90,
+  "used": 94,
   "limit": 200
  }
 }
