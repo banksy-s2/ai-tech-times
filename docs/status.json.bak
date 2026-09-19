@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-20 04:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "timelesz猪俣周杜容疑者を逮捕、活動休止の背景",
-   "path": "/articles/20260920-timelesz-inomata-arrested.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "中国海警局とフィリピン当局船が衝突、なぜ対立が深まるのか",
-   "path": "/articles/20260920-south-china-sea-vessel-collision.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-20 05:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 最新！｢四季報プロ500｣秋号が選ぶ､今期の純利益増加率50社　大幅増益の背景は"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 19,
+  "used": 22,
   "limit": 200
  }
 }
