@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
   "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
   "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
   "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSWtHQWRGNWdIX2ZPMjFhSDFjN1NpQzIwam1YWFJZeXp1TWtsdzlWTWZUUVdxYkRjMS03cGVNUXVoQlpfVmZTY0I5S2hmZzhJV2c?oc=5",
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVER3c2IyUWRFeGJ5Mk5NU0ZXb04zdDZVRVdqV0V6TnlHd01wQUxYVU9td3VaenhYTVV2NmhhZGg4LVAxMURnckREemxVZVpKcVRjTjFaUjNqc1ZyMXR4TXY3Z1pra3hVSGt3dFItWE8?oc=5",
   "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-  "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+  "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+  "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/"
  ],
  "titles": [
-  "カノックスター、美人妻と2人で1週間5キロ超減",
-  "トランプ大統領、カナダ自動車追加関税50％への引き上げを表明",
   "イオンモール爆発事故、運営会社が遺族に事実と異なる説明をした理由",
   "プライム上場企業、男性の社内取締役が初の半数割れ",
   "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
@@ -4001,6 +3999,8 @@
   "A new kind of AI model from a ChatGPT inventor is thrilling developers",
   "Gavin Newsom is pushing for an AI kill switch",
   "ChatGPT開発者の新AI「Jev」、開発者に支持される理由",
-  "Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ"
+  "Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ",
+  "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
+  "豊川信用金庫が生成AIで情報検索を効率化"
  ]
 }

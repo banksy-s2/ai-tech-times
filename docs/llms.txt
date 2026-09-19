@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-19 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [豊川信用金庫が生成AIで情報検索を効率化](https://ai-tech-times.web.app/articles/20260919-toyokawa-shinkin-generative-ai.html) — 2026-09-19 09:00: 金融機関における業務規定や商品知識の検索時間を短縮するため、生成AIを活用した新たな支援システムの導入が進められています。
 - [ChatGPT開発者の新AI「Jev」、開発者に支持される理由](https://ai-tech-times.web.app/articles/20260919-new-ai-model-jev-chatgpt-inventor.html) — 2026-09-19 08:00: ChatGPTの開発者による新しいAIモデル「Jev」が、ソフトウェアの知能化に向けてより安価で高速な道を示し、開発者の間で話題を集めています。
 - [Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ](https://ai-tech-times.web.app/articles/20260919-newsom-ai-kill-switch-california.html) — 2026-09-19 08:00: カリフォルニア州のギャビン・ニューサム知事が、AIモデルに対する「キルスイッチ」の義務化などを盛り込んだ新たな行政命令を発令しました。州がAI規制で主導権を握る狙いです。
 - [Disney、キャラ無断使用で警告したAI企業の元CEOを初代CTOに起かつてどうなる](https://ai-tech-times.web.app/articles/20260919-disney-first-cto-character-ai.html) — 2026-09-19 07:04: ウォルト・ディズニーが、かつてキャラクターの無断使用を理由に警告書を送ったAIスタートアップの元最高経営責任者（CEO）を、同社初となる最高技術責任者（CTO）に迎えたことが分かりました。なぜこのような人事が実現したのでしょうか。
@@ -41,14 +42,13 @@
 - [ウォーレン・バフェット氏がバークシャーを退任、伝説的投資家の60年の歩みとは](https://ai-tech-times.web.app/articles/20260919-warren-buffett-steps-down-berkshire.html) — 2026-09-19 04:00: BBC Worldによると、長年にわたり世界的な巨大企業を率いてきたウォーレン・バフェット氏が退任を表明しました。1965年の経営権取得以来、同社をどのように成長させたのでしょうか。
 - [国立美術館6施設が10月から入館料を2～3倍に値上げ](https://ai-tech-times.web.app/articles/20260919-national-museums-ticket-price-increase.html) — 2026-09-19 03:00: 独立行政法人国立美術館は、所蔵作品展の入館料を今年10月から順次値上げすると発表しました。現行料金からおおむね2～3倍になります。
 - [Manus、Metaとの破談経て40億ドル評価で5億ドル調達へ](https://ai-tech-times.web.app/articles/20260919-manus-seeks-4b-valuation-in-new-500m-fundraise.html) — 2026-09-19 02:00: 今年初めにMetaとの合併解消を余儀なくされたManusが、独立運営を再開し、40億ドルの企業評価額で5億ドルの資金調達に向けた協議を進めていることが明らかになりました。
-- [OpenAI、Claude使い72時間未満でハッキング被害](https://ai-tech-times.web.app/articles/20260919-openai-hack-claude-heif-heist.html) — 2026-09-19 02:00: 独立系研究者チームが、AnthropicのAIを用いてOpenAIへの不正アクセスに成功したことがウォール・ストリート・ジャーナルの報道で明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-19)
 - 1位: [ROSÉ - new trick (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=Lufa9QAFFeY)
 - 2位: [Call of Duty: Modern Warfare 4 | Campaign Trailer](https://www.youtube.com/watch?v=yLFRQaQT0qM)
 - 3位: [Lanterns | Midseason Trailer | HBO Max](https://www.youtube.com/watch?v=-05WmSAmLK4)
 
-## AI用語事典 (全1580語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1582語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
