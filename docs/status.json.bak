@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-19 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-19 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "豊川信用金庫が生成AIで情報検索を効率化",
-   "path": "/articles/20260919-toyokawa-shinkin-generative-ai.html",
-   "cat": "日本のAI"
+   "title": "FCC、Paramountへの49.5%株式売却を承認",
+   "path": "/articles/20260919-fcc-paramount-equity-stake-sale.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Nscale、AI特化型クラウドで株式公開へ",
+   "path": "/articles/20260919-nscale-ai-cloud-provider-ipo.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: 「AirPods 5」のワイヤレス充電ケース付き上位モデルをフォトレビュー、軸を"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 58,
+  "used": 62,
   "limit": 200
  }
 }

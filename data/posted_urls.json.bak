@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
-  "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
   "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000318/",
   "https://gigazine.net/news/20260730-fcc-robot-vacuums/",
   "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVER3c2IyUWRFeGJ5Mk5NU0ZXb04zdDZVRVdqV0V6TnlHd01wQUxYVU9td3VaenhYTVV2NmhhZGg4LVAxMURnckREemxVZVpKcVRjTjFaUjNqc1ZyMXR4TXY3Z1pra3hVSGt3dFItWE8?oc=5",
   "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
   "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-  "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/"
+  "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
+  "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+  "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html"
  ],
  "titles": [
-  "イオンモール爆発事故、運営会社が遺族に事実と異なる説明をした理由",
-  "プライム上場企業、男性の社内取締役が初の半数割れ",
-  "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
-  "Samsungの本拠地で半導体予備校が大盛況の理由",
   "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
   "Oura、9月IPOへ評価額160億ドル超の行方",
   "韓国発異能アクションアニメ『盗掘王』を人気VTuberと観る同時視聴会！にじさんじから2名が出演（オタク総研） - Yahoo!ニュース",
@@ -4001,6 +3997,10 @@
   "ChatGPT開発者の新AI「Jev」、開発者に支持される理由",
   "Gavin Newsomカリフォルニア州知事、AIのキルスイッチ義務化を検討へ",
   "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
-  "豊川信用金庫が生成AIで情報検索を効率化"
+  "豊川信用金庫が生成AIで情報検索を効率化",
+  "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+  "AI cloud provider Nscale files to go public",
+  "FCC、Paramountへの49.5%株式売却を承認",
+  "Nscale、AI特化型クラウドで株式公開へ"
  ]
 }
