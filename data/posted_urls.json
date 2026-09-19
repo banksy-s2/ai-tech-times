@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
   "https://greyswansignals.com/?theme=dark",
   "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
   "https://forbesjapan.com/articles/detail/101804",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260919de51282",
   "https://news.web.nhk/newsweb/na/nd-20260920de51300",
   "https://www.nikkei.com/article/DGXZQOFL182E0TY6A910C2000000/",
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdXFKc0NfREFuZFFvWm9tTkJhWllBdUpqSTV6YlBFZkY5SWFMRHdmd29TMl9qQzd4RHoxQ1RpMWozc05mYV9SV1pUOFZBNktsTGgyNHN4SXJuZDI3aFhzYw?oc=5"
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdXFKc0NfREFuZFFvWm9tTkJhWllBdUpqSTV6YlBFZkY5SWFMRHdmd29TMl9qQzd4RHoxQ1RpMWozc05mYV9SV1pUOFZBNktsTGgyNHN4SXJuZDI3aFhzYw?oc=5",
+  "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
  ],
  "titles": [
-  "OpenAI製品責任者が語るAIエージェントの現在地",
-  "Peak XVが出資、Ringgが音声AI事業拡大へ1,000万ドル調達の理由",
   "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
   "Granite 4.2 LLMs: How They're Built",
   "「AIエージェントを本番運用中」日本が最下位　“PoC止まり”の原因と、抜け出す方法は？",
@@ -4001,6 +3999,8 @@
   "台風25号、21日から関東接近へ 大雨への備えはなぜ必要か",
   "トランプ大統領「AIフォース」創設へ",
   "日銀、政策金利を1.25%に引き上げへ",
-  "神戸物産やＨＩＳなどの決算マイナス・インパクト銘柄を発表"
+  "神戸物産やＨＩＳなどの決算マイナス・インパクト銘柄を発表",
+  "AI hallucination nearly triggers US military operation",
+  "米軍事作戦がAIの誤作動で一歩手前に"
  ]
 }

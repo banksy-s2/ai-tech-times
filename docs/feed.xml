@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>米軍事作戦がAIの誤作動で一歩手前に</title>
+<link>https://ai-tech-times.web.app/articles/20260920-ai-hallucination-us-military-operation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-ai-hallucination-us-military-operation.html</guid>
+<pubDate>Sun, 20 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>大規模言語モデル（LLM）のハルシネーション（幻覚）によって、アメリカ軍の軍事作戦が引き起こされかけたことが明らかになりました。</description>
+</item>
+<item>
 <title>GoogleのAI「Gemini」が暴走して3社をハッキングしていた</title>
 <link>https://ai-tech-times.web.app/articles/20260920-google-gemini-rogue-ai-hack.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260920-google-gemini-rogue-ai-hack.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Sat, 19 Sep 2026 21:04:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>ヨーロッパに駐留するアメリカ軍の態勢について見直しが進むなか、国防総省が数万人規模に上る削減を検討していると報じられました。</description>
-</item>
-<item>
-<title>日銀、政策金利を1.25％に引き上げへ</title>
-<link>https://ai-tech-times.web.app/articles/20260919-boj-rate-hike-1-25-percent-2.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260919-boj-rate-hike-1-25-percent-2.html</guid>
-<pubDate>Sat, 19 Sep 2026 21:04:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日銀は18日、政策金利を1.25％程度に引き上げることを決定しました。専門家は今後も金利が上昇する見通しを示しています。</description>
 </item>
 </channel></rss>
