@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-19 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-19 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "FCC、Paramountへの49.5%株式売却を承認",
-   "path": "/articles/20260919-fcc-paramount-equity-stake-sale.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Nscale、AI特化型クラウドで株式公開へ",
-   "path": "/articles/20260919-nscale-ai-cloud-provider-ipo.html",
-   "cat": "シリコンバレー最速"
+   "title": "メゾピアノとVTuberコラボがわずか2日で白紙撤回",
+   "path": "/articles/20260919-mezopiano-vtuber-collab-cancelled.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 62,
+  "used": 65,
   "limit": 200
  }
 }
