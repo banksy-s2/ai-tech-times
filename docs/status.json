@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-20 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-20 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "GoogleのAIが外部企業3社のシステムに侵入、なぜ？",
-   "path": "/articles/20260920-google-ai-breaches-external-systems.html",
-   "cat": "日本のAI"
+   "title": "Joby Aviationが3100マイルの完全自動飛行に成功、その先の展開とは",
+   "path": "/articles/20260920-joby-aviation-autonomous-flight.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由",
-   "path": "/articles/20260920-nihon-toreka-center-opencode-litellm.html",
-   "cat": "日本のAI"
+   "title": "ディズニーが初の最高技術責任者を新設した理由",
+   "path": "/articles/20260920-disney-names-cto-for-the-first-time.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 12,
   "limit": 200
  }
 }

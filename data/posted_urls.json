@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-  "https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/",
   "https://www.sankei.com/article/20260731-7CRDN353EBM4DG76U4A73ZF3MU/",
   "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
   "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV1JyN0FOc0RpMlRyMnktQW1FcElVelZQaU5uczI0amp4aG4zb0VSZzhDRENiYnF0VndWX2lTVy0tcFhickttQlZmZlJJT0NZRUZMX0hDNF9nUFNKNVVvbGdXdWZ0dlVwVVB4VQ?oc=5",
   "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
   "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
-  "https://zenn.dev/jtcc/articles/7e74fef42580a1"
+  "https://zenn.dev/jtcc/articles/7e74fef42580a1",
+  "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+  "https://www.cnbc.com/2026/09/18/disney-cto-tech.html"
  ],
  "titles": [
-  "「Mac Studio」待望の新モデル　M5 UltraでAI性能は最大4.3倍に　512GBメモリも選べる",
-  "あなたが使うAIの「中身」、実は中国モデルかも　米企業のAPI利用で58％",
-  "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-  "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
   "「タトゥー入れてる奴は全員バカ」と主張の彫師YouTuber、刺青3人組に「自宅凸」され警察沙汰 - ライブドアニュース",
   "熊本地震 農林水産業の被害 約1102億円に（8月25日時点）",
   "高市首相 ICC赤根所長への制裁は日本の立場と相いれず",
@@ -4001,6 +3997,10 @@
   "GoogleのAIも他社システムに侵入　事故直後に停止、公表せず - 日本経済新聞",
   "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
   "GoogleのAIが外部企業3社のシステムに侵入、なぜ？",
-  "日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由"
+  "日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由",
+  "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+  "Disney names CTO for the first time as media giant expands tech push",
+  "Joby Aviationが3100マイルの完全自動飛行に成功、その先の展開とは",
+  "ディズニーが初の最高技術責任者を新設した理由"
  ]
 }

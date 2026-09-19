@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-20 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-20 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "元司法省独占禁止法責任者が語るAI市場の競争",
-   "path": "/articles/20260920-jonathan-kanter-decoder-antitrust.html",
-   "cat": "AI(海外)"
+   "title": "GoogleのAIが外部企業3社のシステムに侵入、なぜ？",
+   "path": "/articles/20260920-google-ai-breaches-external-systems.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "日本トレカセンター、全社200名へOpenCode導入でコストを抑えAI活用を進める理由",
+   "path": "/articles/20260920-nihon-toreka-center-opencode-litellm.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: AI hallucination nearly triggers US mili"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }
