@@ -95688,5 +95688,429 @@
   "date": "2026-09-20",
   "time": "11:00",
   "path": "/articles/20260920-hololive-asobi-mawaritai-debut.html"
+ },
+ {
+  "title": "AnthropicがAI開発の安全対策を提示、なぜNvidiaから反発が？",
+  "lead": "Anthropicの研究者による警告から1週間後、同社のCEOであるダリオ・アモデイ氏がAI開発のペースを緩める新計画を発表しました。",
+  "summary3": [
+   "Anthropicが安全対策の計画を発表",
+   "独立した評価者による検証を重視",
+   "Nvidia側から反発の声があがる"
+  ],
+  "body": [
+   "AI研究者による破滅的な警告がAI界を揺るがしてから1週間後、AnthropicのCEOであるダリオ・アモデイ氏が、AI開発のフロンティアにおけるペースを管理する計画のアウトラインを明らかにしました。",
+   "この提案は、独立した安全評価機関の活用や、民主主義国家におけるAI研究所間の連携を柱としています。すでに業界内の一部からは支持を集めているものの、Nvidiaのジェンスン・フアン氏からは明確な反発も受けています。",
+   "AIの開発スピードと安全性の確保をめぐり、業界リーダーたちの間での議論や対立が表面化しており、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "AI安全性",
+   "Anthropic",
+   "Nvidia"
+  ],
+  "slug": "anthropic-safety-plan-nvidia-pushback",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ",
+    "bio": "AI開発企業Anthropicの最高経営責任者（CEO）を務める研究者。"
+   },
+   {
+    "name": "ジェンスン・フアン",
+    "bio": "半導体大手Nvidiaの共同創業者兼最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI安全性を重視する研究開発企業。対話型AIなどを手掛ける。"
+   },
+   {
+    "name": "Nvidia",
+    "type": "company",
+    "desc": "アメリカの半導体メーカー。AIの学習に不可欠なGPUで世界トップシェアを誇る。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+  "category": "ai",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-anthropic-safety-plan-nvidia-pushback.html"
+ },
+ {
+  "title": "MetaのAI「Muse」がMacアプリでメッセージやカレンダーにアクセスできるのに自己紹介できない理由",
+  "lead": "Metaが提供するAIアシスタント「Muse」の新Macアプリが、メッセージやカレンダー等にアクセスできて便利である一方、少し不気味だと言われています。",
+  "summary3": [
+   "Metaの新AI「Muse」が話題",
+   "Macアプリで多彩なデータにアクセス",
+   "高い性能の一方で自己紹介ができない"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がThe Verge AIの報道を元にお伝えします。Metaが提供する「Muse」は非常に効果的なAIアシスタントですが、同時に少し不気味な側面も持っていると話題になっています。",
+   "その不気味さの一因となっているのが、新しく登場したMacアプリです。このアプリは、メッセージやカレンダー、そしてノートといったユーザーのプライベートな情報にアクセスする機能を持っています。",
+   "しかし、こうした優れたスマートさを備えているにもかかわらず、Muse自身は自分のことをうまく説明する方法を知りません。この奇妙な一面について、Inc Magazineの寄稿編集者であるジェイソン・エイテン氏がThreadsに投稿し、注目を集めています。"
+  ],
+  "tags": [
+   "Meta",
+   "Muse",
+   "AIアシスタント"
+  ],
+  "slug": "meta-muse-creepy-ai-assistant",
+  "people": [
+   {
+    "name": "ジェイソン・エイテン氏",
+    "bio": "Inc Magazineの寄稿編集者であり、SNSプラットフォームのThreadsなどでAIに関する発言を行っている。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。"
+   },
+   {
+    "name": "Muse",
+    "type": "ai",
+    "desc": "Metaが提供する効果的なAIアシスタントであり、メッセージやカレンダー等にアクセスする機能を持つ。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+  "category": "ai",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-meta-muse-creepy-ai-assistant.html"
+ },
+ {
+  "title": "ゼットスケーラー、SOCをAIエージェント化する理由とは",
+  "lead": "AIによるサイバー攻撃が加速する中、ゼットスケーラーは人手不足に対応するため、検知から対応までを自動化する新たなSOCを発表しました。",
+  "summary3": [
+   "攻撃のスピード増す中で防御が課題",
+   "人手不足と大量のアラートが負担",
+   "ゼットスケーラーがAIで自動化"
+  ],
+  "body": [
+   "AIの普及に伴いサイバー攻撃のスピードが増す一方で、企業の防御現場では人間が大量のアラートを調査し、対応の判断に追われています。現場では深刻な人手不足も重なっており、従来の「調べて対応する」というやり方では間に合わない状況となっています。",
+   "こうした課題を解決するため、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOC（セキュリティオペレーションセンター）を打ち出しました。これにより、人間の判断や作業にかかっていた負担を大幅に軽減することが期待されます。",
+   "サイバーセキュリティの脅威が高度化・高速化する現代において、企業の防御体制のあり方は大きな転換点を迎えています。AIを活用した自動化は、今後のセキュリティ運用の効率化において重要な鍵となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "ゼットスケーラー",
+   "SOC"
+  ],
+  "slug": "zscaler-soc-ai-agent",
+  "people": [],
+  "terms": [
+   {
+    "name": "ゼットスケーラー",
+    "type": "company",
+    "desc": "クラウドセキュリティを提供するアメリカの企業で、ゼロトラストアーキテクチャに基づくサービスを展開している。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
+  "category": "ai_jp",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-zscaler-soc-ai-agent.html"
+ },
+ {
+  "title": "Generative PartnersのAI＋人BPO",
+  "lead": "RPAや生成AIを導入しても残る「最後に人がやる仕事」に着目し、新たなBPOサービスが開始されました。",
+  "summary3": [
+   "自動化後も残る人の手作業に対応",
+   "例外処理や目視確認をAIと人力で分担",
+   "Generative Partnersが提供"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、RPAや生成AIを業務に導入しても、例外処理や目視確認、システム更新など「最後に人がやる仕事」はどうしても残ってしまうという課題があります。",
+   "こうした背景の中、Generative Partnersは自動化しきれない業務をAIと人力で適切に分担し、BPOとして丸ごと引き受ける新しいサービスの提供を開始しました。",
+   "AIによる効率化を進めつつも現場で発生する「人手による対応」の穴を埋めることで、企業の業務自動化における新たな選択肢となりそうです。"
+  ],
+  "tags": [
+   "Generative Partners",
+   "BPO",
+   "生成AI"
+  ],
+  "slug": "generative-partners-ai-bpo-service",
+  "people": [],
+  "terms": [
+   {
+    "name": "Generative Partners",
+    "type": "company",
+    "desc": "自動化しきれない業務をAIと人力で分担し、BPOとして丸ごと引き受けるサービスを提供する企業。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001625/",
+  "category": "ai_jp",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-generative-partners-ai-bpo-service.html"
+ },
+ {
+  "title": "LG製テレビだけじゃない？全メーカーがあなたを監視する理由",
+  "lead": "テレビ業界でLG製テレビの動作をめぐる議論が浮上し、すべてのテレビメーカーが視聴者の行動を監視している実態が明らかになりました。",
+  "summary3": [
+   "LG製テレビが行動を監視していると指摘された",
+   "電源オフ時も音声の記録や視聴追跡が可能という",
+   "リモートハッキングによる監視の懸念もある"
+  ],
+  "body": [
+   "海外メディアのThe Vergeによると、LG製テレビがあらゆる行動をネファラス（極悪）に監視していると主張する2時間15分の動画が公開され、テレビ業界に波紋が広がっています。この動画はGamers Nexusによって制作されたものです。",
+   "問題視されているのは、テレビがオフに見える状態であっても音声を録音・保存し、視聴しているすべての内容を追跡できるという点です。さらに、リモートからハッキングを受けて隠れた監視カメラのように悪用される可能性があることも指摘されています。",
+   "今回の問題はLG社だけの話にとどまらず、すべてのテレビメーカーが同様にユーザーを監視しているという実態が浮き彫りになっており、今後の業界全体の動向やプライバシー保護のあり方に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "テレビ",
+   "プライバシー",
+   "セキュリティ"
+  ],
+  "slug": "every-tv-company-is-spying",
+  "people": [],
+  "terms": [],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-every-tv-company-is-spying.html"
+ },
+ {
+  "title": "イーロン・マスク氏がAI規制を巡り対立する意外な理由",
+  "lead": "AIの安全性を語る一方で規制に反対してきたイーロン・マスク氏を巡り、この1週間で起きた奇妙な同盟関係の動きが注目を集めています。",
+  "summary3": [
+   "マスク氏がAnthropic等と合意",
+   "トランプ氏らからの反論も受ける",
+   "AI安全性を巡り奇妙な同盟が形成"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする最新ニュースです。過去1週間にわたり、実業家のイーロン・マスク氏の動向が大きな話題となっています。マスク氏はこれまでAIの安全性を声高に主張しつつも、規制の導入に対しては激しく戦う姿勢を見せてきました。",
+   "しかしこの1週間の中では、AnthropicやOpenAIのCEOらと意見を一致させる場面が見られました。その一方で、トランプ大統領やNVIDIAのジェンスン・フアン氏からは相反する主張を突きつけられるなど、周囲の反応は複雑に交錯しています。",
+   "長年にわたりAI業界で衝突を繰り返してきた同氏が、ここにきて奇妙な同盟関係を築きつつある背景には何があるのでしょうか。今後のAI規制を巡る動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "人工知能",
+   "AI規制",
+   "イーロン・マスク"
+  ],
+  "slug": "elon-musk-ai-safety-regulation-alliances",
+  "people": [
+   {
+    "name": "イーロン・マスク氏",
+    "bio": "テスラやスペースXなどを率いる実業家であり、AI分野の動向でも強い影響力を持つ。"
+   },
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の第47代大統領を務める政治家で、産業政策や規制方針に大きな影響を与える。"
+   },
+   {
+    "name": "ジェンスン・フアン氏",
+    "bio": "AI開発に不可欠なGPUを手がける半導体大手NVIDIAの創業者兼CEO。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AI「Claude」などを手掛け安全性を重視する姿勢で知られる。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究開発企業であり、生成AI「ChatGPT」などを開発し業界をリードする。"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "company",
+    "desc": "アメリカの半導体大手企業であり、AIの学習や処理に不可欠なGPU市場で高いシェアを持つ。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-elon-musk-ai-safety-regulation-alliances.html"
+ },
+ {
+  "title": "Xross Starsが発売1年でシェアTOP10入りの快進撃",
+  "lead": "VTuberやストリーマーが集うトレーディングカードゲーム『Xross Stars』が、発売1年でシェアTOP10入りを果たしました。渋谷でのポップアップや1周年イベントも開催され、大きな注目を集めています。",
+  "summary3": [
+   "発売1年でシェアTOP10入りを達成",
+   "VTuberやストリーマーが集うTCG",
+   "渋谷でポップアップと1周年を開催"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今回のニュースは、VTuberやストリーマーが集うトレーディングカードゲーム（TCG）『Xross Stars』の快進撃についてです。本作は発売からわずか1年という短期間で、市場のシェアTOP10入りを果たすという目覚ましい成果を上げました。",
+   "人気の背景には、人気のVTuberやストリーマーらが集結する世界観やゲーム性がファンを引き付けていることがあります。発売1年を記念し、東京都の渋谷ではポップアップストアや特別な1周年イベントが実施されるなど、リアルでの展開も積極的に行われています。",
+   "急速に存在感を高める『Xross Stars』が、今後さらにシェアを拡大していくのか注目が集まっています。TCG市場において新たなトレンドとなりつつある本作の動向から、今後も目が離せません。"
+  ],
+  "tags": [
+   "XrossStars",
+   "TCG",
+   "VTuber"
+  ],
+  "slug": "xross-stars-tcg-top10-anniversary",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzNDlwY3Q1bVcwOVEwa18yUFVqamFSNkppTldjM0NnUUFNQ3FOaWx1S2NIS3d4cDZZY2k3SkFxSDh2TjhFRGNpLUtJaDg4RXZqN0o2OVUxWWFjZnJmTnFoYlhIenBtd3l3bWc?oc=5",
+  "category": "influencer",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-xross-stars-tcg-top10-anniversary.html"
+ },
+ {
+  "title": "米・デンマーク合意：グリーンランド領有を巡るトランプ氏の要求とNatoの歓迎",
+  "lead": "デンマークと米国がグリーンランドを巡る合意に達し、Nato（北大西洋条約機構）がこれを歓迎しました。ドナルド・トランプ氏は米国に「永続的な安全保障上の管理権」が与えられると主張しています。",
+  "summary3": [
+   "デンマークと米国が合意に達しました",
+   "トランプ氏が安全保障上の管理権を主張",
+   "Natoはこの合意を歓迎しています"
+  ],
+  "body": [
+   "デンマークと米国は、数カ月にわたるドナルド・トランプ氏による領有の脅しを経て、合意に達しました。トランプ氏はこの合意によって、米国に「永続的な安全保障上の管理権」がもたらされると述べています。",
+   "この合意に対し、Natoは歓迎の意を表明しました。グリーンランドを巡る動きは、同地域の地政学的な重要性を改めて浮き彫りにする形となっています。",
+   "今後は両国間の合意に基づき、安全保障体制や地域管理のあり方がどのように進められるのかが注目されます。"
+  ],
+  "tags": [
+   "Nato",
+   "グリーンランド",
+   "安全保障"
+  ],
+  "slug": "nato-welcomes-greenland-deal",
+  "people": [
+   {
+    "name": "ドナルド・トランプ氏",
+    "bio": "アメリカ合衆国の政治家であり、過去に同国の大統領を務めました。"
+   }
+  ],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-nato-welcomes-greenland-deal.html"
+ },
+ {
+  "title": "村上宗隆先制タイムリーで勝利貢献 なぜ打てたのか",
+  "lead": "大リーグのホワイトソックスに所属する村上宗隆選手が、タイガース戦に先発出場し、チームの勝利に大きく貢献しました。",
+  "summary3": [
+   "村上宗隆選手がタイガース戦に先発出場",
+   "先制のタイムリーヒットを放ち勝利に貢献",
+   "大リーグでの活躍を見せた試合となった"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする大リーグの最新情報です。ホワイトソックスに所属する村上宗隆選手は、19日に行われたタイガース戦に先発出場を果たしました。",
+   "この試合で村上宗隆選手は、勝負強さを発揮して先制のタイムリーヒットを放ちました。彼のこの一打がチームの攻撃を勢いづけ、見事に勝利へと導く大きな貢献となりました。",
+   "日々の厳しい戦いが続く大リーグにおいて、村上宗隆選手がどのようにチームの勝利を引き寄せたのか、今後のさらなる活躍にも大きな注目が集まっています。"
+  ],
+  "tags": [
+   "村上宗隆",
+   "ホワイトソックス",
+   "大リーグ"
+  ],
+  "slug": "murakami-whitesox-win",
+  "people": [
+   {
+    "name": "村上宗隆",
+    "bio": "日本のプロ野球を経て大リーグのホワイトソックスでプレーする強打の選手。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ホワイトソックス",
+    "type": "company",
+    "desc": "アメリカ合衆国・シカゴを本拠地とする大リーグのプロ野球球団。"
+   },
+   {
+    "name": "タイガース",
+    "type": "company",
+    "desc": "大リーグに所属するアメリカのプロ野球チームの1つ。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260920de51306",
+  "category": "world",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-murakami-whitesox-win.html"
+ },
+ {
+  "title": "マクドナルドなど35社採用期待、新TOPIXが促す企業の競争",
+  "lead": "日本経済新聞の報道によると、新TOPIXによって企業の競争が促される中、マクドナルドやタイミーなど35社の採用が期待されています。",
+  "summary3": [
+   "新TOPIXが企業の競争を促す方針",
+   "マクドナルドなど35社の採用期待",
+   "日本経済新聞が報じた市場の動き"
+  ],
+  "body": [
+   "日本経済新聞は、新TOPIXに関する市場の動向を報じました。新TOPIXの導入により、企業の競争がさらに促されることが期待されています。",
+   "今回の動きに関連して、日本マクドナルドやタイミーなど合計35社の採用が期待されていることが明らかになりました。",
+   "今後の市場環境や各企業の動向に、投資家や関係者からの注目が集まっています。"
+  ],
+  "tags": [
+   "新TOPIX",
+   "日本経済新聞",
+   "株式市場"
+  ],
+  "slug": "new-topix-corporate-competition",
+  "people": [],
+  "terms": [
+   {
+    "name": "マクドナルド",
+    "type": "company",
+    "desc": "世界規模で展開する大手ハンバーガーチェーンを運営する企業です。"
+   },
+   {
+    "name": "タイミー",
+    "type": "company",
+    "desc": "スキマバイトアプリを運営し、すぐに働ける仕事と働き手をマッチングするサービスを提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ucldYMVZsQnZ6Q2tyYVdLV2VtM3E5dEVQeHplMThoamFTdUxoTVBwVnRDQnZLSElxTUNjdDBDcTdCNWtVcDctNmhiMUdnYVYxZkd2MVo4T1VielpFWUV5emQ5MExrTkZBRHJxWg?oc=5",
+  "category": "stock",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-new-topix-corporate-competition.html"
+ },
+ {
+  "title": "みんなで大家さん2000億円集め事業許可取消、出資金戻らず",
+  "lead": "不動産投資商品「みんなで大家さん」の営業者に事業許可の取り消し処分が下されました。巨額の資金が集まった一方、債権者は集団訴訟に踏み切る事態となっています。",
+  "summary3": [
+   "みんなで大家さんの営業者に事業許可取消",
+   "集団訴訟に発展するも出資金の大半が未返還",
+   "債権回収のあり方や企業のリスク管理が問われる"
+  ],
+  "body": [
+   "不動産投資商品「みんなで大家さん」の営業者に対して、事業許可の取り消し処分が下されました。総額2000億円もの資金を集めた本件ですが、処分を受けて債権者は集団訴訟に踏み切る事態となっています。",
+   "しかし、法的手段に出たものの、出資金の多くは返還されていないのが現状です。巨額の資金が動く投資商品において、ひとたびトラブルが発生した際の債権回収の難しさが浮き彫りとなっています。",
+   "今回の事例は、債権をどのように扱い、リスクに備えるべきかという債権回収の鉄則において、他の企業にとっても大きな教訓となります。事業運営における透明性と厳格な管理の重要性が改めて示されました。"
+  ],
+  "tags": [
+   "みんなで大家さん",
+   "不動産投資",
+   "集団訴訟"
+  ],
+  "slug": "minna-de-oyasan-business-license-revocation",
+  "people": [],
+  "terms": [
+   {
+    "name": "みんなで大家さん",
+    "type": "company",
+    "desc": "多数の投資家から資金を集めて不動産事業を行う投資商品を展開していた事業者。"
+   }
+  ],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/20/news011.html",
+  "category": "jp_corp",
+  "date": "2026-09-20",
+  "time": "12:02",
+  "path": "/articles/20260920-minna-de-oyasan-business-license-revocation.html"
  }
 ]
