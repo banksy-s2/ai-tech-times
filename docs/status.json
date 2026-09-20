@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-20 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-20 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Automattic、幹部相次ぎ退任し暫定CFO起用",
-   "path": "/articles/20260920-automattic-names-interim-cfo.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "エアアジアのフェルナンデス氏が財務懸念を否定、成長計画へ",
-   "path": "/articles/20260920-airasia-fernandes-refutes-financial-concerns.html",
-   "cat": "シリコンバレー最速"
+   "title": "ホロライブの新VTuberユニット「アソビ★まわり隊！」がデビュー、今後の新人は「○期生」ではない仕様へ",
+   "path": "/articles/20260920-hololive-asobi-mawaritai-debut.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 66,
+  "used": 69,
   "limit": 200
  }
 }

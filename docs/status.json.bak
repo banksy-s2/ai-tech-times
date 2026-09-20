@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-20 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-20 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "アルトマン氏が明かすOpenAI内部モデルの数学者超え、学界に走る焦燥感",
-   "path": "/articles/20260920-altman-openai-math-model.html",
-   "cat": "日本のAI"
+   "title": "Automattic、幹部相次ぎ退任し暫定CFO起用",
+   "path": "/articles/20260920-automattic-names-interim-cfo.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み",
-   "path": "/articles/20260920-ai-experts-for-smes.html",
-   "cat": "日本のAI"
+   "title": "エアアジアのフェルナンデス氏が財務懸念を否定、成長計画へ",
+   "path": "/articles/20260920-airasia-fernandes-refutes-financial-concerns.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
-  "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
+  "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
+  "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 61,
+  "used": 66,
   "limit": 200
  }
 }

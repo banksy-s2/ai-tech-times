@@ -95576,5 +95576,83 @@
   "date": "2026-09-20",
   "time": "09:00",
   "path": "/articles/20260920-ai-experts-for-smes.html"
+ },
+ {
+  "title": "Automattic、幹部相次ぎ退任し暫定CFO起用",
+  "lead": "WordPressなどを手がけるAutomatticで幹部の退任が相次ぎ、暫定CFOが新たに就任しました。今後の財務体制にどのような影響を与えるのでしょうか。",
+  "summary3": [
+   "Automatticで幹部が相次ぎ退任",
+   "新規の暫定CFOにジェレミー・クラッパーマン氏",
+   "WordPress VIP事業部門から起用"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。WordPressの関連事業で知られる米Automattic社において、複数の幹部が相次いで退任する事態となりました。これに伴い、同社は新たな経営体制への移行を進めています。",
+   "今回の人事では、同社のエンタープライズ向け事業である「WordPress VIP」ビジネスユニットでCFOを務めていたジェレミー・クラッパーマン氏が、当面の間、全社の暫定CFOとしてその職務を代行することが明らかになりました。",
+   "幹部の相次ぐ退任という大きな変化を迎えた同社ですが、クラッパーマン氏の暫定起用により、財務部門の継続性と安定性をどのように保っていくのかが注目されています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "Automattic",
+   "WordPress",
+   "人事"
+  ],
+  "slug": "automattic-names-interim-cfo",
+  "people": [
+   {
+    "name": "ジェレミー・クラッパーマン氏",
+    "bio": "Automattic社のWordPress VIP Enterprise事業部門でCFOを務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Automattic",
+    "type": "company",
+    "desc": "人気ブログ作成ツール「WordPress.com」などを開発・運営するアメリカの企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "10:00",
+  "path": "/articles/20260920-automattic-names-interim-cfo.html"
+ },
+ {
+  "title": "エアアジアのフェルナンデス氏が財務懸念を否定、成長計画へ",
+  "lead": "エアアジアの共同創業者であるトニー・フェルナンデス氏が、同社の財務の健全性に関する懸念を巡る報道に反論し、新たな成長計画を再開する方針を示しました。",
+  "summary3": [
+   "エアアジアの財務懸念報道に反論",
+   "トニー・フェルナンデス氏が言及",
+   "新たな成長計画の再開を表明"
+  ],
+  "body": [
+   "エアアジアのトニー・フェルナンデス氏が、同社の財務の健全性に対する懸念を提起した報道に対し、強く反発しました。航空業界の動向が注目される中、同氏の発言は大きな関心を集めています。",
+   "報道された財務の懸念事項を否定した一方で、フェルナンデス氏は今後の成長計画を再開する方針を明らかにしました。エアアジアはこれまでに多くの路線網を築いており、今後の展開が期待されています。",
+   "今回の発表によって、同社の今後のビジネス戦略や運航体制がどのように変化していくのか、業界関係者や利用者からの注目がさらに高まることになりそうです。"
+  ],
+  "tags": [
+   "エアアジア",
+   "航空業界",
+   "財務"
+  ],
+  "slug": "airasia-fernandes-refutes-financial-concerns",
+  "people": [
+   {
+    "name": "トニー・フェルナンデス氏",
+    "bio": "マレーシアの航空会社エアアジアの共同創業者であり、グループの再建や経営を主導してきた著名な実業家です。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "エアアジア",
+    "type": "company",
+    "desc": "マレーシアを拠点とするアジア最大級の格安航空会社（LCC）で、多くの国や地域へ路線を展開しています。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "10:00",
+  "path": "/articles/20260920-airasia-fernandes-refutes-financial-concerns.html"
  }
 ]
