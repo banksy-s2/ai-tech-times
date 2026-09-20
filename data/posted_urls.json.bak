@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015193191000",
-  "https://news.web.nhk/newsweb/na/na-k10015193821000",
   "https://www.americakabu.com/entry/%E9%87%91%E8%9E%8D%E6%89%80%E5%BE%97%E3%81%AE%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E6%96%99%E7%AE%97%E5%AE%9A",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXbjJmSElsV2tjYXA2TGZLR2x3eTVWZ2MtMWQ1ZGw5ZnF3NHhjMDF2M1VzVjMwX2lOR1YtbjlIYmpBSmhucUw3QWtiNFQ3LU16dzA2djNiTE5fdXZTWHlld0pnNlJHT1kwN0JIbQ?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnhMendER2wxNW04NWctTzNXb3IwNlFuVm1ndVRpNjI4UC1ZOHhqZUE0cVhzNk5GNU9mMUJab1ZWYVJLZFJOeVJWaUphakZ1MHZPRkFrcFltWllYMWhGR29tT1EwTUpvUlNvZkw4ZVhYZzQtakdySU15TTZYN0tlSjNNVVh3eVU?oc=5",
@@ -1999,13 +1997,11 @@
   "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
   "https://note.com/iida_yasuyuki/n/na56eddae8237",
   "https://finance.biggo.jp/news/66df2f89-c067-43d7-b888-94deb071f472",
-  "https://gigazine.net/news/20260919-text-ai-watermarks/"
+  "https://gigazine.net/news/20260919-text-ai-watermarks/",
+  "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+  "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html"
  ],
  "titles": [
-  "Nvidia reports Q2 revenue up 106% YoY to $96.2B, Data Center revenue up 117% to $89B, Edge Computing revenue up 27% to $7.2B, and net income up 126% to $59.7B (Nvidia Newsroom)",
-  "Apple is holding its iPhone launch event on September 9",
-  "3輪小型EV「リーン3」の受注をオートバックスで開始 価格169万8000円から",
-  "石川 富山にレベル5大雨特別警報 最大級の警戒を",
   "アメリカ経済制裁 イランと中国反発 パキスタンはイランと協議",
   "東京海上HD株が続伸 株式15分割を好感（26日の株式市場） - 日本経済新聞",
   "決算発表後の株価上昇率、首位はウルトラマンの円谷 コンテンツ系復調 - 日本経済新聞",
@@ -4001,6 +3997,10 @@
   "Googleの旗艦AIが先行公開か ベンチマークでAstraとFableを全面凌駕 — BigGo ファイナンス",
   "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
   "Googleの新AI先行公開、ベンチマークで圧倒した理由",
-  "EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能"
+  "EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能",
+  "The AI regulation smackdown isn’t over",
+  "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+  "Anthropicが提案、AI開発を減速させる3つの具体策とは",
+  "CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由"
  ]
 }

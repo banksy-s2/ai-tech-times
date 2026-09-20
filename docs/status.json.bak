@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-20 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-20 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Googleの新AI先行公開、ベンチマークで圧倒した理由",
-   "path": "/articles/20260920-google-new-ai-benchmark-results.html",
-   "cat": "日本のAI"
+   "title": "Anthropicが提案、AI開発を減速させる3つの具体策とは",
+   "path": "/articles/20260920-ai-regulation-smackdown-anthropic-plan.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能",
-   "path": "/articles/20260920-text-ai-watermarks-difficult-and-deletable.html",
-   "cat": "日本のAI"
+   "title": "CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由",
+   "path": "/articles/20260920-ai-kill-switch-explained.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 136,
+  "used": 140,
   "limit": 200
  }
 }
