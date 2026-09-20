@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
-  "https://togetter.com/li/2727243",
   "https://news.web.nhk/newsweb/na/na-k10015193191000",
   "https://news.web.nhk/newsweb/na/na-k10015193821000",
   "https://www.americakabu.com/entry/%E9%87%91%E8%9E%8D%E6%89%80%E5%BE%97%E3%81%AE%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E6%96%99%E7%AE%97%E5%AE%9A",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jZ3I3b3U3RzFBNFhpWXRYdHpWRk5tdVJOUnEtZWZVRmJJQlB1TUxGdmpZb09iS1RiWHJrLWpUcEtZVU1Xd2pMMl8xaw?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260920de51353",
   "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-  "https://note.com/iida_yasuyuki/n/na56eddae8237"
+  "https://note.com/iida_yasuyuki/n/na56eddae8237",
+  "https://finance.biggo.jp/news/66df2f89-c067-43d7-b888-94deb071f472",
+  "https://gigazine.net/news/20260919-text-ai-watermarks/"
  ],
  "titles": [
-  "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-  "OpenAI’s rogue AI model incident was worse than we thought",
-  "ChatGPT Work、ログイン必要なサイトも操作可能に　「パスワードは一切見ない」",
-  "「ChatGPT」の無償プランにも予定済みタスクが開放 ～Plus/Proは「Webhook」に対応／「Gmail」「Slack」「GitHub」などのイベントをトリガー、タスクの共有も可能に",
   "Nvidia reports Q2 revenue up 106% YoY to $96.2B, Data Center revenue up 117% to $89B, Edge Computing revenue up 27% to $7.2B, and net income up 126% to $59.7B (Nvidia Newsroom)",
   "Apple is holding its iPhone launch event on September 9",
   "3輪小型EV「リーン3」の受注をオートバックスで開始 価格169万8000円から",
@@ -4001,6 +3997,10 @@
   "文春オンライン、るるたんの月収1億円の手法を報道",
   "防衛省発表：北朝鮮から弾道ミサイル発射、EEZ外に落下か",
   "トランプ氏、AI規制緩和と新組織「AIフォース」創設へ",
-  "日銀1.25%へ利上げ決定と、円安ナラティブの謎"
+  "日銀1.25%へ利上げ決定と、円安ナラティブの謎",
+  "Googleの旗艦AIが先行公開か ベンチマークでAstraとFableを全面凌駕 — BigGo ファイナンス",
+  "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+  "Googleの新AI先行公開、ベンチマークで圧倒した理由",
+  "EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能"
  ]
 }

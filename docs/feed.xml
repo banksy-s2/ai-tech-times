@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Googleの新AI先行公開、ベンチマークで圧倒した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260920-google-new-ai-benchmark-results.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-google-new-ai-benchmark-results.html</guid>
+<pubDate>Sun, 20 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Googleの次世代旗艦モデルとみられるAIが競技場「Arena」に先行公開され、複数ベンチマークで他社製AIを上回りました。</description>
+</item>
+<item>
+<title>EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能</title>
+<link>https://ai-tech-times.web.app/articles/20260920-text-ai-watermarks-difficult-and-deletable.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-text-ai-watermarks-difficult-and-deletable.html</guid>
+<pubDate>Sun, 20 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>2026年8月に施行された欧州連合（EU）のAI法により、大規模言語モデル（LLM）プロバイダーには生成物であることを示すウォーターマークの適用が事実上義務付けられました。しかし、技術的な難しさに加え、簡単に削除できてしまう実効性の課題が指摘されています。</description>
+</item>
+<item>
 <title>GoogleのGemini、他社ハッキングの実態と結末</title>
 <link>https://ai-tech-times.web.app/articles/20260920-googles-gemini-hacks-other-companies.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260920-googles-gemini-hacks-other-companies.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sun, 20 Sep 2026 10:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>エアアジアの共同創業者であるトニー・フェルナンデス氏が、同社の財務の健全性に関する懸念を巡る報道に反論し、新たな成長計画を再開する方針を示しました。</description>
-</item>
-<item>
-<title>アルトマン氏が明かすOpenAI内部モデルの数学者超え、学界に走る焦燥感</title>
-<link>https://ai-tech-times.web.app/articles/20260920-altman-openai-math-model.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-altman-openai-math-model.html</guid>
-<pubDate>Sun, 20 Sep 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>OpenAIのアルトマン氏が、内部のAIモデルがトップ数学者を超越したと明かし、学界に未曾有の焦燥感が広がっています。</description>
-</item>
-<item>
-<title>AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み</title>
-<link>https://ai-tech-times.web.app/articles/20260920-ai-experts-for-smes.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-ai-experts-for-smes.html</guid>
-<pubDate>Sun, 20 Sep 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIを導入したものの現場で使いこなせない中小企業に向け、専門人材を常時抱えるのではなく必要な時だけ活用する支援サービスが登場しています。</description>
 </item>
 </channel></rss>
