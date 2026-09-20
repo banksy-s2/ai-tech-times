@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TYjVhNEd3Z0tUX2RBMW5UdXVsQnoyZ2RQUmhCSEVpM3h1Uk5lenJXOTFLSnZtQ0VDRWRZSnlCbTZQaV9acHJtQ0hVT1NaeHhaWlZtNzdFaXBrdw?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HYWZHQUlpSkFDUGgyZVlPUk9Nb1IzQnhXSTlnMFd1TC1VdkdHQ2J2cVhBdG9PbzBxQTNuZ1YyOWhUc2NMVGhGUVd1TWszVXBfeDY4N09UR1JaUVluWWZVLXJZMlVpTGZNa3d2bA?oc=5",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMldTUVA2ZVJuZWxvb1BPZmZSUEJvdllFSWpSZjhNOXY5Q0lWM1l1cFRnT0pPR2JkY3ExTS1FZS1YTE96ZVdNVC05R0ZIMGEwb0owdjBBbXR0amJFMkhXM3Bldl9uZ09yb0NQb3RfSVhJVjE1czNSdkxFRDY1dFd1eDBmWWxnU0U?oc=5",
   "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WnVOZE94dXFEOVN2VWlNTXRmU3J6MWNnNllqeEdVbEVjNml4NmF5WUJ4MDRCUG9ZRGVDQ0oxNG52bjhSeU1MbXdheElIdDdYcFJBcWxQVEpYQXRzbzlQUXZrR0loSDhPODRvLW80enJuS3d1LWpCcHlXSURSUFU?oc=5",
   "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/958314?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40aDQ2dzNnUEJ5c3o2WndqRkxncFFvZXEybDhBVG1tYm92MU84QS0tSTBxRXY1OV9NUjBTMEdObGFicGhiSTF6eXJISmR1bEhEZDY0Q01FSms?oc=5"
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40aDQ2dzNnUEJ5c3o2WndqRkxncFFvZXEybDhBVG1tYm92MU84QS0tSTBxRXY1OV9NUjBTMEdObGFicGhiSTF6eXJISmR1bEhEZDY0Q01FSms?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260920de51376"
  ],
  "titles": [
-  "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-  "The Switch 2’s $50 price increase is happening next week",
   "NVIDIA製GPUを200万基追加、アマゾンが需要急増で発注を3倍に拡大した理由",
   "任天堂Switch 2が50ドル値上げへ、来週9月1日から499.99ドルに",
   "「マイナ免許証」保有者数378万700人に 警察庁が2026年7月末時点の数値を発表",
@@ -4001,6 +3999,8 @@
   "福島大学を煽ったYouTuberの誤解と、経営学者が明かすお得な大学の見分け方",
   "モスクワ最大規模の攻撃、ウクライナが450機ドローン発射",
   "米オラクル決算で見えたAIインフラの現在地",
-  "ロッテHD、スモール・プラネットへ20%出資する理由"
+  "ロッテHD、スモール・プラネットへ20%出資する理由",
+  "北朝鮮労働者がロシアで軍事用無人機製造か 監視のチーム指摘",
+  "ロシアで北朝鮮労働者が軍事用無人機を製造、11か国チームが指摘"
  ]
 }
