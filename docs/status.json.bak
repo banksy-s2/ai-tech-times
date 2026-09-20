@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-20 14:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "日米同時利上げ、1年後は意外にも株高傾向「5勝1敗」",
-   "path": "/articles/20260920-us-japan-rate-hike-market-trend.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-20 15:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ロッテHD、コンテンツIPプロデュースのスモール・プラネットに20％出資。業務提"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 103,
+  "used": 107,
   "limit": 200
  }
 }

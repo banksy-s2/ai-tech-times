@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE90bkRlVHdEQ0ZsLXhPNmd6RVNqdl9qbnBwai1BR09lTFFZa2pnUXNnaWJFT1BfUFduMVJnY1FSNVczUVdkak45X3F1NUQ4dGRhM0tyN29uSGIwTFMzUEdTWHVaUzNMZ3pmY0JSTFZDZWtLQdIBd0FVX3lxTFAwNWdaTmZWam00bHI0VXpFcjlDdnlsbDFTRC1kQ1VPdW9uTEp6bUREVWllS242QndCX0paTWJzbWd0bmUycXowRTMtMER4QlFsVmlJZ2MtaUktMW9XTkQ0SWh6WjdPbjdZNWhHU0dseDlxUENDRzRV?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015193131000",
   "https://news.web.nhk/newsweb/na/na-k10015193711000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeUpwOTVrLWV3VnBHLVdiVkVpdGkzVFVQcEFoYUFvNlZ6TWw5aWtnZnVVX05zSnNhdWtoaW54MGc5Q21XLXh0bVdHdE82dl9YNEJkSHA3Tk15cGExR2NNUmc1SjRmV0ltbDFXUg?oc=5",
@@ -1999,11 +1998,10 @@
   "https://www.itmedia.co.jp/business/articles/2609/20/news011.html",
   "https://news.web.nhk/newsweb/na/nd-20260920de51327",
   "https://news.web.nhk/newsweb/na/nd-20260919de51244",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSzVXb00xeFA1NG1qV1hHVVhmYy1NMWZkRFF6OS00ZDRodkROeWw3dkh6NGZVVmpqVjNJUDVLY1ZlaWlyblVOSzlxcDdfUUk5Sko2eHZxcEhWMnZ3T0s5czhqWERtZEYzcUV5Nw?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSzVXb00xeFA1NG1qV1hHVVhmYy1NMWZkRFF6OS00ZDRodkROeWw3dkh6NGZVVmpqVjNJUDVLY1ZlaWlyblVOSzlxcDdfUUk5Sko2eHZxcEhWMnZ3T0s5czhqWERtZEYzcUV5Nw?oc=5",
+  "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
  ],
  "titles": [
-  "総務省、郵便事業の持続可能なサービス検討",
-  "大日本印刷、AUSTRIACARDの公開買付け結果を発表",
   "東証と大証、moomoo証券に戒告処分（時事通信） - Yahoo!ニュース",
   "moomoo証券に東証と大証が戒告処分",
   "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
@@ -4001,6 +3999,8 @@
   "サウジとフーシ派対立激化、米が警戒通知",
   "マレーシアで日本人6人拘束、特殊詐欺に関与か",
   "日米同時利上げ、1年後は意外にも株高傾向 過去は「5勝1敗」 - 日本経済新聞",
-  "日米同時利上げ、1年後は意外にも株高傾向「5勝1敗」"
+  "日米同時利上げ、1年後は意外にも株高傾向「5勝1敗」",
+  "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "Alibabaが医療用AIをオープンソース化、がんなど約150条件を検出できる理由"
  ]
 }
