@@ -1,21 +1,73 @@
 {
- "updated": "2026-09-20 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-20 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ホロライブの新VTuberユニット「アソビ★まわり隊！」がデビュー、今後の新人は「○期生」ではない仕様へ",
-   "path": "/articles/20260920-hololive-asobi-mawaritai-debut.html",
+   "title": "AnthropicがAI開発の安全対策を提示、なぜNvidiaから反発が？",
+   "path": "/articles/20260920-anthropic-safety-plan-nvidia-pushback.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "MetaのAI「Muse」がMacアプリでメッセージやカレンダーにアクセスできるのに自己紹介できない理由",
+   "path": "/articles/20260920-meta-muse-creepy-ai-assistant.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ゼットスケーラー、SOCをAIエージェント化する理由とは",
+   "path": "/articles/20260920-zscaler-soc-ai-agent.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Generative PartnersのAI＋人BPO",
+   "path": "/articles/20260920-generative-partners-ai-bpo-service.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "LG製テレビだけじゃない？全メーカーがあなたを監視する理由",
+   "path": "/articles/20260920-every-tv-company-is-spying.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "イーロン・マスク氏がAI規制を巡り対立する意外な理由",
+   "path": "/articles/20260920-elon-musk-ai-safety-regulation-alliances.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Xross Starsが発売1年でシェアTOP10入りの快進撃",
+   "path": "/articles/20260920-xross-stars-tcg-top10-anniversary.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "米・デンマーク合意：グリーンランド領有を巡るトランプ氏の要求とNatoの歓迎",
+   "path": "/articles/20260920-nato-welcomes-greenland-deal.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "村上宗隆先制タイムリーで勝利貢献 なぜ打てたのか",
+   "path": "/articles/20260920-murakami-whitesox-win.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "マクドナルドなど35社採用期待、新TOPIXが促す企業の競争",
+   "path": "/articles/20260920-new-topix-corporate-competition.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "みんなで大家さん2000億円集め事業許可取消、出資金戻らず",
+   "path": "/articles/20260920-minna-de-oyasan-business-license-revocation.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 69,
+  "used": 95,
   "limit": 200
  }
 }
