@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 03:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 04:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [韓国軍、北朝鮮が20日午後に対抗措置へどう影響するか](https://ai-tech-times.web.app/articles/20260921-korea-north-missile-launch-2026.html) — 2026-09-21 04:00: 韓国軍は、北朝鮮が20日午後に2回にわたって日本海に向けて短距離弾道ミサイルを発射したと発表しました。緊迫する情勢のなか、今後の安全保障への影響が懸念されます。
+- [千葉県佐倉市、土砂災害警戒区域に緊急安全確保を発令](https://ai-tech-times.web.app/articles/20260921-sakura-city-emergency-safety-secure.html) — 2026-09-21 04:00: 千葉県佐倉市は、大雨による土砂災害の危険性が高まっているとして、午前2時に緊急安全確保を出しました。
 - [DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長](https://ai-tech-times.web.app/articles/20260921-batman-kamen-rider-zero-one-dc-comics.html) — 2026-09-21 03:00: DCコミックスの人気ヒーロー「バットマン」と、東映の特撮ドラマ「仮面ライダーゼロワン」がコラボレーションするプロジェクトが発表されました。
 - [ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策](https://ai-tech-times.web.app/articles/20260921-ai-sme-support-itmedia.html) — 2026-09-21 01:00: 生成AIの導入を目指すものの、具体的な進め方や人材不足に悩む中小企業が増えています。ITmedia AI+の報道から、その課題を乗り越えるための支援のあり方を紐解きます。
 - [TailscaleのSQLiteが16年放置バグで不安定に](https://ai-tech-times.web.app/articles/20260921-tailscale-sqlite-16-year-bug.html) — 2026-09-21 01:00: VPN構築・ネットワーク接続サービスのTailscaleが、自社サービスの不安定な原因を数ヶ月にわたり調査し、データベースのSQLiteに16年間潜在していたバグを突き止めました。
@@ -40,8 +42,6 @@
 - [ロッテHD、スモール・プラネットへ20%出資する理由](https://ai-tech-times.web.app/articles/20260920-lotte-hd-small-planet-capital-alliance.html) — 2026-09-20 21:04: ロッテホールディングスは、コンテンツIPプロデュースを手がけるスモール・プラネットに対して20%の出資を行うことを発表しました。これまでの業務提携から資本提携へと移行します。
 - [TikTokで不動産を売るZ世代、ジョーク交じりの売買手法とは](https://ai-tech-times.web.app/articles/20260920-z-generation-influencers-selling-real-estate-on-tiktok.html) — 2026-09-20 20:00: Z世代のインフルエンサーが、TikTokを活用して不動産をジョーク付きで販売していることが報じられました。若い世代ならではの手法が注目を集めています。
 - [Anthropicが提案、AI開発を減速させる3つの具体策とは](https://ai-tech-times.web.app/articles/20260920-ai-regulation-smackdown-anthropic-plan.html) — 2026-09-20 19:01: AI業界の有力者が規制に向けた動きを見せる中、AnthropicのCEOがAI開発を減速させるための3ステップの計画を提案しました。
-- [CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由](https://ai-tech-times.web.app/articles/20260920-ai-kill-switch-explained.html) — 2026-09-20 19:01: 暴走するAIへの懸念が高まる中、政策立案者やテクノロジー業界のリーダーたちの間でAIの強制停止ボタン（キルスイッチ）の効果をめぐる議論が続けられています。
-- [Googleの新AI先行公開、ベンチマークで圧倒した理由](https://ai-tech-times.web.app/articles/20260920-google-new-ai-benchmark-results.html) — 2026-09-20 18:01: Googleの次世代旗艦モデルとみられるAIが競技場「Arena」に先行公開され、複数ベンチマークで他社製AIを上回りました。
 
 ## 世界のバズ動画TOP3 (2026-09-21)
 - 1位: [Felix "다시 사랑한다 말할까" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]](https://www.youtube.com/watch?v=uvcpylgYDSU)
