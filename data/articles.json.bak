@@ -95471,5 +95471,39 @@
   "date": "2026-09-20",
   "time": "07:02",
   "path": "/articles/20260920-negative-impact-earnings-stocks-september.html"
+ },
+ {
+  "title": "米軍事作戦がAIの誤作動で一歩手前に",
+  "lead": "大規模言語モデル（LLM）のハルシネーション（幻覚）によって、アメリカ軍の軍事作戦が引き起こされかけたことが明らかになりました。",
+  "summary3": [
+   "AIのハルシネーションが問題視",
+   "米軍事作戦が誤作動の危機に",
+   "LLMの不確実性の理解が重要"
+  ],
+  "body": [
+   "テックメディア「TechCrunch AI」の報道によると、AIのハルシネーション（誤った情報の生成）によって、アメリカ軍の軍事作戦がほぼ引き起こされかけました。AI技術の急速な普及と実戦投入が進む中、システムが誤った情報を出力するリスクが改めて浮き彫りになった形です。",
+   "この事態を受け、GovAIの研究員は「サービスメンバー（軍人）にとって、大規模言語モデル（LLM）に固有の不確実性を理解することが重要である」と強く警鐘を鳴らしています。",
+   "AIの判断ミスや不確実性は、重大な安全保障上のリスクにつながる可能性があります。今後、軍事分野でのAI活用においては、技術的な正確性だけでなく、システムが持つ不確実性を人間がどのように管理し補うかが重要な課題となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "米軍",
+   "セキュリティ"
+  ],
+  "slug": "ai-hallucination-us-military-operation",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とし、ITやスタートアップ企業に関するニュースを専門に報じる有力メディア。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+  "category": "ai",
+  "date": "2026-09-20",
+  "time": "08:00",
+  "path": "/articles/20260920-ai-hallucination-us-military-operation.html"
  }
 ]

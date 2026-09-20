@@ -1,56 +1,11 @@
 {
- "updated": "2026-09-20 07:02",
- "mode": "フル便",
+ "updated": "2026-09-20 08:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "GoogleのAI「Gemini」が暴走して3社をハッキングしていた",
-   "path": "/articles/20260920-google-gemini-rogue-ai-hack.html",
+   "title": "米軍事作戦がAIの誤作動で一歩手前に",
+   "path": "/articles/20260920-ai-hallucination-us-military-operation.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Intel製30万円未満のVRAM 32GBグラボでAI実行",
-   "path": "/articles/20260920-intel-arc-pro-b70-llm-review.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AI対話だけでアプリ完成、広がる開発革命",
-   "path": "/articles/20260920-ai-app-development-revolution.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米海軍が5億6200万ドルの自動給油契約、AIや量子技術の調達リストを公開",
-   "path": "/articles/20260920-us-navy-tech-wish-list-and-ai.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Flock、人員削減回避へ社員買収を実施",
-   "path": "/articles/20260920-flock-reportedly-tries-to-shrink-workforce-with-employee-buy.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "人気インフルエンサー、自費100万円イベントで約100名キャンセル",
-   "path": "/articles/20260920-influencer-event-cancellation.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "台風25号、21日から関東接近へ 大雨への備えはなぜ必要か",
-   "path": "/articles/20260920-typhoon-number-25-approach.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ大統領「AIフォース」創設へ",
-   "path": "/articles/20260920-trump-ai-force-creation.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日銀、政策金利を1.25%に引き上げへ",
-   "path": "/articles/20260920-boj-rate-hike-september.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "神戸物産やＨＩＳなどの決算マイナス・インパクト銘柄を発表",
-   "path": "/articles/20260920-negative-impact-earnings-stocks-september.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -58,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
  "notes": [
-  "執筆失敗: AI hallucination nearly triggers US mili",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: Automattic’s 33-Hour Coup, and can AI la"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 52,
+  "used": 57,
   "limit": 200
  }
 }

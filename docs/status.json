@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-20 08:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-20 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "米軍事作戦がAIの誤作動で一歩手前に",
-   "path": "/articles/20260920-ai-hallucination-us-military-operation.html",
-   "cat": "AI(海外)"
+   "title": "アルトマン氏が明かすOpenAI内部モデルの数学者超え、学界に走る焦燥感",
+   "path": "/articles/20260920-altman-openai-math-model.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み",
+   "path": "/articles/20260920-ai-experts-for-smes.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
   "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY"
  },
- "notes": [
-  "執筆失敗: Automattic’s 33-Hour Coup, and can AI la"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 61,
   "limit": 200
  }
 }
