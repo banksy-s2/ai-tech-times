@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-20 23:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-21 00:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日銀の利上げ姿勢に失望感が広がり、円相場が一段安リスク",
-   "path": "/articles/20260920-boj-rate-hike-yen-risk.html",
-   "cat": "株式投資(日本)"
+   "title": "トランプ氏、AIを改称へ。「AIフォース」創設の意向",
+   "path": "/articles/20260921-trump-ai-rebrand-and-ai-force.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 171,
+  "used": 3,
   "limit": 200
  }
 }

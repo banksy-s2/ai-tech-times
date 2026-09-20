@@ -97176,5 +97176,38 @@
   "date": "2026-09-20",
   "time": "23:00",
   "path": "/articles/20260920-boj-rate-hike-yen-risk.html"
+ },
+ {
+  "title": "トランプ氏、AIを改称へ。「AIフォース」創設の意向",
+  "lead": "トランプ氏がAIの名称変更と新組織「AIフォース」の創設を主張し、AIへの反発は民主党のデマであると述べました。",
+  "summary3": [
+   "トランプ氏がAIの改称を主張",
+   "新組織AIフォースの創設を表明",
+   "反発は民主党のデマと主張"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。テック情報メディアのTechCrunch AIによると、トランプ氏はAIの名称を新しく変更する時期が来たと主張しました。",
+   "さらに同氏は、新たに「AIフォース」という組織を創設する方針も明らかにしています。",
+   "また、トランプ氏は、現在起きているAIへの反発について、証拠を示すことなく民主党によるデマであると主張しました。"
+  ],
+  "tags": [
+   "トランプ",
+   "AI",
+   "テック"
+  ],
+  "slug": "trump-ai-rebrand-and-ai-force",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "アメリカの政治家であり、過去に大統領を務めた著名な人物です。"
+   }
+  ],
+  "terms": [],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+  "category": "ai",
+  "date": "2026-09-21",
+  "time": "00:00",
+  "path": "/articles/20260921-trump-ai-rebrand-and-ai-force.html"
  }
 ]

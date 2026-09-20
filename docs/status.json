@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-21 00:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-21 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "トランプ氏、AIを改称へ。「AIフォース」創設の意向",
-   "path": "/articles/20260921-trump-ai-rebrand-and-ai-force.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策",
+   "path": "/articles/20260921-ai-sme-support-itmedia.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "TailscaleのSQLiteが16年放置バグで不安定に",
+   "path": "/articles/20260921-tailscale-sqlite-16-year-bug.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 3,
+  "used": 7,
   "limit": 200
  }
 }

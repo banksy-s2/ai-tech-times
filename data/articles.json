@@ -97209,5 +97209,72 @@
   "date": "2026-09-21",
   "time": "00:00",
   "path": "/articles/20260921-trump-ai-rebrand-and-ai-force.html"
+ },
+ {
+  "title": "ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策",
+  "lead": "生成AIの導入を目指すものの、具体的な進め方や人材不足に悩む中小企業が増えています。ITmedia AI+の報道から、その課題を乗り越えるための支援のあり方を紐解きます。",
+  "summary3": [
+   "生成AI導入に悩む中小企業が続出",
+   "どの業務から始めるか分からない現状",
+   "ツール導入だけでは業務は変わらない"
+  ],
+  "body": [
+   "生成AIを導入したくても、「どの業務から始めるか分からない」「AI人材がいない」と悩む中小企業は少なくありません。AI技術の活用が叫ばれる一方で、現場では具体的な一歩を踏み出せないケースが多く見られます。",
+   "ただツールを導入するだけでは、実際の業務を変えることはできません。業務プロセスそのものを見直し、組織全体で活用していくためのアプローチが求められています。",
+   "こうした中、中小企業が抱える課題に対し、何を・誰が・どう変えるかを丸ごと支援する取り組みが注目されています。企業の変革をどのように支えるのか、今後の動向が期待されます。"
+  ],
+  "tags": [
+   "生成AI",
+   "中小企業",
+   "ITmedia"
+  ],
+  "slug": "ai-sme-support-itmedia",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/",
+  "category": "ai_jp",
+  "date": "2026-09-21",
+  "time": "01:00",
+  "path": "/articles/20260921-ai-sme-support-itmedia.html"
+ },
+ {
+  "title": "TailscaleのSQLiteが16年放置バグで不安定に",
+  "lead": "VPN構築・ネットワーク接続サービスのTailscaleが、自社サービスの不安定な原因を数ヶ月にわたり調査し、データベースのSQLiteに16年間潜在していたバグを突き止めました。",
+  "summary3": [
+   "Tailscaleのサービス不安定を調査",
+   "SQLiteに16年放置されたバグが判明",
+   "自社ブログで詳細な対応を公開"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、VPN構築・ネットワーク接続サービスを提供するTailscaleに関する最新情報が入ってまいりました。同社は自社のサービスが安定しない理由について、数ヶ月にわたり調査を行っていました。",
+   "その結果、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明いたしました。長年見過ごされてきた不具合が、システムの安定稼働に影響を及ぼしていた形となります。",
+   "今回の発見を受け、Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」についての説明を、自社のブログにて公開しております。"
+  ],
+  "tags": [
+   "Tailscale",
+   "SQLite",
+   "データベース"
+  ],
+  "slug": "tailscale-sqlite-16-year-bug",
+  "people": [],
+  "terms": [
+   {
+    "name": "Tailscale",
+    "type": "company",
+    "desc": "VPN構築やネットワーク接続サービスを提供している企業です。"
+   },
+   {
+    "name": "SQLite",
+    "type": "company",
+    "desc": "軽量で広く利用されているオープンソースのデータベース管理システムです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/",
+  "category": "ai_jp",
+  "date": "2026-09-21",
+  "time": "01:00",
+  "path": "/articles/20260921-tailscale-sqlite-16-year-bug.html"
  }
 ]
