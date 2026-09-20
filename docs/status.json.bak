@@ -1,56 +1,11 @@
 {
- "updated": "2026-09-20 21:05",
- "mode": "フル便",
+ "updated": "2026-09-20 22:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "TechCrunch AIが報じる、AIの真偽を見極める困難さ",
-   "path": "/articles/20260920-ai-safety-conversations-unbelievable.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Petlibro、多頭飼いの猫の食事をAIカメラで個別管理する新給餌器を発表",
-   "path": "/articles/20260920-petlibro-new-ai-feeder-granary-2.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "オープンAIも警戒？AIバブルが直面する死の交差",
-   "path": "/articles/20260920-ai-bubble-death-cross.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ソニーの論文予測AI「Hakken」など注目生成AI技術5選",
-   "path": "/articles/20260920-generative-ai-weekly-160.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "エヌビディアのジェンスン・フアンCEO、AI安全保障論争でトランプ氏の最側近に急浮上",
-   "path": "/articles/20260920-nvidia-ceo-jensen-huang-trumps-top-ally-ai-safety.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Google、サイバー犯罪グループ内部に潜入成功",
-   "path": "/articles/20260920-google-analyst-infiltrates-hacking-gang.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "福島大学を煽ったYouTuberの誤解と、経営学者が明かすお得な大学の見分け方",
-   "path": "/articles/20260920-fukushima-university-youtuber-management-scholar.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "モスクワ最大規模の攻撃、ウクライナが450機ドローン発射",
-   "path": "/articles/20260920-largest-attack-on-moscow-drones.html",
+   "title": "ロシアで北朝鮮労働者が軍事用無人機を製造、11か国チームが指摘",
+   "path": "/articles/20260920-north-korean-workers-russia-drones.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "米オラクル決算で見えたAIインフラの現在地",
-   "path": "/articles/20260920-oracle-ai-infrastructure-earnings.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "ロッテHD、スモール・プラネットへ20%出資する理由",
-   "path": "/articles/20260920-lotte-hd-small-planet-capital-alliance.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -58,12 +13,11 @@
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
  "notes": [
-  "執筆失敗: 高齢者の割合 総人口の29.6％で過去最高 総務省",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
+  "執筆失敗: 高齢者の割合 総人口の29.6％で過去最高 総務省"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 164,
+  "used": 168,
   "limit": 200
  }
 }
