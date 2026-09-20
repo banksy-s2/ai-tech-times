@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-20 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-20 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Anthropicが提案、AI開発を減速させる3つの具体策とは",
-   "path": "/articles/20260920-ai-regulation-smackdown-anthropic-plan.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由",
-   "path": "/articles/20260920-ai-kill-switch-explained.html",
-   "cat": "シリコンバレー最速"
+   "title": "TikTokで不動産を売るZ世代、ジョーク交じりの売買手法とは",
+   "path": "/articles/20260920-z-generation-influencers-selling-real-estate-on-tiktok.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 140,
+  "used": 142,
   "limit": 200
  }
 }

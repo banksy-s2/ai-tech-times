@@ -5,6 +5,86 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>TechCrunch AIが報じる、AIの真偽を見極める困難さ</title>
+<link>https://ai-tech-times.web.app/articles/20260920-ai-safety-conversations-unbelievable.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-ai-safety-conversations-unbelievable.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>今週、AIの安全性に関する2つの会話がバイラル化し、AIの事実とフィクションを見極めることの難しさを浮き彫りにしました。</description>
+</item>
+<item>
+<title>Petlibro、多頭飼いの猫の食事をAIカメラで個別管理する新給餌器を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260920-petlibro-new-ai-feeder-granary-2.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-petlibro-new-ai-feeder-granary-2.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Petlibroの新製品「Granary 2」スマートフィーダーは、内蔵スケールと高位モデルのAIカメラで猫の食事を詳細に追跡します。複数猫の健康管理に悩む家庭の救世主となるのでしょうか。</description>
+</item>
+<item>
+<title>オープンAIも警戒？AIバブルが直面する死の交差</title>
+<link>https://ai-tech-times.web.app/articles/20260920-ai-bubble-death-cross.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-ai-bubble-death-cross.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米国の主要AI企業が開発の減速を呼びかける背景には、資本を食い潰すディストピアへの懸念があります。AI産業が直面する難問の真相に迫ります。</description>
+</item>
+<item>
+<title>ソニーの論文予測AI「Hakken」など注目生成AI技術5選</title>
+<link>https://ai-tech-times.web.app/articles/20260920-generative-ai-weekly-160.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-generative-ai-weekly-160.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AI TECH TIMESでは、この1週間の気になる生成AI技術や研究をピックアップして解説する「生成AIウィークリー」をお届けします。Sunoに匹敵する音楽生成AIやソニー製AIなどの最新動向を紹介します。</description>
+</item>
+<item>
+<title>エヌビディアのジェンスン・フアンCEO、AI安全保障論争でトランプ氏の最側近に急浮上</title>
+<link>https://ai-tech-times.web.app/articles/20260920-nvidia-ceo-jensen-huang-trumps-top-ally-ai-safety.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-nvidia-ceo-jensen-huang-trumps-top-ally-ai-safety.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>世界最高峰の価値を持つ企業のトップであるエヌビディアのジェンスン・フアンCEOが、AI分野の最重要課題においてトランプ氏の信頼を勝ち取っていることが分かりました。</description>
+</item>
+<item>
+<title>Google、サイバー犯罪グループ内部に潜入成功</title>
+<link>https://ai-tech-times.web.app/articles/20260920-google-analyst-infiltrates-hacking-gang.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-google-analyst-infiltrates-hacking-gang.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Googleの脅威インテリジェンスグループが、悪名高いサプライチェーンハッキング集団の内部へアナリストを潜入させていたことが明らかになりました。</description>
+</item>
+<item>
+<title>福島大学を煽ったYouTuberの誤解と、経営学者が明かすお得な大学の見分け方</title>
+<link>https://ai-tech-times.web.app/articles/20260920-fukushima-university-youtuber-management-scholar.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-fukushima-university-youtuber-management-scholar.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>福島大学を煽ったYouTuberの主張には誤解があると指摘されています。東大で教える経営学者が、本当にお得な大学の見分け方を明かしています。</description>
+</item>
+<item>
+<title>モスクワ最大規模の攻撃、ウクライナが450機ドローン発射</title>
+<link>https://ai-tech-times.web.app/articles/20260920-largest-attack-on-moscow-drones.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-largest-attack-on-moscow-drones.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>BBC Worldによると、モスクワで過去最大規模となるウクライナからのドローン攻撃があり、市長によると450機が撃墜されたということです。</description>
+</item>
+<item>
+<title>米オラクル決算で見えたAIインフラの現在地</title>
+<link>https://ai-tech-times.web.app/articles/20260920-oracle-ai-infrastructure-earnings.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-oracle-ai-infrastructure-earnings.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>アメリカのオラクルがAI時代の最前線で急成長を遂げており、その決算からAIインフラの現在地が明らかになりました。</description>
+</item>
+<item>
+<title>ロッテHD、スモール・プラネットへ20%出資する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260920-lotte-hd-small-planet-capital-alliance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260920-lotte-hd-small-planet-capital-alliance.html</guid>
+<pubDate>Sun, 20 Sep 2026 21:04:00 +0900</pubDate>
+<category>日本企業</category>
+<description>ロッテホールディングスは、コンテンツIPプロデュースを手がけるスモール・プラネットに対して20%の出資を行うことを発表しました。これまでの業務提携から資本提携へと移行します。</description>
+</item>
+<item>
 <title>TikTokで不動産を売るZ世代、ジョーク交じりの売買手法とは</title>
 <link>https://ai-tech-times.web.app/articles/20260920-z-generation-influencers-selling-real-estate-on-tiktok.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260920-z-generation-influencers-selling-real-estate-on-tiktok.html</guid>
@@ -163,85 +243,5 @@
 <pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>Anthropicの研究者による警告から1週間後、同社のCEOであるダリオ・アモデイ氏がAI開発のペースを緩める新計画を発表しました。</description>
-</item>
-<item>
-<title>MetaのAI「Muse」がMacアプリでメッセージやカレンダーにアクセスできるのに自己紹介できない理由</title>
-<link>https://ai-tech-times.web.app/articles/20260920-meta-muse-creepy-ai-assistant.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-meta-muse-creepy-ai-assistant.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaが提供するAIアシスタント「Muse」の新Macアプリが、メッセージやカレンダー等にアクセスできて便利である一方、少し不気味だと言われています。</description>
-</item>
-<item>
-<title>ゼットスケーラー、SOCをAIエージェント化する理由とは</title>
-<link>https://ai-tech-times.web.app/articles/20260920-zscaler-soc-ai-agent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-zscaler-soc-ai-agent.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIによるサイバー攻撃が加速する中、ゼットスケーラーは人手不足に対応するため、検知から対応までを自動化する新たなSOCを発表しました。</description>
-</item>
-<item>
-<title>Generative PartnersのAI＋人BPO</title>
-<link>https://ai-tech-times.web.app/articles/20260920-generative-partners-ai-bpo-service.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-generative-partners-ai-bpo-service.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>RPAや生成AIを導入しても残る「最後に人がやる仕事」に着目し、新たなBPOサービスが開始されました。</description>
-</item>
-<item>
-<title>LG製テレビだけじゃない？全メーカーがあなたを監視する理由</title>
-<link>https://ai-tech-times.web.app/articles/20260920-every-tv-company-is-spying.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-every-tv-company-is-spying.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>テレビ業界でLG製テレビの動作をめぐる議論が浮上し、すべてのテレビメーカーが視聴者の行動を監視している実態が明らかになりました。</description>
-</item>
-<item>
-<title>イーロン・マスク氏がAI規制を巡り対立する意外な理由</title>
-<link>https://ai-tech-times.web.app/articles/20260920-elon-musk-ai-safety-regulation-alliances.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-elon-musk-ai-safety-regulation-alliances.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>AIの安全性を語る一方で規制に反対してきたイーロン・マスク氏を巡り、この1週間で起きた奇妙な同盟関係の動きが注目を集めています。</description>
-</item>
-<item>
-<title>Xross Starsが発売1年でシェアTOP10入りの快進撃</title>
-<link>https://ai-tech-times.web.app/articles/20260920-xross-stars-tcg-top10-anniversary.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-xross-stars-tcg-top10-anniversary.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>VTuberやストリーマーが集うトレーディングカードゲーム『Xross Stars』が、発売1年でシェアTOP10入りを果たしました。渋谷でのポップアップや1周年イベントも開催され、大きな注目を集めています。</description>
-</item>
-<item>
-<title>米・デンマーク合意：グリーンランド領有を巡るトランプ氏の要求とNatoの歓迎</title>
-<link>https://ai-tech-times.web.app/articles/20260920-nato-welcomes-greenland-deal.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-nato-welcomes-greenland-deal.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>デンマークと米国がグリーンランドを巡る合意に達し、Nato（北大西洋条約機構）がこれを歓迎しました。ドナルド・トランプ氏は米国に「永続的な安全保障上の管理権」が与えられると主張しています。</description>
-</item>
-<item>
-<title>村上宗隆先制タイムリーで勝利貢献 なぜ打てたのか</title>
-<link>https://ai-tech-times.web.app/articles/20260920-murakami-whitesox-win.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-murakami-whitesox-win.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>大リーグのホワイトソックスに所属する村上宗隆選手が、タイガース戦に先発出場し、チームの勝利に大きく貢献しました。</description>
-</item>
-<item>
-<title>マクドナルドなど35社採用期待、新TOPIXが促す企業の競争</title>
-<link>https://ai-tech-times.web.app/articles/20260920-new-topix-corporate-competition.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-new-topix-corporate-competition.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道によると、新TOPIXによって企業の競争が促される中、マクドナルドやタイミーなど35社の採用が期待されています。</description>
-</item>
-<item>
-<title>みんなで大家さん2000億円集め事業許可取消、出資金戻らず</title>
-<link>https://ai-tech-times.web.app/articles/20260920-minna-de-oyasan-business-license-revocation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260920-minna-de-oyasan-business-license-revocation.html</guid>
-<pubDate>Sun, 20 Sep 2026 12:02:00 +0900</pubDate>
-<category>日本企業</category>
-<description>不動産投資商品「みんなで大家さん」の営業者に事業許可の取り消し処分が下されました。巨額の資金が集まった一方、債権者は集団訴訟に踏み切る事態となっています。</description>
 </item>
 </channel></rss>
