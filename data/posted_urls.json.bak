@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-  "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
   "https://gigazine.net/news/20260802-pharmacy-chain-ai/",
   "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
   "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40aDQ2dzNnUEJ5c3o2WndqRkxncFFvZXEybDhBVG1tYm92MU84QS0tSTBxRXY1OV9NUjBTMEdObGFicGhiSTF6eXJISmR1bEhEZDY0Q01FSms?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260920de51376",
   "https://toyokeizai.net/articles/-/958784?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+  "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+  "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/",
+  "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/"
  ],
  "titles": [
-  "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-  "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-  "MetaのAIグラス「Meta Glasses」日本発売。50600円から",
-  "JetBrains、AIコーディングエージェント「Junie Local」発表。27BモデルをMac上で完全ローカル実行",
   "Source: Nvidia has agreed to buy Hugging Face for $12.9B (The Information)",
   "CrowdStrike reports Q2 revenue up 26% YoY to $1.47B, vs. $1.44B est., and forecasts FY 2027 revenue above estimates; CRWD jumps 9%+ after hours (Jake Bleiberg/Bloomberg)",
   "DTM常識を覆す、まったく新たな超高性能音源「Instrument X」爆誕! Synthesizer VのDreamtonicsが開発",
@@ -4001,6 +3997,10 @@
   "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ | 政治・経済・投資 | 東洋経済オンライン",
   "日銀の利上げ姿勢に失望感が広がり、円相場が一段安リスク",
   "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-  "トランプ氏、AIを改称へ。「AIフォース」創設の意向"
+  "トランプ氏、AIを改称へ。「AIフォース」創設の意向",
+  "AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援",
+  "16年間放置されていたSQLiteのバグを突き止めた方法",
+  "ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策",
+  "TailscaleのSQLiteが16年放置バグで不安定に"
  ]
 }

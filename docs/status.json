@@ -1,18 +1,21 @@
 {
- "updated": "2026-09-21 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [],
- "buzz_top": {
-  "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
-  "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
- },
- "notes": [
-  "執筆失敗: The 'robot relations' department may bec",
-  "執筆失敗: New California law will penalize influen"
+ "updated": "2026-09-21 03:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [
+  {
+   "title": "DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長",
+   "path": "/articles/20260921-batman-kamen-rider-zero-one-dc-comics.html",
+   "cat": "インフルエンサー"
+  }
  ],
+ "buzz_top": {
+  "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
+  "url": "https://www.youtube.com/watch?v=uvcpylgYDSU"
+ },
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 11,
+  "used": 15,
   "limit": 200
  }
 }

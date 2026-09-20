@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 01:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長](https://ai-tech-times.web.app/articles/20260921-batman-kamen-rider-zero-one-dc-comics.html) — 2026-09-21 03:00: DCコミックスの人気ヒーロー「バットマン」と、東映の特撮ドラマ「仮面ライダーゼロワン」がコラボレーションするプロジェクトが発表されました。
 - [ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策](https://ai-tech-times.web.app/articles/20260921-ai-sme-support-itmedia.html) — 2026-09-21 01:00: 生成AIの導入を目指すものの、具体的な進め方や人材不足に悩む中小企業が増えています。ITmedia AI+の報道から、その課題を乗り越えるための支援のあり方を紐解きます。
 - [TailscaleのSQLiteが16年放置バグで不安定に](https://ai-tech-times.web.app/articles/20260921-tailscale-sqlite-16-year-bug.html) — 2026-09-21 01:00: VPN構築・ネットワーク接続サービスのTailscaleが、自社サービスの不安定な原因を数ヶ月にわたり調査し、データベースのSQLiteに16年間潜在していたバグを突き止めました。
 - [トランプ氏、AIを改称へ。「AIフォース」創設の意向](https://ai-tech-times.web.app/articles/20260921-trump-ai-rebrand-and-ai-force.html) — 2026-09-21 00:00: トランプ氏がAIの名称変更と新組織「AIフォース」の創設を主張し、AIへの反発は民主党のデマであると述べました。
@@ -41,12 +42,11 @@
 - [Anthropicが提案、AI開発を減速させる3つの具体策とは](https://ai-tech-times.web.app/articles/20260920-ai-regulation-smackdown-anthropic-plan.html) — 2026-09-20 19:01: AI業界の有力者が規制に向けた動きを見せる中、AnthropicのCEOがAI開発を減速させるための3ステップの計画を提案しました。
 - [CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由](https://ai-tech-times.web.app/articles/20260920-ai-kill-switch-explained.html) — 2026-09-20 19:01: 暴走するAIへの懸念が高まる中、政策立案者やテクノロジー業界のリーダーたちの間でAIの強制停止ボタン（キルスイッチ）の効果をめぐる議論が続けられています。
 - [Googleの新AI先行公開、ベンチマークで圧倒した理由](https://ai-tech-times.web.app/articles/20260920-google-new-ai-benchmark-results.html) — 2026-09-20 18:01: Googleの次世代旗艦モデルとみられるAIが競技場「Arena」に先行公開され、複数ベンチマークで他社製AIを上回りました。
-- [EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能](https://ai-tech-times.web.app/articles/20260920-text-ai-watermarks-difficult-and-deletable.html) — 2026-09-20 18:01: 2026年8月に施行された欧州連合（EU）のAI法により、大規模言語モデル（LLM）プロバイダーには生成物であることを示すウォーターマークの適用が事実上義務付けられました。しかし、技術的な難しさに加え、簡単に削除できてしまう実効性の課題が指摘されています。
 
 ## 世界のバズ動画TOP3 (2026-09-21)
-- 1位: [Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=zG8TU7GTaoo)
-- 2位: [Casa Tupka Anthemo | @YoYoHoneySingh  feat. Priyanshi | Full Video](https://www.youtube.com/watch?v=vRjaGgDsWSo)
-- 3位: [How I Saved the World's Largest Minecraft Server](https://www.youtube.com/watch?v=5hG_nAYEC2g)
+- 1位: [Felix "다시 사랑한다 말할까" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]](https://www.youtube.com/watch?v=uvcpylgYDSU)
+- 2位: [Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=zG8TU7GTaoo)
+- 3位: [Casa Tupka Anthemo | @YoYoHoneySingh  feat. Priyanshi | Full Video](https://www.youtube.com/watch?v=vRjaGgDsWSo)
 
 ## AI用語事典 (全1646語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
