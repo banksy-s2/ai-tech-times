@@ -96196,5 +96196,39 @@
   "date": "2026-09-20",
   "time": "14:00",
   "path": "/articles/20260920-us-japan-rate-hike-market-trend.html"
+ },
+ {
+  "title": "Alibabaが医療用AIをオープンソース化、がんなど約150条件を検出できる理由",
+  "lead": "Alibabaは、がんをはじめとする約150の健康状態を検出できる医療用AIモデルをオープンソースとして公開しました。この技術が医療分野にどのような変化をもたらすのか、その詳細をお伝えします。",
+  "summary3": [
+   "Alibabaが医療用AIを公開",
+   "がんなど約150条件を検出可能",
+   "オープンソースでの提供を実施"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。中国の大手テクノロジー企業であるAlibabaは、がんを含むおよそ150もの健康状態や条件を検出することが可能な、先進的な医療用AIモデルをオープンソースとして公開したと発表しました。",
+   "今回の発表によると、この医療用AIモデルは幅広い疾患の検出に対応しており、医療現場での診断支援や効率化に向けた活用が期待されています。オープンソースとして公開されたことにより、世界中の研究者や開発者がこのモデルにアクセスし、さらなる検証や発展が可能となります。",
+   "医療分野におけるAIの活用は近年急速に進んでいますが、大手企業がこれほどの規模の診断支援モデルをオープンソース化する動きは注目を集めています。今後の医療現場や研究開発にどのような影響を与えるのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "Alibaba",
+   "医療AI",
+   "オープンソース"
+  ],
+  "slug": "alibaba-open-sources-medical-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Alibaba",
+    "type": "company",
+    "desc": "中国に本拠を置き、Eコマースやクラウドコンピューティングなどを広く展開する大手テクノロジー企業です。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+  "category": "ai",
+  "date": "2026-09-20",
+  "time": "16:02",
+  "path": "/articles/20260920-alibaba-open-sources-medical-ai.html"
  }
 ]

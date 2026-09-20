@@ -1,17 +1,23 @@
 {
- "updated": "2026-09-20 15:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-20 16:02",
+ "mode": "軽量便(AI(海外))",
+ "articles": [
+  {
+   "title": "Alibabaが医療用AIをオープンソース化、がんなど約150条件を検出できる理由",
+   "path": "/articles/20260920-alibaba-open-sources-medical-ai.html",
+   "cat": "AI(海外)"
+  }
+ ],
  "buzz_top": {
   "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
  "notes": [
-  "執筆失敗: ロッテHD、コンテンツIPプロデュースのスモール・プラネットに20％出資。業務提"
+  "執筆失敗: Anthropic’s first embedded evaluator is "
  ],
  "pv_today": null,
  "gemini": {
-  "used": 107,
+  "used": 113,
   "limit": 200
  }
 }
