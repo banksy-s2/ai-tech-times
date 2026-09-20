@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-20 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-20 23:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ロシアで北朝鮮労働者が軍事用無人機を製造、11か国チームが指摘",
-   "path": "/articles/20260920-north-korean-workers-russia-drones.html",
-   "cat": "時事・世界"
+   "title": "日銀の利上げ姿勢に失望感が広がり、円相場が一段安リスク",
+   "path": "/articles/20260920-boj-rate-hike-yen-risk.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
- "notes": [
-  "執筆失敗: 高齢者の割合 総人口の29.6％で過去最高 総務省"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 168,
+  "used": 171,
   "limit": 200
  }
 }
