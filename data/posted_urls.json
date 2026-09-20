@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://forbesjapan.com/articles/detail/101804",
-  "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
   "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
   "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
   "https://news.web.nhk/newsweb/na/na-k10015193441000",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdXFKc0NfREFuZFFvWm9tTkJhWllBdUpqSTV6YlBFZkY5SWFMRHdmd29TMl9qQzd4RHoxQ1RpMWozc05mYV9SV1pUOFZBNktsTGgyNHN4SXJuZDI3aFhzYw?oc=5",
   "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
   "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
-  "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/"
+  "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
+  "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+  "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html"
  ],
  "titles": [
-  "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-  "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-  "福岡県で40度以上「酷暑日」に 各地で危険な暑さ 熱中症対策を",
-  "パリ近郊 サウジの資金で日本の漫画扱うテーマパーク建設へ",
   "東京海上HD、株主優待を新設！ 3月末に100株を3年以上保有で2027年3月は7500円分、2028年以降も継続保有すると2500円分の電子マネーなどがもらえる！ - ダイヤモンド・オンライン",
   "川崎市の製鉄所高炉などの跡地で冷凍食品保管施設建設へ",
   "ビル・ゲイツが語る「AIの危険なしきい値」",
@@ -4001,6 +3997,10 @@
   "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
   "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
   "アルトマン氏が明かすOpenAI内部モデルの数学者超え、学界に走る焦燥感",
-  "AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み"
+  "AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み",
+  "Automattic names interim CFO after exec departures",
+  "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
+  "Automattic、幹部相次ぎ退任し暫定CFO起用",
+  "エアアジアのフェルナンデス氏が財務懸念を否定、成長計画へ"
  ]
 }

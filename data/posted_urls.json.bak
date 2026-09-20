@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://greyswansignals.com/?theme=dark",
-  "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
   "https://forbesjapan.com/articles/detail/101804",
   "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
   "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260920de51300",
   "https://www.nikkei.com/article/DGXZQOFL182E0TY6A910C2000000/",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdXFKc0NfREFuZFFvWm9tTkJhWllBdUpqSTV6YlBFZkY5SWFMRHdmd29TMl9qQzd4RHoxQ1RpMWozc05mYV9SV1pUOFZBNktsTGgyNHN4SXJuZDI3aFhzYw?oc=5",
-  "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+  "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+  "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
+  "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/"
  ],
  "titles": [
-  "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-  "Granite 4.2 LLMs: How They're Built",
-  "「AIエージェントを本番運用中」日本が最下位　“PoC止まり”の原因と、抜け出す方法は？",
-  "AppleがM6とM5 Ultraを発表、M5 Ultraは最大512GBのメモリを搭載し大型AIモデルをローカル実行可能",
   "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
   "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
   "福岡県で40度以上「酷暑日」に 各地で危険な暑さ 熱中症対策を",
@@ -4001,6 +3997,10 @@
   "日銀、政策金利を1.25%に引き上げへ",
   "神戸物産やＨＩＳなどの決算マイナス・インパクト銘柄を発表",
   "AI hallucination nearly triggers US military operation",
-  "米軍事作戦がAIの誤作動で一歩手前に"
+  "米軍事作戦がAIの誤作動で一歩手前に",
+  "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+  "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+  "アルトマン氏が明かすOpenAI内部モデルの数学者超え、学界に走る焦燥感",
+  "AI人材がいない中小企業が、専門家を必要な時だけ活用して業務改善できる仕組み"
  ]
 }
