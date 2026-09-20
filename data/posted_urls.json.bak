@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.jiji.com/jc/article?k=2026073101338&g=int",
-  "https://www.cnbc.com/2026/07/31/5-things-to-know-before-the-stock-market-opens.html",
   "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
   "https://news.google.com/rss/articles/CBMickFVX3lxTE90bkRlVHdEQ0ZsLXhPNmd6RVNqdl9qbnBwai1BR09lTFFZa2pnUXNnaWJFT1BfUFduMVJnY1FSNVczUVdkak45X3F1NUQ4dGRhM0tyN29uSGIwTFMzUEdTWHVaUzNMZ3pmY0JSTFZDZWtLQdIBd0FVX3lxTFAwNWdaTmZWam00bHI0VXpFcjlDdnlsbDFTRC1kQ1VPdW9uTEp6bUREVWllS242QndCX0paTWJzbWd0bmUycXowRTMtMER4QlFsVmlJZ2MtaUktMW9XTkQ0SWh6WjdPbjdZNWhHU0dseDlxUENDRzRV?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015193131000",
@@ -1999,13 +1997,11 @@
   "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260920de51306",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ucldYMVZsQnZ6Q2tyYVdLV2VtM3E5dEVQeHplMThoamFTdUxoTVBwVnRDQnZLSElxTUNjdDBDcTdCNWtVcDctNmhiMUdnYVYxZkd2MVo4T1VielpFWUV5emQ5MExrTkZBRHJxWg?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2609/20/news011.html"
+  "https://www.itmedia.co.jp/business/articles/2609/20/news011.html",
+  "https://news.web.nhk/newsweb/na/nd-20260920de51327",
+  "https://news.web.nhk/newsweb/na/nd-20260919de51244"
  ],
  "titles": [
-  "大日本印刷[7912]：オーストリア上場企業「AUSTRIACARD HOLDINGS AG」株式の公開買付け結果に関するお知らせ 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-  "SKハイニックスの宮城県工場浮上、村井知事はどう動く？",
-  "政府、生成AI事業者向け知財保護ルールを策定した狙い",
-  "X、プライバシー重視のオープンソース「Nitter」に閉鎖要求",
   "ガミックス、ATEEZのSANに謝罪した理由",
   "自民党税調が会合、食料品の消費税減税で農家や漁業者へ給付金検討",
   "総務省、郵便事業の持続可能なサービス検討",
@@ -4001,6 +3997,10 @@
   "米・デンマーク合意：グリーンランド領有を巡るトランプ氏の要求とNatoの歓迎",
   "村上宗隆先制タイムリーで勝利貢献 なぜ打てたのか",
   "マクドナルドなど35社採用期待、新TOPIXが促す企業の競争",
-  "みんなで大家さん2000億円集め事業許可取消、出資金戻らず"
+  "みんなで大家さん2000億円集め事業許可取消、出資金戻らず",
+  "サウジとフーシ派の対立激化　米“急激悪化”懸念で警戒を通知",
+  "マレーシアで日本人6人拘束 特殊詐欺に関与か",
+  "サウジとフーシ派対立激化、米が警戒通知",
+  "マレーシアで日本人6人拘束、特殊詐欺に関与か"
  ]
 }
