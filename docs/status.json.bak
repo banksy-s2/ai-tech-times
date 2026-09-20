@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-20 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-20 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "サウジとフーシ派対立激化、米が警戒通知",
-   "path": "/articles/20260920-saudi-houthi-conflict-us-warning.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "マレーシアで日本人6人拘束、特殊詐欺に関与か",
-   "path": "/articles/20260920-malaysia-japanese-arrested-fraud.html",
-   "cat": "時事・世界"
+   "title": "日米同時利上げ、1年後は意外にも株高傾向「5勝1敗」",
+   "path": "/articles/20260920-us-japan-rate-hike-market-trend.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 100,
+  "used": 103,
   "limit": 200
  }
 }
