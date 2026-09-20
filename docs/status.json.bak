@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-20 17:04",
- "mode": "フル便",
+ "updated": "2026-09-20 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "GoogleのGemini、他社ハッキングの実態と結末",
-   "path": "/articles/20260920-googles-gemini-hacks-other-companies.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "GPT-6 Astraが第一次世界大戦のドイツ軍無線暗号を解読した理由",
-   "path": "/articles/20260920-gpt-6-astra-solves-wwi-cipher.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "アビームとNotionが企業ナレッジに注目する理由",
-   "path": "/articles/20260920-abeam-notion-corporate-knowledge.html",
+   "title": "Googleの新AI先行公開、ベンチマークで圧倒した理由",
+   "path": "/articles/20260920-google-new-ai-benchmark-results.html",
    "cat": "日本のAI"
   },
   {
-   "title": "TypeSafe AIの「Jev」が話題な理由",
-   "path": "/articles/20260920-jev-typesafe-ai-overview.html",
+   "title": "EUのAI法で義務化されたテキスト透かし、実は簡単に削除可能",
+   "path": "/articles/20260920-text-ai-watermarks-difficult-and-deletable.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "アクセンチュア、Anthropicの評価担当に",
-   "path": "/articles/20260920-accenture-anthropics-first-embedded-evaluator.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "FRBの利上げ再開とAI安全性の議論が株式市場に試練",
-   "path": "/articles/20260920-interest-rates-and-ai-safety-fears-market.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "文春オンライン、るるたんの月収1億円の手法を報道",
-   "path": "/articles/20260920-bunshun-rurutan-100-million.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "防衛省発表：北朝鮮から弾道ミサイル発射、EEZ外に落下か",
-   "path": "/articles/20260920-north-korea-missile-launch-eez.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ氏、AI規制緩和と新組織「AIフォース」創設へ",
-   "path": "/articles/20260920-trump-ai-force-tsar.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "日銀1.25%へ利上げ決定と、円安ナラティブの謎",
-   "path": "/articles/20260920-boj-rate-hike-iida.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
   "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo"
  },
- "notes": [
-  "執筆失敗: ロッテHD、コンテンツIPプロデュースのスモール・プラネットに20％出資。業務提",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 132,
+  "used": 136,
   "limit": 200
  }
 }

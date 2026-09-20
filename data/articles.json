@@ -96661,5 +96661,72 @@
   "date": "2026-09-20",
   "time": "18:01",
   "path": "/articles/20260920-text-ai-watermarks-difficult-and-deletable.html"
+ },
+ {
+  "title": "Anthropicが提案、AI開発を減速させる3つの具体策とは",
+  "lead": "AI業界の有力者が規制に向けた動きを見せる中、AnthropicのCEOがAI開発を減速させるための3ステップの計画を提案しました。",
+  "summary3": [
+   "AnthropicがAI開発の減速を提案",
+   "外部評価者の導入や国際協力を検討",
+   "AI規制を巡る議論は今後も続く見通し"
+  ],
+  "body": [
+   "AI業界の主要関係者たちが、少なくとも一時的にはAI規制の側に立っているように見える状況となっています。今週の初め、AnthropicのCEOを務めるダリオ・アモデイ氏は、AI開発を減速させるための3ステップの計画を提案しました。",
+   "その提案には、AIの研究所に第三者の評価者を組み込むことや、国内産業全体での調整を行うことが含まれています。さらに、国際的な合意を形成することも計画の柱として掲げられています。",
+   "週末にかけて発表されたこの提案は、AIの安全性と規制をめぐる議論に新たな視点をもたらしました。AI開発の速度をどのように抑制し管理していくのか、その具体的なアプローチを巡る動きは今後も続いていくとみられます。"
+  ],
+  "tags": [
+   "AI規制",
+   "Anthropic",
+   "人工知能"
+  ],
+  "slug": "ai-regulation-smackdown-anthropic-plan",
+  "people": [
+   {
+    "name": "ダリオ・アモデイ氏",
+    "bio": "AI開発企業Anthropicの最高経営責任者（CEO）。AIの安全性研究に注力する業界の主要人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能スタートアップ企業。安全性に配慮した対話型AIモデルなどの開発を手がける。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "19:01",
+  "path": "/articles/20260920-ai-regulation-smackdown-anthropic-plan.html"
+ },
+ {
+  "title": "CNBC Techが解説、AIの強制停止ボタンが手遅れとされる理由",
+  "lead": "暴走するAIへの懸念が高まる中、政策立案者やテクノロジー業界のリーダーたちの間でAIの強制停止ボタン（キルスイッチ）の効果をめぐる議論が続けられています。",
+  "summary3": [
+   "暴走するAIへの懸念が最高潮に達している",
+   "キルスイッチの効果について議論が続く",
+   "「手遅れかもしれない」との見方が浮上"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、暴走する人工知能（AI）に対する恐れが最高潮に達している中で、政策立案者やテクノロジー業界のリーダーたちは、「キルスイッチ」と呼ばれる魔法のAI停止ボタンの効果について検討を進めています。",
+   "キルスイッチの有効性については、「早すぎるということはないが、おそらく手遅れである」という見方が示されており、AIの急速な進化と普及に対して安全装置の導入が間に合うのかどうかが大きな焦点となっています。",
+   "今後、人工知能の制御や安全性をめぐる議論において、こうした停止機能がどのように位置づけられ、実効性を持たせるのかが重要な課題として注目を集めています。"
+  ],
+  "tags": [
+   "AI",
+   "キルスイッチ",
+   "テクノロジー"
+  ],
+  "slug": "ai-kill-switch-explained",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+  "category": "silicon",
+  "date": "2026-09-20",
+  "time": "19:01",
+  "path": "/articles/20260920-ai-kill-switch-explained.html"
  }
 ]
