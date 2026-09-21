@@ -97693,5 +97693,39 @@
   "date": "2026-09-21",
   "time": "13:00",
   "path": "/articles/20260921-zelenskyy-trump-meeting-us.html"
+ },
+ {
+  "title": "日本経済新聞が伝える今週の市場と円・日経平均の展開",
+  "lead": "日本経済新聞より、介入への警戒感に伴う円の下値限定の動きや、堅調な展開が予想される今週の日経平均に関する市場・予定のニュースをお伝えします。",
+  "summary3": [
+   "円は介入警戒で下値が限定的に",
+   "日経平均は堅調な展開を予想",
+   "日本経済新聞が今週の市場を報道"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする今週の市場と予定に関するニュースです。日本経済新聞の報道によれば、外国為替市場における円相場は、当局による為替介入への警戒感が意識されることで、下値が限定的な展開となっています。",
+   "また、株式市場における日経平均株価についても、堅調な展開が見込まれる状況となっています。今週の市場全体の動向や予定されているスケジュールについては、投資家や市場関係者の間で引き続き注目が集まっています。",
+   "このように、為替市場における介入への警戒感と、株式市場における堅調な展開の予想が今週の主な市場トピックとなっています。詳細な予定や今後の動向については、日本経済新聞などの各種報道をご確認ください。"
+  ],
+  "tags": [
+   "日本経済新聞",
+   "日経平均",
+   "為替介入"
+  ],
+  "slug": "nikkei-market-yen-trend",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する経済を中心とした総合日刊紙であり、国内外のビジネスや金融情報を広く提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55X3Rac2xyZ0U4dmRJYjZJNkd2SVBpUzNib2JhTmp4OExoSl9qbFdwM0RtYVFHaFZxaWU5RE42M29EMDBmUkVEa3hOYmFPVExteUV4dkZ2bUVBZjlhUm53MVlST2N1enFHVmZlQQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-21",
+  "time": "14:00",
+  "path": "/articles/20260921-nikkei-market-yen-trend.html"
  }
 ]

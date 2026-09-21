@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-21 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-21 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日本経済新聞が伝える今週の市場と円・日経平均の展開",
-   "path": "/articles/20260921-nikkei-market-yen-trend.html",
-   "cat": "株式投資(日本)"
+   "title": "ライフ、北陸地盤の上場企業「アルビス」を買収へ",
+   "path": "/articles/20260921-life-acquires-albis.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 53,
+  "used": 57,
   "limit": 200
  }
 }

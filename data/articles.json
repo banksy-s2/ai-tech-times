@@ -97727,5 +97727,44 @@
   "date": "2026-09-21",
   "time": "14:00",
   "path": "/articles/20260921-nikkei-market-yen-trend.html"
+ },
+ {
+  "title": "ライフ、北陸地盤の上場企業「アルビス」を買収へ",
+  "lead": "業界でスーパーの再編が勢いづく中、大手スーパーのライフが北陸を地盤とする上場企業アルビスの買収に乗り出すことが明らかになりました。",
+  "summary3": [
+   "ライフがアルビスを買収へ",
+   "北陸地盤の上場企業が対象",
+   "スーパー業界の再編が加速"
+  ],
+  "body": [
+   "スーパー業界で企業再編の動きが一段と勢いを増しています。こうした中、首都圏などを中心に展開する大手スーパーのライフが、北陸地方を地盤とし東証に上場している「アルビス」を買収する方針であることが分かりました。",
+   "アルビスは北陸エリアを主な営業基盤として地域に根差したスーパーマーケット事業を展開しており、株式市場でも上場企業として知られています。今回の買収により、両社の間でどのような経営統合やシナジー効果が生まれるのか、業界内外から高い関心が寄せられています。",
+   "近年、小売業界では競争激化やコスト上昇に対応するため、大手を中心としたM＆Aやグループ化の動きが活発化しています。今後の両社の発表や手続きの進展に注目が集まるところです。"
+  ],
+  "tags": [
+   "ライフ",
+   "アルビス",
+   "スーパー再編"
+  ],
+  "slug": "life-acquires-albis",
+  "people": [],
+  "terms": [
+   {
+    "name": "ライフ",
+    "type": "company",
+    "desc": "首都圏や近畿圏を中心に大型スーパーマーケットを展開する大手流通企業である。"
+   },
+   {
+    "name": "アルビス",
+    "type": "company",
+    "desc": "富山県を中心とする北陸地盤のスーパーマーケットを展開する東証上場企業である。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzJtNkNDcFdoMEIxb0EwQ1JMa2tkdGZYQ1M0emRMZnZpbWFvc21BYUk1Q2MyYjBLME96dkdKbktVdVp5SFJ5cm1qdktBYnplX1pjUmtLWVVIejJiYUJWU2VHUGxRTWhDcUotT2E3UC01dDJCUWREektEblRKaWFMOFluOTBmVnFFS3ZkcFpueFY?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-21",
+  "time": "15:00",
+  "path": "/articles/20260921-life-acquires-albis.html"
  }
 ]
