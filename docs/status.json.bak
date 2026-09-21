@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-21 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-21 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+調査：AI研修未経験が9割なのに、なぜ学びたい人が4割超いるのか",
-   "path": "/articles/20260921-ai-training-gap-survey.html",
-   "cat": "日本のAI"
+   "title": "Amazon、MetaのAIをブロックした理由",
+   "path": "/articles/20260921-amazon-blocks-meta-muse-ai-agent.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "双日調査、Copilot導入企業の87.5％が抱える課題とは",
-   "path": "/articles/20260921-sojitz-copilot-survey-information-fragmentation.html",
-   "cat": "日本のAI"
+   "title": "カリフォルニア州、政治広告の非表示インフルエンサーに罰則",
+   "path": "/articles/20260921-new-california-law-penalize-influencers.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 90,
+  "used": 95,
   "limit": 200
  }
 }

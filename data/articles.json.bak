@@ -98194,5 +98194,78 @@
   "date": "2026-09-21",
   "time": "18:00",
   "path": "/articles/20260921-sojitz-copilot-survey-information-fragmentation.html"
+ },
+ {
+  "title": "Amazon、MetaのAIをブロックした理由",
+  "lead": "米Amazonが、MetaのAIエージェントによる自社サイトでの買い物をブロックしました。利用規約違反を理由に挙げていますが、その背景には何があるのでしょうか。",
+  "summary3": [
+   "AmazonがMetaのAIをブロック",
+   "ユーザーの代理ショッピングが規約違反に",
+   "Meta側からの事前の通知はなかった"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米Amazonは、米Metaが開発したAIエージェント「Muse」による自社サイトでの買い物の代理実行をブロックしました。GeekWireの報道によると、日曜日の時点でMuseのユーザーに対してポップアップメッセージが表示されるようになったとのことです。",
+   "表示されたメッセージでは、「承認されていないAIエージェントによる継続的なアクセスは、お客様が同意しているAmazonの利用規約に違反します」と警告されています。ユーザーの利便性を高めるはずのAIエージェントの利用が、規約の壁に阻まれる形となりました。",
+   "今回のブロックに関して、GeekWireの報道では、Meta側からAmazonに対して事前の通知が一切なかったことが明らかにされています。大手プラットフォーム間でのAIを巡る連携や規制のあり方は、今後の技術の普及においても重要な課題となりそうです。"
+  ],
+  "tags": [
+   "Amazon",
+   "Meta",
+   "AIエージェント"
+  ],
+  "slug": "amazon-blocks-meta-muse-ai-agent",
+  "people": [],
+  "terms": [
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "米国を本拠地とし、世界最大級のオンライン小売サービスやクラウド事業を展開する企業です。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどのSNSプラットフォームを運営し、AI開発も手掛ける米国の企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+  "category": "silicon",
+  "date": "2026-09-21",
+  "time": "19:00",
+  "path": "/articles/20260921-amazon-blocks-meta-muse-ai-agent.html"
+ },
+ {
+  "title": "カリフォルニア州、政治広告の非表示インフルエンサーに罰則",
+  "lead": "TechCrunchの報道によると、カリフォルニア州で政治に関する有料投稿の開示を義務付け、違反者に罰則を科す新しい法律が制定されました。",
+  "summary3": [
+   "カリフォルニア州で新法が成立",
+   "政治に関する有料投稿が対象",
+   "未開示のインフルエンサーに罰則"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、テック系メディアのTechCrunchが、カリフォルニア州における新しい法律について伝えています。この新法は、オンライン上のインフルエンサーたちが報酬を受け取って政治に関する投稿を行う際、その開示を義務付けるものです。",
+   "これまでの開示要件に対して、今回の新しい法律はより実効性を持たせるものとなっています。報酬を得て政治的な内容を投稿しているにもかかわらず、それを明示しないインフルエンサーに対しては、新たに罰則が科されることになりました。",
+   "SNSの影響力が拡大する中、政治的な広告やPRの透明性を高めるための重要な規制として注目を集めています。インフルエンサーによる情報発信のあり方に影響を与える可能性があり、今後の動向が注視されています。"
+  ],
+  "tags": [
+   "規制",
+   "SNS",
+   "政治広告"
+  ],
+  "slug": "new-california-law-penalize-influencers",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置き、スタートアップ企業やテクノロジーに関するニュースを専門に報じるメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+  "category": "silicon",
+  "date": "2026-09-21",
+  "time": "19:00",
+  "path": "/articles/20260921-new-california-law-penalize-influencers.html"
  }
 ]

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-21 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-21 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Amazon、MetaのAIをブロックした理由",
-   "path": "/articles/20260921-amazon-blocks-meta-muse-ai-agent.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "カリフォルニア州、政治広告の非表示インフルエンサーに罰則",
-   "path": "/articles/20260921-new-california-law-penalize-influencers.html",
-   "cat": "シリコンバレー最速"
+   "title": "人気YouTuberの店に無断駐車4日間、当事者の言い分とは",
+   "path": "/articles/20260921-youtuber-illegal-parking-dispute.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 95,
+  "used": 98,
   "limit": 200
  }
 }
