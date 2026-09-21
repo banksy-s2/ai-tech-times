@@ -1,21 +1,63 @@
 {
- "updated": "2026-09-21 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-21 17:06",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "The Verge AI報道：AIより人間がエネルギー網の最大リスク",
-   "path": "/articles/20260921-ai-cyberattack-energy-critical-infrastructure.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+が明かす社長の頭の中をAI化する理由",
+   "path": "/articles/20260921-president-mind-ai-itmedia.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "杉山知之氏が語る、生成AIでクリエーターは不要になるのか",
+   "path": "/articles/20260921-generative-ai-designer-sugiyama.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "小島プロダクション、ソニーとの噂を否定",
+   "path": "/articles/20260921-kojima-productions-disputes-reports.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "CNBC Tech報道：企業のAI導入が労働者の賃金や自律性に与える影響",
+   "path": "/articles/20260921-ai-robot-relations-workplace-future.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Disney+が全プランで広告表示へ、見逃せない規約改定",
+   "path": "/articles/20260921-disney-plus-ads-on-every-plan.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "米ベッセント財務長官、首脳会談前にAI通報メカニズムを中国に提案",
+   "path": "/articles/20260921-us-china-treasury-ai-talks.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "ドイツ東部州議選：極右第1党で首相政党が議席失う背景",
+   "path": "/articles/20260921-germany-state-election-far-right.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "外為どっとコムが解説：米国債金利上昇とドル円・株価の関係",
+   "path": "/articles/20260921-us-bond-interest-rate-forex-stocks.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "NIPPON EXPRESS、義足製造のインスタリムと提携",
+   "path": "/articles/20260921-nippon-express-instilim-capital-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Escape From Playtime | Release Date Trailer",
   "url": "https://www.youtube.com/watch?v=fAXzLmsbrd8"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 61,
+  "used": 84,
   "limit": 200
  }
 }

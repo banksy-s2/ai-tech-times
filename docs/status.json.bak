@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-21 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-21 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "ライフ、北陸地盤の上場企業「アルビス」を買収へ",
-   "path": "/articles/20260921-life-acquires-albis.html",
-   "cat": "日本企業"
+   "title": "The Verge AI報道：AIより人間がエネルギー網の最大リスク",
+   "path": "/articles/20260921-ai-cyberattack-energy-critical-infrastructure.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 61,
   "limit": 200
  }
 }

@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZnFpZnJBcWYtb2hwQUsxeTJ2djJ6dklnaFF1QWYxRTZSTmc2NE1WdERleV9yRVAyWGlHZXdLeUNFSFhJVksxSktzM0E3QmY3amhKcTc4ek9pSUFmd0lKOFE5MzBwVVdhSHV4WQ?oc=5",
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oX0tYb2tQUkVOblIza2JLSDRyYTV1R3BqUDlIeEROQTlXZlktb1hMaTZROGpKV19GSko5S1Y3NUVpdFNGTEZGZDNOZUtpQmV4?oc=5",
   "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
   "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260921de51611",
   "https://news.web.nhk/newsweb/na/nd-20260921de51458",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE55X3Rac2xyZ0U4dmRJYjZJNkd2SVBpUzNib2JhTmp4OExoSl9qbFdwM0RtYVFHaFZxaWU5RE42M29EMDBmUkVEa3hOYmFPVExteUV4dkZ2bUVBZjlhUm53MVlST2N1enFHVmZlQQ?oc=5",
-  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzJtNkNDcFdoMEIxb0EwQ1JMa2tkdGZYQ1M0emRMZnZpbWFvc21BYUk1Q2MyYjBLME96dkdKbktVdVp5SFJ5cm1qdktBYnplX1pjUmtLWVVIejJiYUJWU2VHUGxRTWhDcUotT2E3UC01dDJCUWREektEblRKaWFMOFluOTBmVnFFS3ZkcFpueFY?oc=5"
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzJtNkNDcFdoMEIxb0EwQ1JMa2tkdGZYQ1M0emRMZnZpbWFvc21BYUk1Q2MyYjBLME96dkdKbktVdVp5SFJ5cm1qdktBYnplX1pjUmtLWVVIejJiYUJWU2VHUGxRTWhDcUotT2E3UC01dDJCUWREektEblRKaWFMOFluOTBmVnFFS3ZkcFpueFY?oc=5",
+  "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
  ],
  "titles": [
-  "Googleの新音声AI、専門用語と85言語に対応",
-  "NVIDIA支援、大阪大学の口腔がん検出AI",
   "Meta、AIエージェント導入で「大規模な混乱」が発生した理由",
   "米司法省、NASAなどを標的にした中国のボットネットのドメインを押収",
   "中野の高級時計店で2億円相当窃盗、チリ国籍の男2人逮捕",
@@ -4001,6 +3999,8 @@
   "円は介入警戒で下値限定、日経平均は堅調な展開か 今週の市場・予定 - 日本経済新聞",
   "日本経済新聞が伝える今週の市場と円・日経平均の展開",
   "勢いづくスーパー再編、ライフが北陸地盤で上場企業の「アルビス」買収へ - M＆A Online",
-  "ライフ、北陸地盤の上場企業「アルビス」を買収へ"
+  "ライフ、北陸地盤の上場企業「アルビス」を買収へ",
+  "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+  "The Verge AI報道：AIより人間がエネルギー網の最大リスク"
  ]
 }
