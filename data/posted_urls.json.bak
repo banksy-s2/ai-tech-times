@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NSlM5ZlRqSGtteEp0dFIxRFNsRnRLdzQ4YkptWUQ5T3lEdTY5U1gxc180Q0NNTU5OTm0yeUt4aFZRb2lqNEZIdHRILXJtaGs1OVl3aTRocHE1eF9Ld2xV?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015194531000",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FRHRFNExHUVNuN1NsUFdjUy1NU0haM2hneFJqaE9OaXNGOGRiRThYMktlYkxtU3RTLVBKZkZUcW1YbEtUb2tRaloybGNKV1A2TmxPRUR1S0MwMWRMQ200?oc=5",
   "https://www.itmedia.co.jp/business/articles/2608/03/news010.html",
@@ -1999,13 +1997,11 @@
   "https://president.jp/articles/-/119265",
   "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
   "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
-  "https://gigazine.net/news/20260921-experiential/"
+  "https://gigazine.net/news/20260921-experiential/",
+  "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+  "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html"
  ],
  "titles": [
-  "Neocloud Lambda secures $1B in debt to buy more chips",
-  "Anthropic was illegally blacklisted by the Trump administration, court rules",
-  "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
-  "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
   "韓国人YouTuberが京都の飲食店“二重価格疑惑”を指摘→Xトレンド入りし炎上 店長は直撃に「完全否定」語った主張【2026年7月BEST】｜ニュース - ピンズバNEWS",
   "福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象",
   "トランプ大統領“ベネズエラ石油資源の過半数の支配権を確保”",
@@ -4001,6 +3997,10 @@
   "Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから",
   "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
   "Google AI Pro一本化で2900円、YouTube等が得に",
-  "OpenAIなど複数AIを一元管理するゲートウェイ登場"
+  "OpenAIなど複数AIを一元管理するゲートウェイ登場",
+  "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+  "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
+  "Ouraの22億ドルIPO、利益の大半は既存株主に",
+  "AMD時価総額1兆ドル到達の背景に何が？株価180%高の軌跡"
  ]
 }

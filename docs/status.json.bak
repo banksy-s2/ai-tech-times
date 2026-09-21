@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-22 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-22 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Google AI Pro一本化で2900円、YouTube等が得に",
-   "path": "/articles/20260922-google-ai-pro-subscription-unification.html",
-   "cat": "日本のAI"
+   "title": "Ouraの22億ドルIPO、利益の大半は既存株主に",
+   "path": "/articles/20260922-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "OpenAIなど複数AIを一元管理するゲートウェイ登場",
-   "path": "/articles/20260922-experiential-ai-gateway.html",
-   "cat": "日本のAI"
+   "title": "AMD時価総額1兆ドル到達の背景に何が？株価180%高の軌跡",
+   "path": "/articles/20260922-amd-hits-1-trillion-market-cap.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 9,
+  "used": 13,
   "limit": 200
  }
 }

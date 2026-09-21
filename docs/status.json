@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-22 02:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-22 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Ouraの22億ドルIPO、利益の大半は既存株主に",
-   "path": "/articles/20260922-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "AMD時価総額1兆ドル到達の背景に何が？株価180%高の軌跡",
-   "path": "/articles/20260922-amd-hits-1-trillion-market-cap.html",
-   "cat": "シリコンバレー最速"
+   "title": "MATE×MATE!ライブでドリンク代2重請求、返金時の出禁対応が炎上",
+   "path": "/articles/20260922-matemate-drink-fee-refund-controversy.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
