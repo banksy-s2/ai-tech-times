@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sVUF0ekFxRzZ2T0hyNGJYQk5VMkpwNVJfTF9qTExLY0RJMXJYdjQzOTFhNm1Vd3FHajBzY25ZQkU1N3FRRlB0d213?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015194341000",
   "https://news.web.nhk/newsweb/na/na-k10015193971000",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdElWazlNSFZ1TmRVamFzVklqSTYwb1QtRUp5ZlNYQXdDdUctTFNNV2dJN25WNkNKNGtKUjJkZkZqUmY4a242aEJWM0I5R2UzcmllT1RRMDFtM1Z5UXF1cFVGNnB3TVA4LVBlb1BlTjJVUndZaVFFeTBZYWJhMmZub3A3d2JJUnBGOWtTQml6Y3pYSklwdVhvRzV4dFlLa1Fhb1RlLXprMl9mSk9TS3Nv?oc=5",
   "https://toyokeizai.net/articles/-/953383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FSXNZQmtkVzVBQjk4WktZSkxaMF9wOFNUMjRoZ3BWUDNjYm9wSmFkdGR4aXdVMHRJZUVmcGx1ZkFqWUxxajk1b3NUMk5LZHJ5VzRQNjIwNkl3RjBjOW5ZZDQtdw?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QSjlXVE9sOWRkUnBESWp4d2Fsc3pOV1J1ekN0VW9HVmhEV2xoWGdDclBnYmQyd3FZSkJFS0x5RXJfWHNUakVEZlUyNFNMLWJtRHVyaUR5UQ?oc=5",
   "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
-  "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/"
+  "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
+  "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+  "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/"
  ],
  "titles": [
-  "政府・日銀が15兆円規模の市場介入、その裏側にある影響とは",
-  "ネパール土石流552人死亡、行方不明1500人超",
-  "伊藤忠、電通総研に1株2880円でTOB提案",
-  "ソニーミュージック、ガンホー株23.3%取得で筆頭株主に",
   "Anthropic was illegally blacklisted by the Trump administration, court rules",
   "Google’s AI Mode can now track flight prices, help book hotels, and more",
   "「新幹線料金と同じ」　ラピダス小池社長が明かす、2ナノ半導体“短納期”の勝算",
@@ -4001,6 +3997,10 @@
   "AI研修を受けた人は1割未満　「学びたい」4割超なのに、なぜ？",
   "双日調査、Copilot導入企業の87.5％が「情報分散」を課題　「横断検索AI」に期待か",
   "ITmedia AI+調査：AI研修未経験が9割なのに、なぜ学びたい人が4割超いるのか",
-  "双日調査、Copilot導入企業の87.5％が抱える課題とは"
+  "双日調査、Copilot導入企業の87.5％が抱える課題とは",
+  "Amazon doesn’t trust Meta’s Muse AI agent",
+  "New California law will penalize influencers who don’t disclose political ads",
+  "Amazon、MetaのAIをブロックした理由",
+  "カリフォルニア州、政治広告の非表示インフルエンサーに罰則"
  ]
 }

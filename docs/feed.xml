@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Amazon、MetaのAIをブロックした理由</title>
+<link>https://ai-tech-times.web.app/articles/20260921-amazon-blocks-meta-muse-ai-agent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260921-amazon-blocks-meta-muse-ai-agent.html</guid>
+<pubDate>Mon, 21 Sep 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米Amazonが、MetaのAIエージェントによる自社サイトでの買い物をブロックしました。利用規約違反を理由に挙げていますが、その背景には何があるのでしょうか。</description>
+</item>
+<item>
+<title>カリフォルニア州、政治広告の非表示インフルエンサーに罰則</title>
+<link>https://ai-tech-times.web.app/articles/20260921-new-california-law-penalize-influencers.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260921-new-california-law-penalize-influencers.html</guid>
+<pubDate>Mon, 21 Sep 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>TechCrunchの報道によると、カリフォルニア州で政治に関する有料投稿の開示を義務付け、違反者に罰則を科す新しい法律が制定されました。</description>
+</item>
+<item>
 <title>ITmedia AI+調査：AI研修未経験が9割なのに、なぜ学びたい人が4割超いるのか</title>
 <link>https://ai-tech-times.web.app/articles/20260921-ai-training-gap-survey.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260921-ai-training-gap-survey.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Mon, 21 Sep 2026 01:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>生成AIの導入を目指すものの、具体的な進め方や人材不足に悩む中小企業が増えています。ITmedia AI+の報道から、その課題を乗り越えるための支援のあり方を紐解きます。</description>
-</item>
-<item>
-<title>TailscaleのSQLiteが16年放置バグで不安定に</title>
-<link>https://ai-tech-times.web.app/articles/20260921-tailscale-sqlite-16-year-bug.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-tailscale-sqlite-16-year-bug.html</guid>
-<pubDate>Mon, 21 Sep 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>VPN構築・ネットワーク接続サービスのTailscaleが、自社サービスの不安定な原因を数ヶ月にわたり調査し、データベースのSQLiteに16年間潜在していたバグを突き止めました。</description>
-</item>
-<item>
-<title>トランプ氏、AIを改称へ。「AIフォース」創設の意向</title>
-<link>https://ai-tech-times.web.app/articles/20260921-trump-ai-rebrand-and-ai-force.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-trump-ai-rebrand-and-ai-force.html</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>トランプ氏がAIの名称変更と新組織「AIフォース」の創設を主張し、AIへの反発は民主党のデマであると述べました。</description>
 </item>
 </channel></rss>
