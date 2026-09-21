@@ -98838,5 +98838,78 @@
   "date": "2026-09-22",
   "time": "01:00",
   "path": "/articles/20260922-experiential-ai-gateway.html"
+ },
+ {
+  "title": "Ouraの22億ドルIPO、利益の大半は既存株主に",
+  "lead": "スマートリングを手がけるOuraの最新のIPOファイルによると、総額22億ドルの株式公開における利益の大部分が既存株主への還元となることが判明しました。投資家の財布事情にどう影響するのでしょうか。",
+  "summary3": [
+   "Ouraが22億ドルのIPOを申請",
+   "Forerunner Venturesが全株売却へ",
+   "利益の大半は既存株主への還元"
+  ],
+  "body": [
+   "TechCrunchの報道によると、スマートリングで知られるOuraの最新のIPO（新規株式公開）ファイルから、今回の22億ドルの上場が主に既存株主へのペイデイ（利益還元）となることが明らかになりました。",
+   "具体的な動きとして、投資を手がけるForerunner Venturesは、Ouraにおける自身の全持ち分を最大12億6千万ドル規模で売却する計画を立てていることが、最新のIPOファイルによって判明しています。",
+   "今回の大型IPOにおける株式売却の大部分は新規の資金調達というよりも既存株主への利益配分的な側面が強く、今後の市場における同社の動向や投資家の判断に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "Oura",
+   "IPO",
+   "TechCrunch"
+  ],
+  "slug": "ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
+  "people": [],
+  "terms": [
+   {
+    "name": "Forerunner Ventures",
+    "type": "company",
+    "desc": "アメリカを拠点とし、主にコンシューマー向け企業やスタートアップへの投資を手がけるベンチャーキャピタル企業。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とし、スタートアップ企業やテクノロジー業界の最新ニュースを専門に報じるメディア。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "02:00",
+  "path": "/articles/20260922-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders.html"
+ },
+ {
+  "title": "AMD時価総額1兆ドル到達の背景に何が？株価180%高の軌跡",
+  "lead": "半導体大手AMDの時価総額が初めて1兆ドルに達しました。5日間にわたる株価の連続上昇がこの快挙を後押ししています。",
+  "summary3": [
+   "AMDの時価総額が初めて1兆ドルに到達",
+   "5日間の株価連続上昇が快挙を後押し",
+   "2026年は株価が180%以上上昇する猛烈な勢い"
+  ],
+  "body": [
+   "CNBC Techの報道によると、半導体大手のAMDは現地時間21日、株価の好調な5日間連続の上昇を受けて、時価総額が初めて1兆ドル（約150兆円）の大台に乗りました。",
+   "同社にとって2026年はまさに驚異的な年となっており、年初からの株価上昇率はすでに180%を超えています。AIブームを背景とした半導体需要の強さが、今回の記録的な節目を達成する原動力となりました。",
+   "市場関係者の間では、好調な株価の動きがどこまで続くのかに注目が集まっています。AI技術の進化とともに存在感を増す同社の今後の動向から、引き続き目が離せません。"
+  ],
+  "tags": [
+   "AMD",
+   "時価総額",
+   "半導体"
+  ],
+  "slug": "amd-hits-1-trillion-market-cap",
+  "people": [],
+  "terms": [
+   {
+    "name": "AMD",
+    "type": "company",
+    "desc": "アメリカ合衆国に本拠地を置く、CPUやGPUなどの半導体チップを開発・製造する大手ハイテク企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "02:00",
+  "path": "/articles/20260922-amd-hits-1-trillion-market-cap.html"
  }
 ]

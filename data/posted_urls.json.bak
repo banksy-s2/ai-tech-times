@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-  "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NSlM5ZlRqSGtteEp0dFIxRFNsRnRLdzQ4YkptWUQ5T3lEdTY5U1gxc180Q0NNTU5OTm0yeUt4aFZRb2lqNEZIdHRILXJtaGs1OVl3aTRocHE1eF9Ld2xV?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015194531000",
   "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
@@ -1999,13 +1997,11 @@
   "https://www.itmedia.co.jp/business/articles/2609/21/news015.html",
   "https://news.web.nhk/newsweb/na/nd-20260921de51726",
   "https://president.jp/articles/-/119265",
-  "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+  "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+  "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
+  "https://gigazine.net/news/20260921-experiential/"
  ],
  "titles": [
-  "イーロン・マスク氏のxAI、Grok訓練に児童ポルノ使用か",
-  "日産ディーラーから入庫拒否された女性YouTuberの過激化する投稿になぜファンが嘆いているのか",
-  "FRB議長「金融引き締めと表現難しい」今後の利上げは",
-  "ホルムズ海峡封鎖から半年の現在、通過船舶は10分の1に激減",
   "Neocloud Lambda secures $1B in debt to buy more chips",
   "Anthropic was illegally blacklisted by the Trump administration, court rules",
   "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
@@ -4001,6 +3997,10 @@
   "海外の巨額マネーが\"ノロマな亀\"に賭け始めた…世界が習近平の中国を｢再考｣し日本を｢再発見｣する納得の理由",
   "スティーブン・R・ナギ氏が解説する日本経済の安定と品質",
   "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-  "Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか"
+  "Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか",
+  "Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから",
+  "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
+  "Google AI Pro一本化で2900円、YouTube等が得に",
+  "OpenAIなど複数AIを一元管理するゲートウェイ登場"
  ]
 }
