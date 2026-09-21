@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-22 05:00",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "トヨタ猛追、AI・銀行がトップ4社混戦の理由",
-   "path": "/articles/20260922-market-cap-top-four-mix.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-22 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: susten（サステン）、約10億円の資金調達を実施。ゆうちょ銀行と資本業務提携"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 24,
+  "used": 27,
   "limit": 200
  }
 }
