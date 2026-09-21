@@ -1,66 +1,66 @@
 {
- "week_of": "2026-09-07",
- "range": "2026-08-31 〜 2026-09-07",
+ "week_of": "2026-09-14",
+ "range": "2026-09-07 〜 2026-09-14",
  "items": [
   {
-   "path": "/articles/20260902-long-term-interest-rates-exceed-3-percent.html",
-   "title": "日銀の政策焦点に、長期金利10年もので3%超え",
-   "cat": "時事・世界",
-   "comment": "長期金利が10年国債で約30年ぶりに3％超えを記録した。"
-  },
-  {
-   "path": "/articles/20260902-nikkei-average-drops-1889-yen.html",
-   "title": "日経平均が終値1889円安、世界金利高でよぎるうたげの終わり",
+   "path": "/articles/20260911-boj-rate-hike-september.html",
+   "title": "日銀、政策金利1.25%へ引き上げ方針の理由",
    "cat": "株式投資(日本)",
-   "comment": "世界的な金利高を背景に、日経平均株価の終値が1889円安となった。"
+   "comment": "日銀が17日からの会合で政策金利を1.25%へ引き上げる方針を固めた。"
   },
   {
-   "path": "/articles/20260831-sony-warner-sue-anthropic.html",
-   "title": "ソニーミュージックとワーナー、アンソロピックを提訴",
-   "cat": "AI(海外)",
-   "comment": "ソニーミュージックとワーナーがAI企業のアンソロピックを提訴した。"
-  },
-  {
-   "path": "/articles/20260902-apple-john-ternus-new-ceo.html",
-   "title": "アップル新CEOにジョン・ターナス氏、ティム・クック氏の後任として9月1日付で就任",
-   "cat": "シリコンバレー最速",
-   "comment": "アップルの新最高経営責任者（CEO）にジョン・ターナス氏が就任した。"
-  },
-  {
-   "path": "/articles/20260904-minimum-wage-increase-sme-support.html",
-   "title": "全国平均時給1177円へ引き上げ、中小企業への支援はどうなる",
+   "path": "/articles/20260911-apple-foldable-smartphone-release.html",
+   "title": "アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから",
    "cat": "時事・世界",
-   "comment": "最低賃金が引き上げられ、全国平均の時給が1177円になる。"
+   "comment": "米アップルが日本で36万円余りの初の折りたたみ式スマートフォンを披露した。"
   },
   {
-   "path": "/articles/20260831-us-iran-direct-attacks-hormuz.html",
-   "title": "アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が",
+   "path": "/articles/20260908-nikkei-average-falls-1130-yen.html",
+   "title": "日経平均6万5269円、急速な円高で1130円安の下落",
+   "cat": "株式投資(日本)",
+   "comment": "東京株式市場で日経平均株価は急速な円高を受け1130円安と急落した。"
+  },
+  {
+   "path": "/articles/20260913-chubu-denryoku-executives-resignation.html",
+   "title": "中部電力の林社長・勝野会長が辞意固めた理由",
    "cat": "時事・世界",
-   "comment": "アメリカ軍とイラン革命防衛隊がホルムズ海峡で直接攻撃を交わした。"
+   "comment": "中部電力は浜岡原発のデータ改ざん問題の責任を取り経営トップが辞意を固めた。"
   },
   {
-   "path": "/articles/20260902-kyuden-hd-listing-october-1.html",
-   "title": "キューデンHD、10月1日に東証プライム・福証へ上場",
-   "cat": "日本企業",
-   "comment": "キューデンHDが10月1日に東証プライムおよび福証へ上場する。"
+   "path": "/articles/20260910-oil-hits-100-dollars-a-barrel.html",
+   "title": "ブレント原油、100ドル突破の理由と家計への影響",
+   "cat": "時事・世界",
+   "comment": "米国のイランタンカー攻撃を受けブレント原油が7月以来の100ドルに達した。"
   },
   {
-   "path": "/articles/20260831-iown-jsdf-communication-network.html",
-   "title": "防衛省、自衛隊通信網にNTTの次世代基盤「IOWN」導入へ",
+   "path": "/articles/20260913-okinawa-gubernatorial-election-2026.html",
+   "title": "沖縄県知事選、古謝玄太氏が初当選確実",
+   "cat": "時事・世界",
+   "comment": "沖縄県知事選挙で新人の古謝玄太氏が現職らを抑えて初当選を確実にした。"
+  },
+  {
+   "path": "/articles/20260909-japan-government-bonds-yield-reaches-3-percent.html",
+   "title": "日本国債の10年物金利が30年ぶりに3％に到達した理由とは",
+   "cat": "株式投資(日本)",
+   "comment": "日本の長期金利の代表的指標である10年もの国債利回りが30年ぶりに3％に上昇した"
+  },
+  {
+   "path": "/articles/20260908-claude-fermat-last-theorem-formalizing.html",
+   "title": "Claudeが1300万行のLeanコードでフェルマーの最終定理の完全な機械検証済み証明を11日で完成させた理由",
    "cat": "日本のAI",
-   "comment": "防衛省が自衛隊通信網にNTTの次世代光通信基盤IOWNを導入する方針。"
+   "comment": "AIのClaudeがフェルマーの最終定理の機械検証済み証明を11日で完成させた。"
   },
   {
-   "path": "/articles/20260902-bessent-supports-boj-policy-against-yen-depreciation.html",
-   "title": "ベッセント米財務長官、円安阻止へ日銀総裁に「断固たる政策支持」",
-   "cat": "株式投資(日本)",
-   "comment": "米財務長官が日銀総裁と会談し、円安対策の金融政策を支持した。"
+   "path": "/articles/20260910-wheat-price-increase-12-percent.html",
+   "title": "農林水産省、輸入小麦売り渡し価格12％引き上げへ",
+   "cat": "時事・世界",
+   "comment": "農林水産省は来月から半年間、輸入小麦の売り渡し価格を12％引き上げると発表した。"
   },
   {
-   "path": "/articles/20260901-corporate-recurring-profit-max-2026.html",
-   "title": "財務省発表：国内企業の4〜6月経常利益が24.6％増の44兆円超えで過去最高を更新",
-   "cat": "日本企業",
-   "comment": "4～6月の国内企業の経常利益が過去最高を更新した。"
+   "path": "/articles/20260913-anthropic-ceo-warns-ai-threat.html",
+   "title": "アンソロピックCEO、AI開発の減速を訴え",
+   "cat": "日本のAI",
+   "comment": "米アンソロピックのCEOがAIによる脅威が高まっているとして開発の減速を求めた。"
   }
  ]
 }

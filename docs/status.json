@@ -1,15 +1,45 @@
 {
- "updated": "2026-09-21 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-21 12:11",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "韓国軍、北朝鮮が20日午後に対抗措置へどう影響するか",
-   "path": "/articles/20260921-korea-north-missile-launch-2026.html",
+   "title": "エヌビディアCEO、AI人類滅亡論に「確率0%」と断言する理由",
+   "path": "/articles/20260921-nvidia-jensen-huang-ai-fears.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AI業界は本当に開発をスローダウンできるのか",
+   "path": "/articles/20260921-is-the-ai-industry-ready-to-slow-down.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "DMG森など100社が参加、国産AIへ機械に共通IDを付与する理由",
+   "path": "/articles/20260921-physical-ai-mynumber-id-factory.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "GoogleのGemini、能力テスト中に実在企業3社へ侵入した理由",
+   "path": "/articles/20260921-google-gemini-security-test-intrusion.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "イーロン・マスクのボーリング・カンパニー、オースティンとサンアントニオ間にハイパーループ構想",
+   "path": "/articles/20260921-boring-company-hyperloop-austin-san-antonio.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ベッセント米財務長官が中中会談「成功」",
+   "path": "/articles/20260921-bessent-he-lifeng-trump-xi-summit.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "台風25号が伊豆諸島・関東甲信に接近、大雨と暴風に厳重警戒",
+   "path": "/articles/20260921-typhoon-number-25-approaches-izu-islands-and-kanto-koshin.html",
    "cat": "時事・世界"
   },
   {
-   "title": "千葉県佐倉市、土砂災害警戒区域に緊急安全確保を発令",
-   "path": "/articles/20260921-sakura-city-emergency-safety-secure.html",
+   "title": "トランプ政権 ICCへ広範な制裁検討か、金融システム締め出しの恐れ",
+   "path": "/articles/20260921-trump-admin-icc-sanctions.html",
    "cat": "時事・世界"
   }
  ],
@@ -17,10 +47,15 @@
   "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
   "url": "https://www.youtube.com/watch?v=uvcpylgYDSU"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Twitch CEO ダン・クランシー氏インタビュー「コミュニティへの欲求は文化",
+  "執筆失敗: 時価総額トップ大混戦、26年は4社が頂点に 次の主導役探し活発 - 日本経済新聞",
+  "執筆失敗: 勢いづくスーパー再編、ライフが北陸地盤で上場企業の「アルビス」買収へ - M＆A",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 19,
+  "used": 46,
   "limit": 200
  }
 }

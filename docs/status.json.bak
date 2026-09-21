@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-21 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-21 04:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長",
-   "path": "/articles/20260921-batman-kamen-rider-zero-one-dc-comics.html",
-   "cat": "インフルエンサー"
+   "title": "韓国軍、北朝鮮が20日午後に対抗措置へどう影響するか",
+   "path": "/articles/20260921-korea-north-missile-launch-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "千葉県佐倉市、土砂災害警戒区域に緊急安全確保を発令",
+   "path": "/articles/20260921-sakura-city-emergency-safety-secure.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 15,
+  "used": 19,
   "limit": 200
  }
 }

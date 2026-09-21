@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-  "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
   "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
   "https://tailscale.com/blog/hugging-face-intrusion",
   "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
   "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/",
   "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/",
-  "https://www.cinematoday.jp/news/N0157022"
+  "https://www.cinematoday.jp/news/N0157022",
+  "https://news.web.nhk/newsweb/na/nd-20260920de51400",
+  "https://news.web.nhk/newsweb/na/nd-20260921de51481"
  ],
  "titles": [
-  "DTM常識を覆す、まったく新たな超高性能音源「Instrument X」爆誕! Synthesizer VのDreamtonicsが開発",
-  "エヌビディア決算 最終利益が2.2倍に AI向け半導体好調で",
-  "US drug agency approves breakthrough treatment for pancreatic cancer",
-  "全国17信用金庫が赤字に　金利上昇で債券含み損、中小・零細企業に逆風 - 日本経済新聞",
   "【うらやましいっ！年収2000万円生活】上場企業平均年収は778万円 : 1000万円以上が139社、トップはヒューリック2295万円 - Yahoo!ニュース",
   "Instinctが3億5000万ドル調達、急成長AIの謎",
   "イスラエル資金の偽シンクタンク、AIで世論工作を図る",
@@ -4001,6 +3997,10 @@
   "ITmedia AI+が明かす、AI導入でつまずく中小企業の解決策",
   "TailscaleのSQLiteが16年放置バグで不安定に",
   "バットマン×仮面ライダーゼロワン、DCコミックで夢の共演　共通点は“大企業の社長”　東映・白倉P「歴史的事件だ」｜シネマトゥデイ",
-  "DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長"
+  "DCコミックと仮面ライダーゼロワンが夢の共演、共通点は大企業の社長",
+  "韓国軍「北が2回にわたり短距離弾道ミサイル発射」",
+  "千葉 佐倉市の土砂災害警戒区域・特別警戒区域に緊急安全確保",
+  "韓国軍、北朝鮮が20日午後に対抗措置へどう影響するか",
+  "千葉県佐倉市、土砂災害警戒区域に緊急安全確保を発令"
  ]
 }

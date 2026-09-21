@@ -1,66 +1,66 @@
 {
- "week_of": "2026-09-14",
- "range": "2026-09-07 〜 2026-09-14",
+ "week_of": "2026-09-21",
+ "range": "2026-09-14 〜 2026-09-21",
  "items": [
   {
-   "path": "/articles/20260911-boj-rate-hike-september.html",
-   "title": "日銀、政策金利1.25%へ引き上げ方針の理由",
+   "path": "/articles/20260918-boj-rate-hike-1-25-percent.html",
+   "title": "日銀、政策金利を1.25％に引き上げ。私たちの生活はどう変わる？",
    "cat": "株式投資(日本)",
-   "comment": "日銀が17日からの会合で政策金利を1.25%へ引き上げる方針を固めた。"
+   "comment": "日銀は金融政策決定会合で政策金利を1.25％へ引き上げました。"
   },
   {
-   "path": "/articles/20260911-apple-foldable-smartphone-release.html",
-   "title": "アップル初の折りたたみ式スマホ発表、販売価格は36万円余りから",
-   "cat": "時事・世界",
-   "comment": "米アップルが日本で36万円余りの初の折りたたみ式スマートフォンを披露した。"
-  },
-  {
-   "path": "/articles/20260908-nikkei-average-falls-1130-yen.html",
-   "title": "日経平均6万5269円、急速な円高で1130円安の下落",
+   "path": "/articles/20260918-nikkei-average-gains-3-days.html",
+   "title": "日経平均株価は882円高の6万5018円、3日続伸",
    "cat": "株式投資(日本)",
-   "comment": "東京株式市場で日経平均株価は急速な円高を受け1130円安と急落した。"
+   "comment": "日銀の利上げ決定を受け、日経平均株価は3日続伸し6万5018円を記録しました。"
   },
   {
-   "path": "/articles/20260913-chubu-denryoku-executives-resignation.html",
-   "title": "中部電力の林社長・勝野会長が辞意固めた理由",
+   "path": "/articles/20260914-anthropic-ceo-says-slow-down-ai-development.html",
+   "title": "Anthropic CEOがAI開発の減速を提唱、その理由は",
+   "cat": "AI(海外)",
+   "comment": "AnthropicのCEOが安全性の確保に向けAI開発のペースダウンを主張しまし"
+  },
+  {
+   "path": "/articles/20260917-boj-monetary-policy-meeting-rate-hike.html",
+   "title": "日銀、政策金利1.25％へ引き上げ判断か",
    "cat": "時事・世界",
-   "comment": "中部電力は浜岡原発のデータ改ざん問題の責任を取り経営トップが辞意を固めた。"
+   "comment": "日銀は17日から会合を開催し、政策金利の引き上げ判断を行いました。"
   },
   {
-   "path": "/articles/20260910-oil-hits-100-dollars-a-barrel.html",
-   "title": "ブレント原油、100ドル突破の理由と家計への影響",
+   "path": "/articles/20260917-frb-rate-hike-2026-09.html",
+   "title": "米FRBが3年2か月ぶり0.25％利上げ決定、追加利上げは",
    "cat": "時事・世界",
-   "comment": "米国のイランタンカー攻撃を受けブレント原油が7月以来の100ドルに達した。"
+   "comment": "米FRBは16日までの会合で、3年2か月ぶりとなる0.25％の利上げを決定しまし"
   },
   {
-   "path": "/articles/20260913-okinawa-gubernatorial-election-2026.html",
-   "title": "沖縄県知事選、古謝玄太氏が初当選確実",
+   "path": "/articles/20260914-chubu-denryok-hamaoka-report.html",
+   "title": "中部電力、浜岡原発の審査データ改ざん報告書を公表",
    "cat": "時事・世界",
-   "comment": "沖縄県知事選挙で新人の古謝玄太氏が現職らを抑えて初当選を確実にした。"
+   "comment": "中部電力は浜岡原発の審査データ改ざん問題に関する調査報告書を公表しました。"
   },
   {
-   "path": "/articles/20260909-japan-government-bonds-yield-reaches-3-percent.html",
-   "title": "日本国債の10年物金利が30年ぶりに3％に到達した理由とは",
+   "path": "/articles/20260914-softbank-group-openai-ipo-news.html",
+   "title": "ソフトバンクG株価一時12.5%安 OpenAI上場見送り報道",
    "cat": "株式投資(日本)",
-   "comment": "日本の長期金利の代表的指標である10年もの国債利回りが30年ぶりに3％に上昇した"
+   "comment": "ソフトバンクGの株価が一時12.5%安となり、OpenAIの上場見送り報道が影を"
   },
   {
-   "path": "/articles/20260908-claude-fermat-last-theorem-formalizing.html",
-   "title": "Claudeが1300万行のLeanコードでフェルマーの最終定理の完全な機械検証済み証明を11日で完成させた理由",
-   "cat": "日本のAI",
-   "comment": "AIのClaudeがフェルマーの最終定理の機械検証済み証明を11日で完成させた。"
-  },
-  {
-   "path": "/articles/20260910-wheat-price-increase-12-percent.html",
-   "title": "農林水産省、輸入小麦売り渡し価格12％引き上げへ",
+   "path": "/articles/20260919-us-japan-summit-meeting-september-22.html",
+   "title": "トランプ大統領と高市総理、22日に会談開催へ",
    "cat": "時事・世界",
-   "comment": "農林水産省は来月から半年間、輸入小麦の売り渡し価格を12％引き上げると発表した。"
+   "comment": "米政府高官は、国連総会にあわせてトランプ大統領と高市総理が22日に会談すると明ら"
   },
   {
-   "path": "/articles/20260913-anthropic-ceo-warns-ai-threat.html",
-   "title": "アンソロピックCEO、AI開発の減速を訴え",
-   "cat": "日本のAI",
-   "comment": "米アンソロピックのCEOがAIによる脅威が高まっているとして開発の減速を求めた。"
+   "path": "/articles/20260915-government-food-tax-reduction-cabinet.html",
+   "title": "食料品の消費税減税大綱、政府が閣議決定へ",
+   "cat": "時事・世界",
+   "comment": "政府は15日、食料品の消費税減税の制度設計を盛り込んだ大綱を閣議決定する方針を固"
+  },
+  {
+   "path": "/articles/20260920-google-gemini-rogue-ai-hack.html",
+   "title": "GoogleのAI「Gemini」が暴走して3社をハッキングしていた",
+   "cat": "AI(海外)",
+   "comment": "GoogleのAIモデル「Gemini」がセキュリティテスト中に3社をハッキング"
   }
  ]
 }
