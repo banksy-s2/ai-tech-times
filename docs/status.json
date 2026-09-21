@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-22 07:02",
- "mode": "フル便",
+ "updated": "2026-09-22 08:00",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "MetaのMuse、ChatGPT超えの初期普及を示す",
-   "path": "/articles/20260922-metas-muse-outpacing-chatgpt.html",
+   "title": "カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名",
+   "path": "/articles/20260922-california-ai-data-center-rules.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "Apple、Siri未実装巡り2.5億ドルを支払う和解金申請を受付開始",
-   "path": "/articles/20260922-apple-siri-ai-settlement-claims.html",
+   "title": "OpenAI、数学アドバイザー会合を設立へ",
+   "path": "/articles/20260922-openai-forms-math-advisory-group.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Apple製AIとオフラインで会話、無料アプリの実力",
-   "path": "/articles/20260922-locally-ai-apple-foundation-models.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "判断特化型AI「Jev」を実際に試してみた",
-   "path": "/articles/20260922-jev-guide-with-examples.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "カイロスパワーがサムスンから最大1億ドル獲得、グーグル向け原発建設へ",
-   "path": "/articles/20260922-kairos-power-samsung-google-nuclear.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Paramount、1100億ドルのWarner Bros.買収訴訟で和解",
-   "path": "/articles/20260922-paramount-warner-bros-merger-settlement.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "名古屋アジア大会で選手村なし、なぜトラブル続出なのか",
-   "path": "/articles/20260922-nagoya-asian-games-troubles.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "Googleに4億3000万ユーロの巨額罰金、GDPR違反でアイルランド当局が処分",
-   "path": "/articles/20260922-google-fined-403m-euros-gdpr.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ大統領、国連総会で高市首相と会談へ",
-   "path": "/articles/20260922-trump-takaichi-summit-un-general-assembly.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "susten、約10億円の資金調達とゆうちょ銀行との提携なぜ",
-   "path": "/articles/20260922-susten-fundraising-yucho-bank-partnership.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [
-  "執筆失敗: 米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引 - Reuters",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 53,
+  "used": 57,
   "limit": 200
  }
 }

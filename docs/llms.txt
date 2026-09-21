@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 07:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 08:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名](https://ai-tech-times.web.app/articles/20260922-california-ai-data-center-rules.html) — 2026-09-22 08:00: AI TECH TIMESは、カリフォルニア州で成立したAIデータセンターの規制強化に関する最新情報をお伝えします。
+- [OpenAI、数学アドバイザー会合を設立へ](https://ai-tech-times.web.app/articles/20260922-openai-forms-math-advisory-group.html) — 2026-09-22 08:00: AIが100以上の未解決問題の解決に至る中、OpenAIが数学に関するアドバイザーグループを新たに設立したことが明らかになりました。
 - [MetaのMuse、ChatGPT超えの初期普及を示す](https://ai-tech-times.web.app/articles/20260922-metas-muse-outpacing-chatgpt.html) — 2026-09-22 07:01: Metaの新しいAIエージェント「Muse」が、米国とカナダのモバイル市場において、ChatGPTの初期を上回るダウンロード数とアクティブユーザー数を記録したことが分かりました。
 - [Apple、Siri未実装巡り2.5億ドルを支払う和解金申請を受付開始](https://ai-tech-times.web.app/articles/20260922-apple-siri-ai-settlement-claims.html) — 2026-09-22 07:01: Appleは、AI機能がアップグレードされたSiriを提供しなかったとする訴訟をめぐり、2億5000万ドルの支払いに合意しました。対象となるiPhoneユーザーは、現在賠償金の請求手続きを行うことができます。
 - [Apple製AIとオフラインで会話、無料アプリの実力](https://ai-tech-times.web.app/articles/20260922-locally-ai-apple-foundation-models.html) — 2026-09-22 07:01: 2026年9月に登場したiOS 27やmacOS 27に搭載のApple製AIモデル「Apple Foundation Models」と、テキストや画像認識でチャットできる機能が無料アプリ「Locally AI」に追加されました。
@@ -40,15 +42,13 @@
 - [Google AI Pro一本化で2900円、YouTube等が得に](https://ai-tech-times.web.app/articles/20260922-google-ai-pro-subscription-unification.html) — 2026-09-22 01:00: AIサブスクリプションをGeminiに一本化した話題が注目を集めています。プライベートでの開発や文章執筆において様々なAIを試してきた体験から、費用面での実質的なメリットが語られています。
 - [OpenAIなど複数AIを一元管理するゲートウェイ登場](https://ai-tech-times.web.app/articles/20260922-experiential-ai-gateway.html) — 2026-09-22 01:00: 複数のAIモデルを使い分ける際のAPIキーや料金管理を、単一のAPIでまとめて最適化できるオープンソースのAIゲートウェイ「Experiential」が公開されました。
 - [Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか](https://ai-tech-times.web.app/articles/20260922-googles-899-googlebook-gemini-laptop.html) — 2026-09-22 00:04: TechCrunch AIによると、Googleは899ドルのAIネイティブな新型ラップトップ「Googlebook」を発表しました。AIをデスクトップ体験の核に据えた戦略の全貌をお伝えします。
-- [スティーブン・R・ナギ氏が解説する日本経済の安定と品質](https://ai-tech-times.web.app/articles/20260921-japan-economy-investment-trends.html) — 2026-09-21 23:01: 中国に対して慎重論が広がる中、安定と品質を誇る日本の強みが巨額の資金を引き寄せていると専門家が指摘しています。
-- [ロシア下院選、与党が8割近い議席獲得へ](https://ai-tech-times.web.app/articles/20260921-russia-lower-house-election-2026.html) — 2026-09-21 22:00: ウクライナ侵攻後初となるロシアの下院選挙の暫定結果が発表され、プーチン政権を支える与党が圧勝する見通しとなりました。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)
 - 2位: [THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix](https://www.youtube.com/watch?v=RjEZaUBbUvU)
 - 3位: [Escape From Playtime | Release Date Trailer](https://www.youtube.com/watch?v=fAXzLmsbrd8)
 
-## AI用語事典 (全1676語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1678語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
