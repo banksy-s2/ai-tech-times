@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-22 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-22 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "台風25号の大雨、神奈川と千葉で2人死亡4人不明",
-   "path": "/articles/20260922-typhoon-25-damage-search.html",
-   "cat": "時事・世界"
+   "title": "トヨタ猛追、AI・銀行がトップ4社混戦の理由",
+   "path": "/articles/20260922-market-cap-top-four-mix.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [
-  "執筆失敗: Google hit with €403m fine by Irish data"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 20,
+  "used": 24,
   "limit": 200
  }
 }
