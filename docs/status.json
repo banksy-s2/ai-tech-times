@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-21 13:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-21 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "大島町にレベル5土砂災害特別警報、気象庁発表",
-   "path": "/articles/20260921-oshima-town-level-5-sediment-disaster-warning.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ゼレンスキー大統領、訪米でトランプ大統領と会談へ",
-   "path": "/articles/20260921-zelenskyy-trump-meeting-us.html",
-   "cat": "時事・世界"
+   "title": "日本経済新聞が伝える今週の市場と円・日経平均の展開",
+   "path": "/articles/20260921-nikkei-market-yen-trend.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 50,
+  "used": 53,
   "limit": 200
  }
 }

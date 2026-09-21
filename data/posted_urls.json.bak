@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/business/articles/2608/02/news002.html",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZWtDT210YVRXNHhwMHphRmc2SkI0NWJxenhTNHllRXI5TXROYzRHUl9WNEU3NC1Ycno1OFNvOEhjN1lTYlZIM1hla19aNnNQZHFFU1RhQjVtNEZGYUJPa0hjMGZRdTB2UmVsTFlYOEllZDNGbEZDMFZUYTFNeWM?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015193941000",
   "https://news.web.nhk/newsweb/na/na-k10015193221000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZnFpZnJBcWYtb2hwQUsxeTJ2djJ6dklnaFF1QWYxRTZSTmc2NE1WdERleV9yRVAyWGlHZXdLeUNFSFhJVksxSktzM0E3QmY3amhKcTc4ek9pSUFmd0lKOFE5MzBwVVdhSHV4WQ?oc=5",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
   "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
   "https://news.web.nhk/newsweb/na/nd-20260921de51478",
-  "https://news.web.nhk/newsweb/na/nd-20260921de51541"
+  "https://news.web.nhk/newsweb/na/nd-20260921de51541",
+  "https://news.web.nhk/newsweb/na/nd-20260921de51611",
+  "https://news.web.nhk/newsweb/na/nd-20260921de51458"
  ],
  "titles": [
-  "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-  "NVIDIAが開発支援、約30秒で口腔がんの疑い検出する歯科用AI",
-  "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-  "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
   "東京 中野 高級時計窃盗事件 容疑者“お金にして母国に”供述",
   "中国ロボット運動会 100m決勝は5台が8秒台 技術開発が加速",
   "日銀 氷見野副総裁 “これまで以上に物価上振れリスク意識”",
@@ -4001,6 +3997,10 @@
   "イーロン・マスクのボーリング・カンパニー、オースティンとサンアントニオ間にハイパーループ構想",
   "ベッセント米財務長官が中中会談「成功」",
   "台風25号が伊豆諸島・関東甲信に接近、大雨と暴風に厳重警戒",
-  "トランプ政権 ICCへ広範な制裁検討か、金融システム締め出しの恐れ"
+  "トランプ政権 ICCへ広範な制裁検討か、金融システム締め出しの恐れ",
+  "伊豆諸島の大島町にレベル5土砂災害特別警報",
+  "ゼレンスキー大統領 訪米でトランプ大統領と会談",
+  "大島町にレベル5土砂災害特別警報、気象庁発表",
+  "ゼレンスキー大統領、訪米でトランプ大統領と会談へ"
  ]
 }

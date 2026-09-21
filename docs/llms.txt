@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-21 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日本経済新聞が伝える今週の市場と円・日経平均の展開](https://ai-tech-times.web.app/articles/20260921-nikkei-market-yen-trend.html) — 2026-09-21 14:00: 日本経済新聞より、介入への警戒感に伴う円の下値限定の動きや、堅調な展開が予想される今週の日経平均に関する市場・予定のニュースをお伝えします。
 - [大島町にレベル5土砂災害特別警報、気象庁発表](https://ai-tech-times.web.app/articles/20260921-oshima-town-level-5-sediment-disaster-warning.html) — 2026-09-21 13:00: 気象庁は、伊豆諸島の大島町に対して土砂災害特別警報を発表しました。警戒レベルは5段階のうち最も高いものとなります。
 - [ゼレンスキー大統領、訪米でトランプ大統領と会談へ](https://ai-tech-times.web.app/articles/20260921-zelenskyy-trump-meeting-us.html) — 2026-09-21 13:00: ウクライナのゼレンスキー大統領がアメリカを訪問し、トランプ大統領と会談を行うことが発表されました。
 - [エヌビディアCEO、AI人類滅亡論に「確率0%」と断言する理由](https://ai-tech-times.web.app/articles/20260921-nvidia-jensen-huang-ai-fears.html) — 2026-09-21 12:10: AIブームの中心人物であるエヌビディアのジェンスン・フアン氏が、AIが人類の終焉をもたらす危険性について言及しました。数十年にわたりAIを研究してきた専門家たちの懸念とは異なる見解を示しています。
@@ -41,7 +42,6 @@
 - [日銀の利上げ姿勢に失望感が広がり、円相場が一段安リスク](https://ai-tech-times.web.app/articles/20260920-boj-rate-hike-yen-risk.html) — 2026-09-20 23:00: 大型連休で市場の流動性が低下するなか、日銀の利上げ姿勢に対する失望感から円相場が一段安のリスクを抱え、波乱必至の1週間を迎えています。
 - [ロシアで北朝鮮労働者が軍事用無人機を製造、11か国チームが指摘](https://ai-tech-times.web.app/articles/20260920-north-korean-workers-russia-drones.html) — 2026-09-20 22:00: ロシアで働く北朝鮮の労働者が、ウクライナへの軍事侵攻以降に大幅に増加し、軍事用無人機の製造に従事していることが明らかになりました。
 - [TechCrunch AIが報じる、AIの真偽を見極める困難さ](https://ai-tech-times.web.app/articles/20260920-ai-safety-conversations-unbelievable.html) — 2026-09-20 21:04: 今週、AIの安全性に関する2つの会話がバイラル化し、AIの事実とフィクションを見極めることの難しさを浮き彫りにしました。
-- [Petlibro、多頭飼いの猫の食事をAIカメラで個別管理する新給餌器を発表](https://ai-tech-times.web.app/articles/20260920-petlibro-new-ai-feeder-granary-2.html) — 2026-09-20 21:04: Petlibroの新製品「Granary 2」スマートフィーダーは、内蔵スケールと高位モデルのAIカメラで猫の食事を詳細に追跡します。複数猫の健康管理に悩む家庭の救世主となるのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-21)
 - 1位: [Escape From Playtime | Release Date Trailer](https://www.youtube.com/watch?v=fAXzLmsbrd8)
@@ -64,8 +64,8 @@
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): SpaceXやTeslaなどを率い、宇宙開発からAI分野まで幅広く事業を展開するカリスマ的実業家です。
-- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした日本の代表的な日刊新聞です。
+- [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが提供する、開発作業やエージェント管理などの機能を備えたAI関連のツールやシステムです。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なマルチモーダル対応のAIモデルであり、様々なタスクを自律的に処理する能力を持っています。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): 安全性に配慮したAIモデルの開発を目指し、元オープンAIの研究者らによって設立されたアメリカのAI企業です。
