@@ -1,21 +1,68 @@
 {
- "updated": "2026-09-21 20:01",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-21 21:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "人気YouTuberの店に無断駐車4日間、当事者の言い分とは",
-   "path": "/articles/20260921-youtuber-illegal-parking-dispute.html",
+   "title": "国連科学パネル、リスク理解前のAI規制を要請",
+   "path": "/articles/20260921-un-ai-panel-precautionary-principle.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "エヌビディアCEO発言「翌日株価が2倍に」の真意",
+   "path": "/articles/20260921-nvidia-ceo-dinner-stock-price.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "MetaのAI「Muse」が許可なきメッセージ閲覧、プライバシーの懸念浮上",
+   "path": "/articles/20260921-meta-muse-ai-agent-read-private-messages.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AppleのiPhone 18 Pro分解、可変絞りの内部構造が明らかに",
+   "path": "/articles/20260921-iphone-18-pro-camera-teardown.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ビットコインが85,000ドル突破、市場で続く論争の行方",
+   "path": "/articles/20260921-bitcoin-price-85000-dollars.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "愛知・名古屋アジア大会、韓国バスケ代表に起きたトラブルとは",
+   "path": "/articles/20260921-aichi-nagoya-asian-games-basketball-trouble.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "千葉県内各地の川で氾濫の危険性、緊急安全確保を発表",
+   "path": "/articles/20260921-chiba-heavy-rain-emergency-safety.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "CNNら米メディアがホワイトハウスの入場禁止処分で提訴、報道の自由を守る理由",
+   "path": "/articles/20260921-cnn-ms-now-politico-lawsuit-white-house.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "時価総額トップ大混戦、26年は4社が頂点に",
+   "path": "/articles/20260921-market-cap-top-race-2026.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "東京商工リサーチ調査：ビジネスホテル客室単価が2021年の2.6倍に上昇",
+   "path": "/articles/20260921-business-hotel-room-price-increase.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "Escape From Playtime | Release Date Trailer",
-  "url": "https://www.youtube.com/watch?v=fAXzLmsbrd8"
+  "title": "ALLDAY PROJECT - ‘TALK’ M/V",
+  "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 98,
+  "used": 124,
   "limit": 200
  }
 }

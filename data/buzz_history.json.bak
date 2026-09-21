@@ -7584,42 +7584,26 @@
  "2026-09-21": [
   {
    "rank": 1,
-   "id": "fAXzLmsbrd8",
-   "title": "Escape From Playtime | Release Date Trailer",
-   "channel": "Mob Entertainment",
-   "views": 1445656,
-   "url": "https://www.youtube.com/watch?v=fAXzLmsbrd8",
-   "thumb": "https://i.ytimg.com/vi/fAXzLmsbrd8/hqdefault.jpg",
+   "id": "1Qx6ktR3CEk",
+   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
+   "channel": "THEBLACKLABEL",
+   "views": 246135,
+   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk",
+   "thumb": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
-    "JP",
+    "KR",
     "BR"
    ],
-   "comment": "『Escape From Playtime』の発売日を告げるトレイラー動画のようです。（26文字）"
+   "comment": "ALLDAY PROJECTによる新曲「TALK」の公式ミュージックビデオです。"
   },
   {
    "rank": 2,
-   "id": "uvcpylgYDSU",
-   "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
-   "channel": "Stray Kids",
-   "views": 1034911,
-   "url": "https://www.youtube.com/watch?v=uvcpylgYDSU",
-   "thumb": "https://i.ytimg.com/vi/uvcpylgYDSU/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "JP",
-    "KR"
-   ],
-   "comment": "Stray Kidsのフィリックスによるキム・ドンリュルのカバー曲"
-  },
-  {
-   "rank": 3,
    "id": "SORZsU6Ytp4",
    "title": "MYSAA Teaser (Telugu) | Rashmika | Rawindra Pulle | Jakes Bejoy | UnFormula Films",
    "channel": "T-Series Telugu",
-   "views": 1438596,
+   "views": 1486220,
    "url": "https://www.youtube.com/watch?v=SORZsU6Ytp4",
    "thumb": "https://i.ytimg.com/vi/SORZsU6Ytp4/hqdefault.jpg",
    "regions": [
@@ -7630,11 +7614,41 @@
    "comment": "ラシュミカ出演のテルグ語映画「MYSAA」のティザー映像"
   },
   {
+   "rank": 3,
+   "id": "fAXzLmsbrd8",
+   "title": "Escape From Playtime | Release Date Trailer",
+   "channel": "Mob Entertainment",
+   "views": 1471556,
+   "url": "https://www.youtube.com/watch?v=fAXzLmsbrd8",
+   "thumb": "https://i.ytimg.com/vi/fAXzLmsbrd8/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "comment": "『Escape From Playtime』の発売日を告げるトレイラー動画のようです。（26文字）"
+  },
+  {
    "rank": 4,
+   "id": "uvcpylgYDSU",
+   "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
+   "channel": "Stray Kids",
+   "views": 1066432,
+   "url": "https://www.youtube.com/watch?v=uvcpylgYDSU",
+   "thumb": "https://i.ytimg.com/vi/uvcpylgYDSU/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "KR"
+   ],
+   "comment": "Stray Kidsのフィリックスによるキム・ドンリュルのカバー曲"
+  },
+  {
+   "rank": 5,
    "id": "DBgFuu5Lrww",
    "title": "Character Trailer - \"Vesna: Spring Morning Dance\" | Genshin Impact #Vesna #StoriesofFrostSnow",
    "channel": "Genshin Impact",
-   "views": 354852,
+   "views": 381398,
    "url": "https://www.youtube.com/watch?v=DBgFuu5Lrww",
    "thumb": "https://i.ytimg.com/vi/DBgFuu5Lrww/hqdefault.jpg",
    "regions": [
@@ -7645,11 +7659,11 @@
    "comment": "原神のキャラクター「Vesna」の魅力的な紹介映像かも (28字)"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "id": "sPEcx5UBh6M",
    "title": "Yeh Prem Mol Liya- Title Track | Ayushmann, Sharvari, Sooraj Barjatya | Himesh Reshammiya | Shreya G",
    "channel": "Himesh Reshammiya Melodies",
-   "views": 9843340,
+   "views": 10348898,
    "url": "https://www.youtube.com/watch?v=sPEcx5UBh6M",
    "thumb": "https://i.ytimg.com/vi/sPEcx5UBh6M/hqdefault.jpg",
    "regions": [
@@ -7659,11 +7673,11 @@
    "comment": "アーヤシュマーンら出演の映画タイトルトラックの音源映像のようです。（27文字）"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "id": "5hG_nAYEC2g",
    "title": "How I Saved the World's Largest Minecraft Server",
    "channel": "Wemmbu",
-   "views": 6798877,
+   "views": 6849842,
    "url": "https://www.youtube.com/watch?v=5hG_nAYEC2g",
    "thumb": "https://i.ytimg.com/vi/5hG_nAYEC2g/hqdefault.jpg",
    "regions": [
@@ -7673,11 +7687,11 @@
    "comment": "最大規模のマイクラサーバーを救うまでの軌跡を描いた動画のようです。"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "id": "zG8TU7GTaoo",
    "title": "Batman Knightfall Part 2: Knightquest | Official Trailer | Warner Bros. Entertainment",
    "channel": "Warner Bros. Entertainment",
-   "views": 2610249,
+   "views": 2622968,
    "url": "https://www.youtube.com/watch?v=zG8TU7GTaoo",
    "thumb": "https://i.ytimg.com/vi/zG8TU7GTaoo/hqdefault.jpg",
    "regions": [
@@ -7687,11 +7701,11 @@
    "comment": "バットマン新作トレーラーの第2弾が公開されたようです。(26文字)"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "id": "xbtvtRnALGU",
    "title": "Shadow VS Mewtwo (Sonic VS Pokémon) | DEATH BATTLE!",
    "channel": "DEATH BATTLE!",
-   "views": 1802723,
+   "views": 1826437,
    "url": "https://www.youtube.com/watch?v=xbtvtRnALGU",
    "thumb": "https://i.ytimg.com/vi/xbtvtRnALGU/hqdefault.jpg",
    "regions": [
@@ -7701,11 +7715,11 @@
    "comment": "シャドウとミュウツーが対決するバトル企画の動画のようです。（25文字）"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "id": "IOS7FKtiyxE",
    "title": "I Created Minecraft's Greatest Empire",
    "channel": "Spoke",
-   "views": 1535396,
+   "views": 1599126,
    "url": "https://www.youtube.com/watch?v=IOS7FKtiyxE",
    "thumb": "https://i.ytimg.com/vi/IOS7FKtiyxE/hqdefault.jpg",
    "regions": [
@@ -7713,20 +7727,6 @@
     "GB"
    ],
    "comment": "マインクラフトで最大級の帝国を作り上げる様子が描かれているようです。(29文字)"
-  },
-  {
-   "rank": 10,
-   "id": "y56D2WIeKxg",
-   "title": "DRAKE - QUEBEC",
-   "channel": "Drake",
-   "views": 1346134,
-   "url": "https://www.youtube.com/watch?v=y56D2WIeKxg",
-   "thumb": "https://i.ytimg.com/vi/y56D2WIeKxg/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Drakeによる楽曲「QUEBEC」の映像が公開されているようです。"
   }
  ]
 }
