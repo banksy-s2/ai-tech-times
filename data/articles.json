@@ -98755,5 +98755,88 @@
   "date": "2026-09-22",
   "time": "00:04",
   "path": "/articles/20260922-googles-899-googlebook-gemini-laptop.html"
+ },
+ {
+  "title": "Google AI Pro一本化で2900円、YouTube等が得に",
+  "lead": "AIサブスクリプションをGeminiに一本化した話題が注目を集めています。プライベートでの開発や文章執筆において様々なAIを試してきた体験から、費用面での実質的なメリットが語られています。",
+  "summary3": [
+   "AIサブスクをGeminiに一本化",
+   "2900円のGoogle AI Proを契約",
+   "YouTube等が含まれ実質無料に"
+  ],
+  "body": [
+   "AIサブスクリプションをGeminiに一本化する動きが見られます。これまでプライベートで行なってきた開発作業や文章執筆において、Claude CodeやOpenAI Codexなど、さまざまなAIサービスを試してきた経緯があります。",
+   "自腹で月額200ドルのプランを契約していた時期もあったものの、仕事でのAI利用が一般化するにつれて変化が起きました。その反動として、休日にはMacやスマートフォンなどを通じた利用スタイルを見直す状況となっています。",
+   "そうした中で、Google AI Pro（2,900円）へのAIサブスク統一により、YouTube Premium LiteやGoogle Cloud費用と色々が実質無料になるというお得感が注目を集めています。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AIサブスク"
+  ],
+  "slug": "google-ai-pro-subscription-unification",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、クラウドコンピューティングやAI開発など多様な事業を展開するアメリカの企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像など多様なデータを同時に処理できるマルチモーダルなAIモデル。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "01:00",
+  "path": "/articles/20260922-google-ai-pro-subscription-unification.html"
+ },
+ {
+  "title": "OpenAIなど複数AIを一元管理するゲートウェイ登場",
+  "lead": "複数のAIモデルを使い分ける際のAPIキーや料金管理を、単一のAPIでまとめて最適化できるオープンソースのAIゲートウェイ「Experiential」が公開されました。",
+  "summary3": [
+   "複数のAIモデルを単一APIで一元管理",
+   "利用量や予算をコントロール可能",
+   "オープンソースのゲートウェイ"
+  ],
+  "body": [
+   "AI TECH TIMESでは、最新の技術トレンドに関する情報をお届けしています。今回は、複数のAIモデルを利用する際に役立つオープンソースのツールについて紹介します。",
+   "現在、OpenAIやAnthropic、Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理がサービスごとに分散してしまいがちです。こうした課題を解決するために公開されたのが、オープンソースのAIゲートウェイ「Experiential」です。",
+   "「Experiential」を活用することで、クラウドやローカルの各AIモデルをOpenAI互換の単一APIにまとめることができます。さらに、品質や速度、コストで最適化して管理できるだけでなく、AIエージェントがどれだけの金額を使用できるかといった予算の制御も可能になります。"
+  ],
+  "tags": [
+   "Experiential",
+   "AI",
+   "オープンソース"
+  ],
+  "slug": "experiential-ai-gateway",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのAI開発企業で、対話型AIのChatGPTなどを提供しています。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI安全性を重視する企業で、AIモデルのClaudeを開発しています。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などを同時に処理できるマルチモーダルAIモデルです。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260921-experiential/",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "01:00",
+  "path": "/articles/20260922-experiential-ai-gateway.html"
  }
 ]

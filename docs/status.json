@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-22 00:05",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-22 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか",
-   "path": "/articles/20260922-googles-899-googlebook-gemini-laptop.html",
-   "cat": "AI(海外)"
+   "title": "Google AI Pro一本化で2900円、YouTube等が得に",
+   "path": "/articles/20260922-google-ai-pro-subscription-unification.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIなど複数AIを一元管理するゲートウェイ登場",
+   "path": "/articles/20260922-experiential-ai-gateway.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [
-  "執筆失敗: Pruning LLMs Like a Physicist: Block Rem"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 5,
+  "used": 9,
   "limit": 200
  }
 }

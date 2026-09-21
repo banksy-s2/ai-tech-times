@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-21 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-22 00:05",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "スティーブン・R・ナギ氏が解説する日本経済の安定と品質",
-   "path": "/articles/20260921-japan-economy-investment-trends.html",
-   "cat": "株式投資(日本)"
+   "title": "Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか",
+   "path": "/articles/20260922-googles-899-googlebook-gemini-laptop.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Pruning LLMs Like a Physicist: Block Rem"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 132,
+  "used": 5,
   "limit": 200
  }
 }
