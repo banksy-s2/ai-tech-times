@@ -98974,5 +98974,39 @@
   "date": "2026-09-22",
   "time": "04:00",
   "path": "/articles/20260922-typhoon-25-damage-search.html"
+ },
+ {
+  "title": "トヨタ猛追、AI・銀行がトップ4社混戦の理由",
+  "lead": "時価総額トップ4社が混戦となり、AI関連企業や銀行がトヨタを猛追する展開となっています。市場で次の主導役を見定める動きが活発化しています。",
+  "summary3": [
+   "時価総額トップ4社が混戦状態",
+   "AI・銀行がトヨタを猛追する展開",
+   "次の主導役を見定める動きが活発化"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、株式市場において時価総額上位の4社が混戦模様となっています。特にAI関連の分野や銀行セクターが、首位を走るトヨタを猛烈に追い上げる展開が見られています。",
+   "市場参加者の間では、株式市場を引っ張る「次の主導役」は一体どこになるのかを見極めようとする動きが活発化しています。従来の主力銘柄から、AIや銀行といった新たな主役に資金が向かうかどうかが注目されています。",
+   "今後の市場動向を見通す上で、時価総額上位の顔ぶれの変化や、AI・銀行セクターの動向がどのように影響を与えるのか、投資家の関心が集まる状況が続いています。"
+  ],
+  "tags": [
+   "株式市場",
+   "時価総額",
+   "AI"
+  ],
+  "slug": "market-cap-top-four-mix",
+  "people": [],
+  "terms": [
+   {
+    "name": "トヨタ",
+    "type": "company",
+    "desc": "日本を代表する世界的な自動車メーカーであり、グループ全体で高い生産台数を誇る。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWFR4Q1RydTRQYll4U2VnUmNfWkN3Yzdmc0RSRWExRzBhYllSNE5LQTBpWVE3UnA4Q25IcmZxc053c1p0djBtazB0X1U5bkJqaEt4NzRDYTBIS0x4T1I4YTVHSGlNTDBDOXRQbw?oc=5",
+  "category": "stock",
+  "date": "2026-09-22",
+  "time": "05:00",
+  "path": "/articles/20260922-market-cap-top-four-mix.html"
  }
 ]

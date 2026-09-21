@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/business/articles/2608/03/news010.html",
   "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
   "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
   "https://frogs.vaguespac.es/",
@@ -1999,11 +1998,10 @@
   "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
   "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
   "https://togetter.com/li/2748331",
-  "https://news.web.nhk/newsweb/na/nd-20260922de51778"
+  "https://news.web.nhk/newsweb/na/nd-20260922de51778",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BWFR4Q1RydTRQYll4U2VnUmNfWkN3Yzdmc0RSRWExRzBhYllSNE5LQTBpWVE3UnA4Q25IcmZxc053c1p0djBtazB0X1U5bkJqaEt4NzRDYTBIS0x4T1I4YTVHSGlNTDBDOXRQbw?oc=5"
  ],
  "titles": [
-  "Neocloud Lambda、10億ドル調達の裏で急増するAIの莫大なコスト",
-  "Anthropic訴訟で勝訴、トランプ政権のブラックリスト化は違憲と判断",
   "OpenAIがCursorとの提携をなぜ終了するのか",
   "a16z、AIの物理的基盤へ11億ドル規模の新ファンド設立",
   "京都の飲食店で二重価格疑惑、店長が完全否定した主張",
@@ -4001,6 +3999,8 @@
   "トラブル返金対応の不適切表現で物議をかもしているアイドルグループ、スタッフが現地で客に「返金するけど代わりに出禁」という対応をしていたことを暴露され、さらに炎上",
   "MATE×MATE!ライブでドリンク代2重請求、返金時の出禁対応が炎上",
   "【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く",
-  "台風25号の大雨、神奈川と千葉で2人死亡4人不明"
+  "台風25号の大雨、神奈川と千葉で2人死亡4人不明",
+  "時価総額トップ4社混戦 AI・銀行がトヨタ猛追 次の主導役、見定め活発 - 日本経済新聞",
+  "トヨタ猛追、AI・銀行がトップ4社混戦の理由"
  ]
 }
