@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-21 22:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-21 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "ロシア下院選、与党が8割近い議席獲得へ",
-   "path": "/articles/20260921-russia-lower-house-election-2026.html",
-   "cat": "時事・世界"
+   "title": "スティーブン・R・ナギ氏が解説する日本経済の安定と品質",
+   "path": "/articles/20260921-japan-economy-investment-trends.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [
-  "執筆失敗: 「トランプ大統領 イエメン空爆で方針転換」米報道"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 128,
+  "used": 132,
   "limit": 200
  }
 }

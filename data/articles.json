@@ -98716,5 +98716,44 @@
   "date": "2026-09-21",
   "time": "23:01",
   "path": "/articles/20260921-japan-economy-investment-trends.html"
+ },
+ {
+  "title": "Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか",
+  "lead": "TechCrunch AIによると、Googleは899ドルのAIネイティブな新型ラップトップ「Googlebook」を発表しました。AIをデスクトップ体験の核に据えた戦略の全貌をお伝えします。",
+  "summary3": [
+   "Googleが899ドルのAIノートPCを発表",
+   "カーソルや音声入力にGeminiを連係",
+   "デスクトップ体験全体をAIが大きく刷新"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、米Googleは899ドルのAIネイティブなラップトップ「Googlebook」を投入しました。この製品は、ユーザーがAI機能のために新しいパソコンを購入するという賭けに出ており、デスクトップ体験のあり方を大きく変える可能性を持っています。",
+   "最大の特徴は、AIモデルであるGeminiがデスクトップ体験の様々な部分に深く組み込まれている点です。具体的には、カーソル操作やディクテーション（音声入力）、ウィジェットなどの日常的な操作にGeminiが直接連係し、ユーザーの作業をサポートする仕組みとなっています。",
+   "高価格帯のノートPC市場において、AI特化型の新製品がどのように受け入れられるのか、今後の動向に注目が集まります。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI PC"
+  ],
+  "slug": "googles-899-googlebook-gemini-laptop",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを起点に、Androidやクラウドサービスなど幅広い事業を展開するアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや音声などを総合的に理解して処理する高度なマルチモーダルAIモデル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "00:04",
+  "path": "/articles/20260922-googles-899-googlebook-gemini-laptop.html"
  }
 ]
