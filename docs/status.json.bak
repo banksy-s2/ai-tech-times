@@ -1,18 +1,23 @@
 {
- "updated": "2026-09-23 01:04",
- "mode": "軽量便(日本のAI)",
- "articles": [],
+ "updated": "2026-09-23 02:06",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "バイナンス、サークルに1億ドル出資の理由",
+   "path": "/articles/20260923-binance-invests-100m-in-circle-usdc.html",
+   "cat": "シリコンバレー最速"
+  }
+ ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
  "notes": [
-  "執筆失敗: OpenAI、9月29日に新AIエージェントを発表へ──ソフトウェア株のパニック",
-  "執筆失敗: AIに頼って登山計画を立てた登山者たちが救助される"
+  "執筆失敗: Microsoft is laying off 268 Xbox staffer"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 36,
   "limit": 200
  }
 }
