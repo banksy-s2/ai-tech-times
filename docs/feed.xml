@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>バイナンス、サークルに1億ドル出資の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260923-binance-invests-100m-in-circle-usdc.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260923-binance-invests-100m-in-circle-usdc.html</guid>
+<pubDate>Wed, 23 Sep 2026 02:06:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>大手仮想通貨取引所のバイナンスは、ステーブルコイン発行会社のサークルに対して1億ドルの出資を行いました。グローバルでのUSDC普及に向けた提携の全貌とは。</description>
+</item>
+<item>
 <title>OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか</title>
 <link>https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。</description>
-</item>
-<item>
-<title>Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開</title>
-<link>https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。</description>
 </item>
 </channel></rss>
