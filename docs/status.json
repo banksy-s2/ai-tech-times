@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-22 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-22 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景",
-   "path": "/articles/20260922-mainframe-migration-ai-failure.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "米Claudeに「代理回答」させる中国AIのKimi、アンソロピックが不正指摘",
-   "path": "/articles/20260922-anthropic--kimi-claude-proxy-response.html",
-   "cat": "日本のAI"
+   "title": "テキサス州知事アボット氏、データセンターの許可を停止へ",
+   "path": "/articles/20260922-texas-data-center-permit-halt.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: X will now tell users when governments h"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 62,
+  "used": 66,
   "limit": 200
  }
 }

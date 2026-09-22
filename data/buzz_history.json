@@ -7737,7 +7737,7 @@
    "id": "1Qx6ktR3CEk",
    "title": "ALLDAY PROJECT - ‘TALK’ M/V",
    "channel": "THEBLACKLABEL",
-   "views": 5045996,
+   "views": 5117418,
    "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk",
    "thumb": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg",
    "regions": [
@@ -7753,12 +7753,13 @@
    "id": "RjEZaUBbUvU",
    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix",
    "channel": "Netflix",
-   "views": 2912296,
+   "views": 3130046,
    "url": "https://www.youtube.com/watch?v=RjEZaUBbUvU",
    "thumb": "https://i.ytimg.com/vi/RjEZaUBbUvU/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
+    "KR",
     "BR"
    ],
    "comment": "クリフ・ブースの新たな冒険を描いたNetflix公式予告編のようです。(29字)"
@@ -7768,7 +7769,7 @@
    "id": "fAXzLmsbrd8",
    "title": "Escape From Playtime | Release Date Trailer",
    "channel": "Mob Entertainment",
-   "views": 1852745,
+   "views": 1872999,
    "url": "https://www.youtube.com/watch?v=fAXzLmsbrd8",
    "thumb": "https://i.ytimg.com/vi/fAXzLmsbrd8/hqdefault.jpg",
    "regions": [
@@ -7783,7 +7784,7 @@
    "id": "DBgFuu5Lrww",
    "title": "Character Trailer - \"Vesna: Spring Morning Dance\" | Genshin Impact #Vesna #StoriesofFrostSnow",
    "channel": "Genshin Impact",
-   "views": 669637,
+   "views": 680574,
    "url": "https://www.youtube.com/watch?v=DBgFuu5Lrww",
    "thumb": "https://i.ytimg.com/vi/DBgFuu5Lrww/hqdefault.jpg",
    "regions": [
@@ -7798,7 +7799,7 @@
    "id": "IOS7FKtiyxE",
    "title": "I Created Minecraft's Greatest Empire",
    "channel": "Spoke",
-   "views": 2446365,
+   "views": 2488287,
    "url": "https://www.youtube.com/watch?v=IOS7FKtiyxE",
    "thumb": "https://i.ytimg.com/vi/IOS7FKtiyxE/hqdefault.jpg",
    "regions": [
@@ -7812,7 +7813,7 @@
    "id": "y56D2WIeKxg",
    "title": "DRAKE - QUEBEC",
    "channel": "Drake",
-   "views": 1769102,
+   "views": 1809383,
    "url": "https://www.youtube.com/watch?v=y56D2WIeKxg",
    "thumb": "https://i.ytimg.com/vi/y56D2WIeKxg/hqdefault.jpg",
    "regions": [
@@ -7826,7 +7827,7 @@
    "id": "xjR518LxjZE",
    "title": "Dupahiya Season 2 - Official Trailer | Gajraj Rao, Renuka Shahane, Sparsh Shrivastava, Bhuvan Arora",
    "channel": "Prime Video India",
-   "views": 1068750,
+   "views": 1084461,
    "url": "https://www.youtube.com/watch?v=xjR518LxjZE",
    "thumb": "https://i.ytimg.com/vi/xjR518LxjZE/hqdefault.jpg",
    "regions": [
@@ -7840,7 +7841,7 @@
    "id": "PHCzPZLfN6M",
    "title": "Anjaana Anjaani - Audio | The Paradise | Nani | Kayadu Lohar | Anirudh Ravichander | Srikanth Odela",
    "channel": "Saregama Telugu",
-   "views": 1020533,
+   "views": 1053505,
    "url": "https://www.youtube.com/watch?v=PHCzPZLfN6M",
    "thumb": "https://i.ytimg.com/vi/PHCzPZLfN6M/hqdefault.jpg",
    "regions": [
@@ -7851,24 +7852,10 @@
   },
   {
    "rank": 9,
-   "id": "asnrQ1UoBQM",
-   "title": "The Next Chapter for Bungie",
-   "channel": "Bungie",
-   "views": 647475,
-   "url": "https://www.youtube.com/watch?v=asnrQ1UoBQM",
-   "thumb": "https://i.ytimg.com/vi/asnrQ1UoBQM/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Bungieの新しいチャプターに関する映像のようです。（26字）"
-  },
-  {
-   "rank": 10,
    "id": "zp8tFojJzEM",
    "title": "SMACKING BUGS FOR REFUSING MY RELIGION | Warhammer 40k: Space Marine II",
    "channel": "TheRussianBadger",
-   "views": 644940,
+   "views": 787982,
    "url": "https://www.youtube.com/watch?v=zp8tFojJzEM",
    "thumb": "https://i.ytimg.com/vi/zp8tFojJzEM/hqdefault.jpg",
    "regions": [
@@ -7876,6 +7863,20 @@
     "GB"
    ],
    "comment": "Warhammer 40kのゲームプレイ映像のようです。（25字）"
+  },
+  {
+   "rank": 10,
+   "id": "asnrQ1UoBQM",
+   "title": "The Next Chapter for Bungie",
+   "channel": "Bungie",
+   "views": 712948,
+   "url": "https://www.youtube.com/watch?v=asnrQ1UoBQM",
+   "thumb": "https://i.ytimg.com/vi/asnrQ1UoBQM/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Bungieの新しいチャプターに関する映像のようです。（26字）"
   }
  ]
 }
