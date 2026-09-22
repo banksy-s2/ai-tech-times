@@ -5,6 +5,62 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>かつてApple Storeの店舗網を築いた建築家であるロン・ジョンソン氏が、シリコンバレーが推し進めるAIショッピングへの巨額の賭けに対して疑問を投げかけました。</description>
+</item>
+<item>
+<title>Anthropicが語るAIの脆弱性発見力、誇大広告に騙されない理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-summer-ai-hype-mit-tech-review.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-summer-ai-hype-mit-tech-review.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>MIT Tech Reviewが、AIを巡る一連の誇大広告と過熱する状況について報じました。最新の主張やインシデントの裏側を整理して伝えています。</description>
+</item>
+<item>
+<title>Teams会議をAIの教材にして業務知識に変える手法</title>
+<link>https://ai-tech-times.web.app/articles/20260922-teams-ai-agent-knowledge-conversion.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-teams-ai-agent-knowledge-conversion.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIエージェントの活用が広がる中、企業固有の仕事の進め方をどうAIに教えるかが課題となっています。Teams会議に埋もれた判断や経験則を変換する新たな手法とは何でしょうか。</description>
+</item>
+<item>
+<title>Appleの新Mac mini、M6搭載で300ドル値上げの理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-apple-m6-mac-mini-review.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-apple-m6-mac-mini-review.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Ars Technicaが報じたAppleの新型「Mac mini」レビューでは、M6チップによる進化が評価される一方、899ドルへの大幅な価格引き上げが話題となっています。</description>
+</item>
+<item>
+<title>Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ</title>
+<link>https://ai-tech-times.web.app/articles/20260922-neuro-sama-hollywood-live.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-neuro-sama-hollywood-live.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>インフルエンサー</category>
+<description>AI VTuberの「Neuro-sama」が、ハリウッドで初となるリアルライブを開催し、生バンドと共演することが明らかになりました。</description>
+</item>
+<item>
+<title>アメリカ財務長官、中国とのAI重大事案で意思疎通へ</title>
+<link>https://ai-tech-times.web.app/articles/20260922-us-china-ai-communication-channels.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-us-china-ai-communication-channels.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのベッセント財務長官が、中国との間で主導権争いが続くAIをめぐり、重大事案発生時の意思疎通手段を構築する考えを示しました。</description>
+</item>
+<item>
+<title>丸井グループは15期連続増配、日本郵船は株価最高値</title>
+<link>https://ai-tech-times.web.app/articles/20260922-marui-nippon-yusen-autumn-2026.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-marui-nippon-yusen-autumn-2026.html</guid>
+<pubDate>Tue, 22 Sep 2026 21:03:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>2026年秋の日本株市場において、「丸井グループ」と「日本郵船」の2銘柄に注目が集まっています。</description>
+</item>
+<item>
 <title>有名YouTuber妻が貯金残高を公開</title>
 <link>https://ai-tech-times.web.app/articles/20260922-famous-youtuber-wife-savings.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260922-famous-youtuber-wife-savings.html</guid>
@@ -187,61 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。</description>
-</item>
-<item>
-<title>Xが政府要請による投稿制限の通知を開始した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>Xは、各国政府の要請や現地法に基づき、投稿が非表示や表示順位の引き下げといった制限を受けた際に、ユーザーへ通知する機能を拡大すると発表しました。</description>
-</item>
-<item>
-<title>Verizonの光ケーブル切断、全米で数百便に影響した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米ニュージャージー州で工事作業員がVerizonの通信ケーブルを切断し、全米各地の空港で数百便の欠航や遅延が発生しました。</description>
-</item>
-<item>
-<title>ナスダックが約3か月半ぶり最高値、AI関連に買い</title>
-<link>https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>21日のニューヨーク株式市場で、ナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。イラン情勢への懸念後退が背景にあります。</description>
-</item>
-<item>
-<title>日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>大阪取引所の夜間取引において、日経平均先物が上昇し、1280円高の6万6380円を記録しました。</description>
-</item>
-<item>
-<title>ITmedia ビジネス：野球企業はなぜ黒字転換できたのか</title>
-<link>https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本企業</category>
-<description>資材や人件費の高騰で多くの企業が悩む中、野球業界ではトップ企業の多くが利益を伸ばし、追い風が吹いています。</description>
-</item>
-<item>
-<title>Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？</title>
-<link>https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html</guid>
-<pubDate>Tue, 22 Sep 2026 11:00:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>今年からコールドスリープに突入したPerfumeのあ～ちゃんこと西脇綾香が、イタリアのコモ湖で結婚式を挙げたことを自身のインスタグラムで報告しました。</description>
-</item>
-<item>
-<title>テキサス州知事アボット氏、データセンターの許可を停止へ</title>
-<link>https://ai-tech-times.web.app/articles/20260922-texas-data-center-permit-halt.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-texas-data-center-permit-halt.html</guid>
-<pubDate>Tue, 22 Sep 2026 10:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>テキサス州のアボット知事が、データセンターの許可停止を命令しました。2026年の中間選挙に向けた争点となっています。</description>
 </item>
 </channel></rss>

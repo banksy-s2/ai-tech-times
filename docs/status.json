@@ -1,21 +1,56 @@
 {
- "updated": "2026-09-22 20:02",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-22 21:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "有名YouTuber妻が貯金残高を公開",
-   "path": "/articles/20260922-famous-youtuber-wife-savings.html",
+   "title": "元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由",
+   "path": "/articles/20260922-ron-johnson-apples-stores-ai-shopping.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Anthropicが語るAIの脆弱性発見力、誇大広告に騙されない理由",
+   "path": "/articles/20260922-summer-ai-hype-mit-tech-review.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Teams会議をAIの教材にして業務知識に変える手法",
+   "path": "/articles/20260922-teams-ai-agent-knowledge-conversion.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Appleの新Mac mini、M6搭載で300ドル値上げの理由",
+   "path": "/articles/20260922-apple-m6-mac-mini-review.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ",
+   "path": "/articles/20260922-neuro-sama-hollywood-live.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "アメリカ財務長官、中国とのAI重大事案で意思疎通へ",
+   "path": "/articles/20260922-us-china-ai-communication-channels.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "丸井グループは15期連続増配、日本郵船は株価最高値",
+   "path": "/articles/20260922-marui-nippon-yusen-autumn-2026.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: OpenAI、9月29日に新AIエージェントを発表へ──ソフトウェア株のパニック",
+  "執筆失敗: Muse, Meta's extraordinarily privileged ",
+  "執筆失敗: Canadian province sues OpenAI over Tumbl",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 148,
+  "used": 174,
   "limit": 200
  }
 }
