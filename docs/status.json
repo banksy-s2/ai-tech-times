@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-22 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-22 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "テキサス州知事アボット氏、データセンターの許可を停止へ",
-   "path": "/articles/20260922-texas-data-center-permit-halt.html",
-   "cat": "シリコンバレー最速"
+   "title": "Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？",
+   "path": "/articles/20260922-perfume-achang-italy-wedding.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [
-  "執筆失敗: X will now tell users when governments h"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 66,
+  "used": 70,
   "limit": 200
  }
 }
