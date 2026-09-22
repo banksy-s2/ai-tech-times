@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 05:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 07:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,13 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Snorkel AI、評価額35億ドルに到達した理由](https://ai-tech-times.web.app/articles/20260923-snorkel-ai-triples-valuation-35b.html) — 2026-09-23 07:02: AIトレーニングデータの需要急増を背景に、設立7年のスタートアップ企業であるSnorkel AIが評価額を3倍に引き上げました。
+- [OpenAI、新モデル「GPT-6 Sol」を発表](https://ai-tech-times.web.app/articles/20260923-openai-launches-gpt-6-sol-and-luna.html) — 2026-09-23 07:02: OpenAIは、コスト削減とエラー削減を実現した新モデル「GPT-6 Sol」および「Luna」を発表しました。Astraと同じ系譜を持つとされています。
+- [Apple新型Mac miniとMac Studioが9月22日発売、ローカルAIは実用域へ](https://ai-tech-times.web.app/articles/20260923-apple-mac-mini-studio-review-2026.html) — 2026-09-23 07:02: Appleが発表した新型「Mac mini」と「Mac Studio」が9月22日に発売されます。ローカルAIがついに実用域に到達したと話題です。
+- [OpenAI、9月29日新AI発表でソフトウェア株はどうなる？](https://ai-tech-times.web.app/articles/20260923-openai-devday-software-stocks-panic.html) — 2026-09-23 07:02: OpenAIが米国時間2026年9月29日に年次開発者会議DevDayを開催します。この発表内容次第では、企業向けソフトウェア株全体に再び売りが広がる可能性があり、投資家の間で警戒感が高まっています。
+- [ShinyHuntersがFBIをハッキング、その深刻なリスクとは](https://ai-tech-times.web.app/articles/20260923-shinyhunters-claims-fbi-breach.html) — 2026-09-23 07:02: ハッキンググループのShinyHuntersが連邦捜査局（FBI）のシステムに侵入し、捜査員や採用応募者のデータを盗み出したと主張しています。この情報流出がもたらす重大な脅威とは何でしょうか。
+- [高市首相、トランプ大統領と会談し中国課題で連携へ](https://ai-tech-times.web.app/articles/20260923-takaichi-trump-summit-ny.html) — 2026-09-23 07:02: AI TECH TIMESの注目ニュースをお届けします。国連総会のためニューヨークを訪れている高市総理大臣が、アメリカのトランプ大統領と日米首脳会談を行いました。
+- [トランプ氏、イラン巡り国連で重大な決断を明かす](https://ai-tech-times.web.app/articles/20260923-trump-un-iran-decision.html) — 2026-09-23 07:02: 国連総会に臨んだトランプ氏が、イランへの対応について重大な決断を迫られていることを明らかにしました。その発言内容は、国連事務総長の懸念とは対照的なものとなっています。
 - [日経新聞：新TOPIXを企業が成長の起点に](https://ai-tech-times.web.app/articles/20260923-new-topix-growth-starting-point.html) — 2026-09-23 05:00: 日本経済新聞は社説において、新TOPIXを企業が成長を競い合う起点にすべきだと報じました。
 - [ホワイトハウスが「トランプTV」開始、その狙いとは](https://ai-tech-times.web.app/articles/20260923-white-house-trump-tv-launch.html) — 2026-09-23 04:00: アメリカの主要テレビ局がトランプ大統領に関する代表取材を一時取りやめる中、ホワイトハウスが新たに24時間配信を開始し物議を醸しています。
 - [Xboxが3600人削減、アクティビジョンが次期Halo開発へ](https://ai-tech-times.web.app/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html) — 2026-09-23 04:00: Xboxが発表した大規模な人員削減と組織の「リセット」の一環として、傘下のアクティビジョンが人気ゲーム「Halo」の次回作を手がけることが明らかになりました。
@@ -35,20 +42,13 @@
 - [Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ](https://ai-tech-times.web.app/articles/20260922-neuro-sama-hollywood-live.html) — 2026-09-22 21:03: AI VTuberの「Neuro-sama」が、ハリウッドで初となるリアルライブを開催し、生バンドと共演することが明らかになりました。
 - [アメリカ財務長官、中国とのAI重大事案で意思疎通へ](https://ai-tech-times.web.app/articles/20260922-us-china-ai-communication-channels.html) — 2026-09-22 21:03: アメリカのベッセント財務長官が、中国との間で主導権争いが続くAIをめぐり、重大事案発生時の意思疎通手段を構築する考えを示しました。
 - [丸井グループは15期連続増配、日本郵船は株価最高値](https://ai-tech-times.web.app/articles/20260922-marui-nippon-yusen-autumn-2026.html) — 2026-09-22 21:03: 2026年秋の日本株市場において、「丸井グループ」と「日本郵船」の2銘柄に注目が集まっています。
-- [有名YouTuber妻が貯金残高を公開](https://ai-tech-times.web.app/articles/20260922-famous-youtuber-wife-savings.html) — 2026-09-22 20:02: 有名YouTuberの美人妻が貯金残高を公開し、ネット上で大きな話題となっています。「信じ難いでございます」といった声が寄せられています。
-- [Morphotonics、4000万ユーロ調達の狙い](https://ai-tech-times.web.app/articles/20260922-morphotonics-raises-40m-data-centers.html) — 2026-09-22 19:00: ディープテック企業のMorphotonicsが、新たな資金調達を実施しました。ディスプレイ技術をデータセンターへ拡張するため、総額4000万ユーロを獲得しています。
-- [Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか](https://ai-tech-times.web.app/articles/20260922-tesla-vinfast-ev-vietnam.html) — 2026-09-22 19:00: 米EV大手のTeslaがベトナムに子会社を設立し、同国市場への参入に向けた動きを見せました。急成長する東南アジア最大のEV市場で、地場最大のライバルとどのような戦いを繰り広げるのでしょうか。
-- [古書店で売上5倍の大量注文、背景にAI学習か](https://ai-tech-times.web.app/articles/20260922-used-bookstores-large-orders-ai-learning.html) — 2026-09-22 18:01: 日本各地のオンライン古書店で今年8月ごろから書籍の大量注文が相次いでいます。業界内では生成AIの学習データを集める目的ではないかという見方が広がっています。
-- [大和鋼管工業がSaaS管理を「情シスAI」で解決した理由](https://ai-tech-times.web.app/articles/20260922-daiwa-ko-saas-management.html) — 2026-09-22 18:01: SaaSの増加によりライセンス管理が複雑化していた大和鋼管工業が、効率化に向けた一元化の動きを見せました。
-- [米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか](https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html) — 2026-09-22 17:06: 米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。
-- [SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由](https://ai-tech-times.web.app/articles/20260922-spacexai-grok-4-7-announced.html) — 2026-09-22 17:06: SpaceXAIは、同社最高性能となるAIモデル「Grok 4.7」を発表しました。価格と速度を維持しながら、コーディングや業務タスクの性能を強化しています。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
 - 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
 - 3位: [Rayman Legends Retold - Game Overview Trailer](https://www.youtube.com/watch?v=w3JsAX5cuho)
 
-## AI用語事典 (全1698語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1702語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

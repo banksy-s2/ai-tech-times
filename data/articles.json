@@ -100982,5 +100982,265 @@
   "date": "2026-09-23",
   "time": "05:00",
   "path": "/articles/20260923-new-topix-growth-starting-point.html"
+ },
+ {
+  "title": "Snorkel AI、評価額35億ドルに到達した理由",
+  "lead": "AIトレーニングデータの需要急増を背景に、設立7年のスタートアップ企業であるSnorkel AIが評価額を3倍に引き上げました。",
+  "summary3": [
+   "Snorkel AIが3億5000万ドルを調達",
+   "企業評価額は35億ドル規模に到達",
+   "データアズアサービス展開を加速"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。AIトレーニングデータの需要が急増する中、設立から7年を迎えるスタートアップ企業のSnorkel AIが、新たに3億5000万ドルのシリーズEラウンドの資金調達を実施しました。",
+   "今回の大型資金調達により、同社の企業評価額は35億ドルに達し、従来の3倍へと急拡大を遂げています。",
+   "同社はデータアズアサービスの提供をさらに推進し、AI開発に不可欠なデータ需要の取り込みを加速させていく方針です。"
+  ],
+  "tags": [
+   "Snorkel AI",
+   "資金調達",
+   "AIトレーニングデータ"
+  ],
+  "slug": "snorkel-ai-triples-valuation-35b",
+  "people": [],
+  "terms": [
+   {
+    "name": "Snorkel AI",
+    "type": "company",
+    "desc": "AIトレーニングデータの作成や管理を効率化するデータアズアサービスを提供する設立7年のスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+  "category": "ai",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-snorkel-ai-triples-valuation-35b.html"
+ },
+ {
+  "title": "OpenAI、新モデル「GPT-6 Sol」を発表",
+  "lead": "OpenAIは、コスト削減とエラー削減を実現した新モデル「GPT-6 Sol」および「Luna」を発表しました。Astraと同じ系譜を持つとされています。",
+  "summary3": [
+   "OpenAIが新モデルを発表",
+   "コストとエラーの削減を実現",
+   "Astraと同じ系譜のモデル"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。OpenAIは、新モデルとなる「GPT-6 Sol」および「Luna」の提供を開始すると発表しました。これらの新モデルは、同社のプロジェクトであるAstraと同じ系譜から生まれたものだとしています。",
+   "今回の発表によると、新しい2つのモデルは、これまでのモデルと比較してより低いコストでの運用が可能になり、さらにエラーの発生件数を削減することに成功しているということです。",
+   "コストパフォーマンスの向上と精度の改善を同時に実現したとされる今回の新モデルが、今後のAI市場や開発者の利用環境にどのような影響を与えるのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "GPT-6",
+   "AI技術"
+  ],
+  "slug": "openai-launches-gpt-6-sol-and-luna",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコに拠点を置く、対話型AIなどを開発する最先端の人工知能研究企業です。"
+   },
+   {
+    "name": "GPT-6 Sol",
+    "type": "ai",
+    "desc": "OpenAIが開発した最新のAIモデルであり、低コスト化とエラー削減を実現しています。"
+   },
+   {
+    "name": "Luna",
+    "type": "ai",
+    "desc": "OpenAIがGPT-6 Solと同時に発表した、コストとエラーの削減を特徴とする新モデルです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+  "category": "ai",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-openai-launches-gpt-6-sol-and-luna.html"
+ },
+ {
+  "title": "Apple新型Mac miniとMac Studioが9月22日発売、ローカルAIは実用域へ",
+  "lead": "Appleが発表した新型「Mac mini」と「Mac Studio」が9月22日に発売されます。ローカルAIがついに実用域に到達したと話題です。",
+  "summary3": [
+   "新型Mac miniなどが9月22日発売",
+   "ローカルAIがいよいよ実用域へ進化",
+   "エージェントAIで事務仕事が変わる"
+  ],
+  "body": [
+   "ニュースサイト「AI TECH TIMES」編集部です。Appleが「Mac mini」および「Mac Studio」の新モデルを発表し、ついに2026年9月22日に発売されることが明らかになりました。",
+   "今回の新型モデルでは、ローカルAIがついに“実用域”へと達したことが大きな注目を集めています。エージェントAIに実際の事務仕事を任せる検証が行われ、その驚異的な進化が明らかになりました。",
+   "発表から約1カ月を経ての発売となる新型Mac miniとMac Studioが、私たちの日常の事務作業やAI活用にどのような変化をもたらすのか、今後の詳細なレビューにも大きな期待が寄せられています。"
+  ],
+  "tags": [
+   "Mac mini",
+   "Mac Studio",
+   "Apple"
+  ],
+  "slug": "apple-mac-mini-studio-review-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置き、iPhoneやMacなどのハードウェアやソフトウェアを開発・販売する世界的な大手IT企業。"
+   },
+   {
+    "name": "Mac mini",
+    "type": "ai",
+    "desc": "Appleが開発・販売する、コンパクトな筐体が特徴のデスクトップ型Macシリーズの製品。"
+   },
+   {
+    "name": "Mac Studio",
+    "type": "ai",
+    "desc": "Appleが提供する、クリエイターやプロフェッショナル向けの高性能なデスクトップ型Mac製品。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news024.html",
+  "category": "ai_jp",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-apple-mac-mini-studio-review-2026.html"
+ },
+ {
+  "title": "OpenAI、9月29日新AI発表でソフトウェア株はどうなる？",
+  "lead": "OpenAIが米国時間2026年9月29日に年次開発者会議DevDayを開催します。この発表内容次第では、企業向けソフトウェア株全体に再び売りが広がる可能性があり、投資家の間で警戒感が高まっています。",
+  "summary3": [
+   "OpenAIが9月29日にDevDayを開催へ",
+   "新AIエージェントの発表内容に高い警戒感",
+   "ソフトウェア株への売りが広がる懸念がある"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。企業向けソフトウェア株の投資家にとって、OpenAIの新たな発表は警戒材料となる可能性があります。OpenAIは米国時間2026年9月29日、サンフランシスコのフォート・メイソンで年次開発者会議DevDayを開催すると発表しました。",
+   "今回のDevDayで発表される内容によっては、ソフトウェア株全体に再び売りが広がりかねない状況となっています。市場関係者の間では、新たなAIエージェントの登場が既存のソフトウェア業界にどのような影響を与えるのか、大きな注目が集まっています。",
+   "同社の最高経営責任者らの動きも含め、今回の発表が今後の株式市場や投資家たちの財布事情にどう関わるのか、慎重に見極める必要があります。今後の動向から目が離せない展開が続いています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "ソフトウェア株",
+   "DevDay"
+  ],
+  "slug": "openai-devday-software-stocks-panic",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカのサンフランシスコを拠点とする人工知能の研究開発企業で、最先端のAI技術を複数手掛けています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://forbesjapan.com/articles/detail/105213",
+  "category": "ai_jp",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-openai-devday-software-stocks-panic.html"
+ },
+ {
+  "title": "ShinyHuntersがFBIをハッキング、その深刻なリスクとは",
+  "lead": "ハッキンググループのShinyHuntersが連邦捜査局（FBI）のシステムに侵入し、捜査員や採用応募者のデータを盗み出したと主張しています。この情報流出がもたらす重大な脅威とは何でしょうか。",
+  "summary3": [
+   "ShinyHuntersがFBIを侵害と主張",
+   "捜査員や応募者の個人情報が盗難",
+   "外国への協力強要という脅威に"
+  ],
+  "body": [
+   "ハッキンググループのShinyHuntersが、アメリカの連邦捜査局（FBI）のシステムを侵害し、捜査員や採用応募者のデータを盗み出したと主張していることが明らかになりました。TechCrunchが報じています。",
+   "今回のデータ流出では、捜査員らの個人情報が大量に取得されたとされています。この個人情報の窃盗は、重大な防諜上の脅威を引き起こす可能性があります。",
+   "具体的には、捜査員やその家族が外国政府への協力を脅迫されるリスクが懸念されており、今後の安全保障上の影響が危惧されています。"
+  ],
+  "tags": [
+   "サイバーセキュリティ",
+   "FBI",
+   "データ流出"
+  ],
+  "slug": "shinyhunters-claims-fbi-breach",
+  "people": [],
+  "terms": [
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジーニュースメディアで、スタートアップやIT業界の動向を専門に報じています。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+  "category": "silicon",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-shinyhunters-claims-fbi-breach.html"
+ },
+ {
+  "title": "高市首相、トランプ大統領と会談し中国課題で連携へ",
+  "lead": "AI TECH TIMESの注目ニュースをお届けします。国連総会のためニューヨークを訪れている高市総理大臣が、アメリカのトランプ大統領と日米首脳会談を行いました。",
+  "summary3": [
+   "高市首相がトランプ大統領と会談",
+   "中国をめぐる諸課題を意見交換",
+   "米中首脳会談を控え緊密に連携"
+  ],
+  "body": [
+   "高市総理大臣は、国連総会のため訪れているアメリカのニューヨークで、トランプ大統領と日米首脳会談を行いました。",
+   "今回の会談では、24日に控えた米中首脳会談を念頭に置いた議論が交わされました。中国をめぐるさまざまな諸課題について意見を交わし、日米両国が今後も緊密に連携していく方針を確認しました。",
+   "外交上の重要な局面が続く中、日米の首脳間における緊密な意思疎通がどのように影響していくのか、今後の動向に引き続き注目が集まります。"
+  ],
+  "tags": [
+   "政治",
+   "日米首脳会談",
+   "国際情勢"
+  ],
+  "slug": "takaichi-trump-summit-ny",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国大統領。ニューヨークでの日米首脳会談に臨んだ。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+  "category": "world",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-takaichi-trump-summit-ny.html"
+ },
+ {
+  "title": "トランプ氏、イラン巡り国連で重大な決断を明かす",
+  "lead": "国連総会に臨んだトランプ氏が、イランへの対応について重大な決断を迫られていることを明らかにしました。その発言内容は、国連事務総長の懸念とは対照的なものとなっています。",
+  "summary3": [
+   "トランプ氏が国連でイラン対応に言及",
+   "和平か消滅か重大な決断を迫られる",
+   "国連事務総長の警告とは対照的な姿勢"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によると、アメリカの政治家であるトランプ氏は、国連の場においてイランに対するアプローチについて重大な決断を下す立場にあると語りました。同氏は、和平合意を結ぶか、それともイランを消滅させるかの選択を迫られているとしています。",
+   "このトランプ氏の発言は、同日により先立って国連事務総長を務めるアントニオ・グテーレス氏が述べた見解と大きく異なるものでした。グテーレス氏は、世界的な分断がますます深まりつつあることに対して強い警告を発していました。",
+   "国際社会の緊張感が高まる中、イランを巡る今後の動向やトランプ氏が下す最終的な判断に世界中からの視線が注がれています。さらなる外交的展開や各国の反応について、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "トランプ",
+   "イラン",
+   "国連"
+  ],
+  "slug": "trump-un-iran-decision",
+  "people": [
+   {
+    "name": "トランプ氏",
+    "bio": "アメリカ合衆国の政治家であり、国際情勢において大きな影響力を持つ主要な指導者の一人です。"
+   },
+   {
+    "name": "アントニオ・グテーレス氏",
+    "bio": "国際連合の事務総長を務め、世界全体の平和と安全や地球規模の課題に取り組む外交官です。"
+   }
+  ],
+  "terms": [],
+  "source": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+  "category": "world",
+  "date": "2026-09-23",
+  "time": "07:02",
+  "path": "/articles/20260923-trump-un-iran-decision.html"
  }
 ]
