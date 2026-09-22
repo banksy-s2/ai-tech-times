@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
-  "https://www.techmeme.com/260803/p9#a260803p9",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53U2pBc0Fnd3RLVHFLTENtWk14QzBNazNYMXpSQlNxaVQ0WS1FNFFPVGd2cnhhM0pWWTluNHlUZXlya0RQeG9acTQ3VTQ?oc=5",
   "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
   "https://www.itmedia.co.jp/news/article/2608/03/2000000365/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260922de51835",
   "https://news.web.nhk/newsweb/na/nd-20260922de51788",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE54LThhNjJTdWpaa09fZTJCOXJTYUFTNTdhNmFoSXJhRXlvVElPX2NvY1AxZVM5eENQby1rc1AxV0xZQ1MtdmlRdzRCc3JhWHZhUWRGMjFWYzZsMzAzQnFLR1NmcXhvdGtCUkFISUxQV0NCcHp0clBHX05EUWh3Mmc?oc=5",
-  "https://news.google.com/rss/articles/CBMizgJBVV95cUxNX2xRS18zTEdmVURTeDU1RGdTWXFMY196XzE0eXFwbHZZYV8yYWlQVG0xNHlvZXg2SkRmMHpoQnQwalprS3k2MXpTVHAxQXJFazRINW4xMGs0ODRBYkVwQXdSbHdkZjh6VFVPSzk1dktFVjhBdW56OHlGeGQ3dkR3Vk05S0lVbnllR25xV2FxYTFoYjFaMGVRcG5xOUFEdDlyUjNyQ2k5UnBJMl90Z3VqUXVhdTBqSTJUdUo4UUVCdkF1NWFITkJGdk1aakpHM200eW9JdzdUaUVzaDdhelIyNmxudEV4TWtLYjRPVEFnNFo2S1FTSlItMjdPelVoM1plTkYtM3dTVHU2eHNrZXJLNTk2dFlSZDRqdVNKbWlpRWx2QjhUekttRm5wX09EdzJla0tJM0ItT2dEcnZxdUJhdWEtWVAzUDdEQlBEaE13?oc=5"
+  "https://news.google.com/rss/articles/CBMizgJBVV95cUxNX2xRS18zTEdmVURTeDU1RGdTWXFMY196XzE0eXFwbHZZYV8yYWlQVG0xNHlvZXg2SkRmMHpoQnQwalprS3k2MXpTVHAxQXJFazRINW4xMGs0ODRBYkVwQXdSbHdkZjh6VFVPSzk1dktFVjhBdW56OHlGeGQ3dkR3Vk05S0lVbnllR25xV2FxYTFoYjFaMGVRcG5xOUFEdDlyUjNyQ2k5UnBJMl90Z3VqUXVhdTBqSTJUdUo4UUVCdkF1NWFITkJGdk1aakpHM200eW9JdzdUaUVzaDdhelIyNmxudEV4TWtLYjRPVEFnNFo2S1FTSlItMjdPelVoM1plTkYtM3dTVHU2eHNrZXJLNTk2dFlSZDRqdVNKbWlpRWx2QjhUekttRm5wX09EdzJla0tJM0ItT2dEcnZxdUJhdWEtWVAzUDdEQlBEaE13?oc=5",
+  "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+  "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
  ],
  "titles": [
-  "米財務長官「植田総裁は正しいことをする」G20前に何を語ったか",
-  "SBI、BASEに80億円で20%出資し資本業務提携",
-  "日経平均午前1043円安 崩れるAI半導体、FRBタカ派的発言が冷や水 - 日本経済新聞",
-  "日経平均午前1043円安、AI半導体崩れFRB発言が冷や水",
   "ガンホーが続伸、ソニーＧとの資本・業務提携を好感(ウエルスアドバイザー) - Yahoo!ファイナンス",
   "ガンホー続伸、ソニーGとの提携を好感",
   "Claude Session URL appended to commit messages and PR descriptions by default",
@@ -4001,6 +3997,10 @@
   "シルバーウィークの日経平均先物急伸、「Muse」人気で米テック株高騰（Bloomberg） - Yahoo!ニュース",
   "日経平均先物急伸、Muse人気で米テック株高騰",
   "県内の上場企業が一堂に 個人投資家へ魅力発信「IRフォーラム2026」【新潟】 - UX新潟テレビ21",
-  "新潟の県内上場企業が個人投資家へ魅力発信「IRフォーラム2026」"
+  "新潟の県内上場企業が個人投資家へ魅力発信「IRフォーラム2026」",
+  "AI chatbots give wrong answers to financial queries 'most of the time'",
+  "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+  "金融質問にAIチャットボットが「大半で」誤回答する理由",
+  "ロビン・ウィリアムズの娘、AI動画作成に「恥を知れ」と怒り"
  ]
 }

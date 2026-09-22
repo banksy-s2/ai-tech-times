@@ -1,26 +1,61 @@
 {
- "updated": "2026-09-22 16:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-22 17:06",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "金融質問にAIチャットボットが「大半で」誤回答する理由",
-   "path": "/articles/20260922-ai-chatbots-wrong-answers-financial-queries.html",
+   "title": "米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか",
+   "path": "/articles/20260922-us-border-surveillance-towers-investigation.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "ロビン・ウィリアムズの娘、AI動画作成に「恥を知れ」と怒り",
-   "path": "/articles/20260922-robin-williams-daughter-ai-videos.html",
-   "cat": "AI(海外)"
+   "title": "SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由",
+   "path": "/articles/20260922-spacexai-grok-4-7-announced.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "アリババ株3%高、新AIチップとデータセンター拡大の狙い",
+   "path": "/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Xiaomi、新型オープンモデル「MiMo-V2.6」公開の狙い",
+   "path": "/articles/20260922-xiaomi-debuts-mimo-v2-6-models.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "総フォロワー300万人超のインフルエンサー、メニュー外の注文断られ物議",
+   "path": "/articles/20260922-influencer-menu-dispute.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "北朝鮮ミサイル飛行距離約1000キロ、日本への影響は",
+   "path": "/articles/20260922-north-korea-missile-1000km-range.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米銀株に陰り、経営陣が業績減速に予防線を張る理由",
+   "path": "/articles/20260922-us-bank-stocks-caution.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ジャパンリーグとルートイン BC リーグが業務提携を締結",
+   "path": "/articles/20260922-japan-league-bc-league-business-alliance.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: The man who built Apple’s stores doesn’t",
+  "執筆失敗: 【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50ト",
+  "執筆失敗: Canadian province sues OpenAI over Tumbl",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 111,
+  "used": 136,
   "limit": 200
  }
 }

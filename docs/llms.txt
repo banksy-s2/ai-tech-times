@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 16:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 17:06 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか](https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html) — 2026-09-22 17:06: 米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。
+- [SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由](https://ai-tech-times.web.app/articles/20260922-spacexai-grok-4-7-announced.html) — 2026-09-22 17:06: SpaceXAIは、同社最高性能となるAIモデル「Grok 4.7」を発表しました。価格と速度を維持しながら、コーディングや業務タスクの性能を強化しています。
+- [アリババ株3%高、新AIチップとデータセンター拡大の狙い](https://ai-tech-times.web.app/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html) — 2026-09-22 17:06: 中国の巨大テック企業であるアリババが、香港市場で株価を3%上昇させました。新型AIチップの発表と、グローバルなデータセンター網の大幅な拡大計画が好感されています。
+- [Xiaomi、新型オープンモデル「MiMo-V2.6」公開の狙い](https://ai-tech-times.web.app/articles/20260922-xiaomi-debuts-mimo-v2-6-models.html) — 2026-09-22 17:06: AI TECH TIMESがお伝えする最新ニュース。XiaomiがオープンウェイトのオムニモーダルAIモデル「MiMo-V2.6 Pro」および「Flash」を発表しました。多くのエージェントベンチマークにおいて高い性能を発揮するとしています。
+- [総フォロワー300万人超のインフルエンサー、メニュー外の注文断られ物議](https://ai-tech-times.web.app/articles/20260922-influencer-menu-dispute.html) — 2026-09-22 17:06: 総フォロワー数300万人を超える人気のインフルエンサーが、飲食店でメニューにないドリンクの注文を断られた際の発言が物議を醸しています。
+- [北朝鮮ミサイル飛行距離約1000キロ、日本への影響は](https://ai-tech-times.web.app/articles/20260922-north-korea-missile-1000km-range.html) — 2026-09-22 17:06: 北朝鮮が20日に行ったとする新型兵器の試験について、韓国の専門家から見解が示されました。発射されたミサイルは日本の一部も射程に収めていた可能性があります。
+- [米銀株に陰り、経営陣が業績減速に予防線を張る理由](https://ai-tech-times.web.app/articles/20260922-us-bank-stocks-caution.html) — 2026-09-22 17:06: 米銀株の動向に陰りが見え始めており、経営陣が業績減速に対する予防線を張る動きが出ています。
+- [ジャパンリーグとルートイン BC リーグが業務提携を締結](https://ai-tech-times.web.app/articles/20260922-japan-league-bc-league-business-alliance.html) — 2026-09-22 17:06: AI TECH TIMESがお伝えする企業の最新動向ニュース。ジャパンリーグとルートイン BC リーグの間で、業務提携が締結されたことが発表されました。
 - [金融質問にAIチャットボットが「大半で」誤回答する理由](https://ai-tech-times.web.app/articles/20260922-ai-chatbots-wrong-answers-financial-queries.html) — 2026-09-22 16:00: 英Financial Times紙の報道によると、AIチャットボットが金融に関する質問に対して「大半の時間」で間違った回答を提供していることが明らかになりました。
 - [ロビン・ウィリアムズの娘、AI動画作成に「恥を知れ」と怒り](https://ai-tech-times.web.app/articles/20260922-robin-williams-daughter-ai-videos.html) — 2026-09-22 16:00: 故ロビン・ウィリアムズの娘が、ファンによる故人のAI動画作成に対して「恥を知れ」と強い言葉で批判し、物議を醸しています。
 - [新潟の県内上場企業が個人投資家へ魅力発信「IRフォーラム2026」](https://ai-tech-times.web.app/articles/20260922-ir-forum-2026-niigata.html) — 2026-09-22 15:00: 新潟県内の上場企業が一堂に会し、個人投資家に向けて自社の魅力を発信するイベント「IRフォーラム2026」が開催されました。
@@ -34,21 +42,13 @@
 - [Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由](https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html) — 2026-09-22 12:01: プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。
 - [Xが政府要請による投稿制限の通知を開始した理由](https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html) — 2026-09-22 12:01: Xは、各国政府の要請や現地法に基づき、投稿が非表示や表示順位の引き下げといった制限を受けた際に、ユーザーへ通知する機能を拡大すると発表しました。
 - [Verizonの光ケーブル切断、全米で数百便に影響した理由](https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html) — 2026-09-22 12:01: 米ニュージャージー州で工事作業員がVerizonの通信ケーブルを切断し、全米各地の空港で数百便の欠航や遅延が発生しました。
-- [ナスダックが約3か月半ぶり最高値、AI関連に買い](https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html) — 2026-09-22 12:01: 21日のニューヨーク株式市場で、ナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。イラン情勢への懸念後退が背景にあります。
-- [日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由](https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html) — 2026-09-22 12:01: 大阪取引所の夜間取引において、日経平均先物が上昇し、1280円高の6万6380円を記録しました。
-- [ITmedia ビジネス：野球企業はなぜ黒字転換できたのか](https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html) — 2026-09-22 12:01: 資材や人件費の高騰で多くの企業が悩む中、野球業界ではトップ企業の多くが利益を伸ばし、追い風が吹いています。
-- [Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？](https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html) — 2026-09-22 11:00: 今年からコールドスリープに突入したPerfumeのあ～ちゃんこと西脇綾香が、イタリアのコモ湖で結婚式を挙げたことを自身のインスタグラムで報告しました。
-- [テキサス州知事アボット氏、データセンターの許可を停止へ](https://ai-tech-times.web.app/articles/20260922-texas-data-center-permit-halt.html) — 2026-09-22 10:00: テキサス州のアボット知事が、データセンターの許可停止を命令しました。2026年の中間選挙に向けた争点となっています。
-- [ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景](https://ai-tech-times.web.app/articles/20260922-mainframe-migration-ai-failure.html) — 2026-09-22 09:00: 生成AIがあればレガシー刷新は楽になるという期待に冷や水を浴びせる予測が発表されました。ITmedia AI+が2026年度上半期のシステム刷新関連記事トップ10を紹介しています。
-- [米Claudeに「代理回答」させる中国AIのKimi、アンソロピックが不正指摘](https://ai-tech-times.web.app/articles/20260922-anthropic--kimi-claude-proxy-response.html) — 2026-09-22 09:00: 米アンソロピックは、中国企業が開発する人工知能（AI）「Kimi」による新たな不正使用を指摘しました。利用者の質問を高性能AI「クロード」に転送し、自社の回答として偽って示す手口が確認されています。
-- [カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名](https://ai-tech-times.web.app/articles/20260922-california-ai-data-center-rules.html) — 2026-09-22 08:00: AI TECH TIMESは、カリフォルニア州で成立したAIデータセンターの規制強化に関する最新情報をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)
 - 2位: [THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix](https://www.youtube.com/watch?v=RjEZaUBbUvU)
 - 3位: [Escape From Playtime | Release Date Trailer](https://www.youtube.com/watch?v=fAXzLmsbrd8)
 
-## AI用語事典 (全1685語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1688語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
@@ -63,8 +63,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
+- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした報道を行う日本の代表的な日刊新聞です。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): SpaceXやTeslaなどを率い、宇宙開発からAI分野まで幅広く事業を展開するカリスマ的実業家です。
-- [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う大手日刊新聞です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なマルチモーダル対応のAIモデルであり、様々なタスクを自律的に処理する能力を持っています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [Claude Codeとは](https://ai-tech-times.web.app/term/claude-code.html): Anthropicが提供する、開発作業やエージェント管理などの機能を備えたAI関連のツールやシステムです。
