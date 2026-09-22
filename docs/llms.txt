@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 12:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 13:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [高市首相がアメリカ到着、トランプ大統領と日米首脳会談へ](https://ai-tech-times.web.app/articles/20260922-takaichi-us-visit-japan-us-summit.html) — 2026-09-22 13:00: 高市総理大臣は国連総会に出席するためアメリカに到着し、現地でトランプ大統領との日米首脳会談を行う方向で最終調整に入りました。
+- [CNNなど3社がトランプ政権を提訴、なぜホワイトハウス取材禁止に](https://ai-tech-times.web.app/articles/20260922-cnn-sues-white-house-over-ban.html) — 2026-09-22 13:00: アメリカのトランプ大統領がCNNなどメディア3社のホワイトハウスでの取材を禁止したことを受け、3社が差し止めを求める訴えを起こしました。
 - [元会計士が開発したTabby、AIで会計士を不要にする理由](https://ai-tech-times.web.app/articles/20260922-tabby-ai-accountants-obsolete.html) — 2026-09-22 12:01: TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。
 - [Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開](https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html) — 2026-09-22 12:01: AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。
 - [キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由](https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html) — 2026-09-22 12:01: 製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。
@@ -40,8 +42,6 @@
 - [MetaのMuse、ChatGPT超えの初期普及を示す](https://ai-tech-times.web.app/articles/20260922-metas-muse-outpacing-chatgpt.html) — 2026-09-22 07:01: Metaの新しいAIエージェント「Muse」が、米国とカナダのモバイル市場において、ChatGPTの初期を上回るダウンロード数とアクティブユーザー数を記録したことが分かりました。
 - [Apple、Siri未実装巡り2.5億ドルを支払う和解金申請を受付開始](https://ai-tech-times.web.app/articles/20260922-apple-siri-ai-settlement-claims.html) — 2026-09-22 07:01: Appleは、AI機能がアップグレードされたSiriを提供しなかったとする訴訟をめぐり、2億5000万ドルの支払いに合意しました。対象となるiPhoneユーザーは、現在賠償金の請求手続きを行うことができます。
 - [Apple製AIとオフラインで会話、無料アプリの実力](https://ai-tech-times.web.app/articles/20260922-locally-ai-apple-foundation-models.html) — 2026-09-22 07:01: 2026年9月に登場したiOS 27やmacOS 27に搭載のApple製AIモデル「Apple Foundation Models」と、テキストや画像認識でチャットできる機能が無料アプリ「Locally AI」に追加されました。
-- [判断特化型AI「Jev」を実際に試してみた](https://ai-tech-times.web.app/articles/20260922-jev-guide-with-examples.html) — 2026-09-22 07:01: テキストを生成しない判断特化型AI「Jev」の特徴や使い方を、実際の具体例を交えて解説します。
-- [カイロスパワーがサムスンから最大1億ドル獲得、グーグル向け原発建設へ](https://ai-tech-times.web.app/articles/20260922-kairos-power-samsung-google-nuclear.html) — 2026-09-22 07:01: グーグルへの電力供給を目指す米カイロスパワーが、サムスンから最大1億ドルの資金調達を行い、5万キロワットの原子力発電所建設を進めると発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)

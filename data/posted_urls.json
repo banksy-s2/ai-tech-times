@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MHNCSnNDY2JDOGVvS212cjB4a1ZkTmpmd0gyN2p1QkVmbmJ4cmc0M21FOU5OeWdZRzJEREVSRERFN1NnNDh5bHlQdWItWXpIaUhuUXVUaFJvZlNHZ1JxSmx2VGh1UExXNndRZQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkWVJqOTdCcWZXQzlRdklSMjk3TkNYTDNVdmFyYWt1S0FTZnhUOENnX2JHbkZjanMxTjFWLWRySTFjbGNCQm5WYVFkNndNSk1xbjV0M0lSVEl0bWR1OW1r?oc=5",
   "https://www.itmedia.co.jp/business/articles/2608/03/news005.html",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHl1dWtIS1dzZUJJSjlCaDlBYUJ4bW5uV0E0d09QQXVEdWtxNXFKUlEwN1A1X0ktc09MWVNtUkE3T2VHa214TUNfSXJvX1Rha096UnNMaU9wMjNMMEdPTk9LR0JwUTZSYnZjeXVyUjVrZ004VDNQSlBLdG1Xam5raWJRR2hPLWM?oc=5",
   "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
@@ -1999,13 +1997,11 @@
   "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
   "https://news.web.nhk/newsweb/na/nd-20260922de51819",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoc1VPMVhXbE5aMFY0eV9TTDRrVk5oRXlYaHJQc1RGbWNHejZZSkItNzRmVnpWOE5MNElTamV3SUN6cFVVNjNpU3AwLXhhaURONnFQUXE5bjhORExkVUJoWDVCcFVoQWp3NkliZg?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2609/22/news015.html"
+  "https://www.itmedia.co.jp/business/articles/2609/22/news015.html",
+  "https://news.web.nhk/newsweb/na/nd-20260922de51835",
+  "https://news.web.nhk/newsweb/na/nd-20260922de51788"
  ],
  "titles": [
-  "SBI、ネットショップのBASEと資本業務提携 80億円で20%出資 - 日本経済新聞",
-  "テキサス州知事、Flock製AIカメラへの3000万ドル超の資金凍結へ",
-  "パナソニックHDがAI・ロボティクス新本部、なぜトップに榊原氏？",
-  "参議院ホームページが17年ぶり刷新、30万未満の案件に",
   "イーロン・マスク氏の新型タービン製造、公害問題が浮上",
   "マイク・ムーア氏が巨大タバコに勝った手法、MetaとSNSにも通用するのか",
   "日本ハムの2軍拠点移転、恵庭へなぜ？タダ見から推し活の聖地へ",
@@ -4001,6 +3997,10 @@
   "Verizonの光ケーブル切断、全米で数百便に影響した理由",
   "ナスダックが約3か月半ぶり最高値、AI関連に買い",
   "日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由",
-  "ITmedia ビジネス：野球企業はなぜ黒字転換できたのか"
+  "ITmedia ビジネス：野球企業はなぜ黒字転換できたのか",
+  "高市首相 国連総会出席のためアメリカ到着 日米首脳会談へ",
+  "ホワイトハウスでの取材禁止 CNNなど3社が差し止め求め提訴",
+  "高市首相がアメリカ到着、トランプ大統領と日米首脳会談へ",
+  "CNNなど3社がトランプ政権を提訴、なぜホワイトハウス取材禁止に"
  ]
 }
