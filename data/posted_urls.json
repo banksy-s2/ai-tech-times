@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTzZXLWItVG1zeVVwbVktbXRDX1lXc1RvaUo0N1ZYNkxSY0k5Nk0zVmtjVVotYTBmUFBmamctYm9JRlNvT3VaVWduUmY0RDY5OWc?oc=5",
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URjl3OExWRlVLUlZCQUVHRkh6NkVZRTN0MS1sVlVVd1phUEtCT1RSaDVjNGdSSWVnUElFQWJFOUxOZ05nb1k4SG9NVW9CSlIzYzhFTEZR?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015195291000",
   "https://news.web.nhk/newsweb/na/na-k10015195081000",
   "https://news.web.nhk/newsweb/na/na-k10015195391000",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSDNEMzNqdTQ2VkVMTEFPVjhLV3ZDNGZTMklhTTd2eG1DYXNxd2xLam9UR3ZxLS1rM0J1QVNiRVc0YjZld0laVlRTX0k1VnhoT040TWV0NnYyMVpqcUVXbVJlLUQyeW5SSFVhUQ?oc=5",
   "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRlVhMUU0UVVNWTBiRFkzRjBNZlFrQ3JZZ2NXSExpMmJqSy1fdmxwRlRsMWFRVE9DNXppczBRQ2Exd0Izb3EzU09rY0hiUUFDQkpfY0E3bDlfcmVFRmdvV1l5cmtwUXNnVnc?oc=5",
   "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
-  "https://kn.itmedia.co.jp/kn/article/2609/21/2000001655/"
+  "https://kn.itmedia.co.jp/kn/article/2609/21/2000001655/",
+  "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+  "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html"
  ],
  "titles": [
-  "アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が",
-  "タイ政府、最大500万人が生成AIを無料化、なぜ費用を負担するのか",
-  "長期金利一時2.95％上昇、29年10か月ぶり高水準",
-  "はてな事件で発覚、残業203時間の経理と11億円送金の無関心",
   "LINEヤフー、全社横断でAIエージェント量産体制　カレンダーなど新「Agent i」",
   "人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」",
   "LINEヤフー、全社横断でAIエージェント量産へ",
@@ -4001,6 +3997,10 @@
   "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
   "大和鋼管工業、SaaS増加で複雑化したライセンス管理を「情シスAI」でどう解決？",
   "古書店で売上5倍の大量注文、背景にAI学習か",
-  "大和鋼管工業がSaaS管理を「情シスAI」で解決した理由"
+  "大和鋼管工業がSaaS管理を「情シスAI」で解決した理由",
+  "Morphotonics raises €40M to expand its display tech into data centers",
+  "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
+  "Morphotonics、4000万ユーロ調達の狙い",
+  "Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか"
  ]
 }

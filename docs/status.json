@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-22 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-22 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "古書店で売上5倍の大量注文、背景にAI学習か",
-   "path": "/articles/20260922-used-bookstores-large-orders-ai-learning.html",
-   "cat": "日本のAI"
+   "title": "Morphotonics、4000万ユーロ調達の狙い",
+   "path": "/articles/20260922-morphotonics-raises-40m-data-centers.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "大和鋼管工業がSaaS管理を「情シスAI」で解決した理由",
-   "path": "/articles/20260922-daiwa-ko-saas-management.html",
-   "cat": "日本のAI"
+   "title": "Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか",
+   "path": "/articles/20260922-tesla-vinfast-ev-vietnam.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 140,
+  "used": 145,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 18:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 19:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Morphotonics、4000万ユーロ調達の狙い](https://ai-tech-times.web.app/articles/20260922-morphotonics-raises-40m-data-centers.html) — 2026-09-22 19:00: ディープテック企業のMorphotonicsが、新たな資金調達を実施しました。ディスプレイ技術をデータセンターへ拡張するため、総額4000万ユーロを獲得しています。
+- [Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか](https://ai-tech-times.web.app/articles/20260922-tesla-vinfast-ev-vietnam.html) — 2026-09-22 19:00: 米EV大手のTeslaがベトナムに子会社を設立し、同国市場への参入に向けた動きを見せました。急成長する東南アジア最大のEV市場で、地場最大のライバルとどのような戦いを繰り広げるのでしょうか。
 - [古書店で売上5倍の大量注文、背景にAI学習か](https://ai-tech-times.web.app/articles/20260922-used-bookstores-large-orders-ai-learning.html) — 2026-09-22 18:01: 日本各地のオンライン古書店で今年8月ごろから書籍の大量注文が相次いでいます。業界内では生成AIの学習データを集める目的ではないかという見方が広がっています。
 - [大和鋼管工業がSaaS管理を「情シスAI」で解決した理由](https://ai-tech-times.web.app/articles/20260922-daiwa-ko-saas-management.html) — 2026-09-22 18:01: SaaSの増加によりライセンス管理が複雑化していた大和鋼管工業が、効率化に向けた一元化の動きを見せました。
 - [米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか](https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html) — 2026-09-22 17:06: 米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。
@@ -40,15 +42,13 @@
 - [CNNなど3社がトランプ政権を提訴、なぜホワイトハウス取材禁止に](https://ai-tech-times.web.app/articles/20260922-cnn-sues-white-house-over-ban.html) — 2026-09-22 13:00: アメリカのトランプ大統領がCNNなどメディア3社のホワイトハウスでの取材を禁止したことを受け、3社が差し止めを求める訴えを起こしました。
 - [元会計士が開発したTabby、AIで会計士を不要にする理由](https://ai-tech-times.web.app/articles/20260922-tabby-ai-accountants-obsolete.html) — 2026-09-22 12:01: TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。
 - [Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開](https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html) — 2026-09-22 12:01: AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。
-- [キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由](https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html) — 2026-09-22 12:01: 製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。
-- [Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由](https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html) — 2026-09-22 12:01: プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)
 - 2位: [THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix](https://www.youtube.com/watch?v=RjEZaUBbUvU)
 - 3位: [Escape From Playtime | Release Date Trailer](https://www.youtube.com/watch?v=fAXzLmsbrd8)
 
-## AI用語事典 (全1689語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1691語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

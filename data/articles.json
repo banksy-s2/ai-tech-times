@@ -100416,5 +100416,78 @@
   "date": "2026-09-22",
   "time": "18:01",
   "path": "/articles/20260922-daiwa-ko-saas-management.html"
+ },
+ {
+  "title": "Morphotonics、4000万ユーロ調達の狙い",
+  "lead": "ディープテック企業のMorphotonicsが、新たな資金調達を実施しました。ディスプレイ技術をデータセンターへ拡張するため、総額4000万ユーロを獲得しています。",
+  "summary3": [
+   "Morphotonicsが4000万ユーロを調達",
+   "3M Venturesなどが投資に参加",
+   "ディスプレイ技術をデータセンターへ展開"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。ディープテック分野を手がけるMorphotonicsは、事業拡大に向けた大規模な資金調達を実施し、総額4000万ユーロ（約60億円相当）を獲得したことを発表しました。",
+   "今回のラウンドには、3M Ventures、Innovation Industries、BOM、Invest-NLといった著名な投資家たちが名を連ねています。国内外の有力なファンドや企業が同社の技術力と将来性に期待を寄せていることがうかがえます。",
+   "調達した資金の主な使途は、これまで培ってきた独自のディスプレイ技術を新たにデータセンター向けへと拡張することです。今後の技術展開や市場での動向に、業界関係者からの高い注目が集まっています。"
+  ],
+  "tags": [
+   "ディープテック",
+   "資金調達",
+   "データセンター"
+  ],
+  "slug": "morphotonics-raises-40m-data-centers",
+  "people": [],
+  "terms": [
+   {
+    "name": "Morphotonics",
+    "type": "company",
+    "desc": "革新的なディスプレイ技術などを手がけるディープテック企業"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "19:00",
+  "path": "/articles/20260922-morphotonics-raises-40m-data-centers.html"
+ },
+ {
+  "title": "Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか",
+  "lead": "米EV大手のTeslaがベトナムに子会社を設立し、同国市場への参入に向けた動きを見せました。急成長する東南アジア最大のEV市場で、地場最大のライバルとどのような戦いを繰り広げるのでしょうか。",
+  "summary3": [
+   "Teslaがベトナムに子会社を設立",
+   "東南アジア最大のEV市場に参入へ",
+   "地場ライバルとの競争激化が予想される"
+  ],
+  "body": [
+   "米CNBC Techの報道によると、電気自動車（EV）大手のTeslaがこのほどベトナムに子会社を設立しました。これは、急速に成長を遂げている東南アジア最大のEV市場への本格的な参入に向けた、大きな第一歩となります。",
+   "しかし、同国市場は地場企業の巨大ライバルであるVinFastが圧倒的なシェアを握り、支配している状況です。海外の大手メーカーであるTeslaが、自国市場で強い基盤を持つ強力な競合とどのように渡り合っていくのか、今後の展開に注目が集まっています。",
+   "ベトナムのEV市場は今後さらなる成長が期待されており、今回の動きが現地での競争環境にどのような影響を与えるのか、業界関係者からの関心が高まっています。"
+  ],
+  "tags": [
+   "Tesla",
+   "VinFast",
+   "ベトナム"
+  ],
+  "slug": "tesla-vinfast-ev-vietnam",
+  "people": [],
+  "terms": [
+   {
+    "name": "Tesla",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、電気自動車（EV）の開発・製造を手がける世界的な大手企業。"
+   },
+   {
+    "name": "VinFast",
+    "type": "company",
+    "desc": "ベトナムのコングロマリットであるビングループ傘下の自動車メーカーで、同国のEV市場を牽引する。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "19:00",
+  "path": "/articles/20260922-tesla-vinfast-ev-vietnam.html"
  }
 ]
