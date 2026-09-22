@@ -2,25 +2,10 @@
  "date": "2026-09-23",
  "videos": [
   {
-   "id": "1Qx6ktR3CEk",
-   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
-   "channel": "THEBLACKLABEL",
-   "views": 9408964,
-   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk",
-   "thumb": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "KR"
-   ],
-   "rank": 1,
-   "comment": "ALLDAY PROJECTによる新曲「TALK」の公式ミュージックビデオです。"
-  },
-  {
    "id": "zoBTw-1vzyY",
    "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
    "channel": "T-Series Telugu",
-   "views": 5475361,
+   "views": 6283171,
    "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY",
    "thumb": "https://i.ytimg.com/vi/zoBTw-1vzyY/hqdefault.jpg",
    "regions": [
@@ -28,29 +13,14 @@
     "GB",
     "IN"
    ],
-   "rank": 2,
+   "rank": 1,
    "comment": "Vijay Deverakondaらが出演する映画のフル音源のようです"
-  },
-  {
-   "id": "RjEZaUBbUvU",
-   "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix",
-   "channel": "Netflix",
-   "views": 4963672,
-   "url": "https://www.youtube.com/watch?v=RjEZaUBbUvU",
-   "thumb": "https://i.ytimg.com/vi/RjEZaUBbUvU/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "rank": 3,
-   "comment": "クリフ・ブースの新たな冒険を描いたNetflix公式予告編のようです。(29字)"
   },
   {
    "id": "8Ty-Btue6OI",
    "title": "Character Trailer - \"Vodyanitsa: Tonight, We Sink as One\" | Genshin Impact #Vodyanitsa",
    "channel": "Genshin Impact",
-   "views": 452666,
+   "views": 468343,
    "url": "https://www.youtube.com/watch?v=8Ty-Btue6OI",
    "thumb": "https://i.ytimg.com/vi/8Ty-Btue6OI/hqdefault.jpg",
    "regions": [
@@ -58,29 +28,57 @@
     "GB",
     "BR"
    ],
-   "rank": 4,
+   "rank": 2,
    "comment": "原神のキャラクタートレーラーが公開されたようです。（23字）"
   },
   {
-   "id": "2JmzwvdKY9A",
-   "title": "Jurassic World Evolution 3: Prehistoric East | Announce Trailer",
-   "channel": "Jurassic World Evolution 3",
-   "views": 85442,
-   "url": "https://www.youtube.com/watch?v=2JmzwvdKY9A",
-   "thumb": "https://i.ytimg.com/vi/2JmzwvdKY9A/hqdefault.jpg",
+   "id": "UiPcEW_d9Io",
+   "title": "Minecraft LIVE Official Trailer – September 2026",
+   "channel": "Minecraft",
+   "views": 264741,
+   "url": "https://www.youtube.com/watch?v=UiPcEW_d9Io",
+   "thumb": "https://i.ytimg.com/vi/UiPcEW_d9Io/hqdefault.jpg",
    "regions": [
     "US",
     "GB",
     "BR"
    ],
+   "rank": 3,
+   "comment": "2026年9月に開催されるマインクラフトライブの公式トレーラーのようです。"
+  },
+  {
+   "id": "1Qx6ktR3CEk",
+   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
+   "channel": "THEBLACKLABEL",
+   "views": 9544257,
+   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk",
+   "thumb": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg",
+   "regions": [
+    "GB",
+    "KR"
+   ],
+   "rank": 4,
+   "comment": "ALLDAY PROJECTによる新曲「TALK」の公式ミュージックビデオです。"
+  },
+  {
+   "id": "RjEZaUBbUvU",
+   "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix",
+   "channel": "Netflix",
+   "views": 5021923,
+   "url": "https://www.youtube.com/watch?v=RjEZaUBbUvU",
+   "thumb": "https://i.ytimg.com/vi/RjEZaUBbUvU/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
    "rank": 5,
-   "comment": "シリーズ最新作の発表トレーラーが公開されているようです"
+   "comment": "クリフ・ブースの新たな冒険を描いたNetflix公式予告編のようです。(29字)"
   },
   {
    "id": "BWmWZTDxFrk",
    "title": "Escaping the Minecraft Underworld",
    "channel": "Parrot",
-   "views": 865895,
+   "views": 1127312,
    "url": "https://www.youtube.com/watch?v=BWmWZTDxFrk",
    "thumb": "https://i.ytimg.com/vi/BWmWZTDxFrk/hqdefault.jpg",
    "regions": [
@@ -91,52 +89,52 @@
    "comment": "Minecraftの地下世界からの脱出を描いた動画のようです"
   },
   {
+   "id": "A-zckrLQku8",
+   "title": "Dont Trouble The Trouble - Telugu Trailer | Fahadh Fassil, Ssara | Bhairava | SS Rajamouli | Oct 2nd",
+   "channel": "Arka Mediaworks",
+   "views": 1032064,
+   "url": "https://www.youtube.com/watch?v=A-zckrLQku8",
+   "thumb": "https://i.ytimg.com/vi/A-zckrLQku8/hqdefault.jpg",
+   "regions": [
+    "US",
+    "IN"
+   ],
+   "rank": 7,
+   "comment": "ファハド・ファッシルらが出演するテルグ語映画の予告編のようです。"
+  },
+  {
    "id": "0jXTOUQ4A7g",
    "title": "Ghostface Killah",
    "channel": "Sidhu Moose Wala - Topic",
-   "views": 585025,
+   "views": 600790,
    "url": "https://www.youtube.com/watch?v=0jXTOUQ4A7g",
    "thumb": "https://i.ytimg.com/vi/0jXTOUQ4A7g/hqdefault.jpg",
    "regions": [
     "GB",
     "IN"
    ],
-   "rank": 7,
+   "rank": 8,
    "comment": "Ghostface Killahに関連する楽曲のトピック動画のようです"
   },
   {
    "id": "RUXErGgTgxI",
    "title": "Lanterns Episode 7 Trailer Breakdown & Easter Eggs",
    "channel": "Emergency Awesome",
-   "views": 294919,
+   "views": 298994,
    "url": "https://www.youtube.com/watch?v=RUXErGgTgxI",
    "thumb": "https://i.ytimg.com/vi/RUXErGgTgxI/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 8,
-   "comment": "ランタンズ第7話の予告編解説とイースターエッグ (28文字)"
-  },
-  {
-   "id": "OmV4l2oV-sc",
-   "title": "LANTERNS Episode 7 Trailer BREAKDOWN + NEW CLUES",
-   "channel": "ScreenCrush",
-   "views": 274988,
-   "url": "https://www.youtube.com/watch?v=OmV4l2oV-sc",
-   "thumb": "https://i.ytimg.com/vi/OmV4l2oV-sc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 9,
-   "comment": "LANTERNS第7話の予告編と新たな手がかりの解説動画のようです"
+   "comment": "ランタンズ第7話の予告編解説とイースターエッグ (28文字)"
   },
   {
    "id": "XDAA2Xedb2s",
    "title": "PINKIE PIE’S CUPCAKE PARTY",
    "channel": "Flamingo",
-   "views": 272038,
+   "views": 293617,
    "url": "https://www.youtube.com/watch?v=XDAA2Xedb2s",
    "thumb": "https://i.ytimg.com/vi/XDAA2Xedb2s/hqdefault.jpg",
    "regions": [
@@ -156,8 +154,6 @@
   "IN"
  ],
  "comment_cache": {
-  "JqFzhcWo3EU": "テルグ語映画「The Paradise」の音楽関連動画のようです",
-  "IcLdJ93eP18": "「The Paradise」のテルグ語楽曲が公開されているようです",
   "Dy06SXknr_g": "世界最大のマインクラフト建築に挑戦している動画のようです。（26字）",
   "1tffqhaqxRI": "Blox Fruitsのアップデート30トレーラー等の紹介のようです。（28字）",
   "qhvPlcwJUvk": "ブロールスターズの新要素や収集方法に関するトークのようです。（27字）",
@@ -455,6 +451,8 @@
   "2JmzwvdKY9A": "シリーズ最新作の発表トレーラーが公開されているようです",
   "BWmWZTDxFrk": "Minecraftの地下世界からの脱出を描いた動画のようです",
   "OmV4l2oV-sc": "LANTERNS第7話の予告編と新たな手がかりの解説動画のようです",
-  "XDAA2Xedb2s": "ピンキーパイのカップケーキパーティーの様子を見られる動画のようです"
+  "XDAA2Xedb2s": "ピンキーパイのカップケーキパーティーの様子を見られる動画のようです",
+  "UiPcEW_d9Io": "2026年9月に開催されるマインクラフトライブの公式トレーラーのようです。",
+  "A-zckrLQku8": "ファハド・ファッシルらが出演するテルグ語映画の予告編のようです。"
  }
 }
