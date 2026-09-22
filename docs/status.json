@@ -1,56 +1,26 @@
 {
- "updated": "2026-09-23 07:02",
- "mode": "フル便",
+ "updated": "2026-09-23 08:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Snorkel AI、評価額35億ドルに到達した理由",
-   "path": "/articles/20260923-snorkel-ai-triples-valuation-35b.html",
+   "title": "ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表",
+   "path": "/articles/20260923-pentagon-ai-missile-strike.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "OpenAI、新モデル「GPT-6 Sol」を発表",
-   "path": "/articles/20260923-openai-launches-gpt-6-sol-and-luna.html",
+   "title": "英NscaleのIPO、ウォール街のAI集中投資を試す",
+   "path": "/articles/20260923-nscales-ipo-will-test-wall-street.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "Apple新型Mac miniとMac Studioが9月22日発売、ローカルAIは実用域へ",
-   "path": "/articles/20260923-apple-mac-mini-studio-review-2026.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "OpenAI、9月29日新AI発表でソフトウェア株はどうなる？",
-   "path": "/articles/20260923-openai-devday-software-stocks-panic.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "ShinyHuntersがFBIをハッキング、その深刻なリスクとは",
-   "path": "/articles/20260923-shinyhunters-claims-fbi-breach.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "高市首相、トランプ大統領と会談し中国課題で連携へ",
-   "path": "/articles/20260923-takaichi-trump-summit-ny.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ氏、イラン巡り国連で重大な決断を明かす",
-   "path": "/articles/20260923-trump-un-iran-decision.html",
-   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
- "notes": [
-  "執筆失敗: San Francisco sues Trump Media for selli",
-  "執筆失敗: Ado“マイクラで熱唱配信”大反響　襲撃され「お客様やめてー！」絶叫　「唱」など",
-  "執筆失敗: アサヒグループホールディングス、2026年12月期上期は営業利益+56%。株価が",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 77,
+  "used": 81,
   "limit": 200
  }
 }
