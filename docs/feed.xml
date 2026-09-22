@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか</title>
+<link>https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html</guid>
+<pubDate>Tue, 22 Sep 2026 22:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>カナダのブリティッシュコロンビア州が、対話型AIを開発するOpenAIを提訴しました。銃撃事件を起こした犯人とChatGPTとの危険なやり取りを警察に通報しなかったことが争点となっています。</description>
+</item>
+<item>
+<title>トランプ大統領、フーシ派空爆の方針転換</title>
+<link>https://ai-tech-times.web.app/articles/20260922-trump-yemen-airstrike-policy-shift.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-trump-yemen-airstrike-policy-shift.html</guid>
+<pubDate>Tue, 22 Sep 2026 22:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>イランの支援を受けるイエメンの反政府勢力フーシ派がサウジアラビアへの攻撃を強める中、アメリカのトランプ大統領の動向に注目が集まっています。サウジの要請を受けた空爆計画が、直前になって変更されたことが分かりました。</description>
+</item>
+<item>
 <title>元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由</title>
 <link>https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。</description>
-</item>
-<item>
-<title>キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。</description>
-</item>
-<item>
-<title>Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html</guid>
-<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。</description>
 </item>
 </channel></rss>

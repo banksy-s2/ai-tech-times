@@ -100517,5 +100517,257 @@
   "date": "2026-09-22",
   "time": "20:02",
   "path": "/articles/20260922-famous-youtuber-wife-savings.html"
+ },
+ {
+  "title": "元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由",
+  "lead": "かつてApple Storeの店舗網を築いた建築家であるロン・ジョンソン氏が、シリコンバレーが推し進めるAIショッピングへの巨額の賭けに対して疑問を投げかけました。",
+  "summary3": [
+   "Apple Store建築家がAI買い物を批判",
+   "Appleの成功の秘訣は人にあると主張",
+   "シリコンバレーのAI重視に異議"
+  ],
+  "body": [
+   "テック業界で大きな影響力を持つApple Storeの建築家ロン・ジョンソン氏が、シリコンバレーで主流となっているAIを活用したショッピングの潮流に対して、懐疑的な見解を示しました。同氏は、技術の進化だけに頼る現在のトレンドとは一線を画しています。",
+   "ジョンソン氏によれば、Appleが築き上げてきたブランドの強さと成功の秘訣は、常に最前線に立つ「人」の存在にあったと語ります。どれほど先進的なシステムやAI技術が登場したとしても、人と人とのつながりや対面での体験を超えることはできないという哲学がそこにあります。",
+   "今回の発言は、効率化や自動化を急ぐシリコンバレー全体のAI投資に対する大きな一石を投じるものとなりました。買い物の未来がテクノロジー主導へとシフトしていく中で、人間の役割の重要性を改めて問い直す議論として注目を集めています。"
+  ],
+  "tags": [
+   "Apple",
+   "AI",
+   "リテール"
+  ],
+  "slug": "ron-johnson-apples-stores-ai-shopping",
+  "people": [
+   {
+    "name": "ロン・ジョンソン氏",
+    "bio": "Apple Storeの店舗設計を手がけ、革新的なリテール戦略を成功させた実業家・建築家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカルフォルニア州に本拠地を置き、iPhoneやMacなどを開発・販売する世界的なテクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-ron-johnson-apples-stores-ai-shopping.html"
+ },
+ {
+  "title": "Anthropicが語るAIの脆弱性発見力、誇大広告に騙されない理由",
+  "lead": "MIT Tech Reviewが、AIを巡る一連の誇大広告と過熱する状況について報じました。最新の主張やインシデントの裏側を整理して伝えています。",
+  "summary3": [
+   "AnthropicがAIの脆弱性発見力を主張",
+   "オープンAIとHugging Faceでハッキング事案",
+   "各社がモデルに関する同様のインシデントを公表"
+  ],
+  "body": [
+   "AIを巡る過熱した状況が続いています。4月末には、Anthropicが開発したモデル「Claude Mythos」が、大半のセキュリティ専門家よりもソフトウェアの脆弱性を見つける能力に優れていると主張しました。",
+   "その後、オープンAIとHugging Faceの間でハッキング事案が発生しました。この事案の後、Anthropicは誇らしげに、Metaはしぶしぶながら、自社モデルに関連する同様のインシデントをそれぞれ公表する事態となりました。",
+   "AI技術の急速な進展や性能に関する主張が相次ぐ中、MIT Tech Review AIは、この夏のAIを巡る誇大広告に惑わされないよう注意を促しています。"
+  ],
+  "tags": [
+   "AI",
+   "セキュリティ",
+   "Anthropic"
+  ],
+  "slug": "summer-ai-hype-mit-tech-review",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、対話型AIなどの先端技術を手がけています。"
+   },
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "SNSのFacebookやInstagramなどを運営するアメリカの大手IT企業です。"
+   }
+  ],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-summer-ai-hype-mit-tech-review.html"
+ },
+ {
+  "title": "Teams会議をAIの教材にして業務知識に変える手法",
+  "lead": "AIエージェントの活用が広がる中、企業固有の仕事の進め方をどうAIに教えるかが課題となっています。Teams会議に埋もれた判断や経験則を変換する新たな手法とは何でしょうか。",
+  "summary3": [
+   "AIエージェントの活用拡大が課題に",
+   "Teams会議に埋もれた経験則が焦点",
+   "業務知識への新たな変換手法とは"
+  ],
+  "body": [
+   "AIエージェントの活用が様々な企業で広がるにつれて、企業固有の「仕事の進め方」をどのようにAIに教え込むかが大きな課題となっています。日々の業務におけるノウハウは、形式知として整理されていないケースが多くあります。",
+   "その中で注目されているのが、日常的なコミュニケーションツールであるTeams会議に埋もれた判断や経験則に着目したアプローチです。会議の中に隠された貴重なノウハウを、AIが扱える業務知識へどう変換するかがポイントとなります。",
+   "属人化しがちな経験則を資産へと変えることができれば、組織全体の生産性向上やAI活用の高度化につながることが期待されます。今後の企業における新たなナレッジマネジメントの手法として関心が集まっています。"
+  ],
+  "tags": [
+   "Teams",
+   "AIエージェント",
+   "ナレッジマネジメント"
+  ],
+  "slug": "teams-ai-agent-knowledge-conversion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Teams",
+    "type": "ai",
+    "desc": "マイクロソフトが提供する、チャットやビデオ会議機能などを統合したビジネス向けコラボレーションツール。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/22/2000001658/",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-teams-ai-agent-knowledge-conversion.html"
+ },
+ {
+  "title": "Appleの新Mac mini、M6搭載で300ドル値上げの理由",
+  "lead": "Ars Technicaが報じたAppleの新型「Mac mini」レビューでは、M6チップによる進化が評価される一方、899ドルへの大幅な価格引き上げが話題となっています。",
+  "summary3": [
+   "Appleが新型Mac miniのレビューを公開",
+   "M6チップ搭載で性能は向上するも300ドル値上げ",
+   "前モデルの高いコストパフォーマンスから大きく変化"
+  ],
+  "body": [
+   "米テックメディアのArs Technicaは、Appleの新型「Mac mini」に関するレビュー記事を公開しました。前モデルであるM4を搭載したMac miniは、その優れたコストパフォーマンスから高い評価を受けていましたが、新型の状況は少し異なっているようです。",
+   "新モデルに搭載されたM6チップの性能自体は大いに印象的であり、確かな進化を遂げています。しかし、価格面においては899ドルへと値上がりしており、前モデルほどの圧倒的なお得感は薄れたと指摘されています。",
+   "優れたパフォーマンスと引き換えの大幅な価格上昇が、今後の購入判断にどのように影響するのか、ユーザーの間で議論を呼ぶポイントとなりそうです。"
+  ],
+  "tags": [
+   "Apple",
+   "Mac mini",
+   "ガジェット"
+  ],
+  "slug": "apple-m6-mac-mini-review",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカ合衆国のカリフォルニア州に本社を置く、スマートフォンやパソコンなどを開発・販売する世界的な大手テクノロジー企業。"
+   },
+   {
+    "name": "Mac mini",
+    "type": "ai",
+    "desc": "Appleが開発・販売する、ディスプレイやキーボードを含まないコンパクトなデスクトップ型パーソナルコンピュータ製品。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-apple-m6-mac-mini-review.html"
+ },
+ {
+  "title": "Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ",
+  "lead": "AI VTuberの「Neuro-sama」が、ハリウッドで初となるリアルライブを開催し、生バンドと共演することが明らかになりました。",
+  "summary3": [
+   "AI VTuber「Neuro-sama」が初のリアルライブ",
+   "ハリウッドでの開催となり生バンドと共演",
+   "KAI-YOUがイベントの模様を報じる"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。KAI-YOUの報道によると、AI VTuberとして知られる「Neuro-sama」が、自身初となるリアルライブを開催することが分かりました。",
+   "今回の公演はハリウッドで行われ、生バンドとの共演が予定されているとのことです。AI技術を活用したバーチャルタレントによるリアルでのライブ活動として、大きな注目を集めるイベントとなりそうです。",
+   "詳細については今後の続報が待たれるところですが、AI VTuberの新たな表現の可能性を示すステージとして、多くのファンや関係者の関心を集めています。"
+  ],
+  "tags": [
+   "AI",
+   "VTuber",
+   "Neuro-sama",
+   "ライブ"
+  ],
+  "slug": "neuro-sama-hollywood-live",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaVUNvSmZlcFg3TGVBOGh4UUdHN2ktOG0zSHg2VjBMaFdMX2F4a0xBcEFWS3FnY3o3bHc4SGp0UW8za2ttTHJaYQ?oc=5",
+  "category": "influencer",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-neuro-sama-hollywood-live.html"
+ },
+ {
+  "title": "アメリカ財務長官、中国とのAI重大事案で意思疎通へ",
+  "lead": "アメリカのベッセント財務長官が、中国との間で主導権争いが続くAIをめぐり、重大事案発生時の意思疎通手段を構築する考えを示しました。",
+  "summary3": [
+   "米中がAI重大事案で意思疎通手段を構築へ",
+   "ベッセント財務長官が考えを明らかに",
+   "約2か月後に両国の高官による協議を予定"
+  ],
+  "body": [
+   "アメリカのベッセント財務長官は、中国との間で主導権争いが続くAIをめぐり、重大な事案が発生した場合に中国側と意思疎通を図る手段を構築したい考えを示しました。AI技術の急激な発展や国際的な影響力の拡大に伴い、両国間での偶発的な衝突やリスクを防ぐための枠組みづくりが急務となっています。",
+   "さらにベッセント財務長官は、およそ2か月後に中国で両国の高官による協議を行う予定であることも明らかにしました。この協議を通じて、AI分野における具体的なリスク管理や、意思疎通の具体的な手法について話し合われる見通しです。",
+   "AI TECH TIMESでは、今後の米中関係やテクノロジー分野の動向について引き続き注目し、最新の情報をお伝えしてまいります。"
+  ],
+  "tags": [
+   "AI",
+   "アメリカ",
+   "中国"
+  ],
+  "slug": "us-china-ai-communication-channels",
+  "people": [
+   {
+    "name": "ベッセント財務長官",
+    "bio": "アメリカの財務長官として、経済政策や国際金融、他国との経済関係の調整などを担当する。"
+   }
+  ],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260922de51793",
+  "category": "world",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-us-china-ai-communication-channels.html"
+ },
+ {
+  "title": "丸井グループは15期連続増配、日本郵船は株価最高値",
+  "lead": "2026年秋の日本株市場において、「丸井グループ」と「日本郵船」の2銘柄に注目が集まっています。",
+  "summary3": [
+   "丸井グループは15期連続増配を達成",
+   "丸井グループの利回りは4％台を記録",
+   "日本郵船は利回り3％台で株価最高値を更新"
+  ],
+  "body": [
+   "ダイヤモンド・オンラインの報道によると、2026年秋の日本株市場において、「丸井グループ」と「日本郵船」の2銘柄が注目されています。",
+   "丸井グループは15期連続の増配を実施しており、配当利回りは4％台となっています。一方の日本郵船は、配当利回りが3％台でありながら、株価が最高値を更新する展開を見せています。",
+   "市場における各企業の具体的な数値や動向について、引き続き投資家からの関心が寄せられています。"
+  ],
+  "tags": [
+   "日本株",
+   "高配当株",
+   "丸井グループ"
+  ],
+  "slug": "marui-nippon-yusen-autumn-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "丸井グループ",
+    "type": "company",
+    "desc": "小売事業やフィンテック事業などを展開する、日本の大手企業グループです。"
+   },
+   {
+    "name": "日本郵船",
+    "type": "company",
+    "desc": "日本の大手海運会社であり、世界的な海上輸送サービスを提供しています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Scmh6SlBIWEQwazZlZjYzOF9yUThMRFBwSTR2WjktbjE0eWRrcXJFOFNUeTVxRDRJdVpBaWE4OUVXUG1BOEZKTGdxeXo3d0d4bmNZ?oc=5",
+  "category": "stock",
+  "date": "2026-09-22",
+  "time": "21:03",
+  "path": "/articles/20260922-marui-nippon-yusen-autumn-2026.html"
  }
 ]

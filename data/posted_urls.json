@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.afpbb.com/articles/-/3646851",
-  "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
   "https://www.47news.jp/14731716.html",
   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKU2lIOG5EZkNFcktmWXp0VnRZd0hQYmwtMUxPTlc2WEZSWnRQcHlZZXJMOGFHSVNpNkFkdGNzN05LQ0VhMzg3LUFoMFd1UVpCQWt3edIBV0FVX3lxTE11akdFMl9tSGl6THpQWGU2SUhGU0lkejFlZ3pGVk1LY1RxdFRVNzFnUk90Q0NvQzI0LXRMeTZxYVdtT0p4WW5ja2JfbTFGWVItcDI5dHA2dw?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKemhvdDJQTkE0QVV6UmFKMGNPZGl4UDhucVN1SVRBNmJnZkdDbjJoUWRSZzFVVTdFMzZVOUVKcnoyUTFxTEpib2xJWFd4VFZBdXgxRGFZWjhlWkxBU05R?oc=5",
@@ -1999,13 +1997,11 @@
   "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaVUNvSmZlcFg3TGVBOGh4UUdHN2ktOG0zSHg2VjBMaFdMX2F4a0xBcEFWS3FnY3o3bHc4SGp0UW8za2ttTHJaYQ?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260922de51793",
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Scmh6SlBIWEQwazZlZjYzOF9yUThMRFBwSTR2WjktbjE0eWRrcXJFOFNUeTVxRDRJdVpBaWE4OUVXUG1BOEZKTGdxeXo3d0d4bmNZ?oc=5"
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Scmh6SlBIWEQwazZlZjYzOF9yUThMRFBwSTR2WjktbjE0eWRrcXJFOFNUeTVxRDRJdVpBaWE4OUVXUG1BOEZKTGdxeXo3d0d4bmNZ?oc=5",
+  "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+  "https://news.web.nhk/newsweb/na/nd-20260921de51710"
  ],
  "titles": [
-  "壱番屋、株価ストップ高気配 「ハウス食品Gが売却検討」報道 - 日本経済新聞",
-  "預金3000万円でプラチナカード無料　三菱UFJ「50兆円の富裕層囲い込み」に透ける焦り",
-  "ソニーとワーナーがAnthropicを提訴、楽曲利用の真相",
-  "Kasperskyが警告、社内のAI乗っ取り攻撃とは",
   "英蘭銀行総裁が警告、最先端AIが金融システムを脅かす理由",
   "ソニーミュージック運営のVTuber事務所が終了なぜ、所属21人中20人は活動継続へ",
   "大阪市教委:ネパール土石流の行方不明者は市内在住の家族か",
@@ -4001,6 +3997,10 @@
   "Appleの新Mac mini、M6搭載で300ドル値上げの理由",
   "Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ",
   "アメリカ財務長官、中国とのAI重大事案で意思疎通へ",
-  "丸井グループは15期連続増配、日本郵船は株価最高値"
+  "丸井グループは15期連続増配、日本郵船は株価最高値",
+  "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+  "「トランプ大統領 イエメン空爆で方針転換」米報道",
+  "OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか",
+  "トランプ大統領、フーシ派空爆の方針転換"
  ]
 }
