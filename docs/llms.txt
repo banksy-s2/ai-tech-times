@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 04:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 05:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日経新聞：新TOPIXを企業が成長の起点に](https://ai-tech-times.web.app/articles/20260923-new-topix-growth-starting-point.html) — 2026-09-23 05:00: 日本経済新聞は社説において、新TOPIXを企業が成長を競い合う起点にすべきだと報じました。
 - [ホワイトハウスが「トランプTV」開始、その狙いとは](https://ai-tech-times.web.app/articles/20260923-white-house-trump-tv-launch.html) — 2026-09-23 04:00: アメリカの主要テレビ局がトランプ大統領に関する代表取材を一時取りやめる中、ホワイトハウスが新たに24時間配信を開始し物議を醸しています。
 - [Xboxが3600人削減、アクティビジョンが次期Halo開発へ](https://ai-tech-times.web.app/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html) — 2026-09-23 04:00: Xboxが発表した大規模な人員削減と組織の「リセット」の一環として、傘下のアクティビジョンが人気ゲーム「Halo」の次回作を手がけることが明らかになりました。
 - [バイナンス、サークルに1億ドル出資の理由](https://ai-tech-times.web.app/articles/20260923-binance-invests-100m-in-circle-usdc.html) — 2026-09-23 02:06: 大手仮想通貨取引所のバイナンスは、ステーブルコイン発行会社のサークルに対して1億ドルの出資を行いました。グローバルでのUSDC普及に向けた提携の全貌とは。
@@ -41,7 +42,6 @@
 - [大和鋼管工業がSaaS管理を「情シスAI」で解決した理由](https://ai-tech-times.web.app/articles/20260922-daiwa-ko-saas-management.html) — 2026-09-22 18:01: SaaSの増加によりライセンス管理が複雑化していた大和鋼管工業が、効率化に向けた一元化の動きを見せました。
 - [米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか](https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html) — 2026-09-22 17:06: 米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。
 - [SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由](https://ai-tech-times.web.app/articles/20260922-spacexai-grok-4-7-announced.html) — 2026-09-22 17:06: SpaceXAIは、同社最高性能となるAIモデル「Grok 4.7」を発表しました。価格と速度を維持しながら、コーディングや業務タスクの性能を強化しています。
-- [アリババ株3%高、新AIチップとデータセンター拡大の狙い](https://ai-tech-times.web.app/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html) — 2026-09-22 17:06: 中国の巨大テック企業であるアリババが、香港市場で株価を3%上昇させました。新型AIチップの発表と、グローバルなデータセンター網の大幅な拡大計画が好感されています。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
@@ -62,8 +62,8 @@
 - [Claudeとは](https://ai-tech-times.web.app/term/claude.html): Anthropicが開発した高性能な対話型AIアシスタントであり、自然な言語処理や文章生成、コード作成などを得意としています。
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
-- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心とした報道を行う日本の代表的な日刊新聞です。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): SpaceXやTeslaなどを率い、宇宙開発からAI分野まで幅広く事業を展開するカリスマ的実業家です。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なマルチモーダル対応のAIモデルであり、様々なタスクを自律的に処理する能力を持っています。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。

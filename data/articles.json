@@ -100948,5 +100948,39 @@
   "date": "2026-09-23",
   "time": "04:00",
   "path": "/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html"
+ },
+ {
+  "title": "日経新聞：新TOPIXを企業が成長の起点に",
+  "lead": "日本経済新聞は社説において、新TOPIXを企業が成長を競い合う起点にすべきだと報じました。",
+  "summary3": [
+   "新TOPIXに関する社説が掲載",
+   "企業が成長を競い合う起点に",
+   "日本経済新聞の見解を伝える"
+  ],
+  "body": [
+   "日本経済新聞は、新TOPIXを企業が成長を競う起点にすべきだとする社説を発表しました。",
+   "市場における新たな指標や枠組みを通じて、各企業がさらなる成長を目指して競争を繰り広げる重要性が指摘されています。",
+   "今後の市場環境や企業の動向にどのような影響を与えるのか、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "TOPIX",
+   "日本経済新聞",
+   "市場"
+  ],
+  "slug": "new-topix-growth-starting-point",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する経済を中心とした日刊新聞およびそのメディア企業。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13VlkyY3FEbEZGUU95UnJvdmZiUmZDMmtqMEE1bGE3LVF0V2d3SFdOQnZWSHBvVDU5eV9odGNsZ3VEQTlpbGFMR1NCM0dUUDVqV3dTejZ4QnlMWXFoOXQtSTdTSk56X01hM29Obw?oc=5",
+  "category": "stock",
+  "date": "2026-09-23",
+  "time": "05:00",
+  "path": "/articles/20260923-new-topix-growth-starting-point.html"
  }
 ]
