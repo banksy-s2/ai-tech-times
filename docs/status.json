@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-22 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-22 20:02",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Morphotonics、4000万ユーロ調達の狙い",
-   "path": "/articles/20260922-morphotonics-raises-40m-data-centers.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Teslaがベトナムに進出、地場巨人とEV市場でどう戦うか",
-   "path": "/articles/20260922-tesla-vinfast-ev-vietnam.html",
-   "cat": "シリコンバレー最速"
+   "title": "有名YouTuber妻が貯金残高を公開",
+   "path": "/articles/20260922-famous-youtuber-wife-savings.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 145,
+  "used": 148,
   "limit": 200
  }
 }
