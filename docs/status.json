@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-22 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-22 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日経平均先物急伸、Muse人気で米テック株高騰",
-   "path": "/articles/20260922-nikkei-futures-surge-us-tech-stocks.html",
-   "cat": "株式投資(日本)"
+   "title": "新潟の県内上場企業が個人投資家へ魅力発信「IRフォーラム2026」",
+   "path": "/articles/20260922-ir-forum-2026-niigata.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 105,
+  "used": 108,
   "limit": 200
  }
 }
