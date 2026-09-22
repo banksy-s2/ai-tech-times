@@ -99596,5 +99596,304 @@
   "date": "2026-09-22",
   "time": "11:00",
   "path": "/articles/20260922-perfume-achang-italy-wedding.html"
+ },
+ {
+  "title": "元会計士が開発したTabby、AIで会計士を不要にする理由",
+  "lead": "TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。",
+  "summary3": [
+   "元会計士がAIを活用したTabbyを開発",
+   "リアルタイムで顧客の書類処理と損益データを提示",
+   "従来の会計士の業務を不要にする狙いがある"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。米テックメディア「TechCrunch AI」の報道によると、元会計士の人物が人工知能を活用して、会計士という職業そのものを不要にする新しいツールを開発していることが明らかになりました。",
+   "開発されたツール「Tabby」は、リアルタイムのブックキーピング（記帳）インターフェースとして設計されています。顧客のペーパーワークを自動で処理しながら、ビジネスの利益と損失に関する最新のデータを一瞬で提供する仕組みです。",
+   "このAIツールが普及すれば、これまで人間の会計士が手作業で行っていた煩雑な記帳業務やデータ集計が大幅に効率化されることになります。元会計士ならではの視点で設計されたこのシステムが、今後のビジネスのバックオフィス業務をどのように変えていくのか注目が集まっています。"
+  ],
+  "tags": [
+   "AI",
+   "会計",
+   "Tabby",
+   "TechCrunch",
+   "業務効率化"
+  ],
+  "slug": "tabby-ai-accountants-obsolete",
+  "people": [],
+  "terms": [
+   {
+    "name": "Tabby",
+    "type": "ai",
+    "desc": "元会計士が開発したリアルタイムのブックキーピングインターフェースで、書類処理と損益データ提供を行うAIシステム。"
+   },
+   {
+    "name": "TechCrunch AI",
+    "type": "company",
+    "desc": "テクノロジー業界の最新ニュースやスタートアップ情報を専門に発信するアメリカのメディア。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-tabby-ai-accountants-obsolete.html"
+ },
+ {
+  "title": "Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開",
+  "lead": "AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。",
+  "summary3": [
+   "Hugging Faceが新手法を公開",
+   "物理学の理論をLLMに応用",
+   "ブロック削除の最適化を実現"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。Hugging Face Blogにて、大規模言語モデル（LLM）の効率化に関する新しいアプローチが発表されました。記事では、物理学の理論を応用してLLMのブロック削減を行う手法について解説されています。",
+   "この手法は、ブロックの削除問題をイジング最適化問題として捉えることで、効率的なモデルの軽量化や最適化を目指すものです。物理学的なアプローチを機械学習の分野に応用するユニークな試みとして注目を集めています。",
+   "AIモデルの軽量化や効率化は、実運用において重要な課題の一つです。今回のHugging Face Blogでの発表は、物理学とAI技術の融合によって新たな解決策を提示するものであり、今後の技術発展に向けた知見を提供しています。"
+  ],
+  "tags": [
+   "Hugging Face",
+   "LLM",
+   "物理学"
+  ],
+  "slug": "pruning-llms-like-a-physicist",
+  "people": [],
+  "terms": [
+   {
+    "name": "Hugging Face",
+    "type": "company",
+    "desc": "機械学習やデータサイエンスのプラットフォームを提供するアメリカの企業。"
+   }
+  ],
+  "source": "Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-pruning-llms-like-a-physicist.html"
+ },
+ {
+  "title": "キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由",
+  "lead": "製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。",
+  "summary3": [
+   "キユーピーが工場シミュレーションを効率化",
+   "生成AI活用により開発工数を8割削減",
+   "専用ソフトの属人化など3つの壁に対応"
+  ],
+  "body": [
+   "製造業の現場において、工場シミュレーションは重要な役割を担っています。しかし、従来のシミュレーションモデルの構築には、専用ソフトウェアと専門言語の高度な知識が必要不可欠であり、業務が属人化しやすいという課題がありました。",
+   "こうした中、キユーピーでは生成AIを活用したシミュレーションの高度化と効率化を目指す取り組みを進めてきました。しかし、その実現に向けては3つの大きな課題が存在していました。",
+   "ITmedia AI+の報道によると、同社はこれらの壁をどのように乗り越え、工場シミュレーションモデルの開発工数を8割削減することに成功したのでしょうか。今後の製造業におけるAI活用のモデルケースとして期待が寄せられています。"
+  ],
+  "tags": [
+   "生成AI",
+   "製造業",
+   "キユーピー"
+  ],
+  "slug": "kewpie-ai-factory-simulation",
+  "people": [],
+  "terms": [
+   {
+    "name": "キユーピー",
+    "type": "company",
+    "desc": "マヨネーズなどの調味料や加工食品を手がける日本の大手食品メーカーです。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-kewpie-ai-factory-simulation.html"
+ },
+ {
+  "title": "Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由",
+  "lead": "プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。",
+  "summary3": [
+   "安いAIモデルを選ぶとかえってコスト高に",
+   "Fiddlerの研究チームが複数のAIを比較",
+   "正しく修正するための費用がかさむ判明"
+  ],
+  "body": [
+   "プログラムの作成や修正をAIに任せるとき、単価の安いAIモデルを選べば費用の負担も軽くなると考える人は少なくありません。コストを少しでも抑えたい開発者や企業にとって、安価なモデルは非常に魅力的な選択肢に見えます。",
+   "ところが、AIの動作監視や評価を手がけるFiddlerの研究チームが、複数のAIモデルに不具合を修正させて性能を比較したところ、予想外の結果が明らかになりました。単価の安いAIモデルを利用した場合でも、コードを正しく修正するために結果としてかえって費用が高くなってしまうケースがあるのです。",
+   "今回の調査結果は、AIモデルを選定する際には単純な単価の安さだけにとらわれず、正確性やトータルの修正コストを考慮することの重要性を示しています。コスト削減を狙った選択が、かえって余計な出費を生まないための慎重な判断が求められそうです。"
+  ],
+  "tags": [
+   "AI",
+   "プログラミング",
+   "コスト削減"
+  ],
+  "slug": "cheaper-ai-coding-cost",
+  "people": [],
+  "terms": [
+   {
+    "name": "Fiddler",
+    "type": "company",
+    "desc": "AIの動作監視や評価を手がけるアメリカの企業。AIモデルの信頼性確保を支援している。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260922-cheaper-ai-coding-cost/",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-cheaper-ai-coding-cost.html"
+ },
+ {
+  "title": "Xが政府要請による投稿制限の通知を開始した理由",
+  "lead": "Xは、各国政府の要請や現地法に基づき、投稿が非表示や表示順位の引き下げといった制限を受けた際に、ユーザーへ通知する機能を拡大すると発表しました。",
+  "summary3": [
+   "Xが投稿制限の通知機能を拡大",
+   "政府要請や現地法への対応を表示",
+   "どの国からの要求かも明らかに"
+  ],
+  "body": [
+   "Xは、透明性向上のためのツールである「Under the Hood」の機能を拡張し、投稿が政府の要請や現地法に応じて制限された場合に、その旨をユーザーに知らせる仕組みを導入します。",
+   "今回の機能拡張により、ユーザーの投稿が非表示にされたり、表示順位が引き下げられたりした際、その措置がどの国からの要求によるものだったのかが明確に示されることになります。",
+   "プラットフォームの運営における透明性を高めるこの新しい取り組みは、政府による情報統制やコンテンツ規制の透明性を求める声に応えるものとして注目を集めています。"
+  ],
+  "tags": [
+   "X",
+   "SNS",
+   "セキュリティ"
+  ],
+  "slug": "x-government-post-limit-transparency",
+  "people": [],
+  "terms": [],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-x-government-post-limit-transparency.html"
+ },
+ {
+  "title": "Verizonの光ケーブル切断、全米で数百便に影響した理由",
+  "lead": "米ニュージャージー州で工事作業員がVerizonの通信ケーブルを切断し、全米各地の空港で数百便の欠航や遅延が発生しました。",
+  "summary3": [
+   "ニュージャージー州でケーブル切断が発生",
+   "航空管制用回線が影響し数百便が乱れる",
+   "北東部の空港を中心に大規模な遅延に"
+  ],
+  "body": [
+   "月曜日、米ニュージャージー州の工事作業員が、航空管制に使用されているVerizonの光ファイバーケーブルを誤って切断しました。この事故により、全米で数百便ものフライトが欠航や遅延に見舞われる事態となりました。",
+   "ABCニュースの報道によると、FAA（連邦航空局）のAdministratorであるBryan Bedford氏は、回路の故障が発生したことがきっかけとなり、切断された光ファイバーケーブルの存在が発見されたと述べています。",
+   "今回の通信障害は北東部を中心とした多くの空港に大きな打撃を与え、フライトスケジュールに深刻な乱れを生じさせました。航空交通のインフラにおける通信網の重要性が改めて浮き彫りになるトラブルとなりました。"
+  ],
+  "tags": [
+   "航空管制",
+   "通信障害",
+   "Verizon"
+  ],
+  "slug": "verizon-cable-cut-disrupts-us-flights",
+  "people": [
+   {
+    "name": "Bryan Bedford氏",
+    "bio": "アメリカ連邦航空局（FAA）のAdministratorを務める人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Verizon",
+    "type": "company",
+    "desc": "アメリカ合衆国を本拠地とし、通信事業やインターネットサービスを提供する大手通信企業。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-verizon-cable-cut-disrupts-us-flights.html"
+ },
+ {
+  "title": "ナスダックが約3か月半ぶり最高値、AI関連に買い",
+  "lead": "21日のニューヨーク株式市場で、ナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。イラン情勢への懸念後退が背景にあります。",
+  "summary3": [
+   "ナスダックが3か月半ぶり最高値",
+   "イラン情勢への懸念後退が背景に",
+   "AI関連銘柄を中心に買い広がる"
+  ],
+  "body": [
+   "21日のニューヨーク株式市場は、イラン情勢への懸念が後退したことを受け、AI関連の銘柄などを中心に買い注文が広がりました。この動きにより、ハイテク株の比率が高いナスダックの株価指数の終値はおよそ3か月半ぶりに最高値を更新する展開となりました。",
+   "市場では地政学リスクへの過度な警戒感が和らいだことで、成長期待の高いハイテク分野やAI関連銘柄へ積極的に資金を投入する動きが優勢となりました。今後の相場の行方についても、関連銘柄の動向が引き続き注目されることになります。"
+  ],
+  "tags": [
+   "株式市場",
+   "ナスダック",
+   "AI関連"
+  ],
+  "slug": "nasdaq-record-high-ai-stocks",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+  "category": "world",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-nasdaq-record-high-ai-stocks.html"
+ },
+ {
+  "title": "日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由",
+  "lead": "大阪取引所の夜間取引において、日経平均先物が上昇し、1280円高の6万6380円を記録しました。",
+  "summary3": [
+   "日経平均先物が夜間取引で上昇",
+   "大阪取引所で1280円高を記録",
+   "価格は6万6380円に到達"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、大阪取引所（大取）の夜間取引において、日経平均先物が上昇しました。",
+   "今回の取引では、前日からの変動幅として1280円高となり、価格は6万6380円を記録しています。",
+   "市場における夜間取引の動向として、このような価格の変動が確認されました。"
+  ],
+  "tags": [
+   "日経平均先物",
+   "株式市場",
+   "大阪取引所"
+  ],
+  "slug": "nikkei-futures-night-session-rise",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした日本の日刊新聞。経済ニュースを広く伝える。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoc1VPMVhXbE5aMFY0eV9TTDRrVk5oRXlYaHJQc1RGbWNHejZZSkItNzRmVnpWOE5MNElTamV3SUN6cFVVNjNpU3AwLXhhaURONnFQUXE5bjhORExkVUJoWDVCcFVoQWp3NkliZg?oc=5",
+  "category": "stock",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-nikkei-futures-night-session-rise.html"
+ },
+ {
+  "title": "ITmedia ビジネス：野球企業はなぜ黒字転換できたのか",
+  "lead": "資材や人件費の高騰で多くの企業が悩む中、野球業界ではトップ企業の多くが利益を伸ばし、追い風が吹いています。",
+  "summary3": [
+   "資材や人件費高騰の中で好調",
+   "野球業界のトップ企業が利益増",
+   "5年前の苦境から黒字転換相次ぐ"
+  ],
+  "body": [
+   "資材や人件費の高騰で悩む企業が多い中、トップ企業の多くが利益を伸ばし、追い風がどんどん吹いている業界があります。それが野球業界です。",
+   "かつて5年前は苦境にあった野球関連の企業ですが、現在では相次ぐ黒字転換を果たしています。なぜこのような状況が生まれたのでしょうか。",
+   "業界を取り巻く環境の変化や各社の取り組みにより、業績は回復傾向にあります。今後の動向についても引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "野球",
+   "ビジネス",
+   "決算"
+  ],
+  "slug": "baseball-industry-turns-profitable",
+  "people": [],
+  "terms": [],
+  "source": "ITmedia ビジネス",
+  "source_url": "https://www.itmedia.co.jp/business/articles/2609/22/news015.html",
+  "category": "jp_corp",
+  "date": "2026-09-22",
+  "time": "12:01",
+  "path": "/articles/20260922-baseball-industry-turns-profitable.html"
  }
 ]

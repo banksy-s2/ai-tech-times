@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 12:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [元会計士が開発したTabby、AIで会計士を不要にする理由](https://ai-tech-times.web.app/articles/20260922-tabby-ai-accountants-obsolete.html) — 2026-09-22 12:01: TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。
+- [Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開](https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html) — 2026-09-22 12:01: AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。
+- [キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由](https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html) — 2026-09-22 12:01: 製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。
+- [Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由](https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html) — 2026-09-22 12:01: プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。
+- [Xが政府要請による投稿制限の通知を開始した理由](https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html) — 2026-09-22 12:01: Xは、各国政府の要請や現地法に基づき、投稿が非表示や表示順位の引き下げといった制限を受けた際に、ユーザーへ通知する機能を拡大すると発表しました。
+- [Verizonの光ケーブル切断、全米で数百便に影響した理由](https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html) — 2026-09-22 12:01: 米ニュージャージー州で工事作業員がVerizonの通信ケーブルを切断し、全米各地の空港で数百便の欠航や遅延が発生しました。
+- [ナスダックが約3か月半ぶり最高値、AI関連に買い](https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html) — 2026-09-22 12:01: 21日のニューヨーク株式市場で、ナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。イラン情勢への懸念後退が背景にあります。
+- [日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由](https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html) — 2026-09-22 12:01: 大阪取引所の夜間取引において、日経平均先物が上昇し、1280円高の6万6380円を記録しました。
+- [ITmedia ビジネス：野球企業はなぜ黒字転換できたのか](https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html) — 2026-09-22 12:01: 資材や人件費の高騰で多くの企業が悩む中、野球業界ではトップ企業の多くが利益を伸ばし、追い風が吹いています。
 - [Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？](https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html) — 2026-09-22 11:00: 今年からコールドスリープに突入したPerfumeのあ～ちゃんこと西脇綾香が、イタリアのコモ湖で結婚式を挙げたことを自身のインスタグラムで報告しました。
 - [テキサス州知事アボット氏、データセンターの許可を停止へ](https://ai-tech-times.web.app/articles/20260922-texas-data-center-permit-halt.html) — 2026-09-22 10:00: テキサス州のアボット知事が、データセンターの許可停止を命令しました。2026年の中間選挙に向けた争点となっています。
 - [ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景](https://ai-tech-times.web.app/articles/20260922-mainframe-migration-ai-failure.html) — 2026-09-22 09:00: 生成AIがあればレガシー刷新は楽になるという期待に冷や水を浴びせる予測が発表されました。ITmedia AI+が2026年度上半期のシステム刷新関連記事トップ10を紹介しています。
@@ -33,22 +42,13 @@
 - [Apple製AIとオフラインで会話、無料アプリの実力](https://ai-tech-times.web.app/articles/20260922-locally-ai-apple-foundation-models.html) — 2026-09-22 07:01: 2026年9月に登場したiOS 27やmacOS 27に搭載のApple製AIモデル「Apple Foundation Models」と、テキストや画像認識でチャットできる機能が無料アプリ「Locally AI」に追加されました。
 - [判断特化型AI「Jev」を実際に試してみた](https://ai-tech-times.web.app/articles/20260922-jev-guide-with-examples.html) — 2026-09-22 07:01: テキストを生成しない判断特化型AI「Jev」の特徴や使い方を、実際の具体例を交えて解説します。
 - [カイロスパワーがサムスンから最大1億ドル獲得、グーグル向け原発建設へ](https://ai-tech-times.web.app/articles/20260922-kairos-power-samsung-google-nuclear.html) — 2026-09-22 07:01: グーグルへの電力供給を目指す米カイロスパワーが、サムスンから最大1億ドルの資金調達を行い、5万キロワットの原子力発電所建設を進めると発表しました。
-- [Paramount、1100億ドルのWarner Bros.買収訴訟で和解](https://ai-tech-times.web.app/articles/20260922-paramount-warner-bros-merger-settlement.html) — 2026-09-22 07:01: Paramountが、1100億ドル規模のWarner Bros. Discovery買収計画を阻止しようとしていたカリフォルニア州など12州との間で和解に達しました。
-- [名古屋アジア大会で選手村なし、なぜトラブル続出なのか](https://ai-tech-times.web.app/articles/20260922-nagoya-asian-games-troubles.html) — 2026-09-22 07:01: タイのスポーツメディア「SIAMSPORTS」が、名古屋アジア大会で選手村を設けなかったことにより、多くのトラブルが発生していると報じました。
-- [Googleに4億3000万ユーロの巨額罰金、GDPR違反でアイルランド当局が処分](https://ai-tech-times.web.app/articles/20260922-google-fined-403m-euros-gdpr.html) — 2026-09-22 07:01: アイルランドのデータ保護当局は、欧州の消費者権利団体からの苦情に基づき調査を進めていたGoogleに対し、4億3000万ユーロの罰金を科しました。
-- [トランプ大統領、国連総会で高市首相と会談へ](https://ai-tech-times.web.app/articles/20260922-trump-takaichi-summit-un-general-assembly.html) — 2026-09-22 07:01: アメリカのトランプ大統領は22日、ニューヨークで開かれている国連総会に出席し、高市総理大臣と会談を行います。
-- [susten、約10億円の資金調達とゆうちょ銀行との提携なぜ](https://ai-tech-times.web.app/articles/20260922-susten-fundraising-yucho-bank-partnership.html) — 2026-09-22 07:01: AI TECH TIMESでは、上場企業関連の最新ニュースをお届けします。今回はsusten（サステン）による約10億円の資金調達とゆうちょ銀行との資本業務提携についてお伝えします。
-- [トヨタ猛追、AI・銀行がトップ4社混戦の理由](https://ai-tech-times.web.app/articles/20260922-market-cap-top-four-mix.html) — 2026-09-22 05:00: 時価総額トップ4社が混戦となり、AI関連企業や銀行がトヨタを猛追する展開となっています。市場で次の主導役を見定める動きが活発化しています。
-- [台風25号の大雨、神奈川と千葉で2人死亡4人不明](https://ai-tech-times.web.app/articles/20260922-typhoon-25-damage-search.html) — 2026-09-22 04:00: 台風25号に伴う大雨の影響で、神奈川県や千葉県で土砂崩れが相次ぎました。警察と消防による懸命な捜索が続いています。
-- [MATE×MATE!ライブでドリンク代2重請求、返金時の出禁対応が炎上](https://ai-tech-times.web.app/articles/20260922-matemate-drink-fee-refund-controversy.html) — 2026-09-22 03:00: アイドルグループ「MATE×MATE!」のワンマンライブにおいて、観客からドリンク代を2重に請求していたことが発覚しました。運営が返金受付フォームを開設したものの、現地での不適切な対応が新たに暴露され、さらなる炎上につながっています。
-- [Ouraの22億ドルIPO、利益の大半は既存株主に](https://ai-tech-times.web.app/articles/20260922-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders.html) — 2026-09-22 02:00: スマートリングを手がけるOuraの最新のIPOファイルによると、総額22億ドルの株式公開における利益の大部分が既存株主への還元となることが判明しました。投資家の財布事情にどう影響するのでしょうか。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)
 - 2位: [THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix](https://www.youtube.com/watch?v=RjEZaUBbUvU)
 - 3位: [Escape From Playtime | Release Date Trailer](https://www.youtube.com/watch?v=fAXzLmsbrd8)
 
-## AI用語事典 (全1680語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1684語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
@@ -74,11 +74,11 @@
 - [ジェンスン・フアンとは](https://ai-tech-times.web.app/term/%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3.html): 米半導体大手エヌビディアの共同創業者であり、AIブームを牽引する最高経営責任者として広く知られています。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
+- [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
-- [ゼレンスキー大統領とは](https://ai-tech-times.web.app/term/%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98.html): ウクライナの大統領。ロシアによる侵攻が続く中で国家の指揮を執り、国際社会へ支援を訴え続けている。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)

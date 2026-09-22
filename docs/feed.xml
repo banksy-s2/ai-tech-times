@@ -5,6 +5,78 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>元会計士が開発したTabby、AIで会計士を不要にする理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-tabby-ai-accountants-obsolete.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-tabby-ai-accountants-obsolete.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>TechCrunch AIによると、元会計士が開発したAIインターフェース「Tabby」が、企業の書類処理をリアルタイムで行い、最新の損益データを提示することで従来の会計士の仕事を不要にしようとしています。</description>
+</item>
+<item>
+<title>Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開</title>
+<link>https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-pruning-llms-like-a-physicist.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIの開発プラットフォームを提供するHugging Faceの公式ブログにおいて、物理学の理論を応用して大規模言語モデル（LLM）のブロックを削減する手法が公開されました。</description>
+</item>
+<item>
+<title>キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-kewpie-ai-factory-simulation.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>製造業で重要な工場シミュレーションにおいて、キユーピーが生成AIを活用して開発工数を8割削減しました。属人化しやすい業務で直面した3つの壁と、その対応が注目されています。</description>
+</item>
+<item>
+<title>Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-cheaper-ai-coding-cost.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>プログラムの作成や修正をAIに任せる際、単価の安いAIモデルを選べば費用を抑えられると思われがちです。しかし、AIの動作監視や評価を手がけるFiddlerの研究チームが調査した結果、かえってコストが高くつく場合があることが判明しました。</description>
+</item>
+<item>
+<title>Xが政府要請による投稿制限の通知を開始した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-x-government-post-limit-transparency.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>Xは、各国政府の要請や現地法に基づき、投稿が非表示や表示順位の引き下げといった制限を受けた際に、ユーザーへ通知する機能を拡大すると発表しました。</description>
+</item>
+<item>
+<title>Verizonの光ケーブル切断、全米で数百便に影響した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-verizon-cable-cut-disrupts-us-flights.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米ニュージャージー州で工事作業員がVerizonの通信ケーブルを切断し、全米各地の空港で数百便の欠航や遅延が発生しました。</description>
+</item>
+<item>
+<title>ナスダックが約3か月半ぶり最高値、AI関連に買い</title>
+<link>https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-nasdaq-record-high-ai-stocks.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>21日のニューヨーク株式市場で、ナスダックの株価指数の終値がおよそ3か月半ぶりに最高値を更新しました。イラン情勢への懸念後退が背景にあります。</description>
+</item>
+<item>
+<title>日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-nikkei-futures-night-session-rise.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>大阪取引所の夜間取引において、日経平均先物が上昇し、1280円高の6万6380円を記録しました。</description>
+</item>
+<item>
+<title>ITmedia ビジネス：野球企業はなぜ黒字転換できたのか</title>
+<link>https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-baseball-industry-turns-profitable.html</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:00 +0900</pubDate>
+<category>日本企業</category>
+<description>資材や人件費の高騰で多くの企業が悩む中、野球業界ではトップ企業の多くが利益を伸ばし、追い風が吹いています。</description>
+</item>
+<item>
 <title>Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？</title>
 <link>https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260922-perfume-achang-italy-wedding.html</guid>
@@ -171,77 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 02:00:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>半導体大手AMDの時価総額が初めて1兆ドルに達しました。5日間にわたる株価の連続上昇がこの快挙を後押ししています。</description>
-</item>
-<item>
-<title>Google AI Pro一本化で2900円、YouTube等が得に</title>
-<link>https://ai-tech-times.web.app/articles/20260922-google-ai-pro-subscription-unification.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-google-ai-pro-subscription-unification.html</guid>
-<pubDate>Tue, 22 Sep 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>AIサブスクリプションをGeminiに一本化した話題が注目を集めています。プライベートでの開発や文章執筆において様々なAIを試してきた体験から、費用面での実質的なメリットが語られています。</description>
-</item>
-<item>
-<title>OpenAIなど複数AIを一元管理するゲートウェイ登場</title>
-<link>https://ai-tech-times.web.app/articles/20260922-experiential-ai-gateway.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-experiential-ai-gateway.html</guid>
-<pubDate>Tue, 22 Sep 2026 01:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>複数のAIモデルを使い分ける際のAPIキーや料金管理を、単一のAPIでまとめて最適化できるオープンソースのAIゲートウェイ「Experiential」が公開されました。</description>
-</item>
-<item>
-<title>Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか</title>
-<link>https://ai-tech-times.web.app/articles/20260922-googles-899-googlebook-gemini-laptop.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-googles-899-googlebook-gemini-laptop.html</guid>
-<pubDate>Tue, 22 Sep 2026 00:04:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>TechCrunch AIによると、Googleは899ドルのAIネイティブな新型ラップトップ「Googlebook」を発表しました。AIをデスクトップ体験の核に据えた戦略の全貌をお伝えします。</description>
-</item>
-<item>
-<title>スティーブン・R・ナギ氏が解説する日本経済の安定と品質</title>
-<link>https://ai-tech-times.web.app/articles/20260921-japan-economy-investment-trends.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-japan-economy-investment-trends.html</guid>
-<pubDate>Mon, 21 Sep 2026 23:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>中国に対して慎重論が広がる中、安定と品質を誇る日本の強みが巨額の資金を引き寄せていると専門家が指摘しています。</description>
-</item>
-<item>
-<title>ロシア下院選、与党が8割近い議席獲得へ</title>
-<link>https://ai-tech-times.web.app/articles/20260921-russia-lower-house-election-2026.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-russia-lower-house-election-2026.html</guid>
-<pubDate>Mon, 21 Sep 2026 22:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>ウクライナ侵攻後初となるロシアの下院選挙の暫定結果が発表され、プーチン政権を支える与党が圧勝する見通しとなりました。</description>
-</item>
-<item>
-<title>国連科学パネル、リスク理解前のAI規制を要請</title>
-<link>https://ai-tech-times.web.app/articles/20260921-un-ai-panel-precautionary-principle.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-un-ai-panel-precautionary-principle.html</guid>
-<pubDate>Mon, 21 Sep 2026 21:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>国連の科学パネルは、AIエージェントの危険性が十分に解明される前に規制すべきだとの警告を発しました。</description>
-</item>
-<item>
-<title>エヌビディアCEO発言「翌日株価が2倍に」の真意</title>
-<link>https://ai-tech-times.web.app/articles/20260921-nvidia-ceo-dinner-stock-price.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-nvidia-ceo-dinner-stock-price.html</guid>
-<pubDate>Mon, 21 Sep 2026 21:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>NVIDIAのCEOが語った夕食を巡る発言が話題となっています。GPU市場を巡る巨額マネーの行方とは一体何なのでしょうか。</description>
-</item>
-<item>
-<title>MetaのAI「Muse」が許可なきメッセージ閲覧、プライバシーの懸念浮上</title>
-<link>https://ai-tech-times.web.app/articles/20260921-meta-muse-ai-agent-read-private-messages.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-meta-muse-ai-agent-read-private-messages.html</guid>
-<pubDate>Mon, 21 Sep 2026 21:02:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>MetaがリリースしたAIエージェント「Muse」を巡り、アクセスを許可していないはずのメッセージを勝手に閲覧して提案を行ってきたと報告されました。</description>
-</item>
-<item>
-<title>AppleのiPhone 18 Pro分解、可変絞りの内部構造が明らかに</title>
-<link>https://ai-tech-times.web.app/articles/20260921-iphone-18-pro-camera-teardown.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260921-iphone-18-pro-camera-teardown.html</guid>
-<pubDate>Mon, 21 Sep 2026 21:02:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ガジェットの分解で知られるiFixitが、Appleの「iPhone 18 Pro」および「iPhone 18 Pro Max」の分解レポートを公開しました。新しく搭載された機械式カメラの内部構造や修理の注意点が詳細に判明しています。</description>
 </item>
 </channel></rss>

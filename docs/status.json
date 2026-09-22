@@ -1,21 +1,65 @@
 {
- "updated": "2026-09-22 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-22 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "Perfumeあ～ちゃん、イタリアで挙式！なぜこの日に報告？",
-   "path": "/articles/20260922-perfume-achang-italy-wedding.html",
-   "cat": "インフルエンサー"
+   "title": "元会計士が開発したTabby、AIで会計士を不要にする理由",
+   "path": "/articles/20260922-tabby-ai-accountants-obsolete.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Hugging Faceが物理学の理論でLLMのブロックを削除する手法を公開",
+   "path": "/articles/20260922-pruning-llms-like-a-physicist.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "キユーピーがAIで工場シミュレーション開発工数を8割削減できた理由",
+   "path": "/articles/20260922-kewpie-ai-factory-simulation.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Fiddler研究：安いAIモデルほどコード修正費用が高くつく理由",
+   "path": "/articles/20260922-cheaper-ai-coding-cost.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Xが政府要請による投稿制限の通知を開始した理由",
+   "path": "/articles/20260922-x-government-post-limit-transparency.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Verizonの光ケーブル切断、全米で数百便に影響した理由",
+   "path": "/articles/20260922-verizon-cable-cut-disrupts-us-flights.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ナスダックが約3か月半ぶり最高値、AI関連に買い",
+   "path": "/articles/20260922-nasdaq-record-high-ai-stocks.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均先物が夜間取引で1280円高の6万6380円に上昇した理由",
+   "path": "/articles/20260922-nikkei-futures-night-session-rise.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ITmedia ビジネス：野球企業はなぜ黒字転換できたのか",
+   "path": "/articles/20260922-baseball-industry-turns-profitable.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: AI VTuber「Neuro-sama」初のリアルライブ開催 ハリウッドで生バ",
+  "執筆失敗: アメリカと中国 AI重大事案で意思疎通の手段を構築へ",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 70,
+  "used": 96,
   "limit": 200
  }
 }
