@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45RUliZXpRTWt1OXdlWURRb1B5OHQxVHh2cUFiZl95UXVNMHBxRVhfRFlMRTEzenpIUXVmeHlJcEtmV3ZNcUE?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015194801000",
   "https://news.web.nhk/newsweb/na/na-k10015194631000",
   "https://toyokeizai.net/articles/-/953534?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015194721000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260922de51786",
   "https://news.google.com/rss/articles/CBMickFVX3lxTE5QLVJhRHduNXdBMGZpMkVNYkVPajNocF9jbUo4dmhUWnlsdkswejdqWVREZDctejRQNUg4Z1hXYU5ZTVpnNnpnQ2RXWEVLVldVOWpBNXR2OWZQMktlZWtPSmhzZFBzcWhmYlhRUGRiN21RUQ?oc=5",
   "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-  "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+  "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+  "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
+  "https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/"
  ],
  "titles": [
-  "米財務省が長期債買い戻すも､日米金利上昇と歴史的円安が止まらない理由",
-  "上場企業の平均年収は692.6万円、東証プライムの水準は？",
-  "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-  "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
   "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
   "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
   "離婚した28歳人気YouTuber｢寝ていてもお金が入ってくる｣1年に約720万円の不労所得&驚きの投資額を告白 - Yahoo!ニュース",
@@ -4001,6 +3997,10 @@
   "California tightens rules on AI data center energy and water use",
   "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
   "カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名",
-  "OpenAI、数学アドバイザー会合を設立へ"
+  "OpenAI、数学アドバイザー会合を設立へ",
+  "脱メインフレーム、7割超が失敗　背景に「生成AIへの過信」　2026年度上半期システム刷新記事ランキング",
+  "中国AIのKimi、米Claudeに｢代理回答｣させる　アンソロピックが指摘 - 日本経済新聞",
+  "ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景",
+  "米Claudeに「代理回答」させる中国AIのKimi、アンソロピックが不正指摘"
  ]
 }

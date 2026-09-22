@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-22 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-22 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名",
-   "path": "/articles/20260922-california-ai-data-center-rules.html",
-   "cat": "AI(海外)"
+   "title": "ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景",
+   "path": "/articles/20260922-mainframe-migration-ai-failure.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "OpenAI、数学アドバイザー会合を設立へ",
-   "path": "/articles/20260922-openai-forms-math-advisory-group.html",
-   "cat": "AI(海外)"
+   "title": "米Claudeに「代理回答」させる中国AIのKimi、アンソロピックが不正指摘",
+   "path": "/articles/20260922-anthropic--kimi-claude-proxy-response.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 62,
   "limit": 200
  }
 }

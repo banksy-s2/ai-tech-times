@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015194421000",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1VoTC15UDdOSjNUZlNWQlJRZXZDRmpGQkZmR0NuX0RVS0NoVmFmVFVRNUpsNWc5VG0zeXBpMENDdGpnbm55TmR4N2dTenpESzUwa1NrQVctSkRRYXo2YXQxSlc5TXo4VDg4bWhnUDlRc3lVc05TX2U3V1Y4LTRqcFdsalR0NVU?oc=5",
   "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45RUliZXpRTWt1OXdlWURRb1B5OHQxVHh2cUFiZl95UXVNMHBxRVhfRFlMRTEzenpIUXVmeHlJcEtmV3ZNcUE?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015194801000",
   "https://news.web.nhk/newsweb/na/na-k10015194631000",
@@ -1999,13 +1997,11 @@
   "https://www.nikkansports.com/m/sports/news/202609200000551_m.html?mode=all&utm_source=AMPbutton&utm_medium=referral",
   "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/nd-20260922de51786",
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE5QLVJhRHduNXdBMGZpMkVNYkVPajNocF9jbUo4dmhUWnlsdkswejdqWVREZDctejRQNUg4Z1hXYU5ZTVpnNnpnQ2RXWEVLVldVOWpBNXR2OWZQMktlZWtPSmhzZFBzcWhmYlhRUGRiN21RUQ?oc=5"
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE5QLVJhRHduNXdBMGZpMkVNYkVPajNocF9jbUo4dmhUWnlsdkswejdqWVREZDctejRQNUg4Z1hXYU5ZTVpnNnpnQ2RXWEVLVldVOWpBNXR2OWZQMktlZWtPSmhzZFBzcWhmYlhRUGRiN21RUQ?oc=5",
+  "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+  "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
  ],
  "titles": [
-  "a16z、AIの物理的基盤へ11億ドル規模の基金を設立",
-  "28歳YouTuber、億越え資金をドル投資し月60万のFIRE達成",
-  "アメリカ軍、イラン攻撃で日本などの兵器補充に数年か",
-  "トランプ氏、ベネズエラ産原油650億バレルの米国管理で合意",
   "米財務省が長期債買い戻すも､日米金利上昇と歴史的円安が止まらない理由",
   "上場企業の平均年収は692.6万円、東証プライムの水準は？",
   "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -4001,6 +3997,10 @@
   "名古屋アジア大会で選手村なし、なぜトラブル続出なのか",
   "Googleに4億3000万ユーロの巨額罰金、GDPR違反でアイルランド当局が処分",
   "トランプ大統領、国連総会で高市首相と会談へ",
-  "susten、約10億円の資金調達とゆうちょ銀行との提携なぜ"
+  "susten、約10億円の資金調達とゆうちょ銀行との提携なぜ",
+  "California tightens rules on AI data center energy and water use",
+  "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+  "カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名",
+  "OpenAI、数学アドバイザー会合を設立へ"
  ]
 }

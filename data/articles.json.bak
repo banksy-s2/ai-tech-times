@@ -99386,5 +99386,78 @@
   "date": "2026-09-22",
   "time": "07:01",
   "path": "/articles/20260922-susten-fundraising-yucho-bank-partnership.html"
+ },
+ {
+  "title": "カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名",
+  "lead": "AI TECH TIMESは、カリフォルニア州で成立したAIデータセンターの規制強化に関する最新情報をお伝えします。",
+  "summary3": [
+   "カリフォルニア州でAI関連の7法案が成立",
+   "データセンターの電気代住民転嫁を防ぐ",
+   "新料金区分導入と設備投資負担を義務化"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、カリフォルニア州のギャビン・ニューサム知事は、AIデータセンターが住民に対してユーティリティコストを転嫁することを防ぐために設計された7つの法案に署名しました。これはロサンゼルス・タイムズによって最初に報じられたものです。",
+   "新たに成立した一連の法律では、カリフォルニア公共ユーティリティ委員会に対して、データセンター向けの新しいた料金区分の導入を義務付けています。さらに、データセンター側に対して送電網などのアップグレードにかかる費用を支払うよう強制する内容となっています。",
+   "今回の法案署名により、急増するAIデータセンターの電力および水資源の利用に伴う負担が、地域の住民生活や家計に悪影響を及ぼさないよう対策が講じられることになります。州全体でインフラコストの公平な負担ルール作りが進められています。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "エネルギー"
+  ],
+  "slug": "california-ai-data-center-rules",
+  "people": [
+   {
+    "name": "ギャビン・ニューサム知事",
+    "bio": "アメリカ・カリフォルニア州の知事。民主党に所属し、同州の政治を率いる政治家である。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "カリフォルニア公共ユーティリティ委員会",
+    "type": "company",
+    "desc": "アメリカ・カリフォルニア州において、電力や水道などの公共料金やサービスを規制・監督する政府機関である。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "08:00",
+  "path": "/articles/20260922-california-ai-data-center-rules.html"
+ },
+ {
+  "title": "OpenAI、数学アドバイザー会合を設立へ",
+  "lead": "AIが100以上の未解決問題の解決に至る中、OpenAIが数学に関するアドバイザーグループを新たに設立したことが明らかになりました。",
+  "summary3": [
+   "OpenAIが数学アドバイザー会合を設立",
+   "AIが100以上の未解決問題を解決",
+   "研究の方向転換などは行わない方針"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、米国の人工知能開発企業OpenAIが、数学アドバイザーグループを新たに設立したことが分かりました。",
+   "今回のグループ設立は、AIがこれまでに100以上の未解決問題を解決したという成果を背景に行われたものです。",
+   "ただし、このアドバイザーグループには、OpenAIが現在進めている数学研究のペースを落としたり、方向を転換させたりする権限は与えられない方針となっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "AI",
+   "数学"
+  ],
+  "slug": "openai-forms-math-advisory-group",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国の人工知能開発企業であり、高度なAIモデルの研究開発を行っていることで知られています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "08:00",
+  "path": "/articles/20260922-openai-forms-math-advisory-group.html"
  }
 ]

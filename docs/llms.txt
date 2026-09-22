@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-22 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [ITmedia AI+：脱メインフレーム7割超失敗、生成AI過信の背景](https://ai-tech-times.web.app/articles/20260922-mainframe-migration-ai-failure.html) — 2026-09-22 09:00: 生成AIがあればレガシー刷新は楽になるという期待に冷や水を浴びせる予測が発表されました。ITmedia AI+が2026年度上半期のシステム刷新関連記事トップ10を紹介しています。
+- [米Claudeに「代理回答」させる中国AIのKimi、アンソロピックが不正指摘](https://ai-tech-times.web.app/articles/20260922-anthropic--kimi-claude-proxy-response.html) — 2026-09-22 09:00: 米アンソロピックは、中国企業が開発する人工知能（AI）「Kimi」による新たな不正使用を指摘しました。利用者の質問を高性能AI「クロード」に転送し、自社の回答として偽って示す手口が確認されています。
 - [カリフォルニア州知事、AIデータセンターの電気代転嫁を防ぐ7法案に署名](https://ai-tech-times.web.app/articles/20260922-california-ai-data-center-rules.html) — 2026-09-22 08:00: AI TECH TIMESは、カリフォルニア州で成立したAIデータセンターの規制強化に関する最新情報をお伝えします。
 - [OpenAI、数学アドバイザー会合を設立へ](https://ai-tech-times.web.app/articles/20260922-openai-forms-math-advisory-group.html) — 2026-09-22 08:00: AIが100以上の未解決問題の解決に至る中、OpenAIが数学に関するアドバイザーグループを新たに設立したことが明らかになりました。
 - [MetaのMuse、ChatGPT超えの初期普及を示す](https://ai-tech-times.web.app/articles/20260922-metas-muse-outpacing-chatgpt.html) — 2026-09-22 07:01: Metaの新しいAIエージェント「Muse」が、米国とカナダのモバイル市場において、ChatGPTの初期を上回るダウンロード数とアクティブユーザー数を記録したことが分かりました。
@@ -40,8 +42,6 @@
 - [Ouraの22億ドルIPO、利益の大半は既存株主に](https://ai-tech-times.web.app/articles/20260922-ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders.html) — 2026-09-22 02:00: スマートリングを手がけるOuraの最新のIPOファイルによると、総額22億ドルの株式公開における利益の大部分が既存株主への還元となることが判明しました。投資家の財布事情にどう影響するのでしょうか。
 - [AMD時価総額1兆ドル到達の背景に何が？株価180%高の軌跡](https://ai-tech-times.web.app/articles/20260922-amd-hits-1-trillion-market-cap.html) — 2026-09-22 02:00: 半導体大手AMDの時価総額が初めて1兆ドルに達しました。5日間にわたる株価の連続上昇がこの快挙を後押ししています。
 - [Google AI Pro一本化で2900円、YouTube等が得に](https://ai-tech-times.web.app/articles/20260922-google-ai-pro-subscription-unification.html) — 2026-09-22 01:00: AIサブスクリプションをGeminiに一本化した話題が注目を集めています。プライベートでの開発や文章執筆において様々なAIを試してきた体験から、費用面での実質的なメリットが語られています。
-- [OpenAIなど複数AIを一元管理するゲートウェイ登場](https://ai-tech-times.web.app/articles/20260922-experiential-ai-gateway.html) — 2026-09-22 01:00: 複数のAIモデルを使い分ける際のAPIキーや料金管理を、単一のAPIでまとめて最適化できるオープンソースのAIゲートウェイ「Experiential」が公開されました。
-- [Googleが899ドルのAIノートPCを発売、Gemini連係で何が変わるか](https://ai-tech-times.web.app/articles/20260922-googles-899-googlebook-gemini-laptop.html) — 2026-09-22 00:04: TechCrunch AIによると、Googleは899ドルのAIネイティブな新型ラップトップ「Googlebook」を発表しました。AIをデスクトップ体験の核に据えた戦略の全貌をお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-09-22)
 - 1位: [ALLDAY PROJECT - ‘TALK’ M/V](https://www.youtube.com/watch?v=1Qx6ktR3CEk)
