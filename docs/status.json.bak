@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-22 22:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか",
-   "path": "/articles/20260922-bc-sues-openai-tumbler-ridge.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "トランプ大統領、フーシ派空爆の方針転換",
-   "path": "/articles/20260922-trump-yemen-airstrike-policy-shift.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-22 23:02",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "ALLDAY PROJECT - ‘TALK’ M/V",
   "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk"
  },
- "notes": [],
+ "notes": [
+  "株式投資(日本)の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 179,
+  "used": 184,
   "limit": 200
  }
 }
