@@ -100091,5 +100091,268 @@
   "date": "2026-09-22",
   "time": "16:00",
   "path": "/articles/20260922-robin-williams-daughter-ai-videos.html"
+ },
+ {
+  "title": "米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか",
+  "lead": "米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。",
+  "summary3": [
+   "米南部国境に多数の監視塔を設置",
+   "技術的アラート機能が作動する状況",
+   "悲劇を防げなかった要因が浮上"
+  ],
+  "body": [
+   "MIT Tech Review AIの報道によると、2024年4月8日、32歳の誕生日を翌日に控えていたホセ・モラレス・ベルナル氏は、米国との国境を越えてニューメキシコ州南部の砂漠地帯を歩いていました。",
+   "その朝、彼が歩いていた場所は、新しく設置された3基の監視塔の通信範囲内に含まれていました。本来であれば、技術的なアラートと人間の迅速な対応という一連の連鎖が引き起こされるはずの状況でした。",
+   "しかし、多額の予算が投じられて構築されたはずの国境監視システムが、彼の命が失われる前に発見し救助へとつなげることはできませんでした。最先端の監視技術が直面する課題が浮き彫りになっています。"
+  ],
+  "tags": [
+   "AI TECH TIMES",
+   "国境監視",
+   "テクノロジー"
+  ],
+  "slug": "us-border-surveillance-towers-investigation",
+  "people": [
+   {
+    "name": "ホセ・モラレス・ベルナル氏",
+    "bio": "2024年4月に米国国境を越え、ニューメキシコ州の砂漠地帯で命を落とした人物。"
+   }
+  ],
+  "terms": [],
+  "source": "MIT Tech Review AI",
+  "source_url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+  "category": "ai",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-us-border-surveillance-towers-investigation.html"
+ },
+ {
+  "title": "SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由",
+  "lead": "SpaceXAIは、同社最高性能となるAIモデル「Grok 4.7」を発表しました。価格と速度を維持しながら、コーディングや業務タスクの性能を強化しています。",
+  "summary3": [
+   "SpaceXAIがGrok 4.7を発表",
+   "コーディングや業務性能が向上",
+   "価格据え置きで即日提供を開始"
+  ],
+  "body": [
+   "AI TECH TIMES編集部：SpaceXAIは、新モデルとなるAIモデル「Grok 4.7」を発表しました。前モデルと同価格および同速度を維持しつつ、大規模なベースモデルを採用したのが大きな特徴です。",
+   "今回のアップデートにより、コーディングや長時間の業務タスクにおける性能、そして安全性が大幅に強化されました。競合の最新モデルと比べても、大幅な低コストと高速性を打ち出しています。",
+   "「Grok 4.7」はCursorやAPI経由で即日提供されており、同社の主力モデルとしての利用が見込まれています。"
+  ],
+  "tags": [
+   "SpaceXAI",
+   "Grok 4.7",
+   "AIモデル"
+  ],
+  "slug": "spacexai-grok-4-7-announced",
+  "people": [],
+  "terms": [
+   {
+    "name": "SpaceXAI",
+    "type": "company",
+    "desc": "最先端のAIモデルの開発を手がける企業であり、新たな主力モデルを提供している。"
+   },
+   {
+    "name": "Grok 4.7",
+    "type": "ai",
+    "desc": "SpaceXAIが発表したコーディングや業務タスク向けの大規模ベースモデル。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+  "category": "ai_jp",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-spacexai-grok-4-7-announced.html"
+ },
+ {
+  "title": "アリババ株3%高、新AIチップとデータセンター拡大の狙い",
+  "lead": "中国の巨大テック企業であるアリババが、香港市場で株価を3%上昇させました。新型AIチップの発表と、グローバルなデータセンター網の大幅な拡大計画が好感されています。",
+  "summary3": [
+   "香港市場でアリババ株が3%上昇",
+   "新AIチップと拡張計画を発表",
+   "グローバルデータセンターを拡大"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。火曜日の香港市場において、中国のテクノロジー大手であるアリババの株価が前日比で3%上昇しました。この株価上昇の背景には、同社が新たに発表したAIチップと、グローバルなデータセンター容量を急拡大させる計画があります。",
+   "アリババは今回、AI分野の競争力を強化するための新型AIチップを明らかにしました。同時に、世界各国におけるデータセンターのインフラ構築計画を鋭意進め、急増するAIやクラウドコンピューティングの需要に対応していく方針を示しています。",
+   "今回の発表は、世界のAI開発競争が激化する中で、同社がハードウェアからインフラ基盤に至るまで巨額の投資を行っていることを示しています。投資家の間では、これらの戦略が今後の成長を牽引するとの期待が高まっており、今回の株価上昇につながりました。"
+  ],
+  "tags": [
+   "Alibaba",
+   "AIチップ",
+   "データセンター"
+  ],
+  "slug": "alibaba-shares-jump-ai-chip-datacenter",
+  "people": [],
+  "terms": [
+   {
+    "name": "アリババ",
+    "type": "company",
+    "desc": "中国に本拠を置き、Eコマースやクラウドコンピューティング事業などを展開する世界的な巨大テクノロジー企業です。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html"
+ },
+ {
+  "title": "Xiaomi、新型オープンモデル「MiMo-V2.6」公開の狙い",
+  "lead": "AI TECH TIMESがお伝えする最新ニュース。XiaomiがオープンウェイトのオムニモーダルAIモデル「MiMo-V2.6 Pro」および「Flash」を発表しました。多くのエージェントベンチマークにおいて高い性能を発揮するとしています。",
+  "summary3": [
+   "Xiaomiが新モデルを発表",
+   "MiMo-V2.6シリーズを公開",
+   "Pro版の高い性能が話題に"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、Xiaomiは現地時間26日、オープンウェイトのオムニモーダルモデル「MiMo-V2.6 Pro」および「Flash」を発表しました。同社はフロンティアインテリジェンスの全モダリティを公開の場で構築してきたとして、MiMo-V2.6シリーズのリリースとオープンソース化を明らかにしています。",
+   "特に「MiMo-V2.6 Pro」については、ほとんどのエージェントベンチマークにおいて「Opus 5およびGPT-5.6 Solに匹敵する」性能を発揮すると主張されています。最先端のAIモデル群と肩を並べる高い処理能力を備えている点が大きな特徴です。",
+   "オープンソースとして公開されたことで、今後の開発者コミュニティにおける活用や、さらなる応用展開への期待が高まっています。AI技術の進化が加速する中、Xiaomiによる今回のモデル公開が市場にどのような影響を与えるのか、引き続き注目が集まります。"
+  ],
+  "tags": [
+   "Xiaomi",
+   "AI",
+   "オープンソース"
+  ],
+  "slug": "xiaomi-debuts-mimo-v2-6-models",
+  "people": [],
+  "terms": [
+   {
+    "name": "Xiaomi",
+    "type": "company",
+    "desc": "中国を拠点とする世界的な総合家電およびスマートフォンメーカー"
+   },
+   {
+    "name": "MiMo-V2.6 Pro",
+    "type": "ai",
+    "desc": "Xiaomiが発表したオープンウェイトのオムニモーダルAIモデル"
+   }
+  ],
+  "source": "Techmeme",
+  "source_url": "https://www.techmeme.com/260921/p52#a260921p52",
+  "category": "silicon",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-xiaomi-debuts-mimo-v2-6-models.html"
+ },
+ {
+  "title": "総フォロワー300万人超のインフルエンサー、メニュー外の注文断られ物議",
+  "lead": "総フォロワー数300万人を超える人気のインフルエンサーが、飲食店でメニューにないドリンクの注文を断られた際の発言が物議を醸しています。",
+  "summary3": [
+   "総フォロワー300万人超の人気人物が話題",
+   "飲食店でメニュー外の注文を断られる",
+   "持論を展開したことでネット上で物議"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、総フォロワー数300万人超を誇る人気のインフルエンサーが、飲食店を訪れた際の出来事をめぐって注目を集めています。",
+   "このインフルエンサーは、メニューに載っていない「カルピスソーダ」の注文を飲食店側から断られたといい、その対応に対する自身の持論を展開しました。「常識足りないかな」と疑問を投げかけたこの発言は、ネット上で大きな物議を醸しています。",
+   "飲食店でのサービス対応やメニュー外の注文を巡っては、日頃から様々な意見が交わされており、今回の発言についても賛否両論の議論が広がっている状況です。"
+  ],
+  "tags": [
+   "インフルエンサー",
+   "SNS",
+   "グルメ"
+  ],
+  "slug": "influencer-menu-dispute",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9faUZvY2xWNUwzZXdhMkhwcG1EQ2VTRlBrcjRSME5UVnE0My1wSy1NaHlIcVZHSno3ek81VXFEM21uSHZYZnBHWVVyTWlGZw?oc=5",
+  "category": "influencer",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-influencer-menu-dispute.html"
+ },
+ {
+  "title": "北朝鮮ミサイル飛行距離約1000キロ、日本への影響は",
+  "lead": "北朝鮮が20日に行ったとする新型兵器の試験について、韓国の専門家から見解が示されました。発射されたミサイルは日本の一部も射程に収めていた可能性があります。",
+  "summary3": [
+   "北朝鮮が20日に新型兵器の試験を実施",
+   "ミサイルの飛行距離は約1000キロに到達",
+   "日本の一部を射程に収めた可能性を指摘"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がNHK 国際の情報をもとに報じるところによると、北朝鮮が20日に行ったとする新型兵器の試験について、新たな分析が明らかになりました。",
+   "韓国の専門家からの見解によると、この試験で発射されたミサイルは最終的な飛行距離がおよそ1000キロに達したということです。",
+   "さらに、このミサイルは日本の一部も射程に収めていた可能性があるとの見方も出ており、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "北朝鮮",
+   "ミサイル",
+   "安全保障"
+  ],
+  "slug": "north-korea-missile-1000km-range",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260922de51828",
+  "category": "world",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-north-korea-missile-1000km-range.html"
+ },
+ {
+  "title": "米銀株に陰り、経営陣が業績減速に予防線を張る理由",
+  "lead": "米銀株の動向に陰りが見え始めており、経営陣が業績減速に対する予防線を張る動きが出ています。",
+  "summary3": [
+   "米銀株に陰りが見え始める",
+   "経営陣が業績減速に予防線",
+   "AI不安や金利上昇に警戒"
+  ],
+  "body": [
+   "AI TECH TIMES編集部におきまして、日本経済新聞の報道に基づき、米国の銀行株に関する最新の動向をお伝えいたします。現在、米銀株に陰りが見える状況となっており、市場関係者の間で関心を集めております。",
+   "伝えられるところによりますと、米銀の経営陣が業績減速に対する予防線を張る姿勢を示しているとのことです。その背景には、AIに対する不安感や、金利上昇に対する警戒感が存在していると指摘されています。",
+   "今後の市場環境においては、こうした要因が銀行の業績や株価にどのような影響を与えるのか、引き続き慎重な見方が続けられることになりそうです。投資家や市場参加者にとっては、今後の動向を注視する必要がある状況と言えます。"
+  ],
+  "tags": [
+   "米銀株",
+   "金融",
+   "市場動向"
+  ],
+  "slug": "us-bank-stocks-caution",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心とした報道を行う日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSDNEMzNqdTQ2VkVMTEFPVjhLV3ZDNGZTMklhTTd2eG1DYXNxd2xLam9UR3ZxLS1rM0J1QVNiRVc0YjZld0laVlRTX0k1VnhoT040TWV0NnYyMVpqcUVXbVJlLUQyeW5SSFVhUQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-us-bank-stocks-caution.html"
+ },
+ {
+  "title": "ジャパンリーグとルートイン BC リーグが業務提携を締結",
+  "lead": "AI TECH TIMESがお伝えする企業の最新動向ニュース。ジャパンリーグとルートイン BC リーグの間で、業務提携が締結されたことが発表されました。",
+  "summary3": [
+   "ジャパンリーグがBCリーグと提携",
+   "3年目の業務提携締結を発表",
+   "prtimes.jpにて情報を公開"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、ジャパンリーグとルートイン BC リーグの間で、3年目となる業務提携が締結されたことが明らかになりました。この情報はprtimes.jpを通じて発表されています。",
+   "今回の提携は継続的な取り組みの一環として実施されるものであり、両リーグ間におけるこれまでの協力関係をさらに発展させるものとなります。",
+   "詳細な発表内容や今後の具体的な取り組みについては、関連するプレスリリース等の情報をご確認ください。当サイトでは引き続き企業の動向に関する正確な事実をお伝えしてまいります。"
+  ],
+  "tags": [
+   "ジャパンリーグ",
+   "ルートインBCリーグ",
+   "業務提携"
+  ],
+  "slug": "japan-league-bc-league-business-alliance",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRlVhMUU0UVVNWTBiRFkzRjBNZlFrQ3JZZ2NXSExpMmJqSy1fdmxwRlRsMWFRVE9DNXppczBRQ2Exd0Izb3EzU09rY0hiUUFDQkpfY0E3bDlfcmVFRmdvV1l5cmtwUXNnVnc?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-22",
+  "time": "17:06",
+  "path": "/articles/20260922-japan-league-bc-league-business-alliance.html"
  }
 ]

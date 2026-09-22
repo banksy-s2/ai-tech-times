@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQl9pMS0xRWdYVU13bTBVTmdTN1h3S3hKaklBQ1ZzQmN0RGhhcmItMWVTLXZOendXOXlrb3ZDczRYV195MGtOTGc0S1ljTnpkTEE0NFRHZnduUHVHWXh3Sm1jUUFIZ2dUa3dXMQ?oc=5",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbzJVNGdoSGlXeEhaMlhqVk5sc2pXRGY5NUtaRU96UENNM1BsYnRIS3lyUURZU09xNHRqcEFNTmNLMERFU0k2Sl8tR2lQa2NFS211Q3lfUWhxMzVDTFNFYkY5U1M3YzQ2cFhWQg?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTzZXLWItVG1zeVVwbVktbXRDX1lXc1RvaUo0N1ZYNkxSY0k5Nk0zVmtjVVotYTBmUFBmamctYm9JRlNvT3VaVWduUmY0RDY5OWc?oc=5",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URjl3OExWRlVLUlZCQUVHRkh6NkVZRTN0MS1sVlVVd1phUEtCT1RSaDVjNGdSSWVnUElFQWJFOUxOZ05nb1k4SG9NVW9CSlIzYzhFTEZR?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015195291000",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9faUZvY2xWNUwzZXdhMkhwcG1EQ2VTRlBrcjRSME5UVnE0My1wSy1NaHlIcVZHSno3ek81VXFEM21uSHZYZnBHWVVyTWlGZw?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260922de51828",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSDNEMzNqdTQ2VkVMTEFPVjhLV3ZDNGZTMklhTTd2eG1DYXNxd2xLam9UR3ZxLS1rM0J1QVNiRVc0YjZld0laVlRTX0k1VnhoT040TWV0NnYyMVpqcUVXbVJlLUQyeW5SSFVhUQ?oc=5",
-  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRlVhMUU0UVVNWTBiRFkzRjBNZlFrQ3JZZ2NXSExpMmJqSy1fdmxwRlRsMWFRVE9DNXppczBRQ2Exd0Izb3EzU09rY0hiUUFDQkpfY0E3bDlfcmVFRmdvV1l5cmtwUXNnVnc?oc=5"
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRlVhMUU0UVVNWTBiRFkzRjBNZlFrQ3JZZ2NXSExpMmJqSy1fdmxwRlRsMWFRVE9DNXppczBRQ2Exd0Izb3EzU09rY0hiUUFDQkpfY0E3bDlfcmVFRmdvV1l5cmtwUXNnVnc?oc=5",
+  "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+  "https://kn.itmedia.co.jp/kn/article/2609/21/2000001655/"
  ],
  "titles": [
-  "こども家庭庁が明かす待機児童問題の行方",
-  "中国製ドローン排除の米、中国の規模に阻まれる理由",
-  "BYD利益増なのに株価下落、中国の激しい競争が影響",
-  "ミスタービースト、登録者5億人超えで挑むマインクラフト地球化の理由",
   "アメリカ軍とイランが直接攻撃、ホルムズ海峡で何が",
   "タイ政府、最大500万人が生成AIを無料化、なぜ費用を負担するのか",
   "長期金利一時2.95％上昇、29年10か月ぶり高水準",
@@ -4001,6 +3997,10 @@
   "総フォロワー300万人超のインフルエンサー、メニュー外の注文断られ物議",
   "北朝鮮ミサイル飛行距離約1000キロ、日本への影響は",
   "米銀株に陰り、経営陣が業績減速に予防線を張る理由",
-  "ジャパンリーグとルートイン BC リーグが業務提携を締結"
+  "ジャパンリーグとルートイン BC リーグが業務提携を締結",
+  "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+  "大和鋼管工業、SaaS増加で複雑化したライセンス管理を「情シスAI」でどう解決？",
+  "古書店で売上5倍の大量注文、背景にAI学習か",
+  "大和鋼管工業がSaaS管理を「情シスAI」で解決した理由"
  ]
 }

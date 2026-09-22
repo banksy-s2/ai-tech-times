@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>古書店で売上5倍の大量注文、背景にAI学習か</title>
+<link>https://ai-tech-times.web.app/articles/20260922-used-bookstores-large-orders-ai-learning.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-used-bookstores-large-orders-ai-learning.html</guid>
+<pubDate>Tue, 22 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>日本各地のオンライン古書店で今年8月ごろから書籍の大量注文が相次いでいます。業界内では生成AIの学習データを集める目的ではないかという見方が広がっています。</description>
+</item>
+<item>
+<title>大和鋼管工業がSaaS管理を「情シスAI」で解決した理由</title>
+<link>https://ai-tech-times.web.app/articles/20260922-daiwa-ko-saas-management.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260922-daiwa-ko-saas-management.html</guid>
+<pubDate>Tue, 22 Sep 2026 18:01:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>SaaSの増加によりライセンス管理が複雑化していた大和鋼管工業が、効率化に向けた一元化の動きを見せました。</description>
+</item>
+<item>
 <title>米南部で導入された数百万ドルの監視塔群、なぜ命は救えなかったのか</title>
 <link>https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260922-us-border-surveillance-towers-investigation.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI TECH TIMESは、カリフォルニア州で成立したAIデータセンターの規制強化に関する最新情報をお伝えします。</description>
-</item>
-<item>
-<title>OpenAI、数学アドバイザー会合を設立へ</title>
-<link>https://ai-tech-times.web.app/articles/20260922-openai-forms-math-advisory-group.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-openai-forms-math-advisory-group.html</guid>
-<pubDate>Tue, 22 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIが100以上の未解決問題の解決に至る中、OpenAIが数学に関するアドバイザーグループを新たに設立したことが明らかになりました。</description>
-</item>
-<item>
-<title>MetaのMuse、ChatGPT超えの初期普及を示す</title>
-<link>https://ai-tech-times.web.app/articles/20260922-metas-muse-outpacing-chatgpt.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-metas-muse-outpacing-chatgpt.html</guid>
-<pubDate>Tue, 22 Sep 2026 07:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaの新しいAIエージェント「Muse」が、米国とカナダのモバイル市場において、ChatGPTの初期を上回るダウンロード数とアクティブユーザー数を記録したことが分かりました。</description>
 </item>
 </channel></rss>
