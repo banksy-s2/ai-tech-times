@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-22 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-22 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "新潟の県内上場企業が個人投資家へ魅力発信「IRフォーラム2026」",
-   "path": "/articles/20260922-ir-forum-2026-niigata.html",
-   "cat": "日本企業"
+   "title": "金融質問にAIチャットボットが「大半で」誤回答する理由",
+   "path": "/articles/20260922-ai-chatbots-wrong-answers-financial-queries.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "ロビン・ウィリアムズの娘、AI動画作成に「恥を知れ」と怒り",
+   "path": "/articles/20260922-robin-williams-daughter-ai-videos.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 108,
+  "used": 111,
   "limit": 200
  }
 }
