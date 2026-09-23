@@ -1,65 +1,26 @@
 {
- "updated": "2026-09-23 12:02",
- "mode": "フル便",
+ "updated": "2026-09-23 13:00",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "MetaのAI「Muse」が類似を認めた理由",
-   "path": "/articles/20260923-meta-admits-muses-likeness-to-openclaw.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "OpenAI、数学者パネルを新設する理由",
-   "path": "/articles/20260923-openai-consults-elite-mathematicians.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "オープンAIにフィールズ賞教授が反発、成果横取りとは",
-   "path": "/articles/20260923-openai-fields-medal-controversy.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "a16zが学校を設立、優秀な高校卒業生を育成する狙いとは",
-   "path": "/articles/20260923-a16z-launches-new-school-for-grads.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トヨタ、工場ロボット導入でも人間は維持する理由",
-   "path": "/articles/20260923-toyota-humanoid-robots-factory.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "ナイキ株が0.4％安、コンバース広告騒動とエムバペ離脱で",
-   "path": "/articles/20260923-nike-stocks-decline-converse-ad.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "トランプ大統領 グリーンランドに米軍基地設置へ",
-   "path": "/articles/20260923-trump-greenland-military-base.html",
+   "title": "ダウ185ドル安の一方でナスダック最高値更新の理由",
+   "path": "/articles/20260923-dow-nasdaq-market-update-20260923.html",
    "cat": "時事・世界"
   },
   {
-   "title": "トランプ大統領、軽油輸出禁止を政権内部に要求",
-   "path": "/articles/20260923-trump-diesel-export-ban.html",
+   "title": "BBC報道：発達中のエルニーニョが過去最強を記録、生活への影響はなぜ広がるのか",
+   "path": "/articles/20260923-developing-el-nino-strongest-on-record.html",
    "cat": "時事・世界"
-  },
-  {
-   "title": "シカゴ日経平均先物、大取終値比1870円高",
-   "path": "/articles/20260923-chicago-nikkei-futures-up-1870-yen.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
- "notes": [
-  "執筆失敗: トランプ大統領、国連演説で「AI」を「Super Intelligence」に改",
-  "日本企業の選定失敗: '<=' not supported between instances of 'int' and 'NoneType'",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 120,
+  "used": 124,
   "limit": 200
  }
 }
