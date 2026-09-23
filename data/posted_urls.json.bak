@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PX3ZyN2tKd1l1N3BYUWtkdHJUOU1WS3ZJUlJZXzA4bnN5QXFCaUtZaUllOHpKRkJfTV9FQmlpN1NxaEVoMjNtbDRLNWp4dUdwbDhIb2dXeVRNRHN0a3cyQzVJMFg0azYyOXUxNw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015195481000",
   "https://news.web.nhk/newsweb/na/na-k10015195621000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMXUxdUZ2eUlTSHZucVZweEh5aE9UWjk0R3hwbXRxUEVzQXRYUGZ6NnZ1Z2tqM2lVemFZOHFiNTZZRDlRLUdibXk3ZGVnNzJmZFI4a2JWQUw0cUFGN3lTc2hSejNKUHhWakZLTA?oc=5",
@@ -1999,11 +1998,10 @@
   "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QTC00bmI2d09vXzdPSlcwYkM2bERyQlFDaVA1Y1FuZXRNbnMxYWxDVHYzYnhHY09pQmxWZlpPZ2ZFa2xNWFE?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260923de51940",
   "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-  "https://toyokeizai.net/articles/-/958486?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  "https://toyokeizai.net/articles/-/958486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVUJwSk42dTdCMTI0TW1yRDU1NHNtdVlMenBMdmhud1FpSE5VeHBlcG1GZTc0Zllmd1pCc0ZlbTd5SHNuaXYxYmtXNjVCam92Qy1leXZLdVZwOVpN?oc=5"
  ],
  "titles": [
-  "The Hugging Face hack could indicate cultural issues at OpenAI",
-  "「ChatGPT」広告、年換算の売上高10億ドルに　開始200日足らずで達成",
   "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
   "ティックトッカーの“電車にスマホ貼り付け”騒動に東京メトロが言及　「撮影許可していない」",
   "鈴木農相 政府備蓄米21万トン買い戻しを表明",
@@ -4001,6 +3999,8 @@
   "ダウ185ドル安の一方でナスダック最高値更新の理由",
   "BBC報道：発達中のエルニーニョが過去最強を記録、生活への影響はなぜ広がるのか",
   "ファンダメンタルズに目を背ける日米当局の過度な介入では長期金利上昇は止まらない､市場シグナルを歪める大きな代償 | 政治・経済・投資 | 東洋経済オンライン",
-  "日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク"
+  "日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク",
+  "米決算発表予定（9/21-9/25）－今晩はなし | 個別記事 | ニュース - traders.co.jp",
+  "米企業の決算発表スケジュール、今晩の予定はなし"
  ]
 }

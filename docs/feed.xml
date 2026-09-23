@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>クアルコム、AI強化の新型スマホ向けチップ2種を発表</title>
+<link>https://ai-tech-times.web.app/articles/20260923-qualcomm-launches-two-new-smartphone-chips.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260923-qualcomm-launches-two-new-smartphone-chips.html</guid>
+<pubDate>Wed, 23 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米半導体大手クアルコムが、AI機能を大幅に強化したスマートフォン向けの新チップを2種類発表しました。最上位チップでは、30B規模のモデルをローカル環境で実行可能です。</description>
+</item>
+<item>
+<title>Rabbitの新型AIエージェント、専用端末なしで利用可能に</title>
+<link>https://ai-tech-times.web.app/articles/20260923-rabbit-ai-agent-os3-standalone.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260923-rabbit-ai-agent-os3-standalone.html</guid>
+<pubDate>Wed, 23 Sep 2026 16:01:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>R1端末を手掛けたRabbitが、専用ハードウェアを不要とする独立型AIエージェントを発表しました。クラウド上で動作し、様々なOSでローカル操作が可能になります。</description>
+</item>
+<item>
 <title>米企業の決算発表スケジュール、今晩の予定はなし</title>
 <link>https://ai-tech-times.web.app/articles/20260923-us-earnings-schedule-september.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260923-us-earnings-schedule-september.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 23 Sep 2026 05:00:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>日本経済新聞は社説において、新TOPIXを企業が成長を競い合う起点にすべきだと報じました。</description>
-</item>
-<item>
-<title>ホワイトハウスが「トランプTV」開始、その狙いとは</title>
-<link>https://ai-tech-times.web.app/articles/20260923-white-house-trump-tv-launch.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-white-house-trump-tv-launch.html</guid>
-<pubDate>Wed, 23 Sep 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカの主要テレビ局がトランプ大統領に関する代表取材を一時取りやめる中、ホワイトハウスが新たに24時間配信を開始し物議を醸しています。</description>
-</item>
-<item>
-<title>Xboxが3600人削減、アクティビジョンが次期Halo開発へ</title>
-<link>https://ai-tech-times.web.app/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html</guid>
-<pubDate>Wed, 23 Sep 2026 04:00:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>Xboxが発表した大規模な人員削減と組織の「リセット」の一環として、傘下のアクティビジョンが人気ゲーム「Halo」の次回作を手がけることが明らかになりました。</description>
 </item>
 </channel></rss>
