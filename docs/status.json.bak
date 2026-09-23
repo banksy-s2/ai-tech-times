@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-24 00:03",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-24 01:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [],
  "buzz_top": {
   "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
  "notes": [
-  "AI(海外)の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+  "日本のAIの選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 6,
+  "used": 11,
   "limit": 200
  }
 }

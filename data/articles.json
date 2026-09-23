@@ -102804,5 +102804,39 @@
   "date": "2026-09-23",
   "time": "21:06",
   "path": "/articles/20260923-kioxia-hd-shares-dividend-risk.html"
+ },
+ {
+  "title": "Commaの自動運転技術、2件の死亡事故で調査開始",
+  "lead": "TechCrunchの報道によると、Commaのハンズオフ運転技術に関連する2件の致命的な事故を受け、調査が開始されました。この調査には、ドライバーが同社のソフトウェアの「フォークト（派生）」バージョンを使用していたとみられる事例が含まれています。",
+  "summary3": [
+   "Commaの技術で2件の致命的事故が発生",
+   "ソフトウェアの派生版使用が調査対象に",
+   "ハンズオフ運転技術の安全性が問われる"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。海外メディアのTechCrunchが報じたところによると、Commaが提供するハンズオフ（手放し）運転技術に関して、2件の死亡事故が発生したことを受けて調査が開始されました。",
+   "今回の調査では、少なくとも一部の事故において、ドライバーが同社のソフトウェアの公式版ではなく、「フォークト（派生）」と呼ばれる改変されたバージョンを使用していたとみられることが明らかになっています。",
+   "半自動運転やハンズオフ技術の普及が進む中、ソフトウェアの改変版や改造版が安全面に与える影響について、改めて厳しい目が向けられることになりそうです。今後の調査の行方に注目が集まります。"
+  ],
+  "tags": [
+   "Comma",
+   "自動運転",
+   "TechCrunch"
+  ],
+  "slug": "comma-driving-tech-under-investigation",
+  "people": [],
+  "terms": [
+   {
+    "name": "Comma",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、ハンズオフ運転支援技術などのソフトウェアやハードウェアを開発・提供している企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "02:04",
+  "path": "/articles/20260924-comma-driving-tech-under-investigation.html"
  }
 ]

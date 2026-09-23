@@ -1,17 +1,23 @@
 {
- "updated": "2026-09-24 01:01",
- "mode": "軽量便(日本のAI)",
- "articles": [],
+ "updated": "2026-09-24 02:04",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "Commaの自動運転技術、2件の死亡事故で調査開始",
+   "path": "/articles/20260924-comma-driving-tech-under-investigation.html",
+   "cat": "シリコンバレー最速"
+  }
+ ],
  "buzz_top": {
   "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
  "notes": [
-  "日本のAIの選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+  "執筆失敗: Bernie Sanders proposes banning ‘superin"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 11,
+  "used": 17,
   "limit": 200
  }
 }
