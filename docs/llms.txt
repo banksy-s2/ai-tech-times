@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Anthropic、コスト4割減のClaude Opus 5.5公開](https://ai-tech-times.web.app/articles/20260923-anthropic-claude-opus-5-5-released.html) — 2026-09-23 09:00: Anthropicは、利用コストを約40％削減した新型AIモデル「Claude Opus 5.5」を発表しました。Fable 5.1並みの性能を持ち、Pro以上の有料プランとAPIで即日提供が始まっています。
+- [パーソルが明かすAI導入の盲点と対策](https://ai-tech-times.web.app/articles/20260923-persol-ai-data-infrastructure-service.html) — 2026-09-23 09:00: 生成AIやAIエージェントの導入を進める企業で、データの整理不足や古い基盤がボトルネックとなる問題が浮き彫りになっています。パーソルビジネスプロセスデザインは、この課題を解決するための支援サービスを開始しました。
 - [ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表](https://ai-tech-times.web.app/articles/20260923-pentagon-ai-missile-strike.html) — 2026-09-23 08:00: 米軍を統括するペンタゴンは、AIへの過度な依存がイランの学校へのミサイル攻撃の一因になったと明らかにしました。
 - [英NscaleのIPO、ウォール街のAI集中投資を試す](https://ai-tech-times.web.app/articles/20260923-nscales-ipo-will-test-wall-street.html) — 2026-09-23 08:00: 英AIデータセンター開発企業であるNscaleの新規株式公開（IPO）が、ウォール街におけるAIへの集中投資に対する投資家の姿勢を改めて試すことになります。
 - [Snorkel AI、評価額35億ドルに到達した理由](https://ai-tech-times.web.app/articles/20260923-snorkel-ai-triples-valuation-35b.html) — 2026-09-23 07:02: AIトレーニングデータの需要急増を背景に、設立7年のスタートアップ企業であるSnorkel AIが評価額を3倍に引き上げました。
@@ -40,15 +42,13 @@
 - [元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由](https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html) — 2026-09-22 21:03: かつてApple Storeの店舗網を築いた建築家であるロン・ジョンソン氏が、シリコンバレーが推し進めるAIショッピングへの巨額の賭けに対して疑問を投げかけました。
 - [Anthropicが語るAIの脆弱性発見力、誇大広告に騙されない理由](https://ai-tech-times.web.app/articles/20260922-summer-ai-hype-mit-tech-review.html) — 2026-09-22 21:03: MIT Tech Reviewが、AIを巡る一連の誇大広告と過熱する状況について報じました。最新の主張やインシデントの裏側を整理して伝えています。
 - [Teams会議をAIの教材にして業務知識に変える手法](https://ai-tech-times.web.app/articles/20260922-teams-ai-agent-knowledge-conversion.html) — 2026-09-22 21:03: AIエージェントの活用が広がる中、企業固有の仕事の進め方をどうAIに教えるかが課題となっています。Teams会議に埋もれた判断や経験則を変換する新たな手法とは何でしょうか。
-- [Appleの新Mac mini、M6搭載で300ドル値上げの理由](https://ai-tech-times.web.app/articles/20260922-apple-m6-mac-mini-review.html) — 2026-09-22 21:03: Ars Technicaが報じたAppleの新型「Mac mini」レビューでは、M6チップによる進化が評価される一方、899ドルへの大幅な価格引き上げが話題となっています。
-- [Neuro-samaハリウッドで初のリアルライブ開催、生バンドと共演へ](https://ai-tech-times.web.app/articles/20260922-neuro-sama-hollywood-live.html) — 2026-09-22 21:03: AI VTuberの「Neuro-sama」が、ハリウッドで初となるリアルライブを開催し、生バンドと共演することが明らかになりました。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
 - 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
 - 3位: [Rayman Legends Retold - Game Overview Trailer](https://www.youtube.com/watch?v=w3JsAX5cuho)
 
-## AI用語事典 (全1703語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1706語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

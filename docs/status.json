@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-23 08:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-23 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表",
-   "path": "/articles/20260923-pentagon-ai-missile-strike.html",
-   "cat": "AI(海外)"
+   "title": "Anthropic、コスト4割減のClaude Opus 5.5公開",
+   "path": "/articles/20260923-anthropic-claude-opus-5-5-released.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "英NscaleのIPO、ウォール街のAI集中投資を試す",
-   "path": "/articles/20260923-nscales-ipo-will-test-wall-street.html",
-   "cat": "AI(海外)"
+   "title": "パーソルが明かすAI導入の盲点と対策",
+   "path": "/articles/20260923-persol-ai-data-infrastructure-service.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 81,
+  "used": 86,
   "limit": 200
  }
 }

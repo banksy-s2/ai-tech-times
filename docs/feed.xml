@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Anthropic、コスト4割減のClaude Opus 5.5公開</title>
+<link>https://ai-tech-times.web.app/articles/20260923-anthropic-claude-opus-5-5-released.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260923-anthropic-claude-opus-5-5-released.html</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Anthropicは、利用コストを約40％削減した新型AIモデル「Claude Opus 5.5」を発表しました。Fable 5.1並みの性能を持ち、Pro以上の有料プランとAPIで即日提供が始まっています。</description>
+</item>
+<item>
+<title>パーソルが明かすAI導入の盲点と対策</title>
+<link>https://ai-tech-times.web.app/articles/20260923-persol-ai-data-infrastructure-service.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260923-persol-ai-data-infrastructure-service.html</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIやAIエージェントの導入を進める企業で、データの整理不足や古い基盤がボトルネックとなる問題が浮き彫りになっています。パーソルビジネスプロセスデザインは、この課題を解決するための支援サービスを開始しました。</description>
+</item>
+<item>
 <title>ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表</title>
 <link>https://ai-tech-times.web.app/articles/20260923-pentagon-ai-missile-strike.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260923-pentagon-ai-missile-strike.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Tue, 22 Sep 2026 17:06:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米国の国境地帯に多額の費用を投じて設置された監視塔群が、危険な状況にある人々を救えなかった理由についてMIT Tech Review AIが報じました。</description>
-</item>
-<item>
-<title>SpaceXAIが「Grok 4.7」発表、価格据え置きで最高性能の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260922-spacexai-grok-4-7-announced.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-spacexai-grok-4-7-announced.html</guid>
-<pubDate>Tue, 22 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>SpaceXAIは、同社最高性能となるAIモデル「Grok 4.7」を発表しました。価格と速度を維持しながら、コーディングや業務タスクの性能を強化しています。</description>
-</item>
-<item>
-<title>アリババ株3%高、新AIチップとデータセンター拡大の狙い</title>
-<link>https://ai-tech-times.web.app/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260922-alibaba-shares-jump-ai-chip-datacenter.html</guid>
-<pubDate>Tue, 22 Sep 2026 17:06:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>中国の巨大テック企業であるアリババが、香港市場で株価を3%上昇させました。新型AIチップの発表と、グローバルなデータセンター網の大幅な拡大計画が好感されています。</description>
 </item>
 </channel></rss>

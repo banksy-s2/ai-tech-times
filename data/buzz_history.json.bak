@@ -7884,7 +7884,7 @@
    "id": "zoBTw-1vzyY",
    "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
    "channel": "T-Series Telugu",
-   "views": 7512199,
+   "views": 7659910,
    "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY",
    "thumb": "https://i.ytimg.com/vi/zoBTw-1vzyY/hqdefault.jpg",
    "regions": [
@@ -7899,7 +7899,7 @@
    "id": "UiPcEW_d9Io",
    "title": "Minecraft LIVE Official Trailer – September 2026",
    "channel": "Minecraft",
-   "views": 563814,
+   "views": 620060,
    "url": "https://www.youtube.com/watch?v=UiPcEW_d9Io",
    "thumb": "https://i.ytimg.com/vi/UiPcEW_d9Io/hqdefault.jpg",
    "regions": [
@@ -7914,7 +7914,7 @@
    "id": "w3JsAX5cuho",
    "title": "Rayman Legends Retold - Game Overview Trailer",
    "channel": "Ubisoft",
-   "views": 177387,
+   "views": 206557,
    "url": "https://www.youtube.com/watch?v=w3JsAX5cuho",
    "thumb": "https://i.ytimg.com/vi/w3JsAX5cuho/hqdefault.jpg",
    "regions": [
@@ -7929,7 +7929,7 @@
    "id": "1Qx6ktR3CEk",
    "title": "ALLDAY PROJECT - ‘TALK’ M/V",
    "channel": "THEBLACKLABEL",
-   "views": 9739034,
+   "views": 9770708,
    "url": "https://www.youtube.com/watch?v=1Qx6ktR3CEk",
    "thumb": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg",
    "regions": [
@@ -7943,7 +7943,7 @@
    "id": "BWmWZTDxFrk",
    "title": "Escaping the Minecraft Underworld",
    "channel": "Parrot",
-   "views": 1787154,
+   "views": 1952091,
    "url": "https://www.youtube.com/watch?v=BWmWZTDxFrk",
    "thumb": "https://i.ytimg.com/vi/BWmWZTDxFrk/hqdefault.jpg",
    "regions": [
@@ -7957,7 +7957,7 @@
    "id": "0jXTOUQ4A7g",
    "title": "Ghostface Killah",
    "channel": "Sidhu Moose Wala - Topic",
-   "views": 640491,
+   "views": 649394,
    "url": "https://www.youtube.com/watch?v=0jXTOUQ4A7g",
    "thumb": "https://i.ytimg.com/vi/0jXTOUQ4A7g/hqdefault.jpg",
    "regions": [
@@ -7971,7 +7971,7 @@
    "id": "8Ty-Btue6OI",
    "title": "Character Trailer - \"Vodyanitsa: Tonight, We Sink as One\" | Genshin Impact #Vodyanitsa",
    "channel": "Genshin Impact",
-   "views": 511772,
+   "views": 520971,
    "url": "https://www.youtube.com/watch?v=8Ty-Btue6OI",
    "thumb": "https://i.ytimg.com/vi/8Ty-Btue6OI/hqdefault.jpg",
    "regions": [
@@ -7985,7 +7985,7 @@
    "id": "5RE1GwL_XIQ",
    "title": "Silent Hill Townfall - Part 1",
    "channel": "jacksepticeye",
-   "views": 407046,
+   "views": 453131,
    "url": "https://www.youtube.com/watch?v=5RE1GwL_XIQ",
    "thumb": "https://i.ytimg.com/vi/5RE1GwL_XIQ/hqdefault.jpg",
    "regions": [
@@ -7996,24 +7996,10 @@
   },
   {
    "rank": 9,
-   "id": "Rp5XqJnRRJI",
-   "title": "Lil Speedy - We The Ones (Official Music Video)",
-   "channel": "Lil Speedy",
-   "views": 257694,
-   "url": "https://www.youtube.com/watch?v=Rp5XqJnRRJI",
-   "thumb": "https://i.ytimg.com/vi/Rp5XqJnRRJI/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "Lil Speedyによる新曲の公式ミュージックビデオ（24字）"
-  },
-  {
-   "rank": 10,
    "id": "VDh_SzEZR_0",
    "title": "DRAGONFORCE - Hunger of the Beast (Official Video)",
    "channel": "DragonForce",
-   "views": 257275,
+   "views": 304016,
    "url": "https://www.youtube.com/watch?v=VDh_SzEZR_0",
    "thumb": "https://i.ytimg.com/vi/VDh_SzEZR_0/hqdefault.jpg",
    "regions": [
@@ -8021,6 +8007,20 @@
     "GB"
    ],
    "comment": "DragonForceの新曲公式ミュージックビデオ（24字）"
+  },
+  {
+   "rank": 10,
+   "id": "Rp5XqJnRRJI",
+   "title": "Lil Speedy - We The Ones (Official Music Video)",
+   "channel": "Lil Speedy",
+   "views": 265768,
+   "url": "https://www.youtube.com/watch?v=Rp5XqJnRRJI",
+   "thumb": "https://i.ytimg.com/vi/Rp5XqJnRRJI/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "Lil Speedyによる新曲の公式ミュージックビデオ（24字）"
   }
  ]
 }
