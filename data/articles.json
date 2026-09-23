@@ -102928,5 +102928,340 @@
   "date": "2026-09-24",
   "time": "05:00",
   "path": "/articles/20260924-ny-market-exchange-rate-158-yen.html"
+ },
+ {
+  "title": "バーニー・サンダース議員が超知能AIの開発禁止法案を提出、違反者に懲役20年を求刑へ",
+  "lead": "アメリカのバーニー・サンダース上院議員らが、人類を脅かす人工超知能の開発を禁止し、違反者に最大20年の禁錮刑を科す新法案を提出しました。",
+  "summary3": [
+   "サンダース議員らが人工超知能の開発禁止法案を提出",
+   "人類の破壊や政府転覆を防ぐため法規制を強化",
+   "違反したAI指導者には最大20年の禁錮刑を科す方針"
+  ],
+  "body": [
+   "アメリカの政治家であるバーニー・サンダース上院議員とグレッグ・カザール下院議員が、人工超知能（ASI）の開発を全面的に禁止する新しい法案を提出しました。",
+   "導入された「人工超知能禁止法（Ban Artificial Superintelligence Act）」によると、対象となる技術は、政府の転覆をはじめとする「人類の破壊や無力化」を引き起こす能力を持つものと定義されています。",
+   "もしこの法案が可決されれば、AIの指導者たちが法律に違反した場合、最大で20年の刑務所収容に直面することになります。AI技術の急速な発展に伴い、法的な規制と罰則を求める動きが強まっています。"
+  ],
+  "tags": [
+   "AI",
+   "規制",
+   "法律"
+  ],
+  "slug": "bernie-sanders-proposes-ai-ban-act",
+  "people": [
+   {
+    "name": "バーニー・サンダース",
+    "bio": "アメリカのバーモント州選出の無所属上院議員。長年にわたり прогрессивな政策を主張している政治家。"
+   },
+   {
+    "name": "グレッグ・カザール",
+    "bio": "アメリカのテキサス州選出の民主党下院議員。若手政治家として労働や社会問題に取り組んでいる。"
+   }
+  ],
+  "terms": [],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-bernie-sanders-proposes-ai-ban-act.html"
+ },
+ {
+  "title": "AnthropicのClaude、遺伝子編集に迫る新酵素系を発見",
+  "lead": "AI開発企業Anthropicのバイオ実験室にて、AIモデル「Claude」がCrisprに似た新しい酵素系を自律的に発見しました。",
+  "summary3": [
+   "Anthropicのバイオ実験室が初の成果を発表",
+   "AIのClaudeがCrisprに似た酵素系を発見",
+   "科学分野におけるAIの有用性を示す初期のテスト"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、AI開発を手がけるAnthropic社は、自社の新設されたウェットラボにおいて、AIモデル「Claude」が「自律的に発見」した新たな酵素系について明らかにしました。この酵素系は、強力な遺伝子編集ツールであるCrisprの背後にある機械装置に似ているとされています。",
+   "今回の成果は、同社が新たに立ち上げたウェットラボから得られた最初の結果であり、株式公開（IPO）を準備する中で、科学分野におけるClaudeの有用性を評価する初期のテストとなっています。同社によると、Claudeはあるプロセスを経てこの酵素系を発見したとのことです。",
+   "AIが科学的な発見を自律的に行う事例として、今後の科学研究やバイオテクノロジーの分野におけるAIの活用方法に大きな影響を与える可能性があります。同社の今後の動向や、科学分野へのさらなる応用が注目されます。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "Crispr",
+   "バイオテクノロジー",
+   "人工知能"
+  ],
+  "slug": "anthropic-claude-discovers-new-enzyme-system",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカの人工知能安全・研究企業で、高度なAIモデルの開発を行っています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した、高い対話能力や推論能力を持つ大規模言語モデルです。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-anthropic-claude-discovers-new-enzyme-system.html"
+ },
+ {
+  "title": "DeepSeekとムーンショットAIを中国当局が調査、その理由は",
+  "lead": "中国の国家インターネット情報弁公室が、人工知能新興企業の月之暗面とDeepSeekの調査を始めたと米メディアが22日に伝えました。",
+  "summary3": [
+   "中国当局がAI新興企業を調査開始",
+   "機密情報漏洩の疑いが浮上している",
+   "米アンソロピックの報告が発端に"
+  ],
+  "body": [
+   "【広州=藤野逸郎】中国の国家インターネット情報弁公室が同国の人工知能新興企業である月之暗面（ムーンショットAI）やDeepSeek（ディープシーク）を調査していることが分かりました。米メディアのジ・インフォメーションが22日に報じたもので、機密情報の漏洩の疑いが持たれています。",
+   "今回の調査は、米国のAI企業であるアンソロピックが10日付で発表した報告書での指摘が発端となっています。同報告書では、中国のAI企業による機密情報の転送疑惑などが取り上げられており、軍関係とみられる利害関係なども背景にあるとみられています。",
+   "中国国内の最先端AI開発を担う新興企業が相次いで調査を受ける事態となり、今後の動向や当局による規制強化の行方に注目が集まっています。AI技術を巡る安全保障上の懸念や情報管理のあり方が、改めて厳しく問われる状況となっています。"
+  ],
+  "tags": [
+   "DeepSeek",
+   "AI",
+   "中国当局"
+  ],
+  "slug": "china-investigates-deepseek-moonshot",
+  "people": [],
+  "terms": [
+   {
+    "name": "DeepSeek",
+    "type": "company",
+    "desc": "中国の人工知能（AI）新興企業で、高度なAIモデルの開発を進めていることで注目を集めている。"
+   },
+   {
+    "name": "月之暗面",
+    "type": "company",
+    "desc": "中国の人工知能（AI）新興企業であり、ムーンショットAIとも呼ばれる最先端のAI開発企業。"
+   },
+   {
+    "name": "アンソロピック",
+    "type": "company",
+    "desc": "アメリカの人工知能（AI）開発企業で、安全性に配慮した大規模言語モデルなどを提供している。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-china-investigates-deepseek-moonshot.html"
+ },
+ {
+  "title": "AI投資1兆ドルの帳尻は？元を取るために生産性2.7倍が必要な理由",
+  "lead": "AIデータセンターへの巨額な投資が進む中、経済学者たちの試算によって投資回収に必要な条件が明らかになりました。",
+  "summary3": [
+   "AI投資は2027年まで1.1兆ドル規模に",
+   "2026年の総収益は1500億〜2000億ドル",
+   "投資回収には生産性を2.7倍にする必要"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の経済ニュースです。AIデータセンターへの投資が2027年までに1.1兆ドル近くに膨らむ一方、2026年のAI関連の総収益は1500億〜2000億ドル程度にとどまる見込みであることが分かりました。この状況を受け、経済学者たちはAI投資の帳尻を合わせるために何が必要かを試算しています。",
+   "試算によると、この巨額な投資の元を取るためには、労働者の生産性を2.7倍に高める必要があるとされています。AI技術への期待値と実際の収益予測の間には大きな開きがあり、投資家や企業の間でその経済効果を見極める動きが強まっています。"
+  ],
+  "tags": [
+   "AI",
+   "経済",
+   "投資"
+  ],
+  "slug": "ai-investment-trillion-dollar-productivity",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-ai-investment-trillion-dollar-productivity.html"
+ },
+ {
+  "title": "サムスン製冷蔵庫、ファームウェア更新で起動不能に",
+  "lead": "サムスンのスマート冷蔵庫が、ファームウェアのアップデート後に起動しなくなるトラブルに見舞われました。内部の食品が傷むなどの被害が発生し、所有者から不満の声が上がっています。",
+  "summary3": [
+   "サムスン製スマート冷蔵庫で障害発生",
+   "ファームウェア更新後に起動せず",
+   "内部の食品が傷み所有者が悲鳴"
+  ],
+  "body": [
+   "海外メディアのArs Technicaの報道によると、サムスンのスマート冷蔵庫で、ファームウェアのアップデートを適用した後に起動しなくなるトラブルが確認されました。",
+   "いわゆる「文鎮化」の状態に陥ったことで、庫内の温度管理ができなくなり、中に保管していた食品が傷んでしまったと所有者が悲しみの声を上げています。",
+   "「あまりにも不条理で恥ずかしい」といった困惑や怒りの声が上がっており、家電のデジタル化における思わぬリスクが浮き彫りとなっています。"
+  ],
+  "tags": [
+   "サムスン",
+   "家電",
+   "トラブル"
+  ],
+  "slug": "samsung-smart-fridges-bricked",
+  "people": [],
+  "terms": [
+   {
+    "name": "サムスン",
+    "type": "company",
+    "desc": "韓国を代表する総合家電・電子機器メーカーで、世界的なシェアを持つ。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-samsung-smart-fridges-bricked.html"
+ },
+ {
+  "title": "Enveda、3億1100万ドル調達の背景",
+  "lead": "AIバイオテクノロジー企業のEnvedaが、自然界由来の薬を臨床試験へ進めるため3億1100万ドルを調達しました。",
+  "summary3": [
+   "Envedaが3億1100万ドルを調達",
+   "企業価値は20億ドルに評価された",
+   "皮膚疾患やGLP-1関連の薬を試験中"
+  ],
+  "body": [
+   "AI TECH TIMESがお届けする最新ニュースです。TechCrunchの報道によると、AIバイオテクノロジー企業のEnvedaは、自然界由来の医薬品を臨床試験へと進めるため、新たに3億1100万ドルの資金調達を実施しました。",
+   "今回の資金調達ラウンドにより、同社の企業価値は20億ドルに評価されています。AIを活用した創薬アプローチに大きな期待が寄せられていることが伺えます。",
+   "現在、同社は皮膚疾患の治療薬や、GLP-1の投与停止後における体重減少の維持を目的とした薬剤の試験を進めています。今後の臨床試験の結果と事業展開に注目が集まります。"
+  ],
+  "tags": [
+   "AI",
+   "バイオテック",
+   "創薬"
+  ],
+  "slug": "enveda-secures-311m-funding",
+  "people": [],
+  "terms": [
+   {
+    "name": "Enveda",
+    "type": "company",
+    "desc": "自然界由来の成分を活用した医薬品の開発を行うAIバイオテクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-enveda-secures-311m-funding.html"
+ },
+ {
+  "title": "ジャングリア沖縄の親会社が173億円余の赤字、開業後初の決算",
+  "lead": "沖縄経済の起爆剤として昨年7月に開業したテーマパーク「ジャングリア沖縄」を運営する会社の親会社について、開業後初めてとなる決算がまとまりました。最終赤字が173億円余りに達したことが明らかになっています。",
+  "summary3": [
+   "ジャングリア沖縄の親会社の決算がまとまる",
+   "開業後初となる決算で最終赤字を記録",
+   "赤字額は173億円余りに上ることが判明"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、沖縄経済の起爆剤として大きな期待を集め、昨年7月に開業したテーマパーク「ジャングリア沖縄」を運営している会社の親会社について、開業後初めてとなる決算がまとまりました。",
+   "その結果、同期の最終赤字が173億円余りに達していることがわかりました。大型テーマパークの開業初年度における大規模な赤字計上となり、今後の動向に注目が集まっています。",
+   "本件に関する詳細な決算内容や今後の業績回復に向けた取り組みなどについては、引き続き最新の情報を確認していく必要があります。"
+  ],
+  "tags": [
+   "ジャングリア沖縄",
+   "決算",
+   "経済"
+  ],
+  "slug": "junglia-okinawa-financial-results",
+  "people": [],
+  "terms": [
+   {
+    "name": "ジャングリア沖縄",
+    "type": "company",
+    "desc": "沖縄経済の起爆剤として昨年7月に開業した大型テーマパークを運営する会社。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+  "category": "world",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-junglia-okinawa-financial-results.html"
+ },
+ {
+  "title": "飯塚事件の弁護団、DNA型不一致の新証拠で3回目の再審請求へ",
+  "lead": "1992年に福岡県飯塚市で発生した女の子2人の殺害事件をめぐり、死刑執行後に再審を求めてきた弁護団が新たな証拠に基づき3回目の請求へ動きます。",
+  "summary3": [
+   "飯塚事件の弁護団が3回目の再審請求へ",
+   "警察のDNA型鑑定に不一致の新証拠が浮上",
+   "1992年に福岡県飯塚市で発生した事件"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、1992年に福岡県飯塚市で幼い女の子2人が殺害された、いわゆる「飯塚事件」において、死刑執行後に再審＝裁判のやり直しを求めてきた元死刑囚の弁護団が動き出しています。",
+   "今回の再審請求の大きな理由となっているのは、「警察のDNA型鑑定で犯人と元死刑囚の型が一致していなかった」とする新たな証拠の存在です。弁護団はこの新証拠を元に、司法に対して3回目の再審請求を行う方針を固めました。",
+   "事件から長い年月が経った現在も真相究明に向けた動きが続いており、今後の司法の判断や弁護団の動向に大きな注目が集まっています。"
+  ],
+  "tags": [
+   "飯塚事件",
+   "再審請求",
+   "DNA型鑑定"
+  ],
+  "slug": "iizuka-incident-retrial-request",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260923de52068",
+  "category": "world",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-iizuka-incident-retrial-request.html"
+ },
+ {
+  "title": "シカゴ日経平均先物、1045円安の6万5925円",
+  "lead": "23日のシカゴ日本株先物市場において、日経平均先物は前日比1045円安の6万5925円となりました。",
+  "summary3": [
+   "23日のシカゴ日本株先物市場を伝える",
+   "日経平均先物は1045円安を記録",
+   "終値は6万5925円となった"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする市場ニュースです。日本経済新聞の報道によると、23日のシカゴ日本株先物市場において、日経平均先物の値動きが発表されました。",
+   "発表されたデータによると、日経平均先物は前日比1045円安の6万5925円をつけて取引を終えました。市場における動向として注目される数値となっています。",
+   "株価や先物市場の動向については、引き続き各所の発表に注目が集まる状況です。詳細な市場データや今後の情報は、公式の報道等をご確認ください。"
+  ],
+  "tags": [
+   "日経平均先物",
+   "シカゴ市場",
+   "株式市場"
+  ],
+  "slug": "chicago-nikkei-futures-update",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zUS1UdXhQQ0gwWVM2NDU2YTUxSmM4RnR3XzFrVmVUY3FHSGplRG9OXzJSd0ZqS0JZRWpKbHhXMDIzaDRuWGNmVXJHZV9HSFBjTXg4ZERheFQ4c1BsYnlzTEdzdHFCRk5KYTJYQw?oc=5",
+  "category": "stock",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-chicago-nikkei-futures-update.html"
+ },
+ {
+  "title": "大光、本日9月24日に決算発表を予定",
+  "lead": "AI TECH TIMESがお届けする本日の上場企業ニュースです。大光の決算発表予定についてお伝えします。",
+  "summary3": [
+   "大光の決算発表が本日予定",
+   "日程は9月24日と発表",
+   "詳細情報は株探ニュース等で"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、本日9月24日、大光の決算発表が予定されていることが明らかになりました。",
+   "この情報は株探ニュースおよびYahoo!ファイナンスを通じて報じられたものであり、市場関係者の注目を集めています。",
+   "詳細な発表内容や今後の動向については、各種関連ニュースや公式発表をご確認ください。"
+  ],
+  "tags": [
+   "大光",
+   "決算発表",
+   "株探ニュース"
+  ],
+  "slug": "daiko-earnings-announcement-september-24",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkpDandHR0plcE0tdjRKZ3RENjRvOGZtR0owdk91NkJrek9iN1BURnRrU2thRUdQNmV6MUFrN1ItUDRPVWNCMmxCMEhUWkUyakFDN3FwUTZfSzJJcndNbkFlMmVvcmp2NG1kUGdKUDNqNUY3aXdWR08zOF9zMlZlY0swTzNXN1k?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-24",
+  "time": "07:02",
+  "path": "/articles/20260924-daiko-earnings-announcement-september-24.html"
  }
 ]
