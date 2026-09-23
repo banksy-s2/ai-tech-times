@@ -102388,5 +102388,73 @@
   "date": "2026-09-23",
   "time": "17:06",
   "path": "/articles/20260923-micron-technology-stock-record-high.html"
+ },
+ {
+  "title": "OpenAI、新モデル「GPT-6 Sol」をAPI料金半額で公開",
+  "lead": "OpenAIが現地時間の2026年9月22日、新型AI「GPT-6 Sol」および「GPT-6 Luna」をリリースしました。前世代モデルと比べてコスト効率が大幅に向上しています。",
+  "summary3": [
+   "OpenAIが新モデル2種を発表",
+   "API料金は前世代の半額に",
+   "GPT-6 Astraと同手法で訓練"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、OpenAIは現地時間の2026年9月22日に「GPT-6 Sol」と「GPT-6 Luna」を新たにリリースしました。開発を手がけるOpenAIは、先進的な人工知能の研究・開発を行うアメリカの企業です。",
+   "今回登場した新モデルはいずれも、すでに展開されている「GPT-6 Astra」と同様の手法を用いてトレーニングされています。これにより、前世代のモデルと比較してコスト効率が大幅に向上している点が大きな特徴です。",
+   "さらに、気になるAPI料金についても前世代の半額に設定されており、開発者や企業にとって利用しやすい価格体系となっています。コストを抑えながら最新のAI技術を導入できるため、今後の活用範囲の広がりが期待されています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "GPT-6 Sol",
+   "AI開発"
+  ],
+  "slug": "gpt-6-sol-luna-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカに拠点を置き、対話型AIなどの先進的な人工知能の研究・開発を行う企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
+  "category": "ai_jp",
+  "date": "2026-09-23",
+  "time": "18:00",
+  "path": "/articles/20260923-gpt-6-sol-luna-released.html"
+ },
+ {
+  "title": "OpenAI、米国主導のAI国際標準づくりを提言",
+  "lead": "OpenAIは、フロンティアAIの国際標準づくりを米国主導で進めるよう提言しました。制御不能な自律的進化を防ぐ枠組みの構築を目指します。",
+  "summary3": [
+   "OpenAIがフロンティアAIの国際標準を提言",
+   "各国のAI安全性研究所の連携などを提案",
+   "アルトマンCEOは国連安保理で発言予定"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。米OpenAIは、最先端のAIであるフロンティアAIの国際標準づくりを米国主導で進めるよう提言を行いました。",
+   "今回の提言では、各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐための枠組みを求めています。",
+   "また、同社のアルトマンCEOは、国連安全保障理事会の公開会合でも発言する予定となっています。"
+  ],
+  "tags": [
+   "OpenAI",
+   "AI安全性",
+   "国際標準"
+  ],
+  "slug": "openai-frontier-ai-international-standard",
+  "people": [],
+  "terms": [
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "米国のサンフランシスコを拠点とするAIの研究開発企業。汎用人工知能の実現を目指している。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+  "category": "ai_jp",
+  "date": "2026-09-23",
+  "time": "18:00",
+  "path": "/articles/20260923-openai-frontier-ai-international-standard.html"
  }
 ]
