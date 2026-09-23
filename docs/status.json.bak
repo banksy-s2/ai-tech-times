@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-23 15:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-23 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "米企業の決算発表スケジュール、今晩の予定はなし",
-   "path": "/articles/20260923-us-earnings-schedule-september.html",
-   "cat": "日本企業"
+   "title": "クアルコム、AI強化の新型スマホ向けチップ2種を発表",
+   "path": "/articles/20260923-qualcomm-launches-two-new-smartphone-chips.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Rabbitの新型AIエージェント、専用端末なしで利用可能に",
+   "path": "/articles/20260923-rabbit-ai-agent-os3-standalone.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -13,9 +18,9 @@
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
  "notes": [],
- "pv_today": null,
+ "pv_today": 1,
  "gemini": {
-  "used": 132,
+  "used": 137,
   "limit": 200
  }
 }

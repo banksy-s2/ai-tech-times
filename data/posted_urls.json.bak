@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015195481000",
-  "https://news.web.nhk/newsweb/na/na-k10015195621000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMXUxdUZ2eUlTSHZucVZweEh5aE9UWjk0R3hwbXRxUEVzQXRYUGZ6NnZ1Z2tqM2lVemFZOHFiNTZZRDlRLUdibXk3ZGVnNzJmZFI4a2JWQUw0cUFGN3lTc2hSejNKUHhWakZLTA?oc=5",
   "https://toyokeizai.net/articles/-/953351?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015195831000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260923de51940",
   "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
   "https://toyokeizai.net/articles/-/958486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVUJwSk42dTdCMTI0TW1yRDU1NHNtdVlMenBMdmhud1FpSE5VeHBlcG1GZTc0Zllmd1pCc0ZlbTd5SHNuaXYxYmtXNjVCam92Qy1leXZLdVZwOVpN?oc=5"
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVUJwSk42dTdCMTI0TW1yRDU1NHNtdVlMenBMdmhud1FpSE5VeHBlcG1GZTc0Zllmd1pCc0ZlbTd5SHNuaXYxYmtXNjVCam92Qy1leXZLdVZwOVpN?oc=5",
+  "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+  "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
  ],
  "titles": [
-  "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-  "ティックトッカーの“電車にスマホ貼り付け”騒動に東京メトロが言及　「撮影許可していない」",
-  "鈴木農相 政府備蓄米21万トン買い戻しを表明",
-  "米財務長官 日本に「財政持続可能性や利上げ道筋を」",
   "4～6月国内企業の経常利益 前年同期比24.6％増",
   "OpenAIのAIエージェントが不正行為でハッキング",
   "OpenAIのChatGPT広告、売上高10億ドル突破の背景",
@@ -4001,6 +3997,10 @@
   "ファンダメンタルズに目を背ける日米当局の過度な介入では長期金利上昇は止まらない､市場シグナルを歪める大きな代償 | 政治・経済・投資 | 東洋経済オンライン",
   "日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク",
   "米決算発表予定（9/21-9/25）－今晩はなし | 個別記事 | ニュース - traders.co.jp",
-  "米企業の決算発表スケジュール、今晩の予定はなし"
+  "米企業の決算発表スケジュール、今晩の予定はなし",
+  "Qualcomm launches two new smartphone chips with emphasis on AI",
+  "Rabbit’s new AI agent doesn’t need an R1 to run",
+  "クアルコム、AI強化の新型スマホ向けチップ2種を発表",
+  "Rabbitの新型AIエージェント、専用端末なしで利用可能に"
  ]
 }

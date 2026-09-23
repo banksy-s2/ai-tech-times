@@ -101957,5 +101957,73 @@
   "date": "2026-09-23",
   "time": "15:00",
   "path": "/articles/20260923-us-earnings-schedule-september.html"
+ },
+ {
+  "title": "クアルコム、AI強化の新型スマホ向けチップ2種を発表",
+  "lead": "米半導体大手クアルコムが、AI機能を大幅に強化したスマートフォン向けの新チップを2種類発表しました。最上位チップでは、30B規模のモデルをローカル環境で実行可能です。",
+  "summary3": [
+   "クアルコムがAIを重視した新チップ2種を発表",
+   "最上位チップは30Bモデルのローカル実行が可能",
+   "スマートフォンでの高度なAI処理が身近に"
+  ],
+  "body": [
+   "米TechCrunch AIの報道によると、クアルコムは人工知能（AI）の処理に特化した2つの新しいスマートフォン向けチップを発表しました。近年、モバイルデバイス上でのAI活用が急速に進む中、今回の新製品は同分野における同社の重要な一手となります。",
+   "発表された新チップのうち、最上位に位置するモデルでは、30B（300億パラメータ）の混合エキスパート（Mixture-of-Experts）モデルをデバイス上で直接実行できる能力を備えています。これにより、クラウドを介さず端末単体での高度なAI処理が実現します。",
+   "モバイル端末でのローカルAI処理能力の向上は、ユーザーの利便性やプライバシー保護の面でも重要な意味を持ちます。今後のスマートフォン市場におけるAI機能の進化において、同社の新チップがどのような影響を与えるのか注目されます。"
+  ],
+  "tags": [
+   "Qualcomm",
+   "スマートフォン",
+   "AIチップ"
+  ],
+  "slug": "qualcomm-launches-two-new-smartphone-chips",
+  "people": [],
+  "terms": [
+   {
+    "name": "クアルコム",
+    "type": "company",
+    "desc": "アメリカに本拠を置き、スマートフォン向けプロセッサなどで世界的なシェアを持つ大手半導体企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+  "category": "ai",
+  "date": "2026-09-23",
+  "time": "16:01",
+  "path": "/articles/20260923-qualcomm-launches-two-new-smartphone-chips.html"
+ },
+ {
+  "title": "Rabbitの新型AIエージェント、専用端末なしで利用可能に",
+  "lead": "R1端末を手掛けたRabbitが、専用ハードウェアを不要とする独立型AIエージェントを発表しました。クラウド上で動作し、様々なOSでローカル操作が可能になります。",
+  "summary3": [
+   "Rabbitが独立型AIエージェントを発表",
+   "専用のハードウェア端末は不要に",
+   "OS3がクラウドと各端末で動作"
+  ],
+  "body": [
+   "AI TECH TIMES編集部伝えによると、話題となったR1デバイスを手掛けた企業であるRabbitが、専用ハードウェアを必要としない独立型AIエージェントを展開することが明らかになりました。",
+   "海外メディアWiredの先行報道によると、同社の新しい「OS3」と呼ばれるエージェント型オペレーティングシステムはクラウド上で稼働します。しかし、Windows、Mac、Linuxの各デバイスを跨いでローカルに操作することが可能であるとされています。",
+   "従来の専用端末を所有していなくても、同社の最新AI技術を日常のパソコン環境で手軽に利用できるようになるため、今後の活用方法に注目が集まっています。"
+  ],
+  "tags": [
+   "Rabbit",
+   "AIエージェント",
+   "OS3"
+  ],
+  "slug": "rabbit-ai-agent-os3-standalone",
+  "people": [],
+  "terms": [
+   {
+    "name": "Rabbit",
+    "type": "company",
+    "desc": "AIデバイスやソフトウェアを開発する新興企業で、独自のAI端末R1などを手掛けたことで知られています。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+  "category": "ai",
+  "date": "2026-09-23",
+  "time": "16:01",
+  "path": "/articles/20260923-rabbit-ai-agent-os3-standalone.html"
  }
 ]
