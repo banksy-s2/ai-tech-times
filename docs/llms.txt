@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 11:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 12:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,15 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [MetaのAI「Muse」が類似を認めた理由](https://ai-tech-times.web.app/articles/20260923-meta-admits-muses-likeness-to-openclaw.html) — 2026-09-23 12:01: MetaはAIアシスタント「Muse」について、ゼロから構築したものの「OpenClaw」から強くインスパイアされたと認めました。
+- [OpenAI、数学者パネルを新設する理由](https://ai-tech-times.web.app/articles/20260923-openai-consults-elite-mathematicians.html) — 2026-09-23 12:01: AI開発における数学研究との向き合い方を巡り、OpenAIが新たな独立系専門家パネルを立ち上げました。
+- [オープンAIにフィールズ賞教授が反発、成果横取りとは](https://ai-tech-times.web.app/articles/20260923-openai-fields-medal-controversy.html) — 2026-09-23 12:01: 米オープンAIと数学界の摩擦が激しくなり、フィールズ賞受賞者が同社を非難しました。知の共有を妨げると指摘される背景をお伝えします。
+- [a16zが学校を設立、優秀な高校卒業生を育成する狙いとは](https://ai-tech-times.web.app/articles/20260923-a16z-launches-new-school-for-grads.html) — 2026-09-23 12:01: 有名ベンチャーキャピタルのa16zが、優秀な高校卒業生を対象とした新しい学校を設立しました。シリコンバレーのドロップアウト文化に一石を投じるこのアカデミーの全貌に迫ります。
+- [トヨタ、工場ロボット導入でも人間は維持する理由](https://ai-tech-times.web.app/articles/20260923-toyota-humanoid-robots-factory.html) — 2026-09-23 12:01: 自動車メーカーによる人型ロボットの開発・導入競争が加速する中、トヨタが工場労働者にロボットの訓練を命じました。しかし、人間の労働者が置き換えられることはないと主張しています。
+- [ナイキ株が0.4％安、コンバース広告騒動とエムバペ離脱で](https://ai-tech-times.web.app/articles/20260923-nike-stocks-decline-converse-ad.html) — 2026-09-23 12:01: 米国時間9月21日の早朝、米スポーツ用品大手ナイキの株価が小幅に下落しました。広告騒動やスター選手の離脱が影響しています。
+- [トランプ大統領 グリーンランドに米軍基地設置へ](https://ai-tech-times.web.app/articles/20260923-trump-greenland-military-base.html) — 2026-09-23 12:01: アメリカのトランプ大統領は、デンマークの自治領であるグリーンランドにアメリカ軍基地を設置する協定に署名しました。
+- [トランプ大統領、軽油輸出禁止を政権内部に要求](https://ai-tech-times.web.app/articles/20260923-trump-diesel-export-ban.html) — 2026-09-23 12:01: アメリカで軽油の平均販売価格が高騰するなか、トランプ大統領が価格抑制のための輸出禁止措置を求めてきたことを明らかにしました。
+- [シカゴ日経平均先物、大取終値比1870円高](https://ai-tech-times.web.app/articles/20260923-chicago-nikkei-futures-up-1870-yen.html) — 2026-09-23 12:01: 2026年9月22日のシカゴ日経平均先物は、大取終値比で1870円高となりました。
 - [Adoがマイクラで絶叫した理由](https://ai-tech-times.web.app/articles/20260923-ado-minecraft-live-streaming.html) — 2026-09-23 11:00: 人気歌手のAdoがYouTubeでマインクラフトを使った歌唱ライブ配信を行い、大きな話題となっています。
 - [パラマウント、1100億ドル規模の合併承認へ向けて動き出す](https://ai-tech-times.web.app/articles/20260923-paramount-wbd-merger-settlement.html) — 2026-09-23 10:00: パラマウントがワーナー・ブラザーズ・ディスカバリーとの1100億ドル規模の合併を阻止しようとしていた12州との和解に至り、世界最大級の制作会社誕生へ大きく前進しました。
 - [米サンフランシスコ市、トランプメディアを提訴](https://ai-tech-times.web.app/articles/20260923-san-francisco-sues-trump-media.html) — 2026-09-23 10:00: 米サンフランシスコ市は、ドナルド・トランプ氏の投稿への早期アクセス販売をめぐり、トランプメディア＆テクノロジーグループを提訴しました。
@@ -33,22 +42,13 @@
 - [OpenAI、新モデル「GPT-6 Sol」を発表](https://ai-tech-times.web.app/articles/20260923-openai-launches-gpt-6-sol-and-luna.html) — 2026-09-23 07:02: OpenAIは、コスト削減とエラー削減を実現した新モデル「GPT-6 Sol」および「Luna」を発表しました。Astraと同じ系譜を持つとされています。
 - [Apple新型Mac miniとMac Studioが9月22日発売、ローカルAIは実用域へ](https://ai-tech-times.web.app/articles/20260923-apple-mac-mini-studio-review-2026.html) — 2026-09-23 07:02: Appleが発表した新型「Mac mini」と「Mac Studio」が9月22日に発売されます。ローカルAIがついに実用域に到達したと話題です。
 - [OpenAI、9月29日新AI発表でソフトウェア株はどうなる？](https://ai-tech-times.web.app/articles/20260923-openai-devday-software-stocks-panic.html) — 2026-09-23 07:02: OpenAIが米国時間2026年9月29日に年次開発者会議DevDayを開催します。この発表内容次第では、企業向けソフトウェア株全体に再び売りが広がる可能性があり、投資家の間で警戒感が高まっています。
-- [ShinyHuntersがFBIをハッキング、その深刻なリスクとは](https://ai-tech-times.web.app/articles/20260923-shinyhunters-claims-fbi-breach.html) — 2026-09-23 07:02: ハッキンググループのShinyHuntersが連邦捜査局（FBI）のシステムに侵入し、捜査員や採用応募者のデータを盗み出したと主張しています。この情報流出がもたらす重大な脅威とは何でしょうか。
-- [高市首相、トランプ大統領と会談し中国課題で連携へ](https://ai-tech-times.web.app/articles/20260923-takaichi-trump-summit-ny.html) — 2026-09-23 07:02: AI TECH TIMESの注目ニュースをお届けします。国連総会のためニューヨークを訪れている高市総理大臣が、アメリカのトランプ大統領と日米首脳会談を行いました。
-- [トランプ氏、イラン巡り国連で重大な決断を明かす](https://ai-tech-times.web.app/articles/20260923-trump-un-iran-decision.html) — 2026-09-23 07:02: 国連総会に臨んだトランプ氏が、イランへの対応について重大な決断を迫られていることを明らかにしました。その発言内容は、国連事務総長の懸念とは対照的なものとなっています。
-- [日経新聞：新TOPIXを企業が成長の起点に](https://ai-tech-times.web.app/articles/20260923-new-topix-growth-starting-point.html) — 2026-09-23 05:00: 日本経済新聞は社説において、新TOPIXを企業が成長を競い合う起点にすべきだと報じました。
-- [ホワイトハウスが「トランプTV」開始、その狙いとは](https://ai-tech-times.web.app/articles/20260923-white-house-trump-tv-launch.html) — 2026-09-23 04:00: アメリカの主要テレビ局がトランプ大統領に関する代表取材を一時取りやめる中、ホワイトハウスが新たに24時間配信を開始し物議を醸しています。
-- [Xboxが3600人削減、アクティビジョンが次期Halo開発へ](https://ai-tech-times.web.app/articles/20260923-activision-to-make-next-halo-game-as-xbox-cuts-jobs.html) — 2026-09-23 04:00: Xboxが発表した大規模な人員削減と組織の「リセット」の一環として、傘下のアクティビジョンが人気ゲーム「Halo」の次回作を手がけることが明らかになりました。
-- [バイナンス、サークルに1億ドル出資の理由](https://ai-tech-times.web.app/articles/20260923-binance-invests-100m-in-circle-usdc.html) — 2026-09-23 02:06: 大手仮想通貨取引所のバイナンスは、ステーブルコイン発行会社のサークルに対して1億ドルの出資を行いました。グローバルでのUSDC普及に向けた提携の全貌とは。
-- [OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか](https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html) — 2026-09-22 22:00: カナダのブリティッシュコロンビア州が、対話型AIを開発するOpenAIを提訴しました。銃撃事件を起こした犯人とChatGPTとの危険なやり取りを警察に通報しなかったことが争点となっています。
-- [トランプ大統領、フーシ派空爆の方針転換](https://ai-tech-times.web.app/articles/20260922-trump-yemen-airstrike-policy-shift.html) — 2026-09-22 22:00: イランの支援を受けるイエメンの反政府勢力フーシ派がサウジアラビアへの攻撃を強める中、アメリカのトランプ大統領の動向に注目が集まっています。サウジの要請を受けた空爆計画が、直前になって変更されたことが分かりました。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
 - 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
 - 3位: [Rayman Legends Retold - Game Overview Trailer](https://www.youtube.com/watch?v=w3JsAX5cuho)
 
-## AI用語事典 (全1708語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1711語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
