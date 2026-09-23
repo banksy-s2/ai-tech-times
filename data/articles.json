@@ -102456,5 +102456,67 @@
   "date": "2026-09-23",
   "time": "18:00",
   "path": "/articles/20260923-openai-frontier-ai-international-standard.html"
+ },
+ {
+  "title": "CNBC報道：AIが新人の雑用を代替し採用はどうなる",
+  "lead": "人工知能（AI）が若手社員の担当する通常業務を次々とこなすようになり、企業の新入社員採用のあり方に影響を与えています。",
+  "summary3": [
+   "AIが若手社員の日常業務を代替",
+   "企業による新入社員の採用活動",
+   "今後の雇用環境の変化が懸念"
+  ],
+  "body": [
+   "海外メディアのCNBC Techによると、人工知能（AI）技術は現在、通常はジュニア層の従業員に割り振られるような業務をこなす能力を急速に高めています。",
+   "こうした状況の中、AIの進化が企業の初任者採用や新入社員の雇用にどのような影響を及ぼすのかについて、懸念の声が上がっています。",
+   "企業は今後、若手社員の育成や採用戦略の根本的な見直しを迫られる可能性があり、職場のあり方が転換期を迎えています。"
+  ],
+  "tags": [
+   "人工知能",
+   "採用",
+   "ビジネス"
+  ],
+  "slug": "ai-entry-level-hiring-impact",
+  "people": [],
+  "terms": [
+   {
+    "name": "CNBC Tech",
+    "type": "company",
+    "desc": "アメリカの主要な経済ニュース専門チャンネルであるCNBCが運営するテクノロジー専門の報道部門。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
+  "category": "silicon",
+  "date": "2026-09-23",
+  "time": "19:01",
+  "path": "/articles/20260923-ai-entry-level-hiring-impact.html"
+ },
+ {
+  "title": "米議会で法案停滞、規制当局が暗号資産ルール策定へ",
+  "lead": "包括的な暗号資産ルールが上院で通過しなかった事態を受け、州および連邦の規制当局がルールの空白を埋めるべく急ピッチで動き出しています。",
+  "summary3": [
+   "暗号資産の包括ルールが上院で不成立",
+   "ルールの空白を埋めるため規制当局が急動",
+   "州および連邦レベルでの策定が進む"
+  ],
+  "body": [
+   "米国の暗号資産市場をめぐる規制環境に大きな動きが出ています。CNBC Techの報道によると、包括的な暗号資産ルールを整備するための法案が上院で停滞し、成立が見送られる結果となりました。",
+   "この法案の停滞を受けて、州および連邦の規制当局が迅速に動いています。法案の不成立によって生まれた規制の空白を埋めるため、独自にルールブックの作成を急ピッチで進めている状況です。",
+   "今後は議会での法整備の行方だけでなく、各規制当局がどのようなルールを打ち出し、暗号資産市場や関連企業にどのような影響を与えるのかに大きな注目が集まっています。"
+  ],
+  "tags": [
+   "暗号資産",
+   "規制",
+   "米国"
+  ],
+  "slug": "us-regulators-rush-crypto-rulebook",
+  "people": [],
+  "terms": [],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
+  "category": "silicon",
+  "date": "2026-09-23",
+  "time": "19:01",
+  "path": "/articles/20260923-us-regulators-rush-crypto-rulebook.html"
  }
 ]
