@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlYkFrTHlqZ3NRX2lwbm9uNlBVcWFGQkdSWHExTmNuRW11NkJhWlBQYndmdkRYZnFCRmlWT09WbE9mT1E?oc=5",
-  "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
   "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
   "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
   "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260922de51902",
   "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
   "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-  "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+  "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+  "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+  "https://kn.itmedia.co.jp/kn/article/2609/23/2000001607/"
  ],
  "titles": [
-  "【速報】日経平均、一時1500円超値下がり 米利上げ観測高まりで28日NY市場の下落受け - Yahoo!ニュース",
-  "日経平均一時1500円超下落、米利上げ観測でNY安受け",
-  "伊藤忠「われわれは出来の悪い生徒」　電通総研に2152億円払ってでも“手に入れたかったもの”",
-  "伊藤忠が電通総研に2152億円払う理由",
   "The Pentagon now has its own version of ChatGPT and Grok",
   "Clipto uses AI to search terabytes of video and is now valued at $250M",
   "AIをよく使う社員だけ5倍に　Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
@@ -4001,6 +3997,10 @@
   "Pentagon says overreliance on AI contributed to missile strike on Iran school",
   "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
   "ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表",
-  "英NscaleのIPO、ウォール街のAI集中投資を試す"
+  "英NscaleのIPO、ウォール街のAI集中投資を試す",
+  "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+  "AIを導入した企業ほど困る「データ基盤問題」　パーソルが3サービスで支援へ",
+  "Anthropic、コスト4割減のClaude Opus 5.5公開",
+  "パーソルが明かすAI導入の盲点と対策"
  ]
 }
