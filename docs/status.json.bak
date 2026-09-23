@@ -1,17 +1,26 @@
 {
- "updated": "2026-09-24 03:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
- "buzz_top": {
-  "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
-  "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
- },
- "notes": [
-  "執筆失敗: 「他所の国で迷惑かけるな」台湾在住グルメYouTuber 屋台の食事を「クソまず"
+ "updated": "2026-09-24 04:00",
+ "mode": "軽量便(時事・世界)",
+ "articles": [
+  {
+   "title": "全日空機が那覇空港で緊急着陸、乗客3人がけが",
+   "path": "/articles/20260924-ana-emergency-landing-naha.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米国、グリーンランドに基地2カ所新設へ",
+   "path": "/articles/20260924-us-to-build-two-military-bases-in-greenland.html",
+   "cat": "時事・世界"
+  }
  ],
+ "buzz_top": {
+  "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
+  "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
+ },
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 21,
+  "used": 26,
   "limit": 200
  }
 }

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-24 04:00",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-24 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "全日空機が那覇空港で緊急着陸、乗客3人がけが",
-   "path": "/articles/20260924-ana-emergency-landing-naha.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米国、グリーンランドに基地2カ所新設へ",
-   "path": "/articles/20260924-us-to-build-two-military-bases-in-greenland.html",
-   "cat": "時事・世界"
+   "title": "NY市場で1ドル158円台、3週間ぶり円安水準へ",
+   "path": "/articles/20260924-ny-market-exchange-rate-158-yen.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 26,
+  "used": 30,
   "limit": 200
  }
 }
