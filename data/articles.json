@@ -101923,5 +101923,39 @@
   "date": "2026-09-23",
   "time": "14:00",
   "path": "/articles/20260923-us-japan-authorities-market-intervention.html"
+ },
+ {
+  "title": "米企業の決算発表スケジュール、今晩の予定はなし",
+  "lead": "トレーダーズ・ウェブなどの配信情報によると、米国の企業決算発表スケジュールにおいて、今晩の発表予定はないことが分かりました。",
+  "summary3": [
+   "米企業の決算発表予定を掲載",
+   "期間は9月21日から25日まで",
+   "今晩の決算発表予定はない"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、米国の企業決算発表スケジュール（9月21日〜9月25日）に関して、市場関係者向けの情報が更新されました。",
+   "今回の発表予定スケジュールでは、今晩における米企業の決算発表の予定は組まれていない状況となっています。",
+   "当該期間中の今後の発表スケジュールや個別企業の詳細については、引き続き関連情報やニュースソースをご確認ください。"
+  ],
+  "tags": [
+   "米国株",
+   "決算発表",
+   "経済指標"
+  ],
+  "slug": "us-earnings-schedule-september",
+  "people": [],
+  "terms": [
+   {
+    "name": "トレーダーズ・ウェブ",
+    "type": "company",
+    "desc": "株式市場や外国為替などの金融情報を提供する日本のウェブサイトです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVUJwSk42dTdCMTI0TW1yRDU1NHNtdVlMenBMdmhud1FpSE5VeHBlcG1GZTc0Zllmd1pCc0ZlbTd5SHNuaXYxYmtXNjVCam92Qy1leXZLdVZwOVpN?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-23",
+  "time": "15:00",
+  "path": "/articles/20260923-us-earnings-schedule-september.html"
  }
 ]

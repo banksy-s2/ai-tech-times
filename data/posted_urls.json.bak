@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwUVFtRm9ReE1GVzQwa0tzVXNrMldvenhqcE54OUlfYnZzemJscVJjV3pSbXgtMVVKWXBJYTRiR2Z4LVlFUzJwV1RKU3RRU1huX1E?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PX3ZyN2tKd1l1N3BYUWtkdHJUOU1WS3ZJUlJZXzA4bnN5QXFCaUtZaUllOHpKRkJfTV9FQmlpN1NxaEVoMjNtbDRLNWp4dUdwbDhIb2dXeVRNRHN0a3cyQzVJMFg0azYyOXUxNw?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015195481000",
   "https://news.web.nhk/newsweb/na/na-k10015195621000",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260923de51939",
   "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QTC00bmI2d09vXzdPSlcwYkM2bERyQlFDaVA1Y1FuZXRNbnMxYWxDVHYzYnhHY09pQmxWZlpPZ2ZFa2xNWFE?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260923de51940",
-  "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+  "https://toyokeizai.net/articles/-/958486?utm_source=rss&utm_medium=http&utm_campaign=link_back"
  ],
  "titles": [
-  "「24時間テレビ」マラソン乱入男は登録者数450人…「刃物だったらどうする」「不正はわかるが乱入は別」の声",
-  "『24時間テレビ』で450人YouTuberがマラソン乱入、なぜ発生したのか",
   "The Hugging Face hack could indicate cultural issues at OpenAI",
   "「ChatGPT」広告、年換算の売上高10億ドルに　開始200日足らずで達成",
   "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
@@ -4001,6 +3999,8 @@
   "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
   "Developing El Niño becomes strongest on record weeks before expected peak",
   "ダウ185ドル安の一方でナスダック最高値更新の理由",
-  "BBC報道：発達中のエルニーニョが過去最強を記録、生活への影響はなぜ広がるのか"
+  "BBC報道：発達中のエルニーニョが過去最強を記録、生活への影響はなぜ広がるのか",
+  "ファンダメンタルズに目を背ける日米当局の過度な介入では長期金利上昇は止まらない､市場シグナルを歪める大きな代償 | 政治・経済・投資 | 東洋経済オンライン",
+  "日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク"
  ]
 }
