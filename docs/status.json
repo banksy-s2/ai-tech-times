@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-23 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-23 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "パラマウント、1100億ドル規模の合併承認へ向けて動き出す",
-   "path": "/articles/20260923-paramount-wbd-merger-settlement.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "米サンフランシスコ市、トランプメディアを提訴",
-   "path": "/articles/20260923-san-francisco-sues-trump-media.html",
-   "cat": "シリコンバレー最速"
+   "title": "Adoがマイクラで絶叫した理由",
+   "path": "/articles/20260923-ado-minecraft-live-streaming.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 91,
+  "used": 95,
   "limit": 200
  }
 }

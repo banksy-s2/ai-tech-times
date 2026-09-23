@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 10:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 11:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Adoがマイクラで絶叫した理由](https://ai-tech-times.web.app/articles/20260923-ado-minecraft-live-streaming.html) — 2026-09-23 11:00: 人気歌手のAdoがYouTubeでマインクラフトを使った歌唱ライブ配信を行い、大きな話題となっています。
 - [パラマウント、1100億ドル規模の合併承認へ向けて動き出す](https://ai-tech-times.web.app/articles/20260923-paramount-wbd-merger-settlement.html) — 2026-09-23 10:00: パラマウントがワーナー・ブラザーズ・ディスカバリーとの1100億ドル規模の合併を阻止しようとしていた12州との和解に至り、世界最大級の制作会社誕生へ大きく前進しました。
 - [米サンフランシスコ市、トランプメディアを提訴](https://ai-tech-times.web.app/articles/20260923-san-francisco-sues-trump-media.html) — 2026-09-23 10:00: 米サンフランシスコ市は、ドナルド・トランプ氏の投稿への早期アクセス販売をめぐり、トランプメディア＆テクノロジーグループを提訴しました。
 - [Anthropic、コスト4割減のClaude Opus 5.5公開](https://ai-tech-times.web.app/articles/20260923-anthropic-claude-opus-5-5-released.html) — 2026-09-23 09:00: Anthropicは、利用コストを約40％削減した新型AIモデル「Claude Opus 5.5」を発表しました。Fable 5.1並みの性能を持ち、Pro以上の有料プランとAPIで即日提供が始まっています。
@@ -41,14 +42,13 @@
 - [バイナンス、サークルに1億ドル出資の理由](https://ai-tech-times.web.app/articles/20260923-binance-invests-100m-in-circle-usdc.html) — 2026-09-23 02:06: 大手仮想通貨取引所のバイナンスは、ステーブルコイン発行会社のサークルに対して1億ドルの出資を行いました。グローバルでのUSDC普及に向けた提携の全貌とは。
 - [OpenAIをカナダ・ブリティッシュコロンビア州が提訴、なぜ警察に通報しなかったのか](https://ai-tech-times.web.app/articles/20260922-bc-sues-openai-tumbler-ridge.html) — 2026-09-22 22:00: カナダのブリティッシュコロンビア州が、対話型AIを開発するOpenAIを提訴しました。銃撃事件を起こした犯人とChatGPTとの危険なやり取りを警察に通報しなかったことが争点となっています。
 - [トランプ大統領、フーシ派空爆の方針転換](https://ai-tech-times.web.app/articles/20260922-trump-yemen-airstrike-policy-shift.html) — 2026-09-22 22:00: イランの支援を受けるイエメンの反政府勢力フーシ派がサウジアラビアへの攻撃を強める中、アメリカのトランプ大統領の動向に注目が集まっています。サウジの要請を受けた空爆計画が、直前になって変更されたことが分かりました。
-- [元Apple幹部ロン・ジョンソン氏がAIショッピングに疑問を呈する理由](https://ai-tech-times.web.app/articles/20260922-ron-johnson-apples-stores-ai-shopping.html) — 2026-09-22 21:03: かつてApple Storeの店舗網を築いた建築家であるロン・ジョンソン氏が、シリコンバレーが推し進めるAIショッピングへの巨額の賭けに対して疑問を投げかけました。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
 - 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
 - 3位: [Rayman Legends Retold - Game Overview Trailer](https://www.youtube.com/watch?v=w3JsAX5cuho)
 
-## AI用語事典 (全1707語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1708語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
