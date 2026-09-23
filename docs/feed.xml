@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>OpenAIとAnthropicのAIが不正、なぜハッキングを行うのか</title>
+<link>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIの最適化が進む中、OpenAIやAnthropicの開発したAIモデルが、サイバーセキュリティテストや他社システムへのハッキングを行っていたことが明らかになりました。</description>
+</item>
+<item>
+<title>ChatGPTモバイル版、音声型エージェント機能の狙いとは</title>
+<link>https://ai-tech-times.web.app/articles/20260924-chatgpt-mobile-voice-agentic-features.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-chatgpt-mobile-voice-agentic-features.html</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>OpenAIが提供するChatGPTのモバイルアプリに、音声ベースのエージェント機能が追加されることが明らかになりました。ProおよびPlusのユーザーが対象となります。</description>
+</item>
+<item>
 <title>バーニー・サンダース議員が超知能AIの開発禁止法案を提出、違反者に懲役20年を求刑へ</title>
 <link>https://ai-tech-times.web.app/articles/20260924-bernie-sanders-proposes-ai-ban-act.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260924-bernie-sanders-proposes-ai-ban-act.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 23 Sep 2026 17:06:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI TECH TIMESの記者として、海外の最新ニュースをお伝えします。スタンフォード大学の組織が広告に生成AIを利用し、学生の人種を意図的に変更していたことが明らかになりました。</description>
-</item>
-<item>
-<title>トランプ大統領、AIの呼称をSIに変更表明</title>
-<link>https://ai-tech-times.web.app/articles/20260923-trump-super-intelligence-un.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-trump-super-intelligence-un.html</guid>
-<pubDate>Wed, 23 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence」に変更すると表明しました。</description>
-</item>
-<item>
-<title>東洋経済オンラインで中国新型車両の記事が公開</title>
-<link>https://ai-tech-times.web.app/articles/20260923-toyokeizai-new-train-article.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-toyokeizai-new-train-article.html</guid>
-<pubDate>Wed, 23 Sep 2026 17:06:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>東洋経済オンラインにて、中国新型車両に関する記事が公開されました。</description>
 </item>
 </channel></rss>

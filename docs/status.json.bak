@@ -1,17 +1,69 @@
 {
- "updated": "2026-09-24 06:00",
- "mode": "軽量便(日本企業)",
- "articles": [],
+ "updated": "2026-09-24 07:02",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "バーニー・サンダース議員が超知能AIの開発禁止法案を提出、違反者に懲役20年を求刑へ",
+   "path": "/articles/20260924-bernie-sanders-proposes-ai-ban-act.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "AnthropicのClaude、遺伝子編集に迫る新酵素系を発見",
+   "path": "/articles/20260924-anthropic-claude-discovers-new-enzyme-system.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "DeepSeekとムーンショットAIを中国当局が調査、その理由は",
+   "path": "/articles/20260924-china-investigates-deepseek-moonshot.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "AI投資1兆ドルの帳尻は？元を取るために生産性2.7倍が必要な理由",
+   "path": "/articles/20260924-ai-investment-trillion-dollar-productivity.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "サムスン製冷蔵庫、ファームウェア更新で起動不能に",
+   "path": "/articles/20260924-samsung-smart-fridges-bricked.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Enveda、3億1100万ドル調達の背景",
+   "path": "/articles/20260924-enveda-secures-311m-funding.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ジャングリア沖縄の親会社が173億円余の赤字、開業後初の決算",
+   "path": "/articles/20260924-junglia-okinawa-financial-results.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "飯塚事件の弁護団、DNA型不一致の新証拠で3回目の再審請求へ",
+   "path": "/articles/20260924-iizuka-incident-retrial-request.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "シカゴ日経平均先物、1045円安の6万5925円",
+   "path": "/articles/20260924-chicago-nikkei-futures-update.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "大光、本日9月24日に決算発表を予定",
+   "path": "/articles/20260924-daiko-earnings-announcement-september-24.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
   "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
  "notes": [
-  "執筆失敗: ジャングリア沖縄 親会社が173億円余の赤字"
+  "執筆失敗: “夜市酷評”で炎上中の台湾在住YouTuberが釈明に使った“挑発的なサムネイル",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 33,
+  "used": 58,
   "limit": 200
  }
 }
