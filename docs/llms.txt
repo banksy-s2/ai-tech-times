@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 13:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 14:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク](https://ai-tech-times.web.app/articles/20260923-us-japan-authorities-market-intervention.html) — 2026-09-23 14:00: 東洋経済オンラインの報道によると、日米当局による為替介入や国債市場を巡る攻防の裏側で、政策当局者の市場シグナル軽視が重大なリスクを生み出していることが明らかになりました。
 - [ダウ185ドル安の一方でナスダック最高値更新の理由](https://ai-tech-times.web.app/articles/20260923-dow-nasdaq-market-update-20260923.html) — 2026-09-23 13:00: 22日のニューヨーク株式市場で、ダウ平均株価は金融関連銘柄を中心に売り注文が出て下落しました。一方で、半導体への買い注文によりナスダックは最高値を更新しています。
 - [BBC報道：発達中のエルニーニョが過去最強を記録、生活への影響はなぜ広がるのか](https://ai-tech-times.web.app/articles/20260923-developing-el-nino-strongest-on-record.html) — 2026-09-23 13:00: BBC Worldによると、現在発達中のエルニーニョ現象が観測史上最強を記録し、世界各地ですでに気象への影響が出ています。
 - [MetaのAI「Muse」が類似を認めた理由](https://ai-tech-times.web.app/articles/20260923-meta-admits-muses-likeness-to-openclaw.html) — 2026-09-23 12:01: MetaはAIアシスタント「Muse」について、ゼロから構築したものの「OpenClaw」から強くインスパイアされたと認めました。
@@ -41,12 +42,11 @@
 - [ペンタゴン、AI過信がイランの学校へのミサイル攻撃を招いたと発表](https://ai-tech-times.web.app/articles/20260923-pentagon-ai-missile-strike.html) — 2026-09-23 08:00: 米軍を統括するペンタゴンは、AIへの過度な依存がイランの学校へのミサイル攻撃の一因になったと明らかにしました。
 - [英NscaleのIPO、ウォール街のAI集中投資を試す](https://ai-tech-times.web.app/articles/20260923-nscales-ipo-will-test-wall-street.html) — 2026-09-23 08:00: 英AIデータセンター開発企業であるNscaleの新規株式公開（IPO）が、ウォール街におけるAIへの集中投資に対する投資家の姿勢を改めて試すことになります。
 - [Snorkel AI、評価額35億ドルに到達した理由](https://ai-tech-times.web.app/articles/20260923-snorkel-ai-triples-valuation-35b.html) — 2026-09-23 07:02: AIトレーニングデータの需要急増を背景に、設立7年のスタートアップ企業であるSnorkel AIが評価額を3倍に引き上げました。
-- [OpenAI、新モデル「GPT-6 Sol」を発表](https://ai-tech-times.web.app/articles/20260923-openai-launches-gpt-6-sol-and-luna.html) — 2026-09-23 07:02: OpenAIは、コスト削減とエラー削減を実現した新モデル「GPT-6 Sol」および「Luna」を発表しました。Astraと同じ系譜を持つとされています。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
-- 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
-- 3位: [Rayman Legends Retold - Game Overview Trailer](https://www.youtube.com/watch?v=w3JsAX5cuho)
+- 2位: [GHOSTFACE KILLAH  (Official Video) | Sidhu Moose Wala | Mxrci | Navkaran Brar](https://www.youtube.com/watch?v=Pq7UxbWeRU0)
+- 3位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
 
 ## AI用語事典 (全1711語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
@@ -74,11 +74,11 @@
 - [ジェンスン・フアンとは](https://ai-tech-times.web.app/term/%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3.html): 米半導体大手エヌビディアの共同創業者であり、AIブームを牽引する最高経営責任者として広く知られています。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
 - [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
+- [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 - [自民党とは](https://ai-tech-times.web.app/term/%E8%87%AA%E6%B0%91%E5%85%9A.html): 日本における主要な政党の一つであり、国会で多数派を形成して長年にわたり政権を担ってきた政治組織。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [ソフトバンクグループとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97.html): 通信事業や投資事業を幅広く手がける日本の持株会社。ビジョン・ファンドなどを通じた国内外のテクノロジー企業への投資で知られる。
-- [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 
 ## 主要ページ
 - [AI(海外)](https://ai-tech-times.web.app/ai.html)
