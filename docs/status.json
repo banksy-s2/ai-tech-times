@@ -1,21 +1,17 @@
 {
- "updated": "2026-09-24 05:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [
-  {
-   "title": "NY市場で1ドル158円台、3週間ぶり円安水準へ",
-   "path": "/articles/20260924-ny-market-exchange-rate-158-yen.html",
-   "cat": "株式投資(日本)"
-  }
- ],
+ "updated": "2026-09-24 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [],
  "buzz_top": {
   "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
   "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: ジャングリア沖縄 親会社が173億円余の赤字"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 30,
+  "used": 33,
   "limit": 200
  }
 }
