@@ -1,17 +1,60 @@
 {
- "updated": "2026-09-23 20:01",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-23 21:06",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "OpenAI、30年までに2780億ドル赤字想定なぜ",
+   "path": "/articles/20260923-openai-cash-flow-deficit-2030.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Geta.Team、AIに個別メールと番号を割り当てる理由",
+   "path": "/articles/20260923-geta-team-ai-employee-service.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "トランプ大統領が国連でAI支援を表明、その背景とは",
+   "path": "/articles/20260923-trump-unga-ai-support.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "OpenAIがPatreonの元幹部3人を獲得、新展開へ",
+   "path": "/articles/20260923-openai-hires-patreon-executives-for-creator-strategy.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "人気VTuber「儒烏風亭らでん」コラボ企画、岡山城天守閣に長蛇の列",
+   "path": "/articles/20260923-okayama-castle-vtuber-raden.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "東証TOPIX銘柄選定ルール見直し、企業価値高まるか",
+   "path": "/articles/20260923-topix-rule-revision-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "習近平主席がアメリカへ出発、トランプ大統領と今年2回目の会談へ",
+   "path": "/articles/20260923-xi-jinping-departs-for-us-summit.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "キオクシアHD株、配当軽視で暴落リスク？個人投資家が指摘",
+   "path": "/articles/20260923-kioxia-hd-shares-dividend-risk.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul",
   "url": "https://www.youtube.com/watch?v=zoBTw-1vzyY"
  },
  "notes": [
-  "執筆失敗: VTuber HIMEHINAがラジオ「オールナイトニッポン0」パーソナリティー"
+  "執筆失敗: OpenAI nabs key Patreon execs ahead of u",
+  "執筆失敗: Everyone can find a reason to dislike da",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
- "pv_today": 1,
+ "pv_today": 6,
  "gemini": {
-  "used": 174,
+  "used": 197,
   "limit": 200
  }
 }

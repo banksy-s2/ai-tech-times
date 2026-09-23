@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015194751000",
-  "https://news.web.nhk/newsweb/na/na-k10015195911000",
   "https://jbpress.ismedia.jp/articles/-/96267",
   "https://toyokeizai.net/articles/-/953627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://news.web.nhk/newsweb/na/na-k10015196071000",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEJPSkZxeWdZRmFmYXFidkJ3VGl5bWZVa1VQZGVwb0NoSnJsbjNsU0V2QlRfLU1vUDVwYklCcHI1dzBtNFpXMzNFTGd6YlR2Y1hZdzhxZF8zeHZiMnR0Q0ZGenRRNFFwNVItZ2JLSjR2VWRqNzl6VHdBZGRsUDJQRFdlM0xMdw?oc=5",
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGhVTHJhY0gzMmtBeC13US11RWg5ak12RWdWX0JUM1l4MEZHNUR1UEktQkZLdS1MR09SNnBEQmFTUmRTZXVYVVRTY0dPV2JhZkhoMGhHQjUtT1BEYWZQcWtpOG5iZ2dFTkN0cWRnSlBCbThVU010dlRGM1hveWdUaUlVUlFubmhFQ0hEZUVlemNCTzJtcEtLcThydGMyVHNNTi03YUdRbU93Z2hhcjdHZERvVmU?oc=5",
   "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
-  "https://www.itmedia.co.jp/news/article/2609/22/2000001670/"
+  "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+  "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
+  "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html"
  ],
  "titles": [
-  "日経平均は続落で寄り付く、原油・米金利高を嫌気 中東懸念再燃 - jp.reuters.com",
-  "東京ガスとインフラAI開発のAIVALIXが資本業務提携、上下水道を起点に協業 - projectdesign.jp",
-  "ニューヨーク州知事ホークル氏「AIはもっと悪くなくあるべき」",
-  "防衛省、過去最大8.8兆円の概算要求でAI導入を加速",
   "ビル・ゲイツが語る「開発者はいらなくなる」の先",
   "a16z、11億ドル調達の数日後に成長基金を85億ドルに拡大した理由",
   "Amazon、広告費で秘密の手数料？FTC提訴の理由",
@@ -4001,6 +3997,10 @@
   "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
   "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
   "OpenAI、新モデル「GPT-6 Sol」をAPI料金半額で公開",
-  "OpenAI、米国主導のAI国際標準づくりを提言"
+  "OpenAI、米国主導のAI国際標準づくりを提言",
+  "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+  "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+  "CNBC報道：AIが新人の雑用を代替し採用はどうなる",
+  "米議会で法案停滞、規制当局が暗号資産ルール策定へ"
  ]
 }

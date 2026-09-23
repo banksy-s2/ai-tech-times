@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 19:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-23 21:06 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [OpenAI、30年までに2780億ドル赤字想定なぜ](https://ai-tech-times.web.app/articles/20260923-openai-cash-flow-deficit-2030.html) — 2026-09-23 21:06: 米OpenAIが2026年から30年末までのフリーキャッシュフローについて、2780億ドルの赤字を見込んでいることが英紙フィナンシャル・タイムズの報道で明らかになりました。
+- [Geta.Team、AIに個別メールと番号を割り当てる理由](https://ai-tech-times.web.app/articles/20260923-geta-team-ai-employee-service.html) — 2026-09-23 21:06: メールへの返信や顧客への連絡といった毎日の定型作業に多くの時間を奪われていませんか？AIエージェントに個別のメールアドレスや電話番号を割り当てて人間の従業員のように任せられるサービス「Geta.Team」が公開されました。
+- [トランプ大統領が国連でAI支援を表明、その背景とは](https://ai-tech-times.web.app/articles/20260923-trump-unga-ai-support.html) — 2026-09-23 21:06: ドナルド・トランプ米大統領が国連総会で演説を行い、先進的なAIモデルのペースを落とすよう求める声がある中でもAIを支援すると誓約しました。
+- [OpenAIがPatreonの元幹部3人を獲得、新展開へ](https://ai-tech-times.web.app/articles/20260923-openai-hires-patreon-executives-for-creator-strategy.html) — 2026-09-23 21:06: 米OpenAIは、クリエイター向け製品戦略を強化するため、クラウドファンディングプラットフォーム出身の主要幹部3人を受入れたと発表しました。
+- [人気VTuber「儒烏風亭らでん」コラボ企画、岡山城天守閣に長蛇の列](https://ai-tech-times.web.app/articles/20260923-okayama-castle-vtuber-raden.html) — 2026-09-23 21:06: 再建60周年の記念イベントを迎えた岡山城の天守閣に、人気VTuber「儒烏風亭らでん」とのコラボ企画により長蛇の列ができています。
+- [東証TOPIX銘柄選定ルール見直し、企業価値高まるか](https://ai-tech-times.web.app/articles/20260923-topix-rule-revision-2026.html) — 2026-09-23 21:06: 東京証券取引所は、東証株価指数＝TOPIXの構成銘柄を選ぶルールを見直し、来月から銘柄を大幅に入れ替えます。市場全体で企業価値を高める動きが広がるのか注目されています。
+- [習近平主席がアメリカへ出発、トランプ大統領と今年2回目の会談へ](https://ai-tech-times.web.app/articles/20260923-xi-jinping-departs-for-us-summit.html) — 2026-09-23 21:06: 中国の習近平国家主席が国賓としてアメリカを訪問するため、23日午後に北京を出発したことが分かりました。現地でトランプ大統領と今年2回目となる首脳会談を行う予定です。
+- [キオクシアHD株、配当軽視で暴落リスク？個人投資家が指摘](https://ai-tech-times.web.app/articles/20260923-kioxia-hd-shares-dividend-risk.html) — 2026-09-23 21:06: 資産10億円超の個人投資家が、キオクシアHD株について配当金をめぐる懸念やAI・半導体関連銘柄の動向を指摘しました。
 - [CNBC報道：AIが新人の雑用を代替し採用はどうなる](https://ai-tech-times.web.app/articles/20260923-ai-entry-level-hiring-impact.html) — 2026-09-23 19:01: 人工知能（AI）が若手社員の担当する通常業務を次々とこなすようになり、企業の新入社員採用のあり方に影響を与えています。
 - [米議会で法案停滞、規制当局が暗号資産ルール策定へ](https://ai-tech-times.web.app/articles/20260923-us-regulators-rush-crypto-rulebook.html) — 2026-09-23 19:01: 包括的な暗号資産ルールが上院で通過しなかった事態を受け、州および連邦の規制当局がルールの空白を埋めるべく急ピッチで動き出しています。
 - [OpenAI、新モデル「GPT-6 Sol」をAPI料金半額で公開](https://ai-tech-times.web.app/articles/20260923-gpt-6-sol-luna-released.html) — 2026-09-23 18:00: OpenAIが現地時間の2026年9月22日、新型AI「GPT-6 Sol」および「GPT-6 Luna」をリリースしました。前世代モデルと比べてコスト効率が大幅に向上しています。
@@ -34,26 +42,18 @@
 - [OpenAIに新学校の建設費を要求、発砲事件で](https://ai-tech-times.web.app/articles/20260923-lawsuit-demands-openai-pay-for-school.html) — 2026-09-23 17:06: 米国の人工知能開発企業OpenAIが、銃撃事件に関与したとされるAIのログを求め、ブリティッシュコロンビア州から提訴されました。
 - [ロリコンテーマ曲歌うVTuberコラボ炎上でジュニア向けブランド企画中止](https://ai-tech-times.web.app/articles/20260923-vtuber-collab-cancelled.html) — 2026-09-23 17:06: ジュニア向けブランドが、ロリコンテーマの楽曲を歌うVTuberとコラボレーションを実施したところ、SNS上で炎上状態となり企画中止に追い込まれました。
 - [サウジ、被攻撃パイプラインの操業再開はどう影響するか](https://ai-tech-times.web.app/articles/20260923-saudi-pipeline-operations-resumed.html) — 2026-09-23 17:06: サウジアラビアで攻撃を受けて操業を一時停止していた紅海側のパイプラインについて、ロイター通信は22日、操業が再開されたと伝えました。
-- [中国軍制服組トップら2人、巨額賄賂で党籍はく奪](https://ai-tech-times.web.app/articles/20260923-china-military-officials-expelled.html) — 2026-09-23 17:06: 中国共産党は、軍の制服組トップなどを務めた2人について、重大な規律違反があったとして党籍をはく奪することを決定しました。
-- [ナスダック連日最高値、AI関連株高で米中首脳会談に注目が集まる理由](https://ai-tech-times.web.app/articles/20260923-us-stock-market-nasdaq-ai-stocks.html) — 2026-09-23 17:06: 米国株式市場でナスダックが連日の最高値を更新しました。AI関連株の上昇が牽引する中、米中首脳会談への注目が高まっています。
-- [マイクロン、決算発表前に株価はどうなるのか](https://ai-tech-times.web.app/articles/20260923-micron-technology-stock-record-high.html) — 2026-09-23 17:06: マイクロン テクノロジーの決算発表を前に、過去最高値を更新したことがMoomooの報道で分かりました。
-- [クアルコム、AI強化の新型スマホ向けチップ2種を発表](https://ai-tech-times.web.app/articles/20260923-qualcomm-launches-two-new-smartphone-chips.html) — 2026-09-23 16:01: 米半導体大手クアルコムが、AI機能を大幅に強化したスマートフォン向けの新チップを2種類発表しました。最上位チップでは、30B規模のモデルをローカル環境で実行可能です。
-- [Rabbitの新型AIエージェント、専用端末なしで利用可能に](https://ai-tech-times.web.app/articles/20260923-rabbit-ai-agent-os3-standalone.html) — 2026-09-23 16:01: R1端末を手掛けたRabbitが、専用ハードウェアを不要とする独立型AIエージェントを発表しました。クラウド上で動作し、様々なOSでローカル操作が可能になります。
-- [米企業の決算発表スケジュール、今晩の予定はなし](https://ai-tech-times.web.app/articles/20260923-us-earnings-schedule-september.html) — 2026-09-23 15:00: トレーダーズ・ウェブなどの配信情報によると、米国の企業決算発表スケジュールにおいて、今晩の発表予定はないことが分かりました。
-- [日米当局の過度な介入が招く長期金利上昇となぜ市場シグナル軽視のリスク](https://ai-tech-times.web.app/articles/20260923-us-japan-authorities-market-intervention.html) — 2026-09-23 14:00: 東洋経済オンラインの報道によると、日米当局による為替介入や国債市場を巡る攻防の裏側で、政策当局者の市場シグナル軽視が重大なリスクを生み出していることが明らかになりました。
-- [ダウ185ドル安の一方でナスダック最高値更新の理由](https://ai-tech-times.web.app/articles/20260923-dow-nasdaq-market-update-20260923.html) — 2026-09-23 13:00: 22日のニューヨーク株式市場で、ダウ平均株価は金融関連銘柄を中心に売り注文が出て下落しました。一方で、半導体への買い注文によりナスダックは最高値を更新しています。
 
 ## 世界のバズ動画TOP3 (2026-09-23)
 - 1位: [Endhayya Saami | Ranabaali | Full Song | Vijay Deverakonda, Rashmika | Rahul Sankrityan | Ajay–Atul](https://www.youtube.com/watch?v=zoBTw-1vzyY)
-- 2位: [GHOSTFACE KILLAH  (Official Video) | Sidhu Moose Wala | Mxrci | Navkaran Brar](https://www.youtube.com/watch?v=Pq7UxbWeRU0)
-- 3位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
+- 2位: [Minecraft LIVE Official Trailer – September 2026](https://www.youtube.com/watch?v=UiPcEW_d9Io)
+- 3位: [Improv Tour Trailer: "It Became Art" | Honkai: Star Rail](https://www.youtube.com/watch?v=c6WRaqkbTd8)
 
-## AI用語事典 (全1716語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1720語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
+- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [Appleとは](https://ai-tech-times.web.app/term/apple.html): iPhoneやMacなどを開発・販売するアメリカの巨大テクノロジー企業です。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
-- [トランプ大統領とは](https://ai-tech-times.web.app/term/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98.html): アメリカ合衆国の第45代および第47代大統領を務める政治家。
 - [NVIDIAとは](https://ai-tech-times.web.app/term/nvidia.html): アメリカに本拠を置く、GPUやAI向け半導体で世界をリードする大手テクノロジー企業です。
 - [Metaとは](https://ai-tech-times.web.app/term/meta.html): FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業です。
 - [ChatGPTとは](https://ai-tech-times.web.app/term/chatgpt.html): OpenAIが開発した最先端の対話型人工知能であり、ユーザーの質問や指示に対して自然な文章で回答を生成する製品です。
