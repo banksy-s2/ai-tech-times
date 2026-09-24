@@ -104985,5 +104985,39 @@
   "date": "2026-09-25",
   "time": "04:00",
   "path": "/articles/20260925-openai-unauthorized-access-australia.html"
+ },
+ {
+  "title": "日本取引所グループ、配当利回り3.6％に増配",
+  "lead": "日本取引所グループは、2期連続となる増配を発表し、配当利回りが3.6％となりました。2027年3月期の年間配当は前期比21円増の「1株あたり82円」を予定しています。",
+  "summary3": [
+   "日本取引所グループが2期連続の増配を発表",
+   "配当利回りは3.6％に上昇し年間配当が増加",
+   "2027年3月期は1株あたり82円に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えする最新の市場ニュースです。日本取引所グループは、株主還元に関する新たな発表を行い、市場の注目を集めています。",
+   "今回の発表によると、同社は2期連続の増配を実施し、配当利回りが3.6％となりました。年間配当は2年間で1.8倍に増加する形となります。",
+   "具体的な配当計画として、2027年3月期の年間配当は前期比21円増となる「1株あたり82円」に引き上げられる予定です。着実な配当の増加が示される内容となっています。"
+  ],
+  "tags": [
+   "日本取引所グループ",
+   "増配",
+   "配当利回り"
+  ],
+  "slug": "jpx-dividend-increase-2027",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本取引所グループ",
+    "type": "company",
+    "desc": "東京証券取引所などを傘下に持つ持株会社であり、日本の金融商品取引所の運営を行っています。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jQ3ZVWWlNdjVfS1VWQXRBWGdYMGlpLVk5T3ZhUW9CZ3pJYWZ1OHpLNVBXcEUwdDRwaTNtZDRmc2c5amJCcWRQTVNHdU9RWG92WXZF?oc=5",
+  "category": "stock",
+  "date": "2026-09-25",
+  "time": "05:00",
+  "path": "/articles/20260925-jpx-dividend-increase-2027.html"
  }
 ]

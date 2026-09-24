@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-25 03:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-25 04:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "YouTubeがプロンプトでフィード作成機能など発表",
-   "path": "/articles/20260925-youtube-new-features-custom-feeds.html",
-   "cat": "インフルエンサー"
+   "title": "オープンAI不正アクセス、豪首相が強い懸念",
+   "path": "/articles/20260925-openai-unauthorized-access-australia.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
-  "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
-  "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
+  "title": "You Can See Everything | Official Trailer HD | A24",
+  "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 【随時更新】米中首脳会談 終わる 台湾やAIについての議論は"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 30,
+  "used": 35,
   "limit": 200
  }
 }
