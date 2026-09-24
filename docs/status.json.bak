@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-24 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-24 15:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "東証前引け、日経平均は一時1200円高のなぜ",
-   "path": "/articles/20260924-nikkei-average-gains-morning-session.html",
-   "cat": "株式投資(日本)"
+   "title": "JR九州、SBIHDと提携し銀行・証券参入の理由",
+   "path": "/articles/20260924-jr-kyushu-sbi-financial-business.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 110,
+  "used": 114,
   "limit": 200
  }
 }

@@ -103892,5 +103892,73 @@
   "date": "2026-09-24",
   "time": "15:00",
   "path": "/articles/20260924-jr-kyushu-sbi-financial-business.html"
+ },
+ {
+  "title": "GPT-6 Astraが車を運転できる能力を獲得した理由",
+  "lead": "人工知能モデルであるGPT-6 Astraが自動車の運転能力を獲得したことが話題となっています。Hacker Newsでの議論からその詳細をお伝えします。",
+  "summary3": [
+   "GPT-6 Astraが運転能力を獲得",
+   "Hacker Newsで286ポイントを獲得",
+   "226件のコメントが寄せられ議論に"
+  ],
+  "body": [
+   "AI技術の動向を伝える「AI TECH TIMES」です。AI/LLM分野において、新たな話題が注目を集めています。今回の話題の中心となっているのは、GPT-6 Astraというモデルに関する情報です。",
+   "海外のソーシャルニュースサイトであるHacker Newsにおいて、「GPT-6 Astra has gained the ability to drive a car」という記事が投稿されました。この記事は286ポイントを獲得し、記事内のコメント欄には226件のコメントが寄せられるなど、多くの関心を集めています。",
+   "記事のURLとして紹介されているdrivingbench.comでは、詳細な情報が掲載されています。AIが自動車の運転能力を獲得したという今回の発表について、今後の展開や技術的な詳細に関心が集まっています。"
+  ],
+  "tags": [
+   "GPT-6 Astra",
+   "AI",
+   "自動運転"
+  ],
+  "slug": "gpt-6-astra-drive-a-car",
+  "people": [],
+  "terms": [
+   {
+    "name": "GPT-6 Astra",
+    "type": "ai",
+    "desc": "新しく自動車の運転能力を獲得したと話題になっている人工知能モデル。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://drivingbench.com/",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "16:01",
+  "path": "/articles/20260924-gpt-6-astra-drive-a-car.html"
+ },
+ {
+  "title": "Mercury 2.5が秒速770トークンを達成した理由とは",
+  "lead": "人工知能モデル「Mercury 2.5」が、毎秒770トークンという非常に高い処理速度を記録し、AI技術の分野で注目を集めています。",
+  "summary3": [
+   "Mercury 2.5が秒速770トークンを記録",
+   "人工知能の処理速度向上として話題に",
+   "Artificial Analysisで詳細を公開"
+  ],
+  "body": [
+   "AI技術の評価や分析を行う「Artificial Analysis」において、新たな大規模言語モデルである「Mercury 2.5」に関する情報が公開されました。この記事では、同モデルが秒速770トークンという処理速度に到達したことが示されています。",
+   "この高い処理性能を持つMercury 2.5については、オンラインのコミュニティサイトであるHacker Newsでも取り上げられ、多くのコメントが寄せられるなど、開発者や専門家の間で関心が集まっています。",
+   "AIモデルの性能向上や高速化は、今後の活用範囲を広げる上で重要な要素となります。Mercury 2.5の今後の展開や詳細なスペックについては、公開された元記事のURLから確認することができます。"
+  ],
+  "tags": [
+   "Mercury 2.5",
+   "AI",
+   "LLM"
+  ],
+  "slug": "mercury-2-5-hits-770-tokens-per-second",
+  "people": [],
+  "terms": [
+   {
+    "name": "Mercury 2.5",
+    "type": "ai",
+    "desc": "秒速770トークンの処理速度を記録した最新の大規模言語モデル。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://artificialanalysis.ai/models/mercury-2-5",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "16:01",
+  "path": "/articles/20260924-mercury-2-5-hits-770-tokens-per-second.html"
  }
 ]

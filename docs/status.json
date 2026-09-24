@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-24 15:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-24 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "JR九州、SBIHDと提携し銀行・証券参入の理由",
-   "path": "/articles/20260924-jr-kyushu-sbi-financial-business.html",
-   "cat": "日本企業"
+   "title": "GPT-6 Astraが車を運転できる能力を獲得した理由",
+   "path": "/articles/20260924-gpt-6-astra-drive-a-car.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Mercury 2.5が秒速770トークンを達成した理由とは",
+   "path": "/articles/20260924-mercury-2-5-hits-770-tokens-per-second.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 114,
+  "used": 119,
   "limit": 200
  }
 }

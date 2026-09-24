@@ -103853,5 +103853,44 @@
   "date": "2026-09-24",
   "time": "14:00",
   "path": "/articles/20260924-nikkei-average-gains-morning-session.html"
+ },
+ {
+  "title": "JR九州、SBIHDと提携し銀行・証券参入の理由",
+  "lead": "JR九州が、SBIホールディングスと業務提携を行い、銀行や証券などの金融事業に参入する方針を固めました。新たな収益源の確保を狙う動きとして注目されています。",
+  "summary3": [
+   "JR九州が金融事業への参入を発表",
+   "SBIHDと業務提携し銀行・証券を展開",
+   "新たな収益源の確保を目指す狙い"
+  ],
+  "body": [
+   "JR九州は、銀行や証券などの金融事業に参入するため、SBIホールディングスと業務提携を行う方針であることが明らかになりました。本提携を通じて、新たな収益源の確保を狙う方針です。",
+   "鉄道事業を中心に展開してきた同社ですが、今後は金融分野へと事業領域を広げることになります。大手ネット証券などを傘下に持つSBIグループとの連携により、どのような金融サービスが展開されるのかに関心が集まっています。",
+   "今回の金融事業参入は、企業の収益基盤を多様化させるための一環と位置づけられています。両社による具体的な協業内容や今後の展開については、引き続き詳細な発表が注目されます。"
+  ],
+  "tags": [
+   "JR九州",
+   "SBIHD",
+   "金融事業"
+  ],
+  "slug": "jr-kyushu-sbi-financial-business",
+  "people": [],
+  "terms": [
+   {
+    "name": "JR九州",
+    "type": "company",
+    "desc": "九州地方を中心に鉄道事業やホテル、流通などの関連事業を展開する日本の鉄道会社。"
+   },
+   {
+    "name": "SBIホールディングス",
+    "type": "company",
+    "desc": "ネット証券や銀行などの金融事業を中心に幅広い投資・金融サービスを展開する企業グループの持株会社。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kWXlfUXdSVGpOdDVCX0EwZmFpWmRzeWNFVldBNFcyVmlYSl9ZdnMyRC1NVkRjU3NyNXZpMjBQTkxJaDZPbnMxZ2VIRkVZM0Z6ME1kMDFzQk9YVkQ3T1JCRHNWTElqMXQwTmdfM1lsRmJ1QzVLQ3JiLTJuc0dGb1E?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-24",
+  "time": "15:00",
+  "path": "/articles/20260924-jr-kyushu-sbi-financial-business.html"
  }
 ]
