@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
   "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzB5eFo3S21JbjRIbmdZcURrVGo1RjhkWUg2VXhPYWVnQzFIV0UwNEpWSWhQeFlwMUVpYTh6YWRQWkI1MVpSRUZiU1V2dWZYcDFHR0lISlVFRXQ3bFRFLXJjNVBaaVEwcmpsSHhNdmdWNkNtS1pVbEN4M0VWMHNtLVNjQTg0cXM3TWhPemx3?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015196581000",
@@ -1999,11 +1998,10 @@
   "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
   "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
   "https://kn.itmedia.co.jp/kn/article/2609/24/2000001632/",
-  "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html"
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+  "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/"
  ],
  "titles": [
-  "花王や森永「AIに選ばれるサイト」に　チャット経由の買い物増に対応 - 日本経済新聞",
-  "“軍事向けChatGPT”導入、米国防総省　「Gemini」「Grok」の計3モデルが利用可能に",
   "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
   "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
   "アメリカ中央軍 革命防衛隊への攻撃を開始と発表",
@@ -4001,6 +3999,8 @@
   "「Copilot案件」が急増、1年半で13倍に　フリーランスに求められるニーズの変化",
   "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
   "Copilot案件が13倍増、フリーランスの需要変化",
-  "AnthropicのClaude in Chrome一般提供、安全性の課題は"
+  "AnthropicのClaude in Chrome一般提供、安全性の課題は",
+  "Meta is trying VR glasses (again), this time with more IMAX",
+  "Metaが軽量VRグラスに再挑戦、IMAXとの連携でエンタメ強化へ"
  ]
 }

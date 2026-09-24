@@ -103414,5 +103414,39 @@
   "date": "2026-09-24",
   "time": "09:00",
   "path": "/articles/20260924-claude-in-chrome-general-availability.html"
+ },
+ {
+  "title": "Metaが軽量VRグラスに再挑戦、IMAXとの連携でエンタメ強化へ",
+  "lead": "Metaが再びVRグラスの領域に挑むことが明らかになりました。今回は軽量なフォームファクタと、IMAXを活用したエンターテインメントオプションの強化が組み合わされています。",
+  "summary3": [
+   "MetaがVRグラスに再び挑戦へ",
+   "軽量なフォームファクタを採用",
+   "IMAXによるエンタメが魅力"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部が入手した最新の情報によると、米MetaがVRグラスの領域へ再び参入することが判明しました。今回の取り組みでは、軽量なフォームファクタ（形状）と、エンターテインメントオプションの強化が有望な組み合わせとして注目されています。",
+   "特に今回はIMAXとの連携要素が盛り込まれており、より豊かなエンターテインメント体験が提供される見通しです。軽量化されたことで、長時間の使用でも負担が少なく、映画鑑賞などの体験が大きく向上することが期待されています。",
+   "Metaによる新たなVRグラスの展開が、今後の市場やユーザーのエンターテインメントの楽しみ方にどのような影響を与えるのか、引き続き注目が集まるところです。"
+  ],
+  "tags": [
+   "Meta",
+   "VR",
+   "IMAX"
+  ],
+  "slug": "meta-vr-glasses-imax",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "ソーシャルメディアを中心に、VRやメタバースなどのテクノロジー開発を手がけるアメリカの巨大テック企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "10:00",
+  "path": "/articles/20260924-meta-vr-glasses-imax.html"
  }
 ]

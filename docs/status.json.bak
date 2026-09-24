@@ -1,23 +1,17 @@
 {
- "updated": "2026-09-24 10:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Metaが軽量VRグラスに再挑戦、IMAXとの連携でエンタメ強化へ",
-   "path": "/articles/20260924-meta-vr-glasses-imax.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-24 11:00",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
   "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
  },
  "notes": [
-  "執筆失敗: Disney+ and Hulu raise prices by up to 1"
+  "執筆失敗: 日本最多７６００万人の登録者持つＹｏｕＴＵｂｅｒ・ＩＳＳＥＩがアーティストデビュ"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 73,
+  "used": 76,
   "limit": 200
  }
 }
