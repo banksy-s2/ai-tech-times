@@ -104487,5 +104487,391 @@
   "date": "2026-09-24",
   "time": "20:01",
   "path": "/articles/20260924-hikaru-rice-business-inventory-issue.html"
+ },
+ {
+  "title": "Google、次期AI「Gemini 4」の開発終盤へ",
+  "lead": "GoogleのDeepMind部門を率いる新リーダーが、開発が遅れていた次期AIモデル「Gemini 4」の近況について言及しました。",
+  "summary3": [
+   "Gemini 4が開発の最終調整段階へ",
+   "ライバル企業の後塵を拝していた状況",
+   "新リーダーがメディア初登場で言及"
+  ],
+  "body": [
+   "Googleは、競合他社の主力AIリリースに遅れをとっていた状況から、長年待ち望まれていた次期モデル「Gemini 4」のローンチに向けて最終調整に入っていることが報じられました。",
+   "GoogleのDeepMind部門で新たにリーダーに就任したコライ・カヴクチュオグル氏が、メディア初出演となる「The Information」のインタビューの中で明らかにしました。",
+   "同氏によると、Gemini 4は現在、製品の洗練を進めるリファインメントの段階にあるとのことです。今後の具体的な展開や発表時期に注目が集まっています。"
+  ],
+  "tags": [
+   "Gemini 4",
+   "Google",
+   "DeepMind",
+   "AI"
+  ],
+  "slug": "google-deepmind-gemini-4-refinement",
+  "people": [
+   {
+    "name": "コライ・カヴクチュオグル氏",
+    "bio": "GoogleのDeepMind部門を率いる新リーダーとして、メディアのインタビューに初めて登場した人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、AIやクラウドサービスなど幅広い技術開発を手がけるアメリカの大手テクノロジー企業。"
+   },
+   {
+    "name": "DeepMind",
+    "type": "company",
+    "desc": "Google傘下のAI研究開発部門で、最先端の人工知能モデルや技術の数々を生み出していることで知られる。"
+   },
+   {
+    "name": "Gemini 4",
+    "type": "ai",
+    "desc": "Googleが開発を進める、長年待ち望まれてきたフラグシップAIモデルの次期バージョン。"
+   },
+   {
+    "name": "The Information",
+    "type": "company",
+    "desc": "テクノロジー業界の深い取材と独自スクープで知られるアメリカのビジネス・テック系ニュースメディア。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-google-deepmind-gemini-4-refinement.html"
+ },
+ {
+  "title": "Anthropicの生物学ラボで大規模な発見、人間はどう関わっているのか",
+  "lead": "AI開発企業Anthropicの生物学ラボが大きな発見をしたと明らかにしました。しかし、AIを完全に野放しにしてはいないようです。",
+  "summary3": [
+   "Anthropicの生物学ラボが大きな発見",
+   "Claudeを完全に野放しにはせず",
+   "人間が依然としてプロセスに関与"
+  ],
+  "body": [
+   "AI開発を手がけるAnthropicは、自社の生物学ラボですでに大きな発見があったと発表しました。AI技術を活用した研究において、早くも重要な成果が上がっていることを示すものです。",
+   "しかし、今回の発表の中で最も注目すべき点は、同社が開発したAIであるClaudeを生物学ラボで完全に自由に動かしているわけではないという事実かもしれません。",
+   "多くの自動化やAIの自律的な活用が進む現代においても、現時点では人間がしっかりとループの中に残り、プロセスを管理し続けていることが明らかになっています。"
+  ],
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI研究"
+  ],
+  "slug": "anthropic-biology-lab-discovery",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "アメリカのAI開発企業であり、安全性に配慮した対話型AIモデルの開発などで知られています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高性能なAIモデルであり、自然言語処理や様々な分析タスクに活用されています。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+  "category": "ai",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-anthropic-biology-lab-discovery.html"
+ },
+ {
+  "title": "NECがAI自律型組織を新設、従業員はどうなるのか",
+  "lead": "NECが「AIネイティブカンパニー」を目指して「AI自律型組織」を新設しました。AIを組織の企業OSとして組み込む取り組みについて考察します。",
+  "summary3": [
+   "NECがAI自律型組織を新設",
+   "AIネイティブカンパニーを目指す",
+   "企業のAXや従業員の今後を考察"
+  ],
+  "body": [
+   "ITmedia AI+の報道によると、NECは「AIネイティブカンパニー」を目指し、「AI自律型組織」を新設しました。",
+   "AIを「企業OS」として組織に組み込むという今回の取り組みは、どのようなものなのでしょうか。AIが自律的に進化する組織へと変わっていく中で、従業員の役割や立場がどうなっていくのかが注目されています。",
+   "本記事では、企業のAX（AIトランスフォーメーション）が進む中で、組織と従業員のあり方について考察を行っています。"
+  ],
+  "tags": [
+   "NEC",
+   "AI自律型組織",
+   "AX"
+  ],
+  "slug": "nec-ai-autonomous-organization",
+  "people": [],
+  "terms": [
+   {
+    "name": "NEC",
+    "type": "company",
+    "desc": "日本電気株式会社は、東京都港区に本社を置く通信機器・電機メーカーであり、ITソリューション事業などを展開する。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-nec-ai-autonomous-organization.html"
+ },
+ {
+  "title": "Microsoftが暴露、AIが標的を選ぶ手口",
+  "lead": "Microsoftが、AIを利用して乗っ取ったメール受信箱を分析させ、金銭詐欺の標的やなりすまし相手を提案させるサイバー犯罪サービス「EvilTokens」の展開を明らかにしました。",
+  "summary3": [
+   "Microsoftが新手の犯罪サービスを暴露",
+   "AIがメールを分析し詐欺の標的を提案",
+   "組織内の人間関係や支払い流れを悪用"
+  ],
+  "body": [
+   "Microsoftは、サイバー犯罪グループが展開する新たなサービス「EvilTokens」についての調査結果を明らかにしました。このサービスは、AIを活用して不正に乗っ取ったメール受信箱を徹底的に分析させるというものです。",
+   "EvilTokensの仕組みでは、AIが組織内の人間関係や支払いの流れを自動的に調査し、「誰を狙うべきか」「誰になりすますべきか」といった具体的な提案を行います。さらに、どの関係性を悪用すれば金銭詐欺が最も成功しやすいかまで指示するのが特徴です。",
+   "企業や組織を狙うサイバー攻撃において、生成AIや高度な分析技術が犯罪の効率化や巧妙化に悪用される事例が確認されており、セキュリティ対策の重要性が一層高まっています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "サイバー犯罪",
+   "AIセキュリティ"
+  ],
+  "slug": "microsoft-exposes-eviltokens-ai-fraud-service",
+  "people": [],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く、世界最大のソフトウェア開発企業です。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260924-eviltokens/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-microsoft-exposes-eviltokens-ai-fraud-service.html"
+ },
+ {
+  "title": "Island、評価額64億ドルに到達した理由",
+  "lead": "サイバーセキュリティ企業のIslandが新たな資金調達ラウンドを実施し、評価額が64億ドルに到達しました。AI攻撃の急増がセキュリティ支出の波を加速させています。",
+  "summary3": [
+   "Islandの評価額が64億ドルに到達",
+   "AI攻撃の激化が支出拡大を牽引",
+   "エージェント型AI防衛の需要が急増"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えします。サイバーセキュリティ市場において、企業の資金調達が活発化しています。CNBC Techの報道によると、サイバーセキュリティを手がけるIslandは、新たな資金調達ラウンドを実施し、企業評価額が64億ドルに達しました。",
+   "この大型調達の背景には、高度化するAI攻撃の脅威があります。現在、エージェント型AIによる防衛システムへの需要が急速に高まっており、これがセキュリティ関連の支出を押し上げる波を作り出しています。",
+   "Islandは、ますます激しさを増すサイバーセキュリティの市場環境において、競争力を高めています。AIを活用した新たな脅威に対抗するための防衛策として、同社のソリューションに注目が集まっており、今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "サイバーセキュリティ",
+   "資金調達",
+   "AI"
+  ],
+  "slug": "island-cybersecurity-funding-64-billion",
+  "people": [],
+  "terms": [
+   {
+    "name": "Island",
+    "type": "company",
+    "desc": "サイバーセキュリティ市場で事業を展開する企業。AI攻撃の増加に伴う防衛需要に対応している。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-island-cybersecurity-funding-64-billion.html"
+ },
+ {
+  "title": "Modal Motorsが中国製を排除する小型モーター開発に挑む理由",
+  "lead": "スタートアップのModal Motorsが、ドローンやファン、ロボットに適した小型で軽量な電気モーターの開発に取り組んでいます。",
+  "summary3": [
+   "Modal Motorsが新型モーター開発へ",
+   "中国製モーターを完全に排除する狙い",
+   "レアアース磁石を使用しない設計を採用"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、スタートアップ企業のModal Motorsが、中国製モーターを完全に排除することを目指した電気モーターの開発に取り組んでいることが明らかになりました。",
+   "同社が開発を進めているのは、小型で軽量なモーターです。最大の特徴は、レアアース磁石を使用していない点にあります。",
+   "これらの新型モーターは、ドローンやファン、ロボットなどの用途に適しており、今後の活用が期待されています。"
+  ],
+  "tags": [
+   "Modal Motors",
+   "電気モーター",
+   "ロボット"
+  ],
+  "slug": "modal-motors-electric-motors",
+  "people": [],
+  "terms": [
+   {
+    "name": "Modal Motors",
+    "type": "company",
+    "desc": "中国製を排除した小型で軽量な電気モーターを開発しているスタートアップ企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+  "category": "silicon",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-modal-motors-electric-motors.html"
+ },
+ {
+  "title": "台湾在住グルメYouTuber、屋台の食事を吐き捨て炎上",
+  "lead": "台湾在住のグルメYouTuberが屋台の食事を「クソまずい」と吐き捨て、現地メディアも報じる炎上騒動に発展しました。",
+  "summary3": [
+   "グルメYouTuberが屋台の食事を批判",
+   "「クソまずい」と吐き捨てて物議",
+   "現地メディアも報じる炎上騒動に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。台湾在住のグルメYouTuberによるある言動が、大きな物議を醸しています。",
+   "問題となったのは、屋台で提供された食事に対する表現です。当該のYouTuberは食事を「クソまずい」と吐き捨て、その様子がインターネット上で拡散されました。",
+   "この行動に対して「他所の国で迷惑かけるな」といった批判が相次ぎ、現地メディアも報じるほどの炎上騒動へと発展しています。"
+  ],
+  "tags": [
+   "YouTube",
+   "炎上",
+   "台湾"
+  ],
+  "slug": "taiwan-youtuber-food-scandal",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcVFaNHcwTmQwYThzQ2NSYlFhcEpGOU40TGtQei01X1IzaGRLQTd1b3BONmZZTzk5T0VTOHZkZFZkV3E4Q1l0cTRhVjZQTEVYUTMxeGMzQkFONTgtbUVVdXY5cVJxVUhEQ2RodGZsQmNTaHRfMW10dUk3NEo2dnM?oc=5",
+  "category": "influencer",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-taiwan-youtuber-food-scandal.html"
+ },
+ {
+  "title": "台風25号で11人死亡3人不明 千葉と神奈川の被害なぜ拡大",
+  "lead": "台風25号に伴う記録的な大雨により、千葉県と神奈川県で甚大な被害が発生しました。土砂災害や川の氾濫が相次ぎ、これまでに11人が死亡、3人の行方がわからなくなっています。",
+  "summary3": [
+   "台風25号の大雨で11人が死亡",
+   "千葉と神奈川で土砂災害や氾濫",
+   "千葉県の北印旛沼で堤防が決壊"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、台風25号に伴う記録的な大雨が千葉県と神奈川県を直撃しました。この影響により、両県では土砂災害や川の氾濫による浸水被害が相次いで発生しています。",
+   "これまでの被害状況として、これまでに11人が死亡し、3人の行方がわからなくなっており、現在も捜索や救助活動が続けられています。",
+   "また、千葉県にある北印旛沼周辺では堤防が決壊し、周辺地域で深刻な浸水被害が確認されています。今後の気象情報や避難情報に十分な注意が必要です。"
+  ],
+  "tags": [
+   "台風",
+   "災害",
+   "千葉"
+  ],
+  "slug": "typhoon-25-damage-chiba-kanagawa",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260923de52072",
+  "category": "world",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-typhoon-25-damage-chiba-kanagawa.html"
+ },
+ {
+  "title": "イオン、サーキュレーター1万4000台回収 発火のおそれ",
+  "lead": "「AI TECH TIMES」がお伝えする本日のニュースです。イオンは、風を送って空気を循環させるサーキュレーターおよそ1万4000台を自主回収すると発表しました。",
+  "summary3": [
+   "イオンがサーキュレーターを回収",
+   "長期間の使用で発火のおそれ",
+   "対象はおよそ1万4000台"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする今日のニュースです。大手流通業のイオンは、風を送って空気を循環させる「サーキュレーター」について、自主回収を実施すると発表しました。",
+   "今回の自主回収の理由は、長期間使用すると発火のおそれがあるためです。安全上の懸念から、対象となる製品の回収が行われることになりました。",
+   "対象となる台数は、およそ1万4000台にのぼると発表されています。該当する製品をお持ちの場合は、今後の案内を確認し、使用を控えるなどの対応が求められます。"
+  ],
+  "tags": [
+   "イオン",
+   "サーキュレーター",
+   "自主回収"
+  ],
+  "slug": "aeon-circulator-recall",
+  "people": [],
+  "terms": [
+   {
+    "name": "イオン",
+    "type": "company",
+    "desc": "日本を拠点とする国内最大手級の流通グループ企業で、総合スーパーなどを展開しています。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260924de52204",
+  "category": "world",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-aeon-circulator-recall.html"
+ },
+ {
+  "title": "米ハイテク株高を追い風に出遅れ半導体株が1ヵ月で19%超上昇",
+  "lead": "2024年9月24日の国内株式市場概況において、米ハイテク株高を追い風に買い戻しが加速し、1ヵ月で株価が19%超上昇した出遅れ半導体株の動向が報じられました。",
+  "summary3": [
+   "米ハイテク株高を追い風に買い戻し加速",
+   "1ヵ月で株価が19%超上昇を記録",
+   "出遅れ半導体株の動向が明らかに"
+  ],
+  "body": [
+   "9月24日の国内株式市場概況によると、米国市場におけるハイテク株高の流れを追い風として、国内市場でも買い戻しの動きが加速していることが分かりました。",
+   "その中で、直近1ヵ月の間に株価が19%を超える上昇を見せた「出遅れ半導体株」の存在に注目が集まっています。",
+   "半導体関連の銘柄を巡っては、海外市場の動向や投資家による買い戻しの動きが相場全体に影響を与える展開となりました。"
+  ],
+  "tags": [
+   "国内株式市場",
+   "半導体株",
+   "株式市場概況"
+  ],
+  "slug": "semiconductor-stocks-surge-september-24",
+  "people": [],
+  "terms": [],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTk5wY1ZMOE1FNjhzSWNtU0VsWGdfZXJfZUl1dGF4UGtQSUx2S1VYRlR0UUpyREhrRC1wM0o1VVlvOTdVYlhja0NJeDZMNWVmR0pEYWsxVmJVZE4xN3E4dWN3VlRIQ0ZXVlhaLXlkWWUzelN3eXNPWUdrQTJXa1E?oc=5",
+  "category": "stock",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-semiconductor-stocks-surge-september-24.html"
+ },
+ {
+  "title": "ゆうちょ銀行、sustenと資本・業務提携締結",
+  "lead": "ゆうちょ銀行は、資産運用会社のsustenとの間で資本および業務提携を行うことを発表しました。",
+  "summary3": [
+   "ゆうちょ銀行がsustenと提携",
+   "資本・業務提携の実施を発表",
+   "ウエルスアドバイザーが報じる"
+  ],
+  "body": [
+   "ゆうちょ銀行は、資産運用会社のsustenと資本および業務提携を締結したことを明らかにしました。今回の提携は、両社の強みを持ち寄り、新たな価値提供を目指すものです。",
+   "詳細な提携内容や今後の展開については、各社からの発表を通じて順次明らかにされる見通しです。金融市場における両社の今後の取り組みに注目が集まります。"
+  ],
+  "tags": [
+   "ゆうちょ銀行",
+   "susten",
+   "資本業務提携"
+  ],
+  "slug": "yucho-susten-capital-business-alliance",
+  "people": [],
+  "terms": [
+   {
+    "name": "ゆうちょ銀行",
+    "type": "company",
+    "desc": "日本郵政グループが運営する、全国にネットワークを持つ日本の大型銀行。"
+   },
+   {
+    "name": "susten",
+    "type": "company",
+    "desc": "資産運用サービスや投資一任運用などを手がける日本の金融関連企業。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX21PTDNNZFo5a2FXbl9yRnlIM1hXVEZnT2tVbk5UMmg4SktNNmVOMXRoeU9HSVpTOU1SVDI0QmgzNkVCNUhBT3JBeDh4U2VyNjdBWU9ZRVBYYVNvSHF6bE00X0FaOWZubHprVzV6TW0zVWZpcUJPTlJrRkNPT1U0S2NEY1lQUDg?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-24",
+  "time": "21:05",
+  "path": "/articles/20260924-yucho-susten-capital-business-alliance.html"
  }
 ]
