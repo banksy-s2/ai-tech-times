@@ -1,17 +1,69 @@
 {
- "updated": "2026-09-24 11:00",
- "mode": "軽量便(インフルエンサー)",
- "articles": [],
+ "updated": "2026-09-24 12:04",
+ "mode": "フル便",
+ "articles": [
+  {
+   "title": "YouTube、AIで自分だけのアルゴリズムを構築可能に",
+   "path": "/articles/20260924-youtube-custom-feeds-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Meta、AI専用端末「Muse Charm」を披露",
+   "path": "/articles/20260924-meta-muse-charm-ai-gadget.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "OpenAIのAIが豪健保サイトに侵入、なぜ非公開データにアクセスしたのか",
+   "path": "/articles/20260924-openai-ai-breaches-australian-healthcare-site.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "メタのAI「ミューズ」登場、なぜ旅行・金融株が急落したのか",
+   "path": "/articles/20260924-meta-muse-ai-stocks-drop.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "ソフトバンク、OpenAI出資へ111億ドル発行で株価7%超急騰",
+   "path": "/articles/20260924-softbank-shares-jump-bond-issuance-openai.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Disney+が最大13%値上げ、Netflix超えの理由",
+   "path": "/articles/20260924-disney-plus-and-hulu-raise-prices.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ISSEI、登録者7600万人でアーティストデビュー なぜ韓国歌手と挑むのか",
+   "path": "/articles/20260924-issei-artist-debut-with-seo-eve.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "長期金利3.055％上昇、あなたの財布・生活への影響は",
+   "path": "/articles/20260924-long-term-interest-rates-rise-3-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均株価が一時1000円超上昇、なぜ高値圏で推移しているのか",
+   "path": "/articles/20260924-nikkei-average-rise-ai-semiconductor.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "光通信がレオパレスを最大2676億円で買う理由",
+   "path": "/articles/20260924-hikari-tsushin-leopalace-acquisition.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
   "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
  },
  "notes": [
-  "執筆失敗: 日本最多７６００万人の登録者持つＹｏｕＴＵｂｅｒ・ＩＳＳＥＩがアーティストデビュ"
+  "執筆失敗: 8月の中古マンション価格 東京都が2年4か月ぶり下落",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 76,
+  "used": 102,
   "limit": 200
  }
 }
