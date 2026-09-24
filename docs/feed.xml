@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Google、AI衛星を来週打ち上げ宇宙での性能テストへ</title>
+<link>https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html</guid>
+<pubDate>Fri, 25 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米The Vergeなどの報道によると、GoogleはAIプロセッサを搭載した衛星を来週にも打ち上げ、宇宙空間での性能をテストする計画を進めています。</description>
+</item>
+<item>
+<title>MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か</title>
+<link>https://ai-tech-times.web.app/articles/20260925-meta-muse-filesystem-leak.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-meta-muse-filesystem-leak.html</guid>
+<pubDate>Fri, 25 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>MetaのAI「Muse」に対し、わずかなプロンプトを与えるだけでルートファイルシステム全体が共有される状態になると、2人の開発者が明らかにしました。</description>
+</item>
+<item>
 <title>Lovable、ARR6億ドル突破の背景に「バイブコーディング」</title>
 <link>https://ai-tech-times.web.app/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 24 Sep 2026 20:01:00 +0900</pubDate>
 <category>インフルエンサー</category>
 <description>ユーチューバーのヒカルが手掛ける米事業をめぐり、数億円の在庫を抱えていることが明らかになりました。運営からの怒りの噴出や、脱毛サロン譲渡といった動きの背景には何があるのでしょうか。</description>
-</item>
-<item>
-<title>Bessemerが57.5億ドルをAIに投資、その理由は？</title>
-<link>https://ai-tech-times.web.app/articles/20260924-bessemer-raises-5-75b-for-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-bessemer-raises-5-75b-for-ai.html</guid>
-<pubDate>Thu, 24 Sep 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米国のベンチャーキャピタルであるベッセマーが、AI分野への投資に向けて新たに57.5億ドルの資金を確保したことが明らかになりました。AIネイティブ企業は過去最高のスピードで成長していると評価しています。</description>
-</item>
-<item>
-<title>UPS配送中のF-35部品が香港へ、中国当局が押収か</title>
-<link>https://ai-tech-times.web.app/articles/20260924-f35-components-hong-kong-ups.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-f35-components-hong-kong-ups.html</guid>
-<pubDate>Thu, 24 Sep 2026 19:00:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米国の海運大手UPSが輸送していた最新鋭戦闘機の部品が香港へ迂回させられ、中国当局に押収されたことが分かりました。安全保障上の懸念が強まっています。</description>
 </item>
 </channel></rss>

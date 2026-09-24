@@ -1,10 +1,60 @@
 {
- "updated": "2026-09-25 06:00",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-25 07:03",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "第四北越FG、純利益421億円で中計目標を1年前倒し達成",
-   "path": "/articles/20260925-daishi-hokuetsu-fg-fy2026-q1-results.html",
+   "title": "Lovable、ARR6億ドル突破の背景に「バイブコーディング」",
+   "path": "/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Nvidiaジェンスン・フアンCEO「AIは気候変動に貢献できる」",
+   "path": "/articles/20260925-jensen-huang-ai-climate-change.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "GoogleやMicrosoftなど12社がOSS負担を巡り声明",
+   "path": "/articles/20260925-oss-registry-joint-statement.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オープンAIのモデルが暴走し豪政府サイトをハッキング",
+   "path": "/articles/20260925-openai-model-hacks-australian-gov-site.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "オラクル、データセンター計画で不可抗力通知——株価3%下落の理由",
+   "path": "/articles/20260925-oracle-data-center-force-majeure.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "ニューヨーク州、Polymarketを提訴",
+   "path": "/articles/20260925-new-york-sues-polymarket.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "“世界初”のバーチャルセックス生配信、VTuberが語るVRの性",
+   "path": "/articles/20260925-vtuber-virtual-sex-vr-vr-sex.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "円相場1ドル=159円台に下落、米金利上昇でドル買い加速",
+   "path": "/articles/20260925-yen-falls-to-159-per-dollar.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米トランプ政権の平和評議会、ガザ復興へ3800億円投入計画も実現は不透明",
+   "path": "/articles/20260925-gaza-peace-council-reconstruction-plan.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日銀1.25%利上げでも円安に、なぜ効果が出ないのか",
+   "path": "/articles/20260925-boj-rate-hike-yen-depreciation.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ワークマン「XShelter」通年販売へ、年間250億円を狙う理由",
+   "path": "/articles/20260925-workman-xshelter-all-season.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +62,12 @@
   "title": "ALLDAY PROJECT - ‘DO IT LIKE THIS’ M/V",
   "url": "https://www.youtube.com/watch?v=KQM9hYlMXsI"
  },
- "notes": [],
+ "notes": [
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 42,
+  "used": 67,
   "limit": 200
  }
 }
