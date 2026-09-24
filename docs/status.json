@@ -1,21 +1,21 @@
 {
- "updated": "2026-09-25 05:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-25 06:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日本取引所グループ、配当利回り3.6％に増配",
-   "path": "/articles/20260925-jpx-dividend-increase-2027.html",
-   "cat": "株式投資(日本)"
+   "title": "第四北越FG、純利益421億円で中計目標を1年前倒し達成",
+   "path": "/articles/20260925-daishi-hokuetsu-fg-fy2026-q1-results.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
-  "title": "You Can See Everything | Official Trailer HD | A24",
-  "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
+  "title": "ALLDAY PROJECT - ‘DO IT LIKE THIS’ M/V",
+  "url": "https://www.youtube.com/watch?v=KQM9hYlMXsI"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 39,
+  "used": 42,
   "limit": 200
  }
 }

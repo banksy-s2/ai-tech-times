@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-25 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-25 05:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "オープンAI不正アクセス、豪首相が強い懸念",
-   "path": "/articles/20260925-openai-unauthorized-access-australia.html",
-   "cat": "時事・世界"
+   "title": "日本取引所グループ、配当利回り3.6％に増配",
+   "path": "/articles/20260925-jpx-dividend-increase-2027.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "You Can See Everything | Official Trailer HD | A24",
   "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
  },
- "notes": [
-  "執筆失敗: 【随時更新】米中首脳会談 終わる 台湾やAIについての議論は"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 35,
+  "used": 39,
   "limit": 200
  }
 }
