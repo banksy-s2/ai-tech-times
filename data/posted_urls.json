@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-  "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
   "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
   "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
   "https://forest.watch.impress.co.jp/docs/special/2130448.html",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MnVkVjFPd1FST09ZZWY5QmFjcDNCcExPdEJId0tZUExMMFRCUGZlV0p1RkIzM1c3TlVYT2ppSEZQcFpDODRjTDEyT21VZjlOcHJTdTItXzRiSkZHWW10RGdiQzQyM0wzeE9CV09wQUc2OFlDVTNFdW1ESmJLSEU?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260924de52196",
   "https://news.web.nhk/newsweb/na/nd-20260924de52090",
-  "https://news.web.nhk/newsweb/na/nd-20260924de52121"
+  "https://news.web.nhk/newsweb/na/nd-20260924de52121",
+  "https://www.nikkei.com/article/DGXZQOUC074OJ0X00C26A9000000/",
+  "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/"
  ],
  "titles": [
-  "日経平均株価 一時1900円超下落の理由",
-  "SHEIN香港上場、2700億円調達の裏で成長鈍化の課題",
-  "高市政権の政策縛る長期金利上昇、財政拡張に市場警鐘　首相の発信響かず - 日本経済新聞",
-  "高市政権下で長期金利一時3%上昇、財政拡張に市場が警鐘",
   "キューデンHD、10月1日に東証プライム・福証へ上場 九州電力は完全子会社に｜NetIB-News - data-max.co.jp",
   "キューデンHD、10月1日に東証プライム・福証へ上場",
   "Google needs Hollywood more than the studios need AI",
@@ -4001,6 +3997,10 @@
   "2000万円の納税を惜しんで1.5億円脱税、インフルエンサー事件の代償",
   "JCOM最大408万世帯に障害、外部からの大量アクセスが原因か",
   "OECD、来年予測3.6%に引上げの家計負担",
-  "円相場1ドル=157円台後半、連休明け東京市場の動向"
+  "円相場1ドル=157円台後半、連休明け東京市場の動向",
+  "オードリー・タン氏が警告　AIが考え人が従う「逆ケンタウロス」の罠 - 日本経済新聞",
+  "Googleが音声合成AI「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリース",
+  "オードリー・タン氏が警告するAI時代の罠",
+  "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開"
  ]
 }

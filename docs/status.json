@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-24 17:06",
- "mode": "フル便",
+ "updated": "2026-09-24 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Meta、AIエージェント「Muse」をメガネ型端末に導入する理由",
-   "path": "/articles/20260924-meta-ai-agent-muse-connect.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Meta、カメラなしで12時間駆動する軽量AIグラスを発表",
-   "path": "/articles/20260924-meta-introduces-camera-free-ai-glasses.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "セルシス「クリスタ」素材が大量非公開に、ユーザー混乱の理由とは",
-   "path": "/articles/20260924-crysta-assets-unpublicized.html",
+   "title": "オードリー・タン氏が警告するAI時代の罠",
+   "path": "/articles/20260924-audrey-tang-ai-warning.html",
    "cat": "日本のAI"
   },
   {
-   "title": "メタが独自AI「ミューズ」搭載眼鏡を発表、販売1000万台超えへ",
-   "path": "/articles/20260924-meta-muse-ai-glasses-10-million.html",
+   "title": "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開",
+   "path": "/articles/20260924-google-gemini-3-8-flash-tts-released.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "Comma.ai製ドライバー支援装置、事故多発で米当局が調査へ",
-   "path": "/articles/20260924-nhtsa-investigates-comma-ai.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Zoox、アトランタのテスト車両を運休へ",
-   "path": "/articles/20260924-zoox-grounds-atlanta-test-fleet.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "2000万円の納税を惜しんで1.5億円脱税、インフルエンサー事件の代償",
-   "path": "/articles/20260924-influencer-tax-evasion-case.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "JCOM最大408万世帯に障害、外部からの大量アクセスが原因か",
-   "path": "/articles/20260924-jcom-internet-outage-4-million-households.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "OECD、来年予測3.6%に引上げの家計負担",
-   "path": "/articles/20260924-oecd-inflation-forecast-revision.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "円相場1ドル=157円台後半、連休明け東京市場の動向",
-   "path": "/articles/20260924-yen-exchange-rate-september-24.html",
-   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
   "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
  },
- "notes": [
-  "執筆失敗: ゆうちょ銀行、ｓｕｓｔｅｎと資本・業務提携(ウエルスアドバイザー) - Yaho",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 144,
+  "used": 149,
   "limit": 200
  }
 }

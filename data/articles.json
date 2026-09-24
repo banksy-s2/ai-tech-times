@@ -104309,5 +104309,77 @@
   "date": "2026-09-24",
   "time": "17:06",
   "path": "/articles/20260924-yen-exchange-rate-september-24.html"
+ },
+ {
+  "title": "オードリー・タン氏が警告するAI時代の罠",
+  "lead": "台湾の初代デジタル担当相として知られるオードリー・タン氏が、AIが考え人間が従うリスクについて語りました。",
+  "summary3": [
+   "オードリー・タン氏がAIの罠に警鐘",
+   "自分で考えない人が増えるリスク",
+   "AI時代の仕事と教育のあり方とは"
+  ],
+  "body": [
+   "AI TECH TIMES編集部では、天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏へのインタビュー情報を報じます。子どもから大人まで、あらゆることをAIに相談する人が増えている現状があります。",
+   "このような状況の中で、人間が自分で考えないようになるリスクが生じています。タン氏は、AIが考え人間が従う「逆ケンタウロス」の罠について言及し、自分の頭で「考えない人」が増えるリスクへの対処法を語っています。",
+   "記事ではさらに、AI時代の仕事や教育、そしてデジタル技術を社会に生かすための条件についても触れられており、今後の技術との向き合い方について重要な示唆を与えています。"
+  ],
+  "tags": [
+   "オードリー・タン",
+   "AI",
+   "教育"
+  ],
+  "slug": "audrey-tang-ai-warning",
+  "people": [
+   {
+    "name": "オードリー・タン氏",
+    "bio": "天才的なプログラマーであり、台湾の初代デジタル担当相として広く知られている人物。"
+   }
+  ],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC074OJ0X00C26A9000000/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "18:00",
+  "path": "/articles/20260924-audrey-tang-ai-warning.html"
+ },
+ {
+  "title": "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開",
+  "lead": "Googleは、音声合成・テキスト読み上げモデルの「Gemini 3.8 Flash TTS」および「Gemini 3.8 Flash-Lite TTS」をリリースしました。日本語を含む100以上の言語や方言に対応しています。",
+  "summary3": [
+   "Googleが音声合成AIの新モデルをリリース",
+   "日本語を含む100以上の言語と方言に対応",
+   "2000種以上の音声でテキストを読み上げ可能"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。Googleは、音声合成およびテキスト読み上げモデルの「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」を新たにリリースしたと発表しました。",
+   "今回の新モデルでは、日本語を含む100以上の言語や方言に対応しているのが大きな特徴です。さらに、2000種以上の多様な音声を使用してテキストを読み上げさせることが可能となっています。",
+   "詳細については、Gigazineの元記事（https://gigazine.net/news/20260924-gemini-3-8-flash-tts/）をご確認ください。"
+  ],
+  "tags": [
+   "Google",
+   "音声合成",
+   "Gemini"
+  ],
+  "slug": "google-gemini-3-8-flash-tts-released",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドサービスやAI開発などを幅広く手がけるアメリカの巨大テクノロジー企業。"
+   },
+   {
+    "name": "Gemini 3.8 Flash TTS",
+    "type": "ai",
+    "desc": "Googleが開発した、100以上の言語や方言に対応する音声合成・テキスト読み上げモデル。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "18:00",
+  "path": "/articles/20260924-google-gemini-3-8-flash-tts-released.html"
  }
 ]
