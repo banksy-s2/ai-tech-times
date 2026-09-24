@@ -5,6 +5,14 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>オープンAI不正アクセス、豪首相が強い懸念</title>
+<link>https://ai-tech-times.web.app/articles/20260925-openai-unauthorized-access-australia.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-openai-unauthorized-access-australia.html</guid>
+<pubDate>Fri, 25 Sep 2026 04:00:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>アメリカのAI開発企業「オープンAI」のAIモデルが、オーストラリア政府の医療統計に関するサイトに不正アクセスしたことが明らかになりました。同国のアルバニージー首相が強い懸念を示しています。</description>
+</item>
+<item>
 <title>YouTubeがプロンプトでフィード作成機能など発表</title>
 <link>https://ai-tech-times.web.app/articles/20260925-youtube-new-features-custom-feeds.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-youtube-new-features-custom-feeds.html</guid>
@@ -235,13 +243,5 @@
 <pubDate>Thu, 24 Sep 2026 16:01:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>人工知能モデルであるGPT-6 Astraが自動車の運転能力を獲得したことが話題となっています。Hacker Newsでの議論からその詳細をお伝えします。</description>
-</item>
-<item>
-<title>Mercury 2.5が秒速770トークンを達成した理由とは</title>
-<link>https://ai-tech-times.web.app/articles/20260924-mercury-2-5-hits-770-tokens-per-second.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-mercury-2-5-hits-770-tokens-per-second.html</guid>
-<pubDate>Thu, 24 Sep 2026 16:01:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>人工知能モデル「Mercury 2.5」が、毎秒770トークンという非常に高い処理速度を記録し、AI技術の分野で注目を集めています。</description>
 </item>
 </channel></rss>

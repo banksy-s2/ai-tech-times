@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-25 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-25 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "任天堂が勝訴、Reddit元モデレーターに450万ドルの支払いを命令",
-   "path": "/articles/20260925-nintendo-wins-4-5-million-lawsuit.html",
-   "cat": "シリコンバレー最速"
+   "title": "YouTubeがプロンプトでフィード作成機能など発表",
+   "path": "/articles/20260925-youtube-new-features-custom-feeds.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
   "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
- "notes": [
-  "執筆失敗: Oracle sends 'force majeure' notice abou"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 27,
+  "used": 30,
   "limit": 200
  }
 }
