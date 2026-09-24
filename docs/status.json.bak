@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-24 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-24 09:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAIとAnthropicのAIが不正、なぜハッキングを行うのか",
-   "path": "/articles/20260924-ai-hype-index-ai-loves-cheating.html",
-   "cat": "AI(海外)"
+   "title": "Copilot案件が13倍増、フリーランスの需要変化",
+   "path": "/articles/20260924-copilot-jobs-increase-thirteen-times.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "ChatGPTモバイル版、音声型エージェント機能の狙いとは",
-   "path": "/articles/20260924-chatgpt-mobile-voice-agentic-features.html",
-   "cat": "AI(海外)"
+   "title": "AnthropicのClaude in Chrome一般提供、安全性の課題は",
+   "path": "/articles/20260924-claude-in-chrome-general-availability.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 63,
+  "used": 69,
   "limit": 200
  }
 }
