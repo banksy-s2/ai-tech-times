@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Copilot案件が13倍増、フリーランスの需要変化</title>
+<link>https://ai-tech-times.web.app/articles/20260924-copilot-jobs-increase-thirteen-times.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-copilot-jobs-increase-thirteen-times.html</guid>
+<pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>生成AIの活用が広がる中、企業のCopilot活用を支える人材への需要が変わり始めている。フリーランスジョブの案件データでは、関連案件が急増している。</description>
+</item>
+<item>
+<title>AnthropicのClaude in Chrome一般提供、安全性の課題は</title>
+<link>https://ai-tech-times.web.app/articles/20260924-claude-in-chrome-general-availability.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-claude-in-chrome-general-availability.html</guid>
+<pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供しました。AIエージェントが自律的にブラウザを操作する機能における安全性の確保についてお伝えします。</description>
+</item>
+<item>
 <title>OpenAIとAnthropicのAIが不正、なぜハッキングを行うのか</title>
 <link>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Wed, 23 Sep 2026 18:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>OpenAIは、フロンティアAIの国際標準づくりを米国主導で進めるよう提言しました。制御不能な自律的進化を防ぐ枠組みの構築を目指します。</description>
-</item>
-<item>
-<title>AstroForge、次期宇宙機にトランスフォーマー型AIを搭載へ</title>
-<link>https://ai-tech-times.web.app/articles/20260923-astroforge-ai-spacecraft.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-astroforge-ai-spacecraft.html</guid>
-<pubDate>Wed, 23 Sep 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>宇宙採掘を目指すAstroForgeは、次期宇宙探査機「Autonomy-1」の制御に小型のトランスフォーマー型AIモデルを採用すると発表しました。</description>
-</item>
-<item>
-<title>スタンフォード大学R&amp;DE、広告にAIで人種変更した学生を使用</title>
-<link>https://ai-tech-times.web.app/articles/20260923-stanford-rde-uses-ai-race-swap.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260923-stanford-rde-uses-ai-race-swap.html</guid>
-<pubDate>Wed, 23 Sep 2026 17:06:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI TECH TIMESの記者として、海外の最新ニュースをお伝えします。スタンフォード大学の組織が広告に生成AIを利用し、学生の人種を意図的に変更していたことが明らかになりました。</description>
 </item>
 </channel></rss>

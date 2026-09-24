@@ -103341,5 +103341,78 @@
   "date": "2026-09-24",
   "time": "08:00",
   "path": "/articles/20260924-chatgpt-mobile-voice-agentic-features.html"
+ },
+ {
+  "title": "Copilot案件が13倍増、フリーランスの需要変化",
+  "lead": "生成AIの活用が広がる中、企業のCopilot活用を支える人材への需要が変わり始めている。フリーランスジョブの案件データでは、関連案件が急増している。",
+  "summary3": [
+   "Copilot関連の案件が1年半で約13倍に急増",
+   "企業の生成AI活用拡大に伴い支援人材の需要変化",
+   "フリーランスに求められるスキルやニーズが変化"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新のITニュースです。生成AIの活用が企業の間で急速に広がる中、企業のCopilot活用を支える人材への需要が変わり始めています。",
+   "フリーランスジョブの最新の案件データによると、Copilot関連案件はわずか1年半の間に約13倍にまで増加したことが明らかになりました。この急激な伸びは、ビジネスの現場における生成AI導入の本格化を物語っています。",
+   "単なるツールの導入フェーズから、実務での活用や定着を支えるサポートへと企業の関心が移るにつれ、フリーランスに求められるニーズも大きく変化しています。今後の動向から目が離せません。"
+  ],
+  "tags": [
+   "生成AI",
+   "Copilot",
+   "フリーランス"
+  ],
+  "slug": "copilot-jobs-increase-thirteen-times",
+  "people": [],
+  "terms": [
+   {
+    "name": "Copilot",
+    "type": "ai",
+    "desc": "マイクロソフトが提供する、AIを活用した作業支援ツールの総称および製品群のこと"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/24/2000001632/",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "09:00",
+  "path": "/articles/20260924-copilot-jobs-increase-thirteen-times.html"
+ },
+ {
+  "title": "AnthropicのClaude in Chrome一般提供、安全性の課題は",
+  "lead": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供しました。AIエージェントが自律的にブラウザを操作する機能における安全性の確保についてお伝えします。",
+  "summary3": [
+   "Claude in Chromeが一般提供開始",
+   "AIが自律的にWebブラウザを操作",
+   "安全性分類器が実行前に各操作を検証"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお届けする最新ニュースです。Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供すると発表しました。",
+   "この機能では、操作ごとの承認をユーザーに求めず、AIエージェントが自律的にWebブラウザを操作します。非常に便利な一方で、プロンプトインジェクションなどのセキュリティリスクをどのように防ぐのかが注目されています。",
+   "発表によると、実行の前に安全性分類器が各操作を検証する仕組みが導入されています。自律型AIツールの活用が進む中、安全性の確保に向けたアプローチとして関心が集まっています。"
+  ],
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AIエージェント"
+  ],
+  "slug": "claude-in-chrome-general-availability",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "対話型AI「Claude」シリーズなどを開発するアメリカのAI企業です。"
+   },
+   {
+    "name": "Claude in Chrome",
+    "type": "ai",
+    "desc": "Anthropicが提供する、Webブラウザを自律的に操作する拡張機能です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+  "category": "ai_jp",
+  "date": "2026-09-24",
+  "time": "09:00",
+  "path": "/articles/20260924-claude-in-chrome-general-availability.html"
  }
 ]

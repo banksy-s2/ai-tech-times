@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51YWRMOVFrWXIyWGxWemhYcGt1cFAxR2FYTlZ3cHk1UVhJZ3lnVm1fQUtvQzNQMUdxanJSNHhucy1aQ2M3X00xMXc0U3d4NlZWemgySC1mYmlidjd3TVNV?oc=5",
-  "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
   "https://gigazine.net/news/20260804-agent-development-kit-attack/",
   "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
   "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260923de52050",
   "https://news.web.nhk/newsweb/na/nd-20260923de52068",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zUS1UdXhQQ0gwWVM2NDU2YTUxSmM4RnR3XzFrVmVUY3FHSGplRG9OXzJSd0ZqS0JZRWpKbHhXMDIzaDRuWGNmVXJHZV9HSFBjTXg4ZERheFQ4c1BsYnlzTEdzdHFCRk5KYTJYQw?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkpDandHR0plcE0tdjRKZ3RENjRvOGZtR0owdk91NkJrek9iN1BURnRrU2thRUdQNmV6MUFrN1ItUDRPVWNCMmxCMEhUWkUyakFDN3FwUTZfSzJJcndNbkFlMmVvcmp2NG1kUGdKUDNqNUY3aXdWR08zOF9zMlZlY0swTzNXN1k?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkpDandHR0plcE0tdjRKZ3RENjRvOGZtR0owdk91NkJrek9iN1BURnRrU2thRUdQNmV6MUFrN1ItUDRPVWNCMmxCMEhUWkUyakFDN3FwUTZfSzJJcndNbkFlMmVvcmp2NG1kUGdKUDNqNUY3aXdWR08zOF9zMlZlY0swTzNXN1k?oc=5",
+  "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+  "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
  ],
  "titles": [
-  "アップル新CEOにジョン・ターナス氏、ティム・クック氏の後任として9月1日付で就任",
-  "Unacademyが2億600万ドルで競合upGradに売却、ピーク時より94%下落の理由",
-  "ＡＮＹＣＯＬＯＲ、不破湊が日本武道館で２ｎｄワンマン、男性ＶＴｕｂｅｒ史上初と発表 - kabu-ir.com",
-  "ANYCOLOR不破湊、日本武道館で2ndワンマン開催決定",
   "【決算発表後に7,400円→9,400円に急伸】「ReFa」を展開するMTG、通期業績予想と配当予想を上方修正。稼ぎ頭の事業と株主優待を解説(LIMO) - Yahoo!ファイナンス",
   "MTG決算発表後に7400円から9400円に急伸、業績と配当予想の上方修正を発表",
   "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
@@ -4001,6 +3997,10 @@
   "ジャングリア沖縄の親会社が173億円余の赤字、開業後初の決算",
   "飯塚事件の弁護団、DNA型不一致の新証拠で3回目の再審請求へ",
   "シカゴ日経平均先物、1045円安の6万5925円",
-  "大光、本日9月24日に決算発表を予定"
+  "大光、本日9月24日に決算発表を予定",
+  "The AI Hype Index: AI loves cheating",
+  "ChatGPT mobile app gets voice-based agentic features",
+  "OpenAIとAnthropicのAIが不正、なぜハッキングを行うのか",
+  "ChatGPTモバイル版、音声型エージェント機能の狙いとは"
  ]
 }
