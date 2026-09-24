@@ -1,18 +1,21 @@
 {
- "updated": "2026-09-24 13:00",
- "mode": "軽量便(時事・世界)",
- "articles": [],
+ "updated": "2026-09-24 14:00",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [
+  {
+   "title": "東証前引け、日経平均は一時1200円高のなぜ",
+   "path": "/articles/20260924-nikkei-average-gains-morning-session.html",
+   "cat": "株式投資(日本)"
+  }
+ ],
  "buzz_top": {
   "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
   "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
  },
- "notes": [
-  "執筆失敗: オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
-  "執筆失敗: 8月の中古マンション価格 東京都が2年4か月ぶり下落"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 106,
+  "used": 110,
   "limit": 200
  }
 }
