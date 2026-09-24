@@ -1,17 +1,23 @@
 {
- "updated": "2026-09-25 01:05",
- "mode": "軽量便(日本のAI)",
- "articles": [],
+ "updated": "2026-09-25 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
+ "articles": [
+  {
+   "title": "任天堂が勝訴、Reddit元モデレーターに450万ドルの支払いを命令",
+   "path": "/articles/20260925-nintendo-wins-4-5-million-lawsuit.html",
+   "cat": "シリコンバレー最速"
+  }
+ ],
  "buzz_top": {
   "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
   "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
  "notes": [
-  "日本のAIの選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+  "執筆失敗: Oracle sends 'force majeure' notice abou"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 27,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-24 21:05 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 02:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [任天堂が勝訴、Reddit元モデレーターに450万ドルの支払いを命令](https://ai-tech-times.web.app/articles/20260925-nintendo-wins-4-5-million-lawsuit.html) — 2026-09-25 02:01: 任天堂は、海賊版Switchゲームの配布に関与したとして訴えていた裁判で勝訴しました。ワシントンの連邦裁判所は、被告に対して450万ドルの支払いを命じています。
 - [Google、次期AI「Gemini 4」の開発終盤へ](https://ai-tech-times.web.app/articles/20260924-google-deepmind-gemini-4-refinement.html) — 2026-09-24 21:05: GoogleのDeepMind部門を率いる新リーダーが、開発が遅れていた次期AIモデル「Gemini 4」の近況について言及しました。
 - [Anthropicの生物学ラボで大規模な発見、人間はどう関わっているのか](https://ai-tech-times.web.app/articles/20260924-anthropic-biology-lab-discovery.html) — 2026-09-24 21:05: AI開発企業Anthropicの生物学ラボが大きな発見をしたと明らかにしました。しかし、AIを完全に野放しにしてはいないようです。
 - [NECがAI自律型組織を新設、従業員はどうなるのか](https://ai-tech-times.web.app/articles/20260924-nec-ai-autonomous-organization.html) — 2026-09-24 21:05: NECが「AIネイティブカンパニー」を目指して「AI自律型組織」を新設しました。AIを組織の企業OSとして組み込む取り組みについて考察します。
@@ -41,14 +42,13 @@
 - [Meta、AIエージェント「Muse」をメガネ型端末に導入する理由](https://ai-tech-times.web.app/articles/20260924-meta-ai-agent-muse-connect.html) — 2026-09-24 17:06: 米MetaのCEOマーク・ザッカーバーグ氏が年次イベントでAIエージェント「Muse」の全面展開を表明しました。人気のAIグラスにも搭載される新機能の全貌とは。
 - [Meta、カメラなしで12時間駆動する軽量AIグラスを発表](https://ai-tech-times.web.app/articles/20260924-meta-introduces-camera-free-ai-glasses.html) — 2026-09-24 17:06: Metaがカメラ非搭載の新AIグラスを発表しました。軽量化と最大12時間のバッテリー駆動を実現し、私たちの日常の使い勝手がどのように変わるのでしょうか。
 - [セルシス「クリスタ」素材が大量非公開に、ユーザー混乱の理由とは](https://ai-tech-times.web.app/articles/20260924-crysta-assets-unpublicized.html) — 2026-09-24 17:06: セルシスのイラスト・マンガ制作ツール向け素材共有サービスで、多くの投稿素材が一斉に非公開になり、ユーザーの間で混乱が広がっています。
-- [メタが独自AI「ミューズ」搭載眼鏡を発表、販売1000万台超えへ](https://ai-tech-times.web.app/articles/20260924-meta-muse-ai-glasses-10-million.html) — 2026-09-24 17:06: 米メタは23日、人工知能を搭載した眼鏡型端末の新製品を発表しました。独自AIエージェントを搭載し、販売拡大を目指します。
 
 ## 世界のバズ動画TOP3 (2026-09-25)
 - 1位: [Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9](https://www.youtube.com/watch?v=hN_ZUElLH44)
 - 2位: [You Can See Everything | Official Trailer HD | A24](https://www.youtube.com/watch?v=HvW_N5p1q44)
 - 3位: [ALLDAY PROJECT - ‘DO IT LIKE THIS’ M/V](https://www.youtube.com/watch?v=KQM9hYlMXsI)
 
-## AI用語事典 (全1748語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1749語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
