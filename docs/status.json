@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-24 22:02",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-24 23:03",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [],
  "buzz_top": {
-  "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
-  "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
+  "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
+  "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
  "notes": [
-  "時事・世界の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+  "株式投資(日本)の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 186,
+  "used": 197,
   "limit": 200
  }
 }
