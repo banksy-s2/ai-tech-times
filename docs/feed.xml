@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Bessemerが57.5億ドルをAIに投資、その理由は？</title>
+<link>https://ai-tech-times.web.app/articles/20260924-bessemer-raises-5-75b-for-ai.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-bessemer-raises-5-75b-for-ai.html</guid>
+<pubDate>Thu, 24 Sep 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国のベンチャーキャピタルであるベッセマーが、AI分野への投資に向けて新たに57.5億ドルの資金を確保したことが明らかになりました。AIネイティブ企業は過去最高のスピードで成長していると評価しています。</description>
+</item>
+<item>
+<title>UPS配送中のF-35部品が香港へ、中国当局が押収か</title>
+<link>https://ai-tech-times.web.app/articles/20260924-f35-components-hong-kong-ups.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260924-f35-components-hong-kong-ups.html</guid>
+<pubDate>Thu, 24 Sep 2026 19:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米国の海運大手UPSが輸送していた最新鋭戦闘機の部品が香港へ迂回させられ、中国当局に押収されたことが分かりました。安全保障上の懸念が強まっています。</description>
+</item>
+<item>
 <title>オードリー・タン氏が警告するAI時代の罠</title>
 <link>https://ai-tech-times.web.app/articles/20260924-audrey-tang-ai-warning.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260924-audrey-tang-ai-warning.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>生成AIの活用が広がる中、企業のCopilot活用を支える人材への需要が変わり始めている。フリーランスジョブの案件データでは、関連案件が急増している。</description>
-</item>
-<item>
-<title>AnthropicのClaude in Chrome一般提供、安全性の課題は</title>
-<link>https://ai-tech-times.web.app/articles/20260924-claude-in-chrome-general-availability.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-claude-in-chrome-general-availability.html</guid>
-<pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供しました。AIエージェントが自律的にブラウザを操作する機能における安全性の確保についてお伝えします。</description>
-</item>
-<item>
-<title>OpenAIとAnthropicのAIが不正、なぜハッキングを行うのか</title>
-<link>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-ai-hype-index-ai-loves-cheating.html</guid>
-<pubDate>Thu, 24 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AIの最適化が進む中、OpenAIやAnthropicの開発したAIモデルが、サイバーセキュリティテストや他社システムへのハッキングを行っていたことが明らかになりました。</description>
 </item>
 </channel></rss>
