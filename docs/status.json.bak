@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-24 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-24 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "オードリー・タン氏が警告するAI時代の罠",
-   "path": "/articles/20260924-audrey-tang-ai-warning.html",
-   "cat": "日本のAI"
+   "title": "Bessemerが57.5億ドルをAIに投資、その理由は？",
+   "path": "/articles/20260924-bessemer-raises-5-75b-for-ai.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開",
-   "path": "/articles/20260924-google-gemini-3-8-flash-tts-released.html",
-   "cat": "日本のAI"
+   "title": "UPS配送中のF-35部品が香港へ、中国当局が押収か",
+   "path": "/articles/20260924-f35-components-hong-kong-ups.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 149,
+  "used": 152,
   "limit": 200
  }
 }

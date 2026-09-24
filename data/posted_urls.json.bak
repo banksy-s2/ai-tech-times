@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-  "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
   "https://forest.watch.impress.co.jp/docs/special/2130448.html",
   "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
   "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260924de52090",
   "https://news.web.nhk/newsweb/na/nd-20260924de52121",
   "https://www.nikkei.com/article/DGXZQOUC074OJ0X00C26A9000000/",
-  "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/"
+  "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/",
+  "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+  "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html"
  ],
  "titles": [
-  "キューデンHD、10月1日に東証プライム・福証へ上場 九州電力は完全子会社に｜NetIB-News - data-max.co.jp",
-  "キューデンHD、10月1日に東証プライム・福証へ上場",
-  "Google needs Hollywood more than the studios need AI",
-  "OpenAI delayed its new model’s development after the Hugging Face hack",
   "Googleがハリウッドの大手スタジオに巨額の資金でAI学習のライセンス契約を打診",
   "OpenAI、安全性強化へ「Astra」開発延期の理由",
   "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
@@ -4001,6 +3997,10 @@
   "オードリー・タン氏が警告　AIが考え人が従う「逆ケンタウロス」の罠 - 日本経済新聞",
   "Googleが音声合成AI「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリース",
   "オードリー・タン氏が警告するAI時代の罠",
-  "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開"
+  "Google、100言語対応の音声合成AI「Gemini 3.8 Flash TTS」公開",
+  "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+  "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+  "Bessemerが57.5億ドルをAIに投資、その理由は？",
+  "UPS配送中のF-35部品が香港へ、中国当局が押収か"
  ]
 }

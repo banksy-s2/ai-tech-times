@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-24 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-24 20:01",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Bessemerが57.5億ドルをAIに投資、その理由は？",
-   "path": "/articles/20260924-bessemer-raises-5-75b-for-ai.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "UPS配送中のF-35部品が香港へ、中国当局が押収か",
-   "path": "/articles/20260924-f35-components-hong-kong-ups.html",
-   "cat": "シリコンバレー最速"
+   "title": "ヒカルの米事業で数億円の在庫、なぜ運営の怒りが噴出しているのか",
+   "path": "/articles/20260924-hikaru-rice-business-inventory-issue.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 152,
+  "used": 154,
   "limit": 200
  }
 }
