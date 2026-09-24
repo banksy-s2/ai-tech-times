@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-24 09:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-24 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Copilot案件が13倍増、フリーランスの需要変化",
-   "path": "/articles/20260924-copilot-jobs-increase-thirteen-times.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AnthropicのClaude in Chrome一般提供、安全性の課題は",
-   "path": "/articles/20260924-claude-in-chrome-general-availability.html",
-   "cat": "日本のAI"
+   "title": "Metaが軽量VRグラスに再挑戦、IMAXとの連携でエンタメ強化へ",
+   "path": "/articles/20260924-meta-vr-glasses-imax.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
   "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Disney+ and Hulu raise prices by up to 1"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 69,
+  "used": 73,
   "limit": 200
  }
 }
