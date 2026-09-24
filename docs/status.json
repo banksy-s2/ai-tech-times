@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-24 23:03",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-25 00:03",
+ "mode": "軽量便(AI(海外))",
  "articles": [],
  "buzz_top": {
   "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Aakash Kaushik | In Cinemas Oct 9",
   "url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
  },
  "notes": [
-  "株式投資(日本)の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
+  "AI(海外)の選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 197,
+  "used": 11,
   "limit": 200
  }
 }
