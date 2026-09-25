@@ -105690,5 +105690,379 @@
   "date": "2026-09-25",
   "time": "11:00",
   "path": "/articles/20260925-tbs-vivant-ai-production.html"
+ },
+ {
+  "title": "ElevenLabs、顧客対応AIの「正体」明かすべき理由",
+  "lead": "カスタマーサービスで広く使われるAI音声技術を提供するElevenLabs。そのCEOが、顧客との会話でAIであることを伝えるべき理由について語りました。",
+  "summary3": [
+   "ElevenLabsがAI音声を提供",
+   "企業はAIであると伝えるべき",
+   "利用者の常識が変わるまでの対応"
+  ],
+  "body": [
+   "AI音声技術の開発を手がけるElevenLabsのCEOがこのほど、カスタマーサービス等での音声AI利用について言及しました。同社の技術は、多くのカスタマーサポートの電話の向こう側でAI音声を支えています。",
+   "今週の取材の中で、同氏はこの状況について見解を明かしました。それによると、企業は通話の相手がAIであることを、顧客に対してあらかじめ伝えるべきであると述べています。",
+   "ただし、それは「機械と話すことが誰もが予想する当たり前のこと」になるまでの期間の措置だとも指摘しています。AI音声が社会に浸過する過渡期において、適切な透明性が求められている現状が浮き彫りになりました。"
+  ],
+  "tags": [
+   "ElevenLabs",
+   "音声AI",
+   "カスタマーサポート"
+  ],
+  "slug": "elevenlabs-ceo-on-margins-ipo-timing-and-ai-transparency",
+  "people": [],
+  "terms": [
+   {
+    "name": "ElevenLabs",
+    "type": "company",
+    "desc": "リアルな音声合成やAI音声生成プラットフォームの開発を手がけるAI企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-elevenlabs-ceo-on-margins-ipo-timing-and-ai-transparency.html"
+ },
+ {
+  "title": "Meta、AIエージェント「Muse」向けのたまごっち型ウェアラブル端末を開発",
+  "lead": "Metaが開発したAIエージェント「Muse」の新たなモバイル環境となる、小型のハードウェアデバイスが登場しました。",
+  "summary3": [
+   "MetaがMuse向けの小型端末を開発",
+   "たまごっち風のウェアラブル端末",
+   "AIエージェントの新たな居場所に"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。海外メディアのTechCrunch AIによると、フェイスブックなどを傘下に持つMetaが、自社のAIエージェント「Muse」に向けて、たまごっちに似たウェアラブル端末を開発したことが明らかになりました。",
+   "今回発表されたのは、AIエージェントである「Muse」の新たなモバイル環境を生み出すための、非常に小さなハードウェアデバイスです。AIの活用方法が多様化する中、身につけられる形状の端末を通じて、ユーザーの生活にAIがより密着する仕組みを模索しているとみられます。",
+   "AI技術の進化に伴い、ソフトウェアとしての提供が主流だったAIエージェントが、こうした専用の小型ハードウェアとどのように連携していくのか、今後の展開に注目が集まりそうです。"
+  ],
+  "tags": [
+   "Meta",
+   "AIエージェント",
+   "ウェアラブル"
+  ],
+  "slug": "meta-tamagotchi-wearable-muse-ai",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどを運営するアメリカの大手IT企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-meta-tamagotchi-wearable-muse-ai.html"
+ },
+ {
+  "title": "オラクル株8%安、AIデータセンター資金調達の危うい錬金術",
+  "lead": "人工知能向けのデータセンター構築を巡り、GPUを担保にした融資や証券化など複雑な資金調達手法が広がっています。投資マネーの逆回転リスクが意識され、関連株の下落も起きています。",
+  "summary3": [
+   "AIデータセンターの資金調達が複雑化",
+   "GPU担保や証券化など錬金術の側面",
+   "需要陰れば投資マネー逆回転の危うさ"
+  ],
+  "body": [
+   "人工知能（AI）向けのデータセンターを構築する資金の調達手法が複雑になっています。画像処理半導体（GPU）を担保にして金融機関が融資したり、ローンを証券化したりする手法が取られています。",
+   "こうした手法には「錬金術」の側面があり、AIの需要が陰れば投資マネーの逆回転が起こる危うさをはらんでいます。",
+   "24日には市場においてオラクル株が一時前日比8%安となったほか、ブルー・アウル株も変動するなど影響が出ています。資金調達の複雑化が今後の市場にどう影響するかが注目されています。"
+  ],
+  "tags": [
+   "AI",
+   "データセンター",
+   "金融"
+  ],
+  "slug": "ai-datacenter-financing-risk",
+  "people": [],
+  "terms": [
+   {
+    "name": "オラクル",
+    "type": "company",
+    "desc": "米国に拠点を置き、データベースソフトウェアやクラウドサービスなどを提供する世界的な大手IT企業です。"
+   },
+   {
+    "name": "ブルー・アウル",
+    "type": "company",
+    "desc": "米国を拠点とするオルタナティブ資産運用会社で、プライベートクレジットや不動産投資などを手掛けています。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC07AL40X00C26A9000000/",
+  "category": "ai_jp",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-ai-datacenter-financing-risk.html"
+ },
+ {
+  "title": "DatabricksがRow Zero買収、その次なる買収戦略とは",
+  "lead": "Databricksがクラウドスプレッドシートのスタートアップ企業であるRow Zeroを買収しました。さらに多くのスタートアップの買収を模索しています。",
+  "summary3": [
+   "Databricksが買収を実施",
+   "クラウドのRow Zeroを獲得",
+   "さらなる企業買収を模索中"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がTechCrunchの報道をもとに報じるところによると、Databricksはクラウドスプレッドシートのスタートアップ企業であるRow Zeroを買収しました。これは、同社が進めている買収戦略の一環となる動きです。",
+   "Row Zeroはクラウド上で動作するスプレッドシートを提供するスタートアップ企業として知られています。今回の買収により、Databricksのサービスや技術基盤がどのように強化されていくのかが注目されます。",
+   "さらに、Databricksは現在もさらなるスタートアップの買収に向けて動きを強めており、今後の動向から目が離せない状況が続いています。"
+  ],
+  "tags": [
+   "Databricks",
+   "Row Zero",
+   "TechCrunch"
+  ],
+  "slug": "databricks-buys-row-zero",
+  "people": [],
+  "terms": [
+   {
+    "name": "Databricks",
+    "type": "company",
+    "desc": "データプラットフォームや分析ツールを提供するアメリカの主要なテクノロジー企業です。"
+   },
+   {
+    "name": "Row Zero",
+    "type": "company",
+    "desc": "クラウド環境で高速に動作するスプレッドシートを提供する新興企業です。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+  "category": "silicon",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-databricks-buys-row-zero.html"
+ },
+ {
+  "title": "マイクロソフト、「Copilot Plus PC」ブランドを終了へ",
+  "lead": "マイクロソフトが展開してきた「Copilot Plus PC」ブランドが、早くも終了に向かっていることが明らかになりました。",
+  "summary3": [
+   "マイクロソフトがブランドを終了へ",
+   "クアルコムと共に事実上の幕引き",
+   "十分なAI処理能力を訴求していた"
+  ],
+  "body": [
+   "マイクロソフトがかつて強力に推し進めていた「Copilot Plus PC」というブランドが、早くも終焉を迎えることになりました。十分な内蔵AI処理能力を備え、様々な作業を効率的にこなせるパソコンとしてユーザーに広くアピールされていたブランドです。",
+   "しかし、それから2年半が経過した現在、マイクロソフトとクアルコムはそのブランドがすでに機能していないことを認める状況となっています。Windows Centralのザック・ボウデン記者が報じており、関係者の間で大きな話題となっています。",
+   "かつて注目を集めたAI特化型パソコンのブランディングが、どのような経緯で幕を閉じることになるのか、今後の動向に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Qualcomm",
+   "CopilotPlusPC"
+  ],
+  "slug": "microsoft-is-killing-off-copilot-plus-pc-brand",
+  "people": [
+   {
+    "name": "ザック・ボウデン",
+    "bio": "Windows Centralに所属し、マイクロソフト関連のインサイド情報を多数報じている著名なジャーナリスト。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "マイクロソフト",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、Windowsなどのオペレーティングシステムやソフトウェアを開発・販売する世界的なIT企業。"
+   },
+   {
+    "name": "クアルコム",
+    "type": "company",
+    "desc": "アメリカに本拠地を置く半導体メーカーで、モバイル向けプロセッサなどの開発・製造において世界的なシェアを持つ。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+  "category": "silicon",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-microsoft-is-killing-off-copilot-plus-pc-brand.html"
+ },
+ {
+  "title": "Disney+とHuluが13%値上げ、ストリーミングの家計負担はどうなる",
+  "lead": "ディズニーは、映像ストリーミングサービス「Disney＋」と「Hulu」の値上げを発表しました。ストリーミング市場におけるインフレ傾向にさらなる拍車がかかっています。",
+  "summary3": [
+   "Disney+とHuluが値上げを実施",
+   "Disney+は13%値上げの月21.49ドルに",
+   "ストリーミングサービスのインフレが加速"
+  ],
+  "body": [
+   "ウォルト・ディズニーは、映像ストリーミングサービスである「Disney＋」および「Hulu」の値上げを実施しました。今回の価格改定により、世界的なストリーミングサービスにおけるインフレ傾向がさらに強まる形となっています。",
+   "海外メディアの報道によると、「Disney＋」の料金は13%引き上げられ、月額21.49ドルに設定されました。この値上げは、拡大を続けるエンターテインメント業界のコスト増や、収益化を急ぐ事業者の動向を反映したものです。",
+   "「Disney＋」と「Hulu」という主要サービスの相次ぐ価格改定は、日々のエンターテインメント消費を楽しむユーザーの家計負担に直接影響を与えるものとして注目を集めています。ストリーミング市場全体の価格高騰トレンドは、今後も利用者のサービス選択に影響を与えそうです。"
+  ],
+  "tags": [
+   "Disney+",
+   "Hulu",
+   "値上げ"
+  ],
+  "slug": "disney-plus-hulu-price-hike-2026",
+  "people": [],
+  "terms": [
+   {
+    "name": "ウォルト・ディズニー",
+    "type": "company",
+    "desc": "アメリカに本拠地を置き、映画やテーマパーク、メディア事業などを幅広く展開する世界的な総合エンターテインメント企業。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://gigazine.net/news/20260924-disney-plus-hulu-raise-prices/",
+  "category": "influencer",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-disney-plus-hulu-price-hike-2026.html"
+ },
+ {
+  "title": "全東信破綻の売上金約54億円、10月中にも店側へ支払い",
+  "lead": "クレジットカードの決済代行サービスを行う「全東信」が経営破綻した問題で、加盟する飲食店などが回収できていない売上金の支払い時期が明らかになりました。",
+  "summary3": [
+   "全東信の経営破綻で未回収の売上金が発生",
+   "未回収の総額はおよそ54億円に上る規模",
+   "飲食店などへの支払いは10月中にも実施"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、クレジットカードの決済代行サービスを行う「全東信」が経営破綻した問題で、加盟する飲食店などがこれまで回収できていない売上金が、10月中にも店側に支払われることになりました。",
+   "今回、飲食店などの手元に戻る予定となっている未回収の売上金の総額は、およそ54億円に上ることが分かっています。",
+   "経営破綻によって影響を受けていた加盟店にとって、売上金の支払いが10月中に行われることで、資金繰りの負担軽減につながることが期待されます。"
+  ],
+  "tags": [
+   "全東信",
+   "決済代行",
+   "飲食店"
+  ],
+  "slug": "zentoshin-sales-payment-october",
+  "people": [],
+  "terms": [
+   {
+    "name": "全東信",
+    "type": "company",
+    "desc": "クレジットカードの決済代行サービスを行っていた企業で、経営破綻した。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260925de52300",
+  "category": "world",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-zentoshin-sales-payment-october.html"
+ },
+ {
+  "title": "米中首脳会談終了 習主席が求めた台湾の行方は",
+  "lead": "アメリカのトランプ大統領と中国の習近平国家主席が24日、ホワイトハウスで会談を行い、台湾独立に対する姿勢などが話し合われました。",
+  "summary3": [
+   "トランプ大統領と習近平主席が会談",
+   "ホワイトハウスで24日に実施",
+   "習主席が台湾独立反対を要求"
+  ],
+  "body": [
+   "アメリカのトランプ大統領と中国の習近平国家主席が、24日にホワイトハウスで会談を行いました。今回の首脳会談では、両国の今後の関係や重要な外交課題について意見が交わされたとみられています。",
+   "会談の中で、中国の習近平国家主席はアメリカのトランプ大統領に対し、「アメリカは『台湾独立』に反対を」と求める発言を行いました。台湾を巡る問題は、米中関係において常に重大な関心事となっています。",
+   "この習主席からの強い要求に対し、トランプ大統領がどのような反応や返答を見せたのかについては、今後の国際動向や外交上のやり取りが注目されるポイントとなります。"
+  ],
+  "tags": [
+   "米中首脳会談",
+   "トランプ大統領",
+   "習近平国家主席"
+  ],
+  "slug": "us-china-summit-taiwan-2026",
+  "people": [
+   {
+    "name": "トランプ大統領",
+    "bio": "アメリカ合衆国の元大統領であり、現在は同国の大統領として政権を率いる政治家。"
+   },
+   {
+    "name": "習近平国家主席",
+    "bio": "中華人民共和国の最高指導者であり、中国共産党総書記および国家主席を務める政治家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "ホワイトハウス",
+    "type": "company",
+    "desc": "アメリカ合衆国大統領の公邸および執務室があり、米国の政権中枢機能を持つ建物。"
+   }
+  ],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260924de52268",
+  "category": "world",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-us-china-summit-taiwan-2026.html"
+ },
+ {
+  "title": "小林製薬、株価がストップ高気配 「株式の非公開化検討」報道で思惑",
+  "lead": "日本経済新聞の報道により、小林製薬の株式非公開化検討が伝えられ、市場で思惑が広がっています。",
+  "summary3": [
+   "小林製薬の株式非公開化検討が報道される",
+   "報道を受けて株価がストップ高気配となる",
+   "市場において様々な思惑が広がっている状況"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、小林製薬に関して株式の非公開化を検討していることが明らかになりました。この動きを受けて、株式市場では買い注文が殺到し、株価がストップ高気配となっています。",
+   "株式の非公開化に関する検討報道が出たことで、今後の企業動向や市場への影響に対する思惑が広がっています。投資家の間でも関心が高まっている状況です。",
+   "今後の正式な発表や詳細な情報開示に向けて、市場関係者の注目が集まっています。"
+  ],
+  "tags": [
+   "小林製薬",
+   "株式非公開化",
+   "日本経済新聞"
+  ],
+  "slug": "kobayashi-pharmaceutical-going-private",
+  "people": [],
+  "terms": [
+   {
+    "name": "小林製薬",
+    "type": "company",
+    "desc": "大阪府大阪市に本社を置く、医薬品や日用品の製造・販売を手がける大手メーカー。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAteU5Qbi1GVHVxWHE2SFFuTk84YUxyekxQSDh1LS1JRnlSNV9RNHVzUmZWM2NrM2cwV3hTa0MwTWpvaTBBVThxcHNBSlpWeFRjT1JFNmNyQUk2OHMzS2VRQVppamJQMWxXN0FOQg?oc=5",
+  "category": "stock",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-kobayashi-pharmaceutical-going-private.html"
+ },
+ {
+  "title": "JR九州が反発、SBIと業務提携か",
+  "lead": "24日の株式市場で、JR九州が反発する動きを見せました。SBIとの業務提携が報じられたことが材料視されています。",
+  "summary3": [
+   "24日の株式市場でJR九州が反発",
+   "SBIグループとの業務提携と報道",
+   "投資家からの関心を集める展開に"
+  ],
+  "body": [
+   "24日の東京株式市場において、九州旅客鉄道（JR九州）が反発しました。市場関係者の間では、同社がSBIグループと業務提携を行う方針であると報じられたことが注目を集めました。",
+   "今回の報道を受けて、両社の提携によるシナジーや今後の事業展開に対する関心が高まり、株価の動意付く要因となりました。具体的な提携内容や今後のスケジュールなどの詳細については、今後の発表が待たれる状況となっています。",
+   "株式市場においては、こうした新たな提携ニュースが企業の株価変動に直接的な影響を与えるケースが多く、引き続き両社の動向から目が離せない展開が続きそうです。"
+  ],
+  "tags": [
+   "JR九州",
+   "SBI",
+   "株式市場"
+  ],
+  "slug": "jr-kyushu-sbi-business-tie-up",
+  "people": [],
+  "terms": [
+   {
+    "name": "JR九州",
+    "type": "company",
+    "desc": "九州地方を中心に鉄道事業や不動産事業、流通事業などを展開する日本の大手鉄道会社です。"
+   },
+   {
+    "name": "SBI",
+    "type": "company",
+    "desc": "ネット証券を主軸とし、銀行や保険など多彩な金融サービスを展開する国内の大手総合金融グループです。"
+   }
+  ],
+  "source": "Googleニュース: 上場企業",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUwxNHAxZThCbVJrZ3dQQVhYNzRaZm93UE14U18zUW5idHpsdUotMmhKLWUtalZkcVhWck5DVUxNN1BKZTdSLWdVVFdXdnhJTTVQaWlZRFJxbTdJc0pyRTZkZWE2WGNtZlhzaHQyY3lUNnc4YzYxTTlFMVUyS0JfMmRDZkxCT1U?oc=5",
+  "category": "jp_corp",
+  "date": "2026-09-25",
+  "time": "12:02",
+  "path": "/articles/20260925-jr-kyushu-sbi-business-tie-up.html"
  }
 ]
