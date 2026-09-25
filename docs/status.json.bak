@@ -1,26 +1,17 @@
 {
- "updated": "2026-09-26 04:00",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "米中首脳会談が開催、日本への影響はどうなるのか",
-   "path": "/articles/20260926-us-china-summit-meeting-2026.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "円相場1ドル＝156円台に値上がり、介入警戒強まる理由は",
-   "path": "/articles/20260926-yen-rate-156-yen-1.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-26 05:01",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 小林製薬 日英の投資ファンドから非上場化に向けた提案受ける"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 24,
+  "used": 28,
   "limit": 200
  }
 }
