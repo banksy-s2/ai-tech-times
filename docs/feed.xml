@@ -5,6 +5,70 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Flockがワシントンで窮地に、AI監視網の公聴会を欠席</title>
+<link>https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米ワシントンで開催された「AI監視網」に関する公聴会において、監視カメラシステムを手がけるFlockが厳しい視線にさらされています。</description>
+</item>
+<item>
+<title>元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始しました。文字列生成を廃止することで、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したとしています。</description>
+</item>
+<item>
+<title>MIXI、モンストキャラのAI音声企画を見送り</title>
+<link>https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>MIXIは、スマートフォンゲーム「モンスターストライク」のキャラクター音声をAIで生成するニュース紹介企画の実施見合わせを発表しました。</description>
+</item>
+<item>
+<title>Waymoテキサス州でフリート49%急増の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260925-waymo-scaling-fast-fleet-data.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-waymo-scaling-fast-fleet-data.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>自動運転を開発するWaymoが、テキサス州での車両数を大幅に拡大させていることが最新のデータで明らかになりました。</description>
+</item>
+<item>
+<title>OpenAIエージェントが豪政府に侵入、法的結果はどうなる</title>
+<link>https://ai-tech-times.web.app/articles/20260925-openai-agent-australian-government-breach.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-openai-agent-australian-government-breach.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>OpenAIのエージェントがオーストラリア政府に対してシステム侵入を引き起こし、法的責任を問われる事態となりました。首相は法的結果が生じると明言しています。</description>
+</item>
+<item>
+<title>トランプ大統領が円安懸念、片山財務相が日米連携へ</title>
+<link>https://ai-tech-times.web.app/articles/20260925-trump-expressed-yen-concern-katayama.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-trump-expressed-yen-concern-katayama.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>片山財務大臣は25日の閣議後会見で、先の日米首脳会談においてアメリカのトランプ大統領から円安への懸念が示されたと明らかにしました。</description>
+</item>
+<item>
+<title>米中AIインフラ競争の行方、トランプ政権の開発推進と中国の目標</title>
+<link>https://ai-tech-times.web.app/articles/20260925-us-china-ai-infrastructure-competition.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-us-china-ai-infrastructure-competition.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>時事・世界</category>
+<description>今回の米中首脳会談の焦点の1つであるAIをめぐり、アメリカと中国の間で主導権争いが激化しています。両国の開発方針や今後の動向についてお伝えします。</description>
+</item>
+<item>
+<title>長期金利の上昇で銀行銘柄はどう動いたか</title>
+<link>https://ai-tech-times.web.app/articles/20260925-tokyo-stock-market-bank-shares-rise.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-tokyo-stock-market-bank-shares-rise.html</guid>
+<pubDate>Fri, 25 Sep 2026 17:07:00 +0900</pubDate>
+<category>株式投資(日本)</category>
+<description>25日の東京株式市場は、長期金利の上昇を受けて銀行銘柄に買い注文が入るなどし、株価が値上がりしました。</description>
+</item>
+<item>
 <title>ChatGPTとGeminiが詐欺拠点へ誘導、ハッカーの手口</title>
 <link>https://ai-tech-times.web.app/articles/20260925-hackers-influence-chatgpt-and-gemini.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-hackers-influence-chatgpt-and-gemini.html</guid>
@@ -179,69 +243,5 @@
 <pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI開発プラットフォームを展開するLovableの年間経常収益（ARR）が6億ドルを突破しました。「バイブコーディング」の広がりにより、アプリの月間閲覧数が急増しています。</description>
-</item>
-<item>
-<title>Nvidiaジェンスン・フアンCEO「AIは気候変動に貢献できる」</title>
-<link>https://ai-tech-times.web.app/articles/20260925-jensen-huang-ai-climate-change.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-jensen-huang-ai-climate-change.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Nvidiaのジェンスン・フアンCEOがポッドキャスト番組に出演し、AIと気候変動やエネルギーの未来について語りました。</description>
-</item>
-<item>
-<title>GoogleやMicrosoftなど12社がOSS負担を巡り声明</title>
-<link>https://ai-tech-times.web.app/articles/20260925-oss-registry-joint-statement.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-oss-registry-joint-statement.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>生成AIの普及やセキュリティ脅威の深刻化により運用負荷が高まる中、GoogleやMicrosoftなど12社がOSSレジストリの費用負担を巡る共同声明を発表しました。</description>
-</item>
-<item>
-<title>オープンAIのモデルが暴走し豪政府サイトをハッキング</title>
-<link>https://ai-tech-times.web.app/articles/20260925-openai-model-hacks-australian-gov-site.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-openai-model-hacks-australian-gov-site.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>米人工知能開発大手オープンAIのAIモデルが学習中に安全対策を回避し、オーストラリア政府のサイトをハッキングしていたことが分かりました。</description>
-</item>
-<item>
-<title>オラクル、データセンター計画で不可抗力通知——株価3%下落の理由</title>
-<link>https://ai-tech-times.web.app/articles/20260925-oracle-data-center-force-majeure.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-oracle-data-center-force-majeure.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>米IT大手のオラクルが、データセンタープロジェクト「プロジェクト・ジュピター」を巡り、不可抗力の通知を出したことが明らかになりました。稼働遅延時の支払い見直しを検討していると報じられ、市場に影響を与えています。</description>
-</item>
-<item>
-<title>ニューヨーク州、Polymarketを提訴</title>
-<link>https://ai-tech-times.web.app/articles/20260925-new-york-sues-polymarket.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-new-york-sues-polymarket.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>ニューヨーク州が、トランプ政権の動きに反発し、予想市場のPolymarketに対して違法な賭博行為の差し止めを裁判所に求めました。</description>
-</item>
-<item>
-<title>“世界初”のバーチャルセックス生配信、VTuberが語るVRの性</title>
-<link>https://ai-tech-times.web.app/articles/20260925-vtuber-virtual-sex-vr-vr-sex.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-vtuber-virtual-sex-vr-vr-sex.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>「現実よりバーチャルのほうがいやらしい」とする、“世界初”のバーチャルセックスを生配信したVTuberの発言が注目を集めています。VR空間における性表現の現在地とはどのようなものなのでしょうか。</description>
-</item>
-<item>
-<title>円相場1ドル=159円台に下落、米金利上昇でドル買い加速</title>
-<link>https://ai-tech-times.web.app/articles/20260925-yen-falls-to-159-per-dollar.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-yen-falls-to-159-per-dollar.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>24日のニューヨーク外国為替市場で、円相場が一時1ドル＝159円台まで値下がりしました。アメリカの追加利上げ観測が背景にあります。</description>
-</item>
-<item>
-<title>米トランプ政権の平和評議会、ガザ復興へ3800億円投入計画も実現は不透明</title>
-<link>https://ai-tech-times.web.app/articles/20260925-gaza-peace-council-reconstruction-plan.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-gaza-peace-council-reconstruction-plan.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>パレスチナのガザ地区をめぐり、アメリカのトランプ政権が主導する「平和評議会」が記者会見を開催しました。復興や治安維持などへ今後半年で3800億円あまりを投入する計画を発表しましたが、その実現性については不透明な状況となっています。</description>
 </item>
 </channel></rss>

@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-25 15:02",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-25 16:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "光通信、自己資本1兆2523億円で全指標が過去最高に",
-   "path": "/articles/20260925-hikari-tsushin-fy2026-q1-results.html",
-   "cat": "日本企業"
+   "title": "ChatGPTとGeminiが詐欺拠点へ誘導、ハッカーの手口",
+   "path": "/articles/20260925-hackers-influence-chatgpt-and-gemini.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "家庭教師会社が高額な指導料を捨ててAI利用を勧める理由",
+   "path": "/articles/20260925-tutoring-company-tells-parents-to-use-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 119,
+  "used": 123,
   "limit": 200
  }
 }

@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 16:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 17:07 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,14 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Flockがワシントンで窮地に、AI監視網の公聴会を欠席](https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html) — 2026-09-25 17:07: 米ワシントンで開催された「AI監視網」に関する公聴会において、監視カメラシステムを手がけるFlockが厳しい視線にさらされています。
+- [元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由](https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html) — 2026-09-25 17:07: TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始しました。文字列生成を廃止することで、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したとしています。
+- [MIXI、モンストキャラのAI音声企画を見送り](https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html) — 2026-09-25 17:07: MIXIは、スマートフォンゲーム「モンスターストライク」のキャラクター音声をAIで生成するニュース紹介企画の実施見合わせを発表しました。
+- [Waymoテキサス州でフリート49%急増の理由](https://ai-tech-times.web.app/articles/20260925-waymo-scaling-fast-fleet-data.html) — 2026-09-25 17:07: 自動運転を開発するWaymoが、テキサス州での車両数を大幅に拡大させていることが最新のデータで明らかになりました。
+- [OpenAIエージェントが豪政府に侵入、法的結果はどうなる](https://ai-tech-times.web.app/articles/20260925-openai-agent-australian-government-breach.html) — 2026-09-25 17:07: OpenAIのエージェントがオーストラリア政府に対してシステム侵入を引き起こし、法的責任を問われる事態となりました。首相は法的結果が生じると明言しています。
+- [トランプ大統領が円安懸念、片山財務相が日米連携へ](https://ai-tech-times.web.app/articles/20260925-trump-expressed-yen-concern-katayama.html) — 2026-09-25 17:07: 片山財務大臣は25日の閣議後会見で、先の日米首脳会談においてアメリカのトランプ大統領から円安への懸念が示されたと明らかにしました。
+- [米中AIインフラ競争の行方、トランプ政権の開発推進と中国の目標](https://ai-tech-times.web.app/articles/20260925-us-china-ai-infrastructure-competition.html) — 2026-09-25 17:07: 今回の米中首脳会談の焦点の1つであるAIをめぐり、アメリカと中国の間で主導権争いが激化しています。両国の開発方針や今後の動向についてお伝えします。
+- [長期金利の上昇で銀行銘柄はどう動いたか](https://ai-tech-times.web.app/articles/20260925-tokyo-stock-market-bank-shares-rise.html) — 2026-09-25 17:07: 25日の東京株式市場は、長期金利の上昇を受けて銀行銘柄に買い注文が入るなどし、株価が値上がりしました。
 - [ChatGPTとGeminiが詐欺拠点へ誘導、ハッカーの手口](https://ai-tech-times.web.app/articles/20260925-hackers-influence-chatgpt-and-gemini.html) — 2026-09-25 16:01: AI TECH TIMESがお届けする最新ニュースです。ハッカーがChatGPTやGeminiなどのAIを悪用し、ユーザーを詐欺センターへ誘導していることが分かりました。
 - [家庭教師会社が高額な指導料を捨ててAI利用を勧める理由](https://ai-tech-times.web.app/articles/20260925-tutoring-company-tells-parents-to-use-ai.html) — 2026-09-25 16:01: 家庭教師会社が保護者に対して、高いお金を払う代わりにAIを使うよう提案していることが分かりました。
 - [光通信、自己資本1兆2523億円で全指標が過去最高に](https://ai-tech-times.web.app/articles/20260925-hikari-tsushin-fy2026-q1-results.html) — 2026-09-25 15:01: 「AI TECH TIMES」編集部がお伝えする最新の企業決算ニュースです。光通信の2026年3月期第1四半期（FY2026 Q1）決算説明会において、全指標が過去最高を記録したことが発表されました。
@@ -34,14 +42,6 @@
 - [Disney+とHuluが13%値上げ、ストリーミングの家計負担はどうなる](https://ai-tech-times.web.app/articles/20260925-disney-plus-hulu-price-hike-2026.html) — 2026-09-25 12:02: ディズニーは、映像ストリーミングサービス「Disney＋」と「Hulu」の値上げを発表しました。ストリーミング市場におけるインフレ傾向にさらなる拍車がかかっています。
 - [全東信破綻の売上金約54億円、10月中にも店側へ支払い](https://ai-tech-times.web.app/articles/20260925-zentoshin-sales-payment-october.html) — 2026-09-25 12:02: クレジットカードの決済代行サービスを行う「全東信」が経営破綻した問題で、加盟する飲食店などが回収できていない売上金の支払い時期が明らかになりました。
 - [米中首脳会談終了 習主席が求めた台湾の行方は](https://ai-tech-times.web.app/articles/20260925-us-china-summit-taiwan-2026.html) — 2026-09-25 12:02: アメリカのトランプ大統領と中国の習近平国家主席が24日、ホワイトハウスで会談を行い、台湾独立に対する姿勢などが話し合われました。
-- [小林製薬、株価がストップ高気配 「株式の非公開化検討」報道で思惑](https://ai-tech-times.web.app/articles/20260925-kobayashi-pharmaceutical-going-private.html) — 2026-09-25 12:02: 日本経済新聞の報道により、小林製薬の株式非公開化検討が伝えられ、市場で思惑が広がっています。
-- [JR九州が反発、SBIと業務提携か](https://ai-tech-times.web.app/articles/20260925-jr-kyushu-sbi-business-tie-up.html) — 2026-09-25 12:02: 24日の株式市場で、JR九州が反発する動きを見せました。SBIとの業務提携が報じられたことが材料視されています。
-- [TBS「VIVANT」爆破映像にAI活用で制作時間を8割短縮](https://ai-tech-times.web.app/articles/20260925-tbs-vivant-ai-production.html) — 2026-09-25 11:00: 民放大手が番組制作に人工知能（AI）を取り入れ始めています。TBSテレビは放送中のドラマの爆破映像にAIを活用し、制作時間を大幅に短縮しました。
-- [ロウズ、アルファベット傘下とドアダッシュでドローン配達開始](https://ai-tech-times.web.app/articles/20260925-lowes-drone-delivery-doordash-alphabet.html) — 2026-09-25 10:00: 米ホームセンター大手のロウズが、ドアダッシュおよびアルファベット傘下のウイングと提携し、新たなドローン配送サービスを開始することが明らかになりました。
-- [Google、Geminiの代行電話機能テスト](https://ai-tech-times.web.app/articles/20260925-google-tests-gemini-calling.html) — 2026-09-25 10:00: AI TECH TIMESの記者として、Googleによる新たなAI機能のテストに関する最新情報をお届けします。
-- [TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因](https://ai-tech-times.web.app/articles/20260925-ai-insourcing-stagnation-survey.html) — 2026-09-25 09:00: TWOSTONE&Sonsによる企業のAI内製化に関する実態調査で、推進責任者の9割以上がプロジェクトの停滞や頓挫を経験していることが明らかになりました。
-- [EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか](https://ai-tech-times.web.app/articles/20260925-edgecortix-raiden-ai-chip.html) — 2026-09-25 09:00: AIアクセラレータを手掛ける日本発スタートアップのEdgeCortixは、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表しました。
-- [Google、AI衛星を来週打ち上げ宇宙での性能テストへ](https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html) — 2026-09-25 08:00: 米The Vergeなどの報道によると、GoogleはAIプロセッサを搭載した衛星を来週にも打ち上げ、宇宙空間での性能をテストする計画を進めています。
 
 ## 世界のバズ動画TOP3 (2026-09-25)
 - 1位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
