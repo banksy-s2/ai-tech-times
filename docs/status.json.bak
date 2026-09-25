@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-26 00:03",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-26 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？",
-   "path": "/articles/20260926-meta-muse-openclaw-ai-agent.html",
-   "cat": "AI(海外)"
+   "title": "グーグルGeminiが電話代行を開始、レストラン予約で制限がある理由",
+   "path": "/articles/20260926-google-gemini-phone-agent.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由",
-   "path": "/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html",
-   "cat": "AI(海外)"
+   "title": "カシオ、G-SHOCK開発にAIを導入した理由",
+   "path": "/articles/20260926-casio-g-shock-ai-design.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 6,
+  "used": 10,
   "limit": 200
  }
 }

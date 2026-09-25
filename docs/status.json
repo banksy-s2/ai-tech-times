@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-26 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-26 02:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "グーグルGeminiが電話代行を開始、レストラン予約で制限がある理由",
-   "path": "/articles/20260926-google-gemini-phone-agent.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "カシオ、G-SHOCK開発にAIを導入した理由",
-   "path": "/articles/20260926-casio-g-shock-ai-design.html",
-   "cat": "日本のAI"
+   "title": "Bitgetで3.51億ドル相当の仮想通貨が盗難、北朝鮮ハッカーの関与が浮上",
+   "path": "/articles/20260926-bitget-crypto-theft-north-korean-hackers.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Anthropic’s founders seek voting control"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 10,
+  "used": 14,
   "limit": 200
  }
 }

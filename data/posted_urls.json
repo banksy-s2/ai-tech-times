@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://arxiv.org/abs/2510.01395",
   "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
   "https://gigazine.net/news/20260806-ai-tokenmaxxing-microsoft/",
   "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
@@ -1999,11 +1998,10 @@
   "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
   "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
   "https://japan.cnet.com/article/35252958/",
-  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html"
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html",
+  "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
  ],
  "titles": [
-  "Microsoft discloses Azure revenue as part of major financial reporting changes",
-  "安倍晋三元首相銃撃事件が映画化へ　山上徹也被告役に「菅田将暉」か | 東スポWEB",
   "円相場 円高ドル安進む 一時1ドル156円台前半に 1か月ぶり水準",
   "LA Clippers fined $30m over Leonard pay scandal",
   "ベッセント財務長官「なぜ日銀に独立性が与えられていない」不満ぶちまける　片山財務大臣との夕食で高市政権の経済政策を批判　米紙報道｜FNNプライムオンライン",
@@ -4001,6 +3999,8 @@
   "グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ",
   "AIと人の共創で進化する「G-SHOCK」　デザイナーが語る製品化の舞台裏",
   "グーグルGeminiが電話代行を開始、レストラン予約で制限がある理由",
-  "カシオ、G-SHOCK開発にAIを導入した理由"
+  "カシオ、G-SHOCK開発にAIを導入した理由",
+  "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+  "Bitgetで3.51億ドル相当の仮想通貨が盗難、北朝鮮ハッカーの関与が浮上"
  ]
 }
