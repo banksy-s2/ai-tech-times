@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-25 10:00",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-25 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "ロウズ、アルファベット傘下とドアダッシュでドローン配達開始",
-   "path": "/articles/20260925-lowes-drone-delivery-doordash-alphabet.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Google、Geminiの代行電話機能テスト",
-   "path": "/articles/20260925-google-tests-gemini-calling.html",
-   "cat": "シリコンバレー最速"
+   "title": "TBS「VIVANT」爆破映像にAI活用で制作時間を8割短縮",
+   "path": "/articles/20260925-tbs-vivant-ai-production.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 80,
+  "used": 83,
   "limit": 200
  }
 }

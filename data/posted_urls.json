@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
   "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE11RzVTd05nUGN0MEN5M212Z0xXSWF1MmVzNWNMSEtPTTg1SmtGNThadTQ1clVYWTZFSXJ2eVFaQzlpMDNhLTRVcnJhS3JDdXZMV0NOVWVyaWF2UkZlZmxDZjE5cUs3TmY1LTRjTzZHVWdhUUF1TWE3R3djN2M3dEU?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015197551000",
@@ -1999,11 +1998,10 @@
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
   "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
   "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
-  "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+  "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+  "https://www.nikkei.com/article/DGXZQOUC141ZS0U6A810C2000000/"
  ],
  "titles": [
-  "なぜ韓国は世界でヒットを連発し、日本は540億円を溶かしたのか　「クールジャパン」の誤算",
-  "クールジャパン機構の誤算、540億円の赤字を生んだ理由",
   "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
   "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
   "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け　デザインにも影響",
@@ -4001,6 +3999,8 @@
   "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
   "Google tests letting Gemini call businesses for you",
   "ロウズ、アルファベット傘下とドアダッシュでドローン配達開始",
-  "Google、Geminiの代行電話機能テスト"
+  "Google、Geminiの代行電話機能テスト",
+  "ドラマ「VIVANT」爆破映像にAI　テレビ局、制作コスト削減へ活用 - 日本経済新聞",
+  "TBS「VIVANT」爆破映像にAI活用で制作時間を8割短縮"
  ]
 }

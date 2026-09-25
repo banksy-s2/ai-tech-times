@@ -105573,5 +105573,88 @@
   "date": "2026-09-25",
   "time": "09:00",
   "path": "/articles/20260925-edgecortix-raiden-ai-chip.html"
+ },
+ {
+  "title": "ロウズ、アルファベット傘下とドアダッシュでドローン配達開始",
+  "lead": "米ホームセンター大手のロウズが、ドアダッシュおよびアルファベット傘下のウイングと提携し、新たなドローン配送サービスを開始することが明らかになりました。",
+  "summary3": [
+   "ロウズがドローン配達サービスを開始",
+   "ドアダッシュおよびアルファベットと提携",
+   "CNBCが独占情報として報じる"
+  ],
+  "body": [
+   "米CNBCが独占情報として報じたところによると、ホームセンター大手のロウズは、フードデリバリーを手がけるドアダッシュ、およびグーグルの親会社であるアルファベット傘下のドローン企業ウイングとのパートナーシップを通じて、ドローン配送サービスを新たに立ち上げます。",
+   "今回の提携により、顧客は迅速かつ新しい手法で商品の配達を受けられるようになります。小売業界におけるドローンを活用した配送サービスの展開は、今後の物流のあり方に大きな影響を与える可能性があります。",
+   "詳しいサービス提供エリアや対象商品などの詳細は今後明らかになるとみられており、大手企業同士の連携による新たな配送インフラの構築に注目が集まっています。"
+  ],
+  "tags": [
+   "ドローン配送",
+   "小売",
+   "物流"
+  ],
+  "slug": "lowes-drone-delivery-doordash-alphabet",
+  "people": [],
+  "terms": [
+   {
+    "name": "ロウズ",
+    "type": "company",
+    "desc": "米国を中心に展開する世界最大級のDIY・ホームセンターチェーン。"
+   },
+   {
+    "name": "ドアダッシュ",
+    "type": "company",
+    "desc": "アメリカ合衆国を拠点とする、全米最大手級のフードデリバリー運営企業。"
+   },
+   {
+    "name": "アルファベット",
+    "type": "company",
+    "desc": "Googleを子会社に持つ、アメリカ合衆国の巨大IT持株会社。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+  "category": "silicon",
+  "date": "2026-09-25",
+  "time": "10:00",
+  "path": "/articles/20260925-lowes-drone-delivery-doordash-alphabet.html"
+ },
+ {
+  "title": "Google、Geminiの代行電話機能テスト",
+  "lead": "AI TECH TIMESの記者として、Googleによる新たなAI機能のテストに関する最新情報をお届けします。",
+  "summary3": [
+   "GoogleがAI代行電話機能をテスト中",
+   "米国でPixel 11購入者が対象",
+   "Geminiの有料プラン加入が必要"
+  ],
+  "body": [
+   "AI TECH TIMES編集部。米国のテックメディア「TechCrunch」の報道によると、Googleは人工知能「Gemini」に店舗などの企業へ代行して電話をかけさせる新機能のテストを実施しています。",
+   "今回発表されたAIによる電話発信機能は、まずアメリカ国内のユーザーを対象に展開される予定です。対象となるのは、最新端末である「Pixel 11」の所有者で、かつ有料のGeminiサブスクリプションに加入しているユーザーに限定されます。",
+   "日常の面倒な電話予約や問い合わせなどをAIが代行してくれる便利な機能として期待されていますが、まずは限られた地域とユーザー層でのテスト導入からスタートする形となります。今後の機能拡張や他地域への展開についても注目が集まっています。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "Pixel 11"
+  ],
+  "slug": "google-tests-gemini-calling",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを主力に、OSやクラウドサービス、ハードウェアまで幅広く手がける米国の巨大IT企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した高度なマルチモーダル対応の生成AIモデルおよび関連サービスの総称。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+  "category": "silicon",
+  "date": "2026-09-25",
+  "time": "10:00",
+  "path": "/articles/20260925-google-tests-gemini-calling.html"
  }
 ]

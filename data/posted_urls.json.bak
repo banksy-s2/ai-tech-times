@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-  "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
   "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
   "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE11RzVTd05nUGN0MEN5M212Z0xXSWF1MmVzNWNMSEtPTTg1SmtGNThadTQ1clVYWTZFSXJ2eVFaQzlpMDNhLTRVcnJhS3JDdXZMV0NOVWVyaWF2UkZlZmxDZjE5cUs3TmY1LTRjTzZHVWdhUUF1TWE3R3djN2M3dEU?oc=5",
@@ -1999,13 +1997,11 @@
   "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
   "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
   "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
-  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html"
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+  "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+  "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
  ],
  "titles": [
-  "筆頭株主はYouTuber、それでも足りずに合併へ——GoProの株価が2週間で動いた理由 - shiritomo",
-  "GoPro株価が2週間で動いた理由とは",
-  "ロシア外務省報道官 日米豪共同訓練に「対抗措置とる」と警告",
-  "ロシア外務省、日米豪の共同訓練に対抗措置をとると警告",
   "なぜ韓国は世界でヒットを連発し、日本は540億円を溶かしたのか　「クールジャパン」の誤算",
   "クールジャパン機構の誤算、540億円の赤字を生んだ理由",
   "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
@@ -4001,6 +3997,10 @@
   "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
   "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
   "TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因",
-  "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか"
+  "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか",
+  "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+  "Google tests letting Gemini call businesses for you",
+  "ロウズ、アルファベット傘下とドアダッシュでドローン配達開始",
+  "Google、Geminiの代行電話機能テスト"
  ]
 }

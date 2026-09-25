@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-25 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-25 10:00",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因",
-   "path": "/articles/20260925-ai-insourcing-stagnation-survey.html",
-   "cat": "日本のAI"
+   "title": "ロウズ、アルファベット傘下とドアダッシュでドローン配達開始",
+   "path": "/articles/20260925-lowes-drone-delivery-doordash-alphabet.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか",
-   "path": "/articles/20260925-edgecortix-raiden-ai-chip.html",
-   "cat": "日本のAI"
+   "title": "Google、Geminiの代行電話機能テスト",
+   "path": "/articles/20260925-google-tests-gemini-calling.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
-  "title": "You Can See Everything | Official Trailer HD | A24",
-  "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
+  "title": "Clayface | Final Trailer",
+  "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 76,
+  "used": 80,
   "limit": 200
  }
 }

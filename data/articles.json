@@ -105656,5 +105656,39 @@
   "date": "2026-09-25",
   "time": "10:00",
   "path": "/articles/20260925-google-tests-gemini-calling.html"
+ },
+ {
+  "title": "TBS「VIVANT」爆破映像にAI活用で制作時間を8割短縮",
+  "lead": "民放大手が番組制作に人工知能（AI）を取り入れ始めています。TBSテレビは放送中のドラマの爆破映像にAIを活用し、制作時間を大幅に短縮しました。",
+  "summary3": [
+   "TBSがドラマ爆破映像にAIを活用",
+   "制作時間を8割短縮することに成功",
+   "広告収入減少中で効率向上を急ぐ"
+  ],
+  "body": [
+   "民放大手が番組制作に人工知能（AI）を取り入れ始めています。TBSテレビは放送中のドラマ「VIVANT」の爆破映像に活用して制作時間を8割短縮しました。",
+   "広告収入が減少する中、制作効率の向上と著作権保護の両立を模索しながらAI利用で先行する海外勢を追う形となっています。",
+   "7月に放送されたVIVANTシーズン2の初回では、日本各地にある病院が爆発するシーンなどが描かれました。テレビ局によるAIの活用は今後さらに広がっていくとみられます。"
+  ],
+  "tags": [
+   "TBSテレビ",
+   "VIVANT",
+   "AI"
+  ],
+  "slug": "tbs-vivant-ai-production",
+  "people": [],
+  "terms": [
+   {
+    "name": "TBSテレビ",
+    "type": "company",
+    "desc": "日本の民間放送局の一つであり、様々なテレビ番組の制作・放送を行っている。"
+   }
+  ],
+  "source": "はてなブックマークエンタメ",
+  "source_url": "https://www.nikkei.com/article/DGXZQOUC141ZS0U6A810C2000000/",
+  "category": "influencer",
+  "date": "2026-09-25",
+  "time": "11:00",
+  "path": "/articles/20260925-tbs-vivant-ai-production.html"
  }
 ]
