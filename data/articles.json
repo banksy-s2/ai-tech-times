@@ -106126,5 +106126,72 @@
   "date": "2026-09-25",
   "time": "15:01",
   "path": "/articles/20260925-hikari-tsushin-fy2026-q1-results.html"
+ },
+ {
+  "title": "ChatGPTとGeminiが詐欺拠点へ誘導、ハッカーの手口",
+  "lead": "AI TECH TIMESがお届けする最新ニュースです。ハッカーがChatGPTやGeminiなどのAIを悪用し、ユーザーを詐欺センターへ誘導していることが分かりました。",
+  "summary3": [
+   "ChatGPTとGeminiが悪用される",
+   "ユーザーを詐欺拠点へ誘導する手口",
+   "ハッカーによるAI操作の危険性"
+  ],
+  "body": [
+   "ハッカーたちが、OpenAIが開発した対話型AIのChatGPTや、Googleが提供するGeminiなどの人工知能モデルを巧妙に操作し、ユーザーを詐欺センターへと誘導していることが明らかになりました。AIの応答を不正に誘導するこの手法は、セキュリティ上の新たな脅威として注目を集めています。",
+   "元記事によると、AIモデルを標的にしたこのハッキング手法は、ユーザーが普段信頼して利用しているチャットボットを介して悪意あるサイトや詐欺の拠点へと誤誘導するものです。AIの出力結果が書き換えられることで、利用者は意図せず危険な場所へアクセスさせられる危険があります。",
+   "AI技術の急速な普及に伴い、その利便性を悪用したサイバー攻撃の手口も高度化しています。今回の事例は、主要なAIサービスを利用する際にもセキュリティリスクが存在することを示しており、今後の対策や注意喚起の重要性が改めて浮き彫りになりました。"
+  ],
+  "tags": [
+   "AIセキュリティ",
+   "ChatGPT",
+   "Gemini"
+  ],
+  "slug": "hackers-influence-chatgpt-and-gemini",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型AIモデルであり、自然な言語処理で質問に答える。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発したマルチモーダル対応のAIモデルであり、高度な推論を行う。"
+   }
+  ],
+  "source": "HN: AI/LLM",
+  "source_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "16:01",
+  "path": "/articles/20260925-hackers-influence-chatgpt-and-gemini.html"
+ },
+ {
+  "title": "家庭教師会社が高額な指導料を捨ててAI利用を勧める理由",
+  "lead": "家庭教師会社が保護者に対して、高いお金を払う代わりにAIを使うよう提案していることが分かりました。",
+  "summary3": [
+   "家庭教師会社がAIの利用を推奨",
+   "保護者にお金を節約するよう助言",
+   "教育分野でのAI活用に注目集まる"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、ある家庭教師会社が保護者に対し、自分たちのサービスにお金を払うのではなく、代わりにAIを使用するように勧めていることが明らかになりました。",
+   "この異例の提案は、教育現場や保護者の間で大きな関心を集めています。高額な指導料を支払う従来の家庭教師サービスではなく、AIを手頃な学習ツールとして活用する選択肢が提示された形です。",
+   "AI技術の進化が続く中、教育業界におけるコストや学習方法のあり方について、新たな議論を呼ぶ出来事となりそうです。"
+  ],
+  "tags": [
+   "AI",
+   "教育",
+   "家庭教師"
+  ],
+  "slug": "tutoring-company-tells-parents-to-use-ai",
+  "people": [],
+  "terms": [],
+  "source": "HN: AI/LLM",
+  "source_url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "16:01",
+  "path": "/articles/20260925-tutoring-company-tells-parents-to-use-ai.html"
  }
 ]
