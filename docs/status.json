@@ -1,17 +1,21 @@
 {
- "updated": "2026-09-25 14:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-09-25 15:02",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "光通信、自己資本1兆2523億円で全指標が過去最高に",
+   "path": "/articles/20260925-hikari-tsushin-fy2026-q1-results.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
- "notes": [
-  "執筆失敗: 財務相“日米首脳会談でトランプ大統領から円安懸念示された”"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 115,
+  "used": 119,
   "limit": 200
  }
 }

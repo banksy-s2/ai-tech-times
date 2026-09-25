@@ -1,23 +1,17 @@
 {
- "updated": "2026-09-25 13:01",
- "mode": "軽量便(時事・世界)",
- "articles": [
-  {
-   "title": "防災庁が11月2日発足へ、災害対策の司令塔はどうなる",
-   "path": "/articles/20260925-bousai-cho-establishment-november-2.html",
-   "cat": "時事・世界"
-  }
- ],
+ "updated": "2026-09-25 14:01",
+ "mode": "軽量便(株式投資(日本))",
+ "articles": [],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
  "notes": [
-  "執筆失敗: 株価 値上がり 金利上昇で銀行銘柄など上昇"
+  "執筆失敗: 財務相“日米首脳会談でトランプ大統領から円安懸念示された”"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 113,
+  "used": 115,
   "limit": 200
  }
 }

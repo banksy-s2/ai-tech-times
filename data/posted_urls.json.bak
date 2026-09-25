@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
   "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
   "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
   "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260925de52300",
   "https://news.web.nhk/newsweb/na/nd-20260924de52268",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFAteU5Qbi1GVHVxWHE2SFFuTk84YUxyekxQSDh1LS1JRnlSNV9RNHVzUmZWM2NrM2cwV3hTa0MwTWpvaTBBVThxcHNBSlpWeFRjT1JFNmNyQUk2OHMzS2VRQVppamJQMWxXN0FOQg?oc=5",
-  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUwxNHAxZThCbVJrZ3dQQVhYNzRaZm93UE14U18zUW5idHpsdUotMmhKLWUtalZkcVhWck5DVUxNN1BKZTdSLWdVVFdXdnhJTTVQaWlZRFJxbTdJc0pyRTZkZWE2WGNtZlhzaHQyY3lUNnc4YzYxTTlFMVUyS0JfMmRDZkxCT1U?oc=5"
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUwxNHAxZThCbVJrZ3dQQVhYNzRaZm93UE14U18zUW5idHpsdUotMmhKLWUtalZkcVhWck5DVUxNN1BKZTdSLWdVVFdXdnhJTTVQaWlZRFJxbTdJc0pyRTZkZWE2WGNtZlhzaHQyY3lUNnc4YzYxTTlFMVUyS0JfMmRDZkxCT1U?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260925de52328"
  ],
  "titles": [
-  "三菱重工とNECが防衛ドローンで連携、AI指揮統制を国産化する理由",
-  "ハナマルキ創業108年でGemini利用率86％を達成した理由",
   "Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates (Jordan Novet/CNBC)",
   "Broadcom第3四半期、AI半導体が221%増の167億ドルで売上高86%増なのにQ4予測が未達とは",
   "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
@@ -4001,6 +3999,8 @@
   "全東信破綻の売上金約54億円、10月中にも店側へ支払い",
   "米中首脳会談終了 習主席が求めた台湾の行方は",
   "小林製薬、株価がストップ高気配 「株式の非公開化検討」報道で思惑",
-  "JR九州が反発、SBIと業務提携か"
+  "JR九州が反発、SBIと業務提携か",
+  "災害対策の司令塔「防災庁」 11月2日発足を決定 政府",
+  "防災庁が11月2日発足へ、災害対策の司令塔はどうなる"
  ]
 }
