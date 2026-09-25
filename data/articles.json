@@ -106971,5 +106971,78 @@
   "date": "2026-09-25",
   "time": "23:01",
   "path": "/articles/20260925-nikkei-average-gains-850-yen-2.html"
+ },
+ {
+  "title": "MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？",
+  "lead": "Metaが一般向けにリリースした新しいAIエージェント「Muse」が、App Storeのランキングで上位に輝き、大きな注目を集めています。しかし、そのデザインや機能が「OpenClaw」にそっくりだという指摘が浮上し、AI業界で話題となっています。",
+  "summary3": [
+   "Metaの新AIエージェント「Muse」が人気集める",
+   "米国内のデイリーアクティブユーザーは60万人",
+   "OpenClawに酷似しているとの指摘が浮上"
+  ],
+  "body": [
+   "現在、AIエージェントのルネサンスとも言える時代が訪れています。Metaが新たに投入したコンシュー向けAIエージェントである「Muse」は、リリース後まもなくApp Storeのチャートで上位にランクインし、その勢いを見せつけています。",
+   "アプリの分析を手がけるApptopiaの推計によると、米国内における「Muse」のデイリーアクティブユーザー数（DAU）は60万人に達しているとのことです。多くのユーザーを獲得して順調な滑り出しを見せる一方で、「Muse」の見た目や仕組みが「OpenClaw」に非常に似ているという点が議論を呼んでいます。",
+   "また、AIエージェントプラットフォームを提供する「Instinct」も大きな注目を集めています。「Instinct」の創業者である人物は、現在25億ドルという巨額の評価額で資金調達を行っており、AIエージェント市場全体への期待値が急速に高まっている状況です。"
+  ],
+  "tags": [
+   "Meta",
+   "AIエージェント",
+   "Muse"
+  ],
+  "slug": "meta-muse-openclaw-ai-agent",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどを運営する、アメリカの大手ソーシャルメディア企業です。"
+   },
+   {
+    "name": "Muse",
+    "type": "ai",
+    "desc": "Metaがリリースした一般向けの新しいAIエージェントで、App Storeで上位にランクインしています。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "00:03",
+  "path": "/articles/20260926-meta-muse-openclaw-ai-agent.html"
+ },
+ {
+  "title": "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由",
+  "lead": "AI TECH TIMESがお届けする最新ニュース。PrismMLがQualcomm製チップを搭載したスマートグラスに小型LLMをもたらした背景には、デバイス側でのAI活用という大きな目標があります。",
+  "summary3": [
+   "PrismMLが極小LLMをスマートグラスに展開",
+   "Qualcomm製チップ搭載デバイスで動作を実現",
+   "既存の計算処理能力を効率的に活かすオープンウェイトAI"
+  ],
+  "body": [
+   "テックメディア「TechCrunch AI」の報道によると、PrismMLは、Qualcomm製のチップを搭載したスマートグラスに対して、自社の極小LLM（大規模言語モデル）を導入することを明らかにしました。これにより、ウェアラブル端末上での高度なAI処理の可能性が広がることになります。",
+   "PrismMLのより大きな目標は、クラウド上に頼るだけでなく、ユーザーの手元にあるデバイス上で動作するオープンウェイトのAIを提供することです。端末がすでに持っているコンピューティングパワーをより効率的に活用し、実用的な処理を可能にすることを目指しています。",
+   "今回の展開は、デバイス側の限られたリソースの中でいかに高性能なAIを動かすかという現在の技術トレンドを象徴する動きと言えます。スマートグラスという日常的な形状のデバイスに極小LLMが組み込まれることで、今後のAI利用のあり方にどのような変化をもたらすのか、引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "PrismML",
+   "Qualcomm",
+   "スマートグラス"
+  ],
+  "slug": "prismml-brings-tiny-llms-to-qualcomm-smart-glasses",
+  "people": [],
+  "terms": [
+   {
+    "name": "Qualcomm",
+    "type": "company",
+    "desc": "アメリカに本社を置き、モバイル向け半導体や通信技術で世界的に知られる大手半導体企業です。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "00:03",
+  "path": "/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html"
  }
 ]

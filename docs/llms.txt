@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 23:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 00:03 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？](https://ai-tech-times.web.app/articles/20260926-meta-muse-openclaw-ai-agent.html) — 2026-09-26 00:03: Metaが一般向けにリリースした新しいAIエージェント「Muse」が、App Storeのランキングで上位に輝き、大きな注目を集めています。しかし、そのデザインや機能が「OpenClaw」にそっくりだという指摘が浮上し、AI業界で話題となっています。
+- [QualcommスマートグラスにPrismMLの極小LLMが搭載される理由](https://ai-tech-times.web.app/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html) — 2026-09-26 00:03: AI TECH TIMESがお届けする最新ニュース。PrismMLがQualcomm製チップを搭載したスマートグラスに小型LLMをもたらした背景には、デバイス側でのAI活用という大きな目標があります。
 - [日経平均大引け、5日続伸の850円高・6万6364円](https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html) — 2026-09-25 23:01: 日本経済新聞の報道によると、株式市場で日経平均株価が5日連続で上昇し、前日比850円高の6万6364円で大引けを迎えました。
 - [全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？](https://ai-tech-times.web.app/articles/20260925-rice-price-drop-supermarket.html) — 2026-09-25 22:01: AI TECH TIMESがお届けする最新の経済ニュースです。全国のスーパーにおけるコメの平均価格が6週連続で値下がりし、家計への負担が注目されています。
 - [タイで日本人ら14人拘束、AI顔加工でビデオ通話か](https://ai-tech-times.web.app/articles/20260925-thai-special-fraud-ai-video-call.html) — 2026-09-25 22:01: 今月、タイの首都バンコクで特殊詐欺グループとみられる日本人が拘束された事件で、AI技術が悪用されていた疑いが浮上しました。
@@ -40,15 +42,13 @@
 - [日本オラクル株が7%急騰、米親会社の急落に逆行した理由とは](https://ai-tech-times.web.app/articles/20260925-oracle-japan-shares-earnings.html) — 2026-09-25 19:01: 米CNBC Techによると、日本オラクル株が第1四半期の売上高と利益で過去最高を記録し、7%急騰しました。
 - [Flockがワシントンで窮地に、AI監視網の公聴会を欠席](https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html) — 2026-09-25 17:07: 米ワシントンで開催された「AI監視網」に関する公聴会において、監視カメラシステムを手がけるFlockが厳しい視線にさらされています。
 - [元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由](https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html) — 2026-09-25 17:07: TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始しました。文字列生成を廃止することで、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したとしています。
-- [MIXI、モンストキャラのAI音声企画を見送り](https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html) — 2026-09-25 17:07: MIXIは、スマートフォンゲーム「モンスターストライク」のキャラクター音声をAIで生成するニュース紹介企画の実施見合わせを発表しました。
-- [Waymoテキサス州でフリート49%急増の理由](https://ai-tech-times.web.app/articles/20260925-waymo-scaling-fast-fleet-data.html) — 2026-09-25 17:07: 自動運転を開発するWaymoが、テキサス州での車両数を大幅に拡大させていることが最新のデータで明らかになりました。
 
-## 世界のバズ動画TOP3 (2026-09-25)
+## 世界のバズ動画TOP3 (2026-09-26)
 - 1位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 - 2位: [Patient Zero](https://www.youtube.com/watch?v=V-uIp-WuD60)
 - 3位: [You Can See Everything | Official Trailer HD | A24](https://www.youtube.com/watch?v=HvW_N5p1q44)
 
-## AI用語事典 (全1771語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1772語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

@@ -1,11 +1,16 @@
 {
- "updated": "2026-09-25 23:02",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-26 00:03",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "日経平均大引け、5日続伸の850円高・6万6364円",
-   "path": "/articles/20260925-nikkei-average-gains-850-yen-2.html",
-   "cat": "株式投資(日本)"
+   "title": "MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？",
+   "path": "/articles/20260926-meta-muse-openclaw-ai-agent.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由",
+   "path": "/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
@@ -15,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 190,
+  "used": 6,
   "limit": 200
  }
 }

@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-25 22:04",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-25 23:02",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？",
-   "path": "/articles/20260925-rice-price-drop-supermarket.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "タイで日本人ら14人拘束、AI顔加工でビデオ通話か",
-   "path": "/articles/20260925-thai-special-fraud-ai-video-call.html",
-   "cat": "時事・世界"
+   "title": "日経平均大引け、5日続伸の850円高・6万6364円",
+   "path": "/articles/20260925-nikkei-average-gains-850-yen-2.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 186,
+  "used": 190,
   "limit": 200
  }
 }

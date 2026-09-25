@@ -106937,5 +106937,39 @@
   "date": "2026-09-25",
   "time": "22:01",
   "path": "/articles/20260925-thai-special-fraud-ai-video-call.html"
+ },
+ {
+  "title": "日経平均大引け、5日続伸の850円高・6万6364円",
+  "lead": "日本経済新聞の報道によると、株式市場で日経平均株価が5日連続で上昇し、前日比850円高の6万6364円で大引けを迎えました。",
+  "summary3": [
+   "日経平均株価が5日続伸",
+   "前日比850円高を記録",
+   "終値は6万6364円に到達"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする本日の株式市場の動きについて、日本経済新聞の報道に基づき詳細をお知らせします。",
+   "東京株式市場で日経平均株価は続伸の動きを見せ、大引けの時点で前日比850円高となる6万6364円を記録しました。",
+   "今回の取引では、前日までの流れを引き継ぐ形で上昇が続き、5日連続での続伸結果となっています。"
+  ],
+  "tags": [
+   "日経平均",
+   "株式市場",
+   "経済ニュース"
+  ],
+  "slug": "nikkei-average-gains-850-yen",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心としたニュースを扱う日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HUGt1d19iQ1ZQNjBfRUpiOVEzYTY1ME1KRWdFQ0JRanhSVm5HbTVhTnhsY2J5VERuYjZvQ1U0V1VjeFo4bXhDcE4zeFoyM3VZYzhTckJ1dmhFdXZ4U3JXQ1RSOXc1QWI1NGlvMw?oc=5",
+  "category": "stock",
+  "date": "2026-09-25",
+  "time": "23:01",
+  "path": "/articles/20260925-nikkei-average-gains-850-yen-2.html"
  }
 ]

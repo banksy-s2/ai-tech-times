@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？</title>
+<link>https://ai-tech-times.web.app/articles/20260926-meta-muse-openclaw-ai-agent.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-meta-muse-openclaw-ai-agent.html</guid>
+<pubDate>Sat, 26 Sep 2026 00:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>Metaが一般向けにリリースした新しいAIエージェント「Muse」が、App Storeのランキングで上位に輝き、大きな注目を集めています。しかし、そのデザインや機能が「OpenClaw」にそっくりだという指摘が浮上し、AI業界で話題となっています。</description>
+</item>
+<item>
+<title>QualcommスマートグラスにPrismMLの極小LLMが搭載される理由</title>
+<link>https://ai-tech-times.web.app/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html</guid>
+<pubDate>Sat, 26 Sep 2026 00:03:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AI TECH TIMESがお届けする最新ニュース。PrismMLがQualcomm製チップを搭載したスマートグラスに小型LLMをもたらした背景には、デバイス側でのAI活用という大きな目標があります。</description>
+</item>
+<item>
 <title>日経平均大引け、5日続伸の850円高・6万6364円</title>
 <link>https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 25 Sep 2026 13:01:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>政府は25日の閣議で、災害対策の司令塔となる「防災庁」をことし11月2日に発足させることを決定しました。</description>
-</item>
-<item>
-<title>ElevenLabs、顧客対応AIの「正体」明かすべき理由</title>
-<link>https://ai-tech-times.web.app/articles/20260925-elevenlabs-ceo-on-margins-ipo-timing-and-ai-transparency.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-elevenlabs-ceo-on-margins-ipo-timing-and-ai-transparency.html</guid>
-<pubDate>Fri, 25 Sep 2026 12:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>カスタマーサービスで広く使われるAI音声技術を提供するElevenLabs。そのCEOが、顧客との会話でAIであることを伝えるべき理由について語りました。</description>
-</item>
-<item>
-<title>Meta、AIエージェント「Muse」向けのたまごっち型ウェアラブル端末を開発</title>
-<link>https://ai-tech-times.web.app/articles/20260925-meta-tamagotchi-wearable-muse-ai.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-meta-tamagotchi-wearable-muse-ai.html</guid>
-<pubDate>Fri, 25 Sep 2026 12:02:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>Metaが開発したAIエージェント「Muse」の新たなモバイル環境となる、小型のハードウェアデバイスが登場しました。</description>
 </item>
 </channel></rss>
