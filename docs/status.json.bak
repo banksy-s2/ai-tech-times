@@ -1,17 +1,21 @@
 {
- "updated": "2026-09-26 05:01",
- "mode": "軽量便(株式投資(日本))",
- "articles": [],
+ "updated": "2026-09-26 06:00",
+ "mode": "軽量便(日本企業)",
+ "articles": [
+  {
+   "title": "小林製薬、日英ファンドから非上場化提案",
+   "path": "/articles/20260926-kobayashi-pharmaceutical-buyout-proposal.html",
+   "cat": "日本企業"
+  }
+ ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "執筆失敗: 小林製薬 日英の投資ファンドから非上場化に向けた提案受ける"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 28,
+  "used": 31,
   "limit": 200
  }
 }
