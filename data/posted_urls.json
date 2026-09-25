@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS0NxbXlCQmdLVVlMRFJRUnl6QXJaUWJCNUgyT2VNWnFmajhFNTBhRnJxUnduaWlNOEZTeFQzbDVkb0sxRmNNenpEbm1UOXhkaWJJczk5clQ3YWdKQ3lrcnpadnZUNDRHREs2Yw?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXT25LeExndFdUVnlSRWE0alZNWkpMNXVxTUJWMVI1WkN5czdzZF9ITnFhRHhtT05SOTRiV3VOaHlBOFU5VFMwX096eGhuMGd0cV9RZm9GbDFlNUFLY2xF?oc=5",
   "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
   "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
   "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
@@ -1999,13 +1997,11 @@
   "https://toyokeizai.net/articles/-/959016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
   "https://www.itmedia.co.jp/business/articles/2609/25/news035.html",
   "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-  "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
+  "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+  "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html"
  ],
  "titles": [
-  "Dell is now the most important stock in the market. Here's why",
-  "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-  "デルが決算で見せたAI市場の現在地とは",
-  "GoogleがFervoから400MWの地熱発電を購入する理由",
   "筆頭株主はYouTuber、それでも足りずに合併へ——GoProの株価が2週間で動いた理由 - shiritomo",
   "GoPro株価が2週間で動いた理由とは",
   "ロシア外務省報道官 日米豪共同訓練に「対抗措置とる」と警告",
@@ -4001,6 +3997,10 @@
   "Google is sending an AI satellite into space next week",
   "Muse will apparently let you download its entire filesystem",
   "Google、AI衛星を来週打ち上げ宇宙での性能テストへ",
-  "MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か"
+  "MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か",
+  "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
+  "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
+  "TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因",
+  "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか"
  ]
 }

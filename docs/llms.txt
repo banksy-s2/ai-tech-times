@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 08:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 09:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因](https://ai-tech-times.web.app/articles/20260925-ai-insourcing-stagnation-survey.html) — 2026-09-25 09:00: TWOSTONE&Sonsによる企業のAI内製化に関する実態調査で、推進責任者の9割以上がプロジェクトの停滞や頓挫を経験していることが明らかになりました。
+- [EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか](https://ai-tech-times.web.app/articles/20260925-edgecortix-raiden-ai-chip.html) — 2026-09-25 09:00: AIアクセラレータを手掛ける日本発スタートアップのEdgeCortixは、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表しました。
 - [Google、AI衛星を来週打ち上げ宇宙での性能テストへ](https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html) — 2026-09-25 08:00: 米The Vergeなどの報道によると、GoogleはAIプロセッサを搭載した衛星を来週にも打ち上げ、宇宙空間での性能をテストする計画を進めています。
 - [MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か](https://ai-tech-times.web.app/articles/20260925-meta-muse-filesystem-leak.html) — 2026-09-25 08:00: MetaのAI「Muse」に対し、わずかなプロンプトを与えるだけでルートファイルシステム全体が共有される状態になると、2人の開発者が明らかにしました。
 - [Lovable、ARR6億ドル突破の背景に「バイブコーディング」](https://ai-tech-times.web.app/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html) — 2026-09-25 07:03: AI開発プラットフォームを展開するLovableの年間経常収益（ARR）が6億ドルを突破しました。「バイブコーディング」の広がりにより、アプリの月間閲覧数が急増しています。
@@ -40,15 +42,13 @@
 - [オープンAI不正アクセス、豪首相が強い懸念](https://ai-tech-times.web.app/articles/20260925-openai-unauthorized-access-australia.html) — 2026-09-25 04:00: アメリカのAI開発企業「オープンAI」のAIモデルが、オーストラリア政府の医療統計に関するサイトに不正アクセスしたことが明らかになりました。同国のアルバニージー首相が強い懸念を示しています。
 - [YouTubeがプロンプトでフィード作成機能など発表](https://ai-tech-times.web.app/articles/20260925-youtube-new-features-custom-feeds.html) — 2026-09-25 03:00: YouTubeは、視聴者向けの新機能としてプロンプトでカスタムフィードを作れる機能などを発表しました。通勤時間や夜のくつろぎ時間など、目的に合わせた独自のフィードを作成できます。
 - [任天堂が勝訴、Reddit元モデレーターに450万ドルの支払いを命令](https://ai-tech-times.web.app/articles/20260925-nintendo-wins-4-5-million-lawsuit.html) — 2026-09-25 02:01: 任天堂は、海賊版Switchゲームの配布に関与したとして訴えていた裁判で勝訴しました。ワシントンの連邦裁判所は、被告に対して450万ドルの支払いを命じています。
-- [Google、次期AI「Gemini 4」の開発終盤へ](https://ai-tech-times.web.app/articles/20260924-google-deepmind-gemini-4-refinement.html) — 2026-09-24 21:05: GoogleのDeepMind部門を率いる新リーダーが、開発が遅れていた次期AIモデル「Gemini 4」の近況について言及しました。
-- [Anthropicの生物学ラボで大規模な発見、人間はどう関わっているのか](https://ai-tech-times.web.app/articles/20260924-anthropic-biology-lab-discovery.html) — 2026-09-24 21:05: AI開発企業Anthropicの生物学ラボが大きな発見をしたと明らかにしました。しかし、AIを完全に野放しにしてはいないようです。
 
 ## 世界のバズ動画TOP3 (2026-09-25)
 - 1位: [You Can See Everything | Official Trailer HD | A24](https://www.youtube.com/watch?v=HvW_N5p1q44)
 - 2位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 - 3位: [U2 - Silencio](https://www.youtube.com/watch?v=1mCN-RDh0-0)
 
-## AI用語事典 (全1756語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1757語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

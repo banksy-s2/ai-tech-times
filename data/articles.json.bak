@@ -105424,5 +105424,86 @@
   "date": "2026-09-25",
   "time": "07:03",
   "path": "/articles/20260925-workman-xshelter-all-season.html"
+ },
+ {
+  "title": "Google、AI衛星を来週打ち上げ宇宙での性能テストへ",
+  "lead": "米The Vergeなどの報道によると、GoogleはAIプロセッサを搭載した衛星を来週にも打ち上げ、宇宙空間での性能をテストする計画を進めています。",
+  "summary3": [
+   "GoogleがAI衛星を来週打ち上げへ",
+   "宇宙空間でのAI性能をテストする計画",
+   "将来の軌道上データセンター構想の一環"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。米メディアの報道によれば、GoogleはAIプロセッサを搭載した衛星を来週打ち上げ、宇宙空間における性能をテストする準備を進めていることが明らかになりました。この取り組みは、The New York Timesが最初に報じたものです。",
+   "今回の衛星打ち上げは、Googleが将来的にAIデータセンターを宇宙の軌道上に配置することを見据えた実験的イニシアチブ「Project Suncatcher」の一環として行われます。同社のTensorプロセッサを搭載した衛星が、過酷な宇宙環境でどのように機能するかを検証します。"
+  ],
+  "tags": [
+   "Google",
+   "AI",
+   "宇宙開発"
+  ],
+  "slug": "google-ai-satellite-space-launch",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、クラウドコンピューティングやAI開発を手がける世界的なIT企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "08:00",
+  "path": "/articles/20260925-google-ai-satellite-space-launch.html"
+ },
+ {
+  "title": "MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か",
+  "lead": "MetaのAI「Muse」に対し、わずかなプロンプトを与えるだけでルートファイルシステム全体が共有される状態になると、2人の開発者が明らかにしました。",
+  "summary3": [
+   "MetaのAIであるMuseの脆弱性が指摘される",
+   "簡単なプロンプトでファイルシステムが共有",
+   "Ubuntuシステムファイルなどが流出したという"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお届けする最新ニュースです。海外メディア「The Verge AI」の報道によると、Metaが開発したAIモデル「Muse」において、セキュリティ上の懸念が浮上しています。",
+   "ピーター・ジェームズ氏とジョニー・L・サンダース氏の2人の開発者が、ごく簡単なプロンプトを用いることで、Museがルートファイルシステムの全内容を自ら圧縮して共有したと主張しました。",
+   "サンダース氏らの発表によれば、Ubuntuのシステムファイルやアプリのテンプレート、さらには内部ドキュメントに至るまで、システムの全容が外部に引き出される状態になっていたとのことです。今後のMeta側の対応が注目されます。"
+  ],
+  "tags": [
+   "Meta",
+   "Muse",
+   "セキュリティ"
+  ],
+  "slug": "meta-muse-filesystem-leak",
+  "people": [
+   {
+    "name": "ピーター・ジェームズ氏",
+    "bio": "MetaのAIモデル「Muse」の挙動について独自に検証結果を明らかにした開発者の一人。"
+   },
+   {
+    "name": "ジョニー・L・サンダース氏",
+    "bio": "Museからシステム全体を引き出すことに成功したと発表した開発者の一人。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "SNSプラットフォームのFacebookやInstagramなどを運営する、アメリカの大手テクノロジー企業。"
+   },
+   {
+    "name": "Muse",
+    "type": "ai",
+    "desc": "Metaが開発に関与しているとされるAIモデル。今回ファイルシステムが共有される事象が報告された。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+  "category": "ai",
+  "date": "2026-09-25",
+  "time": "08:00",
+  "path": "/articles/20260925-meta-muse-filesystem-leak.html"
  }
 ]

@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOHBWMlcxMmdJTGZ3NWlNMU9nSjRYQ05RUk1ES3hlNmRBM0JKaG56WFh3VFY4dHlvb094OHdTeE9vLW9YaDVMdE9Db0lTNnpUN2RqS3lwaDFnZ2hoc0xwWl92SmJUZDhtX3RHbVFoNnFwY01aNjBVUUNYWndZLU0?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015196901000",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS0NxbXlCQmdLVVlMRFJRUnl6QXJaUWJCNUgyT2VNWnFmajhFNTBhRnJxUnduaWlNOEZTeFQzbDVkb0sxRmNNenpEbm1UOXhkaWJJczk5clQ3YWdKQ3lrcnpadnZUNDRHREs2Yw?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXT25LeExndFdUVnlSRWE0alZNWkpMNXVxTUJWMVI1WkN5czdzZF9ITnFhRHhtT05SOTRiV3VOaHlBOFU5VFMwX096eGhuMGd0cV9RZm9GbDFlNUFLY2xF?oc=5",
   "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260925de52281",
   "https://news.web.nhk/newsweb/na/nd-20260924de52100",
   "https://toyokeizai.net/articles/-/959016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-  "https://www.itmedia.co.jp/business/articles/2609/25/news035.html"
+  "https://www.itmedia.co.jp/business/articles/2609/25/news035.html",
+  "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+  "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
  ],
  "titles": [
-  "OpenAI、30件の訴訟で加担疑惑なぜ浮上",
-  "ニューヨーク市、高校未満のAI利用を禁止する理由",
-  "秘密を守れるAI、新興アカンパニーが整理　28年実現めざす - 日本経済新聞",
-  "Acompany、AIの秘密を守るホワイトペーパー公開",
   "Dell is now the most important stock in the market. Here's why",
   "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
   "デルが決算で見せたAI市場の現在地とは",
@@ -4001,6 +3997,10 @@
   "円相場1ドル=159円台に下落、米金利上昇でドル買い加速",
   "米トランプ政権の平和評議会、ガザ復興へ3800億円投入計画も実現は不透明",
   "日銀1.25%利上げでも円安に、なぜ効果が出ないのか",
-  "ワークマン「XShelter」通年販売へ、年間250億円を狙う理由"
+  "ワークマン「XShelter」通年販売へ、年間250億円を狙う理由",
+  "Google is sending an AI satellite into space next week",
+  "Muse will apparently let you download its entire filesystem",
+  "Google、AI衛星を来週打ち上げ宇宙での性能テストへ",
+  "MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か"
  ]
 }

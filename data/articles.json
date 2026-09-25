@@ -105505,5 +105505,73 @@
   "date": "2026-09-25",
   "time": "08:00",
   "path": "/articles/20260925-meta-muse-filesystem-leak.html"
+ },
+ {
+  "title": "TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因",
+  "lead": "TWOSTONE&Sonsによる企業のAI内製化に関する実態調査で、推進責任者の9割以上がプロジェクトの停滞や頓挫を経験していることが明らかになりました。",
+  "summary3": [
+   "AI内製化推進責任者の9割超が停滞を経験",
+   "競合との差に危機感を抱く実態が判明",
+   "つまずく原因は技術ではなかったと指摘"
+  ],
+  "body": [
+   "TWOSTONE&Sonsは、企業のAI内製化に関する実態調査の結果を公表しました。本調査により、AI内製化を進めるプロジェクトの推進責任者の9割以上が、社内主導プロジェクトの停滞や頓挫を経験しているという実態が浮き彫りになりました。",
+   "多くの責任者が競合他社との差に対して強い危機感を抱いていますが、プロジェクトがつまずく原因は「技術」そのものではなかったことが示されています。",
+   "AI TECH TIMESでは、今後も企業のAI活用に関する動向や実態調査について詳しく伝えてまいります。"
+  ],
+  "tags": [
+   "AI内製化",
+   "TWOSTONE&Sons",
+   "ITmedia AI+"
+  ],
+  "slug": "ai-insourcing-stagnation-survey",
+  "people": [],
+  "terms": [
+   {
+    "name": "TWOSTONE&Sons",
+    "type": "company",
+    "desc": "企業のAI内製化に関する実態調査の結果を公表した企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
+  "category": "ai_jp",
+  "date": "2026-09-25",
+  "time": "09:00",
+  "path": "/articles/20260925-ai-insourcing-stagnation-survey.html"
+ },
+ {
+  "title": "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか",
+  "lead": "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortixは、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表しました。",
+  "summary3": [
+   "日本発スタートアップが新プラットフォーム発表",
+   "最大3.36PFLOPSのAI処理性能を発揮",
+   "フィジカルAI向けの次世代チップレット技術"
+  ],
+  "body": [
+   "AIアクセラレータを手掛ける日本発スタートアップのEdgeCortixは、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表しました。",
+   "今回発表された「RAIDEN」は、フィジカルAI向けに開発された次世代のスケーラブルなAIチップレットプラットフォームです。",
+   "最大3.36PFLOPSという非常に高いAI処理性能を備えており、NVIDIAを超える性能を持つ次世代の技術として注目を集めています。"
+  ],
+  "tags": [
+   "EdgeCortix",
+   "AIチップ",
+   "ハードウェア"
+  ],
+  "slug": "edgecortix-raiden-ai-chip",
+  "people": [],
+  "terms": [
+   {
+    "name": "EdgeCortix",
+    "type": "company",
+    "desc": "AIアクセラレータを手掛ける日本発のスタートアップ企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+  "category": "ai_jp",
+  "date": "2026-09-25",
+  "time": "09:00",
+  "path": "/articles/20260925-edgecortix-raiden-ai-chip.html"
  }
 ]

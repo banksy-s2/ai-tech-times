@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>TWOSTONE&amp;Sons調査：AI内製化の9割超が停滞する原因</title>
+<link>https://ai-tech-times.web.app/articles/20260925-ai-insourcing-stagnation-survey.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-ai-insourcing-stagnation-survey.html</guid>
+<pubDate>Fri, 25 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>TWOSTONE&amp;Sonsによる企業のAI内製化に関する実態調査で、推進責任者の9割以上がプロジェクトの停滞や頓挫を経験していることが明らかになりました。</description>
+</item>
+<item>
+<title>EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか</title>
+<link>https://ai-tech-times.web.app/articles/20260925-edgecortix-raiden-ai-chip.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-edgecortix-raiden-ai-chip.html</guid>
+<pubDate>Fri, 25 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIアクセラレータを手掛ける日本発スタートアップのEdgeCortixは、最大3.36PFLOPSのAI処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表しました。</description>
+</item>
+<item>
 <title>Google、AI衛星を来週打ち上げ宇宙での性能テストへ</title>
 <link>https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-google-ai-satellite-space-launch.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Thu, 24 Sep 2026 21:05:00 +0900</pubDate>
 <category>株式投資(日本)</category>
 <description>2024年9月24日の国内株式市場概況において、米ハイテク株高を追い風に買い戻しが加速し、1ヵ月で株価が19%超上昇した出遅れ半導体株の動向が報じられました。</description>
-</item>
-<item>
-<title>ゆうちょ銀行、sustenと資本・業務提携締結</title>
-<link>https://ai-tech-times.web.app/articles/20260924-yucho-susten-capital-business-alliance.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-yucho-susten-capital-business-alliance.html</guid>
-<pubDate>Thu, 24 Sep 2026 21:05:00 +0900</pubDate>
-<category>日本企業</category>
-<description>ゆうちょ銀行は、資産運用会社のsustenとの間で資本および業務提携を行うことを発表しました。</description>
-</item>
-<item>
-<title>ヒカルの米事業で数億円の在庫、なぜ運営の怒りが噴出しているのか</title>
-<link>https://ai-tech-times.web.app/articles/20260924-hikaru-rice-business-inventory-issue.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260924-hikaru-rice-business-inventory-issue.html</guid>
-<pubDate>Thu, 24 Sep 2026 20:01:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>ユーチューバーのヒカルが手掛ける米事業をめぐり、数億円の在庫を抱えていることが明らかになりました。運営からの怒りの噴出や、脱毛サロン譲渡といった動きの背景には何があるのでしょうか。</description>
 </item>
 </channel></rss>

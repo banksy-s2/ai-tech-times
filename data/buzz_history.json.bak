@@ -8174,25 +8174,25 @@
  "2026-09-25": [
   {
    "rank": 1,
-   "id": "KQM9hYlMXsI",
-   "title": "ALLDAY PROJECT - ‘DO IT LIKE THIS’ M/V",
-   "channel": "THEBLACKLABEL",
-   "views": 3621975,
-   "url": "https://www.youtube.com/watch?v=KQM9hYlMXsI",
-   "thumb": "https://i.ytimg.com/vi/KQM9hYlMXsI/hqdefault.jpg",
+   "id": "HvW_N5p1q44",
+   "title": "You Can See Everything | Official Trailer HD | A24",
+   "channel": "A24",
+   "views": 4485536,
+   "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+   "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
    "regions": [
+    "US",
     "GB",
-    "KR",
     "BR"
    ],
-   "comment": "ALLDAY PROJECTによる新曲のMVのようです"
+   "comment": "A24による新作映画の公式HD予告編のようです"
   },
   {
    "rank": 2,
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 2932122,
+   "views": 3137190,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -8204,40 +8204,10 @@
   },
   {
    "rank": 3,
-   "id": "4-sO_dp1fkE",
-   "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
-   "channel": "GLITCH",
-   "views": 1869608,
-   "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
-   "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "comment": "KNIGHTS OF GUINEVEREのエピソード2の予告編動画のようです。"
-  },
-  {
-   "rank": 4,
-   "id": "bhKKR5He_Fo",
-   "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
-   "channel": "Lionsgate Movies",
-   "views": 1120763,
-   "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
-   "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "comment": "ジョニー・デップら出演の映画公式ティーザー"
-  },
-  {
-   "rank": 5,
    "id": "1mCN-RDh0-0",
    "title": "U2 - Silencio",
    "channel": "U2VEVO",
-   "views": 230159,
+   "views": 302617,
    "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0",
    "thumb": "https://i.ytimg.com/vi/1mCN-RDh0-0/hqdefault.jpg",
    "regions": [
@@ -8248,25 +8218,39 @@
    "comment": "U2の新曲「Silencio」の公式映像（27字）"
   },
   {
-   "rank": 6,
-   "id": "HvW_N5p1q44",
-   "title": "You Can See Everything | Official Trailer HD | A24",
-   "channel": "A24",
-   "views": 4348086,
-   "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
-   "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
+   "rank": 4,
+   "id": "KQM9hYlMXsI",
+   "title": "ALLDAY PROJECT - ‘DO IT LIKE THIS’ M/V",
+   "channel": "THEBLACKLABEL",
+   "views": 3659529,
+   "url": "https://www.youtube.com/watch?v=KQM9hYlMXsI",
+   "thumb": "https://i.ytimg.com/vi/KQM9hYlMXsI/hqdefault.jpg",
    "regions": [
-    "US",
-    "GB"
+    "GB",
+    "KR"
    ],
-   "comment": "A24による新作映画の公式HD予告編のようです"
+   "comment": "ALLDAY PROJECTによる新曲のMVのようです"
   },
   {
-   "rank": 7,
+   "rank": 5,
+   "id": "4-sO_dp1fkE",
+   "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
+   "channel": "GLITCH",
+   "views": 1897429,
+   "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
+   "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
+   "regions": [
+    "US",
+    "BR"
+   ],
+   "comment": "KNIGHTS OF GUINEVEREのエピソード2の予告編動画のようです。"
+  },
+  {
+   "rank": 6,
    "id": "y2O0NXVHjSg",
    "title": "Trapped Until 100% Completing Minecraft",
    "channel": "LazarBeam",
-   "views": 1438065,
+   "views": 1516382,
    "url": "https://www.youtube.com/watch?v=y2O0NXVHjSg",
    "thumb": "https://i.ytimg.com/vi/y2O0NXVHjSg/hqdefault.jpg",
    "regions": [
@@ -8276,11 +8260,25 @@
    "comment": "マイクラの達成率100%を目指して閉じ込められる企画のようです。(28文字)"
   },
   {
+   "rank": 7,
+   "id": "bhKKR5He_Fo",
+   "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
+   "channel": "Lionsgate Movies",
+   "views": 1310667,
+   "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
+   "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ジョニー・デップら出演の映画公式ティーザー"
+  },
+  {
    "rank": 8,
    "id": "xnfSjN6bBg8",
    "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
    "channel": "BANGTANTV",
-   "views": 1134705,
+   "views": 1145137,
    "url": "https://www.youtube.com/watch?v=xnfSjN6bBg8",
    "thumb": "https://i.ytimg.com/vi/xnfSjN6bBg8/hqdefault.jpg",
    "regions": [
@@ -8294,7 +8292,7 @@
    "id": "xzh7HzLXXpk",
    "title": "MADDEN - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 537747,
+   "views": 642336,
    "url": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
    "thumb": "https://i.ytimg.com/vi/xzh7HzLXXpk/hqdefault.jpg",
    "regions": [
@@ -8308,7 +8306,7 @@
    "id": "wLbNFCl3f8I",
    "title": "“EASIEST” Roblox Game EVER",
    "channel": "Flamingo",
-   "views": 405574,
+   "views": 454622,
    "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
    "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
    "regions": [

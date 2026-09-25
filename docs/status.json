@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-25 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-25 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "Google、AI衛星を来週打ち上げ宇宙での性能テストへ",
-   "path": "/articles/20260925-google-ai-satellite-space-launch.html",
-   "cat": "AI(海外)"
+   "title": "TWOSTONE&Sons調査：AI内製化の9割超が停滞する原因",
+   "path": "/articles/20260925-ai-insourcing-stagnation-survey.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か",
-   "path": "/articles/20260925-meta-muse-filesystem-leak.html",
-   "cat": "AI(海外)"
+   "title": "EdgeCortixのRAIDENはなぜNVIDIA超えのAI処理性能3.36PFLOPSを実現できたのか",
+   "path": "/articles/20260925-edgecortix-raiden-ai-chip.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 71,
+  "used": 76,
   "limit": 200
  }
 }
