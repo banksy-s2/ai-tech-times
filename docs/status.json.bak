@@ -1,21 +1,69 @@
 {
- "updated": "2026-09-25 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-25 12:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "TBS「VIVANT」爆破映像にAI活用で制作時間を8割短縮",
-   "path": "/articles/20260925-tbs-vivant-ai-production.html",
+   "title": "ElevenLabs、顧客対応AIの「正体」明かすべき理由",
+   "path": "/articles/20260925-elevenlabs-ceo-on-margins-ipo-timing-and-ai-transparency.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Meta、AIエージェント「Muse」向けのたまごっち型ウェアラブル端末を開発",
+   "path": "/articles/20260925-meta-tamagotchi-wearable-muse-ai.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "オラクル株8%安、AIデータセンター資金調達の危うい錬金術",
+   "path": "/articles/20260925-ai-datacenter-financing-risk.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "DatabricksがRow Zero買収、その次なる買収戦略とは",
+   "path": "/articles/20260925-databricks-buys-row-zero.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "マイクロソフト、「Copilot Plus PC」ブランドを終了へ",
+   "path": "/articles/20260925-microsoft-is-killing-off-copilot-plus-pc-brand.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "Disney+とHuluが13%値上げ、ストリーミングの家計負担はどうなる",
+   "path": "/articles/20260925-disney-plus-hulu-price-hike-2026.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "全東信破綻の売上金約54億円、10月中にも店側へ支払い",
+   "path": "/articles/20260925-zentoshin-sales-payment-october.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米中首脳会談終了 習主席が求めた台湾の行方は",
+   "path": "/articles/20260925-us-china-summit-taiwan-2026.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "小林製薬、株価がストップ高気配 「株式の非公開化検討」報道で思惑",
+   "path": "/articles/20260925-kobayashi-pharmaceutical-going-private.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "JR九州が反発、SBIと業務提携か",
+   "path": "/articles/20260925-jr-kyushu-sbi-business-tie-up.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: 「モンスト」キャラの声をAI生成、MIXIのニュース紹介企画に批判続出　実施見合",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 83,
+  "used": 108,
   "limit": 200
  }
 }
