@@ -1,8 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015197591000",
-  "https://www.yomiuri.co.jp/economy/20260805-GYT1T00091/",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
   "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
   "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
   "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
@@ -1999,15 +1996,12 @@
   "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
   "https://news.web.nhk/newsweb/na/nd-20260925de52321",
   "https://news.web.nhk/newsweb/na/nd-20260924de52167",
-  "https://news.web.nhk/newsweb/na/nd-20260925de52326"
+  "https://news.web.nhk/newsweb/na/nd-20260925de52326",
+  "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+  "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
+  "https://togetter.com/li/2750159"
  ],
  "titles": [
-  "ベッセント米財務長官、日本を名指しし「リフレ政策やめるべきだ」…積極財政見直しや利上げ求める",
-  "ベッセント米財務長官、日本にリフレ政策停止を要求",
-  "Amazon’s AI assistant can now spot fake emails from the company",
-  "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-  "AmazonのAIが偽メールを判定する理由",
-  "Nvidiaらが参加、TechCrunch Disrupt 2026が新ステージを発表した理由",
   "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
   "Google’s Android update tackles motion sickness, accessibility, and more",
   "「社長の声」悪用で被害45億円　元警視庁が明かす「AI詐欺」の手口",
@@ -4001,6 +3995,12 @@
   "OpenAIエージェントが豪政府に侵入、法的結果はどうなる",
   "トランプ大統領が円安懸念、片山財務相が日米連携へ",
   "米中AIインフラ競争の行方、トランプ政権の開発推進と中国の目標",
-  "長期金利の上昇で銀行銘柄はどう動いたか"
+  "長期金利の上昇で銀行銘柄はどう動いたか",
+  "There's a new way to break RSA that's faster than anything we've seen before",
+  "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+  "RSA暗号を従来より高速に破る新手法、暗号解読の常識が変わる理由",
+  "日本オラクル株が7%急騰、米親会社の急落に逆行した理由とは",
+  "お絵描きソフトCLIP STUDIO PAINTでユーザー作成の素材が突然大量削除され騒ぎに→公式から説明が出るも「今後も予告なしで謎の検閲が入るのでは」と疑念を抱く人も",
+  "CLIP STUDIO PAINTでユーザー素材が大量削除され騒ぎに"
  ]
 }

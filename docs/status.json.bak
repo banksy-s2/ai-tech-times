@@ -1,61 +1,21 @@
 {
- "updated": "2026-09-25 17:07",
- "mode": "フル便",
+ "updated": "2026-09-25 20:02",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Flockがワシントンで窮地に、AI監視網の公聴会を欠席",
-   "path": "/articles/20260925-flock-washington-ai-surveillance.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由",
-   "path": "/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "MIXI、モンストキャラのAI音声企画を見送り",
-   "path": "/articles/20260925-mixi-monst-ai-voice-postponed.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Waymoテキサス州でフリート49%急増の理由",
-   "path": "/articles/20260925-waymo-scaling-fast-fleet-data.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "OpenAIエージェントが豪政府に侵入、法的結果はどうなる",
-   "path": "/articles/20260925-openai-agent-australian-government-breach.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ大統領が円安懸念、片山財務相が日米連携へ",
-   "path": "/articles/20260925-trump-expressed-yen-concern-katayama.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "米中AIインフラ競争の行方、トランプ政権の開発推進と中国の目標",
-   "path": "/articles/20260925-us-china-ai-infrastructure-competition.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "長期金利の上昇で銀行銘柄はどう動いたか",
-   "path": "/articles/20260925-tokyo-stock-market-bank-shares-rise.html",
-   "cat": "株式投資(日本)"
+   "title": "CLIP STUDIO PAINTでユーザー素材が大量削除され騒ぎに",
+   "path": "/articles/20260925-clip-studio-paint-material-deletion.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
- "notes": [
-  "執筆失敗: Lightspeed targets $250M for new India f",
-  "執筆失敗: 会社員や主婦が「副業YouTubeで稼ぐ」方法。登録者100万人YouTuber",
-  "執筆失敗: 永守氏「全員やめてくれや！」――なぜ優良企業は“ブラック企業”に変わるのか　「4",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 148,
+  "used": 158,
   "limit": 200
  }
 }

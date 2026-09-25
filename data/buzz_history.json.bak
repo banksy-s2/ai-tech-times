@@ -8177,7 +8177,7 @@
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 4175524,
+   "views": 4609959,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -8189,25 +8189,10 @@
   },
   {
    "rank": 2,
-   "id": "1mCN-RDh0-0",
-   "title": "U2 - Silencio",
-   "channel": "U2VEVO",
-   "views": 582337,
-   "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0",
-   "thumb": "https://i.ytimg.com/vi/1mCN-RDh0-0/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB",
-    "BR"
-   ],
-   "comment": "U2の新曲「Silencio」の公式映像（27字）"
-  },
-  {
-   "rank": 3,
    "id": "V-uIp-WuD60",
    "title": "Patient Zero",
    "channel": "Taylor Swift - Topic",
-   "views": 323377,
+   "views": 655319,
    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
    "thumb": "https://i.ytimg.com/vi/V-uIp-WuD60/hqdefault.jpg",
    "regions": [
@@ -8218,11 +8203,26 @@
    "comment": "テイラー・スウィフトの楽曲「Patient Zero」のトピック動画。(27文字)"
   },
   {
+   "rank": 3,
+   "id": "1mCN-RDh0-0",
+   "title": "U2 - Silencio",
+   "channel": "U2VEVO",
+   "views": 652618,
+   "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0",
+   "thumb": "https://i.ytimg.com/vi/1mCN-RDh0-0/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "BR"
+   ],
+   "comment": "U2の新曲「Silencio」の公式映像（27字）"
+  },
+  {
    "rank": 4,
    "id": "HvW_N5p1q44",
    "title": "You Can See Everything | Official Trailer HD | A24",
    "channel": "A24",
-   "views": 5203758,
+   "views": 5336805,
    "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
    "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
    "regions": [
@@ -8236,7 +8236,7 @@
    "id": "bhKKR5He_Fo",
    "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
    "channel": "Lionsgate Movies",
-   "views": 2518819,
+   "views": 2961871,
    "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
    "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
    "regions": [
@@ -8250,7 +8250,7 @@
    "id": "4-sO_dp1fkE",
    "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
    "channel": "GLITCH",
-   "views": 2060334,
+   "views": 2086213,
    "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
    "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
    "regions": [
@@ -8264,7 +8264,7 @@
    "id": "xzh7HzLXXpk",
    "title": "MADDEN - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 1644628,
+   "views": 1744201,
    "url": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
    "thumb": "https://i.ytimg.com/vi/xzh7HzLXXpk/hqdefault.jpg",
    "regions": [
@@ -8275,24 +8275,10 @@
   },
   {
    "rank": 8,
-   "id": "wLbNFCl3f8I",
-   "title": "“EASIEST” Roblox Game EVER",
-   "channel": "Flamingo",
-   "views": 784656,
-   "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
-   "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ロブロックスの「一番簡単なゲーム」をプレイしている動画のようです。"
-  },
-  {
-   "rank": 9,
    "id": "Pd1yGW_g2T8",
    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
    "channel": "Karan Aujla",
-   "views": 619283,
+   "views": 1504332,
    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
    "thumb": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
    "regions": [
@@ -8302,18 +8288,32 @@
    "comment": "カラン・アウジラの新曲ミュージックビデオ。(20文字)"
   },
   {
-   "rank": 10,
-   "id": "mECHGuyOBws",
-   "title": "I Pretended to be BABY SONIC on One Chunk! (Minecraft)",
-   "channel": "Cash",
-   "views": 538474,
-   "url": "https://www.youtube.com/watch?v=mECHGuyOBws",
-   "thumb": "https://i.ytimg.com/vi/mECHGuyOBws/hqdefault.jpg",
+   "rank": 9,
+   "id": "wLbNFCl3f8I",
+   "title": "“EASIEST” Roblox Game EVER",
+   "channel": "Flamingo",
+   "views": 829973,
+   "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
+   "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "comment": "ベイビーソニックになりきってサバイバルしたようです"
+   "comment": "ロブロックスの「一番簡単なゲーム」をプレイしている動画のようです。"
+  },
+  {
+   "rank": 10,
+   "id": "lg8H3BS2Fdk",
+   "title": "DAY DRINKER Official Trailer (2027) Johnny Depp",
+   "channel": "ONE Media",
+   "views": 820239,
+   "url": "https://www.youtube.com/watch?v=lg8H3BS2Fdk",
+   "thumb": "https://i.ytimg.com/vi/lg8H3BS2Fdk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ジョニー・デップ出演映画の公式予告編ようですね。"
   }
  ]
 }
