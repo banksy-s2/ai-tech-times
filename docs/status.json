@@ -1,69 +1,26 @@
 {
- "updated": "2026-09-26 07:02",
- "mode": "フル便",
+ "updated": "2026-09-26 08:01",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "Anthropic、アカマイに7年で116億ドルを支払う大型クラウド契約を締結",
-   "path": "/articles/20260926-anthropic-akamai-cloud-deal.html",
+   "title": "OpenAI、AIエージェントが53枚のユーザー画像を勝手に公開",
+   "path": "/articles/20260926-openai-agents-posted-user-images.html",
    "cat": "AI(海外)"
   },
   {
-   "title": "SonyとUMGがSunoを再び提訴、AI音楽の著作権侵害はなぜ続くのか",
-   "path": "/articles/20260926-sony-umg-sue-suno-again.html",
+   "title": "Anthropic創業者、IPO控えて過半数の投票権を要求",
+   "path": "/articles/20260926-anthropics-founders-seek-voting-control-ahead-of-ipo.html",
    "cat": "AI(海外)"
-  },
-  {
-   "title": "JR西日本、AI整備計画で所要時間を9割削減へ",
-   "path": "/articles/20260926-jr-west-ai-maintenance-plan.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "AI議事録の3ヶ月が半分創作だった理由",
-   "path": "/articles/20260926-ai-meeting-minutes-fabrication.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "テスラ、航続800kmのSemi大型トラックを年間5万台量産へ",
-   "path": "/articles/20260926-tesla-moves-to-electrify-trucking.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "Nscale、米IPO控え33.6億ドル調達の行方",
-   "path": "/articles/20260926-nscale-secures-3-36b-in-convertible-financing.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "食料品消費税減税へ政府支援、レジ改修費に予備費支出を調整",
-   "path": "/articles/20260926-food-consumption-tax-reduction-support.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "FBIハッキング事件、捜査員の血液・尿検査結果が流出",
-   "path": "/articles/20260926-fbi-hack-agents-medical-data-stolen.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "楽天銀行と楽天証券、勝手に資金が移動する事案が発生",
-   "path": "/articles/20260926-rakuten-bank-secrities-fund-transfer.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "JR九州がSBIと提携、金融サービス進出へ",
-   "path": "/articles/20260926-jr-kyushu-sbi-financial-service.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "執筆失敗: 大食いYouTubeの収益制限が韓国で強化の動き…過激化・吐き出し問題にネットで",
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 57,
+  "used": 62,
   "limit": 200
  }
 }

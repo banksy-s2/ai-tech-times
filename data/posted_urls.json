@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000433/",
-  "https://gigazine.net/news/20260806-atlassian-rovo/",
   "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gc182bWxNWjdWUGtuZ1NDMnNTeXBEYmg3OUdnR3RXT3dpNnRkMXlfS0g4S2NSMW1rSUpmU1hLVGZJbGxkVHM0VVlKblg0VHg5QlHSAVRBVV95cUxORldCUWJST3piQkg2TkpDNmYwRFIxRThzUEw4bWVQNmZNckFCV3B4OXRwdGNpeG40cGE0U1U4Q2tEVzNWNkFLYWdudzBRNFpEQzI1TGE?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015197581000",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260925de52513",
   "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
   "https://togetter.com/li/2750102",
-  "https://news.web.nhk/newsweb/na/nd-20260925de52447"
+  "https://news.web.nhk/newsweb/na/nd-20260925de52447",
+  "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+  "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
  ],
  "titles": [
-  "SNS乗っ取り、インフルエンサーら100件以上か 容疑の会社役員逮捕 - 日本経済新聞",
-  "日本経済新聞：SNS乗っ取りで会社役員逮捕、100件以上か",
-  "最低賃金引き上げ 国は中小企業などへの支援進める",
-  "米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道",
   "全国平均時給1177円へ引き上げ、中小企業への支援はどうなる",
   "米ベッセント財務長官、日銀利上げで円安改善と伝達",
   "商社株はバークシャーが長期保有意向、月次好調のニトリが急伸/日経平均続落【今日の注目株＆日本株市場見通し】「デイリーZAi」9月3日号（ダイヤモンド・ザイ） - Yahoo!ニュース",
@@ -4001,6 +3997,10 @@
   "食料品消費税減税へ政府支援、レジ改修費に予備費支出を調整",
   "FBIハッキング事件、捜査員の血液・尿検査結果が流出",
   "楽天銀行と楽天証券、勝手に資金が移動する事案が発生",
-  "JR九州がSBIと提携、金融サービス進出へ"
+  "JR九州がSBIと提携、金融サービス進出へ",
+  "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+  "Anthropic’s founders seek voting control ahead of IPO",
+  "OpenAI、AIエージェントが53枚のユーザー画像を勝手に公開",
+  "Anthropic創業者、IPO控えて過半数の投票権を要求"
  ]
 }
