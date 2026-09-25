@@ -2,10 +2,27 @@
  "date": "2026-09-26",
  "videos": [
   {
+   "id": "eJXL4-4m5nY",
+   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
+   "channel": "BANGTANTV",
+   "views": 739333,
+   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY",
+   "thumb": "https://i.ytimg.com/vi/eJXL4-4m5nY/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "rank": 1,
+   "comment": "BTSの新曲「Merry Go Round」の公式MVが公開されたようです。"
+  },
+  {
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 5889276,
+   "views": 5955280,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -13,14 +30,14 @@
     "GB",
     "BR"
    ],
-   "rank": 1,
+   "rank": 2,
    "comment": "クレイフェイスのファイナル予告編のようです"
   },
   {
    "id": "V-uIp-WuD60",
    "title": "Patient Zero",
    "channel": "Taylor Swift - Topic",
-   "views": 1440278,
+   "views": 1572125,
    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
    "thumb": "https://i.ytimg.com/vi/V-uIp-WuD60/hqdefault.jpg",
    "regions": [
@@ -28,28 +45,14 @@
     "GB",
     "BR"
    ],
-   "rank": 2,
-   "comment": "テイラー・スウィフトの楽曲「Patient Zero」のトピック動画。(27文字)"
-  },
-  {
-   "id": "HvW_N5p1q44",
-   "title": "You Can See Everything | Official Trailer HD | A24",
-   "channel": "A24",
-   "views": 5675912,
-   "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
-   "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
    "rank": 3,
-   "comment": "A24による新作映画の公式HD予告編のようです"
+   "comment": "テイラー・スウィフトの楽曲「Patient Zero」のトピック動画。(27文字)"
   },
   {
    "id": "bhKKR5He_Fo",
    "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
    "channel": "Lionsgate Movies",
-   "views": 3735898,
+   "views": 3839736,
    "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
    "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
    "regions": [
@@ -63,7 +66,7 @@
    "id": "Pd1yGW_g2T8",
    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
    "channel": "Karan Aujla",
-   "views": 3174889,
+   "views": 3443471,
    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
    "thumb": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
    "regions": [
@@ -77,7 +80,7 @@
    "id": "4-sO_dp1fkE",
    "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
    "channel": "GLITCH",
-   "views": 2155113,
+   "views": 2170020,
    "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
    "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
    "regions": [
@@ -88,24 +91,24 @@
    "comment": "KNIGHTS OF GUINEVEREのエピソード2の予告編動画のようです。"
   },
   {
-   "id": "xzh7HzLXXpk",
-   "title": "MADDEN - Official Trailer | Prime Video",
-   "channel": "Prime Video",
-   "views": 2021350,
-   "url": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
-   "thumb": "https://i.ytimg.com/vi/xzh7HzLXXpk/hqdefault.jpg",
+   "id": "CFroXKVQtuw",
+   "title": "Baththa - Official Trailer | Vijay Sethupathi | Atlee |@SaiAbhyankkar| Balaji Tharaneetharan",
+   "channel": "Think Music India",
+   "views": 1722164,
+   "url": "https://www.youtube.com/watch?v=CFroXKVQtuw",
+   "thumb": "https://i.ytimg.com/vi/CFroXKVQtuw/hqdefault.jpg",
    "regions": [
-    "US",
-    "GB"
+    "GB",
+    "IN"
    ],
    "rank": 7,
-   "comment": "プライムビデオで配信予定のMADDEN公式トレイラー動画のようです。"
+   "comment": "ヴィジャイ・セードゥパティ主演映画「Baththa」の公式予告編のようです。"
   },
   {
    "id": "lg8H3BS2Fdk",
    "title": "DAY DRINKER Official Trailer (2027) Johnny Depp",
    "channel": "ONE Media",
-   "views": 1015918,
+   "views": 1048268,
    "url": "https://www.youtube.com/watch?v=lg8H3BS2Fdk",
    "thumb": "https://i.ytimg.com/vi/lg8H3BS2Fdk/hqdefault.jpg",
    "regions": [
@@ -116,32 +119,31 @@
    "comment": "ジョニー・デップ出演映画の公式予告編ようですね。"
   },
   {
-   "id": "DIwjJQBkMzc",
-   "title": "Taylor Swift - Patient Zero (Lyrics)",
-   "channel": "TrendingTracks",
-   "views": 127964,
-   "url": "https://www.youtube.com/watch?v=DIwjJQBkMzc",
-   "thumb": "https://i.ytimg.com/vi/DIwjJQBkMzc/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "rank": 9,
-   "comment": "Taylor Swiftの楽曲の歌詞付き動画のようです"
-  },
-  {
    "id": "MM0yi-Op4h8",
    "title": "brakence - ready or noT (official video)",
    "channel": "brakenceVEVO",
-   "views": 121514,
+   "views": 130155,
    "url": "https://www.youtube.com/watch?v=MM0yi-Op4h8",
    "thumb": "https://i.ytimg.com/vi/MM0yi-Op4h8/hqdefault.jpg",
    "regions": [
     "US",
     "GB"
    ],
-   "rank": 10,
+   "rank": 9,
    "comment": "brakenceの新曲公式ミュージックビデオのようです"
+  },
+  {
+   "id": "u9MpnqWC6Xg",
+   "title": "Afsaana Banaaya Aapne | Gunmaaster G9 | Emraan,Genelia, Aditya| Himesh Reshammiya| Asees K| Deepak M",
+   "channel": "Himesh Reshammiya Melodies",
+   "views": 27391451,
+   "url": "https://www.youtube.com/watch?v=u9MpnqWC6Xg",
+   "thumb": "https://i.ytimg.com/vi/u9MpnqWC6Xg/hqdefault.jpg",
+   "regions": [
+    "IN"
+   ],
+   "rank": 10,
+   "comment": "エムラーンらが出演する楽曲の公式ミュージックビデオのようです"
   }
  ],
  "covered": [
@@ -153,8 +155,6 @@
   "IN"
  ],
  "comment_cache": {
-  "5b6PWx690zA": "新シーズンに関するゲームプレイ動画かもしれない。",
-  "ICuekzX1png": "釣り企画で大きな成功を収めた様子が描かれているようです。",
   "yaCHj96d1PA": "人気ドラマ『タルサ・キング』シーズン4の公式ティーザー映像のようです。(29文字)",
   "CXYgQzAEt7U": "ガチャゲームで課金を求められたら即終了する企画のようです。(28文字)",
   "iQM8DzszRCw": "トイ・ストーリー5のホネット・トレーラー動画のようです。(24字)",
@@ -452,6 +452,8 @@
   "Pd1yGW_g2T8": "カラン・アウジラの新曲ミュージックビデオ。(20文字)",
   "lg8H3BS2Fdk": "ジョニー・デップ出演映画の公式予告編ようですね。",
   "MM0yi-Op4h8": "brakenceの新曲公式ミュージックビデオのようです",
-  "DIwjJQBkMzc": "Taylor Swiftの楽曲の歌詞付き動画のようです"
+  "DIwjJQBkMzc": "Taylor Swiftの楽曲の歌詞付き動画のようです",
+  "eJXL4-4m5nY": "BTSの新曲「Merry Go Round」の公式MVが公開されたようです。",
+  "CFroXKVQtuw": "ヴィジャイ・セードゥパティ主演映画「Baththa」の公式予告編のようです。"
  }
 }
