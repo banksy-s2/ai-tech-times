@@ -1,23 +1,17 @@
 {
- "updated": "2026-09-26 02:00",
- "mode": "軽量便(シリコンバレー最速)",
- "articles": [
-  {
-   "title": "Bitgetで3.51億ドル相当の仮想通貨が盗難、北朝鮮ハッカーの関与が浮上",
-   "path": "/articles/20260926-bitget-crypto-theft-north-korean-hackers.html",
-   "cat": "シリコンバレー最速"
-  }
- ],
+ "updated": "2026-09-26 03:01",
+ "mode": "軽量便(インフルエンサー)",
+ "articles": [],
  "buzz_top": {
   "title": "Clayface | Final Trailer",
   "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4"
  },
  "notes": [
-  "執筆失敗: Anthropic’s founders seek voting control"
+  "インフルエンサーの選定失敗: 全モデル失敗: gemini-flash-latest: HTTP 503"
  ],
  "pv_today": null,
  "gemini": {
-  "used": 14,
+  "used": 19,
   "limit": 200
  }
 }
