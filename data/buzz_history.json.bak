@@ -8177,7 +8177,7 @@
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 4609959,
+   "views": 4724653,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -8192,7 +8192,7 @@
    "id": "V-uIp-WuD60",
    "title": "Patient Zero",
    "channel": "Taylor Swift - Topic",
-   "views": 655319,
+   "views": 740497,
    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
    "thumb": "https://i.ytimg.com/vi/V-uIp-WuD60/hqdefault.jpg",
    "regions": [
@@ -8207,7 +8207,7 @@
    "id": "1mCN-RDh0-0",
    "title": "U2 - Silencio",
    "channel": "U2VEVO",
-   "views": 652618,
+   "views": 675240,
    "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0",
    "thumb": "https://i.ytimg.com/vi/1mCN-RDh0-0/hqdefault.jpg",
    "regions": [
@@ -8222,7 +8222,7 @@
    "id": "HvW_N5p1q44",
    "title": "You Can See Everything | Official Trailer HD | A24",
    "channel": "A24",
-   "views": 5336805,
+   "views": 5382796,
    "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
    "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
    "regions": [
@@ -8236,7 +8236,7 @@
    "id": "bhKKR5He_Fo",
    "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
    "channel": "Lionsgate Movies",
-   "views": 2961871,
+   "views": 3098140,
    "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
    "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
    "regions": [
@@ -8250,7 +8250,7 @@
    "id": "4-sO_dp1fkE",
    "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
    "channel": "GLITCH",
-   "views": 2086213,
+   "views": 2093666,
    "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
    "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
    "regions": [
@@ -8264,7 +8264,7 @@
    "id": "xzh7HzLXXpk",
    "title": "MADDEN - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 1744201,
+   "views": 1787761,
    "url": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
    "thumb": "https://i.ytimg.com/vi/xzh7HzLXXpk/hqdefault.jpg",
    "regions": [
@@ -8278,7 +8278,7 @@
    "id": "Pd1yGW_g2T8",
    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
    "channel": "Karan Aujla",
-   "views": 1504332,
+   "views": 1756502,
    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
    "thumb": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
    "regions": [
@@ -8289,24 +8289,10 @@
   },
   {
    "rank": 9,
-   "id": "wLbNFCl3f8I",
-   "title": "“EASIEST” Roblox Game EVER",
-   "channel": "Flamingo",
-   "views": 829973,
-   "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
-   "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ロブロックスの「一番簡単なゲーム」をプレイしている動画のようです。"
-  },
-  {
-   "rank": 10,
    "id": "lg8H3BS2Fdk",
    "title": "DAY DRINKER Official Trailer (2027) Johnny Depp",
    "channel": "ONE Media",
-   "views": 820239,
+   "views": 846865,
    "url": "https://www.youtube.com/watch?v=lg8H3BS2Fdk",
    "thumb": "https://i.ytimg.com/vi/lg8H3BS2Fdk/hqdefault.jpg",
    "regions": [
@@ -8314,6 +8300,20 @@
     "GB"
    ],
    "comment": "ジョニー・デップ出演映画の公式予告編ようですね。"
+  },
+  {
+   "rank": 10,
+   "id": "wLbNFCl3f8I",
+   "title": "“EASIEST” Roblox Game EVER",
+   "channel": "Flamingo",
+   "views": 842360,
+   "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
+   "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ロブロックスの「一番簡単なゲーム」をプレイしている動画のようです。"
   }
  ]
 }

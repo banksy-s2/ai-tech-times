@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUzExYWZnUGNuajUzQ25VUk1IczVwanZZa0NwX2N5RGlHUUFXR2FJMXdhYTVBRnlTYXB0Y014dzIxdEw0UWp4NzRUVG5NS182RUh1TklwMktDLTlPc3p1VUxyQU5iZEF2Vld0aQ?oc=5",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news043.html",
   "https://www.cnn.co.jp/tech/35251323.html",
   "https://www.techmeme.com/260806/p10#a260806p10",
   "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260925de52440",
   "https://news.web.nhk/newsweb/na/nd-20260924de52118",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdmc3MDZGeEl4RmxwTmRvUk15MDcxSHhfX3c4ZDIxcVNSMmFVbE9hUlBURTU3RjZsaDQ2YWJtaVNSajJ4MmdCaHlfM29LWDU3QnRNOHRablYwakhIWEtwUmt5S1FEdC1QUk1HQw?oc=5",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaEtUUzhJZktFR2dsYjJfQkxJclVEeGZyU3I3Sml6R1lSbWo4UFQ5VjRZTGZqaDdySDZkOEFnNzE1RFJsWjFydE85Wmx2eVdFRWZTU1ZweEcwc0RHZTJ3?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaEtUUzhJZktFR2dsYjJfQkxJclVEeGZyU3I3Sml6R1lSbWo4UFQ5VjRZTGZqaDdySDZkOEFnNzE1RFJsWjFydE85Wmx2eVdFRWZTU1ZweEcwc0RHZTJ3?oc=5",
+  "https://news.web.nhk/newsweb/na/nd-20260925de52430",
+  "https://news.web.nhk/newsweb/na/nd-20260924de52218"
  ],
  "titles": [
-  "日銀の高田審議委員、機動的な利上げを主張",
-  "ヤマトHD、専用貨物機の運航を終了へ",
-  "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出",
-  "「AI導入したのに、仕事が楽にならないんだが？」の正体　虚空に消えるあなたの“削減時間”、その行き先は……",
   "米司法省、OpenAIのAI学習はフェアユースと主張",
   "ITmedia AI+が報じる、AI導入でも仕事が楽にならない理由",
   "Snowflake spikes 22% on healthy results and AI coding momentum",
@@ -4001,6 +3997,10 @@
   "NTTドコモが12月に50超のプラン値上げ、なぜ？",
   "国連安保理：AI制御不能リスクで企業トップが国際連携訴え",
   "日経平均850円高、金利高をはねのけ5連騰",
-  "ポールトゥウィンHD、中間期で営業利益8.29億円を達成"
+  "ポールトゥウィンHD、中間期で営業利益8.29億円を達成",
+  "スーパーのコメ価格 5キロ2934円 6週連続で値下がり",
+  "タイで拘束 日本人ら特殊詐欺グループ AI顔加工でビデオ通話か",
+  "全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？",
+  "タイで日本人ら14人拘束、AI顔加工でビデオ通話か"
  ]
 }

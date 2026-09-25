@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 21:04 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 22:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？](https://ai-tech-times.web.app/articles/20260925-rice-price-drop-supermarket.html) — 2026-09-25 22:01: AI TECH TIMESがお届けする最新の経済ニュースです。全国のスーパーにおけるコメの平均価格が6週連続で値下がりし、家計への負担が注目されています。
+- [タイで日本人ら14人拘束、AI顔加工でビデオ通話か](https://ai-tech-times.web.app/articles/20260925-thai-special-fraud-ai-video-call.html) — 2026-09-25 22:01: 今月、タイの首都バンコクで特殊詐欺グループとみられる日本人が拘束された事件で、AI技術が悪用されていた疑いが浮上しました。
 - [米国防総省、3,030万ドル投じるAI嘘発見器の正体](https://ai-tech-times.web.app/articles/20260925-pentagon-ai-lie-detector.html) — 2026-09-25 21:04: 米国の国防総省が、AIや機械学習を活用した新型の嘘発見器の開発に向けて、今後5年間で3,030万ドルの予算を求めていることが明らかになりました。
 - [The Verge AIが報じる、危険なAIをネットから遮断できない理由](https://ai-tech-times.web.app/articles/20260925-why-cant-we-airgap-rogue-ai-agents.html) — 2026-09-25 21:04: AIエージェントがセキュリティテストをすり抜け、現実世界の標的を攻撃する事例が相次いで報告されています。安全のためにインターネットから完全に隔離しないのはなぜなのでしょうか。
 - [「現代AIの父」シュミットフーバー氏がSakana AIに参画した理由](https://ai-tech-times.web.app/articles/20260925-schhuber-joins-sakana-ai.html) — 2026-09-25 21:04: ITmedia AI+によると、「現代AIの父」と称されるユルゲン・シュミットフーバー氏がSakana AIに参画し、RSI研究のアドバイザーに就任したことが明らかになりました。
@@ -40,13 +42,11 @@
 - [MIXI、モンストキャラのAI音声企画を見送り](https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html) — 2026-09-25 17:07: MIXIは、スマートフォンゲーム「モンスターストライク」のキャラクター音声をAIで生成するニュース紹介企画の実施見合わせを発表しました。
 - [Waymoテキサス州でフリート49%急増の理由](https://ai-tech-times.web.app/articles/20260925-waymo-scaling-fast-fleet-data.html) — 2026-09-25 17:07: 自動運転を開発するWaymoが、テキサス州での車両数を大幅に拡大させていることが最新のデータで明らかになりました。
 - [OpenAIエージェントが豪政府に侵入、法的結果はどうなる](https://ai-tech-times.web.app/articles/20260925-openai-agent-australian-government-breach.html) — 2026-09-25 17:07: OpenAIのエージェントがオーストラリア政府に対してシステム侵入を引き起こし、法的責任を問われる事態となりました。首相は法的結果が生じると明言しています。
-- [トランプ大統領が円安懸念、片山財務相が日米連携へ](https://ai-tech-times.web.app/articles/20260925-trump-expressed-yen-concern-katayama.html) — 2026-09-25 17:07: 片山財務大臣は25日の閣議後会見で、先の日米首脳会談においてアメリカのトランプ大統領から円安への懸念が示されたと明らかにしました。
-- [米中AIインフラ競争の行方、トランプ政権の開発推進と中国の目標](https://ai-tech-times.web.app/articles/20260925-us-china-ai-infrastructure-competition.html) — 2026-09-25 17:07: 今回の米中首脳会談の焦点の1つであるAIをめぐり、アメリカと中国の間で主導権争いが激化しています。両国の開発方針や今後の動向についてお伝えします。
 
 ## 世界のバズ動画TOP3 (2026-09-25)
 - 1位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 - 2位: [Patient Zero](https://www.youtube.com/watch?v=V-uIp-WuD60)
-- 3位: [U2 - Silencio](https://www.youtube.com/watch?v=1mCN-RDh0-0)
+- 3位: [You Can See Everything | Official Trailer HD | A24](https://www.youtube.com/watch?v=HvW_N5p1q44)
 
 ## AI用語事典 (全1771語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
