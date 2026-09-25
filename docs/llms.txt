@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 00:03 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 01:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [グーグルGeminiが電話代行を開始、レストラン予約で制限がある理由](https://ai-tech-times.web.app/articles/20260926-google-gemini-phone-agent.html) — 2026-09-26 01:00: Googleは米国時間9月24日、モバイル版「Gemini」に日常の電話をユーザーの代わりにこなす新機能を発表しました。しかし、細かな利用条件にも目を通しておく必要があります。
+- [カシオ、G-SHOCK開発にAIを導入した理由](https://ai-tech-times.web.app/articles/20260926-casio-g-shock-ai-design.html) — 2026-09-26 01:00: カシオ計算機は、G-SHOCKの「MTG-B4000」などのデザイン開発にAIを活用しました。従来の発想を超えるスタイリングをどのように製品化したのか、Gデザイン室長の赤城貴康氏がその舞台裏を語ります。
 - [MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？](https://ai-tech-times.web.app/articles/20260926-meta-muse-openclaw-ai-agent.html) — 2026-09-26 00:03: Metaが一般向けにリリースした新しいAIエージェント「Muse」が、App Storeのランキングで上位に輝き、大きな注目を集めています。しかし、そのデザインや機能が「OpenClaw」にそっくりだという指摘が浮上し、AI業界で話題となっています。
 - [QualcommスマートグラスにPrismMLの極小LLMが搭載される理由](https://ai-tech-times.web.app/articles/20260926-prismml-brings-tiny-llms-to-qualcomm-smart-glasses.html) — 2026-09-26 00:03: AI TECH TIMESがお届けする最新ニュース。PrismMLがQualcomm製チップを搭載したスマートグラスに小型LLMをもたらした背景には、デバイス側でのAI活用という大きな目標があります。
 - [日経平均大引け、5日続伸の850円高・6万6364円](https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html) — 2026-09-25 23:01: 日本経済新聞の報道によると、株式市場で日経平均株価が5日連続で上昇し、前日比850円高の6万6364円で大引けを迎えました。
@@ -40,15 +42,13 @@
 - [CLIP STUDIO PAINTでユーザー素材が大量削除され騒ぎに](https://ai-tech-times.web.app/articles/20260925-clip-studio-paint-material-deletion.html) — 2026-09-25 20:01: お絵描きソフト「CLIP STUDIO PAINT」において、ユーザーが作成した素材が突然大量削除・非公開になる事態が発生し、ネット上で騒ぎとなっています。
 - [RSA暗号を従来より高速に破る新手法、暗号解読の常識が変わる理由](https://ai-tech-times.web.app/articles/20260925-new-way-to-break-rsa.html) — 2026-09-25 19:01: 暗号解読の常識を覆す新しいRSA暗号の破り方が登場しました。これまで暗号解読には因数分解しか方法がないと考えられていましたが、その常識が変わりつつあります。
 - [日本オラクル株が7%急騰、米親会社の急落に逆行した理由とは](https://ai-tech-times.web.app/articles/20260925-oracle-japan-shares-earnings.html) — 2026-09-25 19:01: 米CNBC Techによると、日本オラクル株が第1四半期の売上高と利益で過去最高を記録し、7%急騰しました。
-- [Flockがワシントンで窮地に、AI監視網の公聴会を欠席](https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html) — 2026-09-25 17:07: 米ワシントンで開催された「AI監視網」に関する公聴会において、監視カメラシステムを手がけるFlockが厳しい視線にさらされています。
-- [元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由](https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html) — 2026-09-25 17:07: TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始しました。文字列生成を廃止することで、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したとしています。
 
 ## 世界のバズ動画TOP3 (2026-09-26)
 - 1位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 - 2位: [Patient Zero](https://www.youtube.com/watch?v=V-uIp-WuD60)
 - 3位: [You Can See Everything | Official Trailer HD | A24](https://www.youtube.com/watch?v=HvW_N5p1q44)
 
-## AI用語事典 (全1772語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1774語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
@@ -63,8 +63,8 @@
 - [Hugging Faceとは](https://ai-tech-times.web.app/term/hugging-face.html): 機械学習やオープンソースのAIモデルを共有するプラットフォームを提供するアメリカの企業です。
 - [TechCrunchとは](https://ai-tech-times.web.app/term/techcrunch.html): アメリカの著名なテクノロジー分野のニュースおよびメディア企業。
 - [日本経済新聞とは](https://ai-tech-times.web.app/term/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E.html): 日本経済新聞社が発行する、経済を中心としたニュースを扱う日本の代表的な日刊新聞です。
-- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [Geminiとは](https://ai-tech-times.web.app/term/gemini.html): Googleが開発した高度なマルチモーダル対応のAIモデルであり、様々なタスクを自律的に処理する能力を持っています。
+- [SpaceXとは](https://ai-tech-times.web.app/term/spacex.html): アメリカ合衆国の宇宙航空企業。ロケット開発や衛星通信サービスなどを手掛けていることで世界的に知られています。
 - [イーロン・マスクとは](https://ai-tech-times.web.app/term/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF.html): SpaceXやTeslaなどを率い、宇宙開発からAI分野まで幅広く事業を展開するカリスマ的実業家です。
 - [キオクシアとは](https://ai-tech-times.web.app/term/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2.html): フラッシュメモリの開発や製造を手がける日本の半導体企業です。
 - [アンソロピックとは](https://ai-tech-times.web.app/term/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF.html): アメリカ合衆国のAI開発企業で、最先端の人工知能モデルや関連サービスの提供を行っていることで広く知られている。

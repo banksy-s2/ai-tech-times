@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.techmeme.com/260806/p10#a260806p10",
-  "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRHQzendzLVpLZUlZTDk5ajZVWGV2ajhMNWY0V3dWbUVjQ2tXdUFWNUljemRPZjVPNUNqMm9RZDRYQnZSbFFsM1l0TmpyUkJxN0gxb09nc3hpcUpTV2V2T0RDUm9RQkVieVZhaEdZWTFNaTNDc1h1MlN4U045Wkk?oc=5",
   "https://blog.fogus.me/llm/born-against.html",
   "https://arxiv.org/abs/2510.01395",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZaEtUUzhJZktFR2dsYjJfQkxJclVEeGZyU3I3Sml6R1lSbWo4UFQ5VjRZTGZqaDdySDZkOEFnNzE1RFJsWjFydE85Wmx2eVdFRWZTU1ZweEcwc0RHZTJ3?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260925de52430",
   "https://news.web.nhk/newsweb/na/nd-20260924de52218",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HUGt1d19iQ1ZQNjBfRUpiOVEzYTY1ME1KRWdFQ0JRanhSVm5HbTVhTnhsY2J5VERuYjZvQ1U0V1VjeFo4bXhDcE4zeFoyM3VZYzhTckJ1dmhFdXZ4U3JXQ1RSOXc1QWI1NGlvMw?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HUGt1d19iQ1ZQNjBfRUpiOVEzYTY1ME1KRWdFQ0JRanhSVm5HbTVhTnhsY2J5VERuYjZvQ1U0V1VjeFo4bXhDcE4zeFoyM3VZYzhTckJ1dmhFdXZ4U3JXQ1RSOXc1QWI1NGlvMw?oc=5",
+  "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+  "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
  ],
  "titles": [
-  "Snowflake spikes 22% on healthy results and AI coding momentum",
-  "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-  "Snowflake株価が22%急騰、AIコード生成が成長を牽引した理由",
-  "Uber、全従業員の10%を削減する理由",
   "『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信 | ゲーム・エンタメ最新情報のファミ通.com",
   "芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信",
   "Adobe、Slackから「Photoshop」などのツールを使える「Adobe for Slack」提供開始　会話からPDFや動画を生成",
@@ -4001,6 +3997,10 @@
   "全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？",
   "タイで日本人ら14人拘束、AI顔加工でビデオ通話か",
   "日経平均大引け 5日続伸 850円高の6万6364円 - 日本経済新聞",
-  "日経平均大引け、5日続伸の850円高・6万6364円"
+  "日経平均大引け、5日続伸の850円高・6万6364円",
+  "Muse sure looks a lot like OpenClaw",
+  "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+  "MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？",
+  "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由"
  ]
 }

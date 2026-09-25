@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRHQzendzLVpLZUlZTDk5ajZVWGV2ajhMNWY0V3dWbUVjQ2tXdUFWNUljemRPZjVPNUNqMm9RZDRYQnZSbFFsM1l0TmpyUkJxN0gxb09nc3hpcUpTV2V2T0RDUm9RQkVieVZhaEdZWTFNaTNDc1h1MlN4U045Wkk?oc=5",
-  "https://blog.fogus.me/llm/born-against.html",
   "https://arxiv.org/abs/2510.01395",
   "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
   "https://gigazine.net/news/20260806-ai-tokenmaxxing-microsoft/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260924de52218",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HUGt1d19iQ1ZQNjBfRUpiOVEzYTY1ME1KRWdFQ0JRanhSVm5HbTVhTnhsY2J5VERuYjZvQ1U0V1VjeFo4bXhDcE4zeFoyM3VZYzhTckJ1dmhFdXZ4U3JXQ1RSOXc1QWI1NGlvMw?oc=5",
   "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-  "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+  "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+  "https://japan.cnet.com/article/35252958/",
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html"
  ],
  "titles": [
-  "『薬屋のひとりごと』実写ドラマ化。猫猫役は芦田愛菜。2028年にアマプラのオリジナルドラマとして独占配信 | ゲーム・エンタメ最新情報のファミ通.com",
-  "芦田愛菜主演で『薬屋のひとりごと』実写化、2028年にアマプラで世界独占配信",
-  "Adobe、Slackから「Photoshop」などのツールを使える「Adobe for Slack」提供開始　会話からPDFや動画を生成",
-  "X shifts US creator payouts from Stripe to X Money",
   "Microsoft discloses Azure revenue as part of major financial reporting changes",
   "安倍晋三元首相銃撃事件が映画化へ　山上徹也被告役に「菅田将暉」か | 東スポWEB",
   "円相場 円高ドル安進む 一時1ドル156円台前半に 1か月ぶり水準",
@@ -4001,6 +3997,10 @@
   "Muse sure looks a lot like OpenClaw",
   "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
   "MetaのAIエージェント「Muse」は60万DAUを記録したがOpenClawに酷似？",
-  "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由"
+  "QualcommスマートグラスにPrismMLの極小LLMが搭載される理由",
+  "グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ",
+  "AIと人の共創で進化する「G-SHOCK」　デザイナーが語る製品化の舞台裏",
+  "グーグルGeminiが電話代行を開始、レストラン予約で制限がある理由",
+  "カシオ、G-SHOCK開発にAIを導入した理由"
  ]
 }
