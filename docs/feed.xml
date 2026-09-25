@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>RSA暗号を従来より高速に破る新手法、暗号解読の常識が変わる理由</title>
+<link>https://ai-tech-times.web.app/articles/20260925-new-way-to-break-rsa.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-new-way-to-break-rsa.html</guid>
+<pubDate>Fri, 25 Sep 2026 19:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>暗号解読の常識を覆す新しいRSA暗号の破り方が登場しました。これまで暗号解読には因数分解しか方法がないと考えられていましたが、その常識が変わりつつあります。</description>
+</item>
+<item>
+<title>日本オラクル株が7%急騰、米親会社の急落に逆行した理由とは</title>
+<link>https://ai-tech-times.web.app/articles/20260925-oracle-japan-shares-earnings.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260925-oracle-japan-shares-earnings.html</guid>
+<pubDate>Fri, 25 Sep 2026 19:01:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米CNBC Techによると、日本オラクル株が第1四半期の売上高と利益で過去最高を記録し、7%急騰しました。</description>
+</item>
+<item>
 <title>Flockがワシントンで窮地に、AI監視網の公聴会を欠席</title>
 <link>https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 25 Sep 2026 08:00:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>米The Vergeなどの報道によると、GoogleはAIプロセッサを搭載した衛星を来週にも打ち上げ、宇宙空間での性能をテストする計画を進めています。</description>
-</item>
-<item>
-<title>MetaのMuse、簡単なプロンプトで全ファイルシステムが流出か</title>
-<link>https://ai-tech-times.web.app/articles/20260925-meta-muse-filesystem-leak.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-meta-muse-filesystem-leak.html</guid>
-<pubDate>Fri, 25 Sep 2026 08:00:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>MetaのAI「Muse」に対し、わずかなプロンプトを与えるだけでルートファイルシステム全体が共有される状態になると、2人の開発者が明らかにしました。</description>
-</item>
-<item>
-<title>Lovable、ARR6億ドル突破の背景に「バイブコーディング」</title>
-<link>https://ai-tech-times.web.app/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-lovable-arr-crosses-600m-vibe-coding.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:03:00 +0900</pubDate>
-<category>AI(海外)</category>
-<description>AI開発プラットフォームを展開するLovableの年間経常収益（ARR）が6億ドルを突破しました。「バイブコーディング」の広がりにより、アプリの月間閲覧数が急増しています。</description>
 </item>
 </channel></rss>

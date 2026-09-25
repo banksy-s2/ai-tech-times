@@ -8177,7 +8177,7 @@
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 4104412,
+   "views": 4175524,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -8192,7 +8192,7 @@
    "id": "1mCN-RDh0-0",
    "title": "U2 - Silencio",
    "channel": "U2VEVO",
-   "views": 558744,
+   "views": 582337,
    "url": "https://www.youtube.com/watch?v=1mCN-RDh0-0",
    "thumb": "https://i.ytimg.com/vi/1mCN-RDh0-0/hqdefault.jpg",
    "regions": [
@@ -8207,7 +8207,7 @@
    "id": "V-uIp-WuD60",
    "title": "Patient Zero",
    "channel": "Taylor Swift - Topic",
-   "views": 188231,
+   "views": 323377,
    "url": "https://www.youtube.com/watch?v=V-uIp-WuD60",
    "thumb": "https://i.ytimg.com/vi/V-uIp-WuD60/hqdefault.jpg",
    "regions": [
@@ -8222,7 +8222,7 @@
    "id": "HvW_N5p1q44",
    "title": "You Can See Everything | Official Trailer HD | A24",
    "channel": "A24",
-   "views": 5149966,
+   "views": 5203758,
    "url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
    "thumb": "https://i.ytimg.com/vi/HvW_N5p1q44/hqdefault.jpg",
    "regions": [
@@ -8236,7 +8236,7 @@
    "id": "bhKKR5He_Fo",
    "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
    "channel": "Lionsgate Movies",
-   "views": 2413324,
+   "views": 2518819,
    "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
    "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
    "regions": [
@@ -8250,7 +8250,7 @@
    "id": "4-sO_dp1fkE",
    "title": "KNIGHTS OF GUINEVERE - EPISODE 2 (TRAILER)",
    "channel": "GLITCH",
-   "views": 2048639,
+   "views": 2060334,
    "url": "https://www.youtube.com/watch?v=4-sO_dp1fkE",
    "thumb": "https://i.ytimg.com/vi/4-sO_dp1fkE/hqdefault.jpg",
    "regions": [
@@ -8264,7 +8264,7 @@
    "id": "xzh7HzLXXpk",
    "title": "MADDEN - Official Trailer | Prime Video",
    "channel": "Prime Video",
-   "views": 1627971,
+   "views": 1644628,
    "url": "https://www.youtube.com/watch?v=xzh7HzLXXpk",
    "thumb": "https://i.ytimg.com/vi/xzh7HzLXXpk/hqdefault.jpg",
    "regions": [
@@ -8278,7 +8278,7 @@
    "id": "wLbNFCl3f8I",
    "title": "“EASIEST” Roblox Game EVER",
    "channel": "Flamingo",
-   "views": 761821,
+   "views": 784656,
    "url": "https://www.youtube.com/watch?v=wLbNFCl3f8I",
    "thumb": "https://i.ytimg.com/vi/wLbNFCl3f8I/hqdefault.jpg",
    "regions": [
@@ -8289,24 +8289,10 @@
   },
   {
    "rank": 9,
-   "id": "mECHGuyOBws",
-   "title": "I Pretended to be BABY SONIC on One Chunk! (Minecraft)",
-   "channel": "Cash",
-   "views": 519869,
-   "url": "https://www.youtube.com/watch?v=mECHGuyOBws",
-   "thumb": "https://i.ytimg.com/vi/mECHGuyOBws/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ベイビーソニックになりきってサバイバルしたようです"
-  },
-  {
-   "rank": 10,
    "id": "Pd1yGW_g2T8",
    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
    "channel": "Karan Aujla",
-   "views": 406196,
+   "views": 619283,
    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
    "thumb": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
    "regions": [
@@ -8314,6 +8300,20 @@
     "IN"
    ],
    "comment": "カラン・アウジラの新曲ミュージックビデオ。(20文字)"
+  },
+  {
+   "rank": 10,
+   "id": "mECHGuyOBws",
+   "title": "I Pretended to be BABY SONIC on One Chunk! (Minecraft)",
+   "channel": "Cash",
+   "views": 538474,
+   "url": "https://www.youtube.com/watch?v=mECHGuyOBws",
+   "thumb": "https://i.ytimg.com/vi/mECHGuyOBws/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ベイビーソニックになりきってサバイバルしたようです"
   }
  ]
 }

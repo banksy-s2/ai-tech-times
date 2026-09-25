@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 17:07 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-25 19:01 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [RSA暗号を従来より高速に破る新手法、暗号解読の常識が変わる理由](https://ai-tech-times.web.app/articles/20260925-new-way-to-break-rsa.html) — 2026-09-25 19:01: 暗号解読の常識を覆す新しいRSA暗号の破り方が登場しました。これまで暗号解読には因数分解しか方法がないと考えられていましたが、その常識が変わりつつあります。
+- [日本オラクル株が7%急騰、米親会社の急落に逆行した理由とは](https://ai-tech-times.web.app/articles/20260925-oracle-japan-shares-earnings.html) — 2026-09-25 19:01: 米CNBC Techによると、日本オラクル株が第1四半期の売上高と利益で過去最高を記録し、7%急騰しました。
 - [Flockがワシントンで窮地に、AI監視網の公聴会を欠席](https://ai-tech-times.web.app/articles/20260925-flock-washington-ai-surveillance.html) — 2026-09-25 17:07: 米ワシントンで開催された「AI監視網」に関する公聴会において、監視カメラシステムを手がけるFlockが厳しい視線にさらされています。
 - [元OpenAI研究者の新AI「Jev」、最大200倍高速化の理由](https://ai-tech-times.web.app/articles/20260925-jev-ai-supersedes-llm-with-200x-speed.html) — 2026-09-25 17:07: TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始しました。文字列生成を廃止することで、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したとしています。
 - [MIXI、モンストキャラのAI音声企画を見送り](https://ai-tech-times.web.app/articles/20260925-mixi-monst-ai-voice-postponed.html) — 2026-09-25 17:07: MIXIは、スマートフォンゲーム「モンスターストライク」のキャラクター音声をAIで生成するニュース紹介企画の実施見合わせを発表しました。
@@ -40,15 +42,13 @@
 - [DatabricksがRow Zero買収、その次なる買収戦略とは](https://ai-tech-times.web.app/articles/20260925-databricks-buys-row-zero.html) — 2026-09-25 12:02: Databricksがクラウドスプレッドシートのスタートアップ企業であるRow Zeroを買収しました。さらに多くのスタートアップの買収を模索しています。
 - [マイクロソフト、「Copilot Plus PC」ブランドを終了へ](https://ai-tech-times.web.app/articles/20260925-microsoft-is-killing-off-copilot-plus-pc-brand.html) — 2026-09-25 12:02: マイクロソフトが展開してきた「Copilot Plus PC」ブランドが、早くも終了に向かっていることが明らかになりました。
 - [Disney+とHuluが13%値上げ、ストリーミングの家計負担はどうなる](https://ai-tech-times.web.app/articles/20260925-disney-plus-hulu-price-hike-2026.html) — 2026-09-25 12:02: ディズニーは、映像ストリーミングサービス「Disney＋」と「Hulu」の値上げを発表しました。ストリーミング市場におけるインフレ傾向にさらなる拍車がかかっています。
-- [全東信破綻の売上金約54億円、10月中にも店側へ支払い](https://ai-tech-times.web.app/articles/20260925-zentoshin-sales-payment-october.html) — 2026-09-25 12:02: クレジットカードの決済代行サービスを行う「全東信」が経営破綻した問題で、加盟する飲食店などが回収できていない売上金の支払い時期が明らかになりました。
-- [米中首脳会談終了 習主席が求めた台湾の行方は](https://ai-tech-times.web.app/articles/20260925-us-china-summit-taiwan-2026.html) — 2026-09-25 12:02: アメリカのトランプ大統領と中国の習近平国家主席が24日、ホワイトハウスで会談を行い、台湾独立に対する姿勢などが話し合われました。
 
 ## 世界のバズ動画TOP3 (2026-09-25)
 - 1位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 - 2位: [U2 - Silencio](https://www.youtube.com/watch?v=1mCN-RDh0-0)
 - 3位: [Patient Zero](https://www.youtube.com/watch?v=V-uIp-WuD60)
 
-## AI用語事典 (全1767語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1768語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
