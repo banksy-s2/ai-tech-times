@@ -109278,5 +109278,39 @@
   "date": "2026-09-27",
   "time": "04:01",
   "path": "/articles/20260927-brazil-lula-bans-online-gambling.html"
+ },
+ {
+  "title": "日本経済新聞：個人マネー「貯蓄から国債」に 銀行株への影響は",
+  "lead": "日本経済新聞の報道によると、個人の資金が「貯蓄から国債」へと流れる動きが見られ、国内銀行株における金利上昇の恩恵に変化が生じています。",
+  "summary3": [
+   "個人マネーが貯蓄から国債へシフト",
+   "国内銀行株の金利高の恩恵が薄れる",
+   "日本経済新聞が市場動向を伝える"
+  ],
+  "body": [
+   "AI TECH TIMES編集部がお伝えする市場の最新ニュースです。日本経済新聞の報道によれば、個人の資金が「貯蓄から国債」へと向かう動きが広がっています。",
+   "この個人の資金シフトにともない、国内の銀行株における金利上昇の恩恵が薄れていると伝えられています。市場における資金の流れの変化が、金融セクターの状況に影響を与えている模様です。",
+   "今後の動向については、個人の資産選択や金利環境がどのように推移していくのか、引き続き金融市場の動きが注目される状況となっています。"
+  ],
+  "tags": [
+   "国債",
+   "銀行株",
+   "金融市場"
+  ],
+  "slug": "personal-money-savings-to-jgb-bank-stocks",
+  "people": [],
+  "terms": [
+   {
+    "name": "日本経済新聞",
+    "type": "company",
+    "desc": "日本経済新聞社が発行する、経済を中心としたニュースを扱う日本の代表的な日刊新聞です。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGVGN0WTFpT0hLNHJPYjdxSGktRmk1UDZHeGNDb2NkV3RXTXRxekNRc0tEUzBNTW5Gak44ZENXZXJfS3FZOU9fTG8wbUp1bi1kT0lZcDFaTVJyVzVlSXJhOGhYN3owbUFVRXN1Rg?oc=5",
+  "category": "stock",
+  "date": "2026-09-27",
+  "time": "05:00",
+  "path": "/articles/20260927-personal-money-savings-to-jgb-bank-stocks.html"
  }
 ]
