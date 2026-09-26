@@ -1,21 +1,64 @@
 {
- "updated": "2026-09-26 20:02",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-26 21:05",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "宇推くりあが「ラブライブ！」Liella!と並び立つ、JAXAコラボイラストで共演",
-   "path": "/articles/20260926-usui-clea-liella-jaxa-collab.html",
+   "title": "Metaの「Muse」、ファイルシステム内部を一般公開した理由",
+   "path": "/articles/20260926-meta-muse-filesystem.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "アクセンチュア調査：AIトークンコスト増を44％抑制する方法",
+   "path": "/articles/20260926-accenture-ai-token-cost-reduction.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "OpenAIのAIエージェントが豪政府システムに侵入、3カ月隠蔽",
+   "path": "/articles/20260926-openai-hacked-australian-system.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "欧州連合がXに1億2000万ユーロの罰金、トランプ政権はどう対応するのか",
+   "path": "/articles/20260926-trump-administration-takes-musks-side-eu-tech-rules.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "パナソニック、市販カーナビ生産を2027年3月終了へ",
+   "path": "/articles/20260926-panasonic-ends-car-navigation-production-2027.html",
    "cat": "インフルエンサー"
+  },
+  {
+   "title": "トランプ・習近平会談、AIが「SI」に変更された理由",
+   "path": "/articles/20260926-us-china-summit-ai-changes.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "米国住宅ローン金利が7%超え、購入負担はなぜ増すのか",
+   "path": "/articles/20260926-us-mortgage-rates-exceed-7-percent.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "日経平均6万6364円で850円高、5日連続上昇の背景",
+   "path": "/articles/20260926-nikkei-average-rises-850-yen.html",
+   "cat": "株式投資(日本)"
+  },
+  {
+   "title": "ユポ、利益率倍増へ値上げ拒否顧客は撤退の理由",
+   "path": "/articles/20260926-yupo-high-profitability-strategy.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: At Meta Connect, the company’s smart gla",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 128,
+  "used": 152,
   "limit": 200
  }
 }
