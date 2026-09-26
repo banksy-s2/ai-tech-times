@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-26 19:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-26 20:02",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "テスラ、人型ロボット「Optimus」量産で製造上の課題に直面",
-   "path": "/articles/20260926-tesla-optimus-production-issues.html",
-   "cat": "シリコンバレー最速"
+   "title": "宇推くりあが「ラブライブ！」Liella!と並び立つ、JAXAコラボイラストで共演",
+   "path": "/articles/20260926-usui-clea-liella-jaxa-collab.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "執筆失敗: Chinese AI models surge in global popula"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 124,
+  "used": 128,
   "limit": 200
  }
 }
