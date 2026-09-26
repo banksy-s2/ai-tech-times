@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 15:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 16:02 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,8 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [Crusoe、12.5億ドルのBoom製タービン導入を撤回](https://ai-tech-times.web.app/articles/20260926-crusoe-abandons-1-25b-boom-turbines-plan.html) — 2026-09-26 16:02: AIデータセンター向けに計画されていたBoom Supersonicの定置型発電プラントの導入について、Crusoeが近々の計画から外したことが明らかになりました。
+- [Supabase顧客のAIアプリ、個人データが外部に露出する理由](https://ai-tech-times.web.app/articles/20260926-supabase-customers-data-exposure.html) — 2026-09-26 16:02: AIや「vibe-coded」アプリの設定ミスにより、Supabaseを利用する一部顧客のユーザーデータがウェブ上に広く露出していることが明らかになりました。
 - [ニデック不正から学ぶ優良企業がブラック化する4つの理由](https://ai-tech-times.web.app/articles/20260926-nidec-black-company-risk.html) — 2026-09-26 15:00: 業績至上主義による圧力やハラスメントはどんな組織でも起こり得るリスクです。ニデックの第三者委員会報告書を手掛けに、優良企業が自浄作用を失う病理を読み解きます。
 - [片山財務相が米長官と会談、円の過小評価を再確認](https://ai-tech-times.web.app/articles/20260926-katayama-bessent-fx-talk.html) — 2026-09-26 14:00: 片山財務大臣は25日夜、アメリカのベッセント財務長官と電話会談を行い、為替を含めた金融市場の動向について日米当局の協力を強化していく方針を確認しました。
 - [国民年金保険料、子が1歳まで両親ともに免除へ](https://ai-tech-times.web.app/articles/20260926-national-pension-exemption-for-parents.html) — 2026-09-26 13:00: 自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、国民年金保険料を免除する新しい制度が10月から始まります。
@@ -40,15 +42,13 @@
 - [Nscale、米IPO控え33.6億ドル調達の行方](https://ai-tech-times.web.app/articles/20260926-nscale-secures-3-36b-in-convertible-financing.html) — 2026-09-26 07:02: イギリスのAIネオクラウド企業Nscaleが、米国でのIPOを控え、転換社債により33.6億ドル規模の資金調達を実施しました。この巨額の資金は、大規模なAIデータセンターの構築を加速させるために活用されます。
 - [食料品消費税減税へ政府支援、レジ改修費に予備費支出を調整](https://ai-tech-times.web.app/articles/20260926-food-consumption-tax-reduction-support.html) — 2026-09-26 07:02: 来年4月からの食料品の消費税減税に向けて、政府はレジシステムの改修などの準備作業を支援する方針を固めました。必要な費用には今年度予算の予備費もあてる方向で調整が進められています。
 - [FBIハッキング事件、捜査員の血液・尿検査結果が流出](https://ai-tech-times.web.app/articles/20260926-fbi-hack-agents-medical-data-stolen.html) — 2026-09-26 07:02: BBC Worldによると、FBIのハッキング事件により特別捜査官らの血液・尿検査結果が盗み出されました。専門家は詐欺や脅迫のリスクを指摘しています。
-- [楽天銀行と楽天証券、勝手に資金が移動する事案が発生](https://ai-tech-times.web.app/articles/20260926-rakuten-bank-secrities-fund-transfer.html) — 2026-09-26 07:02: 楽天銀行と楽天証券の連携サービスを利用するユーザーの間で、意図しない資金移動が相次ぎ発生しました。
-- [JR九州がSBIと提携、金融サービス進出へ](https://ai-tech-times.web.app/articles/20260926-jr-kyushu-sbi-financial-service.html) — 2026-09-26 07:02: JR九州は、金融サービスの開始を目指し、SBIホールディングスなどと事業提携に向けて基本合意したと発表しました。
 
 ## 世界のバズ動画TOP3 (2026-09-26)
 - 1位: [BTS (방탄소년단) ‘Merry Go Round’ Official MV](https://www.youtube.com/watch?v=eJXL4-4m5nY)
 - 2位: [Patient Zero](https://www.youtube.com/watch?v=V-uIp-WuD60)
 - 3位: [The Rescue | Official Trailer (2027 Movie) - Brandon Sklenar, Josh Lucas, Hassie Harrison](https://www.youtube.com/watch?v=nzNYomSd5Ls)
 
-## AI用語事典 (全1785語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1789語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。

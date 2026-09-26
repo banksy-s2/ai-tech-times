@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Crusoe、12.5億ドルのBoom製タービン導入を撤回</title>
+<link>https://ai-tech-times.web.app/articles/20260926-crusoe-abandons-1-25b-boom-turbines-plan.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-crusoe-abandons-1-25b-boom-turbines-plan.html</guid>
+<pubDate>Sat, 26 Sep 2026 16:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIデータセンター向けに計画されていたBoom Supersonicの定置型発電プラントの導入について、Crusoeが近々の計画から外したことが明らかになりました。</description>
+</item>
+<item>
+<title>Supabase顧客のAIアプリ、個人データが外部に露出する理由</title>
+<link>https://ai-tech-times.web.app/articles/20260926-supabase-customers-data-exposure.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-supabase-customers-data-exposure.html</guid>
+<pubDate>Sat, 26 Sep 2026 16:02:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>AIや「vibe-coded」アプリの設定ミスにより、Supabaseを利用する一部顧客のユーザーデータがウェブ上に広く露出していることが明らかになりました。</description>
+</item>
+<item>
 <title>ニデック不正から学ぶ優良企業がブラック化する4つの理由</title>
 <link>https://ai-tech-times.web.app/articles/20260926-nidec-black-company-risk.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260926-nidec-black-company-risk.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 26 Sep 2026 00:03:00 +0900</pubDate>
 <category>AI(海外)</category>
 <description>AI TECH TIMESがお届けする最新ニュース。PrismMLがQualcomm製チップを搭載したスマートグラスに小型LLMをもたらした背景には、デバイス側でのAI活用という大きな目標があります。</description>
-</item>
-<item>
-<title>日経平均大引け、5日続伸の850円高・6万6364円</title>
-<link>https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-nikkei-average-gains-850-yen-2.html</guid>
-<pubDate>Fri, 25 Sep 2026 23:01:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日本経済新聞の報道によると、株式市場で日経平均株価が5日連続で上昇し、前日比850円高の6万6364円で大引けを迎えました。</description>
-</item>
-<item>
-<title>全国スーパーのコメ5キロ2934円、なぜ6週連続で値下がり？</title>
-<link>https://ai-tech-times.web.app/articles/20260925-rice-price-drop-supermarket.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-rice-price-drop-supermarket.html</guid>
-<pubDate>Fri, 25 Sep 2026 22:01:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>AI TECH TIMESがお届けする最新の経済ニュースです。全国のスーパーにおけるコメの平均価格が6週連続で値下がりし、家計への負担が注目されています。</description>
 </item>
 </channel></rss>

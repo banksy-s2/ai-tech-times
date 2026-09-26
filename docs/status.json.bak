@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-26 14:00",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-26 15:00",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "片山財務相が米長官と会談、円の過小評価を再確認",
-   "path": "/articles/20260926-katayama-bessent-fx-talk.html",
-   "cat": "株式投資(日本)"
+   "title": "ニデック不正から学ぶ優良企業がブラック化する4つの理由",
+   "path": "/articles/20260926-nidec-black-company-risk.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 84,
+  "used": 87,
   "limit": 200
  }
 }
