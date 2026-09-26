@@ -1,23 +1,21 @@
 {
- "updated": "2026-09-26 13:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-26 14:00",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "国民年金保険料、子が1歳まで両親ともに免除へ",
-   "path": "/articles/20260926-national-pension-exemption-for-parents.html",
-   "cat": "時事・世界"
+   "title": "片山財務相が米長官と会談、円の過小評価を再確認",
+   "path": "/articles/20260926-katayama-bessent-fx-talk.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "執筆失敗: US backs Elon Musk's bid to overturn €12"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 80,
+  "used": 84,
   "limit": 200
  }
 }
