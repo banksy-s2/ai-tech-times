@@ -109035,5 +109035,82 @@
   "date": "2026-09-27",
   "time": "00:04",
   "path": "/articles/20260927-cloudflare-ceo-matthew-prince-save-web-ai.html"
+ },
+ {
+  "title": "ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威",
+  "lead": "ChatGPTやGeminiなどのAIチャットボットの出力を汚染し、ユーザーを詐欺へ導く新たなサイバー攻撃「Dark Sourcery」が報告されました。",
+  "summary3": [
+   "AI出力汚染を狙う攻撃が発覚",
+   "偽の連絡先で詐欺へ誘導する",
+   "セキュリティ企業が調査を報告"
+  ],
+  "body": [
+   "サイバーセキュリティ企業・Vigilance Securityの研究者は、ChatGPTやGeminiといったAIチャットボットによる出力を意図的に汚染するサイバー攻撃キャンペーン「Dark Sourcery」について報告しました。",
+   "この攻撃では、悪意のあるリンクやデータがインターネット上に意図的にばらまかれます。これにより、AIが企業の偽の連絡先を出力するように仕向けられ、結果としてユーザーが詐欺へと導かれる仕組みとなっています。",
+   "AIの利便性が高まる一方で、その出力を悪用した新たな手口のサイバー攻撃が登場しており、今後のセキュリティ対策における重要な課題となっています。"
+  ],
+  "tags": [
+   "サイバーセキュリティ",
+   "ChatGPT",
+   "AI"
+  ],
+  "slug": "dark-sourcery-ai-cyber-attack",
+  "people": [],
+  "terms": [
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型AIモデルであり、自然な言語処理でユーザーの質問に答える。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発したマルチモーダル対応のAIモデルであり、様々な情報を統合して処理する。"
+   }
+  ],
+  "source": "Gigazine",
+  "source_url": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
+  "category": "ai_jp",
+  "date": "2026-09-27",
+  "time": "01:00",
+  "path": "/articles/20260927-dark-sourcery-ai-cyber-attack.html"
+ },
+ {
+  "title": "Google AI Proは月額2,900円でお得か検証",
+  "lead": "ChatGPTやClaudeが使われる中、あまり使われていないGeminiの有料サブスクリプション「Google AI Pro」の全特典の価値を検証しました。",
+  "summary3": [
+   "Geminiの有料プランを検証",
+   "月額2,900円のプランが対象",
+   "全特典の価値をすべて計算"
+  ],
+  "body": [
+   "みなさんはChatGPTやClaudeといった生成AIサービスを使っているでしょうか。多くの人が利用している一方で、GoogleのGeminiはあまり使われていないという現状があります。",
+   "今回は、そんなGeminiの有料サブスクリプションの中で最も一般的なプランである「Google AI Pro」（月額2,900円）を取り上げます。果たしてこのプランは、全特典の価値をすべて計算すると、実はめちゃくちゃお得なのではないかという説について検証を行いました。"
+  ],
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI"
+  ],
+  "slug": "google-ai-pro-subscription-value-verification",
+  "people": [],
+  "terms": [
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンをはじめ、多様なインターネット関連のサービスや製品を提供するアメリカの企業。"
+   },
+   {
+    "name": "Gemini",
+    "type": "ai",
+    "desc": "Googleが開発した、テキストや画像などを処理できる最先端の大規模言語モデルおよびAIアシスタント。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://note.com/blue_pen5805/n/nb124b104c28b",
+  "category": "ai_jp",
+  "date": "2026-09-27",
+  "time": "01:00",
+  "path": "/articles/20260927-google-ai-pro-subscription-value-verification.html"
  }
 ]

@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-27 01:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-27 02:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威",
-   "path": "/articles/20260927-dark-sourcery-ai-cyber-attack.html",
-   "cat": "日本のAI"
+   "title": "中国製AIモデル、世界で利用急増しワシントンが警戒",
+   "path": "/articles/20260927-chinese-ai-models-surge-global-popularity.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "Google AI Proは月額2,900円でお得か検証",
-   "path": "/articles/20260927-google-ai-pro-subscription-value-verification.html",
-   "cat": "日本のAI"
+   "title": "中国が4.5分で70%充電を実現、米国のEV充電速度が遅れる理由",
+   "path": "/articles/20260927-china-ev-charging-speed-lfp.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 8,
+  "used": 13,
   "limit": 200
  }
 }
