@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-  "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
   "https://news.web.nhk/newsweb/na/na-k10015198141000",
   "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
   "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260926de52529",
   "https://news.web.nhk/newsweb/na/nd-20260926de52533",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjallTaG9tYld6VVBFTUd2TElvMHVLTUVsMWdsNU5xWXFnNHpxcFk4S3Rpd3F3Mm1QUE9USmhmdy1Ob2lIVVozZnNxZm9GNy1WLUJnLW1MNU42UVRoRUZTcE0wVFJzSWlMNnpnbQ?oc=5",
-  "https://news.web.nhk/newsweb/na/nd-20260925de52433"
+  "https://news.web.nhk/newsweb/na/nd-20260925de52433",
+  "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
+  "https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/"
  ],
  "titles": [
-  "三井不動産、NTTドコモなどが資本業務提携 不動産と通信の融合で都市の価値向上へ - projectdesign.jp",
-  "Abliteration.AI、AIの安全フィルター削除を事業化",
-  "Meta、最新AI「Muse Spark」利用料を約95%割引へ",
-  "OpenAI「GPT-6 Astra」公開、サイバー最高評価のなぜ",
   "Apple時価総額720兆円のクックCEO退任、新体制の課題とは",
   "Ouraが株式公開へ動く、スマートリング市場の行方は",
   "トッテナム、VMware移行でライセンス費用85%削減のなぜ",
@@ -4001,6 +3997,10 @@
   "台風26号が沖縄に接近へ、関東などは前線で雨",
   "国連が訴えるホルムズ海峡封鎖と食料危機回避への道",
   "小林製薬株がストップ高配分、非上場化検討の報道で年初来高値更新",
-  "四国電力社長、子会社社員転落死で「適切な調査へ指導」"
+  "四国電力社長、子会社社員転落死で「適切な調査へ指導」",
+  "「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え",
+  "「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1",
+  "ビル・ゲイツ氏「AIで10億人死亡の事態も」、政府による監視を訴え",
+  "Handshake AI Research：AI家庭教師は人間の専門家と同等か"
  ]
 }
