@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.nikkei.com/article/DGXZQOUA050VT0V00C26A8000000/",
-  "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
   "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
   "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoWDV6YmQwNklVSjNXcEFyYXFEZU1kYkRNdkVsMzlibVl3R0JlbE9ERjhpVDVQTjFzYUlwX2lQNXdCdkJEa003ZWVNTlVWZTY0dXJsMVI1cFQwTkZHTUVxeUw5X04tUQ?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260926de52569",
   "https://news.web.nhk/newsweb/na/nd-20260925de52307",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RHFHZi1mTkJqM3BHd19EWENEaEJQU2thLUVPVXBZNDJpa1FfaHJueHhXM3F6cTZ3c29aeVVpb1hwZkV0THd4Wk43QU1MeHFrZTBtT2Y3c3N1YjlYRWtXdkFWM1NBLXpEOVMxTA?oc=5",
-  "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+  "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+  "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
+  "https://note.com/blue_pen5805/n/nb124b104c28b"
  ],
  "titles": [
-  "インフレで「黙って我慢していればいい」時代は終わった（藤野英人） - 日本経済新聞",
-  "日経平均10万円でも持たぬ者は残酷に？インフレ時代の真実",
-  "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-  "OpenAI、AIエージェントによる独wiki乗っ取りを認め開示強化へ",
   "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
   "ChatGPT登場後のウェブサイト3分の1にAIの痕跡",
   "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
@@ -4001,6 +3997,10 @@
   "楽天グループの株価が年初来安値 金利上昇で財務負担懸念 - 日本経済新聞",
   "楽天グループ株が年初来安値、金利上昇が負担に",
   "Can Cloudflare CEO Matthew Prince save the web from AI?",
-  "CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは"
+  "CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは",
+  "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
+  "【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805",
+  "ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威",
+  "Google AI Proは月額2,900円でお得か検証"
  ]
 }

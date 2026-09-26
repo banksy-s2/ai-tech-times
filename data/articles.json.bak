@@ -108996,5 +108996,44 @@
   "date": "2026-09-26",
   "time": "23:00",
   "path": "/articles/20260926-rakuten-group-shares-hit-year-to-date-low.html"
+ },
+ {
+  "title": "CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは",
+  "lead": "米メディアのポッドキャスト番組にて、インターネットの未来とビジネスの転換点について議論が行われました。",
+  "summary3": [
+   "CloudflareのCEOが登場",
+   "ビジネスの未来について議論",
+   "インターネットの転換点に迫る"
+  ],
+  "body": [
+   "AI TECH TIMESのニュースをお伝えします。米メディア「The Verge AI」のポッドキャスト番組において、インターネットの未来とビジネスの転換点について特集が組まれました。",
+   "番組では、CloudflareのCEOを務めるマシュー・プリンス氏が出演しました。プリンス氏が同番組に登場するのは、約2年半ぶりとなります。",
+   "インターネットが大きな転換点を迎えている中、同氏がビジネスの未来やAIに関する現状についてどのように語るのか、注目が集まっています。"
+  ],
+  "tags": [
+   "Cloudflare",
+   "AI",
+   "ビジネス"
+  ],
+  "slug": "cloudflare-ceo-matthew-prince-save-web-ai",
+  "people": [
+   {
+    "name": "マシュー・プリンス",
+    "bio": "インターネットインフラ企業Cloudflareの最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Cloudflare",
+    "type": "company",
+    "desc": "アメリカに本社を置き、ウェブセキュリティやCDNなどのインフラサービスを提供する企業。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+  "category": "ai",
+  "date": "2026-09-27",
+  "time": "00:04",
+  "path": "/articles/20260927-cloudflare-ceo-matthew-prince-save-web-ai.html"
  }
 ]

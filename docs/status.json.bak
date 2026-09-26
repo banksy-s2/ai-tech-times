@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-26 23:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-27 00:05",
+ "mode": "軽量便(AI(海外))",
  "articles": [
   {
-   "title": "楽天グループ株が年初来安値、金利上昇が負担に",
-   "path": "/articles/20260926-rakuten-group-shares-hit-year-to-date-low.html",
-   "cat": "株式投資(日本)"
+   "title": "CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは",
+   "path": "/articles/20260927-cloudflare-ceo-matthew-prince-save-web-ai.html",
+   "cat": "AI(海外)"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Meta’s Muse just stole the AI spotlight "
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 157,
+  "used": 4,
   "limit": 200
  }
 }

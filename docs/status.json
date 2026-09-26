@@ -1,23 +1,26 @@
 {
- "updated": "2026-09-27 00:05",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-27 01:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは",
-   "path": "/articles/20260927-cloudflare-ceo-matthew-prince-save-web-ai.html",
-   "cat": "AI(海外)"
+   "title": "ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威",
+   "path": "/articles/20260927-dark-sourcery-ai-cyber-attack.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Google AI Proは月額2,900円でお得か検証",
+   "path": "/articles/20260927-google-ai-pro-subscription-value-verification.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "執筆失敗: Meta’s Muse just stole the AI spotlight "
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 4,
+  "used": 8,
   "limit": 200
  }
 }
