@@ -109643,5 +109643,93 @@
   "date": "2026-09-27",
   "time": "07:02",
   "path": "/articles/20260927-aeon-reit-fy2026-q2-dpu-revision.html"
+ },
+ {
+  "title": "MetaのMuse、OpenAIとAnthropicを圧倒した理由とは",
+  "lead": "米Metaの個人AIエージェント「Muse」が、OpenAIやAnthropicの新モデル発表ラッシュの最中で大きな注目を集めています。",
+  "summary3": [
+   "AnthropicがOpus 5.5を発表",
+   "OpenAIが90分後にGPT-6を更新",
+   "MetaのMuseがAIの主役を奪う"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部。OpenAIやAnthropicのAIリーダーたちが「フロンティアのペース」について語り始めていた頃、それは各社によるモデル発表ウィークへと発展しました。",
+   "AnthropicがOpus 5.5をロールアウトしたのに続き、そのわずか90分後にはOpenAIがGPT-6モデルのアップデートを実施しました。しかし、この激しい競争の中で話題をさらったのはMetaでした。",
+   "Metaが展開する個人AIエージェント「Muse」は、ChatGPTの初期の数値を上回る勢いで普及を見せていると報じられており、AI業界の勢力図に大きな変化をもたらしています。"
+  ],
+  "tags": [
+   "Meta",
+   "OpenAI",
+   "Anthropic"
+  ],
+  "slug": "meta-muse-steals-ai-spotlight",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営するアメリカの大手ソーシャルメディア企業。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "ChatGPTなどを開発するアメリカの人工知能の研究開発企業。"
+   },
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "安全性と研究に注力するアメリカの人工知能スタートアップ企業。"
+   },
+   {
+    "name": "ChatGPT",
+    "type": "ai",
+    "desc": "OpenAIが開発した対話型の生成AIモデルおよびサービス。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+  "category": "ai",
+  "date": "2026-09-27",
+  "time": "08:00",
+  "path": "/articles/20260927-meta-muse-steals-ai-spotlight.html"
+ },
+ {
+  "title": "MetaがAIアプリ「Muse」を強力にプッシュする理由",
+  "lead": "「Muse」がアプリストアのランキングで首位を獲得し、急速にユーザーを増やしていることを受け、Metaが自社アプリなどでのプロモーションを強化しています。",
+  "summary3": [
+   "AIアプリ「Muse」が人気急上昇",
+   "アプリストアランキングで首位を獲得",
+   "Metaが自社アプリ等でプロモーション強化"
+  ],
+  "body": [
+   "AIアプリ「Muse」が、アプリストアのランキングで首位を獲得し、急速なペースでユーザーを増やしていることが明らかになりました。手軽に利用できる個人向けAIエージェントとして、多くの注目を集めています。",
+   "この急速な普及と人気の上昇を受け、Facebookなどを運営するMetaは、自社の提供する各種アプリをはじめとする様々な場所で「Muse」のプロモーションを積極的に展開しています。",
+   "Metaが自社のリソースを投じて強力なバックアップを行うことで、「Muse」の勢いはさらに加速することが予想されます。今後の展開から目が離せません。"
+  ],
+  "tags": [
+   "Meta",
+   "Muse",
+   "AIアプリ"
+  ],
+  "slug": "meta-puts-muscle-behind-muse-ai-app",
+  "people": [],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "FacebookやInstagramなどを運営する、アメリカの巨大ソーシャルメディア企業です。"
+   },
+   {
+    "name": "Muse",
+    "type": "ai",
+    "desc": "急速にユーザーを増やしている、アプリストアで人気の個人向けAIエージェントアプリです。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+  "category": "ai",
+  "date": "2026-09-27",
+  "time": "08:00",
+  "path": "/articles/20260927-meta-puts-muscle-behind-muse-ai-app.html"
  }
 ]

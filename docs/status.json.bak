@@ -1,10 +1,50 @@
 {
- "updated": "2026-09-27 06:01",
- "mode": "軽量便(日本企業)",
+ "updated": "2026-09-27 07:02",
+ "mode": "フル便",
  "articles": [
   {
-   "title": "ダイナムが160台の店でクレーンゲームに参入した理由",
-   "path": "/articles/20260927-dynam-crane-game-entry.html",
+   "title": "OpenAI、最強モデルの学習を一時停止",
+   "path": "/articles/20260927-openai-pauses-training-of-most-capable-models.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "Blue Cross、AIで医療費9億4200万ドル増の理由",
+   "path": "/articles/20260927-insurers-claim-ai-increasing-healthcare-costs.html",
+   "cat": "AI(海外)"
+  },
+  {
+   "title": "米中、AIインシデント用「連絡窓口」設置合意のなぜ",
+   "path": "/articles/20260927-us-china-ai-incident-hotline.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "日本経済新聞：AIボットのアクセス急増で広告指標の信頼性が揺らぐ",
+   "path": "/articles/20260927-ai-bot-access-surge-advertising-metrics.html",
+   "cat": "日本のAI"
+  },
+  {
+   "title": "Blue Cross Blue Shieldが告発、病院のAI導入で医療費が9億4200万ドル増加",
+   "path": "/articles/20260927-blue-cross-blue-shield-ai-healthcare-costs.html",
+   "cat": "シリコンバレー最速"
+  },
+  {
+   "title": "登録者226万YouTuber夫婦が銀行口座の残高公開",
+   "path": "/articles/20260927-youtuber-couple-bank-balance.html",
+   "cat": "インフルエンサー"
+  },
+  {
+   "title": "気象庁、熊本・佐賀・長崎に線状降水帯直前予測を発表",
+   "path": "/articles/20260927-linear-rain-band-forecast-kumamoto-saga-nagasaki.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "アンソロピック訴訟で米控訴裁が政権支持、リスク指定の行方は",
+   "path": "/articles/20260927-anthropic-court-ruling-trump.html",
+   "cat": "時事・世界"
+  },
+  {
+   "title": "イオンリート投資法人、DPU予想3,050円へ下方修正",
+   "path": "/articles/20260927-aeon-reit-fy2026-q2-dpu-revision.html",
    "cat": "日本企業"
   }
  ],
@@ -12,10 +52,14 @@
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Apple hit with $5.7 billion in damages o",
+  "執筆失敗: トップは3億円を突破…！｢1人当たり営業利益｣をドーンと稼いでいる企業ランキング",
+  "X告知失敗: 401 Unauthorized\nUnauthorized"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 30,
+  "used": 55,
   "limit": 200
  }
 }

@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>MetaのMuse、OpenAIとAnthropicを圧倒した理由とは</title>
+<link>https://ai-tech-times.web.app/articles/20260927-meta-muse-steals-ai-spotlight.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-meta-muse-steals-ai-spotlight.html</guid>
+<pubDate>Sun, 27 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>米Metaの個人AIエージェント「Muse」が、OpenAIやAnthropicの新モデル発表ラッシュの最中で大きな注目を集めています。</description>
+</item>
+<item>
+<title>MetaがAIアプリ「Muse」を強力にプッシュする理由</title>
+<link>https://ai-tech-times.web.app/articles/20260927-meta-puts-muscle-behind-muse-ai-app.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-meta-puts-muscle-behind-muse-ai-app.html</guid>
+<pubDate>Sun, 27 Sep 2026 08:00:00 +0900</pubDate>
+<category>AI(海外)</category>
+<description>「Muse」がアプリストアのランキングで首位を獲得し、急速にユーザーを増やしていることを受け、Metaが自社アプリなどでのプロモーションを強化しています。</description>
+</item>
+<item>
 <title>OpenAI、最強モデルの学習を一時停止</title>
 <link>https://ai-tech-times.web.app/articles/20260927-openai-pauses-training-of-most-capable-models.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260927-openai-pauses-training-of-most-capable-models.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
 <category>時事・世界</category>
 <description>アメリカのホワイトハウスは、トランプ大統領と中国の習近平国家主席による首脳会談の成果文書を発表しました。安全性が議論されているAIをめぐる合意内容に注目が集まっています。</description>
-</item>
-<item>
-<title>米国住宅ローン金利が7%超え、購入負担はなぜ増すのか</title>
-<link>https://ai-tech-times.web.app/articles/20260926-us-mortgage-rates-exceed-7-percent.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-us-mortgage-rates-exceed-7-percent.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカで住宅ローン金利の上昇が続き、30年固定型が去年1月以来となる7%台に達しました。住宅価格の高止まりも相まって、購入者の負担増加が深刻な問題となっています。</description>
-</item>
-<item>
-<title>日経平均6万6364円で850円高、5日連続上昇の背景</title>
-<link>https://ai-tech-times.web.app/articles/20260926-nikkei-average-rises-850-yen.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-nikkei-average-rises-850-yen.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>株式投資(日本)</category>
-<description>日経平均株価の終値は前日比850円高の6万6364円となり、5営業日連続で上昇しました。</description>
 </item>
 </channel></rss>
