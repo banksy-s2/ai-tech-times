@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-27 02:01 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-27 03:00 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [YouTubeの表現規制、「死」や「薬」などの伏せ字が不健全な理由](https://ai-tech-times.web.app/articles/20260927-youtube-content-moderation-death-drug.html) — 2026-09-27 03:00: YouTubeにおける「死」や「薬」といった言葉への規制が、配信動画で執拗な伏せ字を生んでいるとして議論を呼んでいます。
 - [中国製AIモデル、世界で利用急増しワシントンが警戒](https://ai-tech-times.web.app/articles/20260927-chinese-ai-models-surge-global-popularity.html) — 2026-09-27 02:01: 世界中の企業における中国製AIモデルの利用が2026年に大幅に増加し、米国政府内で懸念が高まっています。グローバル市場での動向と背景をお伝えします。
 - [中国が4.5分で70%充電を実現、米国のEV充電速度が遅れる理由](https://ai-tech-times.web.app/articles/20260927-china-ev-charging-speed-lfp.html) — 2026-09-27 02:01: 中国が新たに開発したLFPバッテリーにより、EVの充電速度が驚異的な領域に達しました。米国が取り残される背景には、充電性能の圧倒的な差が存在します。
 - [ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威](https://ai-tech-times.web.app/articles/20260927-dark-sourcery-ai-cyber-attack.html) — 2026-09-27 01:00: ChatGPTやGeminiなどのAIチャットボットの出力を汚染し、ユーザーを詐欺へ導く新たなサイバー攻撃「Dark Sourcery」が報告されました。
@@ -41,12 +42,11 @@
 - [ユポ、利益率倍増へ値上げ拒否顧客は撤退の理由](https://ai-tech-times.web.app/articles/20260926-yupo-high-profitability-strategy.html) — 2026-09-26 21:05: 国内シェア70％を誇る合成紙大手のユポが、2030年までに利益率を倍増させる中期経営計画を策定しました。原材料高騰の中での高収益化戦略に迫ります。
 - [宇推くりあが「ラブライブ！」Liella!と並び立つ、JAXAコラボイラストで共演](https://ai-tech-times.web.app/articles/20260926-usui-clea-liella-jaxa-collab.html) — 2026-09-26 20:02: ロケット工学VTuberの宇推くりあが、「ラブライブ！」のグループLiella!と並び立つJAXAコラボイラストでの共演を果たしました。
 - [テスラ、人型ロボット「Optimus」量産で製造上の課題に直面](https://ai-tech-times.web.app/articles/20260926-tesla-optimus-production-issues.html) — 2026-09-26 19:01: 米メディアの報道によると、電気自動車大手のテスラが開発する人型ロボット「Optimus」の週2万台という目標達成に向けた製造過程で、様々な課題が生じていることが明らかになりました。
-- [ビル・ゲイツ氏「AIで10億人死亡の事態も」、政府による監視を訴え](https://ai-tech-times.web.app/articles/20260926-gates-warns-ai-could-cause-billions-deaths.html) — 2026-09-26 18:01: 米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は10億人の死者を出すような事態を引き起こせるほど強力だと警告しました。悪意ある人間との組み合わせによる脅威を防ぐため、政府による規制強化を訴えています。
 
 ## 世界のバズ動画TOP3 (2026-09-27)
 - 1位: [BTS (방탄소년단) ‘Merry Go Round’ Official MV](https://www.youtube.com/watch?v=eJXL4-4m5nY)
-- 2位: [アニメ「コードギアス 星追いのアスパル」ティザーPV｜Official Teaser Trailer "CODE GEASS Star Chaser Aspal"](https://www.youtube.com/watch?v=j6cQAaNYYeA)
-- 3位: [Taylor Swift - Cleveland! (Official Lyric Video)](https://www.youtube.com/watch?v=jfVVXYTZykw)
+- 2位: [Taylor Swift - Cleveland! (Official Lyric Video)](https://www.youtube.com/watch?v=jfVVXYTZykw)
+- 3位: [Clayface | Final Trailer](https://www.youtube.com/watch?v=KCR-rz0YfD4)
 
 ## AI用語事典 (全1801語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
@@ -74,10 +74,10 @@
 - [高市総理大臣とは](https://ai-tech-times.web.app/term/%E9%AB%98%E5%B8%82%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3.html): 日本の内閣総理大臣であり、自民党の総裁として政権運営や重要政策の舵取りを行っている政治家。
 - [NECとは](https://ai-tech-times.web.app/term/nec.html): 東京都港区に本社を置く、通信機器やコンピュータなどの製造・ITサービスを手がける日本の大手電機メーカー。
 - [FRBとは](https://ai-tech-times.web.app/term/frb.html): 米国の金融政策を決定する中央銀行制度であり、金利の調整などを通じて経済や金融市場に大きな影響を与えています。
+- [YouTubeとは](https://ai-tech-times.web.app/term/youtube.html): Googleが提供する世界最大の動画共有プラットフォームで、多様な動画コンテンツが配信されている。
 - [Alphabetとは](https://ai-tech-times.web.app/term/alphabet.html): アメリカ合衆国に本社を置き、検索エンジンやインターネット関連のサービスを手がけるグーグルなどを傘下に持つ持株会社。
 - [ソフトバンクとは](https://ai-tech-times.web.app/term/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF.html): 日本の大手通信・インターネット事業者であり、国内外のテクノロジー企業やAI分野へ大規模な投資を行うことで知られる。
 - [東洋経済オンラインとは](https://ai-tech-times.web.app/term/%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3.html): 経済ニュースや企業情報などを配信する日本の大手オンラインメディアであり、東洋経済新報社が運営しています。
-- [YouTubeとは](https://ai-tech-times.web.app/term/youtube.html): Googleが提供する世界最大の動画共有プラットフォームで、多様な動画コンテンツが配信されている。
 - [TechCrunch AIとは](https://ai-tech-times.web.app/term/techcrunch-ai.html): アメリカの著名テクノロジーメディアであるTechCrunchが運営する、人工知能に特化した専門ニュースセクションです。
 
 ## 主要ページ

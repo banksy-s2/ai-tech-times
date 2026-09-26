@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-  "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoWDV6YmQwNklVSjNXcEFyYXFEZU1kYkRNdkVsMzlibVl3R0JlbE9ERjhpVDVQTjFzYUlwX2lQNXdCdkJEa003ZWVNTlVWZTY0dXJsMVI1cFQwTkZHTUVxeUw5X04tUQ?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015198971000",
   "https://news.web.nhk/newsweb/na/na-k10015198781000",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RHFHZi1mTkJqM3BHd19EWENEaEJQU2thLUVPVXBZNDJpa1FfaHJueHhXM3F6cTZ3c29aeVVpb1hwZkV0THd4Wk43QU1MeHFrZTBtT2Y3c3N1YjlYRWtXdkFWM1NBLXpEOVMxTA?oc=5",
   "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
   "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/",
-  "https://note.com/blue_pen5805/n/nb124b104c28b"
+  "https://note.com/blue_pen5805/n/nb124b104c28b",
+  "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+  "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/"
  ],
  "titles": [
-  "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
-  "ChatGPT登場後のウェブサイト3分の1にAIの痕跡",
-  "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-  "Tesla’s Cybercab has been deployed, and it’s already under investigation",
   "OpenAIやGoogleが新AIを連発する裏で「モデル疲労」が起きる理由",
   "テスラ製サイバーキャブ、配備直後に安全基準で米政府の調査対象へ",
   "8月末の外貨準備高は12兆円余減少 市場介入で減少幅最大",
@@ -4001,6 +3997,10 @@
   "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
   "【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805",
   "ChatGPTなどが偽連絡先を出力するDarkSourceryの脅威",
-  "Google AI Proは月額2,900円でお得か検証"
+  "Google AI Proは月額2,900円でお得か検証",
+  "Chinese AI models surge in global popularity — and Washington is worried",
+  "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+  "中国製AIモデル、世界で利用急増しワシントンが警戒",
+  "中国が4.5分で70%充電を実現、米国のEV充電速度が遅れる理由"
  ]
 }
