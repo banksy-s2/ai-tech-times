@@ -8321,7 +8321,7 @@
    "id": "eJXL4-4m5nY",
    "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
    "channel": "BANGTANTV",
-   "views": 3245969,
+   "views": 3371296,
    "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY",
    "thumb": "https://i.ytimg.com/vi/eJXL4-4m5nY/hqdefault.jpg",
    "regions": [
@@ -8338,7 +8338,7 @@
    "id": "nzNYomSd5Ls",
    "title": "The Rescue | Official Trailer (2027 Movie) - Brandon Sklenar, Josh Lucas, Hassie Harrison",
    "channel": "Paramount Pictures",
-   "views": 7365697,
+   "views": 7403052,
    "url": "https://www.youtube.com/watch?v=nzNYomSd5Ls",
    "thumb": "https://i.ytimg.com/vi/nzNYomSd5Ls/hqdefault.jpg",
    "regions": [
@@ -8352,7 +8352,7 @@
    "id": "KCR-rz0YfD4",
    "title": "Clayface | Final Trailer",
    "channel": "Warner Bros.",
-   "views": 6934403,
+   "views": 7069099,
    "url": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
    "thumb": "https://i.ytimg.com/vi/KCR-rz0YfD4/hqdefault.jpg",
    "regions": [
@@ -8363,24 +8363,10 @@
   },
   {
    "rank": 4,
-   "id": "bhKKR5He_Fo",
-   "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
-   "channel": "Lionsgate Movies",
-   "views": 5598084,
-   "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
-   "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ジョニー・デップら出演の映画公式ティーザー"
-  },
-  {
-   "rank": 5,
    "id": "Pd1yGW_g2T8",
    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
    "channel": "Karan Aujla",
-   "views": 5553577,
+   "views": 5749883,
    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
    "thumb": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
    "regions": [
@@ -8390,11 +8376,25 @@
    "comment": "カラン・アウジラの新曲ミュージックビデオ。(20文字)"
   },
   {
+   "rank": 5,
+   "id": "bhKKR5He_Fo",
+   "title": "Day Drinker (2027) Official Teaser – Johnny Depp, Madelyn Cline, and Penélope Cruz",
+   "channel": "Lionsgate Movies",
+   "views": 5658806,
+   "url": "https://www.youtube.com/watch?v=bhKKR5He_Fo",
+   "thumb": "https://i.ytimg.com/vi/bhKKR5He_Fo/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ジョニー・デップら出演の映画公式ティーザー"
+  },
+  {
    "rank": 6,
    "id": "Kbak6x1krqA",
    "title": "Playing TAG with my Friends is Always Terrifying",
    "channel": "SMii7Y",
-   "views": 1467460,
+   "views": 1531595,
    "url": "https://www.youtube.com/watch?v=Kbak6x1krqA",
    "thumb": "https://i.ytimg.com/vi/Kbak6x1krqA/hqdefault.jpg",
    "regions": [
@@ -8405,24 +8405,10 @@
   },
   {
    "rank": 7,
-   "id": "lg8H3BS2Fdk",
-   "title": "DAY DRINKER Official Trailer (2027) Johnny Depp",
-   "channel": "ONE Media",
-   "views": 1351222,
-   "url": "https://www.youtube.com/watch?v=lg8H3BS2Fdk",
-   "thumb": "https://i.ytimg.com/vi/lg8H3BS2Fdk/hqdefault.jpg",
-   "regions": [
-    "US",
-    "GB"
-   ],
-   "comment": "ジョニー・デップ出演映画の公式予告編ようですね。"
-  },
-  {
-   "rank": 8,
    "id": "j6cQAaNYYeA",
    "title": "アニメ「コードギアス 星追いのアスパル」ティザーPV｜Official Teaser Trailer \"CODE GEASS Star Chaser Aspal\"",
    "channel": "コードギアスチャンネル CODEGEASS Channel",
-   "views": 1250920,
+   "views": 1380306,
    "url": "https://www.youtube.com/watch?v=j6cQAaNYYeA",
    "thumb": "https://i.ytimg.com/vi/j6cQAaNYYeA/hqdefault.jpg",
    "regions": [
@@ -8432,11 +8418,25 @@
    "comment": "コードギアス新作「星追いのアスパル」のティザーPVが公開されたようです。"
   },
   {
+   "rank": 8,
+   "id": "lg8H3BS2Fdk",
+   "title": "DAY DRINKER Official Trailer (2027) Johnny Depp",
+   "channel": "ONE Media",
+   "views": 1360604,
+   "url": "https://www.youtube.com/watch?v=lg8H3BS2Fdk",
+   "thumb": "https://i.ytimg.com/vi/lg8H3BS2Fdk/hqdefault.jpg",
+   "regions": [
+    "US",
+    "GB"
+   ],
+   "comment": "ジョニー・デップ出演映画の公式予告編ようですね。"
+  },
+  {
    "rank": 9,
    "id": "jfVVXYTZykw",
    "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
    "channel": "Taylor Swift",
-   "views": 842160,
+   "views": 915760,
    "url": "https://www.youtube.com/watch?v=jfVVXYTZykw",
    "thumb": "https://i.ytimg.com/vi/jfVVXYTZykw/hqdefault.jpg",
    "regions": [
@@ -8450,7 +8450,7 @@
    "id": "RoBabfioVF8",
    "title": "The Hunt for Minecraft’s Strongest Item",
    "channel": "MinuteTech",
-   "views": 807473,
+   "views": 892063,
    "url": "https://www.youtube.com/watch?v=RoBabfioVF8",
    "thumb": "https://i.ytimg.com/vi/RoBabfioVF8/hqdefault.jpg",
    "regions": [

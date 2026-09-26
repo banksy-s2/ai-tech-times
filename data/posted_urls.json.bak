@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
   "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0SjFTeXJFNkNDc0NGM0Yya1RpOS04OGFtVV9JUk9ISURoYUJJQTRaUHlKMVprOTN2MFRObk5pTEFMbzJsSjRFeA?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015198791000",
@@ -1999,11 +1998,10 @@
   "https://news.web.nhk/newsweb/na/nd-20260925de52433",
   "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
   "https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/",
-  "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
+  "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RRDVHOFFHdGpzRnkwWmVraVdlUmJuU2xBYkxCV3ltMG1SNGp2amxXejhPbmoxWExXdll6VklfcmRQY2hYVnNZUw?oc=5"
  ],
  "titles": [
-  "トッテナム、VMware移行でライセンス費用85%削減のなぜ",
-  "来年度予算案の概算要求は過去最大の143兆656億円、総額が膨らんだ理由とは",
   "フォルクスワーゲン、2030年までに5万人の追加削減を承認",
   "三井不動産とNTTドコモが資本業務提携、不動産と通信の融合で何をもたらすのか",
   "Hikers rescued after using Google Gemini for planning",
@@ -4001,6 +3999,8 @@
   "ビル・ゲイツ氏「AIで10億人死亡の事態も」、政府による監視を訴え",
   "Handshake AI Research：AI家庭教師は人間の専門家と同等か",
   "Tesla&#8217;s Optimus robot is going through growing pains",
-  "テスラ、人型ロボット「Optimus」量産で製造上の課題に直面"
+  "テスラ、人型ロボット「Optimus」量産で製造上の課題に直面",
+  "ロケット工学VTuber宇推くりあが「ラブライブ！」Liella!と並び立つ JAXAコラボイラストで共演 - KAI-YOU",
+  "宇推くりあが「ラブライブ！」Liella!と並び立つ、JAXAコラボイラストで共演"
  ]
 }
