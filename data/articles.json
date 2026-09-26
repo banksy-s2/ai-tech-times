@@ -107755,5 +107755,83 @@
   "date": "2026-09-26",
   "time": "09:00",
   "path": "/articles/20260926-helpfeel-gyazo-data-leak.html"
+ },
+ {
+  "title": "Automattic、CEO解任失敗の混乱を経て新ボード体制へ",
+  "lead": "WordPress.comなどを手掛けるAutomattic社で、CEOを休職させようとする試みが失敗に終わり、激しい社内混乱の末に新しい取締役会が発足しました。",
+  "summary3": [
+   "AutomatticでCEO休職の動きが失敗",
+   "数日間にわたる激しい社内混乱が発生",
+   "混乱を経て同社に新しい取締役会が誕生"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がTechCrunchの報道に基づきお伝えします。WordPress.comなどのサービスで知られるAutomattic社において、数日間にわたる激しい社内の混乱が発生しました。この混乱は、マット・マレンウェグCEOを解任または休職させようとした試みが失敗に終わったことに起因するものです。",
+   "一連の騒動と混乱を経て、同社には新しい取締役会が設置されることとなりました。経営陣を巡る動きや今後のガバナンス体制がどのように変化していくのか、業界内外から注目が集まっています。",
+   "同社はウェブの基盤を支える重要な企業であり、今回の体制刷新が今後の事業運営やサービスにどのような影響を及ぼすのか、引き続き動向が注視されます。"
+  ],
+  "tags": [
+   "Automattic",
+   "WordPress",
+   "海外ニュース"
+  ],
+  "slug": "automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o",
+  "people": [
+   {
+    "name": "マット・マレンウェグ",
+    "bio": "Automattic社の最高経営責任者（CEO）であり、ブログプラットフォームWordPressの共同創設者。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Automattic",
+    "type": "company",
+    "desc": "アメリカの企業で、ブログ作成ツールWordPress.comの開発・運営などを手掛けるIT企業。"
+   },
+   {
+    "name": "TechCrunch",
+    "type": "company",
+    "desc": "アメリカの著名なテクノロジー分野のニュースおよびメディアサイト。新興企業やIT動向を専門に報じる。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+  "category": "silicon",
+  "date": "2026-09-26",
+  "time": "10:01",
+  "path": "/articles/20260926-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o.html"
+ },
+ {
+  "title": "トランプ政権のAI医療保険審査で高齢者の請求が拒否される理由",
+  "lead": "トランプ政権が導入した医療保険の請求審査におけるAI活用について、海外メディアのArs Technicaが報じました。AIベンダーには請求をできる限り拒否するインセンティブが存在するという実験的な運用が、高齢者に深刻な影響を与えています。",
+  "summary3": [
+   "トランプ政権が医療保険の審査にAIを導入",
+   "ベンダーには多くの請求を拒否する動機がある",
+   "高齢者への医療ケアに悪影響を及ぼす懸念"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がArs Technicaの報道を伝えます。トランプ政権下において、高齢者向けの医療ケアの請求審査にAIが導入され、 disastrous（悲惨な）実験が行われていることが明らかになりました。",
+   "記事によると、医療保険の請求処理を行うためにAIをロールアウトしているベンダー側には、「できる限り多くの請求を拒否するインセンティブ」が存在しているとのことです。これにより、本来受けられるべき医療ケアがAIによって不当に拒否される事態が生じています。",
+   "医療の現場や保険制度におけるAIの自動化は効率化が期待される一方で、人間の判断が介在しないことによるリスクが指摘されています。今回の実験的な試みが高齢者の医療アクセスにどのような結果をもたらすのか、引き続き動向が注目されます。"
+  ],
+  "tags": [
+   "医療AI",
+   "トランプ政権",
+   "高齢者医療"
+  ],
+  "slug": "trump-admin-ai-medical-care-seniors",
+  "people": [],
+  "terms": [
+   {
+    "name": "Ars Technica",
+    "type": "company",
+    "desc": "米国の著名なテクノロジー系ニュースメディア。専門性の高い科学やIT分野の報道で広く知られています。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+  "category": "silicon",
+  "date": "2026-09-26",
+  "time": "10:01",
+  "path": "/articles/20260926-trump-admin-ai-medical-care-seniors.html"
  }
 ]
