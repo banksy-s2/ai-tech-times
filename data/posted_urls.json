@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iemhPN2ZpbVVjYURVc3JtdnE4Ym11eWw5RGp5ZGJjaEhuX3FpVlBnamc5X05fSWVDLXpXcW5HcGlWU3dLRnRHNUZGZWZrbk1iaVpSaVdZMUFJN1ZHN0pJ?oc=5",
   "https://www.gizmodo.jp/article/resume_hacks_targeting_ai/",
   "https://gigazine.net/news/20260807-deepseek-raise-prices/",
   "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
@@ -1999,11 +1998,10 @@
   "https://posfie.com/@kalofollow/p/UCQNHLQ",
   "https://news.web.nhk/newsweb/na/nd-20260926de52568",
   "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGVGN0WTFpT0hLNHJPYjdxSGktRmk1UDZHeGNDb2NkV3RXTXRxekNRc0tEUzBNTW5Gak44ZENXZXJfS3FZOU9fTG8wbUp1bi1kT0lZcDFaTVJyVzVlSXJhOGhYN3owbUFVRXN1Rg?oc=5"
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGVGN0WTFpT0hLNHJPYjdxSGktRmk1UDZHeGNDb2NkV3RXTXRxekNRc0tEUzBNTW5Gak44ZENXZXJfS3FZOU9fTG8wbUp1bi1kT0lZcDFaTVJyVzVlSXJhOGhYN3owbUFVRXN1Rg?oc=5",
+  "https://www.itmedia.co.jp/business/articles/2609/26/news005.html"
  ],
  "titles": [
-  "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-  "Authors push back as publishers and agents make claims on Anthropic settlement",
   "OpenAIとマイクロソフト、米新聞2社から著作権侵害で提訴",
   "Anthropic和解金を巡り著者と出版社が対立、正当な分配を主張",
   "Travis Kalanick’s Atoms might be getting into the robotaxi business",
@@ -4001,6 +3999,8 @@
   "イラン外相のホルムズ海峡開放提案をトランプ大統領が拒否",
   "ブラジルのルラ氏、オンラインギャンブルを全面禁止へ",
   "個人マネー「貯蓄から国債」に 国内銀行株、薄れる金利高の恩恵 - 日本経済新聞",
-  "日本経済新聞：個人マネー「貯蓄から国債」に 銀行株への影響は"
+  "日本経済新聞：個人マネー「貯蓄から国債」に 銀行株への影響は",
+  "パチンコのダイナムがクレーンゲームに参入　160台の店で分かった「意外な客層」",
+  "ダイナムが160台の店でクレーンゲームに参入した理由"
  ]
 }

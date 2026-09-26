@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-27 04:01",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-27 05:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "イラン外相のホルムズ海峡開放提案をトランプ大統領が拒否",
-   "path": "/articles/20260927-iran-hormuz-strait-trump-rejection.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "ブラジルのルラ氏、オンラインギャンブルを全面禁止へ",
-   "path": "/articles/20260927-brazil-lula-bans-online-gambling.html",
-   "cat": "時事・世界"
+   "title": "日本経済新聞：個人マネー「貯蓄から国債」に 銀行株への影響は",
+   "path": "/articles/20260927-personal-money-savings-to-jgb-bank-stocks.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 22,
+  "used": 26,
   "limit": 200
  }
 }
