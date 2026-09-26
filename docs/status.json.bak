@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-26 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-26 10:06",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "Microsoft、「Copilot」刷新で仕事のOS化を狙う理由",
-   "path": "/articles/20260926-microsoft-copilot-renewal.html",
-   "cat": "日本のAI"
+   "title": "Automattic、CEO解任失敗の混乱を経て新ボード体制へ",
+   "path": "/articles/20260926-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由",
-   "path": "/articles/20260926-helpfeel-gyazo-data-leak.html",
-   "cat": "日本のAI"
+   "title": "トランプ政権のAI医療保険審査で高齢者の請求が拒否される理由",
+   "path": "/articles/20260926-trump-admin-ai-medical-care-seniors.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 66,
+  "used": 71,
   "limit": 200
  }
 }

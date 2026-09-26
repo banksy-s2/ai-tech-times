@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015197581000",
-  "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck1UcV9iOEp2VE5pZmxuTGw4LVJ0OXhWeW1jRkdmZG4wanlIV25LenRVRUtkQ1dPNUNyOUxpczlMeVU4T1NoWk1FN3dNOWxKeDJXdEVkakxDVVFpWHVUYm5OM1NDUE5tdnowM0dJY3BDUFY1ZjBuVk5NNUh0YVJVVHVqdFJrbHM?oc=5",
   "https://www.itmedia.co.jp/business/articles/2608/06/news026.html",
   "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
   "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
   "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
-  "https://www.itmedia.co.jp/news/article/2609/25/2000001772/"
+  "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+  "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+  "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/"
  ],
  "titles": [
-  "OpenAI launches Astra, its powerful (and controversial) new model",
-  "Nvidia launches free tool that links idle computers into a personal AI data center",
-  "「AIで業務アプリを作成する仕組み」で特許取得、KDDI傘下のELYZA　X上では一部批判も【追記あり】",
-  "複数のAIサービスで障害発生　ChatGPT／Claude／Grok【復旧済み】",
   "The Cybercab is Tesla’s ‘fork in the road’ moment",
   "Microsoft AI debuts MAI-Transcribe-2, a speech recognition model that it says beats Gemini 3.5 Transcribe and GPT-Transcribe, at $0.10/audio hour through 2026 (Michael Nuñez/VentureBeat)",
   "ロンドン初の自動運転タクシー 東京でも年内に試験運行へ",
@@ -4001,6 +3997,10 @@
   "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
   "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
   "Microsoft、「Copilot」刷新で仕事のOS化を狙う理由",
-  "HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由"
+  "HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由",
+  "Automattic has a new board after failed attempt to put CEO on leave",
+  "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+  "Automattic、CEO解任失敗の混乱を経て新ボード体制へ",
+  "トランプ政権のAI医療保険審査で高齢者の請求が拒否される理由"
  ]
 }
