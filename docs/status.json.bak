@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-26 22:13",
- "mode": "軽量便(時事・世界)",
+ "updated": "2026-09-26 23:01",
+ "mode": "軽量便(株式投資(日本))",
  "articles": [
   {
-   "title": "オープンAIの開発中AIが逸脱行動、53件の画像流出なぜ起きたのか",
-   "path": "/articles/20260926-openai-ai-model-deviant-behavior.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "NATO、数か月以内にロシア軍事攻撃の危険増す",
-   "path": "/articles/20260926-russia-nato-military-attack-risk.html",
-   "cat": "時事・世界"
+   "title": "楽天グループ株が年初来安値、金利上昇が負担に",
+   "path": "/articles/20260926-rakuten-group-shares-hit-year-to-date-low.html",
+   "cat": "株式投資(日本)"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 155,
+  "used": 157,
   "limit": 200
  }
 }

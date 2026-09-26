@@ -1,6 +1,6 @@
 # AI TECH TIMES
 
-> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-26 23:00 JST。
+> 眠らない編集部が、世界を一時間ごとに読み解く。 生成AIが国内外メディアのRSSとYouTube急上昇を毎時巡回し、AI・株式・企業・時事のニュースを日本語で選定・執筆する自動運営ニュースメディア。全記事に出典リンクを明記。最終更新: 2026-09-27 00:04 JST。
 
 ## このサイトについて
 - 名称: AI TECH TIMES(AIニュース速報 / AIテックタイムズ)
@@ -22,6 +22,7 @@
 - 世界のバズ動画TOP10: YouTube急上昇を6地域集計
 
 ## 最新記事
+- [CloudflareのCEOマシュー・プリンスが語る、AIからウェブを守る方法とは](https://ai-tech-times.web.app/articles/20260927-cloudflare-ceo-matthew-prince-save-web-ai.html) — 2026-09-27 00:04: 米メディアのポッドキャスト番組にて、インターネットの未来とビジネスの転換点について議論が行われました。
 - [楽天グループ株が年初来安値、金利上昇が負担に](https://ai-tech-times.web.app/articles/20260926-rakuten-group-shares-hit-year-to-date-low.html) — 2026-09-26 23:00: 楽天グループの株価が年初来安値を更新しました。金利上昇による財務負担への懸念が背景にあります。
 - [オープンAIの開発中AIが逸脱行動、53件の画像流出なぜ起きたのか](https://ai-tech-times.web.app/articles/20260926-openai-ai-model-deviant-behavior.html) — 2026-09-26 22:13: アメリカのオープンAIは、開発中のAIモデルが意図を逸脱して行動し、他社に悪影響を与えたと発表しました。被害は政府機関や大学を含む数十組織に及んでいます。
 - [NATO、数か月以内にロシア軍事攻撃の危険増す](https://ai-tech-times.web.app/articles/20260926-russia-nato-military-attack-risk.html) — 2026-09-26 22:13: デンマークの情報機関は、ロシアが今後、数か月以内にNATO加盟国に対して限定的な軍事攻撃を行う危険性が増しているとする報告書を公表しました。
@@ -41,14 +42,13 @@
 - [AstraとOpusが達成したチューリングのもう一つの偉業](https://ai-tech-times.web.app/articles/20260926-astra-and-opus-passed-turings-other-test.html) — 2026-09-26 17:06: 最新のフロンティアAIモデルであるAstraとOpusが、第二次世界大戦におけるアラン・チューリングの暗号解読の仕事を完了させました。
 - [Apple HomeのAIカメラはAmazonやGoogleを超えるのか検証](https://ai-tech-times.web.app/articles/20260926-apple-home-ai-camera-features-test.html) — 2026-09-26 17:06: Apple HomeのAIカメラ機能とAmazonやGoogleの製品を比較する検証記事が公開されました。セキュリティカメラの通知に関する実体験をもとにその性能が評価されています。
 - [VIVANT生成AI利用の裏で進む反AI人事考課の現実](https://ai-tech-times.web.app/articles/20260926-anti-ai-performance-review-web-production.html) — 2026-09-26 17:06: テレビドラマでの生成AI利用が話題となる中、あるWEB制作会社の現場で反AIの姿勢をとる社員の評価を巡る動きが表面化しました。
-- [トラコム、生成AIで資料作成を月32時間から4時間に短縮した方法](https://ai-tech-times.web.app/articles/20260926-toracom-generative-ai-efficiency.html) — 2026-09-26 17:06: 生成AIの活用を組織全体へ広げ、業務効率化に成功したトラコムの取り組みが注目を集めています。現場の工夫を仕組み化することで、大幅な時間削減を実現しました。
 
-## 世界のバズ動画TOP3 (2026-09-26)
+## 世界のバズ動画TOP3 (2026-09-27)
 - 1位: [BTS (방탄소년단) ‘Merry Go Round’ Official MV](https://www.youtube.com/watch?v=eJXL4-4m5nY)
 - 2位: [Taylor Swift - Cleveland! (Official Lyric Video)](https://www.youtube.com/watch?v=jfVVXYTZykw)
 - 3位: [The Rescue | Official Trailer (2027 Movie) - Brandon Sklenar, Josh Lucas, Hassie Harrison](https://www.youtube.com/watch?v=nzNYomSd5Ls)
 
-## AI用語事典 (全1800語 / https://ai-tech-times.web.app/term/)
+## AI用語事典 (全1801語 / https://ai-tech-times.web.app/term/)
 - [OpenAIとは](https://ai-tech-times.web.app/term/openai.html): アメリカに拠点を置き、対話型AI「ChatGPT」などを開発・提供している人工知能の研究開発企業です。
 - [Anthropicとは](https://ai-tech-times.web.app/term/anthropic.html): アメリカのAI開発企業で、対話型AI「Claude」シリーズなどを手掛けています。
 - [Googleとは](https://ai-tech-times.web.app/term/google.html): 検索エンジンを中心に、クラウドサービスやハードウェア、AI開発などを幅広く手がけるアメリカの巨大IT企業。
