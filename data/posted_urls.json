@@ -1,6 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/business/articles/2608/06/news026.html",
   "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
   "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
   "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
@@ -1999,11 +1998,10 @@
   "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
   "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
   "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-  "http://pandora11.com/blog-entry-5870.html"
+  "http://pandora11.com/blog-entry-5870.html",
+  "https://news.web.nhk/newsweb/na/nd-20260926de52549"
  ],
  "titles": [
-  "ロンドン初の自動運転タクシー 東京でも年内に試験運行へ",
-  "店長年収「最大2000万円」の効果は？　丸亀製麺・トリドールが増収も大幅減益となった背景",
   "OpenAIの新モデルAstra、ブラウザ操作の未来を変える理由",
   "Nvidia、遊休PCをつなぐ無料AIツール「PAIR」公開の理由",
   "ELYZA、AI業務アプリ作成で特許取得もXで議論呼ぶ",
@@ -4001,6 +3999,8 @@
   "Automattic、CEO解任失敗の混乱を経て新ボード体制へ",
   "トランプ政権のAI医療保険審査で高齢者の請求が拒否される理由",
   "海外「もう日本の一人勝ちじゃんｗ」 レディー・ガガさん、日本のことだけ特別扱いし過ぎだと話題に",
-  "レディー・ガガ、ファミマのCMで働く理由はなぜか"
+  "レディー・ガガ、ファミマのCMで働く理由はなぜか",
+  "国民年金保険料 子が１歳まで両親ともに免除へ 自営業など対象",
+  "国民年金保険料、子が1歳まで両親ともに免除へ"
  ]
 }

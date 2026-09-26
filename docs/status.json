@@ -1,21 +1,23 @@
 {
- "updated": "2026-09-26 11:00",
- "mode": "軽量便(インフルエンサー)",
+ "updated": "2026-09-26 13:01",
+ "mode": "軽量便(時事・世界)",
  "articles": [
   {
-   "title": "レディー・ガガ、ファミマのCMで働く理由はなぜか",
-   "path": "/articles/20260926-lady-gaga-familymart-cm.html",
-   "cat": "インフルエンサー"
+   "title": "国民年金保険料、子が1歳まで両親ともに免除へ",
+   "path": "/articles/20260926-national-pension-exemption-for-parents.html",
+   "cat": "時事・世界"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: US backs Elon Musk's bid to overturn €12"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 74,
+  "used": 80,
   "limit": 200
  }
 }

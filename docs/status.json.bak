@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-26 10:06",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-26 11:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "Automattic、CEO解任失敗の混乱を経て新ボード体制へ",
-   "path": "/articles/20260926-automattic-has-a-new-board-after-failed-attempt-to-put-ceo-o.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "トランプ政権のAI医療保険審査で高齢者の請求が拒否される理由",
-   "path": "/articles/20260926-trump-admin-ai-medical-care-seniors.html",
-   "cat": "シリコンバレー最速"
+   "title": "レディー・ガガ、ファミマのCMで働く理由はなぜか",
+   "path": "/articles/20260926-lady-gaga-familymart-cm.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 71,
+  "used": 74,
   "limit": 200
  }
 }
