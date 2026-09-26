@@ -1,73 +1,26 @@
 {
- "updated": "2026-09-26 17:07",
- "mode": "フル便",
+ "updated": "2026-09-26 18:01",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "AstraとOpusが達成したチューリングのもう一つの偉業",
-   "path": "/articles/20260926-astra-and-opus-passed-turings-other-test.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "Apple HomeのAIカメラはAmazonやGoogleを超えるのか検証",
-   "path": "/articles/20260926-apple-home-ai-camera-features-test.html",
-   "cat": "AI(海外)"
-  },
-  {
-   "title": "VIVANT生成AI利用の裏で進む反AI人事考課の現実",
-   "path": "/articles/20260926-anti-ai-performance-review-web-production.html",
+   "title": "ビル・ゲイツ氏「AIで10億人死亡の事態も」、政府による監視を訴え",
+   "path": "/articles/20260926-gates-warns-ai-could-cause-billions-deaths.html",
    "cat": "日本のAI"
   },
   {
-   "title": "トラコム、生成AIで資料作成を月32時間から4時間に短縮した方法",
-   "path": "/articles/20260926-toracom-generative-ai-efficiency.html",
+   "title": "Handshake AI Research：AI家庭教師は人間の専門家と同等か",
+   "path": "/articles/20260926-ai-tutor-human-gre-cost.html",
    "cat": "日本のAI"
-  },
-  {
-   "title": "トランプ政権、Anthropicのブラックリスト入りを裁判所が支持",
-   "path": "/articles/20260926-court-rules-trump-can-blacklist-anthropic.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "MetaがOpenAIを先行、ザッカーバーグの新端末戦略",
-   "path": "/articles/20260926-meta-consumer-ai-device-market-openai-zuckerberg.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "韓国の「大食い」YouTube収益化停止から日本が警戒すべき理由",
-   "path": "/articles/20260926-korea-youtube-eating-show-monetization.html",
-   "cat": "インフルエンサー"
-  },
-  {
-   "title": "台風26号が沖縄に接近へ、関東などは前線で雨",
-   "path": "/articles/20260926-typhoon-number-26-approaching-okinawa.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "国連が訴えるホルムズ海峡封鎖と食料危機回避への道",
-   "path": "/articles/20260926-hormuz-strait-food-crisis-un.html",
-   "cat": "時事・世界"
-  },
-  {
-   "title": "小林製薬株がストップ高配分、非上場化検討の報道で年初来高値更新",
-   "path": "/articles/20260926-kobayashi-pharmaceutical-stock-high.html",
-   "cat": "株式投資(日本)"
-  },
-  {
-   "title": "四国電力社長、子会社社員転落死で「適切な調査へ指導」",
-   "path": "/articles/20260926-shikoku-denryoku-president-investigation.html",
-   "cat": "日本企業"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [
-  "X告知失敗: 401 Unauthorized\nUnauthorized"
- ],
+ "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 114,
+  "used": 119,
   "limit": 200
  }
 }

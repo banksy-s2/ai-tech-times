@@ -108526,5 +108526,39 @@
   "date": "2026-09-26",
   "time": "18:01",
   "path": "/articles/20260926-ai-tutor-human-gre-cost.html"
+ },
+ {
+  "title": "テスラ、人型ロボット「Optimus」量産で製造上の課題に直面",
+  "lead": "米メディアの報道によると、電気自動車大手のテスラが開発する人型ロボット「Optimus」の週2万台という目標達成に向けた製造過程で、様々な課題が生じていることが明らかになりました。",
+  "summary3": [
+   "週2万台の目標達成に苦戦",
+   "先月の生産は週数百台規模",
+   "生産ラインの転用が原因か"
+  ],
+  "body": [
+   "AI TECH TIMESが海外メディア「The Verge」の報道として伝えたところによると、電気自動車大手のテスラが進める人型ロボット「Optimus」の製造において、目標としている週2万台の生産台数を達成することが非常に困難な状況となっています。",
+   "テスラは今年に入り、これまで「Model S」や「Model X」を製造していた生産ラインを「Optimus」向けに転用しました。その結果、先月時点での生産台数は「週に数百台」の規模にとどまっていると「The Information」が報じています。",
+   "しかし、既存の生産ラインを転用したことが仇となり、現在では製造上の様々なトラブルや障害が発生する原因になっているとのことです。今後の生産体制の立て直しや課題の解決に向けて、同社の動向に注目が集まっています。"
+  ],
+  "tags": [
+   "Tesla",
+   "Optimus",
+   "ロボット"
+  ],
+  "slug": "tesla-optimus-production-issues",
+  "people": [],
+  "terms": [
+   {
+    "name": "テスラ",
+    "type": "company",
+    "desc": "アメリカに本拠を置く、電気自動車やクリーンエネルギー製品の開発・製造を手がける企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+  "category": "silicon",
+  "date": "2026-09-26",
+  "time": "19:01",
+  "path": "/articles/20260926-tesla-optimus-production-issues.html"
  }
 ]

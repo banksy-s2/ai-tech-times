@@ -1,26 +1,23 @@
 {
- "updated": "2026-09-26 18:01",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-26 19:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "ビル・ゲイツ氏「AIで10億人死亡の事態も」、政府による監視を訴え",
-   "path": "/articles/20260926-gates-warns-ai-could-cause-billions-deaths.html",
-   "cat": "日本のAI"
-  },
-  {
-   "title": "Handshake AI Research：AI家庭教師は人間の専門家と同等か",
-   "path": "/articles/20260926-ai-tutor-human-gre-cost.html",
-   "cat": "日本のAI"
+   "title": "テスラ、人型ロボット「Optimus」量産で製造上の課題に直面",
+   "path": "/articles/20260926-tesla-optimus-production-issues.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
   "title": "BTS (방탄소년단) ‘Merry Go Round’ Official MV",
   "url": "https://www.youtube.com/watch?v=eJXL4-4m5nY"
  },
- "notes": [],
+ "notes": [
+  "執筆失敗: Chinese AI models surge in global popula"
+ ],
  "pv_today": null,
  "gemini": {
-  "used": 119,
+  "used": 124,
   "limit": 200
  }
 }
