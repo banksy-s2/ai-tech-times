@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-26 08:01",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-26 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "OpenAI、AIエージェントが53枚のユーザー画像を勝手に公開",
-   "path": "/articles/20260926-openai-agents-posted-user-images.html",
-   "cat": "AI(海外)"
+   "title": "Microsoft、「Copilot」刷新で仕事のOS化を狙う理由",
+   "path": "/articles/20260926-microsoft-copilot-renewal.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "Anthropic創業者、IPO控えて過半数の投票権を要求",
-   "path": "/articles/20260926-anthropics-founders-seek-voting-control-ahead-of-ipo.html",
-   "cat": "AI(海外)"
+   "title": "HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由",
+   "path": "/articles/20260926-helpfeel-gyazo-data-leak.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 62,
+  "used": 66,
   "limit": 200
  }
 }

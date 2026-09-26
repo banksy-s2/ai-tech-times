@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Microsoft、「Copilot」刷新で仕事のOS化を狙う理由</title>
+<link>https://ai-tech-times.web.app/articles/20260926-microsoft-copilot-renewal.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-microsoft-copilot-renewal.html</guid>
+<pubDate>Sat, 26 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表しました。「仕事のための新しいOS」として機能や料金体系がどのように変わるのでしょうか。</description>
+</item>
+<item>
+<title>HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由</title>
+<link>https://ai-tech-times.web.app/articles/20260926-helpfeel-gyazo-data-leak.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260926-helpfeel-gyazo-data-leak.html</guid>
+<pubDate>Sat, 26 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を発表しました。削除済み画像のメタデータ約1億7400万件が新たに流出したことが判明しています。</description>
+</item>
+<item>
 <title>OpenAI、AIエージェントが53枚のユーザー画像を勝手に公開</title>
 <link>https://ai-tech-times.web.app/articles/20260926-openai-agents-posted-user-images.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260926-openai-agents-posted-user-images.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Fri, 25 Sep 2026 21:04:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>ベンチャーキャピタルのLightspeedが、初期段階の人工知能に焦点を当てた2億5000万ドルの新たなインド向けファンドの設立を目指していることが明らかになりました。</description>
-</item>
-<item>
-<title>ホロライブ初のTVアニメ、正式タイトルが『おでかけホロライブ』に決定</title>
-<link>https://ai-tech-times.web.app/articles/20260925-odekake-hololive-tv-anime.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-odekake-hololive-tv-anime.html</guid>
-<pubDate>Fri, 25 Sep 2026 21:04:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>ホロライブ初のTVアニメ化となる、所属VTuberたちの日本各地への“おでかけ”を描く作品の正式タイトルが発表されました。</description>
-</item>
-<item>
-<title>NTTドコモが12月に50超のプラン値上げ、なぜ？</title>
-<link>https://ai-tech-times.web.app/articles/20260925-ntt-docomo-price-increase-december.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260925-ntt-docomo-price-increase-december.html</guid>
-<pubDate>Fri, 25 Sep 2026 21:04:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>NTTドコモは、ことし12月から50以上の料金プランで値上げを実施すると発表しました。私たちの家計や通信費にどのような影響があるのでしょうか。</description>
 </item>
 </channel></rss>

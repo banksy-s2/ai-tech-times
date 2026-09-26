@@ -107677,5 +107677,83 @@
   "date": "2026-09-26",
   "time": "08:00",
   "path": "/articles/20260926-anthropics-founders-seek-voting-control-ahead-of-ipo.html"
+ },
+ {
+  "title": "Microsoft、「Copilot」刷新で仕事のOS化を狙う理由",
+  "lead": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表しました。「仕事のための新しいOS」として機能や料金体系がどのように変わるのでしょうか。",
+  "summary3": [
+   "「Microsoft Copilot」アプリが大幅刷新",
+   "Home・Code・Autopilotの3タブ構成へ",
+   "利用機能に応じた新料金体系に移行"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによれば、Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表しました。サティア・ナデラCEOはこれを「仕事のための新しいOS」と位置づけています。",
+   "新アプリでは「Home」「Code」「Autopilot」の3タブ構成を採用し、Officeを直接統合します。さらに、自然言語でのアプリ構築機能や、自律的な業務代行エージェントが導入される予定です。",
+   "料金面では、日常機能は月額課金制とし、高度なエージェントや最新モデルについては従量課金制へと移行する方針です。"
+  ],
+  "tags": [
+   "Microsoft",
+   "Copilot",
+   "AI"
+  ],
+  "slug": "microsoft-copilot-renewal",
+  "people": [
+   {
+    "name": "サティア・ナデラ",
+    "bio": "米Microsoftの最高経営責任者（CEO）。クラウド事業の急成長を牽引し、同社をAI分野のリーダーへと導いた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Microsoft",
+    "type": "company",
+    "desc": "アメリカ合衆国に本社を置く世界最大のソフトウェア企業で、WindowsやOfficeなどを開発・提供する。"
+   },
+   {
+    "name": "Microsoft Copilot",
+    "type": "ai",
+    "desc": "Microsoftが提供する生成AIアシスタント。各種オフィス製品やOSに統合され業務を支援する。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+  "category": "ai_jp",
+  "date": "2026-09-26",
+  "time": "09:00",
+  "path": "/articles/20260926-microsoft-copilot-renewal.html"
+ },
+ {
+  "title": "HelpfeelのGyazo、約1.74億件の削除済み画像メタデータ流出の理由",
+  "lead": "AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を発表しました。削除済み画像のメタデータ約1億7400万件が新たに流出したことが判明しています。",
+  "summary3": [
+   "HelpfeelがGyazoの第二報を発表",
+   "約1.74億件の削除済み画像メタデータが流出",
+   "新たな流出の対象は主に202年以降の画像"
+  ],
+  "body": [
+   "AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo（ギャゾー）」への不正アクセスに関する第二報を発表しました。16日の第一報後の調査により、ユーザーが過去に削除した画像のメタデータ約1億7400万件も外部に流出していたことが新たに確認されたとしています。",
+   "今回の新たな流出の対象となっているのは、主に202年以降に削除されたデータのメタデータです。第一報の公開後に追加の調査を進めた結果、今回の大規模なデータ流出の事実が明らかになりました。",
+   "画像共有サービスを利用するユーザーにとって、過去に削除したデータに関する情報の取り扱いは重要な問題です。運営企業による今後の詳細な調査結果や、セキュリティ対策の行方に引き続き注目が集まっています。"
+  ],
+  "tags": [
+   "Gyazo",
+   "Helpfeel",
+   "セキュリティ"
+  ],
+  "slug": "helpfeel-gyazo-data-leak",
+  "people": [],
+  "terms": [
+   {
+    "name": "Helpfeel",
+    "type": "company",
+    "desc": "AIを活用したナレッジ共有サービスなどを手掛ける日本の企業です。"
+   }
+  ],
+  "source": "はてなブックマークIT",
+  "source_url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+  "category": "ai_jp",
+  "date": "2026-09-26",
+  "time": "09:00",
+  "path": "/articles/20260926-helpfeel-gyazo-data-leak.html"
  }
 ]
