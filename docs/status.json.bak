@@ -1,16 +1,11 @@
 {
- "updated": "2026-09-27 02:01",
- "mode": "軽量便(シリコンバレー最速)",
+ "updated": "2026-09-27 03:00",
+ "mode": "軽量便(インフルエンサー)",
  "articles": [
   {
-   "title": "中国製AIモデル、世界で利用急増しワシントンが警戒",
-   "path": "/articles/20260927-chinese-ai-models-surge-global-popularity.html",
-   "cat": "シリコンバレー最速"
-  },
-  {
-   "title": "中国が4.5分で70%充電を実現、米国のEV充電速度が遅れる理由",
-   "path": "/articles/20260927-china-ev-charging-speed-lfp.html",
-   "cat": "シリコンバレー最速"
+   "title": "YouTubeの表現規制、「死」や「薬」などの伏せ字が不健全な理由",
+   "path": "/articles/20260927-youtube-content-moderation-death-drug.html",
+   "cat": "インフルエンサー"
   }
  ],
  "buzz_top": {
@@ -20,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 13,
+  "used": 16,
   "limit": 200
  }
 }
