@@ -107967,5 +107967,80 @@
   "date": "2026-09-26",
   "time": "15:00",
   "path": "/articles/20260926-nidec-black-company-risk.html"
+ },
+ {
+  "title": "Crusoe、12.5億ドルのBoom製タービン導入を撤回",
+  "lead": "AIデータセンター向けに計画されていたBoom Supersonicの定置型発電プラントの導入について、Crusoeが近々の計画から外したことが明らかになりました。",
+  "summary3": [
+   "Crusoeが計画を撤回",
+   "Boom製タービンを利用せず",
+   "AIデータセンター向け発電"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によると、AIデータセンター向けに予定されていた12億5000万ドル規模の計画に大きな変更が生じました。Boom SupersonicのCEOであるブレイク・ショール氏が明かしたところによると、同社の新しい定置型発電プラントは、Crusoeの近々の計画にはもはや含まれていないということです。",
+   "この計画は、AIデータセンターの電力需要を支えるためのものでしたが、今回の発表により、両社の取り組みにおいて方向転換が図られた形となります。データセンターの急増に伴う電力確保の課題が議論される中、今後の動向が注目されます。"
+  ],
+  "tags": [
+   "Crusoe",
+   "Boom Supersonic",
+   "AIデータセンター"
+  ],
+  "slug": "crusoe-abandons-1-25b-boom-turbines-plan",
+  "people": [
+   {
+    "name": "ブレイク・ショール氏",
+    "bio": "超音速旅客機開発を目指す米Boom Supersonicの最高経営責任者（CEO）。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Crusoe",
+    "type": "company",
+    "desc": "AIインフラやデータセンター向けに持続可能なコンピューティング環境を提供する米国の企業。"
+   },
+   {
+    "name": "Boom Supersonic",
+    "type": "company",
+    "desc": "超音速旅客機の開発を手がけ、近年は新たな発電プラント事業などにも取り組む米国の企業。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "16:02",
+  "path": "/articles/20260926-crusoe-abandons-1-25b-boom-turbines-plan.html"
+ },
+ {
+  "title": "Supabase顧客のAIアプリ、個人データが外部に露出する理由",
+  "lead": "AIや「vibe-coded」アプリの設定ミスにより、Supabaseを利用する一部顧客のユーザーデータがウェブ上に広く露出していることが明らかになりました。",
+  "summary3": [
+   "Supabase顧客の一部アプリでデータが露出",
+   "AIや独自手法によるアプリ構築が背景に",
+   "適切な設定やセキュリティ確保が急務"
+  ],
+  "body": [
+   "AI TECH TIMES編集部が報じたところによると、オープンソースのバックエンドサービスであるSupabaseを利用する一部の顧客において、大量のユーザーデータが一般のウェブ上に公に露出している問題が浮き彫りになりました。"
+  ],
+  "tags": [
+   "Supabase",
+   "セキュリティ",
+   "AI開発"
+  ],
+  "slug": "supabase-customers-data-exposure",
+  "people": [],
+  "terms": [
+   {
+    "name": "Supabase",
+    "type": "company",
+    "desc": "データベースや認証機能などのバックエンド機能を提供し、開発を迅速に進められる人気のクラウドプラットフォーム"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "16:02",
+  "path": "/articles/20260926-supabase-customers-data-exposure.html"
  }
 ]

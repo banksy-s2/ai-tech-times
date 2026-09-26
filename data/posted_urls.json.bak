@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
-  "https://www.itmedia.co.jp/business/articles/2608/06/news060.html",
   "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
   "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
   "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
@@ -1999,13 +1997,11 @@
   "http://pandora11.com/blog-entry-5870.html",
   "https://news.web.nhk/newsweb/na/nd-20260926de52549",
   "https://news.web.nhk/newsweb/na/nd-20260925de52509",
-  "https://www.itmedia.co.jp/business/articles/2609/25/news028.html"
+  "https://www.itmedia.co.jp/business/articles/2609/25/news028.html",
+  "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+  "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
  ],
  "titles": [
-  "テスラ、ハンドルとペダルなきサイバーキャブを正式発表へ",
-  "Microsoft AIがMAI-Transcribe-2を発表、音声認識でGemini 3.5やGPT超えを主張し1時",
-  "ウーバー、ロンドンで自動運転タクシー開始！東京でも年内に試験運行へ",
-  "丸亀製麺のトリドール増収も大幅減益、店長年収2000万円の効果とは",
   "Google now lets you chat with Gmail, Docs, and Keep",
   "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
   "Google、Gmailなど会話型音声操作を提供へ",
@@ -4001,6 +3997,10 @@
   "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
   "片山財務相が米長官と会談、円の過小評価を再確認",
   "永守氏「全員やめてくれや！」――なぜ優良企業は“ブラック企業”に変わるのか　「4つの型」から見るニデック不正",
-  "ニデック不正から学ぶ優良企業がブラック化する4つの理由"
+  "ニデック不正から学ぶ優良企業がブラック化する4つの理由",
+  "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+  "Some Supabase customers are publicly exposing reams of people’s data to the web",
+  "Crusoe、12.5億ドルのBoom製タービン導入を撤回",
+  "Supabase顧客のAIアプリ、個人データが外部に露出する理由"
  ]
 }

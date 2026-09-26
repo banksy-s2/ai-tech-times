@@ -108042,5 +108042,411 @@
   "date": "2026-09-26",
   "time": "16:02",
   "path": "/articles/20260926-supabase-customers-data-exposure.html"
+ },
+ {
+  "title": "AstraとOpusが達成したチューリングのもう一つの偉業",
+  "lead": "最新のフロンティアAIモデルであるAstraとOpusが、第二次世界大戦におけるアラン・チューリングの暗号解読の仕事を完了させました。",
+  "summary3": [
+   "AstraとOpusが暗号解読を完了",
+   "アラン・チューリングの業績に関連",
+   "フロンティアAIモデルが偉業を達成"
+  ],
+  "body": [
+   "「AI TECH TIMES」編集部がお伝えします。TechCrunch AIの報道によると、最先端のAIモデルであるAstraとOpusが、歴史的な偉業を成し遂げました。",
+   "今回の成果は、第二次世界大戦中に著名な数学者アラン・チューリングが取り組んでいた暗号解読の仕事を、フロンティアAIモデルが引き継ぎ完遂したというものです。",
+   "AI技術の進化が歴史的な暗号解読の領域にまで到達したことは、今後の技術発展においても大きな意味を持つと言えそうです。"
+  ],
+  "tags": [
+   "AI",
+   "暗号解読",
+   "TechCrunch"
+  ],
+  "slug": "astra-and-opus-passed-turings-other-test",
+  "people": [
+   {
+    "name": "アラン・チューリング",
+    "bio": "イギリスの数学者・暗号解読者で、計算機科学の父と呼ばれる歴史的人物。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Astra",
+    "type": "ai",
+    "desc": "暗号解読の仕事を完了させた最新のフロンティアAIモデル。"
+   },
+   {
+    "name": "Opus",
+    "type": "ai",
+    "desc": "Astraと共にチューリングの暗号解読を引き継いだフロンティアAIモデル。"
+   }
+  ],
+  "source": "TechCrunch AI",
+  "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-astra-and-opus-passed-turings-other-test.html"
+ },
+ {
+  "title": "Apple HomeのAIカメラはAmazonやGoogleを超えるのか検証",
+  "lead": "Apple HomeのAIカメラ機能とAmazonやGoogleの製品を比較する検証記事が公開されました。セキュリティカメラの通知に関する実体験をもとにその性能が評価されています。",
+  "summary3": [
+   "Apple HomeのAIカメラを検証",
+   "AmazonやGoogle製品と比較",
+   "セキュリティ通知機能をテスト"
+  ],
+  "body": [
+   "海外メディア「The Verge AI」にて、Apple HomeのAIカメラ機能がAmazonやGoogleの製品を凌駕できるのかを検証する記事が掲載されました。記事では、ビーチサイドのイースターエッグ探しで子どもたちを見守っていた際の体験が語られています。",
+   "ポケットのスマートフォンが振動し、画面を確認するとセキュリティカメラからの「動作検知」通知が表示されたというエピソードを交えながら、スマートホームにおけるカメラ機能の進化について触れられています。",
+   "日々の生活の中で利用されるセキュリティカメラの通知やAIによる検知機能が、実際の環境でどのように機能するのか、競合他社と比較しながらその実力がテストされました。"
+  ],
+  "tags": [
+   "Apple",
+   "AI",
+   "スマートホーム"
+  ],
+  "slug": "apple-home-ai-camera-features-test",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "アメリカのカリフォルニア州に本拠地を置き、iPhoneやMacなどのハードウェアや関連サービスを展開する世界的な大手IT企業です。"
+   },
+   {
+    "name": "Amazon",
+    "type": "company",
+    "desc": "アメリカを本拠地とし、世界最大級のECサイト運営やクラウドサービス、スマートホームデバイスを手がける大手テクノロジー企業です。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "アメリカを本拠地とし、検索エンジンを主力にOSやクラウド、ハードウェア製品など幅広い事業を展開する世界的な大手IT企業です。"
+   }
+  ],
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+  "category": "ai",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-apple-home-ai-camera-features-test.html"
+ },
+ {
+  "title": "VIVANT生成AI利用の裏で進む反AI人事考課の現実",
+  "lead": "テレビドラマでの生成AI利用が話題となる中、あるWEB制作会社の現場で反AIの姿勢をとる社員の評価を巡る動きが表面化しました。",
+  "summary3": [
+   "VIVANTでの生成AI利用が話題に",
+   "WEB制作会社で反AIの社員が低評価",
+   "新たな給与体系への移行期に直面"
+  ],
+  "body": [
+   "テレビドラマ「VIVANT」で生成AIが使われていた件が一部で議論を呼んでいますが、実際のビジネス現場でも生成AIを巡る動きが出てきています。WEB制作会社のフロントエンドエンジニアチームで課長を務める人物によると、社内では反AIの姿勢をとる社員の処遇を巡る動きがあるということです。",
+   "現在、人事考課の時期を迎えており、他部署の反AIデザイナーに対して非常に低い評価がつけられそうな状況だと明かされています。ちょうど11月から新しい給与体系に変わるタイミングと重なっており、社内の評価基準や姿勢が問われる局面となっています。",
+   "生成AIの活用が進む業界の動向とともに、社内でのスタンスや評価がどのように影響していくのか、今後の展開に注目が集まっています。"
+  ],
+  "tags": [
+   "生成AI",
+   "人事考課",
+   "WEB制作"
+  ],
+  "slug": "anti-ai-performance-review-web-production",
+  "people": [],
+  "terms": [],
+  "source": "はてなブックマークIT",
+  "source_url": "https://anond.hatelabo.jp/20260926101532",
+  "category": "ai_jp",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-anti-ai-performance-review-web-production.html"
+ },
+ {
+  "title": "トラコム、生成AIで資料作成を月32時間から4時間に短縮した方法",
+  "lead": "生成AIの活用を組織全体へ広げ、業務効率化に成功したトラコムの取り組みが注目を集めています。現場の工夫を仕組み化することで、大幅な時間削減を実現しました。",
+  "summary3": [
+   "生成AIの活用を組織全体へ広げる仕組みを構築",
+   "資料作成や月次処理などの業務時間を大幅に削減",
+   "現場の工夫を共有し個人技から組織の力へ転換"
+  ],
+  "body": [
+   "生成AIを導入しても、活用が一部の従業員の“個人技”にとどまれば、効果を組織全体へ広げるのは難しいという課題があります。AI TECH TIMESでは、この課題に直面しながらも成果を上げた企業の事例に注目しました。",
+   "トラコムでは、現場の工夫を仕組み化して共有する取り組みを行いました。その結果、資料作成や月次処理などを効率化し、月28時間の業務時間削減につなげることに成功しています。具体的には、資料作成にかかっていた時間が月32時間から4時間にまで短縮されました。",
+   "このように生成AIの効果を一部の社員にとどめず、組織全体へ広げるためには、現場の知見を共有する仕組みづくりが重要であることが示されています。今後の業務効率化を進める上での大きなヒントとなりそうです。"
+  ],
+  "tags": [
+   "生成AI",
+   "業務効率化",
+   "トラコム"
+  ],
+  "slug": "toracom-generative-ai-efficiency",
+  "people": [],
+  "terms": [
+   {
+    "name": "トラコム",
+    "type": "company",
+    "desc": "企業の業務効率化や生成AI活用において、現場の工夫を仕組み化し大きな時間削減成果を上げた企業です。"
+   }
+  ],
+  "source": "ITmedia AI+",
+  "source_url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001725/",
+  "category": "ai_jp",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-toracom-generative-ai-efficiency.html"
+ },
+ {
+  "title": "トランプ政権、Anthropicのブラックリスト入りを裁判所が支持",
+  "lead": "米国の裁判所は、AIモデルの機能有効化を拒否したAI企業Anthropicをトランプ政権がブラックリストに指定することを認めました。過度に制限されたAIが軍事作戦を失敗させる可能性があると裁判官らは指摘しています。",
+  "summary3": [
+   "裁判所がトランプ政権の判断を支持",
+   "AnthropicがClaude機能の有効化を拒否",
+   "過度な制限が軍事作戦の失敗を招く懸念"
+  ],
+  "body": [
+   "海外のニュースサイト「Ars Technica」の報道によると、AI企業AnthropicがClaudeの機能有効化を拒否したことを受け、トランプ政権が同社をブラックリストに指定することが裁判所によって認められました。この決定により、政府の対応に注目が集まっています。",
+   "裁判所は、「過度に制限されたAIモデル」が運用される場合、軍事作戦の失敗を引き起こす可能性があるとの見解を示しました。安全性を重視するあまり利用制限をかけるAIの仕様が、国家の安全保障や防衛の現場においてリスクとみなされた形です。",
+   "AIの活用範囲や安全性の制限をめぐっては、政府機関とテクノロジー企業の間で議論が続いています。今回の司法判断は、AIの機能制限が国家安全保障に与える影響について、今後の政策や企業の方針に大きな影響を与える可能性があります。"
+  ],
+  "tags": [
+   "Anthropic",
+   "AI規制",
+   "軍事"
+  ],
+  "slug": "court-rules-trump-can-blacklist-anthropic",
+  "people": [],
+  "terms": [
+   {
+    "name": "Anthropic",
+    "type": "company",
+    "desc": "米国の主要な人工知能企業であり、安全性を重視した対話型AIモデルの開発を行っています。"
+   },
+   {
+    "name": "Claude",
+    "type": "ai",
+    "desc": "Anthropicが開発した高度な自然言語処理を行うAIモデルおよびアシスタント製品です。"
+   }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+  "category": "silicon",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-court-rules-trump-can-blacklist-anthropic.html"
+ },
+ {
+  "title": "MetaがOpenAIを先行、ザッカーバーグの新端末戦略",
+  "lead": "Metaのマーク・ザッカーバーグCEOが新型デバイスを発表し、AI分野でOpenAIなどのライバル企業の一歩先を行く狙いを示しました。",
+  "summary3": [
+   "Metaが新型デバイスを発表",
+   "OpenAIやGoogleを先行",
+   "新戦略の成否は未だ不透明"
+  ],
+  "body": [
+   "米CNBC Techによると、Metaのマーク・ザッカーバーグCEOは、新たなAIデバイス「Muse Charm」を発表しました。このデバイスの投入により、AIエージェントやコンシュー向けハードウェアの分野で、OpenAIやGoogleといったライバル企業に対して優位に立つことを目指しています。",
+   "近年、人工知能や対話型AIの技術開発競争が激しさを増す中で、ハードウェアとAIエージェントをどのように融合させるかが各社の大きな課題となっています。Metaが競合に先駆けてコンシュー向けAIデバイス市場に参入したことは、業界の勢力図に大きな影響を与える可能性があります。",
+   "しかし、ザッカーバーグCEOが掲げるこの新たな戦略や「Muse Charm」の市場での成否については、まだ不透明な部分が多く残されています。今後は、ライバル企業であるOpenAIやGoogleの動向も含めて、実際のユーザーからの評価や市場の反応が注目されます。"
+  ],
+  "tags": [
+   "Meta",
+   "OpenAI",
+   "AIデバイス"
+  ],
+  "slug": "meta-consumer-ai-device-market-openai-zuckerberg",
+  "people": [
+   {
+    "name": "マーク・ザッカーバーグ",
+    "bio": "米Metaの最高経営責任者（CEO）であり、世界最大のソーシャルメディア企業を率いる実業家。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "Meta",
+    "type": "company",
+    "desc": "フェイスブックやインスタグラムなどを運営するアメリカの大手IT企業。メタバースやAI開発にも注力する。"
+   },
+   {
+    "name": "OpenAI",
+    "type": "company",
+    "desc": "アメリカの人工知能研究開発企業。対話型AI「ChatGPT」などを開発し、AI業界をリードする存在。"
+   },
+   {
+    "name": "Google",
+    "type": "company",
+    "desc": "検索エンジンを中心に、クラウド、OS、ハードウェア、AI開発など幅広い事業を展開するアメリカの巨大IT企業。"
+   },
+   {
+    "name": "Muse Charm",
+    "type": "ai",
+    "desc": "Metaが開発したとされる新しいコンシュー向けAIデバイス。AIエージェントの活用を想定している。"
+   }
+  ],
+  "source": "CNBC Tech",
+  "source_url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+  "category": "silicon",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-meta-consumer-ai-device-market-openai-zuckerberg.html"
+ },
+ {
+  "title": "韓国の「大食い」YouTube収益化停止から日本が警戒すべき理由",
+  "lead": "韓国で「大食い」を扱うYouTubeチャンネルの収益化が停止された波紋が広がり、日本国内でも警戒感が強まっています。いま改めて考えるべき大食い番組のあり方についてお伝えします。",
+  "summary3": [
+   "韓国で大食い系YouTubeの収益化が停止",
+   "日本国内でも警戒する動きが広がっている",
+   "いま改めて大食い番組のあり方が問われている"
+  ],
+  "body": [
+   "韓国において、「大食い」をテーマにしたYouTubeチャンネルの収益化が停止されるという事態が発生し、大きな波紋を呼んでいます。この動向は海を越えた日本国内のクリエイターや関係者の間でも警戒感を持って受け止められており、大きな注目を集めています。",
+   "これまで多くの視聴者を楽しませてきた大食いコンテンツですが、配信のあり方やコンテンツが社会に与える影響については様々な議論が存在します。今回の韓国での収益化停止措置は、プラットフォーム側の規約や安全面、健康面への配慮に対する姿勢が厳格化している現状を浮き彫りにしました。",
+   "日本国内においても、こうした海外の動向をきっかけとして、今後の大食い番組や動画配信がどのようにあるべきかを見直す機運が高まっています。エンターテインメントとしての楽しさを提供しつつ、コンプライアンスや社会的責任をどう両立していくのか、いま改めて考える時期にきています。"
+  ],
+  "tags": [
+   "YouTube",
+   "大食い",
+   "韓国"
+  ],
+  "slug": "korea-youtube-eating-show-monetization",
+  "people": [],
+  "terms": [
+   {
+    "name": "YouTube",
+    "type": "company",
+    "desc": "Googleが提供する世界最大の動画共有プラットフォームで、多様な動画コンテンツが配信されている。"
+   }
+  ],
+  "source": "Googleニュース: インフルエンサー",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CMDdzUTh2TWtsTlY4cnFkaWJtbWl6TWtyV0lET09LNGxaUEtBcGNDUE4yeXZvQS1ua2dhSzNyTDFfM0pRUXdmaXE0UVRWMFczeURfNHlWbll1NGw2ZVN4ZTdFd082djB4NXpjOW5iN1FiSkVaaVM3NXB0M3hXMzg?oc=5",
+  "category": "influencer",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-korea-youtube-eating-show-monetization.html"
+ },
+ {
+  "title": "台風26号が沖縄に接近へ、関東などは前線で雨",
+  "lead": "沖縄の南にある台風26号が発達しながら北上し、沖縄県に接近する見込みです。沖縄や関東などでは、暴風や大しけ、前線による雨への警戒が呼びかけられています。",
+  "summary3": [
+   "台風26号が発達しながら沖縄へ接近",
+   "沖縄では非常強い風と海上大しけのおそれ",
+   "関東などは前線の影響で雨に注意が必要"
+  ],
+  "body": [
+   "AI TECH TIMESの報道によれば、沖縄の南にある台風26号は、今後発達しながら北上して沖縄県に近づく見込みです。",
+   "沖縄県では27日から非常に強い風が吹き、海上は大しけとなるおそれがあります。高波に警戒するとともに、強風にも十分注意が必要です。",
+   "また、関東などでは前線の影響で雨が降る見込みです。今後の気象情報に注意し、土砂災害などに十分注意してください。"
+  ],
+  "tags": [
+   "台風26号",
+   "沖縄",
+   "気象情報"
+  ],
+  "slug": "typhoon-number-26-approaching-okinawa",
+  "people": [],
+  "terms": [],
+  "source": "NHK 主要ニュース",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260926de52529",
+  "category": "world",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-typhoon-number-26-approaching-okinawa.html"
+ },
+ {
+  "title": "国連が訴えるホルムズ海峡封鎖と食料危機回避への道",
+  "lead": "ホルムズ海峡の事実上の封鎖により世界的な食糧難が懸念される中、国連の責任者がNHKの取材に応じました。",
+  "summary3": [
+   "ホルムズ海峡封鎖で食料危機懸念",
+   "国連が早期解決に向けた対応を訴え",
+   "船舶の通過が危機回避のカギに"
+  ],
+  "body": [
+   "ホルムズ海峡の事実上の封鎖により、各国で肥料の入手が困難になり食糧難が懸念されている問題について、国連の責任者がNHKの取材に応じました。",
+   "取材に対し国連の責任者は、肥料を積んだ船舶が1日5隻から7隻ほど通過するだけでも、人道危機を避けることができると訴えました。",
+   "今後の事態の早期解決と、必要な物資を乗せた船舶の確実な航行確保に向けた国際的な取り組みの行方が注目されています。"
+  ],
+  "tags": [
+   "国際",
+   "食料危機",
+   "国連"
+  ],
+  "slug": "hormuz-strait-food-crisis-un",
+  "people": [],
+  "terms": [],
+  "source": "NHK 国際",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260926de52533",
+  "category": "world",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-hormuz-strait-food-crisis-un.html"
+ },
+ {
+  "title": "小林製薬株がストップ高配分、非上場化検討の報道で年初来高値更新",
+  "lead": "日本経済新聞の報道を受け、小林製薬の株式がストップ高配分となり、年初来高値を更新しました。",
+  "summary3": [
+   "小林製薬株がストップ高配分に",
+   "非上場化検討の報道が背景に",
+   "年初来高値を更新する展開へ"
+  ],
+  "body": [
+   "日本経済新聞の報道によると、小林製薬株がストップ高配分となりました。非上場化の検討が進められているとの報道が材料視された形です。",
+   "この動きを受けて同社の株価は上昇し、年初来高値を更新する展開となりました。市場では非上場化に関する動向に注目が集まっています。",
+   "株式市場における今後の推移や、非上場化に向けた手続きの詳細などについては、引き続き各報道や公式な発表が注視されています。"
+  ],
+  "tags": [
+   "小林製薬",
+   "株式市場",
+   "日本経済新聞"
+  ],
+  "slug": "kobayashi-pharmaceutical-stock-high",
+  "people": [],
+  "terms": [
+   {
+    "name": "小林製薬",
+    "type": "company",
+    "desc": "医薬品や日用品の製造・販売を手がける日本の大手メーカー。大阪市に本社を置く。"
+   }
+  ],
+  "source": "Googleニュース: 日本株・市場",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjallTaG9tYld6VVBFTUd2TElvMHVLTUVsMWdsNU5xWXFnNHpxcFk4S3Rpd3F3Mm1QUE9USmhmdy1Ob2lIVVozZnNxZm9GNy1WLUJnLW1MNU42UVRoRUZTcE0wVFJzSWlMNnpnbQ?oc=5",
+  "category": "stock",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-kobayashi-pharmaceutical-stock-high.html"
+ },
+ {
+  "title": "四国電力社長、子会社社員転落死で「適切な調査へ指導」",
+  "lead": "四国電力の子会社社員が職場で叱責されたなどとする文書を残して死亡した問題を受け、四国電力の宮本喜弘社長が会見を行いました。",
+  "summary3": [
+   "四国電力の子会社社員が死亡",
+   "職場で叱責された文書を残す",
+   "宮本社長が適切な調査を指導"
+  ],
+  "body": [
+   "四国電力の子会社の男性社員が、職場で叱責されたなどとする文書を残して徳島県内の鉄塔から転落し死亡した問題について、四国電力の宮本喜弘社長が25日の会見で言及しました。",
+   "宮本喜弘社長は会見の中で、「原因究明の調査などが適切に行われるよう、しっかりと指導していく」という方針を示しました。",
+   "今回の事案を巡っては、子会社における労働環境や職場での対応について、今後の調査や原因究明の行方に注目が集まっています。"
+  ],
+  "tags": [
+   "四国電力",
+   "労働問題",
+   "企業ガバナンス"
+  ],
+  "slug": "shikoku-denryoku-president-investigation",
+  "people": [
+   {
+    "name": "宮本喜弘社長",
+    "bio": "四国電力の代表取締役社長を務める人物。25日の記者会見で対応を述べた。"
+   }
+  ],
+  "terms": [
+   {
+    "name": "四国電力",
+    "type": "company",
+    "desc": "香川県高松市に本社を置く電気事業者で、四国地方を主な供給区域とする電力会社。"
+   }
+  ],
+  "source": "NHK 経済",
+  "source_url": "https://news.web.nhk/newsweb/na/nd-20260925de52433",
+  "category": "jp_corp",
+  "date": "2026-09-26",
+  "time": "17:06",
+  "path": "/articles/20260926-shikoku-denryoku-president-investigation.html"
  }
 ]
