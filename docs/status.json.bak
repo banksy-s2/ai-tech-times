@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-27 05:01",
- "mode": "軽量便(株式投資(日本))",
+ "updated": "2026-09-27 06:01",
+ "mode": "軽量便(日本企業)",
  "articles": [
   {
-   "title": "日本経済新聞：個人マネー「貯蓄から国債」に 銀行株への影響は",
-   "path": "/articles/20260927-personal-money-savings-to-jgb-bank-stocks.html",
-   "cat": "株式投資(日本)"
+   "title": "ダイナムが160台の店でクレーンゲームに参入した理由",
+   "path": "/articles/20260927-dynam-crane-game-entry.html",
+   "cat": "日本企業"
   }
  ],
  "buzz_top": {
@@ -15,7 +15,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 26,
+  "used": 30,
   "limit": 200
  }
 }
