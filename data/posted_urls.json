@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.web.nhk/newsweb/na/na-k10015198261000",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSENfcDhkU29kRVhJc1QzSGc2TEt3d043ZERUTUFYV3ppX0JtTzhqaFREY1BqeTVfa1ZuNU5RTkFfYjRnVVBvbWdDbVhZS3d5LXZfcTg2NVd6VWxHaG1VMzhPeVl2ZkJGNzRkUnR6LWRYWEE3MF9DdDg1TDdRWjA?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9INzMtN0lDa0FjT1c4anU0MzB0c3RlRk9wNVZ6ZUtBbG5UYmN1N1lJVktKMTRkZ1A2VVdMUThaLUVVVlNLNEhhaWxLY2ZZRGNpclJGeGlvZTFpNmZ6NF9n?oc=5",
   "https://news.web.nhk/newsweb/na/na-k10015199701000",
   "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
@@ -1999,13 +1997,11 @@
   "https://news.web.nhk/newsweb/na/nd-20260926de52577",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdEs4WDNOdFhUT1R5YmdwcmNiTTFUYXFIOV9tdUxZQzB0cVVtMzFqZEFoWWFFNVJRVEQ2X25kU1lONjE1UEQzZXhtbGNoNkZaNG1kOVltelo2TUM0R2dF?oc=5",
   "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-  "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+  "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+  "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+  "https://news.yahoo.co.jp/articles/a67a6d9e0ce30b83eb60670472e2d87b8c90e091"
  ],
  "titles": [
-  "《宮内庁が回答》彬子さまのブータン訪問に「エプスタイン関連人物」が同行のワケ…NHK番組には「放映中止」求める声も（週刊女性PRIME） - Yahoo!ニュース",
-  "NHK番組出演の彬子さま、ブータン訪問に同行した人物とは",
-  "[石川温の「スマホ業界 Watch」] アップルの「Mac」がなぜ今売れる？　金融・航空業界が「手元で動くAI」を選ぶ深い理由",
-  "「Copilot、Word文書まとめて」で社内全滅？　勝手に増殖するAIウイルスで大騒ぎ：895th Lap",
   "DIY plug-in solar gains momentum in the US",
   "An Amazon cargo plane crashed at Miami International Airport",
   "【独自】「脱衣所での撮影許可はしていない」ホテル側が回答〈板野友美の撮影騒動〉浮上した“一般常識”のズレ - ライブドアニュース",
@@ -4001,6 +3997,10 @@
   "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
   "Meta is putting its muscle behind Muse as the AI app takes off",
   "MetaのMuse、OpenAIとAnthropicを圧倒した理由とは",
-  "MetaがAIアプリ「Muse」を強力にプッシュする理由"
+  "MetaがAIアプリ「Muse」を強力にプッシュする理由",
+  "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+  "グーグル、AIエージェント向けPostgreSQL基盤　本番DBに影響なく毎秒300万クエリ（ビジネス＋IT） - Yahoo!ニュース",
+  "NTTドコモ、聞き返すAIで変える顧客対応の謎",
+  "グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由"
  ]
 }

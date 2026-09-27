@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWHZic3hKQVlCRFYyZWRBZk1XTTBMQVFXZE1hbDlLXzNhZWk1TUx6U2JfTHZLcWpieUhPOEQzOHhNWV81NmhXSzU5TmVuaklmb0hsWG1lRk9GMVE?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015199401000",
   "https://news.web.nhk/newsweb/na/na-k10015198261000",
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSENfcDhkU29kRVhJc1QzSGc2TEt3d043ZERUTUFYV3ppX0JtTzhqaFREY1BqeTVfa1ZuNU5RTkFfYjRnVVBvbWdDbVhZS3d5LXZfcTg2NVd6VWxHaG1VMzhPeVl2ZkJGNzRkUnR6LWRYWEE3MF9DdDg1TDdRWjA?oc=5",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9INzMtN0lDa0FjT1c4anU0MzB0c3RlRk9wNVZ6ZUtBbG5UYmN1N1lJVktKMTRkZ1A2VVdMUThaLUVVVlNLNEhhaWxLY2ZZRGNpclJGeGlvZTFpNmZ6NF9n?oc=5",
@@ -1999,13 +1997,11 @@
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaXVSLWFKQ1ZxaHZSbi14b2ZXMUJKbk5nN2Q0TXdpM3VjUFhQY2hnZmI5ZXAzdUxjUUhjZ1AwZlJTUElRenY1dDVDNi0wdU1Damt0Nm5yRzYxbmotWXlDdEJYS3lDR1BIRXdWalBDZy1FZHdldTVMTXB2VFJSN1k?oc=5",
   "https://news.web.nhk/newsweb/na/nd-20260927de52644",
   "https://news.web.nhk/newsweb/na/nd-20260926de52577",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdEs4WDNOdFhUT1R5YmdwcmNiTTFUYXFIOV9tdUxZQzB0cVVtMzFqZEFoWWFFNVJRVEQ2X25kU1lONjE1UEQzZXhtbGNoNkZaNG1kOVltelo2TUM0R2dF?oc=5"
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdEs4WDNOdFhUT1R5YmdwcmNiTTFUYXFIOV9tdUxZQzB0cVVtMzFqZEFoWWFFNVJRVEQ2X25kU1lONjE1UEQzZXhtbGNoNkZaNG1kOVltelo2TUM0R2dF?oc=5",
+  "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+  "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
  ],
  "titles": [
-  "福島県庁がM365 Copilot全庁展開に踏み切った理由",
-  "SamsungとSK Hynix、2028年までに月60万枚増産で中国との差がさらに広がる理由",
-  "Europe has its first commercial orbital rocket",
-  "Isar Aerospace、欧州初の完全民間軌道ロケット発射に成功",
   "《宮内庁が回答》彬子さまのブータン訪問に「エプスタイン関連人物」が同行のワケ…NHK番組には「放映中止」求める声も（週刊女性PRIME） - Yahoo!ニュース",
   "NHK番組出演の彬子さま、ブータン訪問に同行した人物とは",
   "[石川温の「スマホ業界 Watch」] アップルの「Mac」がなぜ今売れる？　金融・航空業界が「手元で動くAI」を選ぶ深い理由",
@@ -4001,6 +3997,10 @@
   "登録者226万YouTuber夫婦が銀行口座の残高公開",
   "気象庁、熊本・佐賀・長崎に線状降水帯直前予測を発表",
   "アンソロピック訴訟で米控訴裁が政権支持、リスク指定の行方は",
-  "イオンリート投資法人、DPU予想3,050円へ下方修正"
+  "イオンリート投資法人、DPU予想3,050円へ下方修正",
+  "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+  "Meta is putting its muscle behind Muse as the AI app takes off",
+  "MetaのMuse、OpenAIとAnthropicを圧倒した理由とは",
+  "MetaがAIアプリ「Muse」を強力にプッシュする理由"
  ]
 }

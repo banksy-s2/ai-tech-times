@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-27 08:00",
- "mode": "軽量便(AI(海外))",
+ "updated": "2026-09-27 09:00",
+ "mode": "軽量便(日本のAI)",
  "articles": [
   {
-   "title": "MetaのMuse、OpenAIとAnthropicを圧倒した理由とは",
-   "path": "/articles/20260927-meta-muse-steals-ai-spotlight.html",
-   "cat": "AI(海外)"
+   "title": "NTTドコモ、聞き返すAIで変える顧客対応の謎",
+   "path": "/articles/20260927-ntt-docomo-ai-customer-support.html",
+   "cat": "日本のAI"
   },
   {
-   "title": "MetaがAIアプリ「Muse」を強力にプッシュする理由",
-   "path": "/articles/20260927-meta-puts-muscle-behind-muse-ai-app.html",
-   "cat": "AI(海外)"
+   "title": "グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由",
+   "path": "/articles/20260927-google-alloydb-postgresql-for-agents.html",
+   "cat": "日本のAI"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 59,
+  "used": 63,
   "limit": 200
  }
 }

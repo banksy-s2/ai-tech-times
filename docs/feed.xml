@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>NTTドコモ、聞き返すAIで変える顧客対応の謎</title>
+<link>https://ai-tech-times.web.app/articles/20260927-ntt-docomo-ai-customer-support.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-ntt-docomo-ai-customer-support.html</guid>
+<pubDate>Sun, 27 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>NTTドコモは、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIの導入を発表しました。生成AIが聞き返すことで、FAQを探す負担を軽減します。</description>
+</item>
+<item>
+<title>グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由</title>
+<link>https://ai-tech-times.web.app/articles/20260927-google-alloydb-postgresql-for-agents.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-google-alloydb-postgresql-for-agents.html</guid>
+<pubDate>Sun, 27 Sep 2026 09:00:00 +0900</pubDate>
+<category>日本のAI</category>
+<description>米グーグル・クラウドは、AlloyDBの新機能としてAIエージェント向け基盤「PostgreSQL for agents」を発表し、プレビュー提供を始めました。</description>
+</item>
+<item>
 <title>MetaのMuse、OpenAIとAnthropicを圧倒した理由とは</title>
 <link>https://ai-tech-times.web.app/articles/20260927-meta-muse-steals-ai-spotlight.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260927-meta-muse-steals-ai-spotlight.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
 <category>シリコンバレー最速</category>
 <description>トランプ政権は、欧州連合（EU）がデジタルサービス法（DSA）違反を理由にXに対して1億2000万ユーロの罰金を科した問題において、イーロン・マスク氏の側につく姿勢を示しました。ワシントンは、ブリュッセルによるこの規制措置が権限の過剰行使であると主張しています。</description>
-</item>
-<item>
-<title>パナソニック、市販カーナビ生産を2027年3月終了へ</title>
-<link>https://ai-tech-times.web.app/articles/20260926-panasonic-ends-car-navigation-production-2027.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-panasonic-ends-car-navigation-production-2027.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>インフルエンサー</category>
-<description>パナソニックは、市販向けカーナビゲーションシステムの生産を2027年3月までに終了すると発表しました。生産終了後もアフターサービスは提供される予定です。</description>
-</item>
-<item>
-<title>トランプ・習近平会談、AIが「SI」に変更された理由</title>
-<link>https://ai-tech-times.web.app/articles/20260926-us-china-summit-ai-changes.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-us-china-summit-ai-changes.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>時事・世界</category>
-<description>アメリカのホワイトハウスは、トランプ大統領と中国の習近平国家主席による首脳会談の成果文書を発表しました。安全性が議論されているAIをめぐる合意内容に注目が集まっています。</description>
 </item>
 </channel></rss>
