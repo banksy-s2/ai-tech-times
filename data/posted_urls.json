@@ -1,7 +1,5 @@
 {
  "urls": [
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9INzMtN0lDa0FjT1c4anU0MzB0c3RlRk9wNVZ6ZUtBbG5UYmN1N1lJVktKMTRkZ1A2VVdMUThaLUVVVlNLNEhhaWxLY2ZZRGNpclJGeGlvZTFpNmZ6NF9n?oc=5",
-  "https://news.web.nhk/newsweb/na/na-k10015199701000",
   "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
   "https://news.web.nhk/newsweb/na/na-k10015199591000",
   "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
@@ -1999,13 +1997,11 @@
   "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
   "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
   "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
-  "https://news.yahoo.co.jp/articles/a67a6d9e0ce30b83eb60670472e2d87b8c90e091"
+  "https://news.yahoo.co.jp/articles/a67a6d9e0ce30b83eb60670472e2d87b8c90e091",
+  "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+  "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/"
  ],
  "titles": [
-  "DIY plug-in solar gains momentum in the US",
-  "An Amazon cargo plane crashed at Miami International Airport",
-  "【独自】「脱衣所での撮影許可はしていない」ホテル側が回答〈板野友美の撮影騒動〉浮上した“一般常識”のズレ - ライブドアニュース",
-  "China to pump $54bn into state banks and insurers to boost economy",
   "日経平均、一時1600円超値上がり 半導体関連や電子部品に買い注文 先週末ＮＹ市場の半導体株高受け - TBS NEWS DIG",
   "【Mitsui O.S.K. Lines FY2026 Q1 決算説明会】経常利益2,250億円へ800億円上方修正——ホルムズ封鎖が代替貿易を生みトンマイル急増 - BigGo ファイナンス",
   "アップルMacはなぜ売れる？金融・航空が手元でAIを選ぶ理由",
@@ -4001,6 +3997,10 @@
   "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
   "グーグル、AIエージェント向けPostgreSQL基盤　本番DBに影響なく毎秒300万クエリ（ビジネス＋IT） - Yahoo!ニュース",
   "NTTドコモ、聞き返すAIで変える顧客対応の謎",
-  "グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由"
+  "グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由",
+  "Apple hit with $5.7 billion in damages over haptic patents",
+  "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+  "Appleに57億ドルの賠償命令、触覚技術特許を侵害か",
+  "Kiteworksがサーバー停止を要請、迫るサイバー攻撃の脅威"
  ]
 }

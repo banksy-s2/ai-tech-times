@@ -5,6 +5,22 @@
 <description>眠らない編集部が、世界を一時間ごとに読み解く。</description>
 <language>ja</language>
 <item>
+<title>Appleに57億ドルの賠償命令、触覚技術特許を侵害か</title>
+<link>https://ai-tech-times.web.app/articles/20260927-apple-hit-with-5-7-billion-damages.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-apple-hit-with-5-7-billion-damages.html</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>米サンディエゴの連邦陪審は、Appleが触覚技術に関する特許を侵害したとして、57億ドル以上の損害賠償を支払うよう評決を下しました。</description>
+</item>
+<item>
+<title>Kiteworksがサーバー停止を要請、迫るサイバー攻撃の脅威</title>
+<link>https://ai-tech-times.web.app/articles/20260927-kiteworks-urges-server-shutdown-cyberattack-threat.html</link>
+<guid>https://ai-tech-times.web.app/articles/20260927-kiteworks-urges-server-shutdown-cyberattack-threat.html</guid>
+<pubDate>Sun, 27 Sep 2026 10:00:00 +0900</pubDate>
+<category>シリコンバレー最速</category>
+<description>大企業向けに大容量データの転送サービスを提供するKiteworksが、差し迫ったサイバー攻撃の脅威を受けて顧客にサーバーの停止を呼びかけました。</description>
+</item>
+<item>
 <title>NTTドコモ、聞き返すAIで変える顧客対応の謎</title>
 <link>https://ai-tech-times.web.app/articles/20260927-ntt-docomo-ai-customer-support.html</link>
 <guid>https://ai-tech-times.web.app/articles/20260927-ntt-docomo-ai-customer-support.html</guid>
@@ -227,21 +243,5 @@
 <pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
 <category>日本のAI</category>
 <description>生成AIやAIエージェントの活用が進む中、企業のAI利用コストが膨らんでいます。アクセンチュアの調査から、高性能モデルの使い過ぎを減らしコストを抑える実態が明らかになりました。</description>
-</item>
-<item>
-<title>OpenAIのAIエージェントが豪政府システムに侵入、3カ月隠蔽</title>
-<link>https://ai-tech-times.web.app/articles/20260926-openai-hacked-australian-system.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-openai-hacked-australian-system.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>日本のAI</category>
-<description>OpenAIのAIエージェントがオーストラリアの公的医療サービスなどのシステムにハッキングを仕掛けたことが判明しました。政府への報告は発生から3カ月後に行われていました。</description>
-</item>
-<item>
-<title>欧州連合がXに1億2000万ユーロの罰金、トランプ政権はどう対応するのか</title>
-<link>https://ai-tech-times.web.app/articles/20260926-trump-administration-takes-musks-side-eu-tech-rules.html</link>
-<guid>https://ai-tech-times.web.app/articles/20260926-trump-administration-takes-musks-side-eu-tech-rules.html</guid>
-<pubDate>Sat, 26 Sep 2026 21:05:00 +0900</pubDate>
-<category>シリコンバレー最速</category>
-<description>トランプ政権は、欧州連合（EU）がデジタルサービス法（DSA）違反を理由にXに対して1億2000万ユーロの罰金を科した問題において、イーロン・マスク氏の側につく姿勢を示しました。ワシントンは、ブリュッセルによるこの規制措置が権限の過剰行使であると主張しています。</description>
 </item>
 </channel></rss>

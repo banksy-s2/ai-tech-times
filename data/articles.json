@@ -109804,5 +109804,78 @@
   "date": "2026-09-27",
   "time": "09:00",
   "path": "/articles/20260927-google-alloydb-postgresql-for-agents.html"
+ },
+ {
+  "title": "Appleに57億ドルの賠償命令、触覚技術特許を侵害か",
+  "lead": "米サンディエゴの連邦陪審は、Appleが触覚技術に関する特許を侵害したとして、57億ドル以上の損害賠償を支払うよう評決を下しました。",
+  "summary3": [
+   "Appleが特許侵害で訴えられた",
+   "賠償金は57億ドル超にのぼる",
+   "触覚トランスデューサー技術が対象"
+  ],
+  "body": [
+   "海外メディア「The Verge」の報道によると、触覚技術を手がけるTactionが2021年にAppleを提訴しました。同社は、Appleが2つの特許を侵害したと主張していました。",
+   "今回の訴訟の中心となったのは、アメリカ特許第10,659,885号および第10,820,117号です。これらはどちらも、ユーザーが振動ベースの触覚を感じられるようにする触覚トランスデューサー技術に関するものです。",
+   "CNBCの報道によれば、サンディエゴの連邦陪審はTaction側の訴えを認め、Appleに対して57億ドルを超える損害賠償の支払いを命じる評決を下しました。"
+  ],
+  "tags": [
+   "Apple",
+   "特許侵害",
+   "裁判"
+  ],
+  "slug": "apple-hit-with-5-7-billion-damages",
+  "people": [],
+  "terms": [
+   {
+    "name": "Apple",
+    "type": "company",
+    "desc": "iPhoneやMacなどを開発・販売する世界的な大手テクノロジー企業です。"
+   },
+   {
+    "name": "Taction",
+    "type": "company",
+    "desc": "振動ベースの触覚技術やトランスデューサー関連の開発を手がける企業です。"
+   }
+  ],
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+  "category": "silicon",
+  "date": "2026-09-27",
+  "time": "10:00",
+  "path": "/articles/20260927-apple-hit-with-5-7-billion-damages.html"
+ },
+ {
+  "title": "Kiteworksがサーバー停止を要請、迫るサイバー攻撃の脅威",
+  "lead": "大企業向けに大容量データの転送サービスを提供するKiteworksが、差し迫ったサイバー攻撃の脅威を受けて顧客にサーバーの停止を呼びかけました。",
+  "summary3": [
+   "Kiteworksがサイバー攻撃の脅威を警告",
+   "法執行機関からの信頼できる情報が発端",
+   "顧客企業に対してサーバー停止を急遽要請"
+  ],
+  "body": [
+   "「AI TECH TIMES」の報道によれば、大容量データのインターネット送受信を可能にするテック大手のKiteworksは、差し迫ったサイバー攻撃に関する「信頼できる脅威」の情報を法執行機関から受け取ったことを明らかにしました。",
+   "これを受けて同社は、サイバー攻撃による被害を未然に防ぐため、顧客企業に対してサーバーを直ちにシャットダウンするよう強く要請しています。攻撃の具体的な詳細や実行される正確な時期については、現時点で明らかにされていません。",
+   "安全を最優先とする今回の異例の要請により、利用企業は迅速な対応を迫られています。セキュリティ上の重大なリスクが懸念される中、今後の状況や同社からのさらなる発表に注目が集まっています。"
+  ],
+  "tags": [
+   "Kiteworks",
+   "サイバーセキュリティ",
+   "サーバー停止"
+  ],
+  "slug": "kiteworks-urges-server-shutdown-cyberattack-threat",
+  "people": [],
+  "terms": [
+   {
+    "name": "Kiteworks",
+    "type": "company",
+    "desc": "企業向けの大容量データ安全転送サービスなどを提供するアメリカのテクノロジー企業。"
+   }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+  "category": "silicon",
+  "date": "2026-09-27",
+  "time": "10:00",
+  "path": "/articles/20260927-kiteworks-urges-server-shutdown-cyberattack-threat.html"
  }
 ]

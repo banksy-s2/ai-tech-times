@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-27 09:00",
- "mode": "軽量便(日本のAI)",
+ "updated": "2026-09-27 10:01",
+ "mode": "軽量便(シリコンバレー最速)",
  "articles": [
   {
-   "title": "NTTドコモ、聞き返すAIで変える顧客対応の謎",
-   "path": "/articles/20260927-ntt-docomo-ai-customer-support.html",
-   "cat": "日本のAI"
+   "title": "Appleに57億ドルの賠償命令、触覚技術特許を侵害か",
+   "path": "/articles/20260927-apple-hit-with-5-7-billion-damages.html",
+   "cat": "シリコンバレー最速"
   },
   {
-   "title": "グーグル毎秒300万クエリの新基盤、本番DB影響なしの理由",
-   "path": "/articles/20260927-google-alloydb-postgresql-for-agents.html",
-   "cat": "日本のAI"
+   "title": "Kiteworksがサーバー停止を要請、迫るサイバー攻撃の脅威",
+   "path": "/articles/20260927-kiteworks-urges-server-shutdown-cyberattack-threat.html",
+   "cat": "シリコンバレー最速"
   }
  ],
  "buzz_top": {
@@ -20,7 +20,7 @@
  "notes": [],
  "pv_today": null,
  "gemini": {
-  "used": 63,
+  "used": 69,
   "limit": 200
  }
 }
